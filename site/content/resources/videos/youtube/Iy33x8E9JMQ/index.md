@@ -9,21 +9,19 @@ ResourceImportSource: Youtube
 videoId: Iy33x8E9JMQ
 source: internal
 url: /resources/videos/:slug
-slug: dogma-versus-empiricism-in-a-consulting-engagement
+slug: dogma-versus-empiricism-in-a-consulting-engagement-Iy33x8E9JMQ
 layout: video
 preview: https://i.ytimg.com/vi/Iy33x8E9JMQ/maxresdefault.jpg
 duration: 48
 isShort: true
 aliases:
-- /resources/dogma-versus-empiricism-in-a-consulting-engagement-2
-- /resources/dogma-versus-empiricism-in-a-consulting-engagement
-- /resources/videos/dogma-versus-empiricism-in-a-consulting-engagement
-- /resources/videos/Iy33x8E9JMQ
 - /resources/Iy33x8E9JMQ
-aliasesFor404:
+- /resources/videos/dogma-versus-empiricism-in-a-consulting-engagement-Iy33x8E9JMQ
+aliasesArchive:
+- /resources/videos/dogma-versus-empiricism-in-a-consulting-engagement
 - /resources/dogma-versus-empiricism-in-a-consulting-engagement-2
 - /resources/dogma-versus-empiricism-in-a-consulting-engagement
-- /resources/videos/dogma-versus-empiricism-in-a-consulting-engagement
+- dogma-versus-empiricism-in-a-consulting-engagement-Iy33x8E9JMQ
 sitemap:
   filename: sitemap.xml
   priority: 0.6

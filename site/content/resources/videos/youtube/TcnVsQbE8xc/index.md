@@ -9,33 +9,32 @@ ResourceImportSource: Youtube
 videoId: TcnVsQbE8xc
 source: internal
 url: /resources/videos/:slug
-slug: reasons-to-do-a-psm-ii-course-in-60-seconds
+slug: reasons-to-do-a-psm-ii-course-in-60-seconds-TcnVsQbE8xc
 layout: video
 preview: https://i.ytimg.com/vi/TcnVsQbE8xc/maxresdefault.jpg
 duration: 50
 isShort: true
 aliases:
-- /resources/reasons-to-do-a-psm-ii-course-in-60-seconds-2
-- /resources/reasons-to-do-a-psm-ii-course-in-60-seconds
-- /resources/videos/reasons-to-do-a-psm-ii-course-in-60-seconds
-- /resources/videos/TcnVsQbE8xc
 - /resources/TcnVsQbE8xc
-aliasesFor404:
+- /resources/videos/reasons-to-do-a-psm-ii-course-in-60-seconds-TcnVsQbE8xc
+aliasesArchive:
+- /resources/videos/reasons-to-do-a-psm-ii-course-in-seconds
+- /resources/videos/reasons-to-do-a-psm-ii-course-in-60-seconds
 - /resources/reasons-to-do-a-psm-ii-course-in-60-seconds-2
 - /resources/reasons-to-do-a-psm-ii-course-in-60-seconds
-- /resources/videos/reasons-to-do-a-psm-ii-course-in-60-seconds
+- reasons-to-do-a-psm-ii-course-in-60-seconds-TcnVsQbE8xc
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Scrum Master
 - People and Process
+- Agile Project Management
 - Software Development
 - Agile Frameworks
-- Agile Project Management
 - Scrum Team
-- Professional Scrum
 - Team Performance
+- Professional Scrum
 resourceTypes:
 - video
 categories:

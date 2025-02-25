@@ -8,17 +8,17 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: IqWvURjrJVs
 url: /resources/videos/:slug
-slug: znaczenie-znajomości-terenu
+slug: znaczenie-znajomoci-terenu
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=IqWvURjrJVs
 aliases:
-- /resources/videos/IqWvURjrJVs
-- /resources/videos/znaczenie-znajomości-terenu
-- /resources/znaczenie-znajomości-terenu
 - /resources/IqWvURjrJVs
-aliasesFor404:
+- /resources/videos/znaczenie-znajomoci-terenu
+aliasesArchive:
+- /resources/videos/znaczenie-znajomoci-terenu
 - /resources/videos/znaczenie-znajomości-terenu
 - /resources/znaczenie-znajomości-terenu
+- znaczenie-znajomoci-terenu
 preview: https://i.ytimg.com/vi/IqWvURjrJVs/maxresdefault.jpg
 duration: 255
 isShort: false
@@ -27,11 +27,11 @@ tags:
 - People and Process
 - Business Agility
 - Organisational Agility
-- Agile Strategy
-- Scrum Product Development
-- Professional Scrum
 - Team Performance
-- Software Development
+- Scrum Product Development
+- Market Adaptability
+- Agile Product Management
+- Agile Strategy
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml

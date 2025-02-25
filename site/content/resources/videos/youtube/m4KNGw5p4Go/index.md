@@ -15,27 +15,27 @@ preview: https://i.ytimg.com/vi/m4KNGw5p4Go/maxresdefault.jpg
 duration: 269
 isShort: false
 aliases:
-- /resources/transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
-- /resources/videos/what-you-will-be-able-to-do-at-the-end-of-the-ppdv-course
-- /resources/videos/m4KNGw5p4Go
-- /resources/what-you-will-be-able-to-do-at-the-end-of-the-ppdv-course
 - /resources/m4KNGw5p4Go
-aliasesFor404:
+- /resources/videos/transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
+- /resources/videos/what-you-will-be-able-to-do-at-the-end-of-the-ppdv-course
+aliasesArchive:
+- /resources/videos/transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
 - /resources/transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
 - /resources/videos/what-you-will-be-able-to-do-at-the-end-of-the-ppdv-course
 - /resources/what-you-will-be-able-to-do-at-the-end-of-the-ppdv-course
+- transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Discovery and Learning
 - Experimentation
-- Product Discovery
 - People and Process
-- Value Delivery
-- Hypothesis Driven Development
-- Product Validation
+- Product Discovery
 - Pragmatic Thinking
+- Product Validation
+- Hypothesis Driven Development
+- Value Delivery
 - Continuous Learning
 - Team Collaboration
 resourceTypes:

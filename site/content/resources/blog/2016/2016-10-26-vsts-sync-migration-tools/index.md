@@ -17,14 +17,14 @@ aliases:
 - /vsts-sync-migration-tools
 - /resources/UjyqYjINUfp
 - /resources/blog/vsts-sync-migration-tools
-aliasesFor404:
-- /vsts-sync-migration-tools
+aliasesArchive:
 - /blog/vsts-sync-migration-tools
+- /vsts-sync-migration-tools
 - /resources/blog/vsts-sync-migration-tools
 tags:
 - Practical Techniques and Tooling
-- Azure DevOps
 - Software Development
+- Azure DevOps
 categories:
 - DevOps
 - Engineering Excellence

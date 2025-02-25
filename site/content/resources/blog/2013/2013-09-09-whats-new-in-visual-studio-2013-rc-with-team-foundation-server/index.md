@@ -19,25 +19,25 @@ aliases:
 - /blog/what's-new-in-visual-studio-2013-and-tfs-2013-rc
 - /resources/_YCdFNYKYcM
 - /resources/blog/whats-new-in-visual-studio-2013-rc-with-team-foundation-server
-aliasesFor404:
-- /whats-new-in-visual-studio-2013-rc-with-team-foundation-server
+aliasesArchive:
 - /blog/whats-new-in-visual-studio-2013-rc-with-team-foundation-server
+- /whats-new-in-visual-studio-2013-rc-with-team-foundation-server
 - /what's-new-in-visual-studio-2013-and-tfs-2013-rc
 - /blog/what's-new-in-visual-studio-2013-and-tfs-2013-rc
 - /resources/blog/whats-new-in-visual-studio-2013-rc-with-team-foundation-server
 tags:
-- Modern Source Control
 - Software Development
-- Collaboration Tools
+- Modern Source Control
 - Practical Techniques and Tooling
-- News and Reviews
 - Application Lifecycle Management
+- Collaboration Tools
+- News and Reviews
 - Azure DevOps
 - Agile Planning Tools
 categories:
 - Scrum
-- Social Technologies
 - DevOps
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-13-13.png
 
 ---

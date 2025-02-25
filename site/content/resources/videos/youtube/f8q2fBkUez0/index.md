@@ -8,16 +8,18 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: f8q2fBkUez0
 url: /resources/videos/:slug
-slug: should-companies-take-money-off-the-table-with-martin-,-michael-,-&-rijon
+slug: empowering-employees-the-crucial-link-between-financial-awareness-and-motivation
 layout: video
 aliases:
-- /resources/videos/f8q2fBkUez0
-- /resources/videos/should-companies-take-money-off-the-table-with-martin-,-michael-,-&-rijon
-- /resources/should-companies-take-money-off-the-table-with-martin-,-michael-,-&-rijon
 - /resources/f8q2fBkUez0
-aliasesFor404:
+- /resources/videos/empowering-employees-the-crucial-link-between-financial-awareness-and-motivation
+- /resources/videos/should-companies-take-money-off-the-table-with-martin-michael-rijon
+aliasesArchive:
+- /resources/videos/empowering-employees-the-crucial-link-between-financial-awareness-and-motivation
 - /resources/videos/should-companies-take-money-off-the-table-with-martin-,-michael-,-&-rijon
 - /resources/should-companies-take-money-off-the-table-with-martin-,-michael-,-&-rijon
+- /resources/videos/should-companies-take-money-off-the-table-with-martin-michael-rijon
+- empowering-employees-the-crucial-link-between-financial-awareness-and-motivation
 preview: https://i.ytimg.com/vi/f8q2fBkUez0/maxresdefault.jpg
 duration: 4859
 isShort: false
@@ -25,8 +27,8 @@ tags:
 - People and Process
 - Decision Making
 - Organisational Change
-- Organisational Physics
 - Sociotechnical Systems
+- Organisational Physics
 sitemap:
   filename: sitemap.xml
   priority: 0.6

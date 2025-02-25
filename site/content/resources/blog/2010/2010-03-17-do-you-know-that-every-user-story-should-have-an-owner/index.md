@@ -19,20 +19,20 @@ aliases:
 - /blog/do-you-know-that-every-user-story-should-have-an-owner-
 - /resources/OOCAnXLzP9r
 - /resources/blog/do-you-know-that-every-user-story-should-have-an-owner
-aliasesFor404:
-- /do-you-know-that-every-user-story-should-have-an-owner
+aliasesArchive:
 - /blog/do-you-know-that-every-user-story-should-have-an-owner
+- /do-you-know-that-every-user-story-should-have-an-owner
 - /do-you-know-that-every-user-story-should-have-an-owner-
 - /blog/do-you-know-that-every-user-story-should-have-an-owner-
 - /resources/blog/do-you-know-that-every-user-story-should-have-an-owner
 tags:
 - Scrum Product Development
 - Scrum Team
-- Team Collaboration
-- Team Performance
-- Software Development
 - People and Process
+- Team Performance
 - Agile Product Management
+- Software Development
+- Team Collaboration
 - Agile Project Management
 - Accountability
 - Pragmatic Thinking

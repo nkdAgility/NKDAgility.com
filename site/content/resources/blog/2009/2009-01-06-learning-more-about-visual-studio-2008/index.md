@@ -17,15 +17,15 @@ aliases:
 - /learning-more-about-visual-studio-2008
 - /resources/DI9tjIOOa_M
 - /resources/blog/learning-more-about-visual-studio-2008
-aliasesFor404:
-- /learning-more-about-visual-studio-2008
+aliasesArchive:
 - /blog/learning-more-about-visual-studio-2008
+- /learning-more-about-visual-studio-2008
 - /resources/blog/learning-more-about-visual-studio-2008
 tags:
 - Discovery and Learning
 - Products and Books
-- Continuous Learning
 - News and Reviews
+- Continuous Learning
 - Software Development
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []

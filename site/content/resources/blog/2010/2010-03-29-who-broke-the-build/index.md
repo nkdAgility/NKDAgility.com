@@ -19,9 +19,9 @@ aliases:
 - /blog/who-broke-the-build-
 - /resources/SVgPQgwftag
 - /resources/blog/who-broke-the-build
-aliasesFor404:
-- /who-broke-the-build
+aliasesArchive:
 - /blog/who-broke-the-build
+- /who-broke-the-build
 - /who-broke-the-build-
 - /blog/who-broke-the-build-
 - /resources/blog/who-broke-the-build
@@ -29,13 +29,13 @@ tags:
 - Windows
 - Code and Complexity
 - Install and Configuration
-- Modern Source Control
 - Practical Techniques and Tooling
-- System Configuration
 - Application Lifecycle Management
+- System Configuration
+- Modern Source Control
 - Software Developers
-- Continuous Delivery
-- Operational Practices
+- Troubleshooting
+- Technical Mastery
 preview: metro-visual-studio-2010-128-link-10-10.png
 categories:
 - DevOps

@@ -19,9 +19,9 @@ aliases:
 - /blog/how-'e'-are-you-
 - /resources/YDrhk8yEGQa
 - /resources/blog/how-e-are-you
-aliasesFor404:
-- /how-e-are-you
+aliasesArchive:
 - /blog/how-e-are-you
+- /how-e-are-you
 - /how-'e'-are-you-
 - /blog/how-'e'-are-you-
 - /resources/blog/how-e-are-you

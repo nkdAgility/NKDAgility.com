@@ -21,9 +21,9 @@ aliases:
 - /how-to-set-and-achieve-effective-sprint-goals
 - /resources/gWfr1oRgAIq
 - /resources/blog/how-to-set-and-achieve-effective-sprint-goals
-aliasesFor404:
-- /how-to-set-and-achieve-effective-sprint-goals
+aliasesArchive:
 - /blog/how-to-set-and-achieve-effective-sprint-goals
+- /how-to-set-and-achieve-effective-sprint-goals
 - /resources/blog/how-to-set-and-achieve-effective-sprint-goals
 tags:
 - Scrum Product Development

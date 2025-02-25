@@ -9,37 +9,37 @@ ResourceImportSource: Youtube
 videoId: WVNiLx3QHLg
 source: internal
 url: /resources/videos/:slug
-slug: why-i-love-heirarchies-of-competence
+slug: why-i-love-heirarchies-of-competence-WVNiLx3QHLg
 layout: video
 preview: https://i.ytimg.com/vi/WVNiLx3QHLg/maxresdefault.jpg
 duration: 57
 isShort: true
 aliases:
-- /resources/why-i-love-heirarchies-of-competence
-- /resources/why-i-love-hierarchies-of-competence-2
-- /resources/videos/why-i-love-hierarchies-of-competence
-- /resources/videos/WVNiLx3QHLg
-- /resources/why-i-love-hierarchies-of-competence
 - /resources/WVNiLx3QHLg
-aliasesFor404:
+- /resources/videos/why-i-love-heirarchies-of-competence-WVNiLx3QHLg
+- /resources/videos/why-i-love-heirarchies-of-competence
+- /resources/videos/why-i-love-hierarchies-of-competence
+aliasesArchive:
+- /resources/videos/why-i-love-heirarchies-of-competence
 - /resources/why-i-love-heirarchies-of-competence
 - /resources/why-i-love-hierarchies-of-competence-2
 - /resources/videos/why-i-love-hierarchies-of-competence
 - /resources/why-i-love-hierarchies-of-competence
+- why-i-love-heirarchies-of-competence-WVNiLx3QHLg
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Decision Making
-- Agile Leadership
 - People and Process
 - Decision Theory
-- Employee Engagement
-- Agile Strategy
-- Sensemaking
+- Agile Leadership
 - Team Performance
+- Team Motivation
+- Employee Engagement
+- Business Agility
 - Organisational Culture
-- Pragmatic Thinking
+- Organisational Change
 resourceTypes:
 - video
 categories:

@@ -17,18 +17,18 @@ aliases:
 - /visual-studio-2008-beta-2-team-explorer
 - /resources/x3OxJIEMgFJ
 - /resources/blog/visual-studio-2008-beta-2-team-explorer
-aliasesFor404:
-- /visual-studio-2008-beta-2-team-explorer
+aliasesArchive:
 - /blog/visual-studio-2008-beta-2-team-explorer
+- /visual-studio-2008-beta-2-team-explorer
 - /resources/blog/visual-studio-2008-beta-2-team-explorer
 tags:
 - Install and Configuration
 - Products and Books
 - Practical Techniques and Tooling
+- Application Lifecycle Management
 - Windows
 - Software Development
 - System Configuration
-- Application Lifecycle Management
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

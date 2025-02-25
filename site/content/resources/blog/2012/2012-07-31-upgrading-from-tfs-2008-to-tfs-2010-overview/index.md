@@ -17,16 +17,16 @@ aliases:
 - /upgrading-from-tfs-2008-to-tfs-2010-overview
 - /resources/sN8_s0-PGBm
 - /resources/blog/upgrading-from-tfs-2008-to-tfs-2010-overview
-aliasesFor404:
-- /upgrading-from-tfs-2008-to-tfs-2010-overview
+aliasesArchive:
 - /blog/upgrading-from-tfs-2008-to-tfs-2010-overview
+- /upgrading-from-tfs-2008-to-tfs-2010-overview
 - /resources/blog/upgrading-from-tfs-2008-to-tfs-2010-overview
 tags:
 - Install and Configuration
-- System Configuration
 - Practical Techniques and Tooling
-- Software Development
+- System Configuration
 - Technical Mastery
+- Software Development
 - Troubleshooting
 categories:
 - Engineering Excellence

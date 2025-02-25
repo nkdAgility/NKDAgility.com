@@ -19,9 +19,9 @@ aliases:
 - /blog/scrum-tapas--scrum-and-continuous-delivery
 - /resources/LoRDIqNuwD-
 - /resources/blog/scrum-tapas-scrum-continuous-delivery
-aliasesFor404:
-- /scrum-tapas-scrum-continuous-delivery
+aliasesArchive:
 - /blog/scrum-tapas-scrum-continuous-delivery
+- /scrum-tapas-scrum-continuous-delivery
 - /scrum-tapas--scrum-and-continuous-delivery
 - /blog/scrum-tapas--scrum-and-continuous-delivery
 - /resources/blog/scrum-tapas-scrum-continuous-delivery

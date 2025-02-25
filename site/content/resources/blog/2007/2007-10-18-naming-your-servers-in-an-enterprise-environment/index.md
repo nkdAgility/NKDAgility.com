@@ -17,9 +17,9 @@ aliases:
 - /naming-your-servers-in-an-enterprise-environment
 - /resources/LahLCH4hO9O
 - /resources/blog/naming-your-servers-in-an-enterprise-environment
-aliasesFor404:
-- /naming-your-servers-in-an-enterprise-environment
+aliasesArchive:
 - /blog/naming-your-servers-in-an-enterprise-environment
+- /naming-your-servers-in-an-enterprise-environment
 - /resources/blog/naming-your-servers-in-an-enterprise-environment
 tags:
 - System Configuration

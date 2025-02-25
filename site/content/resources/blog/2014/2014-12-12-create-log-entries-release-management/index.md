@@ -19,9 +19,9 @@ aliases:
 - /blog/create-log-entries-in-release-management
 - /resources/1jC1jE7shiY
 - /resources/blog/create-log-entries-release-management
-aliasesFor404:
-- /create-log-entries-release-management
+aliasesArchive:
 - /blog/create-log-entries-release-management
+- /create-log-entries-release-management
 - /create-log-entries-in-release-management
 - /blog/create-log-entries-in-release-management
 - /resources/blog/create-log-entries-release-management
@@ -29,13 +29,13 @@ tags:
 - Windows
 - Release Management
 - Application Lifecycle Management
-- System Configuration
 - Practical Techniques and Tooling
+- System Configuration
+- Troubleshooting
+- Technical Mastery
+- Pragmatic Thinking
 - Software Development
 - Technical Excellence
-- Azure DevOps
-- Pragmatic Thinking
-- Azure Pipelines
 categories:
 - DevOps
 - Engineering Excellence

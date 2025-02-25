@@ -17,14 +17,14 @@ aliases:
 - /new-un-versioned-repository-in-tfs-2012
 - /resources/AoTaD6481iE
 - /resources/blog/new-un-versioned-repository-in-tfs-2012
-aliasesFor404:
-- /new-un-versioned-repository-in-tfs-2012
+aliasesArchive:
 - /blog/new-un-versioned-repository-in-tfs-2012
+- /new-un-versioned-repository-in-tfs-2012
 - /resources/blog/new-un-versioned-repository-in-tfs-2012
 tags:
 - Modern Source Control
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
 - Software Development
 - System Configuration
 - Troubleshooting

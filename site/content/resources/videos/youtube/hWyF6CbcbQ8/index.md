@@ -8,22 +8,23 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: hWyF6CbcbQ8
 url: /resources/videos/:slug
-slug: devops-migration-data-integrity-issues
+slug: mastering-data-integrity-the-key-to-successful-devops-migrations
 layout: video
 aliases:
-- /resources/videos/hWyF6CbcbQ8
-- /resources/videos/devops-migration-data-integrity-issues
-- /resources/devops-migration-data-integrity-issues
 - /resources/hWyF6CbcbQ8
-aliasesFor404:
+- /resources/videos/mastering-data-integrity-the-key-to-successful-devops-migrations
+- /resources/videos/devops-migration-data-integrity-issues
+aliasesArchive:
+- /resources/videos/mastering-data-integrity-the-key-to-successful-devops-migrations
 - /resources/videos/devops-migration-data-integrity-issues
 - /resources/devops-migration-data-integrity-issues
+- mastering-data-integrity-the-key-to-successful-devops-migrations
 preview: https://i.ytimg.com/vi/hWyF6CbcbQ8/maxresdefault.jpg
 duration: 124
 isShort: false
 tags:
-- Software Development
 - Pragmatic Thinking
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -15,29 +15,32 @@ preview: https://i.ytimg.com/vi/kTszGsXPLXY/maxresdefault.jpg
 duration: 331
 isShort: false
 aliases:
-- /resources/getting-started-with-kanban
-- /resources/videos/how-easy-is-it-to-create-a-kanban-pilot-in-the-organization-
-- /resources/videos/kTszGsXPLXY
-- /resources/how-easy-is-it-to-create-a-kanban-pilot-in-the-organization-
 - /resources/kTszGsXPLXY
-aliasesFor404:
+- /resources/videos/getting-started-with-kanban
+- /resources/videos/how-easy-is-it-to-create-a-kanban-pilot-in-the-organization
+aliasesArchive:
+- /resources/videos/getting-started-with-kanban-
 - /resources/getting-started-with-kanban
 - /resources/videos/how-easy-is-it-to-create-a-kanban-pilot-in-the-organization-
 - /resources/how-easy-is-it-to-create-a-kanban-pilot-in-the-organization-
+- /resources/videos/how-easy-is-it-to-create-a-kanban-pilot-in-the-organization
+- getting-started-with-kanban-
+- /resources/videos/getting-started-with-kanban
+- getting-started-with-kanban
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Metrics and Learning
 - People and Process
+- Metrics and Learning
 - Cycle Time
 - Practical Techniques and Tooling
-- Agile Frameworks
-- Operational Practices
 - Agile Project Management
+- Operational Practices
+- Agile Frameworks
 - Pragmatic Thinking
-- Throughput
 - Software Development
+- Flow Efficiency
 resourceTypes:
 - video
 categories:

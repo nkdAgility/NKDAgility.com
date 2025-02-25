@@ -15,28 +15,29 @@ preview: https://i.ytimg.com/vi/jXk1_Iiam_M/maxresdefault.jpg
 duration: 331
 isShort: false
 aliases:
-- /resources/the-power-of-immersive-learning-elevating-scrum-mastery-in-your-organization
-- /resources/videos/do-you-think-training-departments-get-a-lot-more-bang-for-their-buck-with-immersive-learning-
-- /resources/videos/jXk1_Iiam_M
-- /resources/do-you-think-training-departments-get-a-lot-more-bang-for-their-buck-with-immersive-learning-
 - /resources/jXk1_Iiam_M
-aliasesFor404:
+- /resources/videos/the-power-of-immersive-learning-elevating-scrum-mastery-in-your-organization
+- /resources/videos/do-you-think-training-departments-get-a-lot-more-bang-for-their-buck-with-immersive-learning
+aliasesArchive:
+- /resources/videos/the-power-of-immersive-learning-elevating-scrum-mastery-in-your-organization
 - /resources/the-power-of-immersive-learning-elevating-scrum-mastery-in-your-organization
 - /resources/videos/do-you-think-training-departments-get-a-lot-more-bang-for-their-buck-with-immersive-learning-
 - /resources/do-you-think-training-departments-get-a-lot-more-bang-for-their-buck-with-immersive-learning-
+- /resources/videos/do-you-think-training-departments-get-a-lot-more-bang-for-their-buck-with-immersive-learning
+- the-power-of-immersive-learning-elevating-scrum-mastery-in-your-organization
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - People and Process
-- Scrum Master
 - Discovery and Learning
-- Team Collaboration
+- Scrum Master
 - Continuous Learning
-- Pragmatic Thinking
+- Team Collaboration
 - Software Development
-- Agile Frameworks
 - Agile Project Management
+- Agile Frameworks
+- Pragmatic Thinking
 - Scrum Team
 resourceTypes:
 - video

@@ -17,9 +17,9 @@ aliases:
 - /the-delivery
 - /resources/Cy6oTqwpH2P
 - /resources/blog/the-delivery
-aliasesFor404:
-- /the-delivery
+aliasesArchive:
 - /blog/the-delivery
+- /the-delivery
 - /resources/blog/the-delivery
 categories: []
 preview: nakedalm-logo-128-link-1-1.png

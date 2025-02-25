@@ -8,16 +8,17 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: vftc6m70a0w
 url: /resources/videos/:slug
-slug: 7-virtues-of-agile-chastity
+slug: embracing-chastity-in-agile-why-taking-your-time-is-key-to-true-transformation
 layout: video
 aliases:
-- /resources/videos/vftc6m70a0w
-- /resources/videos/7-virtues-of-agile-chastity
-- /resources/7-virtues-of-agile-chastity
 - /resources/vftc6m70a0w
-aliasesFor404:
+- /resources/videos/embracing-chastity-in-agile-why-taking-your-time-is-key-to-true-transformation
+- /resources/videos/7-virtues-of-agile-chastity
+aliasesArchive:
+- /resources/videos/embracing-chastity-in-agile-why-taking-your-time-is-key-to-true-transformation
 - /resources/videos/7-virtues-of-agile-chastity
 - /resources/7-virtues-of-agile-chastity
+- embracing-chastity-in-agile-why-taking-your-time-is-key-to-true-transformation
 preview: https://i.ytimg.com/vi/vftc6m70a0w/maxresdefault.jpg
 duration: 142
 isShort: false
@@ -25,12 +26,12 @@ tags:
 - People and Process
 - Agile Values and Principles
 - Agile Transformation
-- Agile Strategy
-- Organisational Agility
-- Business Agility
-- Agile Leadership
-- Agile Philosophy
 - Change Management
+- Business Agility
+- Agile Strategy
+- Agile Leadership
+- Organisational Agility
+- Agile Philosophy
 - Organisational Culture
 sitemap:
   filename: sitemap.xml

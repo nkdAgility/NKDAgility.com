@@ -15,23 +15,22 @@ preview: https://i.ytimg.com/vi/QQA9coiM4fk/maxresdefault.jpg
 duration: 356
 isShort: false
 aliases:
-- /resources/devops-consulting-overview
-- /resources/videos/devops-consulting-overview-
-- /resources/videos/QQA9coiM4fk
-- /resources/devops-consulting-overview-
 - /resources/QQA9coiM4fk
-aliasesFor404:
+- /resources/videos/devops-consulting-overview
+aliasesArchive:
+- /resources/videos/devops-consulting-overview
 - /resources/devops-consulting-overview
 - /resources/videos/devops-consulting-overview-
 - /resources/devops-consulting-overview-
+- devops-consulting-overview
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Software Development
 - Practical Techniques and Tooling
-- Azure DevOps
 - People and Process
+- Azure DevOps
 - Pragmatic Thinking
 resourceTypes:
 - video

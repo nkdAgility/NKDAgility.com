@@ -19,9 +19,9 @@ aliases:
 - /blog/tfs-integration-tools-–-issue--error-occurred-during-the-code-review-of-change-group
 - /resources/De3YYSzEfJk
 - /resources/blog/tfs-integration-tools-issue-error-occurred-during-the-code-review-of-change-group
-aliasesFor404:
-- /tfs-integration-tools-issue-error-occurred-during-the-code-review-of-change-group
+aliasesArchive:
 - /blog/tfs-integration-tools-issue-error-occurred-during-the-code-review-of-change-group
+- /tfs-integration-tools-issue-error-occurred-during-the-code-review-of-change-group
 - /tfs-integration-tools-–-issue--error-occurred-during-the-code-review-of-change-group
 - /blog/tfs-integration-tools-–-issue--error-occurred-during-the-code-review-of-change-group
 - /resources/blog/tfs-integration-tools-issue-error-occurred-during-the-code-review-of-change-group

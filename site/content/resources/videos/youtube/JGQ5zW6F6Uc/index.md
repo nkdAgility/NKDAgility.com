@@ -8,30 +8,31 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: JGQ5zW6F6Uc
 url: /resources/videos/:slug
-slug: 3-steps-developers-must-follow-if-the-product-owner-is-incompetent
+slug: how-to-tackle-the-challenge-of-an-ineffective-product-owner-in-agile-teams
 layout: video
 aliases:
-- /resources/videos/JGQ5zW6F6Uc
-- /resources/videos/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
-- /resources/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
 - /resources/JGQ5zW6F6Uc
-aliasesFor404:
+- /resources/videos/how-to-tackle-the-challenge-of-an-ineffective-product-owner-in-agile-teams
+- /resources/videos/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
+aliasesArchive:
+- /resources/videos/how-to-tackle-the-challenge-of-an-ineffective-product-owner-in-agile-teams
 - /resources/videos/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
 - /resources/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
+- how-to-tackle-the-challenge-of-an-ineffective-product-owner-in-agile-teams
 preview: https://i.ytimg.com/vi/JGQ5zW6F6Uc/maxresdefault.jpg
 duration: 407
 isShort: false
 tags:
 - People and Process
 - Scrum Product Development
+- Agile Product Management
 - Scrum Master
 - Scrum Team
-- Agile Product Management
-- Team Collaboration
-- Professional Scrum
 - Team Performance
+- Agile Project Management
 - Software Development
-- Agile Frameworks
+- Team Collaboration
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

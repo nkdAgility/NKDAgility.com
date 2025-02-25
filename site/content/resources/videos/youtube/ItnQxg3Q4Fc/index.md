@@ -15,31 +15,31 @@ preview: https://i.ytimg.com/vi/ItnQxg3Q4Fc/maxresdefault.jpg
 duration: 285
 isShort: false
 aliases:
-- /resources/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-engagement
-- /resources/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig
-- /resources/videos/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig-
-- /resources/videos/ItnQxg3Q4Fc
-- /resources/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig-
 - /resources/ItnQxg3Q4Fc
-aliasesFor404:
+- /resources/videos/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-engagement
+- /resources/videos/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig
+aliasesArchive:
+- /resources/videos/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-engagement
 - /resources/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-engagement
 - /resources/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig
 - /resources/videos/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig-
 - /resources/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig-
+- /resources/videos/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig
+- why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-engagement
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Leadership
 - People and Process
+- Agile Leadership
 - Agile Philosophy
 - Market Adaptability
-- Organisational Change
 - Value Delivery
-- Agile Project Management
 - Agile Transformation
-- Business Agility
-- Change Management
+- Agile Strategy
+- Organisational Change
+- Agile Project Management
+- Technical Leadership
 resourceTypes:
 - video
 categories:

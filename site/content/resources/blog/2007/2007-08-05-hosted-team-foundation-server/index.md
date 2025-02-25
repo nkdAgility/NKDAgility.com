@@ -17,20 +17,20 @@ aliases:
 - /hosted-team-foundation-server
 - /resources/uP5FXaFL6Lx
 - /resources/blog/hosted-team-foundation-server
-aliasesFor404:
-- /hosted-team-foundation-server
+aliasesArchive:
 - /blog/hosted-team-foundation-server
+- /hosted-team-foundation-server
 - /resources/blog/hosted-team-foundation-server
 tags:
 - Products and Books
-- Software Development
 - Practical Techniques and Tooling
+- Software Development
 - News and Reviews
-- Modern Source Control
-- Software Developers
-- Azure DevOps
 - Troubleshooting
 - Application Lifecycle Management
+- Software Developers
+- Modern Source Control
+- Azure DevOps
 categories: []
 
 ---

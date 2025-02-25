@@ -19,20 +19,20 @@ aliases:
 - /blog/run-a-router-on-hyper-v
 - /resources/0Ly3betXY-6
 - /resources/blog/run-router-hyper-v
-aliasesFor404:
-- /run-router-hyper-v
+aliasesArchive:
 - /blog/run-router-hyper-v
+- /run-router-hyper-v
 - /run-a-router-on-hyper-v
 - /blog/run-a-router-on-hyper-v
 - /resources/blog/run-router-hyper-v
 tags:
 - Windows
-- Install and Configuration
 - Practical Techniques and Tooling
-- Pragmatic Thinking
-- System Configuration
+- Install and Configuration
 - Troubleshooting
 - Technical Mastery
+- Pragmatic Thinking
+- System Configuration
 categories: []
 preview: naked-alm-hyper-v-17-17.png
 

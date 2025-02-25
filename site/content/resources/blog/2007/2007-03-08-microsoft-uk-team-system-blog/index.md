@@ -17,9 +17,9 @@ aliases:
 - /microsoft-uk-team-system-blog
 - /resources/7sufhYTYvt-
 - /resources/blog/microsoft-uk-team-system-blog
-aliasesFor404:
-- /microsoft-uk-team-system-blog
+aliasesArchive:
 - /blog/microsoft-uk-team-system-blog
+- /microsoft-uk-team-system-blog
 - /resources/blog/microsoft-uk-team-system-blog
 preview: nakedalm-logo-128-link-1-1.png
 categories: []

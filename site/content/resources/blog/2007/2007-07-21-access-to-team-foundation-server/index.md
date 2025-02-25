@@ -17,17 +17,17 @@ aliases:
 - /access-to-team-foundation-server
 - /resources/ttgv7j3g-kW
 - /resources/blog/access-to-team-foundation-server
-aliasesFor404:
-- /access-to-team-foundation-server
+aliasesArchive:
 - /blog/access-to-team-foundation-server
+- /access-to-team-foundation-server
 - /resources/blog/access-to-team-foundation-server
 tags:
-- Continuous Learning
-- Software Development
 - Troubleshooting
+- Application Lifecycle Management
 - Technical Mastery
 - Miscellaneous
-- Application Lifecycle Management
+- Software Development
+- Continuous Learning
 categories: []
 
 ---

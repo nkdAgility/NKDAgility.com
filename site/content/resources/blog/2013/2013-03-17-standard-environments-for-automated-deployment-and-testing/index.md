@@ -17,9 +17,9 @@ aliases:
 - /standard-environments-for-automated-deployment-and-testing
 - /resources/Xmo3nfcFGmv
 - /resources/blog/standard-environments-for-automated-deployment-and-testing
-aliasesFor404:
-- /standard-environments-for-automated-deployment-and-testing
+aliasesArchive:
 - /blog/standard-environments-for-automated-deployment-and-testing
+- /standard-environments-for-automated-deployment-and-testing
 - /resources/blog/standard-environments-for-automated-deployment-and-testing
 tags:
 - Software Development

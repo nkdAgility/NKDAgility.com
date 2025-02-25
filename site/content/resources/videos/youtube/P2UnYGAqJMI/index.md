@@ -9,21 +9,22 @@ ResourceImportSource: Youtube
 videoId: P2UnYGAqJMI
 source: internal
 url: /resources/videos/:slug
-slug: the-pitfalls-of-agile-burndowns-stop-being-agile-bandits
+slug: the-pitfalls-of-agile-burndowns-stop-being-agile-bandits-P2UnYGAqJMI
 layout: video
 preview: https://i.ytimg.com/vi/P2UnYGAqJMI/maxresdefault.jpg
 duration: 46
 isShort: true
 aliases:
-- /resources/the-pitfalls-of-agile-burndowns-stop-being-agile-bandits
-- /resources/videos/-shorts-5-kinds-of-agile-bandits-4th-kind
-- /resources/videos/P2UnYGAqJMI
-- /resources/-shorts-5-kinds-of-agile-bandits-4th-kind
 - /resources/P2UnYGAqJMI
-aliasesFor404:
+- /resources/videos/the-pitfalls-of-agile-burndowns-stop-being-agile-bandits-P2UnYGAqJMI
+- /resources/videos/the-pitfalls-of-agile-burndowns-stop-being-agile-bandits
+- /resources/videos/-shorts-5-kinds-of-agile-bandits-4th-kind
+aliasesArchive:
+- /resources/videos/the-pitfalls-of-agile-burndowns-stop-being-agile-bandits
 - /resources/the-pitfalls-of-agile-burndowns-stop-being-agile-bandits
 - /resources/videos/-shorts-5-kinds-of-agile-bandits-4th-kind
 - /resources/-shorts-5-kinds-of-agile-bandits-4th-kind
+- the-pitfalls-of-agile-burndowns-stop-being-agile-bandits-P2UnYGAqJMI
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -15,28 +15,27 @@ preview: https://i.ytimg.com/vi/sAKCLQ38GzA/maxresdefault.jpg
 duration: 602
 isShort: false
 aliases:
-- /resources/does-starting-with-why-simon-sinek-really-matter
-- /resources/videos/does-'starting-with-why'-simon-sinek-really-matter-
-- /resources/videos/sAKCLQ38GzA
-- /resources/does-'starting-with-why'-simon-sinek-really-matter-
 - /resources/sAKCLQ38GzA
-aliasesFor404:
+- /resources/videos/does-starting-with-why-simon-sinek-really-matter
+aliasesArchive:
+- /resources/videos/does-starting-with-why-simon-sinek-really-matter
 - /resources/does-starting-with-why-simon-sinek-really-matter
 - /resources/videos/does-'starting-with-why'-simon-sinek-really-matter-
 - /resources/does-'starting-with-why'-simon-sinek-really-matter-
+- does-starting-with-why-simon-sinek-really-matter
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - People and Process
-- Agile Product Operating Model
 - Team Motivation
+- Agile Product Operating Model
+- Product Strategy
 - Employee Engagement
 - Organisational Culture
 - Strategic Goals
-- Product Strategy
+- Organisational Psychology
 - Agile Strategy
-- Organisational Physics
 - Sociotechnical Systems
 resourceTypes:
 - video

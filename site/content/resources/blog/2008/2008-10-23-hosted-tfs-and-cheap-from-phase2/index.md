@@ -21,9 +21,9 @@ aliases:
 - /hosted-tfs--and-cheap…-from-phase2
 - /blog/hosted-tfs--and-cheap…-from-phase2
 - /resources/blog/hosted-tfs-and-cheap-from-phase2
-aliasesFor404:
-- /hosted-tfs-and-cheap-from-phase2
+aliasesArchive:
 - /blog/hosted-tfs-and-cheap-from-phase2
+- /hosted-tfs-and-cheap-from-phase2
 - /hosted-tfs,-and-cheap…-from-phase2
 - /blog/hosted-tfs,-and-cheap…-from-phase2
 - /hosted-tfs--and-cheap…-from-phase2

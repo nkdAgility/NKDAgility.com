@@ -19,22 +19,22 @@ aliases:
 - /blog/issue-[-tfs-2013-]-inrelease-account-requires-make-requests-on-behalf-of-others
 - /resources/SYCGxfoMPjw
 - /resources/blog/issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
-aliasesFor404:
-- /issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
+aliasesArchive:
 - /blog/issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
+- /issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
 - /issue-[-tfs-2013-]-inrelease-account-requires-make-requests-on-behalf-of-others
 - /blog/issue-[-tfs-2013-]-inrelease-account-requires-make-requests-on-behalf-of-others
 - /resources/blog/issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
 tags:
-- Install and Configuration
-- Technical Mastery
 - Practical Techniques and Tooling
-- Software Development
-- Azure DevOps
-- Pragmatic Thinking
-- System Configuration
+- Technical Mastery
+- Install and Configuration
 - Troubleshooting
 - Operational Practices
+- Pragmatic Thinking
+- Software Development
+- System Configuration
+- Azure DevOps
 categories:
 - DevOps
 preview: puzzle-issue-problem-128-link-5-5.png

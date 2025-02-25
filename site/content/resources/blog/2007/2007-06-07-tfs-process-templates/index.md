@@ -17,9 +17,9 @@ aliases:
 - /tfs-process-templates
 - /resources/gJqTAngPe0a
 - /resources/blog/tfs-process-templates
-aliasesFor404:
-- /tfs-process-templates
+aliasesArchive:
 - /blog/tfs-process-templates
+- /tfs-process-templates
 - /resources/blog/tfs-process-templates
 preview: nakedalm-logo-128-link-1-1.png
 categories:

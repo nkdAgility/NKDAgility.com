@@ -8,28 +8,29 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 82_yTGt9pLM
 url: /resources/videos/:slug
-slug: agile-consulting-services-overview
+slug: unlocking-agile-consulting-transform-your-organisation-with-diverse-strategies-and-continuous-learning
 aliases:
-- /resources/videos/82_yTGt9pLM
-- /resources/videos/agile-consulting-services-overview
-- /resources/agile-consulting-services-overview
 - /resources/82_yTGt9pLM
-aliasesFor404:
+- /resources/videos/unlocking-agile-consulting-transform-your-organisation-with-diverse-strategies-and-continuous-learning
+- /resources/videos/agile-consulting-services-overview
+aliasesArchive:
+- /resources/videos/unlocking-agile-consulting-transform-your-organisation-with-diverse-strategies-and-continuous-learning
 - /resources/videos/agile-consulting-services-overview
 - /resources/agile-consulting-services-overview
+- unlocking-agile-consulting-transform-your-organisation-with-diverse-strategies-and-continuous-learning
 preview: https://i.ytimg.com/vi/82_yTGt9pLM/maxresdefault.jpg
 duration: 370
 isShort: false
 tags:
 - People and Process
-- Agile Strategy
 - Agile Philosophy
+- Agile Frameworks
+- Agile Strategy
 - Agile Transformation
 - Organisational Agility
-- Agile Frameworks
 - Organisational Change
 - Pragmatic Thinking
-- Business Agility
+- Discovery and Learning
 - Continuous Learning
 sitemap:
   filename: sitemap.xml

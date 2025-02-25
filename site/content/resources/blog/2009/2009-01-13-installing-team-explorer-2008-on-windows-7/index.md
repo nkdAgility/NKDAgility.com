@@ -17,15 +17,15 @@ aliases:
 - /installing-team-explorer-2008-on-windows-7
 - /resources/eriIolF997p
 - /resources/blog/installing-team-explorer-2008-on-windows-7
-aliasesFor404:
-- /installing-team-explorer-2008-on-windows-7
+aliasesArchive:
 - /blog/installing-team-explorer-2008-on-windows-7
+- /installing-team-explorer-2008-on-windows-7
 - /resources/blog/installing-team-explorer-2008-on-windows-7
 tags:
 - Windows
 - Install and Configuration
-- System Configuration
 - Troubleshooting
+- System Configuration
 categories: []
 
 ---

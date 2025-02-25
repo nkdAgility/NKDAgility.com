@@ -15,28 +15,32 @@ preview: https://i.ytimg.com/vi/u56sOCe6G0A/maxresdefault.jpg
 duration: 234
 isShort: false
 aliases:
-- /resources/3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow
-- /resources/videos/3-core-practices-of-kanban-actively-managing-items-in-a-workflow-
-- /resources/videos/u56sOCe6G0A
-- /resources/3-core-practices-of-kanban-actively-managing-items-in-a-workflow-
 - /resources/u56sOCe6G0A
-aliasesFor404:
+- /resources/videos/3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow
+- /resources/videos/3-core-practices-of-kanban-actively-managing-items-in-a-workflow
+aliasesArchive:
+- /resources/videos/-core-practices-of-kanban-actively-managing-work-items-in-a-workflow-
+- /resources/videos/3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow-
 - /resources/3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow
 - /resources/videos/3-core-practices-of-kanban-actively-managing-items-in-a-workflow-
 - /resources/3-core-practices-of-kanban-actively-managing-items-in-a-workflow-
+- 3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow-
+- /resources/videos/3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow
+- /resources/videos/3-core-practices-of-kanban-actively-managing-items-in-a-workflow
+- 3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Operational Practices
-- Flow Efficiency
 - Practical Techniques and Tooling
-- Throughput
-- Software Development
-- Pragmatic Thinking
-- Agile Frameworks
-- Lean Thinking
+- Flow Efficiency
 - Agile Project Management
+- Pragmatic Thinking
+- Software Development
+- Lean Thinking
+- Throughput
+- Agile Frameworks
 - Value Delivery
 resourceTypes:
 - video

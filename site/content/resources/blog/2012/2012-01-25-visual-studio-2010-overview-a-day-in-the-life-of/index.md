@@ -22,27 +22,27 @@ aliases:
 - /visual-studio-2010-overview---a-day-in-the-life-of-----plan--code-&-test
 - /blog/visual-studio-2010-overview---a-day-in-the-life-of-----plan--code-&-test
 - /resources/blog/visual-studio-2010-overview-a-day-in-the-life-of
-aliasesFor404:
-- /visual-studio-2010-overview-a-day-in-the-life-of
+aliasesArchive:
 - /blog/visual-studio-2010-overview-a-day-in-the-life-of
+- /visual-studio-2010-overview-a-day-in-the-life-of
+- /visual-studio-2010-overview
 - /visual-studio-2010-overview---a-day-in-the-life-of-----plan,-code-&-test
 - /blog/visual-studio-2010-overview---a-day-in-the-life-of-----plan,-code-&-test
 - /visual-studio-2010-overview---a-day-in-the-life-of-----plan--code-&-test
 - /blog/visual-studio-2010-overview---a-day-in-the-life-of-----plan--code-&-test
-- /visual-studio-2010-overview
 - /resources/blog/visual-studio-2010-overview-a-day-in-the-life-of
 tags:
+- Practical Techniques and Tooling
 - Events and Presentations
 - Agile Planning
-- Practical Techniques and Tooling
-- Software Development
 - Application Lifecycle Management
+- Software Development
 - Product Delivery
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories:
 - Scrum
-- Social Technologies
 - DevOps
+- Engineering Excellence
 
 ---
 This session shows the Day in the Life of a project using TFS from the context of a Developer, Tester, and Program Manager. The purpose of this session is to give a clear picture of how someone in the role of the Developer, the Tester and Program Manager would use TFS in his/her role.

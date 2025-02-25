@@ -8,28 +8,30 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 76mGfF0KoD0
 url: /resources/videos/:slug
-slug: would-you-recommend-a-team-aps-workshop-or-an-agile-consultant-
+slug: is-your-scrum-master-struggling-discover-when-to-choose-an-agile-process-simulation-workshop
 aliases:
-- /resources/videos/76mGfF0KoD0
-- /resources/videos/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant-
-- /resources/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant-
 - /resources/76mGfF0KoD0
-aliasesFor404:
+- /resources/videos/is-your-scrum-master-struggling-discover-when-to-choose-an-agile-process-simulation-workshop
+- /resources/videos/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant
+aliasesArchive:
+- /resources/videos/is-your-scrum-master-struggling-discover-when-to-choose-an-agile-process-simulation-workshop
 - /resources/videos/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant-
 - /resources/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant-
+- /resources/videos/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant
+- is-your-scrum-master-struggling-discover-when-to-choose-an-agile-process-simulation-workshop
 preview: https://i.ytimg.com/vi/76mGfF0KoD0/maxresdefault.jpg
 duration: 376
 isShort: false
 tags:
 - Agile Project Management
 - Coaching
+- People and Process
 - Scrum Master
 - Scrum Team
-- People and Process
-- Team Collaboration
-- Agile Frameworks
 - Agile Product Management
+- Team Collaboration
 - Agile Transformation
+- Agile Frameworks
 - Software Development
 sitemap:
   filename: sitemap.xml

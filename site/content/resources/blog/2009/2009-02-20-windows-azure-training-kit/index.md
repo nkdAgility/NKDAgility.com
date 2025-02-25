@@ -17,9 +17,9 @@ aliases:
 - /windows-azure-training-kit
 - /resources/5GEKVUBfbi2
 - /resources/blog/windows-azure-training-kit
-aliasesFor404:
-- /windows-azure-training-kit
+aliasesArchive:
 - /blog/windows-azure-training-kit
+- /windows-azure-training-kit
 - /resources/blog/windows-azure-training-kit
 tags:
 - Products and Books

@@ -8,16 +8,18 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: xJsuDbsFzlw
 url: /resources/videos/:slug
-slug: what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations-
+slug: unlocking-the-power-of-sprint-planning-transform-your-agile-approach-for-success
 layout: video
 aliases:
-- /resources/videos/xJsuDbsFzlw
-- /resources/videos/what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations-
-- /resources/what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations-
 - /resources/xJsuDbsFzlw
-aliasesFor404:
+- /resources/videos/unlocking-the-power-of-sprint-planning-transform-your-agile-approach-for-success
+- /resources/videos/what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations
+aliasesArchive:
+- /resources/videos/unlocking-the-power-of-sprint-planning-transform-your-agile-approach-for-success
 - /resources/videos/what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations-
 - /resources/what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations-
+- /resources/videos/what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations
+- unlocking-the-power-of-sprint-planning-transform-your-agile-approach-for-success
 preview: https://i.ytimg.com/vi/xJsuDbsFzlw/maxresdefault.jpg
 duration: 198
 isShort: false
@@ -25,13 +27,13 @@ tags:
 - Coaching
 - Agile Planning Tools
 - Agile Planning
+- People and Process
 - Agile Transformation
 - Agile Project Management
-- Agile Product Management
-- People and Process
 - Agile Frameworks
+- Agile Product Management
 - Events and Presentations
-- Product Delivery
+- Scrum Master
 sitemap:
   filename: sitemap.xml
   priority: 0.6

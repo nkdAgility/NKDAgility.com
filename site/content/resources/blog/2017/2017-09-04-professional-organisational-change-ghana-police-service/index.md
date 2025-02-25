@@ -19,9 +19,9 @@ aliases:
 - /blog/professional-organisational-change-at-the-ghana-police-service
 - /resources/yv8bhGf1MfF
 - /resources/blog/professional-organisational-change-ghana-police-service
-aliasesFor404:
-- /professional-organisational-change-ghana-police-service
+aliasesArchive:
 - /blog/professional-organisational-change-ghana-police-service
+- /professional-organisational-change-ghana-police-service
 - /professional-organisational-change-at-the-ghana-police-service
 - /blog/professional-organisational-change-at-the-ghana-police-service
 - /resources/blog/professional-organisational-change-ghana-police-service

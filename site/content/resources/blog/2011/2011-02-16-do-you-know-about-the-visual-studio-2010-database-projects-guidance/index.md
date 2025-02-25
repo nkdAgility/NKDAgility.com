@@ -19,17 +19,17 @@ aliases:
 - /blog/do-you-know-about-the-visual-studio-2010-database-projects-guidance-
 - /resources/84KSaMagvy0
 - /resources/blog/do-you-know-about-the-visual-studio-2010-database-projects-guidance
-aliasesFor404:
-- /do-you-know-about-the-visual-studio-2010-database-projects-guidance
+aliasesArchive:
 - /blog/do-you-know-about-the-visual-studio-2010-database-projects-guidance
+- /do-you-know-about-the-visual-studio-2010-database-projects-guidance
 - /do-you-know-about-the-visual-studio-2010-database-projects-guidance-
 - /blog/do-you-know-about-the-visual-studio-2010-database-projects-guidance-
 - /resources/blog/do-you-know-about-the-visual-studio-2010-database-projects-guidance
 tags:
 - Products and Books
-- Software Development
-- Technical Mastery
 - Practical Techniques and Tooling
+- Technical Mastery
+- Software Development
 - Application Lifecycle Management
 preview: metro-visual-studio-2010-128-link-3-3.png
 categories:

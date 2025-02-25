@@ -9,19 +9,19 @@ ResourceImportSource: Youtube
 videoId: AJ8-c0l7oRQ
 source: internal
 url: /resources/videos/:slug
-slug: why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3
+slug: why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3-AJ8-c0l7oRQ
 layout: video
 preview: https://i.ytimg.com/vi/AJ8-c0l7oRQ/maxresdefault.jpg
 duration: 43
 isShort: true
 aliases:
-- /resources/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3
-- /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3
-- /resources/videos/AJ8-c0l7oRQ
 - /resources/AJ8-c0l7oRQ
-aliasesFor404:
-- /resources/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3
+- /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3-AJ8-c0l7oRQ
+aliasesArchive:
+- /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-
 - /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3
+- /resources/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3
+- why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3-AJ8-c0l7oRQ
 sitemap:
   filename: sitemap.xml
   priority: 0.6

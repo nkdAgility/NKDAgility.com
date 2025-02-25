@@ -17,9 +17,9 @@ aliases:
 - /how-visual-studio-2010-and-team-foundation-server-enable-compliance
 - /resources/gUB-uq9tH-d
 - /resources/blog/how-visual-studio-2010-and-team-foundation-server-enable-compliance
-aliasesFor404:
-- /how-visual-studio-2010-and-team-foundation-server-enable-compliance
+aliasesArchive:
 - /blog/how-visual-studio-2010-and-team-foundation-server-enable-compliance
+- /how-visual-studio-2010-and-team-foundation-server-enable-compliance
 - /resources/blog/how-visual-studio-2010-and-team-foundation-server-enable-compliance
 tags:
 - Application Lifecycle Management

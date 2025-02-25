@@ -19,9 +19,9 @@ aliases:
 - /blog/tfs-gotcha-(server-name)
 - /resources/l7s81fXVkty
 - /resources/blog/tfs-gotcha-server-name
-aliasesFor404:
-- /tfs-gotcha-server-name
+aliasesArchive:
 - /blog/tfs-gotcha-server-name
+- /tfs-gotcha-server-name
 - /tfs-gotcha-(server-name)
 - /blog/tfs-gotcha-(server-name)
 - /resources/blog/tfs-gotcha-server-name
@@ -29,11 +29,11 @@ preview: nakedalm-logo-128-link-1-1.png
 categories: []
 tags:
 - Windows
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
+- Troubleshooting
 - Software Development
 - System Configuration
-- Troubleshooting
 
 ---
 If you are installing TFS in a large network that utilises proxy servers, especialy those that strip network credentials for what it thinks are internet sites, then you may run into problems..

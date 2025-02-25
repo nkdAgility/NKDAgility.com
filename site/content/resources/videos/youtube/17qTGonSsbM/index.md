@@ -14,25 +14,26 @@ preview: https://i.ytimg.com/vi/17qTGonSsbM/maxresdefault.jpg
 duration: 312
 isShort: false
 aliases:
-- /resources/the-importance-of-evaluating-direction-are-you-heading-the-right-way
-- /resources/videos/“if-you-do-not-change-direction,-you-may-end-up-where-you-are-heading-”-–-lao-tzu
-- /resources/videos/17qTGonSsbM
-- /resources/“if-you-do-not-change-direction,-you-may-end-up-where-you-are-heading-”-–-lao-tzu
 - /resources/17qTGonSsbM
-aliasesFor404:
+- /resources/videos/the-importance-of-evaluating-direction-are-you-heading-the-right-way
+- /resources/videos/if-you-do-not-change-direction-you-may-end-up-where-you-are-heading-lao-tzu
+aliasesArchive:
+- /resources/videos/the-importance-of-evaluating-direction-are-you-heading-the-right-way
 - /resources/the-importance-of-evaluating-direction-are-you-heading-the-right-way
 - /resources/videos/“if-you-do-not-change-direction,-you-may-end-up-where-you-are-heading-”-–-lao-tzu
 - /resources/“if-you-do-not-change-direction,-you-may-end-up-where-you-are-heading-”-–-lao-tzu
+- /resources/videos/if-you-do-not-change-direction-you-may-end-up-where-you-are-heading-lao-tzu
+- the-importance-of-evaluating-direction-are-you-heading-the-right-way
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Organisational Agility
-- Resilience and Change
 - Product Strategy
+- Resilience and Change
+- Organisational Agility
 - Decision Making
-- Sensemaking
 - Pragmatic Thinking
+- Sensemaking
 resourceTypes:
 - video
 layout: video

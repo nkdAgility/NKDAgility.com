@@ -15,15 +15,16 @@ preview: https://i.ytimg.com/vi/xGuuZ5l6fCo/maxresdefault.jpg
 duration: 412
 isShort: false
 aliases:
-- /resources/empowering-agile-teams-the-critical-role-of-user-feedback-in-requirement-changes
-- /resources/videos/are-you-truly-empowering-your-teams-to-respond-to-user-feedback-the-agile-reality-check-[5-6]
-- /resources/videos/xGuuZ5l6fCo
-- /resources/are-you-truly-empowering-your-teams-to-respond-to-user-feedback-the-agile-reality-check-[5-6]
 - /resources/xGuuZ5l6fCo
-aliasesFor404:
+- /resources/videos/empowering-agile-teams-the-critical-role-of-user-feedback-in-requirement-changes
+- /resources/videos/are-you-truly-empowering-your-teams-to-respond-to-user-feedback-the-agile-reality-check-56
+aliasesArchive:
+- /resources/videos/empowering-agile-teams-the-critical-role-of-user-feedback-in-requirement-changes
 - /resources/empowering-agile-teams-the-critical-role-of-user-feedback-in-requirement-changes
 - /resources/videos/are-you-truly-empowering-your-teams-to-respond-to-user-feedback-the-agile-reality-check-[5-6]
 - /resources/are-you-truly-empowering-your-teams-to-respond-to-user-feedback-the-agile-reality-check-[5-6]
+- /resources/videos/are-you-truly-empowering-your-teams-to-respond-to-user-feedback-the-agile-reality-check-56
+- empowering-agile-teams-the-critical-role-of-user-feedback-in-requirement-changes
 sitemap:
   filename: sitemap.xml
   priority: 0.6

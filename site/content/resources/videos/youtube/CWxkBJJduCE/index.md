@@ -8,26 +8,28 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: CWxkBJJduCE
 url: /resources/videos/:slug
-slug: redefining-test-driven-development
+slug: transform-your-software-architecture-the-game-changing-impact-of-tdd-and-pair-programming-CWxkBJJduCE
 layout: video
 aliases:
-- /resources/videos/CWxkBJJduCE
-- /resources/videos/redefining-test-driven-development
-- /resources/redefining-test-driven-development
 - /resources/CWxkBJJduCE
-aliasesFor404:
+- /resources/videos/transform-your-software-architecture-the-game-changing-impact-of-tdd-and-pair-programming-CWxkBJJduCE
+- /resources/videos/transform-your-software-architecture-the-game-changing-impact-of-tdd-and-pair-programming
+- /resources/videos/redefining-test-driven-development
+aliasesArchive:
+- /resources/videos/transform-your-software-architecture-the-game-changing-impact-of-tdd-and-pair-programming
 - /resources/videos/redefining-test-driven-development
 - /resources/redefining-test-driven-development
+- transform-your-software-architecture-the-game-changing-impact-of-tdd-and-pair-programming-CWxkBJJduCE
 preview: https://i.ytimg.com/vi/CWxkBJJduCE/maxresdefault.jpg
 duration: 53
 isShort: true
 tags:
 - Software Development
 - Engineering Practices
-- Technical Excellence
 - Technical Mastery
-- Software Developers
+- Technical Excellence
 - Code and Complexity
+- Software Developers
 - Test Driven Development
 sitemap:
   filename: sitemap.xml

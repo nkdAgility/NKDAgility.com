@@ -19,9 +19,9 @@ aliases:
 - /blog/live-site-culture-&-site-reliability-engineering
 - /resources/c_gS0nlQD9E
 - /resources/blog/live-site-culture-site-reliability-engineering
-aliasesFor404:
-- /live-site-culture-site-reliability-engineering
+aliasesArchive:
 - /blog/live-site-culture-site-reliability-engineering
+- /live-site-culture-site-reliability-engineering
 - /live-site-culture-&-site-reliability-engineering
 - /blog/live-site-culture-&-site-reliability-engineering
 - /resources/blog/live-site-culture-site-reliability-engineering
@@ -30,14 +30,14 @@ categories:
 - Engineering Excellence
 preview: 2020-06-17_13-06-30-1-1.jpg
 tags:
-- Deployment Frequency
-- Frequent Releases
-- Market Adaptability
 - Business Agility
+- Market Adaptability
 - Events and Presentations
-- Pragmatic Thinking
-- Organisational Agility
+- Frequent Releases
+- Deployment Frequency
 - Enterprise Agility
+- Organisational Agility
+- Pragmatic Thinking
 - Software Development
 - Continuous Learning
 

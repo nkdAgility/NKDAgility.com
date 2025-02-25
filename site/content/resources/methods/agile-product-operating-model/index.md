@@ -14,7 +14,7 @@ aliases:
 - /methods/agile-product-operating-model/
 - /learn/agile-delivery-kit/strategies/agile-product-operating-model/
 - /resources/cBWi9iKD1Sa
-aliasesFor404:
+aliasesArchive:
 - /APOM
 - /methods/agile-product-operating-model/
 - /learn/agile-delivery-kit/strategies/agile-product-operating-model/

@@ -8,16 +8,17 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: qpo4Ru1VVZE
 url: /resources/videos/:slug
-slug: devops-migration-compatibility-problems
+slug: navigating-the-tfs-to-azure-devops-migration-overcoming-compatibility-concerns-with-confidence
 layout: video
 aliases:
-- /resources/videos/qpo4Ru1VVZE
-- /resources/videos/devops-migration-compatibility-problems
-- /resources/devops-migration-compatibility-problems
 - /resources/qpo4Ru1VVZE
-aliasesFor404:
+- /resources/videos/navigating-the-tfs-to-azure-devops-migration-overcoming-compatibility-concerns-with-confidence
+- /resources/videos/devops-migration-compatibility-problems
+aliasesArchive:
+- /resources/videos/navigating-the-tfs-to-azure-devops-migration-overcoming-compatibility-concerns-with-confidence
 - /resources/videos/devops-migration-compatibility-problems
 - /resources/devops-migration-compatibility-problems
+- navigating-the-tfs-to-azure-devops-migration-overcoming-compatibility-concerns-with-confidence
 preview: https://i.ytimg.com/vi/qpo4Ru1VVZE/maxresdefault.jpg
 duration: 174
 isShort: false

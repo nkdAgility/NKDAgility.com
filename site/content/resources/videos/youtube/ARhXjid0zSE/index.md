@@ -8,24 +8,26 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: ARhXjid0zSE
 url: /resources/videos/:slug
-slug: 7-signs-of-the-agile-apocalypse-famine
+slug: combatting-the-agile-apocalypse-how-to-overcome-the-famine-of-feedback-and-engagement-ARhXjid0zSE
 layout: video
 aliases:
-- /resources/videos/ARhXjid0zSE
-- /resources/videos/7-signs-of-the-agile-apocalypse-famine
-- /resources/7-signs-of-the-agile-apocalypse-famine
 - /resources/ARhXjid0zSE
-aliasesFor404:
+- /resources/videos/combatting-the-agile-apocalypse-how-to-overcome-the-famine-of-feedback-and-engagement-ARhXjid0zSE
+- /resources/videos/combatting-the-agile-apocalypse-how-to-overcome-the-famine-of-feedback-and-engagement
+- /resources/videos/7-signs-of-the-agile-apocalypse-famine
+aliasesArchive:
+- /resources/videos/combatting-the-agile-apocalypse-how-to-overcome-the-famine-of-feedback-and-engagement
 - /resources/videos/7-signs-of-the-agile-apocalypse-famine
 - /resources/7-signs-of-the-agile-apocalypse-famine
+- combatting-the-agile-apocalypse-how-to-overcome-the-famine-of-feedback-and-engagement-ARhXjid0zSE
 preview: https://i.ytimg.com/vi/ARhXjid0zSE/maxresdefault.jpg
 duration: 32
 isShort: true
 tags:
-- Employee Engagement
 - People and Process
-- Agile Project Management
 - Team Motivation
+- Employee Engagement
+- Agile Project Management
 - Software Development
 - Agile Product Management
 sitemap:

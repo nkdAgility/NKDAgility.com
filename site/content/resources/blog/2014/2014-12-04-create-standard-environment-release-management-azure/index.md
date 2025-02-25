@@ -19,23 +19,23 @@ aliases:
 - /blog/create-a-standard-environment-for-release-management-in-azure
 - /resources/iI7MvY2p7RU
 - /resources/blog/create-standard-environment-release-management-azure
-aliasesFor404:
-- /create-standard-environment-release-management-azure
+aliasesArchive:
 - /blog/create-standard-environment-release-management-azure
+- /create-standard-environment-release-management-azure
 - /create-a-standard-environment-for-release-management-in-azure
 - /blog/create-a-standard-environment-for-release-management-in-azure
 - /resources/blog/create-standard-environment-release-management-azure
 tags:
 - Release Management
 - Application Lifecycle Management
-- Deployment Strategies
-- Technical Excellence
-- Install and Configuration
-- Azure DevOps
+- Practical Techniques and Tooling
 - Events and Presentations
 - Technical Mastery
-- Practical Techniques and Tooling
-- Software Development
+- Install and Configuration
+- Technical Excellence
+- Deployment Strategies
+- Azure DevOps
+- Operational Practices
 categories:
 - DevOps
 preview: nakedalm-windows-logo-16-16.png

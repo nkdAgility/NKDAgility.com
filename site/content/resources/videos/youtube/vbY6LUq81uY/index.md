@@ -9,30 +9,31 @@ ResourceImportSource: Youtube
 videoId: vbY6LUq81uY
 source: youtube
 url: /resources/videos/:slug
-slug: maximizing-value-with-minimum-viable-products-mvps
+slug: navigating-the-unknown-how-to-fund-your-product-like-a-venture-capitalist
 layout: video
 aliases:
-- /resources/videos/vbY6LUq81uY
-- /resources/videos/maximizing-value-with-minimum-viable-products-mvps
-- /resources/maximizing-value-with-minimum-viable-products-mvps
 - /resources/vbY6LUq81uY
-aliasesFor404:
+- /resources/videos/navigating-the-unknown-how-to-fund-your-product-like-a-venture-capitalist
+- /resources/videos/maximizing-value-with-minimum-viable-products-mvps
+aliasesArchive:
+- /resources/videos/navigating-the-unknown-how-to-fund-your-product-like-a-venture-capitalist
 - /resources/videos/maximizing-value-with-minimum-viable-products-mvps
 - /resources/maximizing-value-with-minimum-viable-products-mvps
+- navigating-the-unknown-how-to-fund-your-product-like-a-venture-capitalist
 preview: https://i9.ytimg.com/vi/vbY6LUq81uY/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLA7AhAQKNTt8wyFKqaI0PiC-7jbHg
 duration: 437
 isShort: false
 tags:
 - Entrepreneurship
 - MVP
-- Lean Product Development
 - Ability to Innovate
-- Pragmatic Thinking
+- Lean Product Development
+- Product Discovery
 - Metrics and Learning
-- Lean Startup
-- Discovery and Learning
-- Product Validation
 - Business Agility
+- Value Delivery
+- Pragmatic Thinking
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

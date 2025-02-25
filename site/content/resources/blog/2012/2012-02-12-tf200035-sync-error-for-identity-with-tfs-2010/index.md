@@ -17,9 +17,9 @@ aliases:
 - /tf200035-sync-error-for-identity-with-tfs-2010
 - /resources/gX9PNx9Qnrt
 - /resources/blog/tf200035-sync-error-for-identity-with-tfs-2010
-aliasesFor404:
-- /tf200035-sync-error-for-identity-with-tfs-2010
+aliasesArchive:
 - /blog/tf200035-sync-error-for-identity-with-tfs-2010
+- /tf200035-sync-error-for-identity-with-tfs-2010
 - /resources/blog/tf200035-sync-error-for-identity-with-tfs-2010
 tags:
 - Windows

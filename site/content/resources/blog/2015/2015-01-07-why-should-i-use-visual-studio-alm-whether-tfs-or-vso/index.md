@@ -19,9 +19,9 @@ aliases:
 - /blog/why-should-i-use-visual-studio-alm
 - /resources/btixjSyu9NI
 - /resources/blog/why-should-i-use-visual-studio-alm-whether-tfs-or-vso
-aliasesFor404:
-- /why-should-i-use-visual-studio-alm-whether-tfs-or-vso
+aliasesArchive:
 - /blog/why-should-i-use-visual-studio-alm-whether-tfs-or-vso
+- /why-should-i-use-visual-studio-alm-whether-tfs-or-vso
 - /why-should-i-use-visual-studio-alm
 - /blog/why-should-i-use-visual-studio-alm
 - /resources/blog/why-should-i-use-visual-studio-alm-whether-tfs-or-vso

@@ -9,29 +9,31 @@ ResourceImportSource: Youtube
 videoId: 6L2r8YrehWc
 source: youtube
 url: /resources/videos/:slug
-slug: why-isn't-a-scrum-master-given-any-real-power-or-authority-in-the-scrum-guide-
+slug: why-the-scrum-masters-true-power-lies-in-influence-not-authority
 aliases:
-- /resources/videos/6L2r8YrehWc
-- /resources/videos/why-isn't-a-scrum-master-given-any-real-power-or-authority-in-the-scrum-guide-
-- /resources/why-isn't-a-scrum-master-given-any-real-power-or-authority-in-the-scrum-guide-
 - /resources/6L2r8YrehWc
-aliasesFor404:
+- /resources/videos/why-the-scrum-masters-true-power-lies-in-influence-not-authority
+- /resources/videos/why-isnt-a-scrum-master-given-any-real-power-or-authority-in-the-scrum-guide
+aliasesArchive:
+- /resources/videos/why-the-scrum-masters-true-power-lies-in-influence-not-authority
 - /resources/videos/why-isn't-a-scrum-master-given-any-real-power-or-authority-in-the-scrum-guide-
 - /resources/why-isn't-a-scrum-master-given-any-real-power-or-authority-in-the-scrum-guide-
+- /resources/videos/why-isnt-a-scrum-master-given-any-real-power-or-authority-in-the-scrum-guide
+- why-the-scrum-masters-true-power-lies-in-influence-not-authority
 preview: https://i.ytimg.com/vi/6L2r8YrehWc/maxresdefault.jpg
 duration: 237
 isShort: false
 tags:
 - Accountability
+- People and Process
 - Scrum Master
 - Scrum Team
-- People and Process
 - Pragmatic Thinking
-- Team Performance
 - Agile Product Management
+- Team Collaboration
 - Professional Scrum
 - Technical Leadership
-- Team Collaboration
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

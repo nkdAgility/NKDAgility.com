@@ -1,5 +1,5 @@
 ---
-title: 7 harbingers of the Agile apocalypse. Judgement.
+title: 7 harbingers of the Agile apocalypse - Judgement
 description: "Unlock the essence of Agile! \U0001F680 Join Martin as he explores core principles, pitfalls of prescriptive methods, and what truly motivates today's workforce."
 date: 2023-10-20T11:00:13Z
 ResourceId: FdQpGx-FW-0
@@ -15,15 +15,17 @@ preview: https://i.ytimg.com/vi/FdQpGx-FW-0/maxresdefault.jpg
 duration: 535
 isShort: false
 aliases:
-- /resources/7-harbingers-of-the-agile-apocalypse-judgement
-- /resources/videos/judgement!-7-harbingers-agile-apocalypse
-- /resources/videos/FdQpGx-FW-0
-- /resources/judgement!-7-harbingers-agile-apocalypse
 - /resources/FdQpGx-FW-0
-aliasesFor404:
+- /resources/videos/7-harbingers-of-the-agile-apocalypse-judgement
+- /resources/videos/judgement-7-harbingers-agile-apocalypse
+aliasesArchive:
+- /resources/videos/-harbingers-of-the-agile-apocalypse-judgement
+- /resources/videos/7-harbingers-of-the-agile-apocalypse-judgement
 - /resources/7-harbingers-of-the-agile-apocalypse-judgement
 - /resources/videos/judgement!-7-harbingers-agile-apocalypse
 - /resources/judgement!-7-harbingers-agile-apocalypse
+- /resources/videos/judgement-7-harbingers-agile-apocalypse
+- 7-harbingers-of-the-agile-apocalypse-judgement
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -31,12 +33,12 @@ tags:
 - People and Process
 - Transparency
 - Agile Values and Principles
+- Business Agility
+- Agile Frameworks
+- Organisational Agility
 - Agile Project Management
 - Agile Leadership
-- Organisational Agility
-- Agile Frameworks
-- Business Agility
-- Self Organisation
+- Decision Making
 - Organisational Culture
 resourceTypes:
 - video
@@ -87,9 +89,9 @@ To escape the judgment trap and nurture an environment where agility thrives, co
 
 1. **Empower Decision-Making at All Levels:** Ensure every team member has the information and autonomy needed to contribute meaningfully to the organization's goals.
 
-3. **Foster a Learning Environment:** Encourage continuous growth and experimentation. Allow teams to select the tools and methodologies that best suit their needs, without fear of judgment.
+2. **Foster a Learning Environment:** Encourage continuous growth and experimentation. Allow teams to select the tools and methodologies that best suit their needs, without fear of judgment.
 
-5. **Champion a Principles-Based Culture:** Clearly communicate your organization's core principles and let them guide decision-making, rather than imposing rigid rules.
+3. **Champion a Principles-Based Culture:** Clearly communicate your organization's core principles and let them guide decision-making, rather than imposing rigid rules.
 
 ## Wrapping Up: A Rallying Cry for Agile Warriors 📣
 

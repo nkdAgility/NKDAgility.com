@@ -9,16 +9,18 @@ ResourceImportSource: Youtube
 videoId: YVrGU0oZmc0
 source: youtube
 url: /resources/videos/:slug
-slug: unlocking-continuous-delivery-with-feature-flags-the-key-to-faster,-safer-deployments
+slug: unlocking-continuous-delivery-how-feature-flags-transform-software-development
 layout: video
 aliases:
-- /resources/videos/YVrGU0oZmc0
-- /resources/videos/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster,-safer-deployments
-- /resources/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster,-safer-deployments
 - /resources/YVrGU0oZmc0
-aliasesFor404:
+- /resources/videos/unlocking-continuous-delivery-how-feature-flags-transform-software-development
+- /resources/videos/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster-safer-deployments
+aliasesArchive:
+- /resources/videos/unlocking-continuous-delivery-how-feature-flags-transform-software-development
 - /resources/videos/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster,-safer-deployments
 - /resources/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster,-safer-deployments
+- /resources/videos/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster-safer-deployments
+- unlocking-continuous-delivery-how-feature-flags-transform-software-development
 preview: https://i9.ytimg.com/vi/YVrGU0oZmc0/maxresdefault.jpg?sqp=CKDMmrwG&rs=AOn4CLDPVXqxCxtvxC7uS6ZrcSzj_2vc6g
 duration: 557
 isShort: false

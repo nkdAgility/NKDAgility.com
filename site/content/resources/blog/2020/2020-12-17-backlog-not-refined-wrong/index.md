@@ -20,9 +20,9 @@ aliases:
 - /blog/if-your-backlog-is-not-refined-then-you-are-doing-it-wrong
 - /resources/4ukwclfJlXy
 - /resources/blog/backlog-not-refined-wrong
-aliasesFor404:
-- /backlog-not-refined-wrong
+aliasesArchive:
 - /blog/backlog-not-refined-wrong
+- /backlog-not-refined-wrong
 - /if-your-backlog-is-not-refined-then-you-are-doing-it-wrong
 - /blog/if-your-backlog-is-not-refined-then-you-are-doing-it-wrong
 - /resources/blog/backlog-not-refined-wrong
@@ -30,8 +30,8 @@ tags:
 - Scrum Product Development
 - Product Backlog
 - Backlog Refinement
-- Professional Scrum
 - Software Development
+- Professional Scrum
 - Agile Project Management
 categories:
 - Scrum

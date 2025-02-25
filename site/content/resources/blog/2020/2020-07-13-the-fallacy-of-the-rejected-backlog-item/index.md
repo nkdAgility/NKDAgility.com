@@ -17,15 +17,15 @@ aliases:
 - /the-fallacy-of-the-rejected-backlog-item
 - /resources/Ewu5coIz9qm
 - /resources/blog/the-fallacy-of-the-rejected-backlog-item
-aliasesFor404:
-- /the-fallacy-of-the-rejected-backlog-item
+aliasesArchive:
 - /blog/the-fallacy-of-the-rejected-backlog-item
+- /the-fallacy-of-the-rejected-backlog-item
 - /resources/blog/the-fallacy-of-the-rejected-backlog-item
 tags:
 - Scrum Product Development
 - Software Development
-- Professional Scrum
 - Agile Project Management
+- Professional Scrum
 categories:
 - Scrum
 - Social Technologies

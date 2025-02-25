@@ -17,9 +17,9 @@ aliases:
 - /kaiden-and-the-arachnoid-cyst
 - /resources/LjGohC1Hzfv
 - /resources/blog/kaiden-and-the-arachnoid-cyst
-aliasesFor404:
-- /kaiden-and-the-arachnoid-cyst
+aliasesArchive:
 - /blog/kaiden-and-the-arachnoid-cyst
+- /kaiden-and-the-arachnoid-cyst
 - /resources/blog/kaiden-and-the-arachnoid-cyst
 categories: []
 preview: nakedalm-logo-128-link-1-1.png

@@ -15,29 +15,28 @@ preview: https://i.ytimg.com/vi/Nw0bXiOqu0Q/maxresdefault.jpg
 duration: 246
 isShort: false
 aliases:
-- /resources/why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile
-- /resources/videos/why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile-
-- /resources/videos/Nw0bXiOqu0Q
-- /resources/why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile-
 - /resources/Nw0bXiOqu0Q
-aliasesFor404:
+- /resources/videos/why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile
+aliasesArchive:
+- /resources/videos/why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile
 - /resources/why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile
 - /resources/videos/why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile-
 - /resources/why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile-
+- why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Organisational Agility
 - People and Process
+- Empirical Process Control
 - Agile Project Management
 - Agile Product Management
-- Empirical Process Control
-- Agile Values and Principles
-- Continuous Learning
-- Hypothesis Driven Development
 - Business Agility
-- Resilience and Change
+- Change Management
+- Discovery and Learning
+- Agile Values and Principles
+- Hypothesis Driven Development
 resourceTypes:
 - video
 categories:

@@ -17,9 +17,9 @@ aliases:
 - /uber-dorky-nerd-king
 - /resources/Ujdt5B-Adqp
 - /resources/blog/uber-dorky-nerd-king
-aliasesFor404:
-- /uber-dorky-nerd-king
+aliasesArchive:
 - /blog/uber-dorky-nerd-king
+- /uber-dorky-nerd-king
 - /resources/blog/uber-dorky-nerd-king
 categories: []
 preview: nakedalm-logo-128-link-1-1.png

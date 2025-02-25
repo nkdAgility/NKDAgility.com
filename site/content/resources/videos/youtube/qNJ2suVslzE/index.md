@@ -9,30 +9,31 @@ ResourceImportSource: Youtube
 videoId: qNJ2suVslzE
 source: youtube
 url: /resources/videos/:slug
-slug: taming-scope-creep-with-agile
+slug: transforming-scope-creep-into-success-embrace-agility-and-deliver-value-in-a-changing-market
 layout: video
 aliases:
-- /resources/videos/qNJ2suVslzE
-- /resources/videos/taming-scope-creep-with-agile
-- /resources/taming-scope-creep-with-agile
 - /resources/qNJ2suVslzE
-aliasesFor404:
+- /resources/videos/transforming-scope-creep-into-success-embrace-agility-and-deliver-value-in-a-changing-market
+- /resources/videos/taming-scope-creep-with-agile
+aliasesArchive:
+- /resources/videos/transforming-scope-creep-into-success-embrace-agility-and-deliver-value-in-a-changing-market
 - /resources/videos/taming-scope-creep-with-agile
 - /resources/taming-scope-creep-with-agile
+- transforming-scope-creep-into-success-embrace-agility-and-deliver-value-in-a-changing-market
 preview: https://i9.ytimg.com/vi/qNJ2suVslzE/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLBAuNIUpdN0JKx8msFH_ZzcrnsvLw
 duration: 259
 isShort: false
 tags:
 - Agile Product Operating Model
-- Agile Values and Principles
 - Agile Product Management
-- Agile Planning
-- Software Development
-- Software Developers
+- Agile Values and Principles
+- Value Delivery
 - Market Adaptability
-- People and Process
-- Agile Frameworks
-- Product Delivery
+- Agile Strategy
+- Agile Philosophy
+- Software Development
+- Agile Project Management
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

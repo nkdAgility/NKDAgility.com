@@ -9,33 +9,32 @@ ResourceImportSource: Youtube
 videoId: FNFV4mp-0pg
 source: internal
 url: /resources/videos/:slug
-slug: is-a-scrum-master-an-agile-micromanager
+slug: is-a-scrum-master-an-agile-micromanager-FNFV4mp-0pg
 layout: video
 preview: https://i.ytimg.com/vi/FNFV4mp-0pg/maxresdefault.jpg
 duration: 41
 isShort: true
 aliases:
-- /resources/is-a-scrum-master-an-agile-micromanager
-- /resources/videos/is-a-scrum-master-an-agile-micromanager
-- /resources/videos/FNFV4mp-0pg
 - /resources/FNFV4mp-0pg
-aliasesFor404:
-- /resources/is-a-scrum-master-an-agile-micromanager
+- /resources/videos/is-a-scrum-master-an-agile-micromanager-FNFV4mp-0pg
+aliasesArchive:
 - /resources/videos/is-a-scrum-master-an-agile-micromanager
+- /resources/is-a-scrum-master-an-agile-micromanager
+- is-a-scrum-master-an-agile-micromanager-FNFV4mp-0pg
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Team Collaboration
 - Scrum Master
-- Scrum Team
-- Agile Leadership
 - Agile Project Management
-- Professional Scrum
-- Technical Leadership
-- Team Performance
-- Agile Frameworks
+- Agile Leadership
+- Team Collaboration
+- Scrum Team
 - People and Process
+- Team Performance
+- Team Motivation
+- Technical Leadership
+- Agile Transformation
 resourceTypes:
 - video
 categories:

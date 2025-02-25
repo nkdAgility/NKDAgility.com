@@ -8,17 +8,17 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: wNgfCTE7C6M
 url: /resources/videos/:slug
-slug: how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions-
+slug: how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=wNgfCTE7C6M
 aliases:
-- /resources/videos/wNgfCTE7C6M
-- /resources/videos/how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions-
-- /resources/how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions-
 - /resources/wNgfCTE7C6M
-aliasesFor404:
+- /resources/videos/how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions
+aliasesArchive:
+- /resources/videos/how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions
 - /resources/videos/how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions-
 - /resources/how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions-
+- how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions
 preview: https://i.ytimg.com/vi/wNgfCTE7C6M/maxresdefault.jpg
 duration: 371
 isShort: false

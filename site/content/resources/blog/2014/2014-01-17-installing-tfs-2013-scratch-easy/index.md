@@ -19,9 +19,9 @@ aliases:
 - /blog/installing-tfs-2013-from-scratch-is-easy
 - /resources/VfADNDpkNbe
 - /resources/blog/installing-tfs-2013-scratch-easy
-aliasesFor404:
-- /installing-tfs-2013-scratch-easy
+aliasesArchive:
 - /blog/installing-tfs-2013-scratch-easy
+- /installing-tfs-2013-scratch-easy
 - /installing-tfs-2013-from-scratch-is-easy
 - /blog/installing-tfs-2013-from-scratch-is-easy
 - /resources/blog/installing-tfs-2013-scratch-easy

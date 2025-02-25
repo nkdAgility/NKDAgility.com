@@ -9,29 +9,30 @@ ResourceImportSource: Youtube
 videoId: MCdI76dGVMM
 source: internal
 url: /resources/videos/:slug
-slug: hardest-part-of-becoming-a-professional-scrum-master
+slug: hardest-part-of-becoming-a-professional-scrum-master-MCdI76dGVMM
 layout: video
 preview: https://i.ytimg.com/vi/MCdI76dGVMM/maxresdefault.jpg
 duration: 32
 isShort: true
 aliases:
-- /resources/hardest-part-of-becoming-a-professional-scrum-master
-- /resources/hardest-part-of-becoming-a-professional-scrummaster
-- /resources/videos/hardest-part-of-becoming-a-professional-scrummaster-
-- /resources/videos/MCdI76dGVMM
-- /resources/hardest-part-of-becoming-a-professional-scrummaster-
 - /resources/MCdI76dGVMM
-aliasesFor404:
+- /resources/videos/hardest-part-of-becoming-a-professional-scrum-master-MCdI76dGVMM
+- /resources/videos/hardest-part-of-becoming-a-professional-scrum-master
+- /resources/videos/hardest-part-of-becoming-a-professional-scrummaster
+aliasesArchive:
+- /resources/videos/hardest-part-of-becoming-a-professional-scrum-master
 - /resources/hardest-part-of-becoming-a-professional-scrum-master
 - /resources/hardest-part-of-becoming-a-professional-scrummaster
 - /resources/videos/hardest-part-of-becoming-a-professional-scrummaster-
 - /resources/hardest-part-of-becoming-a-professional-scrummaster-
+- /resources/videos/hardest-part-of-becoming-a-professional-scrummaster
+- hardest-part-of-becoming-a-professional-scrum-master-MCdI76dGVMM
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Master
 - People and Process
+- Scrum Master
 resourceTypes:
 - video
 categories:

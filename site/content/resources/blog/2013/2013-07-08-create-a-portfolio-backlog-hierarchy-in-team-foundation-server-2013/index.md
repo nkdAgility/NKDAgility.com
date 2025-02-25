@@ -17,9 +17,9 @@ aliases:
 - /create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
 - /resources/O_gTr7ntMcx
 - /resources/blog/create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
-aliasesFor404:
-- /create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
+aliasesArchive:
 - /blog/create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
+- /create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
 - /resources/blog/create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
 tags:
 - Practical Techniques and Tooling

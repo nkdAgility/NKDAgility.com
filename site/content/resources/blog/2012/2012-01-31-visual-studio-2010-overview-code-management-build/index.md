@@ -20,12 +20,12 @@ aliases:
 - /blog/visual-studio-2010-overview---code-management-and-build
 - /resources/1hC0IZyRA0c
 - /resources/blog/visual-studio-2010-overview-code-management-build
-aliasesFor404:
-- /visual-studio-2010-overview-code-management-build
+aliasesArchive:
 - /blog/visual-studio-2010-overview-code-management-build
+- /visual-studio-2010-overview-code-management-build
+- /visual-studio-2010-overview
 - /visual-studio-2010-overview---code-management-and-build
 - /blog/visual-studio-2010-overview---code-management-and-build
-- /visual-studio-2010-overview
 - /resources/blog/visual-studio-2010-overview-code-management-build
 categories:
 - Engineering Excellence

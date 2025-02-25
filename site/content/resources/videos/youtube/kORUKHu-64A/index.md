@@ -9,29 +9,33 @@ ResourceImportSource: Youtube
 videoId: kORUKHu-64A
 source: internal
 url: /resources/videos/:slug
-slug: scrum-is-like-communism-it-doesn-t-work-myth-5
+slug: scrum-is-like-communism-it-doesnt-work-myth-5
 layout: video
 preview: https://i.ytimg.com/vi/kORUKHu-64A/maxresdefault.jpg
 duration: 235
 isShort: false
 aliases:
-- /resources/scrum-is-like-communism-it-doesnt-work-myth-5
-- /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-5-balance-between-flexibility-&-compliance
-- /resources/videos/kORUKHu-64A
-- /resources/scrum-is-like-communism-it-doesn't-work-myth-5-balance-between-flexibility-&-compliance
 - /resources/kORUKHu-64A
-aliasesFor404:
+- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-5
+- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-5-balance-between-flexibility-compliance
+aliasesArchive:
+- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-
+- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-5-
 - /resources/scrum-is-like-communism-it-doesnt-work-myth-5
 - /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-5-balance-between-flexibility-&-compliance
 - /resources/scrum-is-like-communism-it-doesn't-work-myth-5-balance-between-flexibility-&-compliance
+- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-5-balance-between-flexibility-compliance
+- scrum-is-like-communism-it-doesnt-work-myth-5-
+- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-5
+- scrum-is-like-communism-it-doesnt-work-myth-5
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Software Development
-- Agile Frameworks
 - People and Process
 - Agile Project Management
+- Software Development
+- Agile Frameworks
 - Pragmatic Thinking
 resourceTypes:
 - video

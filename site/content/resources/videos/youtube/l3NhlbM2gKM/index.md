@@ -9,31 +9,33 @@ ResourceImportSource: Youtube
 videoId: l3NhlbM2gKM
 source: internal
 url: /resources/videos/:slug
-slug: scrum-is-like-communism-it-doesn-t-work-myth-2
+slug: scrum-is-like-communism-it-doesnt-work-myth-2
 layout: video
 preview: https://i.ytimg.com/vi/l3NhlbM2gKM/maxresdefault.jpg
 duration: 216
 isShort: false
 aliases:
-- /resources/scrum-is-like-communism-it-doesnt-work-myth-2
-- /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-2
-- /resources/videos/l3NhlbM2gKM
-- /resources/scrum-is-like-communism-it-doesn't-work-myth-2
 - /resources/l3NhlbM2gKM
-aliasesFor404:
+- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-2
+aliasesArchive:
+- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-
+- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-2-
 - /resources/scrum-is-like-communism-it-doesnt-work-myth-2
 - /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-2
 - /resources/scrum-is-like-communism-it-doesn't-work-myth-2
+- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-2
+- scrum-is-like-communism-it-doesnt-work-myth-2-
+- scrum-is-like-communism-it-doesnt-work-myth-2
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Backlog Refinement
 - People and Process
-- Software Development
 - Estimation
-- Agile Frameworks
 - Agile Project Management
+- Software Development
+- Agile Frameworks
 - Software Developers
 - Pragmatic Thinking
 resourceTypes:

@@ -1,6 +1,6 @@
 ---
-title: Does scrum really allow you to do twice the work in half the time?
-description: 'Explore if Scrum truly enables you to achieve twice the work in half the time, as Martin Hinshelwood unpacks its real value proposition. #Scrum #Agile'
+title: 'Debunking the Scrum Myth: Why "Twice the Work in Half the Time" is a Misleading Promise'
+description: Uncover the truth behind Scrum's promise of "twice the work in half the time." Learn why focusing on value, not volume, is key to Agile success.
 date: 2023-02-02T07:00:13Z
 ResourceId: e7L0NFYUFSw
 ResourceType: videos
@@ -8,28 +8,29 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: e7L0NFYUFSw
 url: /resources/videos/:slug
-slug: does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time-
+slug: debunking-the-scrum-myth-why-twice-the-work-in-half-the-time-is-a-misleading-promise
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=e7L0NFYUFSw
 aliases:
-- /resources/videos/e7L0NFYUFSw
-- /resources/videos/does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time-
-- /resources/does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time-
 - /resources/e7L0NFYUFSw
-aliasesFor404:
+- /resources/videos/debunking-the-scrum-myth-why-twice-the-work-in-half-the-time-is-a-misleading-promise
+- /resources/videos/does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time
+aliasesArchive:
+- /resources/videos/does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time
 - /resources/videos/does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time-
 - /resources/does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time-
+- /resources/videos/debunking-the-scrum-myth-why-twice-the-work-in-half-the-time-is-a-misleading-promise
+- debunking-the-scrum-myth-why-twice-the-work-in-half-the-time-is-a-misleading-promise
 preview: https://i.ytimg.com/vi/e7L0NFYUFSw/maxresdefault.jpg
 duration: 205
 isShort: false
 tags:
-- Agile Frameworks
 - Agile Project Management
+- Agile Frameworks
 - People and Process
 - Software Development
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
@@ -37,25 +38,40 @@ categories:
 - Social Technologies
 
 ---
- Jeff Sutherland, the co-creator of #scrum, titled his book 'How to do twice the work in half the time' and it's been a value proposition for the #scrumframework ever since.
+Scrum and the Myth of "Twice the Work in Half the Time"
 
-If you're a traditional organization using #projectmanagement, it can be a very attractive proposition because your focus lies in delivery - execution of a predetermined plan - and it's natural to assume that #scrum will enable your team to simply do more with less.
+I often find myself reflecting on the phrase, "Scrum allows you to do twice the work in half the time." It’s a catchy tagline, isn’t it? One that seems to promise a miraculous transformation in productivity. But let’s be honest—this is more of a marketing gimmick than a reality. 
 
-Many #agile purists and #scrum practitioners will tell you that the goal of #scrum is to be more effective, rather than efficient, and so productivity isn't really the goal of #agile. So, how do we reconcile the value proposition of a co-creator of #scrum with what it actually empowers you to do?
+### The Reality of Scrum
 
-In this short video, Martin Hinshelwood speaks about the value proposition of #scrum and whether it does actually allow you to do twice the work in half the time.
+When we talk about achieving "twice the features in half the time," we’re not just discussing a simple increase in output. In fact, if we were to break it down, we’re looking at a staggering 400% increase in output. But here’s the catch: Scrum is not about output; it’s about outcomes. 
 
-About NKD Agility
+- **Output vs. Outcome**: 
+  - **Output** refers to the number of features or tasks completed.
+  - **Outcome** focuses on the value delivered to the customer.
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+Imagine delivering ten features that provide a hundred times the value. That’s the real goal of Scrum. It’s not about churning out more stuff; it’s about delivering meaningful results that truly benefit the end user.
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+### The Damage of Misleading Phrases
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+This misleading phrase has, unfortunately, done a disservice to our industry. It creates unrealistic expectations and can lead to frustration when teams fail to meet these inflated promises. I’ve seen it time and again—teams under pressure to deliver more, faster, only to find themselves overwhelmed and disillusioned.
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+Woody Zuill, in his insightful writings, touches on this very topic. He highlights the absurdity of Agile books touting "best practices." In the Agile world, there’s no such thing as a one-size-fits-all solution. What we have instead are emergent practices that evolve based on the unique context of each team and project.
 
-We would love to work with you. 
+### Marketing vs. Reality
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
- [Watch on Youtube](https://www.youtube.com/watch?v=e7L0NFYUFSw)
+Let’s face it: publishers aren’t going to sell a book titled "Adequate Practices." They want something that grabs attention, something that promises results. So, we end up with titles that can mislead rather than inform. 
+
+Despite this, I’ve found value in leveraging these books, particularly when working with leadership teams who may be sceptical about Agile methodologies. The cover may be flashy, but the content often provides a gateway to deeper conversations about the principles of Scrum.
+
+### A Personal Anecdote
+
+I’ve even taken it a step further. I keep a box of these books handy, and I’ve been known to leave them in strategic locations—like near executive bathrooms or in waiting areas. It’s a subtle nudge, encouraging leaders to pick them up and engage with the material. 
+
+One book that stands out is one that discusses the Udo Loop and shares compelling stories from Jeff Sutherland’s experiences as a fighter pilot. These narratives resonate and help bridge the gap between scepticism and understanding.
+
+### Focus on Value, Not Volume
+
+At the end of the day, we need to shift our focus from output to outcome. It’s not about delivering twice the features; it’s about delivering twice the value, even if that means cutting down on the number of features we provide. 
+
+In conclusion, let’s move away from the myth of "twice the work in half the time." Instead, let’s embrace the true essence of Scrum: delivering value through collaboration, transparency, and continuous improvement. That’s where the real power of Agile lies.

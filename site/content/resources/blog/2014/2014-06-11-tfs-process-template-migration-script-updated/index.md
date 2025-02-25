@@ -17,21 +17,21 @@ aliases:
 - /tfs-process-template-migration-script-updated
 - /resources/__k7mlKoTxt
 - /resources/blog/tfs-process-template-migration-script-updated
-aliasesFor404:
-- /tfs-process-template-migration-script-updated
+aliasesArchive:
 - /blog/tfs-process-template-migration-script-updated
+- /tfs-process-template-migration-script-updated
 - /resources/blog/tfs-process-template-migration-script-updated
 tags:
 - System Configuration
 - Operational Practices
-- Software Development
 - Install and Configuration
+- Software Development
 - Practical Techniques and Tooling
 - Application Lifecycle Management
-- Technical Excellence
-- Azure DevOps
-- Pragmatic Thinking
 - Troubleshooting
+- Technical Mastery
+- Pragmatic Thinking
+- Technical Excellence
 categories:
 - Scrum
 preview: nakedalm-experts-visual-studio-alm-1-1.png

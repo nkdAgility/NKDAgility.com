@@ -17,9 +17,9 @@ aliases:
 - /creating-a-wpf-work-item-control
 - /resources/4vBEBY-yvDB
 - /resources/blog/creating-a-wpf-work-item-control
-aliasesFor404:
-- /creating-a-wpf-work-item-control
+aliasesArchive:
 - /blog/creating-a-wpf-work-item-control
+- /creating-a-wpf-work-item-control
 - /resources/blog/creating-a-wpf-work-item-control
 tags:
 - Software Development

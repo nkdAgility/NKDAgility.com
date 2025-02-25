@@ -17,9 +17,9 @@ aliases:
 - /netidme
 - /resources/QY3BJhuGqTa
 - /resources/blog/netidme
-aliasesFor404:
-- /netidme
+aliasesArchive:
 - /blog/netidme
+- /netidme
 - /resources/blog/netidme
 tags:
 - Windows

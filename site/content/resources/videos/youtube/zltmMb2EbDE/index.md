@@ -15,29 +15,30 @@ preview: https://i.ytimg.com/vi/zltmMb2EbDE/maxresdefault.jpg
 duration: 343
 isShort: false
 aliases:
-- /resources/does-kanban-integrate-into-a-scrum-environment
-- /resources/videos/does-kanban-integrate-with-a-scrum-environment-
-- /resources/videos/zltmMb2EbDE
-- /resources/does-kanban-integrate-with-a-scrum-environment-
 - /resources/zltmMb2EbDE
-aliasesFor404:
+- /resources/videos/does-kanban-integrate-into-a-scrum-environment
+- /resources/videos/does-kanban-integrate-with-a-scrum-environment
+aliasesArchive:
+- /resources/videos/does-kanban-integrate-into-a-scrum-environment
 - /resources/does-kanban-integrate-into-a-scrum-environment
 - /resources/videos/does-kanban-integrate-with-a-scrum-environment-
 - /resources/does-kanban-integrate-with-a-scrum-environment-
+- /resources/videos/does-kanban-integrate-with-a-scrum-environment
+- does-kanban-integrate-into-a-scrum-environment
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Throughput
 - Strategy
+- Throughput
 - Metrics and Learning
-- Software Development
-- Flow Efficiency
 - Practical Techniques and Tooling
 - Cycle Time
-- Pragmatic Thinking
-- Agile Frameworks
+- Software Development
+- Flow Efficiency
+- Agile Project Management
 - Operational Practices
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

@@ -8,30 +8,32 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: cb6JpfomYRU
 url: /resources/videos/:slug
-slug: how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates-
+slug: transform-your-career-how-to-become-a-confident-scrum-master-through-real-world-learning-and-community-support
 layout: video
 aliases:
-- /resources/videos/cb6JpfomYRU
-- /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates-
-- /resources/how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates-
 - /resources/cb6JpfomYRU
-aliasesFor404:
+- /resources/videos/transform-your-career-how-to-become-a-confident-scrum-master-through-real-world-learning-and-community-support
+- /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates
+aliasesArchive:
+- /resources/videos/transform-your-career-how-to-become-a-confident-scrum-master-through-real-world-learning-and-community-support
 - /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates-
 - /resources/how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates-
+- /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates
+- transform-your-career-how-to-become-a-confident-scrum-master-through-real-world-learning-and-community-support
 preview: https://i.ytimg.com/vi/cb6JpfomYRU/maxresdefault.jpg
 duration: 353
 isShort: false
 tags:
 - Coaching
+- People and Process
 - Scrum Master
 - Discovery and Learning
-- People and Process
 - Professional Scrum
-- Continuous Learning
 - Practical Techniques and Tooling
 - Scrum Team
-- Personal
+- Continuous Learning
 - Software Development
+- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

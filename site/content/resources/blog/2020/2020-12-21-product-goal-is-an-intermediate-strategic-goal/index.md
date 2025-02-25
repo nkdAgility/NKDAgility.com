@@ -18,21 +18,21 @@ aliases:
 - /product-goal-is-an-intermediate-strategic-goal
 - /resources/PjYSLMnBHhI
 - /resources/blog/product-goal-is-an-intermediate-strategic-goal
-aliasesFor404:
-- /product-goal-is-an-intermediate-strategic-goal
+aliasesArchive:
 - /blog/product-goal-is-an-intermediate-strategic-goal
+- /product-goal-is-an-intermediate-strategic-goal
 - /resources/blog/product-goal-is-an-intermediate-strategic-goal
 tags:
 - Experimentation
-- Agile Product Operating Model
 - Agile Project Management
 - Agile Product Management
-- Value Delivery
-- Resilience and Change
+- Agile Product Operating Model
+- Evidence Based Leadership
+- Ability to Innovate
 - Discovery and Learning
-- Product Delivery
 - People and Process
-- Evidence Based Management
+- Value Delivery
+- Change Management
 categories:
 - Product Management
 - Leadership

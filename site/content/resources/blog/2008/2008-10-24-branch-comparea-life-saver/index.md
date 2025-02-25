@@ -19,9 +19,9 @@ aliases:
 - /blog/branch-compare…a-life-saver
 - /resources/x-pH6Gc3gyt
 - /resources/blog/branch-comparea-life-saver
-aliasesFor404:
-- /branch-comparea-life-saver
+aliasesArchive:
 - /blog/branch-comparea-life-saver
+- /branch-comparea-life-saver
 - /branch-compare…a-life-saver
 - /blog/branch-compare…a-life-saver
 - /resources/blog/branch-comparea-life-saver

@@ -8,31 +8,31 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: sKYVNHcf1jg
 url: /resources/videos/:slug
-slug: what-was-your-worst-day-as-an-agile-consultant-
+slug: what-was-your-worst-day-as-an-agile-consultant
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=sKYVNHcf1jg
 aliases:
-- /resources/videos/sKYVNHcf1jg
-- /resources/videos/what-was-your-worst-day-as-an-agile-consultant-
-- /resources/what-was-your-worst-day-as-an-agile-consultant-
 - /resources/sKYVNHcf1jg
-aliasesFor404:
+- /resources/videos/what-was-your-worst-day-as-an-agile-consultant
+aliasesArchive:
+- /resources/videos/what-was-your-worst-day-as-an-agile-consultant
 - /resources/videos/what-was-your-worst-day-as-an-agile-consultant-
 - /resources/what-was-your-worst-day-as-an-agile-consultant-
+- what-was-your-worst-day-as-an-agile-consultant
 preview: https://i.ytimg.com/vi/sKYVNHcf1jg/maxresdefault.jpg
 duration: 280
 isShort: false
 tags:
 - Coaching
-- Agile Transformation
-- Team Motivation
-- Agile Frameworks
-- Business Agility
-- Scrum Team
-- Agile Philosophy
+- Agile Leadership
+- Agile Project Management
 - Team Performance
 - Agile Product Management
-- Agile Leadership
+- Agile Philosophy
+- Organisational Agility
+- Team Motivation
+- Agile Transformation
+- Scrum Team
 sitemap:
   filename: sitemap.xml
   priority: 0.4

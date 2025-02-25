@@ -17,9 +17,9 @@ aliases:
 - /windows-live-skydrive-beta
 - /resources/oN9JK2ZkXJ3
 - /resources/blog/windows-live-skydrive-beta
-aliasesFor404:
-- /windows-live-skydrive-beta
+aliasesArchive:
 - /blog/windows-live-skydrive-beta
+- /windows-live-skydrive-beta
 - /resources/blog/windows-live-skydrive-beta
 tags: []
 categories: []

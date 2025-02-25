@@ -19,17 +19,17 @@ aliases:
 - /blog/windows-8-issue--local-network-is-detected-as-public
 - /resources/Ws3mtPZiqjo
 - /resources/blog/windows-8-issue-local-network-is-detected-as-public
-aliasesFor404:
-- /windows-8-issue-local-network-is-detected-as-public
+aliasesArchive:
 - /blog/windows-8-issue-local-network-is-detected-as-public
+- /windows-8-issue-local-network-is-detected-as-public
 - /windows-8-issue--local-network-is-detected-as-public
 - /blog/windows-8-issue--local-network-is-detected-as-public
 - /resources/blog/windows-8-issue-local-network-is-detected-as-public
 tags:
 - Windows
 - Install and Configuration
-- System Configuration
 - Practical Techniques and Tooling
+- System Configuration
 - Troubleshooting
 categories: []
 preview: metro-problem-icon-5-5.png

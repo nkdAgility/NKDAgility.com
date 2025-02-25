@@ -15,29 +15,32 @@ preview: https://i.ytimg.com/vi/ZisAuhrOhcY/maxresdefault.jpg
 duration: 321
 isShort: false
 aliases:
-- /resources/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
-- /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients-
-- /resources/videos/ZisAuhrOhcY
-- /resources/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients-
 - /resources/ZisAuhrOhcY
-aliasesFor404:
+- /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
+- /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients
+aliasesArchive:
+- /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients-
 - /resources/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
 - /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients-
 - /resources/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients-
+- my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients-
+- /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
+- /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients
+- my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Strategy
 - Transparency
+- Strategy
 - Metrics and Learning
 - Transparency and Accountability
+- Practical Techniques and Tooling
 - Agile Strategy
+- Agile Project Management
 - Software Development
 - Flow Efficiency
-- Agile Project Management
-- Practical Techniques and Tooling
-- Pragmatic Thinking
+- Operational Practices
 resourceTypes:
 - video
 categories:

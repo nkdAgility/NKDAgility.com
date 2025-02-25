@@ -1,6 +1,6 @@
 ---
-title: Why I love hierarchies of competence
-description: 'Discover why Martin Hinshelwood prefers hierarchies of competence over control, empowering experts to drive success in agile environments. #shorts #agile'
+title: 'Embracing Hierarchies of Competence: How Respect and Expertise Transform Workplaces'
+description: Discover how hierarchies of competence can transform your workplace by fostering respect, collaboration, and continuous learning. Embrace expertise for better outcomes!
 date: 2023-05-03T09:30:09Z
 ResourceId: kT9sB1jIz0U
 ResourceType: videos
@@ -8,17 +8,18 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: kT9sB1jIz0U
 url: /resources/videos/:slug
-slug: why-i-love-hierarchies-of-competence
+slug: embracing-hierarchies-of-competence-how-respect-and-expertise-transform-workplaces
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=kT9sB1jIz0U
 aliases:
-- /resources/videos/kT9sB1jIz0U
-- /resources/videos/why-i-love-hierarchies-of-competence
-- /resources/why-i-love-hierarchies-of-competence
 - /resources/kT9sB1jIz0U
-aliasesFor404:
+- /resources/videos/embracing-hierarchies-of-competence-how-respect-and-expertise-transform-workplaces
+- /resources/videos/why-i-love-hierarchies-of-competence
+aliasesArchive:
 - /resources/videos/why-i-love-hierarchies-of-competence
 - /resources/why-i-love-hierarchies-of-competence
+- why-i-love-hierarchies-of-competence
+- /resources/videos/embracing-hierarchies-of-competence-how-respect-and-expertise-transform-workplaces
+- embracing-hierarchies-of-competence-how-respect-and-expertise-transform-workplaces
 preview: https://i.ytimg.com/vi/kT9sB1jIz0U/maxresdefault.jpg
 duration: 62
 isShort: false
@@ -26,7 +27,7 @@ tags:
 - People and Process
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
@@ -36,23 +37,20 @@ categories:
 - Leadership
 
 ---
- #shorts Traditional #management environments tend to be based on hierarchies of control. X individual is the leader of the organization and everything flows down from there, from the highest rank to the lowest rank.
+I’ve always had a deep appreciation for hierarchies of competence. Unlike traditional hierarchies that often revolve around control and authority, these structures are rooted in respect and recognition of individual capabilities. This distinction is crucial, especially in today’s fast-paced work environments where collaboration and expertise are paramount.
 
-hierarchies of competence are based on experts making the decisions that they are best suited to, and actively empowering and enabling people around them to excel in the environment.
+When I think about hierarchies of competence, I’m reminded of the times I’ve worked alongside individuals who truly excel in their fields. These are the people who have not only demonstrated their knowledge but have also earned the trust of their peers. It’s fascinating how we naturally gravitate towards these experts, seeking their insights and guidance. Why? Because they add real value to the conversation.
 
-In this short video, Martin Hinshelwood talks about the reason he loves hierarchies of competence rather than hierarchies of control
+Here are a few key points that highlight the importance of hierarchies of competence:
 
-About NKD Agility
+- **Respect Over Control**: In a competence-based hierarchy, respect is the currency. It’s not about who has the loudest voice or the highest title; it’s about recognising those who have the skills and knowledge to guide us. This creates an environment where everyone feels valued and empowered to contribute.
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+- **Expertise Matters**: We often find ourselves deferring to those who have proven their expertise. Whether it’s a technical challenge or a strategic decision, having someone with a holistic view of the problem can make all the difference. Their insights can illuminate paths we might not have considered, leading to better outcomes.
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+- **Collaboration is Key**: In a workplace that values competence, collaboration flourishes. When team members respect each other’s skills, they’re more likely to share ideas and work together towards common goals. This synergy can lead to innovative solutions and a more dynamic work environment.
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+- **Continuous Learning**: Hierarchies of competence encourage a culture of continuous learning. When individuals are recognised for their expertise, it inspires others to develop their skills and knowledge. This creates a cycle of growth that benefits the entire organisation.
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+Reflecting on my experiences, I’ve seen how these principles play out in real-world scenarios. For instance, during a recent project, we faced a complex challenge that required a multifaceted approach. By leaning on the expertise of team members who had specialised knowledge, we were able to navigate the issue more effectively. Their insights not only informed our decisions but also fostered a sense of camaraderie and shared purpose.
 
-We would love to work with you. 
-
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
- [Watch on Youtube](https://www.youtube.com/watch?v=kT9sB1jIz0U)
+In conclusion, embracing hierarchies of competence can transform the way we work. By prioritising respect and expertise over control, we create an environment where everyone can thrive. Let’s continue to champion this approach, recognising the value that each individual brings to the table. After all, it’s through collaboration and mutual respect that we can truly achieve greatness.

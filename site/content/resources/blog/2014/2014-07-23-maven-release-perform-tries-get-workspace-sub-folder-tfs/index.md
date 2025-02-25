@@ -19,20 +19,20 @@ aliases:
 - /blog/maven-release-perform-tries-to-do-a-get-to-a-workspace-sub-folder-in-tfs
 - /resources/yXZtGRWsXfS
 - /resources/blog/maven-release-perform-tries-get-workspace-sub-folder-tfs
-aliasesFor404:
-- /maven-release-perform-tries-get-workspace-sub-folder-tfs
+aliasesArchive:
 - /blog/maven-release-perform-tries-get-workspace-sub-folder-tfs
+- /maven-release-perform-tries-get-workspace-sub-folder-tfs
 - /maven-release-perform-tries-to-do-a-get-to-a-workspace-sub-folder-in-tfs
 - /blog/maven-release-perform-tries-to-do-a-get-to-a-workspace-sub-folder-in-tfs
 - /resources/blog/maven-release-perform-tries-get-workspace-sub-folder-tfs
 tags:
 - Install and Configuration
+- Practical Techniques and Tooling
 - Software Development
 - System Configuration
-- Practical Techniques and Tooling
-- Pragmatic Thinking
 - Troubleshooting
 - Technical Mastery
+- Pragmatic Thinking
 - Release Management
 - Operational Practices
 categories:

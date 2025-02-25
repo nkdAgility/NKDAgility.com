@@ -17,15 +17,15 @@ aliases:
 - /removing-a-dead-solution-deployment-from-moss-2007
 - /resources/JD6-7WEsi2d
 - /resources/blog/removing-a-dead-solution-deployment-from-moss-2007
-aliasesFor404:
-- /removing-a-dead-solution-deployment-from-moss-2007
+aliasesArchive:
 - /blog/removing-a-dead-solution-deployment-from-moss-2007
+- /removing-a-dead-solution-deployment-from-moss-2007
 - /resources/blog/removing-a-dead-solution-deployment-from-moss-2007
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
-- System Configuration
+- Install and Configuration
 - Troubleshooting
+- System Configuration
 preview: metro-sharepoint-128-link-1-1.png
 categories: []
 

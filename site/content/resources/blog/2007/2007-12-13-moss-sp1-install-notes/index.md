@@ -17,9 +17,9 @@ aliases:
 - /moss-sp1-install-notes
 - /resources/s8EZNFYedNl
 - /resources/blog/moss-sp1-install-notes
-aliasesFor404:
-- /moss-sp1-install-notes
+aliasesArchive:
 - /blog/moss-sp1-install-notes
+- /moss-sp1-install-notes
 - /resources/blog/moss-sp1-install-notes
 tags:
 - Install and Configuration

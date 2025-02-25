@@ -17,13 +17,13 @@ aliases:
 - /quality-enablement-with-visual-studio-2012
 - /resources/YcLApPV4Zgj
 - /resources/blog/quality-enablement-with-visual-studio-2012
-aliasesFor404:
-- /quality-enablement-with-visual-studio-2012
+aliasesArchive:
 - /blog/quality-enablement-with-visual-studio-2012
+- /quality-enablement-with-visual-studio-2012
 - /resources/blog/quality-enablement-with-visual-studio-2012
 tags:
-- Software Development
 - Working Software
+- Software Development
 - Application Lifecycle Management
 - Engineering Practices
 categories:

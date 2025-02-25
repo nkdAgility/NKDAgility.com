@@ -18,9 +18,9 @@ aliases:
 - /navigating-the-future-with-a-fine-tuned-product-backlog
 - /resources/hWDjTSSBUJh
 - /resources/blog/navigating-the-future-with-a-fine-tuned-product-backlog
-aliasesFor404:
-- /navigating-the-future-with-a-fine-tuned-product-backlog
+aliasesArchive:
 - /blog/navigating-the-future-with-a-fine-tuned-product-backlog
+- /navigating-the-future-with-a-fine-tuned-product-backlog
 - /resources/blog/navigating-the-future-with-a-fine-tuned-product-backlog
 tags:
 - Product Backlog

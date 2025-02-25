@@ -19,9 +19,9 @@ aliases:
 - /blog/msn-cartoon-(beta)
 - /resources/fFkCnlj8PXW
 - /resources/blog/msn-cartoon-beta
-aliasesFor404:
-- /msn-cartoon-beta
+aliasesArchive:
 - /blog/msn-cartoon-beta
+- /msn-cartoon-beta
 - /msn-cartoon-(beta)
 - /blog/msn-cartoon-(beta)
 - /resources/blog/msn-cartoon-beta

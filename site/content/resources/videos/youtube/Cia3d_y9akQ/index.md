@@ -8,16 +8,18 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Cia3d_y9akQ
 url: /resources/videos/:slug
-slug: what-are-some-of-the-most-common-misconceptions-you-encounter-about-the-scrum-master-role-
+slug: unpacking-the-scrum-master-role-moving-beyond-misconceptions-to-true-accountability
 layout: video
 aliases:
-- /resources/videos/Cia3d_y9akQ
-- /resources/videos/what-are-some-of-the-most-common-misconceptions-you-encounter-about-the-scrum-master-role-
-- /resources/what-are-some-of-the-most-common-misconceptions-you-encounter-about-the-scrum-master-role-
 - /resources/Cia3d_y9akQ
-aliasesFor404:
+- /resources/videos/unpacking-the-scrum-master-role-moving-beyond-misconceptions-to-true-accountability
+- /resources/videos/what-are-some-of-the-most-common-misconceptions-you-encounter-about-the-scrum-master-role
+aliasesArchive:
+- /resources/videos/unpacking-the-scrum-master-role-moving-beyond-misconceptions-to-true-accountability
 - /resources/videos/what-are-some-of-the-most-common-misconceptions-you-encounter-about-the-scrum-master-role-
 - /resources/what-are-some-of-the-most-common-misconceptions-you-encounter-about-the-scrum-master-role-
+- /resources/videos/what-are-some-of-the-most-common-misconceptions-you-encounter-about-the-scrum-master-role
+- unpacking-the-scrum-master-role-moving-beyond-misconceptions-to-true-accountability
 preview: https://i.ytimg.com/vi/Cia3d_y9akQ/maxresdefault.jpg
 duration: 639
 isShort: false

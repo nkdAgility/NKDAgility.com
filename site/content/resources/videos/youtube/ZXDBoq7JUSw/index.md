@@ -9,21 +9,20 @@ ResourceImportSource: Youtube
 videoId: ZXDBoq7JUSw
 source: internal
 url: /resources/videos/:slug
-slug: 3-reasons-why-you-should-level-up-your-knowledge-and-skills
+slug: 3-reasons-why-you-should-level-up-your-knowledge-and-skills-ZXDBoq7JUSw
 layout: video
 preview: https://i.ytimg.com/vi/ZXDBoq7JUSw/maxresdefault.jpg
 duration: 37
 isShort: true
 aliases:
-- /resources/3-reasons-why-you-should-level-up-your-knowledge-and-skills-2
-- /resources/3-reasons-why-you-should-level-up-your-knowledge-and-skills
-- /resources/videos/3-reasons-why-you-should-level-up-your-knowledge-and-skills
-- /resources/videos/ZXDBoq7JUSw
 - /resources/ZXDBoq7JUSw
-aliasesFor404:
+- /resources/videos/3-reasons-why-you-should-level-up-your-knowledge-and-skills-ZXDBoq7JUSw
+aliasesArchive:
+- /resources/videos/-reasons-why-you-should-level-up-your-knowledge-and-skills
+- /resources/videos/3-reasons-why-you-should-level-up-your-knowledge-and-skills
 - /resources/3-reasons-why-you-should-level-up-your-knowledge-and-skills-2
 - /resources/3-reasons-why-you-should-level-up-your-knowledge-and-skills
-- /resources/videos/3-reasons-why-you-should-level-up-your-knowledge-and-skills
+- 3-reasons-why-you-should-level-up-your-knowledge-and-skills-ZXDBoq7JUSw
 sitemap:
   filename: sitemap.xml
   priority: 0.6

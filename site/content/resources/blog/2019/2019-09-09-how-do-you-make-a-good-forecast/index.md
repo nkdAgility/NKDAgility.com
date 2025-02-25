@@ -19,23 +19,23 @@ aliases:
 - /blog/how-do-you-make-a-good-forecast-
 - /resources/fm9Rt6R7JZz
 - /resources/blog/how-do-you-make-a-good-forecast
-aliasesFor404:
-- /how-do-you-make-a-good-forecast
+aliasesArchive:
 - /blog/how-do-you-make-a-good-forecast
+- /how-do-you-make-a-good-forecast
 - /how-do-you-make-a-good-forecast-
 - /blog/how-do-you-make-a-good-forecast-
 - /resources/blog/how-do-you-make-a-good-forecast
 tags:
-- Throughput
 - People and Process
-- Scrum Product Development
-- Agile Product Operating Model
+- Throughput
 - Professional Scrum
-- Agile Project Management
-- Product Delivery
-- Agile Product Management
 - Metrics and Learning
-- Cycle Time
+- Agile Product Operating Model
+- Scrum Product Development
+- Agile Product Management
+- Product Delivery
+- Agile Project Management
+- Value Delivery
 categories:
 - Scrum
 - Product Management

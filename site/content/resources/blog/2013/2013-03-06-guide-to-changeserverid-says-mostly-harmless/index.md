@@ -17,9 +17,9 @@ aliases:
 - /guide-to-changeserverid-says-mostly-harmless
 - /resources/hoewU67YJfb
 - /resources/blog/guide-to-changeserverid-says-mostly-harmless
-aliasesFor404:
-- /guide-to-changeserverid-says-mostly-harmless
+aliasesArchive:
 - /blog/guide-to-changeserverid-says-mostly-harmless
+- /guide-to-changeserverid-says-mostly-harmless
 - /resources/blog/guide-to-changeserverid-says-mostly-harmless
 tags:
 - Troubleshooting

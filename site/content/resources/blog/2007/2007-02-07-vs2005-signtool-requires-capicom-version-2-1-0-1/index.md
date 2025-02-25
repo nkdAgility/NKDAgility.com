@@ -20,19 +20,19 @@ aliases:
 - /blog/vs2005---signtool-requires-capicom-version-2-1-0-1
 - /resources/XiAV2LaArje
 - /resources/blog/vs2005-signtool-requires-capicom-version-2-1-0-1
-aliasesFor404:
-- /vs2005-signtool-requires-capicom-version-2-1-0-1
+aliasesArchive:
 - /blog/vs2005-signtool-requires-capicom-version-2-1-0-1
+- /vs2005-signtool-requires-capicom-version-2-1-0-1
+- /vs2005
 - /vs2005---signtool-requires-capicom-version-2-1-0-1
 - /blog/vs2005---signtool-requires-capicom-version-2-1-0-1
-- /vs2005
 - /resources/blog/vs2005-signtool-requires-capicom-version-2-1-0-1
 tags:
 - Windows
 - Install and Configuration
 - Practical Techniques and Tooling
-- System Configuration
 - Troubleshooting
+- System Configuration
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

@@ -8,25 +8,28 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Wk0no7MB0AM
 url: /resources/videos/:slug
-slug: war!-7-harbingers-agile-apocalypse-but-shorter!
+slug: navigating-team-conflict-how-scrum-masters-can-prevent-war-in-agile-projects-Wk0no7MB0AM
 layout: video
 aliases:
-- /resources/videos/Wk0no7MB0AM
-- /resources/videos/war!-7-harbingers-agile-apocalypse-but-shorter!
-- /resources/war!-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/Wk0no7MB0AM
-aliasesFor404:
+- /resources/videos/navigating-team-conflict-how-scrum-masters-can-prevent-war-in-agile-projects-Wk0no7MB0AM
+- /resources/videos/navigating-team-conflict-how-scrum-masters-can-prevent-war-in-agile-projects
+- /resources/videos/war-7-harbingers-agile-apocalypse-but-shorter
+aliasesArchive:
+- /resources/videos/navigating-team-conflict-how-scrum-masters-can-prevent-war-in-agile-projects
 - /resources/videos/war!-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/war!-7-harbingers-agile-apocalypse-but-shorter!
+- /resources/videos/war-7-harbingers-agile-apocalypse-but-shorter
+- navigating-team-conflict-how-scrum-masters-can-prevent-war-in-agile-projects-Wk0no7MB0AM
 preview: https://i.ytimg.com/vi/Wk0no7MB0AM/maxresdefault.jpg
 duration: 59
 isShort: true
 tags:
 - Scrum Master
-- Team Collaboration
-- Team Performance
 - People and Process
+- Team Performance
 - Agile Project Management
+- Team Collaboration
 - Software Development
 - Scrum Team
 sitemap:

@@ -8,36 +8,37 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: xo4jMxupIM0
 source: youtube
-url: /resources/videos/what-makes-the-psm-immersive-learning-experience-so-unique
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/xo4jMxupIM0/maxresdefault.jpg
-duration: 240
+duration: 233
 isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 aliases:
-- /resources/videos/xo4jMxupIM0
-- /resources/videos/what-makes-the-psm-immersive-learning-experience-so-unique
-- /resources/what-makes-the-psm-immersive-learning-experience-so-unique
 - /resources/xo4jMxupIM0
-aliasesFor404:
+- /resources/videos/unlocking-the-power-of-double-loop-learning-transform-your-scrum-master-journey-with-immersive-training
+- /resources/videos/what-makes-the-psm-immersive-learning-experience-so-unique
+aliasesArchive:
+- /resources/videos/unlocking-the-power-of-double-loop-learning-transform-your-scrum-master-journey-with-immersive-training
 - /resources/videos/what-makes-the-psm-immersive-learning-experience-so-unique
 - /resources/what-makes-the-psm-immersive-learning-experience-so-unique
+- unlocking-the-power-of-double-loop-learning-transform-your-scrum-master-journey-with-immersive-training
 resourceTypes:
 - video
-slug: what-makes-the-psm-immersive-learning-experience-so-unique
+slug: unlocking-the-power-of-double-loop-learning-transform-your-scrum-master-journey-with-immersive-training
 layout: video
 tags:
 - Agile Project Management
-- Discovery and Learning
+- People and Process
 - Professional Scrum
+- Discovery and Learning
 - Scrum Master
 - Continuous Learning
-- People and Process
+- Events and Presentations
 - Pragmatic Thinking
 - Team Collaboration
-- Events and Presentations
-- Coaching
+- Team Performance
 categories:
 - Scrum
 - Social Technologies

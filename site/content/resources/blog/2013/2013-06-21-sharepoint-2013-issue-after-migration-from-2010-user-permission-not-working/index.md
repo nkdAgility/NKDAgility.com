@@ -20,12 +20,12 @@ aliases:
 - /blog/sharepoint-2013-issue---after-migration-from-2010-user-permission-not-working
 - /resources/M-S-kXIX-ar
 - /resources/blog/sharepoint-2013-issue-after-migration-from-2010-user-permission-not-working
-aliasesFor404:
-- /sharepoint-2013-issue-after-migration-from-2010-user-permission-not-working
+aliasesArchive:
 - /blog/sharepoint-2013-issue-after-migration-from-2010-user-permission-not-working
+- /sharepoint-2013-issue-after-migration-from-2010-user-permission-not-working
+- /sharepoint-2013-issue
 - /sharepoint-2013-issue---after-migration-from-2010-user-permission-not-working
 - /blog/sharepoint-2013-issue---after-migration-from-2010-user-permission-not-working
-- /sharepoint-2013-issue
 - /resources/blog/sharepoint-2013-issue-after-migration-from-2010-user-permission-not-working
 tags:
 - Troubleshooting

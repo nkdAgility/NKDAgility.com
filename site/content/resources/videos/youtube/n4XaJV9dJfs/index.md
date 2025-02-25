@@ -8,30 +8,32 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: n4XaJV9dJfs
 url: /resources/videos/:slug
-slug: what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams-
+slug: mastering-complexity-in-scrum-transform-your-team-with-agile-product-strategy-insights
 layout: video
 aliases:
-- /resources/videos/n4XaJV9dJfs
-- /resources/videos/what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams-
-- /resources/what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams-
 - /resources/n4XaJV9dJfs
-aliasesFor404:
+- /resources/videos/mastering-complexity-in-scrum-transform-your-team-with-agile-product-strategy-insights
+- /resources/videos/what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams
+aliasesArchive:
+- /resources/videos/mastering-complexity-in-scrum-transform-your-team-with-agile-product-strategy-insights
 - /resources/videos/what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams-
 - /resources/what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams-
+- /resources/videos/what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams
+- mastering-complexity-in-scrum-transform-your-team-with-agile-product-strategy-insights
 preview: https://i.ytimg.com/vi/n4XaJV9dJfs/maxresdefault.jpg
 duration: 219
 isShort: false
 tags:
 - Transparency
-- Scrum Product Development
-- Agile Planning
 - People and Process
+- Scrum Product Development
 - Agile Product Management
-- Professional Scrum
-- Agile Frameworks
+- Agile Planning
 - Complexity Thinking
-- Transparency and Accountability
 - Agile Project Management
+- Agile Transformation
+- Transparency and Accountability
+- Professional Scrum
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -21,9 +21,9 @@ aliases:
 - /internet-connection-speed--wow
 - /blog/internet-connection-speed--wow
 - /resources/blog/internet-connection-speed-wow
-aliasesFor404:
-- /internet-connection-speed-wow
+aliasesArchive:
 - /blog/internet-connection-speed-wow
+- /internet-connection-speed-wow
 - /internet-connection-speed,-wow
 - /blog/internet-connection-speed,-wow
 - /internet-connection-speed--wow

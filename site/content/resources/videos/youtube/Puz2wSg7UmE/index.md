@@ -9,21 +9,22 @@ ResourceImportSource: Youtube
 videoId: Puz2wSg7UmE
 source: internal
 url: /resources/videos/:slug
-slug: how-to-measure-your-organization-s-ability-to-improve-value-through-innovation
+slug: how-to-measure-your-organizations-ability-to-improve-value-through-innovation-Puz2wSg7UmE
 layout: video
 preview: https://i.ytimg.com/vi/Puz2wSg7UmE/maxresdefault.jpg
 duration: 54
 isShort: true
 aliases:
-- /resources/how-to-measure-your-organizations-ability-to-improve-value-through-innovation
-- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-4
-- /resources/videos/Puz2wSg7UmE
-- /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-4
 - /resources/Puz2wSg7UmE
-aliasesFor404:
+- /resources/videos/how-to-measure-your-organizations-ability-to-improve-value-through-innovation-Puz2wSg7UmE
+- /resources/videos/how-to-measure-your-organizations-ability-to-improve-value-through-innovation
+- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-4
+aliasesArchive:
+- /resources/videos/how-to-measure-your-organizations-ability-to-improve-value-through-innovation
 - /resources/how-to-measure-your-organizations-ability-to-improve-value-through-innovation
 - /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-4
 - /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-4
+- how-to-measure-your-organizations-ability-to-improve-value-through-innovation-Puz2wSg7UmE
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -9,20 +9,19 @@ ResourceImportSource: Youtube
 videoId: _Eer3X3Z_LE
 source: internal
 url: /resources/videos/:slug
-slug: what-is-a-product-backlog
+slug: what-is-a-product-backlog-_Eer3X3Z_LE
 preview: https://i.ytimg.com/vi/_Eer3X3Z_LE/maxresdefault.jpg
 duration: 56
 isShort: true
 aliases:
-- /resources/what-is-a-product-backlog-2
-- /resources/videos/what-is-a-product-backlog-
-- /resources/videos/_Eer3X3Z_LE
-- /resources/what-is-a-product-backlog-
 - /resources/_Eer3X3Z_LE
-aliasesFor404:
+- /resources/videos/what-is-a-product-backlog-_Eer3X3Z_LE
+aliasesArchive:
+- /resources/videos/what-is-a-product-backlog
 - /resources/what-is-a-product-backlog-2
 - /resources/videos/what-is-a-product-backlog-
 - /resources/what-is-a-product-backlog-
+- what-is-a-product-backlog-_Eer3X3Z_LE
 sitemap:
   filename: sitemap.xml
   priority: 0.6

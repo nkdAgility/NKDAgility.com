@@ -8,26 +8,28 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: E2aYkadJJok
 url: /resources/videos/:slug
-slug: kanban-boards-for-campaign-success-the-ultimate-guide-to-visualizing-your-workflow
+slug: mastering-your-kanban-board-a-practical-guide-to-visualising-workflows-for-maximum-efficiency-E2aYkadJJok
 layout: video
 aliases:
-- /resources/videos/E2aYkadJJok
-- /resources/videos/kanban-boards-for-campaign-success-the-ultimate-guide-to-visualizing-your-workflow
-- /resources/kanban-boards-for-campaign-success-the-ultimate-guide-to-visualizing-your-workflow
 - /resources/E2aYkadJJok
-aliasesFor404:
+- /resources/videos/mastering-your-kanban-board-a-practical-guide-to-visualising-workflows-for-maximum-efficiency-E2aYkadJJok
+- /resources/videos/mastering-your-kanban-board-a-practical-guide-to-visualising-workflows-for-maximum-efficiency
+- /resources/videos/kanban-boards-for-campaign-success-the-ultimate-guide-to-visualizing-your-workflow
+aliasesArchive:
+- /resources/videos/mastering-your-kanban-board-a-practical-guide-to-visualising-workflows-for-maximum-efficiency
 - /resources/videos/kanban-boards-for-campaign-success-the-ultimate-guide-to-visualizing-your-workflow
 - /resources/kanban-boards-for-campaign-success-the-ultimate-guide-to-visualizing-your-workflow
+- mastering-your-kanban-board-a-practical-guide-to-visualising-workflows-for-maximum-efficiency-E2aYkadJJok
 preview: https://i.ytimg.com/vi/E2aYkadJJok/maxresdefault.jpg
 duration: 57
 isShort: true
 tags:
 - Practical Techniques and Tooling
-- Throughput
+- Agile Project Management
+- Operational Practices
 - Pragmatic Thinking
 - Lean Thinking
-- Operational Practices
-- Agile Project Management
+- Throughput
 - Flow Efficiency
 - Software Development
 sitemap:

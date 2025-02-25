@@ -17,9 +17,9 @@ aliases:
 - /creating-a-managed-service-factory
 - /resources/dfhN35mUMDl
 - /resources/blog/creating-a-managed-service-factory
-aliasesFor404:
-- /creating-a-managed-service-factory
+aliasesArchive:
 - /blog/creating-a-managed-service-factory
+- /creating-a-managed-service-factory
 - /resources/blog/creating-a-managed-service-factory
 tags:
 - Software Development

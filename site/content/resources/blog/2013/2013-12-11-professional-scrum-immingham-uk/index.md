@@ -21,9 +21,9 @@ aliases:
 - /professional-scrum-in-immingham--uk
 - /blog/professional-scrum-in-immingham--uk
 - /resources/blog/professional-scrum-immingham-uk
-aliasesFor404:
-- /professional-scrum-immingham-uk
+aliasesArchive:
 - /blog/professional-scrum-immingham-uk
+- /professional-scrum-immingham-uk
 - /professional-scrum-in-immingham,-uk
 - /blog/professional-scrum-in-immingham,-uk
 - /professional-scrum-in-immingham--uk
@@ -31,14 +31,14 @@ aliasesFor404:
 - /resources/blog/professional-scrum-immingham-uk
 tags:
 - Scrum Product Development
-- Scrum Team
-- Professional Scrum
 - Value Delivery
-- Software Development
+- Professional Scrum
+- Scrum Team
 - Product Delivery
 - Cross Functional Teams
+- Software Development
+- Events and Presentations
 - Team Collaboration
-- Agile Product Management
 - Team Performance
 categories:
 - Scrum

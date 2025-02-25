@@ -19,23 +19,23 @@ aliases:
 - /blog/should-the-scrum-master-always-remove-impediments-
 - /resources/xPJL0I4sjDJ
 - /resources/blog/should-the-scrum-master-always-remove-impediments
-aliasesFor404:
-- /should-the-scrum-master-always-remove-impediments
+aliasesArchive:
 - /blog/should-the-scrum-master-always-remove-impediments
+- /should-the-scrum-master-always-remove-impediments
 - /should-the-scrum-master-always-remove-impediments-
 - /blog/should-the-scrum-master-always-remove-impediments-
 - /resources/blog/should-the-scrum-master-always-remove-impediments
 tags:
-- Professional Scrum
 - Scrum Master
 - Scrum Team
-- Team Collaboration
-- Scrum Product Development
+- Professional Scrum
+- People and Process
 - Team Performance
+- Scrum Product Development
 - Events and Presentations
 - Pragmatic Thinking
-- People and Process
-- Software Development
+- Team Collaboration
+- Agile Project Management
 categories:
 - Scrum
 - Social Technologies

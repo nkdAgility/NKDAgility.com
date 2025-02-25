@@ -9,16 +9,19 @@ ResourceImportSource: Youtube
 videoId: ks38bwDTVfM
 source: youtube
 url: /resources/videos/:slug
-slug: what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed-
+slug: mastering-agile-3-essential-strategies-to-boost-your-teams-sprint-success
 layout: video
 aliases:
-- /resources/videos/ks38bwDTVfM
-- /resources/videos/what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed-
-- /resources/what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed-
 - /resources/ks38bwDTVfM
-aliasesFor404:
+- /resources/videos/mastering-agile-3-essential-strategies-to-boost-your-teams-sprint-success
+- /resources/videos/what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed
+aliasesArchive:
+- /resources/videos/mastering-agile-essential-strategies-to-boost-your-teams-sprint-success
+- /resources/videos/mastering-agile-3-essential-strategies-to-boost-your-teams-sprint-success
 - /resources/videos/what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed-
 - /resources/what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed-
+- /resources/videos/what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed
+- mastering-agile-3-essential-strategies-to-boost-your-teams-sprint-success
 preview: https://i.ytimg.com/vi/ks38bwDTVfM/maxresdefault.jpg
 duration: 344
 isShort: false
@@ -30,9 +33,9 @@ tags:
 - Scrum Team
 - Backlog Refinement
 - Product Backlog
-- Professional Scrum
-- Scrum Master
+- Agile Planning
 - Team Performance
+- Agile Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

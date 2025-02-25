@@ -17,9 +17,9 @@ aliases:
 - /technorati-troubles
 - /resources/r1BGZbCmJRA
 - /resources/blog/technorati-troubles
-aliasesFor404:
-- /technorati-troubles
+aliasesArchive:
 - /blog/technorati-troubles
+- /technorati-troubles
 - /resources/blog/technorati-troubles
 categories: []
 preview: nakedalm-logo-128-link-1-1.png

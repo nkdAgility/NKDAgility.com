@@ -19,23 +19,23 @@ aliases:
 - /blog/solution--getting-silverlight-to-build-on-team-foundation-build-services-2010
 - /resources/KPVUDFGZRaX
 - /resources/blog/solution-getting-silverlight-to-build-on-team-foundation-build-services-2010
-aliasesFor404:
-- /solution-getting-silverlight-to-build-on-team-foundation-build-services-2010
+aliasesArchive:
 - /blog/solution-getting-silverlight-to-build-on-team-foundation-build-services-2010
+- /solution-getting-silverlight-to-build-on-team-foundation-build-services-2010
 - /solution--getting-silverlight-to-build-on-team-foundation-build-services-2010
 - /blog/solution--getting-silverlight-to-build-on-team-foundation-build-services-2010
 - /resources/blog/solution-getting-silverlight-to-build-on-team-foundation-build-services-2010
 tags:
 - Troubleshooting
 - Install and Configuration
+- Practical Techniques and Tooling
 - Software Development
 - System Configuration
-- Practical Techniques and Tooling
-- Technical Excellence
-- Azure DevOps
-- Pragmatic Thinking
 - Technical Mastery
 - Operational Practices
+- Pragmatic Thinking
+- Continuous Integration
+- Technical Excellence
 categories:
 - Engineering Excellence
 preview: metro-visual-studio-2010-128-link-3-3.png

@@ -17,9 +17,9 @@ aliases:
 - /mcddd
 - /resources/6pw2YiuYEJ1
 - /resources/blog/mcddd
-aliasesFor404:
-- /mcddd
+aliasesArchive:
 - /blog/mcddd
+- /mcddd
 - /resources/blog/mcddd
 categories: []
 preview: nakedalm-logo-128-link-2-2.png

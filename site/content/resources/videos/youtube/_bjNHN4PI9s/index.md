@@ -8,26 +8,27 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: _bjNHN4PI9s
 url: /resources/videos/:slug
-slug: ep-007-running-a-live-virtual-classroom
+slug: maximise-your-virtual-classroom-experience-essential-tech-tips-for-scrum-training
 aliases:
-- /resources/videos/_bjNHN4PI9s
-- /resources/videos/ep-007-running-a-live-virtual-classroom
-- /resources/ep-007-running-a-live-virtual-classroom
 - /resources/_bjNHN4PI9s
-aliasesFor404:
+- /resources/videos/maximise-your-virtual-classroom-experience-essential-tech-tips-for-scrum-training
+- /resources/videos/ep-007-running-a-live-virtual-classroom
+aliasesArchive:
+- /resources/videos/maximise-your-virtual-classroom-experience-essential-tech-tips-for-scrum-training
 - /resources/videos/ep-007-running-a-live-virtual-classroom
 - /resources/ep-007-running-a-live-virtual-classroom
+- maximise-your-virtual-classroom-experience-essential-tech-tips-for-scrum-training
 preview: https://i.ytimg.com/vi/_bjNHN4PI9s/maxresdefault.jpg
 duration: 1496
 isShort: false
 tags:
 - Events and Presentations
 - Install and Configuration
+- Practical Techniques and Tooling
 - Collaboration Tools
 - Remote Working
-- Practical Techniques and Tooling
-- Team Collaboration
 - Products and Books
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

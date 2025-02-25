@@ -9,7 +9,7 @@ layout: practice
 aliases:
 - /learn/agile-delivery-kit/practices/site-reliability-engineering-sre
 - /resources/K0i7PIZARDw
-aliasesFor404:
+aliasesArchive:
 - /learn/agile-delivery-kit/practices/site-reliability-engineering-sre
 references:
 - title: 'NDC Conferences: Live Site Culture & Site Reliability at Azure DevOps - Martin Hinshelwood (PDF)'

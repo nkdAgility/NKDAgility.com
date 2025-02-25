@@ -8,16 +8,19 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: QpK99s9uheM
 url: /resources/videos/:slug
-slug: is-a-scrum-master-an-agile-project-manager-
+slug: from-control-to-collaboration-how-project-managers-can-embrace-agility-and-thrive-QpK99s9uheM
 layout: video
 aliases:
-- /resources/videos/QpK99s9uheM
-- /resources/videos/is-a-scrum-master-an-agile-project-manager-
-- /resources/is-a-scrum-master-an-agile-project-manager-
 - /resources/QpK99s9uheM
-aliasesFor404:
+- /resources/videos/from-control-to-collaboration-how-project-managers-can-embrace-agility-and-thrive-QpK99s9uheM
+- /resources/videos/from-control-to-collaboration-how-project-managers-can-embrace-agility-and-thrive
+- /resources/videos/is-a-scrum-master-an-agile-project-manager
+aliasesArchive:
+- /resources/videos/from-control-to-collaboration-how-project-managers-can-embrace-agility-and-thrive
 - /resources/videos/is-a-scrum-master-an-agile-project-manager-
 - /resources/is-a-scrum-master-an-agile-project-manager-
+- /resources/videos/is-a-scrum-master-an-agile-project-manager
+- from-control-to-collaboration-how-project-managers-can-embrace-agility-and-thrive-QpK99s9uheM
 preview: https://i.ytimg.com/vi/QpK99s9uheM/maxresdefault.jpg
 duration: 48
 isShort: true

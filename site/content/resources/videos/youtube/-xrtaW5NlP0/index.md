@@ -14,29 +14,27 @@ preview: https://i.ytimg.com/vi/-xrtaW5NlP0/maxresdefault.jpg
 duration: 245
 isShort: false
 aliases:
-- /resources/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries-2
-- /resources/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
-- /resources/videos/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
-- /resources/videos/-xrtaW5NlP0
 - /resources/-xrtaW5NlP0
-aliasesFor404:
+- /resources/videos/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
+aliasesArchive:
+- /resources/videos/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
 - /resources/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries-2
 - /resources/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
-- /resources/videos/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
+- why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Throughput
 - People and Process
-- Flow Efficiency
 - Cycle Time
-- Agile Frameworks
+- Flow Efficiency
 - Operational Practices
+- Agile Frameworks
 - Pragmatic Thinking
 - Metrics and Learning
-- Organisational Physics
 - Lean
+- Organisational Physics
 resourceTypes:
 - video
 layout: video

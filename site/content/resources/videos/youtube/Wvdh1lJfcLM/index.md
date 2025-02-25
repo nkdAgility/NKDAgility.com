@@ -15,22 +15,22 @@ preview: https://i.ytimg.com/vi/Wvdh1lJfcLM/maxresdefault.jpg
 duration: 188
 isShort: false
 aliases:
-- /resources/mastering-the-migration-seamlessly-transitioning-from-tfs-to-azure-devops
-- /resources/videos/talk-us-through-the-migration-services-you-offer-via-azure-devops
-- /resources/videos/Wvdh1lJfcLM
-- /resources/talk-us-through-the-migration-services-you-offer-via-azure-devops
 - /resources/Wvdh1lJfcLM
-aliasesFor404:
+- /resources/videos/mastering-the-migration-seamlessly-transitioning-from-tfs-to-azure-devops
+- /resources/videos/talk-us-through-the-migration-services-you-offer-via-azure-devops
+aliasesArchive:
+- /resources/videos/mastering-the-migration-seamlessly-transitioning-from-tfs-to-azure-devops
 - /resources/mastering-the-migration-seamlessly-transitioning-from-tfs-to-azure-devops
 - /resources/videos/talk-us-through-the-migration-services-you-offer-via-azure-devops
 - /resources/talk-us-through-the-migration-services-you-offer-via-azure-devops
+- mastering-the-migration-seamlessly-transitioning-from-tfs-to-azure-devops
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Azure DevOps
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
 - Software Development
 resourceTypes:
 - video

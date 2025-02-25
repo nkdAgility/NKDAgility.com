@@ -8,22 +8,24 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: GGtb7Yg8gHY
 url: /resources/videos/:slug
-slug: 7-signs-of-the-agile-apocalypse-war
+slug: navigating-team-conflict-from-healthy-disagreement-to-agile-harmony-GGtb7Yg8gHY
 layout: video
 aliases:
-- /resources/videos/GGtb7Yg8gHY
-- /resources/videos/7-signs-of-the-agile-apocalypse-war
-- /resources/7-signs-of-the-agile-apocalypse-war
 - /resources/GGtb7Yg8gHY
-aliasesFor404:
+- /resources/videos/navigating-team-conflict-from-healthy-disagreement-to-agile-harmony-GGtb7Yg8gHY
+- /resources/videos/navigating-team-conflict-from-healthy-disagreement-to-agile-harmony
+- /resources/videos/7-signs-of-the-agile-apocalypse-war
+aliasesArchive:
+- /resources/videos/navigating-team-conflict-from-healthy-disagreement-to-agile-harmony
 - /resources/videos/7-signs-of-the-agile-apocalypse-war
 - /resources/7-signs-of-the-agile-apocalypse-war
+- navigating-team-conflict-from-healthy-disagreement-to-agile-harmony-GGtb7Yg8gHY
 preview: https://i.ytimg.com/vi/GGtb7Yg8gHY/maxresdefault.jpg
 duration: 42
 isShort: true
 tags:
-- Team Performance
 - People and Process
+- Team Performance
 - Agile Project Management
 sitemap:
   filename: sitemap.xml

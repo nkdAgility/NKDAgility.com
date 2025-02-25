@@ -9,27 +9,27 @@ ResourceImportSource: Youtube
 videoId: o9Qc_NLmtok
 source: internal
 url: /resources/videos/:slug
-slug: 8-week-immersive-learning-course-in-60-seconds
+slug: 8-week-immersive-learning-course-in-60-seconds-o9Qc_NLmtok
 layout: video
 preview: https://i.ytimg.com/vi/o9Qc_NLmtok/maxresdefault.jpg
 duration: 50
 isShort: true
 aliases:
-- /resources/8-week-immersive-learning-course-in-60-seconds
-- /resources/videos/8-week-immersive-learning-course-in-60-seconds
-- /resources/videos/o9Qc_NLmtok
 - /resources/o9Qc_NLmtok
-aliasesFor404:
-- /resources/8-week-immersive-learning-course-in-60-seconds
+- /resources/videos/8-week-immersive-learning-course-in-60-seconds-o9Qc_NLmtok
+aliasesArchive:
+- /resources/videos/-week-immersive-learning-course-in-seconds
 - /resources/videos/8-week-immersive-learning-course-in-60-seconds
+- /resources/8-week-immersive-learning-course-in-60-seconds
+- 8-week-immersive-learning-course-in-60-seconds-o9Qc_NLmtok
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Discovery and Learning
 - People and Process
-- Agile Frameworks
+- Discovery and Learning
 - Agile Project Management
+- Agile Frameworks
 - Pragmatic Thinking
 resourceTypes:
 - video

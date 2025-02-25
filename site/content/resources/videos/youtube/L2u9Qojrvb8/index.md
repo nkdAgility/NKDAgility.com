@@ -15,15 +15,15 @@ preview: https://i.ytimg.com/vi/L2u9Qojrvb8/maxresdefault.jpg
 duration: 198
 isShort: false
 aliases:
-- /resources/navigating-devops-crafting-unique-solutions-for-unique-organizations
-- /resources/videos/how-do-you-tailor-your-devops-consulting-services-to-meet-the-unique-needs-of-different-organization
-- /resources/videos/L2u9Qojrvb8
-- /resources/how-do-you-tailor-your-devops-consulting-services-to-meet-the-unique-needs-of-different-organization
 - /resources/L2u9Qojrvb8
-aliasesFor404:
+- /resources/videos/navigating-devops-crafting-unique-solutions-for-unique-organizations
+- /resources/videos/how-do-you-tailor-your-devops-consulting-services-to-meet-the-unique-needs-of-different-organization
+aliasesArchive:
+- /resources/videos/navigating-devops-crafting-unique-solutions-for-unique-organizations
 - /resources/navigating-devops-crafting-unique-solutions-for-unique-organizations
 - /resources/videos/how-do-you-tailor-your-devops-consulting-services-to-meet-the-unique-needs-of-different-organization
 - /resources/how-do-you-tailor-your-devops-consulting-services-to-meet-the-unique-needs-of-different-organization
+- navigating-devops-crafting-unique-solutions-for-unique-organizations
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -17,13 +17,13 @@ aliases:
 - /tfs-event-handler-ctp1-released
 - /resources/iC_oZlW88n0
 - /resources/blog/tfs-event-handler-ctp1-released
-aliasesFor404:
-- /tfs-event-handler-ctp1-released
+aliasesArchive:
 - /blog/tfs-event-handler-ctp1-released
+- /tfs-event-handler-ctp1-released
 - /resources/blog/tfs-event-handler-ctp1-released
 tags:
-- Software Development
 - Frequent Releases
+- Software Development
 categories: []
 preview: metro-visual-studio-2005-128-link-4-1.png
 

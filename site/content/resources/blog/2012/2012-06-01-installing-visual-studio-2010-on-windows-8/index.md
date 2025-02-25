@@ -17,9 +17,9 @@ aliases:
 - /installing-visual-studio-2010-on-windows-8
 - /resources/9182z5AEKd6
 - /resources/blog/installing-visual-studio-2010-on-windows-8
-aliasesFor404:
-- /installing-visual-studio-2010-on-windows-8
+aliasesArchive:
 - /blog/installing-visual-studio-2010-on-windows-8
+- /installing-visual-studio-2010-on-windows-8
 - /resources/blog/installing-visual-studio-2010-on-windows-8
 tags:
 - Windows

@@ -19,18 +19,18 @@ aliases:
 - /blog/vsts-sync-migration-tool-update-and-bugfix
 - /resources/QO9MQIxxcoy
 - /resources/blog/vsts-sync-migration-tool-update-bugfix
-aliasesFor404:
-- /vsts-sync-migration-tool-update-bugfix
+aliasesArchive:
 - /blog/vsts-sync-migration-tool-update-bugfix
+- /vsts-sync-migration-tool-update-bugfix
 - /vsts-sync-migration-tool-update-and-bugfix
 - /blog/vsts-sync-migration-tool-update-and-bugfix
 - /resources/blog/vsts-sync-migration-tool-update-bugfix
 tags:
 - Install and Configuration
 - Products and Books
-- Azure DevOps
 - Practical Techniques and Tooling
 - News and Reviews
+- Azure DevOps
 - Software Development
 categories:
 - DevOps

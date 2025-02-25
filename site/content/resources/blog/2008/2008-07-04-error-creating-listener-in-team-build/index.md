@@ -17,9 +17,9 @@ aliases:
 - /error-creating-listener-in-team-build
 - /resources/Eonka3snrWz
 - /resources/blog/error-creating-listener-in-team-build
-aliasesFor404:
-- /error-creating-listener-in-team-build
+aliasesArchive:
 - /blog/error-creating-listener-in-team-build
+- /error-creating-listener-in-team-build
 - /resources/blog/error-creating-listener-in-team-build
 tags:
 - Install and Configuration

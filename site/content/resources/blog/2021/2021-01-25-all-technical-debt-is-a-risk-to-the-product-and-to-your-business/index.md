@@ -20,17 +20,17 @@ aliases:
 - /blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business-
 - /resources/ZSqNF7v9vSR
 - /resources/blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business
-aliasesFor404:
-- /all-technical-debt-is-a-risk-to-the-product-and-to-your-business
+aliasesArchive:
 - /blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business
+- /all-technical-debt-is-a-risk-to-the-product-and-to-your-business
 - /all-technical-debt-is-a-risk-to-the-product-and-to-your-business-
 - /blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business-
 - /resources/blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business
 tags:
 - Technical Debt
 categories:
-- Social Technologies
 - Engineering Excellence
+- Social Technologies
 - Product Management
 preview: All-technical-debt-is-risk-to-the-product-and-to-your-business-2-2.jpg
 

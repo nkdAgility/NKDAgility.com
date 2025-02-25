@@ -19,23 +19,23 @@ aliases:
 - /blog/issue-[-tfs-2013-preview-]-tf400654--unable-to-configure-planning-tools
 - /resources/vjwgG3uy0lI
 - /resources/blog/issue-tfs-2013-preview-tf400654-unable-to-configure-planning-tools
-aliasesFor404:
-- /issue-tfs-2013-preview-tf400654-unable-to-configure-planning-tools
+aliasesArchive:
 - /blog/issue-tfs-2013-preview-tf400654-unable-to-configure-planning-tools
+- /issue-tfs-2013-preview-tf400654-unable-to-configure-planning-tools
 - /issue-[-tfs-2013-preview-]-tf400654--unable-to-configure-planning-tools
 - /blog/issue-[-tfs-2013-preview-]-tf400654--unable-to-configure-planning-tools
 - /resources/blog/issue-tfs-2013-preview-tf400654-unable-to-configure-planning-tools
 tags:
 - Troubleshooting
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
 - Software Development
-- Azure DevOps
 - System Configuration
+- Azure DevOps
 categories:
 - Scrum
-- Social Technologies
 - DevOps
+- Social Technologies
 preview: puzzle-issue-problem-128-link-2-2.png
 
 ---

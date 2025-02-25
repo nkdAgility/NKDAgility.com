@@ -19,9 +19,9 @@ aliases:
 - /blog/if-you-had-a-choice-
 - /resources/689UIOKlBfJ
 - /resources/blog/if-you-had-a-choice
-aliasesFor404:
-- /if-you-had-a-choice
+aliasesArchive:
 - /blog/if-you-had-a-choice
+- /if-you-had-a-choice
 - /if-you-had-a-choice-
 - /blog/if-you-had-a-choice-
 - /resources/blog/if-you-had-a-choice

@@ -15,25 +15,26 @@ preview: https://i.ytimg.com/vi/gjrvSJWE0Gk/maxresdefault.jpg
 duration: 124
 isShort: false
 aliases:
-- /resources/overview-of-applying-metrics-for-predictability-kanban-course
-- /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course
-- /resources/videos/gjrvSJWE0Gk
 - /resources/gjrvSJWE0Gk
-aliasesFor404:
+- /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course
+aliasesArchive:
+- /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course-
 - /resources/overview-of-applying-metrics-for-predictability-kanban-course
 - /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course
+- overview-of-applying-metrics-for-predictability-kanban-course-
+- overview-of-applying-metrics-for-predictability-kanban-course
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Metrics and Learning
 - Practical Techniques and Tooling
-- Pragmatic Thinking
 - Operational Practices
+- Pragmatic Thinking
 - Forecasting
 - Value Delivery
-- Estimation
 - Decision Making
+- Estimation
 resourceTypes:
 - video
 categories:

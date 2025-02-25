@@ -8,23 +8,25 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 2cSsuEzGkvU
 url: /resources/videos/:slug
-slug: -shorts-7-virtues-of-agile-humility
+slug: empathy-in-agile-building-trust-and-stronger-relationships-for-success-2cSsuEzGkvU
 aliases:
-- /resources/videos/2cSsuEzGkvU
-- /resources/videos/-shorts-7-virtues-of-agile-humility
-- /resources/-shorts-7-virtues-of-agile-humility
 - /resources/2cSsuEzGkvU
-aliasesFor404:
+- /resources/videos/empathy-in-agile-building-trust-and-stronger-relationships-for-success-2cSsuEzGkvU
+- /resources/videos/empathy-in-agile-building-trust-and-stronger-relationships-for-success
+- /resources/videos/-shorts-7-virtues-of-agile-humility
+aliasesArchive:
+- /resources/videos/empathy-in-agile-building-trust-and-stronger-relationships-for-success
 - /resources/videos/-shorts-7-virtues-of-agile-humility
 - /resources/-shorts-7-virtues-of-agile-humility
+- empathy-in-agile-building-trust-and-stronger-relationships-for-success-2cSsuEzGkvU
 preview: https://i.ytimg.com/vi/2cSsuEzGkvU/maxresdefault.jpg
 duration: 53
 isShort: true
 tags:
 - People and Process
 - Agile Values and Principles
-- Team Collaboration
 - Team Motivation
+- Team Collaboration
 - Team Performance
 - Coaching
 - Personal

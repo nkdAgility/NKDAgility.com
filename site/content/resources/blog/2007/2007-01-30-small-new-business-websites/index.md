@@ -19,17 +19,17 @@ aliases:
 - /blog/small---new-business-websites
 - /resources/w2k6P2xrp7B
 - /resources/blog/small-new-business-websites
-aliasesFor404:
-- /small-new-business-websites
+aliasesArchive:
 - /blog/small-new-business-websites
+- /small-new-business-websites
 - /small---new-business-websites
 - /blog/small---new-business-websites
 - /resources/blog/small-new-business-websites
 tags:
 - Estimation
-- Software Development
 - Troubleshooting
 - Entrepreneurship
+- Software Development
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

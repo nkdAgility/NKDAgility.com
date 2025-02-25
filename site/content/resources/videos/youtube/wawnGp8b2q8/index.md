@@ -8,16 +8,18 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: wawnGp8b2q8
 url: /resources/videos/:slug
-slug: if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits,-what-are-they-
+slug: unlocking-growth-the-transformative-power-of-poly-immersive-learning-experiences
 layout: video
 aliases:
-- /resources/videos/wawnGp8b2q8
-- /resources/videos/if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits,-what-are-they-
-- /resources/if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits,-what-are-they-
 - /resources/wawnGp8b2q8
-aliasesFor404:
+- /resources/videos/unlocking-growth-the-transformative-power-of-poly-immersive-learning-experiences
+- /resources/videos/if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits-what-are-they
+aliasesArchive:
+- /resources/videos/unlocking-growth-the-transformative-power-of-poly-immersive-learning-experiences
 - /resources/videos/if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits,-what-are-they-
 - /resources/if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits,-what-are-they-
+- /resources/videos/if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits-what-are-they
+- unlocking-growth-the-transformative-power-of-poly-immersive-learning-experiences
 preview: https://i.ytimg.com/vi/wawnGp8b2q8/maxresdefault.jpg
 duration: 196
 isShort: false

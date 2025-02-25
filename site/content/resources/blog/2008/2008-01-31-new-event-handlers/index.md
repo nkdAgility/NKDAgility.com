@@ -17,17 +17,17 @@ aliases:
 - /new-event-handlers
 - /resources/kofEeioSTH9
 - /resources/blog/new-event-handlers
-aliasesFor404:
-- /new-event-handlers
+aliasesArchive:
 - /blog/new-event-handlers
+- /new-event-handlers
 - /resources/blog/new-event-handlers
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
-- Software Development
-- Azure DevOps
-- System Configuration
+- Install and Configuration
 - Technical Mastery
+- Software Development
+- System Configuration
+- Azure DevOps
 categories:
 - Engineering Excellence
 preview: nakedalm-logo-128-link-1-1.png

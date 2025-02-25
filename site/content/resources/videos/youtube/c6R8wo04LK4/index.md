@@ -9,26 +9,25 @@ ResourceImportSource: Youtube
 videoId: c6R8wo04LK4
 source: internal
 url: /resources/videos/:slug
-slug: hardest-part-of-adopting-scrum
+slug: hardest-part-of-adopting-scrum-c6R8wo04LK4
 layout: video
 preview: https://i.ytimg.com/vi/c6R8wo04LK4/maxresdefault.jpg
 duration: 36
 isShort: true
 aliases:
-- /resources/hardest-part-of-adopting-scrum
-- /resources/videos/hardest-part-of-adopting-scrum
-- /resources/videos/c6R8wo04LK4
 - /resources/c6R8wo04LK4
-aliasesFor404:
-- /resources/hardest-part-of-adopting-scrum
+- /resources/videos/hardest-part-of-adopting-scrum-c6R8wo04LK4
+aliasesArchive:
 - /resources/videos/hardest-part-of-adopting-scrum
+- /resources/hardest-part-of-adopting-scrum
+- hardest-part-of-adopting-scrum-c6R8wo04LK4
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - People and Process
-- Agile Frameworks
 - Agile Project Management
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

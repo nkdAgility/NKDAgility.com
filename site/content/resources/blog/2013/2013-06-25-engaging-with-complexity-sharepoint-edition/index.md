@@ -20,21 +20,21 @@ aliases:
 - /blog/engaging-with-complexity---sharepoint-edition
 - /resources/Lzmlul_Elhj
 - /resources/blog/engaging-with-complexity-sharepoint-edition
-aliasesFor404:
-- /engaging-with-complexity-sharepoint-edition
+aliasesArchive:
 - /blog/engaging-with-complexity-sharepoint-edition
+- /engaging-with-complexity-sharepoint-edition
+- /engaging-with-complexity
 - /engaging-with-complexity---sharepoint-edition
 - /blog/engaging-with-complexity---sharepoint-edition
-- /engaging-with-complexity
 - /resources/blog/engaging-with-complexity-sharepoint-edition
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Software Development
-- Pragmatic Thinking
-- System Configuration
 - Troubleshooting
 - Technical Mastery
+- Pragmatic Thinking
+- Software Development
+- System Configuration
 categories: []
 preview: metro-sharepoint-128-link-2-2.png
 

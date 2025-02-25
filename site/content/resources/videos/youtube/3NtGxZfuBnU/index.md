@@ -9,20 +9,19 @@ ResourceImportSource: Youtube
 videoId: 3NtGxZfuBnU
 source: internal
 url: /resources/videos/:slug
-slug: do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner-s-hype-cycle
+slug: do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
 preview: https://i.ytimg.com/vi/3NtGxZfuBnU/maxresdefault.jpg
 duration: 219
 isShort: false
 aliases:
-- /resources/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
-- /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner's-hype-cycle
-- /resources/videos/3NtGxZfuBnU
-- /resources/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner's-hype-cycle
 - /resources/3NtGxZfuBnU
-aliasesFor404:
+- /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
+aliasesArchive:
+- /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
 - /resources/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
 - /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner's-hype-cycle
 - /resources/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner's-hype-cycle
+- do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -12,13 +12,12 @@ url: /resources/videos/:slug
 slug: code-reviews-for-quality-assurance
 layout: video
 aliases:
-- /resources/videos/r2G-NrSIj2k
-- /resources/videos/code-reviews-for-quality-assurance
-- /resources/code-reviews-for-quality-assurance
 - /resources/r2G-NrSIj2k
-aliasesFor404:
+- /resources/videos/code-reviews-for-quality-assurance
+aliasesArchive:
 - /resources/videos/code-reviews-for-quality-assurance
 - /resources/code-reviews-for-quality-assurance
+- code-reviews-for-quality-assurance
 preview: https://i.ytimg.com/vi/r2G-NrSIj2k/maxresdefault.jpg
 duration: 116
 isShort: false
@@ -26,10 +25,10 @@ tags:
 - Code and Complexity
 - Practical Techniques and Tooling
 - Engineering Practices
-- Modern Source Control
+- Technical Mastery
 - Software Development
 - Technical Excellence
-- Technical Mastery
+- Modern Source Control
 - Operational Practices
 - Pragmatic Thinking
 sitemap:

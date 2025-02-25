@@ -9,27 +9,29 @@ ResourceImportSource: Youtube
 videoId: hj31XHbmWbA
 source: internal
 url: /resources/videos/:slug
-slug: quotes-you-can-t-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs
+slug: quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs-hj31XHbmWbA
 layout: video
 preview: https://i.ytimg.com/vi/hj31XHbmWbA/maxresdefault.jpg
 duration: 46
 isShort: true
 aliases:
-- /resources/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs
-- /resources/videos/quotes-you-can't-connect-the-dots-looking-forward;-you-can-only-connect-them-looking-backwards
-- /resources/videos/hj31XHbmWbA
-- /resources/quotes-you-can't-connect-the-dots-looking-forward;-you-can-only-connect-them-looking-backwards
 - /resources/hj31XHbmWbA
-aliasesFor404:
+- /resources/videos/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs-hj31XHbmWbA
+- /resources/videos/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs
+- /resources/videos/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards
+aliasesArchive:
+- /resources/videos/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs
 - /resources/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs
 - /resources/videos/quotes-you-can't-connect-the-dots-looking-forward;-you-can-only-connect-them-looking-backwards
 - /resources/quotes-you-can't-connect-the-dots-looking-forward;-you-can-only-connect-them-looking-backwards
+- /resources/videos/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards
+- quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs-hj31XHbmWbA
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sensemaking
 - Decision Theory
+- Sensemaking
 resourceTypes:
 - video
 categories:

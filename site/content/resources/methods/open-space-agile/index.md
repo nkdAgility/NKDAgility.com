@@ -14,7 +14,7 @@ aliases:
 - /methods/open-space-agile/
 - /learn/agile-delivery-kit/strategies/open-space-agile/
 - /resources/U-6FN9nj1fM
-aliasesFor404:
+aliasesArchive:
 - /methods/open-space-agile/
 - /learn/agile-delivery-kit/strategies/open-space-agile/
 card:
@@ -24,8 +24,8 @@ card:
   content: Harness the power of Open Space Agile to enable dynamic self-organization. Facilitate meaningful discussions and collaborative decision-making across your team.
 categories: []
 tags:
-- Software Development
 - People and Process
+- Software Development
 - Scrum Values
 
 ---

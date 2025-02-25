@@ -12,7 +12,7 @@ date: 2024-09-17
 aliases:
 - /learn/agile-delivery-kit/recipes/sprint-planning-recipe/
 - /resources/D1dSEM9ni3C
-aliasesFor404:
+aliasesArchive:
 - /learn/agile-delivery-kit/recipes/sprint-planning-recipe/
 recommendedContent:
 - collection: practices

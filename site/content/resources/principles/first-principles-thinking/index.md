@@ -13,7 +13,7 @@ slug: first-principles-thinking
 aliases:
 - /principles/first-principles-thinking/
 - /resources/q6gClR4HS5c
-aliasesFor404:
+aliasesArchive:
 - /principles/first-principles-thinking/
 card:
   button:

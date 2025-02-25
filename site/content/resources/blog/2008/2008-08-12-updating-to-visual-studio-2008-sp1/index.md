@@ -17,14 +17,14 @@ aliases:
 - /updating-to-visual-studio-2008-sp1
 - /resources/kV6Jktk_APX
 - /resources/blog/updating-to-visual-studio-2008-sp1
-aliasesFor404:
-- /updating-to-visual-studio-2008-sp1
+aliasesArchive:
 - /blog/updating-to-visual-studio-2008-sp1
+- /updating-to-visual-studio-2008-sp1
 - /resources/blog/updating-to-visual-studio-2008-sp1
 tags:
 - Install and Configuration
-- System Configuration
 - Troubleshooting
+- System Configuration
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

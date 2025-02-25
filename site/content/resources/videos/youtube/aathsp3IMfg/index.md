@@ -15,23 +15,23 @@ preview: https://i.ytimg.com/vi/aathsp3IMfg/maxresdefault.jpg
 duration: 194
 isShort: false
 aliases:
-- /resources/when-is-an-aps-course-appropriate-for-a-scrum-team
-- /resources/what-does-your-dream-agile-consulting-week-look-like
-- /resources/videos/what-does-your-dream-agile-consulting-week-look-like-
-- /resources/videos/aathsp3IMfg
-- /resources/what-does-your-dream-agile-consulting-week-look-like-
 - /resources/aathsp3IMfg
-aliasesFor404:
+- /resources/videos/when-is-an-aps-course-appropriate-for-a-scrum-team
+- /resources/videos/what-does-your-dream-agile-consulting-week-look-like
+aliasesArchive:
+- /resources/videos/when-is-an-aps-course-appropriate-for-a-scrum-team
 - /resources/when-is-an-aps-course-appropriate-for-a-scrum-team
 - /resources/what-does-your-dream-agile-consulting-week-look-like
 - /resources/videos/what-does-your-dream-agile-consulting-week-look-like-
 - /resources/what-does-your-dream-agile-consulting-week-look-like-
+- /resources/videos/what-does-your-dream-agile-consulting-week-look-like
+- when-is-an-aps-course-appropriate-for-a-scrum-team
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
 - People and Process
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

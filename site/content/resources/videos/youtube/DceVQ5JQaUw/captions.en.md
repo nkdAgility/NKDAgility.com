@@ -1,0 +1,7 @@
+So the question is what is the most destructive thing that a client can do to an agile consultant? I think it's shut them down. It's not let them engage, not let them speak and engage with people in your organization because I feel like the purpose of being a consultant is actually quite often to be difficult, right? Because if all we do as an agile consultant is please the customer, nothing's ever going to change, nothing's going to be different. 
+
+So instead of pleasing the customer, what's the other side of that, right? What's the opposite of pleasing the customer? You know, it's being difficult, it's asking difficult questions, it's poking at things. Why is this the way it is, right? And that needs to be enabled and encouraged by the stakeholders in the organization if they're going to bring in a consultant because those are the questions that enact change, that enable the people in your organization to think about why something's the way it is. 
+
+And that act of thinking about why something's the way it is is quite often the catalyst for the change that's needed in the organization. So allowing your consultants to be difficult, ask hard questions, and provoke people is actually critical to that value that you're getting from an agile consultant. 
+
+Thanks for watching the video. If you enjoyed it, please like, follow, and subscribe. I always reply to comments, and if you want to have a chat about this or anything else agile, scrum, or DevOps, then please book a coffee with me through Naked Agility.

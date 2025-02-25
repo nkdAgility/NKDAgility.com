@@ -17,14 +17,14 @@ aliases:
 - /application-lifecycle-management-with-office-2013-on-windows-8
 - /resources/HS-74Zxqz0l
 - /resources/blog/application-lifecycle-management-with-office-2013-on-windows-8
-aliasesFor404:
-- /application-lifecycle-management-with-office-2013-on-windows-8
+aliasesArchive:
 - /blog/application-lifecycle-management-with-office-2013-on-windows-8
+- /application-lifecycle-management-with-office-2013-on-windows-8
 - /resources/blog/application-lifecycle-management-with-office-2013-on-windows-8
 tags:
 - Windows
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
 - Products and Books
 - Application Lifecycle Management
 categories:

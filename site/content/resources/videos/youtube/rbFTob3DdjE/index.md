@@ -8,16 +8,18 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: rbFTob3DdjE
 url: /resources/videos/:slug
-slug: 5-tools-that-scrum-masters-love-part-2
+slug: unlocking-team-potential-the-essential-role-of-digital-whiteboards-in-agile-collaboration-rbFTob3DdjE
 layout: video
 aliases:
-- /resources/videos/rbFTob3DdjE
-- /resources/videos/5-tools-that-scrum-masters-love-part-2
-- /resources/5-tools-that-scrum-masters-love-part-2
 - /resources/rbFTob3DdjE
-aliasesFor404:
+- /resources/videos/unlocking-team-potential-the-essential-role-of-digital-whiteboards-in-agile-collaboration-rbFTob3DdjE
+- /resources/videos/unlocking-team-potential-the-essential-role-of-digital-whiteboards-in-agile-collaboration
+- /resources/videos/5-tools-that-scrum-masters-love-part-2
+aliasesArchive:
+- /resources/videos/unlocking-team-potential-the-essential-role-of-digital-whiteboards-in-agile-collaboration
 - /resources/videos/5-tools-that-scrum-masters-love-part-2
 - /resources/5-tools-that-scrum-masters-love-part-2
+- unlocking-team-potential-the-essential-role-of-digital-whiteboards-in-agile-collaboration-rbFTob3DdjE
 preview: https://i.ytimg.com/vi/rbFTob3DdjE/maxresdefault.jpg
 duration: 39
 isShort: true

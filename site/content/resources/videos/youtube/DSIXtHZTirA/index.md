@@ -12,27 +12,28 @@ url: /resources/videos/:slug
 slug: nkd-agility-your-partner-in-developing-engineering-excellence
 layout: video
 aliases:
-- /resources/videos/DSIXtHZTirA
-- /resources/videos/performance-engineering-for-optimal-user-experience
-- /resources/performance-engineering-for-optimal-user-experience
 - /resources/DSIXtHZTirA
-aliasesFor404:
+- /resources/videos/nkd-agility-your-partner-in-developing-engineering-excellence
+- /resources/videos/performance-engineering-for-optimal-user-experience
+aliasesArchive:
+- /resources/videos/nkd-agility-your-partner-in-developing-engineering-excellence
 - /resources/videos/performance-engineering-for-optimal-user-experience
 - /resources/performance-engineering-for-optimal-user-experience
+- nkd-agility-your-partner-in-developing-engineering-excellence
 preview: https://i.ytimg.com/vi/DSIXtHZTirA/maxresdefault.jpg
 duration: 704
 isShort: false
 tags:
 - Pragmatic Thinking
-- Continuous Delivery
-- Working Software
-- Product Delivery
-- Azure DevOps
 - People and Process
-- Deployment Frequency
-- Technical Excellence
+- Continuous Delivery
+- Azure DevOps
+- Product Delivery
+- Working Software
+- Practical Techniques and Tooling
+- Value Delivery
 - Engineering Practices
-- Software Development
+- Deployment Frequency
 sitemap:
   filename: sitemap.xml
   priority: 0.6

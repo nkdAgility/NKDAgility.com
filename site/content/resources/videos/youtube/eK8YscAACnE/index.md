@@ -8,16 +8,18 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: eK8YscAACnE
 url: /resources/videos/:slug
-slug: -shorts-5-kinds-of-agile-bandits-3rd-kind
+slug: ditching-agile-banditry-why-story-points-and-velocity-metrics-are-undermining-your-teams-success-eK8YscAACnE
 layout: video
 aliases:
-- /resources/videos/eK8YscAACnE
-- /resources/videos/-shorts-5-kinds-of-agile-bandits-3rd-kind
-- /resources/-shorts-5-kinds-of-agile-bandits-3rd-kind
 - /resources/eK8YscAACnE
-aliasesFor404:
+- /resources/videos/ditching-agile-banditry-why-story-points-and-velocity-metrics-are-undermining-your-teams-success-eK8YscAACnE
+- /resources/videos/ditching-agile-banditry-why-story-points-and-velocity-metrics-are-undermining-your-teams-success
+- /resources/videos/-shorts-5-kinds-of-agile-bandits-3rd-kind
+aliasesArchive:
+- /resources/videos/ditching-agile-banditry-why-story-points-and-velocity-metrics-are-undermining-your-teams-success
 - /resources/videos/-shorts-5-kinds-of-agile-bandits-3rd-kind
 - /resources/-shorts-5-kinds-of-agile-bandits-3rd-kind
+- ditching-agile-banditry-why-story-points-and-velocity-metrics-are-undermining-your-teams-success-eK8YscAACnE
 preview: https://i.ytimg.com/vi/eK8YscAACnE/maxresdefault.jpg
 duration: 37
 isShort: true
@@ -33,9 +35,9 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Kanban
 - Product Management
 - Social Technologies
-- Kanban
 
 ---
 In my journey through the world of Agile, I've encountered a recurring theme that I can only describe as "agile banditry." This term might sound a bit dramatic, but it perfectly encapsulates the misuse of certain Agile practices that can undermine the very principles we strive to uphold. One of the most common culprits? The infamous story points and velocity metrics.

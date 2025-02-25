@@ -17,9 +17,9 @@ aliases:
 - /installing-visual-studio-2010-team-suit-beta-1
 - /resources/qtd2Xg-TMfU
 - /resources/blog/installing-visual-studio-2010-team-suit-beta-1
-aliasesFor404:
-- /installing-visual-studio-2010-team-suit-beta-1
+aliasesArchive:
 - /blog/installing-visual-studio-2010-team-suit-beta-1
+- /installing-visual-studio-2010-team-suit-beta-1
 - /resources/blog/installing-visual-studio-2010-team-suit-beta-1
 tags:
 - Install and Configuration

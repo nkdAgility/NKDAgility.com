@@ -15,15 +15,14 @@ preview: https://i.ytimg.com/vi/o0VJuVhm0pQ/maxresdefault.jpg
 duration: 407
 isShort: false
 aliases:
-- /resources/in-high-competition-markets-how-does-scrum-product-development-help-acquire-and-retain-customers
-- /resources/videos/in-high-competition-markets,-how-does-scrum-product-development-help-acquire-and-retain-customers-
-- /resources/videos/o0VJuVhm0pQ
-- /resources/in-high-competition-markets,-how-does-scrum-product-development-help-acquire-and-retain-customers-
 - /resources/o0VJuVhm0pQ
-aliasesFor404:
+- /resources/videos/in-high-competition-markets-how-does-scrum-product-development-help-acquire-and-retain-customers
+aliasesArchive:
+- /resources/videos/in-high-competition-markets-how-does-scrum-product-development-help-acquire-and-retain-customers
 - /resources/in-high-competition-markets-how-does-scrum-product-development-help-acquire-and-retain-customers
 - /resources/videos/in-high-competition-markets,-how-does-scrum-product-development-help-acquire-and-retain-customers-
 - /resources/in-high-competition-markets,-how-does-scrum-product-development-help-acquire-and-retain-customers-
+- in-high-competition-markets-how-does-scrum-product-development-help-acquire-and-retain-customers
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -31,9 +30,9 @@ tags:
 - People and Process
 - Empirical Process Control
 - Scrum Product Development
-- Value Delivery
-- Software Development
 - Product Delivery
+- Software Development
+- Value Delivery
 - Agile Product Management
 - Agile Project Management
 - Agile Frameworks

@@ -12,7 +12,7 @@ creator: Martin Hinshelwood
 aliases:
 - /learn/agile-delivery-kit/first-principals/continuous-delivery/
 - /resources/ThwZ-YCKBf-
-aliasesFor404:
+aliasesArchive:
 - /learn/agile-delivery-kit/first-principals/continuous-delivery/
 card:
   button:
@@ -21,19 +21,19 @@ card:
   title: Continuous Delivery
 categories:
 - Product Management
-- Social Technologies
 - DevOps
+- Engineering Excellence
 tags:
-- Continuous Delivery
 - Product Delivery
+- Continuous Delivery
 - Value Delivery
+- Agile Product Management
 - Customer Feedback Loops
 - Product Validation
 - Discovery and Learning
-- Agile Product Management
-- Software Development
-- Working Software
 - Frequent Releases
+- Working Software
+- Software Development
 
 ---
 Closing the feedback loop is imposable without getting your product in front of the users that will be using it. Only they can determine if the perceived value that you think that you have is actually value.

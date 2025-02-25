@@ -9,22 +9,24 @@ ResourceImportSource: Youtube
 videoId: CXOrndz5lN4
 source: youtube
 url: /resources/videos/:slug
-slug: building-a-culture-of-engineering-excellence
+slug: cultivating-a-culture-of-engineering-excellence-the-essential-role-of-technical-leadership-CXOrndz5lN4
 layout: video
 aliases:
-- /resources/videos/CXOrndz5lN4
-- /resources/videos/building-a-culture-of-engineering-excellence
-- /resources/building-a-culture-of-engineering-excellence
 - /resources/CXOrndz5lN4
-aliasesFor404:
+- /resources/videos/cultivating-a-culture-of-engineering-excellence-the-essential-role-of-technical-leadership-CXOrndz5lN4
+- /resources/videos/cultivating-a-culture-of-engineering-excellence-the-essential-role-of-technical-leadership
+- /resources/videos/building-a-culture-of-engineering-excellence
+aliasesArchive:
+- /resources/videos/cultivating-a-culture-of-engineering-excellence-the-essential-role-of-technical-leadership
 - /resources/videos/building-a-culture-of-engineering-excellence
 - /resources/building-a-culture-of-engineering-excellence
+- cultivating-a-culture-of-engineering-excellence-the-essential-role-of-technical-leadership-CXOrndz5lN4
 preview: https://i.ytimg.com/vi/CXOrndz5lN4/maxresdefault.jpg
 duration: 40
 isShort: true
 tags:
-- Organisational Culture
 - People and Process
+- Organisational Culture
 sitemap:
   filename: sitemap.xml
   priority: 0.6

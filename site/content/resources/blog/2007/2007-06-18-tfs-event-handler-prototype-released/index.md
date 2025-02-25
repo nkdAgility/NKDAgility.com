@@ -19,22 +19,22 @@ aliases:
 - /blog/tfs-event-handler--prototype-released
 - /resources/bfZgaw94nbj
 - /resources/blog/tfs-event-handler-prototype-released
-aliasesFor404:
-- /tfs-event-handler-prototype-released
+aliasesArchive:
 - /blog/tfs-event-handler-prototype-released
+- /tfs-event-handler-prototype-released
 - /tfs-event-handler--prototype-released
 - /blog/tfs-event-handler--prototype-released
 - /resources/blog/tfs-event-handler-prototype-released
 tags:
+- Practical Techniques and Tooling
 - Install and Configuration
 - Working Software
-- Practical Techniques and Tooling
 - News and Reviews
-- Software Development
 - Release Management
-- System Configuration
 - Technical Mastery
 - Frequent Releases
+- Software Development
+- System Configuration
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

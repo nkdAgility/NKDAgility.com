@@ -17,15 +17,15 @@ aliases:
 - /flashing-your-windows-phone-6-for-dummies
 - /resources/1tC2VKI3OMf
 - /resources/blog/flashing-your-windows-phone-6-for-dummies
-aliasesFor404:
-- /flashing-your-windows-phone-6-for-dummies
+aliasesArchive:
 - /blog/flashing-your-windows-phone-6-for-dummies
+- /flashing-your-windows-phone-6-for-dummies
 - /resources/blog/flashing-your-windows-phone-6-for-dummies
 tags:
 - Windows
 - Install and Configuration
-- System Configuration
 - Practical Techniques and Tooling
+- System Configuration
 - Troubleshooting
 - Technical Mastery
 categories: []

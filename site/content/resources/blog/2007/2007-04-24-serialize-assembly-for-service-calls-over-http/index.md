@@ -17,14 +17,14 @@ aliases:
 - /serialize-assembly-for-service-calls-over-http
 - /resources/TgSz2FK5KBK
 - /resources/blog/serialize-assembly-for-service-calls-over-http
-aliasesFor404:
-- /serialize-assembly-for-service-calls-over-http
+aliasesArchive:
 - /blog/serialize-assembly-for-service-calls-over-http
+- /serialize-assembly-for-service-calls-over-http
 - /resources/blog/serialize-assembly-for-service-calls-over-http
 tags:
-- Software Development
 - Troubleshooting
 - Technical Mastery
+- Software Development
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

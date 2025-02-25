@@ -17,9 +17,9 @@ aliases:
 - /announcing-visual-studio-11-beta-will-launch-on-february-29th
 - /resources/oP62ZJrRzkU
 - /resources/blog/announcing-visual-studio-11-beta-will-launch-on-february-29th
-aliasesFor404:
-- /announcing-visual-studio-11-beta-will-launch-on-february-29th
+aliasesArchive:
 - /blog/announcing-visual-studio-11-beta-will-launch-on-february-29th
+- /announcing-visual-studio-11-beta-will-launch-on-february-29th
 - /resources/blog/announcing-visual-studio-11-beta-will-launch-on-february-29th
 tags:
 - Events and Presentations

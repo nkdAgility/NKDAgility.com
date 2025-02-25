@@ -15,29 +15,30 @@ preview: https://i.ytimg.com/vi/QBX7dnUBzo8/maxresdefault.jpg
 duration: 349
 isShort: false
 aliases:
-- /resources/addressing-systemic-issues-in-agile-organizations
-- /resources/videos/agile-techniques-that-boost-startups!
-- /resources/videos/QBX7dnUBzo8
-- /resources/agile-techniques-that-boost-startups!
 - /resources/QBX7dnUBzo8
-aliasesFor404:
+- /resources/videos/addressing-systemic-issues-in-agile-organizations
+- /resources/videos/agile-techniques-that-boost-startups
+aliasesArchive:
+- /resources/videos/addressing-systemic-issues-in-agile-organizations
 - /resources/addressing-systemic-issues-in-agile-organizations
 - /resources/videos/agile-techniques-that-boost-startups!
 - /resources/agile-techniques-that-boost-startups!
+- /resources/videos/agile-techniques-that-boost-startups
+- addressing-systemic-issues-in-agile-organizations
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Business Agility
 - Resilience and Change
-- People and Process
 - Scaling Agility
-- Enterprise Agility
-- Agile Strategy
-- Metrics and Learning
-- Agile Frameworks
+- Agile Leadership
 - Organisational Agility
-- Agile Transformation
+- Agile Frameworks
+- Organisational Change
+- Agile Strategy
+- Agile Philosophy
 resourceTypes:
 - video
 categories:

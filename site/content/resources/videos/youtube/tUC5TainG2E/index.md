@@ -15,15 +15,14 @@ preview: https://i.ytimg.com/vi/tUC5TainG2E/maxresdefault.jpg
 duration: 271
 isShort: false
 aliases:
-- /resources/how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft
-- /resources/videos/how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft-
-- /resources/videos/tUC5TainG2E
-- /resources/how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft-
 - /resources/tUC5TainG2E
-aliasesFor404:
+- /resources/videos/how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft
+aliasesArchive:
+- /resources/videos/how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft
 - /resources/how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft
 - /resources/videos/how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft-
 - /resources/how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft-
+- how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft
 sitemap:
   filename: sitemap.xml
   priority: 0.6

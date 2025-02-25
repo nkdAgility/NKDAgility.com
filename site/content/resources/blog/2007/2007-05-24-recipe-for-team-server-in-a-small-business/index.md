@@ -17,9 +17,9 @@ aliases:
 - /recipe-for-team-server-in-a-small-business
 - /resources/wOQl29WfTz6
 - /resources/blog/recipe-for-team-server-in-a-small-business
-aliasesFor404:
-- /recipe-for-team-server-in-a-small-business
+aliasesArchive:
 - /blog/recipe-for-team-server-in-a-small-business
+- /recipe-for-team-server-in-a-small-business
 - /resources/blog/recipe-for-team-server-in-a-small-business
 tags:
 - Practical Techniques and Tooling

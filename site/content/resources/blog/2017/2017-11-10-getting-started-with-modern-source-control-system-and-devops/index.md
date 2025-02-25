@@ -20,9 +20,9 @@ aliases:
 - /blog/getting-started-with-a-modern-source-control-system-and-devops
 - /resources/bkiQSbbO78R
 - /resources/blog/getting-started-with-modern-source-control-system-and-devops
-aliasesFor404:
-- /getting-started-with-modern-source-control-system-and-devops
+aliasesArchive:
 - /blog/getting-started-with-modern-source-control-system-and-devops
+- /getting-started-with-modern-source-control-system-and-devops
 - /getting-started-with-a-modern-source-control-system-and-devops
 - /blog/getting-started-with-a-modern-source-control-system-and-devops
 - /resources/blog/getting-started-with-modern-source-control-system-and-devops

@@ -17,9 +17,9 @@ aliases:
 - /visual-studio-2008-and-the-gdr-ctp16
 - /resources/BgrdMISXI4W
 - /resources/blog/visual-studio-2008-and-the-gdr-ctp16
-aliasesFor404:
-- /visual-studio-2008-and-the-gdr-ctp16
+aliasesArchive:
 - /blog/visual-studio-2008-and-the-gdr-ctp16
+- /visual-studio-2008-and-the-gdr-ctp16
 - /resources/blog/visual-studio-2008-and-the-gdr-ctp16
 tags:
 - Troubleshooting

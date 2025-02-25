@@ -15,29 +15,28 @@ preview: https://i.ytimg.com/vi/irSqFAJNJ9c/maxresdefault.jpg
 duration: 390
 isShort: false
 aliases:
-- /resources/what-does-a-poor-scrum-team-look-act-and-feel-like
-- /resources/videos/what-does-a-poor-scrum-team-look,-act-and-feel-like-
-- /resources/videos/irSqFAJNJ9c
-- /resources/what-does-a-poor-scrum-team-look,-act-and-feel-like-
 - /resources/irSqFAJNJ9c
-aliasesFor404:
+- /resources/videos/what-does-a-poor-scrum-team-look-act-and-feel-like
+aliasesArchive:
+- /resources/videos/what-does-a-poor-scrum-team-look-act-and-feel-like
 - /resources/what-does-a-poor-scrum-team-look-act-and-feel-like
 - /resources/videos/what-does-a-poor-scrum-team-look,-act-and-feel-like-
 - /resources/what-does-a-poor-scrum-team-look,-act-and-feel-like-
+- what-does-a-poor-scrum-team-look-act-and-feel-like
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Transparency
 - Scrum Product Development
-- Agile Project Management
 - Agile Product Management
+- Agile Project Management
 - Product Owner
-- People and Process
 - Scrum Team
-- Software Development
+- People and Process
+- Team Collaboration
 - Team Performance
-- Agile Frameworks
+- Software Development
 resourceTypes:
 - video
 categories:

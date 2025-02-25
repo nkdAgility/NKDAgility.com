@@ -15,22 +15,22 @@ resourceTypes: blog
 slug: no-such-thing-as-a-junior-scrum-master
 aliases:
 - /resources/f2RQh2UCwqB
-aliasesFor404:
+aliasesArchive:
 - /no-such-thing-as-a-junior-scrum-master
 - /blog/no-such-thing-as-a-junior-scrum-master
 - /there-is-no-such-thing-as-a--junior--scrum-master
 - /blog/there-is-no-such-thing-as-a--junior--scrum-master
 tags:
 - Scrum Master
+- Agile Project Management
 - Accountability
 - Scrum Team
-- Agile Project Management
-- Software Development
 - People and Process
+- Software Development
 - Scrum Product Development
-- Professional Scrum
 - Agile Product Management
-- Technical Leadership
+- Professional Scrum
+- Team Performance
 categories:
 - Scrum
 preview: 2025-02-10-no-such-thing-as-a-junior-scrum-master.jpg

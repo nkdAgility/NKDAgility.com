@@ -14,29 +14,31 @@ preview: https://i.ytimg.com/vi/2ASLFX2i9_g/maxresdefault.jpg
 duration: 412
 isShort: false
 aliases:
-- /resources/7-deadly-sins-of-agile-gluttony
-- /resources/videos/gluttony!-7-deadly-sins-of-agile
-- /resources/videos/2ASLFX2i9_g
-- /resources/gluttony!-7-deadly-sins-of-agile
 - /resources/2ASLFX2i9_g
-aliasesFor404:
+- /resources/videos/7-deadly-sins-of-agile-gluttony
+- /resources/videos/gluttony-7-deadly-sins-of-agile
+aliasesArchive:
+- /resources/videos/-deadly-sins-of-agile-gluttony
+- /resources/videos/7-deadly-sins-of-agile-gluttony
 - /resources/7-deadly-sins-of-agile-gluttony
 - /resources/videos/gluttony!-7-deadly-sins-of-agile
 - /resources/gluttony!-7-deadly-sins-of-agile
+- /resources/videos/gluttony-7-deadly-sins-of-agile
+- 7-deadly-sins-of-agile-gluttony
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - People and Process
 - Agile Product Management
-- Scrum Product Development
 - Team Performance
 - Metrics and Learning
-- Agile Planning
+- Scrum Product Development
 - Agile Project Management
+- Agile Planning
 - Value Delivery
-- Software Development
-- Software Developers
+- Operational Practices
+- Pragmatic Thinking
 resourceTypes:
 - video
 layout: video

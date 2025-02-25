@@ -15,29 +15,28 @@ preview: https://i.ytimg.com/vi/uCyHR_eU22A/maxresdefault.jpg
 duration: 152
 isShort: false
 aliases:
-- /resources/how-do-you-select-the-most-valuable-items-for-the-sprint-backlog
-- /resources/videos/how-do-you-select-the-most-valuable-items-for-the-sprint-backlog-
-- /resources/videos/uCyHR_eU22A
-- /resources/how-do-you-select-the-most-valuable-items-for-the-sprint-backlog-
 - /resources/uCyHR_eU22A
-aliasesFor404:
+- /resources/videos/how-do-you-select-the-most-valuable-items-for-the-sprint-backlog
+aliasesArchive:
+- /resources/videos/how-do-you-select-the-most-valuable-items-for-the-sprint-backlog
 - /resources/how-do-you-select-the-most-valuable-items-for-the-sprint-backlog
 - /resources/videos/how-do-you-select-the-most-valuable-items-for-the-sprint-backlog-
 - /resources/how-do-you-select-the-most-valuable-items-for-the-sprint-backlog-
+- how-do-you-select-the-most-valuable-items-for-the-sprint-backlog
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Scrum Product Development
-- Product Owner
 - Product Backlog
-- Scrum Team
-- Professional Scrum
-- Scrum Master
-- Software Developers
-- Agile Product Management
+- Product Owner
 - People and Process
-- Pragmatic Thinking
+- Professional Scrum
+- Scrum Team
+- Software Developers
+- Scrum Master
+- Agile Product Management
+- Agile Project Management
 resourceTypes:
 - video
 categories:

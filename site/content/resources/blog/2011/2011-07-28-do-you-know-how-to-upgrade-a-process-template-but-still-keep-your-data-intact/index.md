@@ -19,21 +19,21 @@ aliases:
 - /blog/upgrading-your-process-template-in-team-foundation-server
 - /resources/o6VvFIPoyTU
 - /resources/blog/do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact
-aliasesFor404:
-- /do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact
+aliasesArchive:
 - /blog/do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact
+- /do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact
 - /upgrading-your-process-template-in-team-foundation-server
 - /blog/upgrading-your-process-template-in-team-foundation-server
 - /resources/blog/do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Software Development
-- Azure DevOps
-- Pragmatic Thinking
-- System Configuration
 - Troubleshooting
 - Operational Practices
+- Pragmatic Thinking
+- Software Development
+- System Configuration
+- Azure DevOps
 - Technical Mastery
 categories:
 - Engineering Excellence

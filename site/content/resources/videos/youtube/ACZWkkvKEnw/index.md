@@ -2,38 +2,32 @@
 title: 'Avoiding the Local Optimisation Trap: How to Ensure Your Governance Drives Organisational Success'
 description: Avoid the pitfalls of local optimisation! Discover how to align governance with organisational goals for true efficiency and success in your team.
 date: 2025-02-08T07:49:38Z
-ResourceId: aathsp3IMfg
+ResourceId: ACZWkkvKEnw
 ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
-videoId: aathsp3IMfg
+videoId: ACZWkkvKEnw
 source: internal
 url: /resources/videos/:slug
-slug: when-is-an-aps-course-appropriate-for-a-scrum-team
+slug: avoiding-the-local-optimisation-trap-how-to-ensure-your-governance-drives-organisational-success-ACZWkkvKEnw
 layout: video
-preview: https://i.ytimg.com/vi/aathsp3IMfg/maxresdefault.jpg
-duration: 194
-isShort: false
+preview: https://i.ytimg.com/vi/ACZWkkvKEnw/maxresdefault.jpg
+duration: 45
+isShort: true
 aliases:
-- /resources/when-is-an-aps-course-appropriate-for-a-scrum-team
-- /resources/what-does-your-dream-agile-consulting-week-look-like
-- /resources/videos/what-does-your-dream-agile-consulting-week-look-like-
-- /resources/videos/aathsp3IMfg
-- /resources/what-does-your-dream-agile-consulting-week-look-like-
-- /resources/aathsp3IMfg
 - /resources/ACZWkkvKEnw
-- /resources/videos/ACZWkkvKEnw
+- /resources/videos/avoiding-the-local-optimisation-trap-how-to-ensure-your-governance-drives-organisational-success-ACZWkkvKEnw
+- /resources/videos/avoiding-the-local-optimisation-trap-how-to-ensure-your-governance-drives-organisational-success
 - /resources/videos/the-cog-conundrum
-- /resources/the-cog-conundrum
-aliasesFor404:
+aliasesArchive:
+- /resources/videos/avoiding-the-local-optimisation-trap-how-to-ensure-your-governance-drives-organisational-success
 - /resources/when-is-an-aps-course-appropriate-for-a-scrum-team
 - /resources/what-does-your-dream-agile-consulting-week-look-like
 - /resources/videos/what-does-your-dream-agile-consulting-week-look-like-
 - /resources/what-does-your-dream-agile-consulting-week-look-like-
-- /resources/ACZWkkvKEnw
-- /resources/videos/ACZWkkvKEnw
 - /resources/videos/the-cog-conundrum
 - /resources/the-cog-conundrum
+- avoiding-the-local-optimisation-trap-how-to-ensure-your-governance-drives-organisational-success-ACZWkkvKEnw
 sitemap:
   filename: sitemap.xml
   priority: 0.6

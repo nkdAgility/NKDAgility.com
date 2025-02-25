@@ -21,24 +21,24 @@ aliases:
 - /msbuild-and-business-intelligence-packages--ahhhhhh-
 - /blog/msbuild-and-business-intelligence-packages--ahhhhhh-
 - /resources/blog/msbuild-and-business-intelligence-packages-ahhhhhh
-aliasesFor404:
-- /msbuild-and-business-intelligence-packages-ahhhhhh
+aliasesArchive:
 - /blog/msbuild-and-business-intelligence-packages-ahhhhhh
+- /msbuild-and-business-intelligence-packages-ahhhhhh
 - /msbuild-and-business-intelligence-packages,-ahhhhhh-
 - /blog/msbuild-and-business-intelligence-packages,-ahhhhhh-
 - /msbuild-and-business-intelligence-packages--ahhhhhh-
 - /blog/msbuild-and-business-intelligence-packages--ahhhhhh-
 - /resources/blog/msbuild-and-business-intelligence-packages-ahhhhhh
 tags:
-- Automated Testing
 - Practical Techniques and Tooling
 - Test Automation
+- Automated Testing
+- Troubleshooting
+- Technical Mastery
 - Software Development
 - Technical Excellence
 - System Configuration
-- Troubleshooting
-- Technical Mastery
-- Engineering Practices
+- Application Lifecycle Management
 - Operational Practices
 preview: nakedalm-logo-128-link-1-1.png
 categories:

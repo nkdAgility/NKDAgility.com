@@ -17,9 +17,9 @@ aliases:
 - /visual-studio-team-system-2008-database-edition-gdr-installation
 - /resources/mTkoKh2H2uy
 - /resources/blog/visual-studio-team-system-2008-database-edition-gdr-installation
-aliasesFor404:
-- /visual-studio-team-system-2008-database-edition-gdr-installation
+aliasesArchive:
 - /blog/visual-studio-team-system-2008-database-edition-gdr-installation
+- /visual-studio-team-system-2008-database-edition-gdr-installation
 - /resources/blog/visual-studio-team-system-2008-database-edition-gdr-installation
 tags:
 - Install and Configuration

@@ -9,20 +9,22 @@ ResourceImportSource: Youtube
 videoId: 7O-LmzmxUkE
 source: internal
 url: /resources/videos/:slug
-slug: scrum-is-like-communism-it-doesn-t-work-myth-1
+slug: scrum-is-like-communism-it-doesnt-work-myth-1
 preview: https://i.ytimg.com/vi/7O-LmzmxUkE/maxresdefault.jpg
 duration: 255
 isShort: false
 aliases:
-- /resources/scrum-is-like-communism-it-doesnt-work-myth-1
-- /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-1
-- /resources/videos/7O-LmzmxUkE
-- /resources/scrum-is-like-communism-it-doesn't-work-myth-1
 - /resources/7O-LmzmxUkE
-aliasesFor404:
+- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-1
+aliasesArchive:
+- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-
+- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-1-
 - /resources/scrum-is-like-communism-it-doesnt-work-myth-1
 - /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-1
 - /resources/scrum-is-like-communism-it-doesn't-work-myth-1
+- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-1
+- scrum-is-like-communism-it-doesnt-work-myth-1-
+- scrum-is-like-communism-it-doesnt-work-myth-1
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -30,13 +32,13 @@ tags:
 - Scrum Product Development
 - Transparency
 - Empirical Process Control
-- Transparency and Accountability
 - People and Process
-- Scrum Team
 - Daily Scrum
-- Team Collaboration
-- Professional Scrum
+- Scrum Team
+- Transparency and Accountability
 - Scrum Master
+- Product Delivery
+- Software Developers
 resourceTypes:
 - video
 layout: video

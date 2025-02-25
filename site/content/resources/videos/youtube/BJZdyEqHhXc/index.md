@@ -8,29 +8,30 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: BJZdyEqHhXc
 url: /resources/videos/:slug
-slug: nkd-agility-consulting-approach
+slug: empowering-your-team-why-quick-fixes-in-agile-and-devops-are-a-myth
 layout: video
 aliases:
-- /resources/videos/BJZdyEqHhXc
-- /resources/videos/nkd-agility-consulting-approach
-- /resources/nkd-agility-consulting-approach
 - /resources/BJZdyEqHhXc
-aliasesFor404:
+- /resources/videos/empowering-your-team-why-quick-fixes-in-agile-and-devops-are-a-myth
+- /resources/videos/nkd-agility-consulting-approach
+aliasesArchive:
+- /resources/videos/empowering-your-team-why-quick-fixes-in-agile-and-devops-are-a-myth
 - /resources/videos/nkd-agility-consulting-approach
 - /resources/nkd-agility-consulting-approach
+- empowering-your-team-why-quick-fixes-in-agile-and-devops-are-a-myth
 preview: https://i.ytimg.com/vi/BJZdyEqHhXc/maxresdefault.jpg
 duration: 271
 isShort: false
 tags:
 - People and Process
 - Resilience and Change
-- Organisational Agility
-- Organisational Change
 - Change Management
-- Sensemaking
+- Organisational Change
+- Organisational Agility
+- Decision Making
 - Pragmatic Thinking
 - Sociotechnical Systems
-- Decision Making
+- Sensemaking
 - Business Agility
 sitemap:
   filename: sitemap.xml

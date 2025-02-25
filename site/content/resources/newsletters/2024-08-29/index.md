@@ -13,7 +13,7 @@ aliases:
 - /newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
 - /resources/newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
 - /resources/bvPDNFJju4h
-aliasesFor404:
+aliasesArchive:
 - /newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
 - /resources/newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
 categories:
@@ -22,13 +22,13 @@ categories:
 tags:
 - Discovery and Learning
 - Products and Books
-- Product Validation
 - Agile Product Management
+- Product Validation
 - Product Discovery
-- Events and Presentations
 - People and Process
+- Events and Presentations
 - Practical Techniques and Tooling
-- Customer Satisfaction
+- Product Owner
 - Product Delivery
 
 ---

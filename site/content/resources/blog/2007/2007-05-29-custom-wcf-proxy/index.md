@@ -17,13 +17,13 @@ aliases:
 - /custom-wcf-proxy
 - /resources/hfv2zp8Q-i4
 - /resources/blog/custom-wcf-proxy
-aliasesFor404:
-- /custom-wcf-proxy
+aliasesArchive:
 - /blog/custom-wcf-proxy
+- /custom-wcf-proxy
 - /resources/blog/custom-wcf-proxy
 tags:
-- Software Development
 - Technical Mastery
+- Software Development
 preview: metro-merilllynch-128-link-1-1.png
 categories:
 - Engineering Excellence

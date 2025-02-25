@@ -19,19 +19,19 @@ aliases:
 - /blog/i-messed-up-my-work-items-from-excel--what-now-
 - /resources/jZw9emMhGRh
 - /resources/blog/i-messed-up-my-work-items-from-excel-what-now
-aliasesFor404:
-- /i-messed-up-my-work-items-from-excel-what-now
+aliasesArchive:
 - /blog/i-messed-up-my-work-items-from-excel-what-now
+- /i-messed-up-my-work-items-from-excel-what-now
 - /i-messed-up-my-work-items-from-excel--what-now-
 - /blog/i-messed-up-my-work-items-from-excel--what-now-
 - /resources/blog/i-messed-up-my-work-items-from-excel-what-now
 tags:
 - Troubleshooting
 - Practical Techniques and Tooling
-- Azure Boards
-- Software Development
-- Azure DevOps
 - Pragmatic Thinking
+- Software Development
+- Azure Boards
+- Azure DevOps
 categories: []
 preview: metro-visual-studio-2010-128-link-4-4.png
 

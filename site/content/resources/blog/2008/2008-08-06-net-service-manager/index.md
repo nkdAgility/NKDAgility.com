@@ -19,16 +19,16 @@ aliases:
 - /blog/-net-service-manager
 - /resources/tzY7cIvFnOc
 - /resources/blog/net-service-manager
-aliasesFor404:
-- /net-service-manager
+aliasesArchive:
 - /blog/net-service-manager
+- /net-service-manager
 - /-net-service-manager
 - /blog/-net-service-manager
 - /resources/blog/net-service-manager
 tags:
 - Release Management
-- Software Development
 - Technical Mastery
+- Software Development
 categories: []
 preview: nakedalm-logo-128-link-2-2.png
 

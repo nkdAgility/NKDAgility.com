@@ -17,9 +17,9 @@ aliases:
 - /visual-studio-team-system-2008-team-foundation-server-power-tools
 - /resources/GNzGGsullsE
 - /resources/blog/visual-studio-team-system-2008-team-foundation-server-power-tools
-aliasesFor404:
-- /visual-studio-team-system-2008-team-foundation-server-power-tools
+aliasesArchive:
 - /blog/visual-studio-team-system-2008-team-foundation-server-power-tools
+- /visual-studio-team-system-2008-team-foundation-server-power-tools
 - /resources/blog/visual-studio-team-system-2008-team-foundation-server-power-tools
 tags:
 - News and Reviews

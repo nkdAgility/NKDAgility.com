@@ -17,14 +17,14 @@ aliases:
 - /outsync-with-proxy-servers
 - /resources/juUxY8REuRz
 - /resources/blog/outsync-with-proxy-servers
-aliasesFor404:
-- /outsync-with-proxy-servers
+aliasesArchive:
 - /blog/outsync-with-proxy-servers
+- /outsync-with-proxy-servers
 - /resources/blog/outsync-with-proxy-servers
 tags:
 - Install and Configuration
-- System Configuration
 - Troubleshooting
+- System Configuration
 categories: []
 preview: nakedalm-logo-128-link-2-1.png
 

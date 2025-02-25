@@ -17,9 +17,9 @@ aliases:
 - /soapbox-beta
 - /resources/pFTm6k2yWBc
 - /resources/blog/soapbox-beta
-aliasesFor404:
-- /soapbox-beta
+aliasesArchive:
 - /blog/soapbox-beta
+- /soapbox-beta
 - /resources/blog/soapbox-beta
 tags: []
 categories: []

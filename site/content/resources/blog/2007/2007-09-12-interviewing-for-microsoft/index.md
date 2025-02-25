@@ -17,9 +17,9 @@ aliases:
 - /interviewing-for-microsoft
 - /resources/ldGtzdVxYwE
 - /resources/blog/interviewing-for-microsoft
-aliasesFor404:
-- /interviewing-for-microsoft
+aliasesArchive:
 - /blog/interviewing-for-microsoft
+- /interviewing-for-microsoft
 - /resources/blog/interviewing-for-microsoft
 tags:
 - Personal

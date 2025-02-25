@@ -15,15 +15,15 @@ preview: https://i.ytimg.com/vi/VjPslpF3fTc/maxresdefault.jpg
 duration: 122
 isShort: false
 aliases:
-- /resources/how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-couple-of-years-experience-in-the-field
-- /resources/how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-few-years-experience
-- /resources/videos/how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-few-years-experience
-- /resources/videos/VjPslpF3fTc
 - /resources/VjPslpF3fTc
-aliasesFor404:
+- /resources/videos/how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-couple-of-years-experience-in-the-field
+- /resources/videos/how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-few-years-experience
+aliasesArchive:
+- /resources/videos/how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-couple-of-years-experience-in-the-field
 - /resources/how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-couple-of-years-experience-in-the-field
 - /resources/how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-few-years-experience
 - /resources/videos/how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-few-years-experience
+- how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-couple-of-years-experience-in-the-field
 sitemap:
   filename: sitemap.xml
   priority: 0.6

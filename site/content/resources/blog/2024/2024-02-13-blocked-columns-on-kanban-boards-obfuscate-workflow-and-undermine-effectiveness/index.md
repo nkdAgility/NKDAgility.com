@@ -21,21 +21,21 @@ aliases:
 - /blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
 - /resources/7JJaRr4g-KA
 - /resources/blog/blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
-aliasesFor404:
-- /blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
+aliasesArchive:
 - /blog/blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
+- /blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
 - /resources/blog/blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
 tags:
 - Flow Efficiency
 - Transparency
 - Azure Boards
 - Azure DevOps
-- Software Development
 - Practical Techniques and Tooling
-- Pragmatic Thinking
-- Agile Frameworks
+- Software Development
 - Lean
+- Agile Project Management
 - Operational Practices
+- Pragmatic Thinking
 categories:
 - Kanban
 - Social Technologies

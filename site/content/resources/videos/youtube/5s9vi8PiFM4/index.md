@@ -9,20 +9,19 @@ ResourceImportSource: Youtube
 videoId: 5s9vi8PiFM4
 source: internal
 url: /resources/videos/:slug
-slug: 1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey
+slug: 1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey-5s9vi8PiFM4
 preview: https://i.ytimg.com/vi/5s9vi8PiFM4/maxresdefault.jpg
 duration: 47
 isShort: true
 aliases:
-- /resources/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey-2
-- /resources/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey
-- /resources/videos/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey
-- /resources/videos/5s9vi8PiFM4
 - /resources/5s9vi8PiFM4
-aliasesFor404:
+- /resources/videos/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey-5s9vi8PiFM4
+aliasesArchive:
+- /resources/videos/-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey
+- /resources/videos/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey
 - /resources/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey-2
 - /resources/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey
-- /resources/videos/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey
+- 1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey-5s9vi8PiFM4
 sitemap:
   filename: sitemap.xml
   priority: 0.6

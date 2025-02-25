@@ -17,9 +17,9 @@ aliases:
 - /installing-visual-studio-2010-service-pack-1
 - /resources/tZ9fOZUusrh
 - /resources/blog/installing-visual-studio-2010-service-pack-1
-aliasesFor404:
-- /installing-visual-studio-2010-service-pack-1
+aliasesArchive:
 - /blog/installing-visual-studio-2010-service-pack-1
+- /installing-visual-studio-2010-service-pack-1
 - /resources/blog/installing-visual-studio-2010-service-pack-1
 tags:
 - Windows

@@ -20,19 +20,19 @@ aliases:
 - /blog/tfs-integration-tools---issue--unable-to-find-a-unique-local-path
 - /resources/-dAwZr3zpgy
 - /resources/blog/tfs-integration-tools-issue-unable-to-find-a-unique-local-path
-aliasesFor404:
-- /tfs-integration-tools-issue-unable-to-find-a-unique-local-path
+aliasesArchive:
 - /blog/tfs-integration-tools-issue-unable-to-find-a-unique-local-path
+- /tfs-integration-tools-issue-unable-to-find-a-unique-local-path
+- /tfs-integration-tools
 - /tfs-integration-tools---issue--unable-to-find-a-unique-local-path
 - /blog/tfs-integration-tools---issue--unable-to-find-a-unique-local-path
-- /tfs-integration-tools
 - /resources/blog/tfs-integration-tools-issue-unable-to-find-a-unique-local-path
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
-- Software Development
-- Pragmatic Thinking
+- Install and Configuration
 - Troubleshooting
+- Pragmatic Thinking
+- Software Development
 categories: []
 preview: puzzle-issue-problem-128-link-2-2.png
 

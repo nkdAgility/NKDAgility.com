@@ -8,29 +8,31 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 4FTEJ4tDQqU
 url: /resources/videos/:slug
-slug: why-did-you-embrace-agile-over-traditional-project-management-as-a-developer-
+slug: from-developer-to-agile-advocate-how-my-journey-unveiled-the-power-of-scrum-and-devops
 aliases:
-- /resources/videos/4FTEJ4tDQqU
-- /resources/videos/why-did-you-embrace-agile-over-traditional-project-management-as-a-developer-
-- /resources/why-did-you-embrace-agile-over-traditional-project-management-as-a-developer-
 - /resources/4FTEJ4tDQqU
-aliasesFor404:
+- /resources/videos/from-developer-to-agile-advocate-how-my-journey-unveiled-the-power-of-scrum-and-devops
+- /resources/videos/why-did-you-embrace-agile-over-traditional-project-management-as-a-developer
+aliasesArchive:
+- /resources/videos/from-developer-to-agile-advocate-how-my-journey-unveiled-the-power-of-scrum-and-devops
 - /resources/videos/why-did-you-embrace-agile-over-traditional-project-management-as-a-developer-
 - /resources/why-did-you-embrace-agile-over-traditional-project-management-as-a-developer-
+- /resources/videos/why-did-you-embrace-agile-over-traditional-project-management-as-a-developer
+- from-developer-to-agile-advocate-how-my-journey-unveiled-the-power-of-scrum-and-devops
 preview: https://i.ytimg.com/vi/4FTEJ4tDQqU/maxresdefault.jpg
 duration: 326
 isShort: false
 tags:
 - Personal
 - Agile Project Management
-- Software Development
 - People and Process
-- Software Developers
+- Software Development
 - Pragmatic Thinking
+- Software Developers
+- Agile Transformation
 - Organisational Agility
 - Agile Frameworks
 - Agile Philosophy
-- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

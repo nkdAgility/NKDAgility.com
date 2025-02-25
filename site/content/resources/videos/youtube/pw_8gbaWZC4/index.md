@@ -8,30 +8,32 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: pw_8gbaWZC4
 url: /resources/videos/:slug
-slug: how-top-teams-use-pull-systems!
+slug: illuminate-your-workflow-harnessing-candan-strategies-for-continuous-improvement-and-transparency
 layout: video
 aliases:
-- /resources/videos/pw_8gbaWZC4
-- /resources/videos/how-top-teams-use-pull-systems!
-- /resources/how-top-teams-use-pull-systems!
 - /resources/pw_8gbaWZC4
-aliasesFor404:
+- /resources/videos/illuminate-your-workflow-harnessing-candan-strategies-for-continuous-improvement-and-transparency
+- /resources/videos/how-top-teams-use-pull-systems
+aliasesArchive:
+- /resources/videos/illuminate-your-workflow-harnessing-candan-strategies-for-continuous-improvement-and-transparency
 - /resources/videos/how-top-teams-use-pull-systems!
 - /resources/how-top-teams-use-pull-systems!
+- /resources/videos/how-top-teams-use-pull-systems
+- illuminate-your-workflow-harnessing-candan-strategies-for-continuous-improvement-and-transparency
 preview: https://i.ytimg.com/vi/pw_8gbaWZC4/maxresdefault.jpg
 duration: 294
 isShort: false
 tags:
 - Transparency
 - Metrics and Learning
-- Flow Efficiency
 - Practical Techniques and Tooling
+- Flow Efficiency
+- Agile Project Management
+- Operational Practices
 - Pragmatic Thinking
 - Agile Frameworks
-- Operational Practices
-- Agile Project Management
 - Strategy
-- Software Development
+- Decision Making
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -39,8 +41,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Kanban
+- Social Technologies
 
 ---
 One of the most pivotal aspects of a Caman strategy is the continuous improvement of our systems and workflows. After defining our workflow and documenting how we intend to operate, the next step is to actively monitor our ongoing work. This is where the magic happens; as we observe, we begin to identify patterns that can inform our decision-making.

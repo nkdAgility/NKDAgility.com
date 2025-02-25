@@ -9,32 +9,32 @@ ResourceImportSource: Youtube
 videoId: TYpgtgaOXv4
 source: internal
 url: /resources/videos/:slug
-slug: the-importance-of-product-backlog-management-in-today-s-agile-landscape
+slug: the-importance-of-product-backlog-management-in-todays-agile-landscape
 layout: video
 preview: https://i.ytimg.com/vi/TYpgtgaOXv4/maxresdefault.jpg
 duration: 75
 isShort: false
 aliases:
-- /resources/the-importance-of-product-backlog-management-in-todays-agile-landscape
-- /resources/videos/why-is-product-backlog-management-getting-so-much-attention-right-now
-- /resources/videos/TYpgtgaOXv4
-- /resources/why-is-product-backlog-management-getting-so-much-attention-right-now
 - /resources/TYpgtgaOXv4
-aliasesFor404:
+- /resources/videos/the-importance-of-product-backlog-management-in-todays-agile-landscape
+- /resources/videos/why-is-product-backlog-management-getting-so-much-attention-right-now
+aliasesArchive:
+- /resources/videos/the-importance-of-product-backlog-management-in-todays-agile-landscape
 - /resources/the-importance-of-product-backlog-management-in-todays-agile-landscape
 - /resources/videos/why-is-product-backlog-management-getting-so-much-attention-right-now
 - /resources/why-is-product-backlog-management-getting-so-much-attention-right-now
+- the-importance-of-product-backlog-management-in-todays-agile-landscape
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Transparency
 - Agile Product Management
-- Product Backlog
 - Agile Project Management
-- Product Delivery
+- Product Backlog
 - Product Owner
 - Agile Planning Tools
+- Product Delivery
 - Software Development
 - Value Delivery
 - Scrum Product Development

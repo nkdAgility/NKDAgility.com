@@ -17,9 +17,9 @@ aliases:
 - /memories-of-a-multi-dimensional-free-thinking-software-developer
 - /resources/4HQ5Qef6qsH
 - /resources/blog/memories-of-a-multi-dimensional-free-thinking-software-developer
-aliasesFor404:
-- /memories-of-a-multi-dimensional-free-thinking-software-developer
+aliasesArchive:
 - /blog/memories-of-a-multi-dimensional-free-thinking-software-developer
+- /memories-of-a-multi-dimensional-free-thinking-software-developer
 - /resources/blog/memories-of-a-multi-dimensional-free-thinking-software-developer
 tags:
 - Miscellaneous

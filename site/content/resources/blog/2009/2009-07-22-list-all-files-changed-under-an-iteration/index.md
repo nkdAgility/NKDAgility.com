@@ -17,15 +17,15 @@ aliases:
 - /list-all-files-changed-under-an-iteration
 - /resources/M07b_KU6l8f
 - /resources/blog/list-all-files-changed-under-an-iteration
-aliasesFor404:
-- /list-all-files-changed-under-an-iteration
+aliasesArchive:
 - /blog/list-all-files-changed-under-an-iteration
+- /list-all-files-changed-under-an-iteration
 - /resources/blog/list-all-files-changed-under-an-iteration
 tags:
 - Practical Techniques and Tooling
+- Azure Repos
 - Software Development
 - Azure DevOps
-- Azure Repos
 categories:
 - DevOps
 - Engineering Excellence

@@ -9,30 +9,31 @@ ResourceImportSource: Youtube
 videoId: VkhIXCsoSJw
 source: youtube
 url: /resources/videos/:slug
-slug: automate-everything-boosting-engineering-excellence-and-building-confidence
+slug: embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence
 layout: video
 aliases:
-- /resources/videos/VkhIXCsoSJw
-- /resources/videos/automate-everything-boosting-engineering-excellence-and-building-confidence
-- /resources/automate-everything-boosting-engineering-excellence-and-building-confidence
 - /resources/VkhIXCsoSJw
-aliasesFor404:
+- /resources/videos/embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence
+- /resources/videos/automate-everything-boosting-engineering-excellence-and-building-confidence
+aliasesArchive:
+- /resources/videos/embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence
 - /resources/videos/automate-everything-boosting-engineering-excellence-and-building-confidence
 - /resources/automate-everything-boosting-engineering-excellence-and-building-confidence
+- embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence
 preview: https://i.ytimg.com/vi/VkhIXCsoSJw/maxresdefault.jpg
 duration: 529
 isShort: false
 tags:
 - Continuous Delivery
-- Practical Techniques and Tooling
 - Technical Excellence
+- Practical Techniques and Tooling
 - Pragmatic Thinking
 - Operational Practices
 - AI and Automation in Agility
-- Code and Complexity
-- Azure DevOps
 - Test Automation
+- Code and Complexity
 - Technical Debt
+- Azure DevOps
 resourceTypes:
 - video
 sitemap:

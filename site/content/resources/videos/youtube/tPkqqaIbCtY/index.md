@@ -8,30 +8,32 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: tPkqqaIbCtY
 url: /resources/videos/:slug
-slug: -shorts-7-virtues-of-agile-kindness
+slug: empowering-users-transforming-products-from-burdens-to-essential-tools-tPkqqaIbCtY
 layout: video
 aliases:
-- /resources/videos/tPkqqaIbCtY
-- /resources/videos/-shorts-7-virtues-of-agile-kindness
-- /resources/-shorts-7-virtues-of-agile-kindness
 - /resources/tPkqqaIbCtY
-aliasesFor404:
+- /resources/videos/empowering-users-transforming-products-from-burdens-to-essential-tools-tPkqqaIbCtY
+- /resources/videos/empowering-users-transforming-products-from-burdens-to-essential-tools
+- /resources/videos/-shorts-7-virtues-of-agile-kindness
+aliasesArchive:
+- /resources/videos/empowering-users-transforming-products-from-burdens-to-essential-tools
 - /resources/videos/-shorts-7-virtues-of-agile-kindness
 - /resources/-shorts-7-virtues-of-agile-kindness
+- empowering-users-transforming-products-from-burdens-to-essential-tools-tPkqqaIbCtY
 preview: https://i.ytimg.com/vi/tPkqqaIbCtY/maxresdefault.jpg
 duration: 48
 isShort: true
 tags:
+- Product Strategy
+- People and Process
 - Product Validation
 - Discovery and Learning
-- People and Process
 - Product Discovery
-- Product Strategy
-- Customer Feedback Loops
-- Customer Satisfaction
-- Personal
 - Miscellaneous
-- Value Delivery
+- Customer Retention
+- Customer Feedback Loops
+- Personal
+- Customer Satisfaction
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -9,16 +9,17 @@ ResourceImportSource: Youtube
 videoId: Gym5-p-mNtw
 source: youtube
 url: /resources/videos/:slug
-slug: agile-your-secret-weapon-for-cost-control
+slug: transforming-waste-into-value-how-to-boost-roi-with-agile-metrics
 layout: video
 aliases:
-- /resources/videos/Gym5-p-mNtw
-- /resources/videos/agile-your-secret-weapon-for-cost-control
-- /resources/agile-your-secret-weapon-for-cost-control
 - /resources/Gym5-p-mNtw
-aliasesFor404:
+- /resources/videos/transforming-waste-into-value-how-to-boost-roi-with-agile-metrics
+- /resources/videos/agile-your-secret-weapon-for-cost-control
+aliasesArchive:
+- /resources/videos/transforming-waste-into-value-how-to-boost-roi-with-agile-metrics
 - /resources/videos/agile-your-secret-weapon-for-cost-control
 - /resources/agile-your-secret-weapon-for-cost-control
+- transforming-waste-into-value-how-to-boost-roi-with-agile-metrics
 preview: https://i9.ytimg.com/vi/Gym5-p-mNtw/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAYflUb0emeyDkvO71n8DlDn3Kg5Q
 duration: 525
 isShort: false
@@ -26,13 +27,13 @@ tags:
 - Metrics and Learning
 - Pragmatic Thinking
 - Operational Practices
-- Agile Product Management
 - People and Process
-- Business Agility
 - Agile Product Operating Model
-- Evidence Based Leadership
+- Business Agility
+- Agile Product Management
 - Agile Project Management
-- Agile Transformation
+- Value Delivery
+- Ability to Innovate
 sitemap:
   filename: sitemap.xml
   priority: 0.6

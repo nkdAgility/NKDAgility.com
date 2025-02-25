@@ -19,9 +19,9 @@ aliases:
 - /blog/ndc-london-2014--why-tfs-no-longer-sucks-and-vso-is-awesome
 - /resources/Lz8JHBC_e2Z
 - /resources/blog/ndc-london-2014-why-tfs-no-longer-sucks-and-vso-is-awesome
-aliasesFor404:
-- /ndc-london-2014-why-tfs-no-longer-sucks-and-vso-is-awesome
+aliasesArchive:
 - /blog/ndc-london-2014-why-tfs-no-longer-sucks-and-vso-is-awesome
+- /ndc-london-2014-why-tfs-no-longer-sucks-and-vso-is-awesome
 - /ndc-london-2014--why-tfs-no-longer-sucks-and-vso-is-awesome
 - /blog/ndc-london-2014--why-tfs-no-longer-sucks-and-vso-is-awesome
 - /resources/blog/ndc-london-2014-why-tfs-no-longer-sucks-and-vso-is-awesome

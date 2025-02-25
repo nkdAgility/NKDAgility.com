@@ -17,9 +17,9 @@ aliases:
 - /integrate-sharepoint-2010-with-team-foundation-server-2010
 - /resources/rZaFJwqThDs
 - /resources/blog/integrate-sharepoint-2010-with-team-foundation-server-2010
-aliasesFor404:
-- /integrate-sharepoint-2010-with-team-foundation-server-2010
+aliasesArchive:
 - /blog/integrate-sharepoint-2010-with-team-foundation-server-2010
+- /integrate-sharepoint-2010-with-team-foundation-server-2010
 - /resources/blog/integrate-sharepoint-2010-with-team-foundation-server-2010
 tags:
 - Install and Configuration

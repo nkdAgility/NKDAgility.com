@@ -19,9 +19,9 @@ aliases:
 - /blog/solution---iis-smtp-service-5-5-2-rejected--need-fully-qualified-hostname
 - /resources/FnOt4634WJy
 - /resources/blog/solution-iis-smtp-service-5-5-2-rejected-need-fully-qualified-hostname
-aliasesFor404:
-- /solution-iis-smtp-service-5-5-2-rejected-need-fully-qualified-hostname
+aliasesArchive:
 - /blog/solution-iis-smtp-service-5-5-2-rejected-need-fully-qualified-hostname
+- /solution-iis-smtp-service-5-5-2-rejected-need-fully-qualified-hostname
 - /solution---iis-smtp-service-5-5-2-rejected--need-fully-qualified-hostname
 - /blog/solution---iis-smtp-service-5-5-2-rejected--need-fully-qualified-hostname
 - /resources/blog/solution-iis-smtp-service-5-5-2-rejected-need-fully-qualified-hostname

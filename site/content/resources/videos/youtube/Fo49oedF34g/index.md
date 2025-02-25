@@ -9,31 +9,31 @@ ResourceImportSource: Youtube
 videoId: Fo49oedF34g
 source: youtube
 url: /resources/videos/:slug
-slug: czym-różni-się-zwinne-przywództwo-od-tradycyjnego-zarządzania
+slug: czym-rni-si-zwinne-przywdztwo-od-tradycyjnego-zarzdzania
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=Fo49oedF34g
 aliases:
-- /resources/videos/Fo49oedF34g
-- /resources/videos/czym-różni-się-zwinne-przywództwo-od-tradycyjnego-zarządzania
-- /resources/czym-różni-się-zwinne-przywództwo-od-tradycyjnego-zarządzania
 - /resources/Fo49oedF34g
-aliasesFor404:
+- /resources/videos/czym-rni-si-zwinne-przywdztwo-od-tradycyjnego-zarzdzania
+aliasesArchive:
+- /resources/videos/czym-rni-si-zwinne-przywdztwo-od-tradycyjnego-zarzdzania
 - /resources/videos/czym-różni-się-zwinne-przywództwo-od-tradycyjnego-zarządzania
 - /resources/czym-różni-się-zwinne-przywództwo-od-tradycyjnego-zarządzania
+- czym-rni-si-zwinne-przywdztwo-od-tradycyjnego-zarzdzania
 preview: https://i.ytimg.com/vi/Fo49oedF34g/maxresdefault.jpg
 duration: 268
 isShort: false
 tags:
 - Coaching
-- Organisational Agility
 - People and Process
-- Team Collaboration
-- Software Development
-- Pragmatic Thinking
-- Agile Frameworks
-- Product Delivery
+- Organisational Agility
 - Agile Project Management
+- Pragmatic Thinking
+- Software Development
+- Team Collaboration
 - Agile Transformation
+- Product Delivery
+- Agile Frameworks
 sitemap:
   filename: sitemap.xml
   priority: 0.4

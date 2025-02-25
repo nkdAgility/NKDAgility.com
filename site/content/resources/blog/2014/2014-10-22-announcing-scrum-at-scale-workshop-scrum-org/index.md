@@ -19,23 +19,23 @@ aliases:
 - /blog/upcomming-scrum-at-scale-workshop-from-scrum-org
 - /resources/eSPePG8uDaZ
 - /resources/blog/announcing-scrum-at-scale-workshop-scrum-org
-aliasesFor404:
-- /announcing-scrum-at-scale-workshop-scrum-org
+aliasesArchive:
 - /blog/announcing-scrum-at-scale-workshop-scrum-org
+- /announcing-scrum-at-scale-workshop-scrum-org
 - /upcomming-scrum-at-scale-workshop-from-scrum-org
 - /blog/upcomming-scrum-at-scale-workshop-from-scrum-org
 - /resources/blog/announcing-scrum-at-scale-workshop-scrum-org
 tags:
-- Change Management
-- Organisational Culture
-- Evidence Based Management
-- Scaling Agility
-- Agile Project Management
-- Large Scale Agility
-- Enterprise Agility
-- Resilience and Change
-- Scaling Scrum
 - People and Process
+- Organisational Change
+- Enterprise Agility
+- Metrics and Learning
+- Change Management
+- Large Scale Agility
+- Agile Project Management
+- Scaling Scrum
+- Scaling Agility
+- Software Development
 categories:
 - Scrum
 - Social Technologies

@@ -15,24 +15,24 @@ preview: https://i.ytimg.com/vi/isU2kPc5HFw/maxresdefault.jpg
 duration: 998
 isShort: false
 aliases:
-- /resources/the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
-- /resources/videos/talk-us-through-your-experience-with-azure-devops
-- /resources/videos/isU2kPc5HFw
-- /resources/talk-us-through-your-experience-with-azure-devops
 - /resources/isU2kPc5HFw
-aliasesFor404:
+- /resources/videos/the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
+- /resources/videos/talk-us-through-your-experience-with-azure-devops
+aliasesArchive:
+- /resources/videos/the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
 - /resources/the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
 - /resources/videos/talk-us-through-your-experience-with-azure-devops
 - /resources/talk-us-through-your-experience-with-azure-devops
+- the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Personal
 - Azure DevOps
+- Practical Techniques and Tooling
 - Software Development
 - Software Developers
-- Practical Techniques and Tooling
 - Pragmatic Thinking
 resourceTypes:
 - video

@@ -9,30 +9,31 @@ ResourceImportSource: Youtube
 videoId: kXhJrisYofU
 source: youtube
 url: /resources/videos/:slug
-slug: agile-budgeting-for-predictable-costs
+slug: rethinking-budgeting-how-to-break-free-from-traditional-constraints-and-maximise-value
 layout: video
 aliases:
-- /resources/videos/kXhJrisYofU
-- /resources/videos/agile-budgeting-for-predictable-costs
-- /resources/agile-budgeting-for-predictable-costs
 - /resources/kXhJrisYofU
-aliasesFor404:
+- /resources/videos/rethinking-budgeting-how-to-break-free-from-traditional-constraints-and-maximise-value
+- /resources/videos/agile-budgeting-for-predictable-costs
+aliasesArchive:
+- /resources/videos/rethinking-budgeting-how-to-break-free-from-traditional-constraints-and-maximise-value
 - /resources/videos/agile-budgeting-for-predictable-costs
 - /resources/agile-budgeting-for-predictable-costs
+- rethinking-budgeting-how-to-break-free-from-traditional-constraints-and-maximise-value
 preview: https://i9.ytimg.com/vi/kXhJrisYofU/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCuCmAp98BMQG6vEAhRCo2oBtgP4g
 duration: 496
 isShort: false
 tags:
 - Agile Product Operating Model
-- Agile Project Management
 - Agile Product Management
+- Agile Project Management
 - People and Process
+- Change Management
 - Agile Values and Principles
 - Resilience and Change
-- Change Management
-- Agile Planning
-- Portfolio Management
+- Agile Strategy
 - Business Agility
+- Market Adaptability
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -8,25 +8,27 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: MO7O6kTmufc
 url: /resources/videos/:slug
-slug: introduction-to-evidence-based-management-excerpt-2
+slug: mastering-outcomes-how-evidence-based-management-transforms-your-project-success-MO7O6kTmufc
 layout: video
 aliases:
-- /resources/videos/MO7O6kTmufc
-- /resources/videos/introduction-to-evidence-based-management-excerpt-2
-- /resources/introduction-to-evidence-based-management-excerpt-2
 - /resources/MO7O6kTmufc
-aliasesFor404:
+- /resources/videos/mastering-outcomes-how-evidence-based-management-transforms-your-project-success-MO7O6kTmufc
+- /resources/videos/mastering-outcomes-how-evidence-based-management-transforms-your-project-success
+- /resources/videos/introduction-to-evidence-based-management-excerpt-2
+aliasesArchive:
+- /resources/videos/mastering-outcomes-how-evidence-based-management-transforms-your-project-success
 - /resources/videos/introduction-to-evidence-based-management-excerpt-2
 - /resources/introduction-to-evidence-based-management-excerpt-2
+- mastering-outcomes-how-evidence-based-management-transforms-your-project-success-MO7O6kTmufc
 preview: https://i.ytimg.com/vi/MO7O6kTmufc/maxresdefault.jpg
 duration: 36
 isShort: true
 tags:
-- Evidence Based Management
 - Metrics and Learning
-- Evidence Based Leadership
-- Pragmatic Thinking
+- Evidence Based Management
 - Decision Making
+- Pragmatic Thinking
+- Evidence Based Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -17,14 +17,14 @@ aliases:
 - /infragistics-wpf
 - /resources/qNzd15yz5fn
 - /resources/blog/infragistics-wpf
-aliasesFor404:
-- /infragistics-wpf
+aliasesArchive:
 - /blog/infragistics-wpf
+- /infragistics-wpf
 - /resources/blog/infragistics-wpf
 tags:
-- Software Development
 - Troubleshooting
 - Technical Mastery
+- Software Development
 categories: []
 
 ---

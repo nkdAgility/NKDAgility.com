@@ -8,26 +8,27 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 9CkvfRic8e0
 url: /resources/videos/:slug
-slug: connecting-release-manageer-to-tfs-2013
+slug: mastering-tfs-release-management-a-step-by-step-guide-to-smooth-configuration
 layout: video
 aliases:
-- /resources/videos/9CkvfRic8e0
-- /resources/videos/connecting-release-manageer-to-tfs-2013
-- /resources/connecting-release-manageer-to-tfs-2013
 - /resources/9CkvfRic8e0
-aliasesFor404:
+- /resources/videos/mastering-tfs-release-management-a-step-by-step-guide-to-smooth-configuration
+- /resources/videos/connecting-release-manageer-to-tfs-2013
+aliasesArchive:
+- /resources/videos/mastering-tfs-release-management-a-step-by-step-guide-to-smooth-configuration
 - /resources/videos/connecting-release-manageer-to-tfs-2013
 - /resources/connecting-release-manageer-to-tfs-2013
+- mastering-tfs-release-management-a-step-by-step-guide-to-smooth-configuration
 preview: https://i.ytimg.com/vi/9CkvfRic8e0/maxresdefault.jpg
 duration: 141
 isShort: false
 tags:
-- Install and Configuration
 - Release Management
-- System Configuration
+- Install and Configuration
 - Practical Techniques and Tooling
-- Software Development
+- System Configuration
 - Troubleshooting
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

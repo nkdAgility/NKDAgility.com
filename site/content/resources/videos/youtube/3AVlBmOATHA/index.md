@@ -14,26 +14,25 @@ preview: https://i.ytimg.com/vi/3AVlBmOATHA/maxresdefault.jpg
 duration: 371
 isShort: false
 aliases:
-- /resources/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
-- /resources/videos/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally-
-- /resources/videos/3AVlBmOATHA
-- /resources/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally-
 - /resources/3AVlBmOATHA
-aliasesFor404:
+- /resources/videos/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
+aliasesArchive:
+- /resources/videos/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
 - /resources/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
 - /resources/videos/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally-
 - /resources/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally-
+- how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - People and Process
 - Agile Leadership
-- Agile Strategy
+- Change Management
 - Business Agility
 - Organisational Change
+- Agile Strategy
 - Agile Transformation
-- Change Management
 - Pragmatic Thinking
 - Organisational Agility
 - Sociotechnical Systems

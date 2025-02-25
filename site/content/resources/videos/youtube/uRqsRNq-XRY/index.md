@@ -8,16 +8,18 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: uRqsRNq-XRY
 url: /resources/videos/:slug
-slug: 7-signs-of-the-agile-apocalypse-judgement
+slug: navigating-the-judgment-trap-how-to-foster-a-healthy-agile-environment-uRqsRNq-XRY
 layout: video
 aliases:
-- /resources/videos/uRqsRNq-XRY
-- /resources/videos/7-signs-of-the-agile-apocalypse-judgement
-- /resources/7-signs-of-the-agile-apocalypse-judgement
 - /resources/uRqsRNq-XRY
-aliasesFor404:
+- /resources/videos/navigating-the-judgment-trap-how-to-foster-a-healthy-agile-environment-uRqsRNq-XRY
+- /resources/videos/navigating-the-judgment-trap-how-to-foster-a-healthy-agile-environment
+- /resources/videos/7-signs-of-the-agile-apocalypse-judgement
+aliasesArchive:
+- /resources/videos/navigating-the-judgment-trap-how-to-foster-a-healthy-agile-environment
 - /resources/videos/7-signs-of-the-agile-apocalypse-judgement
 - /resources/7-signs-of-the-agile-apocalypse-judgement
+- navigating-the-judgment-trap-how-to-foster-a-healthy-agile-environment-uRqsRNq-XRY
 preview: https://i.ytimg.com/vi/uRqsRNq-XRY/maxresdefault.jpg
 duration: 55
 isShort: true
@@ -34,8 +36,8 @@ resourceTypes:
 - video
 categories:
 - Product Management
-- Social Technologies
 - Engineering Excellence
+- Social Technologies
 
 ---
 In my journey through the world of Agile, I've often encountered a troubling phenomenon that I like to call the "judgment trap." This is one of the seven signs of the agile apocalypse, and it’s something that can derail even the most well-intentioned teams. Today, I want to share my thoughts on how judgment manifests in Agile environments and how we can navigate this challenge to foster a healthier, more productive atmosphere.

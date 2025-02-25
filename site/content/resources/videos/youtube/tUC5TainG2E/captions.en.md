@@ -1,0 +1,19 @@
+How did I become the third scrum training provider for Microsoft? I think there's a couple of things in there. The first one is I have a long-standing relationship with Microsoft. I've been a Microsoft MVP, most valuable professional in the DevOps space for 14 years. 
+
+So that also leads on to the second reason, right? Because people at Microsoft know me, but also I know Microsoft. I know the organisation. I know how they're in acronyms, right? They're very keen, like most organisations, they're very keen on their own acronyms. If you've popular phrases like "let's take that offline" and "let's double click on that," where all the times I first heard of those were through Microsoft. 
+
+So just engaging with their product teams, their people on a regular basis has always been something I've done. And I'm seen as an expert in both spaces. It's actually quite unusual, I feel, to have somebody who's both an expert in DevOps and an expert in scrum and the agile space. That combination means that an awful lot of my customers are Microsoft's customers, right? Because they're using Azure DevOps, they're using Microsoft tools, and they hear about me through that. Then we start talking about agile and we have those conversations. 
+
+So when Microsoft asks its customers, "Who do you go speak to?" they might say me. And when their customers ask, have been asking Microsoft for years, "How do I do this? How do I do that?" well, maybe you need to go speak to Martin, right? So I get a lot of referrals from Microsoft. I get a lot of engagement that way. So it just, I guess, maybe seemed like a natural step to have that conversation. 
+
+So when Microsoft reached out to scrum.org and said, "We want to speak to some trainers," I was on that list to go speak to them. In that meeting, just being able to have those conversations, right? To talk about what it is they're trying to do and know where they're coming from. That's part of that relationship that I already had with Microsoft, already understanding how they work and how they do things. 
+
+And that's something that I try and build with every customer. Sometimes it's difficult because you don't work with everybody for very long, right? So building relationships is sometimes difficult when all they want is a single training class. But I have other customers that I work with constantly, and they keep coming back. 
+
+I've been working with the Department of Work and Pensions in the UK for, whoo, seven, eight years, nine years maybe, and they keep coming back for more classes. What's more interesting in that engagement is they have to really struggle to get me to do the engagements for them. So they really want me to do it, right? Because of their procurement rules and how do you get the person that you actually want to do it to do it? And that's hard. 
+
+I think that attests to the value that they are getting from the classes that I'm teaching. Some of those values might not be immediate or immediately apparent. It's not like people learn a new skill and suddenly they're magically able to do it. But it's in that long-term systematic engagement with a single customer, and they keep coming back. 
+
+I'm speaking at their internal organisational conference this week. I'm doing two talks for them at their internal organisational conference. I speak at Microsoft conferences. I was just last week at the MVP Summit in Seattle, talking to people on the product team, engaging with them, giving them feedback on the product, becoming more known, right? You build those relationships, and that's really what it's all about. 
+
+Thanks for watching the video. If you enjoyed it, please like, follow, and subscribe. I always reply to comments, and if you want to have a chat about this or anything else agile, scrum, or DevOps, then please book a coffee with me through Naked Agility.

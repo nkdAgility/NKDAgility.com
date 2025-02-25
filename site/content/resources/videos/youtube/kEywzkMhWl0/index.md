@@ -9,37 +9,38 @@ ResourceImportSource: Youtube
 videoId: kEywzkMhWl0
 source: internal
 url: /resources/videos/:slug
-slug: 1-critical-skill-for-a-scrum-master-and-why
+slug: one-critical-skill-for-a-scrum-master-and-why-kEywzkMhWl0
 layout: video
 preview: https://i.ytimg.com/vi/kEywzkMhWl0/maxresdefault.jpg
 duration: 50
 isShort: true
 aliases:
-- /resources/1-critical-skill-for-a-scrum-master-and-why
-- /resources/one-critical-skill-for-a-scrum-master-and-why
-- /resources/videos/1-critical-skill-for-a-scrum-master-and-why-
-- /resources/videos/kEywzkMhWl0
-- /resources/1-critical-skill-for-a-scrum-master-and-why-
 - /resources/kEywzkMhWl0
-aliasesFor404:
+- /resources/videos/one-critical-skill-for-a-scrum-master-and-why-kEywzkMhWl0
+- /resources/videos/one-critical-skill-for-a-scrum-master-and-why
+- /resources/videos/1-critical-skill-for-a-scrum-master-and-why
+aliasesArchive:
+- /resources/videos/one-critical-skill-for-a-scrum-master-and-why
 - /resources/1-critical-skill-for-a-scrum-master-and-why
 - /resources/one-critical-skill-for-a-scrum-master-and-why
 - /resources/videos/1-critical-skill-for-a-scrum-master-and-why-
 - /resources/1-critical-skill-for-a-scrum-master-and-why-
+- /resources/videos/1-critical-skill-for-a-scrum-master-and-why
+- one-critical-skill-for-a-scrum-master-and-why-kEywzkMhWl0
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - People and Process
+- Scrum Team
 - Scrum Master
 - Agile Project Management
-- Scrum Team
 - Agile Frameworks
-- Professional Scrum
-- Team Performance
-- Agile Leadership
-- Agile Product Management
 - Agile Transformation
+- Agile Leadership
+- Team Performance
+- Agile Product Management
+- Professional Scrum
 resourceTypes:
 - video
 categories:

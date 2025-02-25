@@ -17,15 +17,15 @@ aliases:
 - /installing-visual-studio-2008-team-suite-on-windows-7
 - /resources/xxZKrAlxQiH
 - /resources/blog/installing-visual-studio-2008-team-suite-on-windows-7
-aliasesFor404:
-- /installing-visual-studio-2008-team-suite-on-windows-7
+aliasesArchive:
 - /blog/installing-visual-studio-2008-team-suite-on-windows-7
+- /installing-visual-studio-2008-team-suite-on-windows-7
 - /resources/blog/installing-visual-studio-2008-team-suite-on-windows-7
 tags:
 - Windows
 - Install and Configuration
-- System Configuration
 - Troubleshooting
+- System Configuration
 preview: metro-visual-studio-2005-128-link-9-9.png
 categories: []
 

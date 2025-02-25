@@ -9,36 +9,37 @@ ResourceImportSource: Youtube
 videoId: 1-W64WdSbF4
 source: internal
 url: /resources/videos/:slug
-slug: free-workshop-05-introduction-to-agile-leadership-review-retro
+slug: free-workshop-04-introduction-to-sprint-reviews-review-retrospective
 preview: https://i.ytimg.com/vi/1-W64WdSbF4/maxresdefault.jpg
 duration: 5769
 isShort: false
 aliases:
-- /resources/free-workshop-05-introduction-to-agile-leadership-review-retro
-- /resources/free-workshop-04-introduction-to-sprint-reviews-review-retrospective
-- /resources/videos/free-workshop-4-introduction-to-sprint-review!-[audio-fixed]
-- /resources/videos/1-W64WdSbF4
-- /resources/free-workshop-4-introduction-to-sprint-review!-[audio-fixed]
 - /resources/1-W64WdSbF4
-aliasesFor404:
+- /resources/videos/free-workshop-04-introduction-to-sprint-reviews-review-retrospective
+- /resources/videos/free-workshop-4-introduction-to-sprint-review-audio-fixed
+aliasesArchive:
+- /resources/videos/free-workshop-introduction-to-sprint-reviews-review-retrospective
+- /resources/videos/free-workshop-04-introduction-to-sprint-reviews-review-retrospective
 - /resources/free-workshop-05-introduction-to-agile-leadership-review-retro
 - /resources/free-workshop-04-introduction-to-sprint-reviews-review-retrospective
 - /resources/videos/free-workshop-4-introduction-to-sprint-review!-[audio-fixed]
 - /resources/free-workshop-4-introduction-to-sprint-review!-[audio-fixed]
+- /resources/videos/free-workshop-4-introduction-to-sprint-review-audio-fixed
+- free-workshop-04-introduction-to-sprint-reviews-review-retrospective
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Scrum Product Development
-- Professional Scrum
 - Sprint Review
+- Professional Scrum
 - Increment
 - People and Process
-- Scrum Master
-- Events and Presentations
-- Scrum Team
 - Agile Product Management
-- Product Delivery
+- Events and Presentations
+- Scrum Master
+- Agile Project Management
+- Product Owner
 resourceTypes:
 - video
 layout: video

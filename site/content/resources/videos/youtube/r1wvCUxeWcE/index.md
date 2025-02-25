@@ -8,29 +8,31 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: r1wvCUxeWcE
 url: /resources/videos/:slug
-slug: kanban-boards
+slug: mastering-your-kanban-board-a-practical-guide-to-visualising-and-optimising-your-workflow-r1wvCUxeWcE
 layout: video
 aliases:
-- /resources/videos/r1wvCUxeWcE
-- /resources/videos/kanban-boards
-- /resources/kanban-boards
 - /resources/r1wvCUxeWcE
-aliasesFor404:
+- /resources/videos/mastering-your-kanban-board-a-practical-guide-to-visualising-and-optimising-your-workflow-r1wvCUxeWcE
+- /resources/videos/mastering-your-kanban-board-a-practical-guide-to-visualising-and-optimising-your-workflow
+- /resources/videos/kanban-boards
+aliasesArchive:
+- /resources/videos/mastering-your-kanban-board-a-practical-guide-to-visualising-and-optimising-your-workflow
 - /resources/videos/kanban-boards
 - /resources/kanban-boards
+- mastering-your-kanban-board-a-practical-guide-to-visualising-and-optimising-your-workflow-r1wvCUxeWcE
 preview: https://i.ytimg.com/vi/r1wvCUxeWcE/maxresdefault.jpg
 duration: 57
 isShort: true
 tags:
 - Practical Techniques and Tooling
-- Software Development
 - Operational Practices
+- Software Development
 - Lean Principles
+- Agile Project Management
 - Pragmatic Thinking
-- Agile Frameworks
 - Flow Efficiency
 - Lean Thinking
-- Agile Project Management
+- Agile Frameworks
 sitemap:
   filename: sitemap.xml
   priority: 0.6

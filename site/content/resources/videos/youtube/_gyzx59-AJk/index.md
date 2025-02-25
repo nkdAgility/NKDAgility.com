@@ -2,31 +2,28 @@
 title: 'Transforming Agility: How Azure DevOps Went from Two-Year Releases to 880,000 Deployments'
 description: Unlock your organisation's potential with continuous delivery! Discover how to shorten feedback loops and stay ahead in a fast-paced market.
 date: 2025-02-06T10:20:34Z
-ResourceId: _ghSntAkoKI
+ResourceId: _gyzx59-AJk
 ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
-videoId: _ghSntAkoKI
+videoId: _gyzx59-AJk
 url: /resources/videos/:slug
-slug: live-virtual-professional-agile-leadership-in-5-minutes!
+slug: transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
 aliases:
-- /resources/videos/_ghSntAkoKI
+- /resources/_gyzx59-AJk
+- /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
+- /resources/videos/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
+aliasesArchive:
+- /resources/videos/transforming-agility-how-azure-devops-went-from-twoyear-releases-to-deployments
+- /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-deployments
+- /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
 - /resources/videos/live-virtual-professional-agile-leadership-in-5-minutes!
 - /resources/live-virtual-professional-agile-leadership-in-5-minutes!
-- /resources/_ghSntAkoKI
-- /resources/_gyzx59-AJk
-- /resources/videos/_gyzx59-AJk
 - /resources/videos/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
 - /resources/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
-aliasesFor404:
-- /resources/videos/live-virtual-professional-agile-leadership-in-5-minutes!
-- /resources/live-virtual-professional-agile-leadership-in-5-minutes!
-- /resources/_gyzx59-AJk
-- /resources/videos/_gyzx59-AJk
-- /resources/videos/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
-- /resources/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
-preview: https://i.ytimg.com/vi/_ghSntAkoKI/maxresdefault.jpg
-duration: 289
+- transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
+preview: https://i.ytimg.com/vi/_gyzx59-AJk/maxresdefault.jpg
+duration: 358
 isShort: false
 tags:
 - Deployment Frequency
@@ -48,7 +45,7 @@ In today’s fast-paced market, the ability to respond swiftly to changes is not
 
 Let me share a story from my experience with the Azure DevOps team. Back in the days when it was still known as TFS, they operated on a two-year release cycle. Yes, you heard that right—two years! They would ship a service pack halfway through, but the real challenge emerged when they began to gather feedback on their beta releases. Customers would provide valuable insights, highlighting missing features or changes in market demands. However, with only six months left in their development cycle, they were often left with no option but to defer these requests to the next version—or worse, the version after that. This meant that significant customer needs could go unmet for over two years, which is simply unacceptable in a rapidly evolving market.
 
-Fast forward to 2018, and the Azure DevOps team had transformed their deployment frequency from a mere 20-30 deployments a year to an astonishing 880,000! This dramatic shift illustrates the power of shortening feedback loops. By continuously delivering updates and features to production, they could test ideas in real-time, gather data, and adapt accordingly. 
+Fast forward to 2018, and the Azure DevOps team had transformed their deployment frequency from a mere 20-30 deployments a year to an astonishing 880,000! This dramatic shift illustrates the power of shortening feedback loops. By continuously delivering updates and features to production, they could test ideas in real-time, gather data, and adapt accordingly.
 
 Here are some key takeaways from this transformation that I believe can benefit any organisation looking to enhance their agility:
 

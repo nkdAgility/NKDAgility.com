@@ -15,28 +15,28 @@ preview: https://i.ytimg.com/vi/UOzrABhafx0/maxresdefault.jpg
 duration: 114
 isShort: false
 aliases:
-- /resources/mastering-product-backlog-management-insights-from-the-new-scrum-org-course
-- /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
-- /resources/videos/UOzrABhafx0
-- /resources/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
 - /resources/UOzrABhafx0
-aliasesFor404:
+- /resources/videos/mastering-product-backlog-management-insights-from-the-new-scrum-org-course
+- /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
+aliasesArchive:
+- /resources/videos/mastering-product-backlog-management-insights-from-the-new-scrum-org-course
 - /resources/mastering-product-backlog-management-insights-from-the-new-scrum-org-course
 - /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
 - /resources/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
+- mastering-product-backlog-management-insights-from-the-new-scrum-org-course
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Backlog
 - Agile Product Management
-- Scrum Product Development
+- Product Backlog
 - Products and Books
-- Product Owner
+- Scrum Product Development
 - Agile Project Management
-- Professional Scrum
+- Product Owner
 - Software Development
-- Agile Frameworks
+- Agile Planning Tools
+- Professional Scrum
 - Agile Planning
 resourceTypes:
 - video

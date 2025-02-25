@@ -9,35 +9,37 @@ ResourceImportSource: Youtube
 videoId: PaUciBmqCsU
 source: internal
 url: /resources/videos/:slug
-slug: understanding-the-power-of-kanban-in-scrum
+slug: understanding-the-power-of-kanban-in-scrum-PaUciBmqCsU
 layout: video
 preview: https://i.ytimg.com/vi/PaUciBmqCsU/maxresdefault.jpg
 duration: 50
 isShort: true
 aliases:
-- /resources/understanding-the-power-of-kanban-in-scrum
-- /resources/videos/kanban-vs-scrum-you're-asking-the-wrong-question!
-- /resources/videos/PaUciBmqCsU
-- /resources/kanban-vs-scrum-you're-asking-the-wrong-question!
 - /resources/PaUciBmqCsU
-aliasesFor404:
+- /resources/videos/understanding-the-power-of-kanban-in-scrum-PaUciBmqCsU
+- /resources/videos/understanding-the-power-of-kanban-in-scrum
+- /resources/videos/kanban-vs-scrum-youre-asking-the-wrong-question
+aliasesArchive:
+- /resources/videos/understanding-the-power-of-kanban-in-scrum
 - /resources/understanding-the-power-of-kanban-in-scrum
 - /resources/videos/kanban-vs-scrum-you're-asking-the-wrong-question!
 - /resources/kanban-vs-scrum-you're-asking-the-wrong-question!
+- /resources/videos/kanban-vs-scrum-youre-asking-the-wrong-question
+- understanding-the-power-of-kanban-in-scrum-PaUciBmqCsU
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Transparency
 - Strategy
+- Transparency
 - Transparency and Accountability
 - Empirical Process Control
+- Value Stream Management
 - Flow Efficiency
 - Value Delivery
 - Practical Techniques and Tooling
-- Value Stream Management
-- Agile Frameworks
-- Operational Practices
+- Agile Transformation
+- Throughput
 resourceTypes:
 - video
 categories:

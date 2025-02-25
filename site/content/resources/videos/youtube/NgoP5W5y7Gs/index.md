@@ -12,25 +12,24 @@ url: /resources/videos/:slug
 slug: security-by-design-building-secure-software
 layout: video
 aliases:
-- /resources/videos/NgoP5W5y7Gs
-- /resources/videos/security-by-design-building-secure-software
-- /resources/security-by-design-building-secure-software
 - /resources/NgoP5W5y7Gs
-aliasesFor404:
+- /resources/videos/security-by-design-building-secure-software
+aliasesArchive:
 - /resources/videos/security-by-design-building-secure-software
 - /resources/security-by-design-building-secure-software
+- security-by-design-building-secure-software
 preview: https://i.ytimg.com/vi/NgoP5W5y7Gs/maxresdefault.jpg
 duration: 369
 isShort: false
 tags:
 - Software Developers
 - Azure DevOps
-- Software Development
 - Practical Techniques and Tooling
-- Technical Excellence
-- Pragmatic Thinking
-- Engineering Practices
+- Software Development
 - Technical Mastery
+- Engineering Practices
+- Pragmatic Thinking
+- Technical Excellence
 - Operational Practices
 sitemap:
   filename: sitemap.xml

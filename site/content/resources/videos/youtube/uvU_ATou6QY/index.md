@@ -8,16 +8,18 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: uvU_ATou6QY
 url: /resources/videos/:slug
-slug: what-does-failure-look-like-as-a-product-owner-
+slug: signs-youre-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
 layout: video
 aliases:
-- /resources/videos/uvU_ATou6QY
-- /resources/videos/what-does-failure-look-like-as-a-product-owner-
-- /resources/what-does-failure-look-like-as-a-product-owner-
 - /resources/uvU_ATou6QY
-aliasesFor404:
+- /resources/videos/signs-youre-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
+- /resources/videos/what-does-failure-look-like-as-a-product-owner
+aliasesArchive:
+- /resources/videos/signs-youre-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
 - /resources/videos/what-does-failure-look-like-as-a-product-owner-
 - /resources/what-does-failure-look-like-as-a-product-owner-
+- /resources/videos/what-does-failure-look-like-as-a-product-owner
+- signs-youre-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
 preview: https://i.ytimg.com/vi/uvU_ATou6QY/maxresdefault.jpg
 duration: 203
 isShort: false
@@ -25,8 +27,8 @@ tags:
 - People and Process
 - Product Owner
 - Agile Product Management
-- Accountability
 - Agile Project Management
+- Accountability
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml

@@ -19,9 +19,9 @@ aliases:
 - /blog/introducing-kanban-for-professional-scrum-teams
 - /resources/CucU7DN-fJ7
 - /resources/blog/introducing-kanban-professional-scrum-teams
-aliasesFor404:
-- /introducing-kanban-professional-scrum-teams
+aliasesArchive:
 - /blog/introducing-kanban-professional-scrum-teams
+- /introducing-kanban-professional-scrum-teams
 - /introducing-kanban-for-professional-scrum-teams
 - /blog/introducing-kanban-for-professional-scrum-teams
 - /resources/blog/introducing-kanban-professional-scrum-teams
@@ -30,12 +30,12 @@ tags:
 - Metrics and Learning
 - Agile Project Management
 - Products and Books
+- Practical Techniques and Tooling
+- Events and Presentations
+- Operational Practices
 - Software Development
 - Software Developers
-- Events and Presentations
-- Agile Frameworks
-- Flow Efficiency
-- Operational Practices
+- News and Reviews
 categories:
 - Social Technologies
 preview: nkdagility-scrum-and-kanban-1900-2-1.png

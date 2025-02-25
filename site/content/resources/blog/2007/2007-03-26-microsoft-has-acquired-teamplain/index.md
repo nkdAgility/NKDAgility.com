@@ -17,9 +17,9 @@ aliases:
 - /microsoft-has-acquired-teamplain
 - /resources/uXJxvyaVhda
 - /resources/blog/microsoft-has-acquired-teamplain
-aliasesFor404:
-- /microsoft-has-acquired-teamplain
+aliasesArchive:
 - /blog/microsoft-has-acquired-teamplain
+- /microsoft-has-acquired-teamplain
 - /resources/blog/microsoft-has-acquired-teamplain
 tags:
 - Products and Books

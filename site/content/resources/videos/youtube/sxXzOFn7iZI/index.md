@@ -9,21 +9,22 @@ ResourceImportSource: Youtube
 videoId: sxXzOFn7iZI
 source: internal
 url: /resources/videos/:slug
-slug: hiring-an-agile-coach-what-you-need-to-know
+slug: hiring-an-agile-coach-what-you-need-to-know-sxXzOFn7iZI
 layout: video
 preview: https://i.ytimg.com/vi/sxXzOFn7iZI/maxresdefault.jpg
 duration: 40
 isShort: true
 aliases:
-- /resources/hiring-an-agile-coach-what-you-need-to-know
-- /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-3
-- /resources/videos/sxXzOFn7iZI
-- /resources/5-things-to-consider-before-hiring-an-agilecoach-part-3
 - /resources/sxXzOFn7iZI
-aliasesFor404:
+- /resources/videos/hiring-an-agile-coach-what-you-need-to-know-sxXzOFn7iZI
+- /resources/videos/hiring-an-agile-coach-what-you-need-to-know
+- /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-3
+aliasesArchive:
+- /resources/videos/hiring-an-agile-coach-what-you-need-to-know
 - /resources/hiring-an-agile-coach-what-you-need-to-know
 - /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-3
 - /resources/5-things-to-consider-before-hiring-an-agilecoach-part-3
+- hiring-an-agile-coach-what-you-need-to-know-sxXzOFn7iZI
 sitemap:
   filename: sitemap.xml
   priority: 0.6

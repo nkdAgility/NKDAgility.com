@@ -17,9 +17,9 @@ aliases:
 - /create-a-vhd-from-the-windows-server-2008-r2-image-disk
 - /resources/drLuFfVqIJ7
 - /resources/blog/create-a-vhd-from-the-windows-server-2008-r2-image-disk
-aliasesFor404:
-- /create-a-vhd-from-the-windows-server-2008-r2-image-disk
+aliasesArchive:
 - /blog/create-a-vhd-from-the-windows-server-2008-r2-image-disk
+- /create-a-vhd-from-the-windows-server-2008-r2-image-disk
 - /resources/blog/create-a-vhd-from-the-windows-server-2008-r2-image-disk
 tags:
 - Windows

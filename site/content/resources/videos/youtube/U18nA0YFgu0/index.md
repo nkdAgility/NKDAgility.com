@@ -15,15 +15,17 @@ preview: https://i.ytimg.com/vi/U18nA0YFgu0/maxresdefault.jpg
 duration: 262
 isShort: false
 aliases:
-- /resources/7-deadly-sins-of-agile-wrath
-- /resources/videos/wrath!-7-deadly-sins-of-agile
-- /resources/videos/U18nA0YFgu0
-- /resources/wrath!-7-deadly-sins-of-agile
 - /resources/U18nA0YFgu0
-aliasesFor404:
+- /resources/videos/7-deadly-sins-of-agile-wrath
+- /resources/videos/wrath-7-deadly-sins-of-agile
+aliasesArchive:
+- /resources/videos/-deadly-sins-of-agile-wrath
+- /resources/videos/7-deadly-sins-of-agile-wrath
 - /resources/7-deadly-sins-of-agile-wrath
 - /resources/videos/wrath!-7-deadly-sins-of-agile
 - /resources/wrath!-7-deadly-sins-of-agile
+- /resources/videos/wrath-7-deadly-sins-of-agile
+- 7-deadly-sins-of-agile-wrath
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -32,12 +34,12 @@ tags:
 - People and Process
 - Organisational Culture
 - Transparency and Accountability
-- Agile Philosophy
 - Agile Project Management
+- Agile Philosophy
 - Personal
+- Pragmatic Thinking
 - Software Development
 - Software Developers
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

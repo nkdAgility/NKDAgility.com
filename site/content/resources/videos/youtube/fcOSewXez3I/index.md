@@ -8,16 +8,18 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: fcOSewXez3I
 url: /resources/videos/:slug
-slug: how-is-technology-like-ai-changing-the-world-we-work-in-
+slug: how-ai-is-revolutionising-our-work-embrace-the-future-of-productivity-and-creativity
 layout: video
 aliases:
-- /resources/videos/fcOSewXez3I
-- /resources/videos/how-is-technology-like-ai-changing-the-world-we-work-in-
-- /resources/how-is-technology-like-ai-changing-the-world-we-work-in-
 - /resources/fcOSewXez3I
-aliasesFor404:
+- /resources/videos/how-ai-is-revolutionising-our-work-embrace-the-future-of-productivity-and-creativity
+- /resources/videos/how-is-technology-like-ai-changing-the-world-we-work-in
+aliasesArchive:
+- /resources/videos/how-ai-is-revolutionising-our-work-embrace-the-future-of-productivity-and-creativity
 - /resources/videos/how-is-technology-like-ai-changing-the-world-we-work-in-
 - /resources/how-is-technology-like-ai-changing-the-world-we-work-in-
+- /resources/videos/how-is-technology-like-ai-changing-the-world-we-work-in
+- how-ai-is-revolutionising-our-work-embrace-the-future-of-productivity-and-creativity
 preview: https://i.ytimg.com/vi/fcOSewXez3I/maxresdefault.jpg
 duration: 263
 isShort: false

@@ -17,21 +17,21 @@ aliases:
 - /maven-release-prepare-fails-with-detected-changes-in-jenkins
 - /resources/gtoRjWgSmKe
 - /resources/blog/maven-release-prepare-fails-with-detected-changes-in-jenkins
-aliasesFor404:
-- /maven-release-prepare-fails-with-detected-changes-in-jenkins
+aliasesArchive:
 - /blog/maven-release-prepare-fails-with-detected-changes-in-jenkins
+- /maven-release-prepare-fails-with-detected-changes-in-jenkins
 - /resources/blog/maven-release-prepare-fails-with-detected-changes-in-jenkins
 tags:
 - Windows
 - Modern Source Control
-- Install and Configuration
 - Release Management
 - Practical Techniques and Tooling
+- Install and Configuration
 - Continuous Integration
-- Software Development
-- Pragmatic Thinking
-- System Configuration
 - Troubleshooting
+- Technical Mastery
+- Pragmatic Thinking
+- Software Development
 categories:
 - DevOps
 - Engineering Excellence

@@ -9,30 +9,31 @@ ResourceImportSource: Youtube
 videoId: sdIPSpbeA9w
 source: youtube
 url: /resources/videos/:slug
-slug: the-cost-saving-power-of-automation
+slug: why-embracing-automation-is-essential-for-reducing-human-error-in-software-development
 layout: video
 aliases:
-- /resources/videos/sdIPSpbeA9w
-- /resources/videos/the-cost-saving-power-of-automation
-- /resources/the-cost-saving-power-of-automation
 - /resources/sdIPSpbeA9w
-aliasesFor404:
+- /resources/videos/why-embracing-automation-is-essential-for-reducing-human-error-in-software-development
+- /resources/videos/the-cost-saving-power-of-automation
+aliasesArchive:
+- /resources/videos/why-embracing-automation-is-essential-for-reducing-human-error-in-software-development
 - /resources/videos/the-cost-saving-power-of-automation
 - /resources/the-cost-saving-power-of-automation
+- why-embracing-automation-is-essential-for-reducing-human-error-in-software-development
 preview: https://i9.ytimg.com/vi/sdIPSpbeA9w/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLBkj3eLxuykEKxltLkuDDf4Y7aXHw
 duration: 613
 isShort: false
 tags:
 - Software Development
+- Test Automation
 - Azure DevOps
 - Automated Testing
-- Test Automation
-- Pragmatic Thinking
 - Practical Techniques and Tooling
-- Technical Excellence
-- Engineering Practices
-- Flow Efficiency
+- Pragmatic Thinking
 - Technical Mastery
+- Operational Practices
+- Engineering Practices
+- Technical Excellence
 sitemap:
   filename: sitemap.xml
   priority: 0.6

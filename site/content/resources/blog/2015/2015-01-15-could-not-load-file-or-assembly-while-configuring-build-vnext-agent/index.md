@@ -17,19 +17,19 @@ aliases:
 - /could-not-load-file-or-assembly-while-configuring-build-vnext-agent
 - /resources/zd3C3XiE0H4
 - /resources/blog/could-not-load-file-or-assembly-while-configuring-build-vnext-agent
-aliasesFor404:
-- /could-not-load-file-or-assembly-while-configuring-build-vnext-agent
+aliasesArchive:
 - /blog/could-not-load-file-or-assembly-while-configuring-build-vnext-agent
+- /could-not-load-file-or-assembly-while-configuring-build-vnext-agent
 - /resources/blog/could-not-load-file-or-assembly-while-configuring-build-vnext-agent
 tags:
 - Windows
 - Install and Configuration
 - Practical Techniques and Tooling
-- Software Development
-- Azure DevOps
-- System Configuration
-- Azure Pipelines
 - Troubleshooting
+- Software Development
+- System Configuration
+- Azure DevOps
+- Azure Pipelines
 categories:
 - DevOps
 

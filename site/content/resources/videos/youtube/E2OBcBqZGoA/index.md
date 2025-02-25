@@ -8,16 +8,18 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: E2OBcBqZGoA
 url: /resources/videos/:slug
-slug: 05-october-2023-agile-leadership-webinar
+slug: unlocking-agility-how-decentralisation-empowers-teams-to-maximise-value-in-any-organisation-E2OBcBqZGoA
 layout: video
 aliases:
-- /resources/videos/E2OBcBqZGoA
-- /resources/videos/05-october-2023-agile-leadership-webinar
-- /resources/05-october-2023-agile-leadership-webinar
 - /resources/E2OBcBqZGoA
-aliasesFor404:
+- /resources/videos/unlocking-agility-how-decentralisation-empowers-teams-to-maximise-value-in-any-organisation-E2OBcBqZGoA
+- /resources/videos/unlocking-agility-how-decentralisation-empowers-teams-to-maximise-value-in-any-organisation
+- /resources/videos/05-october-2023-agile-leadership-webinar
+aliasesArchive:
+- /resources/videos/unlocking-agility-how-decentralisation-empowers-teams-to-maximise-value-in-any-organisation
 - /resources/videos/05-october-2023-agile-leadership-webinar
 - /resources/05-october-2023-agile-leadership-webinar
+- unlocking-agility-how-decentralisation-empowers-teams-to-maximise-value-in-any-organisation-E2OBcBqZGoA
 preview: https://i.ytimg.com/vi/E2OBcBqZGoA/maxresdefault.jpg
 duration: 46
 isShort: true
@@ -25,13 +27,13 @@ tags:
 - People and Process
 - Business Agility
 - Value Delivery
-- Organisational Agility
 - Organisational Change
 - Beta Codex
+- Organisational Agility
+- Team Motivation
 - Agile Strategy
-- Enterprise Agility
+- Agile Leadership
 - Pragmatic Thinking
-- Sociotechnical Systems
 sitemap:
   filename: sitemap.xml
   priority: 0.6

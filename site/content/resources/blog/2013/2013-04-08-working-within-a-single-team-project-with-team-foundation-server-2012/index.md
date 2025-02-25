@@ -17,25 +17,25 @@ aliases:
 - /working-within-a-single-team-project-with-team-foundation-server-2012
 - /resources/mV9NzUQYyjY
 - /resources/blog/working-within-a-single-team-project-with-team-foundation-server-2012
-aliasesFor404:
-- /working-within-a-single-team-project-with-team-foundation-server-2012
+aliasesArchive:
 - /blog/working-within-a-single-team-project-with-team-foundation-server-2012
+- /working-within-a-single-team-project-with-team-foundation-server-2012
 - /resources/blog/working-within-a-single-team-project-with-team-foundation-server-2012
 tags:
 - People and Process
-- Team Collaboration
-- Software Development
-- Software Developers
 - Practical Techniques and Tooling
 - Application Lifecycle Management
-- Azure DevOps
-- Pragmatic Thinking
+- Software Development
+- Team Collaboration
+- Software Developers
 - Operational Practices
-- Agile Planning
+- Pragmatic Thinking
+- Azure DevOps
+- Working Software
 categories:
 - Scrum
-- Social Technologies
 - DevOps
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 
 ---

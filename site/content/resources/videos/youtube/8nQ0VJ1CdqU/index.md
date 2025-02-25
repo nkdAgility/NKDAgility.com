@@ -15,15 +15,14 @@ preview: https://i.ytimg.com/vi/8nQ0VJ1CdqU/maxresdefault.jpg
 duration: 231
 isShort: false
 aliases:
-- /resources/why-did-so-many-of-the-early-agile-transformations-fail
-- /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail-
-- /resources/videos/8nQ0VJ1CdqU
-- /resources/why-did-so-many-of-the-early-agile-transformations-fail-
 - /resources/8nQ0VJ1CdqU
-aliasesFor404:
+- /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail
+aliasesArchive:
+- /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail
 - /resources/why-did-so-many-of-the-early-agile-transformations-fail
 - /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail-
 - /resources/why-did-so-many-of-the-early-agile-transformations-fail-
+- why-did-so-many-of-the-early-agile-transformations-fail
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -31,13 +30,13 @@ tags:
 - People and Process
 - Decision Making
 - Agile Leadership
-- Agile Strategy
-- Agile Transformation
-- Agile Project Management
-- Beta Codex
-- Agile Philosophy
 - Sociotechnical Systems
-- Organisational Agility
+- Agile Philosophy
+- Beta Codex
+- Agile Transformation
+- Agile Strategy
+- Agile Project Management
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

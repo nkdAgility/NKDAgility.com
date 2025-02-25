@@ -20,12 +20,12 @@ aliases:
 - /blog/visual-studio-2010-overview---reporting-&-process
 - /resources/Ryiemqc7hnZ
 - /resources/blog/visual-studio-2010-overview-reporting-process
-aliasesFor404:
-- /visual-studio-2010-overview-reporting-process
+aliasesArchive:
 - /blog/visual-studio-2010-overview-reporting-process
+- /visual-studio-2010-overview-reporting-process
+- /visual-studio-2010-overview
 - /visual-studio-2010-overview---reporting-&-process
 - /blog/visual-studio-2010-overview---reporting-&-process
-- /visual-studio-2010-overview
 - /resources/blog/visual-studio-2010-overview-reporting-process
 tags:
 - Practical Techniques and Tooling
@@ -34,8 +34,8 @@ tags:
 - Operational Practices
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories:
-- Social Technologies
 - Engineering Excellence
+- Social Technologies
 
 ---
 The Process Template governs nearly all aspects of how the team interacts with Visual Studio and TFS (e.g., the structure and flow of work items). Whether a team has a well-established development process or needs to define one, proper template selection and practice are critical.

@@ -9,35 +9,36 @@ ResourceImportSource: Youtube
 videoId: cR4D4qQe9ps
 source: internal
 url: /resources/videos/:slug
-slug: 1-tip-for-a-new-scrum-master
+slug: -1-tip-for-a-new-scrum-master-cR4D4qQe9ps
 layout: video
 preview: https://i.ytimg.com/vi/cR4D4qQe9ps/maxresdefault.jpg
 duration: 35
 isShort: true
 aliases:
-- /resources/1-tip-for-a-new-scrum-master
-- /resources/1-tip-for-a-scrum-master
-- /resources/videos/-1-tip-for-a-scrum-master
-- /resources/videos/cR4D4qQe9ps
-- /resources/-1-tip-for-a-scrum-master
 - /resources/cR4D4qQe9ps
-aliasesFor404:
+- /resources/videos/-1-tip-for-a-new-scrum-master-cR4D4qQe9ps
+- /resources/videos/-1-tip-for-a-new-scrum-master
+- /resources/videos/-1-tip-for-a-scrum-master
+aliasesArchive:
+- /resources/videos/-tip-for-a-new-scrum-master
+- /resources/videos/-1-tip-for-a-new-scrum-master
 - /resources/1-tip-for-a-new-scrum-master
 - /resources/1-tip-for-a-scrum-master
 - /resources/videos/-1-tip-for-a-scrum-master
 - /resources/-1-tip-for-a-scrum-master
+- -1-tip-for-a-new-scrum-master-cR4D4qQe9ps
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Scrum Master
 - Scrum Team
-- Professional Scrum
-- Software Development
-- Agile Frameworks
 - People and Process
 - Agile Project Management
+- Software Development
 - Agile Transformation
+- Professional Scrum
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

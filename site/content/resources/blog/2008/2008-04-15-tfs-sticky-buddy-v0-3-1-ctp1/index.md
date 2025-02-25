@@ -17,9 +17,9 @@ aliases:
 - /tfs-sticky-buddy-v0-3-1-ctp1
 - /resources/UkSxUYTe7U_
 - /resources/blog/tfs-sticky-buddy-v0-3-1-ctp1
-aliasesFor404:
-- /tfs-sticky-buddy-v0-3-1-ctp1
+aliasesArchive:
 - /blog/tfs-sticky-buddy-v0-3-1-ctp1
+- /tfs-sticky-buddy-v0-3-1-ctp1
 - /resources/blog/tfs-sticky-buddy-v0-3-1-ctp1
 tags:
 - Windows

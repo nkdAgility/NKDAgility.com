@@ -17,9 +17,9 @@ aliases:
 - /unable-to-connect-to-tfs-using-https-over-the-internet-from-behind-isa
 - /resources/6IrP42bGBD6
 - /resources/blog/unable-to-connect-to-tfs-using-https-over-the-internet-from-behind-isa
-aliasesFor404:
-- /unable-to-connect-to-tfs-using-https-over-the-internet-from-behind-isa
+aliasesArchive:
 - /blog/unable-to-connect-to-tfs-using-https-over-the-internet-from-behind-isa
+- /unable-to-connect-to-tfs-using-https-over-the-internet-from-behind-isa
 - /resources/blog/unable-to-connect-to-tfs-using-https-over-the-internet-from-behind-isa
 tags:
 - Troubleshooting

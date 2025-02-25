@@ -8,23 +8,25 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: ItvOiaC32Hs
 url: /resources/videos/:slug
-slug: 7-signs-of-the-agile-apocalypse-chaos
+slug: taming-the-chaos-factor-how-to-align-your-agile-teams-for-success-ItvOiaC32Hs
 layout: video
 aliases:
-- /resources/videos/ItvOiaC32Hs
-- /resources/videos/7-signs-of-the-agile-apocalypse-chaos
-- /resources/7-signs-of-the-agile-apocalypse-chaos
 - /resources/ItvOiaC32Hs
-aliasesFor404:
+- /resources/videos/taming-the-chaos-factor-how-to-align-your-agile-teams-for-success-ItvOiaC32Hs
+- /resources/videos/taming-the-chaos-factor-how-to-align-your-agile-teams-for-success
+- /resources/videos/7-signs-of-the-agile-apocalypse-chaos
+aliasesArchive:
+- /resources/videos/taming-the-chaos-factor-how-to-align-your-agile-teams-for-success
 - /resources/videos/7-signs-of-the-agile-apocalypse-chaos
 - /resources/7-signs-of-the-agile-apocalypse-chaos
+- taming-the-chaos-factor-how-to-align-your-agile-teams-for-success-ItvOiaC32Hs
 preview: https://i.ytimg.com/vi/ItvOiaC32Hs/maxresdefault.jpg
 duration: 50
 isShort: true
 tags:
-- Agile Strategy
-- Strategic Goals
 - People and Process
+- Strategic Goals
+- Agile Strategy
 - Strategy
 - Sociotechnical Systems
 - Team Motivation

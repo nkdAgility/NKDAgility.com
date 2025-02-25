@@ -15,29 +15,29 @@ preview: https://i.ytimg.com/vi/KvZbBwzxSu4/maxresdefault.jpg
 duration: 591
 isShort: false
 aliases:
-- /resources/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
-- /resources/videos/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
-- /resources/videos/KvZbBwzxSu4
-- /resources/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
 - /resources/KvZbBwzxSu4
-aliasesFor404:
+- /resources/videos/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
+- /resources/videos/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
+aliasesArchive:
+- /resources/videos/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
 - /resources/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
 - /resources/videos/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
 - /resources/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
+- the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - People and Process
-- Evidence Based Leadership
 - Evidence Based Management
-- Value Delivery
-- Decision Making
+- Evidence Based Leadership
 - Agile Product Management
+- Value Delivery
 - Agile Product Operating Model
-- Decision Theory
-- Product Strategy
+- Decision Making
 - Strategic Goals
+- Decision Theory
+- Change Management
 resourceTypes:
 - video
 categories:

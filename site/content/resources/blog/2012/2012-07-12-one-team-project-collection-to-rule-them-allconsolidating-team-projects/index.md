@@ -20,19 +20,19 @@ aliases:
 - /blog/one-team-project-collection-to-rule-them-all---consolidating-team-projects
 - /resources/xzuqsTxb7UD
 - /resources/blog/one-team-project-collection-to-rule-them-allconsolidating-team-projects
-aliasesFor404:
-- /one-team-project-collection-to-rule-them-allconsolidating-team-projects
+aliasesArchive:
 - /blog/one-team-project-collection-to-rule-them-allconsolidating-team-projects
+- /one-team-project-collection-to-rule-them-allconsolidating-team-projects
+- /one-team-project-collection-to-rule-them-all
 - /one-team-project-collection-to-rule-them-all---consolidating-team-projects
 - /blog/one-team-project-collection-to-rule-them-all---consolidating-team-projects
-- /one-team-project-collection-to-rule-them-all
 - /resources/blog/one-team-project-collection-to-rule-them-allconsolidating-team-projects
 tags:
 - Troubleshooting
 categories:
 - Scrum
-- Social Technologies
 - DevOps
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-10-10.png
 
 ---

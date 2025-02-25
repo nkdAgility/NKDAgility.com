@@ -8,23 +8,24 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Nf6XCdhSUMw
 url: /resources/videos/:slug
-slug: introduction-to-evidence-based-management
+slug: harnessing-evidence-based-management-transform-your-decision-making-with-data-driven-insights
 layout: video
 aliases:
-- /resources/videos/Nf6XCdhSUMw
-- /resources/videos/introduction-to-evidence-based-management
-- /resources/introduction-to-evidence-based-management
 - /resources/Nf6XCdhSUMw
-aliasesFor404:
+- /resources/videos/harnessing-evidence-based-management-transform-your-decision-making-with-data-driven-insights
+- /resources/videos/introduction-to-evidence-based-management
+aliasesArchive:
+- /resources/videos/harnessing-evidence-based-management-transform-your-decision-making-with-data-driven-insights
 - /resources/videos/introduction-to-evidence-based-management
 - /resources/introduction-to-evidence-based-management
+- harnessing-evidence-based-management-transform-your-decision-making-with-data-driven-insights
 preview: https://i.ytimg.com/vi/Nf6XCdhSUMw/maxresdefault.jpg
 duration: 414
 isShort: false
 tags:
 - Evidence Based Management
-- Evidence Based Leadership
 - Decision Making
+- Evidence Based Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6

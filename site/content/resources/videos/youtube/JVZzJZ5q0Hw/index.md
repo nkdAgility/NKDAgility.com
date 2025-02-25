@@ -9,36 +9,36 @@ ResourceImportSource: Youtube
 videoId: JVZzJZ5q0Hw
 source: internal
 url: /resources/videos/:slug
-slug: what-is-the-most-common-mistake-in-sprint-planning
+slug: what-is-a-sprint-goal
 layout: video
 preview: https://i.ytimg.com/vi/JVZzJZ5q0Hw/maxresdefault.jpg
 duration: 505
 isShort: false
 aliases:
-- /resources/what-is-the-most-common-mistake-in-sprint-planning
-- /resources/what-is-a-sprint-goal
-- /resources/videos/what-is-the-most-common-mistake-in-sprint-planning-
-- /resources/videos/JVZzJZ5q0Hw
-- /resources/what-is-the-most-common-mistake-in-sprint-planning-
 - /resources/JVZzJZ5q0Hw
-aliasesFor404:
+- /resources/videos/what-is-a-sprint-goal
+- /resources/videos/what-is-the-most-common-mistake-in-sprint-planning
+aliasesArchive:
+- /resources/videos/what-is-a-sprint-goal
 - /resources/what-is-the-most-common-mistake-in-sprint-planning
 - /resources/what-is-a-sprint-goal
 - /resources/videos/what-is-the-most-common-mistake-in-sprint-planning-
 - /resources/what-is-the-most-common-mistake-in-sprint-planning-
+- /resources/videos/what-is-the-most-common-mistake-in-sprint-planning
+- what-is-a-sprint-goal
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Scrum Product Development
 - Agile Planning
-- Backlog Refinement
 - People and Process
+- Backlog Refinement
 - Product Backlog
-- Team Performance
+- Product Delivery
 - Agile Product Management
 - Scrum Team
-- Product Delivery
+- Team Performance
 - Agile Planning Tools
 resourceTypes:
 - video

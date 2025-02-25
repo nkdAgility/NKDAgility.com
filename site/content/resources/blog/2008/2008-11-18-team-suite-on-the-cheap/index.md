@@ -17,9 +17,9 @@ aliases:
 - /team-suite-on-the-cheap
 - /resources/iiMEOgepJ_x
 - /resources/blog/team-suite-on-the-cheap
-aliasesFor404:
-- /team-suite-on-the-cheap
+aliasesArchive:
 - /blog/team-suite-on-the-cheap
+- /team-suite-on-the-cheap
 - /resources/blog/team-suite-on-the-cheap
 tags:
 - Products and Books

@@ -21,9 +21,9 @@ aliases:
 - /silverlight-4--mvvm-and-test-driven-development
 - /blog/silverlight-4--mvvm-and-test-driven-development
 - /resources/blog/silverlight-4-mvvm-and-test-driven-development
-aliasesFor404:
-- /silverlight-4-mvvm-and-test-driven-development
+aliasesArchive:
 - /blog/silverlight-4-mvvm-and-test-driven-development
+- /silverlight-4-mvvm-and-test-driven-development
 - /silverlight-4,-mvvm-and-test-driven-development
 - /blog/silverlight-4,-mvvm-and-test-driven-development
 - /silverlight-4--mvvm-and-test-driven-development

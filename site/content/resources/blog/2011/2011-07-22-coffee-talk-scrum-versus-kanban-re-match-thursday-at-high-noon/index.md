@@ -19,17 +19,17 @@ aliases:
 - /blog/coffee-talk--scrum-versus-kanban-(re-match)-----thursday-at-high-noon-
 - /resources/KtZxhtX0v9O
 - /resources/blog/coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon
-aliasesFor404:
-- /coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon
+aliasesArchive:
 - /blog/coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon
+- /coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon
 - /coffee-talk--scrum-versus-kanban-(re-match)-----thursday-at-high-noon-
 - /blog/coffee-talk--scrum-versus-kanban-(re-match)-----thursday-at-high-noon-
 - /resources/blog/coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon
 tags:
 - Software Development
 - Events and Presentations
-- Agile Frameworks
 - Agile Project Management
+- Agile Frameworks
 categories:
 - Social Technologies
 preview: metro-nwc-128-link-2-2.png

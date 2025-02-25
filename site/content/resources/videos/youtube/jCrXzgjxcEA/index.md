@@ -8,29 +8,30 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: jCrXzgjxcEA
 url: /resources/videos/:slug
-slug: kanban-with-azure-devops
+slug: mastering-caman-strategy-how-to-leverage-azure-devops-for-effective-visualisation-in-hybrid-work-environments
 layout: video
 aliases:
-- /resources/videos/jCrXzgjxcEA
-- /resources/videos/kanban-with-azure-devops
-- /resources/kanban-with-azure-devops
 - /resources/jCrXzgjxcEA
-aliasesFor404:
+- /resources/videos/mastering-caman-strategy-how-to-leverage-azure-devops-for-effective-visualisation-in-hybrid-work-environments
+- /resources/videos/kanban-with-azure-devops
+aliasesArchive:
+- /resources/videos/mastering-caman-strategy-how-to-leverage-azure-devops-for-effective-visualisation-in-hybrid-work-environments
 - /resources/videos/kanban-with-azure-devops
 - /resources/kanban-with-azure-devops
+- mastering-caman-strategy-how-to-leverage-azure-devops-for-effective-visualisation-in-hybrid-work-environments
 preview: https://i.ytimg.com/vi/jCrXzgjxcEA/maxresdefault.jpg
 duration: 1448
 isShort: false
 tags:
-- Software Development
 - Practical Techniques and Tooling
+- Software Development
 - Agile Planning Tools
-- Azure Boards
-- Software Developers
-- Azure DevOps
-- Lead Time
 - Agile Project Management
 - Cycle Time
+- Software Developers
+- Azure Boards
+- Azure DevOps
+- Lead Time
 - Agile Frameworks
 sitemap:
   filename: sitemap.xml

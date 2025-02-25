@@ -15,31 +15,32 @@ preview: https://i.ytimg.com/vi/v1sMbKpQndU/maxresdefault.jpg
 duration: 164
 isShort: false
 aliases:
-- /resources/what-are-the-top-3-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
-- /resources/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
-- /resources/videos/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance-
-- /resources/videos/v1sMbKpQndU
-- /resources/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance-
 - /resources/v1sMbKpQndU
-aliasesFor404:
+- /resources/videos/what-are-the-top-3-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
+- /resources/videos/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
+aliasesArchive:
+- /resources/videos/what-are-the-top-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
+- /resources/videos/what-are-the-top-3-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
 - /resources/what-are-the-top-3-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
 - /resources/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
 - /resources/videos/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance-
 - /resources/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance-
+- /resources/videos/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
+- what-are-the-top-3-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Coaching
+- People and Process
 - Scrum Master
 - Scrum Team
-- People and Process
 - Team Performance
-- Agile Frameworks
 - Agile Project Management
 - Mentoring
+- Agile Frameworks
+- Pragmatic Thinking
 - Team Collaboration
-- Professional Scrum
 resourceTypes:
 - video
 categories:

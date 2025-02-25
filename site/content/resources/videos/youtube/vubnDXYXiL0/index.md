@@ -15,29 +15,28 @@ preview: https://i.ytimg.com/vi/vubnDXYXiL0/maxresdefault.jpg
 duration: 328
 isShort: false
 aliases:
-- /resources/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum
-- /resources/videos/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum-
-- /resources/videos/vubnDXYXiL0
-- /resources/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum-
 - /resources/vubnDXYXiL0
-aliasesFor404:
+- /resources/videos/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum
+aliasesArchive:
+- /resources/videos/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum
 - /resources/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum
 - /resources/videos/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum-
 - /resources/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum-
+- are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - People and Process
-- Scaling Scrum
 - Practical Techniques and Tooling
-- Scaling Agility
-- Scaled Agile
+- Scaling Scrum
 - Large Scale Agility
-- Software Development
-- Pragmatic Thinking
-- Agile Frameworks
+- Scaled Agile
+- Scaling Agility
 - Agile Project Management
+- Pragmatic Thinking
+- Software Development
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

@@ -8,24 +8,26 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 5ZRMBfV9zpI
 url: /resources/videos/:slug
-slug: professional-scrum-master-(psm)-training-class-from-naked-agility-with-martin-hinshelwood-[mktng]
+slug: unlocking-your-potential-transformative-training-for-aspiring-scrum-masters
 aliases:
-- /resources/videos/5ZRMBfV9zpI
-- /resources/videos/professional-scrum-master-(psm)-training-class-from-naked-agility-with-martin-hinshelwood-[mktng]
-- /resources/professional-scrum-master-(psm)-training-class-from-naked-agility-with-martin-hinshelwood-[mktng]
 - /resources/5ZRMBfV9zpI
-aliasesFor404:
+- /resources/videos/unlocking-your-potential-transformative-training-for-aspiring-scrum-masters
+- /resources/videos/professional-scrum-master-psm-training-class-from-naked-agility-with-martin-hinshelwood-mktng
+aliasesArchive:
+- /resources/videos/unlocking-your-potential-transformative-training-for-aspiring-scrum-masters
 - /resources/videos/professional-scrum-master-(psm)-training-class-from-naked-agility-with-martin-hinshelwood-[mktng]
 - /resources/professional-scrum-master-(psm)-training-class-from-naked-agility-with-martin-hinshelwood-[mktng]
+- /resources/videos/professional-scrum-master-psm-training-class-from-naked-agility-with-martin-hinshelwood-mktng
+- unlocking-your-potential-transformative-training-for-aspiring-scrum-masters
 preview: https://i.ytimg.com/vi/5ZRMBfV9zpI/maxresdefault.jpg
 duration: 74
 isShort: false
 tags:
-- Professional Scrum
 - Scrum Master
+- Professional Scrum
 - Events and Presentations
-- Agile Frameworks
 - Agile Project Management
+- Agile Frameworks
 - Software Development
 - People and Process
 sitemap:

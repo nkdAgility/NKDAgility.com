@@ -17,9 +17,9 @@ aliases:
 - /amusing-job-requirements
 - /resources/NU1-eAy72tU
 - /resources/blog/amusing-job-requirements
-aliasesFor404:
-- /amusing-job-requirements
+aliasesArchive:
 - /blog/amusing-job-requirements
+- /amusing-job-requirements
 - /resources/blog/amusing-job-requirements
 tags:
 - Miscellaneous

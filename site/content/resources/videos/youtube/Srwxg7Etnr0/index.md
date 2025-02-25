@@ -15,29 +15,28 @@ preview: https://i.ytimg.com/vi/Srwxg7Etnr0/maxresdefault.jpg
 duration: 152
 isShort: false
 aliases:
-- /resources/how-does-a-scrum-team-decide-on-a-sprint-goal
-- /resources/videos/how-does-a-scrum-team-decide-on-a-sprint-goal-
-- /resources/videos/Srwxg7Etnr0
-- /resources/how-does-a-scrum-team-decide-on-a-sprint-goal-
 - /resources/Srwxg7Etnr0
-aliasesFor404:
+- /resources/videos/how-does-a-scrum-team-decide-on-a-sprint-goal
+aliasesArchive:
+- /resources/videos/how-does-a-scrum-team-decide-on-a-sprint-goal
 - /resources/how-does-a-scrum-team-decide-on-a-sprint-goal
 - /resources/videos/how-does-a-scrum-team-decide-on-a-sprint-goal-
 - /resources/how-does-a-scrum-team-decide-on-a-sprint-goal-
+- how-does-a-scrum-team-decide-on-a-sprint-goal
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Scrum Product Development
 - Scrum Team
-- People and Process
+- Agile Product Management
+- Scrum Master
 - Team Collaboration
 - Professional Scrum
-- Scrum Master
 - Agile Planning
-- Agile Product Management
+- Agile Project Management
 - Software Development
-- Agile Frameworks
 resourceTypes:
 - video
 categories:

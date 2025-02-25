@@ -9,29 +9,29 @@ ResourceImportSource: Youtube
 videoId: f1cWND9Wsh0
 source: internal
 url: /resources/videos/:slug
-slug: why-is-lego-a-shit-idea-for-a-scrum-trainer-part-1
+slug: why-is-lego-a-shit-idea-for-a-scrum-trainer-part-1-f1cWND9Wsh0
 layout: video
 preview: https://i.ytimg.com/vi/f1cWND9Wsh0/maxresdefault.jpg
 duration: 33
 isShort: true
 aliases:
-- /resources/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-1
-- /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-1
-- /resources/videos/f1cWND9Wsh0
 - /resources/f1cWND9Wsh0
-aliasesFor404:
-- /resources/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-1
+- /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-1-f1cWND9Wsh0
+aliasesArchive:
+- /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-
 - /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-1
+- /resources/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-1
+- why-is-lego-a-shit-idea-for-a-scrum-trainer-part-1-f1cWND9Wsh0
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Software Development
-- Pragmatic Thinking
-- Agile Frameworks
 - People and Process
 - Agile Project Management
+- Pragmatic Thinking
+- Software Development
 - Agile Transformation
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

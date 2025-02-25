@@ -9,35 +9,37 @@ ResourceImportSource: Youtube
 videoId: qRHzl4PieKA
 source: internal
 url: /resources/videos/:slug
-slug: are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile
+slug: are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile-qRHzl4PieKA
 layout: video
 preview: https://i.ytimg.com/vi/qRHzl4PieKA/maxresdefault.jpg
 duration: 59
 isShort: true
 aliases:
-- /resources/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile
-- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-4
-- /resources/videos/qRHzl4PieKA
-- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-4
 - /resources/qRHzl4PieKA
-aliasesFor404:
+- /resources/videos/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile-qRHzl4PieKA
+- /resources/videos/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile
+- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-4
+aliasesArchive:
+- /resources/videos/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile
 - /resources/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile
 - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-4
 - /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-4
+- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-4
+- are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile-qRHzl4PieKA
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - People and Process
-- Agile Values and Principles
-- Agile Product Management
 - Agile Product Operating Model
-- Value Delivery
-- Market Adaptability
+- Agile Product Management
+- Agile Values and Principles
 - Agile Philosophy
 - Agile Project Management
-- Organisational Agility
+- Value Delivery
+- Market Adaptability
 - Business Agility
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

@@ -19,9 +19,9 @@ aliases:
 - /blog/you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do-
 - /resources/5WdN6qGylV8
 - /resources/blog/you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do
-aliasesFor404:
-- /you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do
+aliasesArchive:
 - /blog/you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do
+- /you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do
 - /you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do-
 - /blog/you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do-
 - /resources/blog/you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do

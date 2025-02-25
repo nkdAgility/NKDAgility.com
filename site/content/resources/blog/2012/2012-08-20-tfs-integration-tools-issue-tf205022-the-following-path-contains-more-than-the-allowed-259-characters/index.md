@@ -20,22 +20,22 @@ aliases:
 - /blog/tfs-integration-tools---issue--tf205022--the-following-path-contains-more-than-the-allowed-259-characters
 - /resources/gkD4iN7ZkP4
 - /resources/blog/tfs-integration-tools-issue-tf205022-the-following-path-contains-more-than-the-allowed-259-characters
-aliasesFor404:
-- /tfs-integration-tools-issue-tf205022-the-following-path-contains-more-than-the-allowed-259-characters
+aliasesArchive:
 - /blog/tfs-integration-tools-issue-tf205022-the-following-path-contains-more-than-the-allowed-259-characters
+- /tfs-integration-tools-issue-tf205022-the-following-path-contains-more-than-the-allowed-259-characters
+- /tfs-integration-tools
 - /tfs-integration-tools---issue--tf205022--the-following-path-contains-more-than-the-allowed-259-characters
 - /blog/tfs-integration-tools---issue--tf205022--the-following-path-contains-more-than-the-allowed-259-characters
-- /tfs-integration-tools
 - /resources/blog/tfs-integration-tools-issue-tf205022-the-following-path-contains-more-than-the-allowed-259-characters
 tags:
-- Modern Source Control
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
+- Modern Source Control
+- Troubleshooting
 - Windows
 - Software Development
-- Azure DevOps
 - System Configuration
-- Troubleshooting
+- Azure DevOps
 - Pragmatic Thinking
 categories:
 - Engineering Excellence

@@ -15,15 +15,15 @@ preview: https://i.ytimg.com/vi/Po58JnxjX7M/maxresdefault.jpg
 duration: 62
 isShort: false
 aliases:
-- /resources/before-you-call-yourself-an-agile-coach-the-importance-of-real-experience
-- /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-1
-- /resources/videos/Po58JnxjX7M
-- /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-1
 - /resources/Po58JnxjX7M
-aliasesFor404:
+- /resources/videos/before-you-call-yourself-an-agile-coach-the-importance-of-real-experience
+- /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-1
+aliasesArchive:
+- /resources/videos/before-you-call-yourself-an-agile-coach-the-importance-of-real-experience
 - /resources/before-you-call-yourself-an-agile-coach-the-importance-of-real-experience
 - /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-1
 - /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-1
+- before-you-call-yourself-an-agile-coach-the-importance-of-real-experience
 sitemap:
   filename: sitemap.xml
   priority: 0.6

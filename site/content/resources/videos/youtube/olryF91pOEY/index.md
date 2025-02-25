@@ -15,17 +15,17 @@ preview: https://i.ytimg.com/vi/olryF91pOEY/maxresdefault.jpg
 duration: 479
 isShort: false
 aliases:
-- /resources/can-organisations-run-an-applying-professional-scrum-workshop-how-would-that-help-them
-- /resources/can-organizations-run-an-applying-professional-scrum-workshop-how-will-that-help-them
-- /resources/videos/can-organizations-run-an-applying-professional-scrum-workshop-how-will-that-help-them-
-- /resources/videos/olryF91pOEY
-- /resources/can-organizations-run-an-applying-professional-scrum-workshop-how-will-that-help-them-
 - /resources/olryF91pOEY
-aliasesFor404:
+- /resources/videos/can-organisations-run-an-applying-professional-scrum-workshop-how-would-that-help-them
+- /resources/videos/can-organizations-run-an-applying-professional-scrum-workshop-how-will-that-help-them
+aliasesArchive:
+- /resources/videos/can-organisations-run-an-applying-professional-scrum-workshop-how-would-that-help-them
 - /resources/can-organisations-run-an-applying-professional-scrum-workshop-how-would-that-help-them
 - /resources/can-organizations-run-an-applying-professional-scrum-workshop-how-will-that-help-them
 - /resources/videos/can-organizations-run-an-applying-professional-scrum-workshop-how-will-that-help-them-
 - /resources/can-organizations-run-an-applying-professional-scrum-workshop-how-will-that-help-them-
+- /resources/videos/can-organizations-run-an-applying-professional-scrum-workshop-how-will-that-help-them
+- can-organisations-run-an-applying-professional-scrum-workshop-how-would-that-help-them
 sitemap:
   filename: sitemap.xml
   priority: 0.6

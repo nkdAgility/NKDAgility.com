@@ -15,29 +15,30 @@ preview: https://i.ytimg.com/vi/hXieCawt-XE/maxresdefault.jpg
 duration: 599
 isShort: false
 aliases:
-- /resources/mastering-kanban-creating-a-pull-based-system-for-workflow-efficiency
-- /resources/videos/work-less,-do-more-with-pull-in-kanban
-- /resources/videos/hXieCawt-XE
-- /resources/work-less,-do-more-with-pull-in-kanban
 - /resources/hXieCawt-XE
-aliasesFor404:
+- /resources/videos/mastering-kanban-creating-a-pull-based-system-for-workflow-efficiency
+- /resources/videos/work-less-do-more-with-pull-in-kanban
+aliasesArchive:
+- /resources/videos/mastering-kanban-creating-a-pull-based-system-for-workflow-efficiency
 - /resources/mastering-kanban-creating-a-pull-based-system-for-workflow-efficiency
 - /resources/videos/work-less,-do-more-with-pull-in-kanban
 - /resources/work-less,-do-more-with-pull-in-kanban
+- /resources/videos/work-less-do-more-with-pull-in-kanban
+- mastering-kanban-creating-a-pull-based-system-for-workflow-efficiency
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Operational Practices
 - Flow Efficiency
-- Software Development
-- Pragmatic Thinking
-- Lean Thinking
 - Practical Techniques and Tooling
-- Throughput
-- Lean Principles
-- Agile Frameworks
+- Pragmatic Thinking
+- Software Development
+- Lean Thinking
 - Lean
+- Agile Project Management
+- Lean Principles
+- Throughput
 resourceTypes:
 - video
 categories:

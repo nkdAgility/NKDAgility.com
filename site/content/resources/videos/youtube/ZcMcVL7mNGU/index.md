@@ -8,29 +8,30 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: ZcMcVL7mNGU
 url: /resources/videos/:slug
-slug: product-management-mentor-program-final
+slug: bridging-the-gap-how-to-align-your-organisation-for-successful-agile-product-management
 layout: video
 aliases:
-- /resources/videos/ZcMcVL7mNGU
-- /resources/videos/product-management-mentor-program-final
-- /resources/product-management-mentor-program-final
 - /resources/ZcMcVL7mNGU
-aliasesFor404:
+- /resources/videos/bridging-the-gap-how-to-align-your-organisation-for-successful-agile-product-management
+- /resources/videos/product-management-mentor-program-final
+aliasesArchive:
+- /resources/videos/bridging-the-gap-how-to-align-your-organisation-for-successful-agile-product-management
 - /resources/videos/product-management-mentor-program-final
 - /resources/product-management-mentor-program-final
+- bridging-the-gap-how-to-align-your-organisation-for-successful-agile-product-management
 preview: https://i.ytimg.com/vi/ZcMcVL7mNGU/maxresdefault.jpg
 duration: 256
 isShort: false
 tags:
 - People and Process
-- Software Development
 - Agile Product Operating Model
 - Agile Product Management
+- Software Development
+- Product Strategy
+- Value Delivery
+- Metrics and Learning
 - Product Delivery
 - Hypothesis Driven Development
-- Value Delivery
-- Product Strategy
-- Metrics and Learning
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml

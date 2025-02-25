@@ -15,15 +15,15 @@ preview: https://i.ytimg.com/vi/9PBpgfsojQI/maxresdefault.jpg
 duration: 288
 isShort: false
 aliases:
-- /resources/2023-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve
-- /resources/videos/2023-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve-
-- /resources/videos/9PBpgfsojQI
-- /resources/2023-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve-
 - /resources/9PBpgfsojQI
-aliasesFor404:
+- /resources/videos/2023-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve
+aliasesArchive:
+- /resources/videos/-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve
+- /resources/videos/2023-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve
 - /resources/2023-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve
 - /resources/videos/2023-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve-
 - /resources/2023-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve-
+- 2023-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -32,10 +32,10 @@ tags:
 - People and Process
 - Product Owner
 - Agile Product Management
-- Agile Product Operating Model
 - Value Delivery
-- Agile Project Management
+- Agile Product Operating Model
 - Product Delivery
+- Agile Project Management
 - Pragmatic Thinking
 - Product Strategy
 resourceTypes:

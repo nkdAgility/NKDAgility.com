@@ -15,17 +15,18 @@ preview: https://i.ytimg.com/vi/UeGdC6GRyq4/maxresdefault.jpg
 duration: 257
 isShort: false
 aliases:
-- /resources/under-employed-30-upfront-balance-when-you-are-employed
-- /resources/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed
-- /resources/videos/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed-
-- /resources/videos/UeGdC6GRyq4
-- /resources/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed-
 - /resources/UeGdC6GRyq4
-aliasesFor404:
+- /resources/videos/under-employed-30-upfront-balance-when-you-are-employed
+- /resources/videos/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed
+aliasesArchive:
+- /resources/videos/under-employed-upfront-balance-when-you-are-employed
+- /resources/videos/under-employed-30-upfront-balance-when-you-are-employed
 - /resources/under-employed-30-upfront-balance-when-you-are-employed
 - /resources/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed
 - /resources/videos/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed-
 - /resources/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed-
+- under-employed-30-upfront-balance-when-you-are-employed
+- /resources/videos/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed
 sitemap:
   filename: sitemap.xml
   priority: 0.6

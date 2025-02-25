@@ -14,27 +14,27 @@ preview: https://i.ytimg.com/vi/3jYFD-6_kZk/maxresdefault.jpg
 duration: 1055
 isShort: false
 aliases:
-- /resources/navigating-the-complex-world-of-azure-devops-data-migration
-- /resources/videos/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
-- /resources/videos/3jYFD-6_kZk
-- /resources/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
 - /resources/3jYFD-6_kZk
-aliasesFor404:
+- /resources/videos/navigating-the-complex-world-of-azure-devops-data-migration
+- /resources/videos/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
+aliasesArchive:
+- /resources/videos/navigating-the-complex-world-of-azure-devops-data-migration
 - /resources/navigating-the-complex-world-of-azure-devops-data-migration
 - /resources/videos/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
 - /resources/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
+- navigating-the-complex-world-of-azure-devops-data-migration
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Troubleshooting
 - Install and Configuration
-- Azure DevOps
 - System Configuration
+- Azure DevOps
 - Practical Techniques and Tooling
-- Software Development
-- Pragmatic Thinking
 - Technical Mastery
+- Pragmatic Thinking
+- Software Development
 resourceTypes:
 - video
 layout: video

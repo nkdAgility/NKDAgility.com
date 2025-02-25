@@ -19,9 +19,9 @@ aliases:
 - /blog/review-part-3--two-months-with-intel-haswell-harris-beach-sds-ultrabook
 - /resources/LSTyPpa3cnS
 - /resources/blog/review-two-months-intel-haswell-harris-beach-sds-ultrabook
-aliasesFor404:
-- /review-two-months-intel-haswell-harris-beach-sds-ultrabook
+aliasesArchive:
 - /blog/review-two-months-intel-haswell-harris-beach-sds-ultrabook
+- /review-two-months-intel-haswell-harris-beach-sds-ultrabook
 - /review-part-3--two-months-with-intel-haswell-harris-beach-sds-ultrabook
 - /blog/review-part-3--two-months-with-intel-haswell-harris-beach-sds-ultrabook
 - /resources/blog/review-two-months-intel-haswell-harris-beach-sds-ultrabook

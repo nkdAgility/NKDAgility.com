@@ -17,9 +17,9 @@ aliases:
 - /the-great-xbox-update
 - /resources/X8DVH4Nrsye
 - /resources/blog/the-great-xbox-update
-aliasesFor404:
-- /the-great-xbox-update
+aliasesArchive:
 - /blog/the-great-xbox-update
+- /the-great-xbox-update
 - /resources/blog/the-great-xbox-update
 tags:
 - News and Reviews

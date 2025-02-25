@@ -19,23 +19,23 @@ aliases:
 - /blog/do-you-know-the-minimum-builds-to-create-on-any-branch-
 - /resources/wPA1p1UQ6Bi
 - /resources/blog/do-you-know-the-minimum-builds-to-create-on-any-branch
-aliasesFor404:
-- /do-you-know-the-minimum-builds-to-create-on-any-branch
+aliasesArchive:
 - /blog/do-you-know-the-minimum-builds-to-create-on-any-branch
+- /do-you-know-the-minimum-builds-to-create-on-any-branch
 - /do-you-know-the-minimum-builds-to-create-on-any-branch-
 - /blog/do-you-know-the-minimum-builds-to-create-on-any-branch-
 - /resources/blog/do-you-know-the-minimum-builds-to-create-on-any-branch
 tags:
 - Automated Testing
-- Modern Source Control
 - Practical Techniques and Tooling
+- Modern Source Control
 - Engineering Practices
+- Azure Pipelines
 - Application Lifecycle Management
 - Software Development
-- Continuous Integration
-- Technical Excellence
 - Technical Mastery
-- Operational Practices
+- Technical Excellence
+- Azure DevOps
 preview: metro-visual-studio-2010-128-link-6-6.png
 categories:
 - DevOps

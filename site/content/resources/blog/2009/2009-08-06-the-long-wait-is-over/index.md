@@ -17,9 +17,9 @@ aliases:
 - /the-long-wait-is-over
 - /resources/Ahz5CpOOGZl
 - /resources/blog/the-long-wait-is-over
-aliasesFor404:
-- /the-long-wait-is-over
+aliasesArchive:
 - /blog/the-long-wait-is-over
+- /the-long-wait-is-over
 - /resources/blog/the-long-wait-is-over
 tags:
 - Windows

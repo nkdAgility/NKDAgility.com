@@ -15,27 +15,26 @@ preview: https://i.ytimg.com/vi/klBiNFvxuy0/maxresdefault.jpg
 duration: 301
 isShort: false
 aliases:
-- /resources/what-is-the-most-common-aha-moment-people-have-in-a-scrum-course
-- /resources/videos/what-is-the-most-common-aha-moment-people-have-in-a-scrum-course-
-- /resources/videos/klBiNFvxuy0
-- /resources/what-is-the-most-common-aha-moment-people-have-in-a-scrum-course-
 - /resources/klBiNFvxuy0
-aliasesFor404:
+- /resources/videos/what-is-the-most-common-aha-moment-people-have-in-a-scrum-course
+aliasesArchive:
+- /resources/videos/what-is-the-most-common-aha-moment-people-have-in-a-scrum-course
 - /resources/what-is-the-most-common-aha-moment-people-have-in-a-scrum-course
 - /resources/videos/what-is-the-most-common-aha-moment-people-have-in-a-scrum-course-
 - /resources/what-is-the-most-common-aha-moment-people-have-in-a-scrum-course-
+- what-is-the-most-common-aha-moment-people-have-in-a-scrum-course
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Agile Project Management
-- Professional Scrum
 - People and Process
+- Professional Scrum
 - Scrum Master
-- Agile Frameworks
 - Agile Transformation
-- Software Development
+- Agile Frameworks
 - Empirical Process Control
+- Software Development
 - Pragmatic Thinking
 - Agile Values and Principles
 resourceTypes:

@@ -15,15 +15,16 @@ preview: https://i.ytimg.com/vi/XdzGxK1Yzyc/maxresdefault.jpg
 duration: 319
 isShort: false
 aliases:
-- /resources/what-is-a-product-owner-why-are-they-essential
-- /resources/videos/why-have-a-product-owner-
-- /resources/videos/XdzGxK1Yzyc
-- /resources/why-have-a-product-owner-
 - /resources/XdzGxK1Yzyc
-aliasesFor404:
+- /resources/videos/what-is-a-product-owner-why-are-they-essential
+- /resources/videos/why-have-a-product-owner
+aliasesArchive:
+- /resources/videos/what-is-a-product-owner-why-are-they-essential
 - /resources/what-is-a-product-owner-why-are-they-essential
 - /resources/videos/why-have-a-product-owner-
 - /resources/why-have-a-product-owner-
+- /resources/videos/why-have-a-product-owner
+- what-is-a-product-owner-why-are-they-essential
 sitemap:
   filename: sitemap.xml
   priority: 0.6

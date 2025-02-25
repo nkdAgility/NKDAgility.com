@@ -19,11 +19,11 @@ aliases:
 - /resources/O3FNfeA_FB8
 - /waffling-on-sharepoint
 - /resources/blog/waffling-on-sharepoint
-aliasesFor404:
-- /waffling-on-sharepoint
+aliasesArchive:
 - /blog/waffling-on-sharepoint
 - /waffling-on-sharepoint---
 - /blog/waffling-on-sharepoint---
+- /waffling-on-sharepoint
 - /resources/blog/waffling-on-sharepoint
 tags:
 - Miscellaneous

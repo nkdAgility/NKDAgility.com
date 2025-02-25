@@ -9,25 +9,24 @@ ResourceImportSource: Youtube
 videoId: pazZ3mW5VHM
 source: internal
 url: /resources/videos/:slug
-slug: part-2-most-influential-people-in-agile
+slug: most-common-thing-you-hear-in-a-pspo-course-pazZ3mW5VHM
 layout: video
 preview: https://i.ytimg.com/vi/pazZ3mW5VHM/maxresdefault.jpg
 duration: 47
 isShort: true
 aliases:
-- /resources/part-2-most-influential-people-in-agile-2
-- /resources/part-2-most-influential-people-in-agile
-- /resources/most-common-thing-you-hear-in-a-pspo-course
-- /resources/most-influential-people-in-agile-simon-reindl
-- /resources/videos/most-influential-people-in-agile-simon-reindl
-- /resources/videos/pazZ3mW5VHM
 - /resources/pazZ3mW5VHM
-aliasesFor404:
+- /resources/videos/most-common-thing-you-hear-in-a-pspo-course-pazZ3mW5VHM
+- /resources/videos/most-common-thing-you-hear-in-a-pspo-course
+- /resources/videos/most-influential-people-in-agile-simon-reindl
+aliasesArchive:
+- /resources/videos/most-common-thing-you-hear-in-a-pspo-course
 - /resources/part-2-most-influential-people-in-agile-2
 - /resources/part-2-most-influential-people-in-agile
 - /resources/most-common-thing-you-hear-in-a-pspo-course
 - /resources/most-influential-people-in-agile-simon-reindl
 - /resources/videos/most-influential-people-in-agile-simon-reindl
+- most-common-thing-you-hear-in-a-pspo-course-pazZ3mW5VHM
 sitemap:
   filename: sitemap.xml
   priority: 0.6

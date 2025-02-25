@@ -19,9 +19,9 @@ aliases:
 - /blog/my-unity-resolve(of-ninja)
 - /resources/whj_VeMcGAL
 - /resources/blog/my-unity-resolveof-ninja
-aliasesFor404:
-- /my-unity-resolveof-ninja
+aliasesArchive:
 - /blog/my-unity-resolveof-ninja
+- /my-unity-resolveof-ninja
 - /my-unity-resolve(of-ninja)
 - /blog/my-unity-resolve(of-ninja)
 - /resources/blog/my-unity-resolveof-ninja

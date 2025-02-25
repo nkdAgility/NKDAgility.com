@@ -15,15 +15,14 @@ preview: https://i.ytimg.com/vi/LkphLIbmjkI/maxresdefault.jpg
 duration: 340
 isShort: false
 aliases:
-- /resources/why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach
-- /resources/videos/why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach-
-- /resources/videos/LkphLIbmjkI
-- /resources/why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach-
 - /resources/LkphLIbmjkI
-aliasesFor404:
+- /resources/videos/why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach
+aliasesArchive:
+- /resources/videos/why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach
 - /resources/why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach
 - /resources/videos/why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach-
 - /resources/why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach-
+- why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -34,10 +33,10 @@ tags:
 - Software Development
 - Agile Frameworks
 - Pragmatic Thinking
-- Software Developers
 - Mentoring
-- Continuous Learning
+- Software Developers
 - Practical Techniques and Tooling
+- Continuous Learning
 resourceTypes:
 - video
 categories:

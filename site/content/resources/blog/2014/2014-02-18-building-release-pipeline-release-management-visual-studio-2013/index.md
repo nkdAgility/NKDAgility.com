@@ -19,15 +19,15 @@ aliases:
 - /blog/building-a-release-pipeline-with-release-management-with-visual-studio-2013
 - /resources/Q7mjPfg5d4Q
 - /resources/blog/building-release-pipeline-release-management-visual-studio-2013
-aliasesFor404:
-- /building-release-pipeline-release-management-visual-studio-2013
+aliasesArchive:
 - /blog/building-release-pipeline-release-management-visual-studio-2013
+- /building-release-pipeline-release-management-visual-studio-2013
 - /building-a-release-pipeline-with-release-management-with-visual-studio-2013
 - /blog/building-a-release-pipeline-with-release-management-with-visual-studio-2013
 - /resources/blog/building-release-pipeline-release-management-visual-studio-2013
 tags:
-- Software Development
 - Release Management
+- Software Development
 - Product Delivery
 categories:
 - DevOps

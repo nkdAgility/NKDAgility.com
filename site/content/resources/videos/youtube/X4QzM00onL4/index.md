@@ -9,16 +9,18 @@ ResourceImportSource: Youtube
 videoId: X4QzM00onL4
 source: youtube
 url: /resources/videos/:slug
-slug: chaos-7-harbingers-agile-apocalypse-but-shorter!
+slug: taming-the-chaos-how-to-align-your-agile-team-for-success
 layout: video
 aliases:
-- /resources/videos/X4QzM00onL4
-- /resources/videos/chaos-7-harbingers-agile-apocalypse-but-shorter!
-- /resources/chaos-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/X4QzM00onL4
-aliasesFor404:
+- /resources/videos/taming-the-chaos-how-to-align-your-agile-team-for-success
+- /resources/videos/chaos-7-harbingers-agile-apocalypse-but-shorter
+aliasesArchive:
+- /resources/videos/taming-the-chaos-how-to-align-your-agile-team-for-success
 - /resources/videos/chaos-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/chaos-7-harbingers-agile-apocalypse-but-shorter!
+- /resources/videos/chaos-7-harbingers-agile-apocalypse-but-shorter
+- taming-the-chaos-how-to-align-your-agile-team-for-success
 preview: https://i.ytimg.com/vi/X4QzM00onL4/maxresdefault.jpg
 duration: 66
 isShort: false

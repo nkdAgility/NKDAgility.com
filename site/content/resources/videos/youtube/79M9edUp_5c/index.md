@@ -8,22 +8,24 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 79M9edUp_5c
 url: /resources/videos/:slug
-slug: 5-tools-that-scrum-masters-love-part-4
+slug: embracing-asynchronous-communication-transform-your-collaboration-and-boost-productivity-79M9edUp_5c
 aliases:
-- /resources/videos/79M9edUp_5c
-- /resources/videos/5-tools-that-scrum-masters-love-part-4
-- /resources/5-tools-that-scrum-masters-love-part-4
 - /resources/79M9edUp_5c
-aliasesFor404:
+- /resources/videos/embracing-asynchronous-communication-transform-your-collaboration-and-boost-productivity-79M9edUp_5c
+- /resources/videos/embracing-asynchronous-communication-transform-your-collaboration-and-boost-productivity
+- /resources/videos/5-tools-that-scrum-masters-love-part-4
+aliasesArchive:
+- /resources/videos/embracing-asynchronous-communication-transform-your-collaboration-and-boost-productivity
 - /resources/videos/5-tools-that-scrum-masters-love-part-4
 - /resources/5-tools-that-scrum-masters-love-part-4
+- embracing-asynchronous-communication-transform-your-collaboration-and-boost-productivity-79M9edUp_5c
 preview: https://i.ytimg.com/vi/79M9edUp_5c/maxresdefault.jpg
 duration: 46
 isShort: true
 tags:
 - People and Process
-- Asynchronous Development
 - Team Collaboration
+- Asynchronous Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

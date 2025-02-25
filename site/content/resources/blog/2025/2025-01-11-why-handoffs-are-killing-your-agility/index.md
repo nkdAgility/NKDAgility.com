@@ -14,19 +14,19 @@ aliases:
 - /resources/pDvDdIEi9sj
 - /why-handoffs-are-killing-your-agility
 - /blog/why-handoffs-are-killing-your-agility
-aliasesFor404:
+aliasesArchive:
 - /why-handoffs-are-killing-your-agility
 - /blog/why-handoffs-are-killing-your-agility
 tags:
 - Software Development
 - Operational Practices
+- Business Agility
+- Agile Project Management
 - Team Collaboration
 - Software Developers
-- Organisational Agility
-- Business Agility
 - Cross Functional Teams
 - Product Delivery
-- Agile Project Management
+- Organisational Agility
 - Value Delivery
 categories:
 - DevOps

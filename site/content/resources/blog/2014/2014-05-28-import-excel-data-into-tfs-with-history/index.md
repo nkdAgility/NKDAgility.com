@@ -17,16 +17,16 @@ aliases:
 - /import-excel-data-into-tfs-with-history
 - /resources/Kf-5JC3RyWF
 - /resources/blog/import-excel-data-into-tfs-with-history
-aliasesFor404:
-- /import-excel-data-into-tfs-with-history
+aliasesArchive:
 - /blog/import-excel-data-into-tfs-with-history
+- /import-excel-data-into-tfs-with-history
 - /resources/blog/import-excel-data-into-tfs-with-history
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
-- Azure DevOps
-- Pragmatic Thinking
+- Install and Configuration
 - Technical Mastery
+- Pragmatic Thinking
+- Azure DevOps
 - Software Development
 categories: []
 preview: metro-office-128-link-3-3.png

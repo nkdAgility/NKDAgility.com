@@ -8,15 +8,17 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 56nUC8jR2v8
 url: /resources/videos/:slug
-slug: the-tyranny-of-taylorism-and-how-to-spot-agile-lies
+slug: challenging-the-tyranny-of-taylorism-embracing-true-agility-in-the-workplace-56nUC8jR2v8
 aliases:
-- /resources/videos/56nUC8jR2v8
-- /resources/videos/the-tyranny-of-taylorism-and-how-to-spot-agile-lies
-- /resources/the-tyranny-of-taylorism-and-how-to-spot-agile-lies
 - /resources/56nUC8jR2v8
-aliasesFor404:
+- /resources/videos/challenging-the-tyranny-of-taylorism-embracing-true-agility-in-the-workplace-56nUC8jR2v8
+- /resources/videos/challenging-the-tyranny-of-taylorism-embracing-true-agility-in-the-workplace
+- /resources/videos/the-tyranny-of-taylorism-and-how-to-spot-agile-lies
+aliasesArchive:
+- /resources/videos/challenging-the-tyranny-of-taylorism-embracing-true-agility-in-the-workplace
 - /resources/videos/the-tyranny-of-taylorism-and-how-to-spot-agile-lies
 - /resources/the-tyranny-of-taylorism-and-how-to-spot-agile-lies
+- challenging-the-tyranny-of-taylorism-embracing-true-agility-in-the-workplace-56nUC8jR2v8
 preview: https://i.ytimg.com/vi/56nUC8jR2v8/maxresdefault.jpg
 duration: 51
 isShort: true

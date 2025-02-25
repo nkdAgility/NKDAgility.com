@@ -14,15 +14,15 @@ preview: https://i.ytimg.com/vi/4zGsmQFWFpo/maxresdefault.jpg
 duration: 547
 isShort: false
 aliases:
-- /resources/focusing-beyond-agile-building-true-capability-in-organizations
-- /resources/videos/where-are-we-now-and-where-do-we-need-to-go-next
-- /resources/videos/4zGsmQFWFpo
-- /resources/where-are-we-now-and-where-do-we-need-to-go-next
 - /resources/4zGsmQFWFpo
-aliasesFor404:
+- /resources/videos/focusing-beyond-agile-building-true-capability-in-organizations
+- /resources/videos/where-are-we-now-and-where-do-we-need-to-go-next
+aliasesArchive:
+- /resources/videos/focusing-beyond-agile-building-true-capability-in-organizations
 - /resources/focusing-beyond-agile-building-true-capability-in-organizations
 - /resources/videos/where-are-we-now-and-where-do-we-need-to-go-next
 - /resources/where-are-we-now-and-where-do-we-need-to-go-next
+- focusing-beyond-agile-building-true-capability-in-organizations
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -30,12 +30,12 @@ tags:
 - People and Process
 - Change Management
 - Technical Leadership
-- Continuous Learning
 - Organisational Culture
 - Organisational Change
+- Continuous Learning
 - Team Performance
-- Pragmatic Thinking
 - Organisational Agility
+- Pragmatic Thinking
 - Strategy
 resourceTypes:
 - video

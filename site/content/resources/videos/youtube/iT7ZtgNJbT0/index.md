@@ -15,17 +15,15 @@ preview: https://i.ytimg.com/vi/iT7ZtgNJbT0/maxresdefault.jpg
 duration: 174
 isShort: false
 aliases:
-- /resources/what-was-your-best-day-as-an-agile-consultant-2
-- /resources/what-was-your-best-day-as-an-agile-consultant
-- /resources/videos/what-was-your-best-day-as-an-agile-consultant-
-- /resources/videos/iT7ZtgNJbT0
-- /resources/what-was-your-best-day-as-an-agile-consultant-
 - /resources/iT7ZtgNJbT0
-aliasesFor404:
+- /resources/videos/what-was-your-best-day-as-an-agile-consultant
+aliasesArchive:
+- /resources/videos/what-was-your-best-day-as-an-agile-consultant
 - /resources/what-was-your-best-day-as-an-agile-consultant-2
 - /resources/what-was-your-best-day-as-an-agile-consultant
 - /resources/videos/what-was-your-best-day-as-an-agile-consultant-
 - /resources/what-was-your-best-day-as-an-agile-consultant-
+- what-was-your-best-day-as-an-agile-consultant
 sitemap:
   filename: sitemap.xml
   priority: 0.6

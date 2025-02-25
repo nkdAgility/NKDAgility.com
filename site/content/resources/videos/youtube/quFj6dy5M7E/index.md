@@ -9,30 +9,31 @@ ResourceImportSource: Youtube
 videoId: quFj6dy5M7E
 source: youtube
 url: /resources/videos/:slug
-slug: building-a-high-performance-delivery-engine
+slug: building-a-high-performance-delivery-engine-unlocking-success-through-competence-and-collaboration
 layout: video
 aliases:
-- /resources/videos/quFj6dy5M7E
-- /resources/videos/building-a-high-performance-delivery-engine
-- /resources/building-a-high-performance-delivery-engine
 - /resources/quFj6dy5M7E
-aliasesFor404:
+- /resources/videos/building-a-high-performance-delivery-engine-unlocking-success-through-competence-and-collaboration
+- /resources/videos/building-a-high-performance-delivery-engine
+aliasesArchive:
+- /resources/videos/building-a-high-performance-delivery-engine-unlocking-success-through-competence-and-collaboration
 - /resources/videos/building-a-high-performance-delivery-engine
 - /resources/building-a-high-performance-delivery-engine
+- building-a-high-performance-delivery-engine-unlocking-success-through-competence-and-collaboration
 preview: https://i9.ytimg.com/vi/quFj6dy5M7E/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAiaNZF3dxererISCSR8zTqhCN2mw
 duration: 266
 isShort: false
 tags:
 - People and Process
-- Product Delivery
 - Value Delivery
-- Software Development
+- Product Delivery
 - Pragmatic Thinking
+- Software Development
 - Sociotechnical Systems
 - Team Performance
 - Software Developers
 - Agile Product Operating Model
-- Business Agility
+- Market Adaptability
 sitemap:
   filename: sitemap.xml
   priority: 0.6

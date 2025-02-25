@@ -15,30 +15,30 @@ preview: https://i.ytimg.com/vi/hFjoIf3KPeI/maxresdefault.jpg
 duration: 318
 isShort: false
 aliases:
-- /resources/how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team-2
-- /resources/how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team
-- /resources/videos/motivating-a-scrum-team-how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team-
-- /resources/videos/hFjoIf3KPeI
-- /resources/motivating-a-scrum-team-how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team-
 - /resources/hFjoIf3KPeI
-aliasesFor404:
+- /resources/videos/how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team
+- /resources/videos/motivating-a-scrum-team-how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team
+aliasesArchive:
+- /resources/videos/how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team
 - /resources/how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team-2
 - /resources/how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team
 - /resources/videos/motivating-a-scrum-team-how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team-
 - /resources/motivating-a-scrum-team-how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team-
+- /resources/videos/motivating-a-scrum-team-how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team
+- how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Team Motivation
-- Scrum Product Development
 - People and Process
-- Scrum Master
+- Scrum Product Development
 - Scrum Team
-- Team Collaboration
-- Agile Project Management
-- Agile Frameworks
+- Scrum Master
 - Team Performance
+- Agile Frameworks
+- Agile Project Management
+- Team Collaboration
 - Employee Engagement
 resourceTypes:
 - video

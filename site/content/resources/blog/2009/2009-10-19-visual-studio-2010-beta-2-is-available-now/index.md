@@ -19,9 +19,9 @@ aliases:
 - /blog/visual-studio-2010-beta-2-is-available-now-
 - /resources/8vMRaXfImnd
 - /resources/blog/visual-studio-2010-beta-2-is-available-now
-aliasesFor404:
-- /visual-studio-2010-beta-2-is-available-now
+aliasesArchive:
 - /blog/visual-studio-2010-beta-2-is-available-now
+- /visual-studio-2010-beta-2-is-available-now
 - /visual-studio-2010-beta-2-is-available-now-
 - /blog/visual-studio-2010-beta-2-is-available-now-
 - /resources/blog/visual-studio-2010-beta-2-is-available-now

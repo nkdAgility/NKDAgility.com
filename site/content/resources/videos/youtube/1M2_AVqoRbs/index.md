@@ -8,15 +8,17 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 1M2_AVqoRbs
 url: /resources/videos/:slug
-slug: technical-debt-costs-you-more-than-you-think
+slug: transforming-technical-debt-unlocking-opportunities-for-innovation-and-value-1M2_AVqoRbs
 aliases:
-- /resources/videos/1M2_AVqoRbs
-- /resources/videos/technical-debt-costs-you-more-than-you-think
-- /resources/technical-debt-costs-you-more-than-you-think
 - /resources/1M2_AVqoRbs
-aliasesFor404:
+- /resources/videos/transforming-technical-debt-unlocking-opportunities-for-innovation-and-value-1M2_AVqoRbs
+- /resources/videos/transforming-technical-debt-unlocking-opportunities-for-innovation-and-value
+- /resources/videos/technical-debt-costs-you-more-than-you-think
+aliasesArchive:
+- /resources/videos/transforming-technical-debt-unlocking-opportunities-for-innovation-and-value
 - /resources/videos/technical-debt-costs-you-more-than-you-think
 - /resources/technical-debt-costs-you-more-than-you-think
+- transforming-technical-debt-unlocking-opportunities-for-innovation-and-value-1M2_AVqoRbs
 preview: https://i.ytimg.com/vi/1M2_AVqoRbs/maxresdefault.jpg
 duration: 36
 isShort: true

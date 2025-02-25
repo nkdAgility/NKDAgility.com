@@ -21,26 +21,26 @@ aliases:
 - /blog/why-most-scrum-masters-are-failing-and-what-they-should-know
 - /resources/VTjU5Wl2XWU
 - /resources/blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
-aliasesFor404:
-- /the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
+aliasesArchive:
 - /blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
+- /blog/why-most-scrum-masters-are-failing-and-what-they-should-know/
+- /the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
 - /why-most-scrum-masters-are-failing-and-what-they-should-know
 - /blog/why-most-scrum-masters-are-failing-and-what-they-should-know
-- /blog/why-most-scrum-masters-are-failing-and-what-they-should-know/
 - /resources/blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
 tags:
 - Agile Project Management
 - Scrum Master
-- Agile Frameworks
 - Scrum Team
-- Professional Scrum
+- Agile Frameworks
+- People and Process
 - Team Performance
 - Software Development
-- People and Process
+- Professional Scrum
 categories:
 - Scrum
 - Engineering Excellence
-- Social Technologies
+- DevOps
 preview: NKDAgility-technically-whymostscrummastersarefailing-2-2.jpg
 
 ---

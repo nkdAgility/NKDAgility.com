@@ -15,24 +15,24 @@ preview: https://i.ytimg.com/vi/EoInrPvjBHo/maxresdefault.jpg
 duration: 197
 isShort: false
 aliases:
-- /resources/how-to-overcome-agile-banditry-a-product-owners-journey
-- /resources/videos/5-kinds-of-agile-bandits-product-owner-bandits
-- /resources/videos/EoInrPvjBHo
-- /resources/5-kinds-of-agile-bandits-product-owner-bandits
 - /resources/EoInrPvjBHo
-aliasesFor404:
+- /resources/videos/how-to-overcome-agile-banditry-a-product-owners-journey
+- /resources/videos/5-kinds-of-agile-bandits-product-owner-bandits
+aliasesArchive:
+- /resources/videos/how-to-overcome-agile-banditry-a-product-owners-journey
 - /resources/how-to-overcome-agile-banditry-a-product-owners-journey
 - /resources/videos/5-kinds-of-agile-bandits-product-owner-bandits
 - /resources/5-kinds-of-agile-bandits-product-owner-bandits
+- how-to-overcome-agile-banditry-a-product-owners-journey
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - People and Process
-- Agile Product Management
-- Product Owner
-- Agile Project Management
 - Agile Product Operating Model
+- Agile Product Management
+- Agile Project Management
+- Product Owner
 - Team Motivation
 - Employee Engagement
 - Personal

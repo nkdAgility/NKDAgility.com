@@ -15,15 +15,16 @@ preview: https://i.ytimg.com/vi/CPYTApf0Ibs/maxresdefault.jpg
 duration: 411
 isShort: false
 aliases:
-- /resources/does-your-team-truly-understand-your-product-vision-and-goals
-- "/resources/videos/secret-to-unlocking-team-potential-and-product-success-\U0001F680-the-agile-reality-check-[2-6]"
-- /resources/videos/CPYTApf0Ibs
-- "/resources/secret-to-unlocking-team-potential-and-product-success-\U0001F680-the-agile-reality-check-[2-6]"
 - /resources/CPYTApf0Ibs
-aliasesFor404:
+- /resources/videos/does-your-team-truly-understand-your-product-vision-and-goals
+- /resources/videos/secret-to-unlocking-team-potential-and-product-success-the-agile-reality-check-26
+aliasesArchive:
+- /resources/videos/does-your-team-truly-understand-your-product-vision-and-goals
 - /resources/does-your-team-truly-understand-your-product-vision-and-goals
 - "/resources/videos/secret-to-unlocking-team-potential-and-product-success-\U0001F680-the-agile-reality-check-[2-6]"
 - "/resources/secret-to-unlocking-team-potential-and-product-success-\U0001F680-the-agile-reality-check-[2-6]"
+- /resources/videos/secret-to-unlocking-team-potential-and-product-success-the-agile-reality-check-26
+- does-your-team-truly-understand-your-product-vision-and-goals
 sitemap:
   filename: sitemap.xml
   priority: 0.6

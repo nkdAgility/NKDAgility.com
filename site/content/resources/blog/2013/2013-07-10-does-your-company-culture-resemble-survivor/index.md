@@ -19,23 +19,23 @@ aliases:
 - /blog/does-your-company-culture-resemble-survivor-
 - /resources/1VbvpOX1Hg0
 - /resources/blog/does-your-company-culture-resemble-survivor
-aliasesFor404:
-- /does-your-company-culture-resemble-survivor
+aliasesArchive:
 - /blog/does-your-company-culture-resemble-survivor
+- /does-your-company-culture-resemble-survivor
 - /does-your-company-culture-resemble-survivor-
 - /blog/does-your-company-culture-resemble-survivor-
 - /resources/blog/does-your-company-culture-resemble-survivor
 tags:
 - Agile Transformation
-- Team Collaboration
-- Agile Values and Principles
-- Agile Leadership
-- Resilience and Change
-- Software Developers
 - People and Process
 - Software Development
-- Business Agility
-- Organisational Agility
+- Agile Leadership
+- Resilience and Change
+- Team Collaboration
+- Agile Values and Principles
+- Software Developers
+- Value Delivery
+- Organisational Culture
 categories:
 - Leadership
 - Social Technologies

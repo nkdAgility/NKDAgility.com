@@ -8,28 +8,30 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: R8Ris5quXb8
 url: /resources/videos/:slug
-slug: talk-us-through-the-new-product-backlog-management-course-from-scrum-org
+slug: mastering-product-backlog-management-key-strategies-for-agile-success-R8Ris5quXb8
 layout: video
 aliases:
-- /resources/videos/R8Ris5quXb8
-- /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
-- /resources/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
 - /resources/R8Ris5quXb8
-aliasesFor404:
+- /resources/videos/mastering-product-backlog-management-key-strategies-for-agile-success-R8Ris5quXb8
+- /resources/videos/mastering-product-backlog-management-key-strategies-for-agile-success
+- /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
+aliasesArchive:
+- /resources/videos/mastering-product-backlog-management-key-strategies-for-agile-success
 - /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
 - /resources/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
+- mastering-product-backlog-management-key-strategies-for-agile-success-R8Ris5quXb8
 preview: https://i.ytimg.com/vi/R8Ris5quXb8/maxresdefault.jpg
 duration: 18
 isShort: true
 tags:
-- Product Backlog
 - Agile Product Management
-- Agile Planning
-- Product Delivery
-- Product Owner
+- Product Backlog
 - Agile Project Management
-- Value Delivery
+- Product Owner
 - Agile Planning Tools
+- Product Delivery
+- Agile Planning
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

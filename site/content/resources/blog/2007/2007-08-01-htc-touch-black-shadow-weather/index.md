@@ -20,12 +20,12 @@ aliases:
 - /blog/htc-touch---black-shadow-weather
 - /resources/zGbUhq_phsz
 - /resources/blog/htc-touch-black-shadow-weather
-aliasesFor404:
-- /htc-touch-black-shadow-weather
+aliasesArchive:
 - /blog/htc-touch-black-shadow-weather
+- /htc-touch-black-shadow-weather
+- /htc-touch
 - /htc-touch---black-shadow-weather
 - /blog/htc-touch---black-shadow-weather
-- /htc-touch
 - /resources/blog/htc-touch-black-shadow-weather
 categories: []
 tags:

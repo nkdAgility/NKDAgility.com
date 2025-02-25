@@ -20,22 +20,22 @@ aliases:
 - /blog/tfs-2012-3-issue---scheduled-backups-gives-a-tf400998-when-reconfigured
 - /resources/_XqGOC9TbpP
 - /resources/blog/tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
-aliasesFor404:
-- /tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
+aliasesArchive:
 - /blog/tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
+- /tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
+- /tfs-2012-3-issue
 - /tfs-2012-3-issue---scheduled-backups-gives-a-tf400998-when-reconfigured
 - /blog/tfs-2012-3-issue---scheduled-backups-gives-a-tf400998-when-reconfigured
-- /tfs-2012-3-issue
 - /resources/blog/tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
 tags:
 - Windows
+- Practical Techniques and Tooling
 - Install and Configuration
 - System Configuration
-- Practical Techniques and Tooling
+- Troubleshooting
+- Pragmatic Thinking
 - Software Development
 - Azure DevOps
-- Pragmatic Thinking
-- Troubleshooting
 - Technical Mastery
 categories:
 - DevOps

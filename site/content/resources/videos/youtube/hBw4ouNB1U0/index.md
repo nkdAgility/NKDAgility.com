@@ -8,16 +8,18 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: hBw4ouNB1U0
 url: /resources/videos/:slug
-slug: the-kanban-key-how-continuous-improvement-transforms-your-workflow
+slug: unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success-hBw4ouNB1U0
 layout: video
 aliases:
-- /resources/videos/hBw4ouNB1U0
-- /resources/videos/the-kanban-key-how-continuous-improvement-transforms-your-workflow
-- /resources/the-kanban-key-how-continuous-improvement-transforms-your-workflow
 - /resources/hBw4ouNB1U0
-aliasesFor404:
+- /resources/videos/unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success-hBw4ouNB1U0
+- /resources/videos/unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success
+- /resources/videos/the-kanban-key-how-continuous-improvement-transforms-your-workflow
+aliasesArchive:
+- /resources/videos/unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success
 - /resources/videos/the-kanban-key-how-continuous-improvement-transforms-your-workflow
 - /resources/the-kanban-key-how-continuous-improvement-transforms-your-workflow
+- unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success-hBw4ouNB1U0
 preview: https://i.ytimg.com/vi/hBw4ouNB1U0/maxresdefault.jpg
 duration: 50
 isShort: true
@@ -25,9 +27,9 @@ tags:
 - Metrics and Learning
 - Operational Practices
 - Transparency
+- Practical Techniques and Tooling
 - Continuous Learning
 - Discovery and Learning
-- Practical Techniques and Tooling
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml

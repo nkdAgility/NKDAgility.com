@@ -15,15 +15,17 @@ preview: https://i.ytimg.com/vi/ZQu2uSt1xxk/maxresdefault.jpg
 duration: 104
 isShort: false
 aliases:
-- /resources/overview-of-applying-professional-kanban-course
-- /resources/videos/overview-of-applying-professional-kanban-course-1
-- /resources/videos/ZQu2uSt1xxk
-- /resources/overview-of-applying-professional-kanban-course-1
 - /resources/ZQu2uSt1xxk
-aliasesFor404:
+- /resources/videos/overview-of-applying-professional-kanban-course
+- /resources/videos/overview-of-applying-professional-kanban-course-1
+aliasesArchive:
+- /resources/videos/overview-of-applying-professional-kanban-course-
 - /resources/overview-of-applying-professional-kanban-course
 - /resources/videos/overview-of-applying-professional-kanban-course-1
 - /resources/overview-of-applying-professional-kanban-course-1
+- overview-of-applying-professional-kanban-course-
+- /resources/videos/overview-of-applying-professional-kanban-course
+- overview-of-applying-professional-kanban-course
 sitemap:
   filename: sitemap.xml
   priority: 0.6

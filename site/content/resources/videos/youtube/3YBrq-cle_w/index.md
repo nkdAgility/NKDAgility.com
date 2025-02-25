@@ -8,29 +8,31 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 3YBrq-cle_w
 url: /resources/videos/:slug
-slug: how-will-a-psm-ii-course-challenge-your-assumptions-the-most-
+slug: redefining-the-scrum-master-from-misconceptions-to-empowering-leadership
 aliases:
-- /resources/videos/3YBrq-cle_w
-- /resources/videos/how-will-a-psm-ii-course-challenge-your-assumptions-the-most-
-- /resources/how-will-a-psm-ii-course-challenge-your-assumptions-the-most-
 - /resources/3YBrq-cle_w
-aliasesFor404:
+- /resources/videos/redefining-the-scrum-master-from-misconceptions-to-empowering-leadership
+- /resources/videos/how-will-a-psm-ii-course-challenge-your-assumptions-the-most
+aliasesArchive:
+- /resources/videos/redefining-the-scrum-master-from-misconceptions-to-empowering-leadership
 - /resources/videos/how-will-a-psm-ii-course-challenge-your-assumptions-the-most-
 - /resources/how-will-a-psm-ii-course-challenge-your-assumptions-the-most-
+- /resources/videos/how-will-a-psm-ii-course-challenge-your-assumptions-the-most
+- redefining-the-scrum-master-from-misconceptions-to-empowering-leadership
 preview: https://i.ytimg.com/vi/3YBrq-cle_w/maxresdefault.jpg
 duration: 132
 isShort: false
 tags:
+- People and Process
 - Scrum Master
 - Scrum Team
-- People and Process
-- Professional Scrum
 - Technical Leadership
-- Software Development
-- Agile Frameworks
+- Professional Scrum
 - Agile Project Management
+- Software Development
 - Agile Transformation
-- Self Organisation
+- Agile Frameworks
+- Coaching
 sitemap:
   filename: sitemap.xml
   priority: 0.6

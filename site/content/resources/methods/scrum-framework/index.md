@@ -12,7 +12,7 @@ aliases:
 - /methods/scrum-framework/
 - /learn/agile-delivery-kit/strategies/scrum-framework/
 - /resources/peNS32Lw-sn
-aliasesFor404:
+aliasesArchive:
 - /methods/scrum-framework/
 - /learn/agile-delivery-kit/strategies/scrum-framework/
 card:

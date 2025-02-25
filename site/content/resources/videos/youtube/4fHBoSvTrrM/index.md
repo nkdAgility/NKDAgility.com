@@ -14,30 +14,30 @@ preview: https://i.ytimg.com/vi/4fHBoSvTrrM/maxresdefault.jpg
 duration: 383
 isShort: false
 aliases:
-- /resources/how-will-a-psm-ii-course-challenge-your-assumptions-the-most
-- /resources/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career
-- /resources/videos/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career-
-- /resources/videos/4fHBoSvTrrM
-- /resources/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career-
 - /resources/4fHBoSvTrrM
-aliasesFor404:
+- /resources/videos/how-will-a-psm-ii-course-challenge-your-assumptions-the-most
+- /resources/videos/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career
+aliasesArchive:
+- /resources/videos/how-will-a-psm-ii-course-challenge-your-assumptions-the-most
 - /resources/how-will-a-psm-ii-course-challenge-your-assumptions-the-most
 - /resources/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career
 - /resources/videos/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career-
 - /resources/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career-
+- /resources/videos/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career
+- how-will-a-psm-ii-course-challenge-your-assumptions-the-most
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Professional Scrum
-- Scrum Master
 - People and Process
+- Scrum Master
+- Professional Scrum
+- Agile Project Management
 - Pragmatic Thinking
 - Agile Frameworks
-- Agile Project Management
 - Personal
-- Scrum Team
 - Practical Techniques and Tooling
+- Scrum Team
 - Team Performance
 resourceTypes:
 - video

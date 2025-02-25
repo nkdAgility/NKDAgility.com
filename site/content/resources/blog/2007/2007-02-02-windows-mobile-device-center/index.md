@@ -17,9 +17,9 @@ aliases:
 - /windows-mobile-device-center
 - /resources/yQwInotryjQ
 - /resources/blog/windows-mobile-device-center
-aliasesFor404:
-- /windows-mobile-device-center
+aliasesArchive:
 - /blog/windows-mobile-device-center
+- /windows-mobile-device-center
 - /resources/blog/windows-mobile-device-center
 tags:
 - Windows

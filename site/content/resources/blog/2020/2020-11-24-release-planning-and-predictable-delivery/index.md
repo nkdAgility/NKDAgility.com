@@ -17,17 +17,17 @@ aliases:
 - /release-planning-and-predictable-delivery
 - /resources/2cOXevMnGb_
 - /resources/blog/release-planning-and-predictable-delivery
-aliasesFor404:
-- /release-planning-and-predictable-delivery
+aliasesArchive:
 - /blog/release-planning-and-predictable-delivery
+- /release-planning-and-predictable-delivery
 - /resources/blog/release-planning-and-predictable-delivery
 tags:
 - Software Development
 - Product Delivery
 categories:
 - Scrum
-- Social Technologies
 - Engineering Excellence
+- Social Technologies
 preview: nkdAgility-habits-16x9-1280-2-2.jpg
 
 ---

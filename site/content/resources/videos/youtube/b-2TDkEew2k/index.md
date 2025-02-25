@@ -8,29 +8,31 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: b-2TDkEew2k
 url: /resources/videos/:slug
-slug: -shorts-7-virtues-of-agile-temperance
+slug: mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency-b-2TDkEew2k
 layout: video
 aliases:
-- /resources/videos/b-2TDkEew2k
-- /resources/videos/-shorts-7-virtues-of-agile-temperance
-- /resources/-shorts-7-virtues-of-agile-temperance
 - /resources/b-2TDkEew2k
-aliasesFor404:
+- /resources/videos/mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency-b-2TDkEew2k
+- /resources/videos/mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency
+- /resources/videos/-shorts-7-virtues-of-agile-temperance
+aliasesArchive:
+- /resources/videos/mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency
 - /resources/videos/-shorts-7-virtues-of-agile-temperance
 - /resources/-shorts-7-virtues-of-agile-temperance
+- mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency-b-2TDkEew2k
 preview: https://i.ytimg.com/vi/b-2TDkEew2k/maxresdefault.jpg
 duration: 59
 isShort: true
 tags:
 - Agile Values and Principles
 - Agile Planning
-- Agile Frameworks
 - Agile Product Management
-- Agile Philosophy
 - Agile Project Management
 - Agile Transformation
-- Software Development
+- Agile Frameworks
+- Agile Philosophy
 - Pragmatic Thinking
+- Software Development
 - Organisational Agility
 sitemap:
   filename: sitemap.xml

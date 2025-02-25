@@ -17,9 +17,9 @@ aliases:
 - /advanced-email-content
 - /resources/h1xQYYoWfnY
 - /resources/blog/advanced-email-content
-aliasesFor404:
-- /advanced-email-content
+aliasesArchive:
 - /blog/advanced-email-content
+- /advanced-email-content
 - /resources/blog/advanced-email-content
 tags:
 - Windows

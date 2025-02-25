@@ -19,23 +19,23 @@ aliases:
 - /blog/what's-new-in-visual-studio-2013-team-foundation-server-preview
 - /resources/V5OQtr0U1IS
 - /resources/blog/get-visual-studio-2013-team-foundation-server-while-its-hot
-aliasesFor404:
-- /get-visual-studio-2013-team-foundation-server-while-its-hot
+aliasesArchive:
 - /blog/get-visual-studio-2013-team-foundation-server-while-its-hot
+- /get-visual-studio-2013-team-foundation-server-while-its-hot
 - /what's-new-in-visual-studio-2013-team-foundation-server-preview
 - /blog/what's-new-in-visual-studio-2013-team-foundation-server-preview
 - /resources/blog/get-visual-studio-2013-team-foundation-server-while-its-hot
 tags:
 - Agile Product Management
 - Team Collaboration
-- Agile Planning Tools
-- Agile Project Management
-- Product Delivery
-- Product Backlog
 - Collaboration Tools
 - Portfolio Management
-- Products and Books
-- Agile Strategy
+- Agile Planning Tools
+- Product Backlog
+- Agile Project Management
+- Product Delivery
+- Practical Techniques and Tooling
+- Application Lifecycle Management
 categories:
 - Social Technologies
 - Scrum

@@ -9,21 +9,20 @@ ResourceImportSource: Youtube
 videoId: Gtp9wjkPFPA
 source: internal
 url: /resources/videos/:slug
-slug: how-do-devops-and-agile-integrate
+slug: how-do-devops-and-agile-integrate-Gtp9wjkPFPA
 layout: video
 preview: https://i.ytimg.com/vi/Gtp9wjkPFPA/maxresdefault.jpg
 duration: 51
 isShort: true
 aliases:
-- /resources/how-do-devops-and-agile-integrate
-- /resources/videos/how-do-devops-and-agile-integrate-
-- /resources/videos/Gtp9wjkPFPA
-- /resources/how-do-devops-and-agile-integrate-
 - /resources/Gtp9wjkPFPA
-aliasesFor404:
+- /resources/videos/how-do-devops-and-agile-integrate-Gtp9wjkPFPA
+aliasesArchive:
+- /resources/videos/how-do-devops-and-agile-integrate
 - /resources/how-do-devops-and-agile-integrate
 - /resources/videos/how-do-devops-and-agile-integrate-
 - /resources/how-do-devops-and-agile-integrate-
+- how-do-devops-and-agile-integrate-Gtp9wjkPFPA
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -34,7 +33,7 @@ resourceTypes:
 categories:
 - DevOps
 - Leadership
-- Social Technologies
+- Engineering Excellence
 
 ---
 ## DevOps & Agile: Two Sides of the Same Coin 🪙

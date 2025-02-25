@@ -19,16 +19,16 @@ aliases:
 - /blog/using-corporate-id's-with-visual-studio-2012-team-foundation-service
 - /resources/Cx5_dJr48V5
 - /resources/blog/using-corporate-ids-with-visual-studio-11-team-foundation-service
-aliasesFor404:
-- /using-corporate-ids-with-visual-studio-11-team-foundation-service
+aliasesArchive:
 - /blog/using-corporate-ids-with-visual-studio-11-team-foundation-service
+- /using-corporate-ids-with-visual-studio-11-team-foundation-service
 - /using-corporate-id's-with-visual-studio-2012-team-foundation-service
 - /blog/using-corporate-id's-with-visual-studio-2012-team-foundation-service
 - /resources/blog/using-corporate-ids-with-visual-studio-11-team-foundation-service
 tags:
 - Install and Configuration
-- System Configuration
 - Practical Techniques and Tooling
+- System Configuration
 categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 

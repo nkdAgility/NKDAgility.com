@@ -19,21 +19,21 @@ aliases:
 - /blog/issue-[-tfs-2013-]-you-get-tf400324-when-connecting-inrelease-to-tfs
 - /resources/mpyXOBzFWc3
 - /resources/blog/issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs
-aliasesFor404:
-- /issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs
+aliasesArchive:
 - /blog/issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs
+- /issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs
 - /issue-[-tfs-2013-]-you-get-tf400324-when-connecting-inrelease-to-tfs
 - /blog/issue-[-tfs-2013-]-you-get-tf400324-when-connecting-inrelease-to-tfs
 - /resources/blog/issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs
 tags:
 - Troubleshooting
-- Install and Configuration
 - Practical Techniques and Tooling
-- Software Development
-- Azure DevOps
-- Pragmatic Thinking
-- System Configuration
+- Install and Configuration
 - Technical Mastery
+- Pragmatic Thinking
+- Software Development
+- System Configuration
+- Azure DevOps
 categories:
 - DevOps
 - Engineering Excellence

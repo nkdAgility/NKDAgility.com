@@ -9,21 +9,22 @@ ResourceImportSource: Youtube
 videoId: BmlTZwGAcMU
 source: internal
 url: /resources/videos/:slug
-slug: immersive-learning-in-scrum-why-theory-and-experience-must-go-hand-in-hand
+slug: immersive-learning-in-scrum-why-theory-and-experience-must-go-hand-in-hand-BmlTZwGAcMU
 layout: video
 preview: https://i.ytimg.com/vi/BmlTZwGAcMU/maxresdefault.jpg
 duration: 35
 isShort: true
 aliases:
-- /resources/immersive-learning-in-scrum-why-theory-and-experience-must-go-hand-in-hand
-- /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-4
-- /resources/videos/BmlTZwGAcMU
-- /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-4
 - /resources/BmlTZwGAcMU
-aliasesFor404:
+- /resources/videos/immersive-learning-in-scrum-why-theory-and-experience-must-go-hand-in-hand-BmlTZwGAcMU
+- /resources/videos/immersive-learning-in-scrum-why-theory-and-experience-must-go-hand-in-hand
+- /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-4
+aliasesArchive:
+- /resources/videos/immersive-learning-in-scrum-why-theory-and-experience-must-go-hand-in-hand
 - /resources/immersive-learning-in-scrum-why-theory-and-experience-must-go-hand-in-hand
 - /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-4
 - /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-4
+- immersive-learning-in-scrum-why-theory-and-experience-must-go-hand-in-hand-BmlTZwGAcMU
 sitemap:
   filename: sitemap.xml
   priority: 0.6

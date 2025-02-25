@@ -11,7 +11,7 @@ aliases:
 - /learn/agile-delivery-kit/workshops/Sprint-Review-1
 - /learn/agile-delivery-kit/workshops/sprint-review-1/
 - /resources/8gWwC3tvV_f
-aliasesFor404:
+aliasesArchive:
 - /workshops/Sprint-Review-1.html
 - /learn/agile-delivery-kit/workshops/Sprint-Review-1
 - /learn/agile-delivery-kit/workshops/sprint-review-1/

@@ -19,9 +19,9 @@ aliases:
 - /blog/windows-vista--windows-mobile-device-center
 - /resources/V8uWqfxfKyn
 - /resources/blog/windows-vista-windows-mobile-device-center
-aliasesFor404:
-- /windows-vista-windows-mobile-device-center
+aliasesArchive:
 - /blog/windows-vista-windows-mobile-device-center
+- /windows-vista-windows-mobile-device-center
 - /windows-vista--windows-mobile-device-center
 - /blog/windows-vista--windows-mobile-device-center
 - /resources/blog/windows-vista-windows-mobile-device-center

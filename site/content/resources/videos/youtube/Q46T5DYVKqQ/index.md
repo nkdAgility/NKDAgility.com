@@ -8,24 +8,26 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Q46T5DYVKqQ
 url: /resources/videos/:slug
-slug: what-is-empiricism
+slug: harnessing-the-power-of-empiricism-transform-your-decision-making-with-data-driven-insights-Q46T5DYVKqQ
 layout: video
 aliases:
-- /resources/videos/Q46T5DYVKqQ
-- /resources/videos/what-is-empiricism
-- /resources/what-is-empiricism
 - /resources/Q46T5DYVKqQ
-aliasesFor404:
+- /resources/videos/harnessing-the-power-of-empiricism-transform-your-decision-making-with-data-driven-insights-Q46T5DYVKqQ
+- /resources/videos/harnessing-the-power-of-empiricism-transform-your-decision-making-with-data-driven-insights
+- /resources/videos/what-is-empiricism
+aliasesArchive:
+- /resources/videos/harnessing-the-power-of-empiricism-transform-your-decision-making-with-data-driven-insights
 - /resources/videos/what-is-empiricism
 - /resources/what-is-empiricism
+- harnessing-the-power-of-empiricism-transform-your-decision-making-with-data-driven-insights-Q46T5DYVKqQ
 preview: https://i.ytimg.com/vi/Q46T5DYVKqQ/maxresdefault.jpg
 duration: 54
 isShort: true
 tags:
 - Metrics and Learning
 - Discovery and Learning
-- Experimentation
 - Decision Making
+- Experimentation
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml

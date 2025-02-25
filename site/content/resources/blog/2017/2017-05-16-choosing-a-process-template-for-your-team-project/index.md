@@ -17,9 +17,9 @@ aliases:
 - /choosing-a-process-template-for-your-team-project
 - /resources/dGSGEOYRJAo
 - /resources/blog/choosing-a-process-template-for-your-team-project
-aliasesFor404:
-- /choosing-a-process-template-for-your-team-project
+aliasesArchive:
 - /blog/choosing-a-process-template-for-your-team-project
+- /choosing-a-process-template-for-your-team-project
 - /resources/blog/choosing-a-process-template-for-your-team-project
 tags:
 - Software Development

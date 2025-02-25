@@ -17,9 +17,9 @@ aliases:
 - /chicago-visual-studio-alm-user-group-27th-march
 - /resources/Zfdh9rvKZbG
 - /resources/blog/chicago-visual-studio-alm-user-group-27th-march
-aliasesFor404:
-- /chicago-visual-studio-alm-user-group-27th-march
+aliasesArchive:
 - /blog/chicago-visual-studio-alm-user-group-27th-march
+- /chicago-visual-studio-alm-user-group-27th-march
 - /resources/blog/chicago-visual-studio-alm-user-group-27th-march
 tags:
 - Practical Techniques and Tooling

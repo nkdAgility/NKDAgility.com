@@ -15,22 +15,22 @@ preview: https://i.ytimg.com/vi/XKmWMXagVgQ/maxresdefault.jpg
 duration: 267
 isShort: false
 aliases:
-- /resources/the-power-of-continuous-learning-for-product-owners
-- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-5
-- /resources/videos/XKmWMXagVgQ
-- /resources/5-things-you-would-teach-a-productowner-apprentice-part-5
 - /resources/XKmWMXagVgQ
-aliasesFor404:
+- /resources/videos/the-power-of-continuous-learning-for-product-owners
+- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-5
+aliasesArchive:
+- /resources/videos/the-power-of-continuous-learning-for-product-owners
 - /resources/the-power-of-continuous-learning-for-product-owners
 - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-5
 - /resources/5-things-you-would-teach-a-productowner-apprentice-part-5
+- the-power-of-continuous-learning-for-product-owners
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Product Owner
 - Continuous Learning
 - Discovery and Learning
-- Product Owner
 - Agile Product Management
 - Products and Books
 resourceTypes:

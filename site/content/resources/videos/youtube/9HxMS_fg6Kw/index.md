@@ -15,15 +15,14 @@ preview: https://i.ytimg.com/vi/9HxMS_fg6Kw/maxresdefault.jpg
 duration: 402
 isShort: false
 aliases:
-- /resources/what-are-some-big-red-flags-when-hiring-an-agile-consultant
-- /resources/videos/what-are-some-big-red-flags-when-hiring-an-agile-consultant-
-- /resources/videos/9HxMS_fg6Kw
-- /resources/what-are-some-big-red-flags-when-hiring-an-agile-consultant-
 - /resources/9HxMS_fg6Kw
-aliasesFor404:
+- /resources/videos/what-are-some-big-red-flags-when-hiring-an-agile-consultant
+aliasesArchive:
+- /resources/videos/what-are-some-big-red-flags-when-hiring-an-agile-consultant
 - /resources/what-are-some-big-red-flags-when-hiring-an-agile-consultant
 - /resources/videos/what-are-some-big-red-flags-when-hiring-an-agile-consultant-
 - /resources/what-are-some-big-red-flags-when-hiring-an-agile-consultant-
+- what-are-some-big-red-flags-when-hiring-an-agile-consultant
 sitemap:
   filename: sitemap.xml
   priority: 0.6

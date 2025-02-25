@@ -15,29 +15,29 @@ preview: https://i.ytimg.com/vi/Bjz6SwLDIY4/maxresdefault.jpg
 duration: 344
 isShort: false
 aliases:
-- /resources/continuous-adaptation-the-key-to-success-in-a-dynamic-market
-- /resources/videos/the-art-of-life-lies-in-a-constant-readjustment-to-our-surroundings
-- /resources/videos/Bjz6SwLDIY4
-- /resources/the-art-of-life-lies-in-a-constant-readjustment-to-our-surroundings
 - /resources/Bjz6SwLDIY4
-aliasesFor404:
+- /resources/videos/continuous-adaptation-the-key-to-success-in-a-dynamic-market
+- /resources/videos/the-art-of-life-lies-in-a-constant-readjustment-to-our-surroundings
+aliasesArchive:
+- /resources/videos/continuous-adaptation-the-key-to-success-in-a-dynamic-market
 - /resources/continuous-adaptation-the-key-to-success-in-a-dynamic-market
 - /resources/videos/the-art-of-life-lies-in-a-constant-readjustment-to-our-surroundings
 - /resources/the-art-of-life-lies-in-a-constant-readjustment-to-our-surroundings
+- continuous-adaptation-the-key-to-success-in-a-dynamic-market
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Organisational Agility
+- People and Process
 - Business Agility
 - Organisational Change
-- People and Process
 - Resilience and Change
-- Enterprise Agility
-- Market Adaptability
+- Organisational Agility
 - Change Management
-- Agile Philosophy
+- Market Adaptability
+- Enterprise Agility
 - Beta Codex
+- Agile Philosophy
 resourceTypes:
 - video
 categories:

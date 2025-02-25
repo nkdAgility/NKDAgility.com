@@ -19,18 +19,18 @@ aliases:
 - /blog/move-an-azure-storage-blob-to-another-store
 - /resources/b5bHXT2rLoN
 - /resources/blog/move-azure-storage-blob-another-store
-aliasesFor404:
-- /move-azure-storage-blob-another-store
+aliasesArchive:
 - /blog/move-azure-storage-blob-another-store
+- /move-azure-storage-blob-another-store
 - /move-an-azure-storage-blob-to-another-store
 - /blog/move-an-azure-storage-blob-to-another-store
 - /resources/blog/move-azure-storage-blob-another-store
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
+- Technical Mastery
 - Software Development
 - System Configuration
-- Technical Mastery
 categories: []
 preview: nakedalm-windows-logo-4-4.png
 

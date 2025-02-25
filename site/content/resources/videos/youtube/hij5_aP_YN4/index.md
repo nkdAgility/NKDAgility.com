@@ -9,29 +9,30 @@ ResourceImportSource: Youtube
 videoId: hij5_aP_YN4
 source: internal
 url: /resources/videos/:slug
-slug: the-power-of-community-becoming-an-awesome-agile-coach
+slug: the-power-of-community-becoming-an-awesome-agile-coach-hij5_aP_YN4
 layout: video
 preview: https://i.ytimg.com/vi/hij5_aP_YN4/maxresdefault.jpg
 duration: 55
 isShort: true
 aliases:
-- /resources/the-power-of-community-becoming-an-awesome-agile-coach
-- /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-4
-- /resources/videos/hij5_aP_YN4
-- /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-4
 - /resources/hij5_aP_YN4
-aliasesFor404:
+- /resources/videos/the-power-of-community-becoming-an-awesome-agile-coach-hij5_aP_YN4
+- /resources/videos/the-power-of-community-becoming-an-awesome-agile-coach
+- /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-4
+aliasesArchive:
+- /resources/videos/the-power-of-community-becoming-an-awesome-agile-coach
 - /resources/the-power-of-community-becoming-an-awesome-agile-coach
 - /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-4
 - /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-4
+- the-power-of-community-becoming-an-awesome-agile-coach-hij5_aP_YN4
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - People and Process
 - Coaching
-- Personal
 - Mentoring
+- Personal
 resourceTypes:
 - video
 categories:

@@ -17,16 +17,16 @@ aliases:
 - /visual-studio-team-test-quick-reference-guide-1-0
 - /resources/FhliT2Rp-7y
 - /resources/blog/visual-studio-team-test-quick-reference-guide-1-0
-aliasesFor404:
-- /visual-studio-team-test-quick-reference-guide-1-0
+aliasesArchive:
 - /blog/visual-studio-team-test-quick-reference-guide-1-0
+- /visual-studio-team-test-quick-reference-guide-1-0
 - /resources/blog/visual-studio-team-test-quick-reference-guide-1-0
 tags:
 - Practical Techniques and Tooling
 - Products and Books
 - Pragmatic Thinking
-- Software Development
 - Troubleshooting
+- Software Development
 - Technical Mastery
 preview: nakedalm-logo-128-link-1-1.png
 categories:

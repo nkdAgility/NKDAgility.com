@@ -19,22 +19,22 @@ aliases:
 - /blog/tfs-2012-issue--tf215097-an-error-occurred-while-initializing-a-build-for-build-definition
 - /resources/Esy-i2Fcamk
 - /resources/blog/tfs-2012-issue-tf215097-an-error-occurred-while-initializing-a-build-for-build-definition
-aliasesFor404:
-- /tfs-2012-issue-tf215097-an-error-occurred-while-initializing-a-build-for-build-definition
+aliasesArchive:
 - /blog/tfs-2012-issue-tf215097-an-error-occurred-while-initializing-a-build-for-build-definition
+- /tfs-2012-issue-tf215097-an-error-occurred-while-initializing-a-build-for-build-definition
 - /tfs-2012-issue--tf215097-an-error-occurred-while-initializing-a-build-for-build-definition
 - /blog/tfs-2012-issue--tf215097-an-error-occurred-while-initializing-a-build-for-build-definition
 - /resources/blog/tfs-2012-issue-tf215097-an-error-occurred-while-initializing-a-build-for-build-definition
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
+- Troubleshooting
 - Windows
 - Software Development
-- Technical Excellence
-- Azure DevOps
-- System Configuration
-- Troubleshooting
 - Continuous Integration
+- Technical Excellence
+- System Configuration
+- Azure DevOps
 categories:
 - DevOps
 preview: puzzle-issue-problem-128-link-3-3.png

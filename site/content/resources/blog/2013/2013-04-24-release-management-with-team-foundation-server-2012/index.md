@@ -17,13 +17,13 @@ aliases:
 - /release-management-with-team-foundation-server-2012
 - /resources/GqwYV8fekzQ
 - /resources/blog/release-management-with-team-foundation-server-2012
-aliasesFor404:
-- /release-management-with-team-foundation-server-2012
+aliasesArchive:
 - /blog/release-management-with-team-foundation-server-2012
+- /release-management-with-team-foundation-server-2012
 - /resources/blog/release-management-with-team-foundation-server-2012
 tags:
-- Software Development
 - Release Management
+- Software Development
 - Product Delivery
 categories:
 - DevOps

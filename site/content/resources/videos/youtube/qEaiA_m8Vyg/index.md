@@ -15,23 +15,22 @@ preview: https://i.ytimg.com/vi/qEaiA_m8Vyg/maxresdefault.jpg
 duration: 345
 isShort: false
 aliases:
-- /resources/why-have-you-decided-to-go-all-in-on-immersive-learning-experiences
-- /resources/videos/why-have-you-decided-to-go-all-in-on-immersive-learning-experiences
-- /resources/videos/qEaiA_m8Vyg
 - /resources/qEaiA_m8Vyg
-aliasesFor404:
-- /resources/why-have-you-decided-to-go-all-in-on-immersive-learning-experiences
 - /resources/videos/why-have-you-decided-to-go-all-in-on-immersive-learning-experiences
+aliasesArchive:
+- /resources/videos/why-have-you-decided-to-go-all-in-on-immersive-learning-experiences
+- /resources/why-have-you-decided-to-go-all-in-on-immersive-learning-experiences
+- why-have-you-decided-to-go-all-in-on-immersive-learning-experiences
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - People and Process
+- Metrics and Learning
+- Empirical Process Control
 - Customer Feedback Loops
 - Continuous Learning
-- Metrics and Learning
 - Discovery and Learning
-- Empirical Process Control
 - Personal
 - Team Collaboration
 - Coaching

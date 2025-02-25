@@ -9,7 +9,7 @@ layout: guide
 aliases:
 - /learn/agile-delivery-kit/guides/kanban-guide
 - /resources/uD_5MdHKu1Q
-aliasesFor404:
+aliasesArchive:
 - /learn/agile-delivery-kit/guides/kanban-guide
 references:
 - title: The Kanban Guide

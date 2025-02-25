@@ -9,37 +9,37 @@ ResourceImportSource: Youtube
 videoId: aS9TRDoC62o
 source: internal
 url: /resources/videos/:slug
-slug: if-a-client-hasn-t-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
+slug: if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
 layout: video
 preview: https://i.ytimg.com/vi/aS9TRDoC62o/maxresdefault.jpg
 duration: 198
 isShort: false
 aliases:
-- /resources/if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
-- /resources/if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should
-- /resources/videos/if-a-client-hasn't-considered-devops-consulting-as-part-of-their-agile-consulting-needs,-why-should
-- /resources/videos/aS9TRDoC62o
-- /resources/if-a-client-hasn't-considered-devops-consulting-as-part-of-their-agile-consulting-needs,-why-should
 - /resources/aS9TRDoC62o
-aliasesFor404:
+- /resources/videos/if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
+- /resources/videos/if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should
+aliasesArchive:
+- /resources/videos/if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
 - /resources/if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
 - /resources/if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should
 - /resources/videos/if-a-client-hasn't-considered-devops-consulting-as-part-of-their-agile-consulting-needs,-why-should
 - /resources/if-a-client-hasn't-considered-devops-consulting-as-part-of-their-agile-consulting-needs,-why-should
+- /resources/videos/if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should
+- if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Software Development
-- Software Developers
 - Market Adaptability
 - Technical Mastery
+- Software Developers
+- Software Development
 - Pragmatic Thinking
 - Product Delivery
 - Value Delivery
-- Engineering Practices
 - Technical Excellence
-- Technical Leadership
+- Engineering Practices
+- Working Software
 resourceTypes:
 - video
 categories:

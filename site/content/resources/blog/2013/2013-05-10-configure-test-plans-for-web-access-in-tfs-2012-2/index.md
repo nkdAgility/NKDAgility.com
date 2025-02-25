@@ -17,20 +17,20 @@ aliases:
 - /configure-test-plans-for-web-access-in-tfs-2012-2
 - /resources/eNRpc70Z73R
 - /resources/blog/configure-test-plans-for-web-access-in-tfs-2012-2
-aliasesFor404:
-- /configure-test-plans-for-web-access-in-tfs-2012-2
+aliasesArchive:
 - /blog/configure-test-plans-for-web-access-in-tfs-2012-2
+- /configure-test-plans-for-web-access-in-tfs-2012-2
 - /resources/blog/configure-test-plans-for-web-access-in-tfs-2012-2
 tags:
 - Install and Configuration
-- System Configuration
 - Practical Techniques and Tooling
-- Software Development
-- Azure DevOps
+- System Configuration
 - Troubleshooting
 - Application Lifecycle Management
-- Pragmatic Thinking
+- Software Development
+- Azure DevOps
 - Technical Mastery
+- Pragmatic Thinking
 categories:
 - Engineering Excellence
 

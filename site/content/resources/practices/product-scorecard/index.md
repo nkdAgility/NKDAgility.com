@@ -9,7 +9,7 @@ layout: practice
 aliases:
 - /learn/agile-delivery-kit/practices/product-scorecard
 - /resources/g4aUBoHHLme
-aliasesFor404:
+aliasesArchive:
 - /learn/agile-delivery-kit/practices/product-scorecard
 recommendedContent: 
 date: 2024-09-17

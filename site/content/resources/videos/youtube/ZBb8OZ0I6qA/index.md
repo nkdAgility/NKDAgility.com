@@ -8,30 +8,32 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: ZBb8OZ0I6qA
 url: /resources/videos/:slug
-slug: why-its-imposible-to-order-a-hierarchy,-and-what-you-can-do-instead!
+slug: rethinking-backlog-management-why-a-flat-structure-boosts-agility-and-value-delivery
 layout: video
 aliases:
-- /resources/videos/ZBb8OZ0I6qA
-- /resources/videos/why-its-imposible-to-order-a-hierarchy,-and-what-you-can-do-instead!
-- /resources/why-its-imposible-to-order-a-hierarchy,-and-what-you-can-do-instead!
 - /resources/ZBb8OZ0I6qA
-aliasesFor404:
+- /resources/videos/rethinking-backlog-management-why-a-flat-structure-boosts-agility-and-value-delivery
+- /resources/videos/why-its-imposible-to-order-a-hierarchy-and-what-you-can-do-instead
+aliasesArchive:
+- /resources/videos/rethinking-backlog-management-why-a-flat-structure-boosts-agility-and-value-delivery
 - /resources/videos/why-its-imposible-to-order-a-hierarchy,-and-what-you-can-do-instead!
 - /resources/why-its-imposible-to-order-a-hierarchy,-and-what-you-can-do-instead!
+- /resources/videos/why-its-imposible-to-order-a-hierarchy-and-what-you-can-do-instead
+- rethinking-backlog-management-why-a-flat-structure-boosts-agility-and-value-delivery
 preview: https://i.ytimg.com/vi/ZBb8OZ0I6qA/maxresdefault.jpg
 duration: 1156
 isShort: false
 tags:
 - Agile Product Management
 - Agile Project Management
-- Scrum Product Development
-- Azure DevOps
-- Product Backlog
 - People and Process
 - Agile Product Operating Model
+- Scrum Product Development
 - Practical Techniques and Tooling
-- Azure Boards
+- Product Backlog
+- Azure DevOps
 - Pragmatic Thinking
+- Azure Boards
 sitemap:
   filename: sitemap.xml
   priority: 0.6

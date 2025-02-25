@@ -20,12 +20,12 @@ aliases:
 - /blog/visual-studio-2010-overview---introduction
 - /resources/2d6IQ5TVE-_
 - /resources/blog/visual-studio-2010-overview-introduction
-aliasesFor404:
-- /visual-studio-2010-overview-introduction
+aliasesArchive:
 - /blog/visual-studio-2010-overview-introduction
+- /visual-studio-2010-overview-introduction
+- /visual-studio-2010-overview
 - /visual-studio-2010-overview---introduction
 - /blog/visual-studio-2010-overview---introduction
-- /visual-studio-2010-overview
 - /resources/blog/visual-studio-2010-overview-introduction
 tags:
 - Events and Presentations

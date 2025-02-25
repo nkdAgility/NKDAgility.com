@@ -14,21 +14,21 @@ preview: https://i.ytimg.com/vi/_WplvWtaxtQ/maxresdefault.jpg
 duration: 130
 isShort: false
 aliases:
-- /resources/why-every-scrum-master-needs-an-immersive-training-experience
-- /resources/videos/_WplvWtaxtQ
-- /resources/videos/why-do-you-think-the-psm-immersive-learning-experience-is-a-great-fit-for-aspiring-scrum-masters
-- /resources/why-do-you-think-the-psm-immersive-learning-experience-is-a-great-fit-for-aspiring-scrum-masters
 - /resources/_WplvWtaxtQ
-aliasesFor404:
+- /resources/videos/why-every-scrum-master-needs-an-immersive-training-experience
+- /resources/videos/why-do-you-think-the-psm-immersive-learning-experience-is-a-great-fit-for-aspiring-scrum-masters
+aliasesArchive:
+- /resources/videos/why-every-scrum-master-needs-an-immersive-training-experience
 - /resources/why-every-scrum-master-needs-an-immersive-training-experience
 - /resources/videos/why-do-you-think-the-psm-immersive-learning-experience-is-a-great-fit-for-aspiring-scrum-masters
 - /resources/why-do-you-think-the-psm-immersive-learning-experience-is-a-great-fit-for-aspiring-scrum-masters
+- why-every-scrum-master-needs-an-immersive-training-experience
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Master
 - People and Process
+- Scrum Master
 - Scrum Team
 - Agile Project Management
 resourceTypes:

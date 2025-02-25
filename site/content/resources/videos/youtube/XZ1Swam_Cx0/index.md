@@ -8,27 +8,30 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: XZ1Swam_Cx0
 url: /resources/videos/:slug
-slug: antichrist!-7-harbingers-agile-apocalypse-but-shorter!
+slug: the-antichrist-of-agile-how-fake-agilists-are-undermining-true-innovation-XZ1Swam_Cx0
 layout: video
 aliases:
-- /resources/videos/XZ1Swam_Cx0
-- /resources/videos/antichrist!-7-harbingers-agile-apocalypse-but-shorter!
-- /resources/antichrist!-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/XZ1Swam_Cx0
-aliasesFor404:
+- /resources/videos/the-antichrist-of-agile-how-fake-agilists-are-undermining-true-innovation-XZ1Swam_Cx0
+- /resources/videos/the-antichrist-of-agile-how-fake-agilists-are-undermining-true-innovation
+- /resources/videos/antichrist-7-harbingers-agile-apocalypse-but-shorter
+aliasesArchive:
+- /resources/videos/the-antichrist-of-agile-how-fake-agilists-are-undermining-true-innovation
 - /resources/videos/antichrist!-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/antichrist!-7-harbingers-agile-apocalypse-but-shorter!
+- /resources/videos/antichrist-7-harbingers-agile-apocalypse-but-shorter
+- the-antichrist-of-agile-how-fake-agilists-are-undermining-true-innovation-XZ1Swam_Cx0
 preview: https://i.ytimg.com/vi/XZ1Swam_Cx0/maxresdefault.jpg
 duration: 59
 isShort: true
 tags:
 - People and Process
+- Agile Project Management
 - Software Development
 - Software Developers
+- Agile Transformation
 - Agile Frameworks
 - Agile Philosophy
-- Agile Project Management
-- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

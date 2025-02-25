@@ -17,9 +17,9 @@ aliases:
 - /what-to-do-after-a-servicing-fails-on-tfs-2010
 - /resources/3MtCtNaIpU3
 - /resources/blog/what-to-do-after-a-servicing-fails-on-tfs-2010
-aliasesFor404:
-- /what-to-do-after-a-servicing-fails-on-tfs-2010
+aliasesArchive:
 - /blog/what-to-do-after-a-servicing-fails-on-tfs-2010
+- /what-to-do-after-a-servicing-fails-on-tfs-2010
 - /resources/blog/what-to-do-after-a-servicing-fails-on-tfs-2010
 tags:
 - Troubleshooting

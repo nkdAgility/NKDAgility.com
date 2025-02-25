@@ -15,29 +15,30 @@ preview: https://i.ytimg.com/vi/wiEH7vsfrSE/maxresdefault.jpg
 duration: 1046
 isShort: false
 aliases:
-- /resources/why-cost-cutting-during-recessions-is-counterproductive
-- /resources/videos/recession-proofing-your-business-with-kanban-investing-in-effectiveness,-not-cost-cutting
-- /resources/videos/wiEH7vsfrSE
-- /resources/recession-proofing-your-business-with-kanban-investing-in-effectiveness,-not-cost-cutting
 - /resources/wiEH7vsfrSE
-aliasesFor404:
+- /resources/videos/why-cost-cutting-during-recessions-is-counterproductive
+- /resources/videos/recession-proofing-your-business-with-kanban-investing-in-effectiveness-not-cost-cutting
+aliasesArchive:
+- /resources/videos/why-cost-cutting-during-recessions-is-counterproductive
 - /resources/why-cost-cutting-during-recessions-is-counterproductive
 - /resources/videos/recession-proofing-your-business-with-kanban-investing-in-effectiveness,-not-cost-cutting
 - /resources/recession-proofing-your-business-with-kanban-investing-in-effectiveness,-not-cost-cutting
+- /resources/videos/recession-proofing-your-business-with-kanban-investing-in-effectiveness-not-cost-cutting
+- why-cost-cutting-during-recessions-is-counterproductive
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Strategic Goals
-- Organisational Culture
 - People and Process
-- Organisational Agility
 - Business Agility
-- Agile Strategy
-- Value Delivery
-- Operational Practices
-- Enterprise Agility
+- Organisational Culture
+- Strategic Goals
+- Organisational Agility
 - Organisational Physics
+- Market Adaptability
+- Organisational Change
+- Agile Strategy
+- Operational Practices
 resourceTypes:
 - video
 categories:

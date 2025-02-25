@@ -8,15 +8,17 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 0fz91w-_6vE
 url: /resources/videos/:slug
-slug: what-is-your-primary-role-in-a-devops-consulting-gig-
+slug: unlocking-value-in-devops-my-role-as-a-consultant-in-driving-change-and-overcoming-bottlenecks
 aliases:
-- /resources/videos/0fz91w-_6vE
-- /resources/videos/what-is-your-primary-role-in-a-devops-consulting-gig-
-- /resources/what-is-your-primary-role-in-a-devops-consulting-gig-
 - /resources/0fz91w-_6vE
-aliasesFor404:
+- /resources/videos/unlocking-value-in-devops-my-role-as-a-consultant-in-driving-change-and-overcoming-bottlenecks
+- /resources/videos/what-is-your-primary-role-in-a-devops-consulting-gig
+aliasesArchive:
+- /resources/videos/unlocking-value-in-devops-my-role-as-a-consultant-in-driving-change-and-overcoming-bottlenecks
 - /resources/videos/what-is-your-primary-role-in-a-devops-consulting-gig-
 - /resources/what-is-your-primary-role-in-a-devops-consulting-gig-
+- /resources/videos/what-is-your-primary-role-in-a-devops-consulting-gig
+- unlocking-value-in-devops-my-role-as-a-consultant-in-driving-change-and-overcoming-bottlenecks
 preview: https://i.ytimg.com/vi/0fz91w-_6vE/maxresdefault.jpg
 duration: 138
 isShort: false
@@ -25,12 +27,12 @@ tags:
 - People and Process
 - Product Delivery
 - Value Delivery
-- Software Development
 - Market Adaptability
 - Operational Practices
+- Software Development
+- Flow Efficiency
 - Value Stream Management
 - Discovery and Learning
-- Flow Efficiency
 sitemap:
   filename: sitemap.xml
   priority: 0.6

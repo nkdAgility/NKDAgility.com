@@ -19,9 +19,9 @@ aliases:
 - /blog/visual-studio-2012-rtm-available-&-installed
 - /resources/1pWQ2Krlit5
 - /resources/blog/visual-studio-2012-rtm-available-installed
-aliasesFor404:
-- /visual-studio-2012-rtm-available-installed
+aliasesArchive:
 - /blog/visual-studio-2012-rtm-available-installed
+- /visual-studio-2012-rtm-available-installed
 - /visual-studio-2012-rtm-available-&-installed
 - /blog/visual-studio-2012-rtm-available-&-installed
 - /resources/blog/visual-studio-2012-rtm-available-installed
@@ -29,8 +29,8 @@ tags:
 - Install and Configuration
 - News and Reviews
 - Products and Books
-- Software Development
 - Practical Techniques and Tooling
+- Software Development
 - System Configuration
 - Release Management
 - Troubleshooting

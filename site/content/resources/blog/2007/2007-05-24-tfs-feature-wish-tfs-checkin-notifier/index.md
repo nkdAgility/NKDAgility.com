@@ -19,9 +19,9 @@ aliases:
 - /blog/tfs-feature-wish-(tfs-checkin-notifier)
 - /resources/1QNKNnc1Mvj
 - /resources/blog/tfs-feature-wish-tfs-checkin-notifier
-aliasesFor404:
-- /tfs-feature-wish-tfs-checkin-notifier
+aliasesArchive:
 - /blog/tfs-feature-wish-tfs-checkin-notifier
+- /tfs-feature-wish-tfs-checkin-notifier
 - /tfs-feature-wish-(tfs-checkin-notifier)
 - /blog/tfs-feature-wish-(tfs-checkin-notifier)
 - /resources/blog/tfs-feature-wish-tfs-checkin-notifier

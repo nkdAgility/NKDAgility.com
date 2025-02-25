@@ -15,15 +15,16 @@ preview: https://i.ytimg.com/vi/SLZmpwEWxD4/maxresdefault.jpg
 duration: 267
 isShort: false
 aliases:
-- /resources/the-importance-of-visualizing-your-work-in-a-kanban-strategy
-- /resources/videos/kanban-visualisation-practices!-stratagies-or-best-practices-for-effectively-visualizing-workflow!
-- /resources/videos/SLZmpwEWxD4
-- /resources/kanban-visualisation-practices!-stratagies-or-best-practices-for-effectively-visualizing-workflow!
 - /resources/SLZmpwEWxD4
-aliasesFor404:
+- /resources/videos/the-importance-of-visualizing-your-work-in-a-kanban-strategy
+- /resources/videos/kanban-visualisation-practices-stratagies-or-best-practices-for-effectively-visualizing-workflow
+aliasesArchive:
+- /resources/videos/the-importance-of-visualizing-your-work-in-a-kanban-strategy
 - /resources/the-importance-of-visualizing-your-work-in-a-kanban-strategy
 - /resources/videos/kanban-visualisation-practices!-stratagies-or-best-practices-for-effectively-visualizing-workflow!
 - /resources/kanban-visualisation-practices!-stratagies-or-best-practices-for-effectively-visualizing-workflow!
+- /resources/videos/kanban-visualisation-practices-stratagies-or-best-practices-for-effectively-visualizing-workflow
+- the-importance-of-visualizing-your-work-in-a-kanban-strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -31,13 +32,13 @@ tags:
 - Strategy
 - Operational Practices
 - People and Process
-- Team Collaboration
 - Practical Techniques and Tooling
-- Software Development
-- Pragmatic Thinking
-- Agile Frameworks
-- Lean Thinking
+- Team Collaboration
 - Agile Project Management
+- Transparency
+- Pragmatic Thinking
+- Software Development
+- Lean Thinking
 resourceTypes:
 - video
 categories:

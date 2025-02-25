@@ -17,14 +17,14 @@ aliases:
 - /deploying-team-server
 - /resources/BcNPa5LLzLX
 - /resources/blog/deploying-team-server
-aliasesFor404:
-- /deploying-team-server
+aliasesArchive:
 - /blog/deploying-team-server
+- /deploying-team-server
 - /resources/blog/deploying-team-server
 tags:
-- Software Development
-- Events and Presentations
 - Practical Techniques and Tooling
+- Events and Presentations
+- Software Development
 - Application Lifecycle Management
 - Pragmatic Thinking
 preview: nakedalm-logo-128-link-1-1.png

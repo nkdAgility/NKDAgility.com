@@ -9,33 +9,35 @@ ResourceImportSource: Youtube
 videoId: dT1_zHfzto0
 source: internal
 url: /resources/videos/:slug
-slug: quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber
+slug: quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber-dT1_zHfzto0
 layout: video
 preview: https://i.ytimg.com/vi/dT1_zHfzto0/maxresdefault.jpg
 duration: 38
 isShort: true
 aliases:
-- /resources/quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber
-- /resources/videos/75-of-those-organizations-using-scrum-will-not-succeed-in-getting-the-benefit-ken-schwaber
-- /resources/videos/dT1_zHfzto0
-- /resources/75-of-those-organizations-using-scrum-will-not-succeed-in-getting-the-benefit-ken-schwaber
 - /resources/dT1_zHfzto0
-aliasesFor404:
+- /resources/videos/quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber-dT1_zHfzto0
+- /resources/videos/quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber
+- /resources/videos/75-of-those-organizations-using-scrum-will-not-succeed-in-getting-the-benefit-ken-schwaber
+aliasesArchive:
+- /resources/videos/quotes-i-estimate-that-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber
+- /resources/videos/quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber
 - /resources/quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber
 - /resources/videos/75-of-those-organizations-using-scrum-will-not-succeed-in-getting-the-benefit-ken-schwaber
 - /resources/75-of-those-organizations-using-scrum-will-not-succeed-in-getting-the-benefit-ken-schwaber
+- quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber-dT1_zHfzto0
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Organisational Agility
-- Organisational Change
 - People and Process
-- Scaling Agility
-- Enterprise Agility
-- Agile Frameworks
-- Sociotechnical Systems
+- Organisational Change
+- Organisational Agility
 - Agile Transformation
+- Agile Frameworks
+- Enterprise Agility
+- Sociotechnical Systems
+- Scaling Agility
 resourceTypes:
 - video
 categories:

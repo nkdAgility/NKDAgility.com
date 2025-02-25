@@ -14,27 +14,26 @@ preview: https://i.ytimg.com/vi/2IuL2Qvvbfk/maxresdefault.jpg
 duration: 452
 isShort: false
 aliases:
-- /resources/biggest-contribution-from-a-product-owner-that-you-know-of
-- /resources/videos/biggest-contribution-from-a-product-owner-that-you-know-of-
-- /resources/videos/2IuL2Qvvbfk
-- /resources/biggest-contribution-from-a-product-owner-that-you-know-of-
 - /resources/2IuL2Qvvbfk
-aliasesFor404:
+- /resources/videos/biggest-contribution-from-a-product-owner-that-you-know-of
+aliasesArchive:
+- /resources/videos/biggest-contribution-from-a-product-owner-that-you-know-of
 - /resources/biggest-contribution-from-a-product-owner-that-you-know-of
 - /resources/videos/biggest-contribution-from-a-product-owner-that-you-know-of-
 - /resources/biggest-contribution-from-a-product-owner-that-you-know-of-
+- biggest-contribution-from-a-product-owner-that-you-know-of
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Agile Product Management
 - People and Process
-- Agile Project Management
-- Product Owner
-- Product Delivery
-- Agile Leadership
 - Azure DevOps
-- Pragmatic Thinking
+- Product Delivery
+- Product Owner
+- Agile Leadership
+- Agile Project Management
+- Agile Strategy
 - Technical Leadership
 - Value Delivery
 resourceTypes:

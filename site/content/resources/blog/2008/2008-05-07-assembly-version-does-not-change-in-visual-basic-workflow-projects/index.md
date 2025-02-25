@@ -17,9 +17,9 @@ aliases:
 - /assembly-version-does-not-change-in-visual-basic-workflow-projects
 - /resources/k9UAGHKPtUz
 - /resources/blog/assembly-version-does-not-change-in-visual-basic-workflow-projects
-aliasesFor404:
-- /assembly-version-does-not-change-in-visual-basic-workflow-projects
+aliasesArchive:
 - /blog/assembly-version-does-not-change-in-visual-basic-workflow-projects
+- /assembly-version-does-not-change-in-visual-basic-workflow-projects
 - /resources/blog/assembly-version-does-not-change-in-visual-basic-workflow-projects
 tags:
 - Troubleshooting

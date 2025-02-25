@@ -19,23 +19,23 @@ aliases:
 - /blog/branch-madness-
 - /resources/s2fykp0ti2Y
 - /resources/blog/branch-madness
-aliasesFor404:
-- /branch-madness
+aliasesArchive:
 - /blog/branch-madness
+- /branch-madness
 - /branch-madness-
 - /blog/branch-madness-
 - /resources/blog/branch-madness
 tags:
-- Modern Source Control
-- Install and Configuration
 - Practical Techniques and Tooling
-- Software Development
-- Pragmatic Thinking
+- Install and Configuration
+- Modern Source Control
 - Troubleshooting
+- Application Lifecycle Management
+- Azure Repos
 - Miscellaneous
 - Operational Practices
-- Azure Repos
-- Application Lifecycle Management
+- Pragmatic Thinking
+- Software Development
 preview: nakedalm-logo-128-link-2-1.png
 categories:
 - DevOps

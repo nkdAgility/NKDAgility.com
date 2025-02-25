@@ -9,35 +9,34 @@ ResourceImportSource: Youtube
 videoId: h5TG3MbP0QY
 source: internal
 url: /resources/videos/:slug
-slug: most-common-thing-you-hear-in-a-psm-1-course
+slug: most-common-thing-you-hear-in-a-psm-1-course-h5TG3MbP0QY
 layout: video
 preview: https://i.ytimg.com/vi/h5TG3MbP0QY/maxresdefault.jpg
 duration: 56
 isShort: true
 aliases:
-- /resources/most-common-thing-you-hear-in-a-psm-1-course-2
-- /resources/most-common-thing-you-hear-in-a-psm-1-course
-- /resources/videos/most-common-thing-you-hear-in-a-psm-1-course-
-- /resources/videos/h5TG3MbP0QY
-- /resources/most-common-thing-you-hear-in-a-psm-1-course-
 - /resources/h5TG3MbP0QY
-aliasesFor404:
+- /resources/videos/most-common-thing-you-hear-in-a-psm-1-course-h5TG3MbP0QY
+aliasesArchive:
+- /resources/videos/most-common-thing-you-hear-in-a-psm-course
+- /resources/videos/most-common-thing-you-hear-in-a-psm-1-course
 - /resources/most-common-thing-you-hear-in-a-psm-1-course-2
 - /resources/most-common-thing-you-hear-in-a-psm-1-course
 - /resources/videos/most-common-thing-you-hear-in-a-psm-1-course-
 - /resources/most-common-thing-you-hear-in-a-psm-1-course-
+- most-common-thing-you-hear-in-a-psm-1-course-h5TG3MbP0QY
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - People and Process
-- Customer Satisfaction
-- Transparency and Accountability
 - Agile Values and Principles
+- Transparency and Accountability
+- Customer Satisfaction
+- Miscellaneous
 - Accountability
 - Pragmatic Thinking
 - Personal
-- Miscellaneous
 - Agile Philosophy
 resourceTypes:
 - video

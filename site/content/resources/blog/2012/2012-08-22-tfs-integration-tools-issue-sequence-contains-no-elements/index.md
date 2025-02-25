@@ -20,12 +20,12 @@ aliases:
 - /blog/tfs-integration-tools---issue--sequence-contains-no-elements
 - /resources/0vuwjXdRGyv
 - /resources/blog/tfs-integration-tools-issue-sequence-contains-no-elements
-aliasesFor404:
-- /tfs-integration-tools-issue-sequence-contains-no-elements
+aliasesArchive:
 - /blog/tfs-integration-tools-issue-sequence-contains-no-elements
+- /tfs-integration-tools-issue-sequence-contains-no-elements
+- /tfs-integration-tools
 - /tfs-integration-tools---issue--sequence-contains-no-elements
 - /blog/tfs-integration-tools---issue--sequence-contains-no-elements
-- /tfs-integration-tools
 - /resources/blog/tfs-integration-tools-issue-sequence-contains-no-elements
 tags:
 - Troubleshooting

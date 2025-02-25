@@ -15,22 +15,22 @@ preview: https://i.ytimg.com/vi/il1GdfG7rWk/maxresdefault.jpg
 duration: 387
 isShort: false
 aliases:
-- /resources/mastering-product-backlog-management-essential-skills-for-product-owners
-- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-4
-- /resources/videos/il1GdfG7rWk
-- /resources/5-things-you-would-teach-a-productowner-apprentice-part-4
 - /resources/il1GdfG7rWk
-aliasesFor404:
+- /resources/videos/mastering-product-backlog-management-essential-skills-for-product-owners
+- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-4
+aliasesArchive:
+- /resources/videos/mastering-product-backlog-management-essential-skills-for-product-owners
 - /resources/mastering-product-backlog-management-essential-skills-for-product-owners
 - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-4
 - /resources/5-things-you-would-teach-a-productowner-apprentice-part-4
+- mastering-product-backlog-management-essential-skills-for-product-owners
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Agile Product Management
-- Product Backlog
 - Product Owner
+- Product Backlog
 resourceTypes:
 - video
 categories:

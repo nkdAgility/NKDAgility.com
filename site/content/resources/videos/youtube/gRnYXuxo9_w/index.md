@@ -8,29 +8,29 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: gRnYXuxo9_w
 url: /resources/videos/:slug
-slug: scrum-value,-openness,-what-does-it-mean-and-why-does-it-matter-
+slug: scrum-value-openness-what-does-it-mean-and-why-does-it-matter
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=gRnYXuxo9_w
 aliases:
-- /resources/videos/gRnYXuxo9_w
-- /resources/videos/scrum-value,-openness,-what-does-it-mean-and-why-does-it-matter-
-- /resources/scrum-value,-openness,-what-does-it-mean-and-why-does-it-matter-
 - /resources/gRnYXuxo9_w
-aliasesFor404:
+- /resources/videos/scrum-value-openness-what-does-it-mean-and-why-does-it-matter
+aliasesArchive:
+- /resources/videos/scrum-value-openness-what-does-it-mean-and-why-does-it-matter
 - /resources/videos/scrum-value,-openness,-what-does-it-mean-and-why-does-it-matter-
 - /resources/scrum-value,-openness,-what-does-it-mean-and-why-does-it-matter-
+- scrum-value-openness-what-does-it-mean-and-why-does-it-matter
 preview: https://i.ytimg.com/vi/gRnYXuxo9_w/maxresdefault.jpg
 duration: 171
 isShort: false
 tags:
 - Transparency
-- Professional Scrum
-- Transparency and Accountability
 - Agile Project Management
+- Transparency and Accountability
 - Scrum Values
-- Team Collaboration
-- Team Performance
+- Professional Scrum
 - People and Process
+- Team Performance
+- Team Collaboration
 - Software Development
 - Agile Frameworks
 sitemap:

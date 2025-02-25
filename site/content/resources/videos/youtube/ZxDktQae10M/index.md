@@ -1,6 +1,6 @@
 ---
-title: 2018 VSTS Sync Migration Tools Overview
-description: Discover the VSTS Sync Migration Tools in this quick overview! Learn about installation, configuration, and how to run the tools effectively.
+title: 'Mastering VSTS Sync Migration Tools: Your Ultimate Guide to Seamless TFS to VSTS Transitions'
+description: Unlock the secrets of seamless TFS to VSTS migration! Discover flexible tools and expert tips to streamline your digital transformation journey.
 date: 2017-12-30T18:57:40Z
 ResourceId: ZxDktQae10M
 ResourceType: videos
@@ -8,34 +8,78 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: ZxDktQae10M
 url: /resources/videos/:slug
-slug: 2018-vsts-sync-migration-tools-overview
+slug: mastering-vsts-sync-migration-tools-your-ultimate-guide-to-seamless-tfs-to-vsts-transitions
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=ZxDktQae10M
 aliases:
-- /resources/videos/ZxDktQae10M
-- /resources/videos/2018-vsts-sync-migration-tools-overview
-- /resources/2018-vsts-sync-migration-tools-overview
 - /resources/ZxDktQae10M
-aliasesFor404:
+- /resources/videos/mastering-vsts-sync-migration-tools-your-ultimate-guide-to-seamless-tfs-to-vsts-transitions
+- /resources/videos/2018-vsts-sync-migration-tools-overview
+aliasesArchive:
+- /resources/videos/-vsts-sync-migration-tools-overview
 - /resources/videos/2018-vsts-sync-migration-tools-overview
 - /resources/2018-vsts-sync-migration-tools-overview
+- /resources/videos/mastering-vsts-sync-migration-tools-your-ultimate-guide-to-seamless-tfs-to-vsts-transitions
+- mastering-vsts-sync-migration-tools-your-ultimate-guide-to-seamless-tfs-to-vsts-transitions
 preview: https://i.ytimg.com/vi/ZxDktQae10M/maxresdefault.jpg
 duration: 1977
 isShort: false
 tags:
 - Install and Configuration
-- System Configuration
 - Practical Techniques and Tooling
+- System Configuration
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
 categories: []
 
 ---
- Check out the latest version: https://youtu.be/Qt1Ywu_KLrc
+My name is Martin Hinshelwood, and I work for Naked Agility in Scotland, where we specialise in digital transformations, DevOps, and agile methodologies for a variety of clients. Today, I want to share my insights on the VSTS sync migration tools, a topic that has garnered much interest in our community. 
 
-A quick overview of the capabilities and layout of the VSTS Sync Migration Tools. This is a prep for running the tool in anger and covers Install, Configuration basics, and running the tools. 
- [Watch on Youtube](https://www.youtube.com/watch?v=ZxDktQae10M)
+### Understanding Your Migration Options
+
+When it comes to migrating from TFS (Team Foundation Server) to VSTS (Visual Studio Team Services), it’s crucial to know that you have multiple options at your disposal. If your goal is to migrate your entire organisation from TFS to VSTS, the **VSTS migration services** provided by Microsoft should be your primary consideration. This tool offers a full fidelity service, meaning it can import your entire database and collection into VSTS. 
+
+- **Downtime Considerations**: Depending on the size of your collection, you may experience some downtime. For instance, I’ve successfully migrated collections as small as 50 GB in just a couple of hours, while larger collections—like a 2.5 TB one—took around 40 hours. The larger the data, the more complex the migration process becomes, as it involves transferring data to Azure before Microsoft processes it into VSTS.
+
+However, if your needs are more specific—perhaps you only want to migrate a few team projects or restructure your projects—then the VSTS migration service may not meet your requirements. This is where the **VSTS sync migration tools** come into play.
+
+### The VSTS Sync Migration Tools
+
+I created the VSTS sync migration tools to address scenarios where users need more flexibility. These tools allow you to migrate data based on queries, meaning you can selectively choose what to migrate. Here are some key features:
+
+- **Versatile Migration**: You can migrate from TFS to VSTS, VSTS to TFS, split team projects, merge them, or even perform bulk updates. For example, I’ve assisted clients in migrating from the agile template in TFS to the scrum template using a bulk update processor.
+
+- **Community Support**: While I primarily support these tools, I’m fortunate to have contributions from various Microsoft MVPs and other TFS/VSTS consultants. This collaborative effort enriches the toolset and provides a wealth of knowledge for users.
+
+### Installation and Usage
+
+To get started with the VSTS sync migration tools, you can find them on the Visual Studio Marketplace. Here’s a quick guide on how to install and run them:
+
+1. **Finding the Tools**: Search for "VSTS migration" and look for the VSTS sync migration tool. You can also find it on the Visual Studio Marketplace, which provides links to documentation and the GitHub repository.
+
+2. **Installation via Chocolatey**: The recommended installation method is through Chocolatey, a package management system for Windows. With over 3,000 downloads, it’s the most common way to install the tools. Simply run the command `choco install VSTS sync migrator` in your PowerShell window.
+
+3. **Running the Tools**: After installation, navigate to the VSTS migration folder and run the executable. The tool will provide you with version information and a session ID, which is useful for troubleshooting.
+
+### Configuration and Execution
+
+Once you have the tools installed, you’ll need to configure them using a JSON file. This file dictates how the migration will proceed, including which fields to map and how to handle work items. Here are some important points to consider:
+
+- **Field Mapping**: The tools allow for extensive field mapping, enabling you to convert data from one format to another. For instance, you can map states from the old work item to the new work item format.
+
+- **Execution Order**: The order in which you run the migration processes is critical. For example, you must first create the node structures before migrating work items, as the latter relies on the former’s existence.
+
+- **Testing and Validation**: Always test your configuration with a small dataset before executing a full migration. This helps to identify any potential issues without risking your entire dataset.
+
+### Community and Support
+
+The VSTS sync migration tools are supported by a vibrant community. If you encounter any issues, I encourage you to reach out on GitHub. While support is ad-hoc, there are many knowledgeable individuals willing to help.
+
+### Conclusion
+
+In summary, whether you’re looking to perform a full migration or just need to move specific projects, understanding your options is key. The VSTS migration services from Microsoft are excellent for full fidelity migrations, while the VSTS sync migration tools offer the flexibility needed for more tailored scenarios. 
+
+I hope this overview provides you with the insights you need to get started with your migration journey. If you have any questions or need further assistance, don’t hesitate to reach out. Happy migrating!

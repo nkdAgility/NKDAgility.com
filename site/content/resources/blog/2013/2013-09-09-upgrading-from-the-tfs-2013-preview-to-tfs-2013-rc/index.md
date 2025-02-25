@@ -17,9 +17,9 @@ aliases:
 - /upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
 - /resources/WlTNhsC5jek
 - /resources/blog/upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
-aliasesFor404:
-- /upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
+aliasesArchive:
 - /blog/upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
+- /upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
 - /resources/blog/upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
 tags:
 - Install and Configuration

@@ -15,24 +15,23 @@ preview: https://i.ytimg.com/vi/bpBhREVX85o/maxresdefault.jpg
 duration: 106
 isShort: false
 aliases:
-- /resources/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on
-- /resources/videos/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on-
-- /resources/videos/bpBhREVX85o
-- /resources/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on-
 - /resources/bpBhREVX85o
-aliasesFor404:
+- /resources/videos/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on
+aliasesArchive:
+- /resources/videos/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on
 - /resources/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on
 - /resources/videos/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on-
 - /resources/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on-
+- how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - People and Process
 - Software Development
+- Agile Project Management
 - Pragmatic Thinking
 - Agile Frameworks
-- Agile Project Management
 - Value Delivery
 - Decision Making
 - Agile Strategy

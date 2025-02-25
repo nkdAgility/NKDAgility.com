@@ -14,24 +14,24 @@ preview: https://i.ytimg.com/vi/2I3S32Sk8-c/maxresdefault.jpg
 duration: 182
 isShort: false
 aliases:
-- /resources/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks
-- /resources/videos/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks-
-- /resources/videos/2I3S32Sk8-c
-- /resources/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks-
 - /resources/2I3S32Sk8-c
-aliasesFor404:
+- /resources/videos/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks
+aliasesArchive:
+- /resources/videos/what-would-you-advise-a-scrum-team-to-do-in-their-first-weeks
+- /resources/videos/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks
 - /resources/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks
 - /resources/videos/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks-
 - /resources/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks-
+- what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Transparency
-- Transparency and Accountability
 - People and Process
-- Scrum Team
 - Scrum Product Development
+- Scrum Team
+- Transparency and Accountability
 - Scrum Master
 - Professional Scrum
 - Agile Product Management

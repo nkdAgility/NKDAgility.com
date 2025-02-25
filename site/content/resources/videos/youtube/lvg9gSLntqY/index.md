@@ -9,21 +9,20 @@ ResourceImportSource: Youtube
 videoId: lvg9gSLntqY
 source: internal
 url: /resources/videos/:slug
-slug: why-does-project-management-not-work-in-complex-environments
+slug: why-does-project-management-not-work-in-complex-environments-lvg9gSLntqY
 layout: video
 preview: https://i.ytimg.com/vi/lvg9gSLntqY/maxresdefault.jpg
 duration: 53
 isShort: true
 aliases:
-- /resources/why-does-project-management-not-work-in-complex-environments
-- /resources/videos/why-does-project-management-not-work-in-complex-environments-
-- /resources/videos/lvg9gSLntqY
-- /resources/why-does-project-management-not-work-in-complex-environments-
 - /resources/lvg9gSLntqY
-aliasesFor404:
+- /resources/videos/why-does-project-management-not-work-in-complex-environments-lvg9gSLntqY
+aliasesArchive:
+- /resources/videos/why-does-project-management-not-work-in-complex-environments
 - /resources/why-does-project-management-not-work-in-complex-environments
 - /resources/videos/why-does-project-management-not-work-in-complex-environments-
 - /resources/why-does-project-management-not-work-in-complex-environments-
+- why-does-project-management-not-work-in-complex-environments-lvg9gSLntqY
 sitemap:
   filename: sitemap.xml
   priority: 0.6

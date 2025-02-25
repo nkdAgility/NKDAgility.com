@@ -17,9 +17,9 @@ aliases:
 - /installing-visual-studio-team-foundation-server-service-pack-1
 - /resources/LpdTshxayAB
 - /resources/blog/installing-visual-studio-team-foundation-server-service-pack-1
-aliasesFor404:
-- /installing-visual-studio-team-foundation-server-service-pack-1
+aliasesArchive:
 - /blog/installing-visual-studio-team-foundation-server-service-pack-1
+- /installing-visual-studio-team-foundation-server-service-pack-1
 - /resources/blog/installing-visual-studio-team-foundation-server-service-pack-1
 tags:
 - Windows

@@ -15,28 +15,28 @@ preview: https://i.ytimg.com/vi/XhPHa1RXrWo/maxresdefault.jpg
 duration: 659
 isShort: false
 aliases:
-- /resources/agile-is-not-new-a-journey-back-to-the-basics
-- /resources/videos/the-intention-of-agile-and-scrum
-- /resources/videos/XhPHa1RXrWo
-- /resources/the-intention-of-agile-and-scrum
 - /resources/XhPHa1RXrWo
-aliasesFor404:
+- /resources/videos/agile-is-not-new-a-journey-back-to-the-basics
+- /resources/videos/the-intention-of-agile-and-scrum
+aliasesArchive:
+- /resources/videos/agile-is-not-new-a-journey-back-to-the-basics
 - /resources/agile-is-not-new-a-journey-back-to-the-basics
 - /resources/videos/the-intention-of-agile-and-scrum
 - /resources/the-intention-of-agile-and-scrum
+- agile-is-not-new-a-journey-back-to-the-basics
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Agile Values and Principles
 - People and Process
+- Complexity Thinking
 - Agile Strategy
 - Software Development
 - Software Developers
-- Agile Frameworks
-- Complexity Thinking
-- Agile Philosophy
 - Agile Transformation
+- Agile Frameworks
+- Agile Philosophy
 - Pragmatic Thinking
 resourceTypes:
 - video

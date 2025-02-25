@@ -15,29 +15,31 @@ preview: https://i.ytimg.com/vi/fZLGlqMdejA/maxresdefault.jpg
 duration: 380
 isShort: false
 aliases:
-- /resources/7-deadly-sins-of-agile-greed
-- /resources/videos/greed!-7-deadly-sins-of-agile
-- /resources/videos/fZLGlqMdejA
-- /resources/greed!-7-deadly-sins-of-agile
 - /resources/fZLGlqMdejA
-aliasesFor404:
+- /resources/videos/7-deadly-sins-of-agile-greed
+- /resources/videos/greed-7-deadly-sins-of-agile
+aliasesArchive:
+- /resources/videos/-deadly-sins-of-agile-greed
+- /resources/videos/7-deadly-sins-of-agile-greed
 - /resources/7-deadly-sins-of-agile-greed
 - /resources/videos/greed!-7-deadly-sins-of-agile
 - /resources/greed!-7-deadly-sins-of-agile
+- /resources/videos/greed-7-deadly-sins-of-agile
+- 7-deadly-sins-of-agile-greed
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
+- Product Delivery
+- Flow Efficiency
 - Agile Values and Principles
 - Agile Product Management
-- Flow Efficiency
-- People and Process
-- Agile Product Operating Model
-- Product Delivery
 - Value Delivery
-- Team Performance
+- Agile Product Operating Model
+- Agile Project Management
+- Agile Frameworks
 - Pragmatic Thinking
-- Agile Strategy
 resourceTypes:
 - video
 categories:

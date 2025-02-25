@@ -17,9 +17,9 @@ aliases:
 - /tfs-data-manager
 - /resources/0STlzaSKK3X
 - /resources/blog/tfs-data-manager
-aliasesFor404:
-- /tfs-data-manager
+aliasesArchive:
 - /blog/tfs-data-manager
+- /tfs-data-manager
 - /resources/blog/tfs-data-manager
 tags:
 - Products and Books

@@ -17,9 +17,9 @@ aliases:
 - /sharepoint-2007-and-silverlight
 - /resources/sHgkQlcvb2R
 - /resources/blog/sharepoint-2007-and-silverlight
-aliasesFor404:
-- /sharepoint-2007-and-silverlight
+aliasesArchive:
 - /blog/sharepoint-2007-and-silverlight
+- /sharepoint-2007-and-silverlight
 - /resources/blog/sharepoint-2007-and-silverlight
 tags:
 - Products and Books

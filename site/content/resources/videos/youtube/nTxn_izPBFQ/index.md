@@ -15,17 +15,17 @@ preview: https://i.ytimg.com/vi/nTxn_izPBFQ/maxresdefault.jpg
 duration: 378
 isShort: false
 aliases:
-- /resources/how-good-is-the-apspo-course-in-helping-leaders-determine-product-direction-and-why
-- /resources/how-good-is-the-pspo-a-course-in-helping-determine-product-direction
-- /resources/videos/how-good-is-the-pspo-a-course-in-helping-determine-product-direction-
-- /resources/videos/nTxn_izPBFQ
-- /resources/how-good-is-the-pspo-a-course-in-helping-determine-product-direction-
 - /resources/nTxn_izPBFQ
-aliasesFor404:
+- /resources/videos/how-good-is-the-apspo-course-in-helping-leaders-determine-product-direction-and-why
+- /resources/videos/how-good-is-the-pspo-a-course-in-helping-determine-product-direction
+aliasesArchive:
+- /resources/videos/how-good-is-the-apspo-course-in-helping-leaders-determine-product-direction-and-why
 - /resources/how-good-is-the-apspo-course-in-helping-leaders-determine-product-direction-and-why
 - /resources/how-good-is-the-pspo-a-course-in-helping-determine-product-direction
 - /resources/videos/how-good-is-the-pspo-a-course-in-helping-determine-product-direction-
 - /resources/how-good-is-the-pspo-a-course-in-helping-determine-product-direction-
+- /resources/videos/how-good-is-the-pspo-a-course-in-helping-determine-product-direction
+- how-good-is-the-apspo-course-in-helping-leaders-determine-product-direction-and-why
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -34,9 +34,9 @@ tags:
 - Product Owner
 - People and Process
 - Agile Project Management
+- Agile Product Operating Model
 - Scrum Product Development
 - Agile Leadership
-- Agile Product Operating Model
 - Products and Books
 - Pragmatic Thinking
 resourceTypes:

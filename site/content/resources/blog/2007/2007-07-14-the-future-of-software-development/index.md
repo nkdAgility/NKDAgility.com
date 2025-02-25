@@ -17,16 +17,16 @@ aliases:
 - /the-future-of-software-development
 - /resources/y4gWKp3Fy4v
 - /resources/blog/the-future-of-software-development
-aliasesFor404:
-- /the-future-of-software-development
+aliasesArchive:
 - /blog/the-future-of-software-development
+- /the-future-of-software-development
 - /resources/blog/the-future-of-software-development
 tags:
 - Software Development
-- Pragmatic Thinking
 - People and Process
-- Product Delivery
 - Practical Techniques and Tooling
+- Pragmatic Thinking
+- Product Delivery
 - Strategy
 - Operational Practices
 preview: nakedalm-logo-128-link-1-1.png

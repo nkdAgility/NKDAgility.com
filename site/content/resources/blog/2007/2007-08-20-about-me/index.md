@@ -17,9 +17,9 @@ aliases:
 - /about-me
 - /resources/sLyEoCihMuc
 - /resources/blog/about-me
-aliasesFor404:
-- /about-me
+aliasesArchive:
 - /blog/about-me
+- /about-me
 - /resources/blog/about-me
 categories: []
 preview: nakedalm-logo-128-link-1-1.png

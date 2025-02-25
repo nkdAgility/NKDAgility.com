@@ -17,9 +17,9 @@ aliases:
 - /creating-a-sharepoint-solution
 - /resources/pnYkYt4HZFP
 - /resources/blog/creating-a-sharepoint-solution
-aliasesFor404:
-- /creating-a-sharepoint-solution
+aliasesArchive:
 - /blog/creating-a-sharepoint-solution
+- /creating-a-sharepoint-solution
 - /resources/blog/creating-a-sharepoint-solution
 tags:
 - Software Development

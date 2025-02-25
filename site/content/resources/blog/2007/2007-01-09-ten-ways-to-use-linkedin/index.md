@@ -17,9 +17,9 @@ aliases:
 - /ten-ways-to-use-linkedin
 - /resources/f_wB3o4HlXs
 - /resources/blog/ten-ways-to-use-linkedin
-aliasesFor404:
-- /ten-ways-to-use-linkedin
+aliasesArchive:
 - /blog/ten-ways-to-use-linkedin
+- /ten-ways-to-use-linkedin
 - /resources/blog/ten-ways-to-use-linkedin
 tags: []
 preview: nakedalm-logo-128-link-1-1.png

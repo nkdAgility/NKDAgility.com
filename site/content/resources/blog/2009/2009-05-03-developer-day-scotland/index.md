@@ -17,9 +17,9 @@ aliases:
 - /developer-day-scotland
 - /resources/qtc58tBJRtL
 - /resources/blog/developer-day-scotland
-aliasesFor404:
-- /developer-day-scotland
+aliasesArchive:
 - /blog/developer-day-scotland
+- /developer-day-scotland
 - /resources/blog/developer-day-scotland
 tags:
 - Events and Presentations

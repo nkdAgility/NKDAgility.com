@@ -9,20 +9,19 @@ ResourceImportSource: Youtube
 videoId: 2Cy9MxXiiOo
 source: internal
 url: /resources/videos/:slug
-slug: what-is-a-sprint-goal
+slug: what-is-a-sprint-goal-2Cy9MxXiiOo
 preview: https://i.ytimg.com/vi/2Cy9MxXiiOo/maxresdefault.jpg
 duration: 47
 isShort: true
 aliases:
-- /resources/what-is-a-sprint-goal-2
-- /resources/videos/what-is-a-sprint-goal-
-- /resources/videos/2Cy9MxXiiOo
-- /resources/what-is-a-sprint-goal-
 - /resources/2Cy9MxXiiOo
-aliasesFor404:
+- /resources/videos/what-is-a-sprint-goal-2Cy9MxXiiOo
+aliasesArchive:
+- /resources/videos/what-is-a-sprint-goal
 - /resources/what-is-a-sprint-goal-2
 - /resources/videos/what-is-a-sprint-goal-
 - /resources/what-is-a-sprint-goal-
+- what-is-a-sprint-goal-2Cy9MxXiiOo
 sitemap:
   filename: sitemap.xml
   priority: 0.6

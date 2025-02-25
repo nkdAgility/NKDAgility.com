@@ -15,29 +15,28 @@ preview: https://i.ytimg.com/vi/zoAhqsEqShs/maxresdefault.jpg
 duration: 558
 isShort: false
 aliases:
-- /resources/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant
-- /resources/videos/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant-
-- /resources/videos/zoAhqsEqShs
-- /resources/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant-
 - /resources/zoAhqsEqShs
-aliasesFor404:
+- /resources/videos/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant
+aliasesArchive:
+- /resources/videos/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant
 - /resources/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant
 - /resources/videos/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant-
 - /resources/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant-
+- what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Transformation
-- Agile Project Management
-- Software Development
-- Agile Product Management
 - People and Process
 - Change Management
-- Organisational Agility
+- Agile Product Management
+- Agile Project Management
+- Agile Transformation
+- Software Development
 - Agile Strategy
-- Team Motivation
-- Enterprise Agility
+- Organisational Change
+- Organisational Agility
+- Team Collaboration
 resourceTypes:
 - video
 categories:

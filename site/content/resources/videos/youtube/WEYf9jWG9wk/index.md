@@ -8,16 +8,20 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: WEYf9jWG9wk
 url: /resources/videos/:slug
-slug: unleash-your-team's-full-potential
+slug: unlocking-success-how-small-experiments-transformed-feature-delivery-from-25-to-150-in-software-development-WEYf9jWG9wk
 layout: video
 aliases:
-- /resources/videos/WEYf9jWG9wk
-- /resources/videos/unleash-your-team's-full-potential
-- /resources/unleash-your-team's-full-potential
 - /resources/WEYf9jWG9wk
-aliasesFor404:
+- /resources/videos/unlocking-success-how-small-experiments-transformed-feature-delivery-from-25-to-150-in-software-development-WEYf9jWG9wk
+- /resources/videos/unlocking-success-how-small-experiments-transformed-feature-delivery-from-25-to-150-in-software-development
+- /resources/videos/unleash-your-teams-full-potential
+aliasesArchive:
+- /resources/videos/unlocking-success-how-small-experiments-transformed-feature-delivery-from-to-in-software-development
+- /resources/videos/unlocking-success-how-small-experiments-transformed-feature-delivery-from-25-to-150-in-software-development
 - /resources/videos/unleash-your-team's-full-potential
 - /resources/unleash-your-team's-full-potential
+- /resources/videos/unleash-your-teams-full-potential
+- unlocking-success-how-small-experiments-transformed-feature-delivery-from-25-to-150-in-software-development-WEYf9jWG9wk
 preview: https://i.ytimg.com/vi/WEYf9jWG9wk/maxresdefault.jpg
 duration: 53
 isShort: true
@@ -25,13 +29,13 @@ tags:
 - Hypothesis Driven Development
 - Discovery and Learning
 - Value Delivery
-- Continuous Learning
 - Pragmatic Thinking
 - Experimentation
+- Continuous Learning
 - Lean Product Development
 - Product Validation
 - Product Discovery
-- Lean Startup
+- Business Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -40,8 +44,8 @@ resourceTypes:
 - video
 categories:
 - Product Management
-- Social Technologies
 - Engineering Excellence
+- Social Technologies
 
 ---
 In my journey through the world of software development, I've witnessed a remarkable transformation in how teams approach feature delivery. A recent case study I came across highlighted a team that evolved from delivering a mere 25 features to production each year to an astonishing 150 features, all while maintaining the same headcount. This leap didn’t happen overnight; it took them four years to refine their processes and embrace a new mindset. But the results speak for themselves—who wouldn’t prefer 800 features over 25?

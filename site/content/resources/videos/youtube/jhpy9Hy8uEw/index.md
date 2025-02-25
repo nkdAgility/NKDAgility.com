@@ -15,24 +15,25 @@ preview: https://i.ytimg.com/vi/jhpy9Hy8uEw/maxresdefault.jpg
 duration: 303
 isShort: false
 aliases:
-- /resources/why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
-- /resources/videos/choosing-scrum-org-over-scrum-alliance!
-- /resources/videos/jhpy9Hy8uEw
-- /resources/choosing-scrum-org-over-scrum-alliance!
 - /resources/jhpy9Hy8uEw
-aliasesFor404:
+- /resources/videos/why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
+- /resources/videos/choosing-scrum-org-over-scrum-alliance
+aliasesArchive:
+- /resources/videos/why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
 - /resources/why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
 - /resources/videos/choosing-scrum-org-over-scrum-alliance!
 - /resources/choosing-scrum-org-over-scrum-alliance!
+- /resources/videos/choosing-scrum-org-over-scrum-alliance
+- why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Personal
 - People and Process
+- Agile Project Management
 - Continuous Learning
 - Agile Frameworks
-- Agile Project Management
 - Agile Values and Principles
 resourceTypes:
 - video

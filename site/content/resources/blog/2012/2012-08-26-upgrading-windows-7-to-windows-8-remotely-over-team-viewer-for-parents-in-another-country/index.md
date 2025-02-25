@@ -17,9 +17,9 @@ aliases:
 - /upgrading-windows-7-to-windows-8-remotely-over-team-viewer-for-parents-in-another-country
 - /resources/Ks6r6mfVUxy
 - /resources/blog/upgrading-windows-7-to-windows-8-remotely-over-team-viewer-for-parents-in-another-country
-aliasesFor404:
-- /upgrading-windows-7-to-windows-8-remotely-over-team-viewer-for-parents-in-another-country
+aliasesArchive:
 - /blog/upgrading-windows-7-to-windows-8-remotely-over-team-viewer-for-parents-in-another-country
+- /upgrading-windows-7-to-windows-8-remotely-over-team-viewer-for-parents-in-another-country
 - /resources/blog/upgrading-windows-7-to-windows-8-remotely-over-team-viewer-for-parents-in-another-country
 tags:
 - Windows

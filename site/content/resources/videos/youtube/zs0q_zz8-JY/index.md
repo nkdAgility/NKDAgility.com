@@ -8,23 +8,25 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: zs0q_zz8-JY
 url: /resources/videos/:slug
-slug: biggest-misconception-about-a-scrum-master
+slug: unpacking-the-scrum-master-myth-why-servant-leadership-is-key-to-team-success-zs0q_zz8-JY
 layout: video
 aliases:
-- /resources/videos/zs0q_zz8-JY
-- /resources/videos/biggest-misconception-about-a-scrum-master
-- /resources/biggest-misconception-about-a-scrum-master
 - /resources/zs0q_zz8-JY
-aliasesFor404:
+- /resources/videos/unpacking-the-scrum-master-myth-why-servant-leadership-is-key-to-team-success-zs0q_zz8-JY
+- /resources/videos/unpacking-the-scrum-master-myth-why-servant-leadership-is-key-to-team-success
+- /resources/videos/biggest-misconception-about-a-scrum-master
+aliasesArchive:
+- /resources/videos/unpacking-the-scrum-master-myth-why-servant-leadership-is-key-to-team-success
 - /resources/videos/biggest-misconception-about-a-scrum-master
 - /resources/biggest-misconception-about-a-scrum-master
+- unpacking-the-scrum-master-myth-why-servant-leadership-is-key-to-team-success-zs0q_zz8-JY
 preview: https://i.ytimg.com/vi/zs0q_zz8-JY/maxresdefault.jpg
 duration: 46
 isShort: true
 tags:
+- People and Process
 - Scrum Master
 - Scrum Team
-- People and Process
 - Technical Leadership
 - Agile Project Management
 - Agile Leadership

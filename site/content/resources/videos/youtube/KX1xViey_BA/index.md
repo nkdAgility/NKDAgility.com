@@ -9,21 +9,23 @@ ResourceImportSource: Youtube
 videoId: KX1xViey_BA
 source: internal
 url: /resources/videos/:slug
-slug: quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor
+slug: quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor-KX1xViey_BA
 layout: video
 preview: https://i.ytimg.com/vi/KX1xViey_BA/maxresdefault.jpg
 duration: 48
 isShort: true
 aliases:
-- /resources/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor
-- /resources/videos/quotes-in-the-past-the-man-has-been-first;-in-the-future-the-system-must-be-first-frederick-taylor
-- /resources/videos/KX1xViey_BA
-- /resources/quotes-in-the-past-the-man-has-been-first;-in-the-future-the-system-must-be-first-frederick-taylor
 - /resources/KX1xViey_BA
-aliasesFor404:
+- /resources/videos/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor-KX1xViey_BA
+- /resources/videos/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor
+- /resources/videos/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-taylor
+aliasesArchive:
+- /resources/videos/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor
 - /resources/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor
 - /resources/videos/quotes-in-the-past-the-man-has-been-first;-in-the-future-the-system-must-be-first-frederick-taylor
 - /resources/quotes-in-the-past-the-man-has-been-first;-in-the-future-the-system-must-be-first-frederick-taylor
+- /resources/videos/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-taylor
+- quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor-KX1xViey_BA
 sitemap:
   filename: sitemap.xml
   priority: 0.6

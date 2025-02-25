@@ -8,16 +8,17 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: wLJAMvwR6qI
 url: /resources/videos/:slug
-slug: ppdv-learning-outcomes-with-dr-joanna-plaskonka
+slug: mastering-assumptions-unlocking-success-in-product-development-through-hypothesis-driven-strategies
 layout: video
 aliases:
-- /resources/videos/wLJAMvwR6qI
-- /resources/videos/ppdv-learning-outcomes-with-dr-joanna-plaskonka
-- /resources/ppdv-learning-outcomes-with-dr-joanna-plaskonka
 - /resources/wLJAMvwR6qI
-aliasesFor404:
+- /resources/videos/mastering-assumptions-unlocking-success-in-product-development-through-hypothesis-driven-strategies
+- /resources/videos/ppdv-learning-outcomes-with-dr-joanna-plaskonka
+aliasesArchive:
+- /resources/videos/mastering-assumptions-unlocking-success-in-product-development-through-hypothesis-driven-strategies
 - /resources/videos/ppdv-learning-outcomes-with-dr-joanna-plaskonka
 - /resources/ppdv-learning-outcomes-with-dr-joanna-plaskonka
+- mastering-assumptions-unlocking-success-in-product-development-through-hypothesis-driven-strategies
 preview: https://i.ytimg.com/vi/wLJAMvwR6qI/maxresdefault.jpg
 duration: 302
 isShort: false

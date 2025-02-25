@@ -17,9 +17,9 @@ aliases:
 - /mobile-device-center
 - /resources/KLy7B-gdNTJ
 - /resources/blog/mobile-device-center
-aliasesFor404:
-- /mobile-device-center
+aliasesArchive:
 - /blog/mobile-device-center
+- /mobile-device-center
 - /resources/blog/mobile-device-center
 tags:
 - Windows

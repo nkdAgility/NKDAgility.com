@@ -14,15 +14,13 @@ preview: https://i.ytimg.com/vi/7UZsdsD23rs/maxresdefault.jpg
 duration: 330
 isShort: false
 aliases:
-- /resources/what-is-empiricism-and-why-is-it-so-critical-to-great-agile-2
-- /resources/what-is-empiricism-and-why-is-it-so-critical-to-great-agile
-- /resources/videos/what-is-empiricism-and-why-is-it-so-critical-to-great-agile
-- /resources/videos/7UZsdsD23rs
 - /resources/7UZsdsD23rs
-aliasesFor404:
+- /resources/videos/what-is-empiricism-and-why-is-it-so-critical-to-great-agile
+aliasesArchive:
+- /resources/videos/what-is-empiricism-and-why-is-it-so-critical-to-great-agile
 - /resources/what-is-empiricism-and-why-is-it-so-critical-to-great-agile-2
 - /resources/what-is-empiricism-and-why-is-it-so-critical-to-great-agile
-- /resources/videos/what-is-empiricism-and-why-is-it-so-critical-to-great-agile
+- what-is-empiricism-and-why-is-it-so-critical-to-great-agile
 sitemap:
   filename: sitemap.xml
   priority: 0.6

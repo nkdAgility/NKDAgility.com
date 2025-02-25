@@ -12,19 +12,20 @@ url: /resources/videos/:slug
 slug: building-a-culture-of-quality
 layout: video
 aliases:
-- /resources/videos/IZ-FlBbGaSY
-- /resources/videos/continuous-integration-and-continuous-delivery-ci-cd-for-quality
-- /resources/continuous-integration-and-continuous-delivery-ci-cd-for-quality
 - /resources/IZ-FlBbGaSY
-aliasesFor404:
+- /resources/videos/building-a-culture-of-quality
+- /resources/videos/continuous-integration-and-continuous-delivery-ci-cd-for-quality
+aliasesArchive:
+- /resources/videos/building-a-culture-of-quality
 - /resources/videos/continuous-integration-and-continuous-delivery-ci-cd-for-quality
 - /resources/continuous-integration-and-continuous-delivery-ci-cd-for-quality
+- building-a-culture-of-quality
 preview: https://i.ytimg.com/vi/IZ-FlBbGaSY/maxresdefault.jpg
 duration: 451
 isShort: false
 tags:
-- Continuous Delivery
 - Continuous Integration
+- Continuous Delivery
 - Software Development
 sitemap:
   filename: sitemap.xml

@@ -9,23 +9,21 @@ ResourceImportSource: Youtube
 videoId: CdYwLGrArZU
 source: internal
 url: /resources/videos/:slug
-slug: most-common-thing-you-hear-in-a-pspo-course
+slug: most-common-thing-you-hear-in-a-pspo-course-CdYwLGrArZU
 layout: video
 preview: https://i.ytimg.com/vi/CdYwLGrArZU/maxresdefault.jpg
 duration: 56
 isShort: true
 aliases:
-- /resources/most-common-thing-you-hear-in-a-pspo-course-2
-- /resources/most-common-thing-you-hear-in-a-pspo-course
-- /resources/videos/most-common-thing-you-hear-in-a-pspo-course-
-- /resources/videos/CdYwLGrArZU
-- /resources/most-common-thing-you-hear-in-a-pspo-course-
 - /resources/CdYwLGrArZU
-aliasesFor404:
+- /resources/videos/most-common-thing-you-hear-in-a-pspo-course-CdYwLGrArZU
+aliasesArchive:
+- /resources/videos/most-common-thing-you-hear-in-a-pspo-course
 - /resources/most-common-thing-you-hear-in-a-pspo-course-2
 - /resources/most-common-thing-you-hear-in-a-pspo-course
 - /resources/videos/most-common-thing-you-hear-in-a-pspo-course-
 - /resources/most-common-thing-you-hear-in-a-pspo-course-
+- most-common-thing-you-hear-in-a-pspo-course-CdYwLGrArZU
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -33,9 +31,9 @@ tags:
 - People and Process
 - Agile Product Management
 - Product Owner
+- Agile Project Management
 - Pragmatic Thinking
 - Personal
-- Agile Project Management
 resourceTypes:
 - video
 categories:

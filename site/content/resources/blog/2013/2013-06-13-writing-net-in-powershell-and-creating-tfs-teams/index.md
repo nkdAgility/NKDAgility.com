@@ -19,17 +19,17 @@ aliases:
 - /blog/writing--net-in-powershell-and-creating-tfs-teams
 - /resources/52GnS0fI67Q
 - /resources/blog/writing-net-in-powershell-and-creating-tfs-teams
-aliasesFor404:
-- /writing-net-in-powershell-and-creating-tfs-teams
+aliasesArchive:
 - /blog/writing-net-in-powershell-and-creating-tfs-teams
+- /writing-net-in-powershell-and-creating-tfs-teams
 - /writing--net-in-powershell-and-creating-tfs-teams
 - /blog/writing--net-in-powershell-and-creating-tfs-teams
 - /resources/blog/writing-net-in-powershell-and-creating-tfs-teams
 tags:
 - Practical Techniques and Tooling
+- Technical Mastery
 - Software Development
 - Azure DevOps
-- Technical Mastery
 categories: []
 preview: image11-1-1.png
 

@@ -17,21 +17,21 @@ aliases:
 - /the-high-of-release
 - /resources/akntzjbRQe2
 - /resources/blog/the-high-of-release
-aliasesFor404:
-- /the-high-of-release
+aliasesArchive:
 - /blog/the-high-of-release
+- /the-high-of-release
 - /resources/blog/the-high-of-release
 tags:
 - Events and Presentations
 - Product Delivery
-- Practical Techniques and Tooling
 - Azure Pipelines
 - Release Management
-- Azure DevOps
+- Practical Techniques and Tooling
 - Application Lifecycle Management
-- Software Development
+- Azure DevOps
 - News and Reviews
 - Software Developers
+- Software Development
 categories:
 - DevOps
 - Engineering Excellence

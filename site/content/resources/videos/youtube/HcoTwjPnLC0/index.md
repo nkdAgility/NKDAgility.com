@@ -9,23 +9,21 @@ ResourceImportSource: Youtube
 videoId: HcoTwjPnLC0
 source: internal
 url: /resources/videos/:slug
-slug: is-a-scrum-master-an-agile-project-manager
+slug: is-a-product-owner-an-agile-project-manager-HcoTwjPnLC0
 layout: video
 preview: https://i.ytimg.com/vi/HcoTwjPnLC0/maxresdefault.jpg
 duration: 48
 isShort: true
 aliases:
-- /resources/is-a-scrum-master-an-agile-project-manager
-- /resources/is-a-product-owner-an-agile-project-manager
-- /resources/videos/is-a-product-owner-an-agile-project-manager-
-- /resources/videos/HcoTwjPnLC0
-- /resources/is-a-product-owner-an-agile-project-manager-
 - /resources/HcoTwjPnLC0
-aliasesFor404:
+- /resources/videos/is-a-product-owner-an-agile-project-manager-HcoTwjPnLC0
+aliasesArchive:
+- /resources/videos/is-a-product-owner-an-agile-project-manager
 - /resources/is-a-scrum-master-an-agile-project-manager
 - /resources/is-a-product-owner-an-agile-project-manager
 - /resources/videos/is-a-product-owner-an-agile-project-manager-
 - /resources/is-a-product-owner-an-agile-project-manager-
+- is-a-product-owner-an-agile-project-manager-HcoTwjPnLC0
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -15,27 +15,26 @@ preview: https://i.ytimg.com/vi/rX258aqTf_w/maxresdefault.jpg
 duration: 318
 isShort: false
 aliases:
-- /resources/in-what-circumstances-is-agile-consulting-appropriate
-- /resources/videos/in-what-circumstances-is-agile-consulting-appropriate-
-- /resources/videos/rX258aqTf_w
-- /resources/in-what-circumstances-is-agile-consulting-appropriate-
 - /resources/rX258aqTf_w
-aliasesFor404:
+- /resources/videos/in-what-circumstances-is-agile-consulting-appropriate
+aliasesArchive:
+- /resources/videos/in-what-circumstances-is-agile-consulting-appropriate
 - /resources/in-what-circumstances-is-agile-consulting-appropriate
 - /resources/videos/in-what-circumstances-is-agile-consulting-appropriate-
 - /resources/in-what-circumstances-is-agile-consulting-appropriate-
+- in-what-circumstances-is-agile-consulting-appropriate
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - People and Process
 - Agile Project Management
-- Agile Strategy
+- Technical Leadership
 - Organisational Agility
 - Agile Transformation
-- Technical Leadership
-- Pragmatic Thinking
+- Agile Strategy
 - Software Development
+- Pragmatic Thinking
 - Agile Leadership
 - Organisational Change
 resourceTypes:

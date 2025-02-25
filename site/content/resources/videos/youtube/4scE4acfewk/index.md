@@ -14,29 +14,29 @@ preview: https://i.ytimg.com/vi/4scE4acfewk/maxresdefault.jpg
 duration: 212
 isShort: false
 aliases:
-- /resources/the-power-of-humility-in-agile-a-core-virtue-for-success
-- /resources/videos/7-virtues-of-agile-humility
-- /resources/videos/4scE4acfewk
-- /resources/7-virtues-of-agile-humility
 - /resources/4scE4acfewk
-aliasesFor404:
+- /resources/videos/the-power-of-humility-in-agile-a-core-virtue-for-success
+- /resources/videos/7-virtues-of-agile-humility
+aliasesArchive:
+- /resources/videos/the-power-of-humility-in-agile-a-core-virtue-for-success
 - /resources/the-power-of-humility-in-agile-a-core-virtue-for-success
 - /resources/videos/7-virtues-of-agile-humility
 - /resources/7-virtues-of-agile-humility
+- the-power-of-humility-in-agile-a-core-virtue-for-success
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - People and Process
 - Agile Values and Principles
+- Team Motivation
 - Team Collaboration
 - Agile Philosophy
-- Team Motivation
 - Organisational Culture
 - Agile Project Management
 - Team Performance
 - Metrics and Learning
-- Agile Leadership
+- Decision Making
 resourceTypes:
 - video
 layout: video

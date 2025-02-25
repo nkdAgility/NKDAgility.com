@@ -10,7 +10,7 @@ aliases:
 - /guides/Kanban-Guide-for-Scrum-Teams.html
 - /learn/agile-delivery-kit/guides/kanban-guide-for-scrum-teams
 - /resources/Z3HzXH_nmmz
-aliasesFor404:
+aliasesArchive:
 - /guides/Kanban-Guide-for-Scrum-Teams.html
 - /learn/agile-delivery-kit/guides/kanban-guide-for-scrum-teams
 references:

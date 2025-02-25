@@ -17,9 +17,9 @@ aliases:
 - /my-first-scrum-team-in-the-wild
 - /resources/ov2kV0DI9xR
 - /resources/blog/my-first-scrum-team-in-the-wild
-aliasesFor404:
-- /my-first-scrum-team-in-the-wild
+aliasesArchive:
 - /blog/my-first-scrum-team-in-the-wild
+- /my-first-scrum-team-in-the-wild
 - /resources/blog/my-first-scrum-team-in-the-wild
 tags:
 - Agile Project Management

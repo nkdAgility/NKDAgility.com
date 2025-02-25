@@ -15,17 +15,15 @@ preview: https://i.ytimg.com/vi/Na9jm-enlD0/maxresdefault.jpg
 duration: 777
 isShort: false
 aliases:
-- /resources/where-is-consensus-valuable-and-where-does-it-kill-great-product-development-2
-- /resources/where-is-consensus-valuable-and-where-does-it-kill-great-product-development
-- /resources/videos/where-is-consensus-valuable-and-where-does-it-kill-great-product-development-
-- /resources/videos/Na9jm-enlD0
-- /resources/where-is-consensus-valuable-and-where-does-it-kill-great-product-development-
 - /resources/Na9jm-enlD0
-aliasesFor404:
+- /resources/videos/where-is-consensus-valuable-and-where-does-it-kill-great-product-development
+aliasesArchive:
+- /resources/videos/where-is-consensus-valuable-and-where-does-it-kill-great-product-development
 - /resources/where-is-consensus-valuable-and-where-does-it-kill-great-product-development-2
 - /resources/where-is-consensus-valuable-and-where-does-it-kill-great-product-development
 - /resources/videos/where-is-consensus-valuable-and-where-does-it-kill-great-product-development-
 - /resources/where-is-consensus-valuable-and-where-does-it-kill-great-product-development-
+- where-is-consensus-valuable-and-where-does-it-kill-great-product-development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -34,11 +32,11 @@ tags:
 - Products and Books
 - Decision Making
 - Product Owner
-- Team Collaboration
-- Decision Theory
 - Agile Product Management
 - Agile Project Management
-- Sensemaking
+- Decision Theory
+- Team Collaboration
+- Entrepreneurship
 - Pragmatic Thinking
 resourceTypes:
 - video

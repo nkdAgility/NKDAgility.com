@@ -15,31 +15,31 @@ preview: https://i.ytimg.com/vi/B12n_52H48U/maxresdefault.jpg
 duration: 313
 isShort: false
 aliases:
-- /resources/how-do-you-decide-whether-to-pivot-or-stay-the-course-nokia-story-2
-- /resources/how-do-you-decide-whether-to-pivot-or-stay-the-course
-- /resources/videos/raise,-ante-up,-or-fold-the-ultimate-decision-in-business
-- /resources/videos/B12n_52H48U
-- /resources/raise,-ante-up,-or-fold-the-ultimate-decision-in-business
 - /resources/B12n_52H48U
-aliasesFor404:
+- /resources/videos/how-do-you-decide-whether-to-pivot-or-stay-the-course-nokia-story
+- /resources/videos/raise-ante-up-or-fold-the-ultimate-decision-in-business
+aliasesArchive:
+- /resources/videos/how-do-you-decide-whether-to-pivot-or-stay-the-course-nokia-story
 - /resources/how-do-you-decide-whether-to-pivot-or-stay-the-course-nokia-story-2
 - /resources/how-do-you-decide-whether-to-pivot-or-stay-the-course
 - /resources/videos/raise,-ante-up,-or-fold-the-ultimate-decision-in-business
 - /resources/raise,-ante-up,-or-fold-the-ultimate-decision-in-business
+- /resources/videos/raise-ante-up-or-fold-the-ultimate-decision-in-business
+- how-do-you-decide-whether-to-pivot-or-stay-the-course-nokia-story
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Product Owner
-- Decision Theory
 - People and Process
-- Agile Product Management
 - Decision Making
-- Pragmatic Thinking
+- Agile Product Management
+- Decision Theory
 - Agile Project Management
+- Pragmatic Thinking
 - Scrum Product Development
+- Market Adaptability
 - Agile Strategy
-- Sensemaking
 resourceTypes:
 - video
 categories:

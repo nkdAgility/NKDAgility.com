@@ -21,9 +21,9 @@ aliases:
 - /you-may-be-a-tech-whiz--but-are-you-certifiable-
 - /blog/you-may-be-a-tech-whiz--but-are-you-certifiable-
 - /resources/blog/you-may-be-a-tech-whiz-but-are-you-certifiable
-aliasesFor404:
-- /you-may-be-a-tech-whiz-but-are-you-certifiable
+aliasesArchive:
 - /blog/you-may-be-a-tech-whiz-but-are-you-certifiable
+- /you-may-be-a-tech-whiz-but-are-you-certifiable
 - /you-may-be-a-tech-whiz,-but-are-you-certifiable-
 - /blog/you-may-be-a-tech-whiz,-but-are-you-certifiable-
 - /you-may-be-a-tech-whiz--but-are-you-certifiable-

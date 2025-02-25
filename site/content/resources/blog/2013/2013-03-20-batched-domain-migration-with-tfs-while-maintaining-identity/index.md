@@ -17,21 +17,21 @@ aliases:
 - /batched-domain-migration-with-tfs-while-maintaining-identity
 - /resources/vzIIFAI5ygR
 - /resources/blog/batched-domain-migration-with-tfs-while-maintaining-identity
-aliasesFor404:
-- /batched-domain-migration-with-tfs-while-maintaining-identity
+aliasesArchive:
 - /blog/batched-domain-migration-with-tfs-while-maintaining-identity
+- /batched-domain-migration-with-tfs-while-maintaining-identity
 - /resources/blog/batched-domain-migration-with-tfs-while-maintaining-identity
 tags:
 - Pragmatic Thinking
-- Install and Configuration
 - Practical Techniques and Tooling
-- Software Development
-- Technical Excellence
-- Azure DevOps
-- System Configuration
+- Install and Configuration
 - Troubleshooting
 - Technical Mastery
 - Operational Practices
+- Software Development
+- Technical Excellence
+- System Configuration
+- Azure DevOps
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-5-5.png

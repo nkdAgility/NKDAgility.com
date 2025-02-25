@@ -14,29 +14,29 @@ preview: https://i.ytimg.com/vi/6D6QTjSrJ14/maxresdefault.jpg
 duration: 222
 isShort: false
 aliases:
-- /resources/what-has-the-initial-response-been-to-the-immersive-learning-experiences-how-do-you-see-that-evolving
-- /resources/what-has-the-initial-response-been-to-the-immersive-learning-experiences
-- /resources/videos/what-has-the-initial-response-been-to-the-immersive-learning-experiences-
-- /resources/videos/6D6QTjSrJ14
-- /resources/what-has-the-initial-response-been-to-the-immersive-learning-experiences-
 - /resources/6D6QTjSrJ14
-aliasesFor404:
+- /resources/videos/what-has-the-initial-response-been-to-the-immersive-learning-experiences-how-do-you-see-that-evolving
+- /resources/videos/what-has-the-initial-response-been-to-the-immersive-learning-experiences
+aliasesArchive:
+- /resources/videos/what-has-the-initial-response-been-to-the-immersive-learning-experiences-how-do-you-see-that-evolving
 - /resources/what-has-the-initial-response-been-to-the-immersive-learning-experiences-how-do-you-see-that-evolving
 - /resources/what-has-the-initial-response-been-to-the-immersive-learning-experiences
 - /resources/videos/what-has-the-initial-response-been-to-the-immersive-learning-experiences-
 - /resources/what-has-the-initial-response-been-to-the-immersive-learning-experiences-
+- /resources/videos/what-has-the-initial-response-been-to-the-immersive-learning-experiences
+- what-has-the-initial-response-been-to-the-immersive-learning-experiences-how-do-you-see-that-evolving
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Continuous Learning
 - Discovery and Learning
-- People and Process
 - Customer Feedback Loops
 - Coaching
 - Value Delivery
-- Customer Satisfaction
 - Personal
+- Customer Satisfaction
 resourceTypes:
 - video
 layout: video

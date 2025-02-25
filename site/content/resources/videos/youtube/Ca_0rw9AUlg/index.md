@@ -15,28 +15,29 @@ preview: https://i.ytimg.com/vi/Ca_0rw9AUlg/maxresdefault.jpg
 duration: 195
 isShort: false
 aliases:
-- /resources/theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
-- /resources/videos/there's-no-such-thing-as-an-agile-transformation-it's-a-culture-transformation-michael-sahota
-- /resources/videos/Ca_0rw9AUlg
-- /resources/there's-no-such-thing-as-an-agile-transformation-it's-a-culture-transformation-michael-sahota
 - /resources/Ca_0rw9AUlg
-aliasesFor404:
+- /resources/videos/theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
+- /resources/videos/theres-no-such-thing-as-an-agile-transformation-its-a-culture-transformation-michael-sahota
+aliasesArchive:
+- /resources/videos/theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
 - /resources/theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
 - /resources/videos/there's-no-such-thing-as-an-agile-transformation-it's-a-culture-transformation-michael-sahota
 - /resources/there's-no-such-thing-as-an-agile-transformation-it's-a-culture-transformation-michael-sahota
+- /resources/videos/theres-no-such-thing-as-an-agile-transformation-its-a-culture-transformation-michael-sahota
+- theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Organisational Culture
 - Organisational Change
-- People and Process
-- Organisational Physics
 - Change Management
+- Organisational Physics
 - Systems Thinking
 - Sociotechnical Systems
-- Pragmatic Thinking
 - Complexity Thinking
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

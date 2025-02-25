@@ -15,15 +15,14 @@ preview: https://i.ytimg.com/vi/Cgy1ccX7e7Y/maxresdefault.jpg
 duration: 389
 isShort: false
 aliases:
-- /resources/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client
-- /resources/videos/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client-
-- /resources/videos/Cgy1ccX7e7Y
-- /resources/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client-
 - /resources/Cgy1ccX7e7Y
-aliasesFor404:
+- /resources/videos/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client
+aliasesArchive:
+- /resources/videos/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client
 - /resources/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client
 - /resources/videos/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client-
 - /resources/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client-
+- what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -33,11 +32,11 @@ tags:
 - Organisational Change
 - Agile Project Management
 - Business Agility
-- Agile Leadership
 - Market Adaptability
+- Agile Leadership
+- Agile Strategy
 - Pragmatic Thinking
-- Change Management
-- Software Development
+- Complexity Thinking
 resourceTypes:
 - video
 categories:

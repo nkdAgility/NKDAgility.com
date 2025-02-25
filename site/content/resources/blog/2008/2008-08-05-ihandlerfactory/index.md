@@ -17,13 +17,13 @@ aliases:
 - /ihandlerfactory
 - /resources/kYNSKaqUYb7
 - /resources/blog/ihandlerfactory
-aliasesFor404:
-- /ihandlerfactory
+aliasesArchive:
 - /blog/ihandlerfactory
+- /ihandlerfactory
 - /resources/blog/ihandlerfactory
 tags:
-- Software Development
 - Technical Mastery
+- Software Development
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-1-1.png

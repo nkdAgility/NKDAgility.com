@@ -15,29 +15,30 @@ preview: https://i.ytimg.com/vi/oKZ9bbESCok/maxresdefault.jpg
 duration: 411
 isShort: false
 aliases:
-- /resources/say-do-metrics-avoiding-agile-banditry-in-your-organization
-- /resources/videos/5-kinds-of-agile-bandits-say-do-metrics
-- /resources/videos/oKZ9bbESCok
-- /resources/5-kinds-of-agile-bandits-say-do-metrics
 - /resources/oKZ9bbESCok
-aliasesFor404:
+- /resources/videos/say-do-metrics-avoiding-agile-banditry-in-your-organization
+- /resources/videos/5-kinds-of-agile-bandits-saydo-metrics
+aliasesArchive:
+- /resources/videos/say-do-metrics-avoiding-agile-banditry-in-your-organization
 - /resources/say-do-metrics-avoiding-agile-banditry-in-your-organization
 - /resources/videos/5-kinds-of-agile-bandits-say-do-metrics
 - /resources/5-kinds-of-agile-bandits-say-do-metrics
+- /resources/videos/5-kinds-of-agile-bandits-saydo-metrics
+- say-do-metrics-avoiding-agile-banditry-in-your-organization
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Metrics and Learning
 - People and Process
+- Metrics and Learning
 - Agile Project Management
-- Organisational Agility
 - Psychological Safety
+- Organisational Agility
 - Agile Philosophy
-- Software Development
 - Pragmatic Thinking
-- Transparency and Accountability
+- Software Development
 - Agile Product Management
+- Transparency and Accountability
 resourceTypes:
 - video
 categories:

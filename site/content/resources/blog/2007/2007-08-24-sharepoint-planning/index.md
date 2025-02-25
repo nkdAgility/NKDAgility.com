@@ -17,9 +17,9 @@ aliases:
 - /sharepoint-planning
 - /resources/NWq41MdV9s6
 - /resources/blog/sharepoint-planning
-aliasesFor404:
-- /sharepoint-planning
+aliasesArchive:
 - /blog/sharepoint-planning
+- /sharepoint-planning
 - /resources/blog/sharepoint-planning
 tags:
 - Deployment Strategies

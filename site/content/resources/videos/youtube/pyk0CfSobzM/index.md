@@ -15,15 +15,14 @@ preview: https://i.ytimg.com/vi/pyk0CfSobzM/maxresdefault.jpg
 duration: 244
 isShort: false
 aliases:
-- /resources/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint
-- /resources/videos/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint-
-- /resources/videos/pyk0CfSobzM
-- /resources/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint-
 - /resources/pyk0CfSobzM
-aliasesFor404:
+- /resources/videos/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint
+aliasesArchive:
+- /resources/videos/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint
 - /resources/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint
 - /resources/videos/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint-
 - /resources/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint-
+- how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -31,13 +30,13 @@ tags:
 - Estimation
 - Scrum Product Development
 - Scrum Team
-- Professional Scrum
-- Scrum Master
 - People and Process
 - Agile Product Management
-- Software Development
+- Scrum Master
+- Professional Scrum
+- Agile Project Management
 - Pragmatic Thinking
-- Agile Frameworks
+- Software Development
 resourceTypes:
 - video
 categories:

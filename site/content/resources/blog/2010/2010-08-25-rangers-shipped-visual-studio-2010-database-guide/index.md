@@ -17,17 +17,17 @@ aliases:
 - /rangers-shipped-visual-studio-2010-database-guide
 - /resources/cPIxk6Q_Dan
 - /resources/blog/rangers-shipped-visual-studio-2010-database-guide
-aliasesFor404:
-- /rangers-shipped-visual-studio-2010-database-guide
+aliasesArchive:
 - /blog/rangers-shipped-visual-studio-2010-database-guide
+- /rangers-shipped-visual-studio-2010-database-guide
 - /resources/blog/rangers-shipped-visual-studio-2010-database-guide
 tags:
-- Modern Source Control
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
+- Modern Source Control
 - Products and Books
-- Technical Mastery
 - Application Lifecycle Management
+- Technical Mastery
 - Software Development
 categories:
 - DevOps

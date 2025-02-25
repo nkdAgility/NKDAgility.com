@@ -15,28 +15,28 @@ preview: https://i.ytimg.com/vi/G1BQG2tsbYg/maxresdefault.jpg
 duration: 1259
 isShort: false
 aliases:
-- /resources/how-to-achieve-predictability-in-business-through-agile-principles
-- /resources/videos/outcome-increased-business-predictability
-- /resources/videos/G1BQG2tsbYg
-- /resources/outcome-increased-business-predictability
 - /resources/G1BQG2tsbYg
-aliasesFor404:
+- /resources/videos/how-to-achieve-predictability-in-business-through-agile-principles
+- /resources/videos/outcome-increased-business-predictability
+aliasesArchive:
+- /resources/videos/how-to-achieve-predictability-in-business-through-agile-principles
 - /resources/how-to-achieve-predictability-in-business-through-agile-principles
 - /resources/videos/outcome-increased-business-predictability
 - /resources/outcome-increased-business-predictability
+- how-to-achieve-predictability-in-business-through-agile-principles
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Strategy
 - Enterprise Agility
 - Business Agility
+- Agile Strategy
 - Strategy
-- Agile Values and Principles
 - Agile Product Management
-- Agile Planning
-- Agile Frameworks
-- People and Process
+- Agile Values and Principles
+- Market Adaptability
+- Change Management
+- Operational Practices
 - Resilience and Change
 resourceTypes:
 - video

@@ -13,7 +13,7 @@ slug: continuous-improvement
 aliases:
 - /principles/continuous-improvement/
 - /resources/ncwxEspXRQm
-aliasesFor404:
+aliasesArchive:
 - /principles/continuous-improvement/
 card:
   button:

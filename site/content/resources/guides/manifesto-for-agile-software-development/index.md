@@ -10,7 +10,7 @@ aliases:
 - guides/manifesto-for-agile-software-developmen/
 - /learn/agile-delivery-kit/guides/manifesto-for-agile-software-development
 - /resources/poyC7fUGitC
-aliasesFor404:
+aliasesArchive:
 - guides/manifesto-for-agile-software-developmen/
 - /learn/agile-delivery-kit/guides/manifesto-for-agile-software-development
 references:

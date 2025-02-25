@@ -15,28 +15,32 @@ preview: https://i.ytimg.com/vi/NeGch-lQkPA/maxresdefault.jpg
 duration: 125
 isShort: false
 aliases:
-- /resources/overview-of-applying-flow-metrics-for-scrum-course
-- /resources/videos/overview-of-'applying-flow-metrics-for-scrum'-kanban-course-
-- /resources/videos/NeGch-lQkPA
-- /resources/overview-of-'applying-flow-metrics-for-scrum'-kanban-course-
 - /resources/NeGch-lQkPA
-aliasesFor404:
+- /resources/videos/overview-of-applying-flow-metrics-for-scrum-course
+- /resources/videos/overview-of-applying-flow-metrics-for-scrum-kanban-course
+aliasesArchive:
+- /resources/videos/overview-of-applying-flow-metrics-for-scrum-course-
 - /resources/overview-of-applying-flow-metrics-for-scrum-course
 - /resources/videos/overview-of-'applying-flow-metrics-for-scrum'-kanban-course-
 - /resources/overview-of-'applying-flow-metrics-for-scrum'-kanban-course-
+- /resources/videos/overview-of-applying-flow-metrics-for-scrum-kanban-course-
+- overview-of-applying-flow-metrics-for-scrum-course-
+- /resources/videos/overview-of-applying-flow-metrics-for-scrum-course
+- /resources/videos/overview-of-applying-flow-metrics-for-scrum-kanban-course
+- overview-of-applying-flow-metrics-for-scrum-course
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Metrics and Learning
 - Value Delivery
+- Metrics and Learning
 - Product Delivery
-- Practical Techniques and Tooling
 - Team Performance
-- Pragmatic Thinking
-- Agile Project Management
+- Practical Techniques and Tooling
 - Operational Practices
 - Software Development
+- Pragmatic Thinking
+- Agile Project Management
 - Agile Frameworks
 resourceTypes:
 - video

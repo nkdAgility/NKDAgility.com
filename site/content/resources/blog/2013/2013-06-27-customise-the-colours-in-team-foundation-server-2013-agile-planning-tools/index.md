@@ -17,15 +17,15 @@ aliases:
 - /customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
 - /resources/2kvi44Dp0xl
 - /resources/blog/customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
-aliasesFor404:
-- /customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
+aliasesArchive:
 - /blog/customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
+- /customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
 - /resources/blog/customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
 tags:
 - Install and Configuration
+- Practical Techniques and Tooling
 - Azure Boards
 - System Configuration
-- Practical Techniques and Tooling
 - Software Development
 - Azure DevOps
 categories: []

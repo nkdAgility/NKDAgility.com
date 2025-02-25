@@ -8,16 +8,17 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Qt1Ywu_KLrc
 url: /resources/videos/:slug
-slug: basic-work-item-migration-with-the-azure-devops-migration-tools
+slug: mastering-azure-devops-migration-a-step-by-step-guide-for-seamless-project-transfers
 layout: video
 aliases:
-- /resources/videos/Qt1Ywu_KLrc
-- /resources/videos/basic-work-item-migration-with-the-azure-devops-migration-tools
-- /resources/basic-work-item-migration-with-the-azure-devops-migration-tools
 - /resources/Qt1Ywu_KLrc
-aliasesFor404:
+- /resources/videos/mastering-azure-devops-migration-a-step-by-step-guide-for-seamless-project-transfers
+- /resources/videos/basic-work-item-migration-with-the-azure-devops-migration-tools
+aliasesArchive:
+- /resources/videos/mastering-azure-devops-migration-a-step-by-step-guide-for-seamless-project-transfers
 - /resources/videos/basic-work-item-migration-with-the-azure-devops-migration-tools
 - /resources/basic-work-item-migration-with-the-azure-devops-migration-tools
+- mastering-azure-devops-migration-a-step-by-step-guide-for-seamless-project-transfers
 preview: https://i.ytimg.com/vi/Qt1Ywu_KLrc/maxresdefault.jpg
 duration: 2020
 isShort: false

@@ -8,29 +8,31 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: OWvCS3xb7pQ
 url: /resources/videos/:slug
-slug: what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates-
+slug: transforming-leadership-embrace-the-immersive-journey-to-agile-mastery
 layout: video
 aliases:
-- /resources/videos/OWvCS3xb7pQ
-- /resources/videos/what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates-
-- /resources/what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates-
 - /resources/OWvCS3xb7pQ
-aliasesFor404:
+- /resources/videos/transforming-leadership-embrace-the-immersive-journey-to-agile-mastery
+- /resources/videos/what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates
+aliasesArchive:
+- /resources/videos/transforming-leadership-embrace-the-immersive-journey-to-agile-mastery
 - /resources/videos/what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates-
 - /resources/what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates-
+- /resources/videos/what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates
+- transforming-leadership-embrace-the-immersive-journey-to-agile-mastery
 preview: https://i.ytimg.com/vi/OWvCS3xb7pQ/maxresdefault.jpg
 duration: 181
 isShort: false
 tags:
 - Agile Leadership
-- Continuous Learning
 - People and Process
 - Agile Transformation
-- Organisational Agility
+- Continuous Learning
 - Organisational Change
+- Organisational Agility
+- Mentoring
 - Pragmatic Thinking
 - Personal
-- Mentoring
 sitemap:
   filename: sitemap.xml
   priority: 0.6

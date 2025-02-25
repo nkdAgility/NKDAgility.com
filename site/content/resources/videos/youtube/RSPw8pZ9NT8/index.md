@@ -8,16 +8,18 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: RSPw8pZ9NT8
 url: /resources/videos/:slug
-slug: can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations
+slug: unlocking-the-power-of-kanban-transform-your-workflow-with-data-driven-insights
 layout: video
 aliases:
-- /resources/videos/RSPw8pZ9NT8
-- /resources/videos/can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations
-- /resources/can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations
 - /resources/RSPw8pZ9NT8
-aliasesFor404:
+- /resources/videos/unlocking-the-power-of-kanban-transform-your-workflow-with-data-driven-insights
+- /resources/videos/can-you-talk-about-the-kanban-workshop-and-why-its-a-great-option-for-organizations
+aliasesArchive:
+- /resources/videos/unlocking-the-power-of-kanban-transform-your-workflow-with-data-driven-insights
 - /resources/videos/can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations
 - /resources/can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations
+- /resources/videos/can-you-talk-about-the-kanban-workshop-and-why-its-a-great-option-for-organizations
+- unlocking-the-power-of-kanban-transform-your-workflow-with-data-driven-insights
 preview: https://i.ytimg.com/vi/RSPw8pZ9NT8/maxresdefault.jpg
 duration: 466
 isShort: false
@@ -25,13 +27,13 @@ tags:
 - Throughput
 - Forecasting
 - Strategy
-- Value Delivery
 - Metrics and Learning
 - Cycle Time
-- Pragmatic Thinking
+- Value Delivery
 - Flow Efficiency
-- Practical Techniques and Tooling
+- Pragmatic Thinking
 - Software Development
+- Practical Techniques and Tooling
 sitemap:
   filename: sitemap.xml
   priority: 0.6

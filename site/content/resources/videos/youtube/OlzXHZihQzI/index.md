@@ -9,28 +9,29 @@ ResourceImportSource: Youtube
 videoId: OlzXHZihQzI
 source: internal
 url: /resources/videos/:slug
-slug: unlocking-the-power-of-immersive-learning-in-agile
+slug: unlocking-the-power-of-immersive-learning-in-agile-OlzXHZihQzI
 layout: video
 preview: https://i.ytimg.com/vi/OlzXHZihQzI/maxresdefault.jpg
 duration: 45
 isShort: true
 aliases:
-- /resources/unlocking-the-power-of-immersive-learning-in-agile
-- /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-4
-- /resources/videos/OlzXHZihQzI
-- /resources/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-4
 - /resources/OlzXHZihQzI
-aliasesFor404:
+- /resources/videos/unlocking-the-power-of-immersive-learning-in-agile-OlzXHZihQzI
+- /resources/videos/unlocking-the-power-of-immersive-learning-in-agile
+- /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-4
+aliasesArchive:
+- /resources/videos/unlocking-the-power-of-immersive-learning-in-agile
 - /resources/unlocking-the-power-of-immersive-learning-in-agile
 - /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-4
 - /resources/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-4
+- unlocking-the-power-of-immersive-learning-in-agile-OlzXHZihQzI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Discovery and Learning
-- Continuous Learning
 - People and Process
+- Continuous Learning
 - Organisational Agility
 resourceTypes:
 - video

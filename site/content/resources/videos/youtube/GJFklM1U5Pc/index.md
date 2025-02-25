@@ -15,21 +15,22 @@ preview: https://i.ytimg.com/vi/GJFklM1U5Pc/maxresdefault.jpg
 duration: 1313
 isShort: false
 aliases:
-- /resources/the-competence-crisis-in-scrum-master-roles-a-call-for-excellence
-- /resources/videos/in-your-experience,-what-is-the-current-state-of-scrum-master-competence-in-the-product-development
-- /resources/videos/GJFklM1U5Pc
-- /resources/in-your-experience,-what-is-the-current-state-of-scrum-master-competence-in-the-product-development
 - /resources/GJFklM1U5Pc
-aliasesFor404:
+- /resources/videos/the-competence-crisis-in-scrum-master-roles-a-call-for-excellence
+- /resources/videos/in-your-experience-what-is-the-current-state-of-scrum-master-competence-in-the-product-development
+aliasesArchive:
+- /resources/videos/the-competence-crisis-in-scrum-master-roles-a-call-for-excellence
 - /resources/the-competence-crisis-in-scrum-master-roles-a-call-for-excellence
 - /resources/videos/in-your-experience,-what-is-the-current-state-of-scrum-master-competence-in-the-product-development
 - /resources/in-your-experience,-what-is-the-current-state-of-scrum-master-competence-in-the-product-development
+- /resources/videos/in-your-experience-what-is-the-current-state-of-scrum-master-competence-in-the-product-development
+- the-competence-crisis-in-scrum-master-roles-a-call-for-excellence
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Master
 - People and Process
+- Scrum Master
 resourceTypes:
 - video
 categories:

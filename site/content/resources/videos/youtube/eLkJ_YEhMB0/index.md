@@ -15,29 +15,29 @@ preview: https://i.ytimg.com/vi/eLkJ_YEhMB0/maxresdefault.jpg
 duration: 371
 isShort: false
 aliases:
-- /resources/overcoming-the-ghost-of-agile-certifications
-- /resources/videos/5-ghosts-of-agile-past-3-questions
-- /resources/videos/eLkJ_YEhMB0
-- /resources/5-ghosts-of-agile-past-3-questions
 - /resources/eLkJ_YEhMB0
-aliasesFor404:
+- /resources/videos/overcoming-the-ghost-of-agile-certifications
+- /resources/videos/5-ghosts-of-agile-past-3-questions
+aliasesArchive:
+- /resources/videos/overcoming-the-ghost-of-agile-certifications
 - /resources/overcoming-the-ghost-of-agile-certifications
 - /resources/videos/5-ghosts-of-agile-past-3-questions
 - /resources/5-ghosts-of-agile-past-3-questions
+- overcoming-the-ghost-of-agile-certifications
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Project Management
 - People and Process
 - Scrum Team
 - Daily Scrum
-- Agile Transformation
-- Value Delivery
-- Scrum Product Development
-- Scrum Master
-- Team Performance
+- Agile Project Management
 - Pragmatic Thinking
+- Team Performance
+- Scrum Product Development
+- Agile Product Management
+- Scrum Master
+- Value Delivery
 resourceTypes:
 - video
 categories:

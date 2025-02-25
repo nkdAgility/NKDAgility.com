@@ -17,29 +17,29 @@ preview: https://i.ytimg.com/vi/_2ZH7vbKu7Y/maxresdefault.jpg
 duration: 412
 isShort: false
 aliases:
-- /resources/videos/3-key-elements-for-an-agile-leader-to-consider-if-the-team-are-incompetent
-- /resources/training-a-bridge-to-knowledge-and-growth
-- /resources/videos/_2ZH7vbKu7Y
-- /resources/3-key-elements-for-an-agile-leader-to-consider-if-the-team-are-incompetent
 - /resources/_2ZH7vbKu7Y
-aliasesFor404:
+- /resources/videos/training-a-bridge-to-knowledge-and-growth
+- /resources/videos/3-key-elements-for-an-agile-leader-to-consider-if-the-team-are-incompetent
+aliasesArchive:
+- /resources/videos/training-a-bridge-to-knowledge-and-growth
 - /resources/videos/3-key-elements-for-an-agile-leader-to-consider-if-the-team-are-incompetent
 - /resources/training-a-bridge-to-knowledge-and-growth
 - /resources/3-key-elements-for-an-agile-leader-to-consider-if-the-team-are-incompetent
+- training-a-bridge-to-knowledge-and-growth
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - People and Process
 - Personal
-- Continuous Learning
 - Discovery and Learning
+- Continuous Learning
 - Resilience and Change
-- Team Motivation
 - Pragmatic Thinking
 - Agile Leadership
 - Organisational Change
-- Technical Leadership
+- Team Collaboration
+- Team Motivation
 categories:
 - Leadership
 

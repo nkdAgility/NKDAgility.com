@@ -1,5 +1,5 @@
 ---
-title: 7 Harbingers of the Agile apocalypse. Organizational Structure.
+title: 7 Harbingers of the Agile apocalypse - Organizational Structure
 description: "Uncover the \"Antichrist of Agile\" as Martin Hinshelwood explores how traditional structures hinder agility and the path to self-organisation. \U0001F504\U0001F6AB"
 date: 2023-10-19T11:00:06Z
 ResourceId: 56hWAHhbrvs
@@ -14,29 +14,31 @@ preview: https://i.ytimg.com/vi/56hWAHhbrvs/maxresdefault.jpg
 duration: 241
 isShort: false
 aliases:
-- /resources/7-harbingers-of-the-agile-apocalypse-organizational-structure
-- /resources/videos/antichrist!-7-harbingers-agile-apocalypse
-- /resources/videos/56hWAHhbrvs
-- /resources/antichrist!-7-harbingers-agile-apocalypse
 - /resources/56hWAHhbrvs
-aliasesFor404:
+- /resources/videos/7-harbingers-of-the-agile-apocalypse-organizational-structure
+- /resources/videos/antichrist-7-harbingers-agile-apocalypse
+aliasesArchive:
+- /resources/videos/-harbingers-of-the-agile-apocalypse-organizational-structure
+- /resources/videos/7-harbingers-of-the-agile-apocalypse-organizational-structure
 - /resources/7-harbingers-of-the-agile-apocalypse-organizational-structure
 - /resources/videos/antichrist!-7-harbingers-agile-apocalypse
 - /resources/antichrist!-7-harbingers-agile-apocalypse
+- /resources/videos/antichrist-7-harbingers-agile-apocalypse
+- 7-harbingers-of-the-agile-apocalypse-organizational-structure
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Strategy
 - People and Process
+- Agile Strategy
 - Agile Philosophy
 - Agile Transformation
-- Organisational Agility
 - Scaling Agility
+- Business Agility
 - Organisational Culture
-- Enterprise Agility
-- Organisational Physics
 - Organisational Change
+- Organisational Physics
+- Beta Codex
 resourceTypes:
 - video
 layout: video
@@ -65,13 +67,13 @@ For organizations to truly embrace agility, a shift away from the Alpha model to
 
 1. **Promote Transparency and Communication:** Foster an environment where communication flows freely across all levels, breaking down silos and encouraging cross-functional collaboration.
 
-3. **Empower Teams:** Shift decision-making authority closer to the ground, allowing those directly involved with products and customers to make informed decisions quickly.
+2. **Empower Teams:** Shift decision-making authority closer to the ground, allowing those directly involved with products and customers to make informed decisions quickly.
 
-5. **Adopt a Servant Leadership Model:** Leaders should focus on enabling and supporting teams, rather than directing and controlling, to cultivate a culture of trust and innovation.
+3. **Adopt a Servant Leadership Model:** Leaders should focus on enabling and supporting teams, rather than directing and controlling, to cultivate a culture of trust and innovation.
 
-7. **Iterative Implementation:** Start small with changes that promote agility, and iterate based on feedback and results, allowing the organization to gradually transition away from the Alpha structure.
+4. **Iterative Implementation:** Start small with changes that promote agility, and iterate based on feedback and results, allowing the organization to gradually transition away from the Alpha structure.
 
-9. **Focus on Customer Value:** Align all efforts towards delivering value to the customer, ensuring that decision-making is driven by customer needs and market feedback.
+5. **Focus on Customer Value:** Align all efforts towards delivering value to the customer, ensuring that decision-making is driven by customer needs and market feedback.
 
 ## The Role of Leadership in the Transition
 

@@ -8,16 +8,17 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: MutnPwNzyXM
 url: /resources/videos/:slug
-slug: most-valuable-lesson-you-learned-as-an-agile-consultant
+slug: rethinking-the-statement-of-work-how-to-truly-meet-client-needs-beyond-the-contract
 layout: video
 aliases:
-- /resources/videos/MutnPwNzyXM
-- /resources/videos/most-valuable-lesson-you-learned-as-an-agile-consultant
-- /resources/most-valuable-lesson-you-learned-as-an-agile-consultant
 - /resources/MutnPwNzyXM
-aliasesFor404:
+- /resources/videos/rethinking-the-statement-of-work-how-to-truly-meet-client-needs-beyond-the-contract
+- /resources/videos/most-valuable-lesson-you-learned-as-an-agile-consultant
+aliasesArchive:
+- /resources/videos/rethinking-the-statement-of-work-how-to-truly-meet-client-needs-beyond-the-contract
 - /resources/videos/most-valuable-lesson-you-learned-as-an-agile-consultant
 - /resources/most-valuable-lesson-you-learned-as-an-agile-consultant
+- rethinking-the-statement-of-work-how-to-truly-meet-client-needs-beyond-the-contract
 preview: https://i.ytimg.com/vi/MutnPwNzyXM/maxresdefault.jpg
 duration: 263
 isShort: false
@@ -26,9 +27,9 @@ tags:
 - Agile Values and Principles
 - Agile Philosophy
 - Value Delivery
+- Miscellaneous
 - Pragmatic Thinking
 - Personal
-- Miscellaneous
 - Customer Satisfaction
 sitemap:
   filename: sitemap.xml

@@ -15,29 +15,30 @@ preview: https://i.ytimg.com/vi/O6rYL3EDUxM/maxresdefault.jpg
 duration: 426
 isShort: false
 aliases:
-- /resources/detecting-agile-bs-lessons-from-the-us-department-of-defense
-- /resources/videos/6-questions-to-determine-if-your-company-is-really-agile-the-agile-reality-check-[1-6]
-- /resources/videos/O6rYL3EDUxM
-- /resources/6-questions-to-determine-if-your-company-is-really-agile-the-agile-reality-check-[1-6]
 - /resources/O6rYL3EDUxM
-aliasesFor404:
+- /resources/videos/detecting-agile-bs-lessons-from-the-us-department-of-defense
+- /resources/videos/6-questions-to-determine-if-your-company-is-really-agile-the-agile-reality-check-16
+aliasesArchive:
+- /resources/videos/detecting-agile-bs-lessons-from-the-us-department-of-defense
 - /resources/detecting-agile-bs-lessons-from-the-us-department-of-defense
 - /resources/videos/6-questions-to-determine-if-your-company-is-really-agile-the-agile-reality-check-[1-6]
 - /resources/6-questions-to-determine-if-your-company-is-really-agile-the-agile-reality-check-[1-6]
+- /resources/videos/6-questions-to-determine-if-your-company-is-really-agile-the-agile-reality-check-16
+- detecting-agile-bs-lessons-from-the-us-department-of-defense
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Increment
 - People and Process
-- Working Software
 - Agile Values and Principles
+- Working Software
 - Product Delivery
-- Agile Leadership
+- Business Agility
 - Agile Product Management
 - Agile Product Operating Model
-- Business Agility
-- Enterprise Agility
+- Agile Leadership
+- Change Management
 resourceTypes:
 - video
 categories:

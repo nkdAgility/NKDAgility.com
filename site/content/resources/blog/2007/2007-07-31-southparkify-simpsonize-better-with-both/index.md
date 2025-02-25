@@ -20,12 +20,12 @@ aliases:
 - /blog/southparkify---simpsonize---better-with-both-
 - /resources/PEl4lRY2qjH
 - /resources/blog/southparkify-simpsonize-better-with-both
-aliasesFor404:
-- /southparkify-simpsonize-better-with-both
+aliasesArchive:
 - /blog/southparkify-simpsonize-better-with-both
+- /southparkify-simpsonize-better-with-both
+- /southparkify
 - /southparkify---simpsonize---better-with-both-
 - /blog/southparkify---simpsonize---better-with-both-
-- /southparkify
 - /resources/blog/southparkify-simpsonize-better-with-both
 categories: []
 tags: []

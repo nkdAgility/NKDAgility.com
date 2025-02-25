@@ -15,28 +15,27 @@ preview: https://i.ytimg.com/vi/T-K7HC-ZGjM/maxresdefault.jpg
 duration: 296
 isShort: false
 aliases:
-- /resources/what-is-a-sprint-backlog
-- /resources/videos/what-is-a-sprint-backlog-
-- /resources/videos/T-K7HC-ZGjM
-- /resources/what-is-a-sprint-backlog-
 - /resources/T-K7HC-ZGjM
-aliasesFor404:
+- /resources/videos/what-is-a-sprint-backlog
+aliasesArchive:
+- /resources/videos/what-is-a-sprint-backlog
 - /resources/what-is-a-sprint-backlog
 - /resources/videos/what-is-a-sprint-backlog-
 - /resources/what-is-a-sprint-backlog-
+- what-is-a-sprint-backlog
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Product Development
 - People and Process
-- Professional Scrum
+- Scrum Product Development
 - Agile Product Management
 - Product Delivery
+- Professional Scrum
+- Agile Project Management
+- Pragmatic Thinking
 - Software Development
 - Software Developers
-- Pragmatic Thinking
-- Agile Frameworks
 - Agile Planning
 resourceTypes:
 - video

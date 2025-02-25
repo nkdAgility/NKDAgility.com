@@ -19,24 +19,24 @@ aliases:
 - /blog/avoid-bug-task-anti-pattern-azure-devops/
 - /resources/ppfe8CkVNf0
 - /resources/blog/
-aliasesFor404:
-- /avoid-the-bug-as-task-anti-pattern-in-azure-devops
-- /blog/avoid-the-bug-as-task-anti-pattern-in-azure-devops
+aliasesArchive:
 - /blog/avoid-bug-task-anti-pattern-tfs
 - /avoid-bug-task-anti-pattern-tfs
+- /avoid-the-bug-as-task-anti-pattern-in-azure-devops
+- /blog/avoid-the-bug-as-task-anti-pattern-in-azure-devops
 - /blog/avoid-bug-task-anti-pattern-azure-devops/
 - /resources/blog/
 tags:
 - People and Process
-- Product Delivery
-- Software Development
 - Agile Product Management
-- Test First Development
-- Azure DevOps
 - Practical Techniques and Tooling
+- Product Delivery
+- Test First Development
 - Product Owner
-- Azure Boards
+- Software Development
+- Azure DevOps
 - Team Performance
+- Technical Mastery
 categories:
 - DevOps
 - Engineering Excellence

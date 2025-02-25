@@ -15,15 +15,15 @@ preview: https://i.ytimg.com/vi/j-mPdGP7BiU/maxresdefault.jpg
 duration: 302
 isShort: false
 aliases:
-- /resources/mastering-product-development-from-assumptions-to-hypotheses
-- /resources/videos/ppdv-learning-outcomes
-- /resources/videos/j-mPdGP7BiU
-- /resources/ppdv-learning-outcomes
 - /resources/j-mPdGP7BiU
-aliasesFor404:
+- /resources/videos/mastering-product-development-from-assumptions-to-hypotheses
+- /resources/videos/ppdv-learning-outcomes
+aliasesArchive:
+- /resources/videos/mastering-product-development-from-assumptions-to-hypotheses
 - /resources/mastering-product-development-from-assumptions-to-hypotheses
 - /resources/videos/ppdv-learning-outcomes
 - /resources/ppdv-learning-outcomes
+- mastering-product-development-from-assumptions-to-hypotheses
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -31,10 +31,10 @@ tags:
 - Experimentation
 - Metrics and Learning
 - Discovery and Learning
-- Continuous Learning
+- Decision Making
 - Hypothesis Driven Development
 - Product Validation
-- Decision Making
+- Continuous Learning
 - Product Discovery
 - Lean Startup
 - Evidence Based Management

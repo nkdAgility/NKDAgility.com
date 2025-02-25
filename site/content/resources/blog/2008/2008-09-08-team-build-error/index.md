@@ -17,14 +17,14 @@ aliases:
 - /team-build-error
 - /resources/hLCFRDIvAXj
 - /resources/blog/team-build-error
-aliasesFor404:
-- /team-build-error
+aliasesArchive:
 - /blog/team-build-error
+- /team-build-error
 - /resources/blog/team-build-error
 tags:
 - Windows
-- Software Development
 - Troubleshooting
+- Software Development
 preview: metro-visual-studio-2005-128-link-3-1.png
 categories:
 - DevOps

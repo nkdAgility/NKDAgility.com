@@ -21,24 +21,24 @@ aliases:
 - /loosing-the-battle--but-the-war-goes-on
 - /blog/loosing-the-battle--but-the-war-goes-on
 - /resources/blog/loosing-the-battle-but-the-war-goes-on
-aliasesFor404:
-- /loosing-the-battle-but-the-war-goes-on
+aliasesArchive:
 - /blog/loosing-the-battle-but-the-war-goes-on
+- /loosing-the-battle-but-the-war-goes-on
 - /loosing-the-battle,-but-the-war-goes-on
 - /blog/loosing-the-battle,-but-the-war-goes-on
 - /loosing-the-battle--but-the-war-goes-on
 - /blog/loosing-the-battle--but-the-war-goes-on
 - /resources/blog/loosing-the-battle-but-the-war-goes-on
 tags:
-- Release Management
 - People and Process
-- Modern Source Control
+- Release Management
 - Products and Books
-- Software Development
-- Software Developers
 - Practical Techniques and Tooling
 - Application Lifecycle Management
-- Collaboration Tools
+- Software Development
+- Software Developers
+- Modern Source Control
+- Miscellaneous
 - Pragmatic Thinking
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []

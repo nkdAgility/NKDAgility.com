@@ -19,9 +19,9 @@ aliases:
 - /blog/review--the-professional-scrum-masters-handbook
 - /resources/Truj03gqwvW
 - /resources/blog/review-the-professional-scrum-masters-handbook
-aliasesFor404:
-- /review-the-professional-scrum-masters-handbook
+aliasesArchive:
 - /blog/review-the-professional-scrum-masters-handbook
+- /review-the-professional-scrum-masters-handbook
 - /review--the-professional-scrum-masters-handbook
 - /blog/review--the-professional-scrum-masters-handbook
 - /resources/blog/review-the-professional-scrum-masters-handbook

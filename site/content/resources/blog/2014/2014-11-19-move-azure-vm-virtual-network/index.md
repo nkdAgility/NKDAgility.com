@@ -19,17 +19,17 @@ aliases:
 - /blog/move-your-azure-vm-to-a-virtual-network
 - /resources/nTSBTp1_gBy
 - /resources/blog/move-azure-vm-virtual-network
-aliasesFor404:
-- /move-azure-vm-virtual-network
+aliasesArchive:
 - /blog/move-azure-vm-virtual-network
+- /move-azure-vm-virtual-network
 - /move-your-azure-vm-to-a-virtual-network
 - /blog/move-your-azure-vm-to-a-virtual-network
 - /resources/blog/move-azure-vm-virtual-network
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
-- System Configuration
+- Install and Configuration
 - Troubleshooting
+- System Configuration
 categories:
 - DevOps
 preview: nakedalm-windows-logo-8-8.png

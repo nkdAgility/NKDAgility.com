@@ -15,15 +15,16 @@ preview: https://i.ytimg.com/vi/W3cyrYFXDfg/maxresdefault.jpg
 duration: 205
 isShort: false
 aliases:
-- /resources/agile-leadership-empowering-managers-with-the-right-skills
-- /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leader's-journey
-- /resources/videos/W3cyrYFXDfg
-- /resources/why-is-training-such-a-critical-element-in-a-manager-or-leader's-journey
 - /resources/W3cyrYFXDfg
-aliasesFor404:
+- /resources/videos/agile-leadership-empowering-managers-with-the-right-skills
+- /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leaders-journey
+aliasesArchive:
+- /resources/videos/agile-leadership-empowering-managers-with-the-right-skills
 - /resources/agile-leadership-empowering-managers-with-the-right-skills
 - /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leader's-journey
 - /resources/why-is-training-such-a-critical-element-in-a-manager-or-leader's-journey
+- /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leaders-journey
+- agile-leadership-empowering-managers-with-the-right-skills
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -31,13 +32,13 @@ tags:
 - Agile Leadership
 - People and Process
 - Metrics and Learning
-- Organisational Agility
-- Evidence Based Leadership
 - Decision Making
+- Evidence Based Leadership
+- Organisational Agility
 - Agile Strategy
 - Agile Project Management
-- Business Agility
 - Technical Leadership
+- Agile Transformation
 resourceTypes:
 - video
 categories:

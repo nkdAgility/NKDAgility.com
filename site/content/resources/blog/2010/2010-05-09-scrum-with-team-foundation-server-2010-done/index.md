@@ -17,9 +17,9 @@ aliases:
 - /scrum-with-team-foundation-server-2010-done
 - /resources/FjHIetvnkDz
 - /resources/blog/scrum-with-team-foundation-server-2010-done
-aliasesFor404:
-- /scrum-with-team-foundation-server-2010-done
+aliasesArchive:
 - /blog/scrum-with-team-foundation-server-2010-done
+- /scrum-with-team-foundation-server-2010-done
 - /resources/blog/scrum-with-team-foundation-server-2010-done
 tags:
 - Agile Project Management

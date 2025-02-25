@@ -8,22 +8,23 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 4Tjc5uEtM7M
 url: /resources/videos/:slug
-slug: devops-migration-lack-of-expertise
+slug: mastering-azure-devops-migration-expert-insights-for-a-seamless-transition
 aliases:
-- /resources/videos/4Tjc5uEtM7M
-- /resources/videos/devops-migration-lack-of-expertise
-- /resources/devops-migration-lack-of-expertise
 - /resources/4Tjc5uEtM7M
-aliasesFor404:
+- /resources/videos/mastering-azure-devops-migration-expert-insights-for-a-seamless-transition
+- /resources/videos/devops-migration-lack-of-expertise
+aliasesArchive:
+- /resources/videos/mastering-azure-devops-migration-expert-insights-for-a-seamless-transition
 - /resources/videos/devops-migration-lack-of-expertise
 - /resources/devops-migration-lack-of-expertise
+- mastering-azure-devops-migration-expert-insights-for-a-seamless-transition
 preview: https://i.ytimg.com/vi/4Tjc5uEtM7M/maxresdefault.jpg
 duration: 262
 isShort: false
 tags:
 - Azure DevOps
-- Pragmatic Thinking
 - Troubleshooting
+- Pragmatic Thinking
 - Practical Techniques and Tooling
 - Software Development
 sitemap:

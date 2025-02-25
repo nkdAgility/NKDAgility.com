@@ -17,9 +17,9 @@ aliases:
 - /windows-live-wave-3
 - /resources/V2MkZWsiMbX
 - /resources/blog/windows-live-wave-3
-aliasesFor404:
-- /windows-live-wave-3
+aliasesArchive:
 - /blog/windows-live-wave-3
+- /windows-live-wave-3
 - /resources/blog/windows-live-wave-3
 tags:
 - Install and Configuration

@@ -17,9 +17,9 @@ aliases:
 - /tfs-event-handler-v1-3-released
 - /resources/5utkJgImhFT
 - /resources/blog/tfs-event-handler-v1-3-released
-aliasesFor404:
-- /tfs-event-handler-v1-3-released
+aliasesArchive:
 - /blog/tfs-event-handler-v1-3-released
+- /tfs-event-handler-v1-3-released
 - /resources/blog/tfs-event-handler-v1-3-released
 tags:
 - Practical Techniques and Tooling

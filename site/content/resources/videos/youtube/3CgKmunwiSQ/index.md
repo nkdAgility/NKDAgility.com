@@ -14,24 +14,24 @@ preview: https://i.ytimg.com/vi/3CgKmunwiSQ/maxresdefault.jpg
 duration: 395
 isShort: false
 aliases:
-- /resources/understanding-the-difference-traditional-management-vs-evidence-based-management
-- /resources/videos/traditional-management-vs-evidence-based-management
-- /resources/videos/3CgKmunwiSQ
-- /resources/traditional-management-vs-evidence-based-management
 - /resources/3CgKmunwiSQ
-aliasesFor404:
+- /resources/videos/understanding-the-difference-traditional-management-vs-evidence-based-management
+- /resources/videos/traditional-management-vs-evidence-based-management
+aliasesArchive:
+- /resources/videos/understanding-the-difference-traditional-management-vs-evidence-based-management
 - /resources/understanding-the-difference-traditional-management-vs-evidence-based-management
 - /resources/videos/traditional-management-vs-evidence-based-management
 - /resources/traditional-management-vs-evidence-based-management
+- understanding-the-difference-traditional-management-vs-evidence-based-management
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Decision Making
 - Evidence Based Management
-- Evidence Based Leadership
-- Metrics and Learning
 - People and Process
+- Metrics and Learning
+- Evidence Based Leadership
 - Decision Theory
 - Pragmatic Thinking
 resourceTypes:

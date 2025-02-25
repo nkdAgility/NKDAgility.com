@@ -8,30 +8,32 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: ye1wQic8et0
 url: /resources/videos/:slug
-slug: it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-
+slug: cutting-through-the-red-tape-how-eliminating-committees-can-boost-your-time-to-market
 layout: video
 aliases:
-- /resources/videos/ye1wQic8et0
-- /resources/videos/it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-
-- /resources/it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-
 - /resources/ye1wQic8et0
-aliasesFor404:
+- /resources/videos/cutting-through-the-red-tape-how-eliminating-committees-can-boost-your-time-to-market
+- /resources/videos/its-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true
+aliasesArchive:
+- /resources/videos/cutting-through-the-red-tape-how-eliminating-committees-can-boost-your-time-to-market
 - /resources/videos/it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-
 - /resources/it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-
+- /resources/videos/its-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true
+- cutting-through-the-red-tape-how-eliminating-committees-can-boost-your-time-to-market
 preview: https://i.ytimg.com/vi/ye1wQic8et0/maxresdefault.jpg
 duration: 408
 isShort: false
 tags:
 - People and Process
-- Agile Strategy
 - Business Agility
-- Lead Time
 - Market Adaptability
-- Agile Philosophy
 - Decision Making
-- Enterprise Agility
+- Agile Strategy
+- Lead Time
+- Agile Philosophy
+- Operational Practices
 - Pragmatic Thinking
-- Organisational Agility
+- Flow Efficiency
 sitemap:
   filename: sitemap.xml
   priority: 0.6

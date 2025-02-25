@@ -17,9 +17,9 @@ aliases:
 - /creating-a-custom-proxy-class
 - /resources/S4XG-Is-FHq
 - /resources/blog/creating-a-custom-proxy-class
-aliasesFor404:
-- /creating-a-custom-proxy-class
+aliasesArchive:
 - /blog/creating-a-custom-proxy-class
+- /creating-a-custom-proxy-class
 - /resources/blog/creating-a-custom-proxy-class
 tags:
 - Software Development

@@ -9,34 +9,33 @@ ResourceImportSource: Youtube
 videoId: GJSBFyoHk8E
 source: internal
 url: /resources/videos/:slug
-slug: how-does-a-scrum-team-create-a-sprint-goal
+slug: how-does-a-scrum-team-create-a-sprint-goal-GJSBFyoHk8E
 layout: video
 preview: https://i.ytimg.com/vi/GJSBFyoHk8E/maxresdefault.jpg
 duration: 53
 isShort: true
 aliases:
-- /resources/how-does-a-scrum-team-create-a-sprint-goal
-- /resources/videos/how-does-a-scrum-team-create-a-sprint-goal-
-- /resources/videos/GJSBFyoHk8E
-- /resources/how-does-a-scrum-team-create-a-sprint-goal-
 - /resources/GJSBFyoHk8E
-aliasesFor404:
+- /resources/videos/how-does-a-scrum-team-create-a-sprint-goal-GJSBFyoHk8E
+aliasesArchive:
+- /resources/videos/how-does-a-scrum-team-create-a-sprint-goal
 - /resources/how-does-a-scrum-team-create-a-sprint-goal
 - /resources/videos/how-does-a-scrum-team-create-a-sprint-goal-
 - /resources/how-does-a-scrum-team-create-a-sprint-goal-
+- how-does-a-scrum-team-create-a-sprint-goal-GJSBFyoHk8E
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Scrum Product Development
 - Scrum Team
-- Professional Scrum
 - People and Process
 - Agile Product Management
-- Software Development
-- Agile Frameworks
-- Agile Planning
+- Professional Scrum
 - Agile Project Management
+- Software Development
+- Agile Planning
+- Agile Frameworks
 - Value Delivery
 resourceTypes:
 - video

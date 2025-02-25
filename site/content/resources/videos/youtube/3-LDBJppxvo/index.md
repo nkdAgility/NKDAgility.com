@@ -9,34 +9,36 @@ ResourceImportSource: Youtube
 videoId: 3-LDBJppxvo
 source: internal
 url: /resources/videos/:slug
-slug: the-importance-of-delivering-working-software-every-iteration
+slug: the-importance-of-delivering-working-software-every-iteration-3-LDBJppxvo
 preview: https://i.ytimg.com/vi/3-LDBJppxvo/maxresdefault.jpg
 duration: 56
 isShort: true
 aliases:
-- /resources/the-importance-of-delivering-working-software-every-iteration
-- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-1
-- /resources/videos/3-LDBJppxvo
-- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-1
 - /resources/3-LDBJppxvo
-aliasesFor404:
+- /resources/videos/the-importance-of-delivering-working-software-every-iteration-3-LDBJppxvo
+- /resources/videos/the-importance-of-delivering-working-software-every-iteration
+- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-1
+aliasesArchive:
+- /resources/videos/the-importance-of-delivering-working-software-every-iteration
 - /resources/the-importance-of-delivering-working-software-every-iteration
 - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-1
 - /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-1
+- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-1
+- the-importance-of-delivering-working-software-every-iteration-3-LDBJppxvo
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Customer Feedback Loops
-- Working Software
-- Agile Values and Principles
 - Agile Product Management
-- Agile Transformation
-- Software Development
-- Product Validation
+- Agile Values and Principles
+- Working Software
 - Software Developers
-- Product Delivery
-- Discovery and Learning
+- Value Delivery
+- Agile Philosophy
+- Scrum Product Development
+- Product Validation
+- Agile Project Management
 resourceTypes:
 - video
 layout: video

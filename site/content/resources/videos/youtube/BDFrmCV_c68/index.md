@@ -15,15 +15,17 @@ preview: https://i.ytimg.com/vi/BDFrmCV_c68/maxresdefault.jpg
 duration: 251
 isShort: false
 aliases:
-- /resources/7-deadly-sins-of-agile-pride
-- /resources/videos/pride!-7-deadly-sins-of-agile
-- /resources/videos/BDFrmCV_c68
-- /resources/pride!-7-deadly-sins-of-agile
 - /resources/BDFrmCV_c68
-aliasesFor404:
+- /resources/videos/7-deadly-sins-of-agile-pride
+- /resources/videos/pride-7-deadly-sins-of-agile
+aliasesArchive:
+- /resources/videos/-deadly-sins-of-agile-pride
+- /resources/videos/7-deadly-sins-of-agile-pride
 - /resources/7-deadly-sins-of-agile-pride
 - /resources/videos/pride!-7-deadly-sins-of-agile
 - /resources/pride!-7-deadly-sins-of-agile
+- /resources/videos/pride-7-deadly-sins-of-agile
+- 7-deadly-sins-of-agile-pride
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -34,10 +36,10 @@ tags:
 - Agile Product Management
 - Product Owner
 - Value Delivery
-- Evidence Based Leadership
+- Decision Making
 - Hypothesis Driven Development
 - Experimentation
-- Decision Making
+- Evidence Based Leadership
 resourceTypes:
 - video
 categories:

@@ -19,22 +19,22 @@ aliases:
 - /blog/tfs-build-reports-licencies-licx--unable-to-load-type
 - /resources/om6UWMd_ONd
 - /resources/blog/tfs-build-reports-licencies-licx-unable-load-type
-aliasesFor404:
-- /tfs-build-reports-licencies-licx-unable-load-type
+aliasesArchive:
 - /blog/tfs-build-reports-licencies-licx-unable-load-type
+- /tfs-build-reports-licencies-licx-unable-load-type
 - /tfs-build-reports-licencies-licx--unable-to-load-type
 - /blog/tfs-build-reports-licencies-licx--unable-to-load-type
 - /resources/blog/tfs-build-reports-licencies-licx-unable-load-type
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Software Development
-- Technical Excellence
-- Pragmatic Thinking
-- System Configuration
 - Troubleshooting
 - Operational Practices
+- Pragmatic Thinking
+- Software Development
 - Continuous Integration
+- Technical Excellence
+- System Configuration
 - Release Management
 categories:
 - DevOps

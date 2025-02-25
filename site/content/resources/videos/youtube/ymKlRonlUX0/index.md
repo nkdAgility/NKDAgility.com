@@ -15,24 +15,24 @@ preview: https://i.ytimg.com/vi/ymKlRonlUX0/maxresdefault.jpg
 duration: 419
 isShort: false
 aliases:
-- /resources/the-ghosts-of-agile-past-why-burndown-charts-might-be-holding-you-back
-- /resources/videos/5-ghosts-of-agile-past-burndown-charts
-- /resources/videos/ymKlRonlUX0
-- /resources/5-ghosts-of-agile-past-burndown-charts
 - /resources/ymKlRonlUX0
-aliasesFor404:
+- /resources/videos/the-ghosts-of-agile-past-why-burndown-charts-might-be-holding-you-back
+- /resources/videos/5-ghosts-of-agile-past-burndown-charts
+aliasesArchive:
+- /resources/videos/the-ghosts-of-agile-past-why-burndown-charts-might-be-holding-you-back
 - /resources/the-ghosts-of-agile-past-why-burndown-charts-might-be-holding-you-back
 - /resources/videos/5-ghosts-of-agile-past-burndown-charts
 - /resources/5-ghosts-of-agile-past-burndown-charts
+- the-ghosts-of-agile-past-why-burndown-charts-might-be-holding-you-back
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Empirical Process Control
-- Agile Planning
 - People and Process
 - Agile Product Management
 - Agile Project Management
+- Agile Planning
 - Pragmatic Thinking
 - Agile Philosophy
 - Software Development

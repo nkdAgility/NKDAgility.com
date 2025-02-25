@@ -19,9 +19,9 @@ aliases:
 - /blog/windows-mobile-6-black-shadow-(4-0)
 - /resources/zVL1JtizXQg
 - /resources/blog/windows-mobile-6-black-shadow-4-0
-aliasesFor404:
-- /windows-mobile-6-black-shadow-4-0
+aliasesArchive:
 - /blog/windows-mobile-6-black-shadow-4-0
+- /windows-mobile-6-black-shadow-4-0
 - /windows-mobile-6-black-shadow-(4-0)
 - /blog/windows-mobile-6-black-shadow-(4-0)
 - /resources/blog/windows-mobile-6-black-shadow-4-0

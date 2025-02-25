@@ -20,17 +20,17 @@ aliases:
 - /blog/visual-studio-2010-overview---microsoft-test-manager
 - /resources/6a-Qtjtf94G
 - /resources/blog/visual-studio-2010-overview-microsoft-test-manager
-aliasesFor404:
-- /visual-studio-2010-overview-microsoft-test-manager
+aliasesArchive:
 - /blog/visual-studio-2010-overview-microsoft-test-manager
+- /visual-studio-2010-overview-microsoft-test-manager
+- /visual-studio-2010-overview
 - /visual-studio-2010-overview---microsoft-test-manager
 - /blog/visual-studio-2010-overview---microsoft-test-manager
-- /visual-studio-2010-overview
 - /resources/blog/visual-studio-2010-overview-microsoft-test-manager
 tags:
 - Practical Techniques and Tooling
-- Software Development
 - Application Lifecycle Management
+- Software Development
 - Test Automation
 - Events and Presentations
 - Technical Excellence

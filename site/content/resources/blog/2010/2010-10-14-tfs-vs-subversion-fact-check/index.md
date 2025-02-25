@@ -19,15 +19,15 @@ aliases:
 - /blog/tfs-vs--subversion-fact-check
 - /resources/Tpk1xLI-Ygd
 - /resources/blog/tfs-vs-subversion-fact-check
-aliasesFor404:
-- /tfs-vs-subversion-fact-check
+aliasesArchive:
 - /blog/tfs-vs-subversion-fact-check
+- /tfs-vs-subversion-fact-check
 - /tfs-vs--subversion-fact-check
 - /blog/tfs-vs--subversion-fact-check
 - /resources/blog/tfs-vs-subversion-fact-check
 tags:
-- Modern Source Control
 - Install and Configuration
+- Modern Source Control
 - Software Development
 - Troubleshooting
 categories:

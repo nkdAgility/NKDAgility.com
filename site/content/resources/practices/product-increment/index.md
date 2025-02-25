@@ -10,7 +10,7 @@ aliases:
 - /practices/product-increment.html
 - /learn/agile-delivery-kit/practices/product-increment
 - /resources/m1DWI59M-Tf
-aliasesFor404:
+aliasesArchive:
 - /practices/product-increment.html
 - /learn/agile-delivery-kit/practices/product-increment
 recommendedContent: 

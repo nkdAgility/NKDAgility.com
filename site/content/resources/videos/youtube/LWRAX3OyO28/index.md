@@ -9,16 +9,17 @@ ResourceImportSource: Youtube
 videoId: LWRAX3OyO28
 source: youtube
 url: /resources/videos/:slug
-slug: the-power-of-continuous-delivery
+slug: unlocking-the-true-power-of-continuous-delivery-how-automation-transforms-software-development
 layout: video
 aliases:
-- /resources/videos/LWRAX3OyO28
-- /resources/videos/the-power-of-continuous-delivery
-- /resources/the-power-of-continuous-delivery
 - /resources/LWRAX3OyO28
-aliasesFor404:
+- /resources/videos/unlocking-the-true-power-of-continuous-delivery-how-automation-transforms-software-development
+- /resources/videos/the-power-of-continuous-delivery
+aliasesArchive:
+- /resources/videos/unlocking-the-true-power-of-continuous-delivery-how-automation-transforms-software-development
 - /resources/videos/the-power-of-continuous-delivery
 - /resources/the-power-of-continuous-delivery
+- unlocking-the-true-power-of-continuous-delivery-how-automation-transforms-software-development
 preview: https://i9.ytimg.com/vi/LWRAX3OyO28/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCWLD4Vo4EZ6b8ciR_RqJZImwnb7w
 duration: 332
 isShort: false

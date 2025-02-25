@@ -15,15 +15,15 @@ preview: https://i.ytimg.com/vi/Fgla_Oox_sE/maxresdefault.jpg
 duration: 227
 isShort: false
 aliases:
-- /resources/mastering-the-art-of-product-ownership-the-power-of-marketing-your-vision
-- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-3
-- /resources/videos/Fgla_Oox_sE
-- /resources/5-things-you-would-teach-a-productowner-apprentice-part-3
 - /resources/Fgla_Oox_sE
-aliasesFor404:
+- /resources/videos/mastering-the-art-of-product-ownership-the-power-of-marketing-your-vision
+- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-3
+aliasesArchive:
+- /resources/videos/mastering-the-art-of-product-ownership-the-power-of-marketing-your-vision
 - /resources/mastering-the-art-of-product-ownership-the-power-of-marketing-your-vision
 - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-3
 - /resources/5-things-you-would-teach-a-productowner-apprentice-part-3
+- mastering-the-art-of-product-ownership-the-power-of-marketing-your-vision
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -32,8 +32,8 @@ tags:
 - Product Owner
 - Agile Product Management
 - Scrum Product Development
-- Value Delivery
 - Product Strategy
+- Value Delivery
 - Agile Strategy
 - Agile Project Management
 resourceTypes:

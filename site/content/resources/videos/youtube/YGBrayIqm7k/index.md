@@ -15,15 +15,15 @@ preview: https://i.ytimg.com/vi/YGBrayIqm7k/maxresdefault.jpg
 duration: 539
 isShort: false
 aliases:
-- /resources/the-synergy-between-product-management-and-product-development-in-agile-environments
-- /resources/videos/agile-product-management-vs-product-development-understanding-the-crucial-partnership-for-success
-- /resources/videos/YGBrayIqm7k
-- /resources/agile-product-management-vs-product-development-understanding-the-crucial-partnership-for-success
 - /resources/YGBrayIqm7k
-aliasesFor404:
+- /resources/videos/the-synergy-between-product-management-and-product-development-in-agile-environments
+- /resources/videos/agile-product-management-vs-product-development-understanding-the-crucial-partnership-for-success
+aliasesArchive:
+- /resources/videos/the-synergy-between-product-management-and-product-development-in-agile-environments
 - /resources/the-synergy-between-product-management-and-product-development-in-agile-environments
 - /resources/videos/agile-product-management-vs-product-development-understanding-the-crucial-partnership-for-success
 - /resources/agile-product-management-vs-product-development-understanding-the-crucial-partnership-for-success
+- the-synergy-between-product-management-and-product-development-in-agile-environments
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -31,13 +31,13 @@ tags:
 - Agile Product Management
 - Strategy
 - Ability to Innovate
-- Product Delivery
 - Product Strategy
-- People and Process
-- Agile Product Operating Model
 - Strategic Goals
+- Agile Product Operating Model
 - Value Delivery
-- Agile Strategy
+- People and Process
+- Agile Project Management
+- Product Delivery
 resourceTypes:
 - video
 categories:

@@ -19,17 +19,17 @@ aliases:
 - /blog/wpf-ninject-dojo--the-data-provider
 - /resources/fiHZn7VEOpq
 - /resources/blog/wpf-ninject-dojo-the-data-provider
-aliasesFor404:
-- /wpf-ninject-dojo-the-data-provider
+aliasesArchive:
 - /blog/wpf-ninject-dojo-the-data-provider
+- /wpf-ninject-dojo-the-data-provider
 - /wpf-ninject-dojo--the-data-provider
 - /blog/wpf-ninject-dojo--the-data-provider
 - /resources/blog/wpf-ninject-dojo-the-data-provider
 tags:
 - Practical Techniques and Tooling
+- Technical Mastery
 - Software Development
 - Technical Excellence
-- Technical Mastery
 categories:
 - Engineering Excellence
 preview: metro-visual-studio-2010-128-link-1-1.png

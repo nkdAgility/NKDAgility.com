@@ -17,21 +17,21 @@ aliases:
 - /what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
 - /resources/XOt3b4gzyH8
 - /resources/blog/what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
-aliasesFor404:
-- /what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
+aliasesArchive:
 - /blog/what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
+- /what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
 - /resources/blog/what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
 tags:
 - Troubleshooting
-- Modern Source Control
-- Install and Configuration
-- System Configuration
-- Working Software
 - Practical Techniques and Tooling
-- Azure Boards
-- Software Development
-- Azure DevOps
+- Install and Configuration
+- Working Software
+- Modern Source Control
+- System Configuration
 - Release Management
+- Application Lifecycle Management
+- Pragmatic Thinking
+- Software Development
 categories:
 - DevOps
 preview: metro-binary-vb-128-link-4-4.png

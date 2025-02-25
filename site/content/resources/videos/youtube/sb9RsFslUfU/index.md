@@ -15,15 +15,14 @@ preview: https://i.ytimg.com/vi/sb9RsFslUfU/maxresdefault.jpg
 duration: 186
 isShort: false
 aliases:
-- /resources/how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant
-- /resources/videos/how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant-
-- /resources/videos/sb9RsFslUfU
-- /resources/how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant-
 - /resources/sb9RsFslUfU
-aliasesFor404:
+- /resources/videos/how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant
+aliasesArchive:
+- /resources/videos/how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant
 - /resources/how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant
 - /resources/videos/how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant-
 - /resources/how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant-
+- how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant
 sitemap:
   filename: sitemap.xml
   priority: 0.6

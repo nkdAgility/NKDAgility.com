@@ -9,19 +9,18 @@ ResourceImportSource: Youtube
 videoId: agPLmBdXdbk
 source: internal
 url: /resources/videos/:slug
-slug: must-have-trait-in-an-agile-consultant
+slug: must-have-trait-in-an-agile-consultant-agPLmBdXdbk
 layout: video
 preview: https://i.ytimg.com/vi/agPLmBdXdbk/maxresdefault.jpg
 duration: 39
 isShort: true
 aliases:
-- /resources/must-have-trait-in-an-agile-consultant
-- /resources/videos/must-have-trait-in-an-agile-consultant
-- /resources/videos/agPLmBdXdbk
 - /resources/agPLmBdXdbk
-aliasesFor404:
-- /resources/must-have-trait-in-an-agile-consultant
+- /resources/videos/must-have-trait-in-an-agile-consultant-agPLmBdXdbk
+aliasesArchive:
 - /resources/videos/must-have-trait-in-an-agile-consultant
+- /resources/must-have-trait-in-an-agile-consultant
+- must-have-trait-in-an-agile-consultant-agPLmBdXdbk
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -29,13 +28,13 @@ tags:
 - Coaching
 - Agile Values and Principles
 - Resilience and Change
-- Agile Leadership
+- Agile Strategy
+- Agile Philosophy
+- Agile Project Management
+- Agile Transformation
 - Change Management
 - Agile Frameworks
-- Agile Project Management
-- Organisational Change
-- Agile Transformation
-- Agile Strategy
+- People and Process
 resourceTypes:
 - video
 categories:

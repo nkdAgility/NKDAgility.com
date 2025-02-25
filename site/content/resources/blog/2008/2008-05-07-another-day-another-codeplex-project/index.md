@@ -17,16 +17,16 @@ aliases:
 - /another-day-another-codeplex-project
 - /resources/Jk2Pp119tUF
 - /resources/blog/another-day-another-codeplex-project
-aliasesFor404:
-- /another-day-another-codeplex-project
+aliasesArchive:
 - /blog/another-day-another-codeplex-project
+- /another-day-another-codeplex-project
 - /resources/blog/another-day-another-codeplex-project
 tags:
 - Practical Techniques and Tooling
-- Software Development
 - Troubleshooting
 - Technical Mastery
 - Working Software
+- Software Development
 categories: []
 preview: metro-sharepoint-128-link-2-2.png
 

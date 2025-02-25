@@ -14,29 +14,30 @@ preview: https://i.ytimg.com/vi/5H9rOGhTB88/maxresdefault.jpg
 duration: 488
 isShort: false
 aliases:
-- /resources/empowering-teams-to-tailor-their-processes-a-path-to-true-agility
-- /resources/videos/are-your-teams-truly-empowered-to-adapt-their-processes-the-agile-reality-check-[4-6]
-- /resources/videos/5H9rOGhTB88
-- /resources/are-your-teams-truly-empowered-to-adapt-their-processes-the-agile-reality-check-[4-6]
 - /resources/5H9rOGhTB88
-aliasesFor404:
+- /resources/videos/empowering-teams-to-tailor-their-processes-a-path-to-true-agility
+- /resources/videos/are-your-teams-truly-empowered-to-adapt-their-processes-the-agile-reality-check-46
+aliasesArchive:
+- /resources/videos/empowering-teams-to-tailor-their-processes-a-path-to-true-agility
 - /resources/empowering-teams-to-tailor-their-processes-a-path-to-true-agility
 - /resources/videos/are-your-teams-truly-empowered-to-adapt-their-processes-the-agile-reality-check-[4-6]
 - /resources/are-your-teams-truly-empowered-to-adapt-their-processes-the-agile-reality-check-[4-6]
+- /resources/videos/are-your-teams-truly-empowered-to-adapt-their-processes-the-agile-reality-check-46
+- empowering-teams-to-tailor-their-processes-a-path-to-true-agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - People and Process
-- Business Agility
-- Agile Product Operating Model
-- Value Delivery
 - Agile Values and Principles
-- Agile Leadership
 - Agile Product Management
+- Value Delivery
+- Business Agility
+- Agile Leadership
+- Agile Product Operating Model
+- Change Management
+- Operational Practices
 - Technical Leadership
-- Discovery and Learning
-- Team Motivation
 resourceTypes:
 - video
 layout: video

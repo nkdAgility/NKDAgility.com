@@ -19,23 +19,23 @@ aliases:
 - /blog/the-benefits-of-visual-studio-online-for-the-enterprise
 - /resources/raLa_TzImU3
 - /resources/blog/benefits-visual-studio-online-enterprise
-aliasesFor404:
-- /benefits-visual-studio-online-enterprise
+aliasesArchive:
 - /blog/benefits-visual-studio-online-enterprise
+- /benefits-visual-studio-online-enterprise
 - /the-benefits-of-visual-studio-online-for-the-enterprise
 - /blog/the-benefits-of-visual-studio-online-for-the-enterprise
 - /resources/blog/benefits-visual-studio-online-enterprise
 tags:
 - Application Lifecycle Management
 - Products and Books
+- Business Agility
+- Release Management
 - Software Development
 - Azure DevOps
-- Release Management
-- Business Agility
-- Organisational Agility
 - Practical Techniques and Tooling
-- Digital Transformation
+- Organisational Agility
 - Market Adaptability
+- Digital Transformation
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-6-6.png

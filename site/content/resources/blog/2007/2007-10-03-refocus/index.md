@@ -19,11 +19,11 @@ aliases:
 - /resources/ofk0IF885SJ
 - /refocus
 - /resources/blog/refocus
-aliasesFor404:
-- /refocus
+aliasesArchive:
 - /blog/refocus
 - /refocus---
 - /blog/refocus---
+- /refocus
 - /resources/blog/refocus
 tags:
 - Miscellaneous

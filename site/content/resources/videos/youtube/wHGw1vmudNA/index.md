@@ -1,5 +1,5 @@
 ---
-title: 7 harbingers of the Agile apocalypse. War
+title: 7 harbingers of the Agile apocalypse- War
 description: "Explore how internal 'wars' in organisations mirror Norse Ragnarök, revealing paths to innovation or downfall. Join Martin to navigate these conflicts! \U0001F6E1️⚔️"
 date: 2023-10-19T13:00:46Z
 ResourceId: wHGw1vmudNA
@@ -15,15 +15,17 @@ preview: https://i.ytimg.com/vi/wHGw1vmudNA/maxresdefault.jpg
 duration: 158
 isShort: false
 aliases:
-- /resources/7-harbingers-of-the-agile-apocalypse-war
-- /resources/videos/war!-7-harbingers-agile-apocalypse
-- /resources/videos/wHGw1vmudNA
-- /resources/war!-7-harbingers-agile-apocalypse
 - /resources/wHGw1vmudNA
-aliasesFor404:
+- /resources/videos/7-harbingers-of-the-agile-apocalypse-war
+- /resources/videos/war-7-harbingers-agile-apocalypse
+aliasesArchive:
+- /resources/videos/-harbingers-of-the-agile-apocalypse-war
+- /resources/videos/7-harbingers-of-the-agile-apocalypse-war
 - /resources/7-harbingers-of-the-agile-apocalypse-war
 - /resources/videos/war!-7-harbingers-agile-apocalypse
 - /resources/war!-7-harbingers-agile-apocalypse
+- /resources/videos/war-7-harbingers-agile-apocalypse
+- 7-harbingers-of-the-agile-apocalypse-war
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -61,13 +63,13 @@ Constructive conflict is the lifeblood of innovation. It is the friction that sp
 
 1. **Foster Open Communication:** Create an environment where team members feel safe to express their opinions and disagreements without fear of retribution.
 
-3. **Encourage Empathy and Understanding:** Promote a culture of empathy, where team members strive to understand differing viewpoints and the rationale behind them.
+2. **Encourage Empathy and Understanding:** Promote a culture of empathy, where team members strive to understand differing viewpoints and the rationale behind them.
 
-5. **Facilitate Collaborative Problem-Solving:** Implement mechanisms for collaborative decision-making, ensuring that all voices are heard and considered in the resolution process.
+3. **Facilitate Collaborative Problem-Solving:** Implement mechanisms for collaborative decision-making, ensuring that all voices are heard and considered in the resolution process.
 
-7. **Define Clear Conflict Resolution Pathways:** Establish clear protocols for escalating and resolving conflicts, involving neutral parties or mediators when necessary.
+4. **Define Clear Conflict Resolution Pathways:** Establish clear protocols for escalating and resolving conflicts, involving neutral parties or mediators when necessary.
 
-9. **Emphasize Shared Goals:** Regularly remind teams of their shared objectives and the overarching goals of the organization, reinforcing the idea that collaboration is key to success.
+5. **Emphasize Shared Goals:** Regularly remind teams of their shared objectives and the overarching goals of the organization, reinforcing the idea that collaboration is key to success.
 
 ## The Role of Leadership in Preventing the Agile Apocalypse
 

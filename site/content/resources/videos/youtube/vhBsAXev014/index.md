@@ -1,5 +1,5 @@
 ---
-title: 7 Harbingers of the Agile apocalypse. Chaos.
+title: 7 Harbingers of the Agile apocalypse - Chaos
 description: "Master agile transformation! \U0001F31F Join Martin as he uncovers chaos pitfalls and the vital role of communication, direction, and alignment. \U0001F680"
 date: 2023-10-23T07:00:21Z
 ResourceId: vhBsAXev014
@@ -15,29 +15,31 @@ preview: https://i.ytimg.com/vi/vhBsAXev014/maxresdefault.jpg
 duration: 525
 isShort: false
 aliases:
-- /resources/7-harbingers-of-the-agile-apocalypse-chaos
-- /resources/videos/chaos!-7-harbingers-agile-apocalypse
-- /resources/videos/vhBsAXev014
-- /resources/chaos!-7-harbingers-agile-apocalypse
 - /resources/vhBsAXev014
-aliasesFor404:
+- /resources/videos/7-harbingers-of-the-agile-apocalypse-chaos
+- /resources/videos/chaos-7-harbingers-agile-apocalypse
+aliasesArchive:
+- /resources/videos/-harbingers-of-the-agile-apocalypse-chaos
+- /resources/videos/7-harbingers-of-the-agile-apocalypse-chaos
 - /resources/7-harbingers-of-the-agile-apocalypse-chaos
 - /resources/videos/chaos!-7-harbingers-agile-apocalypse
 - /resources/chaos!-7-harbingers-agile-apocalypse
+- /resources/videos/chaos-7-harbingers-agile-apocalypse
+- 7-harbingers-of-the-agile-apocalypse-chaos
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Strategy
 - People and Process
+- Agile Strategy
 - Agile Product Management
 - Agile Project Management
 - Change Management
-- Agile Product Operating Model
 - Agile Transformation
+- Organisational Change
+- Agile Product Operating Model
 - Strategic Goals
-- Product Owner
-- Digital Transformation
+- Organisational Culture
 resourceTypes:
 - video
 categories:

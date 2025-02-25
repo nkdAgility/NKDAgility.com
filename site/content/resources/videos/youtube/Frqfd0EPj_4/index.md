@@ -15,21 +15,22 @@ preview: https://i.ytimg.com/vi/Frqfd0EPj_4/maxresdefault.jpg
 duration: 134
 isShort: false
 aliases:
-- /resources/the-future-of-scrum-training-immersive-learning-for-lasting-change
-- /resources/videos/do-you-think-immersivelearning-is-the-future-of-scrum-training-if-so,-why-
-- /resources/videos/Frqfd0EPj_4
-- /resources/do-you-think-immersivelearning-is-the-future-of-scrum-training-if-so,-why-
 - /resources/Frqfd0EPj_4
-aliasesFor404:
+- /resources/videos/the-future-of-scrum-training-immersive-learning-for-lasting-change
+- /resources/videos/do-you-think-immersivelearning-is-the-future-of-scrum-training-if-so-why
+aliasesArchive:
+- /resources/videos/the-future-of-scrum-training-immersive-learning-for-lasting-change
 - /resources/the-future-of-scrum-training-immersive-learning-for-lasting-change
 - /resources/videos/do-you-think-immersivelearning-is-the-future-of-scrum-training-if-so,-why-
 - /resources/do-you-think-immersivelearning-is-the-future-of-scrum-training-if-so,-why-
+- /resources/videos/do-you-think-immersivelearning-is-the-future-of-scrum-training-if-so-why
+- the-future-of-scrum-training-immersive-learning-for-lasting-change
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Discovery and Learning
 - People and Process
+- Discovery and Learning
 - Continuous Learning
 - Pragmatic Thinking
 resourceTypes:

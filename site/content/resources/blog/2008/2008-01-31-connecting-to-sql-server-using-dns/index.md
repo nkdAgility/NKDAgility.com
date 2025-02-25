@@ -17,15 +17,15 @@ aliases:
 - /connecting-to-sql-server-using-dns
 - /resources/tV0-x7E8IQc
 - /resources/blog/connecting-to-sql-server-using-dns
-aliasesFor404:
-- /connecting-to-sql-server-using-dns
+aliasesArchive:
 - /blog/connecting-to-sql-server-using-dns
+- /connecting-to-sql-server-using-dns
 - /resources/blog/connecting-to-sql-server-using-dns
 tags:
 - Install and Configuration
-- System Configuration
 - Troubleshooting
 - Technical Mastery
+- System Configuration
 categories: []
 preview: nakedalm-logo-128-link-6-6.png
 

@@ -13,7 +13,7 @@ slug: innovation
 aliases:
 - /principles/innovation/
 - /resources/31Zki4xCtFO
-aliasesFor404:
+aliasesArchive:
 - /principles/innovation/
 card:
   button:

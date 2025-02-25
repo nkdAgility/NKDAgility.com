@@ -15,28 +15,28 @@ preview: https://i.ytimg.com/vi/vI_qQ7-1z2E/maxresdefault.jpg
 duration: 330
 isShort: false
 aliases:
-- /resources/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-as-a-scrum-master
-- /resources/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability
-- /resources/videos/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-
-- /resources/videos/vI_qQ7-1z2E
-- /resources/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-
 - /resources/vI_qQ7-1z2E
-aliasesFor404:
+- /resources/videos/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-as-a-scrum-master
+- /resources/videos/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability
+aliasesArchive:
+- /resources/videos/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-as-a-scrum-master
 - /resources/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-as-a-scrum-master
 - /resources/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability
 - /resources/videos/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-
 - /resources/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-
+- /resources/videos/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability
+- is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-as-a-scrum-master
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Professional Scrum
 - Scrum Master
 - Discovery and Learning
-- Continuous Learning
-- Agile Frameworks
+- Professional Scrum
 - People and Process
 - Agile Project Management
+- Continuous Learning
+- Agile Frameworks
 - Pragmatic Thinking
 - Coaching
 - Accountability

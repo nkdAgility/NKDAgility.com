@@ -17,17 +17,17 @@ aliases:
 - /workflow
 - /resources/X7LXRyvtNg0
 - /resources/blog/workflow
-aliasesFor404:
-- /workflow
+aliasesArchive:
 - /blog/workflow
+- /workflow
 - /resources/blog/workflow
 tags:
 - Practical Techniques and Tooling
-- Software Development
-- Azure DevOps
 - Technical Mastery
 - Miscellaneous
 - Operational Practices
+- Software Development
+- Azure DevOps
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

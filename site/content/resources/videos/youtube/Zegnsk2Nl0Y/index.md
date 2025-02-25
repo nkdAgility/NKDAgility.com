@@ -8,22 +8,24 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Zegnsk2Nl0Y
 url: /resources/videos/:slug
-slug: 5-tools-that-scrum-masters-love-part-5
+slug: why-azure-devops-is-the-ultimate-game-changer-for-scrum-masters-and-agile-teams-Zegnsk2Nl0Y
 layout: video
 aliases:
-- /resources/videos/Zegnsk2Nl0Y
-- /resources/videos/5-tools-that-scrum-masters-love-part-5
-- /resources/5-tools-that-scrum-masters-love-part-5
 - /resources/Zegnsk2Nl0Y
-aliasesFor404:
+- /resources/videos/why-azure-devops-is-the-ultimate-game-changer-for-scrum-masters-and-agile-teams-Zegnsk2Nl0Y
+- /resources/videos/why-azure-devops-is-the-ultimate-game-changer-for-scrum-masters-and-agile-teams
+- /resources/videos/5-tools-that-scrum-masters-love-part-5
+aliasesArchive:
+- /resources/videos/why-azure-devops-is-the-ultimate-game-changer-for-scrum-masters-and-agile-teams
 - /resources/videos/5-tools-that-scrum-masters-love-part-5
 - /resources/5-tools-that-scrum-masters-love-part-5
+- why-azure-devops-is-the-ultimate-game-changer-for-scrum-masters-and-agile-teams-Zegnsk2Nl0Y
 preview: https://i.ytimg.com/vi/Zegnsk2Nl0Y/maxresdefault.jpg
 duration: 44
 isShort: true
 tags:
-- Scrum Master
 - Practical Techniques and Tooling
+- Scrum Master
 sitemap:
   filename: sitemap.xml
   priority: 0.6

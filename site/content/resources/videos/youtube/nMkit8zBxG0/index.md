@@ -15,15 +15,14 @@ preview: https://i.ytimg.com/vi/nMkit8zBxG0/maxresdefault.jpg
 duration: 464
 isShort: false
 aliases:
-- /resources/what-is-sprint-planning
-- /resources/videos/what-is-sprint-planning-
-- /resources/videos/nMkit8zBxG0
-- /resources/what-is-sprint-planning-
 - /resources/nMkit8zBxG0
-aliasesFor404:
+- /resources/videos/what-is-sprint-planning
+aliasesArchive:
+- /resources/videos/what-is-sprint-planning
 - /resources/what-is-sprint-planning
 - /resources/videos/what-is-sprint-planning-
 - /resources/what-is-sprint-planning-
+- what-is-sprint-planning
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -31,8 +30,8 @@ tags:
 - Scrum Product Development
 - Professional Scrum
 - Agile Planning
-- Software Development
 - Agile Project Management
+- Software Development
 resourceTypes:
 - video
 categories:

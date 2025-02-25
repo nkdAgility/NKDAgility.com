@@ -9,30 +9,31 @@ ResourceImportSource: Youtube
 videoId: h3J11t10A0g
 source: youtube
 url: /resources/videos/:slug
-slug: escaping-the-deadline-death-spiral
+slug: navigating-the-unpredictability-of-software-development-embrace-agile-for-success
 layout: video
 aliases:
-- /resources/videos/h3J11t10A0g
-- /resources/videos/escaping-the-deadline-death-spiral
-- /resources/escaping-the-deadline-death-spiral
 - /resources/h3J11t10A0g
-aliasesFor404:
+- /resources/videos/navigating-the-unpredictability-of-software-development-embrace-agile-for-success
+- /resources/videos/escaping-the-deadline-death-spiral
+aliasesArchive:
+- /resources/videos/navigating-the-unpredictability-of-software-development-embrace-agile-for-success
 - /resources/videos/escaping-the-deadline-death-spiral
 - /resources/escaping-the-deadline-death-spiral
+- navigating-the-unpredictability-of-software-development-embrace-agile-for-success
 preview: https://i9.ytimg.com/vi/h3J11t10A0g/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAhUizbYFa1tDhewD44yi7B6ksFVQ
 duration: 169
 isShort: false
 tags:
 - Technical Leadership
-- Agile Project Management
-- Software Development
-- Software Developers
 - People and Process
-- Engineering Practices
-- Agile Philosophy
 - Product Delivery
-- Market Adaptability
+- Software Developers
+- Software Development
+- Agile Philosophy
+- Agile Project Management
+- Engineering Practices
 - Value Delivery
+- Complexity Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

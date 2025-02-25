@@ -10,23 +10,52 @@ function Get-CaptionsText {
     param (
         [string]$captionsText
     )
-    # Check if the description needs updating
-   
-    # Generate a new or enhanced description using OpenAI
-    $prompt = "Turn this youtube transcript into readable markdown using only the original words of the transcript in the language of the transcript. Dont add titles, but do add capitalisation and punctuation. The speakers name is Martin Hinshelwood and the company is NKDAgility or Naked Agility. \n\n $captionsText"
+
+    $prompt = @"
+Turn this YouTube srt transcript into readable Markdown using only the original words of the transcript in the language of the transcript.
+
+- Do not add titles, speaker names, or company names.
+- Do not add explanations, attributes, or additional text.
+- Only use the words from the transcript between the tildes (~).
+- Ensure correct capitalisation and punctuation.
+- Ensure the text is readable with paragraphs and line breaks.
+- Output only the cleaned transcript content. 
+
+~~~
+$captionsText
+~~~
+"@
+
+    # Write the prompt to a temporary file
+    $tempFile = [System.IO.Path]::GetTempFileName()
+    Set-Content -Path $tempFile -Value $prompt -Encoding UTF8
+    $escapedTempFile = $tempFile -replace '\\', '\\'
+    # Use Python to count tokens from the file
+    $tokenCount = python -c "import tiktoken; enc = tiktoken.encoding_for_model('gpt-4'); print(len(enc.encode(open('''$escapedTempFile''').read())))"
+    $tokenCount = [int]$tokenCount
+    # Clean up the temporary file
+    Remove-Item -Path $tempFile
+
+    Write-InfoLog "Token count: $tokenCount"
+
+    if ($tokenCount -gt 1000000) {
+        Write-InfoLog "Token count exceeds 10000 Skipping OpenAI request."
+        return
+    }
+
     $newDescription = Get-OpenAIResponse -Prompt $prompt
     return $newDescription
 }
 
+
 # Function to generate or update Hugo markdown content for a video
 function Update-YoutubeTranscriptMarkdown {
     param ()
-
+    $skipped = 0
     # Iterate through each video folder
     Get-ChildItem -Path $outputDir -Directory | ForEach-Object {
         $videoDir = $_.FullName
         $videoId = $_.Name
-
         # Loop through files matching the format
         Get-ChildItem -Path $videoDir -File -Filter "data.captions.*.srt" | ForEach-Object {
             # Extract the part that matches the * in the pattern
@@ -41,17 +70,30 @@ function Update-YoutubeTranscriptMarkdown {
                 # Load the video data from data.json if available
                 if (Test-Path $captionPath) {
                     $captionsData = Get-Content -Path $captionPath
-        
-                    # Load existing markdown or create a new HugoMarkdown object
-                    if (-not (Test-Path $markdownFile)) {
-                        Write-InfoLog "Markdown file not found for video: $videoId"
-                        $captionsText = Get-CaptionsText -captionsText $captionsData
-                        Set-Content -Path $markdownFile -Value $captionsText -Encoding UTF8NoBOM -NoNewline
-                        Write-InfoLog "Markdown created or updated for video: $videoId"
-                    }  
-                    else {
-                        Write-InfoLog "Markdown exists: $videoId"
+                    if ($hasWords = $captionsData -match '[a-zA-Z]') {
+                        # Load existing markdown or create a new HugoMarkdown object
+                        if (-not (Test-Path $markdownFile)) {
+
+                            Write-InfoLog "Markdown file not found for video: $videoId"
+
+                            $captionsText = Get-CaptionsText -captionsText $captionsData
+                            if ($captionsText) {
+                                Set-Content -Path $markdownFile -Value $captionsText -Encoding UTF8NoBOM -NoNewline
+                                Write-InfoLog "Markdown created or updated for video: $videoId"
+                            }
+                            else {
+                                $skipped++
+                            }             
+                        }  
+                        else {
+                            Write-InfoLog "Markdown exists: $videoId"
+                        }
                     }
+                    else {
+                        Write-InfoLog "Should be deleted"
+                        Remove-Item -Path $captionPath
+                    }
+                   
         
                     
                 }
@@ -63,7 +105,7 @@ function Update-YoutubeTranscriptMarkdown {
         
     }
 
-    Write-InfoLog "All markdown files processed."
+    Write-InfoLog "All markdown files processed. $skipped skipped."
 }
 
 Update-YoutubeTranscriptMarkdown  # Call this to update markdown files from existing data.captions.en.srt files

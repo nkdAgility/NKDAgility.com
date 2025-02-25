@@ -14,15 +14,14 @@ preview: https://i.ytimg.com/vi/-xMY9Heanjk/maxresdefault.jpg
 duration: 263
 isShort: false
 aliases:
-- /resources/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team
-- /resources/videos/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team-
-- /resources/videos/-xMY9Heanjk
-- /resources/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team-
 - /resources/-xMY9Heanjk
-aliasesFor404:
+- /resources/videos/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team
+aliasesArchive:
+- /resources/videos/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team
 - /resources/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team
 - /resources/videos/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team-
 - /resources/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team-
+- what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -30,13 +29,13 @@ tags:
 - People and Process
 - Empirical Process Control
 - Agile Planning
-- Team Collaboration
-- Customer Feedback Loops
-- Evidence Based Leadership
-- Scrum Product Development
-- Professional Scrum
 - Metrics and Learning
 - Team Performance
+- Agile Product Management
+- Agile Project Management
+- Evidence Based Management
+- Customer Feedback Loops
+- Scrum Product Development
 resourceTypes:
 - video
 layout: video

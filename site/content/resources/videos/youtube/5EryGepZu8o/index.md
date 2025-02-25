@@ -14,29 +14,28 @@ preview: https://i.ytimg.com/vi/5EryGepZu8o/maxresdefault.jpg
 duration: 204
 isShort: false
 aliases:
-- /resources/if-you-could-teach-just-one-thing-about-scrum-what-would-it-be
-- /resources/videos/if-you-could-teach-just-one-thing-about-scrum,-what-would-it-be-
-- /resources/videos/5EryGepZu8o
-- /resources/if-you-could-teach-just-one-thing-about-scrum,-what-would-it-be-
 - /resources/5EryGepZu8o
-aliasesFor404:
+- /resources/videos/if-you-could-teach-just-one-thing-about-scrum-what-would-it-be
+aliasesArchive:
+- /resources/videos/if-you-could-teach-just-one-thing-about-scrum-what-would-it-be
 - /resources/if-you-could-teach-just-one-thing-about-scrum-what-would-it-be
 - /resources/videos/if-you-could-teach-just-one-thing-about-scrum,-what-would-it-be-
 - /resources/if-you-could-teach-just-one-thing-about-scrum,-what-would-it-be-
+- if-you-could-teach-just-one-thing-about-scrum-what-would-it-be
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - People and Process
 - Complexity Thinking
+- Empirical Process Control
+- Agile Project Management
 - Agile Frameworks
 - Agile Philosophy
-- Agile Project Management
-- Empirical Process Control
 - Pragmatic Thinking
 - Agile Values and Principles
-- Sensemaking
 - Software Development
+- Sensemaking
 resourceTypes:
 - video
 layout: video

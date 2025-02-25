@@ -17,9 +17,9 @@ aliases:
 - /creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history
 - /resources/bSv-E4Y5zk0
 - /resources/blog/creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history
-aliasesFor404:
-- /creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history
+aliasesArchive:
 - /blog/creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history
+- /creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history
 - /resources/blog/creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history
 tags:
 - Software Development

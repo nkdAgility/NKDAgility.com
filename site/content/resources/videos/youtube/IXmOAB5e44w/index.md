@@ -8,30 +8,33 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: IXmOAB5e44w
 url: /resources/videos/:slug
-slug: referral-program-20-of-the-course-fee-credited-to-your-account-
+slug: unlock-20-rewards-join-our-exciting-referral-program-for-collaborative-learning
 layout: video
 aliases:
-- /resources/videos/IXmOAB5e44w
-- /resources/videos/referral-program-20-of-the-course-fee-credited-to-your-account-
-- /resources/referral-program-20-of-the-course-fee-credited-to-your-account-
 - /resources/IXmOAB5e44w
-aliasesFor404:
+- /resources/videos/unlock-20-rewards-join-our-exciting-referral-program-for-collaborative-learning
+- /resources/videos/referral-program-20-of-the-course-fee-credited-to-your-account
+aliasesArchive:
+- /resources/videos/unlock-rewards-join-our-exciting-referral-program-for-collaborative-learning
+- /resources/videos/unlock-20-rewards-join-our-exciting-referral-program-for-collaborative-learning
 - /resources/videos/referral-program-20-of-the-course-fee-credited-to-your-account-
 - /resources/referral-program-20-of-the-course-fee-credited-to-your-account-
+- unlock-20-rewards-join-our-exciting-referral-program-for-collaborative-learning
+- /resources/videos/referral-program-20-of-the-course-fee-credited-to-your-account
 preview: https://i.ytimg.com/vi/IXmOAB5e44w/maxresdefault.jpg
 duration: 147
 isShort: false
 tags:
 - People and Process
 - Discovery and Learning
-- Team Collaboration
-- Employee Engagement
-- Continuous Learning
-- Software Development
-- Miscellaneous
-- Agile Project Management
-- Customer Retention
 - Team Motivation
+- Employee Engagement
+- Agile Project Management
+- Miscellaneous
+- Customer Retention
+- Software Development
+- Team Collaboration
+- Continuous Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

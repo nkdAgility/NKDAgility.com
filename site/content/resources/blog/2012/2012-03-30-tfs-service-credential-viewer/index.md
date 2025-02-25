@@ -17,13 +17,13 @@ aliases:
 - /tfs-service-credential-viewer
 - /resources/X946f3k8qX8
 - /resources/blog/tfs-service-credential-viewer
-aliasesFor404:
-- /tfs-service-credential-viewer
+aliasesArchive:
 - /blog/tfs-service-credential-viewer
+- /tfs-service-credential-viewer
 - /resources/blog/tfs-service-credential-viewer
 tags:
-- Windows
 - Troubleshooting
+- Windows
 - Install and Configuration
 - Products and Books
 - Practical Techniques and Tooling

@@ -19,18 +19,18 @@ aliases:
 - /blog/issue-[-tfs-2013-]-you-need-elevated-privileges-to-install-inrelease
 - /resources/8WoqmaS6v99
 - /resources/blog/issue-tfs-2013-you-need-elevated-privileges-to-install-inrelease
-aliasesFor404:
-- /issue-tfs-2013-you-need-elevated-privileges-to-install-inrelease
+aliasesArchive:
 - /blog/issue-tfs-2013-you-need-elevated-privileges-to-install-inrelease
+- /issue-tfs-2013-you-need-elevated-privileges-to-install-inrelease
 - /issue-[-tfs-2013-]-you-need-elevated-privileges-to-install-inrelease
 - /blog/issue-[-tfs-2013-]-you-need-elevated-privileges-to-install-inrelease
 - /resources/blog/issue-tfs-2013-you-need-elevated-privileges-to-install-inrelease
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
+- Troubleshooting
 - Windows
 - System Configuration
-- Troubleshooting
 categories: []
 preview: puzzle-issue-problem-128-link-3-3.png
 

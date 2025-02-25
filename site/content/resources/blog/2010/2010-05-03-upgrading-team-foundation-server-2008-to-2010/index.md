@@ -17,17 +17,17 @@ aliases:
 - /upgrading-team-foundation-server-2008-to-2010
 - /resources/eKRnTeo9UMp
 - /resources/blog/upgrading-team-foundation-server-2008-to-2010
-aliasesFor404:
-- /upgrading-team-foundation-server-2008-to-2010
+aliasesArchive:
 - /blog/upgrading-team-foundation-server-2008-to-2010
+- /upgrading-team-foundation-server-2008-to-2010
 - /resources/blog/upgrading-team-foundation-server-2008-to-2010
 tags:
 - Install and Configuration
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories:
 - Scrum
-- Social Technologies
 - DevOps
+- Engineering Excellence
 
 ---
 ![vs2010alm](images/UpgradingtoTeamFoundationServer2010_C1D3-vs2010alm_-13-13.png)I am sure you will have seen my [posts on upgrading](http://blog.hinshelwood.com/archive/2010/04/12/_upgrading-from-tfs-2010-rc-to-tfs-2010-rtm-done.aspx) our internal Team Foundation Server from TFS2008 to TFS2010 Beta 2, RC and RTM, but what about a fresh upgrade of TFS2008 to TFS2010 using the RTM version of TFS. One of our clients is taking the plunge with TFS2010, so I have the job of doing the upgrade.

@@ -9,30 +9,31 @@ ResourceImportSource: Youtube
 videoId: TZKvdhDPMjg
 source: internal
 url: /resources/videos/:slug
-slug: one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement
+slug: one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement-TZKvdhDPMjg
 layout: video
 preview: https://i.ytimg.com/vi/TZKvdhDPMjg/maxresdefault.jpg
 duration: 56
 isShort: true
 aliases:
-- /resources/one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement
-- /resources/one-thing-a-client-can-do-ensure-a-successful-agile-engagement
-- /resources/videos/one-thing-a-client-can-do-ensure-a-successful-agile-engagement-
-- /resources/videos/TZKvdhDPMjg
-- /resources/one-thing-a-client-can-do-ensure-a-successful-agile-engagement-
 - /resources/TZKvdhDPMjg
-aliasesFor404:
+- /resources/videos/one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement-TZKvdhDPMjg
+- /resources/videos/one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement
+- /resources/videos/one-thing-a-client-can-do-ensure-a-successful-agile-engagement
+aliasesArchive:
+- /resources/videos/one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement
 - /resources/one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement
 - /resources/one-thing-a-client-can-do-ensure-a-successful-agile-engagement
 - /resources/videos/one-thing-a-client-can-do-ensure-a-successful-agile-engagement-
 - /resources/one-thing-a-client-can-do-ensure-a-successful-agile-engagement-
+- one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement-TZKvdhDPMjg
+- /resources/videos/one-thing-a-client-can-do-ensure-a-successful-agile-engagement
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Pragmatic Thinking
 - People and Process
 - Agile Project Management
+- Pragmatic Thinking
 - Agile Transformation
 - Coaching
 resourceTypes:

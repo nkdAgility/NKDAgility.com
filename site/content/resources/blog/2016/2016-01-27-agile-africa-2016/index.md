@@ -19,9 +19,9 @@ aliases:
 - /blog/agile-in-africa-2016
 - /resources/YQ8HMmx0-kz
 - /resources/blog/agile-africa-2016
-aliasesFor404:
-- /agile-africa-2016
+aliasesArchive:
 - /blog/agile-africa-2016
+- /agile-africa-2016
 - /agile-in-africa-2016
 - /blog/agile-in-africa-2016
 - /resources/blog/agile-africa-2016

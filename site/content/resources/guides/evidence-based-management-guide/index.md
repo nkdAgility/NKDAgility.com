@@ -9,7 +9,7 @@ layout: guide
 aliases:
 - /learn/agile-delivery-kit/guides/evidence-based-management-guide
 - /resources/ltc7lzhy14U
-aliasesFor404:
+aliasesArchive:
 - /learn/agile-delivery-kit/guides/evidence-based-management-guide
 references:
 - title: The Evidence-Based Management Guide | Scrum.org
@@ -38,10 +38,10 @@ tags:
 - Evidence Based Management
 - Ability to Innovate
 - Value Delivery
-- Evidence Based Leadership
 - Metrics and Learning
-- Experimentation
 - Decision Making
+- Experimentation
+- Evidence Based Leadership
 
 ---
 # The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty

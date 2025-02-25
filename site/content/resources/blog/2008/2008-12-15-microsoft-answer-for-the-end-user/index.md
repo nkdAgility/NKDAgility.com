@@ -17,9 +17,9 @@ aliases:
 - /microsoft-answer-for-the-end-user
 - /resources/KIMZ-rpIxds
 - /resources/blog/microsoft-answer-for-the-end-user
-aliasesFor404:
-- /microsoft-answer-for-the-end-user
+aliasesArchive:
 - /blog/microsoft-answer-for-the-end-user
+- /microsoft-answer-for-the-end-user
 - /resources/blog/microsoft-answer-for-the-end-user
 categories: []
 preview: nakedalm-logo-128-link-1-1.png

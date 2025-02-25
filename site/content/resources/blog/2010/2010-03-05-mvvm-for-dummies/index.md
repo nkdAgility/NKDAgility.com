@@ -17,13 +17,13 @@ aliases:
 - /mvvm-for-dummies
 - /resources/__7oXNKjdWP
 - /resources/blog/mvvm-for-dummies
-aliasesFor404:
-- /mvvm-for-dummies
+aliasesArchive:
 - /blog/mvvm-for-dummies
+- /mvvm-for-dummies
 - /resources/blog/mvvm-for-dummies
 tags:
-- Software Development
 - Technical Mastery
+- Software Development
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-1-1.png

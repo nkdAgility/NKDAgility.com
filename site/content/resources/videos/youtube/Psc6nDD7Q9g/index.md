@@ -9,35 +9,36 @@ ResourceImportSource: Youtube
 videoId: Psc6nDD7Q9g
 source: internal
 url: /resources/videos/:slug
-slug: maximizing-transparency-and-improvement-in-software-engineering-with-kanban
+slug: maximizing-transparency-and-improvement-in-software-engineering-with-kanban-Psc6nDD7Q9g
 layout: video
 preview: https://i.ytimg.com/vi/Psc6nDD7Q9g/maxresdefault.jpg
 duration: 57
 isShort: true
 aliases:
-- "/resources/maximizing-transparency-and-improvement-in-software-engineering-with-kanban-\U0001F680"
-- /resources/videos/unlocking-the-power-of-kanban-gaining-deep-insights-into-your-software-engineering-processes
-- /resources/videos/Psc6nDD7Q9g
-- /resources/unlocking-the-power-of-kanban-gaining-deep-insights-into-your-software-engineering-processes
 - /resources/Psc6nDD7Q9g
-aliasesFor404:
+- /resources/videos/maximizing-transparency-and-improvement-in-software-engineering-with-kanban-Psc6nDD7Q9g
+- /resources/videos/maximizing-transparency-and-improvement-in-software-engineering-with-kanban
+- /resources/videos/unlocking-the-power-of-kanban-gaining-deep-insights-into-your-software-engineering-processes
+aliasesArchive:
+- /resources/videos/maximizing-transparency-and-improvement-in-software-engineering-with-kanban
 - "/resources/maximizing-transparency-and-improvement-in-software-engineering-with-kanban-\U0001F680"
 - /resources/videos/unlocking-the-power-of-kanban-gaining-deep-insights-into-your-software-engineering-processes
 - /resources/unlocking-the-power-of-kanban-gaining-deep-insights-into-your-software-engineering-processes
+- maximizing-transparency-and-improvement-in-software-engineering-with-kanban-Psc6nDD7Q9g
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Transparency
-- Metrics and Learning
 - People and Process
+- Metrics and Learning
 - Transparency and Accountability
-- Software Development
 - Practical Techniques and Tooling
-- Agile Frameworks
-- Operational Practices
+- Software Development
 - Agile Project Management
-- Pragmatic Thinking
+- Operational Practices
+- Agile Frameworks
+- Empirical Process Control
 resourceTypes:
 - video
 categories:

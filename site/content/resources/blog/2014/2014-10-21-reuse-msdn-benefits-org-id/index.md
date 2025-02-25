@@ -19,9 +19,9 @@ aliases:
 - /blog/reuse-your-msdn-benefits-with-your-org-id
 - /resources/kBoaPAZssaV
 - /resources/blog/reuse-msdn-benefits-org-id
-aliasesFor404:
-- /reuse-msdn-benefits-org-id
+aliasesArchive:
 - /blog/reuse-msdn-benefits-org-id
+- /reuse-msdn-benefits-org-id
 - /reuse-your-msdn-benefits-with-your-org-id
 - /blog/reuse-your-msdn-benefits-with-your-org-id
 - /resources/blog/reuse-msdn-benefits-org-id

@@ -1,6 +1,6 @@
 ---
-title: Do teams really understand the power of applying scrum professionally?
-description: "Unlock the true potential of Scrum! Join Martin as he reveals insights to elevate your team's practices from basic to professional. \U0001F680 #Scrum #Agile"
+title: 'Unlocking the True Potential of Scrum: Why Professionalism Matters in Agile Teams'
+description: Unlock the true potential of Scrum! Discover how professionalism can transform your team's approach and deliver real value. Join the journey to excellence today!
 date: 2023-04-20T07:00:06Z
 ResourceId: AjUC6FPYCQM
 ResourceType: videos
@@ -9,30 +9,31 @@ ResourceImportSource: Youtube
 videoId: AjUC6FPYCQM
 source: youtube
 url: /resources/videos/:slug
-slug: do-teams-really-understand-the-power-of-applying-scrum-professionally-
+slug: unlocking-the-true-potential-of-scrum-why-professionalism-matters-in-agile-teams
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=AjUC6FPYCQM
 aliases:
-- /resources/videos/AjUC6FPYCQM
-- /resources/videos/do-teams-really-understand-the-power-of-applying-scrum-professionally-
-- /resources/do-teams-really-understand-the-power-of-applying-scrum-professionally-
 - /resources/AjUC6FPYCQM
-aliasesFor404:
+- /resources/videos/unlocking-the-true-potential-of-scrum-why-professionalism-matters-in-agile-teams
+- /resources/videos/do-teams-really-understand-the-power-of-applying-scrum-professionally
+aliasesArchive:
+- /resources/videos/do-teams-really-understand-the-power-of-applying-scrum-professionally
 - /resources/videos/do-teams-really-understand-the-power-of-applying-scrum-professionally-
 - /resources/do-teams-really-understand-the-power-of-applying-scrum-professionally-
+- /resources/videos/unlocking-the-true-potential-of-scrum-why-professionalism-matters-in-agile-teams
+- unlocking-the-true-potential-of-scrum-why-professionalism-matters-in-agile-teams
 preview: https://i.ytimg.com/vi/AjUC6FPYCQM/maxresdefault.jpg
 duration: 369
 isShort: false
 tags:
 - Professional Scrum
-- Software Development
 - People and Process
-- Agile Frameworks
+- Software Development
 - Agile Project Management
 - Agile Transformation
+- Agile Frameworks
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 resourceTypes:
 - video
 categories:
@@ -40,32 +41,24 @@ categories:
 - Social Technologies
 
 ---
- *Unveiling the Secrets of Professional Scrum: A Journey Beyond the Basics*
+Do teams truly grasp the power of applying Scrum professionally? This is a challenging and somewhat contentious question. In my experience, many teams I've encountered operate more like amateurs than professionals. This isn't necessarily their fault; it's often a reflection of the expectations set by their organisations. Too frequently, companies don't demand professionalism; instead, they push for speed and output, which leads us, as software engineers, to adopt shortcuts that prioritise the easy, fast, and cheap over the right way of doing things. This environment fosters unprofessional behaviour and ultimately undermines the potential of Scrum.
 
-Explore the depths of professional Scrum application with insights that challenge conventional approaches. Dive into a transformative discourse on evolving from basic Scrum practices to mastering its profound impacts on teams and organizations.
+### Understanding Professional Behaviour
 
-*Enjoy this video? 🔔 Like and subscribe to our channel:* 
-https://www.youtube.com/@nakedAgility
+Most teams lack a clear understanding of what professional behaviour looks like. I recall an enlightening experience with an organisation a few years back. We conducted an exercise aimed at defining what requirements should look like for the engineering team. This wasn't about the engineers themselves; it involved the product management group. 
 
-In this video, Martin unveils the often-overlooked aspects of applying Scrum in professional settings. 🎯 He addresses the common pitfalls teams encounter and the misconceptions about Scrum's application. 💡 Martin challenges viewers to rethink their approach to Scrum, pushing beyond mere basics to a deeper, more effective practice. 🚀 He delves into real-world examples, shedding light on the journey from amateur to professional Scrum application. 🌟 Join us in this enlightening exploration of Scrum's true potential!
+We gathered everyone in a room, broke them into cross-functional groups, and tasked them with dissecting a user interface from their product. They were to outline the requirements they would have liked to have had, with the benefit of hindsight. The results were eye-opening. They crafted detailed requirements, highlighting the myriad questions they had and the information they lacked. The realisation hit them: "Holy moly, that's a lot of stuff."
 
-*Key Takeaways*
-00:00:05 Scrum Application: Beyond the Basics  
-00:00:15 The Professionalism Gap in Teams  
-00:00:32 Organizational Expectations vs. Scrum Standards  
-00:01:15 The Challenge of Detailed Requirements  
-00:02:00 Professionalism in Product Development
+Then came the second part of the exercise. We asked them to take something from their backlog that hadn’t been built yet and apply the same level of detail. Just as they were getting into it, the head of product management halted the workshop. He candidly admitted that his team wasn't equipped to create or work with such detailed requirements. This moment of realisation was profound; it illustrated the gap between the professionalism we aspired to and the current capabilities of the product management team.
 
-*NKDAgility can help!*
+### The Role of Scrum in Professionalism
 
-These are the kinds of issues that lean-agile practitioners love and most folks hate, and if you _struggle to apply Scrum professionally_ or find it hard to bridge the gap between amateur and professional practices, my team at NKDAgility can help you or help you find a consultant, coach, or trainer who can.
+This scenario is not unique; it reflects a broader issue within many organisations. One of Scrum's core purposes is to foster transparency. A fundamental expectation for any software team is to deliver a usable, working product at the end of each iteration, including the very first one. This product should be production-ready—this is the minimum standard for Scrum. If your team isn't achieving this, then you're not truly practising Scrum; you're missing the level of transparency required for a professional Scrum team.
 
-If you have issues that are undermining the effectiveness of your value delivery, it's especially important to find help as soon as you can and not wait!
+Many teams come to a stark realisation: "We're so far away from that." This can be a tough pill to swallow. As teams strive to meet this standard, they often uncover gaps in their processes. For instance, they might find themselves reliant on a third-party testing team, which complicates their ability to ensure production readiness. I remember a time at Merrill Lynch when we submitted our websites for third-party penetration testing. We had no insight into the tools they used, and the process cost us a hefty sum. The result? Our product was not ready for deployment because we lacked understanding of the testing tools and processes involved.
 
-_You can request a free consultation: https://nkdagility.com/agile-consulting-coaching/_  
-_Sign up for one of our upcoming professional Scrum classes: https://nkdagility.com/training-courses_
+### Embracing a Professional Work Ethic
 
-Because you don't just need agility, you need Naked Agility.
+The true power of applying Scrum professionally lies in cultivating a professional work ethic. This means creating products that deliver real value to our customers—products they can use and appreciate. Many teams only begin to understand this concept as they embark on their Scrum journey. They start to recognise their knowledge gaps and gradually build the capabilities necessary to evolve into professional teams.
 
-#scrum #projectmanagement #productdevelopment #agilecoach #agileconsultant #scrumtraining #scrumorg #scrummaster #productowner #continousdelivery #devops #azuredevops 
- [Watch on Youtube](https://www.youtube.com/watch?v=AjUC6FPYCQM)
+In conclusion, the journey to professionalism in Scrum is not an easy one, but it is essential. It requires a commitment to transparency, collaboration, and a willingness to confront the uncomfortable truths about our current practices. If you're interested in discussing this further or exploring other topics related to Agile, Scrum, or DevOps, I invite you to book a coffee chat with me through Naked Agility. Let's work together to elevate our understanding and application of Scrum to truly professional levels.

@@ -17,21 +17,21 @@ aliases:
 - /many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
 - /resources/kmQceaX7e-O
 - /resources/blog/many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
-aliasesFor404:
-- /many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
+aliasesArchive:
 - /blog/many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
+- /many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
 - /resources/blog/many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
 tags:
 - Business Agility
 - Scaled Agile
 - Agile Transformation
+- People and Process
+- Change Management
+- Large Scale Agility
+- Organisational Change
 - Agile Strategy
-- Enterprise Agility
 - Organisational Agility
 - Agile Frameworks
-- Organisational Change
-- People and Process
-- Agile Philosophy
 categories:
 - Social Technologies
 - Leadership

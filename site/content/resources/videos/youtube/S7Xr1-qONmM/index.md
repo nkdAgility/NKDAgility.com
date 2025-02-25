@@ -15,15 +15,14 @@ preview: https://i.ytimg.com/vi/S7Xr1-qONmM/maxresdefault.jpg
 duration: 294
 isShort: false
 aliases:
-- /resources/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development
-- /resources/videos/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development-
-- /resources/videos/S7Xr1-qONmM
-- /resources/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development-
 - /resources/S7Xr1-qONmM
-aliasesFor404:
+- /resources/videos/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development
+aliasesArchive:
+- /resources/videos/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development
 - /resources/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development
 - /resources/videos/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development-
 - /resources/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development-
+- why-do-you-think-the-psu-course-has-become-so-popular-for-product-development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -31,13 +30,13 @@ tags:
 - People and Process
 - Scrum Product Development
 - Professional Scrum
-- Agile Project Management
-- Product Owner
 - Product Delivery
-- Agile Product Management
+- Product Owner
 - Value Delivery
-- Software Development
+- Agile Product Management
+- Agile Project Management
 - Agile Frameworks
+- Team Collaboration
 resourceTypes:
 - video
 categories:

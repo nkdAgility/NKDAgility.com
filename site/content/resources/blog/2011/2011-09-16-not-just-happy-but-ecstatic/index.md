@@ -21,9 +21,9 @@ aliases:
 - /not-just-happy--but-ecstatic
 - /blog/not-just-happy--but-ecstatic
 - /resources/blog/not-just-happy-but-ecstatic
-aliasesFor404:
-- /not-just-happy-but-ecstatic
+aliasesArchive:
 - /blog/not-just-happy-but-ecstatic
+- /not-just-happy-but-ecstatic
 - /not-just-happy,-but-ecstatic
 - /blog/not-just-happy,-but-ecstatic
 - /not-just-happy--but-ecstatic
@@ -34,9 +34,9 @@ tags:
 - Pragmatic Thinking
 - Product Delivery
 - Release Management
-- Personal
 - Technical Mastery
 - Operational Practices
+- Personal
 categories:
 - DevOps
 

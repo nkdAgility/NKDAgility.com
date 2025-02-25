@@ -15,15 +15,19 @@ preview: https://i.ytimg.com/vi/Xa_e2EnLEV4/maxresdefault.jpg
 duration: 277
 isShort: false
 aliases:
-- /resources/3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug
-- /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-sweeping-problems-under-the-rug-
-- /resources/videos/Xa_e2EnLEV4
-- /resources/3-best-ways-to-wreck-your-kanban-adoption-sweeping-problems-under-the-rug-
 - /resources/Xa_e2EnLEV4
-aliasesFor404:
+- /resources/videos/3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug
+- /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-sweeping-problems-under-the-rug
+aliasesArchive:
+- /resources/videos/-best-ways-to-wreck-kanban-sweep-problems-under-the-rug-
+- /resources/videos/3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug-
 - /resources/3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug
 - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-sweeping-problems-under-the-rug-
 - /resources/3-best-ways-to-wreck-your-kanban-adoption-sweeping-problems-under-the-rug-
+- 3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug-
+- /resources/videos/3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug
+- /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-sweeping-problems-under-the-rug
+- 3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug
 sitemap:
   filename: sitemap.xml
   priority: 0.6

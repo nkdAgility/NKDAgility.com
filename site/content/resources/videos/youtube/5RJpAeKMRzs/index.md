@@ -8,15 +8,17 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 5RJpAeKMRzs
 url: /resources/videos/:slug
-slug: the-7-deadly-sins-of-agile!
+slug: avoiding-the-seven-deadly-sins-of-agile-transform-your-organisation-for-true-agility
 aliases:
-- /resources/videos/5RJpAeKMRzs
-- /resources/videos/the-7-deadly-sins-of-agile!
-- /resources/the-7-deadly-sins-of-agile!
 - /resources/5RJpAeKMRzs
-aliasesFor404:
+- /resources/videos/avoiding-the-seven-deadly-sins-of-agile-transform-your-organisation-for-true-agility
+- /resources/videos/the-7-deadly-sins-of-agile
+aliasesArchive:
+- /resources/videos/avoiding-the-seven-deadly-sins-of-agile-transform-your-organisation-for-true-agility
 - /resources/videos/the-7-deadly-sins-of-agile!
 - /resources/the-7-deadly-sins-of-agile!
+- /resources/videos/the-7-deadly-sins-of-agile
+- avoiding-the-seven-deadly-sins-of-agile-transform-your-organisation-for-true-agility
 preview: https://i.ytimg.com/vi/5RJpAeKMRzs/maxresdefault.jpg
 duration: 2299
 isShort: false

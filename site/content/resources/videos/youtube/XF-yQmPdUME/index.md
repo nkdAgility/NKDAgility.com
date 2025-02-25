@@ -9,21 +9,22 @@ ResourceImportSource: Youtube
 videoId: XF-yQmPdUME
 source: internal
 url: /resources/videos/:slug
-slug: product-ownership-vs-product-management-busting-the-myth-that-they-re-separate-roles
+slug: product-ownership-vs-product-management-busting-the-myth-that-theyre-separate-roles
 layout: video
 preview: https://i.ytimg.com/vi/XF-yQmPdUME/maxresdefault.jpg
 duration: 601
 isShort: false
 aliases:
-- /resources/product-ownership-vs-product-management-busting-the-myth-that-theyre-separate-roles
-- /resources/videos/the-product-owner's-role-in-maximizing-value
-- /resources/videos/XF-yQmPdUME
-- /resources/the-product-owner's-role-in-maximizing-value
 - /resources/XF-yQmPdUME
-aliasesFor404:
+- /resources/videos/product-ownership-vs-product-management-busting-the-myth-that-theyre-separate-roles
+- /resources/videos/the-product-owners-role-in-maximizing-value
+aliasesArchive:
+- /resources/videos/product-ownership-vs-product-management-busting-the-myth-that-theyre-separate-roles
 - /resources/product-ownership-vs-product-management-busting-the-myth-that-theyre-separate-roles
 - /resources/videos/the-product-owner's-role-in-maximizing-value
 - /resources/the-product-owner's-role-in-maximizing-value
+- /resources/videos/the-product-owners-role-in-maximizing-value
+- product-ownership-vs-product-management-busting-the-myth-that-theyre-separate-roles
 sitemap:
   filename: sitemap.xml
   priority: 0.6

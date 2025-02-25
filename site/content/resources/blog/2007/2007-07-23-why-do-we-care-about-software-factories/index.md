@@ -19,9 +19,9 @@ aliases:
 - /blog/why-do-we-care-about-software-factories-
 - /resources/cdrcglA4d9D
 - /resources/blog/why-do-we-care-about-software-factories
-aliasesFor404:
-- /why-do-we-care-about-software-factories
+aliasesArchive:
 - /blog/why-do-we-care-about-software-factories
+- /why-do-we-care-about-software-factories
 - /why-do-we-care-about-software-factories-
 - /blog/why-do-we-care-about-software-factories-
 - /resources/blog/why-do-we-care-about-software-factories

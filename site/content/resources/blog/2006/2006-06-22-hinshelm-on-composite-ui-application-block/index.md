@@ -19,18 +19,18 @@ aliases:
 - /blog/adding-toolstrippanel-ui-adapter-support-to-the-composite-ui-application-block
 - /resources/y_vlPh65_5Q
 - /resources/blog/hinshelm-on-composite-ui-application-block
-aliasesFor404:
-- /hinshelm-on-composite-ui-application-block
+aliasesArchive:
 - /blog/hinshelm-on-composite-ui-application-block
+- /hinshelm-on-composite-ui-application-block
 - /adding-toolstrippanel-ui-adapter-support-to-the-composite-ui-application-block
 - /blog/adding-toolstrippanel-ui-adapter-support-to-the-composite-ui-application-block
 - /resources/blog/hinshelm-on-composite-ui-application-block
 tags:
 - Practical Techniques and Tooling
+- Technical Mastery
+- Pragmatic Thinking
 - Software Development
 - Technical Excellence
-- Pragmatic Thinking
-- Technical Mastery
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-1-1.png

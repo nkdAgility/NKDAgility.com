@@ -8,23 +8,25 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: UW26aDoBVbQ
 url: /resources/videos/:slug
-slug: 5-october-2023-product-ownership-and-lean-product-development-webinar
+slug: unlocking-success-the-essential-role-of-product-ownership-in-lean-product-delivery-UW26aDoBVbQ
 layout: video
 aliases:
-- /resources/videos/UW26aDoBVbQ
-- /resources/videos/5-october-2023-product-ownership-and-lean-product-development-webinar
-- /resources/5-october-2023-product-ownership-and-lean-product-development-webinar
 - /resources/UW26aDoBVbQ
-aliasesFor404:
+- /resources/videos/unlocking-success-the-essential-role-of-product-ownership-in-lean-product-delivery-UW26aDoBVbQ
+- /resources/videos/unlocking-success-the-essential-role-of-product-ownership-in-lean-product-delivery
+- /resources/videos/5-october-2023-product-ownership-and-lean-product-development-webinar
+aliasesArchive:
+- /resources/videos/unlocking-success-the-essential-role-of-product-ownership-in-lean-product-delivery
 - /resources/videos/5-october-2023-product-ownership-and-lean-product-development-webinar
 - /resources/5-october-2023-product-ownership-and-lean-product-development-webinar
+- unlocking-success-the-essential-role-of-product-ownership-in-lean-product-delivery-UW26aDoBVbQ
 preview: https://i.ytimg.com/vi/UW26aDoBVbQ/maxresdefault.jpg
 duration: 31
 isShort: true
 tags:
 - Lean Product Development
-- Product Delivery
 - Product Owner
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

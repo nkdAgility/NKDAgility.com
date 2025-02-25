@@ -9,30 +9,29 @@ ResourceImportSource: Youtube
 videoId: AY35ys1uQOY
 source: internal
 url: /resources/videos/:slug
-slug: how-do-you-know-if-you-ve-got-a-great-sprint-goal
+slug: how-do-you-know-if-youve-got-a-great-sprint-goal-AY35ys1uQOY
 layout: video
 preview: https://i.ytimg.com/vi/AY35ys1uQOY/maxresdefault.jpg
 duration: 43
 isShort: true
 aliases:
-- /resources/how-do-you-know-if-youve-got-a-great-sprint-goal
-- /resources/videos/how-do-you-know-if-you've-got-a-great-sprint-goal-
-- /resources/videos/AY35ys1uQOY
-- /resources/how-do-you-know-if-you've-got-a-great-sprint-goal-
 - /resources/AY35ys1uQOY
-aliasesFor404:
+- /resources/videos/how-do-you-know-if-youve-got-a-great-sprint-goal-AY35ys1uQOY
+aliasesArchive:
+- /resources/videos/how-do-you-know-if-youve-got-a-great-sprint-goal
 - /resources/how-do-you-know-if-youve-got-a-great-sprint-goal
 - /resources/videos/how-do-you-know-if-you've-got-a-great-sprint-goal-
 - /resources/how-do-you-know-if-you've-got-a-great-sprint-goal-
+- how-do-you-know-if-youve-got-a-great-sprint-goal-AY35ys1uQOY
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - People and Process
 - Scrum Product Development
-- Agile Planning
 - Agile Product Management
 - Agile Project Management
+- Agile Planning
 resourceTypes:
 - video
 categories:

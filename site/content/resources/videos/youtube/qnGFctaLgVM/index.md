@@ -9,21 +9,19 @@ ResourceImportSource: Youtube
 videoId: qnGFctaLgVM
 source: internal
 url: /resources/videos/:slug
-slug: why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility
+slug: why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility-qnGFctaLgVM
 layout: video
 preview: https://i.ytimg.com/vi/qnGFctaLgVM/maxresdefault.jpg
 duration: 48
 isShort: true
 aliases:
-- /resources/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility-2
-- /resources/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility
-- /resources/videos/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility
-- /resources/videos/qnGFctaLgVM
 - /resources/qnGFctaLgVM
-aliasesFor404:
+- /resources/videos/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility-qnGFctaLgVM
+aliasesArchive:
+- /resources/videos/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility
 - /resources/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility-2
 - /resources/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility
-- /resources/videos/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility
+- why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility-qnGFctaLgVM
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -31,11 +29,11 @@ tags:
 - Product Owner
 - People and Process
 - Agile Product Management
-- Professional Scrum
+- Miscellaneous
 - Pragmatic Thinking
 - Coaching
+- Professional Scrum
 - Personal
-- Miscellaneous
 resourceTypes:
 - video
 categories:

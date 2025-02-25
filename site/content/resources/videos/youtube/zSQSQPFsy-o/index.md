@@ -15,27 +15,26 @@ preview: https://i.ytimg.com/vi/zSQSQPFsy-o/maxresdefault.jpg
 duration: 389
 isShort: false
 aliases:
-- /resources/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
-- /resources/videos/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master-
-- /resources/videos/zSQSQPFsy-o
-- /resources/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master-
 - /resources/zSQSQPFsy-o
-aliasesFor404:
+- /resources/videos/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
+aliasesArchive:
+- /resources/videos/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
 - /resources/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
 - /resources/videos/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master-
 - /resources/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master-
+- why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Product Development
-- Empirical Process Control
-- Agile Project Management
-- Agile Product Management
-- Transparency
 - People and Process
+- Transparency
+- Agile Product Management
+- Agile Project Management
+- Empirical Process Control
+- Scrum Product Development
 - Sprint Review
-- Agile Philosophy
+- Agile Frameworks
 - Professional Scrum
 - Agile Transformation
 resourceTypes:

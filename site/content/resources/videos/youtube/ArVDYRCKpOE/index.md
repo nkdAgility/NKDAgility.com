@@ -15,15 +15,14 @@ preview: https://i.ytimg.com/vi/ArVDYRCKpOE/maxresdefault.jpg
 duration: 64
 isShort: false
 aliases:
-- /resources/quotes-fake-it-until-you-make-it
-- /resources/videos/quotes,-fake-it-until-you-make-it
-- /resources/videos/ArVDYRCKpOE
-- /resources/quotes,-fake-it-until-you-make-it
 - /resources/ArVDYRCKpOE
-aliasesFor404:
+- /resources/videos/quotes-fake-it-until-you-make-it
+aliasesArchive:
+- /resources/videos/quotes-fake-it-until-you-make-it
 - /resources/quotes-fake-it-until-you-make-it
 - /resources/videos/quotes,-fake-it-until-you-make-it
 - /resources/quotes,-fake-it-until-you-make-it
+- quotes-fake-it-until-you-make-it
 sitemap:
   filename: sitemap.xml
   priority: 0.6

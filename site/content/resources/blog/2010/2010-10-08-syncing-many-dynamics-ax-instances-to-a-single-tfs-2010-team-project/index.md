@@ -17,21 +17,21 @@ aliases:
 - /syncing-many-dynamics-ax-instances-to-a-single-tfs-2010-team-project
 - /resources/cYRmqyXmGQf
 - /resources/blog/syncing-many-dynamics-ax-instances-to-a-single-tfs-2010-team-project
-aliasesFor404:
-- /syncing-many-dynamics-ax-instances-to-a-single-tfs-2010-team-project
+aliasesArchive:
 - /blog/syncing-many-dynamics-ax-instances-to-a-single-tfs-2010-team-project
+- /syncing-many-dynamics-ax-instances-to-a-single-tfs-2010-team-project
 - /resources/blog/syncing-many-dynamics-ax-instances-to-a-single-tfs-2010-team-project
 tags:
-- Modern Source Control
 - Install and Configuration
-- System Configuration
+- Modern Source Control
 - Practical Techniques and Tooling
-- Software Development
-- Technical Excellence
-- Azure DevOps
-- Pragmatic Thinking
+- System Configuration
 - Troubleshooting
+- Application Lifecycle Management
 - Technical Mastery
+- Operational Practices
+- Pragmatic Thinking
+- Software Development
 categories:
 - Engineering Excellence
 

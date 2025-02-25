@@ -8,28 +8,29 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: sbr8NkJSLPU
 url: /resources/videos/:slug
-slug: 3-core-practices-of-kanban-defining-and-visualizing-a-workflow
+slug: mastering-kanban-the-essential-guide-to-defining-and-visualising-your-workflow-for-maximum-efficiency
 layout: video
 aliases:
-- /resources/videos/sbr8NkJSLPU
-- /resources/videos/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
-- /resources/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
 - /resources/sbr8NkJSLPU
-aliasesFor404:
+- /resources/videos/mastering-kanban-the-essential-guide-to-defining-and-visualising-your-workflow-for-maximum-efficiency
+- /resources/videos/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
+aliasesArchive:
+- /resources/videos/mastering-kanban-the-essential-guide-to-defining-and-visualising-your-workflow-for-maximum-efficiency
 - /resources/videos/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
 - /resources/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
+- mastering-kanban-the-essential-guide-to-defining-and-visualising-your-workflow-for-maximum-efficiency
 preview: https://i.ytimg.com/vi/sbr8NkJSLPU/maxresdefault.jpg
 duration: 218
 isShort: false
 tags:
 - People and Process
-- Team Collaboration
-- Operational Practices
 - Practical Techniques and Tooling
-- Software Development
-- Agile Frameworks
+- Operational Practices
+- Team Collaboration
 - Agile Project Management
 - Transparency
+- Software Development
+- Agile Frameworks
 - Pragmatic Thinking
 - Flow Efficiency
 sitemap:

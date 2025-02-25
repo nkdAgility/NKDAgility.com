@@ -19,16 +19,16 @@ aliases:
 - /blog/where-am-i-
 - /resources/LIBAeHbeyk9
 - /resources/blog/where-am-i
-aliasesFor404:
-- /where-am-i
+aliasesArchive:
 - /blog/where-am-i
+- /where-am-i
 - /where-am-i-
 - /blog/where-am-i-
 - /resources/blog/where-am-i
 tags:
 - Windows
-- Software Development
 - Technical Mastery
+- Software Development
 categories:
 - Engineering Excellence
 preview: metro-merilllynch-128-link-5-1.png

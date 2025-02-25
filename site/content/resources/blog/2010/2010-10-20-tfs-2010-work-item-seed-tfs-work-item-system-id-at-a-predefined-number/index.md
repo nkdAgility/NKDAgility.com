@@ -19,21 +19,21 @@ aliases:
 - /blog/tfs-2010-work-item-seed--tfs-work-item-system-id-at-a-predefined-number
 - /resources/rRCNKBm5xct
 - /resources/blog/tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
-aliasesFor404:
-- /tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
+aliasesArchive:
 - /blog/tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
+- /tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
 - /tfs-2010-work-item-seed--tfs-work-item-system-id-at-a-predefined-number
 - /blog/tfs-2010-work-item-seed--tfs-work-item-system-id-at-a-predefined-number
 - /resources/blog/tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
 tags:
+- Practical Techniques and Tooling
 - Install and Configuration
 - System Configuration
-- Practical Techniques and Tooling
+- Troubleshooting
+- Technical Mastery
 - Software Development
 - Technical Excellence
 - Azure DevOps
-- Troubleshooting
-- Technical Mastery
 - Windows
 - Pragmatic Thinking
 categories:

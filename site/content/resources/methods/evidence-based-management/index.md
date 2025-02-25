@@ -14,7 +14,7 @@ aliases:
 - /methods/ebm/
 - /learn/agile-delivery-kit/strategies/evidence-based-management/
 - /resources/dN0v6E1KsNd
-aliasesFor404:
+aliasesArchive:
 - /methods/ebm/
 - /learn/agile-delivery-kit/strategies/evidence-based-management/
 card:

@@ -19,23 +19,23 @@ aliases:
 - /blog/unable-to-load-task-handler-powershell-for-task-vsbuild
 - /resources/Rqhhvr6lAQK
 - /resources/blog/unable-load-task-handler-powershell-task-vsbuild
-aliasesFor404:
-- /unable-load-task-handler-powershell-task-vsbuild
+aliasesArchive:
 - /blog/unable-load-task-handler-powershell-task-vsbuild
+- /unable-load-task-handler-powershell-task-vsbuild
 - /unable-to-load-task-handler-powershell-for-task-vsbuild
 - /blog/unable-to-load-task-handler-powershell-for-task-vsbuild
 - /resources/blog/unable-load-task-handler-powershell-task-vsbuild
 tags:
 - Windows
 - Install and Configuration
-- System Configuration
 - Practical Techniques and Tooling
-- Software Development
-- Azure DevOps
-- Pragmatic Thinking
-- Azure Pipelines
+- System Configuration
 - Troubleshooting
+- Pragmatic Thinking
+- Software Development
 - Continuous Integration
+- Azure DevOps
+- Azure Pipelines
 categories:
 - DevOps
 preview: puzzle-issue-problem-128-link-7-7.png

@@ -8,22 +8,24 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: V44iUwv0Jcg
 url: /resources/videos/:slug
-slug: continuous-improvement-with-kanban
+slug: embrace-kaizen-unlocking-continuous-improvement-for-personal-and-team-success-V44iUwv0Jcg
 layout: video
 aliases:
-- /resources/videos/V44iUwv0Jcg
-- /resources/videos/continuous-improvement-with-kanban
-- /resources/continuous-improvement-with-kanban
 - /resources/V44iUwv0Jcg
-aliasesFor404:
+- /resources/videos/embrace-kaizen-unlocking-continuous-improvement-for-personal-and-team-success-V44iUwv0Jcg
+- /resources/videos/embrace-kaizen-unlocking-continuous-improvement-for-personal-and-team-success
+- /resources/videos/continuous-improvement-with-kanban
+aliasesArchive:
+- /resources/videos/embrace-kaizen-unlocking-continuous-improvement-for-personal-and-team-success
 - /resources/videos/continuous-improvement-with-kanban
 - /resources/continuous-improvement-with-kanban
+- embrace-kaizen-unlocking-continuous-improvement-for-personal-and-team-success-V44iUwv0Jcg
 preview: https://i.ytimg.com/vi/V44iUwv0Jcg/maxresdefault.jpg
 duration: 56
 isShort: true
 tags:
-- Lean Thinking
 - Operational Practices
+- Lean Thinking
 - Discovery and Learning
 sitemap:
   filename: sitemap.xml

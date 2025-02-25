@@ -10,7 +10,7 @@ aliases:
 - /practices/product-backlog.html
 - /learn/agile-delivery-kit/practices/product-backlog
 - /resources/HbKuUsE28mC
-aliasesFor404:
+aliasesArchive:
 - /practices/product-backlog.html
 - /learn/agile-delivery-kit/practices/product-backlog
 recommendedContent: 

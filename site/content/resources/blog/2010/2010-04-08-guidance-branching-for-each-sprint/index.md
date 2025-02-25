@@ -20,12 +20,12 @@ aliases:
 - /blog/guidance---branching-for-each-sprint
 - /resources/hPGpt57lpYZ
 - /resources/blog/guidance-branching-for-each-sprint
-aliasesFor404:
-- /guidance-branching-for-each-sprint
+aliasesArchive:
 - /blog/guidance-branching-for-each-sprint
+- /guidance-branching-for-each-sprint
+- /guidance
 - /guidance---branching-for-each-sprint
 - /blog/guidance---branching-for-each-sprint
-- /guidance
 - /resources/blog/guidance-branching-for-each-sprint
 categories:
 - Scrum
@@ -34,12 +34,12 @@ tags:
 - Scrum Product Development
 - Software Development
 - Software Developers
-- Modern Source Control
-- Professional Scrum
-- Product Delivery
-- Operational Practices
 - Practical Techniques and Tooling
-- Technical Excellence
+- Operational Practices
+- Modern Source Control
+- Product Delivery
+- Professional Scrum
+- Agile Project Management
 - Pragmatic Thinking
 preview: metro-visual-studio-2005-128-link-1-1.png
 

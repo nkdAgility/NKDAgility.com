@@ -1,0 +1,3 @@
+I love hierarchies of competence because they're based on respect. Right, they're not based on control. They're not based on telling people what to do. They're based on recognized competence and capability of the people that are doing the work.
+
+And you, you, you, we naturally defer sometimes to those people or want more information from those folks to help convince us to do things because they've demonstrated that knowledge, that they are an expert in that space, that they can add value to the conversation and that perhaps they have a more holistic view of all of the facets of the problem and are better able to make that decision.

@@ -17,13 +17,13 @@ aliases:
 - /developer-joins-tfs-sticky-buddy-project
 - /resources/ghXEm8qg1Pz
 - /resources/blog/developer-joins-tfs-sticky-buddy-project
-aliasesFor404:
-- /developer-joins-tfs-sticky-buddy-project
+aliasesArchive:
 - /blog/developer-joins-tfs-sticky-buddy-project
+- /developer-joins-tfs-sticky-buddy-project
 - /resources/blog/developer-joins-tfs-sticky-buddy-project
 tags:
-- Software Development
 - People and Process
+- Software Development
 - News and Reviews
 - Team Collaboration
 categories: []

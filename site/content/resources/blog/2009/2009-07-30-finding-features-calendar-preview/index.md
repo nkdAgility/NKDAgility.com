@@ -19,9 +19,9 @@ aliases:
 - /blog/finding-features--calendar-preview
 - /resources/Q0-oHysVeAO
 - /resources/blog/finding-features-calendar-preview
-aliasesFor404:
-- /finding-features-calendar-preview
+aliasesArchive:
 - /blog/finding-features-calendar-preview
+- /finding-features-calendar-preview
 - /finding-features--calendar-preview
 - /blog/finding-features--calendar-preview
 - /resources/blog/finding-features-calendar-preview

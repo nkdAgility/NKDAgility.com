@@ -9,28 +9,27 @@ ResourceImportSource: Youtube
 videoId: yKSkRhv_2Bs
 source: internal
 url: /resources/videos/:slug
-slug: reasons-to-do-an-aps-course-in-60-seconds
+slug: reasons-to-do-an-aps-course-in-60-seconds-yKSkRhv_2Bs
 layout: video
 preview: https://i.ytimg.com/vi/yKSkRhv_2Bs/maxresdefault.jpg
 duration: 53
 isShort: true
 aliases:
-- /resources/reasons-to-do-an-aps-course-in-60-seconds-2
-- /resources/reasons-to-do-an-aps-course-in-60-seconds
-- /resources/videos/reasons-to-do-an-aps-course-in-60-seconds
-- /resources/videos/yKSkRhv_2Bs
 - /resources/yKSkRhv_2Bs
-aliasesFor404:
+- /resources/videos/reasons-to-do-an-aps-course-in-60-seconds-yKSkRhv_2Bs
+aliasesArchive:
+- /resources/videos/reasons-to-do-an-aps-course-in-seconds
+- /resources/videos/reasons-to-do-an-aps-course-in-60-seconds
 - /resources/reasons-to-do-an-aps-course-in-60-seconds-2
 - /resources/reasons-to-do-an-aps-course-in-60-seconds
-- /resources/videos/reasons-to-do-an-aps-course-in-60-seconds
+- reasons-to-do-an-aps-course-in-60-seconds-yKSkRhv_2Bs
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - People and Process
-- Agile Frameworks
 - Agile Project Management
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

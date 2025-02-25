@@ -8,30 +8,31 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: fUj1k47pDg8
 url: /resources/videos/:slug
-slug: ppdv-course-overview-with-dr-joanna-plaskonka
+slug: unpacking-assumptions-how-to-elevate-your-product-development-beyond-the-feature-factory
 layout: video
 aliases:
-- /resources/videos/fUj1k47pDg8
-- /resources/videos/ppdv-course-overview-with-dr-joanna-plaskonka
-- /resources/ppdv-course-overview-with-dr-joanna-plaskonka
 - /resources/fUj1k47pDg8
-aliasesFor404:
+- /resources/videos/unpacking-assumptions-how-to-elevate-your-product-development-beyond-the-feature-factory
+- /resources/videos/ppdv-course-overview-with-dr-joanna-plaskonka
+aliasesArchive:
+- /resources/videos/unpacking-assumptions-how-to-elevate-your-product-development-beyond-the-feature-factory
 - /resources/videos/ppdv-course-overview-with-dr-joanna-plaskonka
 - /resources/ppdv-course-overview-with-dr-joanna-plaskonka
+- unpacking-assumptions-how-to-elevate-your-product-development-beyond-the-feature-factory
 preview: https://i.ytimg.com/vi/fUj1k47pDg8/maxresdefault.jpg
 duration: 355
 isShort: false
 tags:
-- Experimentation
 - Discovery and Learning
-- Empirical Process Control
-- Product Validation
-- People and Process
+- Experimentation
 - Product Discovery
-- Agile Product Management
-- Continuous Learning
+- People and Process
+- Product Validation
+- Empirical Process Control
 - Hypothesis Driven Development
+- Continuous Learning
 - Product Delivery
+- Agile Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

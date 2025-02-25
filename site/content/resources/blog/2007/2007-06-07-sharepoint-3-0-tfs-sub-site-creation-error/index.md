@@ -19,16 +19,16 @@ aliases:
 - /blog/sharepoint-3-0-tfs-sub-site-creation-error-
 - /resources/x5FZPMNJgBF
 - /resources/blog/sharepoint-3-0-tfs-sub-site-creation-error
-aliasesFor404:
-- /sharepoint-3-0-tfs-sub-site-creation-error
+aliasesArchive:
 - /blog/sharepoint-3-0-tfs-sub-site-creation-error
+- /sharepoint-3-0-tfs-sub-site-creation-error
 - /sharepoint-3-0-tfs-sub-site-creation-error-
 - /blog/sharepoint-3-0-tfs-sub-site-creation-error-
 - /resources/blog/sharepoint-3-0-tfs-sub-site-creation-error
 tags:
 - Install and Configuration
-- System Configuration
 - Troubleshooting
+- System Configuration
 - Software Development
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []

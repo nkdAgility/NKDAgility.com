@@ -9,29 +9,30 @@ ResourceImportSource: Youtube
 videoId: nfTAYRLAaYI
 source: internal
 url: /resources/videos/:slug
-slug: mastering-kanban-a-simple-guide-to-its-core-principles
+slug: mastering-kanban-a-simple-guide-to-its-core-principles-nfTAYRLAaYI
 layout: video
 preview: https://i.ytimg.com/vi/nfTAYRLAaYI/maxresdefault.jpg
 duration: 49
 isShort: true
 aliases:
-- /resources/mastering-kanban-a-simple-guide-to-its-core-principles
-- /resources/videos/kanban-principles
-- /resources/videos/nfTAYRLAaYI
-- /resources/kanban-principles
 - /resources/nfTAYRLAaYI
-aliasesFor404:
+- /resources/videos/mastering-kanban-a-simple-guide-to-its-core-principles-nfTAYRLAaYI
+- /resources/videos/mastering-kanban-a-simple-guide-to-its-core-principles
+- /resources/videos/kanban-principles
+aliasesArchive:
+- /resources/videos/mastering-kanban-a-simple-guide-to-its-core-principles
 - /resources/mastering-kanban-a-simple-guide-to-its-core-principles
 - /resources/videos/kanban-principles
 - /resources/kanban-principles
+- mastering-kanban-a-simple-guide-to-its-core-principles-nfTAYRLAaYI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
-- Lean Thinking
-- Operational Practices
 - Agile Project Management
+- Operational Practices
+- Lean Thinking
+- Agile Frameworks
 - Lean Principles
 - Software Development
 resourceTypes:

@@ -9,31 +9,32 @@ ResourceImportSource: Youtube
 videoId: hB8oQPpderI
 source: internal
 url: /resources/videos/:slug
-slug: one-limitation-of-reading-a-book-vs-attending-a-course
+slug: one-limitation-of-reading-a-book-vs-attending-a-course-hB8oQPpderI
 layout: video
 preview: https://i.ytimg.com/vi/hB8oQPpderI/maxresdefault.jpg
 duration: 56
 isShort: true
 aliases:
-- /resources/one-limitation-of-reading-a-book-vs-attending-a-course
-- /resources/one-limitation-of-a-book-versus-a-scrum-course
-- /resources/videos/one-limitation-of-a-book-versus-a-scrum-course-
-- /resources/videos/hB8oQPpderI
-- /resources/one-limitation-of-a-book-versus-a-scrum-course-
 - /resources/hB8oQPpderI
-aliasesFor404:
+- /resources/videos/one-limitation-of-reading-a-book-vs-attending-a-course-hB8oQPpderI
+- /resources/videos/one-limitation-of-reading-a-book-vs-attending-a-course
+- /resources/videos/one-limitation-of-a-book-versus-a-scrum-course
+aliasesArchive:
+- /resources/videos/one-limitation-of-reading-a-book-vs-attending-a-course
 - /resources/one-limitation-of-reading-a-book-vs-attending-a-course
 - /resources/one-limitation-of-a-book-versus-a-scrum-course
 - /resources/videos/one-limitation-of-a-book-versus-a-scrum-course-
 - /resources/one-limitation-of-a-book-versus-a-scrum-course-
+- one-limitation-of-reading-a-book-vs-attending-a-course-hB8oQPpderI
+- /resources/videos/one-limitation-of-a-book-versus-a-scrum-course
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Team Collaboration
-- Continuous Learning
 - People and Process
 - Agile Project Management
+- Team Collaboration
+- Continuous Learning
 - Discovery and Learning
 resourceTypes:
 - video

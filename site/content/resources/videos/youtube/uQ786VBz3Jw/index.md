@@ -8,29 +8,31 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: uQ786VBz3Jw
 url: /resources/videos/:slug
-slug: what-is-your-1-tip-for-effective-sprint-planning-
+slug: mastering-sprint-planning-key-principles-for-agile-success
 layout: video
 aliases:
-- /resources/videos/uQ786VBz3Jw
-- /resources/videos/what-is-your-1-tip-for-effective-sprint-planning-
-- /resources/what-is-your-1-tip-for-effective-sprint-planning-
 - /resources/uQ786VBz3Jw
-aliasesFor404:
+- /resources/videos/mastering-sprint-planning-key-principles-for-agile-success
+- /resources/videos/what-is-your-1-tip-for-effective-sprint-planning
+aliasesArchive:
+- /resources/videos/mastering-sprint-planning-key-principles-for-agile-success
 - /resources/videos/what-is-your-1-tip-for-effective-sprint-planning-
 - /resources/what-is-your-1-tip-for-effective-sprint-planning-
+- /resources/videos/what-is-your-1-tip-for-effective-sprint-planning
+- mastering-sprint-planning-key-principles-for-agile-success
 preview: https://i.ytimg.com/vi/uQ786VBz3Jw/maxresdefault.jpg
 duration: 246
 isShort: false
 tags:
 - Transparency
+- People and Process
+- Transparency and Accountability
+- Agile Product Management
 - Agile Planning Tools
 - Product Owner
-- Agile Product Management
-- Transparency and Accountability
-- People and Process
 - Agile Planning
-- Team Collaboration
 - Agile Frameworks
+- Team Performance
 - Scrum Product Development
 sitemap:
   filename: sitemap.xml

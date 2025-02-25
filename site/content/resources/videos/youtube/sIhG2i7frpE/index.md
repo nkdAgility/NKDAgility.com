@@ -8,16 +8,18 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: sIhG2i7frpE
 url: /resources/videos/:slug
-slug: improving-workflow-with-kanban
+slug: unlocking-continuous-improvement-how-metrics-and-visual-tools-transform-your-workflow-sIhG2i7frpE
 layout: video
 aliases:
-- /resources/videos/sIhG2i7frpE
-- /resources/videos/improving-workflow-with-kanban
-- /resources/improving-workflow-with-kanban
 - /resources/sIhG2i7frpE
-aliasesFor404:
+- /resources/videos/unlocking-continuous-improvement-how-metrics-and-visual-tools-transform-your-workflow-sIhG2i7frpE
+- /resources/videos/unlocking-continuous-improvement-how-metrics-and-visual-tools-transform-your-workflow
+- /resources/videos/improving-workflow-with-kanban
+aliasesArchive:
+- /resources/videos/unlocking-continuous-improvement-how-metrics-and-visual-tools-transform-your-workflow
 - /resources/videos/improving-workflow-with-kanban
 - /resources/improving-workflow-with-kanban
+- unlocking-continuous-improvement-how-metrics-and-visual-tools-transform-your-workflow-sIhG2i7frpE
 preview: https://i.ytimg.com/vi/sIhG2i7frpE/maxresdefault.jpg
 duration: 50
 isShort: true
@@ -26,9 +28,9 @@ tags:
 - Operational Practices
 - Pragmatic Thinking
 - Transparency
+- Practical Techniques and Tooling
 - Continuous Learning
 - Discovery and Learning
-- Practical Techniques and Tooling
 - Lean Principles
 sitemap:
   filename: sitemap.xml

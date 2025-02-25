@@ -15,24 +15,24 @@ preview: https://i.ytimg.com/vi/BCWiKTm8hjg/maxresdefault.jpg
 duration: 162
 isShort: false
 aliases:
-- /resources/the-power-of-charity-in-agile-how-helping-others-elevates-teams-and-organizations
-- /resources/videos/7-virtues-of-agile-charity
-- /resources/videos/BCWiKTm8hjg
-- /resources/7-virtues-of-agile-charity
 - /resources/BCWiKTm8hjg
-aliasesFor404:
+- /resources/videos/the-power-of-charity-in-agile-how-helping-others-elevates-teams-and-organizations
+- /resources/videos/7-virtues-of-agile-charity
+aliasesArchive:
+- /resources/videos/the-power-of-charity-in-agile-how-helping-others-elevates-teams-and-organizations
 - /resources/the-power-of-charity-in-agile-how-helping-others-elevates-teams-and-organizations
 - /resources/videos/7-virtues-of-agile-charity
 - /resources/7-virtues-of-agile-charity
+- the-power-of-charity-in-agile-how-helping-others-elevates-teams-and-organizations
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - People and Process
 - Agile Values and Principles
+- Team Motivation
 - Team Collaboration
 - Agile Philosophy
-- Team Motivation
 - Personal
 resourceTypes:
 - video

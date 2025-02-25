@@ -19,9 +19,9 @@ aliases:
 - /blog/microsoft-surface--wow
 - /resources/FWXk82xEnqi
 - /resources/blog/microsoft-surface-wow
-aliasesFor404:
-- /microsoft-surface-wow
+aliasesArchive:
 - /blog/microsoft-surface-wow
+- /microsoft-surface-wow
 - /microsoft-surface--wow
 - /blog/microsoft-surface--wow
 - /resources/blog/microsoft-surface-wow

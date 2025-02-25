@@ -12,13 +12,14 @@ url: /resources/videos/:slug
 slug: technical-debt-management-for-long-term-quality
 layout: video
 aliases:
-- /resources/videos/BAwBXYtKj7o
-- /resources/videos/the-power-of-automated-testing
-- /resources/the-power-of-automated-testing
 - /resources/BAwBXYtKj7o
-aliasesFor404:
+- /resources/videos/technical-debt-management-for-long-term-quality
+- /resources/videos/the-power-of-automated-testing
+aliasesArchive:
+- /resources/videos/technical-debt-management-for-long-term-quality
 - /resources/videos/the-power-of-automated-testing
 - /resources/the-power-of-automated-testing
+- technical-debt-management-for-long-term-quality
 preview: https://i.ytimg.com/vi/BAwBXYtKj7o/maxresdefault.jpg
 duration: 451
 isShort: false

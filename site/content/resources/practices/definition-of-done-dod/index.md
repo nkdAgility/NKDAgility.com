@@ -12,7 +12,7 @@ aliases:
 - /practices/Definition-of-Done-DoD.html
 - /learn/agile-delivery-kit/practices/definition-of-done-dod
 - /resources/mAZrKmLwc3L
-aliasesFor404:
+aliasesArchive:
 - /practices/Definition-of-Done-DoD.html
 - /learn/agile-delivery-kit/practices/definition-of-done-dod
 references:
@@ -42,8 +42,8 @@ tags:
 - Definition of Done
 - Increment
 - Scrum Product Development
-- Software Development
 - Working Software
+- Software Development
 - Professional Scrum
 
 ---

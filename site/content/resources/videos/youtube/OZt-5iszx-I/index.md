@@ -9,35 +9,37 @@ ResourceImportSource: Youtube
 videoId: OZt-5iszx-I
 source: internal
 url: /resources/videos/:slug
-slug: turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value
+slug: turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value-OZt-5iszx-I
 layout: video
 preview: https://i.ytimg.com/vi/OZt-5iszx-I/maxresdefault.jpg
 duration: 56
 isShort: true
 aliases:
-- /resources/turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value
-- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-3
-- /resources/videos/OZt-5iszx-I
-- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-3
 - /resources/OZt-5iszx-I
-aliasesFor404:
+- /resources/videos/turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value-OZt-5iszx-I
+- /resources/videos/turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value
+- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-3
+aliasesArchive:
+- /resources/videos/turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value
 - /resources/turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value
 - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-3
 - /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-3
+- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-3
+- turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value-OZt-5iszx-I
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Customer Feedback Loops
-- Product Validation
 - Discovery and Learning
-- Agile Product Operating Model
-- Value Delivery
-- Agile Product Management
 - Product Delivery
+- Product Validation
 - Product Owner
-- Agile Planning
-- Agile Project Management
+- Agile Product Management
+- Value Delivery
+- Agile Product Operating Model
+- Organisational Agility
+- Market Adaptability
 resourceTypes:
 - video
 categories:

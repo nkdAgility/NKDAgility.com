@@ -19,23 +19,23 @@ aliases:
 - /blog/naked-alm--starting-with-why-and-getting-naked
 - /resources/SrQHWVkcvAL
 - /resources/blog/naked-alm-starting-with-why-and-getting-naked
-aliasesFor404:
-- /naked-alm-starting-with-why-and-getting-naked
+aliasesArchive:
 - /blog/naked-alm-starting-with-why-and-getting-naked
+- /naked-alm-starting-with-why-and-getting-naked
 - /naked-alm--starting-with-why-and-getting-naked
 - /blog/naked-alm--starting-with-why-and-getting-naked
 - /resources/blog/naked-alm-starting-with-why-and-getting-naked
 tags:
 - Application Lifecycle Management
-- Working Software
 - Discovery and Learning
 - People and Process
-- Customer Feedback Loops
-- Products and Books
-- Agile Transformation
-- Agile Strategy
+- Working Software
 - Product Delivery
-- Agile Philosophy
+- Products and Books
+- Agile Strategy
+- Business Agility
+- Customer Feedback Loops
+- Agile Transformation
 categories:
 - Product Management
 preview: nakedalm-logo-128-link-1-1.png

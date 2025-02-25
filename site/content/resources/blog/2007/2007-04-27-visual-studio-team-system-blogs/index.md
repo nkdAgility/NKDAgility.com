@@ -17,9 +17,9 @@ aliases:
 - /visual-studio-team-system-blogs
 - /resources/de7b3FE-UNO
 - /resources/blog/visual-studio-team-system-blogs
-aliasesFor404:
-- /visual-studio-team-system-blogs
+aliasesArchive:
 - /blog/visual-studio-team-system-blogs
+- /visual-studio-team-system-blogs
 - /resources/blog/visual-studio-team-system-blogs
 preview: nakedalm-logo-128-link-1-1.png
 categories: []

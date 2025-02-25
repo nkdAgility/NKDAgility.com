@@ -19,22 +19,22 @@ aliases:
 - /blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released-
 - /resources/VkCGOULM8GF
 - /resources/blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released
-aliasesFor404:
-- /visual-studio-team-system-2008-database-edition-gdr-has-been-released
+aliasesArchive:
 - /blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released
+- /visual-studio-team-system-2008-database-edition-gdr-has-been-released
 - /visual-studio-team-system-2008-database-edition-gdr-has-been-released-
 - /blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released-
 - /resources/blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released
 tags:
 - Products and Books
-- Software Development
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
+- Software Development
 - News and Reviews
-- Technical Excellence
 - Technical Mastery
-- Deployment Strategies
+- Technical Excellence
 - Release Management
+- Deployment Strategies
 categories:
 - DevOps
 - Engineering Excellence

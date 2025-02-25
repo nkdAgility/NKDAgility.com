@@ -19,15 +19,15 @@ aliases:
 - /blog/create-a-build-vnext-build-definition
 - /resources/ey-p-MBUzgQ
 - /resources/blog/create-a-build-vnext-build-definition-on-vso
-aliasesFor404:
-- /create-a-build-vnext-build-definition-on-vso
+aliasesArchive:
 - /blog/create-a-build-vnext-build-definition-on-vso
+- /create-a-build-vnext-build-definition-on-vso
 - /create-a-build-vnext-build-definition
 - /blog/create-a-build-vnext-build-definition
 - /resources/blog/create-a-build-vnext-build-definition-on-vso
 tags:
-- Software Development
 - Practical Techniques and Tooling
+- Software Development
 - Azure DevOps
 - Azure Pipelines
 categories:

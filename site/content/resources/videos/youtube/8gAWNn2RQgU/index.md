@@ -9,21 +9,22 @@ ResourceImportSource: Youtube
 videoId: 8gAWNn2RQgU
 source: internal
 url: /resources/videos/:slug
-slug: why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility
+slug: why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility-8gAWNn2RQgU
 layout: video
 preview: https://i.ytimg.com/vi/8gAWNn2RQgU/maxresdefault.jpg
 duration: 45
 isShort: true
 aliases:
-- /resources/why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility-2
-- /resources/why-do-you-trust-joanna-to-deliver-scrum-courses-for-nkd-agility
-- /resources/videos/why-do-you-trust-joanna-to-deliver-scrum-courses-for-nkd-agility
-- /resources/videos/8gAWNn2RQgU
 - /resources/8gAWNn2RQgU
-aliasesFor404:
+- /resources/videos/why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility-8gAWNn2RQgU
+- /resources/videos/why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility
+- /resources/videos/why-do-you-trust-joanna-to-deliver-scrum-courses-for-nkd-agility
+aliasesArchive:
+- /resources/videos/why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility
 - /resources/why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility-2
 - /resources/why-do-you-trust-joanna-to-deliver-scrum-courses-for-nkd-agility
 - /resources/videos/why-do-you-trust-joanna-to-deliver-scrum-courses-for-nkd-agility
+- why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility-8gAWNn2RQgU
 sitemap:
   filename: sitemap.xml
   priority: 0.6

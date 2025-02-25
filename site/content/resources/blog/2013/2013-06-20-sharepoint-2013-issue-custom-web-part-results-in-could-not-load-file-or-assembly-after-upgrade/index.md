@@ -20,12 +20,12 @@ aliases:
 - /blog/sharepoint-2013-issue---custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
 - /resources/dOYcFVzZg42
 - /resources/blog/sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
-aliasesFor404:
-- /sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
+aliasesArchive:
 - /blog/sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
+- /sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
+- /sharepoint-2013-issue
 - /sharepoint-2013-issue---custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
 - /blog/sharepoint-2013-issue---custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
-- /sharepoint-2013-issue
 - /resources/blog/sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
 tags:
 - Troubleshooting

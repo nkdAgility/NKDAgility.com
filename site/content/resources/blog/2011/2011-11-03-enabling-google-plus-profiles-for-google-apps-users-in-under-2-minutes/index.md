@@ -17,9 +17,9 @@ aliases:
 - /enabling-google-plus-profiles-for-google-apps-users-in-under-2-minutes
 - /resources/iTuGd858pI6
 - /resources/blog/enabling-google-plus-profiles-for-google-apps-users-in-under-2-minutes
-aliasesFor404:
-- /enabling-google-plus-profiles-for-google-apps-users-in-under-2-minutes
+aliasesArchive:
 - /blog/enabling-google-plus-profiles-for-google-apps-users-in-under-2-minutes
+- /enabling-google-plus-profiles-for-google-apps-users-in-under-2-minutes
 - /resources/blog/enabling-google-plus-profiles-for-google-apps-users-in-under-2-minutes
 tags:
 - Install and Configuration

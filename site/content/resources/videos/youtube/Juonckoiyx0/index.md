@@ -15,29 +15,27 @@ preview: https://i.ytimg.com/vi/Juonckoiyx0/maxresdefault.jpg
 duration: 155
 isShort: false
 aliases:
-- /resources/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review-2
-- /resources/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
-- /resources/videos/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
-- /resources/videos/Juonckoiyx0
 - /resources/Juonckoiyx0
-aliasesFor404:
+- /resources/videos/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
+aliasesArchive:
+- /resources/videos/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
 - /resources/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review-2
 - /resources/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
-- /resources/videos/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
+- what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Review
-- Scrum Product Development
 - People and Process
+- Scrum Product Development
+- Sprint Review
 - Scrum Team
-- Scrum Master
-- Team Collaboration
-- Team Performance
-- Professional Scrum
 - Transparency and Accountability
+- Team Collaboration
+- Professional Scrum
 - Product Owner
+- Agile Planning
+- Team Performance
 resourceTypes:
 - video
 categories:

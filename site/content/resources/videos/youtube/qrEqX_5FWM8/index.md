@@ -8,22 +8,23 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: qrEqX_5FWM8
 url: /resources/videos/:slug
-slug: overview-of-the-8-week-immersive-learning-experience
+slug: transform-your-agile-training-the-power-of-immersive-learning-for-lasting-impact
 layout: video
 aliases:
-- /resources/videos/qrEqX_5FWM8
-- /resources/videos/overview-of-the-8-week-immersive-learning-experience
-- /resources/overview-of-the-8-week-immersive-learning-experience
 - /resources/qrEqX_5FWM8
-aliasesFor404:
+- /resources/videos/transform-your-agile-training-the-power-of-immersive-learning-for-lasting-impact
+- /resources/videos/overview-of-the-8-week-immersive-learning-experience
+aliasesArchive:
+- /resources/videos/transform-your-agile-training-the-power-of-immersive-learning-for-lasting-impact
 - /resources/videos/overview-of-the-8-week-immersive-learning-experience
 - /resources/overview-of-the-8-week-immersive-learning-experience
+- transform-your-agile-training-the-power-of-immersive-learning-for-lasting-impact
 preview: https://i.ytimg.com/vi/qrEqX_5FWM8/maxresdefault.jpg
 duration: 354
 isShort: false
 tags:
-- Discovery and Learning
 - People and Process
+- Discovery and Learning
 - Continuous Learning
 - Pragmatic Thinking
 sitemap:

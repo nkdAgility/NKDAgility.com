@@ -8,23 +8,23 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 5UG3FF0n0C8
 url: /resources/videos/:slug
-slug: 10th-april-2020-office-hours-ask-me-anything
+slug: 10th-april-2020-office-hours-ask-me-anything-5UG3FF0n0C8
 canonicalUrl: https://www.youtube.com/watch?v=5UG3FF0n0C8
 aliases:
-- /resources/videos/5UG3FF0n0C8
-- /resources/videos/10th-april-2020-office-hours-ask-me-anything
-- /resources/10th-april-2020-office-hours-ask-me-anything
 - /resources/5UG3FF0n0C8
-aliasesFor404:
+- /resources/videos/10th-april-2020-office-hours-ask-me-anything-5UG3FF0n0C8
+aliasesArchive:
+- /resources/videos/th-april-office-hours-ask-me-anything
 - /resources/videos/10th-april-2020-office-hours-ask-me-anything
 - /resources/10th-april-2020-office-hours-ask-me-anything
+- 10th-april-2020-office-hours-ask-me-anything-5UG3FF0n0C8
 preview: https://i.ytimg.com/vi/5UG3FF0n0C8/maxresdefault.jpg
 duration: 41
 isShort: true
 tags:
 - Events and Presentations
-- Software Developers
 - Software Development
+- Software Developers
 sitemap:
   filename: sitemap.xml
   priority: 0.4

@@ -15,29 +15,28 @@ preview: https://i.ytimg.com/vi/vHNwcfbNOR8/maxresdefault.jpg
 duration: 251
 isShort: false
 aliases:
-- /resources/what-is-your-feeling-on-creating-agile-apprenticeships
-- /resources/videos/what-is-your-feeling-on-creating-agile-apprenticeships-
-- /resources/videos/vHNwcfbNOR8
-- /resources/what-is-your-feeling-on-creating-agile-apprenticeships-
 - /resources/vHNwcfbNOR8
-aliasesFor404:
+- /resources/videos/what-is-your-feeling-on-creating-agile-apprenticeships
+aliasesArchive:
+- /resources/videos/what-is-your-feeling-on-creating-agile-apprenticeships
 - /resources/what-is-your-feeling-on-creating-agile-apprenticeships
 - /resources/videos/what-is-your-feeling-on-creating-agile-apprenticeships-
 - /resources/what-is-your-feeling-on-creating-agile-apprenticeships-
+- what-is-your-feeling-on-creating-agile-apprenticeships
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Mentoring
+- People and Process
 - Continuous Learning
 - Discovery and Learning
-- People and Process
 - Team Collaboration
 - Coaching
 - Personal
 - Agile Leadership
-- Agile Philosophy
 - Agile Transformation
+- Agile Philosophy
 resourceTypes:
 - video
 categories:

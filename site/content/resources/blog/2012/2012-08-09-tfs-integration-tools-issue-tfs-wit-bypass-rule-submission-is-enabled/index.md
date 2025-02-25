@@ -20,12 +20,12 @@ aliases:
 - /blog/tfs-integration-tools---issue--tfs-wit-bypass-rule-submission-is-enabled
 - /resources/sb9e7R72Ioq
 - /resources/blog/tfs-integration-tools-issue-tfs-wit-bypass-rule-submission-is-enabled
-aliasesFor404:
-- /tfs-integration-tools-issue-tfs-wit-bypass-rule-submission-is-enabled
+aliasesArchive:
 - /blog/tfs-integration-tools-issue-tfs-wit-bypass-rule-submission-is-enabled
+- /tfs-integration-tools-issue-tfs-wit-bypass-rule-submission-is-enabled
+- /tfs-integration-tools
 - /tfs-integration-tools---issue--tfs-wit-bypass-rule-submission-is-enabled
 - /blog/tfs-integration-tools---issue--tfs-wit-bypass-rule-submission-is-enabled
-- /tfs-integration-tools
 - /resources/blog/tfs-integration-tools-issue-tfs-wit-bypass-rule-submission-is-enabled
 tags:
 - Troubleshooting

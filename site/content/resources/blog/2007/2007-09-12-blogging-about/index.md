@@ -19,11 +19,11 @@ aliases:
 - /resources/mYU-gZ_KBo3
 - /blogging-about
 - /resources/blog/blogging-about
-aliasesFor404:
-- /blogging-about
+aliasesArchive:
 - /blog/blogging-about
 - /blogging-about---
 - /blog/blogging-about---
+- /blogging-about
 - /resources/blog/blogging-about
 tags:
 - Miscellaneous

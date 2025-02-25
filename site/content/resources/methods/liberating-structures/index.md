@@ -14,7 +14,7 @@ aliases:
 - /methods/liberating-structures/
 - /learn/agile-delivery-kit/strategies/liberating-structures/
 - /resources/-Gso-hQgUca
-aliasesFor404:
+aliasesArchive:
 - /methods/liberating-structures/
 - /learn/agile-delivery-kit/strategies/liberating-structures/
 card:

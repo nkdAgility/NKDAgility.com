@@ -17,9 +17,9 @@ aliases:
 - /simplify
 - /resources/CEZVS03cb-9
 - /resources/blog/simplify
-aliasesFor404:
-- /simplify
+aliasesArchive:
 - /blog/simplify
+- /simplify
 - /resources/blog/simplify
 categories: []
 preview: nakedalm-logo-128-link-1-1.png

@@ -17,21 +17,21 @@ aliases:
 - /anatomy-of-an-automation-for-the-tfs-automation-platform
 - /resources/5naWQQ14MHe
 - /resources/blog/anatomy-of-an-automation-for-the-tfs-automation-platform
-aliasesFor404:
-- /anatomy-of-an-automation-for-the-tfs-automation-platform
+aliasesArchive:
 - /blog/anatomy-of-an-automation-for-the-tfs-automation-platform
+- /anatomy-of-an-automation-for-the-tfs-automation-platform
 - /resources/blog/anatomy-of-an-automation-for-the-tfs-automation-platform
 tags:
 - Software Development
 - Install and Configuration
 - System Configuration
+- Practical Techniques and Tooling
 - Platform Engineering
 - Internal Developer Platform
-- Practical Techniques and Tooling
+- Technical Mastery
+- Operational Practices
 - Windows
 - Technical Excellence
-- Azure DevOps
-- Technical Mastery
 categories:
 - DevOps
 

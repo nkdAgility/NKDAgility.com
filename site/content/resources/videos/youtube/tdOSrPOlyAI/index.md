@@ -9,27 +9,28 @@ ResourceImportSource: Youtube
 videoId: tdOSrPOlyAI
 source: youtube
 url: /resources/videos/:slug
-slug: nkd-agility-your-partner-in-engineering-excellence
+slug: transforming-engineering-excellence-the-power-of-naked-agility-in-quality-and-leadership
 layout: video
 aliases:
-- /resources/videos/tdOSrPOlyAI
-- /resources/videos/nkd-agility-your-partner-in-engineering-excellence
-- /resources/nkd-agility-your-partner-in-engineering-excellence
 - /resources/tdOSrPOlyAI
-aliasesFor404:
+- /resources/videos/transforming-engineering-excellence-the-power-of-naked-agility-in-quality-and-leadership
+- /resources/videos/nkd-agility-your-partner-in-engineering-excellence
+aliasesArchive:
+- /resources/videos/transforming-engineering-excellence-the-power-of-naked-agility-in-quality-and-leadership
 - /resources/videos/nkd-agility-your-partner-in-engineering-excellence
 - /resources/nkd-agility-your-partner-in-engineering-excellence
+- transforming-engineering-excellence-the-power-of-naked-agility-in-quality-and-leadership
 preview: https://i9.ytimg.com/vi/tdOSrPOlyAI/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAWEG3GhslAtEUFyG4Q62XYoQlRRA
 duration: 127
 isShort: false
 tags:
 - Technical Excellence
-- Engineering Practices
 - Technical Mastery
+- Engineering Practices
 - Software Development
-- Technical Leadership
-- Technical Debt
 - People and Process
+- Technical Debt
+- Technical Leadership
 - Value Delivery
 - Pragmatic Thinking
 sitemap:

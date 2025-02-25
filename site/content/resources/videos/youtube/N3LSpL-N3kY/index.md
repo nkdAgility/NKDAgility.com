@@ -9,19 +9,19 @@ ResourceImportSource: Youtube
 videoId: N3LSpL-N3kY
 source: internal
 url: /resources/videos/:slug
-slug: 2-day-pspo-versus-8-week-pspo
+slug: 2-day-pspo-versus-8-week-pspo-N3LSpL-N3kY
 layout: video
 preview: https://i.ytimg.com/vi/N3LSpL-N3kY/maxresdefault.jpg
 duration: 52
 isShort: true
 aliases:
-- /resources/2-day-pspo-versus-8-week-pspo
-- /resources/videos/2-day-pspo-versus-8-week-pspo
-- /resources/videos/N3LSpL-N3kY
 - /resources/N3LSpL-N3kY
-aliasesFor404:
-- /resources/2-day-pspo-versus-8-week-pspo
+- /resources/videos/2-day-pspo-versus-8-week-pspo-N3LSpL-N3kY
+aliasesArchive:
+- /resources/videos/-day-pspo-versus-week-pspo
 - /resources/videos/2-day-pspo-versus-8-week-pspo
+- /resources/2-day-pspo-versus-8-week-pspo
+- 2-day-pspo-versus-8-week-pspo-N3LSpL-N3kY
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -17,18 +17,18 @@ aliases:
 - /migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
 - /resources/M3QCV-Dusfq
 - /resources/blog/migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
-aliasesFor404:
-- /migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
+aliasesArchive:
 - /blog/migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
+- /migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
 - /resources/blog/migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
 tags:
 - Modern Source Control
-- Install and Configuration
 - Practical Techniques and Tooling
-- Software Development
-- Pragmatic Thinking
-- System Configuration
+- Install and Configuration
 - Troubleshooting
+- Pragmatic Thinking
+- Software Development
+- System Configuration
 - Technical Mastery
 categories:
 - DevOps

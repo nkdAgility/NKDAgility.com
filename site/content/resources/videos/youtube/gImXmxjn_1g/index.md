@@ -9,31 +9,32 @@ ResourceImportSource: Youtube
 videoId: gImXmxjn_1g
 source: youtube
 url: /resources/videos/:slug
-slug: what-are-3-top-tips-for-a-new-agile-consultant-
+slug: what-are-3-top-tips-for-a-new-agile-consultant
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=gImXmxjn_1g
 aliases:
-- /resources/videos/gImXmxjn_1g
-- /resources/videos/what-are-3-top-tips-for-a-new-agile-consultant-
-- /resources/what-are-3-top-tips-for-a-new-agile-consultant-
 - /resources/gImXmxjn_1g
-aliasesFor404:
+- /resources/videos/what-are-3-top-tips-for-a-new-agile-consultant
+aliasesArchive:
+- /resources/videos/what-are-top-tips-for-a-new-agile-consultant
+- /resources/videos/what-are-3-top-tips-for-a-new-agile-consultant
 - /resources/videos/what-are-3-top-tips-for-a-new-agile-consultant-
 - /resources/what-are-3-top-tips-for-a-new-agile-consultant-
+- what-are-3-top-tips-for-a-new-agile-consultant
 preview: https://i.ytimg.com/vi/gImXmxjn_1g/maxresdefault.jpg
 duration: 376
 isShort: false
 tags:
 - Coaching
-- Agile Strategy
-- Organisational Agility
-- Agile Frameworks
-- Business Agility
 - People and Process
+- Business Agility
 - Agile Product Management
+- Agile Strategy
 - Agile Project Management
 - Agile Transformation
-- Team Collaboration
+- Organisational Agility
+- Agile Frameworks
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.4

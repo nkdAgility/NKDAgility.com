@@ -15,17 +15,17 @@ preview: https://i.ytimg.com/vi/AaCM_pmZb4k/maxresdefault.jpg
 duration: 567
 isShort: false
 aliases:
-- /resources/what-are-the-hierarchies-of-competence-vs-control-why-does-this-matter
-- /resources/what-are-hierarchies-of-competence-vs-control
-- /resources/videos/what-are-hierarchies-of-competence-vs-control-
-- /resources/videos/AaCM_pmZb4k
-- /resources/what-are-hierarchies-of-competence-vs-control-
 - /resources/AaCM_pmZb4k
-aliasesFor404:
+- /resources/videos/what-are-the-hierarchies-of-competence-vs-control-why-does-this-matter
+- /resources/videos/what-are-hierarchies-of-competence-vs-control
+aliasesArchive:
+- /resources/videos/what-are-the-hierarchies-of-competence-vs-control-why-does-this-matter
 - /resources/what-are-the-hierarchies-of-competence-vs-control-why-does-this-matter
 - /resources/what-are-hierarchies-of-competence-vs-control
 - /resources/videos/what-are-hierarchies-of-competence-vs-control-
 - /resources/what-are-hierarchies-of-competence-vs-control-
+- /resources/videos/what-are-hierarchies-of-competence-vs-control
+- what-are-the-hierarchies-of-competence-vs-control-why-does-this-matter
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -34,11 +34,11 @@ tags:
 - Organisational Culture
 - Organisational Physics
 - Sociotechnical Systems
-- Organisational Change
 - Decision Making
+- Organisational Change
 - Market Adaptability
-- Enterprise Agility
 - Business Agility
+- Enterprise Agility
 resourceTypes:
 - video
 categories:

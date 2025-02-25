@@ -9,19 +9,18 @@ ResourceImportSource: Youtube
 videoId: utI-1HVpeSU
 source: internal
 url: /resources/videos/:slug
-slug: quotes-dictatorship-vs-democracy
+slug: quotes-dictatorship-vs-democracy-utI-1HVpeSU
 layout: video
 preview: https://i.ytimg.com/vi/utI-1HVpeSU/maxresdefault.jpg
 duration: 57
 isShort: true
 aliases:
-- /resources/quotes-dictatorship-vs-democracy
-- /resources/videos/quotes-dictatorship-vs-democracy
-- /resources/videos/utI-1HVpeSU
 - /resources/utI-1HVpeSU
-aliasesFor404:
-- /resources/quotes-dictatorship-vs-democracy
+- /resources/videos/quotes-dictatorship-vs-democracy-utI-1HVpeSU
+aliasesArchive:
 - /resources/videos/quotes-dictatorship-vs-democracy
+- /resources/quotes-dictatorship-vs-democracy
+- quotes-dictatorship-vs-democracy-utI-1HVpeSU
 sitemap:
   filename: sitemap.xml
   priority: 0.6

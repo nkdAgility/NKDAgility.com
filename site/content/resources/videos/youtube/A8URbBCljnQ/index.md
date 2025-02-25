@@ -8,16 +8,17 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: A8URbBCljnQ
 url: /resources/videos/:slug
-slug: 27th-march-2020-office-hours-ask-me-anything
+slug: mastering-remote-work-key-insights-for-agile-teams-to-thrive-in-a-digital-world
 layout: video
 aliases:
-- /resources/videos/A8URbBCljnQ
-- /resources/videos/27th-march-2020-office-hours-ask-me-anything
-- /resources/27th-march-2020-office-hours-ask-me-anything
 - /resources/A8URbBCljnQ
-aliasesFor404:
+- /resources/videos/mastering-remote-work-key-insights-for-agile-teams-to-thrive-in-a-digital-world
+- /resources/videos/27th-march-2020-office-hours-ask-me-anything
+aliasesArchive:
+- /resources/videos/mastering-remote-work-key-insights-for-agile-teams-to-thrive-in-a-digital-world
 - /resources/videos/27th-march-2020-office-hours-ask-me-anything
 - /resources/27th-march-2020-office-hours-ask-me-anything
+- mastering-remote-work-key-insights-for-agile-teams-to-thrive-in-a-digital-world
 preview: https://i.ytimg.com/vi/A8URbBCljnQ/hqdefault.jpg
 duration: 1506
 isShort: false
@@ -26,12 +27,12 @@ tags:
 - Team Collaboration
 - Pragmatic Thinking
 - Scrum Product Development
-- Product Delivery
+- Events and Presentations
 - Remote Working
+- Software Development
+- Product Delivery
 - Scrum Team
 - Agile Product Management
-- Events and Presentations
-- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -41,7 +42,7 @@ resourceTypes:
 categories:
 - Scrum
 - Social Technologies
-- Product Management
+- DevOps
 
 ---
 Hello, I’m Martin Hinshelwood, the owner of Naked Agility based in Glasgow, Scotland. Today, I want to share some insights and experiences that have come up in recent discussions, particularly around remote working, the integration of UX in Agile practices, and the importance of team dynamics. 

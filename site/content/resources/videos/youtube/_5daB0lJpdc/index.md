@@ -14,15 +14,15 @@ preview: https://i.ytimg.com/vi/_5daB0lJpdc/maxresdefault.jpg
 duration: 372
 isShort: false
 aliases:
-- /resources/introduction-to-agilitys-ghosts-shedding-dogma-and-embracing-pragmatism
-- /resources/videos/_5daB0lJpdc
-- /resources/videos/5-ghosts-of-agile-past-certification
-- /resources/5-ghosts-of-agile-past-certification
 - /resources/_5daB0lJpdc
-aliasesFor404:
+- /resources/videos/introduction-to-agilitys-ghosts-shedding-dogma-and-embracing-pragmatism
+- /resources/videos/5-ghosts-of-agile-past-certification
+aliasesArchive:
+- /resources/videos/introduction-to-agilitys-ghosts-shedding-dogma-and-embracing-pragmatism
 - /resources/introduction-to-agilitys-ghosts-shedding-dogma-and-embracing-pragmatism
 - /resources/videos/5-ghosts-of-agile-past-certification
 - /resources/5-ghosts-of-agile-past-certification
+- introduction-to-agilitys-ghosts-shedding-dogma-and-embracing-pragmatism
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -9,23 +9,21 @@ ResourceImportSource: Youtube
 videoId: EOs5kZv_7tg
 source: internal
 url: /resources/videos/:slug
-slug: why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility
+slug: why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course
 layout: video
 preview: https://i.ytimg.com/vi/EOs5kZv_7tg/maxresdefault.jpg
 duration: 131
 isShort: false
 aliases:
-- /resources/why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility
-- /resources/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course
-- /resources/videos/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course-
-- /resources/videos/EOs5kZv_7tg
-- /resources/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course-
 - /resources/EOs5kZv_7tg
-aliasesFor404:
+- /resources/videos/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course
+aliasesArchive:
+- /resources/videos/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course
 - /resources/why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility
 - /resources/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course
 - /resources/videos/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course-
 - /resources/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course-
+- why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course
 sitemap:
   filename: sitemap.xml
   priority: 0.6

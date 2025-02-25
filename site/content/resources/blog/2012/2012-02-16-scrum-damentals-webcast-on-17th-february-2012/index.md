@@ -17,18 +17,18 @@ aliases:
 - /scrum-damentals-webcast-on-17th-february-2012
 - /resources/bUSVyRUNCl3
 - /resources/blog/scrum-damentals-webcast-on-17th-february-2012
-aliasesFor404:
-- /scrum-damentals-webcast-on-17th-february-2012
+aliasesArchive:
 - /blog/scrum-damentals-webcast-on-17th-february-2012
+- /scrum-damentals-webcast-on-17th-february-2012
 - /resources/blog/scrum-damentals-webcast-on-17th-february-2012
 tags:
-- Professional Scrum
 - Events and Presentations
-- Agile Frameworks
 - Agile Project Management
 - Agile Transformation
-- Software Development
+- Professional Scrum
+- Agile Frameworks
 - Pragmatic Thinking
+- Software Development
 - People and Process
 - Software Developers
 categories:

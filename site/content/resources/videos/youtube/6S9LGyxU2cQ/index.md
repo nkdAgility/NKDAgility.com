@@ -8,29 +8,31 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 6S9LGyxU2cQ
 url: /resources/videos/:slug
-slug: is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach-
+slug: unlocking-agility-how-eps-immersive-learning-transforms-your-teams-performance
 aliases:
-- /resources/videos/6S9LGyxU2cQ
-- /resources/videos/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach-
-- /resources/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach-
 - /resources/6S9LGyxU2cQ
-aliasesFor404:
+- /resources/videos/unlocking-agility-how-eps-immersive-learning-transforms-your-teams-performance
+- /resources/videos/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach
+aliasesArchive:
+- /resources/videos/unlocking-agility-how-eps-immersive-learning-transforms-your-teams-performance
 - /resources/videos/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach-
 - /resources/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach-
+- /resources/videos/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach
+- unlocking-agility-how-eps-immersive-learning-transforms-your-teams-performance
 preview: https://i.ytimg.com/vi/6S9LGyxU2cQ/maxresdefault.jpg
 duration: 253
 isShort: false
 tags:
 - Coaching
 - People and Process
+- Team Performance
 - Discovery and Learning
 - Continuous Learning
-- Team Performance
 - Organisational Agility
 - Team Collaboration
 - Customer Feedback Loops
+- Agile Frameworks
 - Empirical Process Control
-- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

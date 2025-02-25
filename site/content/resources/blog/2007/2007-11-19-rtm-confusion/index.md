@@ -17,9 +17,9 @@ aliases:
 - /rtm-confusion
 - /resources/S8tFRw6ao4M
 - /resources/blog/rtm-confusion
-aliasesFor404:
-- /rtm-confusion
+aliasesArchive:
 - /blog/rtm-confusion
+- /rtm-confusion
 - /resources/blog/rtm-confusion
 tags:
 - Miscellaneous

@@ -20,23 +20,23 @@ aliases:
 - /blog/upgrade-to-visual-studio-11-team-foundation-service---done
 - /resources/qZoGIj62YP4
 - /resources/blog/upgrade-to-visual-studio-11-team-foundation-service-done
-aliasesFor404:
-- /upgrade-to-visual-studio-11-team-foundation-service-done
+aliasesArchive:
 - /blog/upgrade-to-visual-studio-11-team-foundation-service-done
+- /upgrade-to-visual-studio-11-team-foundation-service-done
+- /upgrade-to-visual-studio-11-team-foundation-service
 - /upgrade-to-visual-studio-11-team-foundation-service---done
 - /blog/upgrade-to-visual-studio-11-team-foundation-service---done
-- /upgrade-to-visual-studio-11-team-foundation-service
 - /resources/blog/upgrade-to-visual-studio-11-team-foundation-service-done
 tags:
 - Modern Source Control
-- Install and Configuration
 - Practical Techniques and Tooling
 - Application Lifecycle Management
-- Software Development
+- Install and Configuration
 - Digital Transformation
+- Operational Practices
+- Software Development
 - Azure DevOps
 - Personal
-- Operational Practices
 - Pragmatic Thinking
 categories:
 - DevOps

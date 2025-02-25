@@ -8,30 +8,31 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: BtHASX2lgGo
 url: /resources/videos/:slug
-slug: 5-kinds-of-agile-bandits-planning-bandits
+slug: rethinking-sprint-planning-why-burndown-charts-are-agile-banditry-and-what-to-do-instead
 layout: video
 aliases:
-- /resources/videos/BtHASX2lgGo
-- /resources/videos/5-kinds-of-agile-bandits-planning-bandits
-- /resources/5-kinds-of-agile-bandits-planning-bandits
 - /resources/BtHASX2lgGo
-aliasesFor404:
+- /resources/videos/rethinking-sprint-planning-why-burndown-charts-are-agile-banditry-and-what-to-do-instead
+- /resources/videos/5-kinds-of-agile-bandits-planning-bandits
+aliasesArchive:
+- /resources/videos/rethinking-sprint-planning-why-burndown-charts-are-agile-banditry-and-what-to-do-instead
 - /resources/videos/5-kinds-of-agile-bandits-planning-bandits
 - /resources/5-kinds-of-agile-bandits-planning-bandits
+- rethinking-sprint-planning-why-burndown-charts-are-agile-banditry-and-what-to-do-instead
 preview: https://i.ytimg.com/vi/BtHASX2lgGo/maxresdefault.jpg
 duration: 324
 isShort: false
 tags:
-- Agile Planning
 - Agile Product Management
 - Agile Project Management
+- Agile Planning
+- People and Process
 - Scrum Product Development
 - Software Developers
-- Agile Frameworks
-- People and Process
-- Agile Philosophy
-- Product Delivery
 - Agile Transformation
+- Product Delivery
+- Agile Frameworks
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

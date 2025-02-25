@@ -15,25 +15,26 @@ preview: https://i.ytimg.com/vi/syzFdEP1Eso/maxresdefault.jpg
 duration: 352
 isShort: false
 aliases:
-- /resources/why-definition-of-done-is-crucial-for-success-in-scrum
-- /resources/videos/how-do-you-define-a-definition-of-done-if-you-aren't-100-sure-what-the-solution-is-
-- /resources/videos/syzFdEP1Eso
-- /resources/how-do-you-define-a-definition-of-done-if-you-aren't-100-sure-what-the-solution-is-
 - /resources/syzFdEP1Eso
-aliasesFor404:
+- /resources/videos/why-definition-of-done-is-crucial-for-success-in-scrum
+- /resources/videos/how-do-you-define-a-definition-of-done-if-you-arent-100-sure-what-the-solution-is
+aliasesArchive:
+- /resources/videos/why-definition-of-done-is-crucial-for-success-in-scrum
 - /resources/why-definition-of-done-is-crucial-for-success-in-scrum
 - /resources/videos/how-do-you-define-a-definition-of-done-if-you-aren't-100-sure-what-the-solution-is-
 - /resources/how-do-you-define-a-definition-of-done-if-you-aren't-100-sure-what-the-solution-is-
+- /resources/videos/how-do-you-define-a-definition-of-done-if-you-arent-100-sure-what-the-solution-is
+- why-definition-of-done-is-crucial-for-success-in-scrum
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Definition of Done
-- Professional Scrum
 - Software Development
+- Professional Scrum
+- Agile Project Management
 - Pragmatic Thinking
 - Agile Frameworks
-- Agile Project Management
 resourceTypes:
 - video
 categories:

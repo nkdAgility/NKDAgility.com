@@ -14,15 +14,14 @@ preview: https://i.ytimg.com/vi/00V7BJJtMT0/maxresdefault.jpg
 duration: 181
 isShort: false
 aliases:
-- /resources/what-is-devops-and-how-is-it-different-to-agile
-- /resources/videos/what-is-devops-and-how-is-it-different-to-agile-
-- /resources/videos/00V7BJJtMT0
-- /resources/what-is-devops-and-how-is-it-different-to-agile-
 - /resources/00V7BJJtMT0
-aliasesFor404:
+- /resources/videos/what-is-devops-and-how-is-it-different-to-agile
+aliasesArchive:
+- /resources/videos/what-is-devops-and-how-is-it-different-to-agile
 - /resources/what-is-devops-and-how-is-it-different-to-agile
 - /resources/videos/what-is-devops-and-how-is-it-different-to-agile-
 - /resources/what-is-devops-and-how-is-it-different-to-agile-
+- what-is-devops-and-how-is-it-different-to-agile
 sitemap:
   filename: sitemap.xml
   priority: 0.6

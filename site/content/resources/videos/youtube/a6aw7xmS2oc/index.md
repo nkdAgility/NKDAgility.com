@@ -8,30 +8,31 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: a6aw7xmS2oc
 url: /resources/videos/:slug
-slug: what-are-the-top-3-things-a-product-owner-needs-to-bear-in-mind-when-adopting-an-entrepreneur-stance
+slug: harnessing-your-entrepreneurial-spirit-key-strategies-for-product-owners-to-drive-team-success
 layout: video
 aliases:
-- /resources/videos/a6aw7xmS2oc
-- /resources/videos/what-are-the-top-3-things-a-product-owner-needs-to-bear-in-mind-when-adopting-an-entrepreneur-stance
-- /resources/what-are-the-top-3-things-a-product-owner-needs-to-bear-in-mind-when-adopting-an-entrepreneur-stance
 - /resources/a6aw7xmS2oc
-aliasesFor404:
+- /resources/videos/harnessing-your-entrepreneurial-spirit-key-strategies-for-product-owners-to-drive-team-success
+- /resources/videos/what-are-the-top-3-things-a-product-owner-needs-to-bear-in-mind-when-adopting-an-entrepreneur-stance
+aliasesArchive:
+- /resources/videos/harnessing-your-entrepreneurial-spirit-key-strategies-for-product-owners-to-drive-team-success
 - /resources/videos/what-are-the-top-3-things-a-product-owner-needs-to-bear-in-mind-when-adopting-an-entrepreneur-stance
 - /resources/what-are-the-top-3-things-a-product-owner-needs-to-bear-in-mind-when-adopting-an-entrepreneur-stance
+- harnessing-your-entrepreneurial-spirit-key-strategies-for-product-owners-to-drive-team-success
 preview: https://i.ytimg.com/vi/a6aw7xmS2oc/maxresdefault.jpg
 duration: 330
 isShort: false
 tags:
-- Ability to Innovate
 - People and Process
 - Product Owner
-- Value Delivery
+- Ability to Innovate
 - Decision Making
-- Product Delivery
 - Evidence Based Management
-- Agile Product Management
 - Evidence Based Leadership
-- Scrum Product Development
+- Agile Product Operating Model
+- Product Delivery
+- Metrics and Learning
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

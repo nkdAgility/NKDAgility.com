@@ -18,16 +18,16 @@ aliases:
 - /professional-kanban-trainer-for-applying-professional-kanban
 - /resources/ZQi3U9gnXj3
 - /resources/blog/professional-kanban-trainer-for-applying-professional-kanban
-aliasesFor404:
-- /professional-kanban-trainer-for-applying-professional-kanban
+aliasesArchive:
 - /blog/professional-kanban-trainer-for-applying-professional-kanban
+- /professional-kanban-trainer-for-applying-professional-kanban
 - /resources/blog/professional-kanban-trainer-for-applying-professional-kanban
 tags:
 - Products and Books
 - Practical Techniques and Tooling
+- Agile Project Management
 - Software Development
 - Agile Frameworks
-- Agile Project Management
 - Operational Practices
 categories:
 - Kanban

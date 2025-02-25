@@ -9,32 +9,33 @@ ResourceImportSource: Youtube
 videoId: cbLd-wstv3o
 source: internal
 url: /resources/videos/:slug
-slug: how-to-discover-unrealized-value-in-your-product
+slug: how-to-discover-unrealized-value-in-your-product-cbLd-wstv3o
 layout: video
 preview: https://i.ytimg.com/vi/cbLd-wstv3o/maxresdefault.jpg
 duration: 53
 isShort: true
 aliases:
-- /resources/how-to-discover-unrealized-value-in-your-product
-- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-3
-- /resources/videos/cbLd-wstv3o
-- /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-3
 - /resources/cbLd-wstv3o
-aliasesFor404:
+- /resources/videos/how-to-discover-unrealized-value-in-your-product-cbLd-wstv3o
+- /resources/videos/how-to-discover-unrealized-value-in-your-product
+- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-3
+aliasesArchive:
+- /resources/videos/how-to-discover-unrealized-value-in-your-product
 - /resources/how-to-discover-unrealized-value-in-your-product
 - /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-3
 - /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-3
+- how-to-discover-unrealized-value-in-your-product-cbLd-wstv3o
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Agile Product Management
-- Evidence Based Management
 - Metrics and Learning
+- Evidence Based Management
 - Value Delivery
-- Evidence Based Leadership
-- Pragmatic Thinking
 - Decision Making
+- Pragmatic Thinking
+- Evidence Based Leadership
 - Ability to Innovate
 - Product Owner
 resourceTypes:

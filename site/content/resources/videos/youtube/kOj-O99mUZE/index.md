@@ -15,28 +15,29 @@ preview: https://i.ytimg.com/vi/kOj-O99mUZE/maxresdefault.jpg
 duration: 146
 isShort: false
 aliases:
-- /resources/overview-of-the-scaling-with-portfolio-kanban-course
-- /resources/videos/overview-of-scaling-with-portfolio-kanban-course-
-- /resources/videos/kOj-O99mUZE
-- /resources/overview-of-scaling-with-portfolio-kanban-course-
 - /resources/kOj-O99mUZE
-aliasesFor404:
+- /resources/videos/overview-of-the-scaling-with-portfolio-kanban-course
+- /resources/videos/overview-of-scaling-with-portfolio-kanban-course
+aliasesArchive:
+- /resources/videos/overview-of-the-scaling-with-portfolio-kanban-course
 - /resources/overview-of-the-scaling-with-portfolio-kanban-course
 - /resources/videos/overview-of-scaling-with-portfolio-kanban-course-
 - /resources/overview-of-scaling-with-portfolio-kanban-course-
+- overview-of-the-scaling-with-portfolio-kanban-course
+- /resources/videos/overview-of-scaling-with-portfolio-kanban-course
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Agile Product Operating Model
 - Value Delivery
+- Scaled Agile
 - Agile Project Management
 - Product Delivery
-- Scaled Agile
+- People and Process
+- Scaling Kanban
 - Portfolio Management
 - Agile Strategy
-- Scaling Agility
-- Scaling Kanban
 - Agile Frameworks
 resourceTypes:
 - video

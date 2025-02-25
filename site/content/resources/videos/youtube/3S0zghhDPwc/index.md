@@ -14,15 +14,15 @@ preview: https://i.ytimg.com/vi/3S0zghhDPwc/maxresdefault.jpg
 duration: 119
 isShort: false
 aliases:
-- /resources/the-overlooked-virtue-of-agility-diligence
-- /resources/videos/7-virtues-of-agile-diligence
-- /resources/videos/3S0zghhDPwc
-- /resources/7-virtues-of-agile-diligence
 - /resources/3S0zghhDPwc
-aliasesFor404:
+- /resources/videos/the-overlooked-virtue-of-agility-diligence
+- /resources/videos/7-virtues-of-agile-diligence
+aliasesArchive:
+- /resources/videos/the-overlooked-virtue-of-agility-diligence
 - /resources/the-overlooked-virtue-of-agility-diligence
 - /resources/videos/7-virtues-of-agile-diligence
 - /resources/7-virtues-of-agile-diligence
+- the-overlooked-virtue-of-agility-diligence
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -34,8 +34,8 @@ resourceTypes:
 layout: video
 categories:
 - Product Management
-- Social Technologies
 - Engineering Excellence
+- Social Technologies
 
 ---
 When we talk about Agile practices, we often highlight flexibility, collaboration, and continuous improvement. However, one key Agile virtue that is often overlooked is _diligence_. Diligence, in its essence, is that unwavering attention to detail and the commitment to doing what needs to be done—no shortcuts, no compromises. It’s about ensuring quality at every step of the process, and in the world of Agile, this is where the definition of "done" becomes crucial.

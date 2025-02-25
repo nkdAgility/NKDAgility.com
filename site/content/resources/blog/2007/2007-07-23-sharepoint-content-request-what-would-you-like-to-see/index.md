@@ -20,20 +20,20 @@ aliases:
 - /blog/sharepoint-content-request---what-would-you-like-to-see-
 - /resources/pyKCdDNWdPB
 - /resources/blog/sharepoint-content-request-what-would-you-like-to-see
-aliasesFor404:
-- /sharepoint-content-request-what-would-you-like-to-see
+aliasesArchive:
 - /blog/sharepoint-content-request-what-would-you-like-to-see
+- /sharepoint-content-request-what-would-you-like-to-see
+- /sharepoint-content-request
 - /sharepoint-content-request---what-would-you-like-to-see-
 - /blog/sharepoint-content-request---what-would-you-like-to-see-
-- /sharepoint-content-request
 - /resources/blog/sharepoint-content-request-what-would-you-like-to-see
 categories: []
 tags:
 - Products and Books
 - Practical Techniques and Tooling
-- Software Development
-- Miscellaneous
 - Application Lifecycle Management
+- Miscellaneous
+- Software Development
 
 ---
 what-would-you-like-to-see-

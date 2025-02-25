@@ -9,34 +9,38 @@ ResourceImportSource: Youtube
 videoId: CawY8x3kGVk
 source: internal
 url: /resources/videos/:slug
-slug: scrum-is-like-communism-it-doesn-t-work-myth-3
+slug: scrum-is-like-communism-it-doesnt-work-myth-3
 layout: video
 preview: https://i.ytimg.com/vi/CawY8x3kGVk/maxresdefault.jpg
 duration: 234
 isShort: false
 aliases:
-- /resources/scrum-is-like-communism-it-doesnt-work-myth-3
-- /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-3-micromanagement,-developer-autonomy,-and-more!
-- /resources/videos/CawY8x3kGVk
-- /resources/scrum-is-like-communism-it-doesn't-work-myth-3-micromanagement,-developer-autonomy,-and-more!
 - /resources/CawY8x3kGVk
-aliasesFor404:
+- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-3
+- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-3-micromanagement-developer-autonomy-and-more
+aliasesArchive:
+- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-
+- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-3-
 - /resources/scrum-is-like-communism-it-doesnt-work-myth-3
 - /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-3-micromanagement,-developer-autonomy,-and-more!
 - /resources/scrum-is-like-communism-it-doesn't-work-myth-3-micromanagement,-developer-autonomy,-and-more!
+- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-3-micromanagement-developer-autonomy-and-more
+- scrum-is-like-communism-it-doesnt-work-myth-3-
+- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-3
+- scrum-is-like-communism-it-doesnt-work-myth-3
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Scrum Team
+- People and Process
 - Professional Scrum
 - Technical Leadership
 - Agile Product Management
-- Software Developers
 - Agile Project Management
-- People and Process
+- Software Developers
 - Agile Frameworks
-- Self Organisation
+- Pragmatic Thinking
 - Software Development
 resourceTypes:
 - video

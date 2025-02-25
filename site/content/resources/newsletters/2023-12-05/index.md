@@ -13,17 +13,17 @@ aliases:
 - /newsletters/2024-learning-journeys-and-extending-the-learning-process/
 - /resources/newsletters/2024-learning-journeys-and-extending-the-learning-process/
 - /resources/-wdSJlbQQbK
-aliasesFor404:
+aliasesArchive:
 - /newsletters/2024-learning-journeys-and-extending-the-learning-process/
 - /resources/newsletters/2024-learning-journeys-and-extending-the-learning-process/
 categories:
 - Scrum
 - Social Technologies
 tags:
-- Professional Scrum
+- People and Process
 - Continuous Learning
 - Discovery and Learning
-- People and Process
+- Professional Scrum
 - Products and Books
 - Events and Presentations
 - Agile Transformation

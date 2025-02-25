@@ -17,9 +17,9 @@ aliases:
 - /wakoopa
 - /resources/-dqfdSPfCHx
 - /resources/blog/wakoopa
-aliasesFor404:
-- /wakoopa
+aliasesArchive:
 - /blog/wakoopa
+- /wakoopa
 - /resources/blog/wakoopa
 tags: []
 categories: []

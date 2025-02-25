@@ -14,7 +14,7 @@ aliases:
 - /methods/agnostic-agile/
 - /learn/agile-delivery-kit/strategies/agnostic-agile/
 - /resources/kfsLvZzGPDZ
-aliasesFor404:
+aliasesArchive:
 - /APOM
 - /methods/agnostic-agile/
 - /learn/agile-delivery-kit/strategies/agnostic-agile/

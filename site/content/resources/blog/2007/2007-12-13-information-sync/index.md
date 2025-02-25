@@ -17,9 +17,9 @@ aliases:
 - /information-sync
 - /resources/8wFrWRJNJT9
 - /resources/blog/information-sync
-aliasesFor404:
-- /information-sync
+aliasesArchive:
 - /blog/information-sync
+- /information-sync
 - /resources/blog/information-sync
 tags:
 - Windows

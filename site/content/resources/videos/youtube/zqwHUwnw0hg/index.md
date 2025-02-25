@@ -15,21 +15,20 @@ preview: https://i.ytimg.com/vi/zqwHUwnw0hg/maxresdefault.jpg
 duration: 326
 isShort: false
 aliases:
-- /resources/what-will-you-learn-on-the-professional-scrum-master-course
-- /resources/videos/what-will-you-learn-on-the-professional-scrum-master-course-
-- /resources/videos/zqwHUwnw0hg
-- /resources/what-will-you-learn-on-the-professional-scrum-master-course-
 - /resources/zqwHUwnw0hg
-aliasesFor404:
+- /resources/videos/what-will-you-learn-on-the-professional-scrum-master-course
+aliasesArchive:
+- /resources/videos/what-will-you-learn-on-the-professional-scrum-master-course
 - /resources/what-will-you-learn-on-the-professional-scrum-master-course
 - /resources/videos/what-will-you-learn-on-the-professional-scrum-master-course-
 - /resources/what-will-you-learn-on-the-professional-scrum-master-course-
+- what-will-you-learn-on-the-professional-scrum-master-course
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Professional Scrum
 - Scrum Master
+- Professional Scrum
 resourceTypes:
 - video
 categories:

@@ -9,16 +9,17 @@ ResourceImportSource: Youtube
 videoId: PZa77csy5r8
 source: youtube
 url: /resources/videos/:slug
-slug: technical-debt-management-for-long-term-quality
+slug: mastering-technical-debt-strategies-to-transform-challenges-into-opportunities-for-your-development-team
 layout: video
 aliases:
-- /resources/videos/PZa77csy5r8
-- /resources/videos/technical-debt-management-for-long-term-quality
-- /resources/technical-debt-management-for-long-term-quality
 - /resources/PZa77csy5r8
-aliasesFor404:
+- /resources/videos/mastering-technical-debt-strategies-to-transform-challenges-into-opportunities-for-your-development-team
+- /resources/videos/technical-debt-management-for-long-term-quality
+aliasesArchive:
+- /resources/videos/mastering-technical-debt-strategies-to-transform-challenges-into-opportunities-for-your-development-team
 - /resources/videos/technical-debt-management-for-long-term-quality
 - /resources/technical-debt-management-for-long-term-quality
+- mastering-technical-debt-strategies-to-transform-challenges-into-opportunities-for-your-development-team
 preview: https://i.ytimg.com/vi/PZa77csy5r8/maxresdefault.jpg
 duration: 459
 isShort: false

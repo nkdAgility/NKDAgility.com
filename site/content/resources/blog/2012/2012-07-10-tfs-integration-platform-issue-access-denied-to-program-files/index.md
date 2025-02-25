@@ -19,19 +19,19 @@ aliases:
 - /blog/tfs-integration-tools-–-issue--access-denied-to-program-files
 - /resources/wzTZxQrjbzO
 - /resources/blog/tfs-integration-platform-issue-access-denied-to-program-files
-aliasesFor404:
-- /tfs-integration-platform-issue-access-denied-to-program-files
+aliasesArchive:
 - /blog/tfs-integration-platform-issue-access-denied-to-program-files
+- /tfs-integration-platform-issue-access-denied-to-program-files
 - /tfs-integration-tools-–-issue--access-denied-to-program-files
 - /blog/tfs-integration-tools-–-issue--access-denied-to-program-files
 - /resources/blog/tfs-integration-platform-issue-access-denied-to-program-files
 tags:
 - Windows
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
+- Troubleshooting
 - Software Development
 - System Configuration
-- Troubleshooting
 categories:
 - DevOps
 preview: metro-problem-icon-1-1.png

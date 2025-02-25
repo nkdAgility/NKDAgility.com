@@ -15,27 +15,27 @@ preview: https://i.ytimg.com/vi/SMgKAk-qPMM/maxresdefault.jpg
 duration: 154
 isShort: false
 aliases:
-- /resources/temperance-in-agile-why-less-is-more
-- /resources/videos/7-virtues-of-agile-temperance
-- /resources/videos/SMgKAk-qPMM
-- /resources/7-virtues-of-agile-temperance
 - /resources/SMgKAk-qPMM
-aliasesFor404:
+- /resources/videos/temperance-in-agile-why-less-is-more
+- /resources/videos/7-virtues-of-agile-temperance
+aliasesArchive:
+- /resources/videos/temperance-in-agile-why-less-is-more
 - /resources/temperance-in-agile-why-less-is-more
 - /resources/videos/7-virtues-of-agile-temperance
 - /resources/7-virtues-of-agile-temperance
+- temperance-in-agile-why-less-is-more
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Agile Values and Principles
-- Agile Frameworks
 - Agile Product Management
-- Agile Philosophy
 - Agile Project Management
 - Agile Transformation
-- Software Development
+- Agile Frameworks
+- Agile Philosophy
 - Pragmatic Thinking
+- Software Development
 - Agile Planning
 - Software Developers
 resourceTypes:

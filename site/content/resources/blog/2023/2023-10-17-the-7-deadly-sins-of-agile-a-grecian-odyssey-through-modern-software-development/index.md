@@ -20,22 +20,22 @@ aliases:
 - /blog/the-7-deadly-sins-of-agile--a-grecian-odyssey-through-modern-software-development
 - /resources/DgJV3wMMjWr
 - /resources/blog/the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
-aliasesFor404:
-- /the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
+aliasesArchive:
 - /blog/the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
+- /the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
 - /the-7-deadly-sins-of-agile--a-grecian-odyssey-through-modern-software-development
 - /blog/the-7-deadly-sins-of-agile--a-grecian-odyssey-through-modern-software-development
 - /resources/blog/the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
 tags:
+- Agile Project Management
 - Software Development
 - Agile Philosophy
-- Agile Project Management
-- Agile Strategy
 - People and Process
+- Agile Strategy
 - Agile Values and Principles
 - Software Developers
-- Agile Frameworks
 - Agile Transformation
+- Agile Frameworks
 categories:
 - Social Technologies
 preview: NKDAgility-technically-7DeadlySins-16-15.jpg

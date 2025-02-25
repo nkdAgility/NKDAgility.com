@@ -8,16 +8,17 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: tzmbqdEULUY
 url: /resources/videos/:slug
-slug: devops-migration-downtime
+slug: mastering-data-migration-how-to-minimise-downtime-and-keep-your-engineers-productive
 layout: video
 aliases:
-- /resources/videos/tzmbqdEULUY
-- /resources/videos/devops-migration-downtime
-- /resources/devops-migration-downtime
 - /resources/tzmbqdEULUY
-aliasesFor404:
+- /resources/videos/mastering-data-migration-how-to-minimise-downtime-and-keep-your-engineers-productive
+- /resources/videos/devops-migration-downtime
+aliasesArchive:
+- /resources/videos/mastering-data-migration-how-to-minimise-downtime-and-keep-your-engineers-productive
 - /resources/videos/devops-migration-downtime
 - /resources/devops-migration-downtime
+- mastering-data-migration-how-to-minimise-downtime-and-keep-your-engineers-productive
 preview: https://i.ytimg.com/vi/tzmbqdEULUY/maxresdefault.jpg
 duration: 218
 isShort: false

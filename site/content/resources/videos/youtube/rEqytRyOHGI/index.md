@@ -15,29 +15,29 @@ preview: https://i.ytimg.com/vi/rEqytRyOHGI/maxresdefault.jpg
 duration: 291
 isShort: false
 aliases:
-- /resources/special-sprints-agile-banditry-or-risk-management
-- /resources/videos/5-kinds-of-agile-bandits-special-sprints
-- /resources/videos/rEqytRyOHGI
-- /resources/5-kinds-of-agile-bandits-special-sprints
 - /resources/rEqytRyOHGI
-aliasesFor404:
+- /resources/videos/special-sprints-agile-banditry-or-risk-management
+- /resources/videos/5-kinds-of-agile-bandits-special-sprints
+aliasesArchive:
+- /resources/videos/special-sprints-agile-banditry-or-risk-management
 - /resources/special-sprints-agile-banditry-or-risk-management
 - /resources/videos/5-kinds-of-agile-bandits-special-sprints
 - /resources/5-kinds-of-agile-bandits-special-sprints
+- special-sprints-agile-banditry-or-risk-management
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - People and Process
-- Agile Project Management
 - Agile Product Management
+- Agile Project Management
+- Agile Philosophy
+- Value Delivery
+- Working Software
 - Agile Planning
-- Agile Transformation
-- Agile Strategy
+- Scrum Product Development
 - Product Delivery
 - Agile Frameworks
-- Agile Philosophy
-- Working Software
 resourceTypes:
 - video
 categories:

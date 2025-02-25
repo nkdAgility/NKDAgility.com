@@ -15,29 +15,30 @@ preview: https://i.ytimg.com/vi/Af-wBYtyyRU/maxresdefault.jpg
 duration: 178
 isShort: false
 aliases:
-- /resources/mastering-evidence-based-management-ebm-for-product-owners-maximizing-value-delivery
-- /resources/videos/evidence-based-management-for-product-owners!-why-is-this-a-great-option-
-- /resources/videos/Af-wBYtyyRU
-- /resources/evidence-based-management-for-product-owners!-why-is-this-a-great-option-
 - /resources/Af-wBYtyyRU
-aliasesFor404:
+- /resources/videos/mastering-evidence-based-management-ebm-for-product-owners-maximizing-value-delivery
+- /resources/videos/evidence-based-management-for-product-owners-why-is-this-a-great-option
+aliasesArchive:
+- /resources/videos/mastering-evidence-based-management-ebm-for-product-owners-maximizing-value-delivery
 - /resources/mastering-evidence-based-management-ebm-for-product-owners-maximizing-value-delivery
 - /resources/videos/evidence-based-management-for-product-owners!-why-is-this-a-great-option-
 - /resources/evidence-based-management-for-product-owners!-why-is-this-a-great-option-
+- /resources/videos/evidence-based-management-for-product-owners-why-is-this-a-great-option
+- mastering-evidence-based-management-ebm-for-product-owners-maximizing-value-delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Value Delivery
 - Throughput
-- Ability to Innovate
 - Metrics and Learning
-- Agile Product Management
 - Product Delivery
-- Product Owner
-- People and Process
+- Agile Product Management
+- Ability to Innovate
+- Agile Project Management
 - Decision Making
 - Evidence Based Management
+- Agile Product Operating Model
 resourceTypes:
 - video
 categories:

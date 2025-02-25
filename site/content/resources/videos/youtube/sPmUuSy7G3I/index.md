@@ -8,31 +8,31 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: sPmUuSy7G3I
 url: /resources/videos/:slug
-slug: how-does-a-scrum-team-plan-and-prioritize-work-effectively-
+slug: how-does-a-scrum-team-plan-and-prioritize-work-effectively
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=sPmUuSy7G3I
 aliases:
-- /resources/videos/sPmUuSy7G3I
-- /resources/videos/how-does-a-scrum-team-plan-and-prioritize-work-effectively-
-- /resources/how-does-a-scrum-team-plan-and-prioritize-work-effectively-
 - /resources/sPmUuSy7G3I
-aliasesFor404:
+- /resources/videos/how-does-a-scrum-team-plan-and-prioritize-work-effectively
+aliasesArchive:
+- /resources/videos/how-does-a-scrum-team-plan-and-prioritize-work-effectively
 - /resources/videos/how-does-a-scrum-team-plan-and-prioritize-work-effectively-
 - /resources/how-does-a-scrum-team-plan-and-prioritize-work-effectively-
+- how-does-a-scrum-team-plan-and-prioritize-work-effectively
 preview: https://i.ytimg.com/vi/sPmUuSy7G3I/maxresdefault.jpg
 duration: 312
 isShort: false
 tags:
 - People and Process
 - Scrum Team
-- Team Collaboration
-- Scrum Product Development
 - Team Performance
+- Scrum Product Development
 - Agile Project Management
-- Software Development
-- Agile Frameworks
-- Agile Planning
+- Team Collaboration
 - Agile Product Management
+- Software Development
+- Product Delivery
+- Agile Planning
 sitemap:
   filename: sitemap.xml
   priority: 0.4

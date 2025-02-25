@@ -9,31 +9,32 @@ ResourceImportSource: Youtube
 videoId: qXsjLuss22Y
 source: internal
 url: /resources/videos/:slug
-slug: what-is-a-sprint-goal
+slug: what-is-a-sprint-goal-qXsjLuss22Y
 layout: video
 preview: https://i.ytimg.com/vi/qXsjLuss22Y/maxresdefault.jpg
 duration: 45
 isShort: true
 aliases:
-- /resources/what-is-a-sprint-goal
-- /resources/what-is-a-product-goal
-- /resources/videos/what-is-a-product-goal-
-- /resources/videos/qXsjLuss22Y
-- /resources/what-is-a-product-goal-
 - /resources/qXsjLuss22Y
-aliasesFor404:
+- /resources/videos/what-is-a-sprint-goal-qXsjLuss22Y
+- /resources/videos/what-is-a-sprint-goal
+- /resources/videos/what-is-a-product-goal
+aliasesArchive:
+- /resources/videos/what-is-a-sprint-goal
 - /resources/what-is-a-sprint-goal
 - /resources/what-is-a-product-goal
 - /resources/videos/what-is-a-product-goal-
 - /resources/what-is-a-product-goal-
+- /resources/videos/what-is-a-product-goal
+- what-is-a-sprint-goal-qXsjLuss22Y
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - People and Process
 - Agile Product Management
-- Strategy
 - Agile Project Management
+- Strategy
 resourceTypes:
 - video
 categories:

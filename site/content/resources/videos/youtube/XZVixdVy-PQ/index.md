@@ -15,28 +15,29 @@ preview: https://i.ytimg.com/vi/XZVixdVy-PQ/maxresdefault.jpg
 duration: 223
 isShort: false
 aliases:
-- /resources/redefining-agiles-core-beyond-rituals-and-procedures
-- /resources/videos/agile-is-not-about-rituals-it's-about-developing-software-in-a-different-way-ken-schwaber
-- /resources/videos/XZVixdVy-PQ
-- /resources/agile-is-not-about-rituals-it's-about-developing-software-in-a-different-way-ken-schwaber
 - /resources/XZVixdVy-PQ
-aliasesFor404:
+- /resources/videos/redefining-agiles-core-beyond-rituals-and-procedures
+- /resources/videos/agile-is-not-about-rituals-its-about-developing-software-in-a-different-way-ken-schwaber
+aliasesArchive:
+- /resources/videos/redefining-agiles-core-beyond-rituals-and-procedures
 - /resources/redefining-agiles-core-beyond-rituals-and-procedures
 - /resources/videos/agile-is-not-about-rituals-it's-about-developing-software-in-a-different-way-ken-schwaber
 - /resources/agile-is-not-about-rituals-it's-about-developing-software-in-a-different-way-ken-schwaber
+- /resources/videos/agile-is-not-about-rituals-its-about-developing-software-in-a-different-way-ken-schwaber
+- redefining-agiles-core-beyond-rituals-and-procedures
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - People and Process
 - Agile Values and Principles
+- Agile Product Operating Model
 - Agile Strategy
 - Software Development
+- Agile Transformation
 - Organisational Agility
 - Agile Frameworks
 - Agile Philosophy
-- Agile Transformation
-- Agile Product Operating Model
 - Pragmatic Thinking
 resourceTypes:
 - video

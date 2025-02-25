@@ -15,24 +15,25 @@ preview: https://i.ytimg.com/vi/swHtVLD9690/maxresdefault.jpg
 duration: 438
 isShort: false
 aliases:
-- /resources/the-common-challenges-of-adopting-devops-practices
-- /resources/videos/what-common-challenges-do-organizations-face-when-adopting-devops-practices-
-- /resources/videos/swHtVLD9690
-- /resources/what-common-challenges-do-organizations-face-when-adopting-devops-practices-
 - /resources/swHtVLD9690
-aliasesFor404:
+- /resources/videos/the-common-challenges-of-adopting-devops-practices
+- /resources/videos/what-common-challenges-do-organizations-face-when-adopting-devops-practices
+aliasesArchive:
+- /resources/videos/the-common-challenges-of-adopting-devops-practices
 - /resources/the-common-challenges-of-adopting-devops-practices
 - /resources/videos/what-common-challenges-do-organizations-face-when-adopting-devops-practices-
 - /resources/what-common-challenges-do-organizations-face-when-adopting-devops-practices-
+- /resources/videos/what-common-challenges-do-organizations-face-when-adopting-devops-practices
+- the-common-challenges-of-adopting-devops-practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - People and Process
-- Software Development
-- Software Developers
 - Market Adaptability
 - Operational Practices
+- Software Development
+- Software Developers
 - Pragmatic Thinking
 - Resilience and Change
 - Product Delivery

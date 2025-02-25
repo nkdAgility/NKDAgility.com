@@ -9,33 +9,32 @@ ResourceImportSource: Youtube
 videoId: GS2If-vQ9ng
 source: internal
 url: /resources/videos/:slug
-slug: agile-training-versus-agile-consulting
+slug: agile-training-versus-agile-consulting-GS2If-vQ9ng
 layout: video
 preview: https://i.ytimg.com/vi/GS2If-vQ9ng/maxresdefault.jpg
 duration: 49
 isShort: true
 aliases:
-- /resources/agile-training-versus-agile-consulting
-- /resources/videos/agile-training-versus-agile-consulting
-- /resources/videos/GS2If-vQ9ng
 - /resources/GS2If-vQ9ng
-aliasesFor404:
-- /resources/agile-training-versus-agile-consulting
+- /resources/videos/agile-training-versus-agile-consulting-GS2If-vQ9ng
+aliasesArchive:
 - /resources/videos/agile-training-versus-agile-consulting
+- /resources/agile-training-versus-agile-consulting
+- agile-training-versus-agile-consulting-GS2If-vQ9ng
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Strategy
 - People and Process
+- Agile Strategy
 - Agile Project Management
 - Agile Transformation
-- Software Development
-- Pragmatic Thinking
-- Organisational Agility
 - Business Agility
 - Organisational Change
 - Miscellaneous
+- Pragmatic Thinking
+- Software Development
+- Product Delivery
 resourceTypes:
 - video
 categories:

@@ -8,26 +8,26 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: TabMnJpXFVA
 url: /resources/videos/:slug
-slug: why-are-you-going-the-immersive-scrum-training-route-
+slug: why-are-you-going-the-immersive-scrum-training-route
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=TabMnJpXFVA
 aliases:
-- /resources/videos/TabMnJpXFVA
-- /resources/videos/why-are-you-going-the-immersive-scrum-training-route-
-- /resources/why-are-you-going-the-immersive-scrum-training-route-
 - /resources/TabMnJpXFVA
-aliasesFor404:
+- /resources/videos/why-are-you-going-the-immersive-scrum-training-route
+aliasesArchive:
+- /resources/videos/why-are-you-going-the-immersive-scrum-training-route
 - /resources/videos/why-are-you-going-the-immersive-scrum-training-route-
 - /resources/why-are-you-going-the-immersive-scrum-training-route-
+- why-are-you-going-the-immersive-scrum-training-route
 preview: https://i.ytimg.com/vi/TabMnJpXFVA/maxresdefault.jpg
 duration: 287
 isShort: false
 tags:
 - People and Process
-- Software Development
-- Agile Frameworks
 - Agile Project Management
+- Software Development
 - Agile Transformation
+- Agile Frameworks
 sitemap:
   filename: sitemap.xml
   priority: 0.4

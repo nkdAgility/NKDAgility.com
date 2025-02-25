@@ -19,19 +19,19 @@ resourceTypes: blog
 slug: testing-in-production-maximises-quality-and-value
 aliases:
 - /resources/_ncZFfeCrnS
-aliasesFor404:
+aliasesArchive:
 - /testing-in-production-maximises-quality-and-value
 - /blog/testing-in-production-maximises-quality-and-value
 tags:
-- Deployment Strategies
 - Software Development
-- Continuous Delivery
-- Azure DevOps
+- Deployment Strategies
 - Product Delivery
+- Azure DevOps
+- Continuous Delivery
 - Value Delivery
-- Software Developers
-- Technical Excellence
+- Practical Techniques and Tooling
 - Technical Mastery
+- Frequent Releases
 - Operational Practices
 categories:
 - DevOps

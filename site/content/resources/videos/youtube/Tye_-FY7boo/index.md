@@ -15,28 +15,28 @@ preview: https://i.ytimg.com/vi/Tye_-FY7boo/maxresdefault.jpg
 duration: 293
 isShort: false
 aliases:
-- /resources/vision-value-and-validation-the-keys-to-successful-product-management
-- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-2
-- /resources/videos/Tye_-FY7boo
-- /resources/5-things-you-would-teach-a-productowner-apprentice-part-2
 - /resources/Tye_-FY7boo
-aliasesFor404:
+- /resources/videos/vision-value-and-validation-the-keys-to-successful-product-management
+- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-2
+aliasesArchive:
+- /resources/videos/vision-value-and-validation-the-keys-to-successful-product-management
 - /resources/vision-value-and-validation-the-keys-to-successful-product-management
 - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-2
 - /resources/5-things-you-would-teach-a-productowner-apprentice-part-2
+- vision-value-and-validation-the-keys-to-successful-product-management
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - People and Process
-- Value Delivery
+- Product Delivery
 - Product Validation
 - Product Owner
-- Product Delivery
 - Agile Product Management
-- Agile Product Operating Model
-- Product Discovery
+- Value Delivery
 - Product Strategy
+- Product Discovery
+- Agile Product Operating Model
 - Pragmatic Thinking
 resourceTypes:
 - video

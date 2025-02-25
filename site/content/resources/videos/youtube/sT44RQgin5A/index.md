@@ -15,15 +15,15 @@ preview: https://i.ytimg.com/vi/sT44RQgin5A/maxresdefault.jpg
 duration: 1652
 isShort: false
 aliases:
-- /resources/evidence-based-management-the-four-key-value-areas-in-scrum
-- /resources/videos/the-four-key-value-areas-of-ebm
-- /resources/videos/sT44RQgin5A
-- /resources/the-four-key-value-areas-of-ebm
 - /resources/sT44RQgin5A
-aliasesFor404:
+- /resources/videos/evidence-based-management-the-four-key-value-areas-in-scrum
+- /resources/videos/the-four-key-value-areas-of-ebm
+aliasesArchive:
+- /resources/videos/evidence-based-management-the-four-key-value-areas-in-scrum
 - /resources/evidence-based-management-the-four-key-value-areas-in-scrum
 - /resources/videos/the-four-key-value-areas-of-ebm
 - /resources/the-four-key-value-areas-of-ebm
+- evidence-based-management-the-four-key-value-areas-in-scrum
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -31,8 +31,8 @@ tags:
 - Metrics and Learning
 - Ability to Innovate
 - Decision Making
-- Evidence Based Leadership
 - Evidence Based Management
+- Evidence Based Leadership
 - Value Delivery
 resourceTypes:
 - video

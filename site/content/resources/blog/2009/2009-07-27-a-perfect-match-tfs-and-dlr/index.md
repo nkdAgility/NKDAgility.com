@@ -17,9 +17,9 @@ aliases:
 - /a-perfect-match-tfs-and-dlr
 - /resources/JlC3Gm8IgO8
 - /resources/blog/a-perfect-match-tfs-and-dlr
-aliasesFor404:
-- /a-perfect-match-tfs-and-dlr
+aliasesArchive:
 - /blog/a-perfect-match-tfs-and-dlr
+- /a-perfect-match-tfs-and-dlr
 - /resources/blog/a-perfect-match-tfs-and-dlr
 tags:
 - Practical Techniques and Tooling

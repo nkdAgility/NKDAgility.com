@@ -15,29 +15,29 @@ preview: https://i.ytimg.com/vi/A0Y-zySHXyc/maxresdefault.jpg
 duration: 315
 isShort: false
 aliases:
-- /resources/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-decision-maker
-- /resources/videos/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-word
-- /resources/videos/A0Y-zySHXyc
-- /resources/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-word
 - /resources/A0Y-zySHXyc
-aliasesFor404:
+- /resources/videos/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-decision-maker
+- /resources/videos/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-word
+aliasesArchive:
+- /resources/videos/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-decision-maker
 - /resources/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-decision-maker
 - /resources/videos/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-word
 - /resources/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-word
+- what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-decision-maker
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Accountability
-- Scrum Team
+- People and Process
 - Scrum Product Development
 - Agile Product Management
+- Scrum Team
 - Transparency and Accountability
-- People and Process
 - Product Owner
+- Team Collaboration
 - Agile Project Management
 - Professional Scrum
-- Team Collaboration
 resourceTypes:
 - video
 categories:

@@ -15,15 +15,16 @@ preview: https://i.ytimg.com/vi/m2Z4UV4OQlI/maxresdefault.jpg
 duration: 373
 isShort: false
 aliases:
-- /resources/the-power-of-metrics-why-pal-ebm-is-essential-for-your-organization
-- /resources/videos/why-do-you-recommend-the-pal-ebm-course-
-- /resources/videos/m2Z4UV4OQlI
-- /resources/why-do-you-recommend-the-pal-ebm-course-
 - /resources/m2Z4UV4OQlI
-aliasesFor404:
+- /resources/videos/the-power-of-metrics-why-pal-ebm-is-essential-for-your-organization
+- /resources/videos/why-do-you-recommend-the-pal-ebm-course
+aliasesArchive:
+- /resources/videos/the-power-of-metrics-why-pal-ebm-is-essential-for-your-organization
 - /resources/the-power-of-metrics-why-pal-ebm-is-essential-for-your-organization
 - /resources/videos/why-do-you-recommend-the-pal-ebm-course-
 - /resources/why-do-you-recommend-the-pal-ebm-course-
+- /resources/videos/why-do-you-recommend-the-pal-ebm-course
+- the-power-of-metrics-why-pal-ebm-is-essential-for-your-organization
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -32,12 +33,12 @@ tags:
 - Evidence Based Leadership
 - People and Process
 - Metrics and Learning
-- Transparency and Accountability
-- Ability to Innovate
-- Evidence Based Management
 - Empirical Process Control
 - Discovery and Learning
+- Transparency and Accountability
+- Evidence Based Management
 - Pragmatic Thinking
+- Ability to Innovate
 resourceTypes:
 - video
 categories:

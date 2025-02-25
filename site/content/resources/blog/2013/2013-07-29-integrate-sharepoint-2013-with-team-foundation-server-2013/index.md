@@ -17,17 +17,17 @@ aliases:
 - /integrate-sharepoint-2013-with-team-foundation-server-2013
 - /resources/LDZObDXc6xV
 - /resources/blog/integrate-sharepoint-2013-with-team-foundation-server-2013
-aliasesFor404:
-- /integrate-sharepoint-2013-with-team-foundation-server-2013
+aliasesArchive:
 - /blog/integrate-sharepoint-2013-with-team-foundation-server-2013
+- /integrate-sharepoint-2013-with-team-foundation-server-2013
 - /resources/blog/integrate-sharepoint-2013-with-team-foundation-server-2013
 tags:
 - Install and Configuration
-- System Configuration
 - Practical Techniques and Tooling
+- System Configuration
+- Troubleshooting
 - Software Development
 - Azure DevOps
-- Troubleshooting
 - Windows
 - Application Lifecycle Management
 categories:

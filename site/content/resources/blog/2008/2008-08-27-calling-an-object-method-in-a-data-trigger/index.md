@@ -17,14 +17,14 @@ aliases:
 - /calling-an-object-method-in-a-data-trigger
 - /resources/qw2arcsyX7a
 - /resources/blog/calling-an-object-method-in-a-data-trigger
-aliasesFor404:
-- /calling-an-object-method-in-a-data-trigger
+aliasesArchive:
 - /blog/calling-an-object-method-in-a-data-trigger
+- /calling-an-object-method-in-a-data-trigger
 - /resources/blog/calling-an-object-method-in-a-data-trigger
 tags:
-- Software Development
 - Troubleshooting
 - Technical Mastery
+- Software Development
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-1-1.png

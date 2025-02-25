@@ -12,7 +12,7 @@ aliases:
 - /methods/kanban-method/
 - /learn/agile-delivery-kit/strategies/kanban-method/
 - /resources/AHnXqKUgcDD
-aliasesFor404:
+aliasesArchive:
 - /methods/kanban-method/
 - /learn/agile-delivery-kit/strategies/kanban-method/
 card:

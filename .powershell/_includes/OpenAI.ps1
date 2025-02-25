@@ -43,7 +43,7 @@ function Call-OpenAI {
             $response = Invoke-RestMethod -Uri $apiUrl -Method Post -Headers @{
                 "Content-Type"  = "application/json; charset=utf-8"
                 "Authorization" = "Bearer $OPEN_AI_KEY"
-            } -Body $body -TimeoutSec 30
+            } -Body $body -TimeoutSec 300
 
             # Validate response structure
             if ($response -and $response.choices -and $response.choices.Count -gt 0 -and $response.choices[0].message) {
@@ -88,9 +88,44 @@ function Call-OpenAI {
 
 
 function Get-TokenEstimate {
-    param ($text)
-    return ($text.Length / 4)  # Rough estimate, adjust as needed
+    param (
+        [string]$prompt
+    )
+
+    # Create a temporary file for the prompt
+    $tempFile = [System.IO.Path]::GetTempFileName()
+
+    try {
+        # Write the prompt to the temporary file with UTF-8 encoding
+        Set-Content -Path $tempFile -Value $prompt -Encoding UTF8
+        
+        # Escape backslashes for Python compatibility
+        $escapedTempFile = $tempFile -replace '\\', '\\'
+
+        # Run Python to count tokens and handle potential errors
+        $tokenCount = python -c "import tiktoken; enc = tiktoken.encoding_for_model('gpt-4'); print(len(enc.encode(open(r'$escapedTempFile', 'r', encoding='utf-8').read())))" 2>&1
+
+        # Convert the token count to an integer
+        if ($tokenCount -match '^\d+$') {
+            return [int]$tokenCount
+        }
+        else {
+            Write-Error "Failed to parse token count. Python output: $tokenCount"
+            return $null
+        }
+    }
+    catch {
+        Write-Error "An error occurred while estimating tokens: $_"
+        return $null
+    }
+    finally {
+        # Ensure the temporary file is deleted
+        if (Test-Path $tempFile) {
+            Remove-Item -Path $tempFile -ErrorAction SilentlyContinue
+        }
+    }
 }
+
 
 function Get-TextChunks {
     param ($text, $maxLength)
@@ -127,7 +162,7 @@ function Get-OpenAIResponse {
 
     # Estimate tokens for the prompt
     $tokenEstimate = Get-TokenEstimate $prompt
-    $maxTokensPerChunk = 100000  # Leave room for model response
+    $maxTokensPerChunk = 50000  # Leave room for model response
 
     # Split the prompt into chunks if it exceeds the max token size
     if ($tokenEstimate -gt $maxTokensPerChunk) {

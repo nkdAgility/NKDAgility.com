@@ -17,16 +17,16 @@ aliases:
 - /integrating-project-server-2013-with-team-foundation-server-2012
 - /resources/fk1Jv6RyesT
 - /resources/blog/integrating-project-server-2013-with-team-foundation-server-2012
-aliasesFor404:
-- /integrating-project-server-2013-with-team-foundation-server-2012
+aliasesArchive:
 - /blog/integrating-project-server-2013-with-team-foundation-server-2012
+- /integrating-project-server-2013-with-team-foundation-server-2012
 - /resources/blog/integrating-project-server-2013-with-team-foundation-server-2012
 tags:
 - Install and Configuration
 categories:
 - Scrum
 - Product Management
-- Social Technologies
+- DevOps
 preview: metro-sharepoint-128-link-23-23.png
 
 ---

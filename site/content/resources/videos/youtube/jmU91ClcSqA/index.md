@@ -9,21 +9,20 @@ ResourceImportSource: Youtube
 videoId: jmU91ClcSqA
 source: internal
 url: /resources/videos/:slug
-slug: what-is-project-management
+slug: what-is-project-management-jmU91ClcSqA
 layout: video
 preview: https://i.ytimg.com/vi/jmU91ClcSqA/maxresdefault.jpg
 duration: 52
 isShort: true
 aliases:
-- /resources/what-is-project-management
-- /resources/videos/what-is-project-management-
-- /resources/videos/jmU91ClcSqA
-- /resources/what-is-project-management-
 - /resources/jmU91ClcSqA
-aliasesFor404:
+- /resources/videos/what-is-project-management-jmU91ClcSqA
+aliasesArchive:
+- /resources/videos/what-is-project-management
 - /resources/what-is-project-management
 - /resources/videos/what-is-project-management-
 - /resources/what-is-project-management-
+- what-is-project-management-jmU91ClcSqA
 sitemap:
   filename: sitemap.xml
   priority: 0.6

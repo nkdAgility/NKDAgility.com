@@ -17,19 +17,19 @@ aliases:
 - /creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
 - /resources/9fVxqpOPzX8
 - /resources/blog/creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
-aliasesFor404:
-- /creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
+aliasesArchive:
 - /blog/creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
+- /creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
 - /resources/blog/creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
 tags:
 - Install and Configuration
 - System Configuration
-- Technical Mastery
 - Practical Techniques and Tooling
-- Windows
-- Software Development
-- Pragmatic Thinking
+- Technical Mastery
 - Troubleshooting
+- Windows
+- Pragmatic Thinking
+- Software Development
 categories:
 - DevOps
 

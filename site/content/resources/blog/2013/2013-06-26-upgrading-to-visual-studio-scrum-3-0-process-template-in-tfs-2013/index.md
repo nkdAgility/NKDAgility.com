@@ -17,21 +17,21 @@ aliases:
 - /upgrading-to-visual-studio-scrum-3-0-process-template-in-tfs-2013
 - /resources/hp378aoGMNz
 - /resources/blog/upgrading-to-visual-studio-scrum-3-0-process-template-in-tfs-2013
-aliasesFor404:
-- /upgrading-to-visual-studio-scrum-3-0-process-template-in-tfs-2013
+aliasesArchive:
 - /blog/upgrading-to-visual-studio-scrum-3-0-process-template-in-tfs-2013
+- /upgrading-to-visual-studio-scrum-3-0-process-template-in-tfs-2013
 - /resources/blog/upgrading-to-visual-studio-scrum-3-0-process-template-in-tfs-2013
 tags:
 - Agile Project Management
 - Install and Configuration
 - Products and Books
+- Practical Techniques and Tooling
 - System Configuration
 - Agile Frameworks
-- Practical Techniques and Tooling
+- Operational Practices
+- Pragmatic Thinking
 - Software Development
 - Software Developers
-- Azure DevOps
-- Pragmatic Thinking
 categories:
 - Scrum
 - Social Technologies

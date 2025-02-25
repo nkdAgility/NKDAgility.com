@@ -8,29 +8,30 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: jcs-2G99Rrw
 url: /resources/videos/:slug
-slug: top-4-rookie-mistakes-in-azure-devops
+slug: mastering-azure-devops-avoiding-common-pitfalls-for-agile-success
 layout: video
 aliases:
-- /resources/videos/jcs-2G99Rrw
-- /resources/videos/top-4-rookie-mistakes-in-azure-devops
-- /resources/top-4-rookie-mistakes-in-azure-devops
 - /resources/jcs-2G99Rrw
-aliasesFor404:
+- /resources/videos/mastering-azure-devops-avoiding-common-pitfalls-for-agile-success
+- /resources/videos/top-4-rookie-mistakes-in-azure-devops
+aliasesArchive:
+- /resources/videos/mastering-azure-devops-avoiding-common-pitfalls-for-agile-success
 - /resources/videos/top-4-rookie-mistakes-in-azure-devops
 - /resources/top-4-rookie-mistakes-in-azure-devops
+- mastering-azure-devops-avoiding-common-pitfalls-for-agile-success
 preview: https://i.ytimg.com/vi/jcs-2G99Rrw/maxresdefault.jpg
 duration: 2034
 isShort: false
 tags:
 - One Engineering System (1ES)
-- Azure DevOps
 - Product Delivery
-- Azure Boards
+- Azure DevOps
 - Practical Techniques and Tooling
+- Azure Boards
+- Troubleshooting
+- Pragmatic Thinking
 - Software Development
 - Software Developers
-- Pragmatic Thinking
-- Troubleshooting
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -17,19 +17,19 @@ aliases:
 - /retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
 - /resources/oz3cfvmwtph
 - /resources/blog/retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
-aliasesFor404:
-- /retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
+aliasesArchive:
 - /blog/retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
+- /retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
 - /resources/blog/retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
-- Software Development
-- Azure DevOps
-- Pragmatic Thinking
-- System Configuration
+- Install and Configuration
 - Troubleshooting
 - Technical Mastery
+- Pragmatic Thinking
+- Software Development
+- System Configuration
+- Azure DevOps
 - Windows
 categories:
 - Engineering Excellence

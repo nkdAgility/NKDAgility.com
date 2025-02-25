@@ -19,9 +19,9 @@ aliases:
 - /blog/do-you-have-msdn-at-work--use-visual-studio-ultimate-for-free-at-home-
 - /resources/3-L2Y2t-oE7
 - /resources/blog/do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn
-aliasesFor404:
-- /do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn
+aliasesArchive:
 - /blog/do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn
+- /do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn
 - /do-you-have-msdn-at-work--use-visual-studio-ultimate-for-free-at-home-
 - /blog/do-you-have-msdn-at-work--use-visual-studio-ultimate-for-free-at-home-
 - /resources/blog/do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn
@@ -30,8 +30,8 @@ tags:
 - Software Development
 - Software Developers
 - Products and Books
-- Events and Presentations
 - Practical Techniques and Tooling
+- Events and Presentations
 - News and Reviews
 categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png

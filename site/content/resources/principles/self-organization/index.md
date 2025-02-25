@@ -13,7 +13,7 @@ draft: true
 aliases:
 - /learn/agile-delivery-kit/first-principals/self-organization/
 - /resources/eyXbQF80i4R
-aliasesFor404:
+aliasesArchive:
 - /learn/agile-delivery-kit/first-principals/self-organization/
 card:
   button:
@@ -24,16 +24,16 @@ categories:
 - Scrum
 - Social Technologies
 tags:
+- People and Process
 - Scrum Master
 - Scrum Team
-- People and Process
+- Team Performance
 - Team Collaboration
 - Professional Scrum
-- Team Performance
+- Agile Project Management
 - Software Development
 - Self Organisation
 - Agile Frameworks
-- Agile Project Management
 
 ---
 Self-Organization: Scrum teams are self-organizing, which means they have the autonomy to determine how to achieve their goals. The team members collaborate and make decisions together, and the Scrum Master helps to facilitate and guide the process

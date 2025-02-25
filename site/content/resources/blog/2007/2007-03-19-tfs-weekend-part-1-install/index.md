@@ -20,12 +20,12 @@ aliases:
 - /blog/tfs-weekend-part-1---install
 - /resources/B1LQBjDfDfF
 - /resources/blog/tfs-weekend-part-1-install
-aliasesFor404:
-- /tfs-weekend-part-1-install
+aliasesArchive:
 - /blog/tfs-weekend-part-1-install
+- /tfs-weekend-part-1-install
+- /tfs-weekend-part-1
 - /tfs-weekend-part-1---install
 - /blog/tfs-weekend-part-1---install
-- /tfs-weekend-part-1
 - /resources/blog/tfs-weekend-part-1-install
 preview: nakedalm-logo-128-link-1-1.png
 categories: []

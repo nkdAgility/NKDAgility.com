@@ -19,9 +19,9 @@ aliases:
 - /blog/should-i-upgrade-to-tfs-2013-update-2-
 - /resources/_FVuS9sZSA2
 - /resources/blog/upgrade-tfs-2013-update-2
-aliasesFor404:
-- /upgrade-tfs-2013-update-2
+aliasesArchive:
 - /blog/upgrade-tfs-2013-update-2
+- /upgrade-tfs-2013-update-2
 - /should-i-upgrade-to-tfs-2013-update-2-
 - /blog/should-i-upgrade-to-tfs-2013-update-2-
 - /resources/blog/upgrade-tfs-2013-update-2
@@ -31,10 +31,10 @@ tags:
 - System Configuration
 - Products and Books
 - Practical Techniques and Tooling
-- News and Reviews
-- Agile Planning Tools
 - Application Lifecycle Management
-- Modern Source Control
+- Agile Planning Tools
+- News and Reviews
+- Frequent Releases
 - Software Development
 categories:
 - DevOps

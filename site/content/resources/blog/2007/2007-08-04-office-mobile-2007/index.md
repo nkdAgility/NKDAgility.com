@@ -17,9 +17,9 @@ aliases:
 - /office-mobile-2007
 - /resources/E0X7Vjy0zKw
 - /resources/blog/office-mobile-2007
-aliasesFor404:
-- /office-mobile-2007
+aliasesArchive:
 - /blog/office-mobile-2007
+- /office-mobile-2007
 - /resources/blog/office-mobile-2007
 tags:
 - Windows

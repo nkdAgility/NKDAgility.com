@@ -17,9 +17,9 @@ aliases:
 - /new-laptop-and-windows-7
 - /resources/XCiJC8QfDPG
 - /resources/blog/new-laptop-and-windows-7
-aliasesFor404:
-- /new-laptop-and-windows-7
+aliasesArchive:
 - /blog/new-laptop-and-windows-7
+- /new-laptop-and-windows-7
 - /resources/blog/new-laptop-and-windows-7
 categories: []
 preview: nakedalm-logo-128-link-3-1.png

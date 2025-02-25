@@ -17,9 +17,9 @@ aliases:
 - /i-hope-you-did-not-pay-for-microsoft-office-sharepoint-designer-2007
 - /resources/RQY0XkuFgIq
 - /resources/blog/i-hope-you-did-not-pay-for-microsoft-office-sharepoint-designer-2007
-aliasesFor404:
-- /i-hope-you-did-not-pay-for-microsoft-office-sharepoint-designer-2007
+aliasesArchive:
 - /blog/i-hope-you-did-not-pay-for-microsoft-office-sharepoint-designer-2007
+- /i-hope-you-did-not-pay-for-microsoft-office-sharepoint-designer-2007
 - /resources/blog/i-hope-you-did-not-pay-for-microsoft-office-sharepoint-designer-2007
 tags:
 - News and Reviews

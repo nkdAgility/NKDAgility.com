@@ -19,9 +19,9 @@ aliases:
 - /blog/codeplex-project--rddotnet-white-label
 - /resources/LNv6D2UC7-n
 - /resources/blog/codeplex-project-rddotnet-white-label
-aliasesFor404:
-- /codeplex-project-rddotnet-white-label
+aliasesArchive:
 - /blog/codeplex-project-rddotnet-white-label
+- /codeplex-project-rddotnet-white-label
 - /codeplex-project--rddotnet-white-label
 - /blog/codeplex-project--rddotnet-white-label
 - /resources/blog/codeplex-project-rddotnet-white-label

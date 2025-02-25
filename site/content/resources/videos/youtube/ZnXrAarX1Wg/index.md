@@ -9,21 +9,20 @@ ResourceImportSource: Youtube
 videoId: ZnXrAarX1Wg
 source: internal
 url: /resources/videos/:slug
-slug: no-go-zone-for-agile-consultants
+slug: no-go-zone-for-agile-consultants-ZnXrAarX1Wg
 layout: video
 preview: https://i.ytimg.com/vi/ZnXrAarX1Wg/maxresdefault.jpg
 duration: 53
 isShort: true
 aliases:
-- /resources/no-go-zone-for-agile-consultants
-- /resources/videos/no-go-zone-for-agile-consultants-
-- /resources/videos/ZnXrAarX1Wg
-- /resources/no-go-zone-for-agile-consultants-
 - /resources/ZnXrAarX1Wg
-aliasesFor404:
+- /resources/videos/no-go-zone-for-agile-consultants-ZnXrAarX1Wg
+aliasesArchive:
+- /resources/videos/no-go-zone-for-agile-consultants
 - /resources/no-go-zone-for-agile-consultants
 - /resources/videos/no-go-zone-for-agile-consultants-
 - /resources/no-go-zone-for-agile-consultants-
+- no-go-zone-for-agile-consultants-ZnXrAarX1Wg
 sitemap:
   filename: sitemap.xml
   priority: 0.6

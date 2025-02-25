@@ -9,29 +9,27 @@ ResourceImportSource: Youtube
 videoId: 7VBtGTlkAdM
 source: internal
 url: /resources/videos/:slug
-slug: 1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
+slug: 1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction-7VBtGTlkAdM
 preview: https://i.ytimg.com/vi/7VBtGTlkAdM/maxresdefault.jpg
 duration: 55
 isShort: true
 aliases:
-- /resources/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction-2
-- /resources/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
-- /resources/videos/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
-- /resources/videos/7VBtGTlkAdM
-- /blog//1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction/
 - /resources/7VBtGTlkAdM
-aliasesFor404:
+- /resources/videos/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction-7VBtGTlkAdM
+aliasesArchive:
+- /resources/videos/-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
+- /resources/videos/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
 - /resources/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction-2
 - /resources/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
-- /resources/videos/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
 - /blog//1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction/
+- 1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction-7VBtGTlkAdM
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Agile Values and Principles
-- Agile Philosophy
 - Pragmatic Thinking
+- Agile Philosophy
 resourceTypes:
 - video
 layout: video

@@ -15,29 +15,29 @@ preview: https://i.ytimg.com/vi/QgPlMxGNIzs/maxresdefault.jpg
 duration: 229
 isShort: false
 aliases:
-- /resources/how-do-you-think-agile-is-evolving-since-its-inception-in-2001
-- /resources/videos/how-do-you-think-agile-is-evolving-since-its-inception-in-2001-
-- /resources/videos/QgPlMxGNIzs
-- /resources/how-do-you-think-agile-is-evolving-since-its-inception-in-2001-
 - /resources/QgPlMxGNIzs
-aliasesFor404:
+- /resources/videos/how-do-you-think-agile-is-evolving-since-its-inception-in-2001
+aliasesArchive:
+- /resources/videos/how-do-you-think-agile-is-evolving-since-its-inception-in-
+- /resources/videos/how-do-you-think-agile-is-evolving-since-its-inception-in-2001
 - /resources/how-do-you-think-agile-is-evolving-since-its-inception-in-2001
 - /resources/videos/how-do-you-think-agile-is-evolving-since-its-inception-in-2001-
 - /resources/how-do-you-think-agile-is-evolving-since-its-inception-in-2001-
+- how-do-you-think-agile-is-evolving-since-its-inception-in-2001
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Agile Values and Principles
+- People and Process
+- Agile Frameworks
 - Agile Project Management
 - Agile Leadership
-- Agile Frameworks
 - Business Agility
-- People and Process
-- Enterprise Agility
+- Software Development
 - Market Adaptability
 - Agile Strategy
-- Agile Transformation
+- Organisational Agility
 resourceTypes:
 - video
 categories:

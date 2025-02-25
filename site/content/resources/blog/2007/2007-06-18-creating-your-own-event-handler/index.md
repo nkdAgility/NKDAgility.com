@@ -17,16 +17,16 @@ aliases:
 - /creating-your-own-event-handler
 - /resources/53h9G1A5o8G
 - /resources/blog/creating-your-own-event-handler
-aliasesFor404:
-- /creating-your-own-event-handler
+aliasesArchive:
 - /blog/creating-your-own-event-handler
+- /creating-your-own-event-handler
 - /resources/blog/creating-your-own-event-handler
 tags:
 - Practical Techniques and Tooling
+- Technical Mastery
 - Software Development
 - Technical Excellence
 - Azure DevOps
-- Technical Mastery
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-2-2.png

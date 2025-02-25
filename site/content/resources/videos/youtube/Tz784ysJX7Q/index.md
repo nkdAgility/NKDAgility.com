@@ -9,16 +9,17 @@ ResourceImportSource: Youtube
 videoId: Tz784ysJX7Q
 source: youtube
 url: /resources/videos/:slug
-slug: balancing-speed-and-stability-in-delivery
+slug: balancing-speed-and-stability-why-quality-should-always-come-first-in-delivery-management
 layout: video
 aliases:
-- /resources/videos/Tz784ysJX7Q
-- /resources/videos/balancing-speed-and-stability-in-delivery
-- /resources/balancing-speed-and-stability-in-delivery
 - /resources/Tz784ysJX7Q
-aliasesFor404:
+- /resources/videos/balancing-speed-and-stability-why-quality-should-always-come-first-in-delivery-management
+- /resources/videos/balancing-speed-and-stability-in-delivery
+aliasesArchive:
+- /resources/videos/balancing-speed-and-stability-why-quality-should-always-come-first-in-delivery-management
 - /resources/videos/balancing-speed-and-stability-in-delivery
 - /resources/balancing-speed-and-stability-in-delivery
+- balancing-speed-and-stability-why-quality-should-always-come-first-in-delivery-management
 preview: https://i.ytimg.com/vi/Tz784ysJX7Q/maxresdefault.jpg
 duration: 469
 isShort: false
@@ -26,8 +27,8 @@ tags:
 - People and Process
 - Product Delivery
 - Decision Making
-- Pragmatic Thinking
 - Complexity Thinking
+- Pragmatic Thinking
 - Sociotechnical Systems
 resourceTypes:
 - video

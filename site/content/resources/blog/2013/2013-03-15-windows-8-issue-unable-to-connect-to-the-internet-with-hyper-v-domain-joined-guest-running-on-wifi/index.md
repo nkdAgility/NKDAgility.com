@@ -19,9 +19,9 @@ aliases:
 - /blog/windows-8-issue--unable-to-connect-to-the-internet-with-hyper-v-domain-joined-guest-running-on-wifi
 - /resources/OPPj3aAz3P6
 - /resources/blog/windows-8-issue-unable-to-connect-to-the-internet-with-hyper-v-domain-joined-guest-running-on-wifi
-aliasesFor404:
-- /windows-8-issue-unable-to-connect-to-the-internet-with-hyper-v-domain-joined-guest-running-on-wifi
+aliasesArchive:
 - /blog/windows-8-issue-unable-to-connect-to-the-internet-with-hyper-v-domain-joined-guest-running-on-wifi
+- /windows-8-issue-unable-to-connect-to-the-internet-with-hyper-v-domain-joined-guest-running-on-wifi
 - /windows-8-issue--unable-to-connect-to-the-internet-with-hyper-v-domain-joined-guest-running-on-wifi
 - /blog/windows-8-issue--unable-to-connect-to-the-internet-with-hyper-v-domain-joined-guest-running-on-wifi
 - /resources/blog/windows-8-issue-unable-to-connect-to-the-internet-with-hyper-v-domain-joined-guest-running-on-wifi

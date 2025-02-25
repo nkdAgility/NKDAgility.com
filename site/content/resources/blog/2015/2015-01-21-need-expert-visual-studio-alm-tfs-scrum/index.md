@@ -21,9 +21,9 @@ aliases:
 - /do-you-need-an-expert-in-visual-studio-alm--tfs--or-scrum-
 - /blog/do-you-need-an-expert-in-visual-studio-alm--tfs--or-scrum-
 - /resources/blog/need-expert-visual-studio-alm-tfs-scrum
-aliasesFor404:
-- /need-expert-visual-studio-alm-tfs-scrum
+aliasesArchive:
 - /blog/need-expert-visual-studio-alm-tfs-scrum
+- /need-expert-visual-studio-alm-tfs-scrum
 - /do-you-need-an-expert-in-visual-studio-alm,-tfs,-or-scrum-
 - /blog/do-you-need-an-expert-in-visual-studio-alm,-tfs,-or-scrum-
 - /do-you-need-an-expert-in-visual-studio-alm--tfs--or-scrum-

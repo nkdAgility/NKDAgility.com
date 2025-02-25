@@ -17,18 +17,18 @@ aliases:
 - /creating-wcf-service-host-programmatically
 - /resources/z78UlmtJAzV
 - /resources/blog/creating-wcf-service-host-programmatically
-aliasesFor404:
-- /creating-wcf-service-host-programmatically
+aliasesArchive:
 - /blog/creating-wcf-service-host-programmatically
+- /creating-wcf-service-host-programmatically
 - /resources/blog/creating-wcf-service-host-programmatically
 tags:
 - Windows
 - Software Development
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
+- Technical Mastery
 - Technical Excellence
 - System Configuration
-- Technical Mastery
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-1-1.png

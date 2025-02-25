@@ -17,15 +17,15 @@ aliases:
 - /testing-with-test-professional-2010-and-visual-studio-2010-ultimate
 - /resources/SPcXGSE8VUI
 - /resources/blog/testing-with-test-professional-2010-and-visual-studio-2010-ultimate
-aliasesFor404:
-- /testing-with-test-professional-2010-and-visual-studio-2010-ultimate
+aliasesArchive:
 - /blog/testing-with-test-professional-2010-and-visual-studio-2010-ultimate
+- /testing-with-test-professional-2010-and-visual-studio-2010-ultimate
 - /resources/blog/testing-with-test-professional-2010-and-visual-studio-2010-ultimate
 tags:
 - Application Lifecycle Management
 - Products and Books
-- Events and Presentations
 - Practical Techniques and Tooling
+- Events and Presentations
 categories:
 - Engineering Excellence
 

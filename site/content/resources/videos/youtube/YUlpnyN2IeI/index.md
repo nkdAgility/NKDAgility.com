@@ -15,31 +15,31 @@ preview: https://i.ytimg.com/vi/YUlpnyN2IeI/maxresdefault.jpg
 duration: 298
 isShort: false
 aliases:
-- /resources/best-scrum-advice-you-ever-received-2
-- /resources/best-scrum-advice-you-ever-received
-- /resources/videos/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
-- /resources/videos/YUlpnyN2IeI
-- /resources/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
 - /resources/YUlpnyN2IeI
-aliasesFor404:
+- /resources/videos/best-scrum-advice-you-ever-received
+- /resources/videos/unlocking-scrums-potential-avoiding-dogma-and-embracing-flexibility
+aliasesArchive:
+- /resources/videos/best-scrum-advice-you-ever-received
 - /resources/best-scrum-advice-you-ever-received-2
 - /resources/best-scrum-advice-you-ever-received
 - /resources/videos/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
 - /resources/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
+- /resources/videos/unlocking-scrums-potential-avoiding-dogma-and-embracing-flexibility
+- best-scrum-advice-you-ever-received
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - People and Process
+- Empirical Process Control
+- Agile Values and Principles
 - Scrum Master
 - Agile Frameworks
-- Agile Values and Principles
-- Empirical Process Control
+- Agile Project Management
+- Pragmatic Thinking
 - Software Development
 - Software Developers
-- Pragmatic Thinking
-- Personal
-- Agile Philosophy
+- Agile Transformation
 resourceTypes:
 - video
 categories:

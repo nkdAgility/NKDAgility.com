@@ -8,16 +8,18 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: WpsGLkTXalE
 url: /resources/videos/:slug
-slug: 7-signs-of-the-agile-apocalypse-silence
+slug: breaking-the-silence-how-to-combat-the-hidden-dangers-in-agile-teams-WpsGLkTXalE
 layout: video
 aliases:
-- /resources/videos/WpsGLkTXalE
-- /resources/videos/7-signs-of-the-agile-apocalypse-silence
-- /resources/7-signs-of-the-agile-apocalypse-silence
 - /resources/WpsGLkTXalE
-aliasesFor404:
+- /resources/videos/breaking-the-silence-how-to-combat-the-hidden-dangers-in-agile-teams-WpsGLkTXalE
+- /resources/videos/breaking-the-silence-how-to-combat-the-hidden-dangers-in-agile-teams
+- /resources/videos/7-signs-of-the-agile-apocalypse-silence
+aliasesArchive:
+- /resources/videos/breaking-the-silence-how-to-combat-the-hidden-dangers-in-agile-teams
 - /resources/videos/7-signs-of-the-agile-apocalypse-silence
 - /resources/7-signs-of-the-agile-apocalypse-silence
+- breaking-the-silence-how-to-combat-the-hidden-dangers-in-agile-teams-WpsGLkTXalE
 preview: https://i.ytimg.com/vi/WpsGLkTXalE/maxresdefault.jpg
 duration: 50
 isShort: true

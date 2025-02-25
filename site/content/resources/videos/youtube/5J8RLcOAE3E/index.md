@@ -9,30 +9,32 @@ ResourceImportSource: Youtube
 videoId: 5J8RLcOAE3E
 source: youtube
 url: /resources/videos/:slug
-slug: continuous-delivery-without-compromise-why-best-practices-don’t-exist-in-complex-systems
+slug: rethinking-continuous-delivery-why-best-practices-dont-exist-in-complex-environments
 layout: video
 aliases:
-- /resources/videos/5J8RLcOAE3E
-- /resources/videos/continuous-delivery-without-compromise-why-best-practices-don’t-exist-in-complex-systems
-- /resources/continuous-delivery-without-compromise-why-best-practices-don’t-exist-in-complex-systems
 - /resources/5J8RLcOAE3E
-aliasesFor404:
+- /resources/videos/rethinking-continuous-delivery-why-best-practices-dont-exist-in-complex-environments
+- /resources/videos/continuous-delivery-without-compromise-why-best-practices-dont-exist-in-complex-systems
+aliasesArchive:
+- /resources/videos/rethinking-continuous-delivery-why-best-practices-dont-exist-in-complex-environments
 - /resources/videos/continuous-delivery-without-compromise-why-best-practices-don’t-exist-in-complex-systems
 - /resources/continuous-delivery-without-compromise-why-best-practices-don’t-exist-in-complex-systems
+- /resources/videos/continuous-delivery-without-compromise-why-best-practices-dont-exist-in-complex-systems
+- rethinking-continuous-delivery-why-best-practices-dont-exist-in-complex-environments
 preview: https://i.ytimg.com/vi/5J8RLcOAE3E/maxresdefault.jpg
 duration: 891
 isShort: false
 tags:
 - Pragmatic Thinking
-- Engineering Practices
-- Product Delivery
-- People and Process
 - Code and Complexity
-- Systems Thinking
 - Working Software
-- Software Developers
-- Continuous Delivery
+- Systems Thinking
 - Resilience and Change
+- Software Developers
+- Product Delivery
+- Continuous Delivery
+- People and Process
+- Engineering Practices
 resourceTypes:
 - video
 sitemap:

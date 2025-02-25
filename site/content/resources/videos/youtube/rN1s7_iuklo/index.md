@@ -9,21 +9,23 @@ ResourceImportSource: Youtube
 videoId: rN1s7_iuklo
 source: internal
 url: /resources/videos/:slug
-slug: empowering-teams-to-maximize-value-and-return-on-investment
+slug: empowering-teams-to-maximize-value-and-return-on-investment-rN1s7_iuklo
 layout: video
 preview: https://i.ytimg.com/vi/rN1s7_iuklo/maxresdefault.jpg
 duration: 56
 isShort: true
 aliases:
-- /resources/empowering-teams-to-maximize-value-and-return-on-investment
-- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-5
-- /resources/videos/rN1s7_iuklo
-- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-5
 - /resources/rN1s7_iuklo
-aliasesFor404:
+- /resources/videos/empowering-teams-to-maximize-value-and-return-on-investment-rN1s7_iuklo
+- /resources/videos/empowering-teams-to-maximize-value-and-return-on-investment
+- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-5
+aliasesArchive:
+- /resources/videos/empowering-teams-to-maximize-value-and-return-on-investment
 - /resources/empowering-teams-to-maximize-value-and-return-on-investment
 - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-5
 - /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-5
+- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-5
+- empowering-teams-to-maximize-value-and-return-on-investment-rN1s7_iuklo
 sitemap:
   filename: sitemap.xml
   priority: 0.6

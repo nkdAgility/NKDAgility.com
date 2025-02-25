@@ -15,15 +15,15 @@ preview: https://i.ytimg.com/vi/beR21RHTUvo/maxresdefault.jpg
 duration: 433
 isShort: false
 aliases:
-- /resources/story-points-a-ghost-of-agile-past
-- /resources/videos/5-ghosts-of-agile-past-story-points
-- /resources/videos/beR21RHTUvo
-- /resources/5-ghosts-of-agile-past-story-points
 - /resources/beR21RHTUvo
-aliasesFor404:
+- /resources/videos/story-points-a-ghost-of-agile-past
+- /resources/videos/5-ghosts-of-agile-past-story-points
+aliasesArchive:
+- /resources/videos/story-points-a-ghost-of-agile-past
 - /resources/story-points-a-ghost-of-agile-past
 - /resources/videos/5-ghosts-of-agile-past-story-points
 - /resources/5-ghosts-of-agile-past-story-points
+- story-points-a-ghost-of-agile-past
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -31,8 +31,8 @@ tags:
 - Estimation
 - People and Process
 - Agile Project Management
-- Software Development
 - Pragmatic Thinking
+- Software Development
 resourceTypes:
 - video
 categories:

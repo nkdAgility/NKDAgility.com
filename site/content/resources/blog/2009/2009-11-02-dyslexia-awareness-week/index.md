@@ -17,9 +17,9 @@ aliases:
 - /dyslexia-awareness-week
 - /resources/mj1JwJ9LpG8
 - /resources/blog/dyslexia-awareness-week
-aliasesFor404:
-- /dyslexia-awareness-week
+aliasesArchive:
 - /blog/dyslexia-awareness-week
+- /dyslexia-awareness-week
 - /resources/blog/dyslexia-awareness-week
 tags:
 - Personal

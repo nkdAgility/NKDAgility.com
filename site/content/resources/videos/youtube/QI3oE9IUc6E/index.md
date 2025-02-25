@@ -15,19 +15,18 @@ preview: https://i.ytimg.com/vi/QI3oE9IUc6E/maxresdefault.jpg
 duration: 315
 isShort: false
 aliases:
-- /resources/how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum-2
-- /resources/how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum
-- /resources/how-effectively-does-an-aps-prepare-a-team-to-do-solid-professional-scrum
-- /resources/videos/how-effectively-does-an-aps-prepare-a-team-to-do-solid,-professional-scrum
-- /resources/videos/QI3oE9IUc6E
-- /resources/how-effectively-does-an-aps-prepare-a-team-to-do-solid,-professional-scrum
 - /resources/QI3oE9IUc6E
-aliasesFor404:
+- /resources/videos/how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum
+- /resources/videos/how-effectively-does-an-aps-prepare-a-team-to-do-solid-professional-scrum
+aliasesArchive:
+- /resources/videos/how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum
 - /resources/how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum-2
 - /resources/how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum
 - /resources/how-effectively-does-an-aps-prepare-a-team-to-do-solid-professional-scrum
 - /resources/videos/how-effectively-does-an-aps-prepare-a-team-to-do-solid,-professional-scrum
 - /resources/how-effectively-does-an-aps-prepare-a-team-to-do-solid,-professional-scrum
+- /resources/videos/how-effectively-does-an-aps-prepare-a-team-to-do-solid-professional-scrum
+- how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum
 sitemap:
   filename: sitemap.xml
   priority: 0.6

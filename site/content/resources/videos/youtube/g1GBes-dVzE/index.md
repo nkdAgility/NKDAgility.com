@@ -9,23 +9,21 @@ ResourceImportSource: Youtube
 videoId: g1GBes-dVzE
 source: internal
 url: /resources/videos/:slug
-slug: one-thing-an-agile-coach-must-do-to-be-successful
+slug: one-thing-an-agile-coach-must-do-to-be-successful-g1GBes-dVzE
 layout: video
 preview: https://i.ytimg.com/vi/g1GBes-dVzE/maxresdefault.jpg
 duration: 53
 isShort: true
 aliases:
-- /resources/one-thing-an-agile-coach-must-do-to-be-successful-2
-- /resources/one-thing-an-agile-coach-must-do-to-be-successful
-- /resources/videos/one-thing-an-agile-coach-must-do-to-be-successful-
-- /resources/videos/g1GBes-dVzE
-- /resources/one-thing-an-agile-coach-must-do-to-be-successful-
 - /resources/g1GBes-dVzE
-aliasesFor404:
+- /resources/videos/one-thing-an-agile-coach-must-do-to-be-successful-g1GBes-dVzE
+aliasesArchive:
+- /resources/videos/one-thing-an-agile-coach-must-do-to-be-successful
 - /resources/one-thing-an-agile-coach-must-do-to-be-successful-2
 - /resources/one-thing-an-agile-coach-must-do-to-be-successful
 - /resources/videos/one-thing-an-agile-coach-must-do-to-be-successful-
 - /resources/one-thing-an-agile-coach-must-do-to-be-successful-
+- one-thing-an-agile-coach-must-do-to-be-successful-g1GBes-dVzE
 sitemap:
   filename: sitemap.xml
   priority: 0.6

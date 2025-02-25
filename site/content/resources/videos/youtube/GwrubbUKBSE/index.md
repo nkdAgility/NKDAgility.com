@@ -12,23 +12,23 @@ slug: 30th-march-2020-office-hours-ask-me-anything
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=GwrubbUKBSE
 aliases:
-- /resources/videos/GwrubbUKBSE
-- /resources/videos/30th-march-2020-office-hours-ask-me-anything
-- /resources/30th-march-2020-office-hours-ask-me-anything
 - /resources/GwrubbUKBSE
-aliasesFor404:
+- /resources/videos/30th-march-2020-office-hours-ask-me-anything
+aliasesArchive:
+- /resources/videos/th-march-office-hours-ask-me-anything
 - /resources/videos/30th-march-2020-office-hours-ask-me-anything
 - /resources/30th-march-2020-office-hours-ask-me-anything
+- 30th-march-2020-office-hours-ask-me-anything
 preview: https://i.ytimg.com/vi/GwrubbUKBSE/hqdefault.jpg
 duration: 2127
 isShort: false
 tags:
-- Events and Presentations
 - People and Process
+- Events and Presentations
+- Agile Project Management
 - Software Development
 - Software Developers
 - Agile Frameworks
-- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4

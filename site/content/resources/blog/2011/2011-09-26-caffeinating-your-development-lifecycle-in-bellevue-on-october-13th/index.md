@@ -17,16 +17,16 @@ aliases:
 - /caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
 - /resources/uPqvuZorGO-
 - /resources/blog/caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
-aliasesFor404:
-- /caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
+aliasesArchive:
 - /blog/caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
+- /caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
 - /resources/blog/caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
 tags:
 - Events and Presentations
 categories:
 - Product Management
-- Social Technologies
 - DevOps
+- Engineering Excellence
 preview: metro-nwc-128-link-3-3.png
 
 ---

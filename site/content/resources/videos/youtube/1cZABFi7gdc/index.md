@@ -9,34 +9,35 @@ ResourceImportSource: Youtube
 videoId: 1cZABFi7gdc
 source: internal
 url: /resources/videos/:slug
-slug: hiring-the-right-agile-coach-what-you-need-to-know
+slug: hiring-the-right-agile-coach-what-you-need-to-know-1cZABFi7gdc
 preview: https://i.ytimg.com/vi/1cZABFi7gdc/maxresdefault.jpg
 duration: 37
 isShort: true
 aliases:
-- /resources/hiring-the-right-agile-coach-what-you-need-to-know
-- /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-4
-- /resources/videos/1cZABFi7gdc
-- /resources/5-things-to-consider-before-hiring-an-agilecoach-part-4
 - /resources/1cZABFi7gdc
-aliasesFor404:
+- /resources/videos/hiring-the-right-agile-coach-what-you-need-to-know-1cZABFi7gdc
+- /resources/videos/hiring-the-right-agile-coach-what-you-need-to-know
+- /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-4
+aliasesArchive:
+- /resources/videos/hiring-the-right-agile-coach-what-you-need-to-know
 - /resources/hiring-the-right-agile-coach-what-you-need-to-know
 - /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-4
 - /resources/5-things-to-consider-before-hiring-an-agilecoach-part-4
+- hiring-the-right-agile-coach-what-you-need-to-know-1cZABFi7gdc
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Agile Strategy
-- Agile Frameworks
-- Agile Leadership
 - Agile Project Management
+- Agile Leadership
 - Agile Transformation
+- Agile Frameworks
+- People and Process
 - Technical Leadership
-- Software Development
-- Enterprise Agility
-- Pragmatic Thinking
-- Organisational Agility
+- Business Agility
+- Market Adaptability
+- Organisational Change
 resourceTypes:
 - video
 layout: video

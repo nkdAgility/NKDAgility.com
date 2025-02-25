@@ -8,29 +8,31 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 2QojN_k3JZ4
 url: /resources/videos/:slug
-slug: -shorts-7-virtues-of-agile-diligence
+slug: bridging-the-gap-understanding-the-true-meaning-of-done-in-agile-teams-2QojN_k3JZ4
 aliases:
-- /resources/videos/2QojN_k3JZ4
-- /resources/videos/-shorts-7-virtues-of-agile-diligence
-- /resources/-shorts-7-virtues-of-agile-diligence
 - /resources/2QojN_k3JZ4
-aliasesFor404:
+- /resources/videos/bridging-the-gap-understanding-the-true-meaning-of-done-in-agile-teams-2QojN_k3JZ4
+- /resources/videos/bridging-the-gap-understanding-the-true-meaning-of-done-in-agile-teams
+- /resources/videos/-shorts-7-virtues-of-agile-diligence
+aliasesArchive:
+- /resources/videos/bridging-the-gap-understanding-the-true-meaning-of-done-in-agile-teams
 - /resources/videos/-shorts-7-virtues-of-agile-diligence
 - /resources/-shorts-7-virtues-of-agile-diligence
+- bridging-the-gap-understanding-the-true-meaning-of-done-in-agile-teams-2QojN_k3JZ4
 preview: https://i.ytimg.com/vi/2QojN_k3JZ4/maxresdefault.jpg
 duration: 25
 isShort: true
 tags:
 - Agile Values and Principles
-- Technical Leadership
 - People and Process
+- Technical Leadership
 - Agile Project Management
 - Agile Transformation
 - Team Performance
-- Software Development
 - Organisational Culture
 - Pragmatic Thinking
-- Organisational Agility
+- Working Software
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

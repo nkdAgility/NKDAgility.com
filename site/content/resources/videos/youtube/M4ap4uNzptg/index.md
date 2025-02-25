@@ -15,29 +15,30 @@ preview: https://i.ytimg.com/vi/M4ap4uNzptg/maxresdefault.jpg
 duration: 241
 isShort: false
 aliases:
-- /resources/unlocking-agiles-core-questioning-to-create-value
-- /resources/videos/agile-is-failing-organizations!
-- /resources/videos/M4ap4uNzptg
-- /resources/agile-is-failing-organizations!
 - /resources/M4ap4uNzptg
-aliasesFor404:
+- /resources/videos/unlocking-agiles-core-questioning-to-create-value
+- /resources/videos/agile-is-failing-organizations
+aliasesArchive:
+- /resources/videos/unlocking-agiles-core-questioning-to-create-value
 - /resources/unlocking-agiles-core-questioning-to-create-value
 - /resources/videos/agile-is-failing-organizations!
 - /resources/agile-is-failing-organizations!
+- /resources/videos/agile-is-failing-organizations
+- unlocking-agiles-core-questioning-to-create-value
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - People and Process
 - Agile Leadership
-- Agile Transformation
-- Agile Project Management
-- Agile Philosophy
-- Market Adaptability
-- Organisational Change
+- Change Management
 - Business Agility
-- Agile Strategy
+- Market Adaptability
+- Agile Philosophy
 - Discovery and Learning
+- Organisational Change
+- Agile Strategy
+- Agile Project Management
 resourceTypes:
 - video
 categories:

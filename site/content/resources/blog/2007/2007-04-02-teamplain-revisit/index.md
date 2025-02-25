@@ -19,18 +19,18 @@ aliases:
 - /blog/teamplain---revisit
 - /resources/74iowBMHVfu
 - /resources/blog/teamplain-revisit
-aliasesFor404:
-- /teamplain-revisit
+aliasesArchive:
 - /blog/teamplain-revisit
+- /teamplain-revisit
 - /teamplain---revisit
 - /blog/teamplain---revisit
 - /resources/blog/teamplain-revisit
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 tags:
-- Pragmatic Thinking
 - Troubleshooting
 - Miscellaneous
+- Pragmatic Thinking
 
 ---
 I ran into some problems that I blogged on in my [TeamPlain - Install and initial views](http://team.worldnet-dev.ml.com/workitem.aspx?id=185) post. I have got a work around for the long project name problem, but it only works when you really daft project names like ours:

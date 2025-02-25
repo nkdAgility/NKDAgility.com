@@ -17,9 +17,9 @@ aliases:
 - /branding-and-customizing-sharepoint-2007
 - /resources/1j-4XNo1AAo
 - /resources/blog/branding-and-customizing-sharepoint-2007
-aliasesFor404:
-- /branding-and-customizing-sharepoint-2007
+aliasesArchive:
 - /blog/branding-and-customizing-sharepoint-2007
+- /branding-and-customizing-sharepoint-2007
 - /resources/blog/branding-and-customizing-sharepoint-2007
 tags:
 - Software Development

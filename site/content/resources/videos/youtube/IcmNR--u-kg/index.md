@@ -9,16 +9,18 @@ ResourceImportSource: Youtube
 videoId: IcmNR--u-kg
 source: youtube
 url: /resources/videos/:slug
-slug: how-will-the-immersive-learning-experience-change-the-game-in-terms-of-entry-level-capabilities-
+slug: transform-your-teams-skills-the-power-of-immersive-learning-in-the-workplace
 layout: video
 aliases:
-- /resources/videos/IcmNR--u-kg
-- /resources/videos/how-will-the-immersive-learning-experience-change-the-game-in-terms-of-entry-level-capabilities-
-- /resources/how-will-the-immersive-learning-experience-change-the-game-in-terms-of-entry-level-capabilities-
 - /resources/IcmNR--u-kg
-aliasesFor404:
+- /resources/videos/transform-your-teams-skills-the-power-of-immersive-learning-in-the-workplace
+- /resources/videos/how-will-the-immersive-learning-experience-change-the-game-in-terms-of-entry-level-capabilities
+aliasesArchive:
+- /resources/videos/transform-your-teams-skills-the-power-of-immersive-learning-in-the-workplace
 - /resources/videos/how-will-the-immersive-learning-experience-change-the-game-in-terms-of-entry-level-capabilities-
 - /resources/how-will-the-immersive-learning-experience-change-the-game-in-terms-of-entry-level-capabilities-
+- /resources/videos/how-will-the-immersive-learning-experience-change-the-game-in-terms-of-entry-level-capabilities
+- transform-your-teams-skills-the-power-of-immersive-learning-in-the-workplace
 preview: https://i.ytimg.com/vi/IcmNR--u-kg/maxresdefault.jpg
 duration: 154
 isShort: false

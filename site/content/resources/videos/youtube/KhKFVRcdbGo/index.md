@@ -9,16 +9,17 @@ ResourceImportSource: Youtube
 videoId: KhKFVRcdbGo
 source: youtube
 url: /resources/videos/:slug
-slug: nkd-agility-your-partner-in-cost-effective-software-development
+slug: transforming-organisational-culture-unlocking-engineering-excellence-through-system-optimisation
 layout: video
 aliases:
-- /resources/videos/KhKFVRcdbGo
-- /resources/videos/nkd-agility-your-partner-in-cost-effective-software-development
-- /resources/nkd-agility-your-partner-in-cost-effective-software-development
 - /resources/KhKFVRcdbGo
-aliasesFor404:
+- /resources/videos/transforming-organisational-culture-unlocking-engineering-excellence-through-system-optimisation
+- /resources/videos/nkd-agility-your-partner-in-cost-effective-software-development
+aliasesArchive:
+- /resources/videos/transforming-organisational-culture-unlocking-engineering-excellence-through-system-optimisation
 - /resources/videos/nkd-agility-your-partner-in-cost-effective-software-development
 - /resources/nkd-agility-your-partner-in-cost-effective-software-development
+- transforming-organisational-culture-unlocking-engineering-excellence-through-system-optimisation
 preview: https://i9.ytimg.com/vi/KhKFVRcdbGo/maxresdefault.jpg?sqp=CKzMp7oG&rs=AOn4CLCRuKU6K3gPE5C6uZZipWu40oSNPg
 duration: 150
 isShort: false
@@ -35,11 +36,11 @@ tags:
 - Operational Practices
 - Transparency
 - Technical Leadership
+- People and Process
+- Business Agility
+- Decision Making
 - Value Stream Management
 - Evidence Based Leadership
-- Business Agility
-- People and Process
-- Decision Making
 
 ---
 Creating a culture of engineering excellence within an organisation is a topic that often stirs up a fair bit of debate. I find myself grappling with the concept of culture itself. After all, culture is essentially the embodiment of what exists within an organisation. It’s like the shadow on the wall; to change the shadow, we must first alter the shape of the object casting it. This is where Naked Agility comes into play.

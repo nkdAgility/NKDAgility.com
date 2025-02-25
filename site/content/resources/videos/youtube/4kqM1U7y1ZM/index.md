@@ -8,29 +8,32 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 4kqM1U7y1ZM
 url: /resources/videos/:slug
-slug: what-would-you-look-to-achieve-with-a-new-scrum-team-in-the-first-90-days-
+slug: transform-your-scrum-team-in-90-days-strategies-for-continuous-delivery-and-empowerment
 aliases:
-- /resources/videos/4kqM1U7y1ZM
-- /resources/videos/what-would-you-look-to-achieve-with-a-new-scrum-team-in-the-first-90-days-
-- /resources/what-would-you-look-to-achieve-with-a-new-scrum-team-in-the-first-90-days-
 - /resources/4kqM1U7y1ZM
-aliasesFor404:
+- /resources/videos/transform-your-scrum-team-in-90-days-strategies-for-continuous-delivery-and-empowerment
+- /resources/videos/what-would-you-look-to-achieve-with-a-new-scrum-team-in-the-first-90-days
+aliasesArchive:
+- /resources/videos/transform-your-scrum-team-in-days-strategies-for-continuous-delivery-and-empowerment
+- /resources/videos/transform-your-scrum-team-in-90-days-strategies-for-continuous-delivery-and-empowerment
 - /resources/videos/what-would-you-look-to-achieve-with-a-new-scrum-team-in-the-first-90-days-
 - /resources/what-would-you-look-to-achieve-with-a-new-scrum-team-in-the-first-90-days-
+- /resources/videos/what-would-you-look-to-achieve-with-a-new-scrum-team-in-the-first-90-days
+- transform-your-scrum-team-in-90-days-strategies-for-continuous-delivery-and-empowerment
 preview: https://i.ytimg.com/vi/4kqM1U7y1ZM/maxresdefault.jpg
 duration: 239
 isShort: false
 tags:
-- Continuous Delivery
-- Product Delivery
-- Scrum Product Development
-- Scrum Team
 - Value Delivery
-- Technical Leadership
+- Scrum Team
+- Continuous Delivery
+- Scrum Product Development
+- Product Delivery
+- Agile Product Management
 - Scrum Master
+- Technical Leadership
 - Team Performance
-- Team Collaboration
-- Self Organisation
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

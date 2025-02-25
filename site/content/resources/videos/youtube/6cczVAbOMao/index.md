@@ -14,15 +14,14 @@ preview: https://i.ytimg.com/vi/6cczVAbOMao/maxresdefault.jpg
 duration: 192
 isShort: false
 aliases:
-- /resources/how-critical-is-a-product-owner-in-developing-a-great-product-backlog
-- /resources/videos/how-critical-is-a-product-owner-in-developing-a-great-product-backlog-
-- /resources/videos/6cczVAbOMao
-- /resources/how-critical-is-a-product-owner-in-developing-a-great-product-backlog-
 - /resources/6cczVAbOMao
-aliasesFor404:
+- /resources/videos/how-critical-is-a-product-owner-in-developing-a-great-product-backlog
+aliasesArchive:
+- /resources/videos/how-critical-is-a-product-owner-in-developing-a-great-product-backlog
 - /resources/how-critical-is-a-product-owner-in-developing-a-great-product-backlog
 - /resources/videos/how-critical-is-a-product-owner-in-developing-a-great-product-backlog-
 - /resources/how-critical-is-a-product-owner-in-developing-a-great-product-backlog-
+- how-critical-is-a-product-owner-in-developing-a-great-product-backlog
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -17,9 +17,9 @@ aliases:
 - /team-foundation-server-error-28936
 - /resources/pfq93Zq1pW6
 - /resources/blog/team-foundation-server-error-28936
-aliasesFor404:
-- /team-foundation-server-error-28936
+aliasesArchive:
 - /blog/team-foundation-server-error-28936
+- /team-foundation-server-error-28936
 - /resources/blog/team-foundation-server-error-28936
 tags:
 - Troubleshooting

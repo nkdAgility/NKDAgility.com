@@ -15,15 +15,15 @@ preview: https://i.ytimg.com/vi/VOUmfpB-d88/maxresdefault.jpg
 duration: 430
 isShort: false
 aliases:
-- /resources/transforming-training-the-power-of-immersive-learning-in-scrum
-- /resources/videos/nkd-agility-training-approach
-- /resources/videos/VOUmfpB-d88
-- /resources/nkd-agility-training-approach
 - /resources/VOUmfpB-d88
-aliasesFor404:
+- /resources/videos/transforming-training-the-power-of-immersive-learning-in-scrum
+- /resources/videos/nkd-agility-training-approach
+aliasesArchive:
+- /resources/videos/transforming-training-the-power-of-immersive-learning-in-scrum
 - /resources/transforming-training-the-power-of-immersive-learning-in-scrum
 - /resources/videos/nkd-agility-training-approach
 - /resources/nkd-agility-training-approach
+- transforming-training-the-power-of-immersive-learning-in-scrum
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -31,13 +31,13 @@ tags:
 - Mentoring
 - People and Process
 - Discovery and Learning
-- Value Delivery
-- Continuous Learning
 - Agile Philosophy
-- Pragmatic Thinking
-- Coaching
-- Team Collaboration
+- Continuous Learning
+- Value Delivery
 - Agile Project Management
+- Agile Frameworks
+- Team Collaboration
+- Agile Transformation
 resourceTypes:
 - video
 categories:

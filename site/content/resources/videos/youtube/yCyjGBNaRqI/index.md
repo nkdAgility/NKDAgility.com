@@ -8,30 +8,31 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: yCyjGBNaRqI
 url: /resources/videos/:slug
-slug: nkd-agility-mission-and-purpose
+slug: unlocking-naked-agility-how-happy-teams-drive-exceptional-products
 layout: video
 aliases:
-- /resources/videos/yCyjGBNaRqI
-- /resources/videos/nkd-agility-mission-and-purpose
-- /resources/nkd-agility-mission-and-purpose
 - /resources/yCyjGBNaRqI
-aliasesFor404:
+- /resources/videos/unlocking-naked-agility-how-happy-teams-drive-exceptional-products
+- /resources/videos/nkd-agility-mission-and-purpose
+aliasesArchive:
+- /resources/videos/unlocking-naked-agility-how-happy-teams-drive-exceptional-products
 - /resources/videos/nkd-agility-mission-and-purpose
 - /resources/nkd-agility-mission-and-purpose
+- unlocking-naked-agility-how-happy-teams-drive-exceptional-products
 preview: https://i.ytimg.com/vi/yCyjGBNaRqI/maxresdefault.jpg
 duration: 174
 isShort: false
 tags:
 - Team Motivation
 - People and Process
-- Agile Values and Principles
 - Organisational Agility
-- Personal
-- Coaching
-- Employee Engagement
-- Team Performance
-- Organisational Culture
+- Agile Values and Principles
+- Agile Leadership
 - Sociotechnical Systems
+- Agile Philosophy
+- Team Performance
+- Employee Engagement
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -17,17 +17,17 @@ aliases:
 - /installing-tfs-2008-from-scratch
 - /resources/90J7b6pXQm3
 - /resources/blog/installing-tfs-2008-from-scratch
-aliasesFor404:
-- /installing-tfs-2008-from-scratch
+aliasesArchive:
 - /blog/installing-tfs-2008-from-scratch
+- /installing-tfs-2008-from-scratch
 - /resources/blog/installing-tfs-2008-from-scratch
 tags:
 - Windows
 - Install and Configuration
 - Practical Techniques and Tooling
+- Troubleshooting
 - Software Development
 - System Configuration
-- Troubleshooting
 categories: []
 preview: metro-visual-studio-2005-128-link-4-4.png
 

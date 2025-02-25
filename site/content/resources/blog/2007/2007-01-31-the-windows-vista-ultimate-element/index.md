@@ -17,9 +17,9 @@ aliases:
 - /the-windows-vista-ultimate-element
 - /resources/BeArx9oZHL2
 - /resources/blog/the-windows-vista-ultimate-element
-aliasesFor404:
-- /the-windows-vista-ultimate-element
+aliasesArchive:
 - /blog/the-windows-vista-ultimate-element
+- /the-windows-vista-ultimate-element
 - /resources/blog/the-windows-vista-ultimate-element
 tags:
 - Windows

@@ -17,9 +17,9 @@ aliases:
 - /visual-studio-alm-mvp-of-the-year-2011
 - /resources/EN9cabHmNmb
 - /resources/blog/visual-studio-alm-mvp-of-the-year-2011
-aliasesFor404:
-- /visual-studio-alm-mvp-of-the-year-2011
+aliasesArchive:
 - /blog/visual-studio-alm-mvp-of-the-year-2011
+- /visual-studio-alm-mvp-of-the-year-2011
 - /resources/blog/visual-studio-alm-mvp-of-the-year-2011
 tags:
 - Personal

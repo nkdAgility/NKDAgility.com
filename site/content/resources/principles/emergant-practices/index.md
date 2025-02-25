@@ -12,7 +12,7 @@ draft: true
 aliases:
 - /learn/agile-delivery-kit/first-principals/emergant-practices/
 - /resources/_MbvqRG_XNM
-aliasesFor404:
+aliasesArchive:
 - /learn/agile-delivery-kit/first-principals/emergant-practices/
 card:
   button:
@@ -21,11 +21,11 @@ card:
   title: Emergant Practices
 categories: []
 tags:
-- Discovery and Learning
 - People and Process
-- Pragmatic Thinking
+- Discovery and Learning
 - Complexity Thinking
 - Miscellaneous
+- Pragmatic Thinking
 
 ---
 Processes, practices and tools necessary will emerge as we do the work and help others do it

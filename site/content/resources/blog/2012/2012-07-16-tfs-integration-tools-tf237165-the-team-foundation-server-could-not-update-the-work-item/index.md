@@ -19,17 +19,17 @@ aliases:
 - /blog/tfs-integration-tools--tf237165--the-team-foundation-server-could-not-update-the-work-item
 - /resources/-dhZywZGtrn
 - /resources/blog/tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item
-aliasesFor404:
-- /tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item
+aliasesArchive:
 - /blog/tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item
+- /tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item
 - /tfs-integration-tools--tf237165--the-team-foundation-server-could-not-update-the-work-item
 - /blog/tfs-integration-tools--tf237165--the-team-foundation-server-could-not-update-the-work-item
 - /resources/blog/tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item
 tags:
 - Troubleshooting
 - Install and Configuration
-- System Configuration
 - Practical Techniques and Tooling
+- System Configuration
 - Software Development
 categories: []
 preview: metro-problem-icon-2-2.png

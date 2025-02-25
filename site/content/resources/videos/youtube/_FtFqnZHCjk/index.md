@@ -14,29 +14,29 @@ preview: https://i.ytimg.com/vi/_FtFqnZHCjk/maxresdefault.jpg
 duration: 656
 isShort: false
 aliases:
-- /resources/the-evolution-of-product-management-in-the-agile-era
-- /resources/videos/_FtFqnZHCjk
-- /resources/videos/agile-vs-traditional-product-management-unveiling-the-key-differences
-- /resources/agile-vs-traditional-product-management-unveiling-the-key-differences
 - /resources/_FtFqnZHCjk
-aliasesFor404:
+- /resources/videos/the-evolution-of-product-management-in-the-agile-era
+- /resources/videos/agile-vs-traditional-product-management-unveiling-the-key-differences
+aliasesArchive:
+- /resources/videos/the-evolution-of-product-management-in-the-agile-era
 - /resources/the-evolution-of-product-management-in-the-agile-era
 - /resources/videos/agile-vs-traditional-product-management-unveiling-the-key-differences
 - /resources/agile-vs-traditional-product-management-unveiling-the-key-differences
+- the-evolution-of-product-management-in-the-agile-era
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Product Management
 - Agile Values and Principles
-- Agile Product Operating Model
-- Value Delivery
-- Agile Project Management
+- Agile Product Management
 - People and Process
 - Product Delivery
+- Agile Project Management
 - Cycle Time
+- Agile Product Operating Model
+- Value Delivery
 - Lead Time
-- Pragmatic Thinking
+- Market Adaptability
 resourceTypes:
 - video
 layout: video

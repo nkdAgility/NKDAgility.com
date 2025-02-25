@@ -8,24 +8,24 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: QGXlCm_B5zA
 url: /resources/videos/:slug
-slug: what-will-you-learn-on-the-psm-ii-course-
+slug: what-will-you-learn-on-the-psm-ii-course
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=QGXlCm_B5zA
 aliases:
-- /resources/videos/QGXlCm_B5zA
-- /resources/videos/what-will-you-learn-on-the-psm-ii-course-
-- /resources/what-will-you-learn-on-the-psm-ii-course-
 - /resources/QGXlCm_B5zA
-aliasesFor404:
+- /resources/videos/what-will-you-learn-on-the-psm-ii-course
+aliasesArchive:
+- /resources/videos/what-will-you-learn-on-the-psm-ii-course
 - /resources/videos/what-will-you-learn-on-the-psm-ii-course-
 - /resources/what-will-you-learn-on-the-psm-ii-course-
+- what-will-you-learn-on-the-psm-ii-course
 preview: https://i.ytimg.com/vi/QGXlCm_B5zA/maxresdefault.jpg
 duration: 280
 isShort: false
 tags:
 - People and Process
-- Software Development
 - Agile Project Management
+- Software Development
 - Scrum Master
 sitemap:
   filename: sitemap.xml

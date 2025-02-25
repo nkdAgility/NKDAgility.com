@@ -18,20 +18,20 @@ aliases:
 - /become-the-leader-that-you-were-meant-to-to-be
 - /resources/-Oo9b3G-8Zw
 - /resources/blog/become-the-leader-that-you-were-meant-to-to-be
-aliasesFor404:
-- /become-the-leader-that-you-were-meant-to-to-be
+aliasesArchive:
 - /blog/become-the-leader-that-you-were-meant-to-to-be
+- /become-the-leader-that-you-were-meant-to-to-be
 - /resources/blog/become-the-leader-that-you-were-meant-to-to-be
 tags:
-- Scrum Master
 - People and Process
+- Scrum Master
 - Agile Leadership
-- Scrum Team
 - Agile Project Management
-- Products and Books
-- Professional Scrum
-- Technical Leadership
+- Scrum Team
 - Team Motivation
+- Products and Books
+- Technical Leadership
+- Professional Scrum
 categories:
 - Leadership
 - Social Technologies

@@ -16,21 +16,21 @@ aliases:
 - /blog/definition-of-done-objective-vs-subjective
 - /definition-of-done---objective-vs-subjective
 - /blog/definition-of-done---objective-vs-subjective
-aliasesFor404:
+aliasesArchive:
 - /definition-of-done-objective-vs-subjective
 - /blog/definition-of-done-objective-vs-subjective
 - /definition-of-done---objective-vs-subjective
 - /blog/definition-of-done---objective-vs-subjective
 tags:
-- Increment
 - Definition of Done
+- Increment
 - Scrum Product Development
 - Software Development
-- Professional Scrum
 - Product Delivery
+- Professional Scrum
 - Agile Product Management
-- Working Software
 - Operational Practices
+- Working Software
 - Value Delivery
 categories:
 - Scrum

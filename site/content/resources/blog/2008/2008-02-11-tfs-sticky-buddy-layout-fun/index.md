@@ -19,11 +19,11 @@ aliases:
 - /resources/kiOEzMLUa0k
 - /tfs-sticky-buddy-layout-fun
 - /resources/blog/tfs-sticky-buddy-layout-fun
-aliasesFor404:
-- /tfs-sticky-buddy-layout-fun
+aliasesArchive:
 - /blog/tfs-sticky-buddy-layout-fun
 - /tfs-sticky-buddy-layout-fun---
 - /blog/tfs-sticky-buddy-layout-fun---
+- /tfs-sticky-buddy-layout-fun
 - /resources/blog/tfs-sticky-buddy-layout-fun
 tags:
 - Windows

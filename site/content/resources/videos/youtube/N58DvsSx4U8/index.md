@@ -15,29 +15,28 @@ preview: https://i.ytimg.com/vi/N58DvsSx4U8/maxresdefault.jpg
 duration: 497
 isShort: false
 aliases:
-- /resources/what-is-your-favourite-devops-consulting-outcome
-- /resources/videos/what-is-your-favourite-devops-consulting-outcome-
-- /resources/videos/N58DvsSx4U8
-- /resources/what-is-your-favourite-devops-consulting-outcome-
 - /resources/N58DvsSx4U8
-aliasesFor404:
+- /resources/videos/what-is-your-favourite-devops-consulting-outcome
+aliasesArchive:
+- /resources/videos/what-is-your-favourite-devops-consulting-outcome
 - /resources/what-is-your-favourite-devops-consulting-outcome
 - /resources/videos/what-is-your-favourite-devops-consulting-outcome-
 - /resources/what-is-your-favourite-devops-consulting-outcome-
+- what-is-your-favourite-devops-consulting-outcome
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- One Engineering System (1ES)
 - People and Process
+- One Engineering System (1ES)
 - Azure DevOps
-- Software Development
-- Software Developers
 - Digital Transformation
 - Practical Techniques and Tooling
+- Software Development
+- Software Developers
+- Operational Practices
 - Pragmatic Thinking
 - Personal
-- Operational Practices
 resourceTypes:
 - video
 categories:

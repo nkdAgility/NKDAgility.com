@@ -8,16 +8,20 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: uCFIW_lEFuc
 url: /resources/videos/:slug
-slug: sloth!-7-deadly-sins-of-agile-
+slug: conquering-sloth-in-agile-6-signs-your-team-might-be-stalling
 layout: video
 aliases:
-- /resources/videos/uCFIW_lEFuc
-- /resources/videos/sloth!-7-deadly-sins-of-agile-
-- /resources/sloth!-7-deadly-sins-of-agile-
 - /resources/uCFIW_lEFuc
-aliasesFor404:
+- /resources/videos/conquering-sloth-in-agile-6-signs-your-team-might-be-stalling
+- /resources/videos/sloth-7-deadly-sins-of-agile
+aliasesArchive:
+- /resources/videos/conquering-sloth-in-agile-signs-your-team-might-be-stalling
+- /resources/videos/conquering-sloth-in-agile-6-signs-your-team-might-be-stalling
 - /resources/videos/sloth!-7-deadly-sins-of-agile-
 - /resources/sloth!-7-deadly-sins-of-agile-
+- /resources/videos/sloth-7-deadly-sins-of-agile-
+- conquering-sloth-in-agile-6-signs-your-team-might-be-stalling
+- /resources/videos/sloth-7-deadly-sins-of-agile
 preview: https://i.ytimg.com/vi/uCFIW_lEFuc/maxresdefault.jpg
 duration: 498
 isShort: false
@@ -25,13 +29,13 @@ tags:
 - People and Process
 - Increment
 - Agile Values and Principles
+- Working Software
 - Empirical Process Control
 - Agile Project Management
-- Working Software
 - Agile Product Management
-- Product Delivery
 - Product Validation
-- Customer Feedback Loops
+- Team Collaboration
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -15,25 +15,25 @@ preview: https://i.ytimg.com/vi/JzAbvkFxVzs/maxresdefault.jpg
 duration: 299
 isShort: false
 aliases:
-- /resources/the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
-- /resources/videos/5-ghosts-of-agile-past-dogma
-- /resources/videos/JzAbvkFxVzs
-- /resources/5-ghosts-of-agile-past-dogma
 - /resources/JzAbvkFxVzs
-aliasesFor404:
+- /resources/videos/the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
+- /resources/videos/5-ghosts-of-agile-past-dogma
+aliasesArchive:
+- /resources/videos/the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
 - /resources/the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
 - /resources/videos/5-ghosts-of-agile-past-dogma
 - /resources/5-ghosts-of-agile-past-dogma
+- the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Master
 - People and Process
+- Scrum Master
+- Agile Project Management
 - Pragmatic Thinking
 - Agile Frameworks
 - Agile Philosophy
-- Agile Project Management
 - Software Development
 - Personal
 - Agile Values and Principles

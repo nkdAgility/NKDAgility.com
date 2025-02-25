@@ -9,32 +9,31 @@ ResourceImportSource: Youtube
 videoId: -pW6YDYEO20
 source: internal
 url: /resources/videos/:slug
-slug: worst-trait-in-unskilled-scrum-masters
+slug: worst-trait-in-unskilled-scrum-masters--pW6YDYEO20
 preview: https://i.ytimg.com/vi/-pW6YDYEO20/maxresdefault.jpg
 duration: 54
 isShort: true
 aliases:
-- /resources/worst-trait-in-unskilled-scrum-masters
-- /resources/videos/worst-trait-in-unskilled-scrum-masters-
-- /resources/videos/-pW6YDYEO20
-- /resources/worst-trait-in-unskilled-scrum-masters-
 - /resources/-pW6YDYEO20
-aliasesFor404:
+- /resources/videos/worst-trait-in-unskilled-scrum-masters--pW6YDYEO20
+aliasesArchive:
+- /resources/videos/worst-trait-in-unskilled-scrum-masters
 - /resources/worst-trait-in-unskilled-scrum-masters
 - /resources/videos/worst-trait-in-unskilled-scrum-masters-
 - /resources/worst-trait-in-unskilled-scrum-masters-
+- worst-trait-in-unskilled-scrum-masters--pW6YDYEO20
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Scrum Master
 - Scrum Team
-- People and Process
 - Team Performance
-- Self Organisation
-- Coaching
-- Agile Frameworks
 - Agile Project Management
+- Coaching
+- Self Organisation
+- Agile Frameworks
 resourceTypes:
 - video
 layout: video

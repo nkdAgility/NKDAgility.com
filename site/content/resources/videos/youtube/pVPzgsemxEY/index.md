@@ -9,27 +9,28 @@ ResourceImportSource: Youtube
 videoId: pVPzgsemxEY
 source: internal
 url: /resources/videos/:slug
-slug: the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond
+slug: the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond-pVPzgsemxEY
 layout: video
 preview: https://i.ytimg.com/vi/pVPzgsemxEY/maxresdefault.jpg
 duration: 56
 isShort: true
 aliases:
-- /resources/the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond
-- /resources/videos/kaizen-in-kanban-the-power-of-continuous-improvement-for-optimal-results
-- /resources/videos/pVPzgsemxEY
-- /resources/kaizen-in-kanban-the-power-of-continuous-improvement-for-optimal-results
 - /resources/pVPzgsemxEY
-aliasesFor404:
+- /resources/videos/the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond-pVPzgsemxEY
+- /resources/videos/the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond
+- /resources/videos/kaizen-in-kanban-the-power-of-continuous-improvement-for-optimal-results
+aliasesArchive:
+- /resources/videos/the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond
 - /resources/the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond
 - /resources/videos/kaizen-in-kanban-the-power-of-continuous-improvement-for-optimal-results
 - /resources/kaizen-in-kanban-the-power-of-continuous-improvement-for-optimal-results
+- the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond-pVPzgsemxEY
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Lean Principles
 - Operational Practices
+- Lean Principles
 resourceTypes:
 - video
 categories:

@@ -17,21 +17,21 @@ aliases:
 - /improvements-in-visual-studio-alm-from-the-alm-summit
 - /resources/E9mwcXKPJ0C
 - /resources/blog/improvements-in-visual-studio-alm-from-the-alm-summit
-aliasesFor404:
-- /improvements-in-visual-studio-alm-from-the-alm-summit
+aliasesArchive:
 - /blog/improvements-in-visual-studio-alm-from-the-alm-summit
+- /improvements-in-visual-studio-alm-from-the-alm-summit
 - /resources/blog/improvements-in-visual-studio-alm-from-the-alm-summit
 tags:
-- Modern Source Control
-- Software Development
-- Events and Presentations
 - Practical Techniques and Tooling
-- News and Reviews
 - Application Lifecycle Management
+- Events and Presentations
+- Software Development
+- Modern Source Control
+- News and Reviews
+- Operational Practices
+- Working Software
 - Technical Excellence
 - Azure DevOps
-- Working Software
-- Operational Practices
 categories:
 - Kanban
 preview: nakedalm-experts-visual-studio-alm-6-6.png

@@ -8,24 +8,26 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 2k1726k9zvg
 url: /resources/videos/:slug
-slug: what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master-
+slug: the-truth-about-newbie-vs-professional-scrum-masters-bridging-the-experience-gap
 aliases:
-- /resources/videos/2k1726k9zvg
-- /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master-
-- /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master-
 - /resources/2k1726k9zvg
-aliasesFor404:
+- /resources/videos/the-truth-about-newbie-vs-professional-scrum-masters-bridging-the-experience-gap
+- /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master
+aliasesArchive:
+- /resources/videos/the-truth-about-newbie-vs-professional-scrum-masters-bridging-the-experience-gap
 - /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master-
 - /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master-
+- /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master
+- the-truth-about-newbie-vs-professional-scrum-masters-bridging-the-experience-gap
 preview: https://i.ytimg.com/vi/2k1726k9zvg/maxresdefault.jpg
 duration: 283
 isShort: false
 tags:
-- Professional Scrum
-- Scrum Master
-- Scrum Team
 - People and Process
+- Scrum Master
 - Agile Project Management
+- Scrum Team
+- Professional Scrum
 - Software Development
 - Agile Frameworks
 - Accountability

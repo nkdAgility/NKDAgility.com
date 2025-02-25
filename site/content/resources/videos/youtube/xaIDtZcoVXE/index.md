@@ -9,35 +9,36 @@ ResourceImportSource: Youtube
 videoId: xaIDtZcoVXE
 source: internal
 url: /resources/videos/:slug
-slug: how-do-you-know-how-long-it-takes-to-deliver-value
+slug: how-do-you-know-how-long-it-takes-to-deliver-value-xaIDtZcoVXE
 layout: video
 preview: https://i.ytimg.com/vi/xaIDtZcoVXE/maxresdefault.jpg
 duration: 33
 isShort: true
 aliases:
-- /resources/how-do-you-know-how-long-it-takes-to-deliver-value
-- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-5
-- /resources/videos/xaIDtZcoVXE
-- /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-5
 - /resources/xaIDtZcoVXE
-aliasesFor404:
+- /resources/videos/how-do-you-know-how-long-it-takes-to-deliver-value-xaIDtZcoVXE
+- /resources/videos/how-do-you-know-how-long-it-takes-to-deliver-value
+- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-5
+aliasesArchive:
+- /resources/videos/how-do-you-know-how-long-it-takes-to-deliver-value
 - /resources/how-do-you-know-how-long-it-takes-to-deliver-value
 - /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-5
 - /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-5
+- how-do-you-know-how-long-it-takes-to-deliver-value-xaIDtZcoVXE
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Decision Making
 - Value Stream Management
-- Evidence Based Management
 - Metrics and Learning
 - Ability to Innovate
+- Evidence Based Management
 - Value Delivery
-- Evidence Based Leadership
-- Throughput
+- Operational Practices
 - Pragmatic Thinking
 - Flow Efficiency
+- Product Delivery
 resourceTypes:
 - video
 categories:

@@ -19,11 +19,11 @@ aliases:
 - /resources/xhOqFwLeKh2
 - /falling-of-the-tfs-rehabilitation-wagon
 - /resources/blog/falling-of-the-tfs-rehabilitation-wagon
-aliasesFor404:
-- /falling-of-the-tfs-rehabilitation-wagon
+aliasesArchive:
 - /blog/falling-of-the-tfs-rehabilitation-wagon
 - /falling-of-the-tfs-rehabilitation-wagon---
 - /blog/falling-of-the-tfs-rehabilitation-wagon---
+- /falling-of-the-tfs-rehabilitation-wagon
 - /resources/blog/falling-of-the-tfs-rehabilitation-wagon
 tags:
 - Install and Configuration

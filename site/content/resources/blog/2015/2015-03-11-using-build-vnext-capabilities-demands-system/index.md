@@ -19,19 +19,19 @@ aliases:
 - /blog/using-the-build-vnext-capabilities-and-demands-system
 - /resources/iEMi_TIORPX
 - /resources/blog/using-build-vnext-capabilities-demands-system
-aliasesFor404:
-- /using-build-vnext-capabilities-demands-system
+aliasesArchive:
 - /blog/using-build-vnext-capabilities-demands-system
+- /using-build-vnext-capabilities-demands-system
 - /using-the-build-vnext-capabilities-and-demands-system
 - /blog/using-the-build-vnext-capabilities-and-demands-system
 - /resources/blog/using-build-vnext-capabilities-demands-system
 tags:
 - Windows
 - Install and Configuration
-- Azure DevOps
-- System Configuration
-- Azure Pipelines
 - Practical Techniques and Tooling
+- System Configuration
+- Azure DevOps
+- Azure Pipelines
 - Software Development
 - Continuous Integration
 categories:

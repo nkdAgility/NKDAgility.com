@@ -8,27 +8,29 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: uvZ9TGbMtnU
 url: /resources/videos/:slug
-slug: -shorts-5-kinds-of-agile-bandits-1st-kind
+slug: ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products-uvZ9TGbMtnU
 layout: video
 aliases:
-- /resources/videos/uvZ9TGbMtnU
-- /resources/videos/-shorts-5-kinds-of-agile-bandits-1st-kind
-- /resources/-shorts-5-kinds-of-agile-bandits-1st-kind
 - /resources/uvZ9TGbMtnU
-aliasesFor404:
+- /resources/videos/ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products-uvZ9TGbMtnU
+- /resources/videos/ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products
+- /resources/videos/-shorts-5-kinds-of-agile-bandits-1st-kind
+aliasesArchive:
+- /resources/videos/ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products
 - /resources/videos/-shorts-5-kinds-of-agile-bandits-1st-kind
 - /resources/-shorts-5-kinds-of-agile-bandits-1st-kind
+- ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products-uvZ9TGbMtnU
 preview: https://i.ytimg.com/vi/uvZ9TGbMtnU/maxresdefault.jpg
 duration: 41
 isShort: true
 tags:
 - Agile Product Management
-- Product Delivery
-- Working Software
 - Agile Project Management
+- Working Software
 - Agile Transformation
-- Software Development
+- Product Delivery
 - Pragmatic Thinking
+- Software Development
 - Agile Planning
 sitemap:
   filename: sitemap.xml

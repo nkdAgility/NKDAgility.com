@@ -15,29 +15,28 @@ preview: https://i.ytimg.com/vi/Yesn-VHhQ4k/maxresdefault.jpg
 duration: 386
 isShort: false
 aliases:
-- /resources/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps
-- /resources/videos/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps-
-- /resources/videos/Yesn-VHhQ4k
-- /resources/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps-
 - /resources/Yesn-VHhQ4k
-aliasesFor404:
+- /resources/videos/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps
+aliasesArchive:
+- /resources/videos/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps
 - /resources/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps
 - /resources/videos/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps-
 - /resources/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps-
+- why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Agile Values and Principles
-- Empirical Process Control
 - People and Process
-- Discovery and Learning
+- Empirical Process Control
 - Scrum Values
-- Agile Strategy
+- Discovery and Learning
 - Organisational Agility
-- Software Development
 - Agile Frameworks
+- Agile Transformation
 - Agile Philosophy
+- Software Development
 resourceTypes:
 - video
 categories:

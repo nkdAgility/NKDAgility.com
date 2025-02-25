@@ -19,9 +19,9 @@ aliases:
 - /blog/data-dude-r2-is-out-
 - /resources/-ifFvVOpYdz
 - /resources/blog/data-dude-r2-is-out
-aliasesFor404:
-- /data-dude-r2-is-out
+aliasesArchive:
 - /blog/data-dude-r2-is-out
+- /data-dude-r2-is-out
 - /data-dude-r2-is-out-
 - /blog/data-dude-r2-is-out-
 - /resources/blog/data-dude-r2-is-out

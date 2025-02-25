@@ -15,23 +15,23 @@ preview: https://i.ytimg.com/vi/S0h_7ayLpsE/maxresdefault.jpg
 duration: 1714
 isShort: false
 aliases:
-- /resources/mastering-evidence-based-management-for-agile-success
-- /resources/videos/evidence-based-management-gathering-and-analyzing-data
-- /resources/videos/S0h_7ayLpsE
-- /resources/evidence-based-management-gathering-and-analyzing-data
 - /resources/S0h_7ayLpsE
-aliasesFor404:
+- /resources/videos/mastering-evidence-based-management-for-agile-success
+- /resources/videos/evidence-based-management-gathering-and-analyzing-data
+aliasesArchive:
+- /resources/videos/mastering-evidence-based-management-for-agile-success
 - /resources/mastering-evidence-based-management-for-agile-success
 - /resources/videos/evidence-based-management-gathering-and-analyzing-data
 - /resources/evidence-based-management-gathering-and-analyzing-data
+- mastering-evidence-based-management-for-agile-success
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Evidence Based Leadership
-- Evidence Based Management
 - Metrics and Learning
 - Decision Making
+- Evidence Based Management
+- Evidence Based Leadership
 resourceTypes:
 - video
 categories:

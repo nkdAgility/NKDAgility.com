@@ -19,9 +19,9 @@ aliases:
 - /blog/my-team-foundation-server-system-accounts-are-changing--what-do-i-do-
 - /resources/GJOGgre5lz-
 - /resources/blog/my-team-foundation-server-system-accounts-are-changing-what-do-i-do
-aliasesFor404:
-- /my-team-foundation-server-system-accounts-are-changing-what-do-i-do
+aliasesArchive:
 - /blog/my-team-foundation-server-system-accounts-are-changing-what-do-i-do
+- /my-team-foundation-server-system-accounts-are-changing-what-do-i-do
 - /my-team-foundation-server-system-accounts-are-changing--what-do-i-do-
 - /blog/my-team-foundation-server-system-accounts-are-changing--what-do-i-do-
 - /resources/blog/my-team-foundation-server-system-accounts-are-changing-what-do-i-do
@@ -29,9 +29,9 @@ tags:
 - Install and Configuration
 - System Configuration
 - Practical Techniques and Tooling
+- Troubleshooting
 - Software Development
 - Azure DevOps
-- Troubleshooting
 categories:
 - DevOps
 

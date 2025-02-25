@@ -15,15 +15,15 @@ preview: https://i.ytimg.com/vi/ZQZeM20TO4c/maxresdefault.jpg
 duration: 69
 isShort: false
 aliases:
-- /resources/agile-leader-versus-traditional-manager
-- /resources/agile-leader-vs-traditional-manager
-- /resources/videos/agile-leader-vs-traditional-manager
-- /resources/videos/ZQZeM20TO4c
 - /resources/ZQZeM20TO4c
-aliasesFor404:
+- /resources/videos/agile-leader-versus-traditional-manager
+- /resources/videos/agile-leader-vs-traditional-manager
+aliasesArchive:
+- /resources/videos/agile-leader-versus-traditional-manager
 - /resources/agile-leader-versus-traditional-manager
 - /resources/agile-leader-vs-traditional-manager
 - /resources/videos/agile-leader-vs-traditional-manager
+- agile-leader-versus-traditional-manager
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -35,8 +35,8 @@ tags:
 - Resilience and Change
 - Business Agility
 - Market Adaptability
-- Agile Philosophy
 - Agile Transformation
+- Agile Philosophy
 resourceTypes:
 - video
 categories:

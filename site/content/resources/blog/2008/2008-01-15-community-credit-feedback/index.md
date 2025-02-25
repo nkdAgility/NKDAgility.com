@@ -17,9 +17,9 @@ aliases:
 - /community-credit-feedback
 - /resources/HElvJm048ib
 - /resources/blog/community-credit-feedback
-aliasesFor404:
-- /community-credit-feedback
+aliasesArchive:
 - /blog/community-credit-feedback
+- /community-credit-feedback
 - /resources/blog/community-credit-feedback
 tags:
 - Miscellaneous

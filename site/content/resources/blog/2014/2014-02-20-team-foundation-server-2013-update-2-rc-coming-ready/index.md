@@ -21,9 +21,9 @@ aliases:
 - /team-foundation-server-2013-update-2-rc-is-coming--are-you-ready-
 - /blog/team-foundation-server-2013-update-2-rc-is-coming--are-you-ready-
 - /resources/blog/team-foundation-server-2013-update-2-rc-coming-ready
-aliasesFor404:
-- /team-foundation-server-2013-update-2-rc-coming-ready
+aliasesArchive:
 - /blog/team-foundation-server-2013-update-2-rc-coming-ready
+- /team-foundation-server-2013-update-2-rc-coming-ready
 - /team-foundation-server-2013-update-2-rc-is-coming,-are-you-ready-
 - /blog/team-foundation-server-2013-update-2-rc-is-coming,-are-you-ready-
 - /team-foundation-server-2013-update-2-rc-is-coming--are-you-ready-

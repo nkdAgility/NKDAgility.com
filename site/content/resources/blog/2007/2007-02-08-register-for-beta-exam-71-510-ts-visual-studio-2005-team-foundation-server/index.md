@@ -19,9 +19,9 @@ aliases:
 - /blog/register-for-beta-exam-71-510--ts--visual-studio-2005-team-foundation-server
 - /resources/tQ69oSCcULR
 - /resources/blog/register-for-beta-exam-71-510-ts-visual-studio-2005-team-foundation-server
-aliasesFor404:
-- /register-for-beta-exam-71-510-ts-visual-studio-2005-team-foundation-server
+aliasesArchive:
 - /blog/register-for-beta-exam-71-510-ts-visual-studio-2005-team-foundation-server
+- /register-for-beta-exam-71-510-ts-visual-studio-2005-team-foundation-server
 - /register-for-beta-exam-71-510--ts--visual-studio-2005-team-foundation-server
 - /blog/register-for-beta-exam-71-510--ts--visual-studio-2005-team-foundation-server
 - /resources/blog/register-for-beta-exam-71-510-ts-visual-studio-2005-team-foundation-server

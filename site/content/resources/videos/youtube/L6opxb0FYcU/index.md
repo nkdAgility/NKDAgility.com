@@ -9,36 +9,37 @@ ResourceImportSource: Youtube
 videoId: L6opxb0FYcU
 source: internal
 url: /resources/videos/:slug
-slug: worst-agile-advice-you-ve-ever-heard
+slug: worst-agile-advice-youve-ever-heard-L6opxb0FYcU
 layout: video
 preview: https://i.ytimg.com/vi/L6opxb0FYcU/maxresdefault.jpg
 duration: 57
 isShort: true
 aliases:
-- /resources/worst-agile-advice-youve-ever-heard
-- /resources/worst-agile-advice-heard
-- /resources/videos/worst-agile-advice-heard-
-- /resources/videos/L6opxb0FYcU
-- /resources/worst-agile-advice-heard-
 - /resources/L6opxb0FYcU
-aliasesFor404:
+- /resources/videos/worst-agile-advice-youve-ever-heard-L6opxb0FYcU
+- /resources/videos/worst-agile-advice-youve-ever-heard
+- /resources/videos/worst-agile-advice-heard
+aliasesArchive:
+- /resources/videos/worst-agile-advice-youve-ever-heard
 - /resources/worst-agile-advice-youve-ever-heard
 - /resources/worst-agile-advice-heard
 - /resources/videos/worst-agile-advice-heard-
 - /resources/worst-agile-advice-heard-
+- /resources/videos/worst-agile-advice-heard
+- worst-agile-advice-youve-ever-heard-L6opxb0FYcU
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Master
 - Agile Values and Principles
-- Team Performance
-- Agile Frameworks
+- Scrum Master
 - People and Process
-- Agile Philosophy
+- Team Performance
 - Agile Project Management
 - Agile Transformation
-- Software Development
+- Agile Frameworks
+- Agile Philosophy
+- Agile Product Management
 - Pragmatic Thinking
 resourceTypes:
 - video

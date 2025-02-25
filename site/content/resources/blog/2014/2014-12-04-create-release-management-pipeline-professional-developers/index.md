@@ -19,20 +19,20 @@ aliases:
 - /blog/create-a-release-management-pipeline-for-professional-developers
 - /resources/WYBOx1X0R-3
 - /resources/blog/create-release-management-pipeline-professional-developers
-aliasesFor404:
-- /create-release-management-pipeline-professional-developers
+aliasesArchive:
 - /blog/create-release-management-pipeline-professional-developers
+- /create-release-management-pipeline-professional-developers
 - /create-a-release-management-pipeline-for-professional-developers
 - /blog/create-a-release-management-pipeline-for-professional-developers
 - /resources/blog/create-release-management-pipeline-professional-developers
 tags:
 - Install and Configuration
-- Azure DevOps
 - Release Management
+- Azure DevOps
 - Azure Pipelines
+- Practical Techniques and Tooling
 - Software Development
 - Product Delivery
-- Practical Techniques and Tooling
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-46-46.png

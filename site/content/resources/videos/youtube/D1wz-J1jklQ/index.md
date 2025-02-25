@@ -9,16 +9,17 @@ ResourceImportSource: Youtube
 videoId: D1wz-J1jklQ
 source: youtube
 url: /resources/videos/:slug
-slug: the-power-of-frequent-deployments-reducing-technical-debt-and-delivering-better-products
+slug: unlocking-code-quality-the-transformative-power-of-frequent-deployments
 layout: video
 aliases:
-- /resources/videos/D1wz-J1jklQ
-- /resources/videos/the-power-of-frequent-deployments-reducing-technical-debt-and-delivering-better-products
-- /resources/the-power-of-frequent-deployments-reducing-technical-debt-and-delivering-better-products
 - /resources/D1wz-J1jklQ
-aliasesFor404:
+- /resources/videos/unlocking-code-quality-the-transformative-power-of-frequent-deployments
+- /resources/videos/the-power-of-frequent-deployments-reducing-technical-debt-and-delivering-better-products
+aliasesArchive:
+- /resources/videos/unlocking-code-quality-the-transformative-power-of-frequent-deployments
 - /resources/videos/the-power-of-frequent-deployments-reducing-technical-debt-and-delivering-better-products
 - /resources/the-power-of-frequent-deployments-reducing-technical-debt-and-delivering-better-products
+- unlocking-code-quality-the-transformative-power-of-frequent-deployments
 preview: https://i.ytimg.com/vi/D1wz-J1jklQ/maxresdefault.jpg
 duration: 362
 isShort: false
