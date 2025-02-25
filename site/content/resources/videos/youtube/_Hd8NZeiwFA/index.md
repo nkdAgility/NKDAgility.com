@@ -1,5 +1,5 @@
 ---
-title: 'Transforming Agility: How Azure DevOps Went from Two-Year Releases to 880,000 Deployments'
+title: "Transforming Agility: How Azure DevOps Went from Two-Year Releases to 880,000 Deployments"
 description: Unlock your organisation's potential with continuous delivery! Discover how to shorten feedback loops and stay ahead in a fast-paced market.
 date: 2025-02-24T07:26:46Z
 ResourceId: _Hd8NZeiwFA
@@ -10,47 +10,45 @@ videoId: _Hd8NZeiwFA
 url: /resources/videos/:slug
 slug: transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
 aliases:
-- /resources/_Hd8NZeiwFA
+  - /resources/_Hd8NZeiwFA
 aliasesArchive:
-- /resources/videos/transforming-agility-how-azure-devops-went-from-twoyear-releases-to-deployments
-- /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-deployments
-- /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
-- /resources/videos/live-virtual-professional-agile-leadership-in-5-minutes!
-- /resources/live-virtual-professional-agile-leadership-in-5-minutes!
-- /resources/_gyzx59-AJk
-- /resources/videos/_gyzx59-AJk
-- /resources/videos/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
-- /resources/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
-preview: https://i.ytimg.com/vi/_ghSntAkoKI/maxresdefault.jpg
+  - /resources/videos/transforming-agility-how-azure-devops-went-from-twoyear-releases-to-deployments
+  - /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-deployments
+  - /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
+  - /resources/_gyzx59-AJk
+  - /resources/videos/_gyzx59-AJk
+  - /resources/videos/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
+  - /resources/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
+preview: https://i.ytimg.com/vi/_gyzx59-AJk/maxresdefault.jpg
 duration: 289
 isShort: false
 tags:
-- Scrum Master
-- Scrum Team
-- People and Process
-- Team Performance
-- Scrum Product Development
-- Agile Project Management
-- Agile Transformation
-- Professional Scrum
-- Agile Frameworks
-- Technical Leadership
+  - Scrum Master
+  - Scrum Team
+  - People and Process
+  - Team Performance
+  - Scrum Product Development
+  - Agile Project Management
+  - Agile Transformation
+  - Professional Scrum
+  - Agile Frameworks
+  - Technical Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 source: youtube
 layout: video
 resourceTypes:
-- video
+  - video
 categories:
-- Scrum
-- Social Technologies
+  - Scrum
+  - Social Technologies
 canonicalUrl: https://www.youtube.com/watch?v=_Hd8NZeiwFA
-
 ---
- 📢 There’s No Such Thing as a Junior Scrum Master! 🚀 | Why Experience Matters in Scrum Mastery
 
-Too many organizations and aspiring Scrum Masters misunderstand what the role actually requires. Some companies treat the Scrum Master role as an afterthought—handing it off to whoever seems “least busy” on the team. 
+📢 There’s No Such Thing as a Junior Scrum Master! 🚀 | Why Experience Matters in Scrum Mastery
+
+Too many organizations and aspiring Scrum Masters misunderstand what the role actually requires. Some companies treat the Scrum Master role as an afterthought—handing it off to whoever seems “least busy” on the team.
 
 Others think you can just become a Scrum Master without deep domain knowledge. Both approaches are deeply flawed.
 
@@ -86,5 +84,5 @@ Scrum Masters aren’t meeting facilitators—they are organizational change age
 
 🚀 Want to develop world-class Scrum Masters in your organization? Let’s talk: https://www.nkdagility.com
 
-#Scrum #ScrumMastery #Agile #ScrumMaster #AgileTransformation #AgileCoach #AgileLeadership #ScrumMasterTraining #ProfessionalScrum #ScrumMasterJobs #ScrumFramework #AgileMindset #CTO #EngineeringLeadership 
- [Watch on Youtube](https://www.youtube.com/watch?v=_Hd8NZeiwFA)
+#Scrum #ScrumMastery #Agile #ScrumMaster #AgileTransformation #AgileCoach #AgileLeadership #ScrumMasterTraining #ProfessionalScrum #ScrumMasterJobs #ScrumFramework #AgileMindset #CTO #EngineeringLeadership
+[Watch on Youtube](https://www.youtube.com/watch?v=_Hd8NZeiwFA)
