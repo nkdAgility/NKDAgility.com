@@ -88,9 +88,44 @@ function Call-OpenAI {
 
 
 function Get-TokenEstimate {
-    param ($text)
-    return ($text.Length / 4)  # Rough estimate, adjust as needed
+    param (
+        [string]$prompt
+    )
+
+    # Create a temporary file for the prompt
+    $tempFile = [System.IO.Path]::GetTempFileName()
+
+    try {
+        # Write the prompt to the temporary file with UTF-8 encoding
+        Set-Content -Path $tempFile -Value $prompt -Encoding UTF8
+        
+        # Escape backslashes for Python compatibility
+        $escapedTempFile = $tempFile -replace '\\', '\\'
+
+        # Run Python to count tokens and handle potential errors
+        $tokenCount = python -c "import tiktoken; enc = tiktoken.encoding_for_model('gpt-4'); print(len(enc.encode(open(r'$escapedTempFile', 'r', encoding='utf-8').read())))" 2>&1
+
+        # Convert the token count to an integer
+        if ($tokenCount -match '^\d+$') {
+            return [int]$tokenCount
+        }
+        else {
+            Write-Error "Failed to parse token count. Python output: $tokenCount"
+            return $null
+        }
+    }
+    catch {
+        Write-Error "An error occurred while estimating tokens: $_"
+        return $null
+    }
+    finally {
+        # Ensure the temporary file is deleted
+        if (Test-Path $tempFile) {
+            Remove-Item -Path $tempFile -ErrorAction SilentlyContinue
+        }
+    }
 }
+
 
 function Get-TextChunks {
     param ($text, $maxLength)
