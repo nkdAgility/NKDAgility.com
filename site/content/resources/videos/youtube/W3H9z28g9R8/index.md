@@ -1,5 +1,5 @@
 ---
-title: 7 Harbingers of the Agile Apocalypse. Famine.
+title: "7 Harbingers of the Agile Apocalypse - Famine"
 description: "Explore how resource scarcity in organisations mirrors the Aztec's Fourth Sun, Nahui-Atl. Discover insights and solutions to combat organisational famine! \U0001F30D\U0001F4BC"
 date: 2023-10-19T15:00:30Z
 ResourceId: W3H9z28g9R8
@@ -15,35 +15,35 @@ preview: https://i.ytimg.com/vi/W3H9z28g9R8/maxresdefault.jpg
 duration: 448
 isShort: false
 aliases:
-- /resources/7-harbingers-of-the-agile-apocalypse-famine
-- /resources/videos/famine!-7-harbingers-agile-apocalypse
-- /resources/videos/W3H9z28g9R8
-- /resources/famine!-7-harbingers-agile-apocalypse
-- /resources/W3H9z28g9R8
+  - /resources/7-harbingers-of-the-agile-apocalypse-famine
+  - /resources/videos/famine!-7-harbingers-agile-apocalypse
+  - /resources/videos/W3H9z28g9R8
+  - /resources/famine!-7-harbingers-agile-apocalypse
+  - /resources/W3H9z28g9R8
 aliasesFor404:
-- /resources/7-harbingers-of-the-agile-apocalypse-famine
-- /resources/videos/famine!-7-harbingers-agile-apocalypse
-- /resources/famine!-7-harbingers-agile-apocalypse
+  - /resources/7-harbingers-of-the-agile-apocalypse-famine
+  - /resources/videos/famine!-7-harbingers-agile-apocalypse
+  - /resources/famine!-7-harbingers-agile-apocalypse
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Change Management
-- Agile Philosophy
-- Decision Making
-- Transparency and Accountability
-- Organisational Change
-- Sociotechnical Systems
-- Beta Codex
-- Organisational Agility
-- Pragmatic Thinking
+  - People and Process
+  - Change Management
+  - Agile Philosophy
+  - Decision Making
+  - Transparency and Accountability
+  - Organisational Change
+  - Sociotechnical Systems
+  - Beta Codex
+  - Organisational Agility
+  - Pragmatic Thinking
 resourceTypes:
-- video
+  - video
 categories:
-- Leadership
-
+  - Leadership
 ---
+
 # Conquering Famine in Agile Organizations: A Blueprint for Success 🚀
 
 Hello, Agile enthusiasts! Today, I'm diving into a topic that resonates deeply with many of us in the Agile world—famine. No, not the kind you're thinking of, but rather the scarcity of essential resources within organizations that hampers our journey to success. This famine manifests through a lack of tools, trust, training, and sometimes, the financial backing necessary to propel our teams and products forward. 🌪️
@@ -76,13 +76,13 @@ To navigate and ultimately overcome the famine within our organizations, conside
 
 1. **Empower at All Levels:** Shift decision-making authority closer to those with the keenest understanding of what's needed. This could mean allocating training budgets directly to team members or enabling frontline workers to approve necessary expenses.
 
-3. **Foster an Environment of Trust:** Cultivate a culture where trust is the foundation, and every team member feels valued and believed in.
+2. **Foster an Environment of Trust:** Cultivate a culture where trust is the foundation, and every team member feels valued and believed in.
 
-5. **Redefine Budgetary Approaches:** Advocate for budget flexibility that prioritizes value delivery over strict adherence to fiscal allocations.
+3. **Redefine Budgetary Approaches:** Advocate for budget flexibility that prioritizes value delivery over strict adherence to fiscal allocations.
 
-7. **Promote Transparency in Decision-Making:** Ensure that the rationale behind financial decisions is clearly communicated and understood, highlighting the impact on the organization's broader goals.
+4. **Promote Transparency in Decision-Making:** Ensure that the rationale behind financial decisions is clearly communicated and understood, highlighting the impact on the organization's broader goals.
 
-9. **Invest in People:** Recognize that your team's growth and development are the most valuable investments you can make. Encourage continuous learning and provide the tools necessary for success.
+5. **Invest in People:** Recognize that your team's growth and development are the most valuable investments you can make. Encourage continuous learning and provide the tools necessary for success.
 
 ### Implementing Change: A Consultant's Perspective 🔍
 

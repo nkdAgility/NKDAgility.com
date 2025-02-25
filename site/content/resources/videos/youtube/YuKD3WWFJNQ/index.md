@@ -1,5 +1,5 @@
 ---
-title: 7 Harbingers of the Agile apocalypse. Silence.
+title: "7 Harbingers of the Agile apocalypse - Silence"
 description: "Uncover the silence in agile teams! Join Martin as he explores stakeholder engagement and communication strategies for effective Sprint reviews. \U0001F5E3️\U0001F91D"
 date: 2023-10-23T11:00:23Z
 ResourceId: YuKD3WWFJNQ
@@ -15,37 +15,37 @@ preview: https://i.ytimg.com/vi/YuKD3WWFJNQ/maxresdefault.jpg
 duration: 436
 isShort: false
 aliases:
-- /resources/7-harbingers-of-the-agile-apocalypse-silence
-- /resources/videos/silence!-7-harbingers-agile-apocalypse-
-- /resources/videos/YuKD3WWFJNQ
-- /resources/silence!-7-harbingers-agile-apocalypse-
-- /resources/YuKD3WWFJNQ
+  - /resources/7-harbingers-of-the-agile-apocalypse-silence
+  - /resources/videos/silence!-7-harbingers-agile-apocalypse-
+  - /resources/videos/YuKD3WWFJNQ
+  - /resources/silence!-7-harbingers-agile-apocalypse-
+  - /resources/YuKD3WWFJNQ
 aliasesFor404:
-- /resources/7-harbingers-of-the-agile-apocalypse-silence
-- /resources/videos/silence!-7-harbingers-agile-apocalypse-
-- /resources/silence!-7-harbingers-agile-apocalypse-
+  - /resources/7-harbingers-of-the-agile-apocalypse-silence
+  - /resources/videos/silence!-7-harbingers-agile-apocalypse-
+  - /resources/silence!-7-harbingers-agile-apocalypse-
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Owner
-- Decision Making
-- Agile Product Management
-- People and Process
-- Sprint Review
-- Organisational Culture
-- Team Performance
-- Scrum Product Development
-- Team Motivation
-- Agile Planning
+  - Product Owner
+  - Decision Making
+  - Agile Product Management
+  - People and Process
+  - Sprint Review
+  - Organisational Culture
+  - Team Performance
+  - Scrum Product Development
+  - Team Motivation
+  - Agile Planning
 resourceTypes:
-- video
+  - video
 categories:
-- Scrum
-- Product Management
-- Social Technologies
-
+  - Scrum
+  - Product Management
+  - Social Technologies
 ---
+
 # Breaking the Silence: Sparking Engagement in Agile Teams 🚀
 
 Hello, Agile champions! Today, we delve into a critical yet often overlooked herald of the agile apocalypse: **Silence**. This eerie quietude, especially prevalent during sprint reviews, signals a deeper issue within our agile transformations. It's not just about stakeholders skipping meetings or the tumbleweed moments when feedback is solicited; it's about the profound impact of silence on the effectiveness and direction of our projects. Let's explore how we can shatter this cone of silence and foster vibrant, engaged agile environments. 🌟
@@ -70,11 +70,11 @@ The key to breaking the silence lies in building something stakeholders care abo
 
 1. **Invite Diverse Feedback:** Encourage all stakeholders to share their thoughts, not just the most vocal ones.
 
-3. **Foster an Inclusive Environment:** Create a space where everyone feels comfortable sharing, devoid of fear of judgment or reprisal.
+2. **Foster an Inclusive Environment:** Create a space where everyone feels comfortable sharing, devoid of fear of judgment or reprisal.
 
-5. **Utilize Breakout Rooms:** In larger gatherings, use breakout rooms or liberating structures to facilitate small group discussions, ensuring more voices are heard.
+3. **Utilize Breakout Rooms:** In larger gatherings, use breakout rooms or liberating structures to facilitate small group discussions, ensuring more voices are heard.
 
-7. **Highlight Strategic Objectives:** Continuously communicate the strategic objectives, tactical goals, and the connection to daily work to reinforce alignment and purpose.
+4. **Highlight Strategic Objectives:** Continuously communicate the strategic objectives, tactical goals, and the connection to daily work to reinforce alignment and purpose.
 
 ### Product Owners: The Catalysts for Change 🔥
 

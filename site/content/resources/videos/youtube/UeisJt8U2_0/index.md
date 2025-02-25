@@ -1,5 +1,5 @@
 ---
-title: 7 Harbingers of the Agile Apocalypse. Plague.
+title: "7 Harbingers of the Agile Apocalypse - Plague"
 description: "Explore the parallels between ancient myths and today's agile challenges as Martin tackles the plague of incompetent coaches. Join the journey! \U0001F32C️\U0001F412"
 date: 2023-10-20T07:00:23Z
 ResourceId: UeisJt8U2_0
@@ -15,34 +15,34 @@ preview: https://i.ytimg.com/vi/UeisJt8U2_0/maxresdefault.jpg
 duration: 422
 isShort: false
 aliases:
-- /resources/7-harbingers-of-the-agile-apocalypse-plague
-- /resources/videos/plague!-7-harbingers-agile-apocalypse
-- /resources/videos/UeisJt8U2_0
-- /resources/plague!-7-harbingers-agile-apocalypse
-- /resources/UeisJt8U2_0
+  - /resources/7-harbingers-of-the-agile-apocalypse-plague
+  - /resources/videos/plague!-7-harbingers-agile-apocalypse
+  - /resources/videos/UeisJt8U2_0
+  - /resources/plague!-7-harbingers-agile-apocalypse
+  - /resources/UeisJt8U2_0
 aliasesFor404:
-- /resources/7-harbingers-of-the-agile-apocalypse-plague
-- /resources/videos/plague!-7-harbingers-agile-apocalypse
-- /resources/plague!-7-harbingers-agile-apocalypse
+  - /resources/7-harbingers-of-the-agile-apocalypse-plague
+  - /resources/videos/plague!-7-harbingers-agile-apocalypse
+  - /resources/plague!-7-harbingers-agile-apocalypse
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Master
-- Scrum Team
-- People and Process
-- Agile Frameworks
-- Agile Project Management
-- Software Development
-- Personal
-- Professional Scrum
+  - Scrum Master
+  - Scrum Team
+  - People and Process
+  - Agile Frameworks
+  - Agile Project Management
+  - Software Development
+  - Personal
+  - Professional Scrum
 resourceTypes:
-- video
+  - video
 categories:
-- Scrum
-- Social Technologies
-
+  - Scrum
+  - Social Technologies
 ---
+
 # Navigating the Plague of Incompetence in Agile Coaching 🚧
 
 Hey Agile warriors! Today, I’m diving into a topic that stirs up quite the storm in the Agile realm—the plague of incompetence among Agile coaches and Scrum Masters. Yes, you heard that right! It's a touchy subject, but someone's got to address the elephant in the room. 🐘
@@ -89,11 +89,11 @@ So, what's the solution? How do we combat this plague and restore health to the 
 
 1. **Rigorous Certification and Continuous Education:** Ensure Agile coaches and Scrum Masters not only gain initial certification but engage in ongoing learning to stay current with best practices.
 
-3. **Experience Matters:** Value practical experience and a deep understanding of Agile principles over theoretical knowledge alone.
+2. **Experience Matters:** Value practical experience and a deep understanding of Agile principles over theoretical knowledge alone.
 
-5. **Foster an Agile Mindset:** Encourage coaches and masters to embody Agile values, prioritizing adaptability, team autonomy, and a relentless focus on delivering value.
+3. **Foster an Agile Mindset:** Encourage coaches and masters to embody Agile values, prioritizing adaptability, team autonomy, and a relentless focus on delivering value.
 
-7. **Quality Over Quantity:** Organizations must prioritize hiring quality over filling quotas. It's better to have a few excellent Agile practitioners than a horde of inept ones.
+4. **Quality Over Quantity:** Organizations must prioritize hiring quality over filling quotas. It's better to have a few excellent Agile practitioners than a horde of inept ones.
 
 ### Personal Reflections and the Path Forward 🚀
 

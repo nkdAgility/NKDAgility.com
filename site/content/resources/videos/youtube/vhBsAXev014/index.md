@@ -1,5 +1,5 @@
 ---
-title: 7 Harbingers of the Agile apocalypse. Chaos.
+title: 7 Harbingers of the Agile apocalypse - Chaos
 description: "Master agile transformation! \U0001F31F Join Martin as he uncovers chaos pitfalls and the vital role of communication, direction, and alignment. \U0001F680"
 date: 2023-10-23T07:00:21Z
 ResourceId: vhBsAXev014
@@ -15,37 +15,37 @@ preview: https://i.ytimg.com/vi/vhBsAXev014/maxresdefault.jpg
 duration: 525
 isShort: false
 aliases:
-- /resources/7-harbingers-of-the-agile-apocalypse-chaos
-- /resources/videos/chaos!-7-harbingers-agile-apocalypse
-- /resources/videos/vhBsAXev014
-- /resources/chaos!-7-harbingers-agile-apocalypse
-- /resources/vhBsAXev014
+  - /resources/7-harbingers-of-the-agile-apocalypse-chaos
+  - /resources/videos/chaos!-7-harbingers-agile-apocalypse
+  - /resources/videos/vhBsAXev014
+  - /resources/chaos!-7-harbingers-agile-apocalypse
+  - /resources/vhBsAXev014
 aliasesFor404:
-- /resources/7-harbingers-of-the-agile-apocalypse-chaos
-- /resources/videos/chaos!-7-harbingers-agile-apocalypse
-- /resources/chaos!-7-harbingers-agile-apocalypse
+  - /resources/7-harbingers-of-the-agile-apocalypse-chaos
+  - /resources/videos/chaos!-7-harbingers-agile-apocalypse
+  - /resources/chaos!-7-harbingers-agile-apocalypse
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Strategy
-- People and Process
-- Agile Product Management
-- Agile Project Management
-- Change Management
-- Agile Product Operating Model
-- Agile Transformation
-- Strategic Goals
-- Product Owner
-- Digital Transformation
+  - Agile Strategy
+  - People and Process
+  - Agile Product Management
+  - Agile Project Management
+  - Change Management
+  - Agile Product Operating Model
+  - Agile Transformation
+  - Strategic Goals
+  - Product Owner
+  - Digital Transformation
 resourceTypes:
-- video
+  - video
 categories:
-- Product Management
-- Social Technologies
-- Leadership
-
+  - Product Management
+  - Social Technologies
+  - Leadership
 ---
+
 # Steering Through the Agile Apocalypse: Navigating Chaos 🌪️
 
 Hello, Agile navigators! Today, I dive deep into the tempest that is chaos—one of the seven ominous signs of the agile apocalypse. It’s a storm that brews in the midst of digital and agile transformations, threatening to engulf organizations in confusion and disarray. Let’s unpack this chaos, its origins, and chart a course towards clarity and coherence. ⛵
