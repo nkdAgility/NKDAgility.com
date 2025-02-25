@@ -12,7 +12,7 @@ $refreshData = $false
 
 $videoUpdateLimit = 50
 $maxYoutubeSearchResults = 1000
-$maxYoutubeDataAgeHours = 300
+$maxYoutubeDataAgeHours = 30
 
 $captionsManafestUpdateLimit = 50
 $captionsDownloadLimit = 25

@@ -28,7 +28,8 @@ function Update-YoutubeMarkdownFiles {
     param ()
 
     # Iterate through each video folder
-    Get-ChildItem -Path $outputDir -Directory -Filter "56hWAHhbrvs" | ForEach-Object {
+    $videoFolders = Get-ChildItem -Path $outputDir -Directory # -Filter "56hWAHhbrvs"
+    $videoFolders | ForEach-Object {
         $videoDir = $_.FullName
         $markdownFile = Join-Path $videoDir "index.md"
         $jsonFilePath = Join-Path $videoDir "data.json"
@@ -79,18 +80,31 @@ function Update-YoutubeMarkdownFiles {
             }
 
             # Format the title to be URL-safe and remove invalid characters
-            $title = $videoSnippet.title -replace '. ', ' - ' -replace '[#".]', ' ' -replace ':', ' - ' -replace '\s+', ' '  # Ensure only one space in a row
-
-
-            $urlSafeTitle = ($title -replace '[:\/\\*?"<>|#%.]', '' -replace '\s+', '-').ToLower()
-            if ($isShort) {
-                $urlSafeTitle += "-$videoId"  # Append video ID to short video titles
+            if ($hugoMarkdown.FrontMatter.title) {
+                $title = $hugoMarkdown.FrontMatter.title.trim()
             }
+            else {
+                $title = $videoSnippet.title.trim()
+            }
+            $title = $title -replace '\. ', ' - ' -replace '[#".]', ' ' -replace ':', ' - ' -replace '\s+', ' '  # Ensure only one space in a row
+
+            if ($title -match '\.') {
+                Write-Host "The string contains a period."
+            }
+            else {
+                Write-Host "The string does not contain a period."
+            }
+
+            $urlSafeTitle = ($title -replace '[^0-9a-zA-Z -]', '' -replace '\s+', '-').ToLower()
 
             # Remove consecutive dashes
             $urlSafeTitle = $urlSafeTitle -replace '-+', '-'
 
             $aliases = @("/resources/$videoId")
+            if ($isShort) {
+                $aliases += @("/resources/videos/$urlSafeTitle")
+            }
+
             $aliasesArchive = @("/resources/videos/$urlSafeTitle")
            
 
@@ -127,16 +141,18 @@ function Update-YoutubeMarkdownFiles {
             }
 
 
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'videoId' -fieldValue $videoId
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceId' -fieldValue $videoId -addAfter "date"
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'videoId' -fieldValue $videoId -Overwrite
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceId' -fieldValue $videoId -addAfter "date" -Overwrite
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceType' -fieldValue "video" -addAfter "ResourceId"
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImport' -fieldValue $true -addAfter 'ResourceType'
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportSource' -fieldValue "Youtube" -addAfter 'ResourceImport'
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'source' -fieldValue $source -addAfter "videoId" 
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'url' -fieldValue "/resources/videos/:slug"
-            Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'slug'
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'url' -fieldValue "/resources/videos/:slug" -Overwrite
             if ($isShort) {
-                Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'url' -fieldValue ("/resources/videos/:slug-" + "$videoId") -Overwrite
+                Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'slug' -fieldValue  "$urlSafeTitle-$videoId" -Overwrite
+            }
+            else {
+                Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'slug' -fieldValue  "$urlSafeTitle" -Overwrite
             }
             
             if ($videoData.status.privacyStatus -eq "unlisted") {
