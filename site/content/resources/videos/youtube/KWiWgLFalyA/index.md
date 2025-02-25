@@ -11,46 +11,46 @@ source: internal
 url: /resources/videos/:slug
 slug: the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
 layout: video
-preview: https://i.ytimg.com/vi/KvZbBwzxSu4/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/KWiWgLFalyA/maxresdefault.jpg
 duration: 591
 isShort: false
 aliases:
-- /resources/KWiWgLFalyA
+  - /resources/KWiWgLFalyA
 aliasesArchive:
-- /resources/videos/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
-- /resources/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
-- /resources/videos/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
-- /resources/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
-- /resources/videos/the-cto’s-scalability-dilemma-why-scaling-product-development-is-hard
-- /resources/the-cto’s-scalability-dilemma-why-scaling-product-development-is-hard
+  - /resources/videos/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
+  - /resources/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
+  - /resources/videos/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
+  - /resources/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
+  - /resources/videos/the-cto’s-scalability-dilemma-why-scaling-product-development-is-hard
+  - /resources/the-cto’s-scalability-dilemma-why-scaling-product-development-is-hard
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Strategy
-- Pragmatic Thinking
-- Operational Practices
-- People and Process
-- Systems Thinking
-- Sociotechnical Systems
-- Business Agility
-- Agile Strategy
-- Organisational Agility
+  - Strategy
+  - Pragmatic Thinking
+  - Operational Practices
+  - People and Process
+  - Systems Thinking
+  - Sociotechnical Systems
+  - Business Agility
+  - Agile Strategy
+  - Organisational Agility
 resourceTypes:
-- video
+  - video
 categories:
-- Product Management
-- Engineering Excellence
-- Social Technologies
-
+  - Product Management
+  - Engineering Excellence
+  - Social Technologies
 ---
+
 Scaling product development sounds deceptively simple, doesn’t it? Just hire more developers, write more code, and ship more features. However, my experience has taught me that scaling is far more complex than merely increasing headcount. It’s about constructing a robust system that can grow effectively, and that’s where many organisations stumble.
 
 ### The Reality of Scaling
 
-As I’ve observed in various organisations, when you attempt to scale without addressing the underlying system, communication begins to fray. Teams can easily get out of sync, and constraints emerge. Instead of accelerating delivery, you may find that it slows down. The irony is that the more you scale, the worse the situation can become. 
+As I’ve observed in various organisations, when you attempt to scale without addressing the underlying system, communication begins to fray. Teams can easily get out of sync, and constraints emerge. Instead of accelerating delivery, you may find that it slows down. The irony is that the more you scale, the worse the situation can become.
 
-So, why is it so challenging? The crux of the issue lies in the fact that most organisations focus on adding people rather than fixing the system. When the system is flawed, simply throwing more people at the problem only magnifies the ineffectiveness. 
+So, why is it so challenging? The crux of the issue lies in the fact that most organisations focus on adding people rather than fixing the system. When the system is flawed, simply throwing more people at the problem only magnifies the ineffectiveness.
 
 ### Key Challenges in Scaling
 

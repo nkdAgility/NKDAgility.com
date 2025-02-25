@@ -165,13 +165,13 @@ function Update-YoutubeMarkdownFiles {
             }           
             Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliases' -values $aliases -Overwrite
             Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliasesArchive' -values $aliasesArchive -addAfter "aliases"
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'preview' -fieldValue $thumbnailUrl 
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'duration' -fieldValue $durationInSeconds
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'isShort' -fieldValue $isShort
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'preview' -fieldValue $thumbnailUrl -Overwrite
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'duration' -fieldValue $durationInSeconds -Overwrite
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'isShort' -fieldValue $isShort -Overwrite
             # if ($tags.Count -gt 0) {
             #     Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values $tags -addAfter "isShort"
             # }
-            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'resourceTypes' -values "video" -addAfter "duration"
+            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'resourceTypes' -values "video" -addAfter "duration" -Overwrite
             if ($source -eq "youtube") {
                 $priority = 0.4
             }

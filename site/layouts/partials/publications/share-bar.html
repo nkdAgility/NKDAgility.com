@@ -61,7 +61,7 @@
 <!-- JavaScript to copy link -->
 <script>
     function copyLink() {
-      const link = "{{- .Permalink }}";
+      const link = "https://nkdagility.com/resources/{{ .Params.ResourceId }}";
       navigator.clipboard.writeText(link).then(() => {
         // Show toast notification with a 3-second delay
         const toastElement = document.getElementById('copyToast');
