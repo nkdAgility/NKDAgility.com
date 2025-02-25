@@ -2,6 +2,7 @@
 title: 'Mastering Email Notifications in Release Management: A Step-by-Step Guide to Configuring Office 365 SMTP'
 description: Master the art of configuring email notifications in your release management system with Office 365. Follow our step-by-step guide for seamless setup!
 date: 2014-01-02T15:58:51Z
+weight: 1000
 ResourceId: oHH_ES7fNWY
 ResourceType: videos
 ResourceImport: true

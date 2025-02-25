@@ -2,6 +2,7 @@
 title: 'Mastering Your Kanban Board: A Practical Guide to Visualising and Optimising Your Workflow'
 description: Transform your workflow with a Kanban board! Discover how to visualise tasks, adapt processes, and boost team efficiency in our latest blog post.
 date: 2024-08-16T07:04:15Z
+weight: 1000
 ResourceId: r1wvCUxeWcE
 ResourceType: videos
 ResourceImport: true

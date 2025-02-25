@@ -7,6 +7,7 @@ ResourceType: guides
 resourceTypes: guide
 layout: guide
 date: 2024-09-17
+weight: 1000
 creator: Martin Hinshelwood
 aliases:
 - /learn/agile-delivery-kit/guides/evidence-based-portfolio-management

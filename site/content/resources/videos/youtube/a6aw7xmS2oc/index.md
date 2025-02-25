@@ -2,6 +2,7 @@
 title: 'Harnessing Your Entrepreneurial Spirit: Key Strategies for Product Owners to Drive Team Success'
 description: Unlock your potential as a product owner! Discover how to connect your team to value and make evidence-based decisions for product success.
 date: 2023-09-20T07:00:00Z
+weight: 1000
 ResourceId: a6aw7xmS2oc
 ResourceType: videos
 ResourceImport: true

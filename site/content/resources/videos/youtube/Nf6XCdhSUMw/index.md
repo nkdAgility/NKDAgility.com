@@ -2,6 +2,7 @@
 title: 'Harnessing Evidence-Based Management: Transform Your Decision-Making with Data-Driven Insights'
 description: Unlock the power of evidence-based management! Discover how data-driven decisions can transform your organisation and enhance team collaboration.
 date: 2024-08-14T07:12:45Z
+weight: 1000
 ResourceId: Nf6XCdhSUMw
 ResourceType: videos
 ResourceImport: true

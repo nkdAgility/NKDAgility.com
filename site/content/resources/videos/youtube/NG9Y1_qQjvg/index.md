@@ -2,6 +2,7 @@
 title: 'Streamline Your Release Management Setup: A Step-by-Step Guide to Simplifying Server, Client, and Agent Installation'
 description: Set up your release management tools effortlessly! Discover simple steps to install and configure your server, client, and deployment agent for seamless project management.
 date: 2014-01-21T16:36:55Z
+weight: 1000
 ResourceId: NG9Y1_qQjvg
 ResourceType: videos
 ResourceImport: true

@@ -2,6 +2,7 @@
 title: 'Transforming Scrum Training: How Real-World Insights Empower Agile Teams at Great Calm'
 description: Transform your team's understanding of Scrum with insights from expert Martin Hinshelwood. Discover how effective training fosters agility and collaboration!
 date: 2017-07-27T18:16:30Z
+weight: 775
 ResourceId: Fm24oKNN--w
 ResourceType: videos
 ResourceImport: true

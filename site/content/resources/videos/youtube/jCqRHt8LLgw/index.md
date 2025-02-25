@@ -2,6 +2,7 @@
 title: 'Rethinking Agile: Why Story Points, Team Sizes, and Emergent Architecture Need a Fresh Perspective'
 description: Discover how to enhance your agile practices by rethinking story points, team sizes, and embracing emergent architecture for better outcomes.
 date: 2020-05-13T05:03:57Z
+weight: 1000
 ResourceId: jCqRHt8LLgw
 ResourceType: videos
 ResourceImport: true

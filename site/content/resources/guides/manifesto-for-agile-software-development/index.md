@@ -18,6 +18,7 @@ references:
   url: https://agilemanifesto.org/
 recommendedContent: 
 date: 2024-09-17
+weight: 540
 creator: Martin Hinshelwood
 card:
   button:

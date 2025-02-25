@@ -2,6 +2,7 @@
 title: 'The Ghosts of Agile Past: Why Burndown Charts Might Be Holding You Back'
 description: "Uncover the truth behind burndown charts in Agile! Join Martin from NKDAgility as he debunks myths and explores better alternatives. \U0001F4CA\U0001F4A1"
 date: 2024-01-01T07:00:20Z
+weight: 995
 ResourceId: ymKlRonlUX0
 ResourceType: videos
 ResourceImport: true

@@ -2,6 +2,7 @@
 title: 'The Power of Immersive Learning: Bridging Theory and Experience'
 description: Discover how immersive learning enhances your skills as a Scrum practitioner in this insightful video. Elevate your Agile journey with NKD Agility!
 date: 2024-02-09T07:00:06Z
+weight: 1000
 ResourceId: GfB3nB_PMyY
 ResourceType: videos
 ResourceImport: true

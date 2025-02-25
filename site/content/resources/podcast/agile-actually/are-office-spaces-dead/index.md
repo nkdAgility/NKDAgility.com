@@ -5,6 +5,7 @@ ResourceId: HRq1a_8gAJF
 ResourceImport: false
 ResourceType: podcast
 date: 2023-06-01
+weight: 1000
 categories:
 - Scrum
 - Social Technologies

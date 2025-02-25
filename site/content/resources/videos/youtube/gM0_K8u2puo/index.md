@@ -2,6 +2,7 @@
 title: 'Mastering Market Leadership: The Power of Frequent Product Releases'
 description: Unlock your potential as a market leader! Discover how a tight release frequency and user feedback can drive success and keep you ahead of the competition.
 date: 2025-02-06T11:02:31Z
+weight: 1000
 ResourceId: gM0_K8u2puo
 ResourceType: videos
 ResourceImport: true

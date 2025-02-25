@@ -2,6 +2,7 @@
 title: 'Mastering Azure DevOps Migration: Expert Insights for a Seamless Transition'
 description: Unlock the secrets to a smooth Azure DevOps migration! Discover expert tips, common pitfalls, and how to tackle unique challenges for a successful transition.
 date: 2024-11-08T05:45:01Z
+weight: 865
 ResourceId: 4Tjc5uEtM7M
 ResourceType: videos
 ResourceImport: true

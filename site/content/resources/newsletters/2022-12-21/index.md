@@ -5,6 +5,7 @@ ResourceId: Tx-0zZJ1biI
 ResourceImport: true
 ResourceType: newsletters
 date: 2022-12-21
+weight: 1000
 preview: naked-agility-technically-agile-1280×720-Holiday2022.jpg
 author: MrHinsh
 resourceTypes: newsletter

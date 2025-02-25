@@ -2,6 +2,7 @@
 title: 'Unlocking Agile Success: Embrace Continuous Forecasting and Transform Your Training Experience'
 description: Unlock the secrets of Agile training! Join me as I explore innovative learning methods, continuous forecasting, and interactive virtual classes.
 date: 2020-05-21T05:26:17Z
+weight: 1000
 ResourceId: HjyUeuf1IEw
 ResourceType: videos
 ResourceImport: true

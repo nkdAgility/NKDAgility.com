@@ -2,6 +2,7 @@
 title: The Importance of Patience and Trust in Building Agile Organizations
 description: "Unlock Agile success with patience! Discover how this vital virtue builds trust, navigates setbacks, and fosters a non-blame culture. Watch now! \U0001F31F"
 date: 2023-12-08T07:00:06Z
+weight: 775
 ResourceId: 9VHasQBlQc8
 ResourceType: videos
 ResourceImport: true

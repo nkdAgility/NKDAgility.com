@@ -2,6 +2,7 @@
 title: 'Transforming Engineering Excellence: The Power of Naked Agility in Quality and Leadership'
 description: Transform your engineering practices with naked agility! Discover how to enhance quality, build trust, and foster technical leadership in your organisation.
 date: 2024-11-30T06:00:00Z
+weight: 305
 ResourceId: tdOSrPOlyAI
 ResourceType: videos
 ResourceImport: true

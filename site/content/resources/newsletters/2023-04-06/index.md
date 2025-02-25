@@ -5,6 +5,7 @@ ResourceId: WAc9JUyPY5M
 ResourceImport: true
 ResourceType: newsletters
 date: 2023-04-06
+weight: 775
 author: MrHinsh
 resourceTypes: newsletter
 layout: newsletter

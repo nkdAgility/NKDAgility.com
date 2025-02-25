@@ -2,6 +2,7 @@
 title: 'Unlocking Agile’s Core: Questioning to Create Value'
 description: "Unlock the true potential of Agile! Discover how questioning and adaptability can transform your organisation and outpace competitors. Watch now! \U0001F31F"
 date: 2024-01-23T07:00:07Z
+weight: 770
 ResourceId: M4ap4uNzptg
 ResourceType: videos
 ResourceImport: true

@@ -2,6 +2,7 @@
 title: 'Mastering Negotiation: Essential Skills Every Product Owner Needs from *Never Split the Difference*'
 description: Master the art of negotiation with insights from *Never Split the Difference*. Discover essential skills for product owners to enhance collaboration and outcomes!
 date: 2023-12-13T11:00:08Z
+weight: 1000
 ResourceId: BR9vIRsQfGI
 ResourceType: videos
 ResourceImport: true

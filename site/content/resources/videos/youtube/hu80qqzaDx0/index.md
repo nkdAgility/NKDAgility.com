@@ -2,6 +2,7 @@
 title: 'Unlocking Team Potential: How Measurement Influences Engagement and Collaboration'
 description: Discover how the metrics you use can shape team behaviour and engagement. Learn to align measurements with collaboration for a thriving workplace culture.
 date: 2024-09-11T13:45:58Z
+weight: 1000
 ResourceId: hu80qqzaDx0
 ResourceType: videos
 ResourceImport: true

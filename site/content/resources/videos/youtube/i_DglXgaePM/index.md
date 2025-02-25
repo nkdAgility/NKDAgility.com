@@ -2,6 +2,7 @@
 title: 'Mastering Agility: Balancing Engineering Excellence and Effective Processes in a Rapidly Changing Business Landscape'
 description: Discover how to master Agile and DevOps by balancing engineering excellence with effective processes. Embrace change and foster a culture of continuous improvement!
 date: 2020-03-25T21:07:01Z
+weight: 1000
 ResourceId: i_DglXgaePM
 ResourceType: videos
 ResourceImport: true

@@ -5,6 +5,7 @@ ResourceId: hz-iCoxHxxa
 ResourceImport: true
 ResourceType: newsletters
 date: 2024-02-13
+weight: 775
 preview: naked-agility-technically-agile-1280×720-24Q1-Feb24.jpg
 author: MrHinsh
 resourceTypes: newsletter

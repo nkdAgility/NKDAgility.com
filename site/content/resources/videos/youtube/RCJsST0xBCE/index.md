@@ -2,6 +2,7 @@
 title: 'Mastering Azure DevOps Migration Tools: Your Ultimate Guide to Seamless Migrations'
 description: Unlock seamless Azure DevOps migrations with expert insights! Discover key features, setup tips, and best practices to streamline your transition today.
 date: 2019-10-17T19:16:03Z
+weight: 1000
 ResourceId: RCJsST0xBCE
 ResourceType: videos
 ResourceImport: true

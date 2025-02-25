@@ -2,6 +2,7 @@
 title: 'Engaging Your Team: The Secret to Successful Organisational Change'
 description: Unlock the secrets to successful organisational change! Discover how to engage your team, align goals, and foster a culture of participation.
 date: 2023-12-04T11:00:23Z
+weight: 1000
 ResourceId: OMlLiLkCmMY
 ResourceType: videos
 ResourceImport: true

@@ -2,6 +2,7 @@
 title: 'From Software Engineer to Scrum Trainer: How My Journey Shapes Effective DevOps Training'
 description: Discover how my journey from software engineer to DevOps consultant shapes my training style, inspiring growth and resilience in the ever-evolving tech landscape.
 date: 2023-01-20T07:00:08Z
+weight: 775
 ResourceId: N0Ci9PQQRLc
 ResourceType: videos
 ResourceImport: true

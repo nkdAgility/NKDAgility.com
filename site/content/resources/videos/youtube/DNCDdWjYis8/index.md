@@ -2,6 +2,7 @@
 title: 'Redefining the Scrum Master: From Boss to Empowering Facilitator'
 description: Discover the true essence of a Scrum Master! Learn how to empower your team, foster collaboration, and ditch the micromanagement mindset for success.
 date: 2023-04-28T07:00:08Z
+weight: 770
 ResourceId: DNCDdWjYis8
 ResourceType: videos
 ResourceImport: true

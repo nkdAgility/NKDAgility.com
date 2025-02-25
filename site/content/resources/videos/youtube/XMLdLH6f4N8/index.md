@@ -2,6 +2,7 @@
 title: "Transforming Chaos into Collaboration: How a Common Framework Can Revolutionise Your Team's Dynamics"
 description: Discover how to transform chaos into collaboration with effective organisational change strategies. Learn from Catherine Medics' insights on fostering team alignment!
 date: 2017-07-28T11:55:30Z
+weight: 1000
 ResourceId: XMLdLH6f4N8
 ResourceType: videos
 ResourceImport: true

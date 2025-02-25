@@ -2,6 +2,7 @@
 title: 'Mastering Prioritisation: How Product Owners Can Drive Value and Accountability'
 description: Master the art of prioritisation as a Product Owner! Discover how strategic decisions can maximise value, control budgets, and engage stakeholders effectively.
 date: 2023-11-27T11:00:56Z
+weight: 1000
 ResourceId: xLUsgKWzkUM
 ResourceType: videos
 ResourceImport: true

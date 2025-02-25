@@ -2,6 +2,7 @@
 title: 'Navigating the Balance: How Lean Governance Can Boost Agility and Innovation in Your Organisation'
 description: Discover how to balance governance and agility in your organisation. Learn to streamline processes, enhance compliance, and foster innovation with lean governance.
 date: 2025-02-09T22:00:37Z
+weight: 775
 ResourceId: yvIanYh3bcQ
 ResourceType: videos
 ResourceImport: true

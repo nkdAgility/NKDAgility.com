@@ -2,6 +2,7 @@
 title: "Unlocking Agility: How EPS Immersive Learning Transforms Your Team's Performance"
 description: Unlock your team's potential with our EPS immersive learning experience! Discover how structured feedback and coaching can enhance agility and effectiveness.
 date: 2023-08-16T07:00:03Z
+weight: 685
 ResourceId: 6S9LGyxU2cQ
 ResourceType: videos
 ResourceImport: true

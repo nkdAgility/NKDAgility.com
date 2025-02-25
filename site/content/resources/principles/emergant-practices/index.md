@@ -5,6 +5,7 @@ ResourceId: _MbvqRG_XNM
 ResourceImport: false
 ResourceType: principles
 date: 2024-09-17
+weight: 1000
 resourceTypes: principles
 layout: principles
 creator: Martin Hinshelwood

@@ -33,6 +33,7 @@ references:
 - title: Avoid the Bug as Task anti-pattern in Azure DevOps
   url: https://nkdagility.com/blog/avoid-bug-task-anti-pattern-azure-devops
 date: 2024-09-17
+weight: 550
 card:
   button:
     content: Learn More

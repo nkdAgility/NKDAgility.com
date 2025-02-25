@@ -2,6 +2,7 @@
 title: 'The Power of Humility in Agile: A Core Virtue for Success'
 description: "Discover how humility drives success in Agile! Uncover its role in collaboration, trust, and decision-making. Watch now for transformative insights! \U0001F31F"
 date: 2023-12-12T07:00:02Z
+weight: 775
 ResourceId: 4scE4acfewk
 ResourceType: videos
 ResourceImport: true

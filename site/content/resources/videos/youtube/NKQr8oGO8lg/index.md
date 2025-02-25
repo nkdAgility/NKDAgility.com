@@ -2,6 +2,7 @@
 title: 'Unlocking Potential: How Immersive Learning Transforms Careers and Organisations'
 description: Unlock your potential with immersive learning! Discover how hands-on training transforms careers and boosts organisational success. Start your journey today!
 date: 2023-07-13T12:16:15Z
+weight: 1000
 ResourceId: NKQr8oGO8lg
 ResourceType: videos
 ResourceImport: true

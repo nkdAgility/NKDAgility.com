@@ -31,6 +31,7 @@ videos:
 - title: Agile Evolution - An Enterprise transformation that shows that you can too - Martin Hinshelwood
   embed: https://www.youtube.com/embed/QA2QdBG5uLE
 date: 2024-09-17
+weight: 405
 card:
   button:
     content: Learn More

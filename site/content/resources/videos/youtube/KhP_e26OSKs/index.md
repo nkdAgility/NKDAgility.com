@@ -2,6 +2,7 @@
 title: 'Transforming Sprint Reviews: How to Engage Stakeholders and Secure Meaningful Feedback'
 description: Transform your Sprint reviews from ghost towns to vibrant discussions! Discover strategies to engage stakeholders and secure valuable feedback effectively.
 date: 2023-12-15T11:00:17Z
+weight: 1000
 ResourceId: KhP_e26OSKs
 ResourceType: videos
 ResourceImport: true

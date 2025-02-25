@@ -2,6 +2,7 @@
 title: 'Unlocking Unrealised Value: The Key to Elevating Your Product Development Strategy'
 description: Unlock the potential of your product by understanding unrealised value. Discover how market insights and hypothesis-driven development can enhance your strategy!
 date: 2025-02-11T06:00:40Z
+weight: 775
 ResourceId: ynIqkNbDN8I
 ResourceType: videos
 ResourceImport: true

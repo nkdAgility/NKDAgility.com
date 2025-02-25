@@ -2,6 +2,7 @@
 title: 'Embracing Change: How Architectural Adaptation Fuels Software Development Success'
 description: Adapt to changing demands in software development! Discover how incremental changes and long-term vision can transform your architecture for future success.
 date: 2025-02-06T17:06:47Z
+weight: 1000
 ResourceId: PNLCxB2zmUA
 ResourceType: videos
 ResourceImport: true

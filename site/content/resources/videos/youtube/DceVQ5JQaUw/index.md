@@ -2,6 +2,7 @@
 title: 'Unlocking Transformation: Why Embracing Difficult Conversations with Agile Consultants is Key to Success'
 description: Unlock meaningful transformation in your organisation by embracing the tough conversations with agile consultants. Discover how dialogue drives change!
 date: 2023-05-01T07:00:05Z
+weight: 1000
 ResourceId: DceVQ5JQaUw
 ResourceType: videos
 ResourceImport: true

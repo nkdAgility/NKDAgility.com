@@ -2,6 +2,7 @@
 title: 'The Power of Immersive Learning in Scrum Training: Why Less Is More'
 description: 'Discover 5 reasons why Martin Hinshelwood loves immersive learning for students in Scrum. Join us for Part 1 of this insightful journey! #Agile #Scrum'
 date: 2024-01-31T14:44:15Z
+weight: 1000
 ResourceId: El__Y7CTcrY
 ResourceType: videos
 ResourceImport: true

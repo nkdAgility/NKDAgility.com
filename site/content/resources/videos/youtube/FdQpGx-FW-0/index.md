@@ -2,6 +2,7 @@
 title: 7 harbingers of the Agile apocalypse - Judgement
 description: "Unlock the essence of Agile! \U0001F680 Join Martin as he explores core principles, pitfalls of prescriptive methods, and what truly motivates today's workforce."
 date: 2023-10-20T11:00:13Z
+weight: 765
 ResourceId: FdQpGx-FW-0
 ResourceType: videos
 ResourceImport: true

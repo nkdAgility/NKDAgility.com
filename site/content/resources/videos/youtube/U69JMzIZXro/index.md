@@ -2,6 +2,7 @@
 title: 'Mastering TFS Installation on a Single Server: A Step-by-Step Guide for Beginners'
 description: Master the art of installing Team Foundation Server (TFS) on a single server with my step-by-step guide. Simplify your setup and kickstart your agile journey today!
 date: 2014-01-15T13:38:13Z
+weight: 1000
 ResourceId: U69JMzIZXro
 ResourceType: videos
 ResourceImport: true

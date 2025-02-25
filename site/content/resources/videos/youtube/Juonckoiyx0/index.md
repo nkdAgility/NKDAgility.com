@@ -2,6 +2,7 @@
 title: What should be top of mind when a Scrum team prepare for a Sprint review?
 description: "Unlock effective stakeholder engagement in Scrum Sprint reviews! Discover strategies to align your team’s efforts for better project outcomes. \U0001F4C8\U0001F91D"
 date: 2023-09-04T07:00:13Z
+weight: 775
 ResourceId: Juonckoiyx0
 ResourceType: videos
 ResourceImport: true

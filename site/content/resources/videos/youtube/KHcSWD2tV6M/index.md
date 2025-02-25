@@ -2,6 +2,7 @@
 title: 'Breaking the Silence: How to Combat Communication Gaps in Agile Teams'
 description: Discover the hidden dangers of silence in Agile teams and learn effective strategies to foster open communication for better collaboration and value delivery.
 date: 2023-11-02T11:30:10Z
+weight: 775
 ResourceId: KHcSWD2tV6M
 ResourceType: videos
 ResourceImport: true

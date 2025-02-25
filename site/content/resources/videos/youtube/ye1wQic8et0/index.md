@@ -2,6 +2,7 @@
 title: 'Cutting Through the Red Tape: How Eliminating Committees Can Boost Your Time to Market'
 description: Discover how committees can hinder agility and slow decision-making in your organisation. Learn to empower teams and seize opportunities faster!
 date: 2023-10-02T07:00:33Z
+weight: 1000
 ResourceId: ye1wQic8et0
 ResourceType: videos
 ResourceImport: true

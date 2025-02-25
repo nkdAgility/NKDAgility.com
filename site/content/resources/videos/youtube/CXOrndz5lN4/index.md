@@ -2,6 +2,7 @@
 title: 'Cultivating a Culture of Engineering Excellence: The Essential Role of Technical Leadership'
 description: Cultivate a culture of engineering excellence! Discover how technical leadership, continuous learning, and collaboration drive innovation in your organisation.
 date: 2024-11-26T17:53:11Z
+weight: 530
 ResourceId: CXOrndz5lN4
 ResourceType: videos
 ResourceImport: true

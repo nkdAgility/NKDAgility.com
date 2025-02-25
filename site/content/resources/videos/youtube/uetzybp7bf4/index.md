@@ -2,6 +2,7 @@
 title: 'Empowering Teams with Financial Insights: The Key to Maximising ROI and Fostering Ownership'
 description: Empower your team to thrive by fostering a culture of ownership and financial insight. Discover how team-level P&L can boost ROI and drive success!
 date: 2024-12-12T06:30:00Z
+weight: 415
 ResourceId: uetzybp7bf4
 ResourceType: videos
 ResourceImport: true

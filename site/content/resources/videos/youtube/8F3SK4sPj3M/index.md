@@ -2,6 +2,7 @@
 title: Why Validate Your Advanced Product Ownership Skills with a PSPO-A
 description: 'Discover how the PSPO-A course empowers you to lead product ownership like a CEO. Elevate your skills and drive success in your organisation! #Agile #Scrum'
 date: 2023-06-08T11:00:05Z
+weight: 1000
 ResourceId: 8F3SK4sPj3M
 ResourceType: videos
 ResourceImport: true

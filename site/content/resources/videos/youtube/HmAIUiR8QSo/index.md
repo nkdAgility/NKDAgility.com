@@ -2,6 +2,7 @@
 title: 'Cultivating a Culture of Quality: Lessons from Boeing and Volkswagen for Engineering Excellence'
 description: Cultivate a culture of quality in your organisation! Discover how to prioritise integrity and excellence for exceptional, safe products.
 date: 2024-11-29T07:00:17Z
+weight: 260
 ResourceId: HmAIUiR8QSo
 ResourceType: videos
 ResourceImport: true

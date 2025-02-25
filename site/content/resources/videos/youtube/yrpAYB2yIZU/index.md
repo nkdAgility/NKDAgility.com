@@ -2,6 +2,7 @@
 title: 'Mastering Domain Controller Migration: A Step-by-Step Guide to Seamless Active Directory Transfers'
 description: Discover how to seamlessly migrate your Active Directory to a new domain controller with this step-by-step guide. Ensure your IT setup is robust and reliable!
 date: 2014-01-16T20:22:36Z
+weight: 1000
 ResourceId: yrpAYB2yIZU
 ResourceType: videos
 ResourceImport: true

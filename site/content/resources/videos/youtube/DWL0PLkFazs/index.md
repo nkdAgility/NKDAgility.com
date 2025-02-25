@@ -2,6 +2,7 @@
 title: 'Unlocking Human Potential: How Health and Perspective Fuel Innovation in Tech'
 description: Discover how health, perspective, and connection can transform your tech journey. Explore insights from Kathryn Maddox to inspire innovation and well-being!
 date: 2017-07-28T12:40:03Z
+weight: 1000
 ResourceId: DWL0PLkFazs
 ResourceType: videos
 ResourceImport: true

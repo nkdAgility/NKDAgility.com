@@ -2,6 +2,7 @@
 title: 'Navigating Agile Learning: Embrace Change and Community in Uncertain Times'
 description: Join us for insights on adapting Scrum with Kanban in a virtual world. Discover flexibility, flow, and community support in uncertain times!
 date: 2020-04-01T16:26:05Z
+weight: 1000
 ResourceId: xaLNCbr9o3Y
 ResourceType: videos
 ResourceImport: true
