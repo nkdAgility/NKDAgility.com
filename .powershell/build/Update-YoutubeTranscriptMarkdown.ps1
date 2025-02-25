@@ -35,7 +35,7 @@ function Update-YoutubeTranscriptMarkdown {
                 # Perform operations using the extracted part
                 Write-InfoLog $matchPart
 
-                $markdownFile = Join-Path $videoDir "index.captions.$matchPart.md"
+                $markdownFile = Join-Path $videoDir "captions.$matchPart.md"
                 $captionPath = Join-Path $videoDir "data.captions.$matchPart.srt"
         
                 # Load the video data from data.json if available
