@@ -314,6 +314,25 @@ function Get-CategoryConfidenceWithChecksum {
        
 }
 
+function Get-ClassificationFromCache {
+    param (
+        [string]$CacheFolder,
+        [string]$ClassificationName
+    )
+    $cacheFile = Join-Path $CacheFolder "data.index.classifications.json"
+    if (Test-Path $cacheFile) {
+        # Load from cache
+        try {
+            $cachedData = Get-Content $cacheFile | ConvertFrom-Json -ErrorAction Stop
+        }
+        catch {
+            Write-WarningLog "Warning: Cache file corrupted. Resetting cache."
+            $cachedData = @{}
+        }
+    }
+    Return $cachedData.$ClassificationName
+}
+
 function Get-FinalSelection { 
     param (
         [hashtable]$categoryScores,
