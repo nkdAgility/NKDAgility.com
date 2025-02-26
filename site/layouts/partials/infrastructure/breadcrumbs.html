@@ -37,14 +37,14 @@
   {{ if and (.Site.Params.TakingOnNewClients) (ne .RelPermalink "/company/book-online/") }}
     <div class="col-md-4 text-end">
       <!-- Link to Open Modal -->
-      <i class="fa-solid fa-rocket-launch"></i> <a href="#" data-bs-toggle="modal" data-bs-target="#newClientsModal"> We're Open to New Clients</a>
+      <i class="fa-solid fa-rocket-launch"></i> <i class="fa-solid fa-bracket-curly"></i> <a href="#" data-bs-toggle="modal" data-bs-target="#newClientsModal">We're looking for 1 new client!</a> <i class="fa-solid fa-bracket-curly-right"></i>
 
       <!-- Modal -->
       <div class="modal fade" id="newClientsModal" tabindex="-1" aria-labelledby="newClientsModalLabel" aria-hidden="true">
         <div class="modal-dialog">
           <div class="modal-content">
             <div class="modal-header">
-              <h5 class="modal-title" id="newClientsModalLabel">We're Open to New Clients</h5>
+              <h5 class="modal-title" id="newClientsModalLabel">We're looking for 1 new client!</h5>
               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body text-start">
