@@ -5,7 +5,7 @@ layout: aboutus
 url: /company/
 sitemap:
   filename: sitemap.xml
-  priority: 0.7
+  priority: 0.9
 aliases:
   - /company/about-us
 headline:

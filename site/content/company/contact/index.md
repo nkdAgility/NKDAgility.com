@@ -7,6 +7,7 @@ aliases:
   - /book-online/
   - /contact/
   - /book/
+  - /company/general-inquiries/
 headline:
   subtitle: Book a free consultation, training review, or just a chat
   cards: []
@@ -26,7 +27,7 @@ headline:
 
 Email: contact@nkdagility.com
 
-Phone:  +44 141 343 9621
+Phone: +44 141 343 9621
 WhatsApp: https://wa.me/message/HUH4LD467QPTB1
 
 Address:

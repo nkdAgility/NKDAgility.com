@@ -6,16 +6,23 @@ layout: booking
 aliases:
   - /book-online/
   - /company/general-inquiries/
+sitemap:
+  filename: sitemap.xml
+  priority: 0.8
 headline:
   subtitle: Book a free consultation, training review, or just a chat
   cards: []
   title: Book online
   content: |
-    Do you need a Free Consultation for us to discover your needs, or are you looking for your free 30-minute training review?
+    We operate on a fixed-price, timeboxed model, ensuring clarity, focus, and real value without hourly tracking or approval delays. If you're ready to explore how we can help, book an initial consultation to get started.
 
-    Maybe you just want a chat!
+    ### How It Works
 
-    Whatever the occasion you can use the menu to the right to set up a call right in your calander."
+    1. Book a Call – Select a time that works for you.
+    2. Discuss Your Needs – We’ll review your situation and explore how we can add value.
+    3. Define the Engagement – If we’re a good fit, we’ll outline the next steps.
+
+    You can use the button on the left, or the form below to book a call with us.
   buttons:
     - style: primary
       link: https://outlook.office365.com/owa/calendar/nakedAgilityLimited@nkdagility.com/bookings/
