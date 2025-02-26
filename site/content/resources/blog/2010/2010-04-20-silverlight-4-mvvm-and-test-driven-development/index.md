@@ -8,6 +8,7 @@ ResourceImportId: 49
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-04-20
+weight: 775
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog

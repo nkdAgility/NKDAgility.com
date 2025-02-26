@@ -2,6 +2,7 @@
 title: 'Ditch the Agile Bandit Mentality: How to Prioritise Value Over Estimates for Team Success'
 description: Break free from the "Agile Bandit" mentality! Discover how to prioritise value over estimates and foster a culture of psychological safety in your team.
 date: 2024-01-05T11:00:32Z
+weight: 775
 ResourceId: UFCwbq00CEQ
 ResourceType: videos
 ResourceImport: true

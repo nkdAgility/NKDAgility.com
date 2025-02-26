@@ -2,6 +2,7 @@
 title: 'Ditching the Myth of Special Sprints: Embrace True Agile Practices for Usable Products'
 description: Ditch the myth of special Sprints! Discover how to enhance your Agile practices by focusing on delivering quality products without safety nets.
 date: 2024-01-04T12:14:45Z
+weight: 1000
 ResourceId: uvZ9TGbMtnU
 ResourceType: videos
 ResourceImport: true

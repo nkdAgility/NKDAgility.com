@@ -2,6 +2,7 @@
 title: A Step-by-Step Guide to Installing TFS 2013 on Windows Server 2012 R2
 description: Eager to install TFS 2013? Discover a step-by-step guide for a smooth setup on Windows Server 2012 R2, ensuring your environment is ready to go!
 date: 2014-01-14T17:18:19Z
+weight: 1000
 ResourceId: U7wIQk1pus0
 ResourceType: videos
 ResourceImport: true

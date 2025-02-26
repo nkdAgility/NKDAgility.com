@@ -2,6 +2,7 @@
 title: 'Empowering Your Team: Why Quick Fixes in Agile and DevOps Are a Myth'
 description: Discover why quick fixes in Agile and DevOps fail. Learn how to empower your team for sustainable change and embrace the journey of continuous improvement.
 date: 2024-05-09T06:45:00Z
+weight: 775
 ResourceId: BJZdyEqHhXc
 ResourceType: videos
 ResourceImport: true

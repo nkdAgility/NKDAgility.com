@@ -45,7 +45,7 @@ $hugoMarkdownBatchQueue = New-Object System.Collections.Generic.Queue[HugoMarkdo
 $Counter = 0
 $TotalItems = $hugoMarkdownQueue.Count
 Write-InfoLog "Initialise Batch Count..."
-$batchesInProgress = Get-OpenAIBatchesInProgress
+$batchesInProgress = 0# Get-OpenAIBatchesInProgress <----------------------------------------------
 $batchOverage = 10
 Write-InfoLog "Batches in Progress: {batchesInProgress}" -PropertyValues $batchesInProgress
 $runBatchCheck = $false
@@ -225,8 +225,11 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
 
     $tags = $tagClassification | ConvertFrom-Json | Sort-Object final_score -Descending | Select-Object -First 10 | ForEach-Object { $_.category } #| Sort-Object
     Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values @($tags) -Overwrite
-
     # =================COMPLETE===================
+    $eeResult = Get-ClassificationFromCache -CacheFolder $hugoMarkdown.FolderPath  -ClassificationName "Engineering Excellence"
+    $tlResult = Get-ClassificationFromCache -CacheFolder $hugoMarkdown.FolderPath  -ClassificationName "Technical Leadership"
+    $weight = [math]::Round(((1000 - ($eeResult.final_score * 10)) + (1000 - ($tlResult.final_score * 10))) / 2)
+    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'weight' -fieldValue $weight -addAfter 'date' -Overwrite
     # =================CONTENT===================
     switch ($ResourceType) {
         "blog" { 
@@ -252,6 +255,7 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
                 }
             }
         }
+        
         default { 
                 
         }

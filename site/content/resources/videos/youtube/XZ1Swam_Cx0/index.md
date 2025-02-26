@@ -2,6 +2,7 @@
 title: 'The Antichrist of Agile: How Fake Agilists Are Undermining True Innovation'
 description: Uncover the truth about fake agilists and their impact on Agile methodologies. Learn how to prioritise experience over certification for genuine success!
 date: 2023-10-30T07:00:13Z
+weight: 1000
 ResourceId: XZ1Swam_Cx0
 ResourceType: videos
 ResourceImport: true

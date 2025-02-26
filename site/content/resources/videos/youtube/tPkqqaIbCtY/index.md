@@ -2,6 +2,7 @@
 title: 'Empowering Users: Transforming Products from Burdens to Essential Tools'
 description: Transform your product's perception! Discover how empathy and open communication can turn users into empowered partners in success.
 date: 2023-12-11T11:00:47Z
+weight: 1000
 ResourceId: tPkqqaIbCtY
 ResourceType: videos
 ResourceImport: true

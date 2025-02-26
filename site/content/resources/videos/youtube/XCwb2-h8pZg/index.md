@@ -2,6 +2,7 @@
 title: 'Unlocking Project Management Potential: A Deep Dive into TFS Preview for Agile Teams'
 description: Unlock your team's potential with TFS Preview! Discover how this free cloud-based tool enhances project management and boosts collaboration.
 date: 2013-08-17T07:27:19Z
+weight: 1000
 ResourceId: XCwb2-h8pZg
 ResourceType: videos
 ResourceImport: true

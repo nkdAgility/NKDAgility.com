@@ -5,6 +5,7 @@ ResourceId: lcekkOc8X02
 ResourceImport: false
 ResourceType: podcast
 date: 2023-04-01
+weight: 775
 categories:
 - Scrum
 - DevOps

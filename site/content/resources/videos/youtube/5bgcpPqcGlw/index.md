@@ -2,6 +2,7 @@
 title: 'Mastering Site Reliability: Insights from Azure DevOps on Building a Resilient Live Site Culture'
 description: Discover how the Azure DevOps team at Microsoft balances reliability and agility in software development. Learn key SRE practices to enhance your team's performance!
 date: 2020-06-04T02:05:28Z
+weight: 265
 ResourceId: 5bgcpPqcGlw
 ResourceType: videos
 ResourceImport: true

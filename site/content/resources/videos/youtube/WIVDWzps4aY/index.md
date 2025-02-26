@@ -2,6 +2,7 @@
 title: 'Mastering Product Ownership: Unlocking the Secrets to Effective Product Management in Agile Teams'
 description: Unlock the secrets of effective product management! Discover how a strong product owner can transform your team's success and drive exceptional results.
 date: 2023-09-05T07:00:12Z
+weight: 1000
 ResourceId: WIVDWzps4aY
 ResourceType: videos
 ResourceImport: true

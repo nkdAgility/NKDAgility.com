@@ -2,6 +2,7 @@
 title: 'Unlocking Agile Success: How Empirical Models Transform Project Outcomes'
 description: Unlock the transformative power of Agile! Discover how visibility, flexibility, and incremental value can boost your project's success. Dive in now!
 date: 2022-10-12T17:08:59Z
+weight: 1000
 ResourceId: rnyJzSwU74Q
 ResourceType: videos
 ResourceImport: true

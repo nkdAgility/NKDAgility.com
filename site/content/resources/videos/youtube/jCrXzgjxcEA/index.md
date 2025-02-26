@@ -2,6 +2,7 @@
 title: 'Mastering Caman Strategy: How to Leverage Azure DevOps for Effective Visualisation in Hybrid Work Environments'
 description: Unlock the power of Azure DevOps to enhance your Caman strategy! Discover how to visualise workflows and establish shared rules for effective team collaboration.
 date: 2024-03-29T16:42:17Z
+weight: 865
 ResourceId: jCrXzgjxcEA
 ResourceType: videos
 ResourceImport: true

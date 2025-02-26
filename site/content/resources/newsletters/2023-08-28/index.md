@@ -5,6 +5,7 @@ ResourceId: TJDLWyX3cZt
 ResourceImport: true
 ResourceType: newsletters
 date: 2023-08-28
+weight: 1000
 preview: naked-agility-technically-agile-1280×720-September-2023.jpg
 author: MrHinsh
 resourceTypes: newsletter

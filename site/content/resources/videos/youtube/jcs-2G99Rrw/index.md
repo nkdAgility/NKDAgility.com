@@ -2,6 +2,7 @@
 title: 'Mastering Azure DevOps: Avoiding Common Pitfalls for Agile Success'
 description: Unlock the secrets to optimising Azure DevOps! Discover common pitfalls and expert insights to enhance your agile practices and boost team productivity.
 date: 2024-04-09T08:00:20Z
+weight: 770
 ResourceId: jcs-2G99Rrw
 ResourceType: videos
 ResourceImport: true

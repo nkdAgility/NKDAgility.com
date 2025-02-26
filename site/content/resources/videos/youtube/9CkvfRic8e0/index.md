@@ -2,6 +2,7 @@
 title: 'Mastering TFS Release Management: A Step-by-Step Guide to Smooth Configuration'
 description: Master TFS release management with my step-by-step guide! Discover tips to streamline your setup and troubleshoot common issues for a smoother process.
 date: 2014-01-02T15:27:09Z
+weight: 1000
 ResourceId: 9CkvfRic8e0
 ResourceType: videos
 ResourceImport: true

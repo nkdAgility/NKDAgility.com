@@ -2,6 +2,7 @@
 title: "Filling the Understanding Gap: A Product Owner's Guide to Vision, Engagement, and Value"
 description: Unlock the secrets to successful product ownership! Discover how to clarify your vision, engage your team, and deliver real value in product development.
 date: 2023-12-14T11:00:22Z
+weight: 1000
 ResourceId: XF95kabzSeY
 ResourceType: videos
 ResourceImport: true

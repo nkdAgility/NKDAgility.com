@@ -2,6 +2,7 @@
 title: 'Transforming Agile: How to Shift from Blame to Systemic Solutions for Better Team Dynamics'
 description: Discover how to transform your agile environment by addressing systemic issues rather than individual behaviours. Learn to foster adaptability and innovation today!
 date: 2023-09-29T07:00:14Z
+weight: 775
 ResourceId: LxM_F_JJLeg
 ResourceType: videos
 ResourceImport: true

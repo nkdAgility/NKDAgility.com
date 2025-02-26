@@ -2,6 +2,7 @@
 title: 'Rethinking Budgeting: How to Break Free from Traditional Constraints and Maximise Value'
 description: Break free from traditional budgeting! Discover how Beyond Budgeting fosters agility, maximises value, and seizes opportunities in a dynamic market.
 date: 2024-12-09T06:30:00Z
+weight: 1000
 ResourceId: kXhJrisYofU
 ResourceType: videos
 ResourceImport: true

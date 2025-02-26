@@ -2,6 +2,7 @@
 title: 'Mastering the Art of Product Ownership: Balancing Innovation, Customer Needs, and Team Dynamics'
 description: Unlock the secrets of effective product ownership! Discover how balance, customer focus, and collaboration can elevate your entrepreneurial journey.
 date: 2023-05-08T07:00:15Z
+weight: 1000
 ResourceId: spfK8bCulwU
 ResourceType: videos
 ResourceImport: true

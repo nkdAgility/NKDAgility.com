@@ -2,6 +2,7 @@
 title: 'Hiring the Right Agile Coach: What You Need to Know'
 description: 'Discover key insights from Martin Hinshelwood on hiring an #agilecoach in part 4 of our series. Make informed decisions for your #agile journey!'
 date: 2023-11-23T11:00:01Z
+weight: 775
 ResourceId: 1cZABFi7gdc
 ResourceType: videos
 ResourceImport: true

@@ -2,6 +2,7 @@
 title: 'Unlocking Scrum Success: A Comprehensive Guide to Values, Roles, Artifacts, and Events'
 description: Unlock the power of Scrum! Discover its core values, roles, and events to enhance team collaboration and drive project success. Dive in now!
 date: 2022-10-18T16:13:02Z
+weight: 775
 ResourceId: Q2Fo3sM6BVo
 ResourceType: videos
 ResourceImport: true

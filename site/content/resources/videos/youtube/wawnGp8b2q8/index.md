@@ -2,6 +2,7 @@
 title: 'Unlocking Growth: The Transformative Power of Poly Immersive Learning Experiences'
 description: Unlock the power of poly immersive learning! Discover how feedback, reflection, and practical application can transform your professional development journey.
 date: 2023-07-13T12:20:07Z
+weight: 1000
 ResourceId: wawnGp8b2q8
 ResourceType: videos
 ResourceImport: true

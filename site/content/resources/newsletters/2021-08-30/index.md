@@ -5,6 +5,7 @@ ResourceId: 7oAVt27r_UY
 ResourceImport: true
 ResourceType: newsletters
 date: 2021-08-30
+weight: 865
 preview: class-marketing-Q32021.jpg
 author: MrHinsh
 resourceTypes: newsletter

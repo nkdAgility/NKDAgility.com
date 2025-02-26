@@ -2,6 +2,7 @@
 title: Why do you think the PSU course has become so popular for product development?
 description: Discover why the PSU course is transforming product development by integrating UX into Scrum teams, empowering them to create valuable customer solutions.
 date: 2023-02-21T07:00:07Z
+weight: 540
 ResourceId: S7Xr1-qONmM
 ResourceType: videos
 ResourceImport: true

@@ -2,6 +2,7 @@
 title: 'Overcoming the Plague of Rigidity: Embracing True Agility in Your Team'
 description: Break free from the plague of rigidity in Agile! Discover how to foster innovation and adaptability within your team for true agility.
 date: 2023-11-08T11:00:53Z
+weight: 1000
 ResourceId: pDAL84mht3Y
 ResourceType: videos
 ResourceImport: true

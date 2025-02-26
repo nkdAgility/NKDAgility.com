@@ -2,6 +2,7 @@
 title: 'The Fallacy of Equating Agility with Speed: What Agile Really Means'
 description: Discover why Agile isn't just about speed! This video reveals its true focus on value, adaptability, and delivering the right products. Embrace a strategic mindset!
 date: 2024-07-11T06:45:01Z
+weight: 775
 ResourceId: b3HFBlCcomk
 ResourceType: videos
 ResourceImport: true

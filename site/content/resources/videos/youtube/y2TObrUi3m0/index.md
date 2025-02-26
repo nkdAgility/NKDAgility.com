@@ -2,6 +2,7 @@
 title: 'Why Agile Success Lies in Principles, Not Tools: A Shift in Focus'
 description: Shift your focus from tools to the core principles of Agile. Discover how embracing these fundamentals can enhance decision-making and foster innovation.
 date: 2023-05-03T07:00:33Z
+weight: 1000
 ResourceId: y2TObrUi3m0
 ResourceType: videos
 ResourceImport: true

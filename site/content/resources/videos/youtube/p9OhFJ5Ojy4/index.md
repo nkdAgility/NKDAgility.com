@@ -2,6 +2,7 @@
 title: 'Embracing Change: Why Agile Evolution is the Key to Thriving in a Rapidly Shifting World'
 description: Embrace the inevitability of change! Discover how to evolve your organisation with insights on agility, experimentation, and modern management practices.
 date: 2020-07-22T10:08:06Z
+weight: 995
 ResourceId: p9OhFJ5Ojy4
 ResourceType: videos
 ResourceImport: true

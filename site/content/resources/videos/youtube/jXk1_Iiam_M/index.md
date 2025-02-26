@@ -2,6 +2,7 @@
 title: 'The Power of Immersive Learning: Elevating Scrum Mastery in Your Organization'
 description: "Unlock your team's potential with immersive Scrum training! Discover practical insights and transform learning for effective team development. \U0001F31F\U0001F680"
 date: 2023-11-22T07:00:18Z
+weight: 775
 ResourceId: jXk1_Iiam_M
 ResourceType: videos
 ResourceImport: true

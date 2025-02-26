@@ -2,6 +2,7 @@
 title: 'Vision, Value, and Validation: The Keys to Successful Product Management'
 description: "Unlock the secrets of successful product ownership! Discover Vision, Value, and Validation in our essential guide for aspiring product owners. \U0001F680✨"
 date: 2023-12-14T06:45:02Z
+weight: 1000
 ResourceId: Tye_-FY7boo
 ResourceType: videos
 ResourceImport: true

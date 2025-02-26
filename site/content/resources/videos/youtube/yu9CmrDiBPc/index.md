@@ -2,6 +2,7 @@
 title: Is Your Engineering Culture Ready to Scale with Your Technology?
 description: Is your tech culture ready to scale? Discover how to foster collaboration, embrace continuous learning, and ensure your culture evolves with your growth.
 date: 2025-02-20T07:33:26Z
+weight: 770
 ResourceId: yu9CmrDiBPc
 ResourceType: videos
 ResourceImport: true

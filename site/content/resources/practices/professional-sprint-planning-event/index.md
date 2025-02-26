@@ -29,6 +29,7 @@ videos:
 - title: How does a scrum team plan and prioritize work effectively?
   embed: https://www.youtube.com/embed/sPmUuSy7G3I
 date: 2024-09-17
+weight: 775
 creator: Martin Hinshelwood
 card:
   button:

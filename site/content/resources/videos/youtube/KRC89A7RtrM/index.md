@@ -2,6 +2,7 @@
 title: 'Unlocking TFS: Mastering Permissions for Seamless Team Collaboration'
 description: Unlock TFS's full potential! Learn how to navigate permissions and access levels to enhance your project management experience effortlessly.
 date: 2014-01-15T14:55:37Z
+weight: 1000
 ResourceId: KRC89A7RtrM
 ResourceType: videos
 ResourceImport: true

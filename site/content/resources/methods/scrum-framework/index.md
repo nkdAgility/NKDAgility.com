@@ -4,7 +4,7 @@ description: 'Explore the Scrum Framework: a powerful agile methodology that enh
 ResourceId: peNS32Lw-sn
 ResourceImport: false
 ResourceType: methods
-weight: 1
+weight: 1000
 draft: true
 resourceTypes: method
 layout: method

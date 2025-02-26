@@ -2,6 +2,7 @@
 title: 'Navigating Complexity: How to Foster Agility and Innovation in Business Decision-Making'
 description: Unlock the secrets to agile decision-making in a complex business world. Discover how to adapt, innovate, and thrive amidst uncertainty.
 date: 2024-10-03T07:00:16Z
+weight: 995
 ResourceId: RnMOINwjO84
 ResourceType: videos
 ResourceImport: true

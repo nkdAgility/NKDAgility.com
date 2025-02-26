@@ -2,6 +2,7 @@
 title: 'Celebrating Jernimo Palacios: A Beacon of Mentorship and Community in Agile Practices'
 description: Discover how Geronimo Pascualo, a pioneer in the agile community, inspires growth through mentorship, collaboration, and knowledge sharing. Join the journey!
 date: 2023-05-04T07:00:07Z
+weight: 1000
 ResourceId: JNJerYuU30E
 ResourceType: videos
 ResourceImport: true

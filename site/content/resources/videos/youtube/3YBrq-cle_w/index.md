@@ -2,6 +2,7 @@
 title: 'Redefining the Scrum Master: From Misconceptions to Empowering Leadership'
 description: Discover the true essence of a Scrum Master beyond tool management. Learn how to empower teams and embrace continuous growth in your Agile journey!
 date: 2023-05-12T14:00:02Z
+weight: 635
 ResourceId: 3YBrq-cle_w
 ResourceType: videos
 ResourceImport: true

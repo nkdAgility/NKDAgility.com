@@ -2,6 +2,7 @@
 title: 'Beyond the Agile Illusion: Embracing True Agility in a World of Taylorism'
 description: Discover the truth behind agile practices! Are organisations genuinely agile or just paying lip service? Explore transparency, feedback, and true collaboration.
 date: 2020-07-21T18:00:53Z
+weight: 1000
 ResourceId: Sa7uw3CX_yE
 ResourceType: videos
 ResourceImport: true

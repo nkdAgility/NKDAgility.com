@@ -2,6 +2,7 @@
 title: 'Harvesting Agility: What Mushroom Foraging Taught Me About Scrum and Team Dynamics'
 description: Discover how mushroom foraging reveals key Agile insights! Learn to choose the right environment, embrace patience, and push beyond your comfort zone.
 date: 2023-08-10T13:30:01Z
+weight: 1000
 ResourceId: aWYoJtSgTDo
 ResourceType: videos
 ResourceImport: true

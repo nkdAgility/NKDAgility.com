@@ -2,6 +2,7 @@
 title: 'Transforming Enterprises: How DevOps Drives Collaboration and Continuous Improvement'
 description: Unlock the power of DevOps for enterprise transformation! Discover how collaboration, automation, and a customer-centric approach can drive meaningful change.
 date: 2020-06-16T12:16:52Z
+weight: 1000
 ResourceId: kOgKt8w_hWY
 ResourceType: videos
 ResourceImport: true

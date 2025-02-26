@@ -2,6 +2,7 @@
 title: 'Unlocking Your Potential: Transformative Training for Aspiring Scrum Masters'
 description: Unlock your potential as a Scrum Master! Join our engaging workshop for hands-on learning, community support, and essential skills to thrive in Agile.
 date: 2022-07-27T18:45:17Z
+weight: 775
 ResourceId: 5ZRMBfV9zpI
 ResourceType: videos
 ResourceImport: true

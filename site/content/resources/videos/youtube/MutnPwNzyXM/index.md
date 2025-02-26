@@ -2,6 +2,7 @@
 title: 'Rethinking the Statement of Work: How to Truly Meet Client Needs Beyond the Contract'
 description: Unlock the secret to client satisfaction! Discover why focusing on real needs, not just the SoW, is key to delivering lasting value in consulting.
 date: 2023-06-22T07:00:15Z
+weight: 1000
 ResourceId: MutnPwNzyXM
 ResourceType: videos
 ResourceImport: true

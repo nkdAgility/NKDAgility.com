@@ -2,6 +2,7 @@
 title: 'Debunking the Scrum Myth: Why "Twice the Work in Half the Time" is a Misleading Promise'
 description: Uncover the truth behind Scrum's promise of "twice the work in half the time." Learn why focusing on value, not volume, is key to Agile success.
 date: 2023-02-02T07:00:13Z
+weight: 1000
 ResourceId: e7L0NFYUFSw
 ResourceType: videos
 ResourceImport: true

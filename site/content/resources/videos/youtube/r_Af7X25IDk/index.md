@@ -2,6 +2,7 @@
 title: 'Navigating Agile Transformation: Empowering Teams for Success in a Rapidly Changing Landscape'
 description: Unlock the secrets to effective Agile leadership! Discover how to empower teams, focus on value, and embrace change in a fast-paced world.
 date: 2020-04-17T18:57:11Z
+weight: 775
 ResourceId: r_Af7X25IDk
 ResourceType: videos
 ResourceImport: true

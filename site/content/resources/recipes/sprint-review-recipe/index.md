@@ -7,6 +7,7 @@ ResourceType: recipes
 resourceTypes: recipe
 layout: recipe
 date: 2024-09-17
+weight: 775
 image: /images/naked-Agility-Scrum-Framework-Sprint-Review.jpg
 aliases:
 - /learn/agile-delivery-kit/recipes/sprint-review-recipe/
