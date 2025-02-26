@@ -1,36 +1,67 @@
-{{ $breadcrumbs := partial "functions/breadcrumbs.html" . }}
-<nav aria-label="breadcrumb" nkdMeta="[Kind:={{- .Kind }}][Type:={{- .Type }}]">
-  <ul class="breadcrumb">
-    <!-- Output breadcrumb trail -->
-    {{- range $index, $page := $breadcrumbs }}
-      <li class="breadcrumb-item" title="{{- $page.Title }}{{ if $page.Params.shorttitle }}&nbsp;({{ $page.Params.shorttitle }}){{ end }}{{ if $page.Description }}&nbsp;-&nbsp;{{ $page.Description }}{{ end }}">
-        {{- if eq $index (sub (len $breadcrumbs) 1) }}
-          <!-- Current page (no link) -->
-          <span class="active">
-            {{- if $page.Params.shorttitle }}
-              {{- $page.Params.shorttitle }}
+<div class="row">
+  <div class="col-md-8">
+    {{ $breadcrumbs := partial "functions/breadcrumbs.html" . }}
+    <nav aria-label="breadcrumb" nkdMeta="[Kind:={{- .Kind }}][Type:={{- .Type }}]">
+      <ul class="breadcrumb">
+        <!-- Output breadcrumb trail -->
+        {{- range $index, $page := $breadcrumbs }}
+          <li class="breadcrumb-item" title="{{- $page.Title }}{{ if $page.Params.shorttitle }}&nbsp;({{ $page.Params.shorttitle }}){{ end }}{{ if $page.Description }}&nbsp;-&nbsp;{{ $page.Description }}{{ end }}">
+            {{- if eq $index (sub (len $breadcrumbs) 1) }}
+              <!-- Current page (no link) -->
+              <span class="active">
+                {{- if $page.Params.shorttitle }}
+                  {{- $page.Params.shorttitle }}
+                {{- else }}
+                  {{- $page.Title }}
+                {{- end }}
+              </span>
             {{- else }}
-              {{- $page.Title }}
-            {{- end }}
-          </span>
-        {{- else }}
-          {{ if $page.IsHome }}
-            <a href="{{- $page.Permalink }}"><i class="fa-light fa-house"></i></a>
-          {{ else }}
-            <!-- Linked breadcrumb items -->
-            <a href="{{- $page.Permalink }}">
-              {{- if $page.Params.shorttitle }}
-                {{- $page.Params.shorttitle }}
-              {{- else }}
-                {{- $page.Title }}
+              {{ if $page.IsHome }}
+                <a href="{{- $page.Permalink }}"><i class="fa-light fa-house"></i></a>
+              {{ else }}
+                <!-- Linked breadcrumb items -->
+                <a href="{{- $page.Permalink }}">
+                  {{- if $page.Params.shorttitle }}
+                    {{- $page.Params.shorttitle }}
+                  {{- else }}
+                    {{- $page.Title }}
+                  {{- end }}
+                </a>
               {{- end }}
-            </a>
-          {{- end }}
+            {{- end }}
+          </li>
         {{- end }}
-      </li>
-    {{- end }}
-  </ul>
-</nav>
+      </ul>
+    </nav>
+  </div>
+  {{ if and (.Site.Params.TakingOnNewClients) (ne .RelPermalink "/company/book-online/") }}
+    <div class="col-md-4 text-end">
+      <!-- Link to Open Modal -->
+      <i class="fa-solid fa-rocket-launch"></i> <a href="#" data-bs-toggle="modal" data-bs-target="#newClientsModal"> We're Open to New Clients</a>
+
+      <!-- Modal -->
+      <div class="modal fade" id="newClientsModal" tabindex="-1" aria-labelledby="newClientsModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="newClientsModalLabel">We're Open to New Clients</h5>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body text-start">
+              <p>We operate on a fixed-price model, eliminating the need for time tracking or approval gates. Our engagements are based on a defined time period, ensuring full flexibility to collaborate on any topic within our expertise—technical, process-related, or strategic.</p>
+              <p>Check out what <a href="">Working with Us</a> looks like.</p>
+              <p>To maintain quality and focus, <strong>we limit concurrent engagements</strong> and never overbook. When we work with you, our attention is fully on your needs. Whether you need a short-term boost or a long-term strategic partnership, we tailor our approach to deliver real value.</p>
+              <p><a href="/company/book-online/">Get in touch today</a> to discuss how we can support your organisation’s agility, DevOps adoption, and value delivery.</p>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  {{ end }}
+</div>
 
 <style>
   .breadcrumb {
