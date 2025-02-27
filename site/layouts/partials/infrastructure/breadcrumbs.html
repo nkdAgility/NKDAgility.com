@@ -1,5 +1,5 @@
 <div class="row">
-  <div class="col-md-8">
+  <div class="col-12 col-lg-8">
     {{ $breadcrumbs := partial "functions/breadcrumbs.html" . }}
     <nav aria-label="breadcrumb" nkdMeta="[Kind:={{- .Kind }}][Type:={{- .Type }}]">
       <ul class="breadcrumb">
@@ -34,8 +34,12 @@
       </ul>
     </nav>
   </div>
-  <div class="col-md-4 text-end">
-    {{- partial "taking-on-new-client.html" . }}
+  <div class="col-12 col-lg-4 text-end">
+    <div class="d-inline-flex gap-2">
+      {{- partial "components/share-dropdown.html" . }}
+      {{- partial "components/admin-dropdown.html" . }}
+      {{- partial "components/taking-on-new-client.html" . }}
+    </div>
   </div>
 </div>
 
