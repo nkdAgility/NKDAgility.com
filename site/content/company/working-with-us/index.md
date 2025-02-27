@@ -22,7 +22,7 @@ To ensure quality and focus, we limit the number of concurrent customers and nev
 
 For your procurement needs, we provide [Supplier and Bank Account Details]({{< ref "/company/supplier-bank-account-details" >}}), along with the general supplier and insurance information, as well as [Terms of Business]({{< ref "/company/terms-of-business" >}}) for the engagement.
 
-As part of our partnership we want you to be able to [communicate with us]({{< ref "/company/communicating-with-us" >}})as easily as posible. We use Microsoft Teams and the linked instructions will allow your IT department to configure your systems to allow us to communicate with you.
+As part of our partnership we want you to be able to [communicate with us]({{< ref "/company/communicating-with-us" >}})as easily as possible. We use Microsoft Teams and the linked instructions will allow your IT department to configure your systems to allow us to communicate with you.
 
 We will provide a proposal for the engagement that contains the following sections:
 
@@ -61,6 +61,7 @@ Some typical value propositions include:
 - Value Delivery: Improve the speed and quality of value delivery through optimised workflows, reduced waste, and increased transparency.
 - Customer Satisfaction: Increase customer satisfaction by delivering high-quality products and services that meet customer needs and expectations.
 - Business Agility: Enable the organisation to adapt quickly to changing market conditions and customer needs through flexible, responsive practices and processes.
+- Evidence-Based Leadership: Utilise [Evidence-Based Management]({{< ref "/resources/guides/evidence-based-management-guide" >}}) and [NKD Insights™]({{< ref "/capabilities/nkd-insights" >}}) for real-time analytics, fostering data-driven decision-making at all levels.
 
 ## Timing
 
