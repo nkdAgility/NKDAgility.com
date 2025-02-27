@@ -20,9 +20,9 @@ We operate on a fixed-price model, removing the need for time tracking or seekin
 
 To ensure quality and focus, we limit the number of concurrent customers and never start more than one engagement at a time. This allows us to dedicate the time you need while understanding that we won’t be fully engaged for the entire timebox. Typically, this means we work for you around one-third of the time, but the first few days or weeks often require more focus as we kick off. We don’t track hours, and Iwe don’t overbook engagements.
 
-For your procurement needs, we provide [Supplier and Bank Account Details](/accounts), along with the general supplier and insurance information, as well as [Terms of Business](/terms) for the engagement. 
+For your procurement needs, we provide [Supplier and Bank Account Details]({{< ref "/company/supplier-bank-account-details" >}}), along with the general supplier and insurance information, as well as [Terms of Business]({{< ref "/company/terms-of-business" >}}) for the engagement.
 
-As part of our partnership we want you to be able to [communicate with us](/communicate) as easily as posible. We use Microsoft Teams and the linked instructions will allow your IT department to configure your systems to allow us to communicate with you.
+As part of our partnership we want you to be able to [communicate with us]({{< ref "/company/communicating-with-us" >}})as easily as posible. We use Microsoft Teams and the linked instructions will allow your IT department to configure your systems to allow us to communicate with you.
 
 We will provide a proposal for the engagement that contains the following sections:
 
@@ -43,8 +43,8 @@ We will also work with you to define the measures of success for the engagement.
 Some typical measures of success include:
 
 - Participation rates in training sessions or workshops, with positive feedback from attendees. Participant assessment scores if available.
-- Evidence of teams applying the learned principles, such as improved workflow practices or adherence to relevant  practices. Measures using [NKD Insights™](/capabilities/nkd-insights/). Available with all strategic partnership options.
-- Evidence of organisation delivering more value to their customers. Measured using [Evidence-Based Management](/resources/guides/the-evidence-based-management-guide-improving-value-delivery-under-conditions-of-uncertainty/) metrics chosen at the start of the engagement. Available with all strategic partnership options.
+- Evidence of teams applying the learned principles, such as improved workflow practices or adherence to relevant practices. Measures using [NKD Insights™]({{< ref "/capabilities/nkd-insights" >}}). Available with all strategic partnership options.
+- Evidence of organisation delivering more value to their customers. Measured using [Evidence-Based Management]({{< ref "/resources/guides/evidence-based-management-guide" >}}) metrics chosen at the start of the engagement. Available with all strategic partnership options.
 - Completion of technical requirements such as migration of work items or test cases
 
 ## Value to the Customer
@@ -55,8 +55,12 @@ Some typical value propositions include:
 
 - Empowered Teams: Equip teams with the knowledge and skills to independently adopt best practices in Scrum, Kanban, and DevOps, fostering productivity and continuous improvement.
 - Strategic Decision-Making: Provide clear, actionable insights through well-organised and visualised data to align tactical activities with long-term strategic goals.
-- Simplified Management: Streamline Azure DevOps into a single, transparent collection for easier oversight, reduced complexity, and improved efficiency.
-- Accelerated Delivery: Enable teams to fully utilise Azure DevOps capabilities for faster, high-quality software delivery and enhanced collaboration.
+- One Engineering System: Streamline engineering tools into a single, transparent collection for easier oversight, reduced complexity, and improved efficiency.
+- Continuous Improvement: Establish a culture of continuous learning and improvement through regular training, workshops, and feedback loops.
+- Technical Excellence: Enhance technical capabilities and practices to deliver high-quality products and services that meet customer needs and expectations.
+- Value Delivery: Improve the speed and quality of value delivery through optimised workflows, reduced waste, and increased transparency.
+- Customer Satisfaction: Increase customer satisfaction by delivering high-quality products and services that meet customer needs and expectations.
+- Business Agility: Enable the organisation to adapt quickly to changing market conditions and customer needs through flexible, responsive practices and processes.
 
 ## Timing
 
@@ -64,57 +68,65 @@ We will give you an indication of when we can start the engagement and how long 
 
 ## Methodology and Options
 
-Within the context of this engagement, we will leverage our expertise to support you and your teams in becoming more effective. This may involve technical assistance, such as migrations, tactical workshops focused on team operations, or strategic workshops aimed at leadership and the PMO. Our approach is centered around enhancing processes, practices, and tools to optimize value delivery and enable effective monitoring of its impact.
+Our engagement is centred on enabling organisations to achieve engineering excellence and technical leadership. We provide deep expertise in Lean-Agile practices, modern software engineering, and DevOps to accelerate your teams' effectiveness. With deep technical knowledge of the Microsoft stack, Azure, AI, Azure DevOps, and Visual Studio, we ensure your teams can fully leverage modern tools and practices to drive high-performance software delivery.
+
+Our approach includes hands-on consulting, immersive coaching, expert mentoring, and structured training, tailored to your specific needs.
+
 Depending on the level of assistance and engagement required, we propose three options:
 
 ### Option 1: Basic Package (1 week)
 
-This option includes any work necessary within this period to enable you to get value. Migration, workshops, consulting. 
-During the 5-day period, we will provide:
+This strategic partnership is designed for organisations aiming to embed technical excellence, engineering discipline, and modern Agile practices at scale, with success measured by increased deployment frequency, reduced lead times, enhanced team autonomy, and improved software quality.
 
-- Technical consulting and support for migrations
-- Onboarding support and optimisation to help your team set up critical workflows
-- One demo session on Azure DevOps tools and best practices to assist with team adoption and proficiency
+During this 5-day period, we will provide:
 
-This option is designed for organisations that primarily need migration support, with minimal ongoing assistance for setup and initial user support.
+- **Targeted consulting and technical assistance** – addressing specific challenges such as Agile transformations, DevOps pipeline optimisation, or software architecture reviews.
+- **Training and knowledge transfer** – interactive sessions covering Agile, Scrum, Kanban, DevOps, Modern Engineering, and Microsoft tools such as Azure DevOps, Visual Studio, and AI-driven development.
+- **Tactical coaching and mentoring** – ensuring teams can immediately apply insights in their context.
+
+Ideal for organisations needing rapid intervention to address technical or process bottlenecks.
 
 ### Option 2: Extended Package (1 month)
 
-This option includes any work necessary within this period to enable you to get value. Migration, workshops, consulting. 
-During the 30-day (calendar) period, we will provide:
+A structured engagement focused on improving team capability and delivery effectiveness. This package balances hands-on consulting with targeted coaching and structured training.
+
+During the 30-day period, we will provide:
 
 - Everything from option 1
-- Up to four training/workshop sessions on Azure DevOps tools and best practices to assist with team adoption and proficiency
+- **Four in-depth training or workshop sessions on Lean, Agile, DevOps, Modern Engineering, and Microsoft tools (Azure, AI, Azure DevOps, and Visual Studio)**.
+- **Team and leadership coaching** – working directly with teams and leaders to embed best practices.
+- **Hands-on mentoring** – supporting engineers, Scrum Masters, Product Owners, and technical leads.
 
-This option is ideal for teams seeking initial migration assistance with a focus on early-stage Support to establish best practices and optimize Azure DevOps features from the start.
+Perfect for teams seeking to improve technical and Agile capability while establishing sustainable best practices.
 
-### Option 3: Strategic Partnership (90 day rolling)
+### Option 3: Strategic Partnership (90-day rolling engagement)
 
-Creating a strategic partnership for us to support you with all of your Lean-Agile practice needs with specific support for Scrum, Kanban, & DevOps practices that will enable your organization to excel. 
+This strategic partnership is designed for organisations aiming to embed technical excellence, engineering discipline, and modern Agile practices at scale.
 
 This package includes:
 
 - Everything from Option 1 & 2
-- Assisting developers with Azure DevOps feature adoption and troubleshooting
-- Providing unlimited targeted workshops on Lean, Agile, DevOps, and Modern Engineering practices
-- Collaborating with leadership on technical strategies aligned with product goals
+- **Continuous coaching and mentoring** – ensuring teams and leaders sustain and evolve their practices.
+- **Unlimited targeted workshops on Agile, Lean, DevOps, Modern Engineering, AI-driven development, and Microsoft tools.**
+- **Technical strategy collaboration** – aligning engineering capability with business objectives.
+- **Embedded expert support** – actively guiding teams through change and helping them achieve high performance.
 
-This comprehensive support model is for organizations seeking a strategic partnership to fully leverage Lean-Agile practices and Azure DevOps tools for long-term value and enable continuous improvement across teams and practices.
+Ideal for organisations looking to transform their technical leadership and engineering culture for long-term success.
 
 ### Option Xtras: Strategic Partnership+
 
 Enhance your experience with additional services offered at a reduced cost:
 
-- Mentor Programs - We provide both Product Development and Product Management mentor programs from 8 to 41 weeks.
-- Training Programs – accredited training programs from Scrum.org, ProKanban.org, Agile Kata, and Lean Agile Procurement
+- **Mentor Programs** - We provide both Product Development and Product Management mentor programs from 8 to 41 weeks.
+- **Training Programs** – accredited training programs from Scrum.org, ProKanban.org, Agile Kata, and Lean Agile Procurement
 
 ## Payment Terms
 
-- *50%* due upon acceptance; *50%* due *15 days* after acceptance.
-- *5% discount* offered for full payment upon acceptance.
-- This project is *non-cancellable* but may be *rescheduled without penalty*.
-- *Satisfaction guaranteed* — if standards aren't met, I will *refund* your fee.
-- Detailed terms: [nkdagility.com/terms](/terms)
+- _50%_ due upon acceptance; _50%_ due _15 days_ after acceptance.
+- _5% discount_ offered for full payment upon acceptance.
+- This project is _non-cancellable_ but may be _rescheduled without penalty_.
+- _Satisfaction guaranteed_ — if standards aren't met, I will _refund_ your fee.
+- Detailed terms: [nkdagility.com/terms]({{< ref "/company/terms-of-business" >}})
 
 ## Acceptance
 
