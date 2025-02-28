@@ -27,14 +27,14 @@ aliasesArchive:
 - /blog/branch-policies-for-tfvc
 - /resources/blog/branch-policies-tfvc
 tags:
-- Technical Mastery
 - Azure Repos
+- Technical Mastery
 - Modern Source Control
 - Practical Techniques and Tooling
+- Azure DevOps
+- Technical Excellence
 - Operational Practices
 - Software Development
-- Technical Excellence
-- Azure DevOps
 - Pragmatic Thinking
 categories:
 - Engineering Excellence

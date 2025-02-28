@@ -25,8 +25,8 @@ aliasesArchive:
 tags:
 - Install and Configuration
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
 
 ---
 With the [TFS 2013 RC](http://nkdagility.com/whats-new-in-visual-studio-2013-rc-with-team-foundation-server/) being made available I need to upgrade one of my main customers from the TFS 2013 Preview.

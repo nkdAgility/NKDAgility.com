@@ -29,14 +29,14 @@ aliasesArchive:
 tags:
 - Agile Product Management
 - Agile Project Management
+- Product Owner
 - Scrum Product Development
 - Scrum Team
-- Product Owner
-- Team Collaboration
-- Agile Frameworks
-- Agile Planning
 - People and Process
 - Product Delivery
+- Professional Scrum
+- Agile Planning
+- Team Collaboration
 categories:
 - Scrum
 - Social Technologies

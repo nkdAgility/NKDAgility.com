@@ -24,8 +24,8 @@ aliasesArchive:
 - /resources/blog/application-lifecycle-management-with-office-2013-on-windows-8
 tags:
 - Windows
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 - Products and Books
 - Application Lifecycle Management
 categories:

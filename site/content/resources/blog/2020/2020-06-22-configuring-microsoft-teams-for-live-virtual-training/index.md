@@ -28,8 +28,8 @@ categories:
 preview: image-14-4-4.png
 tags:
 - Install and Configuration
-- Practical Techniques and Tooling
 - Collaboration Tools
+- Practical Techniques and Tooling
 - System Configuration
 
 ---

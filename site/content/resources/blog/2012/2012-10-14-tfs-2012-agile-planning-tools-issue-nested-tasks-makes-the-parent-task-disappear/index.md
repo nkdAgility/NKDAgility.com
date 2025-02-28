@@ -31,17 +31,17 @@ aliasesArchive:
 tags:
 - Agile Product Management
 - Agile Planning Tools
-- Agile Product Operating Model
 - Scrum Product Development
-- Agile Project Management
 - Product Backlog
+- Agile Project Management
+- Agile Product Operating Model
 - Agile Planning
-- Azure Boards
 - Product Owner
-- Practical Techniques and Tooling
+- Agile Frameworks
+- Backlog Refinement
 categories:
-- Scrum
 - Social Technologies
+- Scrum
 preview: metro-problem-icon-8-8.png
 
 ---

@@ -30,8 +30,8 @@ tags:
 - Windows
 - Install and Configuration
 - Practical Techniques and Tooling
-- System Configuration
 - Azure DevOps
+- System Configuration
 - Troubleshooting
 categories:
 - DevOps

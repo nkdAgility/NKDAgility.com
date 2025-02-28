@@ -25,8 +25,8 @@ aliasesArchive:
 tags:
 - Software Development
 - Practical Techniques and Tooling
-- Technical Mastery
 - Technical Excellence
+- Technical Mastery
 - System Configuration
 categories:
 - Engineering Excellence

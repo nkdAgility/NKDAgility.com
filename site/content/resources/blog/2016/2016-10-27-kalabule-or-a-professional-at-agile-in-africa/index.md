@@ -25,11 +25,11 @@ aliasesArchive:
 tags:
 - Agile Values and Principles
 - Scrum Values
-- People and Process
 - Events and Presentations
-- Software Development
-- Software Developers
 - Agile Philosophy
+- Software Developers
+- People and Process
+- Software Development
 - Organisational Culture
 categories:
 - Social Technologies

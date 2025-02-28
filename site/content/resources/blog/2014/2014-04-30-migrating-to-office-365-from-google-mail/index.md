@@ -24,10 +24,10 @@ aliasesArchive:
 - /resources/blog/migrating-to-office-365-from-google-mail
 tags:
 - Troubleshooting
-- Practical Techniques and Tooling
-- Technical Mastery
 - Install and Configuration
+- Practical Techniques and Tooling
 - System Configuration
+- Technical Mastery
 categories: []
 preview: metro-office-128-link-3-3.png
 

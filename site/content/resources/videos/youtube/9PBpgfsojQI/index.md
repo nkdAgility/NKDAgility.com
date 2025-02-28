@@ -30,13 +30,13 @@ sitemap:
   priority: 0.6
 tags:
 - Strategy
-- People and Process
 - Product Owner
+- People and Process
 - Agile Product Management
-- Value Delivery
-- Agile Product Operating Model
-- Product Delivery
 - Agile Project Management
+- Product Delivery
+- Agile Product Operating Model
+- Value Delivery
 - Pragmatic Thinking
 - Product Strategy
 resourceTypes:

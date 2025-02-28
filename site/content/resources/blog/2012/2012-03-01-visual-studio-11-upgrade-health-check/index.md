@@ -23,16 +23,16 @@ aliasesArchive:
 - /visual-studio-11-upgrade-health-check
 - /resources/blog/visual-studio-11-upgrade-health-check
 tags:
-- People and Process
-- Team Performance
-- Products and Books
-- Practical Techniques and Tooling
 - Events and Presentations
-- Install and Configuration
-- Team Collaboration
+- Team Performance
 - News and Reviews
-- Troubleshooting
-- Pragmatic Thinking
+- Install and Configuration
+- Practical Techniques and Tooling
+- Team Collaboration
+- People and Process
+- Products and Books
+- Agile Frameworks
+- Azure DevOps
 categories:
 - Scrum
 - Social Technologies

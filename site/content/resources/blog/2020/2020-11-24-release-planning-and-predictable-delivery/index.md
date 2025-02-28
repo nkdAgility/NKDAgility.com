@@ -23,8 +23,8 @@ aliasesArchive:
 - /release-planning-and-predictable-delivery
 - /resources/blog/release-planning-and-predictable-delivery
 tags:
-- Software Development
 - Product Delivery
+- Software Development
 categories:
 - Scrum
 - Engineering Excellence

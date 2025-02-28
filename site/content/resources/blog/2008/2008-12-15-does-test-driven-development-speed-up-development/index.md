@@ -29,11 +29,11 @@ aliasesArchive:
 tags:
 - Software Development
 - Software Developers
-- Test First Development
 - Test Driven Development
-- Technical Mastery
-- Engineering Practices
+- Test First Development
 - Technical Excellence
+- Engineering Practices
+- Technical Mastery
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-2-2.png

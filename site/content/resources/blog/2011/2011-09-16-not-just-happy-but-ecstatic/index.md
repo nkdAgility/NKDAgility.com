@@ -34,10 +34,10 @@ tags:
 - Practical Techniques and Tooling
 - Pragmatic Thinking
 - Product Delivery
-- Release Management
-- Technical Mastery
-- Operational Practices
 - Personal
+- Release Management
+- Operational Practices
+- Technical Mastery
 categories:
 - DevOps
 

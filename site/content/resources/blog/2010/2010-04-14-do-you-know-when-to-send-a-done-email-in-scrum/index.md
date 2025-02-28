@@ -28,15 +28,15 @@ aliasesArchive:
 - /resources/blog/do-you-know-when-to-send-a-done-email-in-scrum
 tags:
 - Scrum Team
-- People and Process
 - Team Performance
 - Scrum Product Development
 - Team Collaboration
+- People and Process
 - Professional Scrum
+- Agile Frameworks
 - Agile Product Management
-- Agile Project Management
 - Pragmatic Thinking
-- Software Development
+- Agile Project Management
 categories:
 - Scrum
 - Social Technologies

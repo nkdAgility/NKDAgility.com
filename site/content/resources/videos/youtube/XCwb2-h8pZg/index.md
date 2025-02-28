@@ -24,8 +24,8 @@ preview: https://i.ytimg.com/vi/XCwb2-h8pZg/maxresdefault.jpg
 duration: 254
 isShort: false
 tags:
-- Operational Practices
 - Lean Thinking
+- Operational Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6

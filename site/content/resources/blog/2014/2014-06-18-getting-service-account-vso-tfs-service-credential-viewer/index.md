@@ -35,8 +35,8 @@ tags:
 - Windows
 - System Configuration
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

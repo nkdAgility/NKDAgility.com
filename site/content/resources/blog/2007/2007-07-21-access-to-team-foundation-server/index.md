@@ -23,12 +23,12 @@ aliasesArchive:
 - /access-to-team-foundation-server
 - /resources/blog/access-to-team-foundation-server
 tags:
-- Troubleshooting
 - Application Lifecycle Management
-- Technical Mastery
-- Miscellaneous
-- Software Development
 - Continuous Learning
+- Troubleshooting
+- Technical Mastery
+- Software Development
+- Miscellaneous
 categories: []
 
 ---

@@ -27,8 +27,8 @@ aliasesArchive:
 - /blog/woops-i-installed-windows-8-instead-of-windows-8-pro-
 - /resources/blog/woops-i-installed-windows-8-instead-of-windows-8-pro
 tags:
-- Troubleshooting
 - Windows
+- Troubleshooting
 - Install and Configuration
 - System Configuration
 preview: nakedalm-windows-logo-7-7.png

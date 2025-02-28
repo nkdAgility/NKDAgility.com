@@ -31,8 +31,8 @@ tags:
 - Software Development
 - People and Process
 categories:
-- Scrum
 - Leadership
+- Scrum
 - Engineering Excellence
 preview: metro-visual-studio-2010-128-link-3-3.png
 

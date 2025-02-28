@@ -28,16 +28,16 @@ aliasesArchive:
 - /resources/blog/issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs
 tags:
 - Troubleshooting
-- Practical Techniques and Tooling
 - Install and Configuration
-- Technical Mastery
-- Pragmatic Thinking
-- Software Development
-- System Configuration
+- Practical Techniques and Tooling
 - Azure DevOps
+- Pragmatic Thinking
+- System Configuration
+- Technical Mastery
+- Software Development
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
 preview: puzzle-issue-problem-128-link-3-3.png
 
 ---

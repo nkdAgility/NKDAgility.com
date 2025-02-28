@@ -28,18 +28,18 @@ aliasesArchive:
 - /resources/blog/create-log-entries-release-management
 tags:
 - Windows
-- Release Management
 - Application Lifecycle Management
+- Release Management
 - Practical Techniques and Tooling
 - System Configuration
-- Troubleshooting
-- Technical Mastery
-- Pragmatic Thinking
-- Software Development
+- Azure Pipelines
+- Azure DevOps
 - Technical Excellence
+- Troubleshooting
+- Pragmatic Thinking
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 
 ---

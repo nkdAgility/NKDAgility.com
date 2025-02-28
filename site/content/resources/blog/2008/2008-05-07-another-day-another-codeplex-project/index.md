@@ -24,9 +24,9 @@ aliasesArchive:
 - /resources/blog/another-day-another-codeplex-project
 tags:
 - Practical Techniques and Tooling
+- Working Software
 - Troubleshooting
 - Technical Mastery
-- Working Software
 - Software Development
 categories: []
 preview: metro-sharepoint-128-link-2-2.png

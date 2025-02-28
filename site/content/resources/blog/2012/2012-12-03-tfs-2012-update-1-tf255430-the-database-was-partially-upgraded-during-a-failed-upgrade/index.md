@@ -34,14 +34,14 @@ tags:
 - System Configuration
 - Practical Techniques and Tooling
 - Operational Practices
+- Azure DevOps
 - Release Management
+- Technical Excellence
 - Troubleshooting
 - Technical Mastery
-- Software Development
-- Technical Excellence
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
 preview: metro-problem-icon-2-2.png
 
 ---

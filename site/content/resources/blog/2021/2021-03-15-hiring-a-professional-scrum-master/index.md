@@ -25,8 +25,8 @@ aliasesArchive:
 tags:
 - Scrum Master
 categories:
-- Scrum
 - Leadership
+- Scrum
 - Social Technologies
 preview: Wide-screen-scrum-master-3-3.jpg
 

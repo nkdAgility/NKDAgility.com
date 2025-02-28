@@ -27,11 +27,11 @@ aliasesArchive:
 - /blog/execute-tests-with-release-management-for-visual-studio-2013
 - /resources/blog/execute-tests-release-management-visual-studio-2013
 tags:
-- Release Management
 - Automated Testing
+- Release Management
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---

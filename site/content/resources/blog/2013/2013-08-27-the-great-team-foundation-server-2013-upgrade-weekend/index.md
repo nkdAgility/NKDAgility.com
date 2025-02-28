@@ -24,9 +24,9 @@ aliasesArchive:
 - /resources/blog/the-great-team-foundation-server-2013-upgrade-weekend
 tags:
 - Install and Configuration
-- Products and Books
 - Events and Presentations
 - News and Reviews
+- Products and Books
 categories:
 - Engineering Excellence
 - DevOps

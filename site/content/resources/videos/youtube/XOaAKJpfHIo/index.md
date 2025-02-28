@@ -30,14 +30,14 @@ sitemap:
 tags:
 - People and Process
 - Product Delivery
-- Software Development
 - Value Delivery
+- Software Development
 - Software Developers
-- Pragmatic Thinking
 - Market Adaptability
+- Pragmatic Thinking
 - Working Software
-- Agile Strategy
-- Organisational Agility
+- Operational Practices
+- Agile Project Management
 resourceTypes:
 - video
 categories:

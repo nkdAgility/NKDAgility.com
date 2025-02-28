@@ -30,13 +30,13 @@ tags:
 - People and Process
 - Empirical Process Control
 - Agile Planning
-- Metrics and Learning
-- Team Performance
-- Agile Product Management
-- Agile Project Management
-- Evidence Based Management
-- Customer Feedback Loops
+- Agile Transformation
 - Scrum Product Development
+- Agile Philosophy
+- Agile Frameworks
+- Team Collaboration
+- Agile Product Management
+- Metrics and Learning
 resourceTypes:
 - video
 layout: video

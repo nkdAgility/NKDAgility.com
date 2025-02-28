@@ -28,8 +28,8 @@ aliasesArchive:
 - /resources/blog/building-release-pipeline-release-management-visual-studio-2013
 tags:
 - Release Management
-- Software Development
 - Product Delivery
+- Software Development
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-4-4.png

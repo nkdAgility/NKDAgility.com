@@ -31,8 +31,8 @@ tags:
 - Product Discovery
 - Business Agility
 - Agile Strategy
-- Organisational Agility
 - Personal
+- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

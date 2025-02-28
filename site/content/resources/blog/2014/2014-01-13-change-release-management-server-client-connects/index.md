@@ -27,12 +27,12 @@ aliasesArchive:
 - /blog/change-the-release-management-server-that-your-client-connects-to
 - /resources/blog/change-release-management-server-client-connects
 tags:
-- Release Management
 - Install and Configuration
+- Release Management
 - System Configuration
 - Practical Techniques and Tooling
-- Troubleshooting
 - Azure DevOps
+- Troubleshooting
 - Pragmatic Thinking
 categories:
 - DevOps

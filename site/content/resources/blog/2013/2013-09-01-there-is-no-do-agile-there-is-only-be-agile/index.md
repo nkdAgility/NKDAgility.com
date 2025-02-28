@@ -28,15 +28,15 @@ aliasesArchive:
 - /resources/blog/there-is-no-do-agile-there-is-only-be-agile
 tags:
 - Transparency
-- People and Process
 - Empirical Process Control
+- People and Process
 - Agile Product Management
-- Agile Values and Principles
 - Scaling Agility
-- Team Collaboration
-- Change Management
 - Organisational Change
-- Agile Project Management
+- Transparency and Accountability
+- Agile Values and Principles
+- Organisational Agility
+- Change Management
 categories:
 - Social Technologies
 - Leadership

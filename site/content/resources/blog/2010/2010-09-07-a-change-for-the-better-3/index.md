@@ -27,16 +27,16 @@ aliasesArchive:
 - /blog/a-change-for-the-better--3---ssw-to-northwest-cadence
 - /resources/blog/a-change-for-the-better-3
 tags:
-- People and Process
 - Application Lifecycle Management
-- Agile Project Management
+- People and Process
 - Software Developers
-- Software Development
+- Agile Project Management
 - Continuous Learning
+- Software Development
 - Mentoring
 - Personal
 - Product Delivery
-- Practical Techniques and Tooling
+- Agile Transformation
 categories:
 - Social Technologies
 - Scrum

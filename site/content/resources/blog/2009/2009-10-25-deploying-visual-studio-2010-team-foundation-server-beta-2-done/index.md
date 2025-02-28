@@ -27,17 +27,17 @@ aliasesArchive:
 - /blog/deploying-visual-studio-2010-team-foundation-server-beta-2---done
 - /resources/blog/deploying-visual-studio-2010-team-foundation-server-beta-2-done
 tags:
-- Practical Techniques and Tooling
 - Install and Configuration
-- Software Development
+- Practical Techniques and Tooling
 - System Configuration
+- Software Development
 - Deployment Strategies
-- Pragmatic Thinking
 - Personal
+- Pragmatic Thinking
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
 
 ---
 Well, nothing like hitting the ground running, my first job at SSW was to join the TFS Migration Team, it was a fun experience, let me tell you how it went.

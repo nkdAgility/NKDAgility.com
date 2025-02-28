@@ -25,8 +25,8 @@ preview: https://i.ytimg.com/vi/r_Af7X25IDk/maxresdefault.jpg
 duration: 3615
 isShort: false
 tags:
-- Agile Leadership
 - Agile Transformation
+- Agile Leadership
 - Organisational Agility
 - Organisational Change
 sitemap:

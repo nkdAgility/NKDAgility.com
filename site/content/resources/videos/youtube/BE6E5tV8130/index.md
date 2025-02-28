@@ -32,11 +32,11 @@ tags:
 - Agile Project Management
 - Agile Values and Principles
 - Agile Product Management
-- People and Process
-- Product Delivery
+- Empirical Process Control
+- Decision Making
 - Value Delivery
 - Business Agility
-- Decision Making
+- Product Delivery
 - Agile Product Operating Model
 resourceTypes:
 - video

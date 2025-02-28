@@ -31,14 +31,14 @@ aliasesArchive:
 tags:
 - Evidence Based Leadership
 - Evidence Based Management
-- People and Process
-- Ability to Innovate
-- Agile Leadership
 - Events and Presentations
-- Agile Project Management
+- Ability to Innovate
 - Metrics and Learning
-- News and Reviews
-- Value Delivery
+- Agile Project Management
+- People and Process
+- Agile Leadership
+- Agile Frameworks
+- Strategic Goals
 categories:
 - Leadership
 - Social Technologies

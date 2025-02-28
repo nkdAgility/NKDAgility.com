@@ -27,15 +27,15 @@ aliasesArchive:
 - /blog/create-a-standard-environment-for-release-management-in-azure
 - /resources/blog/create-standard-environment-release-management-azure
 tags:
-- Release Management
 - Application Lifecycle Management
-- Practical Techniques and Tooling
+- Release Management
 - Events and Presentations
-- Technical Mastery
 - Install and Configuration
-- Technical Excellence
 - Deployment Strategies
+- Practical Techniques and Tooling
 - Azure DevOps
+- Technical Excellence
+- Technical Mastery
 - Operational Practices
 categories:
 - DevOps

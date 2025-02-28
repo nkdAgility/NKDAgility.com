@@ -29,10 +29,10 @@ aliasesArchive:
 - /resources/blog/backlog-not-refined-wrong
 tags:
 - Scrum Product Development
-- Product Backlog
 - Backlog Refinement
-- Software Development
+- Product Backlog
 - Professional Scrum
+- Software Development
 - Agile Project Management
 categories:
 - Scrum

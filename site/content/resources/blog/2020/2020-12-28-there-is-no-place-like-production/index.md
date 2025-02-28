@@ -26,13 +26,13 @@ aliasesArchive:
 tags:
 - Increment
 - Product Validation
-- Business Agility
 - Release Management
+- Business Agility
 - Agile Product Management
+- Working Software
 - Discovery and Learning
-- Metrics and Learning
-- Agile Product Operating Model
 - Product Discovery
+- Ability to Innovate
 - Lean Product Development
 categories:
 - Product Management

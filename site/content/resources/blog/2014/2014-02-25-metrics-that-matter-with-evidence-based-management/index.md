@@ -28,8 +28,8 @@ tags:
 - Evidence Based Leadership
 categories:
 - Product Management
-- Engineering Excellence
 - Social Technologies
+- Engineering Excellence
 preview: nakedalm-agility-index-24-24.png
 
 ---

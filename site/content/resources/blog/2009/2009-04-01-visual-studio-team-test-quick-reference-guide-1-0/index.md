@@ -24,8 +24,8 @@ aliasesArchive:
 - /resources/blog/visual-studio-team-test-quick-reference-guide-1-0
 tags:
 - Practical Techniques and Tooling
-- Products and Books
 - Pragmatic Thinking
+- Products and Books
 - Troubleshooting
 - Software Development
 - Technical Mastery

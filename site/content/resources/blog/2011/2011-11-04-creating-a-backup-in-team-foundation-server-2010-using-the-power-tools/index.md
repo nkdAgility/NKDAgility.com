@@ -27,8 +27,8 @@ tags:
 - System Configuration
 - Practical Techniques and Tooling
 - Technical Mastery
-- Troubleshooting
 - Windows
+- Troubleshooting
 - Pragmatic Thinking
 - Software Development
 categories:

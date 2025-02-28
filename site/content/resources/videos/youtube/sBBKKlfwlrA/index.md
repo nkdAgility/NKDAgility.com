@@ -27,14 +27,14 @@ isShort: false
 tags:
 - Scaling Scrum
 - Professional Scrum
+- Scaling Agility
 - People and Process
 - Scaled Agile
-- Scaling Agility
-- Large Scale Agility
-- Agile Project Management
-- Pragmatic Thinking
-- Software Development
 - Agile Frameworks
+- Pragmatic Thinking
+- Agile Project Management
+- Software Development
+- Large Scale Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

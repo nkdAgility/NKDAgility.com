@@ -23,10 +23,10 @@ aliasesArchive:
 - /connecting-vs2008-to-any-tfs2010-project-collection
 - /resources/blog/connecting-vs2008-to-any-tfs2010-project-collection
 tags:
-- Practical Techniques and Tooling
 - Install and Configuration
-- Software Development
+- Practical Techniques and Tooling
 - System Configuration
+- Software Development
 preview: metro-visual-studio-2005-128-link-3-3.png
 categories: []
 

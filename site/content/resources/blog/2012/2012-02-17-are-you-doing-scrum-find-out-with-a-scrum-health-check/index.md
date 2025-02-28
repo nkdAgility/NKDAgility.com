@@ -27,9 +27,9 @@ aliasesArchive:
 - /blog/are-you-doing-scrum--find-out-with-a-scrum-health-check-
 - /resources/blog/are-you-doing-scrum-find-out-with-a-scrum-health-check
 tags:
+- Agile Frameworks
 - Agile Project Management
 - Software Development
-- Agile Frameworks
 categories:
 - Scrum
 - Social Technologies

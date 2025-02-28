@@ -31,11 +31,11 @@ tags:
 - Scrum Product Development
 - Agile Product Management
 - Agile Project Management
-- Scrum Team
 - Professional Scrum
-- Software Development
-- Agile Transformation
+- Scrum Team
 - Agile Frameworks
+- Agile Transformation
+- Software Development
 - Transparency
 categories:
 - Scrum

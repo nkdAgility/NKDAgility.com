@@ -24,15 +24,15 @@ aliasesArchive:
 - /resources/blog/virtual-labs-in-the-modern-application-lifecycle
 tags:
 - Application Lifecycle Management
-- Automated Testing
-- Practical Techniques and Tooling
-- Product Delivery
-- Internal Developer Platform
-- Platform Engineering
 - Software Development
-- Technical Excellence
-- Software Developers
+- Internal Developer Platform
+- Product Delivery
+- Platform Engineering
+- Practical Techniques and Tooling
+- Automated Testing
 - Operational Practices
+- Technical Excellence
+- Technical Mastery
 categories:
 - Engineering Excellence
 - DevOps

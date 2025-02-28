@@ -23,8 +23,8 @@ aliasesArchive:
 - /microsoft-myphone-service-available-to-the-public
 - /resources/blog/microsoft-myphone-service-available-to-the-public
 tags:
-- Install and Configuration
 - News and Reviews
+- Install and Configuration
 categories: []
 preview: nakedalm-logo-128-link-2-2.png
 

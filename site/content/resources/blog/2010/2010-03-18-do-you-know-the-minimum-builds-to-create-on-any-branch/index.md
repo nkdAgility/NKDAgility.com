@@ -28,19 +28,19 @@ aliasesArchive:
 - /resources/blog/do-you-know-the-minimum-builds-to-create-on-any-branch
 tags:
 - Automated Testing
-- Practical Techniques and Tooling
 - Modern Source Control
-- Engineering Practices
-- Azure Pipelines
-- Application Lifecycle Management
-- Software Development
+- Practical Techniques and Tooling
 - Technical Mastery
+- Continuous Integration
+- Application Lifecycle Management
 - Technical Excellence
-- Azure DevOps
+- Azure Pipelines
+- Operational Practices
+- Engineering Practices
 preview: metro-visual-studio-2010-128-link-6-6.png
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
 
 ---
 ![BuildIcon_Large](images/Doyouknowtheminimumbuildstocreate_CABD-BuildIcon_Large_-1-1.png)

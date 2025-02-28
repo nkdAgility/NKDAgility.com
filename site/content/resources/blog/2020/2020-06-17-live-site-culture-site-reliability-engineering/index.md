@@ -31,14 +31,14 @@ categories:
 - Engineering Excellence
 preview: 2020-06-17_13-06-30-1-1.jpg
 tags:
-- Business Agility
-- Market Adaptability
 - Events and Presentations
+- Market Adaptability
 - Frequent Releases
+- Business Agility
 - Deployment Frequency
 - Enterprise Agility
-- Organisational Agility
 - Pragmatic Thinking
+- Organisational Agility
 - Software Development
 - Continuous Learning
 

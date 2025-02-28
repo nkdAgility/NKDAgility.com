@@ -27,9 +27,9 @@ aliasesArchive:
 - /blog/it's-that-time-again;-get-ready-to-upgrade-to-tfs-2015
 - /resources/blog/its-that-time-again-get-ready-to-upgrade-to-tfs-2015
 tags:
-- Release Management
-- Install and Configuration
 - News and Reviews
+- Install and Configuration
+- Release Management
 - System Configuration
 - Software Development
 categories: []

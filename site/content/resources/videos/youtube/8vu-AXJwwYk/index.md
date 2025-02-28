@@ -26,8 +26,8 @@ duration: 554
 isShort: false
 tags:
 - Pragmatic Thinking
-- People and Process
 - Organisational Change
+- People and Process
 - Change Management
 - Organisational Agility
 - Organisational Physics

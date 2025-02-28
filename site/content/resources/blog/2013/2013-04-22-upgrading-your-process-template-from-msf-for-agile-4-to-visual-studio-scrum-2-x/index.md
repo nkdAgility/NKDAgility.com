@@ -23,16 +23,16 @@ aliasesArchive:
 - /upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x
 - /resources/blog/upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x
 tags:
+- Install and Configuration
 - Practical Techniques and Tooling
 - Agile Project Management
-- Install and Configuration
 - System Configuration
 - Azure Boards
+- Software Developers
+- Azure DevOps
 - Operational Practices
 - Pragmatic Thinking
 - Software Development
-- Software Developers
-- Azure DevOps
 categories:
 - Social Technologies
 

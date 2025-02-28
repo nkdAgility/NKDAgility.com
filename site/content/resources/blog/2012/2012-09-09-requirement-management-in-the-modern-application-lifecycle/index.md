@@ -28,14 +28,14 @@ aliasesArchive:
 - /resources/blog/requirement-management-in-the-modern-application-lifecycle
 tags:
 - Application Lifecycle Management
-- Agile Project Management
 - Agile Planning Tools
-- Products and Books
-- Practical Techniques and Tooling
-- Software Development
-- Product Delivery
+- Agile Project Management
 - Agile Planning
-- Pragmatic Thinking
+- Practical Techniques and Tooling
+- Product Delivery
+- Products and Books
+- Software Development
+- Azure DevOps
 - Technical Excellence
 categories:
 - Product Management

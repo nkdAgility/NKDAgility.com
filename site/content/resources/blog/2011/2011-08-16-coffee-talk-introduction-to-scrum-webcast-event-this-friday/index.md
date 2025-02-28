@@ -29,14 +29,14 @@ aliasesArchive:
 tags:
 - People and Process
 - Scrum Product Development
-- Agile Product Management
 - Events and Presentations
-- Agile Project Management
-- Software Development
-- Agile Transformation
-- Scrum Team
-- Professional Scrum
 - Agile Frameworks
+- Agile Transformation
+- Agile Product Management
+- Professional Scrum
+- Agile Project Management
+- Scrum Team
+- Software Development
 categories:
 - Scrum
 - Social Technologies

@@ -33,15 +33,15 @@ categories:
 - Social Technologies
 tags:
 - Scrum Product Development
-- Software Development
 - Software Developers
+- Software Development
+- Modern Source Control
 - Practical Techniques and Tooling
 - Operational Practices
-- Modern Source Control
-- Product Delivery
 - Professional Scrum
-- Agile Project Management
-- Pragmatic Thinking
+- Product Delivery
+- Agile Frameworks
+- Technical Excellence
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

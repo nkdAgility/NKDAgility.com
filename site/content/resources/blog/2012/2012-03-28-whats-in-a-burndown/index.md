@@ -28,15 +28,15 @@ aliasesArchive:
 - /resources/blog/whats-in-a-burndown
 tags:
 - Scrum Product Development
-- Scrum Team
 - Practical Techniques and Tooling
 - Product Delivery
+- Scrum Team
 - Software Development
 - Agile Project Management
-- Software Developers
-- Agile Product Management
-- Agile Planning
+- Team Performance
+- Professional Scrum
 - Metrics and Learning
+- Agile Product Management
 categories:
 - Scrum
 - Social Technologies

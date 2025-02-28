@@ -24,15 +24,15 @@ aliasesArchive:
 - /resources/blog/new-un-versioned-repository-in-tfs-2012
 tags:
 - Modern Source Control
-- Practical Techniques and Tooling
 - Install and Configuration
-- Software Development
+- Practical Techniques and Tooling
 - System Configuration
+- Software Development
 - Troubleshooting
 - Operational Practices
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

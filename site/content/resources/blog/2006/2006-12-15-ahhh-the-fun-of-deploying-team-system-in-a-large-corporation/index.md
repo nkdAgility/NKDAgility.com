@@ -34,8 +34,8 @@ preview: nakedalm-logo-128-link-1-1.png
 categories:
 - DevOps
 tags:
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 - System Configuration
 - Troubleshooting
 - Software Development

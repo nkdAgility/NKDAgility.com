@@ -23,16 +23,16 @@ aliasesArchive:
 - /fail-a-build-if-tests-fail
 - /resources/blog/fail-a-build-if-tests-fail
 tags:
-- Practical Techniques and Tooling
 - Install and Configuration
-- Troubleshooting
-- Technical Mastery
-- Operational Practices
-- Engineering Practices
-- Software Development
+- Practical Techniques and Tooling
+- Azure Pipelines
 - Continuous Integration
-- Technical Excellence
+- Automated Testing
 - Azure DevOps
+- Technical Excellence
+- Operational Practices
+- Troubleshooting
+- Engineering Practices
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Engineering Excellence

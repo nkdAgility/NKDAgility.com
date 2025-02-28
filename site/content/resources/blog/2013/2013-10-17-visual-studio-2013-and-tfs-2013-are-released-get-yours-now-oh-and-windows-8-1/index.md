@@ -34,9 +34,9 @@ tags:
 - Windows
 - Install and Configuration
 - Practical Techniques and Tooling
+- News and Reviews
 - Products and Books
 - System Configuration
-- News and Reviews
 - Software Development
 - Application Lifecycle Management
 categories:

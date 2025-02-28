@@ -24,11 +24,11 @@ aliasesArchive:
 - /resources/blog/vsts-sync-migration-tools
 tags:
 - Practical Techniques and Tooling
-- Software Development
 - Azure DevOps
+- Software Development
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
 preview: image_thumb-1-1.png
 
 ---

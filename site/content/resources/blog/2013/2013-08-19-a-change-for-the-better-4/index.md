@@ -29,16 +29,16 @@ aliasesArchive:
 - /blog/a-change-for-the-better--4---homecoming
 - /resources/blog/a-change-for-the-better-4
 tags:
-- Coaching
 - Mentoring
+- Coaching
 - Application Lifecycle Management
 - Agile Planning
 - Agile Project Management
+- Agile Frameworks
+- Agile Strategy
+- Agile Transformation
 - Agile Leadership
 - Practical Techniques and Tooling
-- Agile Strategy
-- People and Process
-- Agile Frameworks
 categories:
 - Social Technologies
 preview: nakedalm-logo-128-link-4-4.png

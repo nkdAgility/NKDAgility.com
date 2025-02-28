@@ -26,11 +26,11 @@ tags:
 - Agile Project Management
 - Agile Product Management
 - Agile Planning
-- Software Development
 - Agile Frameworks
+- Software Development
 categories:
-- Scrum
 - Social Technologies
+- Scrum
 preview: nakedalm-logo-128-link-6-6.png
 
 ---

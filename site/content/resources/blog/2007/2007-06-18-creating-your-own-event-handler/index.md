@@ -24,10 +24,10 @@ aliasesArchive:
 - /resources/blog/creating-your-own-event-handler
 tags:
 - Practical Techniques and Tooling
+- Azure DevOps
+- Technical Excellence
 - Technical Mastery
 - Software Development
-- Technical Excellence
-- Azure DevOps
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-2-2.png

@@ -32,9 +32,9 @@ aliasesArchive:
 - /resources/blog/professional-scrum-courses-2016-oslo-norway
 tags:
 - Practical Techniques and Tooling
+- Professional Scrum
 - Scrum Master
 - Software Development
-- Professional Scrum
 - Events and Presentations
 - Agile Project Management
 - Software Developers

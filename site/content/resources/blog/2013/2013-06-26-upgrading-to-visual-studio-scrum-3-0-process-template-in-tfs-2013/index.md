@@ -25,14 +25,14 @@ aliasesArchive:
 tags:
 - Agile Project Management
 - Install and Configuration
-- Products and Books
-- Practical Techniques and Tooling
-- System Configuration
 - Agile Frameworks
+- Practical Techniques and Tooling
+- Products and Books
+- System Configuration
+- Software Developers
+- Azure DevOps
 - Operational Practices
 - Pragmatic Thinking
-- Software Development
-- Software Developers
 categories:
 - Scrum
 - Social Technologies

@@ -23,12 +23,12 @@ aliasesArchive:
 - /solution-to-connecting-to-tfs-using-https-over-the-internet-from-behind-isa
 - /resources/blog/solution-to-connecting-to-tfs-using-https-over-the-internet-from-behind-isa
 tags:
-- Practical Techniques and Tooling
 - Install and Configuration
-- Troubleshooting
-- Technical Mastery
+- Practical Techniques and Tooling
 - Windows
+- Troubleshooting
 - System Configuration
+- Technical Mastery
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories: []
 

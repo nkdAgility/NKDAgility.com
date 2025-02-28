@@ -24,9 +24,9 @@ aliasesArchive:
 - /resources/blog/testing-with-test-professional-2010-and-visual-studio-2010-ultimate
 tags:
 - Application Lifecycle Management
-- Products and Books
-- Practical Techniques and Tooling
 - Events and Presentations
+- Practical Techniques and Tooling
+- Products and Books
 categories:
 - Engineering Excellence
 

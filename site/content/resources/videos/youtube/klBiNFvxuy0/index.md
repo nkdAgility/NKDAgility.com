@@ -31,9 +31,9 @@ tags:
 - Agile Project Management
 - People and Process
 - Professional Scrum
-- Scrum Master
-- Agile Transformation
 - Agile Frameworks
+- Agile Transformation
+- Scrum Master
 - Empirical Process Control
 - Software Development
 - Pragmatic Thinking

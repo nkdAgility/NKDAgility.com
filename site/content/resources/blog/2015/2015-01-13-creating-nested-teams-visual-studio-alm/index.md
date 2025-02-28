@@ -29,12 +29,12 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - System Configuration
-- Practical Techniques and Tooling
 - Application Lifecycle Management
-- Software Development
+- Practical Techniques and Tooling
 - Azure Boards
-- Pragmatic Thinking
+- Software Development
 - Azure DevOps
+- Pragmatic Thinking
 categories:
 - Kanban
 - Social Technologies

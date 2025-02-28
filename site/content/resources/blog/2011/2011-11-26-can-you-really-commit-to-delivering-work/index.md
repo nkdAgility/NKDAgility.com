@@ -30,13 +30,13 @@ tags:
 - Transparency
 - Forecasting
 - Scrum Product Development
-- Agile Planning
 - Agile Product Management
-- Agile Values and Principles
 - Scrum Team
-- Transparency and Accountability
 - Product Delivery
+- Agile Planning
+- Transparency and Accountability
 - Software Development
+- Agile Values and Principles
 categories:
 - Scrum
 - Social Technologies

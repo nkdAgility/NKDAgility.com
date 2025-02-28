@@ -29,12 +29,12 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Troubleshooting
-- Operational Practices
-- Pragmatic Thinking
-- Software Development
-- System Configuration
 - Azure DevOps
+- Operational Practices
+- Troubleshooting
+- Pragmatic Thinking
+- System Configuration
+- Software Development
 - Technical Mastery
 categories:
 - Engineering Excellence

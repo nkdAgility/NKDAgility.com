@@ -25,8 +25,8 @@ preview: https://i.ytimg.com/vi/e7L0NFYUFSw/maxresdefault.jpg
 duration: 205
 isShort: false
 tags:
-- Agile Project Management
 - Agile Frameworks
+- Agile Project Management
 - People and Process
 - Software Development
 sitemap:

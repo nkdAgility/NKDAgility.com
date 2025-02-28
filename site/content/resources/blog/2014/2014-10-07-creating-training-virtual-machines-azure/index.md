@@ -30,8 +30,8 @@ tags:
 - Install and Configuration
 - Windows
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
 preview: nakedalm-windows-logo-16-16.png
 
 ---

@@ -28,15 +28,15 @@ aliasesArchive:
 - /resources/blog/you-cant-stack-rank-hierarchical-work-items
 tags:
 - Scrum Product Development
-- Software Development
 - Product Backlog
-- Agile Product Management
-- Practical Techniques and Tooling
+- Software Development
 - Software Developers
+- Practical Techniques and Tooling
+- Agile Product Management
 - Professional Scrum
-- Agile Project Management
-- Pragmatic Thinking
-- Azure Boards
+- Agile Planning
+- Agile Frameworks
+- Azure DevOps
 categories:
 - Social Technologies
 - Scrum

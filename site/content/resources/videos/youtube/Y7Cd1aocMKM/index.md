@@ -29,9 +29,9 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Agile Project Management
-- Team Collaboration
 - Agile Frameworks
+- Team Collaboration
+- Agile Project Management
 - Practical Techniques and Tooling
 - Remote Working
 - Pragmatic Thinking

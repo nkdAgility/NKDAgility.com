@@ -26,9 +26,9 @@ tags:
 - Install and Configuration
 - Practical Techniques and Tooling
 - System Configuration
+- Azure DevOps
 - Troubleshooting
 - Software Development
-- Azure DevOps
 - Windows
 - Application Lifecycle Management
 categories:

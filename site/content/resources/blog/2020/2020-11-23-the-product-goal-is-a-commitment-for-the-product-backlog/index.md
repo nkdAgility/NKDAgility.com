@@ -28,11 +28,11 @@ tags:
 - Scrum Team
 - Agile Product Management
 - Product Owner
-- Product Delivery
 - Professional Scrum
-- Strategic Goals
-- Agile Project Management
-- Strategy
+- Product Delivery
+- Agile Planning
+- Value Delivery
+- Agile Frameworks
 categories:
 - Scrum
 - Product Management

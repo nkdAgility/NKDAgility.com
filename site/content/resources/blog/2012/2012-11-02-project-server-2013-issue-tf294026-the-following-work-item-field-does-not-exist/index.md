@@ -27,8 +27,8 @@ aliasesArchive:
 - /blog/project-server-2013-issue-–-tf294026--the-following-work-item-field-does-not-exist
 - /resources/blog/project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
 tags:
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 - Troubleshooting
 - Pragmatic Thinking
 - Software Development

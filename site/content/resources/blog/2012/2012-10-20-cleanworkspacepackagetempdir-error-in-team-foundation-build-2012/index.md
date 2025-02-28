@@ -31,8 +31,8 @@ aliasesArchive:
 tags:
 - Troubleshooting
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
 preview: metro-problem-icon-6-6.png
 
 ---

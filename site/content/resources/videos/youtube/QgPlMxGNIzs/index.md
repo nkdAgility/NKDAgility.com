@@ -31,14 +31,14 @@ sitemap:
 tags:
 - Agile Values and Principles
 - People and Process
-- Agile Frameworks
-- Agile Project Management
-- Agile Leadership
 - Business Agility
-- Software Development
-- Market Adaptability
+- Agile Frameworks
+- Agile Leadership
+- Agile Project Management
 - Agile Strategy
-- Organisational Agility
+- Agile Transformation
+- Enterprise Agility
+- Software Development
 resourceTypes:
 - video
 categories:

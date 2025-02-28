@@ -27,8 +27,8 @@ tags:
 - People and Process
 - Events and Presentations
 - Transparency and Accountability
-- Pragmatic Thinking
 - Team Collaboration
+- Pragmatic Thinking
 - Remote Working
 - Team Performance
 - Collaboration Tools

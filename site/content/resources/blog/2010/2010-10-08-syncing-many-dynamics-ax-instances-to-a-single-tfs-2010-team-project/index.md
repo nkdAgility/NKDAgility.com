@@ -27,12 +27,12 @@ tags:
 - Modern Source Control
 - Practical Techniques and Tooling
 - System Configuration
-- Troubleshooting
 - Application Lifecycle Management
-- Technical Mastery
+- Azure DevOps
+- Technical Excellence
 - Operational Practices
+- Troubleshooting
 - Pragmatic Thinking
-- Software Development
 categories:
 - Engineering Excellence
 

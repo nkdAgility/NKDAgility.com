@@ -29,13 +29,13 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Troubleshooting
-- Operational Practices
-- Pragmatic Thinking
-- Software Development
 - Continuous Integration
 - Technical Excellence
+- Operational Practices
+- Troubleshooting
+- Pragmatic Thinking
 - System Configuration
+- Software Development
 - Release Management
 categories:
 - DevOps

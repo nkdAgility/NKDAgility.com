@@ -24,12 +24,12 @@ preview: https://i.ytimg.com/vi/GwrubbUKBSE/hqdefault.jpg
 duration: 2127
 isShort: false
 tags:
-- People and Process
 - Events and Presentations
-- Agile Project Management
-- Software Development
+- People and Process
 - Software Developers
 - Agile Frameworks
+- Agile Project Management
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.4

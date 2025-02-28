@@ -23,17 +23,17 @@ aliasesArchive:
 - /an-adoption-strategy-for-testing-with-visual-studio-2010
 - /resources/blog/an-adoption-strategy-for-testing-with-visual-studio-2010
 tags:
-- Products and Books
-- Practical Techniques and Tooling
 - Events and Presentations
+- Practical Techniques and Tooling
+- Products and Books
 - Software Development
-- People and Process
-- Team Collaboration
 - Software Developers
+- Team Collaboration
+- People and Process
 categories:
 - Scrum
-- Engineering Excellence
 - Social Technologies
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

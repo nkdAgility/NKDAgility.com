@@ -24,8 +24,8 @@ duration: 41
 isShort: true
 tags:
 - Events and Presentations
-- Software Development
 - Software Developers
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.4

@@ -24,11 +24,11 @@ aliasesArchive:
 - /professional-kanban-trainer-for-applying-professional-kanban
 - /resources/blog/professional-kanban-trainer-for-applying-professional-kanban
 tags:
-- Products and Books
 - Practical Techniques and Tooling
+- Products and Books
+- Agile Frameworks
 - Agile Project Management
 - Software Development
-- Agile Frameworks
 - Operational Practices
 categories:
 - Kanban

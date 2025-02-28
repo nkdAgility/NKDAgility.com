@@ -25,8 +25,8 @@ duration: 85
 isShort: false
 tags:
 - People and Process
-- Miscellaneous
 - Coaching
+- Miscellaneous
 sitemap:
   filename: sitemap.xml
   priority: 0.6

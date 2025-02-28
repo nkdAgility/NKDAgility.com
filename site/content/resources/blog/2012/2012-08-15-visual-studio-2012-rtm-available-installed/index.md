@@ -27,10 +27,10 @@ aliasesArchive:
 - /blog/visual-studio-2012-rtm-available-&-installed
 - /resources/blog/visual-studio-2012-rtm-available-installed
 tags:
-- Install and Configuration
 - News and Reviews
-- Products and Books
+- Install and Configuration
 - Practical Techniques and Tooling
+- Products and Books
 - Software Development
 - System Configuration
 - Release Management
