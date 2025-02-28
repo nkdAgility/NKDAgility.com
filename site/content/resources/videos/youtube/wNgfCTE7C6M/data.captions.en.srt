@@ -1,0 +1,625 @@
+1
+00:00:04,880 --> 00:00:10,980
+so the question
+
+2
+00:00:07,200 --> 00:00:12,840
+is how does the PSU course help teams
+
+3
+00:00:10,980 --> 00:00:14,280
+make more effective product development
+
+4
+00:00:12,840 --> 00:00:16,560
+decisions
+
+5
+00:00:14,280 --> 00:00:18,740
+and I think
+
+6
+00:00:16,560 --> 00:00:22,619
+the main
+
+7
+00:00:18,740 --> 00:00:25,740
+value take away from the PSU
+
+8
+00:00:22,619 --> 00:00:27,900
+is is this hypothesis driven driven
+
+9
+00:00:25,740 --> 00:00:30,720
+approach to software engineering right
+
+10
+00:00:27,900 --> 00:00:31,980
+to product development hypothesis
+
+11
+00:00:30,720 --> 00:00:33,899
+doesn't approach to product development
+
+12
+00:00:31,980 --> 00:00:37,020
+that that
+
+13
+00:00:33,899 --> 00:00:39,180
+in order to know that you want to add
+
+14
+00:00:37,020 --> 00:00:41,460
+something to the product you need to
+
+15
+00:00:39,180 --> 00:00:43,320
+have a reason for it to be there and
+
+16
+00:00:41,460 --> 00:00:45,480
+because Bob and accounting asked for it
+
+17
+00:00:43,320 --> 00:00:47,160
+is not necessarily a good reason to add
+
+18
+00:00:45,480 --> 00:00:49,200
+it to the product right it might be the
+
+19
+00:00:47,160 --> 00:00:51,600
+right thing for Bob but what about the
+
+20
+00:00:49,200 --> 00:00:54,180
+300 other people that use your product
+
+21
+00:00:51,600 --> 00:00:57,120
+is it the right thing for them and Bob
+
+22
+00:00:54,180 --> 00:01:00,660
+might be quite important but if Bob's
+
+23
+00:00:57,120 --> 00:01:02,280
+happy and he's important but 299 people
+
+24
+00:01:00,660 --> 00:01:04,199
+are unhappy with the feature you've
+
+25
+00:01:02,280 --> 00:01:06,600
+created then perhaps you're going to
+
+26
+00:01:04,199 --> 00:01:09,540
+have a very negative impression build up
+
+27
+00:01:06,600 --> 00:01:10,799
+slowly over time that overrides Bob and
+
+28
+00:01:09,540 --> 00:01:13,320
+then the customer stops using your
+
+29
+00:01:10,799 --> 00:01:15,000
+product right that's that that bounce so
+
+30
+00:01:13,320 --> 00:01:18,000
+having
+
+31
+00:01:15,000 --> 00:01:20,460
+um creating hypotheses right why are you
+
+32
+00:01:18,000 --> 00:01:22,080
+adding this feature to the product what
+
+33
+00:01:20,460 --> 00:01:24,060
+value is it going to bring to the
+
+34
+00:01:22,080 --> 00:01:26,759
+business and how are you going to
+
+35
+00:01:24,060 --> 00:01:29,580
+measure that you've been successful in
+
+36
+00:01:26,759 --> 00:01:31,680
+the changes that you make and then even
+
+37
+00:01:29,580 --> 00:01:34,380
+once you've got all of that figuring out
+
+38
+00:01:31,680 --> 00:01:37,439
+what's the smallest experiment we could
+
+39
+00:01:34,380 --> 00:01:40,200
+run to start validating that hypothesis
+
+40
+00:01:37,439 --> 00:01:41,460
+right so that's that's effectively what
+
+41
+00:01:40,200 --> 00:01:43,680
+you should build first you should be
+
+42
+00:01:41,460 --> 00:01:45,240
+running lots of little experiments for
+
+43
+00:01:43,680 --> 00:01:47,100
+these different little features and
+
+44
+00:01:45,240 --> 00:01:49,320
+capabilities that you might add to the
+
+45
+00:01:47,100 --> 00:01:50,939
+product in the future right you might
+
+46
+00:01:49,320 --> 00:01:53,100
+add the full thing to the product but we
+
+47
+00:01:50,939 --> 00:01:55,320
+need to run lots of little experiments
+
+48
+00:01:53,100 --> 00:01:57,060
+to figure out what are the things that
+
+49
+00:01:55,320 --> 00:01:59,399
+should go on to the main part of the
+
+50
+00:01:57,060 --> 00:02:01,560
+backlog that were actually
+
+51
+00:01:59,399 --> 00:02:03,240
+delivering right that's that delivery
+
+52
+00:02:01,560 --> 00:02:05,280
+channel to customers this is this
+
+53
+00:02:03,240 --> 00:02:07,320
+Discovery Channel this design channel
+
+54
+00:02:05,280 --> 00:02:09,539
+are we figuring out what it is we're
+
+55
+00:02:07,320 --> 00:02:12,599
+creating and the whole team works
+
+56
+00:02:09,539 --> 00:02:17,280
+together on that the whole team is part
+
+57
+00:02:12,599 --> 00:02:19,440
+of that team that helps uh uh facilitate
+
+58
+00:02:17,280 --> 00:02:23,160
+that and I think that that for me is the
+
+59
+00:02:19,440 --> 00:02:24,599
+big value proposition of the PSU but it
+
+60
+00:02:23,160 --> 00:02:27,959
+has a kind of additional side
+
+61
+00:02:24,599 --> 00:02:30,560
+proposition in that
+
+62
+00:02:27,959 --> 00:02:34,020
+um quite often the the the the the
+
+63
+00:02:30,560 --> 00:02:36,480
+design the design team like the
+
+64
+00:02:34,020 --> 00:02:39,060
+designers are separate from the
+
+65
+00:02:36,480 --> 00:02:41,040
+engineers and the designers go design
+
+66
+00:02:39,060 --> 00:02:42,420
+stuff and and kind of hand it over to
+
+67
+00:02:41,040 --> 00:02:43,560
+the engineers and then the engineers go
+
+68
+00:02:42,420 --> 00:02:45,840
+build it
+
+69
+00:02:43,560 --> 00:02:48,360
+and trying to figure out how do we bring
+
+70
+00:02:45,840 --> 00:02:51,060
+that together right I mean you can't you
+
+71
+00:02:48,360 --> 00:02:52,260
+can't expect everybody in your in your
+
+72
+00:02:51,060 --> 00:02:54,599
+scrum team
+
+73
+00:02:52,260 --> 00:02:56,519
+um to be a ux designer that doesn't make
+
+74
+00:02:54,599 --> 00:02:57,739
+any sense you've you've got to study
+
+75
+00:02:56,519 --> 00:03:00,599
+you're just like you can't expect
+
+76
+00:02:57,739 --> 00:03:03,420
+everybody on your team to be a coder
+
+77
+00:03:00,599 --> 00:03:05,940
+right you've got to study your Craft
+
+78
+00:03:03,420 --> 00:03:08,700
+um you've got to you got to become good
+
+79
+00:03:05,940 --> 00:03:10,319
+at your craft and then you're able to
+
+80
+00:03:08,700 --> 00:03:12,480
+provide value and make the right choices
+
+81
+00:03:10,319 --> 00:03:14,940
+and and help with the team so you're
+
+82
+00:03:12,480 --> 00:03:17,879
+always going to need those expert level
+
+83
+00:03:14,940 --> 00:03:20,280
+skills for these particular skills but
+
+84
+00:03:17,879 --> 00:03:22,620
+there are also lots of things that
+
+85
+00:03:20,280 --> 00:03:25,800
+everybody on the team needs to
+
+86
+00:03:22,620 --> 00:03:28,319
+understand about design
+
+87
+00:03:25,800 --> 00:03:29,819
+so that they don't what's the what's a
+
+88
+00:03:28,319 --> 00:03:31,560
+good expression they don't cut the feet
+
+89
+00:03:29,819 --> 00:03:34,680
+out from under the designers right
+
+90
+00:03:31,560 --> 00:03:36,420
+because the the every person on your
+
+91
+00:03:34,680 --> 00:03:40,019
+team is making lots of little micro
+
+92
+00:03:36,420 --> 00:03:43,319
+decisions every day that that that may
+
+93
+00:03:40,019 --> 00:03:45,780
+impact on architecture way things work
+
+94
+00:03:43,319 --> 00:03:48,060
+all kinds of things it's going to impact
+
+95
+00:03:45,780 --> 00:03:49,440
+in in the product and perhaps they've
+
+96
+00:03:48,060 --> 00:03:52,200
+spent a whole bunch of time going down
+
+97
+00:03:49,440 --> 00:03:55,200
+this route that then the designers come
+
+98
+00:03:52,200 --> 00:03:57,000
+out with a a new way of Designing that
+
+99
+00:03:55,200 --> 00:03:59,280
+then has a massive
+
+100
+00:03:57,000 --> 00:04:02,400
+cost and impact on the way the product
+
+101
+00:03:59,280 --> 00:04:03,360
+goes together and that that could have
+
+102
+00:04:02,400 --> 00:04:06,360
+been
+
+103
+00:04:03,360 --> 00:04:09,000
+maybe reduced by having these two groups
+
+104
+00:04:06,360 --> 00:04:11,400
+work closely together so that the team
+
+105
+00:04:09,000 --> 00:04:14,159
+better understood the long-term
+
+106
+00:04:11,400 --> 00:04:16,560
+strategic direction of what it is that
+
+107
+00:04:14,159 --> 00:04:17,820
+the designers are trying to do and that
+
+108
+00:04:16,560 --> 00:04:19,739
+they can incorporate some of those
+
+109
+00:04:17,820 --> 00:04:22,139
+things into their continuous decision
+
+110
+00:04:19,739 --> 00:04:23,400
+making right that way they make more of
+
+111
+00:04:22,139 --> 00:04:25,500
+the right decisions and less of the
+
+112
+00:04:23,400 --> 00:04:27,180
+wrong ones and and bringing those two
+
+113
+00:04:25,500 --> 00:04:29,460
+groups together so that for me is the
+
+114
+00:04:27,180 --> 00:04:31,259
+the second part to that story not just
+
+115
+00:04:29,460 --> 00:04:32,880
+bringing hypothesis driven Engineering
+
+116
+00:04:31,259 --> 00:04:35,280
+in which
+
+117
+00:04:32,880 --> 00:04:37,380
+should be there anyway right but also
+
+118
+00:04:35,280 --> 00:04:38,639
+how do we bring these two groups closer
+
+119
+00:04:37,380 --> 00:04:43,560
+together
+
+120
+00:04:38,639 --> 00:04:46,560
+um and how do you balance how much of
+
+121
+00:04:43,560 --> 00:04:47,280
+this work you do up front
+
+122
+00:04:46,560 --> 00:04:50,220
+um
+
+123
+00:04:47,280 --> 00:04:51,840
+and how you integrate it in to the
+
+124
+00:04:50,220 --> 00:04:53,520
+stream of value that you're actually
+
+125
+00:04:51,840 --> 00:04:55,800
+actually delivering on a continuous
+
+126
+00:04:53,520 --> 00:04:58,740
+basis so how do you bring this all
+
+127
+00:04:55,800 --> 00:05:01,740
+together into a unified strategy so you
+
+128
+00:04:58,740 --> 00:05:03,780
+can continue not only in the small scale
+
+129
+00:05:01,740 --> 00:05:06,060
+continually and repeatedly deliver value
+
+130
+00:05:03,780 --> 00:05:07,380
+to the customers right but also in the
+
+131
+00:05:06,060 --> 00:05:08,820
+hypothesis driven engineering
+
+132
+00:05:07,380 --> 00:05:10,860
+continuously run lots of little
+
+133
+00:05:08,820 --> 00:05:13,080
+experiments maybe five or six little
+
+134
+00:05:10,860 --> 00:05:14,759
+experiments a Sprint we're trying to see
+
+135
+00:05:13,080 --> 00:05:17,280
+the numbers change so that we can spend
+
+136
+00:05:14,759 --> 00:05:18,960
+more time in that area but that data
+
+137
+00:05:17,280 --> 00:05:21,540
+from that those hypotheses are then
+
+138
+00:05:18,960 --> 00:05:23,220
+feeding back into the story that the
+
+139
+00:05:21,540 --> 00:05:25,560
+designers working with the product owner
+
+140
+00:05:23,220 --> 00:05:26,940
+and the whole team are figuring out like
+
+141
+00:05:25,560 --> 00:05:28,740
+where are we actually going with the
+
+142
+00:05:26,940 --> 00:05:31,160
+product how are we shaping and changing
+
+143
+00:05:28,740 --> 00:05:35,400
+it and how do we incorporate those
+
+144
+00:05:31,160 --> 00:05:37,380
+long-term strategic initiatives into
+
+145
+00:05:35,400 --> 00:05:40,320
+this Sprint cycle where we have this
+
+146
+00:05:37,380 --> 00:05:43,440
+regular delivery Cadence so answering
+
+147
+00:05:40,320 --> 00:05:45,300
+all of those questions is for me the
+
+148
+00:05:43,440 --> 00:05:48,620
+main purpose of the professional scrum
+
+149
+00:05:45,300 --> 00:05:48,620
+with user experience class
+
+150
+00:05:49,139 --> 00:05:52,919
+thanks for watching the video If you
+
+151
+00:05:51,060 --> 00:05:56,100
+enjoyed it please like follow And
+
+152
+00:05:52,919 --> 00:05:58,680
+subscribe I always reply to comments and
+
+153
+00:05:56,100 --> 00:06:01,740
+if you want to have a chat about this or
+
+154
+00:05:58,680 --> 00:06:03,419
+anything else agile scrum or devops then
+
+155
+00:06:01,740 --> 00:06:06,199
+please book a coffee with me through
+
+156
+00:06:03,419 --> 00:06:06,199
+naked agility
+
+

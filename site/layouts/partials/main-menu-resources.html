@@ -13,9 +13,10 @@
             <p>{{- $resources.Description }}</p>
             <ul class="list-group">
               {{- range $sortedPages }}
-                <li class="list-group-item">
-                  <a href="{{- .Permalink }}">{{- .Params.shorttitle }}</a>
-                </li>
+                {{- $count :=  len (where .Pages "Draft" "!=" true) }}
+                {{- if gt $count 0 }}
+                  <li class="list-group-item"><a href="{{- .Permalink }}">{{- .Params.shorttitle }} </a> <span class="ms-1">({{- $count }})</span></li>
+                {{- end }}
               {{- end }}
             </ul>
           </div>
@@ -64,7 +65,8 @@
                     <span class="text-truncate d-inline-block" style="max-width: 100%;" title="{{ .Page.Title }}">
                       <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
                     </span>
-                    <span class="ms-1">({{ len $pages }})</span>
+                    {{- $count :=  len (where $pages "Draft" "!=" true) }}
+                    <span class="ms-1">({{ $count }})</span>
                   </div>
                 {{ end }}
               </div>
@@ -78,7 +80,8 @@
                     <span class="text-truncate d-inline-block" style="max-width: 100%;" title="{{ .Page.Title }}">
                       <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
                     </span>
-                    <span class="ms-1">({{ len $pages }})</span>
+                    {{- $count :=  len (where $pages "Draft" "!=" true) }}
+                    <span class="ms-1">({{ $count }})</span>
                   </div>
                 {{ end }}
               </div>
