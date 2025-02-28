@@ -30,8 +30,8 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Organisational Culture
 - Agile Philosophy
+- Organisational Culture
 - Agile Leadership
 - Agile Values and Principles
 - Team Performance

@@ -30,14 +30,14 @@ aliasesArchive:
 tags:
 - Pragmatic Thinking
 - Sensemaking
-- Agile Product Management
 - Agile Project Management
-- People and Process
+- Agile Product Management
 - Agile Product Operating Model
 - Scrum Product Development
-- Discovery and Learning
-- Resilience and Change
 - Product Backlog
+- Resilience and Change
+- Agile Strategy
+- Discovery and Learning
 categories:
 - Product Management
 - Social Technologies

@@ -30,15 +30,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Agile Values and Principles
+- Agile Product Operating Model
 - Agile Product Management
+- Agile Values and Principles
+- Agile Leadership
 - Value Delivery
 - Business Agility
-- Agile Leadership
-- Agile Product Operating Model
-- Change Management
-- Operational Practices
+- Team Performance
 - Technical Leadership
+- Empirical Process Control
 resourceTypes:
 - video
 layout: video

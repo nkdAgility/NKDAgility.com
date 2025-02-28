@@ -28,16 +28,16 @@ preview: https://i.ytimg.com/vi/XyprV8F_es4/maxresdefault.jpg
 duration: 398
 isShort: false
 tags:
-- Continuous Learning
-- Resilience and Change
 - Continuous Delivery
-- Change Management
-- Organisational Agility
-- Business Agility
+- Resilience and Change
+- Continuous Learning
 - Organisational Culture
-- Organisational Change
-- Enterprise Agility
+- Sociotechnical Systems
 - Value Delivery
+- Business Agility
+- Change Management
+- Enterprise Agility
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

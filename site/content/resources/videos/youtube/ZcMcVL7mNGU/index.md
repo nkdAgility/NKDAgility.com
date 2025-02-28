@@ -24,15 +24,15 @@ preview: https://i.ytimg.com/vi/ZcMcVL7mNGU/maxresdefault.jpg
 duration: 256
 isShort: false
 tags:
+- Software Development
+- Agile Product Management
 - People and Process
 - Agile Product Operating Model
-- Agile Product Management
-- Software Development
-- Product Strategy
-- Value Delivery
-- Metrics and Learning
-- Product Delivery
 - Hypothesis Driven Development
+- Metrics and Learning
+- Value Delivery
+- Product Strategy
+- Product Delivery
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml

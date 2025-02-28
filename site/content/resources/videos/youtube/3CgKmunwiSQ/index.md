@@ -30,8 +30,8 @@ sitemap:
 tags:
 - Decision Making
 - Evidence Based Management
-- People and Process
 - Metrics and Learning
+- People and Process
 - Evidence Based Leadership
 - Decision Theory
 - Pragmatic Thinking
@@ -40,8 +40,8 @@ resourceTypes:
 layout: video
 categories:
 - Product Management
-- Social Technologies
 - Leadership
+- Social Technologies
 
 ---
 ## **What Is Traditional Management?**

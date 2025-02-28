@@ -1,6 +1,6 @@
 ---
-title: How does the PSU course help teams make more effective product development decisions?
-description: Discover how the PSU course enhances collaboration between design and engineering, empowering teams to make smarter product development decisions!
+title: 'Unlocking Effective Product Development: How a Hypothesis-Driven Approach Transforms User Experience'
+description: Unlock the secrets of effective product development! Discover how a hypothesis-driven approach and collaboration can transform your user experience.
 date: 2023-04-10T07:00:18Z
 weight: 770
 ResourceId: wNgfCTE7C6M
@@ -11,7 +11,6 @@ videoId: wNgfCTE7C6M
 url: /resources/videos/:slug
 slug: how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=wNgfCTE7C6M
 aliases:
 - /resources/wNgfCTE7C6M
 - /resources/videos/how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions
@@ -30,7 +29,7 @@ tags:
 - Agile Frameworks
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
@@ -38,22 +37,46 @@ categories:
 - Social Technologies
 
 ---
- Scrum.Org recently launched the PSU (Professional Scrum with User Experience) course that intends to help bring product designers, user experience specialists, and scrum development teams closer together.
+In my journey through the world of product development, I've often found myself reflecting on the importance of making informed decisions that truly benefit our users. Recently, I had the opportunity to delve into the Professional Scrum with User Experience (PSU) course, and I can confidently say that it has profoundly shaped my understanding of effective product development. 
 
-it is an absolutely awesome course and will show you how to integrate design and engineering into #productdevelopment on an iterative and continuous basis rather than the chicken and the egg dilemma it currently faces.
+### The Hypothesis-Driven Approach
 
-In this short video, Martin Hinshelwood talks about the value a #PSU course will bring in helping teams make more effective #productdevelopment decisions.
+At the heart of the PSU course is a hypothesis-driven approach to software engineering. This methodology encourages us to ask the critical question: *Why are we adding this feature to our product?* 
 
-About NKD Agility
+- **Understanding User Needs**: It's not enough to add a feature simply because someone, like Bob from accounting, requests it. While Bob's needs are important, we must consider the broader user base—what about the 300 other users who might be affected? If we prioritise Bob's request at the expense of the majority, we risk alienating our core users, leading to a negative perception of our product over time.
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+- **Creating Hypotheses**: The PSU course emphasises the need to create hypotheses around new features. We should ask ourselves:
+  - What value will this feature bring to the business?
+  - How will we measure its success?
+  
+  By framing our decisions as hypotheses, we can better evaluate the potential impact of our choices.
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+### Running Experiments
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+Once we have our hypotheses, the next step is to determine the smallest experiment we can run to validate them. This is where the magic happens:
 
-We would love to work with you. 
+- **Small Experiments**: Instead of committing to a full-scale feature, we should conduct small experiments to test our ideas. This allows us to gather data and insights before making significant changes to our product.
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
- [Watch on Youtube](https://www.youtube.com/watch?v=wNgfCTE7C6M)
+- **Discovery and Design Channels**: We need to differentiate between our delivery channel (what we deliver to customers) and our discovery channel (how we figure out what to create). The PSU course teaches us to run multiple experiments to identify which features should make it to our main backlog.
+
+### Bridging the Gap Between Design and Development
+
+One of the most significant insights I gained from the PSU course is the importance of collaboration between design and engineering teams. Often, these groups operate in silos, leading to misalignment and inefficiencies.
+
+- **Collaboration is Key**: We can't expect every team member to be a UX designer or a coder. Each discipline requires expertise, but everyone should have a basic understanding of design principles. This knowledge helps prevent decisions that undermine the designers' work.
+
+- **Micro-Decisions Matter**: Every team member makes countless micro-decisions daily that can impact the product's architecture and overall design. By fostering collaboration, we can ensure that these decisions align with the long-term strategic direction set by the design team.
+
+### Integrating Strategy and Continuous Delivery
+
+The PSU course also highlights the need to balance upfront work with continuous delivery. 
+
+- **Unified Strategy**: We must integrate our hypothesis-driven engineering into our regular delivery cadence. This means continuously running experiments—perhaps five or six each sprint—to see how our changes affect user behaviour.
+
+- **Feedback Loops**: The data we gather from these experiments should feed back into our product strategy. This iterative process allows us to shape our product in alignment with user needs and long-term goals.
+
+### Conclusion
+
+In summary, the Professional Scrum with User Experience course has equipped me with invaluable tools for making more effective product development decisions. By adopting a hypothesis-driven approach, running small experiments, fostering collaboration between design and engineering, and integrating our strategies into a continuous delivery model, we can create products that truly resonate with our users.
+
+If you're interested in exploring these concepts further or have any questions about agile, scrum, or DevOps, I invite you to book a coffee chat with me through Naked Agility. Let's continue the conversation and drive meaningful change in our product development practices!

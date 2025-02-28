@@ -33,13 +33,13 @@ sitemap:
 tags:
 - Personal
 - Scrum Master
+- Agile Frameworks
 - People and Process
 - Agile Project Management
-- Agile Frameworks
 - Discovery and Learning
-- Pragmatic Thinking
 - Continuous Learning
 - Professional Scrum
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

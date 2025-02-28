@@ -43,13 +43,13 @@ tags:
 - Scaling Scrum
 - Scaled Agile
 - Scrum Product Development
-- Large Scale Agility
 - Product Delivery
 - Scrum Team
-- Software Development
-- Professional Scrum
+- Large Scale Agility
 - Scaling Agility
-- Agile Project Management
+- Professional Scrum
+- Software Development
+- Agile Frameworks
 
 ---
 The Definitive Guide to Scaling Scrum with Nexus

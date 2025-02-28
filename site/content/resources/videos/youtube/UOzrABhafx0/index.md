@@ -31,14 +31,14 @@ sitemap:
 tags:
 - Agile Product Management
 - Product Backlog
-- Products and Books
 - Scrum Product Development
-- Agile Project Management
 - Product Owner
-- Software Development
+- Agile Project Management
+- Products and Books
+- Agile Planning
+- Agile Frameworks
 - Agile Planning Tools
 - Professional Scrum
-- Agile Planning
 resourceTypes:
 - video
 categories:

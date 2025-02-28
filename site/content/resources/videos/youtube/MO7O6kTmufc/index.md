@@ -27,9 +27,9 @@ isShort: true
 tags:
 - Metrics and Learning
 - Evidence Based Management
-- Decision Making
 - Pragmatic Thinking
 - Evidence Based Leadership
+- Decision Making
 sitemap:
   filename: sitemap.xml
   priority: 0.6

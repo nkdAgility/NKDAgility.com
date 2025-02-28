@@ -29,12 +29,12 @@ tags:
 - People and Process
 - Scrum Master
 - Discovery and Learning
-- Professional Scrum
 - Practical Techniques and Tooling
-- Scrum Team
 - Continuous Learning
-- Software Development
-- Agile Project Management
+- Scrum Team
+- Professional Scrum
+- Team Performance
+- Personal
 sitemap:
   filename: sitemap.xml
   priority: 0.6

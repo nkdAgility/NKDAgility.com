@@ -40,14 +40,14 @@ tags:
 - Systems Thinking
 - Sociotechnical Systems
 - Business Agility
-- Agile Strategy
 - Organisational Agility
+- Agile Strategy
 resourceTypes:
 - video
 categories:
 - Product Management
-- Engineering Excellence
 - Social Technologies
+- Engineering Excellence
 
 ---
 Scaling product development sounds deceptively simple, doesn’t it? Just hire more developers, write more code, and ship more features. However, my experience has taught me that scaling is far more complex than merely increasing headcount. It’s about constructing a robust system that can grow effectively, and that’s where many organisations stumble.

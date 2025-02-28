@@ -27,16 +27,16 @@ preview: https://i.ytimg.com/vi/WEYf9jWG9wk/maxresdefault.jpg
 duration: 53
 isShort: true
 tags:
-- Hypothesis Driven Development
-- Discovery and Learning
 - Value Delivery
-- Pragmatic Thinking
+- Discovery and Learning
+- Hypothesis Driven Development
 - Experimentation
 - Continuous Learning
+- Pragmatic Thinking
 - Lean Product Development
-- Product Validation
 - Product Discovery
-- Business Agility
+- Product Validation
+- Lean Startup
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,8 +45,8 @@ resourceTypes:
 - video
 categories:
 - Product Management
-- Engineering Excellence
 - Social Technologies
+- Engineering Excellence
 
 ---
 In my journey through the world of software development, I've witnessed a remarkable transformation in how teams approach feature delivery. A recent case study I came across highlighted a team that evolved from delivering a mere 25 features to production each year to an astonishing 150 features, all while maintaining the same headcount. This leap didn’t happen overnight; it took them four years to refine their processes and embrace a new mindset. But the results speak for themselves—who wouldn’t prefer 800 features over 25?

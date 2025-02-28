@@ -35,12 +35,12 @@ tags:
 - People and Process
 - Organisational Culture
 - Transparency and Accountability
-- Agile Project Management
 - Agile Philosophy
+- Agile Project Management
 - Personal
+- Software Developers
 - Pragmatic Thinking
 - Software Development
-- Software Developers
 resourceTypes:
 - video
 categories:

@@ -28,12 +28,12 @@ tags:
 - People and Process
 - Business Agility
 - Organisational Agility
-- Team Performance
 - Scrum Product Development
-- Market Adaptability
-- Agile Product Management
-- Agile Strategy
-- Pragmatic Thinking
+- Value Delivery
+- Software Developers
+- Agile Frameworks
+- Agile Transformation
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.4

@@ -21,13 +21,13 @@ categories:
 - Scrum
 - Social Technologies
 tags:
-- People and Process
 - Continuous Learning
-- Discovery and Learning
+- People and Process
 - Professional Scrum
-- Products and Books
+- Discovery and Learning
 - Events and Presentations
 - Agile Transformation
+- Products and Books
 - Pragmatic Thinking
 - Agile Project Management
 - Value Delivery

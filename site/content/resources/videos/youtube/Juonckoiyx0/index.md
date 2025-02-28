@@ -27,16 +27,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Scrum Product Development
 - Sprint Review
+- Scrum Product Development
+- People and Process
 - Scrum Team
-- Transparency and Accountability
-- Team Collaboration
-- Professional Scrum
-- Product Owner
 - Agile Planning
+- Agile Product Management
+- Transparency and Accountability
 - Team Performance
+- Product Owner
+- Scrum Master
 resourceTypes:
 - video
 categories:

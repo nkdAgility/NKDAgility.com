@@ -27,10 +27,10 @@ tags:
 - Azure DevOps
 - Practical Techniques and Tooling
 - Software Development
-- Technical Mastery
+- Technical Excellence
 - Engineering Practices
 - Pragmatic Thinking
-- Technical Excellence
+- Technical Mastery
 - Operational Practices
 sitemap:
   filename: sitemap.xml

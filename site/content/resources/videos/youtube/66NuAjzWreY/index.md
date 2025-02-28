@@ -29,8 +29,8 @@ sitemap:
   priority: 0.6
 tags:
 - Evidence Based Management
-- Decision Making
 - Evidence Based Leadership
+- Decision Making
 resourceTypes:
 - video
 layout: video

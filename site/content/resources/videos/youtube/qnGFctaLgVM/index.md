@@ -28,13 +28,13 @@ sitemap:
   priority: 0.6
 tags:
 - Product Owner
-- People and Process
 - Agile Product Management
-- Miscellaneous
+- People and Process
+- Personal
+- Professional Scrum
 - Pragmatic Thinking
 - Coaching
-- Professional Scrum
-- Personal
+- Miscellaneous
 resourceTypes:
 - video
 categories:

@@ -30,9 +30,9 @@ tags:
 - Pragmatic Thinking
 - Software Development
 - Practical Techniques and Tooling
-- Technical Mastery
-- Operational Practices
 - Technical Excellence
+- Operational Practices
+- Technical Mastery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

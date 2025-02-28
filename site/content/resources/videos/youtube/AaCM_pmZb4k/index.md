@@ -35,8 +35,8 @@ tags:
 - Organisational Culture
 - Organisational Physics
 - Sociotechnical Systems
-- Decision Making
 - Organisational Change
+- Decision Making
 - Market Adaptability
 - Business Agility
 - Enterprise Agility

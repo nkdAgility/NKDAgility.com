@@ -37,17 +37,17 @@ tags:
 - Scrum Master
 - Scrum Team
 - Team Performance
-- Agile Project Management
 - Mentoring
 - Agile Frameworks
-- Pragmatic Thinking
+- Agile Project Management
 - Team Collaboration
+- Professional Scrum
 resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 - Leadership
+- Social Technologies
 
 ---
 ## The Agile Landscape: A Guide to Effective Coaching and Leadership 

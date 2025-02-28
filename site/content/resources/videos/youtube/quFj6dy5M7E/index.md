@@ -26,15 +26,15 @@ duration: 266
 isShort: false
 tags:
 - People and Process
-- Value Delivery
 - Product Delivery
-- Pragmatic Thinking
+- Value Delivery
 - Software Development
+- Pragmatic Thinking
 - Sociotechnical Systems
 - Team Performance
 - Software Developers
-- Agile Product Operating Model
-- Market Adaptability
+- Operational Practices
+- Technical Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -36,11 +36,11 @@ tags:
 - Complexity Thinking
 - Pragmatic Thinking
 - Business Agility
-- Empirical Process Control
-- Market Adaptability
-- Organisational Agility
-- Personal
 - Agile Philosophy
+- Empirical Process Control
+- Personal
+- Sensemaking
+- Organisational Agility
 resourceTypes:
 - video
 categories:

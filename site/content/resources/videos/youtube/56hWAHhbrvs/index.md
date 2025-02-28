@@ -34,11 +34,11 @@ tags:
 - Agile Strategy
 - Agile Philosophy
 - Agile Transformation
-- Scaling Agility
-- Business Agility
 - Organisational Culture
+- Business Agility
+- Scaling Agility
 - Organisational Change
-- Organisational Physics
+- Sociotechnical Systems
 - Beta Codex
 resourceTypes:
 - video

@@ -31,13 +31,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Master
-- Discovery and Learning
 - Professional Scrum
+- Discovery and Learning
+- Scrum Master
+- Agile Frameworks
+- Continuous Learning
 - People and Process
 - Agile Project Management
-- Continuous Learning
-- Agile Frameworks
 - Pragmatic Thinking
 - Coaching
 - Accountability

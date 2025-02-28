@@ -29,8 +29,8 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum Product Development
-- Professional Scrum
 - Agile Planning
+- Professional Scrum
 - Agile Project Management
 - Software Development
 resourceTypes:

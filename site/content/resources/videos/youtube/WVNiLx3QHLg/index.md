@@ -32,14 +32,14 @@ sitemap:
   priority: 0.6
 tags:
 - Decision Making
-- People and Process
 - Decision Theory
 - Agile Leadership
-- Team Performance
-- Team Motivation
-- Employee Engagement
-- Business Agility
+- People and Process
+- Systems Thinking
+- Agile Philosophy
 - Organisational Culture
+- Business Agility
+- Team Motivation
 - Organisational Change
 resourceTypes:
 - video

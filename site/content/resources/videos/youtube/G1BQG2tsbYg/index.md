@@ -30,15 +30,15 @@ sitemap:
   priority: 0.6
 tags:
 - Enterprise Agility
-- Business Agility
 - Agile Strategy
+- Business Agility
 - Strategy
 - Agile Product Management
 - Agile Values and Principles
 - Market Adaptability
-- Change Management
-- Operational Practices
 - Resilience and Change
+- Agile Planning
+- Operational Practices
 resourceTypes:
 - video
 categories:

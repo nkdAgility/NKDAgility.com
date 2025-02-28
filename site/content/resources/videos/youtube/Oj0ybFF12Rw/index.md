@@ -30,9 +30,9 @@ sitemap:
 tags:
 - Scaling Scrum
 - Scaling Agility
+- Agile Frameworks
 - Agile Project Management
 - Software Development
-- Agile Frameworks
 - Professional Scrum
 - Scaled Agile
 resourceTypes:

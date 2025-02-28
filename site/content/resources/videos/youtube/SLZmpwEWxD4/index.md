@@ -35,11 +35,11 @@ tags:
 - People and Process
 - Practical Techniques and Tooling
 - Team Collaboration
-- Agile Project Management
 - Transparency
-- Pragmatic Thinking
-- Software Development
+- Agile Frameworks
 - Lean Thinking
+- Pragmatic Thinking
+- Agile Project Management
 resourceTypes:
 - video
 categories:

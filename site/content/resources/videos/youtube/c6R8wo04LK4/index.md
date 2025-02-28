@@ -27,8 +27,8 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Agile Project Management
 - Agile Frameworks
+- Agile Project Management
 resourceTypes:
 - video
 categories:

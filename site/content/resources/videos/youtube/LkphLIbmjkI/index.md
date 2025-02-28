@@ -30,9 +30,9 @@ sitemap:
 tags:
 - People and Process
 - Agile Project Management
+- Agile Frameworks
 - Technical Leadership
 - Software Development
-- Agile Frameworks
 - Pragmatic Thinking
 - Mentoring
 - Software Developers

@@ -26,21 +26,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Master
-- Agile Project Management
-- Agile Leadership
 - Team Collaboration
+- Agile Leadership
+- Agile Project Management
+- Scrum Master
 - Scrum Team
-- People and Process
 - Team Performance
 - Team Motivation
-- Technical Leadership
+- Agile Frameworks
 - Agile Transformation
+- Technical Leadership
 resourceTypes:
 - video
 categories:
-- Scrum
 - Leadership
+- Scrum
 - Social Technologies
 
 ---

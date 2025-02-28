@@ -32,8 +32,8 @@ sitemap:
 tags:
 - Continuous Learning
 - Discovery and Learning
-- People and Process
 - Change Management
+- People and Process
 - Organisational Agility
 - Resilience and Change
 - Organisational Change

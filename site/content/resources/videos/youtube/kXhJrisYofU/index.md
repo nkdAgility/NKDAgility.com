@@ -26,15 +26,15 @@ duration: 496
 isShort: false
 tags:
 - Agile Product Operating Model
-- Agile Product Management
 - Agile Project Management
-- People and Process
-- Change Management
-- Agile Values and Principles
+- Agile Product Management
 - Resilience and Change
+- People and Process
+- Agile Values and Principles
+- Change Management
+- Product Delivery
 - Agile Strategy
-- Business Agility
-- Market Adaptability
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

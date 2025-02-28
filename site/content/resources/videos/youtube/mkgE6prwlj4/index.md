@@ -32,8 +32,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Pragmatic Thinking
 - Agile Frameworks
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

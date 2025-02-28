@@ -29,13 +29,13 @@ tags:
 - People and Process
 - Discovery and Learning
 - Team Motivation
-- Employee Engagement
-- Agile Project Management
-- Miscellaneous
 - Customer Retention
-- Software Development
-- Team Collaboration
 - Continuous Learning
+- Employee Engagement
+- Team Collaboration
+- Agile Project Management
+- Software Development
+- Miscellaneous
 sitemap:
   filename: sitemap.xml
   priority: 0.6

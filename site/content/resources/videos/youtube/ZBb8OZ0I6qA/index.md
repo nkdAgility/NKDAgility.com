@@ -27,13 +27,13 @@ isShort: false
 tags:
 - Agile Product Management
 - Agile Project Management
-- People and Process
-- Agile Product Operating Model
 - Scrum Product Development
 - Practical Techniques and Tooling
-- Product Backlog
 - Azure DevOps
-- Pragmatic Thinking
+- People and Process
+- Product Backlog
+- Agile Product Operating Model
+- Agile Planning
 - Azure Boards
 sitemap:
   filename: sitemap.xml

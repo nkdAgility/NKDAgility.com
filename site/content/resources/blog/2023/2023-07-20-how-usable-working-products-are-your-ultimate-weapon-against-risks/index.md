@@ -25,15 +25,15 @@ aliasesArchive:
 - /resources/blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
 tags:
 - Increment
-- Working Software
-- Agile Product Operating Model
+- Customer Feedback Loops
+- Engineering Practices
+- Software Development
 - Agile Product Management
 - Software Developers
 - Agile Strategy
-- Software Development
-- Customer Feedback Loops
-- Engineering Practices
-- Market Adaptability
+- Agile Product Operating Model
+- Working Software
+- Agile Philosophy
 categories:
 - Engineering Excellence
 - Social Technologies

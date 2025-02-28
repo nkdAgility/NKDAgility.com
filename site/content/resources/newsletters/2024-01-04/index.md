@@ -22,12 +22,12 @@ categories:
 - Scrum
 - Social Technologies
 tags:
+- Agile Frameworks
 - Continuous Learning
 - Professional Scrum
-- Agile Frameworks
 - People and Process
-- Products and Books
 - Agile Project Management
+- Products and Books
 - Software Development
 - Practical Techniques and Tooling
 - Scrum Master

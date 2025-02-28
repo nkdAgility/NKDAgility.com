@@ -25,14 +25,14 @@ aliasesArchive:
 tags:
 - Increment
 - Value Delivery
+- Transparency
 - Product Delivery
 - Agile Product Management
-- Transparency
-- Software Development
 - Deployment Frequency
-- Frequent Releases
-- Scrum Product Development
+- Software Development
 - People and Process
+- Frequent Releases
+- Working Software
 categories:
 - Product Management
 preview: 2025-02-10-without-delivery-no-value.jpg

@@ -33,10 +33,10 @@ tags:
 - Product Owner
 - Agile Product Management
 - Scrum Product Development
-- Product Strategy
 - Value Delivery
-- Agile Strategy
+- Product Strategy
 - Agile Project Management
+- Agile Strategy
 resourceTypes:
 - video
 categories:

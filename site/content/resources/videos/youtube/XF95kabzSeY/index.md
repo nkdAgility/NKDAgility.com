@@ -26,16 +26,16 @@ preview: https://i.ytimg.com/vi/XF95kabzSeY/maxresdefault.jpg
 duration: 67
 isShort: false
 tags:
-- People and Process
 - Scrum Product Development
-- Agile Product Management
-- Agile Project Management
 - Mentoring
-- Software Development
-- Product Owner
+- Agile Frameworks
 - Agile Transformation
+- Agile Product Management
+- People and Process
+- Product Owner
+- Professional Scrum
 - Product Delivery
-- Scrum Team
+- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -44,8 +44,8 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Product Management
 - Social Technologies
+- Product Management
 
 ---
 As I step into the role of a new Product Owner, I often reflect on the pivotal moments that define our journey in product development. One of the most crucial aspects I’ve learned is the importance of filling the vacuum of understanding within our teams and across the organisation. This is not just a task; it’s a responsibility that can make or break the success of our product.

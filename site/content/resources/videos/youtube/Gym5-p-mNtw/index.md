@@ -28,21 +28,21 @@ tags:
 - Metrics and Learning
 - Pragmatic Thinking
 - Operational Practices
-- People and Process
 - Agile Product Operating Model
 - Business Agility
 - Agile Product Management
-- Agile Project Management
-- Value Delivery
+- People and Process
+- Agile Transformation
 - Ability to Innovate
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
 categories:
-- Product Management
 - Engineering Excellence
+- Product Management
 - Social Technologies
 
 ---

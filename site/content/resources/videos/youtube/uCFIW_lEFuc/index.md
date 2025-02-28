@@ -30,13 +30,13 @@ tags:
 - People and Process
 - Increment
 - Agile Values and Principles
-- Working Software
 - Empirical Process Control
-- Agile Project Management
+- Working Software
 - Agile Product Management
-- Product Validation
-- Team Collaboration
-- Team Performance
+- Agile Project Management
+- Agile Transformation
+- Customer Feedback Loops
+- Software Developers
 sitemap:
   filename: sitemap.xml
   priority: 0.6

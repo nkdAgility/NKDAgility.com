@@ -29,16 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Strategy
-- Agile Project Management
-- Agile Leadership
-- Agile Transformation
 - Agile Frameworks
-- People and Process
-- Technical Leadership
+- Agile Transformation
+- Agile Leadership
+- Agile Project Management
+- Agile Strategy
+- Mentoring
 - Business Agility
-- Market Adaptability
+- Technical Leadership
 - Organisational Change
+- People and Process
 resourceTypes:
 - video
 layout: video

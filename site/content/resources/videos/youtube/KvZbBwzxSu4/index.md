@@ -30,15 +30,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Evidence Based Management
 - Evidence Based Leadership
-- Agile Product Management
-- Value Delivery
+- Evidence Based Management
 - Agile Product Operating Model
+- Value Delivery
 - Decision Making
-- Strategic Goals
-- Decision Theory
-- Change Management
+- Agile Product Management
+- Agile Leadership
+- Business Agility
+- Product Strategy
 resourceTypes:
 - video
 categories:

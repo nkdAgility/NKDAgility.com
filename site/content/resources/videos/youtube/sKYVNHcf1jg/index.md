@@ -1,6 +1,6 @@
 ---
-title: What was your worst day as an agile consultant?
-description: 'Join Martin Hinshelwood as he shares his toughest day as an agile consultant, revealing the challenges behind empowering teams in #agile and #scrum.'
+title: 'Navigating My Most Memorable Challenge as an Agile Consultant: Lessons in Readiness and Engagement'
+description: Discover the lessons from my toughest day as an agile consultant. Learn why readiness and engagement are crucial for successful change in organisations.
 date: 2023-04-04T07:00:16Z
 weight: 1000
 ResourceId: sKYVNHcf1jg
@@ -11,7 +11,6 @@ videoId: sKYVNHcf1jg
 url: /resources/videos/:slug
 slug: what-was-your-worst-day-as-an-agile-consultant
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=sKYVNHcf1jg
 aliases:
 - /resources/sKYVNHcf1jg
 - /resources/videos/what-was-your-worst-day-as-an-agile-consultant
@@ -25,18 +24,18 @@ duration: 280
 isShort: false
 tags:
 - Coaching
-- Agile Leadership
-- Agile Project Management
-- Team Performance
 - Agile Product Management
-- Agile Philosophy
-- Organisational Agility
-- Team Motivation
 - Agile Transformation
-- Scrum Team
+- Agile Philosophy
+- Agile Frameworks
+- People and Process
+- Agile Project Management
+- Business Agility
+- Agile Leadership
+- Organisational Agility
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
@@ -45,25 +44,30 @@ categories:
 - Social Technologies
 
 ---
- #agileconsulting can be incredibly rewarding and fulfilling.
+Reflecting on My Worst Day as an Agile Consultant
 
-You get to work with amazing clients and for the most part, you're the dreamweaver that empowers the team to successfully adopt #agile and rock with #productdevelopment.
+As an agile consultant, I’ve had my fair share of challenging days, but one experience stands out as particularly memorable—though perhaps not in the way you might expect. It raises an important question: was it my worst day, or was it the customer's? 
 
-The flip side is that it can all go horribly wrong, super quickly, and it is inevitable that it does. You simply can't hit a home run every time you are at bat.
+Let me take you back to that week in the US. I arrived at the organisation, ready to dive in and help them tackle their challenges. I was shown to my cubicle, settled in, and then… nothing. For two or three hours, I sat there, waiting for someone to engage with me. It was as if I had been placed in a time capsule, completely forgotten.
 
-In this short video, Martin Hinshelwood talks about his worst day as an #agileconsultant 
+I decided to reach out to my boss, Steve Borg, to share my predicament. “I’m just sitting here,” I explained. “Nobody’s come by, and it seems like they’re not ready for me.” After a few calls, Steve informed me that they hadn’t prepared for my arrival. In fact, they booked me a flight home, and it took the customer three days to realise I was gone. That’s how unprepared they were for any sort of change.
 
-About NKD Agility
+This experience highlighted a critical lesson: readiness for change is essential. If an organisation isn’t prepared to listen or act, then my role as a consultant becomes nearly impossible. 
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+Interestingly, this wasn’t an isolated incident. I found myself returning to the same organisation for three consecutive years, at the same time, with the same group of people. Each time, I would provide them with a comprehensive report detailing the changes they needed to make. And each year, I was met with the same response: “We’ve done none of the things you suggested.” 
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+It was disheartening. I was there to help, yet it felt like I was spinning my wheels, unable to drive any meaningful progress. The same issues persisted, and I was left troubleshooting minor problems rather than facilitating substantial change. 
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+Here are a few key takeaways from these experiences:
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+- **Readiness is Key**: An organisation must be prepared to embrace change. Without this readiness, any advice or strategies I provide will fall on deaf ears.
+  
+- **Value of Engagement**: If I’m not receiving problems to solve, it’s a sign that the organisation may not be ready for my help. I’ve learned to be upfront about this; if my advice is ignored, it may be time to reassess our partnership.
 
-We would love to work with you. 
+- **The Importance of Listening**: It’s frustrating to see an organisation ignore warnings about potential pitfalls. When they eventually come back, seeking help after the fact, it’s often too late to make a significant impact.
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
- [Watch on Youtube](https://www.youtube.com/watch?v=sKYVNHcf1jg)
+- **Continuous Improvement**: Agile is all about iterating and improving. If an organisation isn’t willing to act on feedback, they risk stagnation.
+
+In conclusion, while my worst day as an agile consultant was certainly challenging, it served as a powerful reminder of the importance of readiness and engagement in the agile journey. If you find yourself in a similar situation, remember that change is a two-way street. Both the consultant and the organisation must be committed to the process for it to be successful.
+
+If you’d like to discuss this further or have any questions about agile, scrum, or DevOps, feel free to book a coffee chat with me through Naked Agility. I’m always here to help!

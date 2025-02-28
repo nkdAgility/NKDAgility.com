@@ -28,16 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - One Engineering System (1ES)
+- People and Process
 - Azure DevOps
 - Digital Transformation
+- Software Developers
 - Practical Techniques and Tooling
 - Software Development
-- Software Developers
+- Personal
 - Operational Practices
 - Pragmatic Thinking
-- Personal
 resourceTypes:
 - video
 categories:

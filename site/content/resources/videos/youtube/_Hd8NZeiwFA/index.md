@@ -31,13 +31,13 @@ isShort: false
 tags:
 - Scrum Master
 - Scrum Team
-- People and Process
 - Team Performance
 - Scrum Product Development
-- Agile Project Management
-- Agile Transformation
-- Professional Scrum
 - Agile Frameworks
+- Agile Transformation
+- People and Process
+- Professional Scrum
+- Agile Project Management
 - Technical Leadership
 sitemap:
   filename: sitemap.xml

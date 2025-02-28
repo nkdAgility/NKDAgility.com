@@ -31,11 +31,11 @@ sitemap:
   priority: 0.6
 tags:
 - Definition of Done
-- Software Development
 - Professional Scrum
-- Agile Project Management
-- Pragmatic Thinking
+- Software Development
 - Agile Frameworks
+- Pragmatic Thinking
+- Agile Project Management
 resourceTypes:
 - video
 categories:

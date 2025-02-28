@@ -31,12 +31,12 @@ sitemap:
 tags:
 - People and Process
 - Scrum Master
-- Agile Project Management
-- Pragmatic Thinking
-- Agile Frameworks
 - Agile Philosophy
-- Software Development
+- Agile Frameworks
+- Pragmatic Thinking
+- Agile Project Management
 - Personal
+- Software Development
 - Agile Values and Principles
 - Scrum Values
 resourceTypes:

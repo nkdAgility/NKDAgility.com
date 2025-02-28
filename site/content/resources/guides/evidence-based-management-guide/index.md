@@ -39,10 +39,10 @@ tags:
 - Evidence Based Management
 - Ability to Innovate
 - Value Delivery
-- Metrics and Learning
-- Decision Making
 - Experimentation
+- Metrics and Learning
 - Evidence Based Leadership
+- Decision Making
 
 ---
 # The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty

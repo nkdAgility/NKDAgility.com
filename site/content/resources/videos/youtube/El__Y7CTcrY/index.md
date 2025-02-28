@@ -33,8 +33,8 @@ tags:
 - People and Process
 - Discovery and Learning
 - Continuous Learning
-- Coaching
 - Personal
+- Coaching
 resourceTypes:
 - video
 categories:

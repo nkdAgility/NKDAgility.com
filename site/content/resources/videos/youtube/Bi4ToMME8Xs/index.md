@@ -23,16 +23,16 @@ preview: https://i.ytimg.com/vi/Bi4ToMME8Xs/maxresdefault.jpg
 duration: 20
 isShort: true
 tags:
-- Professional Scrum
 - Scrum Master
+- Professional Scrum
 - Discovery and Learning
 - Continuous Learning
 - Team Performance
-- Products and Books
-- Agile Product Management
-- Events and Presentations
-- Agile Project Management
-- Team Collaboration
+- News and Reviews
+- Value Delivery
+- Agile Frameworks
+- Agile Transformation
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.4

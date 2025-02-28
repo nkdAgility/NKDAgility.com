@@ -31,13 +31,13 @@ tags:
 - Scrum Product Development
 - Product Backlog
 - Product Owner
+- Software Developers
+- Agile Product Management
 - People and Process
 - Professional Scrum
-- Scrum Team
-- Software Developers
 - Scrum Master
-- Agile Product Management
-- Agile Project Management
+- Scrum Team
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

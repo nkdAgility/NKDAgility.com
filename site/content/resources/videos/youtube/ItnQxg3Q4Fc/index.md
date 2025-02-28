@@ -31,16 +31,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Agile Leadership
+- People and Process
 - Agile Philosophy
 - Market Adaptability
+- Change Management
 - Value Delivery
-- Agile Transformation
+- Business Agility
 - Agile Strategy
-- Organisational Change
+- Agile Transformation
 - Agile Project Management
-- Technical Leadership
 resourceTypes:
 - video
 categories:

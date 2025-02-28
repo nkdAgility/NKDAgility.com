@@ -30,14 +30,14 @@ aliasesArchive:
 tags:
 - Transparency
 - Scrum Product Development
-- People and Process
 - Agile Product Management
-- Product Backlog
 - Transparency and Accountability
-- Agile Project Management
-- Pragmatic Thinking
-- Software Development
+- People and Process
+- Product Backlog
 - Product Owner
+- Product Delivery
+- Pragmatic Thinking
+- Agile Project Management
 categories:
 - Product Management
 - Social Technologies

@@ -28,16 +28,16 @@ aliasesArchive:
 - /blog/the-evolution-of-agile-learning--insights-from-scrum-org's-webinar
 - /resources/blog/the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
 tags:
-- People and Process
 - Change Management
 - Continuous Learning
+- People and Process
 - Discovery and Learning
-- Products and Books
 - Events and Presentations
 - Agile Frameworks
+- Products and Books
 - Pragmatic Thinking
 - Coaching
-- Agile Transformation
+- Value Delivery
 categories:
 - Social Technologies
 preview: NKDAgility-technically-TheEvolutionofAgileLearning-1-1-16-16.jpg

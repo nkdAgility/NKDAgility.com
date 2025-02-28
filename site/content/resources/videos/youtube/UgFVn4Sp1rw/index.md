@@ -28,13 +28,13 @@ tags:
 - Pragmatic Thinking
 - Ability to Innovate
 - People and Process
-- Metrics and Learning
 - Scrum Product Development
-- Decision Making
+- Metrics and Learning
 - Agile Product Management
-- Agile Product Operating Model
+- Decision Making
+- Evidence Based Management
+- Value Delivery
 - Practical Techniques and Tooling
-- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

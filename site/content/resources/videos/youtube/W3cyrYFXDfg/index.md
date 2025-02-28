@@ -31,15 +31,15 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Leadership
-- People and Process
 - Metrics and Learning
-- Decision Making
+- People and Process
 - Evidence Based Leadership
 - Organisational Agility
+- Decision Making
 - Agile Strategy
 - Agile Project Management
 - Technical Leadership
-- Agile Transformation
+- Enterprise Agility
 resourceTypes:
 - video
 categories:

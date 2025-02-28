@@ -26,8 +26,8 @@ card:
 categories: []
 tags:
 - People and Process
-- Software Development
 - Scrum Values
+- Software Development
 
 ---
 # Common failures

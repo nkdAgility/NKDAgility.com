@@ -24,15 +24,15 @@ preview: https://i.ytimg.com/vi/OFUsZq0TKoo/maxresdefault.jpg
 duration: 269
 isShort: false
 tags:
-- People and Process
+- Product Discovery
 - Discovery and Learning
 - Lean Product Development
-- Product Discovery
-- Pragmatic Thinking
+- People and Process
 - Hypothesis Driven Development
+- Evidence Based Leadership
+- Pragmatic Thinking
 - Value Delivery
 - Product Validation
-- Evidence Based Leadership
 - Experimentation
 sitemap:
   filename: sitemap.xml

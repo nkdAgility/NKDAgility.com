@@ -33,21 +33,21 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum Team
-- Agile Values and Principles
 - Scrum Master
-- Agile Frameworks
-- Team Performance
-- Team Motivation
-- Agile Project Management
-- Agile Leadership
-- Organisational Agility
+- Agile Values and Principles
+- Software Development
 - Business Agility
+- Team Motivation
+- Agile Product Management
+- Team Collaboration
+- Organisational Agility
+- Agile Frameworks
 resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 - Leadership
+- Social Technologies
 
 ---
 ## Introduction: Facilitating, Not Dictating 🕵️‍♂️ 

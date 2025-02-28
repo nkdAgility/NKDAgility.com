@@ -24,16 +24,16 @@ aliasesArchive:
 - /testing-in-production-maximises-quality-and-value
 - /blog/testing-in-production-maximises-quality-and-value
 tags:
-- Software Development
 - Deployment Strategies
-- Product Delivery
-- Azure DevOps
+- Software Development
 - Continuous Delivery
 - Value Delivery
-- Practical Techniques and Tooling
-- Technical Mastery
+- Azure DevOps
+- Product Delivery
 - Frequent Releases
-- Operational Practices
+- Software Developers
+- Practical Techniques and Tooling
+- Technical Excellence
 categories:
 - DevOps
 - Engineering Excellence

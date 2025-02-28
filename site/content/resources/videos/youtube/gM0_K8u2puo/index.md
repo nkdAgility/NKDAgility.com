@@ -34,9 +34,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Product Delivery
 - Agile Project Management
 - Software Development
-- Product Delivery
 resourceTypes:
 - video
 categories:

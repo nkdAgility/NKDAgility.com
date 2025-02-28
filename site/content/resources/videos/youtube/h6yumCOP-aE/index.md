@@ -37,12 +37,12 @@ tags:
 - Team Performance
 - Team Collaboration
 - Working Agreements
-- Agile Project Management
 - Pragmatic Thinking
+- Agile Project Management
 - Strategy
 - Team Motivation
 - Operational Practices
-- Accountability
+- Self Organisation
 resourceTypes:
 - video
 categories:

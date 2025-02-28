@@ -30,14 +30,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Estimation
 - Throughput
-- People and Process
+- Estimation
 - Metrics and Learning
 - Agile Product Management
-- Agile Project Management
-- Cycle Time
+- People and Process
 - Software Developers
+- Cycle Time
+- Agile Project Management
 - Flow Efficiency
 - Pragmatic Thinking
 resourceTypes:

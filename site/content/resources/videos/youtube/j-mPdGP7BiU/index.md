@@ -32,11 +32,11 @@ tags:
 - Experimentation
 - Metrics and Learning
 - Discovery and Learning
+- Product Discovery
+- Continuous Learning
+- Product Validation
 - Decision Making
 - Hypothesis Driven Development
-- Product Validation
-- Continuous Learning
-- Product Discovery
 - Lean Startup
 - Evidence Based Management
 resourceTypes:

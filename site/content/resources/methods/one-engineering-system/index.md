@@ -32,11 +32,11 @@ categories:
 tags:
 - Strategy
 - One Engineering System (1ES)
-- Software Development
 - Azure DevOps
+- Software Development
 - Practical Techniques and Tooling
-- Operational Practices
 - Team Collaboration
+- Operational Practices
 - Pragmatic Thinking
 - Collaboration Tools
 - Software Developers

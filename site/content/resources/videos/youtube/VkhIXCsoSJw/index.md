@@ -32,9 +32,9 @@ tags:
 - Operational Practices
 - AI and Automation in Agility
 - Test Automation
+- Cycle Time
+- Automated Testing
 - Code and Complexity
-- Technical Debt
-- Azure DevOps
 resourceTypes:
 - video
 sitemap:

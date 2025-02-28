@@ -22,15 +22,15 @@ categories:
 - Social Technologies
 tags:
 - Scrum Product Development
-- Agile Product Management
 - Professional Scrum
+- Agile Product Management
+- Agile Transformation
+- Transparency and Accountability
 - Agile Frameworks
 - Agile Project Management
 - Events and Presentations
-- Transparency and Accountability
 - People and Process
-- Agile Transformation
-- Pragmatic Thinking
+- Organisational Agility
 
 ---
 Learning about scrum is important, but growing your capability to deploy and implement scrum effectively is way more important.

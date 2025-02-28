@@ -30,9 +30,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Organisational Culture
 - Organisational Change
+- People and Process
 - Change Management
 - Organisational Physics
 - Systems Thinking

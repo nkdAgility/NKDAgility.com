@@ -32,14 +32,14 @@ sitemap:
 tags:
 - Customer Feedback Loops
 - Agile Product Management
-- Agile Values and Principles
 - Working Software
-- Software Developers
-- Value Delivery
+- Agile Values and Principles
 - Agile Philosophy
+- Software Development
+- Agile Transformation
 - Scrum Product Development
 - Product Validation
-- Agile Project Management
+- Value Delivery
 resourceTypes:
 - video
 layout: video

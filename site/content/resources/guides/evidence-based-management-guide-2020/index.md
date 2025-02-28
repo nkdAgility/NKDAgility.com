@@ -38,12 +38,12 @@ aliases:
 categories:
 - Product Management
 tags:
+- Value Delivery
 - Evidence Based Management
 - Evidence Based Leadership
-- Value Delivery
+- Experimentation
 - Metrics and Learning
 - Decision Making
-- Experimentation
 - Ability to Innovate
 - Empirical Process Control
 - Strategic Goals

@@ -31,9 +31,9 @@ sitemap:
 tags:
 - Personal
 - Azure DevOps
+- Software Developers
 - Practical Techniques and Tooling
 - Software Development
-- Software Developers
 - Pragmatic Thinking
 resourceTypes:
 - video

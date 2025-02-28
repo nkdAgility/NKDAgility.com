@@ -26,14 +26,14 @@ duration: 466
 isShort: false
 tags:
 - Throughput
-- Forecasting
 - Strategy
-- Metrics and Learning
+- Forecasting
 - Cycle Time
+- Metrics and Learning
 - Value Delivery
+- Software Development
 - Flow Efficiency
 - Pragmatic Thinking
-- Software Development
 - Practical Techniques and Tooling
 sitemap:
   filename: sitemap.xml

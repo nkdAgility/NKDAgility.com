@@ -30,18 +30,18 @@ aliasesArchive:
 tags:
 - Organisational Agility
 - Business Agility
-- Market Adaptability
 - Organisational Change
 - Resilience and Change
 - Enterprise Agility
-- Strategic Goals
-- Agile Strategy
+- Market Adaptability
+- Agile Philosophy
 - Strategy
+- Strategic Goals
 - Pragmatic Thinking
 categories:
-- Product Management
 - Social Technologies
 - Leadership
+- Product Management
 preview: naked-agility-technically-survivalisoptional-1-1.jpg
 
 ---
