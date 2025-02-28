@@ -16,6 +16,8 @@ headline:
   content: |
     We operate on a fixed-price, timeboxed model, ensuring clarity, focus, and real value without hourly tracking or approval delays. If you're ready to explore how we can help, book an initial consultation to get started.
 
+    [Working with us!]({{< ref "/company/working-with-us" >}})
+
     ### How It Works
 
     1. Book a Call – Select a time that works for you.
