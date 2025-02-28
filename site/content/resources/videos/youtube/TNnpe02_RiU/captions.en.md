@@ -1,0 +1,1 @@
+So I think my pet peeve about DevOps is this, the fallacy that people cling to that they can't do that here. That they can't do continuous delivery, that they can't ship their product into production, that they can't give developers that power to be able to do that. And it's just not true.
