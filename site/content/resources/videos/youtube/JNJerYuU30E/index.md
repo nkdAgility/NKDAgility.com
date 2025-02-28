@@ -36,8 +36,8 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 - Leadership
+- Social Technologies
 
 ---
 When I reflect on my journey in the agile community, one name stands out prominently: Jernimo Palacios. As a Spanish Professional Scrum Trainer (PST), Geronimo has been a beacon of inspiration and knowledge for many of us navigating the complexities of agile practices. His influence on my understanding of Scrum and the broader agile landscape cannot be overstated.

@@ -33,10 +33,10 @@ tags:
 - Agile Product Management
 - Agile Project Management
 - Increment
-- Working Software
-- Product Delivery
-- Agile Values and Principles
 - Agile Strategy
+- Product Delivery
+- Software Development
+- Agile Values and Principles
 - Agile Philosophy
 categories:
 - Social Technologies

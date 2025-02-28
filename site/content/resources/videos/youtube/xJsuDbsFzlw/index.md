@@ -28,12 +28,12 @@ tags:
 - Coaching
 - Agile Planning Tools
 - Agile Planning
+- Events and Presentations
+- Agile Project Management
 - People and Process
 - Agile Transformation
-- Agile Project Management
-- Agile Frameworks
 - Agile Product Management
-- Events and Presentations
+- Agile Frameworks
 - Scrum Master
 sitemap:
   filename: sitemap.xml

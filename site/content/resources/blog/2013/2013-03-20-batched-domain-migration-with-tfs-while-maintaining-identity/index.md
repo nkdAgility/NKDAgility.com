@@ -24,15 +24,15 @@ aliasesArchive:
 - /resources/blog/batched-domain-migration-with-tfs-while-maintaining-identity
 tags:
 - Pragmatic Thinking
-- Practical Techniques and Tooling
 - Install and Configuration
-- Troubleshooting
-- Technical Mastery
-- Operational Practices
-- Software Development
-- Technical Excellence
-- System Configuration
+- Practical Techniques and Tooling
 - Azure DevOps
+- Technical Excellence
+- Operational Practices
+- Troubleshooting
+- System Configuration
+- Technical Mastery
+- Software Development
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-5-5.png

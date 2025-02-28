@@ -29,16 +29,16 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum Master
+- Agile Frameworks
 - People and Process
 - Agile Project Management
-- Agile Frameworks
 - Agile Leadership
 - Scrum Team
 resourceTypes:
 - video
 categories:
-- Scrum
 - Leadership
+- Scrum
 - Social Technologies
 
 ---

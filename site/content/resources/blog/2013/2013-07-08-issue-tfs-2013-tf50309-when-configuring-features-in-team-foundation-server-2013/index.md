@@ -33,9 +33,9 @@ tags:
 - Install and Configuration
 - Practical Techniques and Tooling
 - System Configuration
+- Azure DevOps
 - Pragmatic Thinking
 - Software Development
-- Azure DevOps
 categories:
 - DevOps
 preview: puzzle-issue-problem-128-link-5-5.png

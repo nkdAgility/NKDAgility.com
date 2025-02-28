@@ -25,14 +25,14 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Technical Mastery
 - System Configuration
+- Technical Mastery
+- Azure DevOps
 - Troubleshooting
 - Software Development
-- Azure DevOps
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
 
 ---
 Did you know that you can connect a Test Controller to Team Foundation Service? And if you can do that, can you create [standard environments for automated deployment and testing](http://blog.hinshelwood.com/standard-environments-for-automated-deployment-and-testing/ "Standard Environments for Automated Deployment and Testing") against the cloud?

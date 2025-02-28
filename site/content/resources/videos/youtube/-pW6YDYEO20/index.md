@@ -31,10 +31,10 @@ tags:
 - Scrum Master
 - Scrum Team
 - Team Performance
+- Agile Frameworks
+- Self Organisation
 - Agile Project Management
 - Coaching
-- Self Organisation
-- Agile Frameworks
 resourceTypes:
 - video
 layout: video

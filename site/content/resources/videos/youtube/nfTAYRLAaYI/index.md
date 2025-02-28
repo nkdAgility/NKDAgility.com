@@ -30,10 +30,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Project Management
-- Operational Practices
-- Lean Thinking
 - Agile Frameworks
+- Lean Thinking
+- Operational Practices
+- Agile Project Management
 - Lean Principles
 - Software Development
 resourceTypes:

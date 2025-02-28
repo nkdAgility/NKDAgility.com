@@ -24,10 +24,10 @@ tags:
 - People and Process
 - Events and Presentations
 - Continuous Learning
+- Agile Frameworks
+- Agile Transformation
 - Agile Project Management
 - Software Development
-- Agile Transformation
-- Agile Frameworks
 
 ---
 The world is spinning faster than ever, with more players than ever.

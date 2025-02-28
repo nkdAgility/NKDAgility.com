@@ -28,12 +28,12 @@ aliasesArchive:
 - /resources/blog/create-release-management-pipeline-professional-developers
 tags:
 - Install and Configuration
-- Release Management
-- Azure DevOps
 - Azure Pipelines
+- Azure DevOps
+- Release Management
 - Practical Techniques and Tooling
-- Software Development
 - Product Delivery
+- Software Development
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-46-46.png

@@ -34,8 +34,8 @@ resourceTypes:
 layout: video
 categories:
 - Scrum
-- Social Technologies
 - Leadership
+- Social Technologies
 
 ---
 Are we collectively ascending the slope of enlightenment, or are we still mired in the trough of disillusionment?  

@@ -28,12 +28,12 @@ tags:
 - People and Process
 - Agile Product Management
 - Product Owner
-- Pragmatic Thinking
 - Professional Scrum
 - Agile Project Management
-- Value Delivery
-- Hypothesis Driven Development
+- Pragmatic Thinking
 - Product Delivery
+- Hypothesis Driven Development
+- Value Delivery
 categories:
 - Scrum
 - Product Management

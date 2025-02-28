@@ -23,11 +23,11 @@ aliasesArchive:
 - /tfs-service-credential-viewer
 - /resources/blog/tfs-service-credential-viewer
 tags:
-- Troubleshooting
 - Windows
+- Troubleshooting
 - Install and Configuration
-- Products and Books
 - Practical Techniques and Tooling
+- Products and Books
 categories: []
 preview: metro-cloud-azure-link-4-4.png
 

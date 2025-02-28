@@ -27,15 +27,15 @@ aliasesArchive:
 - /blog/do-you-know-about-the-visual-studio-2010-database-projects-guidance-
 - /resources/blog/do-you-know-about-the-visual-studio-2010-database-projects-guidance
 tags:
-- Products and Books
 - Practical Techniques and Tooling
+- Products and Books
 - Technical Mastery
 - Software Development
 - Application Lifecycle Management
 preview: metro-visual-studio-2010-128-link-3-3.png
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
 
 ---
 [![vs2010almRanger](images/Do-you-know-about-the-Visual-Studio-2010_D160-vs2010almRanger_thumb-1-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Do-you-know-about-the-Visual-Studio-2010_D160-vs2010almRanger_2.png)Early on in the Team System (now Visual Studio ALM) cycle a new product surfaced within Team System that was affectionately called “Data Dude”, but had the more formal name of “Visual Studio 2005 Team Edition for Database Professionals”. The purpose of this product was to try and make the database a “first class citizen” in the development world.

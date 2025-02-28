@@ -23,15 +23,15 @@ aliasesArchive:
 - /hosted-team-foundation-server
 - /resources/blog/hosted-team-foundation-server
 tags:
-- Products and Books
-- Practical Techniques and Tooling
-- Software Development
 - News and Reviews
-- Troubleshooting
-- Application Lifecycle Management
+- Practical Techniques and Tooling
+- Products and Books
+- Software Development
 - Software Developers
+- Application Lifecycle Management
 - Modern Source Control
 - Azure DevOps
+- Troubleshooting
 categories: []
 
 ---

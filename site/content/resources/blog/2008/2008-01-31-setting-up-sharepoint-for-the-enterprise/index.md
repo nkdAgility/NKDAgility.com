@@ -25,8 +25,8 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Deployment Strategies
-- Technical Mastery
 - System Configuration
+- Technical Mastery
 categories: []
 preview: metro-sharepoint-128-link-1-1.png
 

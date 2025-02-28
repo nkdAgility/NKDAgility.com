@@ -27,9 +27,9 @@ tags:
 - Install and Configuration
 - System Configuration
 - Practical Techniques and Tooling
+- Azure DevOps
 - Technical Mastery
 - Software Development
-- Azure DevOps
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-1-1.png

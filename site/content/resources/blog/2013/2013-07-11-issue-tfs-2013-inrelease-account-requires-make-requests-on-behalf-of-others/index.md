@@ -27,15 +27,15 @@ aliasesArchive:
 - /blog/issue-[-tfs-2013-]-inrelease-account-requires-make-requests-on-behalf-of-others
 - /resources/blog/issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
 tags:
+- Install and Configuration
 - Practical Techniques and Tooling
 - Technical Mastery
-- Install and Configuration
-- Troubleshooting
-- Operational Practices
-- Pragmatic Thinking
-- Software Development
-- System Configuration
 - Azure DevOps
+- Operational Practices
+- Troubleshooting
+- Pragmatic Thinking
+- System Configuration
+- Software Development
 categories:
 - DevOps
 preview: puzzle-issue-problem-128-link-5-5.png

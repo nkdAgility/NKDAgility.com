@@ -28,15 +28,15 @@ aliasesArchive:
 - /resources/blog/benefits-visual-studio-online-enterprise
 tags:
 - Application Lifecycle Management
-- Products and Books
 - Business Agility
-- Release Management
-- Software Development
 - Azure DevOps
+- Release Management
+- Products and Books
+- Software Development
 - Practical Techniques and Tooling
 - Organisational Agility
-- Market Adaptability
 - Digital Transformation
+- Frequent Releases
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-6-6.png

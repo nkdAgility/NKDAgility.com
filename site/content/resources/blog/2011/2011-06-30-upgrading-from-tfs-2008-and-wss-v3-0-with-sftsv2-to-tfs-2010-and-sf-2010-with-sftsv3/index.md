@@ -30,8 +30,8 @@ tags:
 - Software Development
 categories:
 - Scrum
-- DevOps
 - Engineering Excellence
+- Social Technologies
 preview: metro-visual-studio-2005-128-link-33-33.png
 
 ---

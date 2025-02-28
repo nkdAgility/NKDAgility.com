@@ -26,14 +26,14 @@ aliasesArchive:
 tags:
 - Throughput
 - Agile Product Management
-- Value Delivery
-- Metrics and Learning
 - Agile Project Management
+- Metrics and Learning
+- Value Delivery
 - Team Performance
 - Decision Making
 - Flow Efficiency
 - Evidence Based Leadership
-- Pragmatic Thinking
+- Software Development
 categories:
 - Social Technologies
 - Product Management

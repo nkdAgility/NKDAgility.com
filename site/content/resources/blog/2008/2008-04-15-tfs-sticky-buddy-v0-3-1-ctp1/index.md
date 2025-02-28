@@ -24,9 +24,9 @@ aliasesArchive:
 - /resources/blog/tfs-sticky-buddy-v0-3-1-ctp1
 tags:
 - Windows
-- Products and Books
-- Practical Techniques and Tooling
 - Application Lifecycle Management
+- Practical Techniques and Tooling
+- Products and Books
 - Software Development
 categories: []
 preview: metro-binary-vb-128-link-3-1.png

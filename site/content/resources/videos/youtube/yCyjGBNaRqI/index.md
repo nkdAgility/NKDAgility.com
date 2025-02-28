@@ -28,12 +28,12 @@ tags:
 - People and Process
 - Organisational Agility
 - Agile Values and Principles
-- Agile Leadership
-- Sociotechnical Systems
-- Agile Philosophy
-- Team Performance
-- Employee Engagement
 - Team Collaboration
+- Sociotechnical Systems
+- Organisational Psychology
+- Agile Philosophy
+- Organisational Culture
+- Agile Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6

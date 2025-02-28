@@ -26,14 +26,14 @@ aliasesArchive:
 tags:
 - Transparency
 - Increment
-- Agile Product Operating Model
-- Agile Product Management
 - Agile Values and Principles
+- Agile Product Management
+- Agile Product Operating Model
 - Agile Philosophy
-- Agile Transformation
-- Product Delivery
-- Agile Project Management
+- Agile Planning
+- Agile Frameworks
 - Working Software
+- Agile Transformation
 categories:
 - Product Management
 - Social Technologies

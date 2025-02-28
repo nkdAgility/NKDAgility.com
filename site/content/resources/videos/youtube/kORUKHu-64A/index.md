@@ -33,10 +33,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Frameworks
 - People and Process
 - Agile Project Management
 - Software Development
-- Agile Frameworks
 - Pragmatic Thinking
 resourceTypes:
 - video

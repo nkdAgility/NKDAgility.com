@@ -32,14 +32,14 @@ sitemap:
 tags:
 - Value Delivery
 - Throughput
-- Metrics and Learning
-- Product Delivery
-- Agile Product Management
 - Ability to Innovate
-- Agile Project Management
+- Product Delivery
+- Metrics and Learning
+- Agile Product Management
+- People and Process
 - Decision Making
-- Evidence Based Management
 - Agile Product Operating Model
+- Evidence Based Management
 resourceTypes:
 - video
 categories:

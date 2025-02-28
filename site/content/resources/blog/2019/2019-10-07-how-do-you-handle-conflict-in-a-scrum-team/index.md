@@ -28,15 +28,15 @@ aliasesArchive:
 - /resources/blog/how-do-you-handle-conflict-in-a-scrum-team
 tags:
 - Coaching
-- People and Process
+- Events and Presentations
 - Scrum Team
 - Scrum Product Development
-- Events and Presentations
 - Scrum Master
 - Professional Scrum
+- People and Process
 - Team Performance
 - Team Motivation
-- Agile Product Management
+- Agile Frameworks
 categories:
 - Scrum
 - Social Technologies

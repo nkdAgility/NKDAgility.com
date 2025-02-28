@@ -26,14 +26,14 @@ categories:
 tags:
 - Market Adaptability
 - Customer Feedback Loops
+- Product Discovery
+- Empirical Process Control
+- Working Software
+- Frequent Releases
+- Value Delivery
 - Business Agility
 - Agile Values and Principles
-- Frequent Releases
-- Deployment Frequency
-- Working Software
-- Lean Product Development
-- Product Validation
-- Lean Startup
+- Organisational Agility
 
 ---
 Update the work based on user feedback on timelines shorter than one month

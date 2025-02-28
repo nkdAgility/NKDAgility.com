@@ -33,10 +33,10 @@ sitemap:
 tags:
 - Backlog Refinement
 - People and Process
+- Agile Frameworks
 - Estimation
 - Agile Project Management
 - Software Development
-- Agile Frameworks
 - Software Developers
 - Pragmatic Thinking
 resourceTypes:

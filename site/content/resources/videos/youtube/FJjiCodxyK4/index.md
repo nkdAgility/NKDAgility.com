@@ -28,13 +28,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Change Management
+- People and Process
 - Agile Leadership
 - Business Agility
 - Resilience and Change
-- Organisational Change
 - Agile Transformation
+- Organisational Change
 - Organisational Agility
 - Organisational Culture
 - Pragmatic Thinking

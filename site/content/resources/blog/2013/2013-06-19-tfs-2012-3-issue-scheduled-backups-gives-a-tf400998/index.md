@@ -30,13 +30,13 @@ aliasesArchive:
 - /resources/blog/tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
 tags:
 - Windows
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 - System Configuration
+- Azure DevOps
 - Troubleshooting
 - Pragmatic Thinking
 - Software Development
-- Azure DevOps
 - Technical Mastery
 categories:
 - DevOps

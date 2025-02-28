@@ -28,8 +28,8 @@ aliasesArchive:
 - /resources/blog/join-machine-azure-hosted-domain-controller
 tags:
 - System Configuration
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 - Windows
 - Troubleshooting
 categories: []

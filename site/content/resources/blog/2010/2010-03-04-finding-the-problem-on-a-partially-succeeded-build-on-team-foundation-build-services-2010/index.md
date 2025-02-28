@@ -25,19 +25,19 @@ aliasesArchive:
 tags:
 - Troubleshooting
 - Scrum Product Development
+- Software Developers
 - Code and Complexity
 - Software Development
-- Software Developers
-- Practical Techniques and Tooling
-- Application Lifecycle Management
 - Working Software
-- Technical Mastery
-- Pragmatic Thinking
+- Application Lifecycle Management
+- Practical Techniques and Tooling
+- Azure DevOps
+- Technical Excellence
 preview: metro-visual-studio-2010-128-link-8-8.png
 categories:
 - Scrum
-- Engineering Excellence
 - Social Technologies
+- Engineering Excellence
 
 ---
 Now that I have the Build failing because of a genuine bug and not just because of a test framework failure, lets see if we can trace through to finding why the first test in our new application failed. Lets look at the build and see if we can see why there is a red cross on it.

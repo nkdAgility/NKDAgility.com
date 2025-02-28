@@ -28,13 +28,13 @@ tags:
 - Install and Configuration
 - Modern Source Control
 - Practical Techniques and Tooling
-- Operational Practices
 - Azure DevOps
+- Operational Practices
 - System Configuration
 - Software Developers
 categories:
-- DevOps
 - Social Technologies
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

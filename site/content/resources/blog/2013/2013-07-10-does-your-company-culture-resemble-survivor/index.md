@@ -29,14 +29,14 @@ aliasesArchive:
 tags:
 - Agile Transformation
 - People and Process
-- Software Development
 - Agile Leadership
-- Resilience and Change
+- Software Development
 - Team Collaboration
-- Agile Values and Principles
+- Resilience and Change
 - Software Developers
-- Value Delivery
-- Organisational Culture
+- Agile Values and Principles
+- Team Performance
+- Product Delivery
 categories:
 - Leadership
 - Social Technologies

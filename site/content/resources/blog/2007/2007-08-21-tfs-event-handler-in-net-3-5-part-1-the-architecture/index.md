@@ -28,13 +28,13 @@ aliasesArchive:
 - /resources/blog/tfs-event-handler-in-net-3-5-part-1-the-architecture
 tags:
 - Code and Complexity
-- Practical Techniques and Tooling
 - Application Lifecycle Management
+- Practical Techniques and Tooling
 - System Configuration
+- Azure DevOps
+- Technical Excellence
 - Technical Mastery
 - Software Development
-- Technical Excellence
-- Azure DevOps
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Engineering Excellence

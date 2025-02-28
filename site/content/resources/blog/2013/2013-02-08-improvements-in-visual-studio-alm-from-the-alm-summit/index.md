@@ -23,16 +23,16 @@ aliasesArchive:
 - /improvements-in-visual-studio-alm-from-the-alm-summit
 - /resources/blog/improvements-in-visual-studio-alm-from-the-alm-summit
 tags:
-- Practical Techniques and Tooling
-- Application Lifecycle Management
 - Events and Presentations
-- Software Development
-- Modern Source Control
 - News and Reviews
-- Operational Practices
+- Application Lifecycle Management
+- Modern Source Control
+- Practical Techniques and Tooling
+- Software Development
 - Working Software
-- Technical Excellence
 - Azure DevOps
+- Technical Excellence
+- Operational Practices
 categories:
 - Kanban
 preview: nakedalm-experts-visual-studio-alm-6-6.png

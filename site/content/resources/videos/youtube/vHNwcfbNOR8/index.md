@@ -29,15 +29,15 @@ sitemap:
   priority: 0.6
 tags:
 - Mentoring
-- People and Process
 - Continuous Learning
+- People and Process
 - Discovery and Learning
+- Personal
 - Team Collaboration
 - Coaching
-- Personal
-- Agile Leadership
-- Agile Transformation
 - Agile Philosophy
+- Agile Transformation
+- Agile Leadership
 resourceTypes:
 - video
 categories:

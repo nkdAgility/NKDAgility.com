@@ -29,10 +29,10 @@ tags:
 - People and Process
 - Scrum Master
 - Scrum Team
+- Agile Frameworks
+- Agile Transformation
 - Agile Product Management
 - Team Collaboration
-- Agile Transformation
-- Agile Frameworks
 - Software Development
 sitemap:
   filename: sitemap.xml

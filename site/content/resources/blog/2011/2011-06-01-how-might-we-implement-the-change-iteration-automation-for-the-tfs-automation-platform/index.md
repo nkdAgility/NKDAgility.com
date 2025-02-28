@@ -26,10 +26,10 @@ tags:
 - Practical Techniques and Tooling
 - Platform Engineering
 - Software Development
-- Operational Practices
-- Pragmatic Thinking
 - Software Developers
 - Azure DevOps
+- Operational Practices
+- Pragmatic Thinking
 - Digital Transformation
 - System Configuration
 preview: metro-visual-studio-2010-128-link-4-4.png

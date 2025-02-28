@@ -32,16 +32,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Decision Making
-- Agile Product Management
 - Sprint Review
 - Product Owner
-- Employee Engagement
-- Organisational Culture
-- Agile Project Management
-- Team Motivation
-- Team Performance
+- People and Process
+- Agile Product Management
+- Decision Making
+- Agile Frameworks
+- Scrum Product Development
+- Value Delivery
+- Agile Transformation
+- Agile Philosophy
 resourceTypes:
 - video
 categories:

@@ -32,14 +32,14 @@ sitemap:
 tags:
 - Decision Making
 - Value Stream Management
-- Metrics and Learning
 - Ability to Innovate
-- Evidence Based Management
+- Metrics and Learning
 - Value Delivery
+- Evidence Based Management
+- Throughput
 - Operational Practices
-- Pragmatic Thinking
-- Flow Efficiency
 - Product Delivery
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

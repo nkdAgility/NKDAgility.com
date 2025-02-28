@@ -25,15 +25,15 @@ aliasesArchive:
 - /resources/blog/product-goal-is-an-intermediate-strategic-goal
 tags:
 - Experimentation
+- Agile Product Operating Model
 - Agile Project Management
 - Agile Product Management
-- Agile Product Operating Model
-- Evidence Based Leadership
-- Ability to Innovate
-- Discovery and Learning
-- People and Process
 - Value Delivery
-- Change Management
+- Ability to Innovate
+- Evidence Based Leadership
+- Resilience and Change
+- Product Discovery
+- Lean Product Development
 categories:
 - Product Management
 - Leadership

@@ -26,12 +26,12 @@ tags:
 - Install and Configuration
 - Practical Techniques and Tooling
 - System Configuration
-- Troubleshooting
 - Application Lifecycle Management
-- Software Development
 - Azure DevOps
-- Technical Mastery
+- Troubleshooting
+- Software Development
 - Pragmatic Thinking
+- Technical Mastery
 categories:
 - Engineering Excellence
 

@@ -25,16 +25,16 @@ preview: https://i.ytimg.com/vi/4kqM1U7y1ZM/maxresdefault.jpg
 duration: 239
 isShort: false
 tags:
-- Value Delivery
-- Scrum Team
 - Continuous Delivery
+- Scrum Team
 - Scrum Product Development
+- Value Delivery
 - Product Delivery
-- Agile Product Management
-- Scrum Master
-- Technical Leadership
+- Working Software
 - Team Performance
-- People and Process
+- Team Collaboration
+- Agile Product Management
+- Technical Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6

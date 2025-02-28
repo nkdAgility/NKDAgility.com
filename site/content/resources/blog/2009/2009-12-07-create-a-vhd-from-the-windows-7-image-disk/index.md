@@ -27,8 +27,8 @@ tags:
 - Install and Configuration
 - Practical Techniques and Tooling
 - Troubleshooting
-- Technical Mastery
 - System Configuration
+- Technical Mastery
 - Software Development
 preview: metro-SSWLogo-128-link-16-16.png
 categories: []

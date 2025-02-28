@@ -29,9 +29,9 @@ tags:
 - Professional Scrum
 - People and Process
 - Software Development
-- Agile Project Management
-- Agile Transformation
 - Agile Frameworks
+- Agile Transformation
+- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

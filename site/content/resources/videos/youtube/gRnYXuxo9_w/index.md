@@ -1,6 +1,6 @@
 ---
-title: Scrum Value, Openness, What does it mean and why does it matter?
-description: "Unlock the power of openness in Scrum! Discover how transparency and trust transform team dynamics for success. Watch now! \U0001F31F\U0001F511 #Scrum #Agile"
+title: 'Unlocking Trust in Scrum: The Power of Openness and Transparency'
+description: Discover how openness in Scrum fosters trust and transparency. Learn key strategies for clear communication and emotional openness to enhance team dynamics.
 date: 2023-04-28T07:00:30Z
 weight: 775
 ResourceId: gRnYXuxo9_w
@@ -11,7 +11,6 @@ videoId: gRnYXuxo9_w
 url: /resources/videos/:slug
 slug: scrum-value-openness-what-does-it-mean-and-why-does-it-matter
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=gRnYXuxo9_w
 aliases:
 - /resources/gRnYXuxo9_w
 - /resources/videos/scrum-value-openness-what-does-it-mean-and-why-does-it-matter
@@ -25,18 +24,18 @@ duration: 171
 isShort: false
 tags:
 - Transparency
-- Agile Project Management
 - Transparency and Accountability
-- Scrum Values
 - Professional Scrum
-- People and Process
+- Scrum Values
+- Agile Project Management
 - Team Performance
 - Team Collaboration
-- Software Development
+- People and Process
 - Agile Frameworks
+- Software Development
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
@@ -45,30 +44,34 @@ categories:
 - Social Technologies
 
 ---
- *Unlocking Team Potential: The Power of Openness in Scrum*
+Openness in Scrum: The Key to Trust and Transparency
 
-Discover how openness revolutionizes team dynamics and drives success in Scrum. Dive deep into the vital role of transparency and trust in this insightful discussion. 🔐🌀💡
+As I reflect on the core values of Scrum, one aspect stands out as particularly vital: openness. You might wonder, what does openness truly mean in the context of Scrum, and why is it so crucial? Let me share my thoughts and experiences on this topic.
 
-*Enjoy this video? 🔔 Like and subscribe to our channel:* 
-https://www.youtube.com/@nakedAgility
+### The Essence of Openness
 
-In this video, Martin delves into the essence of Scrum values, focusing on the pivotal role of openness. 🗝️💬 He articulates how this fundamental value not only enhances transparency but also nurtures trust within teams. Through real-world examples and practical insights, Martin reveals how openness can transform project management and team collaboration. 🤝📈 Whether you're a Scrum Master, Product Owner, or just keen on improving team dynamics, this video is a must-watch! 🌟
+Openness is not just a buzzword; it’s a fundamental principle that underpins the very fabric of Scrum. At its heart, openness is about transparency. To achieve transparency, we must first cultivate trust. Without trust, we have nothing. But how do we foster this elusive trust? 
 
-*Key Takeaways*
-00:00:05 Openness in Scrum Values  
-00:00:28 Relationship Between Openness and Trust  
-00:00:46 Practicality of Openness  
-00:01:42 Emotional Aspects of Openness  
+Trust is an output, not an input. It’s a result of our actions and interactions, something we can observe but cannot simply demand. This is where openness plays a pivotal role. By being open and transparent in our communications and practices, we lay the groundwork for trust to flourish.
 
- *NKDAgility can help!*
-These are the kinds of issues that lean-agile practitioners love and most folks hate, and if you struggle to integrate openness and trust within your Scrum teams, my team at NKDAgility can help you or help you find a consultant, coach, or trainer who can.
+### The Importance of Transparency
 
-If you have issues that are undermining the effectiveness of your value delivery, it's especially important to find help as soon as you can and not wait!
+So, what does it mean to be open? It involves several key aspects:
 
-_You can request a free consultation: https://nkdagility.com/agile-consulting-coaching/_  
-_Sign up for one of our upcoming professional Scrum classes: https://nkdagility.com/training-courses_
+- **Clear Communication**: Are we sharing information openly within our teams? It’s essential to discuss what’s happening in the organisation, ensuring everyone understands the context and the decisions being made. 
 
-Because you don't just need agility, you need Naked Agility.
+- **Accessibility of Information**: Is our product backlog easy to find and comprehend? Are our working practices documented and readily available? If team members struggle to access this information, we are not being as open as we should be.
 
-#scrum #agile #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg #scrummaster #productowner #kanban #continousdelivery #devops #azuredevops 
- [Watch on Youtube](https://www.youtube.com/watch?v=gRnYXuxo9_w)
+- **Emotional Openness**: Openness extends beyond just sharing facts; it also encompasses our emotional landscape. Are we expressing our feelings when something bothers us? Are we communicating our concerns or frustrations? This emotional transparency is crucial for fostering a healthy team dynamic.
+
+### Building Conversations Through Openness
+
+When we embrace openness, we create an environment conducive to conversation. We can discuss not only the tangible aspects of our work but also the emotional nuances that affect our interactions. This dialogue is essential for addressing issues before they escalate into resentment or misunderstandings.
+
+Openness allows us to engage in meaningful conversations about our processes, our challenges, and our successes. It encourages a culture where team members feel safe to express their thoughts and feelings, ultimately leading to a more cohesive and effective team.
+
+### Conclusion
+
+In conclusion, openness is a cornerstone of the Scrum values that cannot be overlooked. It serves as a bridge to transparency and trust, enabling us to communicate effectively and work collaboratively. As we strive to embody this value, let’s remember that openness is not just about sharing information; it’s about fostering an environment where everyone feels valued and heard.
+
+If you found this discussion on openness in Scrum insightful, I encourage you to engage with me. Like, follow, and subscribe for more insights. I always welcome comments and conversations, so if you’d like to chat about this or any other aspect of Agile, Scrum, or DevOps, feel free to book a coffee with me through Naked Agility. Let’s keep the conversation going!

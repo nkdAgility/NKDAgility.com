@@ -25,14 +25,14 @@ duration: 253
 isShort: false
 tags:
 - Coaching
-- People and Process
 - Team Performance
 - Discovery and Learning
+- People and Process
 - Continuous Learning
 - Organisational Agility
 - Team Collaboration
 - Customer Feedback Loops
-- Agile Frameworks
+- Agile Transformation
 - Empirical Process Control
 sitemap:
   filename: sitemap.xml

@@ -33,16 +33,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Value Delivery
-- Metrics and Learning
 - Product Delivery
+- Metrics and Learning
+- Value Delivery
 - Team Performance
 - Practical Techniques and Tooling
-- Operational Practices
-- Software Development
-- Pragmatic Thinking
-- Agile Project Management
 - Agile Frameworks
+- Agile Project Management
+- Operational Practices
+- Pragmatic Thinking
+- Software Development
 resourceTypes:
 - video
 categories:

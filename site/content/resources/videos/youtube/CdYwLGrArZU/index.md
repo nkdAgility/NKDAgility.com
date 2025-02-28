@@ -32,9 +32,9 @@ tags:
 - People and Process
 - Agile Product Management
 - Product Owner
-- Agile Project Management
-- Pragmatic Thinking
 - Personal
+- Pragmatic Thinking
+- Agile Project Management
 resourceTypes:
 - video
 categories:

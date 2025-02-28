@@ -29,14 +29,14 @@ aliasesArchive:
 - /blog/tfs-integration-tools---issue--tf205022--the-following-path-contains-more-than-the-allowed-259-characters
 - /resources/blog/tfs-integration-tools-issue-tf205022-the-following-path-contains-more-than-the-allowed-259-characters
 tags:
-- Practical Techniques and Tooling
 - Install and Configuration
 - Modern Source Control
-- Troubleshooting
+- Practical Techniques and Tooling
 - Windows
-- Software Development
-- System Configuration
 - Azure DevOps
+- Troubleshooting
+- System Configuration
+- Software Development
 - Pragmatic Thinking
 categories:
 - Engineering Excellence

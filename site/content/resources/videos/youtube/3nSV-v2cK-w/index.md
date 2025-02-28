@@ -26,12 +26,12 @@ duration: 255
 isShort: false
 tags:
 - Team Collaboration
-- People and Process
 - Team Motivation
 - Agile Values and Principles
-- Software Development
-- Organisational Agility
+- People and Process
 - Agile Philosophy
+- Organisational Agility
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -39,8 +39,8 @@ layout: video
 resourceTypes:
 - video
 categories:
-- Product Management
 - Social Technologies
+- Product Management
 
 ---
 As I reflect on my journey through the world of Agile and Scrum, I often find myself revisiting the fundamental principles that underpin these methodologies. It’s easy to get lost in the jargon and the frameworks, but at the heart of it all lies a simple truth: Agile is about people. It’s about fostering an environment where teams can thrive, innovate, and deliver value consistently.

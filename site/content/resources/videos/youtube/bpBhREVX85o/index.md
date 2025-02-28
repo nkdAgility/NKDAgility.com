@@ -30,9 +30,9 @@ sitemap:
 tags:
 - People and Process
 - Software Development
-- Agile Project Management
-- Pragmatic Thinking
 - Agile Frameworks
+- Pragmatic Thinking
+- Agile Project Management
 - Value Delivery
 - Decision Making
 - Agile Strategy

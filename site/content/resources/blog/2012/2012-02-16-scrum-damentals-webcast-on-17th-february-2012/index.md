@@ -24,10 +24,10 @@ aliasesArchive:
 - /resources/blog/scrum-damentals-webcast-on-17th-february-2012
 tags:
 - Events and Presentations
-- Agile Project Management
+- Agile Frameworks
 - Agile Transformation
 - Professional Scrum
-- Agile Frameworks
+- Agile Project Management
 - Pragmatic Thinking
 - Software Development
 - People and Process

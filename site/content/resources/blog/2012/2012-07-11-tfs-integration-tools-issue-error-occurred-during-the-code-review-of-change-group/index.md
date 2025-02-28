@@ -31,8 +31,8 @@ tags:
 - Troubleshooting
 - Software Development
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
 preview: metro-problem-icon-2-2.png
 
 ---

@@ -22,13 +22,13 @@ categories:
 - Social Technologies
 - Scrum
 tags:
-- Discovery and Learning
 - Professional Scrum
-- People and Process
+- Discovery and Learning
 - Events and Presentations
 - Continuous Learning
-- Pragmatic Thinking
+- People and Process
 - Agile Frameworks
+- Pragmatic Thinking
 - Agile Project Management
 
 ---

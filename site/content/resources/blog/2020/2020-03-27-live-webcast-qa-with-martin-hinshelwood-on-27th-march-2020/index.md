@@ -30,8 +30,8 @@ tags:
 - Events and Presentations
 categories:
 - Scrum
-- Product Management
 - Social Technologies
+- Product Management
 preview: 2020-03-27_21-33-56-1-1.jpg
 
 ---

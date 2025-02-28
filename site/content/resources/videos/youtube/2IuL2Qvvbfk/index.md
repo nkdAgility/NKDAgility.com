@@ -28,21 +28,21 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Product Management
-- People and Process
-- Azure DevOps
-- Product Delivery
 - Product Owner
+- Product Delivery
 - Agile Leadership
+- People and Process
 - Agile Project Management
+- Azure DevOps
+- Pragmatic Thinking
 - Agile Strategy
 - Technical Leadership
-- Value Delivery
 resourceTypes:
 - video
 layout: video
 categories:
-- DevOps
 - Leadership
+- DevOps
 - Product Management
 
 ---

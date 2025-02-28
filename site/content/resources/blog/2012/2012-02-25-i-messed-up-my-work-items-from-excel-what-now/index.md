@@ -29,10 +29,10 @@ aliasesArchive:
 tags:
 - Troubleshooting
 - Practical Techniques and Tooling
+- Azure DevOps
+- Azure Boards
 - Pragmatic Thinking
 - Software Development
-- Azure Boards
-- Azure DevOps
 categories: []
 preview: metro-visual-studio-2010-128-link-4-4.png
 

@@ -27,15 +27,15 @@ aliasesArchive:
 - /blog/tfs-2012-issue--tf215097-an-error-occurred-while-initializing-a-build-for-build-definition
 - /resources/blog/tfs-2012-issue-tf215097-an-error-occurred-while-initializing-a-build-for-build-definition
 tags:
-- Practical Techniques and Tooling
 - Install and Configuration
-- Troubleshooting
+- Practical Techniques and Tooling
 - Windows
-- Software Development
 - Continuous Integration
-- Technical Excellence
-- System Configuration
 - Azure DevOps
+- Technical Excellence
+- Troubleshooting
+- System Configuration
+- Software Development
 categories:
 - DevOps
 preview: puzzle-issue-problem-128-link-3-3.png

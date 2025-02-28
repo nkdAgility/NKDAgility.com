@@ -32,10 +32,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Continuous Learning
+- Team Collaboration
 - People and Process
 - Agile Project Management
-- Team Collaboration
-- Continuous Learning
 - Discovery and Learning
 resourceTypes:
 - video

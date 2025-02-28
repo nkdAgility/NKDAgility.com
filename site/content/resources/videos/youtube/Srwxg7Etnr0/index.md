@@ -28,16 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Scrum Product Development
+- People and Process
 - Scrum Team
+- Agile Planning
 - Agile Product Management
-- Scrum Master
 - Team Collaboration
 - Professional Scrum
-- Agile Planning
+- Scrum Master
+- Agile Frameworks
 - Agile Project Management
-- Software Development
 resourceTypes:
 - video
 categories:

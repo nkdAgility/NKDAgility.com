@@ -25,11 +25,11 @@ preview: https://i.ytimg.com/vi/-T1e8hjLt24/maxresdefault.jpg
 duration: 58
 isShort: true
 tags:
-- Products and Books
 - Continuous Learning
 - Discovery and Learning
-- Miscellaneous
+- Products and Books
 - Personal
+- Miscellaneous
 sitemap:
   filename: sitemap.xml
   priority: 0.6

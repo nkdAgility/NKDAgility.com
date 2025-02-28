@@ -28,15 +28,15 @@ aliasesArchive:
 - /resources/blog/big-scrum-are-you-doing-mechanical-scrum
 tags:
 - Agile Values and Principles
-- Scrum Values
 - Scaling Scrum
 - Professional Scrum
-- People and Process
-- Agile Product Management
-- Agile Project Management
-- Software Development
+- Scrum Values
 - Software Developers
+- Agile Frameworks
 - Agile Transformation
+- Agile Product Management
+- People and Process
+- Agile Project Management
 categories:
 - Scrum
 - Social Technologies

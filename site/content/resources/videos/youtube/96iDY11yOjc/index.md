@@ -32,13 +32,13 @@ tags:
 - People and Process
 - Discovery and Learning
 - Continuous Learning
+- Personal
+- Software Developers
 - Employee Engagement
 - Pragmatic Thinking
-- Software Developers
-- Personal
 - Mentoring
-- Software Development
 - Coaching
+- Software Development
 resourceTypes:
 - video
 categories:

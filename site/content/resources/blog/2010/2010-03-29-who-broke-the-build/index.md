@@ -28,19 +28,19 @@ aliasesArchive:
 - /resources/blog/who-broke-the-build
 tags:
 - Windows
-- Code and Complexity
 - Install and Configuration
-- Practical Techniques and Tooling
+- Code and Complexity
+- Software Developers
 - Application Lifecycle Management
 - System Configuration
 - Modern Source Control
-- Software Developers
-- Troubleshooting
-- Technical Mastery
+- Practical Techniques and Tooling
+- Operational Practices
+- Working Software
 preview: metro-visual-studio-2010-128-link-10-10.png
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
 
 ---
 ![BuildIcon_Large](images/114db5acbf63_EDD8-BuildIcon_Large_-1-1.png)

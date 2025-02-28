@@ -29,8 +29,8 @@ aliasesArchive:
 preview: nakedalm-logo-128-link-2-2.png
 categories: []
 tags:
-- Software Development
 - Continuous Learning
+- Software Development
 
 ---
 Just got my exam result for the [exam](http://hinshelwood.com/archive/2007/02/08/Beta_Exam_71_510_TS_Visual_Studio_2005_Team_Foundation_Server.aspx), and I passed! This is a single exam certification so it makes me a MCP as well as and [MCTS: Team Foundation Server](http://go.microsoft.com/?linkid=6176689).

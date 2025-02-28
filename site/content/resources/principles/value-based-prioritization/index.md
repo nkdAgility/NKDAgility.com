@@ -28,12 +28,12 @@ categories:
 tags:
 - Scrum Product Development
 - Product Backlog
-- Agile Product Operating Model
+- Value Delivery
 - Agile Product Management
 - Product Owner
-- Value Delivery
-- Agile Project Management
+- Agile Product Operating Model
 - Agile Planning
+- Agile Project Management
 - Product Delivery
 
 ---

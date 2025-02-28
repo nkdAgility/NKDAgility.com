@@ -23,16 +23,16 @@ aliasesArchive:
 - /the-insufficiency-of-scrum-is-a-fallacy
 - /resources/blog/the-insufficiency-of-scrum-is-a-fallacy
 tags:
-- People and Process
-- Technical Debt
 - Scrum Product Development
-- Agile Product Management
-- Agile Frameworks
-- Agile Project Management
-- Scrum Master
-- Agile Planning
-- Working Software
+- Professional Scrum
 - Software Development
+- People and Process
+- Agile Project Management
+- Agile Product Management
+- Engineering Practices
+- Agile Frameworks
+- Scrum Team
+- Working Software
 categories:
 - Scrum
 - Engineering Excellence

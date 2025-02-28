@@ -34,12 +34,12 @@ sitemap:
 tags:
 - Agile Values and Principles
 - Scrum Master
-- People and Process
 - Team Performance
-- Agile Project Management
-- Agile Transformation
-- Agile Frameworks
 - Agile Philosophy
+- Agile Frameworks
+- Agile Transformation
+- People and Process
+- Agile Project Management
 - Agile Product Management
 - Pragmatic Thinking
 resourceTypes:

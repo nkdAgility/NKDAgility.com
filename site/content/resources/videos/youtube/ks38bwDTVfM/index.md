@@ -31,12 +31,12 @@ tags:
 - Pragmatic Thinking
 - Software Development
 - Software Developers
-- Scrum Team
 - Backlog Refinement
 - Product Backlog
-- Agile Planning
+- Scrum Team
 - Team Performance
-- Agile Product Management
+- Team Collaboration
+- Agile Planning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

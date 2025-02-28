@@ -28,9 +28,9 @@ aliasesArchive:
 - /resources/blog/writing-net-in-powershell-and-creating-tfs-teams
 tags:
 - Practical Techniques and Tooling
+- Azure DevOps
 - Technical Mastery
 - Software Development
-- Azure DevOps
 categories: []
 preview: image11-1-1.png
 

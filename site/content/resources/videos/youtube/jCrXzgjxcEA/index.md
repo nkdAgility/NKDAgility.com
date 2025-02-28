@@ -27,12 +27,12 @@ tags:
 - Practical Techniques and Tooling
 - Software Development
 - Agile Planning Tools
-- Agile Project Management
-- Cycle Time
 - Software Developers
-- Azure Boards
-- Azure DevOps
 - Lead Time
+- Azure DevOps
+- Cycle Time
+- Azure Boards
+- Agile Project Management
 - Agile Frameworks
 sitemap:
   filename: sitemap.xml

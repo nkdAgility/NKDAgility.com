@@ -31,11 +31,11 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Scrum Master
 - Professional Scrum
-- Agile Project Management
-- Pragmatic Thinking
+- Scrum Master
 - Agile Frameworks
+- Pragmatic Thinking
+- Agile Project Management
 - Personal
 - Practical Techniques and Tooling
 - Scrum Team

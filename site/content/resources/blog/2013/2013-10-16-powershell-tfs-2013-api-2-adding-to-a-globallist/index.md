@@ -30,11 +30,11 @@ aliasesArchive:
 - /resources/blog/powershell-tfs-2013-api-2-adding-to-a-globallist
 tags:
 - Technical Mastery
-- Practical Techniques and Tooling
 - Install and Configuration
-- Software Development
+- Practical Techniques and Tooling
 - Technical Excellence
 - System Configuration
+- Software Development
 categories:
 - Engineering Excellence
 preview: metro-powershell-logo-1-1.png

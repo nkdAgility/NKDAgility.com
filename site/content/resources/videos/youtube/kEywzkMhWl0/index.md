@@ -32,16 +32,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Scrum Team
 - Scrum Master
+- Scrum Team
+- People and Process
 - Agile Project Management
-- Agile Frameworks
-- Agile Transformation
 - Agile Leadership
-- Team Performance
 - Agile Product Management
 - Professional Scrum
+- Agile Frameworks
+- Agile Transformation
+- Team Performance
 resourceTypes:
 - video
 categories:

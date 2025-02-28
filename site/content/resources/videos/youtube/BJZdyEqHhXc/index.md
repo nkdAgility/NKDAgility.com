@@ -29,10 +29,10 @@ tags:
 - Change Management
 - Organisational Change
 - Organisational Agility
-- Decision Making
+- Sensemaking
 - Pragmatic Thinking
 - Sociotechnical Systems
-- Sensemaking
+- Decision Making
 - Business Agility
 sitemap:
   filename: sitemap.xml

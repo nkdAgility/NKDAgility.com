@@ -29,8 +29,8 @@ sitemap:
 tags:
 - People and Process
 - Discovery and Learning
-- Agile Project Management
 - Agile Frameworks
+- Agile Project Management
 - Pragmatic Thinking
 resourceTypes:
 - video

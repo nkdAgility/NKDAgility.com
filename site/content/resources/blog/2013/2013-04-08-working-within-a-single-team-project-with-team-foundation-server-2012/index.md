@@ -24,19 +24,19 @@ aliasesArchive:
 - /resources/blog/working-within-a-single-team-project-with-team-foundation-server-2012
 tags:
 - People and Process
-- Practical Techniques and Tooling
-- Application Lifecycle Management
-- Software Development
-- Team Collaboration
 - Software Developers
+- Application Lifecycle Management
+- Practical Techniques and Tooling
+- Team Collaboration
+- Software Development
+- Azure DevOps
 - Operational Practices
 - Pragmatic Thinking
-- Azure DevOps
-- Working Software
+- Agile Planning
 categories:
 - Scrum
-- DevOps
 - Engineering Excellence
+- Social Technologies
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 
 ---

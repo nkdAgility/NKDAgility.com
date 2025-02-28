@@ -32,21 +32,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Organisational Culture
+- People and Process
 - Sociotechnical Systems
 - Enterprise Agility
-- Team Collaboration
 - Scaling Agility
-- Pragmatic Thinking
-- Organisational Agility
+- Team Collaboration
 - Agile Philosophy
+- Organisational Agility
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
 - Scrum
 - DevOps
-- Product Management
+- Social Technologies
 
 ---
 Hex stacks can scale, but can your culture? This is a question that resonates deeply with me, and I believe it’s one of the most critical challenges we face in today’s fast-paced tech landscape. Scaling technology is often seen as the straightforward part of the equation. You simply add more servers, more clusters, and more automation, and voilà, you’re done. However, if your engineering culture doesn’t evolve alongside your technology, you’re setting yourself up for a fall.

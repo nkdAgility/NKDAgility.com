@@ -23,18 +23,18 @@ aliasesArchive:
 - /team-foundation-server-2010-event-handling-with-subscribers
 - /resources/blog/team-foundation-server-2010-event-handling-with-subscribers
 tags:
-- Practical Techniques and Tooling
 - Install and Configuration
-- Technical Mastery
-- Pragmatic Thinking
-- Software Development
+- Practical Techniques and Tooling
 - Software Developers
-- Technical Excellence
-- System Configuration
 - Azure DevOps
+- Technical Excellence
+- Pragmatic Thinking
+- System Configuration
+- Technical Mastery
+- Software Development
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
 preview: metro-binary-vb-128-link-4-4.png
 
 ---

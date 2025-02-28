@@ -32,8 +32,8 @@ tags:
 - Troubleshooting
 categories:
 - Scrum
-- DevOps
 - Engineering Excellence
+- Social Technologies
 preview: nakedalm-experts-visual-studio-alm-10-10.png
 
 ---

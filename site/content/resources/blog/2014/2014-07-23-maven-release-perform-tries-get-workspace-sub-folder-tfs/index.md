@@ -29,11 +29,11 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Software Development
 - System Configuration
+- Software Development
 - Troubleshooting
-- Technical Mastery
 - Pragmatic Thinking
+- Technical Mastery
 - Release Management
 - Operational Practices
 categories:

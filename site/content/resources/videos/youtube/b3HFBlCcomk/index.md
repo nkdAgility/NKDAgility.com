@@ -30,13 +30,13 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Agile Values and Principles
-- Agile Product Management
 - Agile Project Management
+- Agile Product Management
+- Agile Values and Principles
 - Agile Product Operating Model
-- Value Delivery
-- Business Agility
+- Agile Philosophy
 - Agile Frameworks
+- Agile Strategy
 - Organisational Agility
 - Product Delivery
 resourceTypes:

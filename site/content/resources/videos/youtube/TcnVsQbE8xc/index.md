@@ -30,9 +30,9 @@ sitemap:
 tags:
 - Scrum Master
 - People and Process
+- Agile Frameworks
 - Agile Project Management
 - Software Development
-- Agile Frameworks
 - Scrum Team
 - Team Performance
 - Professional Scrum

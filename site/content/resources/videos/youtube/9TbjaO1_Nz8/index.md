@@ -29,9 +29,9 @@ tags:
 - Entrepreneurship
 - People and Process
 - Product Owner
-- Product Strategy
-- Value Delivery
 - Product Discovery
+- Value Delivery
+- Product Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

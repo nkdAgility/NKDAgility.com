@@ -27,8 +27,8 @@ duration: 21
 isShort: true
 tags:
 - Events and Presentations
-- Agile Project Management
 - Agile Frameworks
+- Agile Project Management
 - People and Process
 sitemap:
   filename: sitemap.xml

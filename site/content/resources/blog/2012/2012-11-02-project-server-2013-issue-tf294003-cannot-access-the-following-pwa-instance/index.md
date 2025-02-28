@@ -29,13 +29,13 @@ aliasesArchive:
 - /blog/project-server-2013-issue---tf294003--cannot-access-the-following-pwa-instance
 - /resources/blog/project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instance
 tags:
+- Install and Configuration
 - Practical Techniques and Tooling
 - Pragmatic Thinking
-- Install and Configuration
-- Troubleshooting
 - Windows
-- Software Development
+- Troubleshooting
 - System Configuration
+- Software Development
 categories:
 - DevOps
 preview: metro-problem-icon-6-6.png

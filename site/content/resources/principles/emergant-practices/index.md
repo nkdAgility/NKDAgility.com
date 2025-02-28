@@ -25,8 +25,8 @@ tags:
 - People and Process
 - Discovery and Learning
 - Complexity Thinking
-- Miscellaneous
 - Pragmatic Thinking
+- Miscellaneous
 
 ---
 Processes, practices and tools necessary will emerge as we do the work and help others do it

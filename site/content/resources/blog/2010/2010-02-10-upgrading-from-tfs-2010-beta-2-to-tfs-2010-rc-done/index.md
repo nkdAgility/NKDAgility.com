@@ -27,16 +27,16 @@ tags:
 - System Configuration
 - Practical Techniques and Tooling
 - Software Development
-- Troubleshooting
 - Application Lifecycle Management
-- Technical Mastery
+- Troubleshooting
 - Pragmatic Thinking
-- Release Management
+- Technical Mastery
 - Deployment Strategies
+- Release Management
 preview: metro-visual-studio-2010-128-link-3-3.png
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
 
 ---
 Visual Studio Team Foundation Server 2010 RC was released yesterday on MSDN. I am happy to report that today we successfully completed upgrading our production TFS 2010 Beta 2 server, to the new TFS 2010 RC. wow.

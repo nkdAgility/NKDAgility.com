@@ -36,8 +36,8 @@ tags:
 - Pragmatic Thinking
 - Agile Project Management
 - Software Development
-- Agile Transformation
 - Agile Frameworks
+- Agile Transformation
 - Mentoring
 - Discovery and Learning
 resourceTypes:

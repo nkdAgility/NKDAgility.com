@@ -25,14 +25,14 @@ aliasesArchive:
 tags:
 - Windows
 - Modern Source Control
-- Release Management
-- Practical Techniques and Tooling
 - Install and Configuration
 - Continuous Integration
+- Practical Techniques and Tooling
+- Release Management
 - Troubleshooting
-- Technical Mastery
 - Pragmatic Thinking
-- Software Development
+- System Configuration
+- Technical Mastery
 categories:
 - DevOps
 - Engineering Excellence

@@ -28,17 +28,17 @@ aliasesArchive:
 - /resources/blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released
 tags:
 - Products and Books
-- Practical Techniques and Tooling
-- Install and Configuration
-- Software Development
 - News and Reviews
-- Technical Mastery
+- Install and Configuration
+- Practical Techniques and Tooling
+- Software Development
 - Technical Excellence
-- Release Management
+- Technical Mastery
 - Deployment Strategies
+- Release Management
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
 
 ---
 What a mouthful! Has there ever been any products with names as long as the Team System toolset ;), Maybe thats why it is just called [Data Dude](http://www.microsoft.com/downloads/details.aspx?FamilyID=bb3ad767-5f69-4db9-b1c9-8f55759846ed&displaylang=en).

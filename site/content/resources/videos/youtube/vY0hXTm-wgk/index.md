@@ -24,8 +24,8 @@ preview: https://i.ytimg.com/vi/vY0hXTm-wgk/maxresdefault.jpg
 duration: 142
 isShort: false
 tags:
-- People and Process
 - Events and Presentations
+- People and Process
 - Continuous Learning
 - Coaching
 - Discovery and Learning

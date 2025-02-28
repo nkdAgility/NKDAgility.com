@@ -26,15 +26,15 @@ duration: 408
 isShort: false
 tags:
 - People and Process
+- Agile Philosophy
 - Business Agility
+- Lead Time
+- Agile Strategy
 - Market Adaptability
 - Decision Making
-- Agile Strategy
-- Lead Time
-- Agile Philosophy
+- Value Delivery
 - Operational Practices
-- Pragmatic Thinking
-- Flow Efficiency
+- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

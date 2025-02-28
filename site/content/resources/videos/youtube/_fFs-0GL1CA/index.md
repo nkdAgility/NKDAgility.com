@@ -26,8 +26,8 @@ isShort: false
 tags:
 - Software Development
 - People and Process
-- Products and Books
 - Discovery and Learning
+- Products and Books
 - Agile Project Management
 sitemap:
   filename: sitemap.xml

@@ -25,11 +25,11 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 - Azure Repos
-- Software Development
 - Azure DevOps
+- Software Development
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

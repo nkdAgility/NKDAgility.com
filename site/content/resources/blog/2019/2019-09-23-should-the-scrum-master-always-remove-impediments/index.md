@@ -27,16 +27,16 @@ aliasesArchive:
 - /blog/should-the-scrum-master-always-remove-impediments-
 - /resources/blog/should-the-scrum-master-always-remove-impediments
 tags:
+- Professional Scrum
 - Scrum Master
 - Scrum Team
-- Professional Scrum
-- People and Process
+- Events and Presentations
 - Team Performance
 - Scrum Product Development
-- Events and Presentations
-- Pragmatic Thinking
 - Team Collaboration
-- Agile Project Management
+- People and Process
+- Pragmatic Thinking
+- Agile Frameworks
 categories:
 - Scrum
 - Social Technologies

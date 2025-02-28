@@ -32,13 +32,13 @@ aliasesArchive:
 - /resources/blog/msbuild-and-business-intelligence-packages-ahhhhhh
 tags:
 - Practical Techniques and Tooling
-- Test Automation
 - Automated Testing
+- Test Automation
+- Technical Excellence
 - Troubleshooting
+- System Configuration
 - Technical Mastery
 - Software Development
-- Technical Excellence
-- System Configuration
 - Application Lifecycle Management
 - Operational Practices
 preview: nakedalm-logo-128-link-1-1.png

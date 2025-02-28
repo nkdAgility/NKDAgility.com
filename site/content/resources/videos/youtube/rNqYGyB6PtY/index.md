@@ -31,13 +31,13 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Pragmatic Thinking
 - Personal
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
-- DevOps
 - Leadership
+- DevOps
 - Scrum
 
 ---

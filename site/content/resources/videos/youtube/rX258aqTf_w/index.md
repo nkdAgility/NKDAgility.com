@@ -30,9 +30,9 @@ sitemap:
 tags:
 - People and Process
 - Agile Project Management
+- Agile Transformation
 - Technical Leadership
 - Organisational Agility
-- Agile Transformation
 - Agile Strategy
 - Software Development
 - Pragmatic Thinking

@@ -28,12 +28,12 @@ tags:
 - Agile Project Management
 - People and Process
 - Software Development
-- Pragmatic Thinking
+- Agile Philosophy
 - Software Developers
+- Agile Frameworks
 - Agile Transformation
 - Organisational Agility
-- Agile Frameworks
-- Agile Philosophy
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

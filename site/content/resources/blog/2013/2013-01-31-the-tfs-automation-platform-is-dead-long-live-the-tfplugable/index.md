@@ -32,13 +32,13 @@ aliasesArchive:
 - /resources/blog/the-tfs-automation-platform-is-dead-long-live-the-tfplugable
 tags:
 - Install and Configuration
-- Practical Techniques and Tooling
 - Application Lifecycle Management
+- Practical Techniques and Tooling
 - System Configuration
-- Technical Mastery
 - Frequent Releases
-- Software Development
 - Azure DevOps
+- Technical Mastery
+- Software Development
 - Platform Engineering
 - Product Delivery
 categories:

@@ -33,14 +33,14 @@ aliasesArchive:
 tags:
 - Agile Project Management
 - Scrum Product Development
-- Professional Scrum
-- Scaling Scrum
 - Scrum Team
 - Product Backlog
+- Professional Scrum
 - Product Owner
-- Events and Presentations
-- Scaling Agility
-- Software Development
+- Scaling Scrum
+- Team Collaboration
+- Large Scale Agility
+- Team Performance
 categories:
 - Scrum
 preview: 146713119-1-1.jpg

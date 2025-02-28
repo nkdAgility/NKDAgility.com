@@ -27,8 +27,8 @@ aliasesArchive:
 - /blog/tfs-sticky-buddy-poc-(winforms)-release
 - /resources/blog/tfs-sticky-buddy-poc-winforms-release
 tags:
-- Release Management
 - Install and Configuration
+- Release Management
 categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 

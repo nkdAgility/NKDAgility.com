@@ -30,10 +30,10 @@ tags:
 - Scrum Master
 - Scrum Team
 - Team Performance
-- Agile Project Management
-- Software Development
-- Team Collaboration
+- Agile Frameworks
 - Agile Transformation
+- Team Collaboration
+- Professional Scrum
 sitemap:
   filename: sitemap.xml
   priority: 0.6

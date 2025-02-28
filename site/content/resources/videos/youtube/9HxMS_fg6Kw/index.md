@@ -29,8 +29,8 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Pragmatic Thinking
 - Agile Philosophy
+- Pragmatic Thinking
 - Personal
 - Agile Strategy
 resourceTypes:

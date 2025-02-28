@@ -22,15 +22,15 @@ categories:
 - Social Technologies
 tags:
 - Discovery and Learning
-- Products and Books
+- Product Discovery
 - Agile Product Management
 - Product Validation
-- Product Discovery
-- People and Process
+- Products and Books
 - Events and Presentations
+- People and Process
 - Practical Techniques and Tooling
+- Customer Satisfaction
 - Product Owner
-- Product Delivery
 
 ---
 **Dear Innovators and Product Enthusiasts,**

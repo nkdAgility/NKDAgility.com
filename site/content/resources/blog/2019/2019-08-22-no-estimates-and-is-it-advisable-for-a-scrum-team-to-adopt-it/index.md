@@ -30,13 +30,13 @@ tags:
 - Throughput
 - Estimation
 - Metrics and Learning
-- People and Process
 - Scrum Team
 - Scrum Product Development
-- Software Development
 - Agile Planning
+- People and Process
 - Cycle Time
-- Pragmatic Thinking
+- Software Development
+- Flow Efficiency
 categories:
 - Scrum
 - Social Technologies

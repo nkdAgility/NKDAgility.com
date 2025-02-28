@@ -23,20 +23,20 @@ aliasesArchive:
 - /dod-has-made-it-illegal-to-do-waterfall
 - /resources/blog/dod-has-made-it-illegal-to-do-waterfall
 tags:
-- People and Process
 - Increment
-- Empirical Process Control
-- Working Software
-- Large Scale Agility
-- Agile Product Operating Model
-- Business Agility
-- Enterprise Agility
-- Agile Values and Principles
+- People and Process
 - Software Development
+- Large Scale Agility
+- Resilience and Change
+- Empirical Process Control
+- Enterprise Agility
+- Scrum Product Development
+- Working Software
+- Business Agility
 categories:
 - Scrum
-- Engineering Excellence
 - Social Technologies
+- Engineering Excellence
 preview: nkdAgility-dod-change-procurement-agile-wide-15-15.jpg
 
 ---

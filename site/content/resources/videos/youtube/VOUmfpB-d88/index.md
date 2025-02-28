@@ -33,12 +33,12 @@ tags:
 - People and Process
 - Discovery and Learning
 - Agile Philosophy
-- Continuous Learning
 - Value Delivery
-- Agile Project Management
+- Continuous Learning
 - Agile Frameworks
-- Team Collaboration
 - Agile Transformation
+- Agile Project Management
+- Coaching
 resourceTypes:
 - video
 categories:

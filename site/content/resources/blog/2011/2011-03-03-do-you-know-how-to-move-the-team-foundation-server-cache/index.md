@@ -24,12 +24,12 @@ aliasesArchive:
 - /resources/blog/do-you-know-how-to-move-the-team-foundation-server-cache
 tags:
 - Windows
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 - Troubleshooting
+- System Configuration
 - Technical Mastery
 - Software Development
-- System Configuration
 categories:
 - Engineering Excellence
 

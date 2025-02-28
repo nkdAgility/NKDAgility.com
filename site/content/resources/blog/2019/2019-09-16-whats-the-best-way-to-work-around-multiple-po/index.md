@@ -27,15 +27,15 @@ aliasesArchive:
 - /blog/what's-the-best-way-to-work-around-multiple-po-
 - /resources/blog/whats-the-best-way-to-work-around-multiple-po
 tags:
-- Professional Scrum
-- Scrum Team
-- Scrum Product Development
-- Agile Product Management
-- Product Backlog
 - Product Owner
-- Agile Product Operating Model
+- Scrum Product Development
+- Scrum Team
+- Product Backlog
+- Professional Scrum
+- Agile Product Management
+- Value Delivery
 - Events and Presentations
-- Agile Project Management
+- Agile Product Operating Model
 - Product Delivery
 categories:
 - Scrum

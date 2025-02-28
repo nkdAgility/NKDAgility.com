@@ -31,11 +31,11 @@ sitemap:
 tags:
 - Experimentation
 - Discovery and Learning
+- Product Discovery
 - People and Process
 - Product Validation
-- Product Discovery
-- Hypothesis Driven Development
 - Continuous Learning
+- Hypothesis Driven Development
 - Pragmatic Thinking
 - Products and Books
 - Agile Product Management

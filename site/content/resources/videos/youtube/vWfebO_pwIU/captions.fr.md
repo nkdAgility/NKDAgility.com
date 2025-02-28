@@ -1,0 +1,21 @@
+La question est de savoir pourquoi si peu de Scrum Masters progressent vers la certification PSM2 ou PSM3 ? 
+
+En fin de compte, c'est parce qu'ils s'en moquent, n'est-ce pas ? Ils ne l'ont pas fait pour devenir de meilleurs Scrum Masters ou pour comprendre la profondeur et l'étendue du métier de Scrum Master. Beaucoup de gens le font parce qu'on leur a dit de le faire, n'est-ce pas ? Leur entreprise leur a dit de suivre ce cours. Ou bien ils ont suivi ce cours pour obtenir un certificat. 
+
+Je sais toujours qui sont ces personnes, car la première chose qu'elles demandent, c'est : "Qu'est-ce qui se passe avec l'examen ? Que se passe-t-il avec l'évaluation ?" Vous savez que c'est tout ce qui les intéresse. Ils veulent le certificat pour un entretien d'embauche, pour leur développement professionnel ou pour toute autre chose que fait leur entreprise. 
+
+En fin de compte, ce ne sont pas des gens comme les autres. Ils s'en moquent. J'ai lu un jour ce billet de blog. Il était absolument fantastique. Il commençait par cette phrase. "Si vous lisez ceci, vous faites déjà partie des 10 % les plus performants de tous les ingénieurs logiciels." Ce que l'auteur voulait dire, c'est qu'il y a si peu de gens qui font un travail qui les intéresse vraiment, qu'ils aiment vraiment, qu'ils sont prêts à investir du temps supplémentaire, peut-être en dehors du travail, pour aller lire du contenu, pour découvrir ce qui se passe, pour interagir avec d'autres personnes dans leur profession et en apprendre plus sur elle. 
+
+Ils se contentent de dire : "J'en ai fini avec le travail. Nous avons terminé. Je le reprendrai demain. Et je ne vais le faire que pendant le temps de travail." Ce n'est pas nécessairement le genre de personne qui cherche à lancer sa carrière dans une direction particulière, qui cherche à aider et à bénéficier d'un groupe de personnes travaillant vers un objectif commun. 
+
+Si vous vous intéressez à ce genre de choses, vous prendrez le temps d'écouter des podcasts en dehors du travail, ou pendant votre trajet domicile-travail. Au lieu de regarder des films pendant votre trajet, vous allez écouter des podcasts et lire des articles de blog et en apprendre davantage, peut-être en lisant des livres sur l'agilité. 
+
+Et ce sont ces personnes qui ont progressé vers le PSM2 et le PSM3 parce qu'elles sont réellement intéressées par le contenu, elles sont intéressées par le sujet, elles sont intéressées à aider les autres, en particulier pour le PSM, n'est-ce pas ? Parce que la responsabilité des Scrum Masters est l'efficacité de l'équipe et la génération de valeur dans le contexte de l'organisation. 
+
+Alors comment apprennent-ils ces nouvelles choses ? Comment découvrent-ils ce qu'ils doivent faire ? L'une de mes expressions préférées provient d'un de mes bons amis, David Starr, qui travaille maintenant pour Microsoft aux États-Unis, et qui a dit : "Qu'est-ce que les violonistes et les pratiquants d'arts martiaux ont en commun ?" C'était sa question. Et vous vous dites : "Eh bien, je ne sais pas. Ce sont des choses très différentes." Mais la réponse est "ils s'entraînent", n'est-ce pas ? C'est comme ça qu'ils deviennent bons dans ce qu'ils font, en s'exerçant. 
+
+Quand exerçons-nous ? Quand pouvons-nous exercer notre métier ? Vous passez toute la journée au travail à exercer votre métier. Où est le temps que vous consacrez à l'amélioration de votre métier, à l'étude de nouvelles façons de faire les choses, et peut-être à la pratique de certaines de ces choses ? 
+
+C'est le type de personne qui passe à la catégorie PSM-II et peut-être PSM-III, n'est-ce pas ? Quelqu'un qui souhaite vraiment plonger en profondeur, apprendre davantage et aider les autres à s'améliorer dans leur travail en réfléchissant à la manière dont ils peuvent s'aider eux-mêmes à s'améliorer dans leur travail. 
+
+Merci d'avoir regardé cette vidéo. Si vous l'avez appréciée, n'hésitez pas à l'aimer, à la suivre et à vous abonner. Je réponds toujours aux commentaires et si vous souhaitez discuter de ce sujet, réservez un café avec moi sur https://nkdagility.com.

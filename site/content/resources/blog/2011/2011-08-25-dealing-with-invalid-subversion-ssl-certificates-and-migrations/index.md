@@ -27,8 +27,8 @@ aliasesArchive:
 - /blog/subversion-to-tfs-2010--dealing-with-invalid-subversion-ssl-certificates-and-migrations
 - /resources/blog/dealing-with-invalid-subversion-ssl-certificates-and-migrations
 tags:
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 - Troubleshooting
 - Software Development
 categories: []

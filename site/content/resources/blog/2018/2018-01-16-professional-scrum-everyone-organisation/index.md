@@ -31,17 +31,17 @@ tags:
 - People and Process
 - Transparency
 - Agile Product Management
-- Value Delivery
-- Product Delivery
-- Change Management
-- Resilience and Change
-- Scrum Product Development
 - Transparency and Accountability
-- Events and Presentations
+- Agile Product Operating Model
+- Business Agility
+- Scrum Product Development
+- Organisational Change
+- Software Developers
+- Agile Project Management
 categories:
 - Scrum
-- Social Technologies
 - Leadership
+- Social Technologies
 preview: nkdagility-professional-scrum-is-for-everyone-1-2-2.jpg
 
 ---

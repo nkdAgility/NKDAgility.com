@@ -25,12 +25,12 @@ duration: 283
 isShort: false
 tags:
 - People and Process
-- Scrum Master
-- Agile Project Management
-- Scrum Team
 - Professional Scrum
-- Software Development
+- Agile Project Management
+- Scrum Master
+- Scrum Team
 - Agile Frameworks
+- Software Development
 - Accountability
 - Team Performance
 sitemap:

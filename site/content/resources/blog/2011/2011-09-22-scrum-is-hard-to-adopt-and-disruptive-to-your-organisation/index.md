@@ -24,15 +24,15 @@ aliasesArchive:
 - /resources/blog/scrum-is-hard-to-adopt-and-disruptive-to-your-organisation
 tags:
 - Mentoring
-- People and Process
-- Scrum Product Development
-- Agile Product Management
 - Agile Project Management
+- Scrum Product Development
+- People and Process
+- Agile Product Management
 - Change Management
-- Value Delivery
 - Team Performance
-- Organisational Change
-- Pragmatic Thinking
+- Value Delivery
+- Agile Frameworks
+- Agile Transformation
 categories:
 - Scrum
 - Social Technologies

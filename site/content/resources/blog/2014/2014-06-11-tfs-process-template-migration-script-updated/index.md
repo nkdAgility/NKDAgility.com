@@ -27,12 +27,12 @@ tags:
 - Operational Practices
 - Install and Configuration
 - Software Development
-- Practical Techniques and Tooling
 - Application Lifecycle Management
-- Troubleshooting
-- Technical Mastery
-- Pragmatic Thinking
+- Practical Techniques and Tooling
+- Azure DevOps
 - Technical Excellence
+- Troubleshooting
+- Pragmatic Thinking
 categories:
 - Scrum
 preview: nakedalm-experts-visual-studio-alm-1-1.png

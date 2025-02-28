@@ -27,14 +27,14 @@ aliasesArchive:
 - /blog/tfs-2010-work-item-seed--tfs-work-item-system-id-at-a-predefined-number
 - /resources/blog/tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
 tags:
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 - System Configuration
+- Azure DevOps
+- Technical Excellence
 - Troubleshooting
 - Technical Mastery
 - Software Development
-- Technical Excellence
-- Azure DevOps
 - Windows
 - Pragmatic Thinking
 categories:

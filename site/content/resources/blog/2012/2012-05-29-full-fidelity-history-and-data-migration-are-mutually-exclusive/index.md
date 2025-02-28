@@ -26,13 +26,13 @@ tags:
 - Application Lifecycle Management
 - Practical Techniques and Tooling
 - Software Development
-- Decision Making
-- Technical Mastery
-- Pragmatic Thinking
 - Azure DevOps
+- Pragmatic Thinking
+- Technical Mastery
+- Decision Making
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

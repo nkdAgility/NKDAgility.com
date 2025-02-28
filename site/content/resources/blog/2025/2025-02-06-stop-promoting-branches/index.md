@@ -22,13 +22,13 @@ aliasesArchive:
 tags:
 - Software Development
 - Technical Excellence
-- Software Developers
-- Continuous Integration
 - Continuous Delivery
-- Release Management
 - Engineering Practices
 - Value Delivery
-- Operational Practices
+- Software Developers
+- Continuous Integration
+- Release Management
+- Product Delivery
 - Deployment Strategies
 categories:
 - DevOps

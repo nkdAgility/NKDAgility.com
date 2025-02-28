@@ -26,12 +26,12 @@ duration: 127
 isShort: false
 tags:
 - Technical Excellence
-- Technical Mastery
 - Engineering Practices
+- Technical Mastery
 - Software Development
+- Technical Leadership
 - People and Process
 - Technical Debt
-- Technical Leadership
 - Value Delivery
 - Pragmatic Thinking
 sitemap:

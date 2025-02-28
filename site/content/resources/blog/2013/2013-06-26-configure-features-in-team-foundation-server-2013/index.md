@@ -26,8 +26,8 @@ tags:
 - Install and Configuration
 - Practical Techniques and Tooling
 - System Configuration
-- Software Development
 - Azure DevOps
+- Software Development
 categories:
 - Social Technologies
 

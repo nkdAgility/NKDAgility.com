@@ -23,11 +23,11 @@ aliasesArchive:
 - /import-excel-data-into-tfs-with-history
 - /resources/blog/import-excel-data-into-tfs-with-history
 tags:
-- Practical Techniques and Tooling
 - Install and Configuration
-- Technical Mastery
-- Pragmatic Thinking
+- Practical Techniques and Tooling
 - Azure DevOps
+- Pragmatic Thinking
+- Technical Mastery
 - Software Development
 categories: []
 preview: metro-office-128-link-3-3.png

@@ -34,12 +34,12 @@ sitemap:
 tags:
 - Scrum Master
 - Scrum Team
+- Agile Frameworks
+- Agile Transformation
 - People and Process
+- Professional Scrum
 - Agile Project Management
 - Software Development
-- Agile Transformation
-- Professional Scrum
-- Agile Frameworks
 resourceTypes:
 - video
 categories:

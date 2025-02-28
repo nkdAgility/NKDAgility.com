@@ -29,12 +29,12 @@ aliasesArchive:
 tags:
 - Windows
 - Install and Configuration
-- Practical Techniques and Tooling
-- System Configuration
-- Azure DevOps
 - Azure Pipelines
-- Software Development
+- Practical Techniques and Tooling
+- Azure DevOps
+- System Configuration
 - Continuous Integration
+- Software Development
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-7-7.png

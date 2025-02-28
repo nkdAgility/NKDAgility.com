@@ -25,11 +25,11 @@ isShort: false
 tags:
 - Events and Presentations
 - Install and Configuration
-- Practical Techniques and Tooling
 - Collaboration Tools
+- Practical Techniques and Tooling
 - Remote Working
-- Products and Books
 - Team Collaboration
+- Products and Books
 sitemap:
   filename: sitemap.xml
   priority: 0.6

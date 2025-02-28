@@ -29,15 +29,15 @@ aliasesArchive:
 - /resources/blog/
 tags:
 - People and Process
-- Agile Product Management
-- Practical Techniques and Tooling
 - Product Delivery
 - Test First Development
 - Product Owner
-- Software Development
 - Azure DevOps
-- Team Performance
-- Technical Mastery
+- Agile Product Management
+- Practical Techniques and Tooling
+- Software Development
+- Agile Planning
+- Azure Boards
 categories:
 - DevOps
 - Engineering Excellence

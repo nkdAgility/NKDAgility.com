@@ -25,16 +25,16 @@ preview: https://i9.ytimg.com/vi/sdIPSpbeA9w/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 613
 isShort: false
 tags:
-- Software Development
-- Test Automation
-- Azure DevOps
 - Automated Testing
+- Azure DevOps
+- Test Automation
+- Software Development
 - Practical Techniques and Tooling
 - Pragmatic Thinking
-- Technical Mastery
+- Value Delivery
+- Technical Excellence
 - Operational Practices
 - Engineering Practices
-- Technical Excellence
 sitemap:
   filename: sitemap.xml
   priority: 0.6

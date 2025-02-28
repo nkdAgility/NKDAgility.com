@@ -29,9 +29,9 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 - Agile Project Management
-- Software Development
-- Agile Frameworks
 - Asynchronous Development
+- Agile Frameworks
+- Software Development
 categories:
 - Scrum
 - Social Technologies

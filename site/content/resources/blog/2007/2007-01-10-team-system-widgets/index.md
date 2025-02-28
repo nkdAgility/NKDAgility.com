@@ -26,8 +26,8 @@ tags:
 - Products and Books
 - Practical Techniques and Tooling
 - Application Lifecycle Management
-- Miscellaneous
 - Software Development
+- Miscellaneous
 categories: []
 
 ---

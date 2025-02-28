@@ -31,11 +31,11 @@ aliasesArchive:
 tags:
 - Windows
 - Troubleshooting
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 - Pragmatic Thinking
-- Software Development
 - System Configuration
+- Software Development
 categories: []
 preview: metro-sharepoint-128-link-1-1.png
 

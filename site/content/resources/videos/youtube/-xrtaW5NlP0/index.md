@@ -30,8 +30,8 @@ tags:
 - People and Process
 - Cycle Time
 - Flow Efficiency
-- Operational Practices
 - Agile Frameworks
+- Operational Practices
 - Pragmatic Thinking
 - Metrics and Learning
 - Lean

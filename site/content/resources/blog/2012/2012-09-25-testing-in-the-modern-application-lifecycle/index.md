@@ -25,14 +25,14 @@ aliasesArchive:
 tags:
 - Windows
 - Application Lifecycle Management
+- Working Software
 - Product Delivery
 - Software Development
-- Working Software
 - Value Delivery
-- Team Collaboration
-- Practical Techniques and Tooling
 - Engineering Practices
 - Products and Books
+- Practical Techniques and Tooling
+- Team Collaboration
 categories:
 - Engineering Excellence
 preview: metro-test-icon-7-7.png

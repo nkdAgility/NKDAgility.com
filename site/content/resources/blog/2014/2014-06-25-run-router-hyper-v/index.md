@@ -28,12 +28,12 @@ aliasesArchive:
 - /resources/blog/run-router-hyper-v
 tags:
 - Windows
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 - Troubleshooting
-- Technical Mastery
 - Pragmatic Thinking
 - System Configuration
+- Technical Mastery
 categories: []
 preview: naked-alm-hyper-v-17-17.png
 

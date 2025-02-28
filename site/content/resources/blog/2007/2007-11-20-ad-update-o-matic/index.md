@@ -23,12 +23,12 @@ aliasesArchive:
 - /ad-update-o-matic
 - /resources/blog/ad-update-o-matic
 tags:
-- Technical Mastery
-- Operational Practices
-- Windows
 - Working Software
-- Software Development
+- Windows
+- Operational Practices
 - System Configuration
+- Technical Mastery
+- Software Development
 categories: []
 preview: metro-sharepoint-128-link-1-1.png
 

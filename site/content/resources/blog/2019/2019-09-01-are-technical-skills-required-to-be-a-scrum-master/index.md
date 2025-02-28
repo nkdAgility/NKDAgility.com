@@ -29,14 +29,14 @@ aliasesArchive:
 tags:
 - Coaching
 - Scrum Product Development
-- Team Performance
-- Professional Scrum
-- Scrum Team
 - Events and Presentations
+- Team Performance
 - Technical Mastery
+- Scrum Team
 - Scrum Master
 - Software Development
-- Agile Product Management
+- Professional Scrum
+- Technical Leadership
 categories:
 - Scrum
 preview: 1029723898-1-1.jpg

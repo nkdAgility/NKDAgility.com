@@ -22,13 +22,13 @@ categories:
 - Social Technologies
 tags:
 - Agile Project Management
+- Events and Presentations
 - People and Process
 - Products and Books
-- Events and Presentations
 - Software Development
 - Agile Product Management
-- Practical Techniques and Tooling
 - Agile Transformation
+- Practical Techniques and Tooling
 - Pragmatic Thinking
 
 ---

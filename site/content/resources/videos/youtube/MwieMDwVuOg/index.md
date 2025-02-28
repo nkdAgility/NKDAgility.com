@@ -27,15 +27,15 @@ preview: https://i.ytimg.com/vi/MwieMDwVuOg/maxresdefault.jpg
 duration: 114
 isShort: false
 tags:
-- Scaled Agile
-- Agile Strategy
-- Agile Transformation
 - Agile Philosophy
+- Agile Transformation
 - Scaling Agility
+- Agile Strategy
+- Scaled Agile
 - Business Agility
 - Strategy
-- Pragmatic Thinking
 - Organisational Agility
+- Pragmatic Thinking
 - Enterprise Agility
 sitemap:
   filename: sitemap.xml
@@ -44,8 +44,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Product Management
 - Social Technologies
+- Product Management
 
 ---
 Scaling isn't just about moving fast; it's about moving smart and sustainably. I've seen it time and again: organisations rush to scale without laying the right foundations, and what do they end up with? A bigger mess. It’s crucial to understand that while agile methodologies provide a pathway to scale, simply picking a framework and running with it isn’t the answer.

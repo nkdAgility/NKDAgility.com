@@ -39,8 +39,8 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 - Leadership
+- Social Technologies
 
 ---
 ## Spotlight on Agile Influencers: The Simon Randell Effect

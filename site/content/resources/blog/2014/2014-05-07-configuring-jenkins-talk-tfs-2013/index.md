@@ -30,10 +30,10 @@ tags:
 - Install and Configuration
 - Practical Techniques and Tooling
 - System Configuration
-- Technical Mastery
-- Software Development
 - Continuous Integration
 - Technical Excellence
+- Technical Mastery
+- Software Development
 - Operational Practices
 - Modern Source Control
 - Pragmatic Thinking

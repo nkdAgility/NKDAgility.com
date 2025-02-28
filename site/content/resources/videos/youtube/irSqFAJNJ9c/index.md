@@ -30,13 +30,13 @@ sitemap:
 tags:
 - Transparency
 - Scrum Product Development
-- Agile Product Management
 - Agile Project Management
-- Product Owner
+- Agile Product Management
 - Scrum Team
+- Product Owner
 - People and Process
 - Team Collaboration
-- Team Performance
+- Agile Frameworks
 - Software Development
 resourceTypes:
 - video

@@ -31,8 +31,8 @@ aliasesArchive:
 tags:
 - Technical Mastery
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
 preview: metro-powershell-logo-1-1.png
 
 ---

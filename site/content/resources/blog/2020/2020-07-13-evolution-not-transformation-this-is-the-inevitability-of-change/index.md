@@ -29,14 +29,14 @@ aliasesArchive:
 tags:
 - Organisational Agility
 - Experimentation
-- People and Process
 - Agile Project Management
-- Change Management
-- Business Agility
-- Agile Values and Principles
-- Resilience and Change
+- People and Process
 - Digital Transformation
 - Agile Transformation
+- Business Agility
+- Continuous Learning
+- Agile Values and Principles
+- Agile Leadership
 categories:
 - Leadership
 - Social Technologies

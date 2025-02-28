@@ -33,14 +33,14 @@ aliasesArchive:
 tags:
 - People and Process
 - Release Management
-- Products and Books
-- Practical Techniques and Tooling
-- Application Lifecycle Management
-- Software Development
 - Software Developers
+- Application Lifecycle Management
 - Modern Source Control
-- Miscellaneous
-- Pragmatic Thinking
+- Practical Techniques and Tooling
+- Products and Books
+- Software Development
+- Collaboration Tools
+- Personal
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

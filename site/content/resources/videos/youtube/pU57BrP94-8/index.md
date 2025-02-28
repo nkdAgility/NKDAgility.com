@@ -40,8 +40,8 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 - Leadership
+- Social Technologies
 
 ---
 ## Immersive Learning: Revolutionising On-the-Job Agile Learning

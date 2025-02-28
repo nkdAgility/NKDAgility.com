@@ -32,12 +32,12 @@ tags:
 - Organisational Agility
 - Organisational Change
 - Agile Project Management
-- Business Agility
 - Market Adaptability
+- Business Agility
 - Agile Leadership
-- Agile Strategy
-- Pragmatic Thinking
-- Complexity Thinking
+- Change Management
+- Agile Philosophy
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

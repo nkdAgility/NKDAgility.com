@@ -31,8 +31,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Agile Frameworks
+- People and Process
 resourceTypes:
 - video
 categories:

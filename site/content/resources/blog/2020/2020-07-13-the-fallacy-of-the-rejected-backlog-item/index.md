@@ -25,8 +25,8 @@ aliasesArchive:
 tags:
 - Scrum Product Development
 - Software Development
-- Agile Project Management
 - Professional Scrum
+- Agile Project Management
 categories:
 - Scrum
 - Social Technologies

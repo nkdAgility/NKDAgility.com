@@ -30,13 +30,13 @@ tags:
 - Product Owner
 - Accountability
 - Scrum Product Development
-- People and Process
 - Agile Product Management
+- People and Process
 - Agile Project Management
 - Product Backlog
 - Scrum Team
-- Software Development
-- Product Delivery
+- Value Delivery
+- Professional Scrum
 categories:
 - Scrum
 - Product Management

@@ -26,11 +26,11 @@ duration: 57
 isShort: true
 tags:
 - Practical Techniques and Tooling
-- Agile Project Management
+- Throughput
+- Lean Thinking
 - Operational Practices
 - Pragmatic Thinking
-- Lean Thinking
-- Throughput
+- Agile Project Management
 - Flow Efficiency
 - Software Development
 sitemap:

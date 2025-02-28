@@ -26,8 +26,8 @@ preview: https://i.ytimg.com/vi/BhGThHrOc8Y/maxresdefault.jpg
 duration: 243
 isShort: false
 tags:
-- Software Development
 - Software Developers
+- Software Development
 - People and Process
 - Pragmatic Thinking
 sitemap:

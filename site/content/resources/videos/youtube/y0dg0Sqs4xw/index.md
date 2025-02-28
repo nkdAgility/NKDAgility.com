@@ -32,10 +32,10 @@ tags:
 - People and Process
 - Team Performance
 - Empirical Process Control
+- Agile Frameworks
+- Agile Transformation
 - Agile Project Management
 - Software Development
-- Agile Transformation
-- Agile Frameworks
 - Pragmatic Thinking
 - Scrum Product Development
 resourceTypes:

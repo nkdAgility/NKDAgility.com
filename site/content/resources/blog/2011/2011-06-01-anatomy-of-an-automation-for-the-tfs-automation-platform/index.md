@@ -26,13 +26,13 @@ tags:
 - Software Development
 - Install and Configuration
 - System Configuration
+- Internal Developer Platform
 - Practical Techniques and Tooling
 - Platform Engineering
-- Internal Developer Platform
-- Technical Mastery
-- Operational Practices
 - Windows
+- Azure DevOps
 - Technical Excellence
+- Operational Practices
 categories:
 - DevOps
 

@@ -30,11 +30,11 @@ tags:
 - Install and Configuration
 - System Configuration
 - Practical Techniques and Tooling
-- Software Development
 - Azure Pipelines
+- Software Development
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-27-27.png
 
 ---

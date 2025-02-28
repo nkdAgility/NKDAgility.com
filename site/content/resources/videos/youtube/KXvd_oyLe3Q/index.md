@@ -30,15 +30,15 @@ sitemap:
   priority: 0.6
 tags:
 - Pragmatic Thinking
-- People and Process
 - Complexity Thinking
-- Discovery and Learning
-- Metrics and Learning
-- Azure DevOps
+- People and Process
 - Continuous Learning
+- Azure DevOps
+- Metrics and Learning
 - Resilience and Change
+- Discovery and Learning
+- Ability to Innovate
 - Frequent Releases
-- Practical Techniques and Tooling
 resourceTypes:
 - video
 categories:

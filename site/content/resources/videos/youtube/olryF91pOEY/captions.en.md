@@ -1,0 +1,33 @@
+All right, so the questions can organizations run a professional scrum applying professional scrum workshop and how will it help them? 
+
+I think of that they can. We teach probably more private applying professional scrum EPS classes than public ones. It can be of huge value to have everybody within the bounds of the class be from the same company, right? Because you can maybe have conversations that you wouldn't want to have in front of, let's say you're in a class and one of your competitors is also in a public class, right? You want to air some of the dirty laundry that you might want to hear during that private class. 
+
+One of the big advantages of the APS class is that it's an experiential class. It's a practical, how do we engage in problem solving? So the first part of the experience that people have as a group, right? So if you bring your whole team to the class, is that they get an understanding of how they currently approach problem solving. 
+
+This works for both teams that are doing scrum perhaps and have been doing it for a long time and kind of want a tune-up, as well as teams that are not doing anything particular and want to change to doing a new process. Maybe there's some capability in scrum that we want to leverage. 
+
+The first exercise that we have them do is a practical exercise, building product. It's generally a bit of a car crash, right? So they learn how their current approach and the outcome they get from their current approach. We kind of throw people in the deep end and we just ask them to build some stuff, right? But that's their default process. When you and your company go ask them to build some stuff, this is how they initially approach solving the problem. 
+
+Then we go through the process of, it's usually quite dramatic, by the way, that experience, especially me providing feedback on the product they've created, especially if they deliver a PowerPoint presentation instead of an actual product, right? Which has happened on occasion. But I can be quite negative about the work that they've done, right? Which is very traumatic for the people that are hearing it. 
+
+So they get this kind of shock of, oh, maybe we've got a problem. Maybe we're not understanding how we're supposed to get to working usable product at the end of every iteration. Maybe we need to think about this differently, right? They've just failed, so their minds are more open to change. What could we do differently in order to have a more happier outcome? 
+
+Then we teach them scrum. We're on a bunch of exercises, we have a bunch of conversations, and then we do another sprint where they use scrum practices. They have a scrum master, they have a product owner, and that difference in how they feel, right? Connected to the way they work currently changes their perception on what it is they're trying to do. 
+
+How are we trying to solve this problem? How can these tools that we're talking about, scrum, how can this tool help us get better at delivering usable working products? There's more to it than that, right? There's much more to it than that, but that's one of the key learning outcomes of the class, is that practical engagement with the people that are actually there. 
+
+It really helps when you've got a cross-functional group of people. So I actually don't recommend just bringing your software engineers or just bringing your testers to a class, although I've had people try and do that. You want to bring a whole, who are the people that are building this product, right? So maybe you've got a team of five to ten people who are working on your product. Who are the other people that engage with them? 
+
+That might be stakeholders, that might be other people from other teams, it might be people in leadership positions that engage with this team. Bring everybody to the class so they all get a clear understanding of what value scrum is bringing, right? Because you want the people in a leadership position to help enable this thing. You want the stakeholders to help enable this thing and get engaged in the process and provide help and support to doing things differently. 
+
+If everybody that surrounds your team, your group of people that you want to do things differently, aren't inherently understanding and engaged in that process, they may not understand why you're doing things a particular way. Then they feel like it's not going to provide them with value, so why would they support it? In fact, maybe they sabotage it, not consciously, right? But you're not providing what I just want this thing, and that might not be the engagement that's required. 
+
+How can it help, right? Quite part of that question is, it gives everybody that may be involved in this process a clear understanding of what value it's intended to bring. It gives them a clear understanding because during the class, you know, you've kind of got a safe environment to do things differently from the way your organization is. It gives them a chance to put their baggage, organizational baggage down and do things a different way. 
+
+They also get a clear understanding of, well, maybe we like this different way, right? Everybody within the bounds of the class sees that they like this different way, but they realise that there are organizational things that are going to make it difficult to do that differently. If you have the support of your stakeholders, leadership, and all the people that are building the product, it's very easy to make changes to the way your organization does things, right? Because everybody's supporting it from that perspective. 
+
+I think that that shared vision of what it looks like going forward into the organization is, for me, the clearest value proposition of the EPS workshop. Everybody's then on the same page, everybody understands what we're trying to do, everybody's potentially supportive, right? That's part of my job as the trainer is to not only teach people scrum but help deal with those, I don't know what you call them, when there might be negative perceptions of scrum or agile or whatever that come from how people have seen it work at other organizations or how it's been used. 
+
+Trying to dispel a lot of those myths, poke at some of those things, and help everybody understand what they could get from it if they did it in a way that provided the organization with value, right? 
+
+Thanks for watching the video. If you enjoyed it, please like, follow, and subscribe. I always reply to comments, and if you want to have a chat about this or anything else agile, scrum, or devops, then please book a coffee with me through Naked Agility.

@@ -25,10 +25,10 @@ preview: https://i.ytimg.com/vi/ZPRvjlp9i0A/hqdefault.jpg
 duration: 2112
 isShort: false
 tags:
-- People and Process
 - Events and Presentations
-- Software Development
+- People and Process
 - Software Developers
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

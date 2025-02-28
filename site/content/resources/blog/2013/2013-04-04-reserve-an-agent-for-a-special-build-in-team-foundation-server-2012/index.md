@@ -26,8 +26,8 @@ tags:
 - Pragmatic Thinking
 - Software Development
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-11-11.png
 
 ---

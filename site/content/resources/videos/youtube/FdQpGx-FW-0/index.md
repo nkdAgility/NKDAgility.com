@@ -35,9 +35,9 @@ tags:
 - Transparency
 - Agile Values and Principles
 - Business Agility
+- Agile Project Management
 - Agile Frameworks
 - Organisational Agility
-- Agile Project Management
 - Agile Leadership
 - Decision Making
 - Organisational Culture

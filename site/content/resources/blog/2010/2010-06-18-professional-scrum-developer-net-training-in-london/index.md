@@ -28,8 +28,8 @@ aliasesArchive:
 - /resources/blog/professional-scrum-developer-net-training-in-london
 tags:
 - Scrum Product Development
-- Software Development
 - Professional Scrum
+- Software Development
 - Events and Presentations
 - Agile Frameworks
 categories:

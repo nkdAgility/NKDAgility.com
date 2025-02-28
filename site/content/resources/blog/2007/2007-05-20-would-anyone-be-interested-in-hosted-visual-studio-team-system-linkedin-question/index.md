@@ -28,15 +28,15 @@ aliasesArchive:
 - /resources/blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
 tags:
 - Modern Source Control
-- Products and Books
-- Practical Techniques and Tooling
-- Software Development
-- System Configuration
 - News and Reviews
-- Application Lifecycle Management
-- Technical Mastery
-- Working Software
+- Practical Techniques and Tooling
+- Products and Books
+- System Configuration
+- Software Development
 - Collaboration Tools
+- Working Software
+- Internal Developer Platform
+- Software Developers
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - DevOps

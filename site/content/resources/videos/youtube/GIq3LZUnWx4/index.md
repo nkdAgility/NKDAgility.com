@@ -29,8 +29,8 @@ sitemap:
   priority: 0.6
 tags:
 - Product Owner
-- Agile Product Management
 - Value Delivery
+- Agile Product Management
 - Professional Scrum
 - Agile Philosophy
 resourceTypes:

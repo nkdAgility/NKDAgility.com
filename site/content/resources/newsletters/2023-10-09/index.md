@@ -26,12 +26,12 @@ tags:
 - Agile Product Management
 - Agile Project Management
 - Scrum Product Development
-- Product Backlog
 - Professional Scrum
-- Product Owner
-- Agile Planning Tools
+- Product Backlog
 - Agile Planning
 - Agile Frameworks
+- Agile Planning Tools
+- Product Owner
 - Software Development
 
 ---

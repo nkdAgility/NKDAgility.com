@@ -29,11 +29,11 @@ tags:
 - Scrum Team
 - Technical Leadership
 - Professional Scrum
+- Agile Frameworks
+- Agile Transformation
 - Agile Project Management
 - Software Development
-- Agile Transformation
-- Agile Frameworks
-- Coaching
+- Self Organisation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

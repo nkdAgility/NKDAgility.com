@@ -24,11 +24,11 @@ aliasesArchive:
 - /stop-hiding-behind-complexity-and-start-delivering-continuously
 - /blog/stop-hiding-behind-complexity-and-start-delivering-continuously
 tags:
-- Frequent Releases
-- Software Development
-- Product Delivery
 - Continuous Delivery
+- Frequent Releases
 - Value Delivery
+- Product Delivery
+- Software Development
 categories:
 - DevOps
 preview: 2025-02-24-stop-hiding-behind-complexity-deliver-continuously.jpg

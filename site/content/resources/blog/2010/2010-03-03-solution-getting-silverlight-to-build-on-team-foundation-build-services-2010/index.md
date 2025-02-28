@@ -30,13 +30,13 @@ tags:
 - Troubleshooting
 - Install and Configuration
 - Practical Techniques and Tooling
-- Software Development
 - System Configuration
-- Technical Mastery
+- Software Development
+- Continuous Integration
+- Azure DevOps
+- Technical Excellence
 - Operational Practices
 - Pragmatic Thinking
-- Continuous Integration
-- Technical Excellence
 categories:
 - Engineering Excellence
 preview: metro-visual-studio-2010-128-link-3-3.png

@@ -31,11 +31,11 @@ tags:
 - Agile Leadership
 - Change Management
 - Business Agility
+- Agile Transformation
 - Organisational Change
 - Agile Strategy
-- Agile Transformation
-- Pragmatic Thinking
 - Organisational Agility
+- Pragmatic Thinking
 - Sociotechnical Systems
 resourceTypes:
 - video

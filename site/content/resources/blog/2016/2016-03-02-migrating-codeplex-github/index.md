@@ -28,9 +28,9 @@ aliasesArchive:
 - /resources/blog/migrating-codeplex-github
 tags:
 - Install and Configuration
+- Modern Source Control
 - Practical Techniques and Tooling
 - Software Development
-- Modern Source Control
 categories:
 - DevOps
 preview: clip_image001-1-1.png

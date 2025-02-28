@@ -30,14 +30,14 @@ sitemap:
 tags:
 - Organisational Agility
 - People and Process
-- Empirical Process Control
 - Agile Project Management
+- Empirical Process Control
 - Agile Product Management
 - Business Agility
-- Change Management
-- Discovery and Learning
-- Agile Values and Principles
 - Hypothesis Driven Development
+- Change Management
+- Agile Values and Principles
+- Continuous Learning
 resourceTypes:
 - video
 categories:

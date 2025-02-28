@@ -23,15 +23,15 @@ aliasesArchive:
 - /the-new-normal-of-the-modern-application-lifecycle
 - /resources/blog/the-new-normal-of-the-modern-application-lifecycle
 tags:
-- People and Process
 - Application Lifecycle Management
+- People and Process
+- Business Agility
 - Software Developers
 - Software Development
-- Business Agility
-- News and Reviews
-- Organisational Agility
 - Market Adaptability
+- Organisational Agility
 - Events and Presentations
+- News and Reviews
 - Digital Transformation
 categories:
 - DevOps

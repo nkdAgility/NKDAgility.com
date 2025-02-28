@@ -30,13 +30,13 @@ tags:
 - Software Development
 - People and Process
 - Products and Books
-- Practical Techniques and Tooling
-- Application Lifecycle Management
 - Events and Presentations
 - Working Software
 - Value Delivery
-- Product Delivery
+- Application Lifecycle Management
+- Practical Techniques and Tooling
 - Azure DevOps
+- Product Delivery
 categories:
 - Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-8-8.png

@@ -28,15 +28,15 @@ aliasesArchive:
 - /resources/blog/organisation-project-mangers-well-product-owners
 tags:
 - Agile Product Operating Model
-- Agile Product Management
 - Agile Project Management
+- Agile Product Management
 - Product Delivery
 - Product Owner
-- Agile Strategy
+- Agile Philosophy
+- People and Process
 - Team Collaboration
-- Agile Transformation
 - Business Agility
-- Organisational Agility
+- Scrum Team
 categories:
 - Product Management
 - Scrum

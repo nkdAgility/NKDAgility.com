@@ -23,13 +23,13 @@ aliasesArchive:
 - /commit-to-visual-studio-alm-on-area51
 - /resources/blog/commit-to-visual-studio-alm-on-area51
 tags:
-- Team Collaboration
 - News and Reviews
+- Team Collaboration
 - Application Lifecycle Management
-- Miscellaneous
-- Software Development
 - Modern Source Control
 - Azure DevOps
+- Software Development
+- Miscellaneous
 categories: []
 preview: metro-visual-studio-2010-128-link-1-1.png
 

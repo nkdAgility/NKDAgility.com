@@ -31,11 +31,11 @@ aliasesArchive:
 - /blog/hold-on-lads--i-have-an-idea-
 - /resources/blog/hold-on-lads-i-have-an-idea
 tags:
-- People and Process
-- Business Agility
 - Ability to Innovate
-- Sociotechnical Systems
+- Business Agility
+- People and Process
 - Organisational Physics
+- Sociotechnical Systems
 - Digital Transformation
 - Miscellaneous
 categories: []

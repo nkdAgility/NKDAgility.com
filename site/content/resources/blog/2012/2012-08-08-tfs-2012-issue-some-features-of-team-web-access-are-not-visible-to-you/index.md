@@ -27,8 +27,8 @@ aliasesArchive:
 - /blog/tfs-2012-issue--some-features-of-team-web-access-are-not-visible-to-you
 - /resources/blog/tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
 tags:
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 - System Configuration
 - Troubleshooting
 categories: []

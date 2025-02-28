@@ -31,14 +31,14 @@ sitemap:
   priority: 0.6
 tags:
 - Business Agility
-- Agile Strategy
-- Agile Project Management
-- Agile Transformation
 - Agile Frameworks
-- People and Process
-- Technical Leadership
-- Decision Making
+- Agile Transformation
+- Agile Project Management
+- Agile Strategy
 - Practical Techniques and Tooling
+- Technical Leadership
+- People and Process
+- Organisational Agility
 - Pragmatic Thinking
 resourceTypes:
 - video

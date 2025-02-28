@@ -29,15 +29,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Decision Making
 - Agile Leadership
-- Sociotechnical Systems
-- Agile Philosophy
+- Decision Making
 - Beta Codex
 - Agile Transformation
 - Agile Strategy
 - Agile Project Management
-- Pragmatic Thinking
+- Agile Philosophy
+- Sociotechnical Systems
+- Organisational Agility
 resourceTypes:
 - video
 categories:

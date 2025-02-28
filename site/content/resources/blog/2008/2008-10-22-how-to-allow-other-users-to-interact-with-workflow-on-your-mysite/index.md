@@ -27,8 +27,8 @@ aliasesArchive:
 - /blog/how-to--allow-other-users-to-interact-with-workflow-on-your-mysite
 - /resources/blog/how-to-allow-other-users-to-interact-with-workflow-on-your-mysite
 tags:
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 - System Configuration
 preview: metro-sharepoint-128-link-15-15.png
 categories:
