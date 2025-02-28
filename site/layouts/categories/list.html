@@ -1,22 +1,62 @@
 {{- define "main" }}
   <section class="container my-5">
     <div class="row">
-      {{- range $taxonomyName, $page := .Pages.ByWeight }}
-        {{- if eq .Type "course" }}
+      {{- $taxonomyName := .Title }}
+      {{- $taxonomyShortName := .Title }}
+      {{- $pages := where .Pages.ByWeight "Draft" "!=" true }}
+
+      {{- $pagesWithData := slice }}
+      {{- range $page := $pages }}
+        {{- with .Resources.GetMatch "data.index.classifications.json" }}
+          {{- $data := . | transform.Unmarshal }}
+          {{- $dataItem := index $data $taxonomyName }}
+          {{- if $dataItem }}
+            <!-- Ensure the taxonomy exists in the data -->
+            {{- $pagesWithData = $pagesWithData | append (dict "page" $page "score" ($dataItem.final_score | default 0)) }}
+          {{- else }}
+            {{- $pagesWithData = $pagesWithData | append (dict "page" $page "score" 0) }}
+          {{- end }}
+        {{- else }}
+          {{- $pagesWithData = $pagesWithData | append (dict "page" $page "score" .Weight) }}
+          <!-- Default when no data file -->
+        {{- end }}
+      {{- end }}
+      {{- $sortedPagesWithData := sort $pagesWithData "score" "desc" }}
+
+      {{- range $pageWithData := $sortedPagesWithData }}
+        {{- if eq $pageWithData.page.Type "course" }}
           <div class="col-xl-4 d-flex p-2">
             {{- partial "cards-course.html" (dict "context" .) }}
           </div>
-        {{- else if or (eq .Type "tags") (eq .Type "categories") }}
+        {{- else if or (eq $pageWithData.page.Type "tags") (eq $pageWithData.page.Type "categories") }}
           <div class="col-xl-4 d-flex p-2">
-            {{- partial "page-sections/sections-taxonomies-card.html" (dict "site" .Site "context" . "subTypes" "resources") }}
+            {{- partial "page-sections/sections-taxonomies-card.html" (dict "site" .Site "context" $pageWithData.page "subTypes" "resources") }}
           </div>
         {{- else }}
           <div class="col-xl-4 d-flex p-2">
-            {{- if $page.Params.card }}
-              {{- partial "card.html" (dict "class" "sectioncards" "title" $page.Params.card.title "content" $page.Params.card.content "buttonContent" $page.Params.card.button.content "permalink" $page.Permalink ) }}
-            {{- else }}
-              {{- partial "card.html" (dict "class" "sectioncards" "title" $page.Title "content" $page.Description "buttonContent" "Find out More" "permalink" $page.Permalink ) }}
+            {{- $title := $pageWithData.page.Title }}
+            {{- $description := $pageWithData.page.Description }}
+            {{- $buttonContent := "Find out More" }}
+            {{- if $pageWithData.page.Params.card }}
+              {{- $title = $pageWithData.page.Params.card.title }}
+              {{- $description = $pageWithData.page.Params.card.content }}
+              {{- $buttonContent = $pageWithData.page.Params.card.button.content }}
             {{- end }}
+            <!-- layouts/partials/card.html -->
+            <div class="sectioncards p-2 flex-fill flex-grow-1 h-100">
+              <div class="card sectioncards flex-fill flex-grow-1 m-3 shadow text-start small border-0 h-100 position-relative">
+                <div class="card-body p-4 px-20">
+                  <h3 class="ttl-nkdagility h5 text-start" title="{{ $title }}">{{- $title }}</h3>
+                  <div class="card-text text-muted">
+                    {{- $description | markdownify }}
+                  </div>
+                </div>
+                <div class="card-footer border-transparent bg-white p-3 border-0 d-flex justify-content-between align-items-center">
+                  <small class="text-body-secondary" title="Affinity to {{ $taxonomyName }} is {{ $pageWithData.score }}%"> <strong class="d-inline-block text-truncate" style="max-width: 150px; vertical-align: middle;"> {{ $taxonomyName }} </strong>: {{ $pageWithData.score }}% </small>
+                  <a href="{{ $pageWithData.page.Permalink }}" class="btn btn-nkdagility p-2" title="More information on {{ .title }}"> {{- $buttonContent }} <i class="fa-solid fa-arrow-right"></i> </a>
+                </div>
+              </div>
+            </div>
           </div>
         {{- end }}
       {{- end }}
@@ -26,9 +66,14 @@
 
 {{- define "siteSectionCallback" }}
   <section class="container my-5">
-    <!-- Removed -->
+    {{/* <h2 title="R - What we do?">Our Services</h2>
+      <p>Explore our comprehensive range of services and capabilities designed to empower organizations and teams. With our expert solutions, you can efficiently address and resolve immediate challenges, driving success across your operations.</p>
+      {{- partial "cards-section.html" (dict "context" . "SectionName" "capabilities")
+    }}
+    */}}
   </section>
 {{- end }}
+
 {{- define "template" }}
-  categories/list.html
+  tags/list.html
 {{- end }}
