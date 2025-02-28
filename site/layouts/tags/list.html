@@ -46,6 +46,7 @@
             <div class="sectioncards p-2 flex-fill flex-grow-1 h-100">
               <div class="card sectioncards flex-fill flex-grow-1 m-3 shadow text-start small border-0 h-100 position-relative">
                 <div class="card-body p-4 px-20">
+                  <span class="badge text-bg-secondary">{{- title $pageWithData.page.Params.ResourceType }}</span>
                   <h3 class="ttl-nkdagility h5 text-start" title="{{ $title }}">{{- $title }}</h3>
                   <div class="card-text text-muted">
                     {{- $description | markdownify }}
