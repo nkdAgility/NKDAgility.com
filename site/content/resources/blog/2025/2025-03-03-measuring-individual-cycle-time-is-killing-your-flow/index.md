@@ -78,11 +78,11 @@ None of this improves system flow. It just distorts behaviour.
 
 If you want to improve flow, focus on:
 
-- **customer lead time (time to market)**—the total time from when work is requested to when it is delivered to the customer.
-- **Work in progress (WIP) limits**—to reduce bottlenecks and improve flow.
-- **Process Cycle Efficiency (PCE)**—the ratio of active work time to waiting time.
-- **Bottlenecks and blockers**—to identify systemic constraints.
-- **Throughput**—the rate at which work is actually completed.
+- **customer lead time (time to market)** - the total time from when work is requested to when it is delivered to the customer.
+- **Work in progress (WIP) limits** - to reduce bottlenecks and improve flow.
+- **Process Cycle Efficiency (PCE)** - the ratio of active work time to non value added time.
+- **Bottlenecks and blockers** - to identify systemic constraints.
+- **Throughput** - the rate at which something is produced or delivered..
 
 ## Bottom Line
 
