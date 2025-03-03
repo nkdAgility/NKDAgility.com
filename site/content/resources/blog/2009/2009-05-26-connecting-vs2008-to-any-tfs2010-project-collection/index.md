@@ -25,8 +25,8 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
-- System Configuration
 - Software Development
+- System Configuration
 preview: metro-visual-studio-2005-128-link-3-3.png
 categories: []
 

@@ -32,10 +32,10 @@ tags:
 - Install and Configuration
 - Modern Source Control
 - Practical Techniques and Tooling
-- Troubleshooting
+- Software Development
 - System Configuration
 - Technical Mastery
-- Software Development
+- Troubleshooting
 categories: []
 preview: metro-problem-icon-4-4.png
 

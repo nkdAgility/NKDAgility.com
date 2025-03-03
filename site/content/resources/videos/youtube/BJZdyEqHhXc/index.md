@@ -27,12 +27,12 @@ tags:
 - People and Process
 - Resilience and Change
 - Change Management
-- Organisational Change
 - Organisational Agility
-- Sensemaking
-- Pragmatic Thinking
-- Sociotechnical Systems
+- Organisational Change
 - Decision Making
+- Pragmatic Thinking
+- Sensemaking
+- Sociotechnical Systems
 - Business Agility
 sitemap:
   filename: sitemap.xml

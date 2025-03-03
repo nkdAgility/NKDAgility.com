@@ -25,10 +25,10 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Technical Excellence
-- Troubleshooting
-- Technical Mastery
 - Software Development
+- Technical Excellence
+- Technical Mastery
+- Troubleshooting
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-2-1.png

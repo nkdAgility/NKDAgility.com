@@ -32,10 +32,10 @@ tags:
 - Technical Mastery
 - Azure DevOps
 - Operational Practices
-- Troubleshooting
 - Pragmatic Thinking
-- System Configuration
 - Software Development
+- System Configuration
+- Troubleshooting
 categories:
 - DevOps
 preview: puzzle-issue-problem-128-link-5-5.png

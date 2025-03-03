@@ -24,15 +24,15 @@ duration: 280
 isShort: false
 tags:
 - Coaching
-- Agile Product Management
-- Agile Transformation
-- Agile Philosophy
 - Agile Frameworks
-- People and Process
-- Agile Project Management
-- Business Agility
 - Agile Leadership
+- Agile Philosophy
+- Agile Product Management
+- Agile Project Management
+- Agile Transformation
+- Business Agility
 - Organisational Agility
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

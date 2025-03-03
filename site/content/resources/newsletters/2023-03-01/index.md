@@ -22,10 +22,10 @@ categories:
 - Social Technologies
 - Scrum
 tags:
-- Professional Scrum
 - Discovery and Learning
-- Events and Presentations
+- Professional Scrum
 - Continuous Learning
+- Events and Presentations
 - People and Process
 - Agile Frameworks
 - Pragmatic Thinking

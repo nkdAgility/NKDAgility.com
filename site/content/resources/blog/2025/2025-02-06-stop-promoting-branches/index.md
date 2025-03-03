@@ -23,12 +23,12 @@ tags:
 - Software Development
 - Technical Excellence
 - Continuous Delivery
-- Engineering Practices
-- Value Delivery
-- Software Developers
 - Continuous Integration
+- Engineering Practices
 - Release Management
-- Product Delivery
+- Software Developers
+- Value Delivery
+- Deployment Frequency
 - Deployment Strategies
 categories:
 - DevOps

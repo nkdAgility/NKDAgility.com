@@ -30,8 +30,8 @@ tags:
 - People and Process
 - Product Owner
 - Product Discovery
-- Value Delivery
 - Product Strategy
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -22,15 +22,15 @@ card:
 categories:
 - Social Technologies
 tags:
-- Portfolio Management
 - Business Agility
-- Evidence Based Management
-- Organisational Change
-- Enterprise Agility
+- Portfolio Management
+- Agile Philosophy
 - Agile Strategy
 - Agile Transformation
-- Agile Philosophy
+- Enterprise Agility
+- Evidence Based Management
 - Organisational Agility
+- Organisational Change
 - Market Adaptability
 
 ---

@@ -31,12 +31,12 @@ sitemap:
 tags:
 - Agile Values and Principles
 - People and Process
-- Agile Philosophy
-- Software Developers
 - Agile Frameworks
+- Agile Philosophy
+- Agile Strategy
 - Agile Transformation
 - Complexity Thinking
-- Agile Strategy
+- Software Developers
 - Software Development
 - Organisational Agility
 resourceTypes:

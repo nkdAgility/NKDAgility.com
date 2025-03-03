@@ -25,15 +25,15 @@ duration: 407
 isShort: false
 tags:
 - People and Process
-- Scrum Product Development
 - Agile Product Management
 - Scrum Master
+- Scrum Product Development
 - Scrum Team
-- Team Performance
 - Agile Frameworks
+- Agile Project Management
 - Agile Transformation
-- Team Collaboration
 - Professional Scrum
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

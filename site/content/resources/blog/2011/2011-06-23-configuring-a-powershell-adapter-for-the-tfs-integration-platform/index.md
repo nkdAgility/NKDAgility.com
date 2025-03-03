@@ -25,8 +25,8 @@ aliasesArchive:
 tags:
 - System Configuration
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 
 ---
 ![](images/image_thumb-1-1.png)

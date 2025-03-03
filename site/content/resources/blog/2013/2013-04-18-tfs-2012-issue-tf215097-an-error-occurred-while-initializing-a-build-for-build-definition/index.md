@@ -29,13 +29,13 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Windows
-- Continuous Integration
 - Azure DevOps
+- Continuous Integration
+- Software Development
+- System Configuration
 - Technical Excellence
 - Troubleshooting
-- System Configuration
-- Software Development
+- Windows
 categories:
 - DevOps
 preview: puzzle-issue-problem-128-link-3-3.png

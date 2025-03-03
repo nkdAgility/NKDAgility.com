@@ -29,8 +29,8 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Troubleshooting
 - System Configuration
+- Troubleshooting
 categories:
 - DevOps
 preview: nakedalm-windows-logo-8-8.png

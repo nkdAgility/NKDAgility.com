@@ -23,9 +23,9 @@ aliasesArchive:
 - /get-analysis-services-last-processed-date
 - /resources/blog/get-analysis-services-last-processed-date
 tags:
-- Troubleshooting
-- Technical Mastery
 - Software Development
+- Technical Mastery
+- Troubleshooting
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

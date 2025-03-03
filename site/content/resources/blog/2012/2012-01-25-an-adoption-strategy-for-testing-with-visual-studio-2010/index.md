@@ -27,13 +27,13 @@ tags:
 - Practical Techniques and Tooling
 - Products and Books
 - Software Development
+- People and Process
 - Software Developers
 - Team Collaboration
-- People and Process
 categories:
 - Scrum
-- Social Technologies
 - Engineering Excellence
+- Social Technologies
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

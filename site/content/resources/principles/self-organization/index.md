@@ -28,12 +28,12 @@ tags:
 - People and Process
 - Scrum Master
 - Scrum Team
-- Team Performance
-- Team Collaboration
 - Professional Scrum
+- Team Collaboration
+- Team Performance
 - Agile Frameworks
-- Self Organisation
 - Agile Project Management
+- Self Organisation
 - Software Development
 
 ---

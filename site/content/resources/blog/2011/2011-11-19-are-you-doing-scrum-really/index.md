@@ -29,14 +29,14 @@ aliasesArchive:
 tags:
 - Increment
 - Agile Project Management
-- Scrum Product Development
 - People and Process
-- Software Development
+- Scrum Product Development
 - Scrum Master
 - Scrum Team
+- Software Development
 - Agile Planning
+- Agile Product Management
 - Events and Presentations
-- News and Reviews
 categories:
 - Scrum
 - Social Technologies

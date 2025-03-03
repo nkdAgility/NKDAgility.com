@@ -29,16 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Daily Scrum
 - Agile Project Management
+- Daily Scrum
 - People and Process
 - Scrum Team
 - Agile Frameworks
-- Team Performance
 - Agile Philosophy
-- Scrum Product Development
-- Value Delivery
+- Agile Product Management
 - Agile Transformation
+- Pragmatic Thinking
+- Scrum Master
 resourceTypes:
 - video
 categories:

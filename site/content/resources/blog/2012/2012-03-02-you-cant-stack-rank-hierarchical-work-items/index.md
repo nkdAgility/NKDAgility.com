@@ -30,13 +30,13 @@ tags:
 - Scrum Product Development
 - Product Backlog
 - Software Development
-- Software Developers
-- Practical Techniques and Tooling
 - Agile Product Management
+- Practical Techniques and Tooling
 - Professional Scrum
-- Agile Planning
+- Software Developers
 - Agile Frameworks
-- Azure DevOps
+- Agile Planning
+- Agile Project Management
 categories:
 - Social Technologies
 - Scrum

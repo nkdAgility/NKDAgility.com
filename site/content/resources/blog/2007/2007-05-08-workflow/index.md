@@ -25,10 +25,10 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 - Azure DevOps
-- Operational Practices
-- Technical Mastery
-- Software Development
 - Miscellaneous
+- Operational Practices
+- Software Development
+- Technical Mastery
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

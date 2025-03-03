@@ -30,11 +30,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Discovery and Learning
+- People and Process
 - Continuous Learning
-- Personal
 - Coaching
+- Personal
 resourceTypes:
 - video
 categories:

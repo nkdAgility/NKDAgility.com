@@ -24,16 +24,16 @@ preview: https://i.ytimg.com/vi/a6aw7xmS2oc/maxresdefault.jpg
 duration: 330
 isShort: false
 tags:
-- People and Process
 - Ability to Innovate
+- People and Process
 - Product Owner
-- Scrum Product Development
-- Agile Product Operating Model
 - Agile Product Management
+- Agile Product Operating Model
+- Decision Making
+- Evidence Based Leadership
 - Evidence Based Management
 - Metrics and Learning
 - Product Delivery
-- Evidence Based Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6

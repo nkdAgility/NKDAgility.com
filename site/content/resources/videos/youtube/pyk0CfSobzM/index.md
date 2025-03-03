@@ -35,9 +35,9 @@ tags:
 - People and Process
 - Professional Scrum
 - Scrum Master
-- Agile Planning
 - Agile Frameworks
-- Pragmatic Thinking
+- Agile Planning
+- Agile Project Management
 resourceTypes:
 - video
 categories:

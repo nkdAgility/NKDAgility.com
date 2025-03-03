@@ -34,8 +34,8 @@ tags:
 - Professional Scrum
 - Scrum Master
 - Agile Frameworks
-- Pragmatic Thinking
 - Agile Project Management
+- Pragmatic Thinking
 - Personal
 - Practical Techniques and Tooling
 - Scrum Team

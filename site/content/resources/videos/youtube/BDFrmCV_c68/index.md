@@ -37,9 +37,9 @@ tags:
 - Agile Product Management
 - Product Owner
 - Value Delivery
-- Experimentation
-- Evidence Based Leadership
 - Decision Making
+- Evidence Based Leadership
+- Experimentation
 - Hypothesis Driven Development
 resourceTypes:
 - video

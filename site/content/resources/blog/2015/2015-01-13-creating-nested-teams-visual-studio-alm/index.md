@@ -30,8 +30,8 @@ tags:
 - Install and Configuration
 - System Configuration
 - Application Lifecycle Management
-- Practical Techniques and Tooling
 - Azure Boards
+- Practical Techniques and Tooling
 - Software Development
 - Azure DevOps
 - Pragmatic Thinking

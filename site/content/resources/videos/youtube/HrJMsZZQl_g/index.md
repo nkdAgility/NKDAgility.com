@@ -31,9 +31,9 @@ sitemap:
 tags:
 - People and Process
 - Discovery and Learning
-- Team Performance
 - Continuous Learning
 - Team Collaboration
+- Team Performance
 - Agile Frameworks
 - Pragmatic Thinking
 - Empirical Process Control

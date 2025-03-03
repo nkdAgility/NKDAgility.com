@@ -27,12 +27,12 @@ tags:
 - People and Process
 - Agile Transformation
 - Agile Values and Principles
-- Change Management
-- Agile Philosophy
-- Business Agility
 - Agile Leadership
-- Organisational Agility
+- Agile Philosophy
 - Agile Strategy
+- Business Agility
+- Change Management
+- Organisational Agility
 - Organisational Culture
 sitemap:
   filename: sitemap.xml

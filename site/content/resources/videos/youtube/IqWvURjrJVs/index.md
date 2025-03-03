@@ -25,15 +25,15 @@ duration: 255
 isShort: false
 tags:
 - Coaching
-- People and Process
 - Business Agility
 - Organisational Agility
-- Scrum Product Development
-- Value Delivery
-- Software Developers
+- People and Process
 - Agile Frameworks
+- Agile Product Management
+- Agile Project Management
+- Agile Strategy
 - Agile Transformation
-- Team Collaboration
+- Market Adaptability
 sitemap:
   filename: sitemap.xml
   priority: 0.4

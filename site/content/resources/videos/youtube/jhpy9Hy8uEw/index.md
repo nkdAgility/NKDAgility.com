@@ -33,8 +33,8 @@ tags:
 - Personal
 - People and Process
 - Agile Frameworks
-- Continuous Learning
 - Agile Project Management
+- Continuous Learning
 - Agile Values and Principles
 resourceTypes:
 - video

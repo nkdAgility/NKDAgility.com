@@ -30,14 +30,14 @@ aliasesArchive:
 tags:
 - Change Management
 - Continuous Learning
-- People and Process
 - Discovery and Learning
-- Events and Presentations
+- People and Process
 - Agile Frameworks
+- Events and Presentations
 - Products and Books
 - Pragmatic Thinking
 - Coaching
-- Value Delivery
+- Agile Transformation
 categories:
 - Social Technologies
 preview: NKDAgility-technically-TheEvolutionofAgileLearning-1-1-16-16.jpg

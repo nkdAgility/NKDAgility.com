@@ -28,15 +28,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Empirical Process Control
 - Agile Planning
-- Agile Transformation
-- Scrum Product Development
-- Agile Philosophy
+- Empirical Process Control
 - Agile Frameworks
-- Team Collaboration
+- Agile Philosophy
 - Agile Product Management
-- Metrics and Learning
+- Agile Project Management
+- Agile Transformation
+- Customer Feedback Loops
+- Discovery and Learning
 resourceTypes:
 - video
 layout: video

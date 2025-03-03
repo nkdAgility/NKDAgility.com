@@ -28,15 +28,15 @@ aliasesArchive:
 - /resources/blog/team-server-hmm
 tags:
 - Modern Source Control
-- Install and Configuration
 - Application Lifecycle Management
+- Install and Configuration
 - Practical Techniques and Tooling
 - Products and Books
 - Software Development
-- Windows
-- Troubleshooting
-- System Configuration
 - Miscellaneous
+- System Configuration
+- Troubleshooting
+- Windows
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

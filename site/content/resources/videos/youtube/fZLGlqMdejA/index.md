@@ -31,16 +31,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Product Operating Model
-- Value Delivery
-- Product Delivery
-- People and Process
-- Flow Efficiency
-- Agile Values and Principles
 - Agile Product Management
-- Agile Transformation
+- Agile Product Operating Model
+- Agile Values and Principles
+- Flow Efficiency
+- People and Process
+- Product Delivery
+- Value Delivery
+- Agile Frameworks
 - Agile Philosophy
-- Software Developers
+- Agile Project Management
 resourceTypes:
 - video
 categories:

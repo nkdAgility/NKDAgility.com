@@ -35,11 +35,11 @@ tags:
 - Metrics and Learning
 - People and Process
 - Ability to Innovate
+- Discovery and Learning
 - Empirical Process Control
+- Evidence Based Management
 - Pragmatic Thinking
 - Transparency and Accountability
-- Discovery and Learning
-- Evidence Based Management
 resourceTypes:
 - video
 categories:

@@ -27,9 +27,9 @@ tags:
 - People and Process
 - Scrum Master
 - Agile Frameworks
+- Agile Project Management
 - Agile Transformation
 - Professional Scrum
-- Agile Project Management
 - Scrum Team
 - Software Development
 - Sociotechnical Systems

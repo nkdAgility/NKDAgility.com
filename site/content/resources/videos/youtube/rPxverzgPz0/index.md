@@ -31,15 +31,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Team
 - Organisational Agility
 - Organisational Change
-- Change Management
-- Products and Books
-- Agile Project Management
-- Team Collaboration
-- People and Process
+- Scrum Team
 - Agile Frameworks
+- Agile Project Management
+- Agile Transformation
+- Change Management
+- People and Process
+- Products and Books
 - Scrum Product Development
 resourceTypes:
 - video

@@ -34,8 +34,8 @@ tags:
 - System Configuration
 - Practical Techniques and Tooling
 - Pragmatic Thinking
-- Technical Mastery
 - Software Development
+- Technical Mastery
 resourceTypes:
 - video
 layout: video

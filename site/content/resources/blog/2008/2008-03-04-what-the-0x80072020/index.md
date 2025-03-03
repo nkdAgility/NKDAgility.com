@@ -27,8 +27,8 @@ aliasesArchive:
 - /blog/what-the-0x80072020-
 - /resources/blog/what-the-0x80072020
 tags:
-- Troubleshooting
 - Software Development
+- Troubleshooting
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

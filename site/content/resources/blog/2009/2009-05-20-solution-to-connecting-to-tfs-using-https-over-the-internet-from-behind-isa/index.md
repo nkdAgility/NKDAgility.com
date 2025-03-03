@@ -25,10 +25,10 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Windows
-- Troubleshooting
 - System Configuration
 - Technical Mastery
+- Troubleshooting
+- Windows
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories: []
 

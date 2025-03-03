@@ -28,9 +28,9 @@ aliasesArchive:
 - /resources/blog/wpf-drag-drop-behaviour
 tags:
 - Practical Techniques and Tooling
+- Software Development
 - Technical Excellence
 - Technical Mastery
-- Software Development
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-5-1.png

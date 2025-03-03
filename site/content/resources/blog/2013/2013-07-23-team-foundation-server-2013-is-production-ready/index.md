@@ -27,12 +27,12 @@ tags:
 - Technical Debt
 - News and Reviews
 - Software Development
-- Application Lifecycle Management
 - Agile Project Management
+- Application Lifecycle Management
 - Working Software
-- Software Developers
 - Agile Frameworks
-- People and Process
+- Agile Strategy
+- Organisational Agility
 categories:
 - Engineering Excellence
 

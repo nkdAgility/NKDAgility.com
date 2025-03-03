@@ -34,14 +34,14 @@ sitemap:
 tags:
 - People and Process
 - Agile Product Management
-- Agile Project Management
-- Organisational Agility
-- Value Delivery
 - Agile Frameworks
+- Agile Project Management
 - Agile Transformation
+- Organisational Agility
 - Software Development
 - Team Collaboration
-- Pragmatic Thinking
+- Value Delivery
+- Empirical Process Control
 resourceTypes:
 - video
 categories:

@@ -33,14 +33,14 @@ sitemap:
 tags:
 - Agile Strategy
 - People and Process
-- Agile Project Management
 - Agile Product Management
-- Digital Transformation
+- Agile Project Management
 - Agile Product Operating Model
+- Agile Transformation
+- Change Management
+- Digital Transformation
 - Organisational Change
 - Organisational Culture
-- Product Owner
-- Strategic Goals
 resourceTypes:
 - video
 categories:

@@ -28,8 +28,8 @@ aliasesArchive:
 - /resources/blog/where-am-i
 tags:
 - Windows
-- Technical Mastery
 - Software Development
+- Technical Mastery
 categories:
 - Engineering Excellence
 preview: metro-merilllynch-128-link-5-1.png

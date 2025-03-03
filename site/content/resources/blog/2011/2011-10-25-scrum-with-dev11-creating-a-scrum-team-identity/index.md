@@ -29,13 +29,13 @@ aliasesArchive:
 tags:
 - Scrum Team
 - News and Reviews
+- People and Process
 - Practical Techniques and Tooling
 - Team Collaboration
-- People and Process
-- Software Developers
 - Agile Frameworks
-- Agile Transformation
 - Agile Project Management
+- Agile Transformation
+- Software Developers
 - Software Development
 categories:
 - Scrum

@@ -33,14 +33,14 @@ sitemap:
 tags:
 - Product Owner
 - Agile Product Management
-- People and Process
-- Decision Theory
 - Decision Making
-- Pragmatic Thinking
+- Decision Theory
+- People and Process
 - Agile Project Management
+- Pragmatic Thinking
 - Scrum Product Development
-- Sensemaking
-- Organisational Agility
+- Accountability
+- Agile Strategy
 resourceTypes:
 - video
 categories:

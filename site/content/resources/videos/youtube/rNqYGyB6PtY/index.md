@@ -36,8 +36,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Leadership
 - DevOps
+- Leadership
 - Scrum
 
 ---

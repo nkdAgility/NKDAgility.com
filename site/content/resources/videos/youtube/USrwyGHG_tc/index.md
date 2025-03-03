@@ -32,16 +32,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Team
-- Scrum Master
 - Agile Values and Principles
-- Software Development
-- Business Agility
-- Team Motivation
-- Agile Product Management
-- Team Collaboration
-- Organisational Agility
+- Scrum Master
+- Scrum Team
 - Agile Frameworks
+- Agile Leadership
+- Agile Product Management
+- Agile Project Management
+- Agile Transformation
+- Business Agility
+- Organisational Agility
 resourceTypes:
 - video
 categories:

@@ -29,11 +29,11 @@ aliasesArchive:
 tags:
 - Application Lifecycle Management
 - Release Management
+- Azure DevOps
+- Deployment Strategies
 - Events and Presentations
 - Install and Configuration
-- Deployment Strategies
 - Practical Techniques and Tooling
-- Azure DevOps
 - Technical Excellence
 - Technical Mastery
 - Operational Practices

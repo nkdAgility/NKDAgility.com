@@ -31,12 +31,12 @@ tags:
 - Install and Configuration
 - Practical Techniques and Tooling
 - Azure DevOps
-- System Configuration
 - Software Development
+- System Configuration
 categories:
 - Scrum
-- Social Technologies
 - DevOps
+- Social Technologies
 preview: puzzle-issue-problem-128-link-2-2.png
 
 ---

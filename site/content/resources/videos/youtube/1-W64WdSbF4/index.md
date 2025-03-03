@@ -31,16 +31,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Review
-- Scrum Product Development
 - Professional Scrum
+- Scrum Product Development
+- Sprint Review
 - Increment
 - People and Process
-- Events and Presentations
 - Agile Product Management
-- Product Owner
-- Product Delivery
 - Agile Project Management
+- Events and Presentations
+- Product Delivery
+- Product Owner
 resourceTypes:
 - video
 layout: video

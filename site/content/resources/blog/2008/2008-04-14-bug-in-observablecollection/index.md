@@ -27,9 +27,9 @@ aliasesArchive:
 - /blog/bug-in-observablecollection-
 - /resources/blog/bug-in-observablecollection
 tags:
-- Troubleshooting
-- Technical Mastery
 - Software Development
+- Technical Mastery
+- Troubleshooting
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-2-2.png

@@ -24,9 +24,9 @@ aliasesArchive:
 - /resources/blog/upgrading-to-tfs-2010-beta-1-and-sql-collation
 tags:
 - Install and Configuration
-- Troubleshooting
-- System Configuration
 - Software Development
+- System Configuration
+- Troubleshooting
 - Windows
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:

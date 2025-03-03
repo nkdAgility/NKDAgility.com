@@ -29,8 +29,8 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Systems Thinking
 - Organisational Physics
+- Systems Thinking
 - Change Management
 - Organisational Change
 - Pragmatic Thinking
@@ -38,9 +38,9 @@ tags:
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Leadership
 - Product Management
+- Social Technologies
 
 ---
 ## Exploring the Apex of Consulting Engagements: Unlocking Systemic Change

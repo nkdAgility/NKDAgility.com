@@ -30,9 +30,9 @@ tags:
 - Application Lifecycle Management
 - Practical Techniques and Tooling
 - Azure DevOps
-- Technical Excellence
-- Troubleshooting
 - Pragmatic Thinking
+- Technical Excellence
+- Technical Mastery
 categories:
 - Scrum
 preview: nakedalm-experts-visual-studio-alm-1-1.png

@@ -30,10 +30,10 @@ aliasesArchive:
 tags:
 - Transparency
 - Definition of Done
+- Product Delivery
+- Professional Scrum
 - Scrum Product Development
 - Transparency and Accountability
-- Professional Scrum
-- Product Delivery
 - Working Software
 - Agile Project Management
 - Software Development

@@ -26,16 +26,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Team Collaboration
 - Agile Leadership
 - Agile Project Management
 - Scrum Master
 - Scrum Team
-- Team Performance
-- Team Motivation
+- Team Collaboration
 - Agile Frameworks
 - Agile Transformation
-- Technical Leadership
+- People and Process
+- Professional Scrum
+- Team Motivation
 resourceTypes:
 - video
 categories:

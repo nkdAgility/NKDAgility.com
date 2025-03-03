@@ -34,14 +34,14 @@ sitemap:
   priority: 0.6
 tags:
 - Operational Practices
-- Practical Techniques and Tooling
 - Flow Efficiency
-- Throughput
+- Practical Techniques and Tooling
 - Agile Frameworks
+- Agile Project Management
 - Lean Thinking
 - Pragmatic Thinking
-- Agile Project Management
 - Software Development
+- Throughput
 - Value Delivery
 resourceTypes:
 - video

@@ -26,12 +26,12 @@ tags:
 - Install and Configuration
 - Practical Techniques and Tooling
 - System Configuration
-- Continuous Integration
 - Azure DevOps
+- Continuous Integration
 - Operational Practices
-- Troubleshooting
-- Technical Mastery
 - Software Development
+- Technical Mastery
+- Troubleshooting
 - Application Lifecycle Management
 preview: metro-SSWLogo-128-link-6-6.png
 categories:

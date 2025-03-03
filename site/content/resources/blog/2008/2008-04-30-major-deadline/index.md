@@ -23,8 +23,8 @@ aliasesArchive:
 - /major-deadline
 - /resources/blog/major-deadline
 tags:
-- Troubleshooting
 - Software Development
+- Troubleshooting
 - Pragmatic Thinking
 - Digital Transformation
 - Technical Mastery

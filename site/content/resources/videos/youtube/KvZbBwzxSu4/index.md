@@ -32,13 +32,13 @@ tags:
 - People and Process
 - Evidence Based Leadership
 - Evidence Based Management
-- Agile Product Operating Model
-- Value Delivery
-- Decision Making
 - Agile Product Management
+- Agile Product Operating Model
+- Decision Making
+- Value Delivery
 - Agile Leadership
 - Business Agility
-- Product Strategy
+- Change Management
 resourceTypes:
 - video
 categories:

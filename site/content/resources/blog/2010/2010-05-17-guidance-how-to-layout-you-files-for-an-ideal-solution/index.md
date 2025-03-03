@@ -28,15 +28,15 @@ aliasesArchive:
 - /resources/blog/guidance-how-to-layout-you-files-for-an-ideal-solution
 tags:
 - Software Development
-- Software Developers
 - Modern Source Control
+- Software Developers
 - Application Lifecycle Management
 - Practical Techniques and Tooling
-- Release Management
 - Product Delivery
-- Technical Excellence
-- Pragmatic Thinking
+- Release Management
 - Agile Project Management
+- Pragmatic Thinking
+- Technical Excellence
 categories:
 - Engineering Excellence
 preview: metro-visual-studio-2010-128-link-11-11.png

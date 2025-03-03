@@ -36,7 +36,7 @@ resourceTypes:
 categories:
 - Scrum
 - Engineering Excellence
-- Social Technologies
+- DevOps
 
 ---
 ## From Developer to Scrum Developer: A Journey of Continuous Learning

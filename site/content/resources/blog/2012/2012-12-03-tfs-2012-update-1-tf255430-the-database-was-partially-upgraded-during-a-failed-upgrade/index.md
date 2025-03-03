@@ -32,16 +32,16 @@ tags:
 - Windows
 - Install and Configuration
 - System Configuration
-- Practical Techniques and Tooling
 - Operational Practices
+- Practical Techniques and Tooling
 - Azure DevOps
 - Release Management
+- Software Development
 - Technical Excellence
-- Troubleshooting
 - Technical Mastery
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 preview: metro-problem-icon-2-2.png
 
 ---

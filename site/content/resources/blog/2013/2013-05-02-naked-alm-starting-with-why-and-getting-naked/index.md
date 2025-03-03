@@ -28,15 +28,15 @@ aliasesArchive:
 - /resources/blog/naked-alm-starting-with-why-and-getting-naked
 tags:
 - Application Lifecycle Management
-- Working Software
-- People and Process
 - Discovery and Learning
-- Agile Transformation
-- Products and Books
+- People and Process
+- Working Software
 - Agile Philosophy
-- Product Delivery
 - Agile Strategy
+- Agile Transformation
 - Business Agility
+- Customer Feedback Loops
+- Product Delivery
 categories:
 - Product Management
 preview: nakedalm-logo-128-link-1-1.png

@@ -29,19 +29,19 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Strategy
 - Organisational Agility
+- Product Strategy
 - Resilience and Change
 - Decision Making
-- Sensemaking
 - Pragmatic Thinking
+- Sensemaking
 resourceTypes:
 - video
 layout: video
 categories:
 - Product Management
-- Leadership
 - Engineering Excellence
+- Leadership
 
 ---
 As Lao Tzu wisely said, _“If you do not change direction, you may end up where you are heading.”_ This quote resonates deeply with me, both as a professional Scrum trainer and a practitioner. Whether you're a developer writing code or an organization strategizing for the future, it's vital to continuously ask yourself: **Are we heading in the right direction?** 🛤️

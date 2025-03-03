@@ -29,10 +29,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Metrics and Learning
-- Evidence Based Management
-- Evidence Based Leadership
 - Decision Making
+- Evidence Based Leadership
+- Evidence Based Management
+- Metrics and Learning
 resourceTypes:
 - video
 categories:

@@ -30,11 +30,11 @@ sitemap:
   priority: 0.6
 tags:
 - Evidence Based Leadership
-- Value Delivery
 - Evidence Based Management
+- Value Delivery
+- Decision Making
 - Metrics and Learning
 - Pragmatic Thinking
-- Decision Making
 resourceTypes:
 - video
 layout: video

@@ -27,8 +27,8 @@ categories:
 - Social Technologies
 tags:
 - Scrum Team
-- Agile Project Management
 - Agile Frameworks
+- Agile Project Management
 
 ---
 While we have an overview of the [accountabilities](/Project-Management/Agile-Ways-of-Working/Core-Practices/Accountabilities) for the organisation it is worth diving into some of the accountabilities specifically.

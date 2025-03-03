@@ -31,8 +31,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sensemaking
 - Decision Theory
+- Sensemaking
 resourceTypes:
 - video
 categories:

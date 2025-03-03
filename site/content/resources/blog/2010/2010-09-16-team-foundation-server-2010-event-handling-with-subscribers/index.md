@@ -25,16 +25,16 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Software Developers
 - Azure DevOps
-- Technical Excellence
 - Pragmatic Thinking
-- System Configuration
-- Technical Mastery
+- Software Developers
 - Software Development
+- System Configuration
+- Technical Excellence
+- Technical Mastery
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 preview: metro-binary-vb-128-link-4-4.png
 
 ---

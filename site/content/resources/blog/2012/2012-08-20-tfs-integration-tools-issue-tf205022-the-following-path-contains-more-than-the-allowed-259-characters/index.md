@@ -32,11 +32,11 @@ tags:
 - Install and Configuration
 - Modern Source Control
 - Practical Techniques and Tooling
-- Windows
 - Azure DevOps
-- Troubleshooting
-- System Configuration
 - Software Development
+- System Configuration
+- Troubleshooting
+- Windows
 - Pragmatic Thinking
 categories:
 - Engineering Excellence

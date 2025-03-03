@@ -31,12 +31,12 @@ tags:
 - Install and Configuration
 - Practical Techniques and Tooling
 - System Configuration
+- Azure DevOps
 - Azure Pipelines
 - Continuous Integration
-- Azure DevOps
-- Troubleshooting
 - Pragmatic Thinking
 - Software Development
+- Troubleshooting
 categories:
 - DevOps
 preview: puzzle-issue-problem-128-link-7-7.png

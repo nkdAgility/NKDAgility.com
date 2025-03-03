@@ -28,10 +28,10 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Frameworks
+- Agile Project Management
 - Agile Transformation
 - People and Process
 - Pragmatic Thinking
-- Agile Project Management
 - Software Development
 resourceTypes:
 - video

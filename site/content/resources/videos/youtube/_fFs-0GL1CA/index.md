@@ -25,8 +25,8 @@ duration: 372
 isShort: false
 tags:
 - Software Development
-- People and Process
 - Discovery and Learning
+- People and Process
 - Products and Books
 - Agile Project Management
 sitemap:

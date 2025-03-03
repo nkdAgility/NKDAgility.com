@@ -28,16 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Deployment Frequency
-- Agile Product Operating Model
-- Value Delivery
-- Business Agility
 - Agile Product Management
-- Frequent Releases
+- Agile Product Operating Model
+- Business Agility
+- Deployment Frequency
+- Value Delivery
+- Ability to Innovate
+- Agile Strategy
+- Continuous Learning
 - Discovery and Learning
-- Product Discovery
-- Metrics and Learning
-- Market Adaptability
+- Evidence Based Leadership
 resourceTypes:
 - video
 categories:

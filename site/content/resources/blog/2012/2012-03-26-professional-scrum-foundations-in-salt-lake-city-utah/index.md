@@ -32,15 +32,15 @@ aliasesArchive:
 - /resources/blog/professional-scrum-foundations-in-salt-lake-city-utah
 tags:
 - Events and Presentations
-- Scrum Product Development
-- Professional Scrum
 - People and Process
+- Professional Scrum
+- Scrum Product Development
+- Agile Frameworks
 - Agile Project Management
-- Discovery and Learning
 - Agile Transformation
-- Team Collaboration
+- Discovery and Learning
 - Software Developers
-- Team Performance
+- Team Collaboration
 categories:
 - Scrum
 - Social Technologies

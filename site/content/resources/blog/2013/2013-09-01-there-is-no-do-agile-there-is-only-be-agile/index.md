@@ -28,18 +28,18 @@ aliasesArchive:
 - /resources/blog/there-is-no-do-agile-there-is-only-be-agile
 tags:
 - Transparency
+- Agile Product Management
 - Empirical Process Control
 - People and Process
-- Agile Product Management
-- Scaling Agility
-- Organisational Change
-- Transparency and Accountability
+- Agile Project Management
 - Agile Values and Principles
-- Organisational Agility
 - Change Management
+- Organisational Agility
+- Organisational Change
+- Scaling Agility
 categories:
-- Social Technologies
 - Leadership
+- Social Technologies
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

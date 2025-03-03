@@ -31,8 +31,8 @@ tags:
 - Technical Mastery
 - Software Development
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---

@@ -28,15 +28,15 @@ aliasesArchive:
 - /resources/blog/get-visual-studio-2013-team-foundation-server-while-its-hot
 tags:
 - Agile Product Management
+- Agile Planning Tools
+- Agile Project Management
 - Collaboration Tools
+- Portfolio Management
+- Product Backlog
 - Product Delivery
 - Team Collaboration
-- Agile Planning Tools
-- Product Backlog
-- Agile Project Management
-- Portfolio Management
-- News and Reviews
-- Application Lifecycle Management
+- Agile Planning
+- Agile Strategy
 categories:
 - Social Technologies
 - Scrum

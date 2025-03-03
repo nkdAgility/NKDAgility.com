@@ -37,9 +37,9 @@ tags:
 - Software Development
 - Practical Techniques and Tooling
 - Product Delivery
-- Technical Excellence
 - Operational Practices
 - Pragmatic Thinking
+- Technical Excellence
 - Agile Project Management
 categories:
 - Social Technologies

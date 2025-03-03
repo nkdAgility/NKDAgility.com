@@ -28,8 +28,8 @@ tags:
 - Collaboration Tools
 - Practical Techniques and Tooling
 - Remote Working
-- Team Collaboration
 - Products and Books
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

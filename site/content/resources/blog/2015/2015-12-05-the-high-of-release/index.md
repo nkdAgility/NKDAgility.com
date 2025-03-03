@@ -25,11 +25,11 @@ aliasesArchive:
 tags:
 - Events and Presentations
 - Product Delivery
+- Application Lifecycle Management
+- Azure DevOps
+- Azure Pipelines
 - Practical Techniques and Tooling
 - Release Management
-- Azure DevOps
-- Application Lifecycle Management
-- Azure Pipelines
 - News and Reviews
 - Software Developers
 - Software Development

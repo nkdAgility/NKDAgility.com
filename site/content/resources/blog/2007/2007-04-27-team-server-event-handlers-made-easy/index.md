@@ -30,8 +30,8 @@ categories:
 - Engineering Excellence
 tags:
 - Practical Techniques and Tooling
-- Technical Mastery
 - Software Development
+- Technical Mastery
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

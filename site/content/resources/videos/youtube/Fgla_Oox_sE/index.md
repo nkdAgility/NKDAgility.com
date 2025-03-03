@@ -33,8 +33,8 @@ tags:
 - Product Owner
 - Agile Product Management
 - Scrum Product Development
-- Value Delivery
 - Product Strategy
+- Value Delivery
 - Agile Project Management
 - Agile Strategy
 resourceTypes:

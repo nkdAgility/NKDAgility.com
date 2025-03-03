@@ -30,8 +30,8 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Product Management
-- Product Owner
 - Product Backlog
+- Product Owner
 resourceTypes:
 - video
 categories:

@@ -36,8 +36,8 @@ tags:
 - Scrum Master
 - Scrum Team
 - Agile Frameworks
-- People and Process
 - Agile Project Management
+- People and Process
 - Software Development
 - Accountability
 resourceTypes:

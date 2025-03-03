@@ -29,8 +29,8 @@ aliasesArchive:
 tags:
 - Estimation
 - Entrepreneurship
-- Troubleshooting
 - Software Development
+- Troubleshooting
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

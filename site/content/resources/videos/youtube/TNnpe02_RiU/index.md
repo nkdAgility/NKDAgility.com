@@ -30,8 +30,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Software Developers
 - People and Process
+- Software Developers
 - Software Development
 - Pragmatic Thinking
 - Value Delivery

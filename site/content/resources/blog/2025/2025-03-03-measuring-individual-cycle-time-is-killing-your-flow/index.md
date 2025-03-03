@@ -5,29 +5,38 @@ ResourceId: KHEPBWiFDKJ
 ResourceType: blog
 ResourceImport: false
 date: 2025-03-03T09:00:00
-weight: 775
+weight: 505
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
-  - name: Nigel Thurlow
-    external: https://www.linkedin.com/in/nigelthurlow/
+- name: Nigel Thurlow
+  external: https://www.linkedin.com/in/nigelthurlow/
 layout: blog
 resourceTypes: blog
 slug: measuring-individual-cycle-time-is-killing-your-flow
 aliases:
-  - /resources/KHEPBWiFDKJ
+- /resources/KHEPBWiFDKJ
 aliasesArchive:
-  - /measuring-individual-cycle-time-is-killing-your-flow
-  - /blog/measuring-individual-cycle-time-is-killing-your-flow
-  - /why-measuring-individual-cycle-time-is-killing-your-flow-(and-what-to-do-instead)
-  - /blog/why-measuring-individual-cycle-time-is-killing-your-flow-(and-what-to-do-instead)
+- /measuring-individual-cycle-time-is-killing-your-flow
+- /blog/measuring-individual-cycle-time-is-killing-your-flow
+- /why-measuring-individual-cycle-time-is-killing-your-flow-(and-what-to-do-instead)
+- /blog/why-measuring-individual-cycle-time-is-killing-your-flow-(and-what-to-do-instead)
 categories:
-  - Kanban
-  - Social Technologies
+- Kanban
+- Social Technologies
 tags:
-  - Flow Efficiency
----
+- Throughput
+- People and Process
+- Cycle Time
+- Flow Efficiency
+- Empirical Process Control
+- Metrics and Learning
+- Value Delivery
+- Value Stream Management
+- Agile Frameworks
+- Agile Project Management
 
+---
 Looking at cycle time for an individual is a fundamental misunderstanding of how flow works in a system—unless the individual is the system. And here is why!
 
 ## Process Cycle Efficiency (PCE) Drives Flow, Not Individual Productivity

@@ -30,16 +30,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Agile Strategy
+- People and Process
 - Agile Philosophy
 - Agile Transformation
-- Organisational Culture
-- Business Agility
-- Scaling Agility
-- Organisational Change
-- Sociotechnical Systems
 - Beta Codex
+- Business Agility
+- Enterprise Agility
+- Organisational Agility
+- Organisational Change
+- Organisational Culture
 resourceTypes:
 - video
 layout: video

@@ -26,13 +26,13 @@ tags:
 - Install and Configuration
 - System Configuration
 - Practical Techniques and Tooling
-- Windows
 - Azure DevOps
 - Software Development
+- Windows
 - Troubleshooting
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-11-11.png
 
 ---

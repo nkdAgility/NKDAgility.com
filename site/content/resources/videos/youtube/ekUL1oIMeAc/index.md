@@ -32,8 +32,8 @@ tags:
 - Agile Product Management
 - People and Process
 - Scrum Team
-- Personal
 - Agile Project Management
+- Personal
 resourceTypes:
 - video
 categories:

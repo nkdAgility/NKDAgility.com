@@ -37,8 +37,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Scrum
 - DevOps
+- Scrum
 - Engineering Excellence
 
 ---

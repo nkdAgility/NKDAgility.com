@@ -27,10 +27,10 @@ tags:
 - System Configuration
 - Practical Techniques and Tooling
 - Technical Mastery
-- Windows
-- Troubleshooting
 - Pragmatic Thinking
 - Software Development
+- Troubleshooting
+- Windows
 categories:
 - DevOps
 

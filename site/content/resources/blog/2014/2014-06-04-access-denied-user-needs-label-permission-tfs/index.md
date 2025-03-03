@@ -27,8 +27,8 @@ aliasesArchive:
 - /blog/access-denied-user-needs-label-permission-in-tfs
 - /resources/blog/access-denied-user-needs-label-permission-tfs
 tags:
-- Troubleshooting
 - Software Development
+- Troubleshooting
 - System Configuration
 - Pragmatic Thinking
 categories: []

@@ -34,8 +34,8 @@ tags:
 - Agile Project Management
 - Software Development
 - Scrum Team
-- Team Performance
 - Professional Scrum
+- Team Performance
 resourceTypes:
 - video
 categories:

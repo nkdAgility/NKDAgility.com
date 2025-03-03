@@ -32,8 +32,8 @@ tags:
 - Empirical Process Control
 - Agile Planning
 - Agile Product Management
-- People and Process
 - Agile Project Management
+- People and Process
 - Agile Philosophy
 - Pragmatic Thinking
 - Software Developers

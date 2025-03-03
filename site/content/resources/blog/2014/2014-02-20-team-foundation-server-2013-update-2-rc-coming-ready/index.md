@@ -37,8 +37,8 @@ tags:
 - Install and Configuration
 - Events and Presentations
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

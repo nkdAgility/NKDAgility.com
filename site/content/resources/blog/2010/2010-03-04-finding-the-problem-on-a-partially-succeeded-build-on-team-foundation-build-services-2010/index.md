@@ -24,20 +24,20 @@ aliasesArchive:
 - /resources/blog/finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
 tags:
 - Troubleshooting
+- Code and Complexity
 - Scrum Product Development
 - Software Developers
-- Code and Complexity
 - Software Development
-- Working Software
 - Application Lifecycle Management
 - Practical Techniques and Tooling
+- Working Software
 - Azure DevOps
-- Technical Excellence
+- Pragmatic Thinking
 preview: metro-visual-studio-2010-128-link-8-8.png
 categories:
 - Scrum
-- Social Technologies
 - Engineering Excellence
+- Social Technologies
 
 ---
 Now that I have the Build failing because of a genuine bug and not just because of a test framework failure, lets see if we can trace through to finding why the first test in our new application failed. Lets look at the build and see if we can see why there is a red cross on it.

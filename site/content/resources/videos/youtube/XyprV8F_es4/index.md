@@ -29,15 +29,15 @@ duration: 398
 isShort: false
 tags:
 - Continuous Delivery
-- Resilience and Change
 - Continuous Learning
-- Organisational Culture
-- Sociotechnical Systems
-- Value Delivery
+- Resilience and Change
+- Agile Leadership
 - Business Agility
 - Change Management
 - Enterprise Agility
-- People and Process
+- Organisational Agility
+- Organisational Change
+- Organisational Culture
 sitemap:
   filename: sitemap.xml
   priority: 0.6

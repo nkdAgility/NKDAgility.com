@@ -29,15 +29,15 @@ aliasesArchive:
 - /resources/blog/embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
 tags:
 - Business Agility
-- Organisational Culture
-- People and Process
-- Organisational Agility
 - Agile Strategy
 - Enterprise Agility
-- Strategy
+- Organisational Agility
+- Organisational Culture
+- People and Process
 - Pragmatic Thinking
-- Scaling Agility
+- Strategy
 - Discovery and Learning
+- Market Adaptability
 categories:
 - Leadership
 preview: naked-agility-technically-agile-Blog-EmbraceUniqueness-1-1-1.jpg

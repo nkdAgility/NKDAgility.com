@@ -30,10 +30,10 @@ tags:
 - Agile Project Management
 - Scrum Master
 - Scrum Team
-- Team Performance
 - Agile Frameworks
 - People and Process
 - Software Development
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

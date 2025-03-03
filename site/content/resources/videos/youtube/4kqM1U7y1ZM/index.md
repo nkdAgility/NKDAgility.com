@@ -26,15 +26,15 @@ duration: 239
 isShort: false
 tags:
 - Continuous Delivery
-- Scrum Team
-- Scrum Product Development
-- Value Delivery
 - Product Delivery
-- Working Software
-- Team Performance
-- Team Collaboration
+- Scrum Product Development
+- Scrum Team
+- Value Delivery
 - Agile Product Management
-- Technical Leadership
+- Organisational Agility
+- People and Process
+- Scrum Master
+- Self Organisation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -34,12 +34,12 @@ tags:
 - People and Process
 - Personal
 - Continuous Learning
-- Resilience and Change
 - Discovery and Learning
-- Team Motivation
+- Resilience and Change
+- Agile Leadership
 - Change Management
-- Technical Leadership
-- Team Performance
+- Organisational Change
+- Pragmatic Thinking
 - Team Collaboration
 categories:
 - Leadership

@@ -29,10 +29,10 @@ tags:
 - Practical Techniques and Tooling
 - Products and Books
 - System Configuration
-- Software Developers
 - Azure DevOps
 - Operational Practices
 - Pragmatic Thinking
+- Software Developers
 categories:
 - Scrum
 - Social Technologies

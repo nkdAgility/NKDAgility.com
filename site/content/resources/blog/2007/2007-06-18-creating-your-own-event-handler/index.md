@@ -25,9 +25,9 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 - Azure DevOps
+- Software Development
 - Technical Excellence
 - Technical Mastery
-- Software Development
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-2-2.png

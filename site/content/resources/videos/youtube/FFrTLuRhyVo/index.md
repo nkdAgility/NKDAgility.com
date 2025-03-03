@@ -27,8 +27,8 @@ preview: https://i.ytimg.com/vi/FFrTLuRhyVo/maxresdefault.jpg
 duration: 36
 isShort: true
 tags:
-- Value Delivery
 - Technical Debt
+- Value Delivery
 - Working Software
 sitemap:
   filename: sitemap.xml

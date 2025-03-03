@@ -30,13 +30,13 @@ sitemap:
 tags:
 - Agile Product Management
 - Agile Values and Principles
-- Cycle Time
-- Agile Project Management
-- Product Delivery
-- People and Process
 - Agile Product Operating Model
+- Agile Project Management
+- Cycle Time
+- People and Process
+- Product Delivery
 - Value Delivery
-- Agile Strategy
+- Agile Frameworks
 - Agile Philosophy
 resourceTypes:
 - video

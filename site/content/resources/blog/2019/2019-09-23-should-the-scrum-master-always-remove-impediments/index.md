@@ -31,11 +31,11 @@ tags:
 - Scrum Master
 - Scrum Team
 - Events and Presentations
-- Team Performance
-- Scrum Product Development
-- Team Collaboration
 - People and Process
 - Pragmatic Thinking
+- Scrum Product Development
+- Team Collaboration
+- Team Performance
 - Agile Frameworks
 categories:
 - Scrum

@@ -33,8 +33,8 @@ resourceTypes:
 - video
 categories:
 - Product Management
-- Scrum
 - Leadership
+- Scrum
 
 ---
 ## Stepping Up Your Game as a Product Owner

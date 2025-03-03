@@ -32,15 +32,15 @@ aliasesArchive:
 - /resources/blog/professional-scrum-immingham-uk
 tags:
 - Scrum Product Development
-- Scrum Team
-- Product Delivery
-- Value Delivery
-- Professional Scrum
-- Software Development
 - Cross Functional Teams
-- Team Collaboration
-- Events and Presentations
+- Product Delivery
+- Professional Scrum
+- Scrum Team
+- Software Development
+- Value Delivery
 - Agile Product Management
+- Events and Presentations
+- People and Process
 categories:
 - Scrum
 - Social Technologies

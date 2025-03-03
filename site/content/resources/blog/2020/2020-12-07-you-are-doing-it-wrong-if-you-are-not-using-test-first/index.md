@@ -26,8 +26,8 @@ aliasesArchive:
 tags:
 - Test First Development
 - Software Development
-- Technical Excellence
 - Engineering Practices
+- Technical Excellence
 categories:
 - Engineering Excellence
 preview: nkdAgility-PSD-Krakow-0-1-1.jpg

@@ -28,10 +28,10 @@ tags:
 - Business Agility
 - Software Developers
 - Software Development
-- Market Adaptability
-- Organisational Agility
 - Events and Presentations
+- Market Adaptability
 - News and Reviews
+- Organisational Agility
 - Digital Transformation
 categories:
 - DevOps

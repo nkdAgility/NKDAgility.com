@@ -28,14 +28,14 @@ categories:
 tags:
 - People and Process
 - Events and Presentations
-- Practical Techniques and Tooling
-- Value Delivery
 - Flow Efficiency
-- Team Performance
+- Practical Techniques and Tooling
 - Scrum Product Development
-- Pragmatic Thinking
-- Lean Thinking
-- Product Delivery
+- Team Performance
+- Value Delivery
+- Agile Frameworks
+- Agile Project Management
+- Lean
 
 ---
 ## Duration

@@ -27,8 +27,8 @@ aliasesArchive:
 - /blog/some-thoughts-on--net-3-0-from-linkedin
 - /resources/blog/some-thoughts-on-net-3-0-from-linkedin
 tags:
-- Technical Mastery
 - Software Development
+- Technical Mastery
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-1-1.png

@@ -27,16 +27,16 @@ aliasesArchive:
 - /blog/how-do-you-make-a-good-forecast-
 - /resources/blog/how-do-you-make-a-good-forecast
 tags:
-- Throughput
 - People and Process
+- Throughput
+- Agile Product Management
 - Agile Product Operating Model
-- Scrum Product Development
 - Agile Project Management
 - Metrics and Learning
 - Product Delivery
 - Professional Scrum
-- Agile Product Management
-- Change Management
+- Scrum Product Development
+- Agile Frameworks
 categories:
 - Scrum
 - Product Management

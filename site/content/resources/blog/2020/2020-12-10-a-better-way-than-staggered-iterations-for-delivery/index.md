@@ -24,20 +24,20 @@ aliasesArchive:
 - /a-better-way-than-staggered-iterations-for-delivery
 - /resources/blog/a-better-way-than-staggered-iterations-for-delivery
 tags:
-- Test First Development
 - Increment
-- Scrum Product Development
+- Test First Development
+- Business Agility
 - Cycle Time
-- Scrum Team
 - Empirical Process Control
-- Software Development
-- Working Software
-- Software Developers
 - People and Process
+- Scrum Product Development
+- Scrum Team
+- Software Developers
+- Software Development
 categories:
 - Scrum
-- Social Technologies
 - Engineering Excellence
+- Social Technologies
 preview: staggered-iterations-for-delivery1-2-2.png
 
 ---

@@ -22,11 +22,11 @@ card:
   title: Emergant Practices
 categories: []
 tags:
-- People and Process
 - Discovery and Learning
+- People and Process
 - Complexity Thinking
-- Pragmatic Thinking
 - Miscellaneous
+- Pragmatic Thinking
 
 ---
 Processes, practices and tools necessary will emerge as we do the work and help others do it

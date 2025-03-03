@@ -31,13 +31,13 @@ sitemap:
   priority: 0.6
 tags:
 - Continuous Learning
-- People and Process
 - Discovery and Learning
+- People and Process
 - Customer Feedback Loops
 - Coaching
 - Value Delivery
-- Personal
 - Customer Satisfaction
+- Personal
 resourceTypes:
 - video
 layout: video

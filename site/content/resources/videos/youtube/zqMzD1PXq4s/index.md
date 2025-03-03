@@ -25,15 +25,15 @@ preview: https://i9.ytimg.com/vi/zqMzD1PXq4s/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 413
 isShort: false
 tags:
-- Technical Leadership
 - Azure DevOps
 - People and Process
 - Technical Excellence
-- Value Delivery
+- Technical Leadership
 - Engineering Practices
-- Technical Mastery
-- Technical Debt
 - Software Development
+- Technical Debt
+- Technical Mastery
+- Value Delivery
 - Operational Practices
 sitemap:
   filename: sitemap.xml

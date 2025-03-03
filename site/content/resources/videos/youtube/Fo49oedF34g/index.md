@@ -26,15 +26,15 @@ duration: 268
 isShort: false
 tags:
 - Coaching
-- People and Process
 - Organisational Agility
+- People and Process
 - Agile Frameworks
-- Agile Transformation
-- Team Collaboration
-- Product Delivery
-- Pragmatic Thinking
 - Agile Project Management
+- Agile Transformation
+- Pragmatic Thinking
+- Product Delivery
 - Software Development
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.4

@@ -27,8 +27,8 @@ tags:
 - Install and Configuration
 - Practical Techniques and Tooling
 - System Configuration
-- Troubleshooting
 - Technical Mastery
+- Troubleshooting
 categories: []
 preview: nakedalm-logo-128-link-3-3.png
 

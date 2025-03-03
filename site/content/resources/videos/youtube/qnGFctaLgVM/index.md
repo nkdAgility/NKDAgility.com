@@ -30,11 +30,11 @@ tags:
 - Product Owner
 - Agile Product Management
 - People and Process
-- Personal
-- Professional Scrum
-- Pragmatic Thinking
 - Coaching
 - Miscellaneous
+- Personal
+- Pragmatic Thinking
+- Professional Scrum
 resourceTypes:
 - video
 categories:

@@ -26,9 +26,9 @@ preview: https://i9.ytimg.com/vi/jKXc6hByR_k/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 172
 isShort: false
 tags:
-- Value Delivery
 - People and Process
 - Product Delivery
+- Value Delivery
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml

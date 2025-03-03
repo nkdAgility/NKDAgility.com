@@ -34,9 +34,9 @@ tags:
 - Organisational Culture
 - Agile Leadership
 - Agile Values and Principles
-- Team Performance
-- Team Motivation
 - Team Collaboration
+- Team Motivation
+- Team Performance
 - Personal
 resourceTypes:
 - video

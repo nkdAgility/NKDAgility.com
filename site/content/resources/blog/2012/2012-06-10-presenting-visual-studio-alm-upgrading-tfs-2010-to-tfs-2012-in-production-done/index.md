@@ -30,11 +30,11 @@ tags:
 - Software Development
 - People and Process
 - Products and Books
-- Events and Presentations
-- Working Software
-- Value Delivery
 - Application Lifecycle Management
+- Events and Presentations
 - Practical Techniques and Tooling
+- Value Delivery
+- Working Software
 - Azure DevOps
 - Product Delivery
 categories:

@@ -27,12 +27,12 @@ tags:
 - Increment
 - Scrum Product Development
 - Software Development
-- Professional Scrum
 - Product Delivery
-- Working Software
-- Value Delivery
+- Professional Scrum
 - Agile Product Management
 - Operational Practices
+- Value Delivery
+- Working Software
 categories:
 - Scrum
 - Engineering Excellence

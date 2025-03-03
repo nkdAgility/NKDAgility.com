@@ -24,12 +24,12 @@ aliasesArchive:
 - /resources/blog/live-framework
 tags:
 - Collaboration Tools
-- Team Collaboration
 - System Configuration
+- Team Collaboration
 - Practical Techniques and Tooling
 - Azure DevOps
-- Technical Mastery
 - Software Development
+- Technical Mastery
 preview: metro-cloud-azure-link-2-2.png
 categories: []
 

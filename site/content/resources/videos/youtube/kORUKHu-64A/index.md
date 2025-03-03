@@ -34,8 +34,8 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Frameworks
-- People and Process
 - Agile Project Management
+- People and Process
 - Software Development
 - Pragmatic Thinking
 resourceTypes:

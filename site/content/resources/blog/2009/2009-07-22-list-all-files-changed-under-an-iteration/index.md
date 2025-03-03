@@ -24,12 +24,12 @@ aliasesArchive:
 - /resources/blog/list-all-files-changed-under-an-iteration
 tags:
 - Practical Techniques and Tooling
-- Azure Repos
 - Azure DevOps
+- Azure Repos
 - Software Development
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

@@ -26,10 +26,10 @@ tags:
 - News and Reviews
 - Team Collaboration
 - Application Lifecycle Management
-- Modern Source Control
 - Azure DevOps
-- Software Development
 - Miscellaneous
+- Modern Source Control
+- Software Development
 categories: []
 preview: metro-visual-studio-2010-128-link-1-1.png
 

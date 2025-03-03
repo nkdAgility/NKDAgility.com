@@ -25,13 +25,13 @@ aliasesArchive:
 tags:
 - Windows
 - Application Lifecycle Management
-- Working Software
 - Product Delivery
 - Software Development
 - Value Delivery
+- Working Software
 - Engineering Practices
-- Products and Books
 - Practical Techniques and Tooling
+- Products and Books
 - Team Collaboration
 categories:
 - Engineering Excellence

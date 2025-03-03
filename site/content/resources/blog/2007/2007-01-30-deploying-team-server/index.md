@@ -30,8 +30,8 @@ tags:
 - Pragmatic Thinking
 preview: nakedalm-logo-128-link-1-1.png
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 
 ---
 Sorry that I have not posted on this subject in a while, but I am lazy. After that last elongated post I am in the mood to write again...

@@ -32,9 +32,9 @@ tags:
 - Scrum Team
 - Team Performance
 - Agile Frameworks
-- Self Organisation
 - Agile Project Management
 - Coaching
+- Self Organisation
 resourceTypes:
 - video
 layout: video

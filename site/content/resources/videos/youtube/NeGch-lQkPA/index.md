@@ -33,11 +33,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Delivery
 - Metrics and Learning
+- Product Delivery
 - Value Delivery
-- Team Performance
 - Practical Techniques and Tooling
+- Team Performance
 - Agile Frameworks
 - Agile Project Management
 - Operational Practices

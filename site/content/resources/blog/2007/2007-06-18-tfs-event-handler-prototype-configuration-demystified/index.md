@@ -28,8 +28,8 @@ tags:
 - System Configuration
 - Practical Techniques and Tooling
 - Azure DevOps
-- Technical Mastery
 - Software Development
+- Technical Mastery
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-1-1.png

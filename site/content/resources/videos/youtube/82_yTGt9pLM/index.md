@@ -24,15 +24,15 @@ duration: 370
 isShort: false
 tags:
 - People and Process
-- Agile Philosophy
 - Agile Frameworks
+- Agile Philosophy
+- Agile Strategy
 - Agile Transformation
 - Organisational Agility
-- Agile Strategy
 - Organisational Change
 - Pragmatic Thinking
-- Continuous Learning
 - Business Agility
+- Continuous Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

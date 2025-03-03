@@ -31,12 +31,12 @@ tags:
 - Practical Techniques and Tooling
 - System Configuration
 - Azure DevOps
-- Technical Excellence
-- Troubleshooting
-- Technical Mastery
 - Software Development
-- Windows
+- Technical Excellence
+- Technical Mastery
+- Troubleshooting
 - Pragmatic Thinking
+- Windows
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-5-5.png

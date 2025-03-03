@@ -26,15 +26,15 @@ duration: 525
 isShort: false
 tags:
 - Metrics and Learning
-- Pragmatic Thinking
 - Operational Practices
+- Pragmatic Thinking
+- Agile Product Management
 - Agile Product Operating Model
 - Business Agility
-- Agile Product Management
 - People and Process
-- Agile Transformation
 - Ability to Innovate
 - Agile Philosophy
+- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

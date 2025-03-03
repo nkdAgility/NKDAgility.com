@@ -25,18 +25,18 @@ aliasesArchive:
 tags:
 - Increment
 - People and Process
-- Software Development
-- Large Scale Agility
-- Resilience and Change
+- Agile Product Operating Model
+- Agile Project Management
+- Agile Values and Principles
+- Business Agility
 - Empirical Process Control
 - Enterprise Agility
-- Scrum Product Development
-- Working Software
-- Business Agility
+- Large Scale Agility
+- Resilience and Change
 categories:
 - Scrum
-- Social Technologies
 - Engineering Excellence
+- Social Technologies
 preview: nkdAgility-dod-change-procurement-agile-wide-15-15.jpg
 
 ---

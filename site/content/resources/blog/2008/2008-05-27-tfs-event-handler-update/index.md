@@ -24,14 +24,14 @@ aliasesArchive:
 - /resources/blog/tfs-event-handler-update
 tags:
 - News and Reviews
-- Working Software
 - Practical Techniques and Tooling
 - Release Management
-- Frequent Releases
+- Working Software
 - Application Lifecycle Management
 - Azure DevOps
-- Troubleshooting
+- Frequent Releases
 - Software Development
+- Troubleshooting
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

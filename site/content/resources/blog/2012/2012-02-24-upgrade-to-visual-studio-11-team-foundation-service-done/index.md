@@ -30,18 +30,18 @@ aliasesArchive:
 - /resources/blog/upgrade-to-visual-studio-11-team-foundation-service-done
 tags:
 - Modern Source Control
-- Install and Configuration
 - Application Lifecycle Management
+- Install and Configuration
 - Practical Techniques and Tooling
-- Digital Transformation
-- Personal
 - Azure DevOps
+- Digital Transformation
 - Operational Practices
+- Personal
 - Software Development
 - Pragmatic Thinking
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 
 ---
 Jason Zander has just announced that the Visual Studio 11 & Visual Studio 11 Team Foundation Server Beta **will be available on the 29th February 2012**. I am really looking forward to this launch as it embodies the phrase “spit & polish” and really lowers the bar for entry into the Team Foundation Server world.

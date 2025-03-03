@@ -32,11 +32,11 @@ tags:
 - People and Process
 - Azure DevOps
 - Digital Transformation
-- Software Developers
 - Practical Techniques and Tooling
+- Software Developers
 - Software Development
-- Personal
 - Operational Practices
+- Personal
 - Pragmatic Thinking
 resourceTypes:
 - video

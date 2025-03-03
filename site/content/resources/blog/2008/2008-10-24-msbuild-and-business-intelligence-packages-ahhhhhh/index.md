@@ -31,16 +31,16 @@ aliasesArchive:
 - /blog/msbuild-and-business-intelligence-packages--ahhhhhh-
 - /resources/blog/msbuild-and-business-intelligence-packages-ahhhhhh
 tags:
-- Practical Techniques and Tooling
 - Automated Testing
+- Practical Techniques and Tooling
 - Test Automation
-- Technical Excellence
-- Troubleshooting
-- System Configuration
-- Technical Mastery
 - Software Development
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Troubleshooting
 - Application Lifecycle Management
-- Operational Practices
+- Engineering Practices
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Engineering Excellence

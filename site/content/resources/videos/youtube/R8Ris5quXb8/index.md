@@ -28,11 +28,11 @@ tags:
 - Agile Product Management
 - Product Backlog
 - Agile Planning
-- Value Delivery
 - Agile Planning Tools
-- Product Owner
-- Product Delivery
 - Agile Project Management
+- Product Delivery
+- Product Owner
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

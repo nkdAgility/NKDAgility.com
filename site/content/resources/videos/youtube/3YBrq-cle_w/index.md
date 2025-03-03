@@ -27,13 +27,13 @@ tags:
 - People and Process
 - Scrum Master
 - Scrum Team
-- Technical Leadership
 - Professional Scrum
+- Technical Leadership
 - Agile Frameworks
-- Agile Transformation
 - Agile Project Management
+- Agile Transformation
 - Software Development
-- Self Organisation
+- Coaching
 sitemap:
   filename: sitemap.xml
   priority: 0.6

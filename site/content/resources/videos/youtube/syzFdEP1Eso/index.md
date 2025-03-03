@@ -34,8 +34,8 @@ tags:
 - Professional Scrum
 - Software Development
 - Agile Frameworks
-- Pragmatic Thinking
 - Agile Project Management
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

@@ -31,13 +31,13 @@ tags:
 - People and Process
 - Agile Leadership
 - Decision Making
-- Beta Codex
-- Agile Transformation
-- Agile Strategy
-- Agile Project Management
 - Agile Philosophy
+- Agile Project Management
+- Agile Strategy
+- Agile Transformation
+- Beta Codex
 - Sociotechnical Systems
-- Organisational Agility
+- Business Agility
 resourceTypes:
 - video
 categories:

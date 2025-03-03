@@ -29,10 +29,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Experimentation
 - Discovery and Learning
-- Product Discovery
+- Experimentation
 - People and Process
+- Product Discovery
 - Product Validation
 - Continuous Learning
 - Hypothesis Driven Development

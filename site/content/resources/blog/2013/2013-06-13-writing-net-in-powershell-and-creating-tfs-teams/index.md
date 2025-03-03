@@ -29,8 +29,8 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 - Azure DevOps
-- Technical Mastery
 - Software Development
+- Technical Mastery
 categories: []
 preview: image11-1-1.png
 

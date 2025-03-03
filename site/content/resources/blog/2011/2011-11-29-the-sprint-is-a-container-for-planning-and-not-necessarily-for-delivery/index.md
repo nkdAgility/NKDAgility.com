@@ -24,19 +24,19 @@ aliasesArchive:
 - /resources/blog/the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
 tags:
 - Definition of Done
-- Continuous Delivery
-- Technical Debt
-- Product Delivery
 - Agile Product Management
+- Continuous Delivery
+- Product Delivery
 - Software Development
+- Technical Debt
 - Value Delivery
 - Agile Frameworks
-- Deployment Strategies
+- Agile Project Management
 - Agile Transformation
 categories:
 - Scrum
+- DevOps
 - Engineering Excellence
-- Social Technologies
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

@@ -28,8 +28,8 @@ tags:
 - People and Process
 - Scrum Master
 - Scrum Team
-- Technical Leadership
 - Agile Project Management
+- Technical Leadership
 - Agile Leadership
 sitemap:
   filename: sitemap.xml

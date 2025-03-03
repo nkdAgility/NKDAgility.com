@@ -35,8 +35,8 @@ tags:
 - Organisational Culture
 - Organisational Physics
 - Sociotechnical Systems
-- Organisational Change
 - Decision Making
+- Organisational Change
 - Market Adaptability
 - Business Agility
 - Enterprise Agility
@@ -45,7 +45,7 @@ resourceTypes:
 categories:
 - DevOps
 - Product Management
-- Social Technologies
+- Leadership
 
 ---
 ## Hierarchies of Competence Vs Control: Insights & Relevance

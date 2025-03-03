@@ -29,12 +29,12 @@ tags:
 - Agile Philosophy
 - Agile Project Management
 - Engineering Practices
-- Product Delivery
 - People and Process
+- Product Delivery
 - Software Developers
 - Software Development
-- Pragmatic Thinking
-- Organisational Agility
+- Complexity Thinking
+- Market Adaptability
 sitemap:
   filename: sitemap.xml
   priority: 0.6

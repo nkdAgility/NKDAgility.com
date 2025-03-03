@@ -31,12 +31,12 @@ tags:
 - News and Reviews
 - Practical Techniques and Tooling
 - Products and Books
-- System Configuration
 - Software Development
+- System Configuration
+- Application Lifecycle Management
+- Azure DevOps
 - Collaboration Tools
-- Working Software
 - Internal Developer Platform
-- Software Developers
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - DevOps

@@ -30,16 +30,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Resilience and Change
-- People and Process
 - Business Agility
-- Metrics and Learning
-- Agile Philosophy
+- People and Process
+- Resilience and Change
 - Agile Frameworks
-- Organisational Change
 - Agile Leadership
-- Scaling Agility
-- Organisational Agility
+- Agile Philosophy
+- Agile Strategy
+- Agile Transformation
+- Change Management
+- Enterprise Agility
 resourceTypes:
 - video
 categories:

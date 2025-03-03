@@ -30,8 +30,8 @@ sitemap:
 tags:
 - Strategy
 - Metrics and Learning
-- Practical Techniques and Tooling
 - Flow Efficiency
+- Practical Techniques and Tooling
 - Agile Frameworks
 - Lean
 - Lean Thinking

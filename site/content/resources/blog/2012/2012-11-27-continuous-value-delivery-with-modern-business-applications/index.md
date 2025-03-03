@@ -24,19 +24,19 @@ aliasesArchive:
 - /resources/blog/continuous-value-delivery-with-modern-business-applications
 tags:
 - Continuous Delivery
-- Working Software
-- Value Delivery
 - Software Developers
-- News and Reviews
+- Value Delivery
+- Working Software
 - Business Agility
-- Product Delivery
-- Deployment Strategies
 - Deployment Frequency
+- Deployment Strategies
+- News and Reviews
 - Operational Practices
+- Product Delivery
 categories:
+- DevOps
 - Engineering Excellence
 - Social Technologies
-- DevOps
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

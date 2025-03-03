@@ -33,8 +33,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Scrum
 - DevOps
+- Scrum
 - Social Technologies
 
 ---

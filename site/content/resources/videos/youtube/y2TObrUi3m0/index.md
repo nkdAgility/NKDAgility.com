@@ -27,8 +27,8 @@ duration: 117
 isShort: false
 tags:
 - Agile Values and Principles
-- Agile Transformation
 - Agile Philosophy
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -37,8 +37,8 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 - Product Management
+- Social Technologies
 
 ---
 In the ever-evolving landscape of Agile methodologies, I often find myself reflecting on what truly deserves more attention than it currently receives. Surprisingly, it’s not the latest tools or frameworks that should be at the forefront of our discussions. Instead, I believe we need to shift our focus back to the foundational principles that underpin Agile practices.

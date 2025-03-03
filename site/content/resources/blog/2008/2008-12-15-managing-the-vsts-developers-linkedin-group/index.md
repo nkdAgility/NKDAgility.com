@@ -28,8 +28,8 @@ aliasesArchive:
 - /resources/blog/managing-the-vsts-developers-linkedin-group
 tags:
 - News and Reviews
-- Team Collaboration
 - People and Process
+- Team Collaboration
 - Miscellaneous
 categories: []
 

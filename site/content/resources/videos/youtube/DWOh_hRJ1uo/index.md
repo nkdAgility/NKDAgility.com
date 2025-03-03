@@ -34,12 +34,12 @@ tags:
 - Personal
 - Scrum Master
 - Agile Frameworks
-- People and Process
 - Agile Project Management
+- People and Process
 - Discovery and Learning
 - Continuous Learning
-- Professional Scrum
 - Pragmatic Thinking
+- Professional Scrum
 resourceTypes:
 - video
 categories:

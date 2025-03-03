@@ -31,15 +31,15 @@ sitemap:
   priority: 0.6
 tags:
 - Increment
-- Agile Product Management
-- Product Delivery
 - Agile Leadership
-- People and Process
+- Agile Product Management
+- Agile Product Operating Model
 - Agile Values and Principles
 - Business Agility
+- People and Process
+- Product Delivery
 - Working Software
-- Agile Product Operating Model
-- News and Reviews
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

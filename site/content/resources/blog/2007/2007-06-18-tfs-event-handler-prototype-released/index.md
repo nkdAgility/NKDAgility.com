@@ -27,15 +27,15 @@ aliasesArchive:
 - /blog/tfs-event-handler--prototype-released
 - /resources/blog/tfs-event-handler-prototype-released
 tags:
-- News and Reviews
-- Working Software
 - Install and Configuration
+- News and Reviews
 - Practical Techniques and Tooling
+- Working Software
 - Frequent Releases
 - Release Management
+- Software Development
 - System Configuration
 - Technical Mastery
-- Software Development
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

@@ -23,8 +23,8 @@ aliasesArchive:
 - /rddotnet
 - /resources/blog/rddotnet
 tags:
-- Software Development
 - Miscellaneous
+- Software Development
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

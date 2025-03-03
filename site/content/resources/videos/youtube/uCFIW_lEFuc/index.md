@@ -28,15 +28,15 @@ duration: 498
 isShort: false
 tags:
 - People and Process
-- Increment
 - Agile Values and Principles
-- Empirical Process Control
-- Working Software
+- Increment
 - Agile Product Management
 - Agile Project Management
-- Agile Transformation
-- Customer Feedback Loops
-- Software Developers
+- Empirical Process Control
+- Working Software
+- Agile Frameworks
+- Agile Philosophy
+- Agile Planning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

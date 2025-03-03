@@ -28,8 +28,8 @@ aliasesArchive:
 - /resources/blog/net-service-manager
 tags:
 - Release Management
-- Technical Mastery
 - Software Development
+- Technical Mastery
 categories: []
 preview: nakedalm-logo-128-link-2-2.png
 

@@ -32,14 +32,14 @@ tags:
 - Release Management
 - Practical Techniques and Tooling
 - System Configuration
-- Azure Pipelines
 - Azure DevOps
-- Technical Excellence
-- Troubleshooting
+- Azure Pipelines
 - Pragmatic Thinking
+- Software Development
+- Technical Excellence
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 
 ---

@@ -25,12 +25,12 @@ aliasesArchive:
 tags:
 - Windows
 - Modern Source Control
-- Install and Configuration
 - Continuous Integration
+- Install and Configuration
 - Practical Techniques and Tooling
 - Release Management
-- Troubleshooting
 - Pragmatic Thinking
+- Software Development
 - System Configuration
 - Technical Mastery
 categories:

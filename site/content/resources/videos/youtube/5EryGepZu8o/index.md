@@ -29,10 +29,10 @@ sitemap:
 tags:
 - People and Process
 - Complexity Thinking
-- Agile Philosophy
-- Empirical Process Control
 - Agile Frameworks
+- Agile Philosophy
 - Agile Project Management
+- Empirical Process Control
 - Pragmatic Thinking
 - Agile Values and Principles
 - Sensemaking

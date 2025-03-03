@@ -31,15 +31,15 @@ sitemap:
   priority: 0.6
 tags:
 - Metrics and Learning
-- Discovery and Learning
 - Change Management
+- Discovery and Learning
 - People and Process
-- Value Delivery
-- Pragmatic Thinking
-- Continuous Learning
 - Ability to Innovate
+- Continuous Learning
 - Evidence Based Management
-- Decision Making
+- Pragmatic Thinking
+- Value Delivery
+- Coaching
 resourceTypes:
 - video
 categories:

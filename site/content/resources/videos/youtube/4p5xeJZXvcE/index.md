@@ -25,10 +25,10 @@ duration: 39
 isShort: true
 tags:
 - People and Process
-- Organisational Culture
 - Agile Leadership
-- Team Performance
+- Organisational Culture
 - Team Motivation
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

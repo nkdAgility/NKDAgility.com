@@ -30,9 +30,9 @@ tags:
 - People and Process
 - Professional Scrum
 - Scrum Master
+- Agile Project Management
 - Events and Presentations
 - Organisational Change
-- Agile Project Management
 - Agile Frameworks
 - Agile Transformation
 - Pragmatic Thinking

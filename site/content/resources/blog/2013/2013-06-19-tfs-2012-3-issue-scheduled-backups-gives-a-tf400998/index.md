@@ -34,9 +34,9 @@ tags:
 - Practical Techniques and Tooling
 - System Configuration
 - Azure DevOps
-- Troubleshooting
 - Pragmatic Thinking
 - Software Development
+- Troubleshooting
 - Technical Mastery
 categories:
 - DevOps

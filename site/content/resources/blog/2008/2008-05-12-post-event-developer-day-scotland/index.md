@@ -27,14 +27,14 @@ aliasesArchive:
 - /blog/post-event--developer-day-scotland---
 - /resources/blog/post-event-developer-day-scotland
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 preview: nakedalm-logo-128-link-1-1.png
 tags:
 - Events and Presentations
 - News and Reviews
-- Technical Excellence
 - Software Development
+- Technical Excellence
 - Engineering Practices
 - Personal
 
