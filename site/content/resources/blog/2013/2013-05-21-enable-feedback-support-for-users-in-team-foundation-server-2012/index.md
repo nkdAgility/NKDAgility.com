@@ -23,12 +23,12 @@ aliasesArchive:
 - /enable-feedback-support-for-users-in-team-foundation-server-2012
 - /resources/blog/enable-feedback-support-for-users-in-team-foundation-server-2012
 tags:
-- Install and Configuration
 - Application Lifecycle Management
+- Install and Configuration
 - Practical Techniques and Tooling
 - Azure DevOps
-- System Configuration
 - Software Development
+- System Configuration
 categories: []
 
 ---

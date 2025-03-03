@@ -31,12 +31,12 @@ tags:
 - Agile Philosophy
 - Agile Project Management
 - Software Development
-- People and Process
 - Agile Strategy
+- People and Process
 - Agile Values and Principles
-- Software Developers
 - Agile Frameworks
 - Agile Transformation
+- Software Developers
 categories:
 - Social Technologies
 preview: NKDAgility-technically-7DeadlySins-16-15.jpg

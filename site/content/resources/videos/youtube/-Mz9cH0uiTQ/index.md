@@ -29,10 +29,10 @@ tags:
 - Value Delivery
 - Pragmatic Thinking
 - Product Discovery
-- Business Agility
 - Agile Strategy
-- Personal
+- Business Agility
 - Organisational Agility
+- Personal
 sitemap:
   filename: sitemap.xml
   priority: 0.6

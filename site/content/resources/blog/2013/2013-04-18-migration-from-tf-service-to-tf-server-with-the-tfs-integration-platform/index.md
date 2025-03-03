@@ -26,14 +26,14 @@ tags:
 - Modern Source Control
 - Install and Configuration
 - Practical Techniques and Tooling
-- Troubleshooting
 - Pragmatic Thinking
-- System Configuration
 - Software Development
+- System Configuration
+- Troubleshooting
 - Technical Mastery
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 
 ---
 Are you worried that you will not be able to migrate from [http://tfs.visualstudio.com](http://tfs.visualstudio.com) when they start charging for it and you don’t want to pay? Fear not as we have the technology to migration from TF Service to TF Server with the TFS Integration Platform.

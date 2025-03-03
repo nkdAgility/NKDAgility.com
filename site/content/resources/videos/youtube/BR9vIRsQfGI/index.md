@@ -27,16 +27,16 @@ preview: https://i.ytimg.com/vi/BR9vIRsQfGI/maxresdefault.jpg
 duration: 55
 isShort: true
 tags:
-- Scrum Product Development
-- Mentoring
 - Agile Frameworks
-- Agile Transformation
 - Agile Product Management
+- Agile Project Management
+- Agile Transformation
+- Mentoring
 - People and Process
+- Product Delivery
 - Product Owner
 - Professional Scrum
-- Product Delivery
-- Agile Project Management
+- Scrum Product Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -45,8 +45,8 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 - Product Management
+- Social Technologies
 
 ---
 Negotiation is a skill that often gets overlooked in the realm of product ownership, yet it is absolutely crucial. As I reflect on my journey, I can’t stress enough how vital it is to master this art, whether you’re negotiating with stakeholders, team members, or even your children about bedtime. 

@@ -25,15 +25,15 @@ categories:
 - Product Management
 tags:
 - Customer Feedback Loops
-- Lean Startup
-- Product Discovery
-- Empirical Process Control
-- Working Software
-- Frequent Releases
-- Value Delivery
-- Customer Satisfaction
 - Customer Retention
-- Product Validation
+- Customer Satisfaction
+- Deployment Frequency
+- Discovery and Learning
+- Empirical Process Control
+- Frequent Releases
+- Lean Product Development
+- Lean Startup
+- Market Adaptability
 
 ---
 Update the work based on user feedback on timelines shorter than one month

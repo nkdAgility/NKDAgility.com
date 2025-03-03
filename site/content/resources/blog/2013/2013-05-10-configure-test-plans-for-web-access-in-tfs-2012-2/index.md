@@ -28,8 +28,8 @@ tags:
 - System Configuration
 - Application Lifecycle Management
 - Azure DevOps
-- Troubleshooting
 - Software Development
+- Troubleshooting
 - Pragmatic Thinking
 - Technical Mastery
 categories:

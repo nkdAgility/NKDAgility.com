@@ -28,8 +28,8 @@ tags:
 - Continuous Learning
 - Discovery and Learning
 - Products and Books
-- Personal
 - Miscellaneous
+- Personal
 sitemap:
   filename: sitemap.xml
   priority: 0.6

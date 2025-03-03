@@ -32,14 +32,14 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Scaling Agility
-- Technical Leadership
 - Agile Leadership
 - Large Scale Agility
-- Organisational Culture
+- Scaling Agility
+- Technical Leadership
 - Business Agility
-- Organisational Agility
 - Enterprise Agility
+- Organisational Agility
+- Organisational Culture
 - Scaled Agile
 resourceTypes:
 - video

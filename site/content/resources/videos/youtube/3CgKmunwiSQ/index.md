@@ -30,9 +30,9 @@ sitemap:
 tags:
 - Decision Making
 - Evidence Based Management
+- Evidence Based Leadership
 - Metrics and Learning
 - People and Process
-- Evidence Based Leadership
 - Decision Theory
 - Pragmatic Thinking
 resourceTypes:

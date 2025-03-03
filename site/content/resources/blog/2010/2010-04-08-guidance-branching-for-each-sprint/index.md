@@ -36,12 +36,12 @@ tags:
 - Software Developers
 - Software Development
 - Modern Source Control
-- Practical Techniques and Tooling
 - Operational Practices
-- Professional Scrum
+- Practical Techniques and Tooling
 - Product Delivery
+- Professional Scrum
 - Agile Frameworks
-- Technical Excellence
+- Agile Project Management
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

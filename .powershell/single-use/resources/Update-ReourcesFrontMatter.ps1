@@ -213,7 +213,8 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
         -CacheFolder $hugoMarkdown.FolderPath `
         -ResourceContent  $BodyContent `
         -ResourceTitle $hugoMarkdown.FrontMatter.title
-    $categories = $categoryClassification | ConvertFrom-Json | Sort-Object final_score -Descending | Select-Object -First 3 | ForEach-Object { $_.category } #| Sort-Object
+    $categories = $categoryClassification | ConvertFrom-Json | Sort-Object -Property @{Expression = "final_score"; Descending = $true }, @{Expression = "category"; Descending = $false } |  Select-Object -First 3 | ForEach-Object { $_.category }
+
     Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values @($categories) -Overwrite
     #-----------------Tags-------------------
     $tagClassification = Get-CategoryConfidenceWithChecksum -updateMissing `
@@ -222,8 +223,7 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
         -CacheFolder $hugoMarkdown.FolderPath `
         -ResourceContent  $BodyContent `
         -ResourceTitle $hugoMarkdown.FrontMatter.title
-
-    $tags = $tagClassification | ConvertFrom-Json | Sort-Object final_score -Descending | Select-Object -First 10 | ForEach-Object { $_.category } #| Sort-Object
+    $tags = $tagClassification | ConvertFrom-Json | Sort-Object -Property @{Expression = "final_score"; Descending = $true }, @{Expression = "category"; Descending = $false } |  Select-Object -First 10 | ForEach-Object { $_.category }
     Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values @($tags) -Overwrite
     # =================COMPLETE===================
     $eeResult = Get-ClassificationFromCache -CacheFolder $hugoMarkdown.FolderPath  -ClassificationName "Engineering Excellence"

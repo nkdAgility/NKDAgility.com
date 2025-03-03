@@ -26,15 +26,15 @@ duration: 353
 isShort: false
 tags:
 - Coaching
+- Discovery and Learning
 - People and Process
 - Scrum Master
-- Discovery and Learning
-- Practical Techniques and Tooling
 - Continuous Learning
-- Scrum Team
+- Practical Techniques and Tooling
 - Professional Scrum
-- Team Performance
-- Personal
+- Scrum Team
+- Agile Frameworks
+- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

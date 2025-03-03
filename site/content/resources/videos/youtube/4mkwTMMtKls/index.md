@@ -39,7 +39,7 @@ layout: video
 categories:
 - Scrum
 - Product Management
-- Social Technologies
+- Leadership
 
 ---
 #### Steering Clear of Envy in Agile: A Roadmap for Authentic Success 🗺️✨ 

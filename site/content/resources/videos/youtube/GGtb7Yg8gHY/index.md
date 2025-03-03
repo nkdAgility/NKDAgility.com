@@ -25,9 +25,9 @@ preview: https://i.ytimg.com/vi/GGtb7Yg8gHY/maxresdefault.jpg
 duration: 42
 isShort: true
 tags:
-- Team Performance
-- People and Process
 - Agile Project Management
+- People and Process
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

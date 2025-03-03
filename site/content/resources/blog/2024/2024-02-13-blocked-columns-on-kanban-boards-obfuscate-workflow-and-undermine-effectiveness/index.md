@@ -29,14 +29,14 @@ aliasesArchive:
 tags:
 - Flow Efficiency
 - Transparency
-- Azure DevOps
 - Azure Boards
+- Azure DevOps
 - Practical Techniques and Tooling
 - Software Development
 - Agile Frameworks
+- Agile Project Management
 - Lean
 - Operational Practices
-- Pragmatic Thinking
 categories:
 - Kanban
 - Social Technologies

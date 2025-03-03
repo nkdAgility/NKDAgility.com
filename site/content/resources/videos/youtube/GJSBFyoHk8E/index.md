@@ -33,11 +33,11 @@ tags:
 - Agile Product Management
 - People and Process
 - Professional Scrum
-- Agile Planning
-- Value Delivery
 - Agile Frameworks
+- Agile Planning
 - Agile Project Management
 - Software Development
+- Value Delivery
 resourceTypes:
 - video
 categories:

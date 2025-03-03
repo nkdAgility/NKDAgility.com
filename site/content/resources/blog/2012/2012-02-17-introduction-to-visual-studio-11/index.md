@@ -24,11 +24,11 @@ aliasesArchive:
 - /resources/blog/introduction-to-visual-studio-11
 tags:
 - Events and Presentations
-- News and Reviews
 - Install and Configuration
+- News and Reviews
 - Practical Techniques and Tooling
-- Team Collaboration
 - Products and Books
+- Team Collaboration
 - Azure DevOps
 - Software Development
 categories: []

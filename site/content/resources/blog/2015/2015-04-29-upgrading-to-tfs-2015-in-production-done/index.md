@@ -31,8 +31,8 @@ aliasesArchive:
 tags:
 - Install and Configuration
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-22-22.png
 
 ---

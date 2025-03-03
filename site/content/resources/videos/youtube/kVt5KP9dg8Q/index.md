@@ -31,14 +31,14 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Operational Practices
-- Software Development
-- Agile Strategy
-- Product Delivery
-- Business Agility
-- Value Delivery
 - Agile Philosophy
+- Agile Strategy
+- Business Agility
+- Operational Practices
+- Product Delivery
 - Software Developers
+- Software Development
+- Value Delivery
 - Organisational Agility
 resourceTypes:
 - video

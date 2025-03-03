@@ -26,8 +26,8 @@ preview: https://i.ytimg.com/vi/k4F9DSE99Ok/maxresdefault.jpg
 duration: 49
 isShort: true
 tags:
-- People and Process
 - Agile Project Management
+- People and Process
 - Agile Product Management
 sitemap:
   filename: sitemap.xml

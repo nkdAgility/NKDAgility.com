@@ -23,16 +23,16 @@ aliasesArchive:
 - /even-scrum-should-have-detailed-task-descriptions
 - /resources/blog/even-scrum-should-have-detailed-task-descriptions
 tags:
-- Scrum Product Development
 - People and Process
 - Professional Scrum
+- Scrum Product Development
 - Agile Frameworks
 - Agile Product Management
 - Agile Project Management
 - Software Development
 - Definition of Ready
 - Team Collaboration
-- Transparency
+- Pragmatic Thinking
 categories:
 - Scrum
 - Social Technologies

@@ -23,9 +23,9 @@ aliasesArchive:
 - /calling-an-object-method-in-a-data-trigger
 - /resources/blog/calling-an-object-method-in-a-data-trigger
 tags:
-- Troubleshooting
-- Technical Mastery
 - Software Development
+- Technical Mastery
+- Troubleshooting
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-1-1.png

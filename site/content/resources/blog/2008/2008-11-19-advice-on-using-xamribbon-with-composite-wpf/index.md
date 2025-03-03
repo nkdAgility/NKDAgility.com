@@ -24,8 +24,8 @@ aliasesArchive:
 - /resources/blog/advice-on-using-xamribbon-with-composite-wpf
 tags:
 - Practical Techniques and Tooling
-- Technical Mastery
 - Software Development
+- Technical Mastery
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-2-2.png

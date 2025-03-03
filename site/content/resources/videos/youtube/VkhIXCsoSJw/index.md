@@ -26,15 +26,15 @@ duration: 529
 isShort: false
 tags:
 - Continuous Delivery
-- Technical Excellence
 - Practical Techniques and Tooling
-- Pragmatic Thinking
+- Technical Excellence
 - Operational Practices
+- Pragmatic Thinking
 - AI and Automation in Agility
-- Test Automation
-- Cycle Time
 - Automated Testing
+- Azure DevOps
 - Code and Complexity
+- Cycle Time
 resourceTypes:
 - video
 sitemap:

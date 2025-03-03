@@ -34,14 +34,14 @@ tags:
 - Agile Frameworks
 - Scrum Master
 - Scrum Team
-- Team Performance
 - People and Process
 - Professional Scrum
 - Software Development
+- Team Performance
 categories:
 - Scrum
 - Engineering Excellence
-- Social Technologies
+- DevOps
 preview: NKDAgility-technically-whymostscrummastersarefailing-2-2.jpg
 
 ---

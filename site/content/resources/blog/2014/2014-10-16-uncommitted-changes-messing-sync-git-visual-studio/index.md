@@ -29,11 +29,11 @@ aliasesArchive:
 tags:
 - Modern Source Control
 - Practical Techniques and Tooling
-- Troubleshooting
 - Software Development
+- Troubleshooting
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 preview: naked-alm-git-2-2.png
 
 ---

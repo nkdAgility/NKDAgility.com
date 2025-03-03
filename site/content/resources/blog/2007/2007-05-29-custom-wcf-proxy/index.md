@@ -23,8 +23,8 @@ aliasesArchive:
 - /custom-wcf-proxy
 - /resources/blog/custom-wcf-proxy
 tags:
-- Technical Mastery
 - Software Development
+- Technical Mastery
 preview: metro-merilllynch-128-link-1-1.png
 categories:
 - Engineering Excellence

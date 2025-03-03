@@ -35,18 +35,18 @@ tags:
 - Organisational Agility
 - Agile Philosophy
 - Business Agility
-- Operational Practices
 - Deployment Frequency
-- Product Delivery
-- Pragmatic Thinking
 - Market Adaptability
+- Operational Practices
+- Pragmatic Thinking
+- Product Delivery
 - Software Development
 resourceTypes:
 - video
 categories:
-- Engineering Excellence
-- Social Technologies
 - DevOps
+- Engineering Excellence
+- Product Management
 
 ---
 In today’s fast-paced world, organizations are embracing Agile practices to remain competitive and deliver value to their customers. But here’s the catch—having Agile programming teams is only part of the equation. If these Agile teams are followed by linear, bureaucratic deployment processes, then the ecosystem is far from truly Agile. This gap can lead to delays, inefficiencies, and ultimately, a failure to deliver the value that your stakeholders expect. So, how can we ensure that our entire project ecosystem is genuinely Agile from end to end?

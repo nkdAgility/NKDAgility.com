@@ -30,8 +30,8 @@ tags:
 - People and Process
 - Software Development
 - Agile Frameworks
-- Agile Transformation
 - Agile Project Management
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

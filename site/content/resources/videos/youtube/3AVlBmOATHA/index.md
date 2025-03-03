@@ -27,13 +27,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Agile Leadership
-- Change Management
-- Business Agility
-- Agile Transformation
-- Organisational Change
+- People and Process
 - Agile Strategy
+- Agile Transformation
+- Business Agility
+- Change Management
+- Organisational Change
 - Organisational Agility
 - Pragmatic Thinking
 - Sociotechnical Systems

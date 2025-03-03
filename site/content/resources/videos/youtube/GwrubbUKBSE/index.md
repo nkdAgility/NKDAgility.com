@@ -26,9 +26,9 @@ isShort: false
 tags:
 - Events and Presentations
 - People and Process
-- Software Developers
 - Agile Frameworks
 - Agile Project Management
+- Software Developers
 - Software Development
 sitemap:
   filename: sitemap.xml
@@ -37,8 +37,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Scrum
 - DevOps
+- Scrum
 - Social Technologies
 
 ---

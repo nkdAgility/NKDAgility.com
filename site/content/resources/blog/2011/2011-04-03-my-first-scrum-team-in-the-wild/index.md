@@ -29,8 +29,8 @@ tags:
 - Agile Frameworks
 - Software Development
 categories:
-- Social Technologies
 - Scrum
+- Social Technologies
 preview: nakedalm-logo-128-link-6-6.png
 
 ---

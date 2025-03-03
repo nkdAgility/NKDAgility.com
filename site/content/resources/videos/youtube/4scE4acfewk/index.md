@@ -31,13 +31,13 @@ tags:
 - Agile Values and Principles
 - People and Process
 - Agile Philosophy
-- Team Motivation
 - Team Collaboration
+- Team Motivation
 - Organisational Culture
 - Agile Project Management
-- Team Performance
-- Metrics and Learning
 - Agile Leadership
+- Decision Making
+- Metrics and Learning
 resourceTypes:
 - video
 layout: video

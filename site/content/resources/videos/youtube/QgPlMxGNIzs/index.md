@@ -30,15 +30,15 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Values and Principles
-- People and Process
-- Business Agility
 - Agile Frameworks
 - Agile Leadership
 - Agile Project Management
+- Business Agility
+- People and Process
+- Agile Philosophy
 - Agile Strategy
 - Agile Transformation
 - Enterprise Agility
-- Software Development
 resourceTypes:
 - video
 categories:

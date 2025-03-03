@@ -33,8 +33,8 @@ aliasesArchive:
 tags:
 - Ability to Innovate
 - Business Agility
-- People and Process
 - Organisational Physics
+- People and Process
 - Sociotechnical Systems
 - Digital Transformation
 - Miscellaneous

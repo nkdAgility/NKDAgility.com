@@ -28,16 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Agile Project Management
+- People and Process
 - Agile Frameworks
-- Technical Leadership
 - Software Development
+- Technical Leadership
 - Pragmatic Thinking
 - Mentoring
 - Software Developers
-- Practical Techniques and Tooling
 - Continuous Learning
+- Practical Techniques and Tooling
 resourceTypes:
 - video
 categories:

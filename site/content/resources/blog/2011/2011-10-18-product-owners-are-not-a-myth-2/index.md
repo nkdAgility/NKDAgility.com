@@ -31,11 +31,11 @@ tags:
 - Accountability
 - Scrum Product Development
 - Agile Product Management
-- People and Process
 - Agile Project Management
+- People and Process
 - Product Backlog
 - Scrum Team
-- Value Delivery
+- Product Delivery
 - Professional Scrum
 categories:
 - Scrum

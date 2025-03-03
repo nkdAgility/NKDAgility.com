@@ -22,15 +22,15 @@ aliasesArchive:
 - /there-is-no-such-thing-as-a--junior--scrum-master
 - /blog/there-is-no-such-thing-as-a--junior--scrum-master
 tags:
+- Accountability
 - Agile Project Management
 - Scrum Master
 - Scrum Team
-- Accountability
 - People and Process
 - Software Development
-- Scrum Product Development
 - Agile Product Management
 - Professional Scrum
+- Scrum Product Development
 - Team Performance
 categories:
 - Scrum

@@ -29,16 +29,16 @@ aliasesArchive:
 tags:
 - Modern Source Control
 - Software Development
+- Application Lifecycle Management
 - Collaboration Tools
 - News and Reviews
-- Application Lifecycle Management
 - Practical Techniques and Tooling
 - Azure DevOps
 - Agile Planning Tools
 categories:
 - Scrum
+- DevOps
 - Engineering Excellence
-- Social Technologies
 preview: nakedalm-experts-visual-studio-alm-13-13.png
 
 ---

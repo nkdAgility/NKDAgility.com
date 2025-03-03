@@ -30,17 +30,17 @@ tags:
 - Automated Testing
 - Modern Source Control
 - Practical Techniques and Tooling
-- Technical Mastery
-- Continuous Integration
 - Application Lifecycle Management
-- Technical Excellence
+- Azure DevOps
 - Azure Pipelines
-- Operational Practices
+- Continuous Integration
 - Engineering Practices
+- Operational Practices
+- Software Development
 preview: metro-visual-studio-2010-128-link-6-6.png
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 
 ---
 ![BuildIcon_Large](images/Doyouknowtheminimumbuildstocreate_CABD-BuildIcon_Large_-1-1.png)

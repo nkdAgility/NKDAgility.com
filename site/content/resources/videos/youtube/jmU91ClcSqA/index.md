@@ -28,8 +28,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Practical Techniques and Tooling
 - People and Process
+- Practical Techniques and Tooling
 resourceTypes:
 - video
 categories: []

@@ -30,10 +30,10 @@ tags:
 - Ability to Innovate
 - Lean Product Development
 - Business Agility
-- Product Discovery
+- Discovery and Learning
+- Lean Startup
 - Metrics and Learning
-- Product Strategy
-- Value Delivery
+- Pragmatic Thinking
 - Product Delivery
 sitemap:
   filename: sitemap.xml

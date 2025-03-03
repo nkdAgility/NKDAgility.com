@@ -27,15 +27,15 @@ aliasesArchive:
 - /blog/visual-studio-2012-rtm-available-&-installed
 - /resources/blog/visual-studio-2012-rtm-available-installed
 tags:
-- News and Reviews
 - Install and Configuration
+- News and Reviews
 - Practical Techniques and Tooling
 - Products and Books
 - Software Development
 - System Configuration
 - Release Management
-- Troubleshooting
 - Technical Mastery
+- Troubleshooting
 categories:
 - Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-3-3.png

@@ -40,14 +40,14 @@ categories:
 - Scrum
 - Social Technologies
 tags:
-- Scrum Product Development
 - People and Process
+- Scrum Product Development
 - Scrum Team
 - Agile Planning
 - Agile Product Management
-- Team Collaboration
-- Professional Scrum
 - Product Delivery
+- Professional Scrum
+- Team Collaboration
 - Agile Frameworks
 - Agile Project Management
 

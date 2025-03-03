@@ -30,8 +30,8 @@ tags:
 - Operational Practices
 - Pragmatic Thinking
 categories:
+- DevOps
 - Engineering Excellence
-- Social Technologies
 - Scrum
 preview: metro-visual-studio-2010-128-link-8-8.png
 

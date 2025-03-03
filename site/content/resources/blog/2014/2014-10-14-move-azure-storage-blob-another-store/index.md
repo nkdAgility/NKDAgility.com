@@ -29,9 +29,9 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
+- Software Development
 - System Configuration
 - Technical Mastery
-- Software Development
 categories: []
 preview: nakedalm-windows-logo-4-4.png
 

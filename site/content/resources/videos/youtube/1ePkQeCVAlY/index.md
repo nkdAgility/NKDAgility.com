@@ -27,23 +27,23 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Flow Efficiency
+- People and Process
 - Value Delivery
 - Value Stream Management
-- Systems Thinking
-- Lean Principles
-- Lean
-- Lean Thinking
 - Complexity Thinking
+- Lean
+- Lean Principles
+- Lean Thinking
 - Operational Practices
+- Organisational Physics
 resourceTypes:
 - video
 layout: video
 categories:
 - Engineering Excellence
-- Social Technologies
 - Kanban
+- Product Management
 
 ---
 **What is the difference between resource efficiency and flow efficiency?**

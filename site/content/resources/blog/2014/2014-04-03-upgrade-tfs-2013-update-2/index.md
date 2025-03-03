@@ -30,13 +30,13 @@ tags:
 - Install and Configuration
 - Release Management
 - System Configuration
-- News and Reviews
-- Application Lifecycle Management
 - Agile Planning Tools
+- Application Lifecycle Management
+- News and Reviews
 - Practical Techniques and Tooling
 - Products and Books
+- Azure DevOps
 - Frequent Releases
-- Modern Source Control
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-7-7.png

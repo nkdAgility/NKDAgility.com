@@ -27,8 +27,8 @@ isShort: true
 tags:
 - Accountability
 - Product Owner
-- Scrum Product Development
 - Agile Product Management
+- Scrum Product Development
 - Agile Project Management
 - Value Delivery
 sitemap:

@@ -32,11 +32,11 @@ tags:
 - Product Owner
 - Scrum Product Development
 - Scrum Team
+- Agile Frameworks
+- Agile Planning
 - People and Process
 - Product Delivery
 - Professional Scrum
-- Agile Planning
-- Team Collaboration
 categories:
 - Scrum
 - Social Technologies

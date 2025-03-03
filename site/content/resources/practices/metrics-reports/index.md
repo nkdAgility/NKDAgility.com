@@ -33,10 +33,10 @@ tags:
 - Throughput
 - Flow Efficiency
 - Transparency and Accountability
-- Practical Techniques and Tooling
 - Agile Product Operating Model
-- Operational Practices
 - Cycle Time
+- Operational Practices
+- Practical Techniques and Tooling
 - Product Delivery
 
 ---

@@ -24,15 +24,15 @@ aliasesArchive:
 - /blog/without-delivery--there-is-no-value
 tags:
 - Increment
-- Value Delivery
-- Transparency
-- Product Delivery
 - Agile Product Management
+- Product Delivery
+- Transparency
+- Value Delivery
 - Deployment Frequency
 - Software Development
-- People and Process
+- Customer Feedback Loops
 - Frequent Releases
-- Working Software
+- People and Process
 categories:
 - Product Management
 preview: 2025-02-10-without-delivery-no-value.jpg

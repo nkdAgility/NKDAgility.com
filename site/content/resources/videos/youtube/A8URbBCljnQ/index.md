@@ -29,11 +29,11 @@ tags:
 - Pragmatic Thinking
 - Scrum Product Development
 - Agile Product Management
-- Remote Working
 - Events and Presentations
+- Product Delivery
+- Remote Working
 - Scrum Team
 - Software Development
-- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

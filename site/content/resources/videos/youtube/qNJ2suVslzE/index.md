@@ -26,15 +26,15 @@ duration: 259
 isShort: false
 tags:
 - Agile Product Operating Model
-- Agile Values and Principles
 - Agile Product Management
+- Agile Values and Principles
+- Agile Frameworks
+- Agile Philosophy
 - Agile Planning
 - Agile Project Management
-- Product Delivery
-- People and Process
-- Software Development
 - Agile Strategy
 - Agile Transformation
+- Market Adaptability
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -25,8 +25,8 @@ aliasesArchive:
 tags:
 - Windows
 - Install and Configuration
-- Troubleshooting
 - System Configuration
+- Troubleshooting
 categories: []
 preview: metro-server-instances_thumb-2-2.png
 

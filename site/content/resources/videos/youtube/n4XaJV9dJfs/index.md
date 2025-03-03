@@ -26,13 +26,13 @@ duration: 219
 isShort: false
 tags:
 - Transparency
-- Scrum Product Development
 - Agile Planning
 - Agile Product Management
 - People and Process
+- Scrum Product Development
 - Agile Frameworks
+- Agile Project Management
 - Agile Transformation
-- Transparency and Accountability
 - Complexity Thinking
 - Professional Scrum
 sitemap:

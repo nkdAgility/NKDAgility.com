@@ -26,15 +26,15 @@ duration: 46
 isShort: true
 tags:
 - People and Process
-- Value Delivery
 - Business Agility
-- Organisational Change
+- Value Delivery
 - Beta Codex
 - Organisational Agility
-- Agile Philosophy
-- Team Motivation
+- Organisational Change
 - Agile Leadership
-- Pragmatic Thinking
+- Agile Philosophy
+- Agile Strategy
+- Enterprise Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

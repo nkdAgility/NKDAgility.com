@@ -32,11 +32,11 @@ tags:
 - Product Delivery
 - Scrum Team
 - Software Development
-- Agile Project Management
-- Team Performance
-- Professional Scrum
-- Metrics and Learning
+- Agile Planning
 - Agile Product Management
+- Agile Project Management
+- Metrics and Learning
+- People and Process
 categories:
 - Scrum
 - Social Technologies

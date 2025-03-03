@@ -35,8 +35,8 @@ resourceTypes:
 - video
 categories:
 - Product Management
-- Scrum
 - Leadership
+- Scrum
 
 ---
 Understanding is one of those elusive concepts that we often take for granted in our day-to-day interactions, especially in the realm of product ownership. As I’ve navigated through various teams and projects, one thing has become abundantly clear: you can't measure understanding. It’s not as straightforward as drawing a line in the sand and declaring, “At this point, everyone gets it.” Instead, understanding is nebulous, fuzzy, and deeply personal.

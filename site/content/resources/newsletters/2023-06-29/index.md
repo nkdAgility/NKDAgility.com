@@ -23,11 +23,11 @@ tags:
 - Agile Transformation
 - Continuous Learning
 - Discovery and Learning
-- Events and Presentations
 - Agile Frameworks
-- People and Process
-- Organisational Agility
 - Agile Project Management
+- Events and Presentations
+- Organisational Agility
+- People and Process
 - Agile Strategy
 - Pragmatic Thinking
 

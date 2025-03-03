@@ -31,13 +31,13 @@ tags:
 - People and Process
 - Transparency
 - Agile Product Management
-- Transparency and Accountability
 - Agile Product Operating Model
-- Business Agility
-- Scrum Product Development
-- Organisational Change
-- Software Developers
 - Agile Project Management
+- Business Agility
+- Change Management
+- Events and Presentations
+- Organisational Agility
+- Organisational Change
 categories:
 - Scrum
 - Leadership

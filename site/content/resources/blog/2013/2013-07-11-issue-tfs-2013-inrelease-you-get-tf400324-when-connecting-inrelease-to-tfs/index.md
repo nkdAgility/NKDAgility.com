@@ -32,12 +32,12 @@ tags:
 - Practical Techniques and Tooling
 - Azure DevOps
 - Pragmatic Thinking
+- Software Development
 - System Configuration
 - Technical Mastery
-- Software Development
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 preview: puzzle-issue-problem-128-link-3-3.png
 
 ---

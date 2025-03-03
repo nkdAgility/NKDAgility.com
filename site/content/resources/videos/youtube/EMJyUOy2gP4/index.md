@@ -29,15 +29,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Product Development
 - Metrics and Learning
-- Scrum Team
 - People and Process
 - Scrum Master
-- Operational Practices
-- Product Delivery
+- Scrum Product Development
+- Scrum Team
+- Ability to Innovate
+- Agile Product Management
 - Decision Making
-- Professional Scrum
+- Operational Practices
 - Practical Techniques and Tooling
 resourceTypes:
 - video

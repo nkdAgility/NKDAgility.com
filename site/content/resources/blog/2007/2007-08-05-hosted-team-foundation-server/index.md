@@ -27,10 +27,10 @@ tags:
 - Practical Techniques and Tooling
 - Products and Books
 - Software Development
-- Software Developers
 - Application Lifecycle Management
-- Modern Source Control
 - Azure DevOps
+- Modern Source Control
+- Software Developers
 - Troubleshooting
 categories: []
 

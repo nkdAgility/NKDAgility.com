@@ -24,16 +24,16 @@ preview: https://i.ytimg.com/vi/tPX-wc6pG7M/maxresdefault.jpg
 duration: 129
 isShort: false
 tags:
-- People and Process
 - Agile Values and Principles
-- Agile Transformation
-- Agile Philosophy
-- Organisational Culture
-- Value Delivery
-- Organisational Psychology
-- Agile Strategy
-- Employee Engagement
+- People and Process
 - Agile Leadership
+- Agile Philosophy
+- Agile Strategy
+- Agile Transformation
+- Employee Engagement
+- Organisational Agility
+- Organisational Change
+- Organisational Culture
 sitemap:
   filename: sitemap.xml
   priority: 0.6

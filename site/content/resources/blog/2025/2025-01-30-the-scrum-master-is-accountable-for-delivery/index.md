@@ -29,14 +29,14 @@ aliasesArchive:
 - /blog/the-scrum-master-is-accountable-for-delivery
 tags:
 - Accountability
-- Scrum Product Development
-- Scrum Team
-- Scrum Master
 - Increment
 - Product Delivery
+- Scrum Master
+- Scrum Product Development
+- Scrum Team
 - Software Development
-- Agile Project Management
 - Agile Frameworks
+- Agile Project Management
 - Professional Scrum
 categories:
 - Scrum

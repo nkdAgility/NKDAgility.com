@@ -34,15 +34,15 @@ sitemap:
   priority: 0.6
 tags:
 - Transparency
+- Cycle Time
 - Metrics and Learning
 - Transparency and Accountability
-- Cycle Time
 - Empirical Process Control
-- Practical Techniques and Tooling
-- Evidence Based Management
 - Evidence Based Leadership
+- Evidence Based Management
 - Flow Efficiency
-- Throughput
+- Practical Techniques and Tooling
+- Agile Project Management
 resourceTypes:
 - video
 categories:

@@ -31,12 +31,12 @@ sitemap:
 tags:
 - Discovery and Learning
 - Experimentation
-- Product Discovery
 - People and Process
+- Product Discovery
 - Hypothesis Driven Development
 - Pragmatic Thinking
-- Value Delivery
 - Product Validation
+- Value Delivery
 - Continuous Learning
 - Lean Product Development
 resourceTypes:

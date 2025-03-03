@@ -29,14 +29,14 @@ aliasesArchive:
 tags:
 - Agile Planning Tools
 - Agile Planning
-- Practical Techniques and Tooling
 - Agile Project Management
+- Practical Techniques and Tooling
 - Software Developers
 - Software Development
 - Azure DevOps
 - Pragmatic Thinking
 - Azure Boards
-- People and Process
+- Large Scale Agility
 categories:
 - Social Technologies
 preview: nakedalm-experts-visual-studio-alm-8-8.png

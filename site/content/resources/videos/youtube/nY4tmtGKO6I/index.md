@@ -30,8 +30,8 @@ tags:
 - Scrum Team
 - Professional Scrum
 - Agile Frameworks
-- People and Process
 - Agile Project Management
+- People and Process
 - Software Development
 sitemap:
   filename: sitemap.xml

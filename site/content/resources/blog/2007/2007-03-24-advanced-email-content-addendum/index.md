@@ -23,8 +23,8 @@ aliasesArchive:
 - /advanced-email-content-addendum
 - /resources/blog/advanced-email-content-addendum
 tags:
-- Windows
 - Troubleshooting
+- Windows
 categories: []
 preview: metro-merilllynch-128-link-1-1.png
 

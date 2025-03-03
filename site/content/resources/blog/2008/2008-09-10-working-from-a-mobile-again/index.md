@@ -28,8 +28,8 @@ aliasesArchive:
 - /resources/blog/working-from-a-mobile-again
 tags:
 - Working Software
-- Software Development
 - Miscellaneous
+- Software Development
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

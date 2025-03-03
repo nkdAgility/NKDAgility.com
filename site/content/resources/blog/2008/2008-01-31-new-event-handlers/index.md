@@ -26,9 +26,9 @@ tags:
 - Install and Configuration
 - Practical Techniques and Tooling
 - Azure DevOps
+- Software Development
 - System Configuration
 - Technical Mastery
-- Software Development
 categories:
 - Engineering Excellence
 preview: nakedalm-logo-128-link-1-1.png

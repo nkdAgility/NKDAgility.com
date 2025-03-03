@@ -29,15 +29,15 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Values and Principles
-- People and Process
 - Empirical Process Control
+- People and Process
 - Discovery and Learning
 - Scrum Values
-- Software Development
 - Agile Frameworks
-- Agile Transformation
 - Agile Philosophy
+- Agile Project Management
 - Agile Strategy
+- Agile Transformation
 resourceTypes:
 - video
 categories:

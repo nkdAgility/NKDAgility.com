@@ -28,15 +28,15 @@ aliasesArchive:
 - /resources/blog/does-your-company-culture-resemble-survivor
 tags:
 - Agile Transformation
-- People and Process
 - Agile Leadership
-- Software Development
-- Team Collaboration
+- Agile Values and Principles
+- People and Process
 - Resilience and Change
 - Software Developers
-- Agile Values and Principles
-- Team Performance
-- Product Delivery
+- Software Development
+- Team Collaboration
+- Agile Philosophy
+- Agile Strategy
 categories:
 - Leadership
 - Social Technologies

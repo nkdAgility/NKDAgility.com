@@ -34,8 +34,8 @@ tags:
 - Business Agility
 - Resilience and Change
 - Agile Transformation
-- Organisational Change
 - Organisational Agility
+- Organisational Change
 - Organisational Culture
 - Pragmatic Thinking
 resourceTypes:

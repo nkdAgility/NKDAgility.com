@@ -24,15 +24,15 @@ preview: https://i.ytimg.com/vi/r9aCEFpUHWU/maxresdefault.jpg
 duration: 466
 isShort: false
 tags:
-- Scrum Product Development
 - Professional Scrum
 - Scrum Master
+- Scrum Product Development
 - Scrum Team
-- Team Performance
 - Agile Product Management
 - People and Process
 - Product Delivery
 - Software Development
+- Team Performance
 - Agile Frameworks
 sitemap:
   filename: sitemap.xml

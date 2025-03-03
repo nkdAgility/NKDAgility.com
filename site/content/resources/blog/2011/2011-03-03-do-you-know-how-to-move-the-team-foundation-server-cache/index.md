@@ -26,10 +26,10 @@ tags:
 - Windows
 - Install and Configuration
 - Practical Techniques and Tooling
-- Troubleshooting
+- Software Development
 - System Configuration
 - Technical Mastery
-- Software Development
+- Troubleshooting
 categories:
 - Engineering Excellence
 

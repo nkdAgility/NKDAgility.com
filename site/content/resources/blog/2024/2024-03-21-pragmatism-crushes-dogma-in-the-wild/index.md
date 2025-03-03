@@ -28,15 +28,15 @@ categories:
 - Social Technologies
 preview: NKDAgility-technically-PragamtismCrushesDogma-1-1.jpg
 tags:
-- Scrum Product Development
 - Agile Project Management
+- Scrum Product Development
 - People and Process
-- Empirical Process Control
 - Agile Product Management
+- Empirical Process Control
 - Professional Scrum
 - Software Development
-- Agile Planning
 - Agile Frameworks
+- Agile Planning
 - Agile Transformation
 
 ---

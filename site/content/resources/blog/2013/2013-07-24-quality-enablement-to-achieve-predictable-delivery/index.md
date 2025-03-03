@@ -27,12 +27,12 @@ tags:
 - Acceptance Test Driven Development
 - Definition of Done
 - Product Delivery
-- Software Development
-- Working Software
-- Value Delivery
 - Software Developers
-- People and Process
-- Practical Techniques and Tooling
+- Software Development
+- Value Delivery
+- Working Software
+- Continuous Delivery
+- Evidence Based Management
 categories:
 - Engineering Excellence
 - DevOps

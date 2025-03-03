@@ -23,14 +23,14 @@ categories:
 tags:
 - Discovery and Learning
 - Agile Product Management
-- Products and Books
+- Agile Product Operating Model
 - Product Discovery
 - Product Validation
+- Products and Books
 - Team Collaboration
-- Agile Product Operating Model
-- People and Process
 - Agile Project Management
 - Customer Satisfaction
+- Events and Presentations
 
 ---
 **Dear Innovators and Product Enthusiasts,**

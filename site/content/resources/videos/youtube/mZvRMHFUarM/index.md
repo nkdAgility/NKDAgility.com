@@ -25,13 +25,13 @@ preview: https://i9.ytimg.com/vi/mZvRMHFUarM/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 201
 isShort: false
 tags:
-- Forecasting
 - Estimation
+- Forecasting
 - Software Development
-- Decision Theory
-- Product Delivery
-- Pragmatic Thinking
 - Decision Making
+- Decision Theory
+- Pragmatic Thinking
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -39,7 +39,7 @@ resourceTypes:
 - video
 categories:
 - Engineering Excellence
-- Social Technologies
+- Product Management
 - Scrum
 
 ---

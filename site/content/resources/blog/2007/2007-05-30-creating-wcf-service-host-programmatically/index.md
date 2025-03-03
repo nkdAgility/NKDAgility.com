@@ -27,8 +27,8 @@ tags:
 - Software Development
 - Install and Configuration
 - Practical Techniques and Tooling
-- Technical Excellence
 - System Configuration
+- Technical Excellence
 - Technical Mastery
 categories:
 - Engineering Excellence

@@ -33,8 +33,8 @@ tags:
 - System Configuration
 - Software Developers
 categories:
-- Social Technologies
 - DevOps
+- Social Technologies
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

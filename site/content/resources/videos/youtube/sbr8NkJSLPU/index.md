@@ -25,15 +25,15 @@ duration: 218
 isShort: false
 tags:
 - People and Process
+- Operational Practices
 - Practical Techniques and Tooling
 - Team Collaboration
-- Operational Practices
-- Transparency
 - Agile Frameworks
 - Agile Project Management
 - Software Development
-- Pragmatic Thinking
+- Transparency
 - Flow Efficiency
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

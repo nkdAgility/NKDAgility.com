@@ -32,14 +32,14 @@ sitemap:
 tags:
 - Lean
 - People and Process
-- Throughput
 - Strategy
-- Scrum Product Development
-- Lean Product Development
+- Throughput
 - Agile Product Management
-- Lean Thinking
 - Cycle Time
-- Lean Principles
+- Lean Product Development
+- Lean Thinking
+- Scrum Product Development
+- Agile Project Management
 resourceTypes:
 - video
 categories:

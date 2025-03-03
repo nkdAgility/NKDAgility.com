@@ -29,9 +29,9 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Troubleshooting
 - Pragmatic Thinking
 - Software Development
+- Troubleshooting
 categories:
 - Social Technologies
 preview: metro-problem-icon-3-3.png

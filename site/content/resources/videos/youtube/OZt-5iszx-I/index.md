@@ -31,16 +31,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Product Management
 - Agile Product Operating Model
-- Value Delivery
+- Customer Feedback Loops
 - Discovery and Learning
 - Product Delivery
-- Customer Feedback Loops
-- Product Validation
-- Agile Product Management
 - Product Owner
-- Customer Satisfaction
-- Market Adaptability
+- Product Validation
+- Value Delivery
+- Agile Philosophy
+- Agile Planning
 resourceTypes:
 - video
 categories:

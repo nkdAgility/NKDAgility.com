@@ -26,15 +26,15 @@ categories:
 - DevOps
 preview: metro-binary-vb-128-link-1-1.png
 tags:
-- Install and Configuration
 - Application Lifecycle Management
 - Deployment Strategies
+- Install and Configuration
 - Practical Techniques and Tooling
 - Release Management
 - System Configuration
 - Operational Practices
-- Product Delivery
 - Pragmatic Thinking
+- Product Delivery
 - Software Development
 
 ---

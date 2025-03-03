@@ -25,8 +25,8 @@ isShort: false
 tags:
 - People and Process
 - Agile Frameworks
-- Agile Transformation
 - Agile Project Management
+- Agile Transformation
 - Software Development
 sitemap:
   filename: sitemap.xml

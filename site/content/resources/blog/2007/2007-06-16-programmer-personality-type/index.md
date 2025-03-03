@@ -26,12 +26,12 @@ categories: []
 preview: nakedalm-logo-128-link-1-1.png
 tags:
 - Personal
-- Team Performance
 - People and Process
-- Team Motivation
-- Team Collaboration
-- Organisational Psychology
+- Team Performance
 - Miscellaneous
+- Organisational Psychology
+- Team Collaboration
+- Team Motivation
 
 ---
 Get yours [here](http://www.doolwind.com/index.php?page=11 "Programmer Personality Test").

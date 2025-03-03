@@ -29,8 +29,8 @@ aliasesArchive:
 tags:
 - Install and Configuration
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 preview: nakedalm-windows-logo-22-22.png
 
 ---

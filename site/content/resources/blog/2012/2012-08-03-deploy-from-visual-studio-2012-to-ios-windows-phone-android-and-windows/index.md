@@ -31,16 +31,16 @@ aliasesArchive:
 - /blog/deploy-from-visual-studio-2012-to-ios--windows-phone--android-and-windows
 - /resources/blog/deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows
 tags:
-- Value Delivery
 - Application Lifecycle Management
 - Practical Techniques and Tooling
 - Software Development
+- Value Delivery
 - Windows
 - Working Software
 - Product Delivery
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 
 ---

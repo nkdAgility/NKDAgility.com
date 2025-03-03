@@ -30,8 +30,8 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Team Collaboration
 - Personal
+- Team Collaboration
 resourceTypes:
 - video
 layout: video

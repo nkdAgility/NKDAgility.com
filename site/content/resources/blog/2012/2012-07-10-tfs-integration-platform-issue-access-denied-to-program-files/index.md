@@ -30,9 +30,9 @@ tags:
 - Windows
 - Install and Configuration
 - Practical Techniques and Tooling
-- Troubleshooting
-- System Configuration
 - Software Development
+- System Configuration
+- Troubleshooting
 categories:
 - DevOps
 preview: metro-problem-icon-1-1.png

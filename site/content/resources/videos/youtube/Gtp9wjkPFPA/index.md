@@ -32,8 +32,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Leadership
 - DevOps
+- Leadership
 - Engineering Excellence
 
 ---

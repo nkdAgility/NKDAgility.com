@@ -234,15 +234,17 @@ function Get-CategoryConfidenceWithChecksum {
 
                 "$($Catalog[$category].Instructions)"
 
-                Rules:
-                1. **Only classify the content into this category if it is a clear, primary topic.**
-                - If the category is **only briefly mentioned**, **do not classify it**.
-                - If the content is **mostly about something else**, return `"confidence": 0`.
-                2. **Confidence Levels:**
-                - **80-100:** The content is **primarily about this category**.
-                - **50-79:** The category is **a major but secondary theme**.
-                - **Below 50:** The category **is not relevant enough**.
-                3. **Do not classify based on loose associations.** The category must be **central to the content.**
+                ### Classification Criteria:
+                - The **category must be a primary focus** of the content.
+                - If the category is **briefly mentioned or secondary**, return a lower confidence score.
+                - The confidence score **must be dynamically evaluated** rather than assigned from a fixed range.
+
+                ### Confidence Score Guidelines:
+                - **90-100**: The content is **highly focused** on this category.
+                - **70-89**: The category is a **major topic but not the sole focus**.
+                - **40-69**: The category is present but **not a dominant theme**.
+                - **1-39**: The category is **only weakly related** to the content.
+                - **0**: The category is **not relevant**.
 
                 return format should be valid json that looks like this:
                 {

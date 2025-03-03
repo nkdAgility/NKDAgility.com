@@ -24,16 +24,16 @@ card:
 categories:
 - Product Management
 tags:
-- Market Adaptability
 - Customer Feedback Loops
-- Product Discovery
-- Empirical Process Control
-- Working Software
-- Frequent Releases
-- Value Delivery
-- Business Agility
+- Market Adaptability
 - Agile Values and Principles
-- Organisational Agility
+- Business Agility
+- Customer Satisfaction
+- Deployment Frequency
+- Discovery and Learning
+- Empirical Process Control
+- Frequent Releases
+- Lead Time
 
 ---
 Update the work based on user feedback on timelines shorter than one month

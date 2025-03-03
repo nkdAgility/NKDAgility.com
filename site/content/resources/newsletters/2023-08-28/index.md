@@ -23,16 +23,16 @@ categories:
 - Product Management
 - Social Technologies
 tags:
+- Agile Product Management
 - Discovery and Learning
 - Professional Scrum
-- Agile Product Management
 - Scrum Team
-- Continuous Learning
-- News and Reviews
 - Agile Frameworks
-- People and Process
-- Product Owner
 - Agile Project Management
+- Continuous Learning
+- Events and Presentations
+- News and Reviews
+- People and Process
 
 ---
 Greetings,

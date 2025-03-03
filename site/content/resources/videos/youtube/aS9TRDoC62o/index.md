@@ -31,16 +31,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Software Developers
 - Market Adaptability
+- Software Developers
 - Software Development
 - Technical Mastery
-- Product Delivery
 - Pragmatic Thinking
+- Product Delivery
 - Value Delivery
 - Engineering Practices
 - Technical Excellence
-- Working Software
+- Operational Practices
 resourceTypes:
 - video
 categories:

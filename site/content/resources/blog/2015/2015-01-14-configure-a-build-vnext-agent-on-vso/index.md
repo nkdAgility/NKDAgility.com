@@ -33,8 +33,8 @@ tags:
 - Azure Pipelines
 - Software Development
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-27-27.png
 
 ---

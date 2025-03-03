@@ -34,8 +34,8 @@ tags:
 - Backlog Refinement
 - People and Process
 - Agile Frameworks
-- Estimation
 - Agile Project Management
+- Estimation
 - Software Development
 - Software Developers
 - Pragmatic Thinking

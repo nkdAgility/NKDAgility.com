@@ -31,8 +31,8 @@ tags:
 - Software Developers
 - Test Driven Development
 - Test First Development
-- Technical Excellence
 - Engineering Practices
+- Technical Excellence
 - Technical Mastery
 categories:
 - Engineering Excellence

@@ -30,8 +30,8 @@ sitemap:
 tags:
 - Scrum Master
 - Agile Frameworks
-- People and Process
 - Agile Project Management
+- People and Process
 - Agile Leadership
 - Scrum Team
 resourceTypes:

@@ -34,8 +34,8 @@ tags:
 - Install and Configuration
 - Practical Techniques and Tooling
 - Pragmatic Thinking
-- System Configuration
 - Software Development
+- System Configuration
 categories: []
 preview: metro-sharepoint-128-link-1-1.png
 

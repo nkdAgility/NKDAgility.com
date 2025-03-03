@@ -28,9 +28,9 @@ aliasesArchive:
 - /resources/blog/wpf-ninject-dojo-the-data-provider
 tags:
 - Practical Techniques and Tooling
+- Software Development
 - Technical Excellence
 - Technical Mastery
-- Software Development
 categories:
 - Engineering Excellence
 preview: metro-visual-studio-2010-128-link-1-1.png

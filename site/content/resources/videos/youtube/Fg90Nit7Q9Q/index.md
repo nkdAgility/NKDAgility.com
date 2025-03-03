@@ -26,12 +26,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Working Software
 - Software Developers
 - Software Development
+- Working Software
 - Agile Frameworks
-- Pragmatic Thinking
 - Agile Project Management
+- Pragmatic Thinking
 - People and Process
 - Value Delivery
 resourceTypes:

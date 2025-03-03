@@ -33,11 +33,11 @@ sitemap:
 tags:
 - Agile Product Management
 - Product Owner
-- People and Process
 - Agile Project Management
-- Scrum Product Development
+- People and Process
 - Agile Leadership
 - Agile Product Operating Model
+- Scrum Product Development
 - Products and Books
 - Pragmatic Thinking
 resourceTypes:

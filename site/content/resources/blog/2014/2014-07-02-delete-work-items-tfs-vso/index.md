@@ -29,10 +29,10 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Azure DevOps
-- Troubleshooting
 - Azure Boards
+- Azure DevOps
 - Software Development
+- Troubleshooting
 - Technical Mastery
 categories: []
 preview: nakedalm-experts-visual-studio-alm-1-1.png

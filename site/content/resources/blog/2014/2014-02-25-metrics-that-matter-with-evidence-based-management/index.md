@@ -23,13 +23,13 @@ aliasesArchive:
 - /metrics-that-matter-with-evidence-based-management
 - /resources/blog/metrics-that-matter-with-evidence-based-management
 tags:
-- Metrics and Learning
-- Evidence Based Management
 - Evidence Based Leadership
+- Evidence Based Management
+- Metrics and Learning
 categories:
 - Product Management
-- Social Technologies
 - Engineering Excellence
+- Social Technologies
 preview: nakedalm-agility-index-24-24.png
 
 ---

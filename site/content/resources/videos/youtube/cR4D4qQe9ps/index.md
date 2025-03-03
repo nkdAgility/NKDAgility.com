@@ -35,10 +35,10 @@ tags:
 - Scrum Master
 - Scrum Team
 - Agile Frameworks
+- Agile Project Management
 - Agile Transformation
 - People and Process
 - Professional Scrum
-- Agile Project Management
 - Software Development
 resourceTypes:
 - video

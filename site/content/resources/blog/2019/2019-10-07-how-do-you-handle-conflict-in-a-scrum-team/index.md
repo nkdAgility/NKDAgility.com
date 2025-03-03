@@ -29,14 +29,14 @@ aliasesArchive:
 tags:
 - Coaching
 - Events and Presentations
-- Scrum Team
-- Scrum Product Development
-- Scrum Master
-- Professional Scrum
 - People and Process
-- Team Performance
-- Team Motivation
+- Professional Scrum
+- Scrum Master
+- Scrum Product Development
+- Scrum Team
 - Agile Frameworks
+- Agile Product Management
+- Agile Project Management
 categories:
 - Scrum
 - Social Technologies

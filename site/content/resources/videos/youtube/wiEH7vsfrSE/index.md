@@ -30,16 +30,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Organisational Culture
 - Business Agility
 - Organisational Agility
-- Strategic Goals
+- Organisational Culture
 - People and Process
-- Operational Practices
+- Strategic Goals
+- Agile Strategy
+- Enterprise Agility
 - Market Adaptability
-- Value Delivery
+- Operational Practices
 - Organisational Change
-- Sociotechnical Systems
 resourceTypes:
 - video
 categories:

@@ -32,14 +32,14 @@ sitemap:
 tags:
 - Agile Product Management
 - People and Process
-- Team Performance
-- Scrum Product Development
 - Agile Planning
-- Metrics and Learning
-- Value Delivery
 - Agile Project Management
-- Software Developers
+- Metrics and Learning
+- Scrum Product Development
+- Team Performance
+- Value Delivery
 - Operational Practices
+- Pragmatic Thinking
 resourceTypes:
 - video
 layout: video

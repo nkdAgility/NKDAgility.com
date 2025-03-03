@@ -32,15 +32,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Change Management
 - Agile Philosophy
-- Transparency and Accountability
+- Change Management
 - Decision Making
-- Organisational Culture
-- Sociotechnical Systems
-- Organisational Physics
-- Pragmatic Thinking
+- Transparency and Accountability
+- Beta Codex
 - Organisational Agility
+- Organisational Change
+- Organisational Culture
+- Organisational Physics
 resourceTypes:
 - video
 categories:

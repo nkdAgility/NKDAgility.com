@@ -23,8 +23,8 @@ aliasesArchive:
 - /composite-wpf-and-merged-dictionaries
 - /resources/blog/composite-wpf-and-merged-dictionaries
 tags:
-- Technical Mastery
 - Software Development
+- Technical Mastery
 - Troubleshooting
 categories: []
 preview: metro-binary-vb-128-link-2-2.png

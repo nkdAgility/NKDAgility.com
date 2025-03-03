@@ -33,11 +33,11 @@ tags:
 - People and Process
 - Discovery and Learning
 - Agile Philosophy
-- Value Delivery
 - Continuous Learning
+- Value Delivery
 - Agile Frameworks
-- Agile Transformation
 - Agile Project Management
+- Agile Transformation
 - Coaching
 resourceTypes:
 - video

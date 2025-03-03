@@ -27,16 +27,16 @@ aliasesArchive:
 - /blog/can-you-really-commit-to-delivering-work-
 - /resources/blog/can-you-really-commit-to-delivering-work
 tags:
-- Transparency
 - Forecasting
+- Transparency
 - Scrum Product Development
-- Agile Product Management
-- Scrum Team
-- Product Delivery
 - Agile Planning
-- Transparency and Accountability
-- Software Development
+- Agile Product Management
 - Agile Values and Principles
+- Product Delivery
+- Scrum Team
+- Software Development
+- Transparency and Accountability
 categories:
 - Scrum
 - Social Technologies

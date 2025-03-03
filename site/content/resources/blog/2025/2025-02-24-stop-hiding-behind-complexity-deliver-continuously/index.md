@@ -26,9 +26,9 @@ aliasesArchive:
 tags:
 - Continuous Delivery
 - Frequent Releases
-- Value Delivery
 - Product Delivery
 - Software Development
+- Value Delivery
 categories:
 - DevOps
 preview: 2025-02-24-stop-hiding-behind-complexity-deliver-continuously.jpg

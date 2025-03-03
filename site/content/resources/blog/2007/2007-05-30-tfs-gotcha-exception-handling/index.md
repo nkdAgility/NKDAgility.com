@@ -27,9 +27,9 @@ aliasesArchive:
 - /blog/tfs-gotcha-(exception-handling)
 - /resources/blog/tfs-gotcha-exception-handling
 tags:
-- Troubleshooting
-- Technical Mastery
 - Software Development
+- Technical Mastery
+- Troubleshooting
 categories:
 - Engineering Excellence
 

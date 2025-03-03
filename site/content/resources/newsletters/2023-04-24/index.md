@@ -25,8 +25,8 @@ tags:
 - Events and Presentations
 - Continuous Learning
 - Agile Frameworks
-- Agile Transformation
 - Agile Project Management
+- Agile Transformation
 - Software Development
 
 ---

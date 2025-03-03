@@ -27,12 +27,12 @@ tags:
 - Install and Configuration
 - Practical Techniques and Tooling
 - Azure DevOps
-- Technical Excellence
 - Operational Practices
-- Troubleshooting
-- System Configuration
-- Technical Mastery
 - Software Development
+- System Configuration
+- Technical Excellence
+- Technical Mastery
+- Troubleshooting
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-5-5.png

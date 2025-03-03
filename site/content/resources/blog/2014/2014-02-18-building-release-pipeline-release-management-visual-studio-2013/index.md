@@ -27,8 +27,8 @@ aliasesArchive:
 - /blog/building-a-release-pipeline-with-release-management-with-visual-studio-2013
 - /resources/blog/building-release-pipeline-release-management-visual-studio-2013
 tags:
-- Release Management
 - Product Delivery
+- Release Management
 - Software Development
 categories:
 - DevOps

@@ -31,15 +31,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Professional Scrum
 - Discovery and Learning
+- Professional Scrum
 - Scrum Master
 - Agile Frameworks
+- Agile Project Management
 - Continuous Learning
 - People and Process
-- Agile Project Management
-- Pragmatic Thinking
 - Coaching
+- Pragmatic Thinking
 - Accountability
 resourceTypes:
 - video

@@ -24,9 +24,9 @@ aliasesArchive:
 - /resources/blog/kerberos-and-sharepoint-2007
 tags:
 - Install and Configuration
-- Troubleshooting
 - System Configuration
 - Technical Mastery
+- Troubleshooting
 categories: []
 preview: metro-sharepoint-128-link-1-1.png
 

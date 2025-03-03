@@ -29,11 +29,11 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 - Software Development
-- Azure Pipelines
 - Azure DevOps
+- Azure Pipelines
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-26-26.png
 
 ---

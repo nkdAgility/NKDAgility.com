@@ -29,9 +29,9 @@ aliasesArchive:
 tags:
 - Products and Books
 categories:
+- DevOps
 - Engineering Excellence
 - Social Technologies
-- DevOps
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

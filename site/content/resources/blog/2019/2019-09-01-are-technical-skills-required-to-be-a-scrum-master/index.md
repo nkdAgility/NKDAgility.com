@@ -30,13 +30,13 @@ tags:
 - Coaching
 - Scrum Product Development
 - Events and Presentations
+- Professional Scrum
+- Scrum Master
+- Scrum Team
+- Software Development
 - Team Performance
 - Technical Mastery
-- Scrum Team
-- Scrum Master
-- Software Development
-- Professional Scrum
-- Technical Leadership
+- Agile Product Management
 categories:
 - Scrum
 preview: 1029723898-1-1.jpg

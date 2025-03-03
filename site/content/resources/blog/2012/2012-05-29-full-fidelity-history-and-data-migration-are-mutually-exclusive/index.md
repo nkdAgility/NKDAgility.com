@@ -27,12 +27,12 @@ tags:
 - Practical Techniques and Tooling
 - Software Development
 - Azure DevOps
+- Decision Making
 - Pragmatic Thinking
 - Technical Mastery
-- Decision Making
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

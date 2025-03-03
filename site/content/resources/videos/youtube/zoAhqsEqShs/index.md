@@ -28,16 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Product Management
+- Agile Project Management
+- Agile Transformation
 - Change Management
 - People and Process
 - Software Development
-- Agile Product Management
-- Agile Transformation
-- Agile Project Management
-- Enterprise Agility
+- Agile Frameworks
 - Agile Philosophy
 - Agile Strategy
-- Organisational Agility
+- Enterprise Agility
 resourceTypes:
 - video
 categories:

@@ -34,14 +34,14 @@ tags:
 - People and Process
 - Continuous Learning
 - Pragmatic Thinking
+- Coaching
 - Organisational Culture
 - Personal
-- Coaching
 resourceTypes:
 - video
 categories:
-- Leadership
 - DevOps
+- Leadership
 - Scrum
 
 ---

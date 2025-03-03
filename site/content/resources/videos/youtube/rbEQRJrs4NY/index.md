@@ -26,11 +26,11 @@ preview: https://i.ytimg.com/vi/rbEQRJrs4NY/maxresdefault.jpg
 duration: 62
 isShort: false
 tags:
-- Experimentation
+- Agile Project Management
 - Agile Transformation
+- Experimentation
 - People and Process
 - Product Validation
-- Agile Project Management
 - Software Development
 sitemap:
   filename: sitemap.xml

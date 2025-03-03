@@ -29,11 +29,11 @@ tags:
 - Agile Project Management
 - Metrics and Learning
 - Value Delivery
-- Team Performance
 - Decision Making
 - Flow Efficiency
+- Team Performance
 - Evidence Based Leadership
-- Software Development
+- Operational Practices
 categories:
 - Social Technologies
 - Product Management

@@ -27,10 +27,10 @@ aliasesArchive:
 - /blog/scrum-with-visual-studio-11---creating-a-new-team-project
 - /resources/blog/scrum-with-dev11-creating-a-new-team-project
 tags:
-- Practical Techniques and Tooling
 - Agile Project Management
-- Asynchronous Development
+- Practical Techniques and Tooling
 - Agile Frameworks
+- Asynchronous Development
 - Software Development
 categories:
 - Scrum

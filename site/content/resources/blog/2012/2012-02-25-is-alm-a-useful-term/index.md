@@ -31,9 +31,9 @@ tags:
 - Application Lifecycle Management
 - People and Process
 - Software Development
-- Product Delivery
-- Organisational Agility
 - Market Adaptability
+- Organisational Agility
+- Product Delivery
 - Agile Strategy
 - Business Agility
 - Pragmatic Thinking

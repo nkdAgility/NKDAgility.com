@@ -28,17 +28,17 @@ aliasesArchive:
 tags:
 - Increment
 - Product Delivery
-- Software Development
 - Agile Project Management
+- Software Development
+- Continuous Delivery
 - Engineering Practices
 - People and Process
-- Scrum Team
-- Continuous Delivery
 - Scrum Product Development
-- Working Software
+- Scrum Team
+- Value Delivery
 categories:
-- Social Technologies
 - DevOps
+- Social Technologies
 preview: 2025-02-03-delivery-as-the-ultimate-measure-of-progress.jpg
 
 ---

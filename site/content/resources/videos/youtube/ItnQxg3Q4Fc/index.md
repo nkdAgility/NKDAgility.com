@@ -35,12 +35,12 @@ tags:
 - People and Process
 - Agile Philosophy
 - Market Adaptability
-- Change Management
-- Value Delivery
-- Business Agility
+- Agile Project Management
 - Agile Strategy
 - Agile Transformation
-- Agile Project Management
+- Business Agility
+- Change Management
+- Organisational Change
 resourceTypes:
 - video
 categories:

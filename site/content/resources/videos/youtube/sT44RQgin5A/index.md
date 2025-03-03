@@ -32,9 +32,9 @@ tags:
 - Ability to Innovate
 - Metrics and Learning
 - Decision Making
-- Value Delivery
-- Evidence Based Management
 - Evidence Based Leadership
+- Evidence Based Management
+- Value Delivery
 resourceTypes:
 - video
 categories:

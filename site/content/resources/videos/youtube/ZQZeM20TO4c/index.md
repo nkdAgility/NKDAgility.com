@@ -35,8 +35,8 @@ tags:
 - Organisational Change
 - Resilience and Change
 - Agile Philosophy
-- Business Agility
 - Agile Transformation
+- Business Agility
 - Market Adaptability
 resourceTypes:
 - video

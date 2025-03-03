@@ -26,11 +26,11 @@ isShort: true
 tags:
 - Agile Values and Principles
 - People and Process
-- Team Motivation
 - Team Collaboration
-- Team Performance
-- Personal
+- Team Motivation
 - Coaching
+- Personal
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

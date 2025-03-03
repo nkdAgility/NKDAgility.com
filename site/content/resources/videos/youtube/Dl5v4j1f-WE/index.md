@@ -33,8 +33,8 @@ sitemap:
   priority: 0.6
 tags:
 - Transparency
-- Transparency and Accountability
 - People and Process
+- Transparency and Accountability
 - Personal
 - Agile Values and Principles
 - Scrum Values

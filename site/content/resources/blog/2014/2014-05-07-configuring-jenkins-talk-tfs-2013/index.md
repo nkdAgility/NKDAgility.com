@@ -31,9 +31,9 @@ tags:
 - Practical Techniques and Tooling
 - System Configuration
 - Continuous Integration
+- Software Development
 - Technical Excellence
 - Technical Mastery
-- Software Development
 - Operational Practices
 - Modern Source Control
 - Pragmatic Thinking

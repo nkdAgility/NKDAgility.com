@@ -27,7 +27,7 @@ tags:
 categories:
 - Scrum
 - Product Management
-- Social Technologies
+- DevOps
 preview: metro-sharepoint-128-link-23-23.png
 
 ---

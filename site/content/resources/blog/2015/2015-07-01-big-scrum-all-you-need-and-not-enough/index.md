@@ -28,15 +28,15 @@ aliasesArchive:
 - /resources/blog/big-scrum-all-you-need-and-not-enough
 tags:
 - Large Scale Agility
-- Professional Scrum
+- Events and Presentations
 - People and Process
+- Professional Scrum
 - Scaling Agility
 - Scaling Scrum
-- Events and Presentations
-- Scrum Product Development
-- Scaled Agile
-- Value Delivery
 - Agile Frameworks
+- Organisational Agility
+- Scaled Agile
+- Scrum Product Development
 categories:
 - Scrum
 - Social Technologies

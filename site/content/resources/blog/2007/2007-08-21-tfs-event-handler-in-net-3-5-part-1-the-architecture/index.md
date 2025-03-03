@@ -32,9 +32,9 @@ tags:
 - Practical Techniques and Tooling
 - System Configuration
 - Azure DevOps
+- Software Development
 - Technical Excellence
 - Technical Mastery
-- Software Development
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Engineering Excellence

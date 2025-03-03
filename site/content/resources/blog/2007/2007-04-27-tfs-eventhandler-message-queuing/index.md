@@ -27,8 +27,8 @@ aliasesArchive:
 - /blog/tfs-eventhandler--message-queuing
 - /resources/blog/tfs-eventhandler-message-queuing
 tags:
-- Technical Mastery
 - Software Development
+- Technical Mastery
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Engineering Excellence

@@ -29,8 +29,8 @@ aliasesArchive:
 tags:
 - Application Lifecycle Management
 - People and Process
-- Software Developers
 - Agile Project Management
+- Software Developers
 - Continuous Learning
 - Software Development
 - Mentoring

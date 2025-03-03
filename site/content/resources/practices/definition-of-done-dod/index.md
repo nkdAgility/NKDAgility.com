@@ -43,8 +43,8 @@ tags:
 - Definition of Done
 - Increment
 - Scrum Product Development
-- Working Software
 - Software Development
+- Working Software
 - Professional Scrum
 
 ---

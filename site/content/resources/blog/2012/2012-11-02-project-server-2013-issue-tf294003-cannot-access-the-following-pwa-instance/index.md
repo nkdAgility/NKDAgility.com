@@ -32,10 +32,10 @@ tags:
 - Install and Configuration
 - Practical Techniques and Tooling
 - Pragmatic Thinking
-- Windows
-- Troubleshooting
-- System Configuration
 - Software Development
+- System Configuration
+- Troubleshooting
+- Windows
 categories:
 - DevOps
 preview: metro-problem-icon-6-6.png

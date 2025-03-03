@@ -28,8 +28,8 @@ tags:
 - People and Process
 - Product Owner
 - Agile Product Management
-- Agile Project Management
 - Accountability
+- Agile Project Management
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml

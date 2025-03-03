@@ -32,15 +32,15 @@ sitemap:
   priority: 0.6
 tags:
 - Team Motivation
-- Scrum Product Development
-- Scrum Master
 - People and Process
+- Scrum Master
+- Scrum Product Development
 - Scrum Team
-- Team Performance
-- Agile Project Management
 - Agile Frameworks
+- Agile Project Management
 - Team Collaboration
-- Software Development
+- Team Performance
+- Coaching
 resourceTypes:
 - video
 categories:

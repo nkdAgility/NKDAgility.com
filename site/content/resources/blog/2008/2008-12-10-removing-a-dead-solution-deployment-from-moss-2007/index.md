@@ -25,8 +25,8 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Troubleshooting
 - System Configuration
+- Troubleshooting
 preview: metro-sharepoint-128-link-1-1.png
 categories: []
 

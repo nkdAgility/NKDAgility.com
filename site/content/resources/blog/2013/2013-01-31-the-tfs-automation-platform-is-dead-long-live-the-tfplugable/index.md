@@ -35,10 +35,10 @@ tags:
 - Application Lifecycle Management
 - Practical Techniques and Tooling
 - System Configuration
-- Frequent Releases
 - Azure DevOps
-- Technical Mastery
+- Frequent Releases
 - Software Development
+- Technical Mastery
 - Platform Engineering
 - Product Delivery
 categories:

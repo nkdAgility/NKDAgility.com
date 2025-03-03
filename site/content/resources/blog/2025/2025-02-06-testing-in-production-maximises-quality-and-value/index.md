@@ -26,14 +26,14 @@ aliasesArchive:
 tags:
 - Deployment Strategies
 - Software Development
-- Continuous Delivery
-- Value Delivery
 - Azure DevOps
+- Continuous Delivery
 - Product Delivery
+- Value Delivery
+- Deployment Frequency
 - Frequent Releases
-- Software Developers
+- Operational Practices
 - Practical Techniques and Tooling
-- Technical Excellence
 categories:
 - DevOps
 - Engineering Excellence

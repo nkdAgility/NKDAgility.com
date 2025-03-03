@@ -34,15 +34,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Team Performance
 - Team Collaboration
+- Team Performance
 - Working Agreements
-- Pragmatic Thinking
 - Agile Project Management
+- Pragmatic Thinking
 - Strategy
 - Team Motivation
+- Accountability
 - Operational Practices
-- Self Organisation
 resourceTypes:
 - video
 categories:

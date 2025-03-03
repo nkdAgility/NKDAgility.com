@@ -28,14 +28,14 @@ aliasesArchive:
 - /resources/blog/how-do-you-incorporate-a-design-sprint-in-scrum
 tags:
 - Agile Project Management
-- Scrum Product Development
-- Professional Scrum
 - People and Process
+- Professional Scrum
+- Scrum Product Development
 - Scrum Team
-- Software Development
-- Team Performance
 - Events and Presentations
+- Software Development
 - Team Collaboration
+- Team Performance
 - Agile Frameworks
 categories:
 - Scrum

@@ -29,16 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Review
-- Scrum Team
-- Scrum Product Development
 - Customer Feedback Loops
 - Product Owner
-- Scrum Master
+- Scrum Product Development
+- Scrum Team
+- Sprint Review
+- Agile Product Management
+- People and Process
 - Pragmatic Thinking
 - Product Delivery
 - Professional Scrum
-- Agile Product Management
 resourceTypes:
 - video
 categories:

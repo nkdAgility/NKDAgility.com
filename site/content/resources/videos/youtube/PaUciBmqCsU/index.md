@@ -34,13 +34,13 @@ tags:
 - Strategy
 - Transparency
 - Transparency and Accountability
-- Value Stream Management
-- Practical Techniques and Tooling
-- Flow Efficiency
-- Value Delivery
 - Empirical Process Control
-- Lean
-- Pragmatic Thinking
+- Flow Efficiency
+- Practical Techniques and Tooling
+- Value Delivery
+- Value Stream Management
+- Agile Frameworks
+- Agile Project Management
 resourceTypes:
 - video
 categories:

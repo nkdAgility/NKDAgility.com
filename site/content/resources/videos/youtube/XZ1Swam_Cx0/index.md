@@ -27,11 +27,11 @@ duration: 59
 isShort: true
 tags:
 - People and Process
-- Agile Philosophy
-- Software Developers
 - Agile Frameworks
-- Agile Transformation
+- Agile Philosophy
 - Agile Project Management
+- Agile Transformation
+- Software Developers
 - Software Development
 sitemap:
   filename: sitemap.xml

@@ -22,11 +22,11 @@ categories:
 - Social Technologies
 tags:
 - Continuous Learning
+- Discovery and Learning
 - People and Process
 - Professional Scrum
-- Discovery and Learning
-- Events and Presentations
 - Agile Transformation
+- Events and Presentations
 - Products and Books
 - Pragmatic Thinking
 - Agile Project Management

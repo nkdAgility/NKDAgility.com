@@ -28,19 +28,19 @@ aliasesArchive:
 - /resources/blog/who-broke-the-build
 tags:
 - Windows
-- Install and Configuration
 - Code and Complexity
-- Software Developers
+- Install and Configuration
 - Application Lifecycle Management
-- System Configuration
 - Modern Source Control
 - Practical Techniques and Tooling
-- Operational Practices
-- Working Software
+- Software Developers
+- System Configuration
+- Accountability
+- Azure DevOps
 preview: metro-visual-studio-2010-128-link-10-10.png
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 
 ---
 ![BuildIcon_Large](images/114db5acbf63_EDD8-BuildIcon_Large_-1-1.png)

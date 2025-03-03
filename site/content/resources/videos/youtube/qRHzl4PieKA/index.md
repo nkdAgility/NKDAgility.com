@@ -31,13 +31,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Product Operating Model
-- People and Process
 - Agile Product Management
+- Agile Product Operating Model
 - Agile Values and Principles
+- People and Process
+- Agile Philosophy
 - Agile Project Management
 - Market Adaptability
-- Agile Philosophy
 - Value Delivery
 - Business Agility
 - Organisational Agility

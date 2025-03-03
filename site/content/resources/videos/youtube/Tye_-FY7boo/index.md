@@ -29,15 +29,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Owner
+- Agile Product Management
+- People and Process
 - Product Delivery
+- Product Owner
 - Product Validation
 - Value Delivery
-- People and Process
-- Agile Product Management
 - Agile Product Operating Model
-- Product Strategy
 - Product Discovery
+- Product Strategy
 - Agile Strategy
 resourceTypes:
 - video

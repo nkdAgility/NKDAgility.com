@@ -28,11 +28,11 @@ aliasesArchive:
 - /resources/blog/tfs-integration-tools-issue-error-occurred-during-the-code-review-of-change-group
 tags:
 - Practical Techniques and Tooling
-- Troubleshooting
 - Software Development
+- Troubleshooting
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 preview: metro-problem-icon-2-2.png
 
 ---

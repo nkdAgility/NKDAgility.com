@@ -26,13 +26,13 @@ tags:
 - Modern Source Control
 - Install and Configuration
 - Practical Techniques and Tooling
-- System Configuration
 - Software Development
+- System Configuration
 - Troubleshooting
 - Operational Practices
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

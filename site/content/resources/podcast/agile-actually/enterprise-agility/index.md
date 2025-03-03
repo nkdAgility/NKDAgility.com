@@ -7,8 +7,8 @@ ResourceType: podcast
 date: 2024-01-25
 weight: 1000
 categories:
-- Scrum
 - DevOps
+- Scrum
 - Social Technologies
 author: MrHinsh
 resourceTypes: podcast

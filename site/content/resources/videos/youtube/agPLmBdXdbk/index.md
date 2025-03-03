@@ -27,20 +27,20 @@ sitemap:
   priority: 0.6
 tags:
 - Coaching
-- Resilience and Change
 - Agile Values and Principles
-- People and Process
-- Agile Transformation
+- Resilience and Change
+- Agile Frameworks
+- Agile Leadership
 - Agile Philosophy
 - Agile Project Management
-- Agile Frameworks
 - Agile Strategy
+- Agile Transformation
 - Change Management
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Leadership
+- Social Technologies
 
 ---
 **Must have trait in an Agile Consultant**

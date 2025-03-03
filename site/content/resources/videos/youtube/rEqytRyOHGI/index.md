@@ -32,13 +32,13 @@ tags:
 - Agile Product Management
 - Agile Project Management
 - People and Process
-- Value Delivery
 - Agile Frameworks
-- Working Software
+- Agile Philosophy
+- Agile Planning
+- Agile Strategy
+- Agile Transformation
 - Product Delivery
 - Scrum Product Development
-- Agile Transformation
-- Agile Strategy
 resourceTypes:
 - video
 categories:

@@ -31,12 +31,12 @@ tags:
 - Experimentation
 - Agile Project Management
 - People and Process
-- Digital Transformation
-- Agile Transformation
-- Business Agility
-- Continuous Learning
-- Agile Values and Principles
 - Agile Leadership
+- Agile Transformation
+- Agile Values and Principles
+- Business Agility
+- Change Management
+- Continuous Learning
 categories:
 - Leadership
 - Social Technologies

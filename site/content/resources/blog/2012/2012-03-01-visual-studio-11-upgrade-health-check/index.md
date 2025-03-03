@@ -24,13 +24,13 @@ aliasesArchive:
 - /resources/blog/visual-studio-11-upgrade-health-check
 tags:
 - Events and Presentations
-- Team Performance
-- News and Reviews
 - Install and Configuration
-- Practical Techniques and Tooling
-- Team Collaboration
+- News and Reviews
 - People and Process
+- Practical Techniques and Tooling
 - Products and Books
+- Team Collaboration
+- Team Performance
 - Agile Frameworks
 - Azure DevOps
 categories:

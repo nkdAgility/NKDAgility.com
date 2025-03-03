@@ -27,8 +27,8 @@ aliasesArchive:
 - /how-to-set-and-achieve-effective-sprint-goals
 - /resources/blog/how-to-set-and-achieve-effective-sprint-goals
 tags:
-- Scrum Product Development
 - Professional Scrum
+- Scrum Product Development
 - Agile Project Management
 categories:
 - Scrum

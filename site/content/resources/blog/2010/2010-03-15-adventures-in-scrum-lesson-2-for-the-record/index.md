@@ -27,16 +27,16 @@ aliasesArchive:
 - /blog/adventures-in-scrum--lesson-2---for-the-record
 - /resources/blog/adventures-in-scrum-lesson-2-for-the-record
 tags:
-- Scrum Product Development
 - People and Process
+- Scrum Product Development
 - Scrum Team
 - Agile Planning
-- Software Developers
-- Software Development
 - Agile Product Management
 - Product Delivery
-- Scrum Master
 - Professional Scrum
+- Scrum Master
+- Software Developers
+- Software Development
 categories:
 - Scrum
 - Social Technologies

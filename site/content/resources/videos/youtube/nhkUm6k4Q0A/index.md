@@ -30,8 +30,8 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Mentoring
 - Coaching
+- Mentoring
 resourceTypes:
 - video
 categories:

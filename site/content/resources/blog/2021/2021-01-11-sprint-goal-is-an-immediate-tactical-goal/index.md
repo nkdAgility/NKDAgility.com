@@ -25,14 +25,14 @@ aliasesArchive:
 - /resources/blog/sprint-goal-is-an-immediate-tactical-goal
 tags:
 - Scrum Product Development
-- People and Process
 - Agile Product Management
+- People and Process
 - Product Owner
-- Professional Scrum
 - Agile Project Management
+- Hypothesis Driven Development
 - Pragmatic Thinking
 - Product Delivery
-- Hypothesis Driven Development
+- Professional Scrum
 - Value Delivery
 categories:
 - Scrum

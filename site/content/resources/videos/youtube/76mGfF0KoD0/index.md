@@ -30,8 +30,8 @@ tags:
 - Scrum Master
 - Scrum Team
 - Agile Frameworks
-- Agile Transformation
 - Agile Product Management
+- Agile Transformation
 - Team Collaboration
 - Software Development
 sitemap:

@@ -32,14 +32,14 @@ sitemap:
 tags:
 - Operational Practices
 - Flow Efficiency
-- Practical Techniques and Tooling
 - Lean Thinking
+- Practical Techniques and Tooling
 - Pragmatic Thinking
 - Software Development
-- Throughput
 - Agile Frameworks
-- Lean Principles
+- Agile Project Management
 - Lean
+- Lean Principles
 resourceTypes:
 - video
 categories:

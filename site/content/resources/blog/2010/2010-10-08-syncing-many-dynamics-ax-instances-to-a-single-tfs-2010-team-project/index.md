@@ -29,10 +29,10 @@ tags:
 - System Configuration
 - Application Lifecycle Management
 - Azure DevOps
-- Technical Excellence
 - Operational Practices
-- Troubleshooting
 - Pragmatic Thinking
+- Software Development
+- Technical Excellence
 categories:
 - Engineering Excellence
 

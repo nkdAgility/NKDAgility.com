@@ -26,8 +26,8 @@ tags:
 - Practical Techniques and Tooling
 - Pragmatic Thinking
 - Products and Books
-- Troubleshooting
 - Software Development
+- Troubleshooting
 - Technical Mastery
 preview: nakedalm-logo-128-link-1-1.png
 categories:

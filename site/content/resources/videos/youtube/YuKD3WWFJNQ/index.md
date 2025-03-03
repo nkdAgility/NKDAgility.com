@@ -32,16 +32,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Sprint Review
-- Product Owner
-- People and Process
 - Agile Product Management
 - Decision Making
+- People and Process
+- Product Owner
+- Sprint Review
 - Agile Frameworks
-- Scrum Product Development
-- Value Delivery
-- Agile Transformation
 - Agile Philosophy
+- Agile Planning
+- Agile Project Management
+- Agile Transformation
 resourceTypes:
 - video
 categories:

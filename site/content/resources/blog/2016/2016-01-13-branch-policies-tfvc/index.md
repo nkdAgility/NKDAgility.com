@@ -32,9 +32,9 @@ tags:
 - Modern Source Control
 - Practical Techniques and Tooling
 - Azure DevOps
-- Technical Excellence
 - Operational Practices
 - Software Development
+- Technical Excellence
 - Pragmatic Thinking
 categories:
 - Engineering Excellence

@@ -21,14 +21,14 @@ aliasesArchive:
 tags:
 - Software Development
 - Operational Practices
-- Value Delivery
-- Business Agility
-- Software Developers
-- Cross Functional Teams
-- Team Collaboration
-- Product Delivery
-- Organisational Agility
 - Agile Project Management
+- Business Agility
+- Cross Functional Teams
+- Organisational Agility
+- Product Delivery
+- Software Developers
+- Team Collaboration
+- Value Delivery
 categories:
 - DevOps
 - Engineering Excellence

@@ -30,12 +30,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Project Management
 - Metrics and Learning
 - People and Process
-- Agile Project Management
 - Agile Philosophy
-- Psychological Safety
 - Organisational Agility
+- Psychological Safety
 - Pragmatic Thinking
 - Software Development
 - Agile Product Management
