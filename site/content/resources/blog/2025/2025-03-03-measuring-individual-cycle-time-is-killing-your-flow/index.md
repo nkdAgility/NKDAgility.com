@@ -30,7 +30,7 @@ tags:
 
 Looking at cycle time for an individual is a fundamental misunderstanding of how flow works in a system—unless the individual is the system. And here is why!
 
-## Flow Efficiency is a System Metric, Not an Individual One
+## Process Cycle Efficiency (PCE) Drives Flow, Not Individual Productivity
 
 Kanban isn’t about individual productivity; it’s about optimising the flow of work through a system. When you measure an individual’s cycle time, you ignore the real bottlenecks—queues, dependencies, and wait times that slow everything down. A person might complete tasks quickly, but if those tasks get stuck waiting for reviews, approvals, or other handoffs, the overall system remains inefficient. If you want faster delivery, fix the system, not the people.
 
@@ -44,7 +44,7 @@ Measuring individual cycle time leads to bad incentives. If someone is judged on
 - Taking on work too early, creating unnecessary work in progress (WIP).
 - Cherry-picking simple tasks to appear fast rather than tackling what actually moves the system forward.
 
-Kanban is about improving the whole workflow. Look at system-wide cycle time instead.
+Kanban is about improving the whole workflow. Look at Process Cycle Efficiency (PCE) and Throughput together—one improves the other.
 
 ## Ignores Work in Progress (WIP) and Blockers
 
@@ -74,11 +74,13 @@ None of this improves system flow. It just distorts behaviour.
 
 ## What Should You Measure Instead?
 
+> At the end of the day, the Kanban Method (as opposed to kanban) is designed to improve flow (basically Process Cycle Efficiency) by improving throughput (units per unit time) by removing constraints (which includes bottlenecks) in the system. Make the system more effective by making it more efficient. - Nigel Thurlow
+
 If you want to improve flow, focus on:
 
-- **System-wide cycle time**—how long work takes from start to finish, across the entire value stream.
+- **customer lead time (time to market)**—the total time from when work is requested to when it is delivered to the customer.
 - **Work in progress (WIP) limits**—to reduce bottlenecks and improve flow.
-- **Flow efficiency**—the ratio of active work time to waiting time.
+- **Process Cycle Efficiency (PCE)**—the ratio of active work time to waiting time.
 - **Bottlenecks and blockers**—to identify systemic constraints.
 - **Throughput**—the rate at which work is actually completed.
 
