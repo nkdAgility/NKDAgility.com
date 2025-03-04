@@ -1,95 +1,47 @@
+# Install and import PSAuthClient from GitHub
+if (-not (Get-Module -ListAvailable -Name PSAuthClient)) {
+    Write-Host "Installing PSAuthClient module..."
+    Install-Module -Name PSAuthClient
+}
+Import-Module PSAuthClient
+
 # Canva API Credentials (Update these)
 $client_id = $env:CANVA_CLIENT_ID
 $client_secret = $env:CANVA_CLIENT_SECRET
 $redirect_uri = "http://127.0.0.1:3001/oauth/redirect"
 $scope = [System.Web.HttpUtility]::UrlEncode("design:content:read design:meta:read design:content:write asset:read asset:write brandtemplate:meta:read brandtemplate:content:read profile:read")
+$authorization_endpoint = "https://api.canva.com/oauth2/authorize"
+$token_endpoint = "https://api.canva.com/oauth2/token"
 
 $brand_template_id = "EAGgqamzX28" # Replace with your actual template ID
 
-############################################
-# FUNCTION: Generate Authorization Code and Save to Environment Variable
-############################################
-function Get-AuthorizationCode {
-    # Generate a random `code_verifier`
-    $code_verifier = -join ((48..57) + (65..90) + (97..122) | Get-Random -Count 64 | % { [char]$_ })
 
-    # Convert `code_verifier` to a SHA256 hashed `code_challenge`
-    $code_challenge = [Convert]::ToBase64String([System.Security.Cryptography.SHA256]::Create().ComputeHash([System.Text.Encoding]::ASCII.GetBytes($code_verifier))).Replace("+", "-").Replace("/", "_").Replace("=", "")
-
-    # Save `code_verifier` for later use in token exchange
-    [System.Environment]::SetEnvironmentVariable("CANVA_CODE_VERIFIER", $code_verifier, "User")
-
-    # Construct the authorization URL
-    $auth_url = "https://api.canva.com/oauth2/authorize?client_id=$client_id&redirect_uri=$redirect_uri&response_type=code&scope=$scope&code_challenge=$code_challenge&code_challenge_method=S256"
-
-    Write-Host "`n🚀 Open this URL in your browser and authorize the app:"
-    Write-Host "$auth_url`n"
-
-    # Prompt user to enter the authorization code manually
-    $auth_code = Read-Host "🔑 Enter the authorization code after authorization"
-
-    # Save authorization code to environment variable
-    [System.Environment]::SetEnvironmentVariable("CANVA_AUTH_CODE", $auth_code, "User")
-
-    return $auth_code
-}
-
-############################################
-# FUNCTION: Exchange Authorization Code for Access Token (Handles Refresh)
-############################################
 function Get-AccessToken {
-    $auth_code = $env:CANVA_AUTH_CODE
-    $refresh_token = $env:CANVA_REFRESH_TOKEN
-    $code_verifier = $env:CANVA_CODE_VERIFIER
-
-    if ($refresh_token) {
-        Write-Host "Using refresh token to get new access token..."
-        $token_body = @{
-            client_id     = $client_id
-            client_secret = $client_secret
-            refresh_token = $refresh_token
-            grant_type    = "refresh_token"
-        } | ConvertTo-Json -Compress
+    $splat = @{
+        client_id        = $client_id
+        scope            = $scope
+        response_type    = "code"
+        redirect_uri     = $redirect_uri
+        customParameters = @{ }
     }
-    elseif ($auth_code -and $code_verifier) {
-        Write-Host "Using authorization code to get access token..."
-        $token_body = @{
-            client_id     = $client_id
-            code          = $auth_code
-            redirect_uri  = $redirect_uri
-            grant_type    = "authorization_code"
-            code_verifier = $code_verifier
-        } | ConvertTo-Json -Compress
+
+    $code = Invoke-OAuth2AuthorizationEndpoint -uri $authorization_endpoint @splat
+    $token = Invoke-OAuth2TokenEndpoint -uri $token_endpoint @code
+
+    if ($token -and $token.access_token) {
+        [System.Environment]::SetEnvironmentVariable("CANVA_ACCESS_TOKEN", $token.access_token, "User")
+        Write-Host "✅ Access Token Obtained Successfully!"
+        return $token.access_token
     }
     else {
-        Write-Host "No valid authorization code, code verifier, or refresh token found. Run Get-AuthorizationCode first."
-        exit
-    }
-
-    $token_url = "https://api.canva.com/oauth2/token"
-    $headers = @{ "Content-Type" = "application/json" }
-
-    try {
-        $response = Invoke-RestMethod -Uri $token_url -Method Post -Headers $headers -Body $token_body
-        $access_token = $response.access_token
-        $expires_in = $response.expires_in
-        $refresh_token = $response.refresh_token
-
-        [System.Environment]::SetEnvironmentVariable("CANVA_ACCESS_TOKEN", $access_token, "User")
-        [System.Environment]::SetEnvironmentVariable("CANVA_REFRESH_TOKEN", $refresh_token, "User")
-
-        Write-Host "Access Token Obtained Successfully (Expires in $expires_in seconds)"
-        return $access_token
-    }
-    catch {
-        Write-Host "Error obtaining access token: $_"
-        if ($_.Exception.Response) {
-            Write-Host "Response Code: $($_.Exception.Response.StatusCode.Value__)"
-            Write-Host "Response Message: $($_.Exception.Response.StatusDescription)"
-        }
-        exit
+        Write-Host "❌ Failed to obtain access token."
+        exit 1
     }
 }
+
+# Retrieve and store the access token
+$accessToken = Get-AccessToken
+
 
 ############################################
 # FUNCTION: Create and Wait for Autofill Completion
