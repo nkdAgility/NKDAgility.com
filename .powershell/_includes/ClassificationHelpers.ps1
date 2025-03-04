@@ -296,7 +296,7 @@ function Get-CategoryConfidenceWithChecksum {
             $count = 0
             foreach ($prompt in $prompts) {
                 $count++
-                Write-DebugLog "Processing Prompt [$count/$prompts.Count] | $(($count / $prompts.Count) * 100)%"
+                Write-DebugLog "Processing Prompt [$count/$($prompts.Count)] | $(($count / $prompts.Count) * 100)%"
                 #Write-Progress -Id 2 -Activity "Classification of $ClassificationType" -Status "Processing prompt [$count/$($prompts.count)]" -PercentComplete (($count / $prompts.count) * 100)
                 # Calls processing
                 $aiResponseJson = Get-OpenAIResponse -Prompt $prompt
