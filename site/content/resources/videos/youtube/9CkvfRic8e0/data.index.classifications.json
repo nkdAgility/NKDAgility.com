@@ -557,15 +557,6 @@
     "reasoning": "Content heavily discusses technical implementation and configuration of release management in TFS, with no clear focus on decision-making processes or related concepts.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:35:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses configuration and management of Team Foundation Server (TFS) and does not mention Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T11:35:48",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring release management in Team Foundation Server, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:38:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on configuring release management in Team Foundation Server (TFS) and does not mention Scrum principles, roles, events, or any related concepts. There is minimal alignment with Scrum themes, and the depth of discussion is limited to technical setup without any reference to Scrum practices.",
     "level": "Ignored"
   }
 }

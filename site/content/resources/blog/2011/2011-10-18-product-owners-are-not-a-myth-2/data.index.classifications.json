@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses the role of the Product Owner in Scrum, which is more focused on Agile methodologies rather than the comprehensive management of the application lifecycle.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T21:54:36",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the role of the Product Owner within the Scrum framework, including responsibilities, challenges, and the implications of having a Proxy Product Owner, which are central themes in Scrum discussions.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T03:05:38",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of the Product Owner in Scrum, with no mention of Artificial Intelligence or its application in Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:47:22",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses the role of the Product Owner, referencing the Scrum Guide and elaborating on responsibilities, challenges, and common practices within Scrum. It aligns well with key Scrum principles and provides a detailed examination of the Product Owner's role, including the implications of having a Proxy Product Owner and the necessity of support for backlog management. The depth of discussion is significant, covering both theoretical and practical aspects of Scrum implementation.",
+    "level": "Primary"
   }
 }

@@ -1250,15 +1250,6 @@
     "reasoning": "Content primarily discusses the qualifications and experiences of a trainer rather than focusing on throughput measurement or optimisation.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T19:02:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the qualifications of a trainer for a PSPO course, with no clear focus on Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T19:02:55",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the qualifications and experiences of a trainer, with no mention of AI, Agile methodologies, or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:19:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions the role of a Product Owner (PSPO) and touches on the importance of maximising value, which aligns with Scrum principles. However, it lacks detailed discussion on Scrum roles, events, or the framework itself, leading to a lower confidence score.",
+    "level": "Quaternary"
   }
 }

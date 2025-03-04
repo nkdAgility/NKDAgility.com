@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the use of Release Management in Visual Studio 2013 for automating deployment and testing, which aligns with the practices and tools involved in managing the application lifecycle.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T11:15:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses automated release management and testing processes in Visual Studio 2013, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T11:31:46",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses automated release management and testing processes in Visual Studio, with no clear focus on AI applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:37:44",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on automated release management and testing processes in Visual Studio 2013, with no direct mention of Scrum principles, roles, events, or artifacts. While it discusses aspects of project management related to software development, it does not align with the core themes of Scrum, such as iterative progress, team dynamics, or continuous improvement. The discussion is technical and specific to release management tools, lacking depth in Scrum-related topics.",
     "level": "Ignored"
   }
 }

@@ -1384,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum practices and the Definition of Ready, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:43:06",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 30,
+    "final_score": 81.0,
+    "reasoning": "The content explicitly discusses the concept of 'Definition of Ready' (DoR) within the context of Scrum, highlighting its implications for backlog items and team dynamics. It addresses the roles of team members in defining readiness, which aligns with Scrum principles. The depth of discussion is substantial, covering potential pitfalls and providing a structured approach to backlog item evaluation, thus demonstrating a strong alignment with Scrum practices.",
+    "level": "Primary"
   }
 }

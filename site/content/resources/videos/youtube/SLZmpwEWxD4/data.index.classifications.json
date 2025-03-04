@@ -1384,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Kanban strategy and team collaboration without any mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:48:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 50,
+    "final_score": 16.0,
+    "reasoning": "The content primarily focuses on Kanban strategies and does not discuss Scrum principles, roles, or events in any meaningful way. While it briefly mentions Scrum in the context of recommending flow metrics, this is not a primary focus and lacks depth. The overall discussion is centred around visualising work in a Kanban context, which is unrelated to the Scrum framework.",
+    "level": "Quinary"
   }
 }

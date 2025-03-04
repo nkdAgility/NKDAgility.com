@@ -20,8 +20,6 @@ aliasesArchive:
 - /resources/newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
 categories:
 - Scrum
-- Product Management
-- Social Technologies
 tags:
 - Agile Product Management
 - Agile Project Management

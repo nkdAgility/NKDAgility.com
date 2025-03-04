@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses organisational change and transformation within the Ghana Police Service, with a focus on leadership and frameworks rather than the lifecycle management of software applications.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T19:09:06",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content discusses the adoption of Scrum principles and frameworks in the context of organisational transformation within the Ghana Police Service, making Scrum a primary topic.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T19:09:15",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses organisational change and Scrum implementation within the Ghana Police Service, with no clear focus on Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:33:35",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content discusses Scrum in the context of organisational transformation within the Ghana Police Service, highlighting its framework and principles. While Scrum is mentioned and its relevance to change is explored, the primary focus is on broader organisational change rather than Scrum itself. The discussion includes references to Scrum roles and the Agility Path Guide, indicating a moderate level of depth and alignment with Scrum principles, but it is not the central theme of the content.",
+    "level": "Secondary"
   }
 }

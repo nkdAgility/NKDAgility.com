@@ -1387,11 +1387,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T09:33:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-04T10:38:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content does not discuss Scrum principles, practices, or frameworks, and instead focuses on governance and local optimisation, which are unrelated to Scrum.",
-    "level": "Ignored"
+    "final_score": 11.0,
+    "reasoning": "The content does not explicitly mention Scrum or its principles, roles, or events. While it discusses the concept of optimisation within a system, it does not align with Scrum's core themes of collaboration, iterative progress, or team dynamics. The discussion is more about governance and local optimisation rather than Scrum practices, resulting in a very low confidence score.",
+    "level": "Quinary"
   }
 }

@@ -350,15 +350,6 @@
     "reasoning": "Content heavily discusses Agile principles and practices, particularly in relation to Scrum, rather than focusing on the management of the application lifecycle.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Scrum mechanics and the challenges of adopting agile principles, indicating that Scrum is a significant theme, but it is not the sole focus.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T20:44:51",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile methodologies and organisational change without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:38:51",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content discusses various aspects of Scrum, including the importance of understanding agile principles beyond just the mechanics, which aligns with the Scrum framework. It mentions Scrum practices, such as empirical process control, and highlights the need for organisational change to truly embrace agility. The depth of discussion is significant, as it explores the challenges of adopting Scrum and the importance of team dynamics and collaboration. However, while Scrum is a primary focus, the content also touches on broader agile concepts, which slightly dilutes the score.",
+    "level": "Secondary"
   }
 }

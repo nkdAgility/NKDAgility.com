@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses an error related to configuring a build agent and troubleshooting steps, without a clear focus on the application lifecycle stages or management practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T23:15:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to the Build vNext Agent and Visual Studio, with no mention of Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T23:15:16",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to configuring a build agent and troubleshooting errors, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:35:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to the Build vNext Agent and Visual Studio, with no direct mentions of Scrum principles, roles, or practices. While it touches on project management tools, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is focused on troubleshooting rather than Scrum methodologies.",
     "level": "Ignored"
   }
 }

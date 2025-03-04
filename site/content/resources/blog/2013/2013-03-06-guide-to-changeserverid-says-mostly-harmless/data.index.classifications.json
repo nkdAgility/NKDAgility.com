@@ -350,15 +350,6 @@
     "reasoning": "The content discusses the ChangeServerId command in the context of managing TFS environments, which relates to application deployment and maintenance. However, it primarily focuses on specific technical issues rather than the broader principles of Application Lifecycle Management.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T19:23:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the ChangeServerId command and issues related to Team Foundation Server (TFS), with no mention of Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T01:37:03",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses TFS (Team Foundation Server) operations and issues related to GUIDs, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:42:05",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses the ChangeServerId command in the context of Team Foundation Server (TFS) and its implications for GUIDs during server upgrades. It does not mention Scrum principles, roles, events, or any related topics. The focus is on technical details specific to TFS rather than any Scrum framework or practices, resulting in a very low confidence score for alignment with the Scrum category.",
     "level": "Ignored"
   }
 }

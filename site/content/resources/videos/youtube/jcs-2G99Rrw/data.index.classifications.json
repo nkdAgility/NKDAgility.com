@@ -1384,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps and Agile practices without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:47:28",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 50,
+    "final_score": 61.0,
+    "reasoning": "The content briefly mentions Agile practices and the role of Azure DevOps in supporting agile teams, which aligns with Scrum principles. However, it primarily focuses on Azure DevOps and its features rather than discussing Scrum roles, events, or artifacts in detail. The discussion lacks depth on Scrum-specific topics, resulting in a moderate confidence score.",
+    "level": "Secondary"
   }
 }

@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses using PowerShell to interact with TFS and create teams, which is more focused on programming and scripting rather than the management of the application lifecycle.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T18:38:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses using PowerShell to interact with the TFS API and does not focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T19:34:39",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the use of PowerShell for .NET programming and TFS team creation, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:40:44",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on using PowerShell to interact with TFS (Team Foundation Server) and does not discuss Scrum principles, roles, events, or any related topics. While it mentions creating teams, it does not align with Scrum's framework or practices, making it largely irrelevant to the Scrum category.",
     "level": "Ignored"
   }
 }

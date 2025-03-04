@@ -40,8 +40,8 @@ resourceTypes:
 - video
 categories:
 - Product Management
-- Scrum
 - Social Technologies
+- Scrum
 
 ---
 ## What's a Sprint Goal and Why Does It Matter?

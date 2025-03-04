@@ -350,15 +350,6 @@
     "reasoning": "The content discusses the integration of SharePoint with Team Foundation Server (TFS), which is relevant to Application Lifecycle Management (ALM) as it touches on aspects of managing software applications, particularly in the context of collaboration and document management. However, the primary focus is on the technical integration process rather than a comprehensive discussion of ALM methodologies or practices.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content briefly mentions Scrum in the context of integrating SharePoint with Team Foundation Server, specifically referencing Scrum dashboards and reporting. However, the primary focus is on SharePoint and TFS integration rather than Scrum principles or practices.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T21:30:34",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration of SharePoint with Team Foundation Server, with no mention of Artificial Intelligence or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:39:09",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 50,
+    "final_score": 28.0,
+    "reasoning": "The content primarily focuses on integrating SharePoint with Team Foundation Server (TFS) and does not explicitly discuss Scrum principles, roles, or events. While there is a brief mention of the 'Visual Studio Scrum Process Template' and a reference to Scrum dashboards, these are secondary to the main topic of SharePoint integration. The discussion lacks depth in Scrum-related concepts and does not provide substantial insights into Scrum practices or frameworks.",
+    "level": "Quaternary"
   }
 }

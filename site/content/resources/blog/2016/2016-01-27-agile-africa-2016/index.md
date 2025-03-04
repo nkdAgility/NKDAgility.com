@@ -29,7 +29,6 @@ aliasesArchive:
 tags:
 - Events and Presentations
 categories:
-- Scrum
 - Social Technologies
 preview: clip_image001-1-2-2.jpg
 

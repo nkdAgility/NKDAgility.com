@@ -557,15 +557,6 @@
     "reasoning": "Content heavily discusses the role of a Scrum Master and emphasizes the importance of facilitation over micromanagement, without addressing decision-making processes or the principles of decision theory.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:21:54",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the role of a Scrum Master, focusing on the principles of facilitation, empowerment, and team dynamics within the Scrum framework.",
-    "level": "Secondary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T10:21:54",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of a Scrum Master in Agile methodologies, with no mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:25:25",
+    "ai_confidence": 78.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses the role of a Scrum Master, which is a key aspect of the Scrum framework. It addresses the misconception of micromanagement in the context of Scrum, aligning well with the principles of team dynamics and self-organisation. The depth of the discussion is significant, as it provides insights into the responsibilities of a Scrum Master and the impact of micromanagement on team effectiveness. However, it does not delve into other Scrum roles, events, or artifacts, which slightly lowers the overall alignment score.",
+    "level": "Secondary"
   }
 }

@@ -1,13 +1,4 @@
 {
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T15:58:26",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the role of the Scrum Master in managing team conflict, which is a significant aspect of Scrum, but it also touches on broader agile concepts and mentions DevOps, making Scrum a secondary theme.",
-    "level": "Tertiary"
-  },
   "Kanban": {
     "category": "Kanban",
     "calculated_at": "2025-02-17T15:58:27",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:15:35",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 65.0,
+    "reasoning": "The content explicitly mentions the role of the Scrum Master in managing team conflict, which is a key aspect of the Scrum framework. It discusses the importance of addressing disagreements within the team, aligning with Scrum principles of team dynamics and collaboration. However, the depth of discussion is somewhat limited, focusing primarily on conflict rather than a broader exploration of Scrum roles, events, or artifacts. The mention of 'agile' and 'DevOps' at the end indicates a slight deviation from a strict Scrum focus, but the primary emphasis remains on Scrum-related practices.",
+    "level": "Secondary"
   }
 }

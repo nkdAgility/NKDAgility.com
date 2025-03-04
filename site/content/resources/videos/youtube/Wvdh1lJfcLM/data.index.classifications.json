@@ -1384,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses migration services from TFS to Azure DevOps without any mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:46:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 50,
+    "final_score": 34.0,
+    "reasoning": "The content briefly mentions Scrum in the context of migrating from TFS to Azure DevOps, specifically in relation to changing process templates. However, the primary focus is on migration services and tools rather than Scrum principles or practices. The discussion lacks depth regarding Scrum roles, events, or empirical process control, which are core themes of the category. Therefore, while there are mentions of Scrum, they are secondary to the main topic of migration.",
+    "level": "Quaternary"
   }
 }

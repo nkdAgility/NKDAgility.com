@@ -1367,15 +1367,6 @@
     "reasoning": "Content primarily discusses the Gartner's Hype Cycle and personal opinions on Agile and Scrum, without focusing on the principles or implementation of the One Engineering System.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T20:55:18",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses perceptions of Scrum within the context of Agile methodologies, indicating that Scrum is a significant theme, but it is not the primary focus of the discussion.",
-    "level": "Tertiary"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:54:50",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile methodologies and the Hype Cycle, with no mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:20:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 2,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 50,
+    "final_score": 34.0,
+    "reasoning": "The content briefly mentions Scrum in the context of disillusionment and expectations surrounding Agile methodologies. However, it does not delve into specific Scrum roles, events, or practices, which are essential for a strong alignment with the Scrum category. The discussion is more focused on general perceptions of Agile rather than the Scrum framework itself.",
+    "level": "Quaternary"
   }
 }

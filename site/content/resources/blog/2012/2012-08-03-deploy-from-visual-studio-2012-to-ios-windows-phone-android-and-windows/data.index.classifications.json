@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the capabilities and benefits of using Visual Studio for deploying applications across multiple platforms, highlighting aspects of the application lifecycle such as development, deployment, and maintenance. It also touches on the integration of tools like Team Foundation Server and Team Foundation Build, which are relevant to ALM practices.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T20:01:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses application development and deployment across multiple platforms, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T21:30:57",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses application deployment across multiple platforms using Visual Studio, with no mention of AI or its integration in Agile or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:44:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses application development and deployment across various platforms using Visual Studio, with no direct references to Scrum principles, roles, events, or artifacts. While it touches on aspects of Agile methodologies, such as delivering value quickly, it lacks a focused discussion on Scrum as a framework or its specific practices.",
     "level": "Ignored"
   }
 }

@@ -37,6 +37,7 @@ resourceTypes:
 - video
 categories:
 - Social Technologies
+- Scrum
 
 ---
 **How does someone become an Agile consultant?**

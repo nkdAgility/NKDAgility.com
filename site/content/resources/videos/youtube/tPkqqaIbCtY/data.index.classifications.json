@@ -1384,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses user engagement and product perception, with no mention of AI, Agile methodologies, or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:52:25",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content does not explicitly mention Scrum or its core components. While it touches on user engagement and product perception, it lacks direct references to Scrum roles, events, or principles. The discussion is more focused on user experience rather than Scrum practices, resulting in a low confidence score.",
+    "level": "Quinary"
   }
 }

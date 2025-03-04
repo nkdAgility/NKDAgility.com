@@ -1151,15 +1151,6 @@
     "reasoning": "The content primarily discusses the importance of team dynamics, cross-functional teams, and the impact of structured methodologies on software delivery, which aligns closely with the themes of collaboration and process improvement in Agile environments.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-13T22:01:09",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses Scrum principles, including the importance of cross-functional teams, working software at the end of each iteration, and the role of testing within Sprints, aligning closely with Scrum practices.",
-    "level": "Secondary"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
     "calculated_at": "2025-02-13T22:01:11",
@@ -1393,5 +1384,17 @@
     "final_score": 1.0,
     "reasoning": "Content heavily discusses Agile methodologies and delivery processes without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:30:35",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 34,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses Scrum principles, particularly focusing on the importance of cross-functional teams, iterative delivery, and the need for working software at the end of each Sprint. It critiques staggered iterations and aligns with Scrum's emphasis on collaboration and continuous improvement. The mention of Scrum roles and the reference to the 2020 Scrum Guide further solidify its relevance to the Scrum category. However, while the content is rich in detail, it could benefit from a more structured exploration of Scrum events and artifacts to achieve a perfect alignment score.",
+    "level": "Primary"
   }
 }

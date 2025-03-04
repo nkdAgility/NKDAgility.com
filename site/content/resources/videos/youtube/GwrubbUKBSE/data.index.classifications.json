@@ -44,15 +44,6 @@
     "reasoning": "The content primarily invites questions on various topics, including DevOps and Agility, without a clear focus on product management strategies or methodologies.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:46:48",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions Scrum in the context of a professional trainer, indicating a significant but secondary theme related to Scrum principles and practices.",
-    "level": "Tertiary"
-  },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
     "calculated_at": "2025-02-18T11:46:49",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses general topics related to DevOps and Agile without a specific focus on the application of AI.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:32:09",
+    "ai_confidence": 35.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 50,
+    "final_score": 36.0,
+    "reasoning": "The content briefly mentions Scrum in the context of a Professional Scrum Trainer, but it does not delve into any specific Scrum principles, roles, or practices. The focus is more on a general Q&A format that includes various topics, including DevOps and Agility, which dilutes the emphasis on Scrum itself.",
+    "level": "Quaternary"
   }
 }

@@ -34,9 +34,9 @@ tags:
 - Large Scale Agility
 - Resilience and Change
 categories:
-- Scrum
 - Engineering Excellence
 - Social Technologies
+- Scrum
 preview: nkdAgility-dod-change-procurement-agile-wide-15-15.jpg
 
 ---

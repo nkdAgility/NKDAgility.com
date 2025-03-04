@@ -1331,15 +1331,6 @@
     "reasoning": "The content discusses the role of an agile coach in fostering team autonomy and understanding of agile principles, which relates to leadership in an Agile context, but it primarily focuses on coaching practices rather than leadership strategies.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T15:44:10",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions Scrum principles and discusses the importance of understanding various agile practices, including Scrum, but it is primarily focused on the role of an agile coach and not exclusively on Scrum.",
-    "level": "Tertiary"
-  },
   "Beta Codex": {
     "category": "Beta Codex",
     "calculated_at": "2025-02-17T15:44:11",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile coaching and practices without any mention of AI or its integration in Agile methodologies.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:14:55",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 50.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 50,
+    "final_score": 61.0,
+    "reasoning": "The content mentions Scrum explicitly as a preferred practice of the author, indicating a direct mention. It discusses the importance of understanding Scrum principles within the broader context of agile coaching, which aligns with the core themes of Scrum, particularly the emphasis on principles and practices. However, the focus is more on agile coaching and the concept of agnosticism in practice rather than a deep dive into Scrum itself, which slightly lowers the depth score.",
+    "level": "Secondary"
   }
 }

@@ -36,7 +36,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 **Can organisations run an Applying Professional Scrum workshop? How would that help them?**

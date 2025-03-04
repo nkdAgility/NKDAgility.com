@@ -20,7 +20,8 @@ card:
     content: Learn More
   content: Discover more about Emergant Practices and how it can help you in your Agile journey!
   title: Emergant Practices
-categories: []
+categories:
+- Scrum
 tags:
 - Discovery and Learning
 - People and Process

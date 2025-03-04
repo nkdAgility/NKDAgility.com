@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses technical issues and solutions related to migrating from Subversion to TFS, rather than providing industry news or reviews.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T22:11:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to migrating from Subversion to Team Foundation Server, focusing on conflict resolution and technical challenges, with no mention of Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T02:06:40",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to migrating from Subversion to Team Foundation Server, focusing on conflict resolution and migration tools, with no mention of AI or its applications.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:47:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses issues related to migrating from Subversion to Team Foundation Server, focusing on conflict resolution during the migration process. There are no direct mentions of Scrum principles, roles, events, or practices. The content does not align with the core themes of Scrum, such as team dynamics, iterative progress, or continuous improvement. Overall, the discussion is technical and specific to migration challenges, which is unrelated to Scrum.",
     "level": "Ignored"
   }
 }

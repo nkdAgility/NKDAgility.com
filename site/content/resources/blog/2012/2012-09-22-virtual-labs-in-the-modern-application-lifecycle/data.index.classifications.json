@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the role of virtual labs in the application lifecycle, addressing challenges and solutions related to development, deployment, and testing, which are key aspects of Application Lifecycle Management.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T17:06:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses virtual labs and their role in modern application development, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T17:06:25",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses virtual labs and their integration in the application lifecycle, without a clear focus on the application of AI in Agile, DevOps, or software development.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:43:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses virtual labs and their role in modern application development, focusing on operational challenges and automation rather than Scrum principles, roles, or events. While it touches on team dynamics and the need for collaboration, it does not explicitly mention Scrum or its framework, leading to a low confidence score.",
+    "level": "Quinary"
   }
 }

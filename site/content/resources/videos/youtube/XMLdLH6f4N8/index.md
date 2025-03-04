@@ -32,7 +32,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Scrum
 - Leadership
 - Social Technologies
 

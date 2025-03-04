@@ -350,15 +350,6 @@
     "reasoning": "Content primarily focuses on the installation process of Visual Studio 2013 and does not discuss the management of software applications or the application lifecycle.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T18:26:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the installation process of Visual Studio 2013 and does not mention Scrum principles, roles, events, or any related topics.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T20:08:46",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2013 and does not relate to Artificial Intelligence or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:40:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2013 and does not mention any Scrum principles, roles, events, or practices. There is no discussion of Agile methodologies or team dynamics, which are core to the Scrum framework. The content is entirely technical and unrelated to Scrum, resulting in a very low confidence score.",
     "level": "Ignored"
   }
 }

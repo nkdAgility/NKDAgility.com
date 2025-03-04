@@ -1349,15 +1349,6 @@
     "reasoning": "Content primarily discusses Agile Consulting versus Agile Coaching, focusing on leadership and internal change rather than the principles or implementation of the One Engineering System.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T08:27:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Agile Consulting and Coaching, with mentions of Scrum roles and training, but the primary focus is on the differences between consulting and coaching rather than Scrum principles or practices.",
-    "level": "Tertiary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T08:27:41",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile consulting and coaching without any mention of Artificial Intelligence or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:26:46",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 50,
+    "final_score": 46.0,
+    "reasoning": "The content discusses agile consulting and coaching, with some references to Scrum roles like Scrum Masters. However, it primarily focuses on the differences between consulting and coaching rather than the Scrum framework itself. While there are mentions of Scrum Masters and the challenges faced by organisations in adopting agile practices, the discussion lacks depth on Scrum principles, events, and artifacts, leading to a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

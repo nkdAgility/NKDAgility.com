@@ -1331,15 +1331,6 @@
     "reasoning": "Content primarily discusses Evidence-Based Management and Agile Leadership training, with no clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-13T21:50:37",
-    "ai_confidence": 70,
-    "non_ai_confidence": 30,
-    "final_score": 66.0,
-    "reasoning": "The content discusses Evidence-Based Management in the context of Scrum and Agile Leadership, making Scrum a significant theme, though it also touches on broader leadership concepts.",
-    "level": "Secondary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-17T09:08:35",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Evidence-Based Management and Agile leadership training, with no clear focus on Artificial Intelligence applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:29:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 30,
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the Professional Agile Leadership with Evidence-Based Management Training, which is closely tied to Scrum principles and practices. It mentions Scrum.org and the role of Evidence-Based Management in the context of Scrum, indicating a strong focus on Scrum-related topics. The discussion includes the importance of vision and strategic goals, which aligns with Scrum's emphasis on team dynamics and continuous improvement. However, while it provides substantial detail about the training and its implications for leadership, it does not delve deeply into the specific Scrum roles, events, or artifacts, which slightly lowers the depth score.",
+    "level": "Secondary"
   }
 }

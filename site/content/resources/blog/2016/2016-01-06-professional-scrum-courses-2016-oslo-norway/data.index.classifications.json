@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses Scrum courses and training, which are not directly related to the management of software applications throughout their lifecycle.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T21:48:18",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses Professional Scrum courses, focusing on the roles and skills necessary for Scrum Masters and Developers, which aligns with Scrum principles and practices.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T21:48:27",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum courses and methodologies without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:34:21",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on Professional Scrum courses, explicitly mentioning the roles of Scrum Masters and Developers, which aligns well with the Scrum framework. It discusses advanced topics relevant to Scrum Mastery and the skills necessary for effective Scrum implementation. However, while it provides a good level of detail about the courses, it lacks a broader discussion on Scrum principles and practices, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   }
 }

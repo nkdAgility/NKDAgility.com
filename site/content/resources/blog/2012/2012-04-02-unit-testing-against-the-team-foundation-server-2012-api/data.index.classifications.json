@@ -350,15 +350,6 @@
     "reasoning": "Content primarily focuses on unit testing and authentication issues related to the Team Foundation Server API, without discussing the broader aspects of application lifecycle management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T20:41:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses unit testing and authentication issues related to the Team Foundation Server API, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T20:41:44",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses unit testing and authentication issues related to Team Foundation Server, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:45:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on unit testing and integration with Team Foundation Server (TFS), with no direct mention of Scrum principles, roles, events, or artifacts. While it discusses aspects of software development, it does not align with the core themes of Scrum, such as iterative progress, team dynamics, or continuous improvement. The depth of discussion is also limited to technical implementation details rather than Scrum practices.",
+    "level": "Quinary"
   }
 }

@@ -39,7 +39,6 @@ resourceTypes:
 - video
 categories:
 - Social Technologies
-- Scrum
 
 ---
 One of the most rewarding aspects of teaching Scrum is watching students _truly_ absorb what they’re learning. But let’s be honest, traditional learning methods can sometimes feel overwhelming, especially in intensive courses. Have you ever heard the term “drinking from a fire hose”? It’s a phrase I hear often in relation to training, and I’ll admit, it’s accurate.

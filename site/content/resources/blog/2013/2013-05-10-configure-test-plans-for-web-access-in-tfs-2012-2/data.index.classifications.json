@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses configuring Test Plans within TFS, which is a tool used in the application lifecycle management process. It addresses aspects of application governance, configuration management, and the integration of teams within the application lifecycle, making it a central theme.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T18:50:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "The content primarily discusses configuring Test Plans in TFS 2012.2 and does not focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T19:44:32",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring Test Plans in TFS 2012.2, with no mention of AI or its application in Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:40:59",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 50,
+    "final_score": 18.0,
+    "reasoning": "The content primarily focuses on configuring Test Plans in TFS 2012.2, with only brief mentions of teams and their configurations. While it touches on aspects relevant to team dynamics, it lacks a comprehensive discussion of Scrum principles, roles, events, or artifacts. The connection to Scrum is minimal and does not delve into the core themes of the Scrum framework.",
+    "level": "Quinary"
   }
 }

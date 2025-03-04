@@ -295,7 +295,7 @@ function Get-CategoryConfidenceWithChecksum {
             $count = 0
             foreach ($prompt in $prompts) {
                 $count++
-                Write-Progress -Id 2 -Activity "Classification of $ClassificationType" -Status "Processing prompt [$count/$($prompts.count)]" -PercentComplete (($count / $prompts.count) * 100)
+                #Write-Progress -Id 2 -Activity "Classification of $ClassificationType" -Status "Processing prompt [$count/$($prompts.count)]" -PercentComplete (($count / $prompts.count) * 100)
                 # Calls processing
                 $aiResponseJson = Get-OpenAIResponse -Prompt $prompt
                 $result = Get-ConfidenceFromAIResponse -AIResponseJson $aiResponseJson -ResourceTitle $ResourceTitle -ResourceContent $ResourceContent
@@ -311,7 +311,7 @@ function Get-CategoryConfidenceWithChecksum {
                     exit
                 }               
             }
-            Write-Progress -Id 2 -Activity "All Tasks Complete" -Completed
+            #Write-Progress -Id 2 -Activity "All Tasks Complete" -Completed
         }
     }
 
@@ -476,12 +476,11 @@ function Get-ConfidenceFromAIResponse {
 function Remove-ClassificationsFromCache {
     param (
         [string[]]$ClassificationsToRemove,
-        [string]$CacheFolder,
-        [string]$ClassificationType = "classification"
+        [string]$CacheFolder
     )
 
     # Construct the cache file path
-    $cacheFile = Join-Path $CacheFolder "data.index.$ClassificationType.json"
+    $cacheFile = Join-Path $CacheFolder "data.index.classifications.json"
 
     # Check if the cache file exists
     if (!(Test-Path $cacheFile)) {
@@ -575,3 +574,5 @@ function Remove-ClassificationsFromCacheThatLookBroken {
         Write-WarningLog "No classifications were removed. Cache remains unchanged."
     }
 }
+
+

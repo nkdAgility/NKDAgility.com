@@ -45,8 +45,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Scrum
 - Social Technologies
+- Scrum
 
 ---
 **1 critical skill for a Scrum Master and why?**

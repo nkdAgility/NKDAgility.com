@@ -44,15 +44,6 @@
     "reasoning": "The content discusses various aspects of Agile and Scrum frameworks, including the integration of UX into product development, team collaboration, and the importance of feedback loops, which are central to product management. However, it also includes significant detail on technical implementation and personal experiences, making product management a major but secondary theme.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:46:51",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses Scrum principles, roles, and practices, particularly in the context of remote work and team dynamics, making it a central theme.",
-    "level": "Secondary"
-  },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
     "calculated_at": "2025-02-18T12:23:14",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses remote work, Agile methodologies, and team collaboration without a clear focus on the application of AI in these contexts.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:32:12",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content discusses various aspects of Scrum, including roles, values, and practices, particularly in the context of remote work. It mentions Scrum events and the importance of team collaboration, which aligns well with Scrum principles. The depth of discussion is significant, covering topics like UX integration and team dynamics, but it also includes some tangential references to other methodologies, which slightly detracts from its focus on Scrum.",
+    "level": "Secondary"
   }
 }

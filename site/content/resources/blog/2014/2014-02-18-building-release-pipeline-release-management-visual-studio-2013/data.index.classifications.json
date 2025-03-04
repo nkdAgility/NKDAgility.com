@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the release management process within the context of Application Lifecycle Management, detailing stages, best practices, and tools that support the application lifecycle, particularly focusing on continuous delivery and the integration of development and operations.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T11:10:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses release management and continuous delivery practices, with no clear focus on Scrum principles, roles, events, or artifacts.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T20:21:25",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses release management and DevOps practices without any mention of AI or its applications in Agile methodologies.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:37:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses release management and continuous delivery within the context of Visual Studio 2013, with no explicit mention of Scrum roles, events, or artifacts. While it touches on agile principles, it does not delve into Scrum-specific practices or frameworks, leading to a low confidence score.",
+    "level": "Quinary"
   }
 }

@@ -1250,15 +1250,6 @@
     "reasoning": "Content heavily discusses Sprint goals and their connection to product vision, without focusing on throughput or its measurement and optimisation.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T23:16:37",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the concept of Sprint goals, which is a key aspect of the Scrum framework, and connects it to the overall strategic goals of the product.",
-    "level": "Secondary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T23:16:39",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:23:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the concept of a Sprint goal, which is a key element of the Scrum framework. It highlights the connection between Sprint goals and the overall product vision, indicating an understanding of Scrum principles. However, the discussion is somewhat limited in scope, focusing primarily on the relationship between goals rather than providing a comprehensive overview of Scrum roles, events, or practices. This results in a moderate confidence score, reflecting a primary focus on Scrum but lacking depth in broader Scrum concepts.",
+    "level": "Secondary"
   }
 }

@@ -1331,15 +1331,6 @@
     "reasoning": "Content heavily discusses leadership roles in Scrum and management practices, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-13T21:51:25",
-    "ai_confidence": 70,
-    "non_ai_confidence": 50,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the role of the Scrum Master as a leadership position within the Scrum framework, highlighting its importance in supporting the Scrum Team and the organisation. However, the primary focus is on leadership in general rather than exclusively on Scrum principles.",
-    "level": "Secondary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-17T09:08:36",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses leadership roles and Scrum practices without any mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:30:01",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the role of the Scrum Master as a leadership position, which directly relates to Scrum principles. It mentions the Scrum Master’s responsibilities and contrasts them with traditional management roles, aligning with the Scrum framework's emphasis on leadership and team dynamics. However, while it touches on Scrum concepts, the overall focus is more on leadership in a general sense rather than a deep dive into Scrum practices, which slightly lowers the confidence score.",
+    "level": "Secondary"
   }
 }

@@ -42,7 +42,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 What is the most common Aha moment people have in a scrum course?

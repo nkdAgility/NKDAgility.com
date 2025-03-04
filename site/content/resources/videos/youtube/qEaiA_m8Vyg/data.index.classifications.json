@@ -1367,15 +1367,6 @@
     "reasoning": "Content primarily discusses immersive learning experiences and does not focus on the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T20:51:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses learning methodologies and includes references to Agile and Scrum, but it primarily focuses on immersive learning experiences rather than Scrum principles or practices.",
-    "level": "Tertiary"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:54:46",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive learning experiences and does not relate to Artificial Intelligence, Agile methodologies, or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:20:54",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 30,
+    "final_score": 44.0,
+    "reasoning": "The content briefly mentions Agile and Scrum towards the end, indicating a connection to the Scrum framework. However, the primary focus is on immersive learning experiences rather than Scrum principles or practices. While there are references to continuous feedback loops and collaboration, which align with Scrum values, the depth of discussion on Scrum itself is limited.",
+    "level": "Tertiary"
   }
 }

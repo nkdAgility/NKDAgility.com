@@ -350,15 +350,6 @@
     "reasoning": "The content discusses process templates relevant to Agile and Scrum methodologies, which, while important for application lifecycle management, primarily focus on the Scrum framework rather than the overall lifecycle management of applications. There is a significant emphasis on the implementation of team processes rather than managing the entire application lifecycle stages.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T21:46:46",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the Scrum template for project management, comparing it with other templates and emphasizing the advantages of adopting Scrum principles in team projects.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T08:56:37",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile and Scrum process templates without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:33:56",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses the Scrum template in detail, comparing it with Agile and CMMI templates, and highlights the advantages of using the Scrum framework. It covers key aspects of Scrum, such as its principles and practices, and provides insights into customising the Scrum template for better alignment with agile practices. The primary focus is on Scrum, fulfilling the classification criteria effectively.",
+    "level": "Primary"
   }
 }

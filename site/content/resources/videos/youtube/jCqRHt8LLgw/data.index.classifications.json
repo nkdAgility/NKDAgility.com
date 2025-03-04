@@ -44,15 +44,6 @@
     "reasoning": "The content primarily invites questions on various topics, including DevOps and Agility, without a focused discussion on product management strategies or methodologies.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:46:34",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions Scrum and features a Professional Scrum Trainer, indicating a significant but secondary theme related to Scrum within a broader context of DevOps and Agility.",
-    "level": "Tertiary"
-  },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
     "calculated_at": "2025-02-18T12:23:08",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps and Agile topics without a clear focus on Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:31:45",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content discusses various aspects of Scrum, including roles, team sizes, and the use of story points, which are central to Scrum practices. It provides a detailed examination of story points and team dynamics, aligning well with Scrum principles. However, it also diverges into discussions about emergent architecture and other agile practices, which slightly detracts from its focus on Scrum specifically.",
+    "level": "Secondary"
   }
 }

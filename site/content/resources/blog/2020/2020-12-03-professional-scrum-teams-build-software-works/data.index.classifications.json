@@ -1151,15 +1151,6 @@
     "reasoning": "The content primarily discusses the roles and responsibilities of Scrum teams, the importance of quality in software development, and the accountability of developers and leadership in the process. It emphasises team dynamics, the need for collaboration, and the impact of organisational culture on software quality, aligning well with the 'People and Process' category.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-13T22:09:58",
-    "ai_confidence": 90,
-    "non_ai_confidence": 50,
-    "final_score": 86.0,
-    "reasoning": "Content primarily discusses the roles, responsibilities, and practices of Scrum teams, emphasising the importance of quality in software delivery and the accountability of Developers and the Product Owner within the Scrum framework.",
-    "level": "Primary"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
     "calculated_at": "2025-02-13T22:10:00",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on software quality and accountability rather than the application of AI in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:30:40",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 38,
+    "ai_depth": 36,
+    "non_ai_confidence": 50,
+    "final_score": 88.0,
+    "reasoning": "The content extensively discusses various aspects of Scrum, including the roles of Developers and Product Owners, the importance of delivering quality software, and the accountability of Scrum Teams. It directly references Scrum events like Sprint Reviews and emphasises the need for continuous improvement, aligning well with Scrum principles. The depth of discussion is significant, providing insights into the implications of quality in software delivery and the responsibilities of team members within the Scrum framework.",
+    "level": "Primary"
   }
 }

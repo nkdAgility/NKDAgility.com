@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses upgrading to Visual Studio 11 and Team Foundation Server, with a focus on Scrum Health Check, rather than the comprehensive management of the application lifecycle.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content mentions a 'Scrum Health Check' and discusses helping teams understand their Scrum practices, indicating that Scrum is a significant theme, but the primary focus is on Visual Studio and its upgrade process.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T22:04:53",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio 11 and Scrum Health Check, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:45:46",
+    "ai_confidence": 35.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 34.0,
+    "reasoning": "The content briefly mentions a 'Scrum Health Check' but does not delve into Scrum principles, roles, or practices in detail. While it indicates a connection to Scrum, the primary focus is on Visual Studio 11 and its upgrade process, making Scrum a secondary topic rather than a primary focus.",
+    "level": "Quaternary"
   }
 }

@@ -1384,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile practices and risk management without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:51:24",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content discusses various aspects of Scrum, particularly focusing on the concept of Sprints and the implications of special Sprints on agile practices. It directly mentions Scrum principles, such as the importance of delivering usable working products and managing risk through iterative processes. The depth of discussion is significant, as it provides a detailed example from the Azure DevOps team, illustrating the challenges and lessons learned in a Scrum context. However, while it aligns well with Scrum principles, it also critiques certain practices, which may slightly detract from its alignment with the core Scrum framework.",
+    "level": "Secondary"
   }
 }

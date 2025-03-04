@@ -1387,11 +1387,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T09:34:00",
-    "ai_confidence": 1,
+    "calculated_at": "2025-03-04T10:38:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 8,
     "non_ai_confidence": 0,
-    "final_score": 1.0,
-    "reasoning": "The content discusses architectural changes and team efforts but does not focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the need for architectural adaptation in response to changing demands, which aligns with Agile principles of responding to change. However, it lacks explicit mentions of Scrum roles, events, or artifacts, and does not delve deeply into Scrum practices. The focus is more on architectural changes rather than Scrum-specific methodologies, leading to a lower confidence score.",
+    "level": "Quaternary"
   }
 }

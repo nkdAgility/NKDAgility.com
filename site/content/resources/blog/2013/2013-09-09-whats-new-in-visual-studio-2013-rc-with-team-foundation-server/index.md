@@ -36,9 +36,9 @@ tags:
 - Azure DevOps
 - Agile Planning Tools
 categories:
-- Scrum
 - DevOps
 - Engineering Excellence
+- Social Technologies
 preview: nakedalm-experts-visual-studio-alm-13-13.png
 
 ---

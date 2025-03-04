@@ -557,15 +557,6 @@
     "reasoning": "Content primarily discusses the role of a consultant in DevOps, focusing on optimizing processes rather than decision-making theories or frameworks.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T08:37:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses DevOps consulting without a clear focus on Scrum principles or practices. Although Scrum is mentioned briefly at the end, it is not central to the discussion.",
-    "level": "Ignored"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T08:37:38",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps consulting roles and challenges without a focus on AI applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:24:54",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 30,
+    "final_score": 26.0,
+    "reasoning": "The content primarily discusses DevOps and the role of a consultant in optimising workflows, with only a brief mention of Agile and Scrum at the end. The main focus is on identifying bottlenecks in the DevOps process rather than on Scrum principles, roles, or events. While there is a slight conceptual alignment with Agile principles, the depth of discussion on Scrum is minimal, leading to a low confidence score.",
+    "level": "Quaternary"
   }
 }

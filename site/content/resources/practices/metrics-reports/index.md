@@ -26,8 +26,8 @@ card:
   title: Metrics and Reports
 categories:
 - Product Management
-- Scrum
 - Engineering Excellence
+- Scrum
 tags:
 - Metrics and Learning
 - Transparency

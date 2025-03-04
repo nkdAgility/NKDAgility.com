@@ -44,15 +44,6 @@
     "reasoning": "The content primarily invites questions on various topics, including DevOps and Agility, without a clear focus on product management strategies or methodologies.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:46:26",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions Scrum and features a Professional Scrum Trainer, indicating a significant but secondary theme related to Scrum within a broader context of DevOps and Agility.",
-    "level": "Tertiary"
-  },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
     "calculated_at": "2025-02-18T12:22:54",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a Q&A session on DevOps and Agile topics without a specific focus on Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:31:32",
+    "ai_confidence": 85.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 50,
+    "final_score": 82.0,
+    "reasoning": "The content extensively discusses various aspects of Scrum, including the definition of done, spikes versus refinement, and managing ad hoc work within a sprint. It provides detailed explanations of Scrum roles, events, and artifacts, demonstrating a strong alignment with Scrum principles. The depth of discussion is significant, as it addresses common misconceptions and practical applications of Scrum concepts, indicating a primary focus on the Scrum framework.",
+    "level": "Primary"
   }
 }

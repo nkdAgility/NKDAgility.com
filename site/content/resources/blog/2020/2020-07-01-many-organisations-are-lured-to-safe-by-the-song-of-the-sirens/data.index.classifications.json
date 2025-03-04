@@ -1151,15 +1151,6 @@
     "reasoning": "The content primarily discusses the implications of adopting frameworks like SAFe on organisational behaviour and culture, highlighting the importance of understanding business agility and the human factors involved in process transformation.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T09:24:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the Scaled Agile Framework (SAFe) and critiques its rigidity, without a clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
     "calculated_at": "2025-02-17T09:08:38",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the Scaled Agile Framework (SAFe) and its implications for business agility, without any mention of Artificial Intelligence or its applications in Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:31:15",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily critiques the Scaled Agile Framework (SAFe) and discusses the rigidity of traditional practices, without directly addressing Scrum principles, roles, or events. While it touches on themes of agility and organisational change, it does not provide substantial discussion on Scrum itself, leading to a low confidence score.",
+    "level": "Quinary"
   }
 }

@@ -38,8 +38,8 @@ resourceTypes:
 - video
 categories:
 - Leadership
-- Scrum
 - Social Technologies
+- Scrum
 
 ---
 **Why is becoming a Scrum Master a great career option?**

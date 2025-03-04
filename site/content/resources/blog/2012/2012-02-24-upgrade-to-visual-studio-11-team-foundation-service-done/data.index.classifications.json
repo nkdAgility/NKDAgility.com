@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the transition to Visual Studio 11 Team Foundation Service, which is closely related to Application Lifecycle Management practices, including source control, work item tracking, and cloud solutions for managing software applications.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T20:59:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Visual Studio 11 Team Foundation Server and its features, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T10:28:35",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and benefits of Visual Studio 11 Team Foundation Service, with no mention of Artificial Intelligence or its application in Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:46:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 5,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Visual Studio 11 Team Foundation Server and its features, with only brief mentions of Agile concepts and work item tracking. While it touches on aspects relevant to project management, it does not delve into Scrum principles, roles, events, or artifacts, which are central to the Scrum framework. The discussion lacks depth in Scrum-specific practices and does not align closely with the core themes of the category.",
+    "level": "Quinary"
   }
 }

@@ -350,15 +350,6 @@
     "reasoning": "The content discusses configuring features in Team Foundation Server 2013, which relates to the deployment and maintenance stages of the application lifecycle. However, it primarily focuses on specific features and processes rather than a comprehensive discussion on Application Lifecycle Management.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T18:29:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "The content primarily discusses configuring features in Team Foundation Server 2013, with only a brief mention of the Visual Studio Scrum process template, which does not constitute a central theme.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T19:12:39",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring features in Team Foundation Server 2013, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:40:15",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 50,
+    "final_score": 28.0,
+    "reasoning": "The content briefly mentions the Visual Studio Scrum 3.0 process template, which is a peripheral reference to Scrum. However, the primary focus is on configuring features in Team Foundation Server 2013, with no substantial discussion of Scrum roles, events, or principles. The alignment with Scrum concepts is minimal, and the depth of discussion regarding Scrum is very low.",
+    "level": "Quaternary"
   }
 }

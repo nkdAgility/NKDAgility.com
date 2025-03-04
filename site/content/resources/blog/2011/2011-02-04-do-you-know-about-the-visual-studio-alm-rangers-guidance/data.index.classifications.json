@@ -350,15 +350,6 @@
     "reasoning": "The content discusses Visual Studio ALM Rangers and their guidance, which relates to Application Lifecycle Management practices and tools. However, it primarily focuses on the guidance rather than the broader aspects of ALM.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T00:01:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio ALM Rangers and their guidance, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T00:44:32",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio ALM Rangers guidance and related tools, with no focus on Artificial Intelligence or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:49:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Visual Studio ALM Rangers and their guidance, which is unrelated to Scrum principles, roles, or practices. There are no direct mentions of Scrum or its core themes, and the depth of discussion does not provide any relevant insights into Scrum methodologies.",
+    "level": "Quinary"
   }
 }

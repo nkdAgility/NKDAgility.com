@@ -1367,15 +1367,6 @@
     "reasoning": "Content primarily discusses the concept of pride in Agile practices, focusing on assumptions and outcomes rather than the principles or implementation of the One Engineering System.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T17:13:22",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Agile principles and mentions the role of the product owner, which is relevant to Scrum, but it primarily focuses on the concept of pride and its implications rather than Scrum practices or frameworks.",
-    "level": "Tertiary"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:49:36",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the concept of pride in Agile methodologies without any mention of Artificial Intelligence or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:16:55",
+    "ai_confidence": 47.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 30,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Agile principles and the role of the Product Owner, which are relevant to Scrum, but it does not delve deeply into Scrum-specific practices or frameworks. The mention of Scrum is brief and secondary to the broader discussion on Agile and pride in project management.",
+    "level": "Tertiary"
   }
 }

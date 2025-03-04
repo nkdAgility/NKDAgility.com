@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the management and deployment of extensions for Team Foundation Server (TFS), which is a key aspect of Application Lifecycle Management. It addresses the challenges and plans for improving the deployment process, aligning with ALM principles.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T19:25:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the TFS Automation Platform and related extensions, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T20:40:19",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the TFS Automation Platform and its extensions, with no clear focus on Artificial Intelligence or its integration within Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:42:09",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses the TFS Automation Platform and its extensions, with only a brief mention of sprints in the context of a past project. There is no substantial discussion of Scrum roles, events, or principles, nor does it align with the core themes of Scrum. The focus is on technical implementation rather than Scrum practices.",
+    "level": "Quinary"
   }
 }

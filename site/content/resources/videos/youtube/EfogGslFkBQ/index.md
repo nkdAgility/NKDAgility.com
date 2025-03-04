@@ -44,7 +44,6 @@ resourceTypes:
 - video
 categories:
 - Social Technologies
-- Scrum
 
 ---
 **Introduction to Agile Metrics: The Pitfall of Story Points and Velocity**

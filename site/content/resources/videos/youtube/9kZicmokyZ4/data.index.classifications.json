@@ -1384,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses evidence-based management in Agile environments without any mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:50:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on the concept of delivering value and measuring success, which aligns with Scrum principles. However, it lacks explicit mentions of Scrum roles, events, or artifacts, and does not delve deeply into Scrum practices, resulting in a low confidence score.",
+    "level": "Quaternary"
   }
 }

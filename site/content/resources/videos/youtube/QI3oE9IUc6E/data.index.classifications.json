@@ -1367,15 +1367,6 @@
     "reasoning": "Content heavily discusses Scrum practices and methodologies, with no clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T19:24:05",
-    "ai_confidence": 85,
-    "non_ai_confidence": 50,
-    "final_score": 82.0,
-    "reasoning": "The content primarily discusses the principles and practices of Scrum, including the importance of having a usable product at the end of iterations, the concept of 'barnacles' that can hinder Scrum implementation, and exercises to improve Scrum processes within organisations.",
-    "level": "Primary"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:52:59",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:19:39",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses Scrum principles, particularly focusing on the importance of having a usable product at the end of iterations, which aligns with Agile principles. It also addresses common pitfalls in Scrum implementation, referred to as 'barnacles', and suggests exercises for improving Scrum practices. The depth of discussion is significant, covering both theoretical and practical aspects of Scrum, making it a primary focus of the content.",
+    "level": "Primary"
   }
 }

@@ -1384,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events without any mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:48:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": 50,
+    "final_score": 61.0,
+    "reasoning": "The content discusses Scrum in the context of applying flow metrics, which is a secondary focus on Kanban. While it mentions Scrum roles and events like Sprint planning and Daily Scrum, the primary emphasis is on Kanban strategies rather than Scrum principles. The discussion does provide some insights into how these metrics can benefit Scrum teams, but it lacks a deep exploration of Scrum's core themes and practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   }
 }

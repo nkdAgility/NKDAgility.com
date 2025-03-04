@@ -35,8 +35,6 @@ tags:
 - Agile Project Management
 categories:
 - Scrum
-- Product Management
-- Social Technologies
 preview: naked-Agility-Scrum-Framework-Product-Goal-2-1.jpg
 
 ---

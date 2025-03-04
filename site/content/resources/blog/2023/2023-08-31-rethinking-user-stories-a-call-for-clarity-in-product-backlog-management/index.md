@@ -41,6 +41,7 @@ tags:
 categories:
 - Product Management
 - Social Technologies
+- Scrum
 preview: naked-agility-technically-rethinkinguserstories-1-1-1.jpg
 
 ---

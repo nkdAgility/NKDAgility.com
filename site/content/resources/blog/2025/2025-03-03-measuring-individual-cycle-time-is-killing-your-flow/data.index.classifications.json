@@ -1387,11 +1387,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T09:27:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-04T10:31:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Kanban principles and individual cycle time metrics, which are unrelated to Scrum practices and frameworks.",
-    "level": "Ignored"
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Kanban principles and criticises the measurement of individual cycle time, which is not aligned with Scrum practices. There are no direct mentions of Scrum roles, events, or artifacts, and the focus is on optimising workflow rather than Scrum's iterative framework.",
+    "level": "Quinary"
   }
 }

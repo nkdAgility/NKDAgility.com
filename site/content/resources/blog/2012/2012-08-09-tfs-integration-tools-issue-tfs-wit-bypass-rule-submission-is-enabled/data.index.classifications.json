@@ -350,15 +350,6 @@
     "reasoning": "The content discusses a specific issue related to the TFS Integration Platform, which is a tool used in the application lifecycle management process, particularly in the context of managing service accounts and permissions. However, it primarily focuses on a technical error and solution rather than the broader aspects of application lifecycle management.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T19:49:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses TFS Integration Platform and related technical issues, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T21:30:52",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses TFS Integration Platform issues and permissions, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:44:02",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses a technical issue related to the TFS Integration Platform and does not mention Scrum principles, roles, events, or any related concepts. While it touches on project management tools, it does not align with the core themes of Scrum, nor does it provide any depth on Scrum practices or frameworks.",
     "level": "Ignored"
   }
 }

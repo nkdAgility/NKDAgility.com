@@ -30,8 +30,8 @@ aliasesArchive:
 tags:
 - Agile Project Management
 categories:
-- Scrum
 - Social Technologies
+- Scrum
 preview: nkdagility-cross-sprint-boundary-2-1.png
 
 ---

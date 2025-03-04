@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses Microsoft Test Manager and its integration with TFS and Visual Studio 2010, which are key components of Application Lifecycle Management. It focuses on testing practices and tools that support the application lifecycle, aligning well with the category's scope.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T21:19:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Microsoft Test Manager and its integration with Visual Studio and TFS, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T21:19:22",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Microsoft Test Manager and its integration with Visual Studio and TFS, with no focus on AI applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:46:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Microsoft Test Manager and its integration with Visual Studio and TFS, with no direct mention of Scrum principles, roles, or events. While it discusses team collaboration in testing, it does not align with the core themes of Scrum, such as iterative progress or empirical process control. The depth of discussion on Scrum-related topics is minimal, leading to a low confidence score.",
+    "level": "Quinary"
   }
 }

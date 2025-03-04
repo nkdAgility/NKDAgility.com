@@ -1331,15 +1331,6 @@
     "reasoning": "Content heavily discusses the Product Backlog and Agile practices, specifically within the Scrum framework, without reference to the One Engineering System or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-13T21:49:20",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the Product Backlog, a key artifact in the Scrum framework, and elaborates on its importance, ordering, refinement, and its role in guiding the team towards Sprint and Product Goals.",
-    "level": "Secondary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-13T21:49:22",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the Product Backlog and Agile project management without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:19:48",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses the Product Backlog, a core artifact in the Scrum framework, and elaborates on its importance, ordering, refinement, and the relationship to Sprint Goals and Product Goals. It aligns well with Scrum principles and practices, demonstrating a deep understanding of the topic. The focus on iterative improvement and stakeholder collaboration further reinforces its relevance to Scrum, justifying a high confidence score.",
+    "level": "Primary"
   }
 }

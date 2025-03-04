@@ -1384,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Kanban and workflow management without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:48:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 50,
+    "final_score": 34.0,
+    "reasoning": "The content primarily focuses on Kanban, discussing its principles and practices in detail. While it briefly mentions Scrum and its relationship to Kanban, the discussion does not delve deeply into Scrum's core roles, events, or artifacts. The mention of Scrum is secondary and serves more as a comparison to Kanban rather than a primary focus. Therefore, the confidence score reflects a low alignment with the Scrum category.",
+    "level": "Quaternary"
   }
 }

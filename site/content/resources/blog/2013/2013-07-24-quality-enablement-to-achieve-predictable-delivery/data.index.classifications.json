@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses quality enablement in the context of software delivery, focusing on aspects such as Definition of Done, Acceptance Criteria, and automated processes, which are integral to Application Lifecycle Management.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of quality in software delivery, including the Definition of Done and Acceptance Criteria, which are relevant to Scrum practices, but the primary focus is on quality enablement rather than Scrum itself.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T22:06:42",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses quality enablement and software delivery processes without any mention of AI or its integration within Agile or DevOps methodologies.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:39:16",
+    "ai_confidence": 68.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 35,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content discusses quality enablement in software delivery, touching on concepts relevant to Scrum, such as the Definition of Done and Acceptance Criteria, which are integral to the Scrum framework. However, it does not explicitly mention Scrum roles or events, and the focus is more on quality assurance rather than Scrum practices. The discussion aligns with Scrum principles of transparency and empirical process control but lacks depth in exploring the Scrum framework itself.",
+    "level": "Secondary"
   }
 }

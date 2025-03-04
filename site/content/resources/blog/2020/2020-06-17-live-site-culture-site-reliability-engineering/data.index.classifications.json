@@ -350,15 +350,6 @@
     "reasoning": "Content discusses aspects of agility and DevOps practices which relate to application delivery and performance, but is primarily focused on broader practices and models rather than explicitly detailing the application lifecycle stages.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T20:52:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses DevOps practices and Continuous Delivery, with no clear focus on Scrum principles, roles, or events.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T20:52:17",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps practices and Agile methodologies without a clear focus on the application of AI.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:31:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses DevOps practices and Continuous Delivery, with only a brief mention of agile principles. It does not explicitly address Scrum roles, events, or artifacts, nor does it delve into the Scrum framework or its implementation. The focus is on operational needs and engineering models rather than Scrum-specific discussions.",
+    "level": "Quinary"
   }
 }

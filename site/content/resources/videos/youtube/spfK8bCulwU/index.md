@@ -37,6 +37,7 @@ resourceTypes:
 - video
 categories:
 - Social Technologies
+- Scrum
 
 ---
 As an entrepreneur, I often find myself reflecting on the multifaceted role of a product owner. Recently, I’ve been diving deep into the Advanced Professional Scrum Product Owner (PSPO) course, and I can’t help but think how perfectly it aligns with the needs of entrepreneurs. It’s not just about innovation; it’s about balance, understanding your customers, and ensuring that your product evolves in a way that meets their needs.

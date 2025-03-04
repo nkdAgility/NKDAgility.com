@@ -557,15 +557,6 @@
     "reasoning": "Content heavily discusses Scrum roles and ineffective behaviors of Scrum Masters, without a focus on decision-making processes or the principles of Decision Theory.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:21:50",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses Scrum Masters and their roles within the Scrum framework, emphasizing the importance of effective team support over micromanagement.",
-    "level": "Secondary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T10:21:50",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:25:19",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 31,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses the role of Scrum Masters, highlighting common misconceptions and ineffective behaviours. This aligns well with the Scrum framework's emphasis on team dynamics and self-organisation. The depth of discussion is significant, as it critiques specific traits and behaviours that undermine the Scrum Master's role, providing insights into effective practices. However, it lacks broader coverage of other Scrum elements such as events and artifacts, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
   }
 }

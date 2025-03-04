@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses company culture and collaboration in agile environments, rather than the management of software applications throughout their lifecycle.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T18:11:50",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of team collaboration and culture in achieving agility, which aligns with Scrum principles. However, it does not explicitly focus on Scrum roles, events, or artifacts, making it a secondary theme.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T18:53:19",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses company culture and teamwork in Agile methodologies, with no mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:39:37",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of collaboration and team dynamics, which are core principles of Scrum. It highlights the need for a culture that fosters teamwork, aligning with Scrum's emphasis on self-organisation and cross-functionality. While it does not explicitly mention Scrum roles or events, the focus on team collaboration and the challenges of adopting agile practices indicates a strong conceptual alignment with Scrum principles. The depth of discussion is moderate, providing insights into cultural changes necessary for effective agile adoption, but lacks specific references to Scrum artifacts or events.",
+    "level": "Secondary"
   }
 }

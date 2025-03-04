@@ -1367,15 +1367,6 @@
     "reasoning": "Content primarily discusses the importance of senior leadership engagement in agile consulting, without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T21:39:53",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the importance of senior leadership engagement in agile transformations, which is a significant aspect of Scrum implementation, but it primarily focuses on broader agile principles rather than Scrum-specific roles or events.",
-    "level": "Tertiary"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:56:06",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of senior leadership engagement in Agile consulting, with no clear focus on Artificial Intelligence or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:21:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 30,
+    "final_score": 59.0,
+    "reasoning": "The content discusses the importance of senior leadership engagement in agile transformations, which indirectly relates to Scrum principles, particularly in terms of team dynamics and continuous improvement. However, it lacks direct references to specific Scrum roles, events, or artifacts, and does not delve deeply into Scrum practices. The mention of 'agile' and 'scrum' at the end is brief and does not constitute a primary focus on Scrum itself.",
+    "level": "Tertiary"
   }
 }

@@ -1367,15 +1367,6 @@
     "reasoning": "Content heavily discusses Agile consulting and coaching, with no mention of the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T23:46:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Agile consulting with references to Scrum training and environments, but it primarily focuses on the role of an Agile Consultant rather than Scrum principles or practices.",
-    "level": "Tertiary"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:59:13",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile consulting and coaching without any mention of Artificial Intelligence or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:24:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on the role of agile consultants and their approach to guiding customers, which aligns with the concept of coaching in Scrum. However, it lacks direct mentions of Scrum roles, events, or artifacts, and does not delve into the Scrum framework or principles in detail. The discussion is more about consulting practices rather than Scrum-specific methodologies, leading to a low confidence score.",
+    "level": "Quaternary"
   }
 }

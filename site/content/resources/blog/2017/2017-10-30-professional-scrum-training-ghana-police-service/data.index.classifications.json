@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses Scrum training and its application in organisational change, rather than the management of software applications throughout their lifecycle.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T19:04:34",
-    "ai_confidence": 90,
-    "non_ai_confidence": 50,
-    "final_score": 86.0,
-    "reasoning": "The content primarily discusses the implementation and teaching of Scrum principles and practices within the Ghana Police Service, detailing the training process, Scrum roles, events, and the iterative learning approach.",
-    "level": "Primary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T19:04:43",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum training and its application within the Ghana Police Service, with no mention of AI or its integration in Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:33:32",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 92.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses the implementation of Scrum within the Ghana Police Service, detailing the training process, Scrum roles, events, and the iterative nature of the framework. It highlights the practical application of Scrum principles in a non-software context, demonstrating a strong alignment with Scrum's core themes. The depth of discussion is significant, covering various aspects of the Scrum framework and its adaptation for the audience, which further supports a high confidence score.",
+    "level": "Primary"
   }
 }

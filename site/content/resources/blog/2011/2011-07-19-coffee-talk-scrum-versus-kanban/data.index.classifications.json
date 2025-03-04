@@ -350,15 +350,6 @@
     "reasoning": "The content discusses Scrum and Kanban, which are methodologies related to software development, and mentions ALM MVPs, indicating a connection to Application Lifecycle Management. However, the primary focus is on comparing Scrum and Kanban rather than on the broader aspects of ALM.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Scrum as part of a comparison with Kanban, indicating that Scrum is a significant theme, but the primary focus is on the differences between the two methodologies.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T22:42:08",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and Kanban methodologies without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:48:01",
+    "ai_confidence": 42.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 15,
+    "non_ai_confidence": 50,
+    "final_score": 43.0,
+    "reasoning": "The content discusses Scrum in the context of a comparison with Kanban, which indicates a focus on Scrum principles. However, the primary emphasis is on the differences between the two frameworks rather than an in-depth exploration of Scrum itself. While Scrum is mentioned multiple times, the depth of discussion is limited to introductory remarks and does not delve into specific Scrum roles, events, or practices. Therefore, while there is a clear mention of Scrum, the overall focus is diluted by the comparative nature of the content.",
+    "level": "Tertiary"
   }
 }

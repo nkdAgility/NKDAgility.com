@@ -44,6 +44,7 @@ resourceTypes:
 categories:
 - Product Management
 - Social Technologies
+- Scrum
 
 ---
 Product backlog management is gaining a lot of attention in the Agile community right now—and for good reason. From my experience working with organizations across various industries, one of the most significant areas where I see teams struggle is in managing their product backlogs effectively.

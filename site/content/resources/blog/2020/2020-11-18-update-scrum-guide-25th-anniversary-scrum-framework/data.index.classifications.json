@@ -1151,15 +1151,6 @@
     "reasoning": "The content primarily discusses the roles and responsibilities within Scrum teams, emphasising self-management and accountability, which are central to team dynamics and collaboration in Agile environments.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-13T22:26:48",
-    "ai_confidence": 90,
-    "non_ai_confidence": 50,
-    "final_score": 86.0,
-    "reasoning": "Content primarily discusses updates to the Scrum Guide, focusing on Scrum roles, events, and principles, which are central to the Scrum framework.",
-    "level": "Primary"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
     "calculated_at": "2025-02-17T09:08:38",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:30:50",
+    "ai_confidence": 92.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 95.0,
+    "ai_depth": 90.0,
+    "non_ai_confidence": 50,
+    "final_score": 88.0,
+    "reasoning": "The content extensively discusses the updates to the Scrum Guide, highlighting key aspects of the Scrum framework, including roles, accountabilities, and commitments. It directly references the Scrum Team's self-management and cross-functionality, as well as the importance of the Product Goal and Sprint Goal, which are central to Scrum principles. The depth of discussion is significant, providing detailed insights into the changes made in the latest revision of the Scrum Guide, thus aligning closely with the core themes of Scrum.",
+    "level": "Primary"
   }
 }

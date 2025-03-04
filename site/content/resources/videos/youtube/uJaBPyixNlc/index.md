@@ -43,8 +43,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Scrum
 - Social Technologies
+- Scrum
 
 ---
 How does Naked Agility select associate Scrum Trainers?

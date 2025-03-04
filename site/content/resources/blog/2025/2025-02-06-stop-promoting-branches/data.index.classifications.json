@@ -1387,11 +1387,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T09:34:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-04T10:38:37",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses branching strategies and software delivery models, with no focus on Scrum principles, roles, events, or artifacts.",
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses branching strategies and software delivery models, focusing on Git Flow, GitHub Flow, and Release Flow. While it touches on concepts like agility and delivery, it does not explicitly mention Scrum principles, roles, or events, nor does it delve into the Scrum framework or its implementation. Therefore, it aligns very minimally with the Scrum category.",
     "level": "Ignored"
   }
 }

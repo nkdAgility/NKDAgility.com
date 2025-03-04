@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the evolution and features of Team Foundation Server (TFS) 2013, highlighting its role in application lifecycle management, including aspects of deployment, technical debt, and the importance of integrating quality into the development process.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition to agile practices, including the use of Sprints, which is a key aspect of Scrum, but it primarily focuses on Team Foundation Server and its updates rather than Scrum itself.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T18:44:46",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Team Foundation Server and its development process, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:39:18",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 40.0,
+    "reasoning": "The content discusses the transition of the TFS team to a 3-week Sprint cycle, which aligns with Scrum principles. However, it primarily focuses on Team Foundation Server and its updates rather than a comprehensive discussion of Scrum roles, events, or artifacts. The mention of 'agility' and 'undone work' reflects some Scrum concepts but lacks depth in exploring the framework itself.",
+    "level": "Quaternary"
   }
 }

@@ -1367,15 +1367,6 @@
     "reasoning": "Content heavily discusses Scrum and scaling frameworks, which are not central to the One Engineering System principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T17:10:49",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses Scrum courses and scaling Scrum, focusing on the framework and practices related to Scrum.",
-    "level": "Secondary"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:49:16",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and scaling frameworks without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:16:32",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses Scrum in the context of scaling, which is a relevant aspect of the Scrum framework. It mentions Scrum courses, the roles of teams, and the importance of alignment and dependency management, all of which are core themes in Scrum. However, while it provides a good amount of detail about scaling practices and frameworks, it does not delve deeply into the specific Scrum roles or events, which slightly lowers the depth score.",
+    "level": "Secondary"
   }
 }

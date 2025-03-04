@@ -557,15 +557,6 @@
     "reasoning": "Content primarily discusses agile training and scrum methodologies without a focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Scrum training and the impact of digital tools on remote training, making Scrum a major but secondary theme within a broader context of Agile training.",
-    "level": "Tertiary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T10:21:57",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum training and Agile methodologies without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:25:30",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 50.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 50,
+    "final_score": 61.0,
+    "reasoning": "The content discusses training for Scrum practitioners and facilitators, indicating a direct mention of Scrum. It aligns with Scrum principles by emphasising collaboration and engagement, which are core to the framework. However, the depth of discussion primarily focuses on training techniques and tools rather than the Scrum framework itself, which slightly lowers the confidence score.",
+    "level": "Secondary"
   }
 }

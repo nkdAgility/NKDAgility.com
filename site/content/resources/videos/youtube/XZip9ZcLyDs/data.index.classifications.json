@@ -1349,15 +1349,6 @@
     "reasoning": "Content heavily discusses the role of Scrum Master and Agile methodologies, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T08:24:05",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the role of the Scrum Master, its significance in leadership, and the implications for team effectiveness within the Scrum framework.",
-    "level": "Secondary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T08:24:06",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of a Scrum Master and Agile methodologies without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:26:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master, discussing the responsibilities and leadership qualities associated with this position. It explicitly mentions the Scrum Master role multiple times, indicating a direct mention of the category. The discussion aligns with Scrum principles, particularly around team dynamics and leadership within a Scrum framework. However, while it provides a good overview of the role, it lacks detailed exploration of Scrum events and artifacts, which affects the depth score. Overall, the content is relevant and informative regarding Scrum, justifying a relatively high confidence score.",
+    "level": "Secondary"
   }
 }

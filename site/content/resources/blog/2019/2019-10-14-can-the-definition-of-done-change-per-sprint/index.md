@@ -39,8 +39,6 @@ tags:
 - Professional Scrum
 categories:
 - Scrum
-- Engineering Excellence
-- Social Technologies
 preview: 20190906_152025-2-2.gif
 
 ---

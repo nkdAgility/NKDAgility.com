@@ -33,6 +33,7 @@ tags:
 - Pragmatic Thinking
 categories:
 - Social Technologies
+- Scrum
 preview: nakedalm-experts-professional-scrum-2-2.png
 
 ---

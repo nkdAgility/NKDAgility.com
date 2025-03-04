@@ -36,8 +36,6 @@ tags:
 - Software Development
 categories:
 - Scrum
-- Product Management
-- Social Technologies
 preview: nakedalm-logo-260-5-5.png
 
 ---

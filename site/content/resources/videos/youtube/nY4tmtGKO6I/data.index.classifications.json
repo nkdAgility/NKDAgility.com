@@ -53,15 +53,6 @@
     "reasoning": "Content heavily discusses Scrum roles and the responsibilities of a Scrum Master, without a focus on Evidence-Based Management principles or empirical data.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T15:27:28",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the role of a Scrum Master and the essential knowledge required for new Scrum teams, focusing on Scrum principles and values.",
-    "level": "Secondary"
-  },
   "Kanban": {
     "category": "Kanban",
     "calculated_at": "2025-02-17T15:27:29",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:53:17",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the role of a Scrum Master and the importance of understanding Scrum principles, which are central to the Scrum framework. It highlights the need for knowledge and understanding of Scrum values and empiricism, aligning well with the core themes of the category. The depth of discussion is significant, focusing on the responsibilities of a Scrum Master in educating a new team, which indicates a thorough engagement with the topic.",
+    "level": "Secondary"
   }
 }

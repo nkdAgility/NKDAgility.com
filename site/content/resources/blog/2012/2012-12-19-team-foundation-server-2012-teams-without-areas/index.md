@@ -38,9 +38,9 @@ tags:
 - Application Lifecycle Management
 - Technical Excellence
 categories:
-- Scrum
 - DevOps
 - Engineering Excellence
+- Social Technologies
 preview: nakedalm-experts-visual-studio-alm-16-16.png
 
 ---

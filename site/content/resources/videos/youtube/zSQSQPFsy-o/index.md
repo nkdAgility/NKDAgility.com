@@ -42,7 +42,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 Why is Scrum so easy to understand but incredibly hard to master?

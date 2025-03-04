@@ -39,7 +39,6 @@ tags:
 - Product Delivery
 categories:
 - Scrum
-- Social Technologies
 preview: nakedalm-experts-professional-scrum-5-5.png
 
 ---

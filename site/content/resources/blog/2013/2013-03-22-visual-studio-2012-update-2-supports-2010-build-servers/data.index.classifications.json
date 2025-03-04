@@ -350,15 +350,6 @@
     "reasoning": "The content discusses the upgrade process of Team Foundation Server (TFS) and its build systems, which relates to the maintenance and deployment stages of the application lifecycle. However, it primarily focuses on technical details of the upgrade rather than broader ALM methodologies or practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T19:10:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Visual Studio and Team Foundation Server updates, with no mention of Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T20:12:33",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the compatibility and upgrade process of Visual Studio and Team Foundation Server, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:41:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the technical aspects of upgrading Team Foundation Server and does not mention Scrum principles, roles, events, or any related topics. It lacks any direct references to Scrum or its practices, making it irrelevant to the category.",
     "level": "Ignored"
   }
 }

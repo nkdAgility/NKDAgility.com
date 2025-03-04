@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the implementation of standard environments for automated deployment and testing, which is a key aspect of managing the application lifecycle. It covers deployment processes, the use of tools like Team Foundation Server and Nuget, and the importance of consistent deployment mechanisms, aligning well with the principles of Application Lifecycle Management.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T19:18:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses automated deployment and testing environments in Visual Studio and Team Foundation Server, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T20:17:46",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses automated deployment and testing processes in Visual Studio and Team Foundation Server, with no clear focus on the application of AI in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:41:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses automated deployment and testing environments in Visual Studio and Team Foundation Server, with no direct mentions of Scrum roles, events, or principles. While it touches on concepts related to Agile practices, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The discussion lacks depth regarding Scrum implementation or continuous improvement techniques.",
     "level": "Ignored"
   }
 }

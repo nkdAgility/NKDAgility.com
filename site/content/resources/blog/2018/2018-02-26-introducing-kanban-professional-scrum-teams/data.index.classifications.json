@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses the integration of Kanban within the Scrum framework, focusing on training and methodologies rather than the management of the application lifecycle.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the integration of Kanban within the context of Scrum, highlighting the Scrum framework and its principles, but the primary focus is on Kanban practices.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T18:38:36",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and Kanban methodologies without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:33:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 61.0,
+    "reasoning": "The content discusses Scrum in the context of a new training course that integrates Kanban practices. While it mentions Scrum roles and the framework, the primary focus is on the integration of Kanban, which may dilute the emphasis on Scrum principles. The depth of discussion on Scrum is moderate, as it touches on the Scrum Guide and its evolution but is overshadowed by the Kanban methodology.",
+    "level": "Secondary"
   }
 }

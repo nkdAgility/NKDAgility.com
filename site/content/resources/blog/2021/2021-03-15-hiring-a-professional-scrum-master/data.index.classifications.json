@@ -1331,15 +1331,6 @@
     "reasoning": "Content heavily discusses the role and responsibilities of a Scrum Master, which is not aligned with the principles of the One Engineering System framework.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-13T21:51:06",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the role and responsibilities of a Scrum Master, including the importance of Scrum principles and practices, making it a central topic.",
-    "level": "Secondary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-13T21:51:07",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the role and responsibilities of a Scrum Master, with no mention of Artificial Intelligence or its application in Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:29:50",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master, detailing responsibilities, required skills, and the importance of the Scrum framework. It explicitly mentions Scrum principles and practices, aligning well with the core themes of the category. The depth of discussion is significant, providing detailed insights into the expectations and qualifications for a Scrum Master, which enhances its relevance to the Scrum category.",
+    "level": "Primary"
   }
 }

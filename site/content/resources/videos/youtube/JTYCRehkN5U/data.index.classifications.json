@@ -1384,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile methodologies and technical excellence without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:46:47",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 50,
+    "final_score": 72.0,
+    "reasoning": "The content discusses Scrum principles, particularly the importance of delivering a usable working product at the end of each iteration, which aligns with Scrum's focus on iterative progress. However, while Scrum is mentioned, the primary focus is on technical excellence and risk mitigation rather than a comprehensive exploration of Scrum roles, events, or artifacts. The depth of discussion on Scrum is limited, as it primarily serves to support the broader argument about technical excellence in Agile development.",
+    "level": "Secondary"
   }
 }

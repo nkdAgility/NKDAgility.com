@@ -44,15 +44,6 @@
     "reasoning": "Content primarily discusses the experience of running a virtual classroom and technology choices, which are not central to product management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:46:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the experience of running a virtual classroom and technology choices, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
     "calculated_at": "2025-02-18T12:23:11",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the experience of running Live Virtual Classrooms and technology choices, with no clear focus on AI applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:31:52",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 50,
+    "final_score": 64.0,
+    "reasoning": "The content discusses the role of the Scrum Master and touches on agile leadership, which aligns with Scrum principles. However, the primary focus is on virtual training and general agile concepts rather than a detailed exploration of Scrum practices, roles, or events. The discussion lacks depth in Scrum-specific topics, leading to a moderate confidence score.",
+    "level": "Secondary"
   }
 }

@@ -1367,15 +1367,6 @@
     "reasoning": "Content primarily discusses the challenges faced by developers in accepting a Product Owner's authority, focusing on Scrum roles and dynamics rather than the principles or implementation of the One Engineering System.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T17:22:09",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner within the Scrum framework, including the importance of respect and accountability in decision-making, which aligns closely with Scrum principles.",
-    "level": "Secondary"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:50:11",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the dynamics of product ownership and team collaboration in Agile, without any mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:17:26",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner within the Scrum framework, highlighting the importance of respect and authority in decision-making. It explicitly mentions Scrum principles, such as the need for everyone in the organisation to respect the Product Owner as the final decision maker. The discussion is detailed, providing specific examples of barriers to acceptance and accountability issues, which align closely with Scrum's emphasis on team dynamics and roles. Overall, the content is focused on Scrum, making it a strong fit for the category.",
+    "level": "Secondary"
   }
 }

@@ -350,15 +350,6 @@
     "reasoning": "The content discusses using PowerShell to interact with the TFS API, which is related to managing aspects of the application lifecycle, particularly in terms of project management and work item tracking. However, it primarily focuses on scripting and API usage rather than a comprehensive discussion on the application lifecycle stages or governance.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T11:38:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses using PowerShell to interact with the TFS 2013 API, focusing on technical implementation rather than Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T20:30:40",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the use of PowerShell with the TFS 2013 API, focusing on technical implementation rather than any aspect of Artificial Intelligence.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:38:29",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS 2013 API, with no direct mentions of Scrum principles, roles, events, or artifacts. While TFS can be related to Scrum in terms of project management, the discussion does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is technical and specific to TFS API usage, lacking any reference to Scrum practices or frameworks.",
     "level": "Ignored"
   }
 }

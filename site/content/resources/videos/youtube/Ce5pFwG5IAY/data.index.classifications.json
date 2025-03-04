@@ -1250,15 +1250,6 @@
     "reasoning": "Content heavily discusses liberating structures and their application in Scrum events, without a focus on throughput measurement or optimisation.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T18:28:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses tools that Scrum Masters use, which relates to Scrum practices, but it does not primarily focus on Scrum principles or frameworks.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T18:28:05",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:18:30",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": 50,
+    "final_score": 61.0,
+    "reasoning": "The content discusses tools that Scrum Masters appreciate, which directly relates to the Scrum framework. However, while it mentions the role of Scrum Masters and the use of liberating structures in Scrum events, it lacks a comprehensive exploration of Scrum principles, roles, or events. The discussion is somewhat superficial, focusing more on the tools rather than the underlying Scrum practices or frameworks.",
+    "level": "Secondary"
   }
 }

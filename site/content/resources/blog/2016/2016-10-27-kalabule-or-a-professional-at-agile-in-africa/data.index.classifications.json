@@ -1349,15 +1349,6 @@
     "reasoning": "Content primarily discusses professionalism in the software industry and Scrum practices, rather than focusing on the complete lifecycle of software applications.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Scrum in the context of professionalism and the shortcomings of its understanding in the industry. While Scrum is a major theme, the focus is more on industry professionalism and ongoing problems rather than on Scrum roles, events, or direct practices.",
-    "level": "Tertiary"
-  },
   "Leadership": {
     "category": "Leadership",
     "calculated_at": "2025-02-17T16:08:34",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses professionalism in software development and Scrum practices, with no mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:34:01",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 50,
+    "final_score": 65.0,
+    "reasoning": "The content discusses Scrum in the context of professionalism in software development, mentioning Scrum practices like 'Stand Ups' and 'Demos'. However, it primarily critiques the lack of understanding and implementation of Scrum principles rather than providing a detailed exploration of Scrum itself. The mention of Scrum is significant but not the primary focus, leading to a moderate confidence score.",
+    "level": "Secondary"
   }
 }

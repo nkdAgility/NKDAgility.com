@@ -1331,15 +1331,6 @@
     "reasoning": "Content primarily discusses the need for organisational transformation and agility, focusing on hierarchical structures and market dynamics, without a clear connection to the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-13T21:50:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses organisational transformation and agility but does not focus specifically on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-17T09:08:35",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses organisational transformation and Agile methodologies without a clear focus on the application of AI.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:21:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the need for organisational transformation towards agility and mentions concepts related to decentralisation and cross-functional teams, which are relevant to Scrum. However, it does not explicitly mention Scrum roles, events, or artifacts, nor does it delve deeply into Scrum principles. The focus is more on general agility and organisational structures rather than the specific practices and frameworks of Scrum.",
+    "level": "Quaternary"
   }
 }

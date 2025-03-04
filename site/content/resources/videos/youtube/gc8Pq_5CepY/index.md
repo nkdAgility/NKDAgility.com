@@ -37,9 +37,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- DevOps
 - Scrum
-- Social Technologies
 
 ---
 Hello everyone, and welcome back to my office hours! Today, I’m excited to dive into some of the questions that have come up over the past week. As always, I host this event every Wednesday at 6 p.m. UK time, where I gather interesting queries and do my best to provide insightful answers. So, let’s get started!

@@ -31,7 +31,8 @@ tags:
 - Continuous Learning
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
 
 ---
 ## Level Up Your Game: 3 Unbeatable Reasons to Enhance Your Skills

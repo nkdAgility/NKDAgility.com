@@ -1250,15 +1250,6 @@
     "reasoning": "Content primarily discusses the benefits of poly immersive learning experiences and does not focus on throughput, work completion rates, or related metrics.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T20:17:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses immersive learning experiences and does not focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T20:17:07",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive learning experiences and their benefits, with no clear focus on AI applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:20:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses poly immersive learning experiences and does not mention Scrum or its principles, roles, events, or artifacts. While it touches on themes of learning and reflection, which are relevant to continuous improvement, it lacks any direct connection to Scrum or its framework.",
     "level": "Ignored"
   }
 }

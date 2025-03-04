@@ -1331,15 +1331,6 @@
     "reasoning": "Content heavily discusses Agile methodologies and traditional project management, with no clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:08:35",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Agile methodologies, including Scrum, as part of a broader comparison with traditional project management, making Scrum a significant but secondary theme.",
-    "level": "Tertiary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-13T21:49:56",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile methodologies and traditional project management strategies without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:20:45",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 30,
+    "final_score": 64.0,
+    "reasoning": "The content discusses Agile methodologies, specifically mentioning Scrum as a foundational approach to delivering working software incrementally. However, the primary focus is on comparing Agile with traditional project management rather than an in-depth exploration of Scrum principles, roles, or events. While it touches on key Agile concepts like collaboration and adaptation, it lacks detailed discussion on Scrum-specific practices, which limits its alignment and depth regarding the Scrum category.",
+    "level": "Secondary"
   }
 }

@@ -1250,15 +1250,6 @@
     "reasoning": "Content heavily discusses the role of a Scrum Master rather than focusing on throughput measurement or optimisation.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T21:51:45",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the role of a Scrum Master and touches on aspects of Scrum events, but it primarily focuses on the negative portrayal of an ineffective Scrum Master's day rather than providing a comprehensive discussion on Scrum principles or practices.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T21:51:46",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of a Scrum Master without any mention of AI or its application in Agile methodologies.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:21:54",
+    "ai_confidence": 55.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 50,
+    "final_score": 54.0,
+    "reasoning": "The content briefly mentions the role of a Scrum Master and touches on the daily Scrum, which indicates some direct mention of Scrum practices. However, the overall discussion is more focused on the negative portrayal of an ineffective Scrum Master rather than providing a comprehensive understanding of Scrum principles or practices. The alignment with core themes is moderate, as it hints at team dynamics but lacks depth in discussing Scrum events or the framework itself.",
+    "level": "Tertiary"
   }
 }

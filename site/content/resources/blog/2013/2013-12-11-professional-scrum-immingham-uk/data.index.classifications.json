@@ -350,15 +350,6 @@
     "reasoning": "Content heavily discusses Scrum training and team dynamics rather than the management of the application lifecycle.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T11:24:12",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the Professional Scrum course, Scrum practices, team dynamics, and the benefits of co-located training, making Scrum a central theme.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-17T09:08:52",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events without any mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:38:13",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content primarily focuses on a Professional Scrum course conducted for teams at DFDS Seaways, discussing Scrum roles, team dynamics, and the benefits of co-located training. It explicitly mentions Scrum practices such as self-organisation, daily Scrums, and retrospectives, demonstrating a strong alignment with Scrum principles. The depth of discussion is significant, providing insights into team interactions and the value of training, which enhances the overall understanding of Scrum implementation.",
+    "level": "Primary"
   }
 }

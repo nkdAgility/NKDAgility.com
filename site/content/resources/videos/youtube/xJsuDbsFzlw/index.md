@@ -43,7 +43,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 When it comes to Sprint planning, I often find that organisations struggle to grasp its true potential. Having facilitated numerous workshops, I’ve seen firsthand how a well-structured Sprint planning session can transform a team's approach to Agile. Today, I want to share my insights on how we can make Sprint planning not just a routine, but a powerful tool for success.

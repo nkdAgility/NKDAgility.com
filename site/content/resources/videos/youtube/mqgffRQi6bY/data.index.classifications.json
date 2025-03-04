@@ -1250,15 +1250,6 @@
     "reasoning": "Content heavily discusses the complexity of work and the challenges of integrating independent software components, but does not focus on throughput measurement or optimisation.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T17:21:36",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the complexity of work in a Scrum context, suggesting a major theme related to Scrum principles, but it does not focus primarily on Scrum roles, events, or practices.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T17:21:38",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:17:23",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 50,
+    "final_score": 46.0,
+    "reasoning": "The content briefly touches on the complexity of work in a Scrum context, suggesting a discussion on the challenges of software development. However, it does not explicitly mention Scrum roles, events, or artifacts, which limits the direct mentions score. The conceptual alignment is moderate as it hints at the complexities faced in Scrum projects but lacks a thorough exploration of Scrum principles. The depth of discussion is somewhat higher due to the personal insights shared about the challenges of integrating software, but it does not delve into Scrum practices or frameworks.",
+    "level": "Tertiary"
   }
 }

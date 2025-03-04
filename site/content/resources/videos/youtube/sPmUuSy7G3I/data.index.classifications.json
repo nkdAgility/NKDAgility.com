@@ -557,15 +557,6 @@
     "reasoning": "Content heavily discusses Scrum roles, processes, and Agile methodologies without a central focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses how Scrum teams can effectively plan and prioritize work, focusing on the roles of the Scrum team and the Product Owner, which aligns with Scrum principles and practices.",
-    "level": "Secondary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T10:22:19",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events without any mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:26:28",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on Scrum principles, particularly around planning and prioritisation within a Scrum framework. It discusses the roles of the Scrum team, the importance of aligning work with business goals, and the need for effective product backlog management, which are all core aspects of Scrum. The depth of discussion is significant, as it delves into practical strategies for managing the product backlog and emphasises the iterative nature of Scrum. While it briefly touches on related concepts like data analysis and customer feedback, these are framed within the context of Scrum practices, maintaining strong alignment with the category.",
+    "level": "Secondary"
   }
 }

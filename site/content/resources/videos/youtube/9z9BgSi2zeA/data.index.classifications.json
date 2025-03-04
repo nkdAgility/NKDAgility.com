@@ -1,13 +1,4 @@
 {
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T15:33:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of an agile coach in engaging with technical and leadership aspects, without a clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Kanban": {
     "category": "Kanban",
     "calculated_at": "2025-02-17T15:33:48",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the qualities and considerations for hiring an agile coach, with no mention of AI or its application in Agile methodologies, DevOps practices, or software development.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:53:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions the role of an agile coach, which is relevant to Scrum, but does not explicitly discuss Scrum principles, roles, events, or artifacts. The focus is more on the general qualities of an agile coach rather than specific Scrum practices or frameworks. Therefore, while there is some alignment with the category, it lacks depth and direct mentions of Scrum.",
+    "level": "Quaternary"
   }
 }

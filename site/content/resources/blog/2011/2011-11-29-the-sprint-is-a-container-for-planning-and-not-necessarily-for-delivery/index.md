@@ -34,9 +34,9 @@ tags:
 - Agile Project Management
 - Agile Transformation
 categories:
-- Scrum
 - DevOps
 - Engineering Excellence
+- Social Technologies
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

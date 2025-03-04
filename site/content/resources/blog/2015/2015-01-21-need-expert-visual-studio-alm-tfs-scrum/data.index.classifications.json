@@ -350,15 +350,6 @@
     "reasoning": "The content discusses Visual Studio ALM and related training and consulting services, making ALM a significant theme, but it is primarily focused on the author's availability and offerings rather than a comprehensive discussion on the application lifecycle management methodologies or practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Scrum in the context of training and consulting services, making it a significant but secondary theme alongside Visual Studio ALM and TFS.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T23:11:17",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, with no mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:35:00",
+    "ai_confidence": 68.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 50,
+    "final_score": 66.0,
+    "reasoning": "The content explicitly mentions Scrum multiple times, particularly in the context of offering training and consulting services. It discusses the author's experience with Scrum courses and the role of the customer as a Product Owner in managing a backlog, which aligns with Scrum principles. However, the primary focus of the content is on the author's availability for work rather than an in-depth discussion of Scrum practices or frameworks, leading to a moderate confidence score.",
+    "level": "Secondary"
   }
 }

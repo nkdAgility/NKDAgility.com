@@ -1331,15 +1331,6 @@
     "reasoning": "Content primarily discusses the seven deadly sins of Agile methodology, drawing parallels with ancient Greek philosophy, without focusing on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses agile principles and challenges faced by agile teams, which are relevant to Scrum, but it primarily focuses on the metaphor of the seven deadly sins rather than a direct exploration of Scrum practices or frameworks.",
-    "level": "Tertiary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-17T09:08:34",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the challenges and pitfalls of Agile methodologies, drawing parallels with ancient Greek philosophy, without any mention or focus on Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:16:39",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
+    "non_ai_confidence": 50,
+    "final_score": 61.0,
+    "reasoning": "The content discusses agile principles and challenges faced by agile teams, which indirectly relates to Scrum. However, it does not explicitly mention Scrum roles, events, or artifacts, and the focus is more on general agile pitfalls rather than specific Scrum practices. The depth of discussion on agile concepts is moderate, but it lacks a direct connection to the Scrum framework.",
+    "level": "Secondary"
   }
 }

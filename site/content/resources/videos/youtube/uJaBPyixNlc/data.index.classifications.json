@@ -1349,15 +1349,6 @@
     "reasoning": "Content heavily discusses the selection and qualities of Scrum trainers, focusing on agile methodologies rather than the principles or implementation of the One Engineering System.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:43:02",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the selection and qualifications of Scrum Trainers, highlighting the importance of Scrum knowledge and experience in training and coaching, which aligns closely with Scrum principles and practices.",
-    "level": "Secondary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T10:43:04",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the selection process for Scrum Trainers and the importance of real-world experience in Agile methodologies, with no mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:28:58",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 50,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the selection of associate Scrum trainers and highlights the importance of their experience and expertise in Agile and Scrum contexts. While it mentions Scrum and references the role of trainers, the primary focus is on the qualifications and backgrounds of trainers rather than a detailed exploration of Scrum principles or practices. The discussion is relevant but lacks depth in terms of Scrum-specific frameworks, roles, or events.",
+    "level": "Secondary"
   }
 }

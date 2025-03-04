@@ -350,15 +350,6 @@
     "reasoning": "The content discusses portfolio management tools in Visual Studio 2013, which relates to managing aspects of the application lifecycle, but primarily focuses on backlog management rather than the full lifecycle.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T18:05:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses portfolio management tools in Visual Studio 2013 and does not focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T18:25:14",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses portfolio management tools in Visual Studio 2013, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:39:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions managing portfolio backlogs and the concept of 'Epics', which are relevant to Scrum but does not explicitly discuss Scrum roles, events, or principles. The focus is more on Visual Studio 2013 tools rather than a deep exploration of Scrum practices, leading to a low confidence score.",
+    "level": "Quaternary"
   }
 }

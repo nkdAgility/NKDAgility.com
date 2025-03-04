@@ -1349,15 +1349,6 @@
     "reasoning": "Content heavily discusses Scrum and its application, which is not aligned with the principles of the One Engineering System framework.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:41:26",
-    "ai_confidence": 90,
-    "non_ai_confidence": 50,
-    "final_score": 86.0,
-    "reasoning": "The content primarily discusses the APS course and its practical applications of Scrum principles, roles, and challenges, making Scrum the central theme.",
-    "level": "Primary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T10:41:28",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and Agile methodologies without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:28:45",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 32,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses the application of Scrum principles in a practical course setting, highlighting key roles, exercises, and the importance of team dynamics and organisational change. It provides detailed examples of Scrum practices, such as the Scrum tune-up and startup exercises, which directly align with the Scrum framework. The depth of discussion is significant, as it explores the impact of Scrum on various participants, including leadership engagement and team collaboration, thus demonstrating a strong alignment with the core themes of Scrum.",
+    "level": "Primary"
   }
 }

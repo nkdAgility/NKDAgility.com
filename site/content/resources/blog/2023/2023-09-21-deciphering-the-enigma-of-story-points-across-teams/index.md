@@ -36,6 +36,7 @@ tags:
 - Operational Practices
 categories:
 - Social Technologies
+- Scrum
 - Product Management
 preview: naked-agility-technically-flow-not-velocity-5-5.jpg
 

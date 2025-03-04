@@ -39,8 +39,6 @@ tags:
 - People and Process
 categories:
 - Scrum
-- Product Management
-- Leadership
 preview: 495173592-1-1.jpg
 
 ---

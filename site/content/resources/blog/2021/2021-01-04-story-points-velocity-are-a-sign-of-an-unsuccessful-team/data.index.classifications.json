@@ -1331,15 +1331,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-13T21:52:11",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the misconceptions surrounding Story Points and Velocity in the context of Scrum, highlighting their lack of formal inclusion in the Scrum framework and emphasising the importance of understanding Scrum principles.",
-    "level": "Secondary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-17T09:08:36",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:30:13",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses the misconceptions surrounding Story Points and Velocity within the context of Scrum, directly addressing how these practices are often misinterpreted as essential to Scrum. It critiques the common beliefs held in the Scrum community and references the Scrum Guide to highlight what is actually mandated in Scrum. The depth of discussion is significant, as it explores the implications of using these metrics and their impact on team performance and adaptability, aligning well with Scrum principles. Overall, the content is primarily focused on Scrum, making it a strong fit for the category.",
+    "level": "Primary"
   }
 }

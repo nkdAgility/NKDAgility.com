@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the author's transition to a role focused on Application Lifecycle Management (ALM), detailing experiences and learnings related to ALM practices, processes, and tools. It highlights the importance of ALM in software development and governance, making it a central theme.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T00:20:55",
-    "ai_confidence": 70,
-    "non_ai_confidence": 50,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the author's experience with Scrum, including their learning and implementation of Scrum practices at SSW, making it a significant theme. However, it also covers other methodologies and personal career transitions, which dilutes the focus on Scrum.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T01:02:42",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and career transitions related to Agile methodologies and software development, without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:50:01",
+    "ai_confidence": 75.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 50,
+    "final_score": 72.0,
+    "reasoning": "The content discusses Scrum in the context of the author's experience and learning journey, highlighting its importance in software delivery processes. It mentions specific Scrum roles and practices, indicating a solid understanding of the framework. However, while Scrum is a significant focus, the content also touches on other methodologies and personal experiences, which slightly dilutes its primary focus on Scrum.",
+    "level": "Secondary"
   }
 }

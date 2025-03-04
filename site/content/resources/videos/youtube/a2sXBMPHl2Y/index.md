@@ -42,7 +42,7 @@ resourceTypes:
 categories:
 - DevOps
 - Leadership
-- Scrum
+- Engineering Excellence
 
 ---
 ## Private Training Courses: A Game Changer for Companies?

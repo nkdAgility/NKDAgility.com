@@ -26,7 +26,6 @@ tags:
 - Software Development
 categories:
 - Scrum
-- Social Technologies
 preview: IC749984-1-1.png
 
 ---

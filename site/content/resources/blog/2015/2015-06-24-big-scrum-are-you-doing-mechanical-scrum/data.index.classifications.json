@@ -350,15 +350,6 @@
     "reasoning": "Content heavily discusses Scrum and Agile methodologies, which are not directly related to Application Lifecycle Management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T22:01:03",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the principles and practices of Scrum, including the importance of Professional Scrum and the pitfalls of merely following the framework without embracing its values.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T22:01:12",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and Agile methodologies without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:34:31",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses Scrum, particularly focusing on the concept of 'Professional Scrum' and the importance of adhering to its values and principles. It addresses the challenges organisations face when they only implement 'mechanical Scrum' without fully embracing the framework's underlying philosophies. The depth of discussion is significant, as it explores the implications of ineffective Scrum practices and the potential for improved outcomes through proper implementation. Overall, the content aligns well with the core themes of Scrum, including the emphasis on team effectiveness and continuous improvement.",
+    "level": "Secondary"
   }
 }

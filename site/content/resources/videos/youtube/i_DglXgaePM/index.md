@@ -32,7 +32,8 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
 
 ---
 As I sit down to reflect on my recent experiences in the world of Agile and DevOps, I can't help but think about the rapid changes we are witnessing in the business landscape. The velocity of change is staggering, and it’s not just about adopting new processes; it’s about mastering the balance between engineering excellence and effective processes. 

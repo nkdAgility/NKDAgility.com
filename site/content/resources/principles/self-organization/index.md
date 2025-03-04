@@ -23,6 +23,7 @@ card:
   title: Self-Organization
 categories:
 - Scrum
+- Social Technologies
 tags:
 - People and Process
 - Scrum Master

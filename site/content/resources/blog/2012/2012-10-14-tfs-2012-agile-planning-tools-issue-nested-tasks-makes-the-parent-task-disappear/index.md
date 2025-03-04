@@ -40,8 +40,8 @@ tags:
 - Azure Boards
 - Backlog Refinement
 categories:
-- Scrum
 - Social Technologies
+- Scrum
 preview: metro-problem-icon-8-8.png
 
 ---

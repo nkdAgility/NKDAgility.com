@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the migration of work items within a system, which is a key aspect of managing the application lifecycle, particularly in the context of deployment and maintenance. It addresses issues related to work item history, change management, and the integration of tools, which are all relevant to Application Lifecycle Management.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T22:50:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to TFS migration and work item history conflicts, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T23:10:09",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to TFS migration and work item history, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:48:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses issues related to TFS (Team Foundation Server) migration and work item history conflicts, with no explicit mention of Scrum principles, roles, events, or artifacts. While it touches on work items, which are relevant in Scrum, it does not align with the core themes of the Scrum framework or its implementation. The focus is on technical migration challenges rather than Scrum practices.",
+    "level": "Quinary"
   }
 }

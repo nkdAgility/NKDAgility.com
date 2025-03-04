@@ -323,15 +323,6 @@
     "reasoning": "The content discusses immersive learning classes for Scrum roles, which aligns with Agile principles, but it primarily focuses on training offerings rather than a comprehensive discussion of the Agile Product Operating Model.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T14:57:28",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses Professional Scrum training courses, including roles and practices associated with Scrum, indicating a strong focus on Scrum principles and frameworks.",
-    "level": "Secondary"
-  },
   "DevOps": {
     "category": "DevOps",
     "calculated_at": "2025-02-17T14:58:03",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive learning classes and training schedules, with no clear focus on Artificial Intelligence or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:52:57",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on Scrum training courses, specifically the Professional Scrum Product Owner and Professional Scrum Master classes. It discusses the structure of these courses, which aligns with Scrum principles and practices. The mention of 'Professional Scrum Trainer' and the emphasis on hands-on learning and reflection are directly related to Scrum methodologies. However, while the content is rich in references to Scrum roles and training, it lacks a deeper exploration of the Scrum framework itself, such as specific events or artifacts, which slightly lowers the depth score.",
+    "level": "Secondary"
   }
 }

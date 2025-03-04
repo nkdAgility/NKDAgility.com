@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the process of upgrading a process template in Team Foundation Server (TFS), which is a key aspect of managing the application lifecycle, particularly in the context of deployment and maintenance stages. It includes detailed steps for managing work items, queries, and reports, which are integral to application lifecycle management practices.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T21:53:25",
-    "ai_confidence": 80,
-    "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the process of upgrading a process template in TFS, specifically mentioning the 'Scrum for Team System' template and detailing the work item types associated with Scrum, which aligns with Scrum practices.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T22:41:56",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses upgrading a process template in TFS, focusing on queries, reports, and work item types, without any mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:47:20",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 30,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the process of upgrading a process template specifically for 'Scrum for Team System', which directly relates to Scrum practices. It mentions various Scrum roles and work item types, such as 'Product Backlog Item', 'Sprint', and 'Sprint Retrospective', indicating a clear focus on Scrum principles. However, while it provides some detail on the commands and processes involved, it lacks a comprehensive exploration of Scrum's core themes, such as team dynamics and continuous improvement, which slightly lowers the confidence score.",
+    "level": "Secondary"
   }
 }

@@ -1331,15 +1331,6 @@
     "reasoning": "Content primarily discusses the Product Backlog in product development, which is not directly related to the principles or components of the One Engineering System framework.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-13T21:49:02",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses the Product Backlog, which is a key Scrum artifact, and touches on principles of transparency and continuous reflection, aligning with Scrum practices.",
-    "level": "Secondary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-13T21:49:04",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the Product Backlog in product development without any mention of AI or its integration within Agile methodologies or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:19:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the Product Backlog, a key Scrum artifact, discussing its importance, management, and the balance between being lean and future-ready. It explicitly mentions the Product Backlog multiple times and aligns well with Scrum principles, particularly regarding transparency and continuous improvement. However, while it provides a good depth of discussion on the backlog, it lacks a broader exploration of other Scrum roles and events, which slightly limits its overall alignment with the Scrum category.",
+    "level": "Secondary"
   }
 }

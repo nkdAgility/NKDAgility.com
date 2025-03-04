@@ -350,15 +350,6 @@
     "reasoning": "The content discusses issues related to build processes in Team Foundation Build, which is a part of the application lifecycle management process, particularly in the deployment and maintenance stages. However, it primarily focuses on troubleshooting specific build issues rather than a comprehensive discussion on ALM methodologies or practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T00:19:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to build processes in Team Foundation Build and does not focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T00:48:26",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to build processes in Team Foundation Build, with no mention of AI or its application in Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:49:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses issues related to build processes in Team Foundation Build, which is not directly related to Scrum principles, roles, or events. While it touches on aspects of team collaboration in the context of build management, it lacks explicit references to Scrum practices or frameworks, resulting in a low confidence score.",
+    "level": "Quinary"
   }
 }

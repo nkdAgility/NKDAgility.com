@@ -45,7 +45,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 ## Beyond Certification: A Deeper Dive Into the PSM II Course

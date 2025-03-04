@@ -557,15 +557,6 @@
     "reasoning": "Content primarily discusses Scrum values and the role of openness in team dynamics, without focusing on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:21:39",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the value of openness within the Scrum framework, emphasizing its importance for team dynamics and project management in a Scrum context.",
-    "level": "Secondary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T10:21:39",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum values and team dynamics without any mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:25:03",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the importance of openness and transparency within the Scrum framework, directly linking these concepts to trust, which is a critical aspect of Scrum values. It explores how transparency affects team dynamics and communication, aligning well with Scrum principles. The depth of discussion is substantial, as it delves into emotional contexts and practical implications of openness in Scrum practices, although it could benefit from more detailed exploration of specific Scrum roles and events.",
+    "level": "Secondary"
   }
 }

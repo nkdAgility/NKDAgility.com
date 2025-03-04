@@ -1349,15 +1349,6 @@
     "reasoning": "Content primarily discusses the concepts of resource efficiency and flow efficiency without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T08:29:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses resource efficiency and flow efficiency, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T08:29:09",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses resource efficiency and flow efficiency in organisational contexts, without any mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:26:53",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content discusses resource efficiency and flow efficiency, which are not directly related to Scrum principles or practices. While it touches on team dynamics and the importance of optimising work flow, it does not explicitly mention Scrum roles, events, or artifacts. The focus is more on general efficiency concepts rather than the Scrum framework, leading to a low confidence score.",
+    "level": "Quaternary"
   }
 }

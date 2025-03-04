@@ -45,8 +45,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Scrum
 - Social Technologies
+- Scrum
 
 ---
 **Worst agile advice you've ever heard?**

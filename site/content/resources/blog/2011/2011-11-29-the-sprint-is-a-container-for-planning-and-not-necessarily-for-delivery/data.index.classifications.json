@@ -350,15 +350,6 @@
     "reasoning": "The content discusses aspects of Continuous Delivery and deployment practices, which are relevant to the application lifecycle, but primarily focuses on Scrum methodology and its interpretation.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T21:43:43",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses Scrum principles, particularly the flexibility of the Scrum framework, the definition of done, and the relationship between planning and delivery, making it a central theme.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T10:28:38",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum methodology and Continuous Delivery without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:46:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content discusses Scrum principles and challenges common misconceptions about its rigidity. It mentions key Scrum concepts such as the Definition of Done and the role of the Development Team and Product Owner. However, it also diverges into Continuous Delivery, which, while related, is not strictly within the Scrum framework. The depth of discussion is substantial, but the focus on Continuous Delivery slightly detracts from a pure Scrum classification.",
+    "level": "Secondary"
   }
 }

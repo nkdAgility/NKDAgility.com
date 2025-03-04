@@ -350,15 +350,6 @@
     "reasoning": "The content discusses permissions and configurations in Team Foundation Server, which relates to managing aspects of the application lifecycle, but it primarily focuses on specific technical issues rather than the broader scope of Application Lifecycle Management.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T18:13:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses issues related to Team Foundation Server (TFS) configuration and permissions, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T19:53:15",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses configuration issues and permissions in Team Foundation Server, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:39:42",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 30,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses issues related to Team Foundation Server (TFS) and permissions management, with no direct mention of Scrum principles, roles, or events. While it touches on project administration, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is focused on technical solutions rather than Scrum practices, resulting in a very low confidence score.",
+    "level": "Quinary"
   }
 }

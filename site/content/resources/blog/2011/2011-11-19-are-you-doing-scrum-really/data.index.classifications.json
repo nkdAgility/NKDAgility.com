@@ -350,15 +350,6 @@
     "reasoning": "Content heavily discusses Scrum practices and principles, which are not directly related to Application Lifecycle Management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T21:47:58",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the principles and practices of Scrum, including roles, events, and a checklist for assessing Scrum implementation.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-17T09:09:10",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:47:07",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 32,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses various aspects of Scrum, including its principles, recent changes to the Scrum Guide, and practical checklists for assessing Scrum implementation. It directly mentions Scrum roles, events, and artifacts, demonstrating a strong alignment with the core themes of the category. The depth of discussion is significant, providing insights into both the challenges and adaptations within the Scrum framework, which supports a high confidence score.",
+    "level": "Primary"
   }
 }

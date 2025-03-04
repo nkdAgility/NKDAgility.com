@@ -557,15 +557,6 @@
     "reasoning": "Content heavily discusses Scrum training and Agile methodologies without a focus on decision-making processes or decision theory.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:22:21",
-    "ai_confidence": 70,
-    "non_ai_confidence": 50,
-    "final_score": 68.0,
-    "reasoning": "The content primarily discusses immersive Scrum training and certification courses, focusing on the development of Scrum roles such as Scrum Masters and Product Owners. While it is centered on Scrum training, it also touches on broader Agile themes.",
-    "level": "Secondary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T10:22:21",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum training and Agile methodologies without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:26:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 50,
+    "final_score": 34.0,
+    "reasoning": "The content briefly mentions Scrum in the context of agile practices and training but does not focus on Scrum principles, roles, or events in detail. The discussion primarily revolves around DevOps and training methodologies, with Scrum being a secondary topic rather than a primary focus.",
+    "level": "Quaternary"
   }
 }

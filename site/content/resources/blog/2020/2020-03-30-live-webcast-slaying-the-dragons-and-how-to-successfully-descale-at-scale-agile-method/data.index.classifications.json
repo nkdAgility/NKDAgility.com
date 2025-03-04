@@ -206,15 +206,6 @@
     "reasoning": "Content primarily discusses scaling Agile practices and the challenges organisations face, which directly relates to Agile principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T17:42:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses scaling agile practices but does not focus specifically on Scrum principles, roles, or events, making it not relevant enough to classify under the Scrum category.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-14T17:42:53",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses organisational change and scaling agile practices without a focus on AI applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:32:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on the challenges of organisational change and scaling agile practices, which can relate to Scrum principles. However, it lacks direct mentions of Scrum roles, events, or artifacts, and does not provide in-depth discussion on Scrum itself. The focus seems more on general agile scaling rather than specific Scrum practices.",
+    "level": "Quaternary"
   }
 }

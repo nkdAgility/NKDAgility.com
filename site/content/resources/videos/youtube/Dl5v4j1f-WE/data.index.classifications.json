@@ -1349,15 +1349,6 @@
     "reasoning": "Content heavily discusses personal values and experiences as a Scrum Trainer, with no focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T08:16:23",
-    "ai_confidence": 70,
-    "non_ai_confidence": 50,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the author's values and approach as a Professional Scrum Trainer, touching on Scrum principles and values, but it is more focused on personal reflections rather than a detailed discussion of Scrum practices or frameworks.",
-    "level": "Secondary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T08:16:25",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses personal values and priorities as a Professional Scrum Trainer, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:25:41",
+    "ai_confidence": 78.0,
+    "ai_mentions": 3,
+    "ai_alignment": 85.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content discusses the values and principles of Scrum, particularly in the context of being a Scrum trainer. It explicitly mentions Scrum values and the importance of integrity and honesty in training, which aligns well with the Scrum framework. The author reflects on their approach to consulting and helping others within the Scrum context, indicating a strong understanding of Scrum principles. However, while Scrum is a significant focus, the content also touches on broader themes of professional integrity and personal philosophy, which slightly dilutes the primary focus on Scrum.",
+    "level": "Secondary"
   }
 }

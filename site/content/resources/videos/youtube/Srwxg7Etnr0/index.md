@@ -42,7 +42,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 ## Deciphering the Sprint Goal Enigma **🎯**  

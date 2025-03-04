@@ -44,15 +44,6 @@
     "reasoning": "The content primarily focuses on a Q&A session covering various topics, including DevOps and Agility, without a clear emphasis on product management strategies or methodologies.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:46:31",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions Scrum and is related to a Scrum Trainer, but the primary focus is on a general Q&A session covering various topics, including DevOps and Agility.",
-    "level": "Tertiary"
-  },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
     "calculated_at": "2025-02-18T11:46:33",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses general topics related to DevOps and Agile without a specific focus on Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:31:38",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 40,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses the Professional Scrum Foundations class and the PSM I assessment, focusing on Scrum roles, events, and artifacts. It provides detailed insights into the Scrum framework, including practical exercises and the importance of understanding Scrum principles. The speaker also addresses common misconceptions about Scrum practices, reinforcing the content's alignment with Scrum principles. Overall, the depth of discussion and the number of direct mentions indicate a strong focus on Scrum.",
+    "level": "Primary"
   }
 }

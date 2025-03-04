@@ -1151,15 +1151,6 @@
     "reasoning": "The content primarily discusses the evolution of organisational change, the importance of leadership in fostering agility, and the need for continuous adaptation within teams, which aligns closely with the themes of people and process.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses concepts related to agility and continuous improvement, which are relevant to Scrum principles, but it primarily focuses on broader themes of organisational change and evolution rather than specific Scrum practices or frameworks.",
-    "level": "Tertiary"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
     "calculated_at": "2025-02-17T09:08:38",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile methodologies and organisational change without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:31:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the concept of agility and continuous change, which aligns with some Scrum principles, such as iterative progress and adaptation. However, it does not explicitly mention Scrum roles, events, or artifacts, and focuses more on a general philosophy of change rather than specific Scrum practices. The depth of discussion on Scrum-related topics is limited, leading to a moderate confidence score.",
+    "level": "Quaternary"
   }
 }

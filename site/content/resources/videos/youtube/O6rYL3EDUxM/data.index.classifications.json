@@ -1384,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile methodologies and practices without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:46:44",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 50,
+    "final_score": 72.0,
+    "reasoning": "The content discusses Agile principles and practices, particularly focusing on the importance of delivering working software iteratively, which aligns with Scrum's emphasis on regular delivery and feedback. However, it primarily critiques the misapplication of Agile rather than providing a detailed exploration of Scrum roles, events, or artifacts. While it mentions the Scrum Guide and its expectations, the overall focus is more on Agile as a broader concept rather than Scrum specifically.",
+    "level": "Secondary"
   }
 }

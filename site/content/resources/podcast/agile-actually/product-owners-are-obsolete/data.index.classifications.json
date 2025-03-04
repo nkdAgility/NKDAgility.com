@@ -557,15 +557,6 @@
     "reasoning": "Content primarily discusses the roles and relevance of product owners and product managers within Agile and Scrum frameworks, without a clear focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:21:49",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the role of the Product Owner, which is a key role in the Scrum framework, and touches on the differences between product management and product ownership within a Scrum context. However, the primary focus seems to be on the concept of product ownership rather than on the broader Scrum principles or framework.",
-    "level": "Tertiary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T10:21:49",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses product ownership and management within Agile methodologies, with no mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:25:17",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 55.0,
+    "ai_depth": 65.0,
+    "non_ai_confidence": 50,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of the Product Owner within the Scrum framework, indicating a direct mention of Scrum and its principles. It explores the relationship between product ownership and product management, which aligns with Scrum's emphasis on roles and responsibilities. However, the discussion is somewhat limited in depth, focusing primarily on the perceived obsolescence of the Product Owner role rather than a comprehensive exploration of Scrum practices or events. Overall, while Scrum is a significant part of the content, it does not delve deeply into the broader Scrum framework or its implementation.",
+    "level": "Secondary"
   }
 }

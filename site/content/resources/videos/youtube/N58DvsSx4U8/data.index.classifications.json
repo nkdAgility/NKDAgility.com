@@ -1349,15 +1349,6 @@
     "reasoning": "The content primarily discusses the journey towards adopting the One Engineering System (1ES) within a complex software project, detailing the challenges faced and the steps taken to unify processes and tools across teams.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T08:16:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "The content primarily discusses DevOps and its transformation, with only a brief mention of Agile and Scrum at the end, making Scrum not central to the overall narrative.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T08:16:39",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps processes and experiences without a clear focus on the application of AI in Agile or DevOps methodologies.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:25:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 50,
+    "final_score": 16.0,
+    "reasoning": "The content primarily discusses DevOps practices and experiences, with only a brief mention of Agile and Scrum at the end. It lacks a focused discussion on Scrum principles, roles, events, or artifacts, which are essential for a higher confidence score in this category.",
+    "level": "Quinary"
   }
 }

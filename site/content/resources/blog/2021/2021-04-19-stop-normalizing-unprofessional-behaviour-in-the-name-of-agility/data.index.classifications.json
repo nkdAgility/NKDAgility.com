@@ -1331,15 +1331,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on unprofessional behaviour in agile practices rather than the principles or components of the One Engineering System framework.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-13T21:50:57",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses Scrum principles and the importance of professionalism in agile practices, highlighting specific behaviours that contradict the agile mindset.",
-    "level": "Secondary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-17T09:08:36",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses unprofessional behaviour in Agile practices and Scrum events, with no mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:29:47",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content discusses Scrum events and highlights the importance of professionalism within the context of agile practices, which aligns with Scrum principles. It critiques unprofessional behaviours that contradict the agile mindset, indicating a clear understanding of Scrum's emphasis on team dynamics and continuous improvement. However, while it mentions Scrum and its principles, the focus is more on the critique of behaviours rather than an in-depth exploration of Scrum roles, events, or artifacts, leading to a moderate confidence score.",
+    "level": "Secondary"
   }
 }

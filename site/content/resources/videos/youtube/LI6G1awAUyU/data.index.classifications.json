@@ -557,15 +557,6 @@
     "reasoning": "Content is primarily focused on Agile, Scrum, and consulting challenges, without discussing decision-making processes, heuristics, or other elements of Decision Theory.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:22:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "While the content primarily focuses on DevOps consulting challenges, it mentions Scrum and Agile methodologies, indicating a connection to Scrum practices. However, Scrum is not the central topic.",
-    "level": "Tertiary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T10:22:00",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses challenges in DevOps and Agile consulting without any mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:25:36",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 50,
+    "final_score": 28.0,
+    "reasoning": "The content primarily discusses DevOps challenges and its relationship with Agile, with only brief mentions of Agile principles. While it touches on themes relevant to Scrum, such as feedback loops and team dynamics, it lacks a focused discussion on Scrum roles, events, or artifacts, which are essential for a higher confidence score in the Scrum category.",
+    "level": "Quaternary"
   }
 }

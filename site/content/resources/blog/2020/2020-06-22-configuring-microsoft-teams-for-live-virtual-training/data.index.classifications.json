@@ -179,15 +179,6 @@
     "reasoning": "The content primarily focuses on the technical setup and configuration of Microsoft Teams for virtual training, with only brief mentions of the human aspect related to training and collaboration. The main emphasis is on tools and processes rather than the interplay between people and structured methodologies.",
     "level": "Quaternary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses configuring Microsoft Teams for Professional Scrum classes, indicating a significant focus on Scrum-related training, but the primary topic is about Microsoft Teams setup rather than Scrum principles or practices.",
-    "level": "Tertiary"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
     "calculated_at": "2025-02-17T09:08:38",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring Microsoft Teams for virtual training, with no mention of AI or its applications in Agile, DevOps, or software development.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:31:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 50,
+    "final_score": 34.0,
+    "reasoning": "The content briefly mentions Scrum in the context of facilitating training sessions but lacks a detailed discussion on Scrum principles, roles, or events. While it touches on the importance of configuration for Professional Scrum classes, it does not delve into the Scrum framework or its core themes, resulting in a low confidence score.",
+    "level": "Quaternary"
   }
 }

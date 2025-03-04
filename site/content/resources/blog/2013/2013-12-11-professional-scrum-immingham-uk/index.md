@@ -43,7 +43,6 @@ tags:
 - People and Process
 categories:
 - Scrum
-- Social Technologies
 preview: nakedalm-experts-professional-scrum-6-6.png
 
 ---

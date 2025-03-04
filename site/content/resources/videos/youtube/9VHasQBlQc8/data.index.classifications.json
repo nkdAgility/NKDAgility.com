@@ -1349,15 +1349,6 @@
     "reasoning": "The content discusses the importance of trust and patience in agile organisations, which aligns with human-centric approaches and adaptive organisational cultures, but it does not primarily focus on BetaCodex principles.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T14:53:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of trust and patience in agile organisations, which aligns with Scrum principles, but it does not focus primarily on Scrum itself.",
-    "level": "Tertiary"
-  },
   "Social Technologies": {
     "category": "Social Technologies",
     "calculated_at": "2025-02-17T14:53:21",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the importance of trust and patience in Agile organisations without any mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:52:40",
+    "ai_confidence": 52.0,
+    "ai_mentions": 3,
+    "ai_alignment": 60.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the importance of trust and patience within organisations, which aligns with Scrum principles of team dynamics and continuous improvement. However, it does not explicitly mention Scrum roles, events, or artifacts, leading to a moderate confidence score. The discussion is relevant but lacks depth in specific Scrum practices.",
+    "level": "Tertiary"
   }
 }

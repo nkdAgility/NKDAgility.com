@@ -1384,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Caman and Scrum methodologies without any mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:45:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 50,
+    "final_score": 34.0,
+    "reasoning": "The content mentions Scrum multiple times but primarily focuses on Caman as a separate strategy. While it acknowledges Scrum, it does not delve into Scrum's principles, roles, or practices in detail, which diminishes its alignment with the Scrum category. The discussion lacks depth regarding Scrum itself, making it a secondary focus rather than a primary one.",
+    "level": "Quaternary"
   }
 }

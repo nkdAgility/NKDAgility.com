@@ -1,13 +1,4 @@
 {
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T15:41:06",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses Scrum practices, specifically focusing on Sprint success strategies, including the definition of done, managing work in a Sprint, and the importance of refinement, which are all central to the Scrum framework.",
-    "level": "Secondary"
-  },
   "Kanban": {
     "category": "Kanban",
     "calculated_at": "2025-02-17T15:41:07",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile methodologies and Scrum practices without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:14:47",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses key Scrum concepts such as the definition of done, Sprint planning, and refinement, which are central to the Scrum framework. It provides detailed insights into how teams can improve their Sprint success by managing their workload and planning effectively, aligning well with Scrum principles. The depth of discussion is significant, covering practical strategies for Scrum implementation, which enhances the overall confidence score.",
+    "level": "Primary"
   }
 }

@@ -1367,15 +1367,6 @@
     "reasoning": "Content primarily discusses personal consulting experiences and training methodologies, with no clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T21:47:54",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses agile and scrum in the context of training and consulting, making it a major but secondary theme.",
-    "level": "Tertiary"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:56:18",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses consulting and training experiences in Agile and DevOps, with no mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:21:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 50,
+    "final_score": 34.0,
+    "reasoning": "The content briefly mentions agile and scrum in the context of training and consulting but lacks a focused discussion on Scrum principles, roles, events, or artifacts. While it touches on the challenges faced by organisations in adopting agile methodologies, it does not delve into the specifics of the Scrum framework or its implementation, which are crucial for a higher confidence score in this category.",
+    "level": "Quaternary"
   }
 }

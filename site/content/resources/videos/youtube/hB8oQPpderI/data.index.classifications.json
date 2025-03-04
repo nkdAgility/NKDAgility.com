@@ -557,15 +557,6 @@
     "reasoning": "Content primarily discusses the benefits of attending courses versus reading books without a focus on decision-making processes or the principles of Decision Theory.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T09:08:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the importance of interactive learning in Agile and Scrum courses, indicating a focus on Scrum training, which is a significant theme, but it is primarily about the learning experience rather than Scrum principles or frameworks.",
-    "level": "Tertiary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T09:08:21",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the benefits of attending courses over reading books, focusing on Agile and Scrum methodologies without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:24:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions agile concepts and the value of discussions in a learning environment, which could relate to Scrum principles. However, it does not explicitly discuss Scrum roles, events, or artifacts, nor does it delve into the core themes of Scrum. The focus is more on the comparison between reading and attending a course rather than on Scrum itself.",
+    "level": "Quaternary"
   }
 }

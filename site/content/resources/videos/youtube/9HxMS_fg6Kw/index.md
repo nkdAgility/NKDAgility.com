@@ -37,6 +37,7 @@ resourceTypes:
 - video
 categories:
 - Social Technologies
+- Scrum
 
 ---
 What are some big red flags when hiring an agile consultant?

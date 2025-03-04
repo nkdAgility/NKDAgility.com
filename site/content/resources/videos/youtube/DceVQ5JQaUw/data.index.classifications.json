@@ -557,15 +557,6 @@
     "reasoning": "Content primarily discusses the clash between agile and traditional management practices, with a focus on challenges faced by agile consultants, rather than on decision-making processes or theories in uncertain environments.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content mentions Scrum and discusses issues related to Agile consulting in Scrum environments, making Scrum a major but secondary theme.",
-    "level": "Tertiary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T08:37:40",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile methodologies and the challenges faced by Agile consultants, with no mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:24:58",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 30,
+    "final_score": 41.0,
+    "reasoning": "The content briefly mentions agile and scrum but primarily focuses on the role of consultants in facilitating change rather than discussing Scrum principles, roles, or events in detail. While it touches on themes of collaboration and challenging the status quo, it lacks a thorough exploration of Scrum's framework or practices.",
+    "level": "Tertiary"
   }
 }

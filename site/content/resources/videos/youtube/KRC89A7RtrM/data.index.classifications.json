@@ -557,15 +557,6 @@
     "reasoning": "Content is primarily focused on accessing features in TFS 2013 and does not discuss decision-making processes or related topics.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:35:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses accessing features in TFS 2013, which is not primarily about Scrum.",
-    "level": "Ignored"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T11:35:53",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses access issues related to TFS 2013 and does not address AI or its integration within Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:37:54",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses permissions and access levels in Team Foundation Server (TFS) without any direct mention of Scrum principles, roles, events, or artifacts. While it touches on agile tools like backlog and sprint planning, it does not delve into Scrum's framework or its core themes, making it largely irrelevant to the Scrum category.",
+    "level": "Quinary"
   }
 }

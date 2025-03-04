@@ -1367,15 +1367,6 @@
     "reasoning": "Content primarily discusses the limitations of traditional organizational structures on agile practices, without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T17:10:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the impact of traditional organizational structures on agility, mentioning Scrum and agile principles as part of a broader critique of management styles. However, Scrum is not the primary focus.",
-    "level": "Tertiary"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:49:11",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses organizational structures and their impact on Agile methodologies, without any mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:16:27",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 30,
+    "final_score": 44.0,
+    "reasoning": "The content discusses the impact of traditional organizational structures on agility, which indirectly relates to Scrum principles, particularly regarding the role of the Product Owner and self-organisation. However, it primarily focuses on the broader concept of agility rather than specific Scrum practices or frameworks, leading to a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

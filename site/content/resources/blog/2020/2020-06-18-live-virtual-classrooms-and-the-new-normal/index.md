@@ -35,6 +35,7 @@ tags:
 - Pragmatic Thinking
 categories:
 - Social Technologies
+- Scrum
 preview: image-1-1-1.png
 
 ---

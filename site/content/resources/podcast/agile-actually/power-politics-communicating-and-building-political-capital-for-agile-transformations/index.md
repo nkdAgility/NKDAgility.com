@@ -9,6 +9,7 @@ weight: 1000
 categories:
 - Leadership
 - Social Technologies
+- Scrum
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast

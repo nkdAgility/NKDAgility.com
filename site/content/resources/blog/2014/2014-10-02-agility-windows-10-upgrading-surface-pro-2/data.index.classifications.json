@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses the upgrade process to Windows 10 and personal experiences with the Technical Preview, rather than focusing on the methodologies, practices, or tools involved in managing the application lifecycle.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T09:03:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "The content primarily discusses the upgrade to Windows 10 and the implications of agile practices at Microsoft, but it does not focus on Scrum principles, roles, events, or artifacts.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T17:51:12",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the upgrade process of Windows 10 and personal experiences with the Technical Preview, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:36:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 50,
+    "final_score": 16.0,
+    "reasoning": "The content primarily discusses the upgrade to Windows 10 and the implications of continuous delivery in software development, with only a brief mention of Scrum principles in the context of agility. It lacks a focused discussion on Scrum roles, events, or artifacts, and does not delve into the core themes of the Scrum framework.",
+    "level": "Quinary"
   }
 }

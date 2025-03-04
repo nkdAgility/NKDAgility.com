@@ -1250,15 +1250,6 @@
     "reasoning": "Content primarily discusses the philosophical approach to consulting engagements rather than focusing on throughput measurement or optimisation.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T19:27:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses the importance of pragmatism and empirical adaptation in consulting engagements but does not specifically address Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T19:27:40",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the concepts of dogma and empiricism in consulting engagements, with no clear focus on Artificial Intelligence or its application in Agile, DevOps, or software development.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:19:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on the importance of pragmatism and empirical adaptation, which aligns with some Agile principles, but it does not explicitly mention Scrum or its specific roles, events, or artifacts. The discussion lacks depth regarding Scrum practices and does not focus on the framework itself, leading to a low confidence score.",
+    "level": "Quaternary"
   }
 }

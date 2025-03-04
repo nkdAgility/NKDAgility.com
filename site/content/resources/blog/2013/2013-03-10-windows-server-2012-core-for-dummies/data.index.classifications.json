@@ -350,15 +350,6 @@
     "reasoning": "Content primarily focuses on setting up and configuring Windows Server 2012 Core, with no clear discussion on the methodologies, practices, or tools related to Application Lifecycle Management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T19:22:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Windows Server 2012 Core setup and management, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T20:26:55",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Windows Server 2012 Core setup and configuration, with no mention of AI or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:42:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on setting up and configuring Windows Server 2012 Core, with no direct mentions of Scrum principles, roles, events, or practices. While there is a brief mention of Team Foundation Server (TFS), which is related to project management, it does not discuss Scrum or its frameworks in any meaningful way. Therefore, the content does not align with the Scrum category.",
     "level": "Ignored"
   }
 }

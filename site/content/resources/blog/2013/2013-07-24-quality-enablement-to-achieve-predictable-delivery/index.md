@@ -36,6 +36,7 @@ tags:
 categories:
 - Engineering Excellence
 - DevOps
+- Scrum
 preview: nakedalm-experts-professional-scrum-2-2.png
 
 ---

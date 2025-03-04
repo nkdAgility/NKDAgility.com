@@ -37,6 +37,7 @@ resourceTypes:
 - video
 categories:
 - Leadership
+- Scrum
 
 ---
 In my journey through the world of Agile and DevOps, I've often found myself reflecting on the profound changes that have swept through our industries over the past decade and a half. Today, I want to share some insights from my recent presentation on leading Agile change, particularly in the context of the challenges we face in adapting to a rapidly evolving landscape.

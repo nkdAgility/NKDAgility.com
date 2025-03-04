@@ -28,7 +28,8 @@ tags:
 - Azure Boards
 - Azure DevOps
 - Software Development
-categories: []
+categories:
+- Scrum
 
 ---
 In some cases you want to be creating a Work Item with defaults in Team Foundation Server so that you can give access to users but also give them guidance on what to fill out.

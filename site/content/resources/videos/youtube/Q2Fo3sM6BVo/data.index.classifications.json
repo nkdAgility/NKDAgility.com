@@ -557,15 +557,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events, with no emphasis on decision-making processes or theories related to uncertainty.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:22:17",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the Scrum Framework, including its values, accountabilities, artifacts, and events, while also indicating a focus on the Scrum process itself.",
-    "level": "Secondary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T11:22:17",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the Scrum framework and its components, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:29:07",
+    "ai_confidence": 95.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 95.0,
+    "ai_depth": 90.0,
+    "non_ai_confidence": 50,
+    "final_score": 90.0,
+    "reasoning": "The content provides a comprehensive overview of the Scrum framework, detailing its values, roles, artifacts, and events. It explicitly discusses the Scrum Master, Product Owner, and Development Team roles, as well as the five Scrum events and three artifacts, aligning closely with the core themes of the Scrum category. The depth of discussion is significant, covering the principles of empiricism and the importance of transparency, inspection, and adaptation, which are central to Scrum. Overall, the content is highly relevant and detailed, making it a strong fit for the Scrum category.",
+    "level": "Primary"
   }
 }

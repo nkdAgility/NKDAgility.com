@@ -1349,15 +1349,6 @@
     "reasoning": "Content primarily discusses business strategies, product ownership, and methodologies like Scrum and Kanban, without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T08:35:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Scrum as a tool for improving business effectiveness and highlights the importance of product ownership, which is a key aspect of the Scrum framework. However, it also mentions Kanban and focuses on broader business strategies, making Scrum a major but secondary theme.",
-    "level": "Tertiary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T08:35:32",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses business strategies, Scrum, and Kanban methodologies without any mention of Artificial Intelligence or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:27:49",
+    "ai_confidence": 65.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 50,
+    "final_score": 64.0,
+    "reasoning": "The content discusses Scrum as a tool for improving business effectiveness and highlights the importance of product ownership, which aligns with Scrum principles. However, it also mentions Kanban, which detracts from the focus on Scrum. The discussion is somewhat detailed but lacks a comprehensive exploration of Scrum roles and events.",
+    "level": "Secondary"
   }
 }

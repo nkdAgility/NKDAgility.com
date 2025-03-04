@@ -35,6 +35,7 @@ resourceTypes:
 - video
 categories:
 - Social Technologies
+- Scrum
 
 ---
 In my journey through the world of product development, I've often found myself reflecting on the importance of making informed decisions that truly benefit our users. Recently, I had the opportunity to delve into the Professional Scrum with User Experience (PSU) course, and I can confidently say that it has profoundly shaped my understanding of effective product development. 

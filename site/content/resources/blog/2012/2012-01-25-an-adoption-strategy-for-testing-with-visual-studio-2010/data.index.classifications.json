@@ -350,15 +350,6 @@
     "reasoning": "The content discusses tools and practices related to testing and Agile methodologies, which are relevant to Application Lifecycle Management, but the primary focus is on testing strategies rather than the entire application lifecycle.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses agile practices and mentions Professional Scrum Developer training, indicating a significant but secondary theme related to Scrum.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T21:37:59",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses testing strategies and tools related to Visual Studio 2010, with a focus on Agile practices, but does not mention or relate to Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:46:48",
+    "ai_confidence": 55.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 50,
+    "final_score": 54.0,
+    "reasoning": "The content briefly mentions Scrum in the context of agile practices and training, indicating some relevance to the Scrum category. However, the primary focus is on testing tools and Visual Studio, with Scrum being a secondary topic. The discussion lacks depth regarding Scrum roles, events, or artifacts, which are central to the category. Therefore, while there is some alignment, it does not meet the criteria for a primary focus on Scrum.",
+    "level": "Tertiary"
   }
 }

@@ -1384,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile practices and the concept of Sprints without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:51:21",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content explicitly mentions Sprints, which is a core component of the Scrum framework, indicating a direct mention. It aligns with Scrum principles by discussing the importance of delivering usable working products and avoiding practices that could undermine the iterative process. However, the depth of discussion is limited as it primarily focuses on the negative aspects of certain Sprint practices without elaborating on the broader Scrum framework or its roles and events.",
+    "level": "Secondary"
   }
 }

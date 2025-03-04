@@ -1349,15 +1349,6 @@
     "reasoning": "Content heavily discusses becoming a Scrum Master and Agile methodologies, which are not directly related to the One Engineering System framework.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T08:29:16",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the journey and advice for becoming a Scrum Master, including Scrum principles, certification, and training, making Scrum a central theme.",
-    "level": "Secondary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T08:29:18",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:26:56",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master, discussing the necessary background and understanding required to be effective in that position. It explicitly mentions the Scrum Master role multiple times and explores the importance of team dynamics and leadership within the Scrum framework. While it does not delve deeply into specific Scrum events or artifacts, it aligns well with the core themes of Scrum, particularly in terms of team collaboration and continuous improvement. The discussion is detailed enough to provide valuable insights into becoming a Scrum Master, thus justifying a high confidence score.",
+    "level": "Secondary"
   }
 }

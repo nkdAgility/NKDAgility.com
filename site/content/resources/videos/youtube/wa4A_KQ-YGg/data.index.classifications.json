@@ -1349,15 +1349,6 @@
     "reasoning": "Content primarily discusses immersive training courses and Agile training methodologies, with no clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T08:27:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses immersive training courses that include Agile training and mentions Scrum, but it primarily focuses on the training format rather than Scrum principles or practices.",
-    "level": "Tertiary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T08:27:32",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive training courses and Agile methodologies without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:26:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 50,
+    "final_score": 34.0,
+    "reasoning": "The content briefly mentions Scrum in the context of a product owner class and discusses immersive training experiences that could relate to Scrum principles. However, the primary focus is on immersive training rather than Scrum itself, leading to a low confidence score. The discussion lacks depth on Scrum roles, events, or core principles, and while there is a mention of agile concepts, it does not delve into Scrum's specific frameworks or practices.",
+    "level": "Quaternary"
   }
 }

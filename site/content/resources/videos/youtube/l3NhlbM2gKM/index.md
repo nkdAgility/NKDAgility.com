@@ -43,6 +43,7 @@ resourceTypes:
 - video
 categories:
 - Social Technologies
+- Scrum
 
 ---
 # Unraveling the Story Point Myth in Scrum: A Path to Clarity 🚀

@@ -557,15 +557,6 @@
     "reasoning": "The content discusses understanding client needs and making informed choices in engagement strategies, which aligns with decision-making processes. However, the primary focus is on consulting practices within Agile and not directly on decision theory itself.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:22:31",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions Scrum in the context of consulting and improving agile practices, indicating that Scrum is a significant theme in discussing agile methodologies, but it primarily focuses on client interactions and consulting benefits.",
-    "level": "Tertiary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T10:22:31",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile consulting and client engagement without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:27:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 65.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 50,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of an agile consultant and their interactions with clients, including references to Scrum practices and the Scrum Master role. While it touches on Scrum principles, the focus is more on client engagement and the challenges of consulting rather than a deep exploration of Scrum itself. The mention of Scrum is not the primary focus, but it is significant enough to warrant a moderate confidence score.",
+    "level": "Secondary"
   }
 }

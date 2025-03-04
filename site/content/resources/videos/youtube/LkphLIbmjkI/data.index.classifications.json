@@ -1367,15 +1367,6 @@
     "reasoning": "Content heavily discusses Agile coaching and Scrum practices without a focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T21:36:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the role of Agile consultants and coaches in relation to Scrum teams, indicating a major theme around Scrum principles and practices, but also includes significant focus on Agile and DevOps concepts.",
-    "level": "Tertiary"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:56:01",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile consulting and coaching without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:21:36",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 50,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the role of Agile consultants and coaches in relation to Scrum teams, highlighting the importance of understanding Scrum principles and practices. While Scrum is mentioned, the focus is more on the broader context of Agile and technical aspects rather than a deep dive into Scrum itself. The discussion touches on Scrum roles and the need for technical understanding, but it does not extensively cover Scrum events or artifacts, which affects the depth of discussion.",
+    "level": "Secondary"
   }
 }

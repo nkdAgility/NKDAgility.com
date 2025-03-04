@@ -36,8 +36,6 @@ tags:
 - Software Development
 categories:
 - Scrum
-- Engineering Excellence
-- Social Technologies
 preview: staggered-iterations-for-delivery1-2-2.png
 
 ---

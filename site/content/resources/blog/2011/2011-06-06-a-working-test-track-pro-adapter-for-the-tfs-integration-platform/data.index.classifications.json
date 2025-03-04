@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the development and functionality of a Test Track Pro Adapter for the TFS Integration Platform, which is closely related to managing the lifecycle of software applications, particularly in the context of integration and migration processes. It includes details about change management, conflict resolution, and the handling of work items, which are relevant to Application Lifecycle Management.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T22:46:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the development of a Test Track Pro Adapter for the TFS Integration Platform, focusing on technical details and debugging processes, with no clear relation to Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T23:37:33",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the development of a TFS Integration Platform Adapter, focusing on technical implementation details and debugging, with no mention of AI applications or relevance to Agile or DevOps methodologies.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:48:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the development of a Test Track Pro Adapter for the TFS Integration Platform, discussing technical details and debugging processes. There are no direct mentions of Scrum principles, roles, events, or artifacts, and the content does not align with the core themes of Scrum or Agile methodologies. The only potential alignment is a vague reference to project management through the context of integration, but it lacks depth and specificity related to Scrum.",
     "level": "Ignored"
   }
 }

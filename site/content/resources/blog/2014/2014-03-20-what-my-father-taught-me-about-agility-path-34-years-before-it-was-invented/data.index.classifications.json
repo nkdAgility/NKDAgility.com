@@ -350,15 +350,6 @@
     "reasoning": "The content discusses Evidence-based Management in the context of organisational improvements and software development, touching on metrics and practices that could relate to application lifecycle management, but it primarily focuses on broader management principles rather than the specific stages and practices of ALM.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Evidence-based Management in the context of Scrum practices and metrics, indicating a significant but secondary theme related to Scrum.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T11:23:17",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Evidence-based Management and its application in organisational improvements, with no clear focus on Artificial Intelligence or its integration within Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:37:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content discusses Evidence-based Management in the context of Scrum, mentioning Scrum.org and its practices. It aligns with Scrum principles by focusing on value delivery, team dynamics, and continuous improvement. However, while it references Scrum, the primary focus is on Evidence-based Management rather than Scrum itself, which slightly lowers the confidence score.",
+    "level": "Secondary"
   }
 }

@@ -1384,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Lean and Scrum methodologies without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:49:59",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content discusses Scrum principles, particularly the role of the Product Owner and the importance of focus in delivering value, which aligns well with Scrum's core themes. It also touches on the challenges of multitasking in a Scrum context, indicating a good depth of discussion. However, it also references Lean principles, which slightly detracts from its primary focus on Scrum.",
+    "level": "Secondary"
   }
 }

@@ -23,6 +23,7 @@ card:
   title: Empirical Process Control
 categories:
 - Scrum
+- Social Technologies
 tags:
 - Empirical Process Control
 - Transparency

@@ -33,6 +33,7 @@ resourceTypes:
 layout: video
 categories:
 - Social Technologies
+- Scrum
 
 ---
 ## Scrum Master vs. Seasoned Agile Coach: What Sets Them Apart?

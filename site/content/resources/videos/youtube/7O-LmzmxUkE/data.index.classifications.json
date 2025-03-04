@@ -1367,15 +1367,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T17:08:23",
-    "ai_confidence": 90,
-    "non_ai_confidence": 50,
-    "final_score": 86.0,
-    "reasoning": "Content primarily discusses Scrum events, their purposes, and the importance of inspection and adaptation within the Scrum framework.",
-    "level": "Primary"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:48:49",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:16:05",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content explicitly discusses various Scrum events and their purposes, particularly focusing on the importance of inspection and adaptation within the framework. It provides detailed insights into specific Scrum events like Sprint planning and Daily Scrum, aligning well with the core themes of the Scrum category. The depth of discussion is significant, as it critiques common misconceptions about Scrum and emphasises the empirical nature of its practices. Overall, the content is highly relevant to the Scrum category.",
+    "level": "Primary"
   }
 }

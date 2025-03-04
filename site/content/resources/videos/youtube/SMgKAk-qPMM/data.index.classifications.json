@@ -1349,15 +1349,6 @@
     "reasoning": "Content heavily discusses agile principles and practices, particularly focusing on Scrum and the concept of temperance, without addressing BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T14:56:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the concept of temperance within the context of Agile, specifically mentioning Scrum principles and the importance of managing backlog effectively, which aligns with Scrum practices.",
-    "level": "Tertiary"
-  },
   "Social Technologies": {
     "category": "Social Technologies",
     "calculated_at": "2025-02-17T14:56:20",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile principles and practices without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:52:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the concept of 'temperance' within the context of Agile, specifically referencing Scrum principles such as backlog management and the mantra of 'just enough and no more.' While it does not explicitly detail Scrum roles or events, it aligns with Agile principles and reflects on Scrum practices. The depth of discussion is moderate, focusing on the importance of minimising effort and maximising value, which are key themes in Scrum. However, it lacks comprehensive coverage of the Scrum framework itself, leading to a slightly lower confidence score.",
+    "level": "Secondary"
   }
 }

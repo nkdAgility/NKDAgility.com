@@ -350,15 +350,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T21:57:00",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the role of Scrum Masters, the importance of Scrum training, and the implementation of Scrum within organisations.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T01:37:36",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:47:27",
+    "ai_confidence": 82.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 28,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the role of the Scrum Master, the importance of Scrum training, and the challenges of implementing Scrum in organisations. It directly mentions Scrum multiple times and aligns well with key topics such as Scrum roles and the need for effective change agents. The depth of discussion is significant, providing insights into the Professional Scrum Master course and its relevance to Scrum adoption, which supports a high confidence score.",
+    "level": "Secondary"
   }
 }

@@ -34,7 +34,8 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
 
 ---
 My name is Martin Hinshelwood, and I work for Naked Agility in Scotland, where we specialise in digital transformations, DevOps, and agile methodologies for a variety of clients. Today, I want to share my insights on the VSTS sync migration tools, a topic that has garnered much interest in our community. 

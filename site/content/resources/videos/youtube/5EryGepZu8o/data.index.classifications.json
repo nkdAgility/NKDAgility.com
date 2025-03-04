@@ -1349,15 +1349,6 @@
     "reasoning": "Content heavily discusses Scrum principles and practices, which are not aligned with the One Engineering System framework.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T08:33:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Scrum principles and the importance of understanding its underlying concepts, but it primarily focuses on empiricism and complexity rather than Scrum itself.",
-    "level": "Tertiary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T08:33:56",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum principles and practices without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:27:19",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 66.0,
+    "reasoning": "The content discusses Scrum principles but focuses more on the underlying concepts of empiricism and complexity rather than the Scrum framework itself. While it mentions Scrum and its importance, the primary emphasis is on understanding the principles behind it rather than detailing Scrum roles, events, or artifacts. This results in a moderate confidence score, as it aligns with Scrum discussions but lacks depth in specific Scrum practices.",
+    "level": "Secondary"
   }
 }

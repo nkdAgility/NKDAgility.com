@@ -1367,15 +1367,6 @@
     "reasoning": "Content primarily discusses the concept of wrath in Agile environments, focusing on accountability and blame culture, which does not align with the principles of the One Engineering System.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T17:11:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses accountability and team dynamics within the context of a Sprint review, which relates to Scrum principles, but it primarily focuses on the concept of wrath in Agile rather than Scrum itself.",
-    "level": "Tertiary"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:49:25",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile principles and team dynamics, with no mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:16:41",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 30,
+    "final_score": 63.0,
+    "reasoning": "The content discusses the concept of 'wrath' within Agile teams, specifically highlighting accountability issues during a Sprint review, which directly relates to Scrum principles. It mentions the roles of the Product Owner and the Development Team, indicating a clear connection to Scrum roles. However, while it touches on Scrum events, the overall focus is more on the cultural implications of Agile rather than a detailed exploration of Scrum practices or frameworks. Thus, while it aligns well with Scrum concepts, it does not delve deeply into the framework itself.",
+    "level": "Secondary"
   }
 }

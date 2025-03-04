@@ -1367,15 +1367,6 @@
     "reasoning": "Content primarily discusses the differences between average and great Agile developers, focusing on personal development and learning rather than the principles or implementation of the One Engineering System.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T22:50:58",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the qualities of great agile developers and touches on learning and engagement, which are relevant to Scrum principles, but it primarily focuses on personal development rather than Scrum-specific roles, events, or practices.",
-    "level": "Tertiary"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:57:28",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between average and great Agile developers, focusing on learning, engagement, and training methods, without any mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:22:44",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 50,
+    "final_score": 43.0,
+    "reasoning": "The content discusses the qualities of great agile developers and touches on learning and engagement, which are relevant to Scrum principles. However, it lacks a direct focus on Scrum roles, events, or artifacts, and does not delve deeply into Scrum-specific practices. The mention of 'agile' is present but is not explicitly tied to Scrum, leading to a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

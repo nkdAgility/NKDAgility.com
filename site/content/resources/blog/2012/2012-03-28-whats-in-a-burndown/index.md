@@ -39,8 +39,6 @@ tags:
 - People and Process
 categories:
 - Scrum
-- Social Technologies
-- Product Management
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

@@ -350,15 +350,6 @@
     "reasoning": "The content discusses issues related to source control migration and error handling in TFS, which are relevant to the application lifecycle, particularly in the deployment and maintenance stages. However, it primarily focuses on a specific error and its resolution rather than a broader discussion on application lifecycle management methodologies or practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T19:43:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a technical issue related to TFS (Team Foundation Server) and does not focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T21:10:33",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to TFS migration and version control, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:43:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to TFS (Team Foundation Server) and does not mention Scrum principles, roles, events, or any related concepts. There is no focus on collaborative project management or Agile principles, which are central to the Scrum framework.",
     "level": "Ignored"
   }
 }

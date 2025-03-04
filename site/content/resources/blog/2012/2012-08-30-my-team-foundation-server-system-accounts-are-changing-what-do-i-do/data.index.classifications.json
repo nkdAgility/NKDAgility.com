@@ -350,15 +350,6 @@
     "reasoning": "The content discusses managing service accounts for Team Foundation Server, which is related to the maintenance and operational aspects of application lifecycle management, but it primarily focuses on account management rather than the broader lifecycle stages.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T19:32:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses service accounts and management in Team Foundation Server, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T20:53:36",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses managing service accounts for Team Foundation Server and does not relate to Artificial Intelligence or its application in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:43:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses service accounts related to Team Foundation Server (TFS) and does not mention Scrum principles, roles, events, or any related topics. It lacks any direct references to Scrum or its framework, making it irrelevant to the category.",
     "level": "Ignored"
   }
 }

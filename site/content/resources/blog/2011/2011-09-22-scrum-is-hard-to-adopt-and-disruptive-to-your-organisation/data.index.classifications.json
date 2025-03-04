@@ -350,15 +350,6 @@
     "reasoning": "Content heavily discusses Scrum adoption and Agile methodologies, which are not directly related to the management of the entire application lifecycle.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T22:00:35",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the challenges of adopting Scrum, its principles, and the necessary support for teams, making it a central theme.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T22:42:01",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum adoption and challenges without any mention of Artificial Intelligence or its integration within Agile methodologies or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:47:32",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 32,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses the challenges and nuances of adopting Scrum, including its principles, the need for training and mentoring, and the importance of iterative development. It directly references Scrum's framework and its implications for team dynamics and organisational change, demonstrating a strong alignment with Scrum principles. The depth of discussion is significant, providing detailed insights into the adoption process and the difficulties faced, which supports a high confidence score.",
+    "level": "Primary"
   }
 }

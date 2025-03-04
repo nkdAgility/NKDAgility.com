@@ -43,7 +43,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 Scaling Scrum: Overcoming Challenges with the Scaled Professional Scrum Course

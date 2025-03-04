@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the development and integration of a TFS Integration Platform Adapter, which is closely related to managing the lifecycle of software applications, particularly in the context of migration and updates of work items. It addresses aspects of application lifecycle management such as change management, integration of tools, and the handling of work item states, which are central to ALM practices.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T23:03:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the development of a TFS Integration Platform Adapter and does not focus on Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T23:41:04",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the development of a TFS Integration Platform Adapter and does not focus on the application of AI in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:48:27",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses the development of a TFS Integration Platform Adapter and does not explicitly mention Scrum principles, roles, events, or artifacts. While it may touch on aspects of project management and team collaboration indirectly, it lacks a direct focus on Scrum methodologies or frameworks.",
     "level": "Ignored"
   }
 }

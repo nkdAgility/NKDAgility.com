@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses an event focused on Application Lifecycle Management (ALM) practices, including live demonstrations and discussions about Agile methodologies and Microsoft tools that support ALM.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T21:58:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses an event focused on Application Lifecycle Management and Agile practices, but does not specifically address Scrum principles, roles, or events.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T22:41:59",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses an in-person event focused on Agile practices and Application Lifecycle Management, with no clear emphasis on Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:47:29",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions Agile principles and discusses an event focused on Application Lifecycle Management (ALM) and Agile practices. However, it does not explicitly address Scrum roles, events, or artifacts, nor does it delve into the Scrum framework or its implementation. The primary focus is on a coffee talk event rather than a detailed discussion of Scrum.",
+    "level": "Quaternary"
   }
 }

@@ -350,15 +350,6 @@
     "reasoning": "The content discusses the migration of data between systems (FogBugz to TFS), which is part of the application lifecycle, but primarily focuses on technical implementation details rather than broader ALM methodologies or practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T20:10:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the technical aspects of migrating data from FogBugz to TFS 2012, focusing on integration tools and development environments, with no clear reference to Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T21:31:08",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical process of migrating data from FogBugz to TFS 2012, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:44:39",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on technical aspects of migrating data between systems using TFS Integration Platform, with no direct references to Scrum roles, events, or principles. While it may touch on project management concepts, it does not align with the core themes of Scrum, such as iterative progress or team dynamics.",
     "level": "Ignored"
   }
 }

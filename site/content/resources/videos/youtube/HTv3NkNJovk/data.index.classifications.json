@@ -1349,15 +1349,6 @@
     "reasoning": "Content primarily discusses agile leadership and compares the leadership styles of Satya Nadella and Steve Jobs, without focusing on the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:22:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses agile leadership and mentions Scrum in the context of agile practices, but it primarily focuses on the comparison between Satya Nadella and Steve Jobs rather than on Scrum principles or frameworks.",
-    "level": "Tertiary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T10:22:45",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile leadership and comparisons between Steve Jobs and Satya Nadella, with no clear focus on Artificial Intelligence or its application in Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:28:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses leadership styles and comparisons between Satya Nadella and Steve Jobs, focusing on organisational culture and customer value rather than Scrum principles, roles, events, or practices. While it touches on themes of collaboration and value creation, it does not explicitly mention Scrum or its framework, leading to a low confidence score.",
+    "level": "Quinary"
   }
 }

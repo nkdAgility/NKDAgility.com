@@ -34,7 +34,6 @@ tags:
 - Agile Project Management
 categories:
 - Scrum
-- Social Technologies
 preview: Continous_Delivery_by_Jez_Humble_and_David_Farley-1-1.jpg
 
 ---

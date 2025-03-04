@@ -557,15 +557,6 @@
     "reasoning": "Content primarily focuses on Agile practices and tools rather than explicit decision-making processes in uncertain environments.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:21:34",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Agile principles and mentions Scrum training, suggesting Scrum is a significant aspect, but it does not primarily focus on Scrum itself.",
-    "level": "Tertiary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T10:21:34",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile principles and practices without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:24:42",
+    "ai_confidence": 52.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 50,
+    "final_score": 52.0,
+    "reasoning": "The content discusses Agile principles, which are relevant to Scrum, but it does not explicitly focus on Scrum roles, events, or artifacts. While it touches on the importance of principles in Agile, it lacks detailed discussion on Scrum-specific practices, leading to a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

@@ -35,6 +35,7 @@ resourceTypes:
 layout: video
 categories:
 - Social Technologies
+- Scrum
 
 ---
 ## The Missing Piece in My Initial Scrum Journey

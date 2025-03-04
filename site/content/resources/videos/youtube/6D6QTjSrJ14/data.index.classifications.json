@@ -1367,15 +1367,6 @@
     "reasoning": "Content primarily discusses immersive learning experiences and training formats, with no clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T18:55:35",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses immersive learning experiences and mentions Agile and Scrum, but it primarily focuses on the format of training rather than Scrum principles or practices.",
-    "level": "Tertiary"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:52:11",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive learning experiences and training formats, with no clear focus on Artificial Intelligence or its application in Agile, DevOps, or software development.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:19:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Agile and Scrum in the context of immersive learning experiences, but it does not delve into specific Scrum roles, events, or principles. While there is a focus on continuous development and feedback loops, which align with Scrum's iterative nature, the discussion lacks depth and does not provide detailed insights into Scrum practices or frameworks. The mention of 'Agile, Scrum, or DevOps' at the end is too vague to significantly enhance the relevance to the Scrum category.",
+    "level": "Quaternary"
   }
 }

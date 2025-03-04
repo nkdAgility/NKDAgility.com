@@ -23,8 +23,8 @@ card:
   title: Value-based Prioritization
 categories:
 - Product Management
-- Social Technologies
 - Scrum
+- Social Technologies
 tags:
 - Product Backlog
 - Scrum Product Development

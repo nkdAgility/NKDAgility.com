@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses network configuration issues related to Windows 8 and Hyper-V, with no relevance to application lifecycle management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T20:03:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to Windows 8 and Hyper-V networking, with no mention of Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T21:31:01",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses network configuration issues in Windows 8 and Hyper-V, with no mention of AI or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:44:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on a technical issue related to Windows 8 and Hyper-V networking, with no mention or discussion of Scrum principles, roles, events, or any related topics. It does not align with the core themes of Scrum, nor does it provide any depth on the subject. Therefore, it scores very low in all dimensions.",
     "level": "Ignored"
   }
 }

@@ -350,15 +350,6 @@
     "reasoning": "The content discusses issues related to Team Foundation Server (TFS) and its impact on version control, which is a component of application lifecycle management, but the primary focus is on troubleshooting a specific error rather than a comprehensive discussion of ALM practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T19:45:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to Team Foundation Server (TFS) and does not focus on Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T21:22:04",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to Team Foundation Server (TFS) and does not mention or relate to Artificial Intelligence in any capacity.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:43:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a technical issue related to Team Foundation Server (TFS) and does not mention Scrum principles, roles, events, or any related concepts. While it touches on project management tools, it lacks any direct references to Scrum or its framework, making it largely irrelevant to the category.",
+    "level": "Quinary"
   }
 }

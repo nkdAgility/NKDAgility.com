@@ -1250,15 +1250,6 @@
     "reasoning": "Content primarily discusses the role and responsibilities of the product owner in Agile, without a clear focus on throughput or its measurement and optimisation.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T22:30:59",
-    "ai_confidence": 70,
-    "non_ai_confidence": 30,
-    "final_score": 66.0,
-    "reasoning": "The content primarily discusses the role of the Product Owner within the Scrum framework, highlighting their responsibilities and the importance of collaboration and communication in an agile context. However, it also touches on broader product management concepts, which makes Scrum a major but secondary theme.",
-    "level": "Secondary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T22:31:01",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of the product owner in Agile leadership without any mention of Artificial Intelligence or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:22:30",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 30,
+    "final_score": 68.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner within the Scrum framework, discussing their responsibilities and the importance of collaboration and communication in an agile context. It mentions key aspects of Scrum, such as the iterative and incremental approach, and the need for empirical feedback, which aligns with Scrum principles. However, while it provides a good level of detail about the Product Owner's role, it lacks a comprehensive discussion of other Scrum roles, events, and artifacts, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   }
 }

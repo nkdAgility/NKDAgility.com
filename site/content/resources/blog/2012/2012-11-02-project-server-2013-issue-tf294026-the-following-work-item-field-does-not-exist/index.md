@@ -34,6 +34,7 @@ tags:
 - Troubleshooting
 categories:
 - Social Technologies
+- Scrum
 preview: metro-problem-icon-3-3.png
 
 ---

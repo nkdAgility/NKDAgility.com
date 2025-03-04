@@ -1387,11 +1387,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T09:35:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-04T10:40:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses migration from TFS to Azure DevOps, with no focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the migration from TFS to Azure DevOps, focusing on compatibility issues and system functionality. There are no direct mentions of Scrum roles, events, or principles, and the discussion does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is also limited to technical migration concerns rather than any Scrum-related practices.",
+    "level": "Quinary"
   }
 }

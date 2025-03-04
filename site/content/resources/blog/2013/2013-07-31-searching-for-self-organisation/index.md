@@ -25,9 +25,9 @@ aliasesArchive:
 tags:
 - Self Organisation
 categories:
+- Scrum
 - Leadership
 - Social Technologies
-- Scrum
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

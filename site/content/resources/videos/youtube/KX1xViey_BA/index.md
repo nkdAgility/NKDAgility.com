@@ -35,7 +35,8 @@ tags:
 - Organisational Physics
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
 
 ---
 ## People, Systems, and Finding the Balance 

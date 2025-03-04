@@ -1384,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Kanban and Scrum methodologies without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:41:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 61.0,
+    "reasoning": "The content primarily discusses the integration of Kanban practices within the Scrum framework, which is a secondary focus rather than a direct discussion of Scrum principles and practices. While it mentions Scrum roles, events, and the importance of empirical process control, the emphasis on Kanban practices and their application in a Scrum context detracts from a pure Scrum discussion. Therefore, while there are significant mentions and some depth regarding Scrum, the overall focus on Kanban leads to a moderate confidence score.",
+    "level": "Secondary"
   }
 }

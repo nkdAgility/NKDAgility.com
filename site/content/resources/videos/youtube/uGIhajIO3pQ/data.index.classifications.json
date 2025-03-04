@@ -1367,15 +1367,6 @@
     "reasoning": "Content primarily discusses an upcoming Agile event in Scotland and personal experiences related to it, with no focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T21:24:06",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content mentions Scrum as part of a broader discussion about Agile events and community engagement, indicating that it is a significant but secondary theme.",
-    "level": "Tertiary"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:55:34",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses an Agile event and personal experiences related to it, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:21:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Scrum in the context of a broader discussion about Agile events and community engagement. While it acknowledges Scrum as part of the Agile framework, it does not delve into specific Scrum principles, roles, or practices. The focus is more on the event and personal experiences rather than a detailed exploration of Scrum itself.",
+    "level": "Quaternary"
   }
 }

@@ -39,8 +39,8 @@ tags:
 - Organisational Agility
 categories:
 - Product Management
-- Scrum
 - Social Technologies
+- Scrum
 preview: nakedalm-experts-professional-scrum-5-5.png
 
 ---

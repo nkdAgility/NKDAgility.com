@@ -1331,15 +1331,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-13T21:48:05",
-    "ai_confidence": 90,
-    "non_ai_confidence": 50,
-    "final_score": 86.0,
-    "reasoning": "Content primarily discusses the concept of Sprint Goals within the Scrum framework, detailing their importance, creation, and examples, which aligns closely with Scrum principles and practices.",
-    "level": "Primary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-17T09:08:34",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:17:37",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 38,
+    "ai_depth": 40,
+    "non_ai_confidence": 50,
+    "final_score": 88.0,
+    "reasoning": "The content extensively discusses the concept of the Sprint Goal, a fundamental aspect of the Scrum framework. It provides detailed explanations of its importance, how to craft it, and its role in connecting the Scrum Team with stakeholders. The content aligns closely with Scrum principles, emphasising collaboration, accountability, and value delivery. Additionally, it offers practical examples and insights into the iterative nature of Scrum, demonstrating a deep understanding of the framework.",
+    "level": "Primary"
   }
 }

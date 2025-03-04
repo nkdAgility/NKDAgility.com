@@ -1367,15 +1367,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T23:20:43",
-    "ai_confidence": 90,
-    "non_ai_confidence": 50,
-    "final_score": 86.0,
-    "reasoning": "Content primarily discusses the concept of the Sprint Backlog, its components, and its significance within the Scrum framework, aligning closely with Scrum principles and practices.",
-    "level": "Primary"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:58:03",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:23:24",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 40,
+    "non_ai_confidence": 50,
+    "final_score": 88.0,
+    "reasoning": "The content provides a detailed explanation of the Sprint backlog, a key artifact in the Scrum framework. It discusses its components, the importance of setting a realistic Sprint goal, and the flexibility required during a Sprint. The discussion aligns closely with Scrum principles, emphasising transparency, team dynamics, and continuous improvement. The depth of the discussion is significant, covering various aspects of the Sprint backlog and its implications for team performance.",
+    "level": "Primary"
   }
 }

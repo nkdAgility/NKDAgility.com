@@ -350,15 +350,6 @@
     "reasoning": "Content heavily focuses on delivering Scrum training and using Microsoft Teams for online classes, without discussing Application Lifecycle Management principles or practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T08:56:29",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses Scrum principles, including creating a safe space for collaboration, the role of self-organizing teams, and how to facilitate Scrum training online using Microsoft Teams and Mural.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T08:56:31",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the use of Microsoft Teams and Mural for delivering Scrum training, with no clear focus on Artificial Intelligence or its integration within Agile methodologies or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:31:22",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses Scrum principles, particularly focusing on the roles, values, and self-organising teams within the context of delivering Professional Scrum training. It provides detailed insights into how Microsoft Teams and Mural can be used to enhance Scrum practices, demonstrating a strong alignment with the core themes of the Scrum framework. The depth of discussion is significant, covering practical applications and reflections on teaching Scrum, which supports a high confidence score.",
+    "level": "Primary"
   }
 }

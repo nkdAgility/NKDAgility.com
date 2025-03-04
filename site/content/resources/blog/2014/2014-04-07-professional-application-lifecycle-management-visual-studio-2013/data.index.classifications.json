@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the book 'Professional Application Lifecycle Management with Visual Studio 2013', which focuses on methodologies, tools, and practices related to Application Lifecycle Management, including new features and capabilities in Microsoft's ALM suite.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 30,
-    "non_ai_confidence": 50,
-    "final_score": 32.0,
-    "reasoning": "The content briefly mentions Scrum in the context of Visual Studio and ALM but does not primarily focus on Scrum principles, practices, or frameworks.",
-    "level": "Quaternary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T11:12:05",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Application Lifecycle Management and Visual Studio, with no clear focus on Artificial Intelligence or its integration within Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:37:18",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 50,
+    "final_score": 28.0,
+    "reasoning": "The content briefly mentions Scrum in the context of Visual Studio and its templates, but it does not delve into Scrum principles, roles, or practices in detail. The discussion is primarily focused on Application Lifecycle Management (ALM) rather than Scrum itself, leading to a low confidence score.",
+    "level": "Quaternary"
   }
 }

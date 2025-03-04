@@ -44,15 +44,6 @@
     "reasoning": "Content primarily focuses on the installation process of TFS 2013, which is a technical implementation detail and does not relate to strategic aspects of product management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:47:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation of TFS 2013 and does not focus on Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
     "calculated_at": "2025-02-18T12:23:46",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation of TFS 2013 and does not relate to AI or its application in Agile, DevOps, or software development.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:37:57",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 5,
+    "non_ai_confidence": 50,
+    "final_score": 28.0,
+    "reasoning": "The content briefly mentions Scrum in the context of creating a team project within TFS, but the primary focus is on the installation and configuration of TFS rather than on Scrum principles, roles, or practices. The discussion lacks depth regarding Scrum's core themes and does not provide substantial insights into Scrum events or roles.",
+    "level": "Quaternary"
   }
 }

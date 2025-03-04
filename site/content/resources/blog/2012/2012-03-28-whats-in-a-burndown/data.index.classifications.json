@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses Scrum practices and burndown charts, which are not central to Application Lifecycle Management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T20:48:12",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the concept of burndown charts within the context of Scrum, including their role in Sprint Planning and team dynamics.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-17T09:09:07",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:45:36",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses the concept of burndown charts within the context of Scrum, detailing their purpose, how they relate to the Sprint Backlog, and the actions teams can take based on their observations. It directly references Scrum roles, events, and artifacts, such as the Development Team and Daily Scrum, demonstrating a strong alignment with Scrum principles. The depth of discussion is significant, providing practical insights and examples, which further supports a high confidence score.",
+    "level": "Primary"
   }
 }

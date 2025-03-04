@@ -557,15 +557,6 @@
     "reasoning": "The content primarily discusses Agile and Scrum training courses, skills development, and professional growth without a clear focus on decision-making processes or the principles of Decision Theory.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:21:59",
-    "ai_confidence": 70,
-    "non_ai_confidence": 50,
-    "final_score": 68.0,
-    "reasoning": "The content discusses Scrum courses and training for Scrum roles, emphasizing professional development in Scrum but is focused more on personal growth and training rather than on Scrum principles or frameworks themselves.",
-    "level": "Secondary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T10:21:59",
@@ -1393,5 +1384,17 @@
     "final_score": 45.0,
     "reasoning": "The content mentions AI, specifically Chat GPT, in the context of its impact on work and the future of professional development, but the primary focus is on Agile methodologies and training rather than a deep exploration of AI's role in Agile or DevOps.",
     "level": "Tertiary"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:25:33",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content discusses Scrum in the context of professional development and training, specifically mentioning courses like PSM and APS, which are directly related to Scrum practices. It aligns well with the core themes of Scrum, such as continuous improvement and team dynamics, by encouraging tough conversations and skills development. However, while it provides a good amount of detail about training opportunities, it lacks a deeper exploration of the Scrum framework itself, such as specific roles or events, which slightly lowers the depth score.",
+    "level": "Secondary"
   }
 }

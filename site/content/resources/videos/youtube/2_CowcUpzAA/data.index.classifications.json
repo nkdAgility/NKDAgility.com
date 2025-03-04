@@ -1331,15 +1331,6 @@
     "reasoning": "The content discusses the role and responsibilities of a product owner, which includes aspects of leadership such as decision-making, accountability, and relationship building. However, the primary focus is on the product owner's tasks rather than broader leadership practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T15:29:08",
-    "ai_confidence": 80,
-    "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "Content primarily discusses the role and responsibilities of a Product Owner within the Scrum framework, highlighting the importance of understanding the broader scope of the role beyond just managing the product backlog.",
-    "level": "Secondary"
-  },
   "Beta Codex": {
     "category": "Beta Codex",
     "calculated_at": "2025-02-17T15:29:10",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the role and responsibilities of a product owner in Agile methodologies, without any mention of Artificial Intelligence or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:53:24",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 30,
+    "final_score": 77.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner within the Scrum framework, discussing its responsibilities and the broader implications of the role beyond just managing the product backlog. It explicitly mentions the Product Owner's accountability, decision-making, and the need for strategic thinking, which aligns well with Scrum principles. The depth of discussion is significant, as it explores the complexities and expectations of the role, although it could benefit from more detailed references to Scrum events and other roles. Overall, the content is a strong fit for the Scrum category.",
+    "level": "Secondary"
   }
 }

@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses enabling feedback support in Team Foundation Server 2012, which is a tool related to Application Lifecycle Management. It covers configuration steps that are essential for managing the application lifecycle, particularly in the context of user feedback and permissions, aligning well with the principles of ALM.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T18:41:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses enabling feedback support in Team Foundation Server 2012, which is unrelated to Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T18:42:01",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses enabling feedback support in Team Foundation Server 2012, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:40:52",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on enabling feedback support in Team Foundation Server 2012, which is not directly related to Scrum principles, roles, or practices. While it discusses project management tools, it does not mention Scrum roles, events, or artifacts, nor does it align with Agile principles or empirical process control. The discussion lacks depth regarding Scrum, making it a very low confidence score for this category.",
     "level": "Ignored"
   }
 }

@@ -1349,15 +1349,6 @@
     "reasoning": "While the content primarily discusses scaling Scrum using Visual Studio Team Services, it is related to Application Lifecycle Management through the context of managing multiple teams and tools involved in the software development lifecycle. However, it focuses more on Scrum practices and teams rather than the full application lifecycle management.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T08:56:40",
-    "ai_confidence": 85,
-    "non_ai_confidence": 50,
-    "final_score": 82.0,
-    "reasoning": "The content primarily discusses Scaling Professional Scrum and its implementation using Visual Studio Team Services, including workshops, tools, and methodologies that are directly related to Scrum practices.",
-    "level": "Primary"
-  },
   "Leadership": {
     "category": "Leadership",
     "calculated_at": "2025-02-17T16:08:40",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum practices and tools, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:34:06",
+    "ai_confidence": 82.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on Scrum, specifically discussing the scaling of Scrum practices using Visual Studio Team Services. It mentions key Scrum concepts such as Nexus, which is a framework for scaling Scrum, and provides insights into workshops and webcasts centred around Scrum principles. The depth of discussion is significant, as it covers practical implementation and tools that support Scrum, aligning well with the core themes of the category. The content does not stray into unrelated frameworks, maintaining a strong focus on Scrum throughout.",
+    "level": "Secondary"
   }
 }

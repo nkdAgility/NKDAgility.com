@@ -41,7 +41,8 @@ tags:
 - Pragmatic Thinking
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
 
 ---
 ## "But in the Real World..."

@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses an error related to Project Server and Team Foundation Server integration, focusing on Scrum process templates rather than the overall application lifecycle management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:09:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the Visual Studio Scrum Process Template and its requirements, indicating a major but secondary theme related to Scrum, while primarily focusing on a specific issue with Project Server integration.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T15:10:27",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Project Server and Team Foundation Server integration issues, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:42:36",
+    "ai_confidence": 65.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 50,
+    "final_score": 64.0,
+    "reasoning": "The content discusses the Visual Studio Scrum Process Template and its requirements, which directly relates to Scrum practices. It mentions specific fields relevant to Scrum roles and tasks, indicating a clear connection to Scrum principles. However, the primary focus is on a technical issue rather than a comprehensive discussion of Scrum itself, which limits the depth of the discussion. Overall, while Scrum is a significant part of the content, it is not the main focus, leading to a moderate confidence score.",
+    "level": "Secondary"
   }
 }

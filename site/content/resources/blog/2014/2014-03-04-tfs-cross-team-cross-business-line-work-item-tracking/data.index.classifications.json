@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the management of work items and team collaboration within Team Foundation Server (TFS), which is integral to the application lifecycle management process. It addresses issues related to project organisation, team dynamics, and the implementation of solutions that enhance the governance and efficiency of software development, aligning well with the principles of ALM.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T11:07:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the use of Team Foundation Server (TFS) for work item tracking across multiple teams and projects, without a clear focus on Scrum principles, roles, events, or artifacts.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T11:12:10",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the use of Team Foundation Server (TFS) for project management and collaboration, without any mention of Artificial Intelligence or its applications in Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:37:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the use of Team Foundation Server (TFS) for project management, which is relevant to Scrum practices, particularly in terms of team collaboration and project tracking. However, it does not explicitly mention Scrum roles, events, or artifacts, and the focus is more on TFS functionalities rather than Scrum principles. The discussion on team dynamics and project management is present but lacks depth in Scrum-specific terminology and frameworks.",
+    "level": "Quaternary"
   }
 }

@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the creation and management of a Portfolio Backlog hierarchy in Team Foundation Server, which is a key aspect of Application Lifecycle Management. It covers stages of the application lifecycle, including development and deployment, and involves tools and practices relevant to ALM.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses creating a Portfolio Backlog hierarchy in Team Foundation Server, which is relevant to Scrum practices, particularly in relation to managing work items and backlogs. However, it primarily focuses on technical implementation rather than Scrum principles or frameworks.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T19:58:42",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses creating a Portfolio Backlog hierarchy in Team Foundation Server 2013, focusing on work item types and configuration, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:39:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content discusses creating a Portfolio Backlog hierarchy in Team Foundation Server, which is related to Agile project management but does not explicitly focus on Scrum principles, roles, or events. While it mentions 'Scrum' in the context of a project name, the primary focus is on technical implementation rather than Scrum practices or frameworks. The alignment with Scrum concepts is minimal, and the depth of discussion on Scrum-specific topics is lacking.",
+    "level": "Quaternary"
   }
 }

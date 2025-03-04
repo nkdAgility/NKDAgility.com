@@ -1331,15 +1331,6 @@
     "reasoning": "Content primarily discusses the concept of 'Definition of Done' in Scrum, focusing on quality assurance and acceptance criteria rather than leadership practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T15:44:21",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the concept of 'Definition of Done' within the context of Scrum, illustrating its importance for quality assurance in software development.",
-    "level": "Secondary"
-  },
   "Beta Codex": {
     "category": "Beta Codex",
     "calculated_at": "2025-02-17T15:44:24",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events without any mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:14:57",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "The content primarily discusses the concept of 'Definition of Done', which is a crucial aspect of the Scrum framework. It provides a detailed analogy to explain the importance of quality and acceptance criteria in the context of Scrum. While it does not explicitly mention all Scrum roles or events, it aligns well with the principles of continuous improvement and quality assurance in Scrum. The depth of discussion is moderate, focusing on the analogy rather than a comprehensive exploration of Scrum practices.",
+    "level": "Secondary"
   }
 }

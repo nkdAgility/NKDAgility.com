@@ -1151,15 +1151,6 @@
     "reasoning": "The content discusses the Product Goal within the context of Scrum, highlighting its importance for team focus and collaboration, which aligns with the category's emphasis on team dynamics and process methodologies.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-13T22:22:58",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the concept of the Product Goal within the Scrum framework, detailing its importance and role in guiding the Scrum Team's efforts.",
-    "level": "Secondary"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
     "calculated_at": "2025-02-13T22:23:00",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the Product Goal in Scrum methodology without any mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:30:48",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses the concept of the Product Goal, which is a key element of the Scrum framework. It references the 2020 Scrum Guide and explains the significance of the Product Goal in relation to the Product Backlog and the Scrum Team's objectives. The discussion aligns well with Scrum principles, particularly in terms of transparency, focus, and iterative progress. The depth of the content is substantial, providing examples and elaborating on the importance of the Product Goal, which further supports its classification under Scrum.",
+    "level": "Primary"
   }
 }

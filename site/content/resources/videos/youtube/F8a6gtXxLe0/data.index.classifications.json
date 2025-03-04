@@ -557,15 +557,6 @@
     "reasoning": "Content primarily discusses training response and individual opposition rather than decision-making processes in uncertain environments.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:35:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses an individual's experience with training at Healthgrades and does not focus on Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T11:35:51",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and opinions regarding training at Healthgrades, with no mention of AI, Agile methodologies, or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:33:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses Scrum principles and their impact on the author's mindset and team performance. It mentions the importance of understanding Scrum processes and how they lead to delivering valuable software in sprints. The discussion aligns well with key Scrum topics such as iterative progress and the need for a structured approach to project management. The depth of the discussion is significant, as it reflects on personal experiences and the transformation in mindset regarding Scrum practices.",
+    "level": "Secondary"
   }
 }

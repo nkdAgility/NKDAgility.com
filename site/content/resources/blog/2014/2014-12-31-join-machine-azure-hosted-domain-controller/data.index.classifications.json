@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses technical steps for joining a machine to an Azure hosted domain controller, which does not relate to Application Lifecycle Management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T08:56:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses joining a machine to an Azure hosted domain controller, which is unrelated to Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T09:56:46",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses joining a machine to an Azure hosted domain controller, with no focus on AI applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:35:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical steps for joining a machine to an Azure-hosted domain controller, with no direct mentions of Scrum principles, roles, or practices. It lacks any alignment with Scrum's core themes, such as team dynamics or iterative processes, and provides minimal detail relevant to Scrum, resulting in a very low confidence score.",
     "level": "Ignored"
   }
 }

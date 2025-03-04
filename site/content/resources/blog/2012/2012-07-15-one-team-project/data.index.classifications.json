@@ -350,15 +350,6 @@
     "reasoning": "The content discusses Team Foundation Server and Agile Planning tools, which are relevant to managing software projects and their lifecycles, but the primary focus is on project management rather than the broader scope of Application Lifecycle Management.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:09:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Agile Planning tools and mentions the Visual Studio Scrum template, indicating a connection to Scrum principles, but it primarily focuses on Team Foundation Server and project management configurations.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T21:31:13",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile project management and Team Foundation Server without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:44:47",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
+    "non_ai_confidence": 50,
+    "final_score": 61.0,
+    "reasoning": "The content discusses Agile Planning tools and mentions Scrum templates, indicating a connection to Scrum principles. However, it primarily focuses on Team Foundation Server and its configurations rather than the core Scrum framework, roles, events, or artifacts. While there are references to Agile methodologies, the depth of discussion on Scrum-specific topics is limited.",
+    "level": "Secondary"
   }
 }

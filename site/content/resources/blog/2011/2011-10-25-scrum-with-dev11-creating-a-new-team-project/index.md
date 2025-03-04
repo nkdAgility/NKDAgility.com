@@ -33,7 +33,6 @@ tags:
 - Asynchronous Development
 - Software Development
 categories:
-- Scrum
 - Social Technologies
 
 ---

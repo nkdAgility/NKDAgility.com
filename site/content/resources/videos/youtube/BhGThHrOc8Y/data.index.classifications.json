@@ -1250,15 +1250,6 @@
     "reasoning": "Content primarily discusses the concepts and misconceptions surrounding DevOps and Agile, without a clear focus on throughput or its measurement and optimisation.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T22:46:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses DevOps and its relationship with Agile, with only a brief mention of Scrum at the end, making it not relevant enough for classification.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T22:46:20",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps concepts and tools without a clear focus on the application of AI in Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:22:39",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 30,
+    "final_score": 16.0,
+    "reasoning": "The content primarily discusses DevOps and its relationship with Agile, with only a brief mention of Scrum at the end. The focus is on the tools and ideas surrounding DevOps rather than the principles and practices of Scrum. There is minimal alignment with Scrum's core themes, and the depth of discussion on Scrum is virtually non-existent.",
+    "level": "Quinary"
   }
 }

@@ -46,6 +46,7 @@ resourceTypes:
 categories:
 - Product Management
 - Social Technologies
+- Scrum
 
 ---
 ## The Role of the Product Owner: Navigating the Agile Seas 🌊 

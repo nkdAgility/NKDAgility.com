@@ -323,15 +323,6 @@
     "reasoning": "The content discusses product backlog management, which is a significant aspect of Agile product development, but it does not comprehensively cover the Agile Product Operating Model as a primary topic.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T15:02:49",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses product backlog management, which is a key aspect of the Scrum framework, but it does not primarily focus on Scrum principles or practices.",
-    "level": "Tertiary"
-  },
   "DevOps": {
     "category": "DevOps",
     "calculated_at": "2025-02-17T15:02:50",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses product backlog management in Agile, with no mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:53:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content briefly mentions product backlog management, which is a key artifact in Scrum, indicating some relevance to the category. However, it lacks explicit discussion of Scrum roles, events, or principles, resulting in a lower depth of discussion. The focus on maximizing value aligns with Scrum's emphasis on delivering business value, but the overall treatment of the topic is superficial and does not delve into the Scrum framework or practices in detail.",
+    "level": "Tertiary"
   }
 }

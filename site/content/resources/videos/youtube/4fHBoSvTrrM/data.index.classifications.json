@@ -1349,15 +1349,6 @@
     "reasoning": "Content heavily discusses Scrum roles and the PSM II course, which are not directly related to the One Engineering System framework.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T08:22:22",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the role of a Scrum Master and the PSM II course, focusing on Scrum principles and practices.",
-    "level": "Secondary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T08:22:24",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum Master roles and practices without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:26:10",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and the PSM II course, discussing how it challenges assumptions and improves effectiveness in the Scrum framework. It explicitly mentions Scrum Masters, the importance of formal training, and the need to reset misconceptions about the role. The discussion aligns well with Scrum principles, particularly around continuous improvement and team dynamics. The depth of the discussion is substantial, providing insights into the challenges Scrum Masters face and the skills they can develop. Overall, the content is highly relevant to the Scrum category.",
+    "level": "Secondary"
   }
 }

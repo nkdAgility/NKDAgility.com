@@ -1387,11 +1387,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T09:35:13",
-    "ai_confidence": 1,
+    "calculated_at": "2025-03-04T10:40:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses automated testing and software engineering practices, with no direct reference to Scrum principles, roles, events, or artifacts.",
-    "level": "Ignored"
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses automated testing and its importance in software engineering, with no direct mention of Scrum principles, roles, or events. While it touches on concepts like continuous improvement and efficiency, these are not explicitly linked to Scrum practices. The focus is more on technical aspects of testing rather than the collaborative and iterative nature of Scrum.",
+    "level": "Quinary"
   }
 }

@@ -33,7 +33,8 @@ tags:
 - Discovery and Learning
 resourceTypes:
 - video
-categories: []
+categories:
+- Scrum
 
 ---
 In the world of Agile and Scrum, training is essential for teams to stay effective and efficient. However, traditional training methods can often feel disconnected from real-world application. This is where immersive learning comes in, offering a holistic approach that integrates not only theory but also practical, hands-on experience.

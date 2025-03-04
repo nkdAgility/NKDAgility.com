@@ -1250,15 +1250,6 @@
     "reasoning": "Content focuses on the history and evolution of project management rather than discussing throughput in Agile or DevOps contexts.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T07:25:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "Content primarily discusses general project management principles and historical context, with only a brief mention of Agile and Scrum courses at the end.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-18T07:25:22",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses project management without any mention of AI or its integration within Agile or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:23:47",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses general project management concepts without any specific reference to Scrum principles, roles, events, or practices. It lacks direct mentions of Scrum and does not align with the core themes of the Scrum framework, such as iterative progress or team dynamics. The depth of discussion is minimal, focusing instead on historical context rather than Scrum-specific methodologies.",
     "level": "Ignored"
   }
 }

@@ -40,7 +40,6 @@ tags:
 - Scrum Team
 categories:
 - Scrum
-- Social Technologies
 preview: image-9-14-14.png
 
 ---

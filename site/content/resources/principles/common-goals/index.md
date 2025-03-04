@@ -21,8 +21,8 @@ card:
   content: Discover more about Common Goals and how it can help you in your Agile journey!
   title: Common Goals
 categories:
-- Social Technologies
 - Scrum
+- Social Technologies
 tags:
 - Scrum Product Development
 - Strategy

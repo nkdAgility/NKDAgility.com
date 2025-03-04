@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the setup and management of a release management environment using Visual Studio ALM, detailing the tools and processes involved in the application lifecycle, including deployment and analytics.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T23:39:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses setting up a release management environment in Azure and does not focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T23:39:40",
@@ -1393,5 +1384,17 @@
     "final_score": 45.0,
     "reasoning": "The content briefly mentions Application Insights, which is related to analytics, but the primary focus is on setting up a release management environment in Azure, making AI a secondary theme.",
     "level": "Tertiary"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:35:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on setting up a release management environment in Azure and discusses tools like Visual Studio and Application Insights. There are no direct mentions of Scrum roles, events, or principles, and the discussion does not align with the core themes of Scrum or Agile methodologies. The content is more technical and operational rather than related to Scrum practices.",
+    "level": "Ignored"
   }
 }

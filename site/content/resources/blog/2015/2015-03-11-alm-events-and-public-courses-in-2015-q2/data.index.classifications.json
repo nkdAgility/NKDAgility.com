@@ -350,15 +350,6 @@
     "reasoning": "The content discusses various ALM-related courses and events, indicating a focus on Application Lifecycle Management, but it primarily revolves around training and scheduling rather than in-depth discussions on ALM methodologies or practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions a Professional Scrum Master course and discusses Scrum in the context of upcoming events, indicating that Scrum is a significant theme, but the primary focus is on ALM events and training.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T22:30:11",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses upcoming training events and courses related to ALM and DevOps, with no focus on Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:34:48",
+    "ai_confidence": 55.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 50,
+    "final_score": 54.0,
+    "reasoning": "The content briefly mentions Scrum in the context of upcoming training courses, specifically a Professional Scrum Master course. However, the primary focus is on ALM events and training schedules rather than a detailed discussion of Scrum principles, roles, or practices. The alignment with Scrum concepts is minimal, and the depth of discussion is very low, primarily serving as an announcement rather than an exploration of Scrum methodologies.",
+    "level": "Tertiary"
   }
 }

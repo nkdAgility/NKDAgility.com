@@ -33,8 +33,8 @@ resourceTypes:
 - video
 layout: video
 categories:
-- Scrum
 - Social Technologies
+- Scrum
 
 ---
 ## What's a Sprint Goal and Why Does It Matter?

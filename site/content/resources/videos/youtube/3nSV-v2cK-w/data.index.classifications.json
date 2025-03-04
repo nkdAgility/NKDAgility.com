@@ -1250,15 +1250,6 @@
     "reasoning": "Content heavily discusses Agile principles and collaboration without a focus on throughput measurement or optimisation.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T20:38:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content title suggests a focus on Agile principles and collaboration, but does not specifically mention Scrum or its framework, roles, events, or artifacts. Therefore, it does not align closely enough with the Scrum category.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T20:38:11",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile methodologies without a focus on the application of AI within those practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:20:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses Agile principles, particularly focusing on change and collaboration, which are relevant to Scrum. However, it lacks direct mentions of Scrum-specific roles, events, or artifacts, leading to a lower confidence score. The alignment with core themes of Scrum is present but not deeply explored, and the depth of discussion is moderate, primarily addressing general Agile concepts rather than specific Scrum practices.",
+    "level": "Quaternary"
   }
 }

@@ -46,7 +46,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 ## Reflecting on Scrum's Mirror  

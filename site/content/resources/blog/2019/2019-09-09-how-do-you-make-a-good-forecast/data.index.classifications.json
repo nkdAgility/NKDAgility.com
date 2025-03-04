@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses Scrum methodologies and forecasting within Agile projects, which are not central to Application Lifecycle Management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T18:15:48",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses Scrum principles, particularly in relation to forecasting and metrics within Scrum teams, making it a central topic.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T18:15:58",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles, forecasting, and budget management without any mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:33:00",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "The content primarily discusses Scrum principles, particularly in the context of forecasting and metrics within Scrum teams. It explicitly mentions Scrum roles, such as Scrum Teams, and discusses the implications of using various metrics like Velocity and Story Points, which are integral to Scrum practices. The depth of discussion is significant, as it explores the transition from traditional project management to Scrum, addressing challenges and providing insights on improving predictability in an agile environment. Overall, the content aligns well with the core themes of Scrum, demonstrating a strong focus on its principles and practices.",
+    "level": "Secondary"
   }
 }

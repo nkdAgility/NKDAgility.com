@@ -20,6 +20,7 @@ aliasesArchive:
 - /resources/newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/
 categories:
 - Product Management
+- Scrum
 tags:
 - Product Owner
 - Agile Product Management

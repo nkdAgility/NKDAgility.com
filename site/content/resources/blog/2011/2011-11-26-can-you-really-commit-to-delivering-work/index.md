@@ -39,8 +39,6 @@ tags:
 - Transparency and Accountability
 categories:
 - Scrum
-- Social Technologies
-- Product Management
 preview: nakedalm-experts-professional-scrum-5-5.png
 
 ---

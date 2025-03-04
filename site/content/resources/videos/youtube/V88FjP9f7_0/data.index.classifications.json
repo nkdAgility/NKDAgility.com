@@ -1250,15 +1250,6 @@
     "reasoning": "The content discusses the importance of focusing on work that adds value, which relates to throughput, but it does not primarily address the measurement and optimization of throughput as the main topic.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T23:36:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the concept of 'less is more' in the context of Agile and mentions Kanban, without focusing specifically on Scrum roles, events, or principles.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T23:36:22",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile principles and concepts without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:16:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Agile principles, which are relevant to Scrum, but it primarily discusses the concept of 'less is more' without a direct focus on Scrum roles, events, or artifacts. The reference to the Agile Manifesto indicates some alignment with Scrum's values, but the overall discussion leans more towards general Agile concepts and includes Kanban, which is outside the scope of Scrum. Therefore, while there are mentions of relevant ideas, the depth and direct focus on Scrum are insufficient for a higher confidence score.",
+    "level": "Quaternary"
   }
 }

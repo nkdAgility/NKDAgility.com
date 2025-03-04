@@ -350,15 +350,6 @@
     "reasoning": "The content discusses the construction of a framework for the TFS Automation Platform, which involves aspects of application development and deployment. However, it primarily focuses on the technical implementation rather than the broader methodologies and practices of Application Lifecycle Management.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T22:24:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the development of a framework for the TFS Automation Platform, focusing on architectural guidance and technology selection, without any clear reference to Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T22:24:48",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the development of a framework for the TFS Automation Platform, focusing on architectural guidance and development processes without any mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:48:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the development of a framework for the TFS Automation Platform, discussing architectural decisions and technical implementations. There are no direct mentions of Scrum roles, events, or principles, and the discussion lacks depth in relation to Scrum practices. While there may be an implicit connection to team collaboration and iterative development, it does not explicitly align with the core themes of Scrum.",
+    "level": "Quinary"
   }
 }

@@ -557,15 +557,6 @@
     "reasoning": "Content heavily discusses the role of a trainer in a Scrum environment, without a focus on decision-making processes or theory.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:23:18",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions a lead Scrum Master and implies a discussion related to Scrum training, indicating Scrum as a major theme although it does not delve deeply into Scrum principles or practices.",
-    "level": "Tertiary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T11:23:18",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses training and Scrum roles, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:33:39",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 40.0,
+    "reasoning": "The content discusses a common framework for collaboration and mentions concepts like a backlog and team dynamics, which are relevant to Scrum. However, it lacks explicit references to Scrum roles, events, or detailed practices, leading to a moderate confidence score.",
+    "level": "Quaternary"
   }
 }

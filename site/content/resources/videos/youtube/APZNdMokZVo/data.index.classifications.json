@@ -1,13 +1,4 @@
 {
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T15:44:44",
-    "ai_confidence": 90,
-    "non_ai_confidence": 50,
-    "final_score": 86.0,
-    "reasoning": "Content primarily discusses the concept of 'Definition of Done' within the context of Scrum, highlighting its importance for quality delivery and risk mitigation, as well as referencing Scrum principles and practices.",
-    "level": "Primary"
-  },
   "Kanban": {
     "category": "Kanban",
     "calculated_at": "2025-02-17T15:44:45",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the importance of the definition of done in Scrum and Agile practices, with no mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:15:02",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 40,
+    "non_ai_confidence": 50,
+    "final_score": 88.0,
+    "reasoning": "The content extensively discusses the concept of 'Definition of Done' within the context of Scrum, highlighting its critical role in ensuring quality delivery and risk mitigation. It directly references Scrum principles, such as the necessity of having a usable working product at the end of each Sprint, and elaborates on the importance of transparency in Scrum through the product backlog, Sprint backlog, and increment. The depth of discussion is significant, providing detailed insights into how the Definition of Done impacts team performance and project management in Scrum. Overall, the content aligns closely with the key topics of the Scrum category, demonstrating a strong focus on Scrum principles and practices.",
+    "level": "Primary"
   }
 }

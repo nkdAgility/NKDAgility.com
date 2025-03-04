@@ -36,7 +36,6 @@ resourceTypes:
 - video
 categories:
 - Social Technologies
-- Scrum
 
 ---
 As I embark on the immersive trading route, I find myself reflecting on the core reasons behind this shift. My journey into training began with a desire to address the struggles faced by individuals and organisations alike. Back in 2010, when I first delved into DevOps, I witnessed firsthand the challenges people encountered and the disconnect between their needs and what organisations were providing. This disconnect often led to a vicious cycle where organisations blamed their people for failures, rather than addressing the root causes.

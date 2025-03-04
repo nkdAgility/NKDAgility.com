@@ -44,6 +44,7 @@ resourceTypes:
 - video
 categories:
 - Scrum
+- Social Technologies
 
 ---
 **#1 tip for a new Scrum Master**

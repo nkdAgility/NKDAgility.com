@@ -1331,15 +1331,6 @@
     "reasoning": "The content discusses the importance of experience in Agile coaching, which relates to leadership in fostering effective team dynamics and credibility. However, it primarily focuses on personal experience rather than broader leadership strategies or practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T15:44:32",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the role of an Agile coach and mentions Scrum as part of a broader conversation about Agile practices, but it does not focus primarily on Scrum principles or frameworks.",
-    "level": "Tertiary"
-  },
   "Beta Codex": {
     "category": "Beta Codex",
     "calculated_at": "2025-02-17T15:44:34",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the importance of real experience in Agile coaching without any mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:14:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 30,
+    "final_score": 59.0,
+    "reasoning": "The content briefly mentions Scrum in the context of Agile coaching but does not delve into specific Scrum roles, events, or principles. While it aligns with the Agile philosophy of team collaboration, it lacks detailed discussion on Scrum practices, resulting in a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

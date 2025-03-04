@@ -26,8 +26,8 @@ card:
   title: 
 categories:
 - Social Technologies
-- Product Management
 - Scrum
+- Product Management
 tags:
 - Transparency and Accountability
 - Agile Product Management

@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses Visual Studio ALM and its tools for managing database projects, which aligns closely with the principles of Application Lifecycle Management.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T23:51:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Visual Studio 2010 Database Projects and related guidance, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T00:00:06",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio 2010 Database Projects and related guidance, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:49:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Visual Studio 2010 and its database project guidance, with no direct mention of Scrum principles, roles, or events. While it touches on project management and collaboration, it does not align with the core themes of Scrum, such as iterative progress or empirical process control. The depth of discussion is focused on technical guidance rather than Scrum practices.",
+    "level": "Quinary"
   }
 }

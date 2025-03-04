@@ -1250,15 +1250,6 @@
     "reasoning": "The content primarily discusses the Kanban strategy and its application in monitoring and optimising the flow of work, including cycle time and throughput, which are central to the concept of throughput in Agile and DevOps contexts.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T19:07:27",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Kanban as a primary focus but briefly mentions Scrum in the context of improving throughput in systems. However, Scrum is not the central theme.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T19:07:28",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Kanban and workflow optimisation without a clear focus on the application of AI in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:19:15",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 15,
+    "non_ai_confidence": 30,
+    "final_score": 26.0,
+    "reasoning": "The content primarily focuses on Kanban and its application, with only brief mentions of Scrum. While it discusses concepts relevant to Agile methodologies, the depth of discussion on Scrum principles, roles, and events is minimal. The content does not provide substantial insights into Scrum practices or frameworks, which are essential for a higher confidence score in this category.",
+    "level": "Quaternary"
   }
 }

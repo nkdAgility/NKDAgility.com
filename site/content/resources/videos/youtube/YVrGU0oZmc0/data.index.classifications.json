@@ -1387,11 +1387,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T09:34:17",
-    "ai_confidence": 1,
+    "calculated_at": "2025-03-04T10:38:52",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses feature flags and continuous delivery practices, which are not directly related to Scrum principles, roles, or events.",
-    "level": "Ignored"
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses feature flags and continuous delivery practices, which are not directly related to Scrum principles or frameworks. While there are elements of team collaboration and iterative development mentioned, the focus is on deployment strategies rather than Scrum roles, events, or artifacts. The discussion lacks depth in Scrum-specific practices, leading to a low confidence score in alignment with the Scrum category.",
+    "level": "Quaternary"
   }
 }

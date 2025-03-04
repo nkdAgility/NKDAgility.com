@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses release management within the context of Team Foundation Server 2012, detailing methodologies, practices, and tools that are integral to managing the application lifecycle, particularly focusing on deployment and quality assurance.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T18:55:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses release management strategies and tools related to Team Foundation Server 2012, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T21:30:41",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses release management and deployment processes in Team Foundation Server 2012, with no clear focus on Artificial Intelligence applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:41:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on release management within Team Foundation Server 2012, discussing deployment processes and tools rather than Scrum principles or practices. While it briefly mentions the role of a professional Development Team, it lacks a comprehensive discussion of Scrum roles, events, or artifacts. The alignment with Scrum is minimal, as the content does not delve into iterative progress, team dynamics, or continuous improvement, which are core themes of Scrum. Overall, the content does not meet the criteria for a strong alignment with the Scrum category.",
+    "level": "Quaternary"
   }
 }

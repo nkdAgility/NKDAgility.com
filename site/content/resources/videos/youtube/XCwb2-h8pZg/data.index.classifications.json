@@ -44,15 +44,6 @@
     "reasoning": "Content primarily focuses on Kanban and Team Foundation Service, which are not directly related to the strategic aspects of product management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:47:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on Kanban and does not discuss Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
     "calculated_at": "2025-02-18T12:23:52",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Kanban and Team Foundation Service, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:39:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 50,
+    "final_score": 34.0,
+    "reasoning": "The content briefly mentions Scrum in the context of the author's credentials as a professional Scrum trainer, but the primary focus is on TFS (Team Foundation Server) and its features, which are not strictly aligned with Scrum principles or practices. While there are references to backlog items and work item tracking, the discussion lacks depth regarding Scrum roles, events, or the empirical process control that defines the framework. Overall, the content does not provide a comprehensive exploration of Scrum, leading to a low confidence score.",
+    "level": "Quaternary"
   }
 }

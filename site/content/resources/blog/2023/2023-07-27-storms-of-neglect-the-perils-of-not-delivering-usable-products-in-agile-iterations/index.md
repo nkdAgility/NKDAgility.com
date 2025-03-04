@@ -35,6 +35,7 @@ tags:
 - Agile Project Management
 - Agile Strategy
 categories:
+- Scrum
 - Product Management
 - Social Technologies
 preview: image-1.jpg

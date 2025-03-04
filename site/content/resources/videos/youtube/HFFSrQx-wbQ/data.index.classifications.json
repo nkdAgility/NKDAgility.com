@@ -1,13 +1,4 @@
 {
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T15:56:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content discusses agility and adaptability in a general sense without a clear focus on Scrum principles, roles, or events.",
-    "level": "Ignored"
-  },
   "Kanban": {
     "category": "Kanban",
     "calculated_at": "2025-02-17T15:56:32",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile practices and the importance of flexibility, but does not mention AI or its application within Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:15:29",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 30,
+    "final_score": 41.0,
+    "reasoning": "The content briefly mentions 'scrum' in the context of agility but does not delve into specific Scrum roles, events, or artifacts. While it discusses the importance of adaptability and continuous improvement, which are aligned with Agile principles, it lacks a focused discussion on Scrum itself. The mention of 'DevOps' also indicates a broader scope that detracts from a primary focus on Scrum.",
+    "level": "Tertiary"
   }
 }

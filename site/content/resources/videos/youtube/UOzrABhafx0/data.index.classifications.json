@@ -1349,15 +1349,6 @@
     "reasoning": "Content heavily discusses product backlog management and Scrum practices, which are not central to the principles of Beta Codex.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T15:03:44",
-    "ai_confidence": 80,
-    "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "Content primarily discusses product backlog management, a key aspect of the Scrum framework, and highlights its importance in Scrum practices.",
-    "level": "Secondary"
-  },
   "Social Technologies": {
     "category": "Social Technologies",
     "calculated_at": "2025-02-17T15:03:45",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses product backlog management in Scrum, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:53:10",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 30,
+    "final_score": 77.0,
+    "reasoning": "The content primarily focuses on product backlog management, a key aspect of the Scrum framework. It discusses the management, writing, and ordering of backlog items, which directly relates to Scrum practices. The mention of Scrum.org and the course indicates a strong connection to Scrum principles. The depth of discussion on backlog management techniques and the emphasis on transparency align well with Scrum's core themes. Overall, the content is highly relevant to the Scrum category.",
+    "level": "Secondary"
   }
 }

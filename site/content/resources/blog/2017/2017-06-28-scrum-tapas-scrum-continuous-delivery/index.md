@@ -33,6 +33,7 @@ tags:
 - Agile Project Management
 categories:
 - Social Technologies
+- Scrum
 preview: nkdagility-martin-hinshelwood-scrum-tapas-continious-delivery-1-1.png
 
 ---

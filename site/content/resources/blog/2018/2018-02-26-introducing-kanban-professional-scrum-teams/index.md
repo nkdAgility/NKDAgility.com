@@ -39,6 +39,7 @@ tags:
 - Products and Books
 categories:
 - Social Technologies
+- Scrum
 preview: nkdagility-scrum-and-kanban-1900-2-1.png
 
 ---

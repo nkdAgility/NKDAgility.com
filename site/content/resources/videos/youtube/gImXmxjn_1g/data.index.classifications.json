@@ -557,15 +557,6 @@
     "reasoning": "Content primarily discusses tips for agile consulting without a clear focus on decision-making processes or decision theory.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:22:04",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses tips for agile consultants and mentions Scrum as part of agile practices, but it primarily focuses on consulting rather than Scrum itself.",
-    "level": "Tertiary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T10:22:04",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses agile consulting and Scrum practices without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:25:49",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 30,
+    "final_score": 41.0,
+    "reasoning": "The content discusses skills relevant to agile consulting, including understanding team dynamics and the importance of listening, which are aligned with Scrum principles. However, it does not explicitly focus on Scrum roles, events, or artifacts, leading to a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

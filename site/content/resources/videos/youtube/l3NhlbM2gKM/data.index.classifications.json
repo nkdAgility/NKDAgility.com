@@ -1367,15 +1367,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T17:08:09",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Scrum concepts, specifically the use of story points and their relevance to Scrum practices, but it also includes a critique that may detract from a primary focus on Scrum.",
-    "level": "Tertiary"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:48:47",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:16:03",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 64.0,
+    "reasoning": "The content discusses Scrum concepts, particularly the use of story points and their relevance to Scrum practices. It critiques the common misconceptions surrounding story points, which are often misattributed to Scrum, and emphasises the importance of using them appropriately within the Scrum framework. However, while it touches on Scrum principles, the focus is more on debunking myths rather than providing a comprehensive exploration of Scrum roles, events, or artifacts. The depth of discussion is moderate, as it provides insights into the use of story points but lacks broader coverage of Scrum practices.",
+    "level": "Secondary"
   }
 }

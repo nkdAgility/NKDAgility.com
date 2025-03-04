@@ -44,15 +44,6 @@
     "reasoning": "Content primarily discusses the Scrum Framework and its principles, which are central to the category of Social Technologies.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:45:33",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content includes an overview of the Scrum Framework and mentions roles and training for Scrum Masters and Scrum Teams, indicating that Scrum is a significant theme, but it is not the primary focus of the entire content.",
-    "level": "Tertiary"
-  },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
     "calculated_at": "2025-02-18T12:34:28",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses agility, Scrum frameworks, and training classes without any mention of Artificial Intelligence or its application in Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:29:00",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 27,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content includes a specific section titled 'Overview of The Scrum Framework' which directly discusses Scrum principles, roles, and events. This indicates a strong direct mention of the category. Additionally, the content aligns with Scrum's emphasis on agility and adaptive solutions for complex problems, reflecting core themes of the category. However, while it provides a good overview, the depth of discussion is somewhat limited as it primarily serves as an introduction rather than an in-depth analysis of Scrum practices.",
+    "level": "Secondary"
   }
 }

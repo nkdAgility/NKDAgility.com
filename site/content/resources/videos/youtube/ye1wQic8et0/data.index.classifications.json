@@ -1250,15 +1250,6 @@
     "reasoning": "The content discusses the impact of committees on decision-making speed and time to market, which relates to throughput, but it primarily focuses on the negative effects of traditional management practices rather than providing a comprehensive analysis of throughput as a central theme.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T17:30:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses agile principles and the impact of traditional management practices, which are relevant to Scrum, but it primarily focuses on the drawbacks of committees rather than Scrum-specific roles, events, or artifacts.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T17:30:22",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of committees on decision-making and time to market in Agile environments, without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:17:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and time to market, which indirectly touches on Agile principles and the need for collaboration. However, it lacks direct references to Scrum roles, events, or artifacts, and does not provide a detailed exploration of Scrum practices. The mention of 'agile' is brief and does not delve into Scrum specifics, leading to a low confidence score.",
+    "level": "Quaternary"
   }
 }

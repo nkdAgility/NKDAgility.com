@@ -1349,15 +1349,6 @@
     "reasoning": "Content heavily discusses Scrum training and digital delivery methods, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:22:53",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the effectiveness of Scrum training, particularly in digital formats, and highlights various aspects of Scrum and Agile methodologies.",
-    "level": "Secondary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T10:22:55",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the effectiveness of digital delivery for Scrum training, with no clear focus on Artificial Intelligence or its application in Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:28:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 50,
+    "final_score": 34.0,
+    "reasoning": "The content discusses the effectiveness of digital training delivery, which is relevant to Scrum training but does not explicitly mention Scrum principles, roles, or events. While it touches on team dynamics and collaboration, it lacks depth in discussing Scrum-specific practices or frameworks, leading to a low confidence score.",
+    "level": "Quaternary"
   }
 }

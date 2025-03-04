@@ -1349,15 +1349,6 @@
     "reasoning": "The content primarily discusses migration and synchronization tools for Quality Centre and Team Foundation Server, which are key aspects of Application Lifecycle Management, specifically within the context of ALM tools. It details migration processes, compares various tools, and addresses managing application data throughout the lifecycle, aligning well with ALM principles.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T15:38:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses tools for migrating data between Quality Centre and Team Foundation Server, with no clear focus on the principles, practices, or frameworks of Scrum.",
-    "level": "Ignored"
-  },
   "Social Technologies": {
     "category": "Social Technologies",
     "calculated_at": "2025-02-18T11:49:09",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses migration tools and processes between Quality Centre and Team Foundation Server, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:42:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 30,
+    "final_score": 8.0,
+    "reasoning": "The content primarily discusses tools for migrating data from Quality Centre to Team Foundation Server, with no direct mention of Scrum principles, roles, events, or practices. While it briefly touches on concepts relevant to Agile methodologies, it does not delve into Scrum-specific frameworks or discussions, leading to a very low confidence score.",
     "level": "Ignored"
   }
 }

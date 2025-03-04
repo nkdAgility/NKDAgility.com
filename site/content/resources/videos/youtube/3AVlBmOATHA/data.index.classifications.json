@@ -1349,15 +1349,6 @@
     "reasoning": "Content primarily discusses Agile methodologies and strategies for internal communication rather than the One Engineering System framework.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T08:36:09",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Agile principles and mentions Scrum in the context of pitching Agile internally, but it primarily focuses on broader Agile concepts and organisational change rather than specific Scrum roles, events, or practices.",
-    "level": "Tertiary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T08:36:11",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile methodologies and strategies for internal organisational change without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:28:01",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 50,
+    "final_score": 43.0,
+    "reasoning": "The content discusses Agile principles and the importance of communicating Agile concepts effectively within an organisation. While it touches on aspects relevant to Scrum, such as engaging teams and facilitating change, it lacks direct references to specific Scrum roles, events, or artifacts. The focus is more on general Agile practices rather than a detailed exploration of Scrum itself, leading to a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

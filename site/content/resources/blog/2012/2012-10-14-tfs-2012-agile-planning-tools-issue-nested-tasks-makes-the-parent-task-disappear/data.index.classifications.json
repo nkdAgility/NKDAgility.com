@@ -350,15 +350,6 @@
     "reasoning": "The content discusses Agile Planning Tools and the management of Product Backlog Items and Tasks within the context of software development, which relates to the application lifecycle. However, it primarily focuses on specific tool usage rather than the broader principles of Application Lifecycle Management.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T16:48:01",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the use of Product Backlog Items and Tasks within the context of Agile Planning Tools, which are integral to the Scrum framework.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T16:48:03",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile planning tools and task management without any mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:42:57",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the use of Product Backlog Items (PBIs) and tasks within the context of Agile Planning Tools, which aligns with Scrum principles. It explicitly mentions PBIs, the Sprint Backlog, and the importance of breaking down work items, which are key components of the Scrum framework. However, while it provides a good level of detail on the topic, it primarily focuses on the limitations of a specific tool rather than a broader discussion of Scrum practices or principles, which slightly reduces the depth of discussion score.",
+    "level": "Secondary"
   }
 }

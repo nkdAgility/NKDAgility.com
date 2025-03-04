@@ -557,15 +557,6 @@
     "reasoning": "Content focuses on hierarchies of competence in management rather than decision-making processes under uncertainty.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T08:37:36",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses agile principles and mentions Scrum in the context of agile consultancy and training, but it is more focused on hierarchies of competence rather than a direct discussion of Scrum practices.",
-    "level": "Tertiary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T08:37:36",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses hierarchies of competence and Agile methodologies without any mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:24:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content briefly touches on the concept of competence and respect in the workplace, which could relate to team dynamics in Scrum. However, it does not explicitly mention Scrum principles, roles, events, or artifacts, nor does it provide any substantial discussion on Scrum practices or frameworks. The focus is more on general workplace dynamics rather than specific Scrum methodologies.",
+    "level": "Quinary"
   }
 }

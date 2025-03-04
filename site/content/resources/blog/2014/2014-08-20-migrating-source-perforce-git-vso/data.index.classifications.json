@@ -350,15 +350,6 @@
     "reasoning": "The content discusses aspects of migrating source control systems and the implications for application management, but it primarily focuses on the technical details of migration rather than the broader application lifecycle management practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T09:06:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the migration of source control from Perforce to Git and does not focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T10:22:17",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the migration of source control from Perforce to Git, focusing on technical processes and tools, without any mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:36:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on migrating source control from Perforce to Git and discusses technical aspects of version control systems. While it briefly mentions teams (Development Team and Business Team), it does not delve into Scrum roles, events, or principles, which are central to the Scrum framework. The discussion lacks depth in Scrum-related topics and does not align with the core themes of Scrum, such as iterative progress or team dynamics.",
+    "level": "Quinary"
   }
 }

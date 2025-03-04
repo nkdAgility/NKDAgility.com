@@ -1250,15 +1250,6 @@
     "reasoning": "The content discusses the transition of a Scrum team towards continuous delivery, which relates to throughput, but it primarily focuses on team dynamics and organisational support rather than directly measuring or optimising throughput.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T21:31:55",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses strategies for transforming a Scrum team, focusing on roles, continuous delivery, and the importance of the Product Owner, which aligns closely with Scrum principles.",
-    "level": "Secondary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T21:31:57",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events without any mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:21:30",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the transformation of a Scrum team, detailing the roles of the Product Owner and the importance of an ordered backlog. It aligns well with Scrum principles, particularly in terms of continuous delivery and team empowerment. The depth of discussion is significant, covering the challenges and strategies for implementing Scrum effectively within an organisation, which reflects a strong understanding of the Scrum framework.",
+    "level": "Secondary"
   }
 }

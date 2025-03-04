@@ -1349,15 +1349,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on Agile practices rather than the One Engineering System framework.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T08:36:36",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses challenges faced by new Scrum teams, the importance of understanding Scrum principles, and the distinction between Scrum practices and empirical processes.",
-    "level": "Secondary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T08:36:38",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events without any mention of Artificial Intelligence or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:28:09",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses the challenges of working with a new Scrum team, highlighting the roles of team members and the Scrum Master. It addresses misconceptions about Scrum practices, such as user stories and estimation techniques, and emphasises the importance of understanding empirical processes, which aligns well with Scrum principles. The depth of discussion is significant, as it explores the nuances of team dynamics and the need for foundational understanding in Scrum, although it briefly touches on other frameworks like Kanban. Overall, the content is primarily focused on Scrum, providing a detailed examination of its principles and practices.",
+    "level": "Secondary"
   }
 }

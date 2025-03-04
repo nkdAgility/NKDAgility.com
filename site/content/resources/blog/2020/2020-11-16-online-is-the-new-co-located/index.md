@@ -35,6 +35,7 @@ tags:
 - Personal
 categories:
 - Social Technologies
+- Scrum
 preview: image-21-3-3.png
 
 ---

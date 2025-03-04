@@ -1349,15 +1349,6 @@
     "reasoning": "The content primarily discusses configurations and practices related to Team Foundation Server (TFS) in the context of managing teams and work items, which is closely related to aspects of application lifecycle management. However, it does not deeply explore the full lifecycle stages or methodologies typically associated with ALM.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:09:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses configuring work item types and fields in TFS with mentions of Scrum templates, indicating Scrum as a secondary theme, but does not focus primarily on Scrum principles, roles, events, or artifacts.",
-    "level": "Tertiary"
-  },
   "Social Technologies": {
     "category": "Social Technologies",
     "calculated_at": "2025-02-18T11:49:06",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the configuration of Teams in TFS and does not mention or relate to Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:42:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 50,
+    "final_score": 34.0,
+    "reasoning": "The content discusses the use of Teams in TFS (Team Foundation Server) and mentions aspects of team organisation and project management, which are relevant to Scrum. However, it lacks explicit references to Scrum roles, events, or artifacts, and does not delve deeply into Scrum principles or practices. The focus is more on TFS configuration rather than Scrum methodology itself.",
+    "level": "Quaternary"
   }
 }
