@@ -350,15 +350,6 @@
     "reasoning": "The content discusses Visual Studio 2010 enhancements, which include features relevant to application development and lifecycle management, but it primarily focuses on new tools and technologies rather than the overall management of the application lifecycle.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T01:21:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Scott Guthrie's talks on Visual Studio, Silverlight, ASP.NET MVC, and Windows Phone 7, with no mention of Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T02:10:03",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio features, Silverlight, and Windows Phone 7, with no mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:51:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses Scott Guthrie's talks on various Microsoft technologies and does not mention Scrum principles, roles, events, or any related topics. There is no focus on collaborative project management or Agile methodologies, which are central to the Scrum category.",
     "level": "Ignored"
   }
 }

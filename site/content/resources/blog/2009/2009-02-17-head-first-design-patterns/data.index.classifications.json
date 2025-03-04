@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses a book on design patterns and learning methodologies, with no direct relevance to Application Lifecycle Management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T03:07:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a book on design patterns and learning principles, with no clear focus on Scrum or its related topics.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T10:29:48",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a book on design patterns and learning techniques, with no mention of AI or its application in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:55:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a book on design patterns and learning principles, with no direct mention of Scrum or its related concepts. While it touches on effective learning methods, it does not align with Scrum's framework, roles, events, or principles, resulting in a very low confidence score.",
     "level": "Ignored"
   }
 }

@@ -206,15 +206,6 @@
     "reasoning": "Content primarily discusses the release and features of a specific tool (TFS Sticky Buddy) without a clear focus on platform engineering principles or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T18:23:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of a software tool (TFS Sticky Buddy) and its features, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T18:23:56",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the release and features of a software tool (TFS Stick Buddy) without any mention of AI or its application in Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:00:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the release of a software tool (TFS Stick Buddy) and its features, with no explicit mention of Scrum principles, roles, events, or artifacts. While it touches on work items and project management, it does not align with the core themes of Scrum or provide any depth in discussing Scrum practices.",
+    "level": "Quinary"
   }
 }

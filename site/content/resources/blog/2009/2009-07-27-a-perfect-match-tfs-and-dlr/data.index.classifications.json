@@ -350,15 +350,6 @@
     "reasoning": "The content discusses Team Foundation Server (TFS) and its check-in policies, which are related to application lifecycle management, but the primary focus is on the mechanics and limitations of TFS rather than a comprehensive discussion of ALM methodologies or practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T02:16:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Team Foundation Server (TFS) and its policies, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T02:28:55",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Team Foundation Server and Dynamic Language Runtime without any mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:53:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Team Foundation Server (TFS) and its check-in policies, with no direct mention of Scrum principles, roles, events, or artifacts. While it touches on project management concepts, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is focused on technical implementation rather than Scrum practices, resulting in a low confidence score.",
+    "level": "Quinary"
   }
 }

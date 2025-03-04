@@ -350,15 +350,6 @@
     "reasoning": "The content discusses an upgrade process related to Team Foundation Server (TFS), which is a tool used in Application Lifecycle Management. However, the primary focus is on a specific technical issue rather than a comprehensive discussion of ALM methodologies or practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T02:30:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to TFS installation and SQL collation conflicts, with no clear focus on Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T10:29:11",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to TFS installation and SQL collation conflicts, with no mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:54:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to upgrading Team Foundation Server (TFS) and SQL collation conflicts. There are no direct mentions of Scrum principles, roles, events, or any related concepts. The focus is on a specific technical problem rather than on Scrum practices or frameworks, resulting in a very low confidence score.",
     "level": "Ignored"
   }
 }

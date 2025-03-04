@@ -206,15 +206,6 @@
     "reasoning": "The content discusses a project related to SharePoint and its migration, but it primarily focuses on personal experiences and challenges rather than the principles of platform engineering or internal developer platforms.",
     "level": "Quaternary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T18:18:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a project involving SharePoint migration and does not focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T18:18:25",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses project management and technical challenges related to SharePoint, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:59:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a project involving SharePoint and does not mention Scrum principles, roles, events, or artifacts. While it touches on project management challenges, it lacks any direct references to Scrum or its methodologies, resulting in a very low confidence score.",
+    "level": "Quinary"
   }
 }

@@ -206,15 +206,6 @@
     "reasoning": "Content primarily discusses setting up SharePoint for enterprise use, which does not align with the core principles of platform engineering focused on internal developer platforms and enhancing developer productivity.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T18:49:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses setting up SharePoint and does not mention Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T18:49:03",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses SharePoint deployment and architecture, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:00:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses setting up SharePoint for enterprise use, with no direct mentions of Scrum principles, roles, or events. It lacks alignment with Scrum's core themes and does not provide any depth on Scrum-related topics.",
     "level": "Ignored"
   }
 }

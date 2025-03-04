@@ -62,15 +62,6 @@
     "reasoning": "Content primarily discusses the development of a custom WPF control for Visual Studio Team System, with no reference to events, presentations, or discussions related to Agile or DevOps.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T11:44:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the creation of a WPF Work Item Control for Visual Studio Team System, focusing on technical implementation rather than Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Resilience and Change": {
     "category": "Resilience and Change",
     "calculated_at": "2025-02-16T11:44:55",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation of a WPF Work Item Control and does not mention or relate to Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:57:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on creating a custom WPF control for work item tracking in Visual Studio Team System, which is related to software development but does not discuss Scrum principles, roles, events, or artifacts. There are no direct mentions of Scrum or its practices, and the content lacks depth in discussing any Scrum-related topics.",
+    "level": "Quinary"
   }
 }

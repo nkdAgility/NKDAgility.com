@@ -40,8 +40,7 @@ tags:
 - Software Development
 resourceTypes:
 - video
-categories:
-- Scrum
+categories: []
 
 ---
 As I reflect on my journey in software development, one truth stands out: adapting to changing demands is not just a necessity; it’s a fundamental part of our craft. When we shift the expectations we place on our products, we must also be prepared to evolve the architecture that underpins them. This is a lesson I’ve learned time and again, and it’s one I want to share with you today.

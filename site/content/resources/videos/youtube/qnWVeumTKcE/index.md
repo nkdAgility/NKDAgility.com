@@ -30,8 +30,7 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
+categories: []
 
 ---
  [Watch on Youtube](https://www.youtube.com/watch?v=qnWVeumTKcE)

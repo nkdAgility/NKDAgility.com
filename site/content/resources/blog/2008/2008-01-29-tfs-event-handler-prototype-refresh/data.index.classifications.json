@@ -206,15 +206,6 @@
     "reasoning": "Content primarily discusses bug fixes and features related to a specific event handler prototype, with no clear focus on platform engineering principles or internal developer platforms.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T18:54:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a TFS Event Handler prototype and related technical details, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T18:54:23",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses bug fixes and features related to a TFS Event Handler, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:01:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a TFS Event Handler and its functionalities, with no explicit mention of Scrum roles, events, or principles. While it touches on team collaboration through event notifications, it lacks depth and alignment with Scrum's core themes, resulting in a low confidence score.",
+    "level": "Quinary"
   }
 }

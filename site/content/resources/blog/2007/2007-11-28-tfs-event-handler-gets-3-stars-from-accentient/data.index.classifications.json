@@ -206,15 +206,6 @@
     "reasoning": "Content primarily discusses the popularity of a specific tool (TFS Event Handler) and personal reflections, with no clear focus on platform engineering principles or practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T19:37:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal experience with TFS Event Handler and does not focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T19:37:47",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses TFS Event Handler and personal achievements, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:16:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content does not explicitly mention Scrum or its principles, roles, events, or artifacts. It discusses TFS (Team Foundation Server) and a specific event handler, which are related to project management tools but do not align with the Scrum framework or its core themes. The focus is on personal achievement and popularity rather than on Scrum practices or discussions.",
+    "level": "Quinary"
   }
 }

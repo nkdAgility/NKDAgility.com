@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses WPF and MVVM implementation details, with no focus on application lifecycle management methodologies, practices, or tools.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T01:59:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses WPF and MVVM concepts, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T02:46:52",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses WPF and UI behaviour, with no mention of AI or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:53:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on WPF and MVVM concepts, with no direct mention of Scrum principles, roles, events, or artifacts. It does not align with the core themes of Scrum, such as team dynamics or iterative progress, and lacks any depth in discussing Scrum-related topics.",
     "level": "Ignored"
   }
 }

@@ -62,15 +62,6 @@
     "reasoning": "Content primarily discusses test-driven development and does not reference any specific events, presentations, or discussions related to Agile or DevOps.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T10:48:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses test-driven development (TDD) and its impact on software development, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Resilience and Change": {
     "category": "Resilience and Change",
     "calculated_at": "2025-02-16T10:48:22",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses test-driven development in software development, with no mention of AI or its integration within Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:56:10",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses test-driven development (TDD) and its benefits in software development, without any explicit mention of Scrum principles, roles, or events. While TDD can align with Agile methodologies, the discussion does not focus on Scrum specifically, leading to a low confidence score.",
+    "level": "Quaternary"
   }
 }

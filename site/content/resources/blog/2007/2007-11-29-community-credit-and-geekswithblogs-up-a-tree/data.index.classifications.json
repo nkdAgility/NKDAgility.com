@@ -206,15 +206,6 @@
     "reasoning": "Content primarily discusses the integration of two external platforms, GeeksWithBlogs and Community Credit, without any focus on internal developer platforms or enhancing developer productivity.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T19:36:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum principles, practices, or frameworks; it focuses on the integration of two platforms.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T19:36:35",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration of two platforms, GeeksWithBlogs and Community Credit, without any mention of AI, Agile methodologies, or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:16:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content does not mention Scrum or any related concepts. It focuses on the integration of two platforms, which is unrelated to Scrum principles, practices, or frameworks.",
     "level": "Ignored"
   }
 }

@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses troubleshooting permission issues in TFS, which is not central to Application Lifecycle Management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T01:32:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses troubleshooting TFS Administration permission issues and does not focus on Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T02:22:48",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses TFS administration and permission issues without any mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:52:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a technical issue related to TFS (Team Foundation Server) administration and permissions, with no direct mention of Scrum principles, roles, events, or practices. While it touches on aspects of team collaboration indirectly through the context of permissions, it does not align with the core themes of Scrum or provide any depth on Scrum-related topics.",
+    "level": "Quinary"
   }
 }

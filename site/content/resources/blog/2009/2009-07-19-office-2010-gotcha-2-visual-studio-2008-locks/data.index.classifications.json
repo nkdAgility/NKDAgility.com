@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses a technical issue related to Visual Studio 2008 and Office 2010, with no clear focus on Application Lifecycle Management principles or practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T02:21:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Visual Studio 2008 and Office 2010, with no mention of Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T02:51:24",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to Visual Studio 2008 and Office 2010, with no mention of AI or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:53:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to Visual Studio 2008 and Office 2010, with no direct mentions or discussions of Scrum principles, roles, events, or practices. The focus is on troubleshooting a software problem rather than any aspect of Scrum or agile methodologies.",
     "level": "Ignored"
   }
 }

@@ -39,7 +39,6 @@ tags:
 - Professional Scrum
 categories:
 - Scrum
-- Social Technologies
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

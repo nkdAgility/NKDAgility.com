@@ -206,15 +206,6 @@
     "reasoning": "Content primarily discusses the release of a prototype application without a clear focus on platform engineering principles or enhancing developer productivity.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T21:51:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release of a TFS Event Handler prototype and does not focus on Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T21:51:10",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of a prototype application and code, with no mention of AI or its integration within Agile or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:20:29",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses the release of a TFS Event Handler prototype and does not explicitly mention Scrum principles, roles, events, or any related concepts. There is no depth of discussion regarding Scrum, and the focus is on a specific tool rather than the Scrum framework or its practices.",
     "level": "Ignored"
   }
 }

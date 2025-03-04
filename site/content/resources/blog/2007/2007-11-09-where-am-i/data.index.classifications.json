@@ -206,15 +206,6 @@
     "reasoning": "Content primarily discusses a specific application project using LINQ and .NET, with no clear focus on platform engineering principles or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T19:56:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a software application and its technical implementation, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T19:56:42",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a LINQ-based application for location tracking and does not address AI integration in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:16:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical project involving LINQ and .NET, with no direct references to Scrum principles, roles, events, or practices. While it may touch on aspects of project management indirectly, it does not align with the core themes of Scrum, nor does it provide any depth in discussing Scrum-related topics.",
     "level": "Ignored"
   }
 }

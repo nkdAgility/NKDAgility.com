@@ -350,15 +350,6 @@
     "reasoning": "The content discusses connecting Visual Studio 2010 to Team Foundation Server 2008, which relates to tools used in Application Lifecycle Management, but does not primarily focus on the broader aspects of ALM.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T02:42:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses connecting Visual Studio to Team Foundation Server, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T10:29:21",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses connecting Visual Studio 2010 to Team Foundation Server 2008, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:54:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses connecting Visual Studio 2010 to Team Foundation Server 2008, which is unrelated to Scrum principles, roles, or practices. There are no direct mentions of Scrum or its core themes, and the discussion lacks depth regarding any Scrum-related topics.",
+    "level": "Quinary"
   }
 }

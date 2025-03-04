@@ -62,15 +62,6 @@
     "reasoning": "Content primarily discusses the challenges of selling Team System to various stakeholders rather than focusing on organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T08:30:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the challenges of selling Team System and does not focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-17T08:30:17",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the challenges of selling Team System to various stakeholders, with no mention of AI or its application in Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:22:15",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses the challenges of selling Team System and does not explicitly mention Scrum or its principles. While it touches on team dynamics and collaboration, it lacks a direct focus on Scrum roles, events, or artifacts, leading to a low confidence score.",
+    "level": "Quinary"
   }
 }

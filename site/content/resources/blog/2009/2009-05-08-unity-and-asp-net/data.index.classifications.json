@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses dependency injection in ASP.NET and WPF applications, without a clear focus on the application lifecycle stages or management practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T02:49:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses dependency injection in ASP.NET and WPF, with no mention of Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T10:29:29",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses dependency injection in ASP.NET and WPF applications, with no mention of AI or its integration in Agile or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:54:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical implementation details related to dependency injection in ASP.NET and WPF, with no direct mentions or discussions of Scrum principles, roles, events, or practices. It lacks any alignment with the core themes of Scrum, such as team dynamics or iterative progress, and does not provide any depth on Scrum-related topics.",
     "level": "Ignored"
   }
 }

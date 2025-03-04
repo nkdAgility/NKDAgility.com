@@ -206,15 +206,6 @@
     "reasoning": "Content primarily discusses issues related to Windows Live Writer and does not address platform engineering or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T20:15:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Windows Live Writer and does not mention Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T20:15:31",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to Windows Live Writer and does not mention AI or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:17:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content does not mention Scrum or any related concepts. It focuses on a technical issue with Windows Live Writer, which is unrelated to Scrum principles, practices, or frameworks.",
     "level": "Ignored"
   }
 }

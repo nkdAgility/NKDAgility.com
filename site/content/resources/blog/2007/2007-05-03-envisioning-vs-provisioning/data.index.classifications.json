@@ -206,15 +206,6 @@
     "reasoning": "Content primarily discusses the roles of Envisioners and Provisioners in software development, without a clear focus on platform engineering principles or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T22:26:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the roles of Envisioners and Provisioners in software development, without a clear focus on Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T22:26:25",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the roles of Envisioners and Provisioners in software development, without a clear focus on Artificial Intelligence or its integration within Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:21:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content discusses the roles of Envisioners and Provisioners in software development but does not explicitly mention Scrum or its principles, roles, events, or artifacts. While it touches on aspects of team dynamics and project delivery, it lacks a direct connection to the Scrum framework or its core themes, resulting in a low confidence score.",
+    "level": "Quinary"
   }
 }

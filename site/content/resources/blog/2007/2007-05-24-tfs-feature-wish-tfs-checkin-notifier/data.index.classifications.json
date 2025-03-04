@@ -206,15 +206,6 @@
     "reasoning": "Content primarily discusses a feature wish for a source control tool, which does not align with the core principles of platform engineering.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T22:16:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a feature wish for a source control system and does not focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T22:16:14",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a feature request for a source control tool, with no mention of AI or its application in Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:21:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a feature request related to source control in Team Foundation Server (TFS) and does not explicitly mention Scrum principles, roles, events, or artifacts. While it touches on collaboration, it lacks depth in discussing Scrum's framework or its implementation, leading to a low confidence score.",
+    "level": "Quinary"
   }
 }

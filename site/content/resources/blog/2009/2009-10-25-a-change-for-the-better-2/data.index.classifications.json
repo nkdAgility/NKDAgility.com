@@ -350,15 +350,6 @@
     "reasoning": "The content discusses the author's transition to a role that involves responsibilities related to Visual Studio ALM offerings and migrating TFS customers, indicating a focus on application lifecycle management as a secondary theme.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T01:53:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses personal career experiences and roles rather than Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T02:03:09",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal career experiences and roles in software development without any mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:52:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses personal career experiences and roles within a company, with no explicit mention of Scrum principles, roles, events, or artifacts. While there are references to team dynamics and productivity, they do not align specifically with Scrum practices or frameworks.",
+    "level": "Quinary"
   }
 }

@@ -206,15 +206,6 @@
     "reasoning": "Content primarily discusses the deployment and customization of TFS (Team Foundation Server) for project management, which does not align with the core principles of platform engineering focused on internal developer platforms and enhancing developer productivity.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T20:04:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the deployment and features of Team Foundation Server (TFS) and its integration with SharePoint, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T20:04:27",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the deployment and customization of TFS (Team Foundation Server) for project management, with no clear focus on Artificial Intelligence or its integration within Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:17:00",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 5,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses Team Foundation Server (TFS) and its deployment for project management, which is not directly related to Scrum principles or practices. While there are mentions of project management and tracking, the discussion lacks explicit references to Scrum roles, events, or artifacts. The conceptual alignment with Scrum is minimal, as it does not address the iterative and collaborative nature of Scrum or its core themes. The depth of discussion is also limited, focusing more on TFS functionalities rather than Scrum methodologies.",
+    "level": "Quaternary"
   }
 }

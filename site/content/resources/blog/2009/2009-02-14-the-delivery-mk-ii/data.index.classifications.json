@@ -350,15 +350,6 @@
     "reasoning": "Content is a personal blog post about a family event and does not discuss any aspects of Application Lifecycle Management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T03:09:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a personal family event and does not discuss Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T10:29:51",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about a personal family event and does not discuss AI or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:55:35",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content is a personal blog post about the birth of a child and does not mention Scrum or any related concepts. It lacks any discussion of Scrum roles, events, or principles, making it entirely unrelated to the category.",
     "level": "Ignored"
   }
 }

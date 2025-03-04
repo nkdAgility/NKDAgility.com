@@ -206,15 +206,6 @@
     "reasoning": "Content primarily discusses exception handling in Team Foundation Server and Windows Communication Foundation, with no clear focus on platform engineering principles or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T22:11:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses exception handling in Team Foundation Server and does not relate to Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T22:11:37",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses exception handling in Team Foundation Server and does not relate to Artificial Intelligence.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:21:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses exception handling in relation to Team Foundation Server (TFS) and does not mention Scrum principles, roles, events, or any related concepts. There is no focus on Agile methodologies or team dynamics, which are central to the Scrum framework.",
     "level": "Ignored"
   }
 }

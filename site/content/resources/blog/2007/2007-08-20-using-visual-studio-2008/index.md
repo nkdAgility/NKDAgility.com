@@ -24,8 +24,7 @@ aliasesArchive:
 - /resources/blog/using-visual-studio-2008
 tags:
 - Software Development
-categories:
-- Engineering Excellence
+categories: []
 preview: metro-visual-studio-2005-128-link-8-1.png
 
 ---

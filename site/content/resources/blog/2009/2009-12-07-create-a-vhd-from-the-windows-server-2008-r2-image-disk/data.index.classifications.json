@@ -350,15 +350,6 @@
     "reasoning": "Content primarily focuses on creating a VHD from a Windows Server image, which does not relate to the management of software applications or the application lifecycle.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T01:48:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the process of creating a VHD from a Windows Server image, with no mention of Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T10:29:03",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of creating a VHD from a Windows Server image, with no clear focus on Artificial Intelligence or its application in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:52:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on technical instructions for creating a Virtual Hard Disk from a Windows Server image, with no mention of Scrum principles, roles, events, or any related topics. It does not align with the core themes of Scrum, nor does it provide any depth of discussion on the subject.",
     "level": "Ignored"
   }
 }

@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses WPF drag and drop functionality and MVVM pattern implementation, with no focus on application lifecycle management practices or methodologies.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T02:11:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses WPF drag and drop behaviour and the MVVM pattern, with no mention of Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T10:29:05",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses WPF drag and drop behaviour and MVVM pattern, with no mention of AI or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:53:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses WPF drag and drop functionality within the MVVM pattern, with no direct mentions of Scrum principles, roles, events, or artifacts. While it touches on software development practices, it does not align with the core themes of Scrum, such as iterative progress, team dynamics, or empirical process control.",
     "level": "Ignored"
   }
 }

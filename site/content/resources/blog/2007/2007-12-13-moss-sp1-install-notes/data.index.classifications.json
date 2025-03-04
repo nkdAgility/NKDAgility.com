@@ -206,15 +206,6 @@
     "reasoning": "Content primarily discusses installation notes for Microsoft Office Servers Service Pack 1 and SharePoint, with no clear focus on platform engineering principles or practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T19:26:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses installation notes for Microsoft Office Servers Service Pack 1 and does not relate to Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T19:26:56",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses installation notes for Microsoft Office Servers Service Pack 1, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:15:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on installation notes for Microsoft Office Servers Service Pack 1 and does not mention Scrum or its principles, roles, events, or practices. There is no discussion of Agile principles or team dynamics, which are central to the Scrum framework. The content is unrelated to Scrum, leading to a very low confidence score.",
     "level": "Ignored"
   }
 }

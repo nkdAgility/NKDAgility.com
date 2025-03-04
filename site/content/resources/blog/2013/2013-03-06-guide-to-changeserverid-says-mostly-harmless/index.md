@@ -24,8 +24,7 @@ aliasesArchive:
 - /resources/blog/guide-to-changeserverid-says-mostly-harmless
 tags:
 - Troubleshooting
-categories:
-- DevOps
+categories: []
 
 ---
 If you are cloning your TFS collection then you have to run ChangeServerId. It is reasonably well documented for this senario but what other reasons might you have to run it.

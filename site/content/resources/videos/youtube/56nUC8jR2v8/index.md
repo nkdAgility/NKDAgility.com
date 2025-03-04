@@ -32,8 +32,7 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- Scrum
+categories: []
 
 ---
 As I sit down to write this, I’m reminded of the importance of community and shared learning in our journey towards agility. In just a few minutes, I’ll be joining the Future of Scotland meetup group for a session that I’m particularly passionate about: “The Tyranny of Taylorism and Detecting Agile BS.” If you’re reading this before 7 p.m. British Summer Time, there’s still time to join us! You can find the link in the comments below.

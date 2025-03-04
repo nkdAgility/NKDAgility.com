@@ -32,8 +32,7 @@ tags:
 - Practical Techniques and Tooling
 - Pragmatic Thinking
 - Software Development
-categories:
-- Scrum
+categories: []
 
 ---
 If you say my post on “TFS Integration Tools - Issue: TF10141 No Files checked in as a result of a TFS check-in failure” which I just updated you will know that I messed up the conflict resolution by mixing up the “Source Version” and “Target Version”.

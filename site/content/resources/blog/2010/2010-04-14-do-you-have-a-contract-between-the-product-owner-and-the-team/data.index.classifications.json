@@ -350,15 +350,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events, which are not directly related to the management of the entire application lifecycle.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T01:03:51",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the concept of a Sprint Contract between the Product Owner and the Team, which is a key aspect of Scrum practices.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T01:51:30",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events without any mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:51:07",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content explicitly discusses the concept of a Sprint Contract between the Product Owner and the implementation Team, which directly relates to Scrum roles and events. It provides a clear explanation of the agreement's purpose and its implications for team dynamics and project management within the Scrum framework. The depth of discussion includes specific references to Scrum principles, such as scope, quality, and the iterative nature of Sprints, demonstrating strong alignment with the core themes of Scrum. Overall, the content is focused on Scrum, making it a primary topic rather than a secondary mention.",
+    "level": "Primary"
   }
 }

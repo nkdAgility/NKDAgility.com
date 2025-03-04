@@ -38,8 +38,8 @@ tags:
 - Accountability
 - Pragmatic Thinking
 categories:
-- Scrum
 - Social Technologies
+- Scrum
 preview: metro-SSWLogo-128-link-4-4.png
 
 ---

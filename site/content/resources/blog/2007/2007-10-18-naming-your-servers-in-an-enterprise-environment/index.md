@@ -24,8 +24,7 @@ aliasesArchive:
 - /resources/blog/naming-your-servers-in-an-enterprise-environment
 tags:
 - System Configuration
-categories:
-- DevOps
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

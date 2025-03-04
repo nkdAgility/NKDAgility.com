@@ -350,15 +350,6 @@
     "reasoning": "The content discusses build servers and tagging in TFS, which relates to the deployment and maintenance stages of the application lifecycle, but it primarily focuses on technical implementation rather than broader ALM methodologies or practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T00:35:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses build servers and their management in TFS, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T00:54:27",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses build server management and tagging in TFS, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:50:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses build servers and their management in TFS, with no direct references to Scrum principles, roles, events, or artifacts. While it touches on team dynamics indirectly by mentioning developers, it does not align with the core themes of Scrum or provide any depth on Scrum practices.",
     "level": "Ignored"
   }
 }

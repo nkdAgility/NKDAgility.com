@@ -206,15 +206,6 @@
     "reasoning": "Content primarily discusses the performance issues of a specific website, which is unrelated to platform engineering principles or practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T20:12:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about the performance issues of a website and does not discuss Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T20:12:51",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the performance issues of a website and user frustrations, with no mention of AI or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:17:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content does not discuss Scrum principles, roles, events, or any related topics. It focuses solely on the performance issues of a website, which is unrelated to Scrum or its frameworks.",
     "level": "Ignored"
   }
 }

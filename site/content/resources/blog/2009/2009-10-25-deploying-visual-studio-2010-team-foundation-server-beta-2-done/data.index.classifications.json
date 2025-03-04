@@ -350,15 +350,6 @@
     "reasoning": "The content discusses the migration process of Team Foundation Server (TFS), which is related to the deployment and maintenance stages of the application lifecycle. However, it primarily focuses on a specific migration experience rather than a comprehensive discussion on Application Lifecycle Management methodologies or practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T01:52:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the migration process of Team Foundation Server (TFS) and does not focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T02:28:59",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the migration process of Team Foundation Server and does not mention Artificial Intelligence or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:52:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the migration process of Team Foundation Server (TFS) and does not explicitly mention Scrum principles, roles, events, or artifacts. While it touches on project management and team collaboration, it lacks a direct focus on Scrum as a framework, making it only tangentially related to the category.",
+    "level": "Quinary"
   }
 }

@@ -206,15 +206,6 @@
     "reasoning": "Content primarily discusses the documentation and management of TFS (Team Foundation Server) without a clear focus on platform engineering principles or enhancing developer productivity.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T20:40:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses TFS deployment and management, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T20:40:59",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses TFS deployment and management, with no mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:18:02",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses TFS (Team Foundation Server) and its installation and management, with no direct mentions of Scrum principles, roles, events, or practices. While it touches on project management aspects, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The discussion lacks depth regarding Scrum, making it a very low confidence score for this category.",
     "level": "Ignored"
   }
 }

@@ -34,8 +34,7 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
+categories: []
 
 ---
 In this post, I’m excited to share my experience of installing Team Foundation Server (TFS) on a standard single server setup. This process can seem daunting at first, but with the right steps, it can be straightforward and rewarding. Let’s dive into the details!

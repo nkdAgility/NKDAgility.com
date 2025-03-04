@@ -62,15 +62,6 @@
     "reasoning": "Content primarily discusses free online training workshops and courses related to Microsoft technologies, with no clear focus on organisational agility or related practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:24:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Microsoft training workshops and does not mention Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-17T09:25:00",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Microsoft training workshops and courses, with no mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:22:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content does not mention Scrum or any related concepts. It focuses on Microsoft training workshops and courses, which are unrelated to Scrum principles, practices, or frameworks.",
     "level": "Ignored"
   }
 }

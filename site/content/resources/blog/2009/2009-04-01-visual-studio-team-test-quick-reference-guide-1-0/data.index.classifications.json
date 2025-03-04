@@ -350,15 +350,6 @@
     "reasoning": "The content discusses testing tools and practices related to Visual Studio Team Test, which is a component of the application lifecycle, but it primarily focuses on testing rather than the broader aspects of Application Lifecycle Management.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T03:02:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a reference guide for Visual Studio Team Test and does not focus on Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T10:29:42",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses testing methodologies and tools without any mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:55:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a reference guide for Visual Studio Team Test, discussing testing practices and tools rather than Scrum principles or frameworks. There are no direct mentions of Scrum roles, events, or artifacts, and the discussion does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion on Scrum is minimal, as the content does not engage with any Scrum-related concepts.",
+    "level": "Quinary"
   }
 }

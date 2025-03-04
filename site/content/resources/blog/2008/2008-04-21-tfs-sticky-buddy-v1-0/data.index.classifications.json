@@ -206,15 +206,6 @@
     "reasoning": "Content primarily discusses the TFS Sticky Buddy application and its functionalities related to Team Foundation Server, without a clear focus on platform engineering principles or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T18:20:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a software application related to TFS (Team Foundation Server) and does not focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T18:20:58",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a software application for managing TFS Work Items, with no mention of AI or its integration in Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:00:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a software application related to Team Foundation Server (TFS) and does not explicitly mention Scrum principles, roles, or events. While it touches on work items and project management, it lacks a direct focus on Scrum methodologies or frameworks, resulting in a low confidence score.",
+    "level": "Quinary"
   }
 }

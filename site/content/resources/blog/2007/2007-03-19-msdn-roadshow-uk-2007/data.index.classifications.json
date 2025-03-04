@@ -62,15 +62,6 @@
     "reasoning": "Content primarily discusses a personal experience at a roadshow and does not address organisational agility or related themes.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:31:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a roadshow event and speakers, with no mention of Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-17T09:31:06",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a roadshow event and speakers, with no mention of AI, Agile methodologies, or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:22:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a personal experience at a roadshow event, focusing on speakers and their presentations. There are no direct mentions of Scrum principles, roles, events, or any related concepts. The content does not align with the core themes of Scrum, such as team dynamics, iterative progress, or continuous improvement. Overall, it lacks depth in discussing any aspect of Scrum.",
     "level": "Ignored"
   }
 }

@@ -62,15 +62,6 @@
     "reasoning": "The content primarily discusses the Developer Day Scotland event, highlighting its return and the author's enthusiasm for attending, which aligns well with the category's focus on events.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T11:09:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an event and personal experiences, with no clear focus on Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "Resilience and Change": {
     "category": "Resilience and Change",
     "calculated_at": "2025-02-16T11:09:49",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses an event and personal experiences, with no mention of AI or its application in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:56:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses an event (Developer Day Scotland) and does not mention Scrum principles, roles, or practices. There is no substantial alignment with Scrum concepts, and the depth of discussion is minimal, focusing instead on personal enjoyment of the event.",
     "level": "Ignored"
   }
 }

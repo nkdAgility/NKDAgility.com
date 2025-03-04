@@ -30,8 +30,7 @@ aliasesArchive:
 - /resources/blog/tfs-integration-tools-issue-sequence-contains-no-elements
 tags:
 - Troubleshooting
-categories:
-- DevOps
+categories: []
 preview: metro-problem-icon-3-3.png
 
 ---

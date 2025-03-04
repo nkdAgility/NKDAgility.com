@@ -206,15 +206,6 @@
     "reasoning": "The content discusses the internal use of Team Foundation Server (TFS) at Microsoft, which relates to platform engineering principles, but it primarily focuses on the adoption and perception of TFS rather than a comprehensive discussion on platform engineering itself.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T21:11:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Team Foundation Server and its adoption at Microsoft, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T21:11:38",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the adoption and internal use of Team Foundation Server at Microsoft, with no focus on Artificial Intelligence or its integration within Agile methodologies or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:18:56",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses Team Foundation Server (TFS) and its adoption within Microsoft, with no direct mention of Scrum principles, roles, or events. While there is a brief reference to project management through TFS, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is focused on TFS rather than Scrum, leading to a low confidence score.",
+    "level": "Quaternary"
   }
 }

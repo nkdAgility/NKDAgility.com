@@ -350,15 +350,6 @@
     "reasoning": "The content discusses testing web services and integration with Team Foundation Build Services, which relates to the deployment and maintenance stages of the application lifecycle. However, it primarily focuses on testing methodologies rather than a comprehensive view of application lifecycle management.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T01:31:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "The content primarily discusses testing web services with MSTest and does not focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T01:39:41",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses testing web services with MSTest and does not relate to AI or its integration within Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:52:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 50,
+    "final_score": 16.0,
+    "reasoning": "The content primarily focuses on technical aspects of testing web services using MSTest and Team Foundation Build Services, with only a brief mention of Scrum in the tags. There is no substantial discussion of Scrum principles, roles, events, or practices, which are essential for a strong alignment with the Scrum category.",
+    "level": "Quinary"
   }
 }

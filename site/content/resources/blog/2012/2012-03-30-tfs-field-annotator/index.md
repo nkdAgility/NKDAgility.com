@@ -27,8 +27,7 @@ tags:
 - Install and Configuration
 - Practical Techniques and Tooling
 - Windows
-categories:
-- Scrum
+categories: []
 preview: metro-cloud-azure-link-4-4.png
 
 ---

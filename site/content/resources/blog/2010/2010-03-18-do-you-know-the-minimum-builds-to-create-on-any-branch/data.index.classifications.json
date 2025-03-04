@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses the importance of build processes in software development, which is a key aspect of Application Lifecycle Management.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T01:22:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses build processes and server setups, with no clear focus on Scrum principles, roles, or events.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T01:51:51",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses build processes and server setups in software development, with no mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:51:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses build processes and server setups for software development, which are not directly related to Scrum principles, roles, or events. While it touches on team collaboration indirectly, it lacks explicit references to Scrum concepts or frameworks, resulting in a low confidence score.",
+    "level": "Quinary"
   }
 }

@@ -62,15 +62,6 @@
     "reasoning": "Content primarily discusses the features of SkyDrive and related Windows Live services, with no focus on events or presentations.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T10:52:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses SkyDrive and its features, with no mention of Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Resilience and Change": {
     "category": "Resilience and Change",
     "calculated_at": "2025-02-16T10:52:03",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and services of SkyDrive, with no mention of Artificial Intelligence or its application in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:56:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content does not mention Scrum or any related concepts. It focuses entirely on the features of SkyDrive and Windows Live services, which are unrelated to Scrum principles, practices, or frameworks.",
     "level": "Ignored"
   }
 }

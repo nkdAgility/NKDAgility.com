@@ -206,15 +206,6 @@
     "reasoning": "Content primarily discusses feedback on a specific tool (TFS Event Handler) and its integration capabilities, without a clear focus on platform engineering principles or enhancing developer productivity.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T21:39:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a TFS Event Handler and solicits feedback on its installation and functionality, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T21:39:21",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a TFS Event Handler and solicits feedback on its integration and functionality, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:20:00",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses a TFS Event Handler and solicits feedback on its installation and configuration, with no direct mentions or alignment to Scrum principles, roles, or practices. The focus is on a technical tool rather than Scrum methodologies.",
     "level": "Ignored"
   }
 }

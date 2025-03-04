@@ -350,15 +350,6 @@
     "reasoning": "Content heavily discusses Scrum roles and task management, which are not central to Application Lifecycle Management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T00:49:17",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the importance of detailed task descriptions within the Scrum framework, highlighting team collaboration and project integrity.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T10:28:54",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and task management without any mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:50:52",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses the importance of detailed task descriptions within the Scrum framework, highlighting the collaborative nature of task management and the need for comprehensive information to ensure project integrity. It aligns well with Scrum principles, particularly regarding team dynamics and continuous improvement. However, while it provides practical advice, it lacks a broader discussion of Scrum roles, events, or artifacts, which limits its depth.",
+    "level": "Secondary"
   }
 }

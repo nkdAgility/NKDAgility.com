@@ -206,15 +206,6 @@
     "reasoning": "Content primarily discusses SharePoint branding and customization, which is not related to platform engineering principles or internal developer platforms.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T20:14:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses SharePoint branding and customization, with no mention of Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T20:14:10",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses SharePoint branding and customization, with no mention of AI or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:17:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on SharePoint branding and customization, with no direct mentions of Scrum principles, roles, or practices. While it discusses project-related challenges, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is minimal and does not provide any relevant insights into Scrum.",
     "level": "Ignored"
   }
 }

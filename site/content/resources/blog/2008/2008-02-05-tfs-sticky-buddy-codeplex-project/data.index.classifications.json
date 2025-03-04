@@ -206,15 +206,6 @@
     "reasoning": "Content primarily discusses a digital whiteboard application for Team Foundation Server, focusing on project management rather than platform engineering principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T18:40:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a digital whiteboard application for Team Foundation Server, with no clear focus on Scrum principles, roles, or events.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T18:40:21",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a digital whiteboard application for project management using Team Foundation Server, with no clear focus on AI integration in Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:00:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses a tool related to Team Foundation Server (TFS) that aims to enhance project visibility and management, which can be tangentially related to Scrum practices. However, it does not explicitly mention Scrum roles, events, or principles, and focuses more on the technical implementation of a digital whiteboard rather than Scrum's core themes. The discussion lacks depth in Scrum-specific concepts, leading to a low confidence score.",
+    "level": "Quaternary"
   }
 }

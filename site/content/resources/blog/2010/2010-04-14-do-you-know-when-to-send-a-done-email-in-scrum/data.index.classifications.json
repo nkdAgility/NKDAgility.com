@@ -350,15 +350,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T00:58:45",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the process of sending 'done' emails in the context of Scrum, detailing roles and responsibilities related to task completion and communication within a Scrum team.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T01:39:30",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:51:10",
+    "ai_confidence": 82.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 28,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the practice of sending 'done emails' within the context of Scrum, which directly relates to the roles and responsibilities of team members. It provides specific guidelines for both task completion and user story completion, aligning well with Scrum principles. The depth of discussion includes practical advice and references to Scrum roles, enhancing its relevance to the category.",
+    "level": "Secondary"
   }
 }

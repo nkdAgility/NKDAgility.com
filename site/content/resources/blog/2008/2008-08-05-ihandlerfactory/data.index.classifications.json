@@ -62,15 +62,6 @@
     "reasoning": "Content primarily discusses technical implementation of URL redirection in ASP.NET, with no reference to events or presentations.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T12:30:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical implementation details related to URL redirection in a web application, with no mention of Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Resilience and Change": {
     "category": "Resilience and Change",
     "calculated_at": "2025-02-16T12:30:31",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses URL redirection and ASP.NET handlers, with no mention of AI or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:58:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical implementation details related to URL redirection in a web application, with no direct mentions or alignment to Scrum principles, roles, events, or practices. It lacks any discussion on Agile methodologies or team dynamics, which are core to the Scrum framework.",
     "level": "Ignored"
   }
 }

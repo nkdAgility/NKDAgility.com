@@ -31,8 +31,7 @@ tags:
 - Software Development
 - Troubleshooting
 - Windows
-categories:
-- DevOps
+categories: []
 
 ---
 Over the last few years the product team has been putting their finishing touches on a backup module for the Team Foundation Server Administration Console. Why you might ask do you need another way to backup? Surely you can just backup the bits?

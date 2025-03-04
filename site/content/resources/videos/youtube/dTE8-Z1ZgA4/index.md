@@ -32,8 +32,7 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
+categories: []
 
 ---
 When it comes to Agile training, I’ve had the privilege of working with some truly exceptional trainers, but Simon stands out as one of the best in the field. His dedication to delivering high-quality training in Agile Product Strategy (APS) is evident in everything he does. One of his standout contributions is the Minecraft case study he developed for the Enterprise Product Strategy (EPS) programme. 

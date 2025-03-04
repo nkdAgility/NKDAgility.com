@@ -62,15 +62,6 @@
     "reasoning": "Content primarily discusses personal dissatisfaction with a product's functionality and does not address organisational agility or related themes.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:14:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues with the mobile device center and its integration with Windows Vista, with no mention of Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-17T09:14:55",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues with mobile device synchronization and does not relate to AI, Agile, or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:22:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content does not mention Scrum or any related concepts. It focuses on a critique of the mobile device center and its integration with Windows Vista, which is unrelated to Scrum principles, practices, or frameworks.",
     "level": "Ignored"
   }
 }

@@ -33,8 +33,7 @@ tags:
 - Azure DevOps
 - Pragmatic Thinking
 - Software Development
-categories:
-- Scrum
+categories: []
 preview: metro-visual-studio-2010-128-link-4-4.png
 
 ---

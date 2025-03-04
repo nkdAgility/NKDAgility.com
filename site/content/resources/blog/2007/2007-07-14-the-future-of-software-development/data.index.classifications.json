@@ -206,15 +206,6 @@
     "reasoning": "The content discusses the concept of software factories, which aligns with the principles of Platform Engineering, particularly in enhancing developer productivity and optimising the application lifecycle. However, it primarily focuses on broader software development practices rather than specifically on Internal Developer Platforms (IDPs).",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T21:43:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses software development methodologies and the concept of software factories, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T21:43:41",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses software development methodologies and team structures without a clear focus on the application of AI in Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:20:07",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content discusses software development practices and team structures but does not explicitly mention Scrum or its core components such as roles, events, or artifacts. While it touches on concepts like team dynamics and the need for collaboration, it primarily focuses on software factories and web services, which are not aligned with Scrum principles. The discussion lacks depth regarding Scrum-specific practices, leading to a low confidence score.",
+    "level": "Quaternary"
   }
 }

@@ -83,6 +83,13 @@ function Get-CategoryConfidenceWithChecksum {
         # Load from cache
         try {
             $cachedData = Get-Content $cacheFile | ConvertFrom-Json -ErrorAction Stop
+            $originalOrder = ($cachedData | ForEach-Object { $_.category }) -join ','
+            $cachedData = $cachedData | Sort-Object -Property final_score -Descending
+            $newOrder = ($cachedData | ForEach-Object { $_.category }) -join ','
+            if ($originalOrder -ne $sortedOrder) {
+                $cachedData | Sort-Object -Property final_score -Descending | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
+                Write-Output "Order changed, updating cache file."
+            }
         }
         catch {
             Write-WarningLog "Warning: Cache file corrupted. Resetting cache."
@@ -98,7 +105,7 @@ function Get-CategoryConfidenceWithChecksum {
                 $cachedData.PSObject.Properties.Remove($key)
             }
             Write-DebugLog "  Removed {expiredCount} Invalid Items" -PropertyValues $keysToRemove.Count
-            $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
+            $cachedData | Sort-Object -Property final_score -Descending | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
         }           
         # Check if the cache is up to date
         $expiredCount = 0
@@ -112,7 +119,7 @@ function Get-CategoryConfidenceWithChecksum {
         }
         if ($expiredCount -gt 0) {
             Write-DebugLog "  Removed {expiredCount} Expired Items" -PropertyValues $expiredCount
-            $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
+            $cachedData | Sort-Object -Property final_score -Descending | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
         }
         # Check if the cache uses the latest calculations
         $recalculatedCount = 0
@@ -136,7 +143,7 @@ function Get-CategoryConfidenceWithChecksum {
         }
         if ($recalculatedCount -gt 0) {
             Write-DebugLog "  Recalculated for {recalculatedCount} Items" -PropertyValues $recalculatedCount
-            $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force            
+            $cachedData | Sort-Object -Property final_score -Descending | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force            
         }
     }
     # Bring Batch results into Cache file
@@ -179,7 +186,7 @@ function Get-CategoryConfidenceWithChecksum {
                 }
 
                 # Save updated cache
-                $cachedData | ConvertTo-Json -Depth 4 | Set-Content -Path $cacheFile -Force
+                $cachedData | Sort-Object -Property final_score -Descending | ConvertTo-Json -Depth 4 | Set-Content -Path $cacheFile -Force
 
                 # Cleanup batch file after processing
                 Remove-Item $batchFile -Force
@@ -304,7 +311,7 @@ function Get-CategoryConfidenceWithChecksum {
                     $categoryScores[$result.category] = $result 
                     $cachedData | Add-Member -MemberType NoteProperty -Name $result.category -Value $result -Force
                     # Save cache after each API call
-                    $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
+                    $cachedData | Sort-Object -Property final_score -Descending | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
                 }
                 else {
                     Write-ErrorLog "Error processing AI response for $($result.category). Reasoning is Null!"
@@ -357,7 +364,7 @@ function Get-FinalSelection {
     $finalSelection = @()
 
     foreach ($level in $levels) {
-        $currentSelection = $categoryScores.Values | Where-Object { $_.level -eq $level } | Sort-Object final_score -Descending
+        $currentSelection = $categoryScores.Values | Where-Object { $_.final_score -gt 30 -and $_.level -eq $level } | Sort-Object final_score -Descending
         if ($currentSelection.Count -gt 0) {
             $finalSelection += $currentSelection
             break
@@ -514,7 +521,7 @@ function Remove-ClassificationsFromCache {
 
     # Save the updated cache if any classifications were removed
     if ($removedCount -gt 0) {
-        $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
+        $cachedData | Sort-Object -Property final_score -Descending | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
         Write-Host "Cache file updated successfully with $removedCount removals."
     }
     else {
@@ -567,7 +574,7 @@ function Remove-ClassificationsFromCacheThatLookBroken {
 
     # Save the updated cache if any classifications were removed
     if ($removedCount -gt 0) {
-        $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
+        $cachedData | Sort-Object -Property final_score -Descending | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
         Write-Host "Cache file updated successfully with $removedCount removals."
     }
     else {

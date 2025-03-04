@@ -33,8 +33,7 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
+categories: []
 
 ---
 As I reflect on my journey in the tech industry, I often find myself inspired by the stories and experiences of others. Recently, I had the pleasure of listening to Kathryn Maddox, a remarkable individual who embodies the essence of health and vitality. Her insights resonated deeply with me, particularly her perspective on the intersection of technology and human potential.

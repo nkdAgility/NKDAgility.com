@@ -350,15 +350,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T01:24:17",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the role of ownership in user stories within the Scrum framework, highlighting responsibilities during sprints and the importance of communication between team members and the Product Owner.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T02:02:55",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:51:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of having an owner for user stories within a Scrum framework, which directly relates to Scrum roles and responsibilities. It mentions the Product Owner and the Development Team's responsibilities, aligning with Scrum principles. However, while it touches on key aspects of Scrum, the depth of discussion is somewhat limited, focusing primarily on the ownership of stories rather than a broader exploration of Scrum practices.",
+    "level": "Secondary"
   }
 }

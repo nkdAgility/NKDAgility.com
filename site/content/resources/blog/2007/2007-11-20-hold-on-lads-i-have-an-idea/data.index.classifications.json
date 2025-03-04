@@ -206,15 +206,6 @@
     "reasoning": "Content primarily discusses an idea for a specific application related to employee data management, without a clear focus on platform engineering principles or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T19:50:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses an idea for a software application and does not focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T19:50:08",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a project idea related to managing hierarchical data within an organisation, without any mention of AI or its application in Agile or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:16:39",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content does not explicitly mention Scrum or its principles, roles, events, or artifacts. It discusses a project idea related to managing hierarchical data within an organisation, which does not align with the core themes of Scrum. The focus is on a specific application and its functionalities rather than on collaborative project management or iterative processes typical of Scrum. Therefore, the confidence score is very low.",
     "level": "Ignored"
   }
 }

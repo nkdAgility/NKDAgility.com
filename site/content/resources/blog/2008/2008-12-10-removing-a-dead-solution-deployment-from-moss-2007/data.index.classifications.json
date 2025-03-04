@@ -62,15 +62,6 @@
     "reasoning": "Content primarily discusses technical steps for removing a deployment in MOSS 2007, with no reference to events or presentations.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T10:49:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of removing a dead solution deployment in Microsoft Office SharePoint Server 2007, which is unrelated to Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Resilience and Change": {
     "category": "Resilience and Change",
     "calculated_at": "2025-02-16T10:49:42",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of removing a dead solution deployment in Microsoft Office SharePoint Server 2007, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:56:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on troubleshooting a deployment issue in Microsoft Office SharePoint Server 2007, with no direct mentions of Scrum principles, roles, or practices. While it discusses project management in a technical context, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is limited to a specific technical problem, further indicating a lack of relevance to the Scrum category.",
     "level": "Ignored"
   }
 }

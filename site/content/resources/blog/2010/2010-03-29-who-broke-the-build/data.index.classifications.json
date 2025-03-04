@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the importance of maintaining build integrity within the software development lifecycle, addressing issues related to build failures, and the implications for application quality and governance.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T01:20:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses build processes and issues related to software development, without a clear focus on Scrum principles, roles, or events.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T01:51:35",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses build processes and issues in software development, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:51:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses build processes and issues related to software development, without any explicit mention of Scrum roles, events, or principles. While it touches on team dynamics and quality assurance, it does not align with the core themes of Scrum or provide in-depth discussion on Scrum practices.",
+    "level": "Quinary"
   }
 }

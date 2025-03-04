@@ -206,15 +206,6 @@
     "reasoning": "Content primarily discusses .NET extension methods and specific application development, with no clear focus on platform engineering principles or practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T19:12:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses .NET programming and extension methods, with no mention of Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T19:12:57",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses .NET extension methods and does not relate to Artificial Intelligence, Agile methodologies, or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:15:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on .NET programming and extension methods, with no direct mention of Scrum principles, roles, or practices. While there is a brief mention of project-related concepts, it does not align with the core themes of Scrum, such as team dynamics or iterative processes. The depth of discussion is also minimal, as it does not explore any Scrum-related topics in detail.",
     "level": "Ignored"
   }
 }

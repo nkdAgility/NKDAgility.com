@@ -206,15 +206,6 @@
     "reasoning": "Content primarily discusses Workflow implementation in Team Foundation Server, which does not align with the core principles of Platform Engineering.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T22:20:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Workflow implementation and Team Foundation Server, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T22:20:44",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Workflow implementation in Team Foundation Server, with no clear focus on Artificial Intelligence or its integration within Agile or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:21:41",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses Workflow implementation in the context of Team Foundation Server, with no direct mentions of Scrum principles, roles, or events. While there is a brief mention of team collaboration, it does not align with the core themes of Scrum, and the depth of discussion is minimal, focusing instead on technical implementation rather than Scrum practices.",
     "level": "Ignored"
   }
 }

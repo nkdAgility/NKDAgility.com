@@ -350,15 +350,6 @@
     "reasoning": "The content discusses the installation of Team Foundation Server (TFS), which is a tool related to Application Lifecycle Management, but the primary focus is on the installation process rather than the broader aspects of ALM.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T01:56:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation of Visual Studio 2010 Team Foundation Server, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T02:29:02",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation of Visual Studio 2010 Team Foundation Server, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:52:58",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on the installation of Team Foundation Server (TFS) and does not discuss any Scrum principles, roles, events, or practices. While TFS can be used in Scrum environments, the content does not explicitly mention Scrum or align with its core themes, resulting in a very low confidence score.",
     "level": "Ignored"
   }
 }

@@ -206,15 +206,6 @@
     "reasoning": "Content primarily discusses the development and deployment of a specific tool (TFS EventHandler) without a clear focus on platform engineering principles or enhancing developer productivity.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T22:29:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a software project related to Team Foundation Server and does not focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T22:29:12",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the development and deployment of a Team Foundation Server EventHandler, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:22:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a software project related to Team Foundation Server and its transition to a different architecture. There are no direct mentions of Scrum roles, events, or principles, and the discussion lacks depth regarding Scrum practices. While it touches on project management aspects, it does not align with the core themes of Scrum, such as iterative progress or team dynamics.",
+    "level": "Quinary"
   }
 }

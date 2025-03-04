@@ -62,15 +62,6 @@
     "reasoning": "Content primarily discusses a technical issue related to MS Build and does not reference any events, presentations, or discussions relevant to Agile or DevOps.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T11:53:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a build error related to MS Build and does not focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Resilience and Change": {
     "category": "Resilience and Change",
     "calculated_at": "2025-02-16T11:53:07",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 10,
     "final_score": 1.0,
     "reasoning": "Content primarily discusses a build error in Visual Studio and does not relate to AI or its application in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:58:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a technical issue related to MS Build and does not mention Scrum principles, roles, events, or any related topics. There is minimal conceptual alignment with Scrum, as the focus is on troubleshooting a build error rather than project management or team dynamics.",
     "level": "Ignored"
   }
 }

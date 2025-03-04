@@ -206,15 +206,6 @@
     "reasoning": "Content primarily discusses personal circumstances and specific implementations related to TFS without a clear focus on platform engineering principles or enhancing developer productivity.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T21:56:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the development and enhancement of a TFS Event Handler and related frameworks, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T21:56:06",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the development and enhancement of a TFS Event Handler, with no mention of AI or its application in Agile or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:20:35",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses the development and enhancement of a TFS Event Handler, with no direct mentions of Scrum principles, roles, or events. While it touches on project management aspects, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is focused on technical implementation rather than Scrum practices.",
     "level": "Ignored"
   }
 }

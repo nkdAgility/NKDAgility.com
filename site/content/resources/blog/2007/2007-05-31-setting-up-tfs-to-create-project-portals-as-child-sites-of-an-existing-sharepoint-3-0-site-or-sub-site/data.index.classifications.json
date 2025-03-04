@@ -206,15 +206,6 @@
     "reasoning": "Content primarily discusses the integration of TFS with SharePoint, which does not align with the core principles of platform engineering focused on internal developer platforms and enhancing developer productivity.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T22:10:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the integration of TFS with SharePoint and does not focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T22:10:43",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration of TFS with SharePoint and project management, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:20:58",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses the integration of TFS with SharePoint and does not explicitly mention Scrum principles, roles, or events. While it touches on project management aspects, it lacks a direct focus on Scrum, making it only tangentially related to the category.",
+    "level": "Quinary"
   }
 }

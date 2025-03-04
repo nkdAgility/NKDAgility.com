@@ -62,15 +62,6 @@
     "reasoning": "Content primarily discusses LINQ to XSD functionality and usage in C#, with no reference to events, presentations, or discussions related to Agile, DevOps, or software engineering events.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T12:06:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses LINQ to XSD and its implementation in C#, with no mention of Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Resilience and Change": {
     "category": "Resilience and Change",
     "calculated_at": "2025-02-16T12:06:32",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses LINQ to XSD and its functionality in C#, with no mention of AI, Agile methodologies, or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:58:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content does not mention Scrum or any related concepts. It focuses on LINQ to XSD, which is unrelated to Scrum principles, practices, or frameworks. There is no discussion of roles, events, or artifacts associated with Scrum, nor does it touch on Agile principles or team dynamics.",
     "level": "Ignored"
   }
 }

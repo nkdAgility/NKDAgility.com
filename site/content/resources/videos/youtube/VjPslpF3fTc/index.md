@@ -33,8 +33,7 @@ tags:
 - Continuous Learning
 resourceTypes:
 - video
-categories:
-- Scrum
+categories: []
 
 ---
 ## Elevating Experienced Agile Practitioners with Immersive Learning 

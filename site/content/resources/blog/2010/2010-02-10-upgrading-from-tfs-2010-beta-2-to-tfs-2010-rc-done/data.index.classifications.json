@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS), which is a tool used in Application Lifecycle Management. It details steps involved in managing the lifecycle of a software application, including installation and configuration, which aligns with the key topics of ALM.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T01:36:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "The content primarily discusses the upgrade process for Team Foundation Server and does not focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T02:02:58",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the upgrade process of Team Foundation Server and does not mention or relate to Artificial Intelligence in Agile, DevOps, or software development.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:52:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 50,
+    "final_score": 34.0,
+    "reasoning": "The content briefly mentions Scrum in the context of Professional Scrum Developer Training, but it primarily focuses on the upgrade process for TFS 2010. There is minimal discussion of Scrum principles, roles, or practices, which are essential for a strong alignment with the category. The mention of Scrum is not a primary focus and lacks depth, leading to a low confidence score.",
+    "level": "Quaternary"
   }
 }

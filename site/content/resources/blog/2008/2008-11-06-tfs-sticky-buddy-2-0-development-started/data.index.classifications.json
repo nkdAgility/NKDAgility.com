@@ -62,15 +62,6 @@
     "reasoning": "Content primarily discusses the development of a software application and does not reference any events, presentations, or discussions related to Agile or DevOps.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T11:15:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the development of a software application and its features, with no mention of Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Resilience and Change": {
     "category": "Resilience and Change",
     "calculated_at": "2025-02-16T11:15:08",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the development of a software application without any mention of AI or its integration within Agile or DevOps methodologies.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:57:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the development of a specific application and mentions technical aspects related to WPF and modularity. There are no direct mentions of Scrum roles, events, or principles, and the discussion does not align with the core themes of Scrum. The content lacks depth in discussing any Scrum-related topics, resulting in a low confidence score.",
+    "level": "Quinary"
   }
 }

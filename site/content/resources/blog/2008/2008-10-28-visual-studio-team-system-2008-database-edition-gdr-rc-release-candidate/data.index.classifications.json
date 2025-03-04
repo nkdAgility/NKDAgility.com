@@ -62,15 +62,6 @@
     "reasoning": "Content primarily discusses a software release and related documentation, with no mention of events or presentations.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T11:21:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a software release and related documentation, with no mention of Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Resilience and Change": {
     "category": "Resilience and Change",
     "calculated_at": "2025-02-16T11:21:32",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of a software version and related documentation, with no mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:57:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses a release candidate for Visual Studio Team System 2008 Database Edition, with no direct mentions of Scrum principles, roles, events, or practices. There is minimal conceptual alignment with Scrum, as the focus is on software tools rather than project management frameworks. The depth of discussion is also very low, as it lacks any detailed exploration of Scrum-related topics.",
     "level": "Ignored"
   }
 }

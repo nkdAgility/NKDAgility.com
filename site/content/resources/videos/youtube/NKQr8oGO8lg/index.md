@@ -33,8 +33,7 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
+categories: []
 
 ---
 When it comes to professional development, the value of immersive learning cannot be overstated. As someone who has been deeply involved in training and coaching, I’ve seen firsthand how transformative these experiences can be—not just for individuals, but for entire organisations. 

@@ -206,15 +206,6 @@
     "reasoning": "Content primarily discusses issues related to SharePoint and TFS without a clear focus on platform engineering principles or enhancing developer productivity.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T21:57:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses SharePoint and TFS sub-site creation, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T21:57:30",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses SharePoint and TFS sub-site creation, with no mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:20:38",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses issues related to SharePoint and TFS (Team Foundation Server) without any explicit mention of Scrum principles, roles, events, or artifacts. While it touches on project creation processes, it does not align with the core themes of Scrum, such as iterative progress, team dynamics, or continuous improvement. The discussion lacks depth regarding Scrum practices, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

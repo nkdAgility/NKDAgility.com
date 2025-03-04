@@ -62,15 +62,6 @@
     "reasoning": "Content primarily discusses technical issues related to .NET assembly serialization and does not address organisational agility or related themes.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T08:33:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to .NET assembly serialization and does not address Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-17T08:33:05",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses serialization of .NET assemblies and does not relate to AI, Agile, or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:22:23",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to .NET assembly serialization and does not mention Scrum principles, roles, events, or any related topics. There is no alignment with the core themes of Scrum, and the depth of discussion is minimal, focusing solely on a specific technical problem.",
     "level": "Ignored"
   }
 }

@@ -62,15 +62,6 @@
     "reasoning": "Content primarily discusses a service review for hosted TFS and does not focus on any events or presentations.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T11:32:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses TFS (Team Foundation Server) and its hosting services, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Resilience and Change": {
     "category": "Resilience and Change",
     "calculated_at": "2025-02-16T11:32:03",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses hosting services for TFS and related offerings, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:57:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses TFS (Team Foundation Server) and its hosting services, with no explicit mention of Scrum principles, roles, events, or artifacts. While TFS can be used in Scrum environments, the content does not focus on Scrum as a framework or its practices, thus showing minimal alignment with the category.",
+    "level": "Quinary"
   }
 }

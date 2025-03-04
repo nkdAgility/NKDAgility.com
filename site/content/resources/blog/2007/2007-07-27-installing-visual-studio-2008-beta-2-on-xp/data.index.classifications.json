@@ -206,15 +206,6 @@
     "reasoning": "Content primarily discusses installation issues and hardware requirements for Visual Studio 2008, with no clear focus on platform engineering principles or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T21:28:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses installation issues related to Visual Studio 2008 and does not focus on Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T21:28:19",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses installation issues related to Visual Studio 2008 and does not mention AI or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:19:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to installing Visual Studio 2008 and does not mention Scrum or its principles, roles, events, or any related topics. There is no alignment with Scrum concepts, and the depth of discussion is entirely focused on installation problems rather than project management frameworks.",
     "level": "Ignored"
   }
 }

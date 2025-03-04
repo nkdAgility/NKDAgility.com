@@ -62,15 +62,6 @@
     "reasoning": "Content primarily discusses the announcement of product integration rather than any events or presentations.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T11:42:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the combination of Microsoft products and does not focus on Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "Resilience and Change": {
     "category": "Resilience and Change",
     "calculated_at": "2025-02-16T11:42:01",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the combination of development tools and does not address AI or its application in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:57:50",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses the combination of Microsoft products related to development and databases, with no explicit mention of Scrum principles, roles, events, or practices. It lacks alignment with the core themes of Scrum and does not provide any depth on the subject, resulting in a very low confidence score.",
     "level": "Ignored"
   }
 }

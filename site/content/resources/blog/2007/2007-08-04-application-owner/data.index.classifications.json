@@ -206,15 +206,6 @@
     "reasoning": "Content primarily discusses the management of production applications and related tasks, without a clear focus on platform engineering principles or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T21:14:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role of an Application Owner and management tasks related to production applications, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T21:14:58",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses application management and project management roles, with no clear focus on Artificial Intelligence or its integration within Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:19:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role of an Application Owner in managing production applications, which does not directly relate to Scrum principles, roles, or events. While there is a mention of management tasks, it lacks explicit references to Scrum roles (like Scrum Master or Product Owner) or events (like Sprints or Daily Scrums). The discussion is more focused on operational management rather than the collaborative and iterative nature of Scrum, resulting in a low confidence score.",
+    "level": "Quinary"
   }
 }
