@@ -288,6 +288,7 @@ function Get-CategoryConfidenceWithChecksum {
                 $aiResponseJson = Get-OpenAIResponse -Prompt $prompt
                 $result = Get-ConfidenceFromAIResponse -AIResponseJson $aiResponseJson -ResourceTitle $ResourceTitle -ResourceContent $ResourceContent
                 if ($result.reasoning -ne $null -and $result.category -ne "unknown") {
+                    Write-InformationLog "Updating {category} with new confidence of {confidence} " -PropertyValues $result.category, $result.ai_confidence
                     $categoryScores[$result.category] = $result 
                     $cachedData | Add-Member -MemberType NoteProperty -Name $result.category -Value $result -Force
                     # Save cache after each API call
