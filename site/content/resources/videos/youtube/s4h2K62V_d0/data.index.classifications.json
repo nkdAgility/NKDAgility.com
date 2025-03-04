@@ -1313,15 +1313,6 @@
     "reasoning": "Content heavily discusses software engineering practices, specifically focusing on quality assurance and Agile methodologies, without addressing psychological principles or theories related to motivation, engagement, leadership, or team dynamics.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:02:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses quality assurance practices and engineering methodologies, with only a brief mention of agile practices. Scrum principles and frameworks are not central to the discussion.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:02:29",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses software engineering practices, quality assurance, and Agile methodologies without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:40:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses quality assurance practices and the concept of 'shift left' in software engineering, with only a brief mention of agile practices. While it touches on team dynamics and the importance of collaboration, it does not explicitly address Scrum roles, events, or artifacts. The discussion lacks depth in Scrum-specific principles and does not focus on the Scrum framework, leading to a low confidence score.",
+    "level": "Quinary"
   }
 }

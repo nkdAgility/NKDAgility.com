@@ -44,15 +44,6 @@
     "reasoning": "Content primarily focuses on technical implementation details related to Active Directory and server management, which do not align with the strategic aspects of product management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:47:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on moving an Active Directory domain and does not discuss Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
     "calculated_at": "2025-02-18T12:23:44",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses moving an Active Directory domain and does not relate to AI in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:37:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical procedures related to domain controller migration and Active Directory management, with no direct mentions or discussions of Scrum principles, roles, events, or practices. The content does not align with the core themes of Scrum, such as team dynamics or iterative progress, and lacks depth in any related discussions.",
     "level": "Ignored"
   }
 }

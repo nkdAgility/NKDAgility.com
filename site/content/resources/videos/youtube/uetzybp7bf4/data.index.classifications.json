@@ -1313,15 +1313,6 @@
     "reasoning": "Content primarily discusses the importance of fostering a culture of continuous improvement and financial transparency within teams, without providing personal anecdotes or reflections.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T11:58:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses financial insights and team ownership rather than Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T11:59:00",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses financial insights, team ownership, and decision-making processes without any mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:39:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses concepts related to team ownership and continuous improvement, which are aligned with Agile principles. However, it does not explicitly mention Scrum roles, events, or artifacts, and the focus is more on financial insights rather than Scrum practices. The discussion lacks depth in terms of Scrum-specific frameworks, leading to a lower confidence score.",
+    "level": "Quaternary"
   }
 }

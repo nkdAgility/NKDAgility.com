@@ -1313,15 +1313,6 @@
     "reasoning": "Content primarily focuses on a Scrum workshop and related Agile practices, with no mention of Kanban principles or practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:16:34",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses a workshop related to product validation and discovery, which is relevant to Scrum principles, but it primarily focuses on the workshop details rather than Scrum itself.",
-    "level": "Tertiary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:16:39",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on a workshop for product validation and discovery, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:44:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content prominently features a workshop focused on product validation and discovery, which is closely related to Scrum principles, particularly in terms of customer-centric development and team collaboration. The mention of 'Scrum.org' and the credentials of the trainer as a Professional Scrum Trainer indicate a strong connection to Scrum practices. However, while the content discusses relevant themes, it does not delve deeply into specific Scrum roles, events, or artifacts, which slightly lowers the depth score.",
+    "level": "Secondary"
   }
 }

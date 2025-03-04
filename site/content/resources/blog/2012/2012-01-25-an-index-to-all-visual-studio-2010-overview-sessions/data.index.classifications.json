@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses Visual Studio ALM features and webcasts, which are directly related to the management of the application lifecycle, including planning, coding, and testing processes.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T21:36:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Visual Studio 2010 and its features, with no clear focus on Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T22:41:42",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio 2010 and its features, with no clear focus on Artificial Intelligence or its integration within Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:46:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Visual Studio ALM and its features, with no direct mention of Scrum principles, roles, events, or artifacts. While it discusses project management tools, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion on Scrum is minimal, as the content does not engage with Scrum practices or frameworks.",
+    "level": "Quinary"
   }
 }

@@ -350,15 +350,6 @@
     "reasoning": "The content discusses issues related to configuring planning tools in Team Foundation Server, which is relevant to the application lifecycle, particularly in the context of deployment and maintenance. However, it primarily focuses on a specific error and its resolution rather than a broader discussion of ALM methodologies or practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the Visual Studio Scrum 3.0 process template and its application in Team Foundation Server, indicating a significant but secondary theme related to Scrum practices.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T19:01:54",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses an error related to Team Foundation Server configuration and does not mention AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:39:53",
+    "ai_confidence": 45.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 50,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the Visual Studio Scrum 3.0 process template, which is related to Scrum practices. However, it primarily focuses on a specific error in Team Foundation Server and the configuration of planning tools rather than a comprehensive discussion of Scrum principles, roles, or events. While there are mentions of Scrum in the context of process templates, the overall focus is more on technical troubleshooting than on Scrum as a framework.",
+    "level": "Tertiary"
   }
 }

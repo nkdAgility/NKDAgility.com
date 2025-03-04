@@ -44,8 +44,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Product Management
-- Social Technologies
 
 ---
 As I step into the role of a new Product Owner, I often reflect on the pivotal moments that define our journey in product development. One of the most crucial aspects I’ve learned is the importance of filling the vacuum of understanding within our teams and across the organisation. This is not just a task; it’s a responsibility that can make or break the success of our product.

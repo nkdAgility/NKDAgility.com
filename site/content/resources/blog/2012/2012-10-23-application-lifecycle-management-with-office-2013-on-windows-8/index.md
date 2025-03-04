@@ -28,8 +28,7 @@ tags:
 - Practical Techniques and Tooling
 - Products and Books
 - Application Lifecycle Management
-categories:
-- DevOps
+categories: []
 preview: metro-office-128-link-5-5.png
 
 ---

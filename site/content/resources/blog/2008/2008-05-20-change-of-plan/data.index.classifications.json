@@ -206,15 +206,6 @@
     "reasoning": "Content primarily discusses the development of a system related to SharePoint, without a clear focus on platform engineering principles or enhancing developer productivity.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T18:04:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses project planning and technical implementation details related to SharePoint, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T18:04:07",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses project planning and implementation details related to SharePoint, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:59:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content does not explicitly mention Scrum or its principles, roles, events, or artifacts. It discusses a project related to SharePoint and the development process but lacks any reference to Scrum methodologies or frameworks. The focus is on technical implementation rather than Scrum practices, resulting in a very low confidence score.",
+    "level": "Quinary"
   }
 }

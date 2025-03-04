@@ -323,15 +323,6 @@
     "reasoning": "Content heavily discusses immersive learning experiences for Scrum students, without a clear focus on the Agile Product Operating Model.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T14:03:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "The content primarily discusses the immersive learning experience rather than focusing on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
     "calculated_at": "2025-02-17T14:03:26",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses immersive learning in Scrum, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:49:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 50,
+    "final_score": 34.0,
+    "reasoning": "The content briefly mentions the immersive learning experience related to Scrum students, indicating a connection to the Scrum framework. However, it lacks explicit discussion of Scrum roles, events, or principles, resulting in a low direct mention score. The conceptual alignment is moderate as it hints at continuous learning, which is a part of Scrum's iterative nature, but does not delve into specific Scrum practices or frameworks. The depth of discussion is also limited, focusing more on the excitement of learning rather than the Scrum methodology itself.",
+    "level": "Quaternary"
   }
 }

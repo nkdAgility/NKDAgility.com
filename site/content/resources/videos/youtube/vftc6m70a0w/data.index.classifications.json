@@ -323,15 +323,6 @@
     "reasoning": "The content discusses aspects of agility and organisational change, but it primarily focuses on the virtues of agility and the importance of inclusivity in decision-making rather than the Agile Product Operating Model specifically.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T15:01:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses general agile principles and virtues but does not specifically focus on Scrum roles, events, or artifacts, making it not relevant enough for the Scrum category.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
     "calculated_at": "2025-02-17T15:01:20",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile principles and practices without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:53:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on agile principles and the importance of inclusivity in decision-making, which are relevant to Scrum. However, it lacks direct mentions of Scrum roles, events, or artifacts, and does not delve deeply into Scrum-specific practices or frameworks. The focus is more on general agile concepts rather than Scrum itself.",
+    "level": "Quaternary"
   }
 }

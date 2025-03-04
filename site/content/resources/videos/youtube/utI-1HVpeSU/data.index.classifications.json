@@ -1250,15 +1250,6 @@
     "reasoning": "Content discusses the concepts of dictatorship and democracy in decision-making, focusing on collaboration rather than on the measurement or optimisation of work completion rates.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T23:36:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concepts of dictatorship and democracy in decision-making without any reference to Scrum principles, frameworks, or practices.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T23:36:21",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the concepts of dictatorship and democracy in decision-making, with no clear focus on AI or its application in Agile, DevOps, or software development.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:16:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content briefly touches on collaboration and group dynamics, which are relevant to Scrum principles, but it does not explicitly mention Scrum or its specific roles, events, or artifacts. The discussion is more philosophical and does not provide depth or detail on Scrum practices or frameworks.",
+    "level": "Quinary"
   }
 }

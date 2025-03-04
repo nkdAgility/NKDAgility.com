@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses collocation in Scrum teams and the dynamics of team communication, which does not directly relate to Application Lifecycle Management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T17:51:21",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the concept of collocation within the context of Scrum teams, referencing Scrum principles and the role of the Scrum Master.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T17:51:29",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses collocation in Scrum teams and does not address Artificial Intelligence or its integration within Agile methodologies or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:32:43",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "The content discusses collocation in the context of Scrum teams, referencing the Scrum Guide and the importance of team dynamics, which aligns well with Scrum principles. It provides a detailed exploration of the benefits of collocation, the role of the Scrum Master, and empirical evidence supporting the practice, indicating a strong focus on Scrum-related topics.",
+    "level": "Secondary"
   }
 }

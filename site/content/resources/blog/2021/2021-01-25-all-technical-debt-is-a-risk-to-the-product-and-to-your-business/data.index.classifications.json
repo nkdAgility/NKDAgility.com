@@ -1331,15 +1331,6 @@
     "reasoning": "Content primarily discusses technical debt and its implications on software quality and delivery, without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the transition to 3-week Sprints using Scrum as a solution to technical debt, indicating that Scrum is a significant theme, but the primary focus is on technical debt and its implications.",
-    "level": "Tertiary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-17T09:08:36",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical debt and project management practices without any mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:30:03",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 30,
+    "final_score": 62.0,
+    "reasoning": "The content discusses Scrum in the context of addressing technical debt and improving delivery through shorter Sprints. While it does mention Scrum and its implementation at Microsoft, the primary focus is on technical debt rather than Scrum principles or practices. The discussion provides some depth regarding the transition to Sprints and the resulting transparency, but it does not delve deeply into the Scrum framework or its roles, events, and artifacts.",
+    "level": "Secondary"
   }
 }

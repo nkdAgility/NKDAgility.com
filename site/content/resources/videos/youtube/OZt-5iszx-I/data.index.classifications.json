@@ -323,15 +323,6 @@
     "reasoning": "The content discusses the importance of user feedback in the context of Agile practices, which aligns with the category, but it does not focus on specific products or literature.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:39:32",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of user feedback and its integration into work items, which aligns with Scrum principles of customer collaboration and delivering value. However, it does not explicitly focus on Scrum roles, events, or the framework itself.",
-    "level": "Tertiary"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-02-17T12:39:34",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses user feedback and Agile practices without any mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:46:34",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 58.0,
+    "reasoning": "The content discusses the importance of user feedback and its integration into work items, which aligns with Agile principles and the iterative nature of Scrum. However, it lacks explicit mentions of Scrum roles, events, or artifacts, and does not delve deeply into Scrum practices, resulting in a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

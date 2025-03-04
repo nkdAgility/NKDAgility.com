@@ -1250,15 +1250,6 @@
     "reasoning": "Content primarily discusses the role of a product owner and decision-making processes rather than focusing on throughput measurement or optimisation.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T18:16:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the role of the Product Owner, which is a key aspect of the Scrum framework, but it also includes broader themes related to product management and decision-making that extend beyond Scrum principles.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T18:16:09",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses product ownership and decision-making in Agile methodologies without a clear focus on the application of AI.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:18:21",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 30,
+    "final_score": 68.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner within the Scrum framework, discussing key responsibilities such as connecting the team to the product vision and making evidence-based decisions. It aligns well with Scrum principles, particularly in terms of delivering value and understanding team dynamics. However, while it touches on Scrum concepts, it lacks a comprehensive exploration of the entire Scrum framework, including roles, events, and artifacts, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   }
 }

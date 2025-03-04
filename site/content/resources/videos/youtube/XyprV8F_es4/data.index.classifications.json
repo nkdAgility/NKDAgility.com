@@ -53,15 +53,6 @@
     "reasoning": "The content primarily discusses the role of leadership in enabling continuous delivery and fostering a culture of improvement, making it a central theme.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-20T18:17:25",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses leadership in the context of continuous delivery and team performance, which aligns with Scrum principles, but it primarily focuses on broader organizational challenges rather than specific Scrum roles or events.",
-    "level": "Tertiary"
-  },
   "MVP": {
     "category": "MVP",
     "calculated_at": "2025-02-20T19:43:17",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses leadership in continuous delivery and organizational change, with no focus on AI applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:38:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses leadership in the context of organisational change and continuous improvement, which are relevant to Agile principles. However, it does not explicitly mention Scrum roles, events, or artifacts, nor does it focus on the Scrum framework itself. The discussion on breaking down silos and fostering collaboration aligns with Scrum's emphasis on team dynamics, but the overall focus is more on leadership and organisational strategies rather than Scrum specifically.",
+    "level": "Quaternary"
   }
 }

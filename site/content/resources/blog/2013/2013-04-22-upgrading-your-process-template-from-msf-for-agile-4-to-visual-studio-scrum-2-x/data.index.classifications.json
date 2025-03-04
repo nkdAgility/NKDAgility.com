@@ -350,15 +350,6 @@
     "reasoning": "The content discusses upgrading process templates in the context of Team Foundation Server, which relates to application lifecycle management practices, but primarily focuses on specific technical steps rather than the broader lifecycle management principles.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses upgrading process templates specifically related to Visual Studio Scrum, indicating a significant focus on Scrum practices, though it also covers broader topics related to process templates.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T19:59:53",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses upgrading process templates in Visual Studio Scrum, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:41:20",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading process templates related to Visual Studio Scrum, which includes specific references to Scrum terminology such as 'Product Backlog Item' and 'Impediment'. However, while it mentions Scrum, the discussion is more about the migration process rather than the principles, roles, or events of Scrum itself. Therefore, while there is a clear connection to Scrum, the depth and breadth of the discussion do not fully align with the core themes of the Scrum category.",
+    "level": "Secondary"
   }
 }

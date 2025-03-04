@@ -350,15 +350,6 @@
     "reasoning": "The content discusses the Bug as Task anti-pattern in the context of Agile practices and its implications on software quality and team dynamics, which are relevant to application lifecycle management, but the primary focus is on Agile methodologies rather than the broader scope of ALM.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the Bug as Task anti-pattern in the context of Agile and its implications for team dynamics and project management, which are relevant to Scrum principles, but it primarily focuses on tooling and process issues rather than Scrum-specific roles or events.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T09:57:02",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile methodologies and the Bug as Task anti-pattern without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:36:20",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 30,
+    "final_score": 59.0,
+    "reasoning": "The content discusses the Bug as Task anti-pattern in the context of Agile practices, which indirectly relates to Scrum principles. It mentions team dynamics, communication, and the role of the Product Owner, which are relevant to Scrum. However, it lacks a direct focus on Scrum events and roles, leading to a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

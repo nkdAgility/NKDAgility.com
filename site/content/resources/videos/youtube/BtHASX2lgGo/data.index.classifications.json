@@ -323,15 +323,6 @@
     "reasoning": "The content discusses Agile principles and the planning process within Sprints, highlighting the need for a product-centric approach. However, it primarily focuses on the critique of burndown charts rather than a comprehensive exploration of the Agile Product Operating Model.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T14:28:39",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Sprint Planning within the Scrum framework, critiques the use of burndown charts, and emphasises the need for adaptive planning in Scrum.",
-    "level": "Secondary"
-  },
   "DevOps": {
     "category": "DevOps",
     "calculated_at": "2025-02-17T14:28:40",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile methodologies and the issues with burndown charts, with no mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:51:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses Sprint Planning, a key event in the Scrum framework, and critiques the use of burndown charts, which are often associated with Scrum practices. While it does mention Scrum-related concepts, the focus is more on the critique of planning methodologies rather than a comprehensive discussion of Scrum principles or roles. The depth of discussion is moderate, primarily centred on the planning aspect, but lacks broader coverage of Scrum's core themes.",
+    "level": "Secondary"
   }
 }

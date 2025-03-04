@@ -42,8 +42,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Scrum
 - Social Technologies
+- Scrum
 
 ---
 In the world of Agile, we often hear about the famous "three questions" used during the daily Scrum or retrospective sessions:

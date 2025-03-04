@@ -1313,15 +1313,6 @@
     "reasoning": "Content primarily discusses the benefits of conducting small experiments in feature delivery, without a clear focus on Kanban principles or practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:02:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the benefits of conducting small experiments in feature delivery, without a clear focus on Scrum principles, roles, or events.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:02:16",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses feature delivery and experimentation in software development without a clear focus on AI integration or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:40:37",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the concept of conducting small experiments to improve feature delivery, which aligns with Agile principles of iterative progress and responding to customer feedback. However, it does not explicitly mention Scrum roles, events, or artifacts, leading to a lower score in direct mentions. The depth of discussion is limited as it focuses more on the outcomes of experimentation rather than the Scrum framework itself.",
+    "level": "Quaternary"
   }
 }

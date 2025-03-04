@@ -1349,15 +1349,6 @@
     "reasoning": "Content primarily discusses the pitfalls of say-do metrics in agile practices, focusing on output versus outcome, rather than the principles of BetaCodex or decentralised organisational design.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T14:33:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the pitfalls of using say-do metrics in project management, focusing on the negative impacts of such practices rather than the Scrum framework, roles, events, or principles.",
-    "level": "Ignored"
-  },
   "Social Technologies": {
     "category": "Social Technologies",
     "calculated_at": "2025-02-17T14:33:38",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile practices and metrics without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:51:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses agile practices and metrics, which are relevant to Scrum, but it primarily focuses on the pitfalls of using say-do metrics rather than the Scrum framework itself. While it touches on concepts like output versus outcome, it lacks a direct discussion of Scrum roles, events, or artifacts. The depth of discussion is moderate, but the primary focus is on critiquing a specific practice rather than exploring Scrum principles in detail.",
+    "level": "Quaternary"
   }
 }

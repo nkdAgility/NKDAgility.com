@@ -350,15 +350,6 @@
     "reasoning": "Content primarily focuses on updating Windows Server and does not discuss the management of software applications throughout their lifecycle.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T11:04:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses server updates and installation procedures, with no mention of Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T11:19:37",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses updating Windows Server and related processes, with no mention of AI or its application in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:37:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on updating Windows Server and does not mention Scrum or its principles, roles, events, or practices. There is no discussion of Agile principles or team dynamics, which are central to the Scrum framework. The content is entirely unrelated to Scrum, resulting in a very low confidence score.",
     "level": "Ignored"
   }
 }

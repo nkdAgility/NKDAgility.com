@@ -1367,15 +1367,6 @@
     "reasoning": "Content heavily discusses Scrum principles and practices, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T19:23:55",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses key takeaways related to Scrum principles, practices, and implementation, making it a central topic.",
-    "level": "Secondary"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:52:56",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum principles and practices without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:19:34",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 34,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content explicitly discusses key takeaways from an immersive learning experience focused on Scrum principles and practices. It mentions the roles within Scrum, the importance of understanding what Scrum is and is not, and the iterative nature of implementing Scrum in an organisation. The depth of discussion is substantial, as it explores practical applications and challenges faced by teams in adopting Scrum. Overall, the content aligns well with the core themes of the Scrum category, providing a detailed examination of its principles and practices.",
+    "level": "Primary"
   }
 }

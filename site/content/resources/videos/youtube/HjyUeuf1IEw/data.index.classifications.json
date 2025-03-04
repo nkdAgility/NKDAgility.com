@@ -557,15 +557,6 @@
     "reasoning": "Content primarily focuses on an AMA session covering a variety of topics, including DevOps and Agility, without a central discussion on decision-making processes in uncertain environments.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:35:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "While the content invites questions related to Scrum, it primarily promotes an interactive Q&A session about a range of topics, suggesting Scrum is a significant but not central theme.",
-    "level": "Tertiary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T11:35:39",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps and Agile topics without a clear focus on Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:31:40",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 50,
+    "final_score": 66.0,
+    "reasoning": "The content discusses Scrum principles, particularly in relation to training and the application of Scrum in a virtual environment. It mentions Scrum roles and events, such as daily scrums and sprint planning, but the focus is more on training logistics and tools rather than a deep exploration of Scrum itself. While there are relevant mentions, the overall depth and primary focus lean towards training methodologies rather than a comprehensive discussion on Scrum.",
+    "level": "Secondary"
   }
 }

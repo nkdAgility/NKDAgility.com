@@ -305,15 +305,6 @@
     "reasoning": "Content primarily discusses immersive learning and cognitive bias in Agile training, without a clear focus on the Agile Product Operating Model.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T13:35:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses agile training and references Scrum, but it primarily focuses on immersive learning and cognitive bias rather than Scrum principles or practices.",
-    "level": "Tertiary"
-  },
   "DevOps": {
     "category": "DevOps",
     "calculated_at": "2025-02-17T13:35:12",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive learning and cognitive bias in Agile training, with no clear focus on AI applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:49:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 50,
+    "final_score": 61.0,
+    "reasoning": "The content briefly mentions Scrum in the context of agile training and cognitive bias, indicating some relevance to the Scrum category. However, it lacks a detailed discussion of Scrum principles, roles, or events, which limits its depth and alignment with the core themes of Scrum. The focus is more on the learning process rather than the Scrum framework itself.",
+    "level": "Secondary"
   }
 }

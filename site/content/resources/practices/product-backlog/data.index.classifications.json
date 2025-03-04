@@ -1313,15 +1313,6 @@
     "reasoning": "Content heavily discusses the concept of a Product Backlog without any personal reflections or experiences related to Agile methodologies.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:10:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions the Product Backlog, which is a key artifact in the Scrum framework, but does not provide enough detail to classify it as primarily about Scrum.",
-    "level": "Tertiary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:10:38",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:42:38",
+    "ai_confidence": 55.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 50.0,
+    "reasoning": "The content briefly mentions the 'Product Backlog', which is a key artifact in Scrum, indicating some relevance to the category. However, it lacks detailed discussion on Scrum principles, roles, or events, resulting in a moderate confidence score. The focus is primarily on defining the Product Backlog without exploring its implications or connections to the broader Scrum framework.",
+    "level": "Tertiary"
   }
 }

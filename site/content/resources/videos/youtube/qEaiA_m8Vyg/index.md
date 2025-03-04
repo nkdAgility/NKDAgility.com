@@ -38,9 +38,9 @@ tags:
 resourceTypes:
 - video
 categories:
-- Scrum
 - Leadership
 - Social Technologies
+- Scrum
 
 ---
 ## Why Have You Decided to Go All-In on Immersive Learning Experiences? 

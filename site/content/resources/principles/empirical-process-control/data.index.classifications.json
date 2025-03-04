@@ -1331,15 +1331,6 @@
     "reasoning": "Content primarily discusses the principles of Scrum, specifically focusing on transparency, inspection, and adaptation, which are central to the Scrum framework.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T17:27:38",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the concept of Empirical Process Control within the context of Scrum, highlighting its principles of transparency, inspection, and adaptation.",
-    "level": "Secondary"
-  },
   "Beta Codex": {
     "category": "Beta Codex",
     "calculated_at": "2025-02-18T17:27:39",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:43:30",
+    "ai_confidence": 78.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content explicitly mentions Scrum and discusses the concept of empirical process control, which is a core principle of Scrum. However, it lacks depth in exploring the roles, events, and artifacts of Scrum, focusing primarily on the transparency, inspection, and adaptation aspects. While it aligns with the Scrum principles, it does not provide a comprehensive discussion on the framework itself.",
+    "level": "Secondary"
   }
 }

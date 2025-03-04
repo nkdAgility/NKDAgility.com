@@ -350,15 +350,6 @@
     "reasoning": "The content discusses the creation and management of work items in TFS, which relates to the application lifecycle, but it primarily focuses on a specific technical implementation rather than broader ALM practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T00:09:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses TFS work item management and API usage, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T00:46:23",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses TFS work item management and API usage, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:49:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a technical solution for managing work item IDs in TFS (Team Foundation Server) and does not explicitly mention Scrum principles, roles, events, or artifacts. While it touches on project management aspects, it lacks a direct focus on Scrum methodologies or frameworks, resulting in a low confidence score.",
+    "level": "Quinary"
   }
 }

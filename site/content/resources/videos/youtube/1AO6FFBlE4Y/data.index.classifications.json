@@ -1313,15 +1313,6 @@
     "reasoning": "Content heavily discusses the impacts of poor quality code on productivity, brand reputation, and technical debt, focusing on engineering practices rather than psychological principles or theories related to organisational behaviour.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:03:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the costs associated with poor quality code and the impact on productivity and brand reputation, without a clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:03:08",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the costs and impacts of poor quality code, engineering practices, and productivity, without any mention of Artificial Intelligence or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:40:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the costs associated with poor quality code and the impact on productivity and brand reputation. While it touches on themes relevant to software development, it does not explicitly mention Scrum principles, roles, events, or artifacts. The discussion lacks a direct focus on Scrum practices or frameworks, resulting in a low confidence score for alignment with the Scrum category.",
+    "level": "Quinary"
   }
 }

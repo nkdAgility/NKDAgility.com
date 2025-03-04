@@ -1313,15 +1313,6 @@
     "reasoning": "Content primarily discusses product discovery processes and methodologies, with a focus on Scrum roles and team dynamics in a technical context, rather than psychological principles or theories related to organisational behaviour.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:16:54",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses product discovery in relation to Scrum principles, particularly the role of the Product Owner and the concept of refinement, indicating that Scrum is a significant theme, but the primary focus is on product discovery rather than Scrum itself.",
-    "level": "Tertiary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:16:55",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses product discovery and project management without any mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:44:38",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 50,
+    "final_score": 64.0,
+    "reasoning": "The content discusses product discovery and its importance in project management, with a brief mention of Scrum and its role in refinement. However, the primary focus is on product discovery rather than Scrum principles, roles, or events. While there is some alignment with Scrum concepts, the depth of discussion on Scrum is limited, making it a secondary topic rather than a primary focus.",
+    "level": "Secondary"
   }
 }

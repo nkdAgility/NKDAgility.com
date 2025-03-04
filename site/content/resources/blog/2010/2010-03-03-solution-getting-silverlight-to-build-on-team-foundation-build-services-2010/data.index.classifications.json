@@ -350,15 +350,6 @@
     "reasoning": "The content discusses issues related to building a Silverlight application using Team Foundation Build Services, which is part of the application lifecycle management process. However, the primary focus is on troubleshooting build errors rather than a comprehensive discussion of ALM methodologies or practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions Scrum in the context of a retrospective and includes a section on Professional Scrum Developer Training, indicating that Scrum is a significant theme, but the primary focus is on technical issues related to building a Silverlight application.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T10:29:00",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to building a Silverlight application using Team Foundation Build Services, with no mention of AI or its integration in Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:52:14",
+    "ai_confidence": 47.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 50,
+    "final_score": 47.0,
+    "reasoning": "The content briefly mentions Scrum in the context of a retrospective at the end of a sprint, indicating some alignment with Scrum principles. However, the primary focus is on technical issues related to building a Silverlight application using Team Foundation Build Services, with limited depth on Scrum roles, events, or practices. The mention of Scrum is not substantial enough to classify the content as primarily about Scrum.",
+    "level": "Tertiary"
   }
 }

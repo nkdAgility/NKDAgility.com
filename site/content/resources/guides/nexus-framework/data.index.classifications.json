@@ -1313,15 +1313,6 @@
     "reasoning": "Content heavily discusses the Nexus framework for scaling Scrum, focusing on technical roles, events, and processes rather than psychological principles or theories related to organisational behaviour.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:09:16",
-    "ai_confidence": 95,
-    "non_ai_confidence": 50,
-    "final_score": 90.0,
-    "reasoning": "The content primarily discusses the Nexus framework, which is an extension of Scrum, detailing its roles, events, and artifacts, and how it builds upon the Scrum framework to facilitate scaled product delivery.",
-    "level": "Primary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:09:17",
@@ -1393,5 +1384,17 @@
     "final_score": 1.0,
     "reasoning": "Content heavily discusses the Nexus framework for scaling Scrum, with no mention of Artificial Intelligence or its application in Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:43:42",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 38,
+    "ai_depth": 36,
+    "non_ai_confidence": 50,
+    "final_score": 88.0,
+    "reasoning": "The content extensively discusses the Nexus framework, which is built upon the Scrum framework, detailing its roles, events, and artifacts. It aligns closely with Scrum principles, emphasising collaboration, transparency, and the importance of Scrum roles. The depth of discussion is significant, covering various aspects of Nexus and its relationship to Scrum, thus demonstrating a strong focus on the Scrum category.",
+    "level": "Primary"
   }
 }

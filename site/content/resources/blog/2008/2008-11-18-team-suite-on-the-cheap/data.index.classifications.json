@@ -62,15 +62,6 @@
     "reasoning": "Content primarily discusses a promotional offer for Visual Studio Team System rather than events or presentations related to Agile or DevOps.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T11:07:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio Team System and its components, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Resilience and Change": {
     "category": "Resilience and Change",
     "calculated_at": "2025-02-16T11:07:17",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio Team System and its pricing, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:56:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a promotional offer for Visual Studio Team System and does not explicitly mention Scrum or its principles. While it touches on team collaboration, it lacks any detailed discussion of Scrum roles, events, or artifacts, which are essential for alignment with the Scrum category.",
+    "level": "Quinary"
   }
 }

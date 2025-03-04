@@ -1313,15 +1313,6 @@
     "reasoning": "Content heavily discusses engineering tools and practices, focusing on technical methodologies rather than psychological principles related to organisational behaviour.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:09:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a strategy for unifying engineering tools and practices, with no clear focus on Scrum principles, roles, or events.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:09:44",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses engineering tools and practices for software development without a clear focus on the application of AI in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:42:14",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content discusses engineering tools and practices aimed at enhancing collaboration and efficiency in software development, which is somewhat related to Scrum principles. However, it does not explicitly mention Scrum roles, events, or artifacts, nor does it delve into the Scrum framework or its core themes. The focus is more on tool adoption and workflow standardisation rather than Scrum-specific practices.",
+    "level": "Quaternary"
   }
 }

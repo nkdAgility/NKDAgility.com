@@ -1313,15 +1313,6 @@
     "reasoning": "Content primarily focuses on product development methodologies, assumptions, and hypothesis testing, with no direct relevance to psychological principles or theories related to organisational behaviour.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:27:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses product development, assumptions, and hypothesis-driven development, with no clear focus on Scrum principles, roles, or events.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:27:23",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses product development, assumptions, and hypothesis-driven development without a clear focus on AI applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:45:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses product development, assumptions, and hypotheses, which are relevant to Agile methodologies, including Scrum. However, it does not explicitly mention Scrum roles, events, or artifacts, nor does it focus on the Scrum framework itself. The discussion on validating assumptions and hypothesis-driven development aligns with Agile principles but lacks depth in Scrum-specific practices. Therefore, while there is some conceptual alignment, the absence of direct mentions and detailed discussion on Scrum leads to a lower confidence score.",
+    "level": "Quaternary"
   }
 }

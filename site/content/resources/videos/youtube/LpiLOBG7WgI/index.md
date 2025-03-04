@@ -43,8 +43,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
-- Product Management
 
 ---
 ## Navigating Harsh Feedback in Sprint Reviews – An Agile Approach🚀 

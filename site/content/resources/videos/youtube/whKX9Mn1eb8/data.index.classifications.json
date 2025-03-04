@@ -1313,15 +1313,6 @@
     "reasoning": "Content primarily discusses the concept of shift left in quality engineering without personal anecdotes or reflections.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:01:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the concept of 'shift left' in quality assurance, which is not directly related to Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:01:26",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of 'shift left' in quality assurance within software development, without a clear focus on the application of AI in Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:40:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on the importance of delivering a high-quality product regularly, which aligns with Scrum's emphasis on delivering working software frequently. However, it primarily focuses on the concept of 'shift left' in quality assurance, which is not a Scrum-specific principle. There are no direct mentions of Scrum roles, events, or artifacts, and the discussion lacks depth regarding Scrum practices or frameworks.",
+    "level": "Quaternary"
   }
 }

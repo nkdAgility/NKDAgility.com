@@ -1250,15 +1250,6 @@
     "reasoning": "Content heavily discusses influential figures in Agile rather than focusing on throughput measurement or optimisation.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T19:47:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Agile principles and mentions Scrum courses, indicating a significant but secondary theme related to Scrum.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T19:47:01",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses influential figures in Agile without any mention of AI or its applications in Agile methodologies.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:19:59",
+    "ai_confidence": 35.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 50,
+    "final_score": 36.0,
+    "reasoning": "The content briefly mentions Scrum through the reference to Ralph Yakum and his book on the Professional Scrum Product Owner. However, it lacks a detailed discussion of Scrum principles, roles, or practices, making it more of a personal anecdote rather than a focused discussion on Scrum itself.",
+    "level": "Quaternary"
   }
 }

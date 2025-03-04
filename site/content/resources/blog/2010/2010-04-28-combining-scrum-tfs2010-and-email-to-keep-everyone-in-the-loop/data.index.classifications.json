@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses Scrum practices and email management within the context of project management, rather than focusing on the comprehensive management of the application lifecycle.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T00:55:26",
-    "ai_confidence": 70,
-    "non_ai_confidence": 50,
-    "final_score": 68.0,
-    "reasoning": "The content discusses Scrum practices in the context of using TFS 2010 and email for project management, making Scrum a major theme, though it also includes significant focus on TFS and email management.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T01:39:23",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum practices and Team Foundation Server without any mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:50:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content discusses Scrum practices in the context of using TFS 2010 and email to enhance team collaboration. It explicitly mentions Scrum principles and rules, indicating a strong focus on Scrum. The depth of discussion includes practical advice on managing tasks and communication within a Scrum framework, aligning well with the core themes of Scrum. However, the content also diverges into specific tools and processes, which slightly reduces the overall alignment score.",
+    "level": "Secondary"
   }
 }

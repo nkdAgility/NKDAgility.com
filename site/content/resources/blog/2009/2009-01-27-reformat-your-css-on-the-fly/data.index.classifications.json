@@ -62,15 +62,6 @@
     "reasoning": "Content primarily discusses technical implementation of CSS handling in .NET, with no reference to events, presentations, or discussions related to Agile or DevOps.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T10:34:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses CSS handling in web development and does not mention Scrum principles, roles, events, or any related topics.",
-    "level": "Ignored"
-  },
   "Resilience and Change": {
     "category": "Resilience and Change",
     "calculated_at": "2025-02-16T10:34:46",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses CSS handling and .NET implementation, with no mention of AI or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:55:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on CSS development and .NET implementation, with no direct mentions or discussions related to Scrum principles, roles, events, or practices. It lacks any alignment with the core themes of Scrum, such as team dynamics or iterative progress, and provides minimal depth on any relevant topics.",
     "level": "Ignored"
   }
 }

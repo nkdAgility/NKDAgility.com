@@ -53,15 +53,6 @@
     "reasoning": "The content discusses governance in relation to agility and compliance, which is relevant to leadership roles in fostering an agile environment. However, the primary focus is on governance processes rather than leadership practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-20T18:15:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "The content primarily discusses governance and compliance, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "MVP": {
     "category": "MVP",
     "calculated_at": "2025-02-20T18:28:00",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses governance and compliance in Agile methodologies without a focus on Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:38:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 7.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses governance and compliance in organisations, with no direct mention of Scrum principles, roles, or events. While it touches on themes of efficiency and minimising waste, which can relate to Agile methodologies, it does not specifically address Scrum or its framework. The discussion lacks depth in Scrum-related topics, leading to a low confidence score.",
+    "level": "Quinary"
   }
 }

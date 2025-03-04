@@ -1331,15 +1331,6 @@
     "reasoning": "Content heavily discusses Agile concepts and coaching, with no clear focus on platform engineering or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T13:15:10",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content mentions Scrum in the context of the hosts' expertise and roles, but the primary focus is on the importance of language and transparency in the agile world, making Scrum a secondary theme.",
-    "level": "Tertiary"
-  },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-17T13:15:11",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile methodologies and the importance of language in that context, with no mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:48:41",
+    "ai_confidence": 47.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 30,
+    "final_score": 45.0,
+    "reasoning": "The content briefly mentions Scrum in the context of the hosts' expertise, but it primarily focuses on the importance of language and transparency in the agile world. While there is some alignment with Scrum principles, such as transparency, the discussion lacks depth and does not delve into specific Scrum roles, events, or practices.",
+    "level": "Tertiary"
   }
 }

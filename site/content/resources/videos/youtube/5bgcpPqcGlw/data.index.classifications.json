@@ -44,15 +44,6 @@
     "reasoning": "The content discusses aspects of product management, particularly in relation to Agile and Scrum frameworks, customer feedback, and the importance of transparency and trust with customers. However, the primary focus is on site reliability engineering and operational practices rather than strategic product management.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:46:30",
-    "ai_confidence": 70,
-    "non_ai_confidence": 50,
-    "final_score": 68.0,
-    "reasoning": "The content discusses Scrum practices, including sprints and the role of Scrum teams, as part of a broader conversation on site reliability and DevOps. While Scrum is a significant theme, the primary focus is on site reliability engineering and operational practices.",
-    "level": "Secondary"
-  },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
     "calculated_at": "2025-02-18T12:22:56",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses site reliability engineering, DevOps practices, and operational challenges without a clear focus on the application of AI in Agile or DevOps methodologies.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:31:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content discusses Scrum practices, including three-week sprints and the importance of automation in relation to the definition of done. It also touches on team dynamics and the need for transparency, which aligns with Scrum principles. However, the primary focus is on site reliability engineering and Azure DevOps, making Scrum a secondary topic rather than the main focus.",
+    "level": "Secondary"
   }
 }

@@ -1313,15 +1313,6 @@
     "reasoning": "Content primarily discusses technical debt management and its implications in software development, lacking personal anecdotes or reflections.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:00:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical debt and its implications in software development, without a clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:00:31",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical debt in software development without any mention of AI or its integration within Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:40:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses technical debt and its implications for development teams, with no direct mention of Scrum principles, roles, events, or artifacts. While it touches on aspects of team dynamics and continuous improvement, these are not explicitly linked to Scrum practices. The focus is on technical debt management rather than Scrum methodologies, leading to a low confidence score.",
+    "level": "Quinary"
   }
 }

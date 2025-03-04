@@ -1349,15 +1349,6 @@
     "reasoning": "Content primarily discusses the reasons for failure in agile transformations, focusing on leadership and decision-making processes, rather than the principles or implementation of the One Engineering System.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T08:36:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses agile transformations broadly without a specific focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T08:36:29",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the reasons for failure in agile transformations, focusing on leadership and decision-making processes, without any mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:28:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses agile transformations and the importance of involving team members in decision-making, which aligns with some Scrum principles, such as collaboration and self-organisation. However, it does not explicitly mention Scrum roles, events, or artifacts, nor does it delve deeply into the Scrum framework itself. The focus is more on general agile practices rather than specific Scrum methodologies.",
+    "level": "Quaternary"
   }
 }

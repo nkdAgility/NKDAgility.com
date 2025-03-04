@@ -48,7 +48,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 In the world of Agile, one of the most common misconceptions I encounter is the idea that there exists such a thing as a "junior Scrum Master." This notion is not only misleading but also detrimental to both the individual and the organisation. I’ve seen organisations mistakenly believe that the Scrum Master role can be filled by anyone on the team, often selecting the least productive member to take on this responsibility. This approach does a disservice to the individual and undermines the entire Scrum process. 

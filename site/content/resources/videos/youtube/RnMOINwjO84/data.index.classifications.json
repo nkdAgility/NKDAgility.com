@@ -1313,15 +1313,6 @@
     "reasoning": "Content primarily discusses decision-making frameworks and agile methodologies, with minimal focus on psychological principles or theories related to organisational behaviour.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:05:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses decision-making in complex environments and agile principles but does not focus specifically on Scrum roles, events, or artifacts. It lacks a clear emphasis on the Scrum framework.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:05:15",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses decision-making processes and agility in business without a clear focus on the application of AI in Agile, DevOps, or software development.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:41:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses agility and decision-making in a business context, touching on concepts relevant to Scrum, such as adaptability and continuous improvement. However, it lacks direct mentions of Scrum roles, events, or artifacts, and does not delve deeply into the Scrum framework itself. The focus is more on general agile principles rather than specific Scrum practices.",
+    "level": "Quaternary"
   }
 }

@@ -350,15 +350,6 @@
     "reasoning": "The content discusses configuring InRelease with Team Foundation Server, which relates to application deployment and permissions management, but it primarily focuses on troubleshooting a specific error rather than the broader application lifecycle management practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T18:10:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses a technical issue related to Team Foundation Server and InRelease, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T18:25:16",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to Team Foundation Server configuration and permissions, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:39:34",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 16.0,
+    "reasoning": "The content primarily discusses a technical issue related to Team Foundation Server (TFS) and InRelease, with no direct mention of Scrum roles, events, or principles. While it references TFS, which can be used in Scrum environments, it does not engage with Scrum concepts or practices in a meaningful way. The discussion is focused on permissions and technical configurations rather than Scrum methodologies.",
+    "level": "Quinary"
   }
 }

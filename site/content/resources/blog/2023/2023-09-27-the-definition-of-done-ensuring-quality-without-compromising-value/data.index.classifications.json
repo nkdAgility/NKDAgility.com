@@ -1331,15 +1331,6 @@
     "reasoning": "Content heavily discusses the Definition of Done and acceptance criteria, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-13T21:48:14",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the Definition of Done, a key aspect of the Scrum framework, and its relationship with acceptance criteria, emphasising transparency and quality in Scrum practices.",
-    "level": "Secondary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-17T09:08:34",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the Definition of Done and acceptance criteria in Agile methodologies, with no mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:17:57",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the Definition of Done (DoD), a crucial aspect of the Scrum framework, highlighting its importance in ensuring quality and transparency in increments. It aligns well with Scrum principles by addressing the need for clarity and adaptability within Sprints. The depth of discussion is significant, as it explores both the risks and benefits of integrating acceptance criteria into the DoD, demonstrating a nuanced understanding of Scrum practices. Overall, the content is primarily focused on Scrum, with a strong emphasis on its core themes.",
+    "level": "Secondary"
   }
 }

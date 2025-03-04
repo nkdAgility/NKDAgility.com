@@ -1,7 +1,7 @@
 ---
 title: Scrum
 trustpilot: false
-date: 2025-02-11T10:16:54Z
+date: 2025-03-04T10:00:00
 description: Scrum is a a **social technology** for building **adaptive solutions** it focuses on delivering the **highest business value** in the **shortest time**. Scrum is a **framework** that helps teams work together. Much like a rugby team (where it gets its name) training for the big game, Scrum encourages teams to learn through experiences, self-organize while working on a problem, and reflect on their wins and losses to continuously improve.
 Instructions: |-
   **Use this category only for discussions on Scrum.**  
@@ -15,13 +15,11 @@ Instructions: |-
   - Continuous Improvement: Techniques for reflecting on team performance and implementing changes for better outcomes.
   - Scrum Implementation: Best practices for adopting Scrum in various organisational contexts and overcoming common challenges.
 
-  **Strictly exclude** discussions on unrelated methodologies (e.g., Kanban, Lean, DevOps) or misinterpretations of Scrum principles that do not align with the original Scrum Guide or the philosophies of its founders.
+  **Strictly exclude** discussions on unrelated frameworks (e.g., Kanban, Lean, DevOps) or misinterpretations of Scrum principles that do not align with the original Scrum Guide or the philosophies of its founders.
 headline:
   cards: []
   title: Scrum
   subtitle: A framework for collaborative problem-solving that maximises value delivery through iterative learning and continuous improvement.
   content: A structured approach for fostering collaboration and enhancing team performance, emphasising iterative progress and adaptive planning. Posts should explore team dynamics, roles, ceremonies, and techniques for maximising value delivery, as well as methods for continuous learning and improvement in complex environments.
   updated: 2025-02-13T21:02:24Z
-
 ---
-

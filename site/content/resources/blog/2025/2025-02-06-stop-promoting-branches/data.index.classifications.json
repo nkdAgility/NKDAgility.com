@@ -1331,15 +1331,6 @@
     "reasoning": "Content primarily discusses branching models and their impact on software delivery, without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-13T21:46:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses branching strategies and software delivery models, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-13T21:46:20",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses branching strategies in software development and does not address AI integration or applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:38:37",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses branching strategies and software delivery models, focusing on Git Flow, GitHub Flow, and Release Flow. While it touches on concepts like agility and delivery, it does not explicitly mention Scrum principles, roles, or events, nor does it delve into the Scrum framework or its implementation. Therefore, it aligns very minimally with the Scrum category.",
     "level": "Ignored"
   }
 }

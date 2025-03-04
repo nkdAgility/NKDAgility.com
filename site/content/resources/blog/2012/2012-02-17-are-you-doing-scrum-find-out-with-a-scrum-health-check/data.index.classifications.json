@@ -350,15 +350,6 @@
     "reasoning": "Content heavily discusses Scrum practices and health checks, which are not directly related to Application Lifecycle Management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T21:06:01",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses a Scrum Health Check, which relates directly to Scrum practices and implementation.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T22:09:47",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:46:09",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content explicitly discusses Scrum through the concept of a 'Scrum Health Check', indicating a focus on evaluating Scrum practices. It aligns well with key topics such as continuous improvement and team dynamics, as it aims to identify opportunities for enhancement in Scrum implementation. The depth of discussion is moderate, providing insights into the purpose and benefits of the health check, but it lacks detailed exploration of Scrum roles or events.",
+    "level": "Secondary"
   }
 }

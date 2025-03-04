@@ -37,6 +37,7 @@ resourceTypes:
 - video
 categories:
 - Product Management
+- Scrum
 
 ---
 ## The Order of Product Backlogs

@@ -35,8 +35,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Product Management
-- Social Technologies
 
 ---
 ## Decoding the Role of the Product Owner

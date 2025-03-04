@@ -1367,15 +1367,6 @@
     "reasoning": "Content primarily discusses the challenges of managing incompetent teams and personal experiences with specific teams, without focusing on the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T17:05:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the role of a Product Owner and touches on team dynamics, which are relevant to Scrum, but the primary focus is on team competence rather than Scrum principles or practices.",
-    "level": "Tertiary"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:48:29",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses team dynamics and management issues in Agile and DevOps contexts, without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:15:44",
+    "ai_confidence": 55.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 30,
+    "final_score": 52.0,
+    "reasoning": "The content briefly mentions the role of the Product Owner, which is a key Scrum role, but the primary focus is on team incompetence and management strategies rather than Scrum principles or practices. While there are references to Agile and Scrum at the end, they are not the main focus of the discussion, leading to a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

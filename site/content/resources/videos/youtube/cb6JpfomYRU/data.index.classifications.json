@@ -1250,15 +1250,6 @@
     "reasoning": "Content primarily discusses the experience of becoming a Scrum Master and the learning process involved, without a clear focus on throughput measurement or optimisation.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T20:34:24",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the role of a Scrum Master, the importance of community support, and practical application of Scrum principles in real-world scenarios.",
-    "level": "Secondary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T20:34:25",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and training methodologies without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:20:40",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the role of a Scrum Master, the importance of community support, and practical application of Scrum principles in real-world scenarios. It highlights the iterative learning process and the value of collaboration, which are core aspects of the Scrum framework. The depth of discussion on how Scrum can be implemented in a learning environment and the emphasis on continuous improvement further solidify its alignment with Scrum principles.",
+    "level": "Secondary"
   }
 }

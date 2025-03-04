@@ -206,15 +206,6 @@
     "reasoning": "The content discusses creating a managed service factory, which relates to internal service management and could enhance developer productivity, but it primarily focuses on implementation details rather than broader platform engineering principles.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T21:50:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a technical solution for accessing services and does not mention Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T21:50:13",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation of a service factory and does not mention or relate to Artificial Intelligence, Agile methodologies, or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:20:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a technical solution for accessing services in a managed service factory context, with no explicit mention of Scrum principles, roles, events, or artifacts. While it touches on aspects of software development, it does not align with the core themes of Scrum, such as iterative progress, team dynamics, or continuous improvement. The discussion lacks depth regarding Scrum practices, resulting in a low confidence score.",
+    "level": "Quinary"
   }
 }

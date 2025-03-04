@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses Scrum roles and the concept of commitment versus forecasting in Agile, which does not directly relate to the management of the application lifecycle.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T21:45:36",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the concept of commitment within the Scrum framework, highlighting its implications in Scrum events like Daily Scrum and Sprint Planning, and contrasts it with the idea of forecasting as per the new Scrum Guide.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-17T09:09:10",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and the concept of commitment in Agile project management, without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:47:02",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses the concept of 'commitment' within the Scrum framework, highlighting its implications during key Scrum events such as Daily Scrum and Sprint Planning. It aligns well with Scrum principles by addressing transparency, the role of the Product Owner, and the importance of communication in Agile practices. The depth of discussion is significant, as it not only critiques the notion of commitment but also suggests a shift towards forecasting, which is a relevant topic in Scrum. Overall, the content is highly focused on Scrum, making it a strong fit for the category.",
+    "level": "Primary"
   }
 }

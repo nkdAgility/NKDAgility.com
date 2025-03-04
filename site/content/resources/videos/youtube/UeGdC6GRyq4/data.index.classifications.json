@@ -1367,15 +1367,6 @@
     "reasoning": "Content primarily discusses a program for underemployment and training, with no clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T22:19:53",
-    "ai_confidence": 30,
-    "non_ai_confidence": 50,
-    "final_score": 32.0,
-    "reasoning": "The content briefly mentions Scrum roles but primarily focuses on a program for underemployed individuals and does not delve into Scrum principles or practices.",
-    "level": "Quaternary"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:57:01",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a program for underemployed individuals and does not focus on Artificial Intelligence or its application in Agile, DevOps, or software development.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:22:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 50,
+    "final_score": 34.0,
+    "reasoning": "The content briefly mentions Scrum in the context of project management roles, specifically referencing a Scrum Master. However, the primary focus is on a program for underemployed individuals rather than on Scrum principles, practices, or frameworks. The discussion lacks depth regarding Scrum events, roles, or artifacts, and does not align closely with the core themes of the Scrum category.",
+    "level": "Quaternary"
   }
 }

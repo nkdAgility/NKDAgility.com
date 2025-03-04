@@ -350,15 +350,6 @@
     "reasoning": "The content discusses an issue related to connecting Visual Studio versions to Team Foundation Server, which is relevant to application lifecycle management, but it primarily focuses on a specific technical problem rather than the broader aspects of ALM.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T18:53:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Visual Studio and Team Foundation Server, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T19:48:31",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to Visual Studio and Team Foundation Server, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:41:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses an issue related to Visual Studio and Team Foundation Server, with no direct mentions of Scrum principles, roles, or practices. While it touches on aspects of project management through workspace management, it does not align with the core themes of Scrum or provide any depth in discussing Scrum-related topics.",
     "level": "Ignored"
   }
 }

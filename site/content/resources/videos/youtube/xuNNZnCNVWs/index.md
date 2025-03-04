@@ -34,6 +34,7 @@ resourceTypes:
 - video
 categories:
 - Social Technologies
+- Scrum
 
 ---
 As a Scrum Master, I’ve come to realise that one of the most critical skills in my toolkit is the ability to teach effectively. But it’s not just about imparting knowledge; it’s about fostering understanding. In my experience, people are often resistant to change unless they grasp the underlying reasons for it. They need to see the value in what they’re being asked to do. 

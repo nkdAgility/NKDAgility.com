@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses managing multiple Dynamics AX instances with TFS, which relates to application lifecycle management practices, particularly in the context of deployment and maintenance.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T00:12:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the integration of Dynamics AX with TFS, focusing on technical setup and management strategies, without any mention of Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T00:54:16",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration of Microsoft Dynamics AX with Team Foundation Server, focusing on project management and source control, without any mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:49:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the integration of Dynamics AX with TFS, focusing on technical setup and project management strategies rather than Scrum principles, roles, events, or artifacts. There are no direct mentions of Scrum or its core themes, leading to a low confidence score.",
+    "level": "Quinary"
   }
 }

@@ -350,15 +350,6 @@
     "reasoning": "The content discusses the management of build outputs and version control in TFS 2012, which relates to the deployment and maintenance stages of the application lifecycle, but it primarily focuses on specific features rather than a comprehensive discussion of ALM methodologies or practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T19:02:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses features and functionalities of TFS 2012, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T20:02:32",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and functionalities of TFS 2012, focusing on version control and build processes, without any mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:41:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the features and functionalities of TFS 2012, specifically regarding un-versioned repositories and build drops. There are no direct mentions of Scrum roles, events, or principles, and the discussion does not align with the core themes of Scrum or Agile methodologies. The content lacks depth in any Scrum-related topics, resulting in a very low confidence score.",
     "level": "Ignored"
   }
 }

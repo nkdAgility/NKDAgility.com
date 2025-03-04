@@ -28,8 +28,7 @@ aliasesArchive:
 - /resources/blog/merge-many-team-projects-one-tfs
 tags:
 - Install and Configuration
-categories:
-- DevOps
+categories: []
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

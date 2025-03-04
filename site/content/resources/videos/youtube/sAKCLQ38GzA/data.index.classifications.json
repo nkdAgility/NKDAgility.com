@@ -1367,15 +1367,6 @@
     "reasoning": "Content primarily discusses motivation theories and personal insights on work culture, with no clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T17:10:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses team dynamics and the importance of purpose in work, which are relevant to Scrum principles, but it primarily focuses on motivation and personal development rather than Scrum-specific practices or frameworks.",
-    "level": "Tertiary"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:49:13",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses motivation and team dynamics in the context of Agile and project management, without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:16:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Scrum in the context of discussing team dynamics and motivation, particularly in relation to the role of purpose and vision in a team setting. However, it does not delve deeply into Scrum principles, roles, or events, and the primary focus is on broader motivational theories rather than Scrum-specific practices. The mention of Scrum is secondary to the overall discussion, leading to a lower confidence score.",
+    "level": "Quaternary"
   }
 }

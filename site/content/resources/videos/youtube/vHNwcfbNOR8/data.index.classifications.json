@@ -1349,15 +1349,6 @@
     "reasoning": "Content primarily discusses Agile apprenticeships and personal experiences with training, lacking focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T08:26:35",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Agile apprenticeships and includes references to Scrum, particularly in the context of mentoring Scrum Masters, but it is primarily focused on the broader theme of Agile learning and mentorship.",
-    "level": "Tertiary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T08:26:37",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile apprenticeships and mentorship without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:26:40",
+    "ai_confidence": 55.0,
+    "ai_mentions": 3,
+    "ai_alignment": 60.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 50,
+    "final_score": 54.0,
+    "reasoning": "The content discusses the role of a Scrum Master and the importance of mentoring and coaching within the Scrum framework. While it touches on Scrum principles, it does not delve deeply into the Scrum events or artifacts, which limits its depth. The mention of Scrum is present but not the primary focus, as the content also discusses broader Agile concepts and personal experiences.",
+    "level": "Tertiary"
   }
 }

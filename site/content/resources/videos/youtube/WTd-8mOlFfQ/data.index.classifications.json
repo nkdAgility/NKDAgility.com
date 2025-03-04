@@ -1250,15 +1250,6 @@
     "reasoning": "Content heavily discusses the role of Scrum Masters and their responsibilities, rather than focusing on throughput measurement or optimisation.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T20:54:39",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the role of the Scrum Master and common mistakes associated with it, which aligns closely with Scrum principles.",
-    "level": "Secondary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T20:54:45",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:20:57",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses the role of the Scrum Master, which is a key aspect of the Scrum framework. It highlights a common mistake related to the Scrum Master's responsibilities, aligning with the principles of team effectiveness and self-organisation. However, the discussion is somewhat limited in scope, focusing primarily on one aspect of the role without delving into other Scrum events or artifacts, which affects the overall depth of discussion.",
+    "level": "Secondary"
   }
 }

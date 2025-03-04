@@ -1367,15 +1367,6 @@
     "reasoning": "Content primarily discusses training, team dynamics, and personal experiences in software development, without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T17:05:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses training and learning within teams, mentioning Scrum in the context of professional development, but it primarily focuses on broader themes of team dynamics and organisational culture rather than specific Scrum practices or principles.",
-    "level": "Tertiary"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:48:26",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses training, team dynamics, and personal experiences in software development, with no clear focus on the application of AI in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:15:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 65.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 50,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of training and continuous learning within teams, which aligns with Scrum principles of team dynamics and continuous improvement. It briefly mentions 'professional Scrum for software developers', indicating a direct mention of Scrum. However, the overall focus is more on general team management and learning rather than a deep dive into Scrum roles, events, or artifacts, which affects the depth of discussion. The content does not strictly adhere to Scrum principles, as it also touches on broader Agile concepts and team dynamics, leading to a moderate confidence score.",
+    "level": "Secondary"
   }
 }

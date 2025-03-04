@@ -27,6 +27,7 @@ card:
 categories:
 - Product Management
 - Engineering Excellence
+- Scrum
 tags:
 - Metrics and Learning
 - Transparency

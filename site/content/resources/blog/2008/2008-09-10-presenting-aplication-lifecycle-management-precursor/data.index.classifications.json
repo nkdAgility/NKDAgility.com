@@ -62,15 +62,6 @@
     "reasoning": "The content primarily discusses a presentation on Application Lifecycle Management (ALM), detailing the author's preparation and experiences related to presenting at events.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T11:50:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Application Lifecycle Management (ALM) and Visual Studio Team System, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Resilience and Change": {
     "category": "Resilience and Change",
     "calculated_at": "2025-02-16T11:50:33",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Application Lifecycle Management and personal experiences related to presentations, with no mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:58:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses Application Lifecycle Management (ALM) and Visual Studio Team System (VSTS), with no direct mentions of Scrum principles, roles, events, or artifacts. While there is a brief mention of TFS, which is related to project management, it does not align with the core themes of Scrum. The discussion lacks depth and focus on Scrum, leading to a very low confidence score.",
     "level": "Ignored"
   }
 }

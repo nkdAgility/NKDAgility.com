@@ -41,8 +41,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
-- Product Management
 
 ---
 ## Unleashing the Power of Stakeholder Engagement in Sprint Reviews 💡**🔍** 

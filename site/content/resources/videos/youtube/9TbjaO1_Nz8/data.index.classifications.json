@@ -1250,15 +1250,6 @@
     "reasoning": "Content primarily discusses product management and the importance of value for entrepreneurs, with no clear focus on throughput or its measurement and optimization.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T07:25:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the role of the product owner and touches on Scrum principles related to value in product management, but it also includes broader topics related to entrepreneurship and product management outside of Scrum.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-18T07:25:29",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses product management and the role of entrepreneurs, with no clear focus on Artificial Intelligence or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:23:59",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 25,
+    "ai_depth": 30,
+    "non_ai_confidence": 30,
+    "final_score": 63.0,
+    "reasoning": "The content discusses the role of the Product Owner, which is a key aspect of the Scrum framework. It highlights the importance of value in product management, aligning with Agile principles. However, the discussion is more focused on entrepreneurship and product management rather than a comprehensive exploration of Scrum practices, roles, and events. The mention of Scrum is brief and secondary to the overall theme of product management for entrepreneurs.",
+    "level": "Secondary"
   }
 }

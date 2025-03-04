@@ -557,15 +557,6 @@
     "reasoning": "Content heavily discusses Agile certifications and professional development without a clear focus on decision-making processes or uncertain environments.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:22:25",
-    "ai_confidence": 75,
-    "non_ai_confidence": 50,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses Scrum certifications and the importance of understanding the Scrum framework for career advancement, making Scrum a major theme while other Agile methodologies are briefly mentioned.",
-    "level": "Secondary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T10:22:25",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile certifications and Scrum practices without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:26:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of understanding the Scrum Guide and the value of certifications related to Scrum roles, such as Scrum Master and Product Owner. It highlights the necessity of validated learning and preparation for working on a Scrum team, which aligns well with Scrum principles. However, while Scrum is a significant focus, the content also touches on broader career development themes, which slightly dilutes its primary focus on Scrum.",
+    "level": "Secondary"
   }
 }

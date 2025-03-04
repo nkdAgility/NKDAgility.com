@@ -1331,15 +1331,6 @@
     "reasoning": "Content primarily discusses value-based prioritization within the context of Scrum, focusing on delivering value to stakeholders and the prioritization of the product backlog, which aligns closely with Agile practices.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T17:28:24",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the prioritization of the product backlog in relation to delivering value, which is a key aspect of Scrum practices.",
-    "level": "Secondary"
-  },
   "Beta Codex": {
     "category": "Beta Codex",
     "calculated_at": "2025-02-18T17:28:25",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses value-based prioritization in Scrum without any mention of AI or its application in Agile methodologies.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:43:22",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 50,
+    "final_score": 72.0,
+    "reasoning": "The content explicitly mentions the Scrum team and the product backlog, which are key components of the Scrum framework. It discusses prioritization in the context of delivering value, aligning with Agile principles. However, the depth of discussion is limited, focusing primarily on value-based prioritization without delving into specific Scrum roles, events, or a comprehensive exploration of Scrum practices.",
+    "level": "Secondary"
   }
 }

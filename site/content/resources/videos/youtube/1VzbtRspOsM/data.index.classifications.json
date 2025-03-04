@@ -1331,15 +1331,6 @@
     "reasoning": "The content primarily discusses the challenges and opportunities for aspiring agile leaders in fostering conversations and practices that enhance leadership effectiveness within their organisations.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T15:30:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses immersive learning for agile leaders without a clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Beta Codex": {
     "category": "Beta Codex",
     "calculated_at": "2025-02-17T15:30:20",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive learning for agile leaders without any mention of AI or its application in Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:53:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses agile leadership and immersive learning but does not explicitly mention Scrum or its specific roles, events, or artifacts. While it touches on themes of collaboration and accountability, which are relevant to Scrum, the discussion lacks depth and direct references to Scrum principles or practices. The focus is more on general agile concepts rather than the Scrum framework itself.",
+    "level": "Quaternary"
   }
 }

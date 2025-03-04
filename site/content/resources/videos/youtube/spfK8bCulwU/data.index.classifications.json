@@ -557,15 +557,6 @@
     "reasoning": "Content primarily focuses on Agile and Scrum training and coaching rather than decision-making processes, heuristics, or frameworks associated with Decision Theory.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content heavily discusses the role of a Product Owner and mentions Scrum training and the PSPO course. However, it mainly focuses on product development for entrepreneurs rather than delving deeply into the Scrum framework itself.",
-    "level": "Tertiary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T08:00:10",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses product ownership and Agile methodologies without any mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:24:26",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 30,
+    "final_score": 64.0,
+    "reasoning": "The content discusses the role of the Product Owner, which is a key aspect of the Scrum framework. However, it primarily focuses on the balance between innovation and customer needs rather than the broader Scrum principles or practices. While it touches on collaboration and customer focus, it lacks detailed exploration of Scrum events or empirical process control, which are central to the category. The mention of 'agile, scrum, or DevOps' at the end indicates a broader context but does not significantly enhance the focus on Scrum specifically.",
+    "level": "Secondary"
   }
 }

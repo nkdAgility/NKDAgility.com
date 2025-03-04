@@ -557,15 +557,6 @@
     "reasoning": "Content primarily focuses on Scrum training, which is unrelated to decision-making processes.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:14:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content title suggests a focus on Professional Scrum Master (PSM) training, which may relate to the Scrum framework. However, there is no detailed discussion or information provided regarding Scrum principles, practices, or frameworks in the content itself. The link to a video does not substantiate the primary focus or clear discussion on Scrum.",
-    "level": "Ignored"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T11:14:27",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:29:40",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 16.0,
+    "reasoning": "The content title mentions 'PSM Training from Scrum.org', indicating a connection to Scrum. However, the actual content provided is minimal and lacks any substantial discussion on Scrum principles, roles, events, or practices. The link to a video does not provide enough context or detail to significantly align with the Scrum category.",
+    "level": "Quinary"
   }
 }

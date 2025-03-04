@@ -1331,15 +1331,6 @@
     "reasoning": "Content primarily discusses the importance of delivering usable products in Agile iterations, focusing on issues like trust, technical debt, and adaptability, without addressing the principles or components of the One Engineering System framework.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:08:35",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivering usable products in agile iterations, which aligns with Scrum principles of delivering working software frequently and the significance of inspection and adaptation. However, it does not focus primarily on Scrum roles, events, or artifacts.",
-    "level": "Tertiary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-13T21:49:39",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the importance of delivering usable products in Agile iterations, focusing on trust, technical debt, adaptability, and stakeholder alignment, without any mention of AI.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:20:23",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 74.0,
+    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, which aligns closely with Scrum principles of delivering working software frequently and emphasising inspection and adaptation. It mentions key concepts such as trust with stakeholders, technical debt, adaptability, and feedback, all of which are integral to the Scrum framework. The depth of discussion is substantial, providing detailed insights into the consequences of neglecting usable products, which reflects a strong understanding of Scrum's core themes.",
+    "level": "Secondary"
   }
 }

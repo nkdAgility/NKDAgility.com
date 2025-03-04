@@ -350,15 +350,6 @@
     "reasoning": "The content discusses the integration of reporting and analysis services with Team Foundation Server, which relates to the deployment and maintenance stages of the application lifecycle. However, it primarily focuses on technical setup rather than broader ALM methodologies or practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T17:56:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the integration of reporting and analysis services with Team Foundation Server 2013, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T19:33:30",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration of reporting and analysis services with Team Foundation Server, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:39:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on integrating reporting and analysis services with Team Foundation Server 2013, which is unrelated to Scrum principles, roles, events, or artifacts. There are no direct mentions of Scrum or its core themes, and the discussion lacks any depth regarding Scrum practices or frameworks.",
     "level": "Ignored"
   }
 }

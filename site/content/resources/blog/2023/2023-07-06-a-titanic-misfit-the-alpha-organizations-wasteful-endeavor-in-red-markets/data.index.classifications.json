@@ -1331,15 +1331,6 @@
     "reasoning": "Content primarily discusses the inefficiencies of Alpha organisations in red markets and contrasts them with Beta organisations, without any mention of the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-13T21:50:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the inefficiencies of Alpha organisations in red markets and contrasts them with Beta organisations, without any mention of Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-13T21:50:05",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the inefficiencies of Alpha organisations in adapting to modern markets, with no clear focus on AI applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:21:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the inefficiencies of Alpha organisations in the context of red markets, contrasting them with Beta organisations. While it touches on themes of adaptability and responsiveness, which are relevant to Agile principles, it does not explicitly mention Scrum or its core components such as roles, events, or artifacts. The discussion lacks depth regarding Scrum practices and does not focus on the Scrum framework, leading to a low confidence score.",
+    "level": "Quinary"
   }
 }

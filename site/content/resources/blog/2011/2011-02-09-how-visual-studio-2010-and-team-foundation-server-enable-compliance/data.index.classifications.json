@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the features and functionalities of Team Foundation Server (TFS) and Visual Studio 2010 as tools for Application Lifecycle Management, including traceability, requirements management, task tracking, and compliance, which are central to the ALM process.",
     "level": "Primary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses roles and artifacts relevant to project management, such as Requirements, Tasks, and Test Cases, which are integral to Scrum practices, but it primarily focuses on the use of Team Foundation Server for compliance and traceability.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T00:44:29",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and functionalities of Visual Studio 2010 and Team Foundation Server in relation to Application Lifecycle Management, without any mention of Artificial Intelligence or its integration within Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:49:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses various aspects of Application Lifecycle Management (ALM) using Team Foundation Server (TFS) and Visual Studio, touching on concepts like requirements, tasks, and testing. However, it does not explicitly mention Scrum roles, events, or principles, which are central to the Scrum framework. While there is some alignment with Agile principles, the focus is primarily on TFS functionalities rather than Scrum practices, leading to a low confidence score.",
+    "level": "Quaternary"
   }
 }

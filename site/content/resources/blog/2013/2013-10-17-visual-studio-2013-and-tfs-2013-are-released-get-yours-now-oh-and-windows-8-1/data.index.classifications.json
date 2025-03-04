@@ -350,15 +350,6 @@
     "reasoning": "The content discusses Visual Studio and Team Foundation Server as tools for Application Lifecycle Management, highlighting their features and improvements. However, the primary focus is on the release and capabilities of these tools rather than a comprehensive discussion on the application lifecycle stages or best practices.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T11:34:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, with no clear focus on Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T17:49:48",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, with no mention of Artificial Intelligence or its application in Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:38:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 50,
+    "final_score": 16.0,
+    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, with no direct mention of Scrum principles, roles, or events. While it briefly touches on Agile concepts through references to Team Foundation Server, it lacks substantial depth or alignment with Scrum-specific topics. The focus is on software tools rather than Scrum practices.",
+    "level": "Quinary"
   }
 }

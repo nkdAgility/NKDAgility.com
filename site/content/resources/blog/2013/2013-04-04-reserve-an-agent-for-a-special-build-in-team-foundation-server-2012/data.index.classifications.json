@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the management of build agents within Team Foundation Server, which is a critical aspect of the application lifecycle, particularly in the deployment and maintenance stages. It addresses the challenges and solutions related to build processes, which are integral to application lifecycle management.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T19:06:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the technical aspects of reserving an agent in Team Foundation Server and does not address Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T20:07:39",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of reserving a build agent in Team Foundation Server, focusing on build workflows and server management, with no mention of AI or its applications.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:41:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical aspects of reserving an agent in Team Foundation Server and does not mention Scrum principles, roles, events, or any related topics. It lacks any direct references to Scrum or its framework, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

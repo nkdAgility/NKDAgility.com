@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the upgrade process of TFS 2015, which is a tool used in application lifecycle management. While it touches on aspects of deployment and maintenance, it does not comprehensively cover the broader methodologies or practices of ALM.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T22:13:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the upgrade process for TFS 2015 and does not focus on Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T22:14:02",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the upgrade process of TFS 2015 and does not mention or relate to Artificial Intelligence in Agile, DevOps, or software development.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:34:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the upgrade process for TFS 2015, focusing on technical details and procedures rather than Scrum principles, roles, or practices. There are no direct mentions of Scrum roles, events, or artifacts, and the discussion lacks depth in terms of Scrum-related content. Overall, it does not align with the core themes of the Scrum category.",
+    "level": "Quinary"
   }
 }

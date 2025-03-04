@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the evolution of software development practices, including Agile and DevOps, and their impact on the application lifecycle. It addresses the importance of adapting processes and tools to meet modern consumer demands, which aligns closely with the principles of Application Lifecycle Management.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T16:52:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "The content primarily discusses the evolution of software development practices and the concept of 'the new normal' in IT, with only a brief mention of Agile and Scrum without a clear focus on Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T16:52:30",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses software development practices and the evolution of IT roles, without a clear focus on the application of AI in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:42:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 50,
+    "final_score": 34.0,
+    "reasoning": "The content discusses agile methodologies and the importance of adapting to change in software development, which are relevant to Scrum principles. However, it lacks direct references to specific Scrum roles, events, or artifacts, and does not provide in-depth discussion on Scrum itself. The focus is more on general agile practices and the evolution of software development rather than a detailed exploration of Scrum.",
+    "level": "Quaternary"
   }
 }

@@ -557,15 +557,6 @@
     "reasoning": "Content heavily discusses Scrum and Agile methodologies without a focus on decision-making processes or uncertainty.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:22:36",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the Scrum framework and its efficiency claims, along with a mention of Scrum principles. However, it also touches on broader Agile concepts and has a focus on consultancy services, hence it is a major but secondary theme.",
-    "level": "Tertiary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T10:22:37",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and Agile methodologies without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:28:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content discusses the misconception of Scrum's promise of delivering 'twice the work in half the time', emphasising the distinction between output and outcome, which aligns with Scrum's focus on delivering value. It critiques common marketing phrases associated with Agile and highlights the importance of understanding Scrum principles, particularly the focus on outcomes rather than mere output. While it does not delve deeply into specific Scrum roles or events, it engages with core Scrum concepts, thus justifying a high confidence score.",
+    "level": "Secondary"
   }
 }

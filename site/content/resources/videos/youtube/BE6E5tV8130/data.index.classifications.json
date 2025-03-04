@@ -1349,15 +1349,6 @@
     "reasoning": "Content primarily discusses the differences between agile and waterfall project management, without a focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:41:36",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses agile product development and contrasts it with waterfall project management, touching on Scrum principles such as iterative cycles, customer collaboration, and team dynamics, but it is primarily focused on the broader agile methodology rather than Scrum specifically.",
-    "level": "Tertiary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T10:41:38",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between agile and waterfall project management, with no mention of AI or its applications in Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:28:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses agile product development and contrasts it with waterfall project management, touching on iterative processes and the importance of adapting to customer needs. However, it lacks direct references to Scrum roles, events, or artifacts, which are central to the Scrum framework. While it aligns with some agile principles, the depth of discussion on Scrum specifically is limited, resulting in a moderate confidence score.",
+    "level": "Quaternary"
   }
 }

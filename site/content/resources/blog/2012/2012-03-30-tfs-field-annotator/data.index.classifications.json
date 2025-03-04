@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses a tool for annotating TFS Work Items, with no clear focus on the application lifecycle stages or management practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T20:45:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a tool for TFS Work Items and does not focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T00:54:02",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a tool for managing TFS Work Items, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:45:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a tool related to TFS (Team Foundation Server) and its functionalities, with no direct mentions or discussions of Scrum principles, roles, events, or practices. While it may relate to project management in a broad sense, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is focused on technical aspects of the tool rather than any Scrum-related content.",
+    "level": "Quinary"
   }
 }

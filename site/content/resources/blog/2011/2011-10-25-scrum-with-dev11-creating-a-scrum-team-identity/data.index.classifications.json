@@ -350,15 +350,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events, with a focus on team creation in Visual Studio, rather than the comprehensive management of the application lifecycle.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions Scrum in the context of creating a Scrum team identity, indicating that it is a significant theme, but it primarily focuses on Visual Studio and its features.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T22:41:54",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:47:17",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 50,
+    "final_score": 46.0,
+    "reasoning": "The content briefly mentions Scrum in the context of creating a team identity within Visual Studio, indicating a direct mention. However, it lacks a detailed discussion of Scrum principles, roles, or events, which limits its depth. The conceptual alignment is moderate as it touches on team dynamics but does not delve into the core themes of Scrum extensively.",
+    "level": "Tertiary"
   }
 }

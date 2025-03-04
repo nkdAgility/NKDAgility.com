@@ -42,8 +42,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
-- Product Management
 
 ---
 ## Navigating Sprint Backlog Selection

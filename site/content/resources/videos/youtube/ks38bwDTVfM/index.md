@@ -44,7 +44,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 When it comes to successfully navigating the complexities of Agile and Scrum, there are a few key principles that I’ve found to be absolutely essential. Drawing from my experiences, I want to share three critical strategies that can help your team not only complete work within a Sprint but also enhance overall productivity and satisfaction.

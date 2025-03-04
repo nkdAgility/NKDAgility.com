@@ -350,15 +350,6 @@
     "reasoning": "The content discusses issues related to the build process in a software application lifecycle context, specifically within Team Foundation Server's vNext build system. However, it primarily focuses on troubleshooting a specific error rather than a comprehensive discussion on application lifecycle management methodologies or practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T22:18:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to Team Foundation Server's build system and PowerShell errors, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T22:18:17",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses troubleshooting issues related to Team Foundation Server's build system, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:34:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to Team Foundation Server and build systems, with no direct mention of Scrum principles, roles, or practices. While it touches on collaboration with peers, it lacks any substantial discussion on Scrum frameworks or methodologies.",
     "level": "Ignored"
   }
 }

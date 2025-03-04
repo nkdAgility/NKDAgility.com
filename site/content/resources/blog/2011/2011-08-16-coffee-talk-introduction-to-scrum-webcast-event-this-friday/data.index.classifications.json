@@ -350,15 +350,6 @@
     "reasoning": "Content heavily discusses Scrum methodology and its roles, which are not directly related to Application Lifecycle Management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T22:14:30",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses Scrum roles, processes, and the framework, indicating a strong focus on Scrum principles and practices.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T22:42:06",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:47:54",
+    "ai_confidence": 85.0,
+    "ai_mentions": 18,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 82.0,
+    "reasoning": "The content explicitly discusses Scrum, detailing its roles and framework, which aligns closely with the core themes of the category. It provides a clear overview of Scrum's significance in agile methodologies and hints at practical applications, indicating a strong depth of discussion. The mention of Scrum in the context of an event further reinforces its primary focus.",
+    "level": "Primary"
   }
 }

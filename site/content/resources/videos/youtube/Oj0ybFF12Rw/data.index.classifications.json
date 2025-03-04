@@ -1250,15 +1250,6 @@
     "reasoning": "Content heavily discusses scaling Scrum and its principles, but does not address throughput or the measurement and optimization of work completion rates.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T23:36:27",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the concept of scaling Scrum and references the Scrum Guide and Nexus, making Scrum the central theme.",
-    "level": "Secondary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T23:36:27",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:17:12",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content discusses the concept of scaling Scrum, which is a relevant topic within the Scrum framework. It mentions the Scrum Guide and references Nexus as a method for scaling, indicating a direct engagement with Scrum principles. However, the discussion lacks depth in exploring the roles, events, and artifacts of Scrum, which limits the overall alignment and depth of the content. The primary focus is on the debate around scaling, which is a specific aspect of Scrum rather than a comprehensive exploration of the framework.",
+    "level": "Secondary"
   }
 }

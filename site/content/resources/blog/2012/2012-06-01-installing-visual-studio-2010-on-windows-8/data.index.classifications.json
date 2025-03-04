@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses the installation of Visual Studio 2010 on Windows 8, with no clear focus on the application lifecycle stages, governance, or management practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T20:30:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the installation of Visual Studio 2010 on Windows 8 and does not mention Scrum principles, roles, events, or any related topics.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T21:31:33",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation of Visual Studio 2010 on Windows 8, with no mention of AI, Agile methodologies, or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:45:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on installing Visual Studio 2010 on Windows 8 and does not mention Scrum principles, roles, events, or any related topics. There is a very brief mention of Team Foundation Server (TFS), which is related to software development but does not align with Scrum discussions. Overall, the content lacks any substantial connection to the Scrum framework or its practices.",
     "level": "Ignored"
   }
 }

@@ -1,13 +1,4 @@
 {
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T15:50:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "Content discusses the role of the Scrum Master in managing team conflict, which is a significant aspect of Scrum, but the primary focus is on team dynamics rather than Scrum principles or practices.",
-    "level": "Tertiary"
-  },
   "Kanban": {
     "category": "Kanban",
     "calculated_at": "2025-02-17T15:50:56",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses team conflict and Agile practices without any mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:15:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 50,
+    "final_score": 61.0,
+    "reasoning": "The content briefly mentions the role of the Scrum Master in managing team conflict, which aligns with Scrum principles. However, it lacks detailed discussion on Scrum roles, events, or artifacts, and primarily focuses on the concept of team conflict rather than Scrum itself.",
+    "level": "Secondary"
   }
 }

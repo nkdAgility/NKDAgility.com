@@ -1313,15 +1313,6 @@
     "reasoning": "Content primarily discusses the benefits of automation in software development and provides examples, but lacks personal anecdotes or reflections related to Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T11:58:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses automation in software development and its impact on reducing human error, without a clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T11:58:19",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses automation in software development and its benefits, without a clear focus on the application of AI in Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:39:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses automation in software development and the challenges of human error, with no direct mention of Scrum principles, roles, or events. While it touches on themes of efficiency and team dynamics, it does not align with the core topics of the Scrum framework or Agile principles. The discussion lacks depth regarding Scrum practices, making it largely irrelevant to the category.",
+    "level": "Quinary"
   }
 }

@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses language preferences and macros in Microsoft Office, with no relevance to application lifecycle management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T19:34:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses language preferences and technical solutions for spell checking in Microsoft Office, with no mention of Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T20:56:00",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses language preferences and macros in Microsoft Office, with no relevance to Artificial Intelligence.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:43:34",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content does not discuss Scrum principles, practices, or frameworks. It focuses on language preferences and technical solutions for spell-checking in Microsoft Office, which is unrelated to Scrum or its core themes.",
     "level": "Ignored"
   }
 }

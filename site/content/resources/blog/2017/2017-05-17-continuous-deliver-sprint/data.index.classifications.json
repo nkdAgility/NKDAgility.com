@@ -350,15 +350,6 @@
     "reasoning": "The content discusses the role of Sprints in the context of software delivery and continuous delivery, which relates to the application lifecycle, but primarily focuses on Scrum methodology rather than the broader aspects of Application Lifecycle Management.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T19:24:57",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the role of Sprints within the Scrum framework, including their benefits, events, and the relationship with continuous delivery.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-17T09:08:41",
@@ -1393,5 +1384,17 @@
     "final_score": 1.0,
     "reasoning": "Content heavily discusses Scrum methodology and continuous delivery, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:33:54",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
+    "non_ai_confidence": 50,
+    "final_score": 88.0,
+    "reasoning": "The content extensively discusses the concept of Sprints within the Scrum framework, highlighting their importance in empirical process control, communication, and predictability. It directly references Scrum roles, events, and the necessity of delivering working software, aligning closely with Scrum principles. The depth of discussion is significant, providing detailed insights into how Sprints function and their benefits, thus justifying a high confidence score.",
+    "level": "Primary"
   }
 }

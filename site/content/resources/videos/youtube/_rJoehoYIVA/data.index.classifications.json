@@ -1313,15 +1313,6 @@
     "reasoning": "Content heavily discusses Azure DevOps migration processes and technical challenges, with no focus on psychological principles or organisational behaviour.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:30:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Azure DevOps migration challenges and solutions, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:30:33",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, with no clear focus on Artificial Intelligence applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:46:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Azure DevOps migration and does not explicitly discuss Scrum principles, roles, events, or artifacts. While it touches on project management aspects, it lacks direct references to Scrum or its core themes, resulting in a low confidence score.",
+    "level": "Quinary"
   }
 }

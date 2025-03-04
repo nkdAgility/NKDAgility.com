@@ -350,15 +350,6 @@
     "reasoning": "The content discusses issues related to Team Foundation Server (TFS) and its updates, which are part of the application lifecycle management process, particularly in the context of maintenance and updates. However, the primary focus is on specific error messages and troubleshooting rather than a comprehensive discussion of ALM methodologies or practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T18:52:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to Team Foundation Server and specific error messages, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T19:45:48",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses errors and solutions related to Team Foundation Server, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:41:01",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses technical issues related to Team Foundation Server (TFS) and does not mention Scrum principles, roles, events, or artifacts. While it touches on project management aspects, it does not align with the core themes of Scrum, nor does it provide any depth on Scrum practices.",
     "level": "Ignored"
   }
 }

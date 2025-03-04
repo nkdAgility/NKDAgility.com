@@ -557,15 +557,6 @@
     "reasoning": "Content heavily discusses the implementation of Scrum and agile methodologies without a focus on decision-making processes or decision theory principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:22:09",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the application of Scrum principles, particularly focusing on the importance of implementing Scrum effectively, understanding its core pillars of Empiricism, and providing training for Scrum roles, which aligns closely with the Scrum category.",
-    "level": "Secondary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T10:22:09",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:26:03",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the importance of effectively implementing Scrum, highlighting key principles such as transparency, inspection, and adaptation, which are core to the Scrum framework. It also mentions specific roles and practices related to Scrum, such as the need for continuous improvement and the challenges teams face in applying Scrum effectively. The depth of discussion is significant, as it addresses both theoretical and practical aspects of Scrum, making it a primary focus of the content.",
+    "level": "Secondary"
   }
 }

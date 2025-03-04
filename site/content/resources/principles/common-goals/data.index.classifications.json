@@ -1313,15 +1313,6 @@
     "reasoning": "Content primarily discusses organizational goals and their importance in a Scrum context, lacking personal anecdotes or insights.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:11:27",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses Scrum goals, including Sprint Goals and Product Goals, which are central to the Scrum framework.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:11:28",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses organizational goals and Scrum roles, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:42:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content discusses the importance of understanding strategic goals within an organisation, which is relevant to Scrum principles, particularly in relation to Sprint Goals and Product Goals. The explicit mention of these Scrum-specific goals indicates a strong focus on Scrum practices. However, the overall discussion is broader and does not delve deeply into the Scrum framework or its roles and events, which slightly lowers the confidence score.",
+    "level": "Secondary"
   }
 }

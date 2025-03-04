@@ -350,15 +350,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T01:26:22",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses experiences and lessons learned while implementing Scrum, including roles, events, and challenges faced by the Scrum Team.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T02:06:51",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:51:56",
+    "ai_confidence": 85.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 50,
+    "final_score": 82.0,
+    "reasoning": "The content explicitly discusses Scrum practices, including the roles of the Scrum Master and Product Owner, and details a specific experience during a Sprint. It aligns well with Scrum principles, particularly around team dynamics and the importance of clear communication. The depth of discussion is significant, as it reflects on a real-world scenario involving misunderstandings within the Scrum framework, demonstrating both the challenges and learning opportunities inherent in Scrum implementation.",
+    "level": "Primary"
   }
 }

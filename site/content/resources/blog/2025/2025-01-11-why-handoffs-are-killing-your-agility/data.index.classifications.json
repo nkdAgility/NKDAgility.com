@@ -1331,15 +1331,6 @@
     "reasoning": "Content primarily discusses the issues and solutions related to handoffs in software development, focusing on Lean and Agile practices rather than the One Engineering System framework.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T08:55:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the importance of cross-functional teams and backlog refinement, which are relevant to Scrum practices, but the primary focus is on the concept of handoffs and their impact on agility rather than Scrum itself.",
-    "level": "Tertiary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-17T08:55:23",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the issues of handoffs in software development and Agile practices, without any mention or focus on Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:39:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 50,
+    "final_score": 43.0,
+    "reasoning": "The content discusses the negative impact of handoffs on agility and promotes cross-functional teams, which aligns with Scrum principles. However, it primarily focuses on Lean practices and does not delve deeply into Scrum-specific roles, events, or artifacts, leading to a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

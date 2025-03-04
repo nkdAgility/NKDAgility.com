@@ -1313,15 +1313,6 @@
     "reasoning": "Content heavily discusses product ownership and management within the context of Scrum, focusing on roles and responsibilities rather than psychological principles or theories related to motivation, engagement, or team dynamics.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:30:08",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the role of the product owner within the context of Scrum, detailing its importance and accountability in maximising value for the Scrum team. It also touches on Scrum principles and the iterative nature of product management, making Scrum a central theme.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:30:09",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses product ownership and management within the context of Scrum, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:45:55",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 40,
+    "non_ai_confidence": 50,
+    "final_score": 88.0,
+    "reasoning": "The content extensively discusses the role of the product owner within the Scrum framework, clearly defining it in relation to product management. It highlights key Scrum principles such as accountability, value maximisation, and iterative cycles, demonstrating a strong alignment with Scrum's core themes. The depth of discussion is significant, providing detailed insights into how product ownership operates within Scrum and its implications for agile product management.",
+    "level": "Primary"
   }
 }

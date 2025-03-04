@@ -27,8 +27,6 @@ tags:
 - Software Development
 categories:
 - Scrum
-- Engineering Excellence
-- Social Technologies
 preview: nkdAgility-habits-16x9-1280-2-2.jpg
 
 ---

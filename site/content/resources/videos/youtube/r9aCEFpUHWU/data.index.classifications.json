@@ -1313,15 +1313,6 @@
     "reasoning": "Content heavily discusses the role and competence of Scrum Masters in relation to team effectiveness and delivery, focusing on technical methodologies rather than psychological principles or theories related to motivation, engagement, or team dynamics.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:04:13",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the role and competence of Scrum Masters, emphasising their importance in facilitating team effectiveness and delivery within the Scrum framework.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:04:14",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the role and competence of Scrum Masters in team effectiveness, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:41:07",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 32,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses the role of Scrum Masters, emphasising their need for competence and understanding of the team's context, which aligns closely with Scrum principles. It highlights the importance of Scrum Masters in facilitating team effectiveness and delivering business value, reflecting core themes of the Scrum framework. The depth of discussion is significant, providing detailed insights into the impact of knowledgeable Scrum Masters on team performance and product delivery.",
+    "level": "Primary"
   }
 }

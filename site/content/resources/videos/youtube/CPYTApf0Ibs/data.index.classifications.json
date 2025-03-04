@@ -1313,15 +1313,6 @@
     "reasoning": "The content discusses the importance of shared understanding of product vision and strategic goals within teams, which relates to team dynamics and communication. However, it primarily focuses on Agile practices and methodologies rather than core psychological principles.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:38:04",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of shared understanding of product vision and goals within Agile teams, which is a significant aspect of Scrum practices, but it primarily focuses on general Agile principles rather than Scrum-specific roles, events, or artifacts.",
-    "level": "Tertiary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:38:06",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile transformation and team alignment with product vision and goals, with no mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:46:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of a clear product vision and strategic goals, which aligns with Scrum principles of transparency and team alignment. However, it does not explicitly mention Scrum roles, events, or artifacts, leading to a lower direct mention score. The depth of discussion on team dynamics and the need for alignment in decision-making reflects Scrum's emphasis on collaboration and self-organisation, contributing positively to the overall alignment and depth scores.",
+    "level": "Tertiary"
   }
 }

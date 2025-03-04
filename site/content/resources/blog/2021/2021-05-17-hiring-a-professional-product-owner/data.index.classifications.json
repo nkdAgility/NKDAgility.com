@@ -1331,15 +1331,6 @@
     "reasoning": "Content heavily discusses the role and responsibilities of a Product Owner within the Scrum framework, which is not aligned with the principles of the One Engineering System (1ES).",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-13T21:50:49",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the role and responsibilities of a Product Owner within the Scrum framework, including accountabilities, collaboration with Scrum Teams, and the importance of maximizing product value.",
-    "level": "Secondary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-13T21:50:51",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the role and responsibilities of a Product Owner in Scrum, with no mention of Artificial Intelligence or its integration within Agile methodologies or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:29:45",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content primarily focuses on the role and responsibilities of a Product Owner within the Scrum framework, discussing key accountabilities, necessary skills, and the importance of collaboration with Scrum Teams and stakeholders. It provides detailed insights into the Product Owner's role, aligning closely with Scrum principles and practices. The depth of discussion is significant, covering various aspects of the role and referencing the Scrum Guide, which enhances its relevance to the Scrum category.",
+    "level": "Primary"
   }
 }

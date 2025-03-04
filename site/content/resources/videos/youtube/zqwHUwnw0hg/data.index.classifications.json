@@ -1349,15 +1349,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events, which are not aligned with the principles of the One Engineering System framework.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:41:16",
-    "ai_confidence": 95,
-    "non_ai_confidence": 50,
-    "final_score": 90.0,
-    "reasoning": "Content primarily discusses the Professional Scrum Master course, focusing on the roles, responsibilities, and principles of Scrum, including empirical process control and the importance of delivering working increments.",
-    "level": "Primary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T10:41:18",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the role and responsibilities of a scrum master in Agile methodologies, with no mention of Artificial Intelligence or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:28:42",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses the role of the Scrum Master, the principles of Scrum, and the importance of effective team dynamics and collaboration. It provides detailed insights into the responsibilities of a Scrum Master, the theoretical foundations of the role, and practical applications within the Scrum framework. The discussion aligns closely with key topics such as team dynamics, empirical process control, and continuous improvement, demonstrating a strong focus on Scrum principles and practices.",
+    "level": "Primary"
   }
 }

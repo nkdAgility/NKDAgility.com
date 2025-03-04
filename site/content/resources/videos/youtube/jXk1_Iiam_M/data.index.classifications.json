@@ -1331,15 +1331,6 @@
     "reasoning": "The content discusses the role of Scrum Masters in facilitating learning and collaboration within teams, which relates to leadership practices, but the primary focus is on immersive learning techniques rather than leadership itself.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T15:33:36",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the role of immersive learning in enhancing the skills and effectiveness of Scrum Masters, focusing on practical applications of Scrum principles.",
-    "level": "Secondary"
-  },
   "Beta Codex": {
     "category": "Beta Codex",
     "calculated_at": "2025-02-17T15:33:38",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses immersive learning and Scrum Master training, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:53:40",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 36,
+    "ai_depth": 32,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on enhancing the role of Scrum Masters through immersive learning, which directly relates to Scrum principles and practices. It discusses the importance of understanding Scrum and the role of the Scrum Master, as well as practical assignments that align with Scrum practices, such as creating a definition of done. The depth of discussion is significant, providing examples and insights into how immersive learning can improve Scrum implementation within organisations. Overall, the content aligns well with the key topics of the Scrum category.",
+    "level": "Secondary"
   }
 }

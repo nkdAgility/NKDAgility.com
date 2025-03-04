@@ -350,15 +350,6 @@
     "reasoning": "The content discusses the TFS Event Handler, which relates to managing events in the application lifecycle, but it primarily focuses on specific technical implementations rather than the broader methodologies and practices of Application Lifecycle Management.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 30,
-    "non_ai_confidence": 50,
-    "final_score": 32.0,
-    "reasoning": "The content briefly mentions the Scrum environment in relation to email handlers but primarily focuses on TFS event handlers and their functionalities, which are not central to Scrum principles or practices.",
-    "level": "Quaternary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T01:11:11",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses TFS event handlers and their functionalities, with no clear focus on Artificial Intelligence or its integration within Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:50:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 50,
+    "final_score": 16.0,
+    "reasoning": "The content primarily discusses the TFS Event Handler and its functionalities, with only a brief mention of Scrum in the context of email handlers not working well in a Scrum environment. There is minimal direct discussion of Scrum roles, events, or principles, leading to a low confidence score.",
+    "level": "Quinary"
   }
 }

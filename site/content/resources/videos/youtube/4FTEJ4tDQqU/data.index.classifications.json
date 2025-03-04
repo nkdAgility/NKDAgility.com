@@ -557,15 +557,6 @@
     "reasoning": "Content heavily discusses Agile practices and personal experiences with Scrum and DevOps, without a clear focus on decision-making processes or decision theory principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:22:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the author's transition into the Agile and Scrum space, highlighting the relevance of Scrum in solving problems encountered in software development. However, it primarily focuses on DevOps and personal experiences, making Scrum a significant but secondary theme.",
-    "level": "Tertiary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T10:22:29",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile and DevOps practices without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:27:06",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 50,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the author's journey from traditional project management to Agile and Scrum, highlighting the importance of Scrum in solving organisational problems. While Scrum is mentioned and its principles are touched upon, the primary focus is on the broader Agile and DevOps practices, which dilutes the emphasis on Scrum specifically. The depth of discussion on Scrum is moderate, as it includes personal insights and experiences related to Scrum training, but it is not the central theme of the narrative.",
+    "level": "Secondary"
   }
 }

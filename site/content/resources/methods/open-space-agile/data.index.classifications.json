@@ -1331,15 +1331,6 @@
     "reasoning": "Content does not provide sufficient detail on Scrum, Kanban, Lean, or Agile practices, and primarily lists failures without elaboration on methodologies.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T17:29:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content does not primarily discuss Scrum principles, roles, or practices; it mentions some issues that could relate to Scrum but lacks depth and clarity on the topic.",
-    "level": "Ignored"
-  },
   "Beta Codex": {
     "category": "Beta Codex",
     "calculated_at": "2025-02-18T17:29:41",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile practices without any mention of AI or its integration within Agile methodologies.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:42:57",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions concepts related to Scrum, such as commitment and sprint goals, but lacks a detailed discussion on Scrum roles, events, or artifacts. The alignment with Scrum principles is minimal, and the depth of discussion is insufficient to warrant a higher score.",
+    "level": "Quaternary"
   }
 }

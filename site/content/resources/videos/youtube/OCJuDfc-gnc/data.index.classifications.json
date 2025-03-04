@@ -557,15 +557,6 @@
     "reasoning": "The content primarily promotes a Q&A session on various topics related to DevOps and Agility, without a focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "The content promotes an AMA session that discusses various topics including DevOps and Agility, not focusing primarily on Scrum.",
-    "level": "Ignored"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T11:22:30",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses general topics related to DevOps and Agile without a specific focus on Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:32:37",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content discusses Scrum explicitly, mentioning roles, events, and training related to Scrum. It also touches on scaling Scrum and adapting practices for virtual environments, which aligns with Scrum principles. However, while it provides a fair amount of detail, it also includes discussions on related topics like DevOps and metrics, which slightly detracts from its focus on Scrum alone.",
+    "level": "Secondary"
   }
 }

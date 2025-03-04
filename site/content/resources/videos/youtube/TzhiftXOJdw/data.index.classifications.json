@@ -1367,15 +1367,6 @@
     "reasoning": "Content primarily discusses the challenges and considerations of adopting Agile methodologies in traditional organisations, without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T20:59:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content discusses agility in a broad context and mentions Scrum only briefly at the end, making it not central to the main topic.",
-    "level": "Ignored"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:55:00",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile methodologies and the challenges traditional organisations face in adopting them, without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:21:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content discusses agility in a broad sense, touching on the challenges traditional organisations face when adopting agile methodologies. While it briefly mentions 'agile' and 'scrum' towards the end, the primary focus is on the general concept of agility rather than the specific principles, roles, or practices of Scrum. The discussion lacks depth in Scrum-specific topics such as roles, events, or artifacts, leading to a lower confidence score.",
+    "level": "Quaternary"
   }
 }

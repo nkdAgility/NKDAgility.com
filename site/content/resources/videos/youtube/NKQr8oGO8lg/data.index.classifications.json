@@ -1250,15 +1250,6 @@
     "reasoning": "Content primarily discusses immersive learning and its benefits for employees and organisations, without a focus on throughput or work completion rates.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T20:21:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses immersive learning and its benefits for individuals and organisations, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T20:21:08",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive learning and its benefits for career development and organisational change, with no clear focus on AI or its application in Agile, DevOps, or software development.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:20:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses immersive learning and its benefits for employees and organisations, with no direct mention of Scrum principles, roles, or events. While it touches on value delivery and practical knowledge, these concepts are not specifically aligned with Scrum's framework or practices. The discussion lacks depth regarding Scrum, making it a secondary topic at best.",
+    "level": "Quinary"
   }
 }

@@ -557,15 +557,6 @@
     "reasoning": "The content primarily discusses the structure and benefits of an Immersion Program for learning within a classroom environment, without a central focus on decision-making processes or decision theory principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:22:33",
-    "ai_confidence": 70,
-    "non_ai_confidence": 50,
-    "final_score": 68.0,
-    "reasoning": "The content primarily focuses on an 'Immersion Program' designed specifically for Professional Scrum training, including aspects of retrospectives, practical application, and involvement of a Professional Scrum Trainer which aligns with Scrum principles. However, it also includes a broader discussion on course formats and learning methodologies, leading to a slight deduction in confidence.",
-    "level": "Secondary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T10:22:33",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive learning programs and Scrum training, with no clear focus on Artificial Intelligence or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:27:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content discusses the Professional Scrum Product Owner Immersion program, which is directly related to Scrum principles and practices. It mentions Scrum roles, such as the Professional Scrum Trainer, and incorporates key Scrum concepts like retrospectives and real-world application of learning. The depth of discussion includes specific benefits and characteristics of the immersion program, aligning well with Scrum's focus on iterative learning and team collaboration. However, while Scrum is a significant focus, the content also includes broader educational themes, which slightly reduces the overall confidence score.",
+    "level": "Secondary"
   }
 }

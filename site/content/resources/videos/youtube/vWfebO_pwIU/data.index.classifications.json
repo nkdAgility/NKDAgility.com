@@ -557,15 +557,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events without focusing on decision-making processes or decision theory principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:22:07",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the role and journey of Scrum Masters, their certifications, and the motivations behind mastering Scrum, which aligns closely with Scrum principles and practices.",
-    "level": "Secondary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T10:22:07",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:25:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the role of Scrum Masters and their progression through certifications, which directly relates to Scrum principles. It highlights the importance of passion and continuous learning in the context of Scrum, aligning with the themes of team effectiveness and value generation. However, the discussion lacks depth on specific Scrum roles, events, or artifacts, and does not provide a comprehensive overview of the Scrum framework, which limits its overall alignment with the category.",
+    "level": "Secondary"
   }
 }

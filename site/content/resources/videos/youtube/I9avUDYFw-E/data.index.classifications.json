@@ -1313,15 +1313,6 @@
     "reasoning": "The content discusses the importance of competence, employee happiness, and creating supportive environments, which are relevant to organisational psychology. However, it primarily focuses on competence and learning rather than broader psychological principles or theories.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:04:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the importance of competence and creating a positive work environment, which is not directly related to Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:04:30",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the importance of competence and personal growth within organizations, without any mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:41:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content discusses the importance of competence and creating a supportive environment for individuals, which indirectly relates to team dynamics and self-organisation in Scrum. However, it does not explicitly mention Scrum principles, roles, events, or artifacts, nor does it delve into the Scrum framework or Agile principles. The focus is more on general organisational culture rather than specific Scrum practices.",
+    "level": "Quinary"
   }
 }

@@ -43,6 +43,7 @@ resourceTypes:
 - video
 categories:
 - Social Technologies
+- Scrum
 
 ---
 ## The Reality of Scrum Adoption 🤔  

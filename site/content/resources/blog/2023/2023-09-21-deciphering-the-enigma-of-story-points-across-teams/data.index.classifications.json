@@ -1331,15 +1331,6 @@
     "reasoning": "Content primarily discusses the use of Story Points in agile frameworks, particularly Scrum, without a clear focus on the One Engineering System or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Story Points in the context of agile frameworks like Scrum, highlighting their role in team discussions and backlog refinement, but it primarily focuses on metrics and value delivery rather than Scrum principles or practices.",
-    "level": "Tertiary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-17T09:08:34",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Story Points and Agile methodologies without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:18:09",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content discusses Story Points, a concept relevant to Scrum, particularly in the context of backlog refinement and team discussions. It aligns with Scrum principles by emphasising value delivery and team performance. However, it does not delve deeply into the Scrum framework itself, such as roles or events, which limits its depth of discussion. The focus on metrics like throughput and value, while important, shifts slightly away from core Scrum practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   }
 }

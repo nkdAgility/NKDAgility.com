@@ -1349,15 +1349,6 @@
     "reasoning": "Content primarily discusses training formats and learning efficiencies, with no clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T08:28:52",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses training formats and continuous learning, which are relevant to Agile principles, including Scrum, but does not primarily focus on Scrum itself.",
-    "level": "Tertiary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T08:28:56",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses training formats and learning processes, with no clear focus on Artificial Intelligence or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:26:51",
+    "ai_confidence": 68.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the format of training sessions for a Product Owner class, which aligns with Scrum principles, particularly in relation to iterative learning and team collaboration. However, it does not explicitly mention Scrum roles or events, leading to a moderate confidence score. The depth of discussion on the training format and its benefits for team dynamics contributes positively, but the lack of direct references to Scrum limits the overall alignment.",
+    "level": "Secondary"
   }
 }

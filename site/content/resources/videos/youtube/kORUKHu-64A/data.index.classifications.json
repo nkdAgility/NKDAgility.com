@@ -1367,15 +1367,6 @@
     "reasoning": "Content heavily discusses Scrum roles and governance, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T17:05:43",
-    "ai_confidence": 70,
-    "non_ai_confidence": 50,
-    "final_score": 68.0,
-    "reasoning": "The content discusses governance in the context of Scrum, addressing common myths and the balance of governance within Scrum practices. While it primarily focuses on governance, it relates closely to Scrum principles, making it a significant theme.",
-    "level": "Secondary"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:48:33",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and governance, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:15:46",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 66.0,
+    "reasoning": "The content discusses governance in the context of Scrum, addressing common myths and the balance between governance and agility. It mentions Scrum principles and how they relate to external and internal governance, which aligns with Scrum's emphasis on minimising unnecessary processes. However, while it touches on Scrum concepts, the depth of discussion is more focused on governance rather than the core Scrum framework, roles, or events, leading to a moderate confidence score.",
+    "level": "Secondary"
   }
 }

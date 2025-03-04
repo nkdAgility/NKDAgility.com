@@ -1313,15 +1313,6 @@
     "reasoning": "Content heavily discusses technical aspects of DevOps migration and software engineering processes, with no focus on psychological principles or theories related to organisational behaviour.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:03:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses data migration and the management of downtime, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:03:47",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses data migration strategies and the impact on software engineers, with no clear focus on AI applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:40:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses data migration and the challenges associated with downtime during such processes. While it touches on collaboration among engineers, it does not explicitly mention Scrum principles, roles, events, or artifacts. The focus is on technical aspects of data management rather than Scrum practices, leading to a low confidence score.",
+    "level": "Quinary"
   }
 }

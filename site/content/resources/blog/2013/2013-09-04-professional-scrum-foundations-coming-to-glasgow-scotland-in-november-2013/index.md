@@ -43,7 +43,6 @@ tags:
 - Software Developers
 categories:
 - Scrum
-- Social Technologies
 preview: PSF_Badges-2-2.png
 
 ---

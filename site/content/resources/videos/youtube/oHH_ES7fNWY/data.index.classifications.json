@@ -44,15 +44,6 @@
     "reasoning": "Content primarily discusses configuring email for an application, which is not related to product management strategies or methodologies.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:47:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about configuring emails for an application and does not discuss Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
     "calculated_at": "2025-02-18T13:07:36",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring email for an application, which is unrelated to AI, Agile, or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:38:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on configuring email notifications for a release management system using Office 365. There are no direct mentions of Scrum principles, roles, events, or any related concepts. The discussion does not align with the core themes of Scrum, such as team dynamics, iterative progress, or continuous improvement. The depth of discussion is limited to technical configuration details, which are unrelated to Scrum.",
     "level": "Ignored"
   }
 }

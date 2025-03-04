@@ -1367,15 +1367,6 @@
     "reasoning": "Content primarily discusses the assessment phase of consulting engagements and personal experiences in DevOps, without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T21:56:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the assessment phase of consulting engagements and does not focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:56:38",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the assessment phase of consulting engagements and does not focus on Artificial Intelligence or its application in Agile, DevOps, or software development.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:22:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Agile and Scrum in the context of consulting engagements but does not focus on Scrum principles, roles, or events. The discussion is more centred around assessment phases and customer engagement rather than the Scrum framework itself.",
+    "level": "Quaternary"
   }
 }

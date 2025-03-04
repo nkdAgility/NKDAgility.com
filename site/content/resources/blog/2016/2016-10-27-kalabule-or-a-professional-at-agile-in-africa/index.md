@@ -33,6 +33,7 @@ tags:
 - Organisational Culture
 categories:
 - Social Technologies
+- Scrum
 preview: clip_image001-2-2.png
 
 ---

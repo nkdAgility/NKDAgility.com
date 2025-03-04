@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the features and improvements of Team Foundation Server 2013 Update 2, which are directly related to application lifecycle management, including backlog management, test management, release management, and version management. It also touches on the upgrade process, which is a critical aspect of managing the application lifecycle.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T11:03:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the features and updates of Team Foundation Server 2013 Update 2, with no clear focus on Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T11:12:07",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and updates of Team Foundation Server 2013 Update 2, with no mention of Artificial Intelligence or its application in Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:37:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the features and updates of Team Foundation Server (TFS) 2013 Update 2, with a focus on backlog management, test management, release management, and version management. While TFS can be used in Scrum environments, the content does not explicitly mention Scrum roles, events, or principles, nor does it delve into the Scrum framework or its implementation. Therefore, the alignment with the Scrum category is minimal.",
+    "level": "Quinary"
   }
 }

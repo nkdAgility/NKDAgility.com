@@ -8,15 +8,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-25T12:12:24",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the role and importance of the Scrum Master within the Scrum framework, addressing misconceptions and the necessary experience for effective Scrum Mastery.",
-    "level": "Secondary"
-  },
   "DevOps": {
     "category": "DevOps",
     "calculated_at": "2025-02-25T12:12:25",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the role and importance of Scrum Masters, focusing on Scrum practices rather than asynchronous development.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:37:49",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 34,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content primarily focuses on the role of the Scrum Master, discussing the misconceptions around the idea of a 'junior Scrum Master' and emphasising the need for expertise and understanding within the Scrum framework. It directly mentions Scrum principles and roles multiple times, aligning well with the core themes of the category. The depth of discussion is substantial, providing insights into the responsibilities and expectations of a Scrum Master, as well as the importance of team dynamics and organisational context. Overall, the content is highly relevant to Scrum, justifying a high confidence score.",
+    "level": "Primary"
   }
 }

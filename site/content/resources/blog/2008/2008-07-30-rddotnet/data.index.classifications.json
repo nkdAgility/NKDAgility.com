@@ -62,15 +62,6 @@
     "reasoning": "Content primarily discusses the setup of a personal site for hosting applications and tools, with no focus on events or presentations.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T12:33:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal website and tools related to ClickOnce applications and TFS, with no clear focus on Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Resilience and Change": {
     "category": "Resilience and Change",
     "calculated_at": "2025-02-16T12:33:07",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the setup of a website for hosting applications and tools, with no mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:58:56",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content does not explicitly mention Scrum or its principles, roles, events, or artifacts. It focuses on a personal project related to hosting applications and tools, which does not align with the core themes of Scrum. There is minimal conceptual alignment, as the content does not discuss Agile principles or team dynamics. The depth of discussion regarding Scrum is non-existent, leading to a very low confidence score.",
     "level": "Ignored"
   }
 }

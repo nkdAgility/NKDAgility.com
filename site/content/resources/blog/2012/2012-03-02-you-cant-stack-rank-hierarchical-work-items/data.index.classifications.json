@@ -350,15 +350,6 @@
     "reasoning": "The content discusses aspects of managing work items and their relationships within a software development context, which relates to application lifecycle management, but it primarily focuses on specific practices rather than the broader lifecycle stages.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T20:52:12",
-    "ai_confidence": 70,
-    "non_ai_confidence": 50,
-    "final_score": 68.0,
-    "reasoning": "The content discusses Product Backlog Items (PBIs) and their relationships, which are key components of the Scrum framework, indicating a significant focus on Scrum practices.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T00:56:34",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses hierarchical work items and project management without any mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:45:44",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the ordering of Product Backlog Items (PBIs) and the implications of hierarchical relationships within Scrum artefacts, which aligns with Scrum principles. However, it lacks a comprehensive exploration of Scrum roles, events, or broader Agile principles, resulting in a moderate confidence score.",
+    "level": "Secondary"
   }
 }

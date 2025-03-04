@@ -1331,15 +1331,6 @@
     "reasoning": "The content does not provide any substantial discussion or information related to Social Technologies or its key topics; it is merely a placeholder text.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T17:27:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content does not provide any substantial information or discussion related to Scrum principles, practices, or frameworks. It is too vague and lacks relevant details to classify it under the Scrum category.",
-    "level": "Ignored"
-  },
   "Beta Codex": {
     "category": "Beta Codex",
     "calculated_at": "2025-02-18T17:27:06",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not discuss AI or its applications in Agile, DevOps, or software development; it is too vague and lacks relevant information.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:42:24",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content does not explicitly mention any Scrum principles, roles, or events. It lacks detail and context related to Scrum, making it difficult to classify it as relevant to the category. The title 'Continuous Improvement' suggests a potential connection, but without further elaboration, it does not meet the criteria for a meaningful discussion on Scrum.",
     "level": "Ignored"
   }
 }

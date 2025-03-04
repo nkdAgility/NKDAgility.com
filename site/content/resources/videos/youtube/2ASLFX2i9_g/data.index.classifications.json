@@ -1367,15 +1367,6 @@
     "reasoning": "Content heavily discusses Agile practices and issues related to backlog management, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T17:14:54",
-    "ai_confidence": 80,
-    "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "Content primarily discusses issues related to product backlogs and Sprint planning, which are central to the Scrum framework.",
-    "level": "Secondary"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:49:53",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile practices and the concept of gluttony in backlog management, with no mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:17:09",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 30,
+    "final_score": 73.0,
+    "reasoning": "The content discusses Scrum principles, particularly focusing on the product backlog and Sprint planning, which are key components of the Scrum framework. It highlights issues related to backlog management and the implications of overcommitting during Sprints, aligning well with Scrum practices. The depth of discussion is substantial, providing examples and insights into common pitfalls teams face in Scrum. However, while Scrum is a significant focus, the content also touches on broader Agile concepts, which slightly dilutes its primary alignment with Scrum.",
+    "level": "Secondary"
   }
 }

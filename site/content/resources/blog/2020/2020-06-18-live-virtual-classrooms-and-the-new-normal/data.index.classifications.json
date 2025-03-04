@@ -350,15 +350,6 @@
     "reasoning": "Content heavily focuses on virtual training and the experiences of conducting classes online, with a secondary mention of Scrum and Agile without clear relevance to Application Lifecycle Management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:08:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "While the content primarily discusses the shift to virtual training and its impacts, it does make references to Scrum and Agile concepts, suggesting that these methodologies can be effectively taught in a virtual environment, which is a significant but secondary theme.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T20:52:14",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the transition to virtual training and the effectiveness of online learning, with no clear focus on AI applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:31:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the transition to Live Virtual Classrooms in the context of Scrum training, highlighting the importance of communication and collaboration, which are core principles of Scrum. It mentions Scrum.org and references the concept of co-location, which is relevant to Scrum practices. However, while it touches on Scrum principles, the focus is more on the delivery method rather than an in-depth exploration of Scrum roles, events, or artifacts. Therefore, while it aligns well with Scrum, it does not provide extensive detail on the framework itself.",
+    "level": "Secondary"
   }
 }

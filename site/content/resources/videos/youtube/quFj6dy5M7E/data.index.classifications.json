@@ -1313,15 +1313,6 @@
     "reasoning": "Content primarily discusses the technical aspects and requirements of building a high performance delivery engine, with a focus on Agile, DevOps, and Lean methodologies, rather than personal experiences or reflections.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T11:59:58",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content mentions Scrum as part of a broader discussion on Agile methodologies and team dynamics, but it does not focus primarily on Scrum principles or practices.",
-    "level": "Tertiary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:00:02",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses team competence, Agile methodologies, and delivery processes without a clear focus on the application of AI.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:39:53",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 30,
+    "final_score": 59.0,
+    "reasoning": "The content briefly mentions Scrum alongside other frameworks like Agile and DevOps, indicating some awareness of Scrum principles. However, it does not delve deeply into specific Scrum roles, events, or artifacts, which are crucial for a strong alignment with the Scrum category. The discussion focuses more on general team dynamics and competencies rather than the structured practices of Scrum, leading to a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

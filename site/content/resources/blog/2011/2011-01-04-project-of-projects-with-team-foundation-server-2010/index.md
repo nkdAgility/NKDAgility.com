@@ -32,7 +32,7 @@ tags:
 categories:
 - DevOps
 - Engineering Excellence
-- Scrum
+- Social Technologies
 preview: metro-visual-studio-2010-128-link-8-8.png
 
 ---

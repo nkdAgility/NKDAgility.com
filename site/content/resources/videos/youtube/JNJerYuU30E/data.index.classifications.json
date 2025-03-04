@@ -557,15 +557,6 @@
     "reasoning": "Content primarily discusses the influence of an individual in Agile and Scrum contexts, focusing on coaching and consulting rather than decision-making processes.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T08:37:35",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Agile and Scrum in the context of influential figures and training, making it a significant but secondary theme rather than the primary focus.",
-    "level": "Tertiary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T08:37:35",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile methodologies and influential figures in Agile, with no mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:24:35",
+    "ai_confidence": 55.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 30,
+    "final_score": 52.0,
+    "reasoning": "The content mentions Scrum indirectly through the reference to a PST (Professional Scrum Trainer) and the sharing of experiences related to Scrum practices. However, it lacks a detailed discussion of Scrum roles, events, or artifacts, which are central to the category. The focus is more on mentorship and community rather than the specific principles and practices of Scrum.",
+    "level": "Tertiary"
   }
 }

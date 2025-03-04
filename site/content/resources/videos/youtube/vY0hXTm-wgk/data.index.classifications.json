@@ -557,15 +557,6 @@
     "reasoning": "Content heavily discusses training and coaching in Scrum without a focus on decision-making processes, heuristics, or uncertainty.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:35:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses a Professional Scrum Training course, indicating a focus on Scrum principles and practices, but is primarily about the training format and services offered.",
-    "level": "Tertiary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T11:35:57",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum training and methodologies without any mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:29:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 50,
+    "final_score": 34.0,
+    "reasoning": "The content briefly mentions Scrum in the context of a community and training but lacks a detailed discussion on Scrum principles, roles, or events. The focus is more on a flipped learning approach and general agile practices rather than specific Scrum methodologies.",
+    "level": "Quaternary"
   }
 }

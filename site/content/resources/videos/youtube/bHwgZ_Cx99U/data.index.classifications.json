@@ -8,15 +8,6 @@
     "reasoning": "Content primarily discusses scaling teams and improving delivery without a focus on Kanban principles or practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-25T12:16:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses scaling teams and improving delivery in a DevOps context, with no clear focus on Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
     "calculated_at": "2025-02-25T12:16:18",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses scaling teams and the challenges of coordination, without a focus on asynchronous development principles or practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:37:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the challenges of scaling teams and the importance of team alignment, which indirectly relates to Scrum principles such as team dynamics and continuous improvement. However, it does not explicitly mention Scrum roles, events, or artifacts, leading to a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

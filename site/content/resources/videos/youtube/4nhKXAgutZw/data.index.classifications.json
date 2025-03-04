@@ -1349,15 +1349,6 @@
     "reasoning": "The content discusses the importance of kindness and empathy within an organisation, which aligns with human-centric approaches to leadership and team dynamics. However, it primarily focuses on customer and employee relationships rather than the broader principles of BetaCodex.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T14:51:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the virtue of kindness in the context of agility and customer focus, without a clear emphasis on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Social Technologies": {
     "category": "Social Technologies",
     "calculated_at": "2025-02-17T14:51:41",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the importance of kindness and empathy in Agile practices, without any mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:52:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of kindness and empathy in an agile context, which aligns with some agile principles, such as customer collaboration and team dynamics. However, it does not explicitly mention Scrum roles, events, or artifacts, nor does it delve deeply into Scrum practices. The focus is more on general agile virtues rather than the specific framework of Scrum.",
+    "level": "Quaternary"
   }
 }

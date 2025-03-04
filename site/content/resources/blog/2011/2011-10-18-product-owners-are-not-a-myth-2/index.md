@@ -39,8 +39,6 @@ tags:
 - Professional Scrum
 categories:
 - Scrum
-- Product Management
-- Social Technologies
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

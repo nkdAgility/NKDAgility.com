@@ -350,15 +350,6 @@
     "reasoning": "Content heavily discusses Scrum practices and principles, focusing on workflow and team dynamics rather than the overall management of the application lifecycle.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T18:42:40",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses Scrum principles, particularly the flow of work across Sprint boundaries, while also addressing Scrum roles, events, and the importance of maintaining the Sprint Goal.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T18:42:49",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum practices and methodologies without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:33:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content extensively discusses Scrum principles, particularly the flexibility of work across Sprint boundaries, which is a nuanced interpretation of Scrum practices. It mentions key Scrum roles, events, and the importance of maintaining a Done Increment, aligning well with the core themes of the Scrum framework. However, it also references Kanban, which slightly detracts from its focus on Scrum alone, affecting the overall confidence score.",
+    "level": "Secondary"
   }
 }

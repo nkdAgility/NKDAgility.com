@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses a specific issue related to TFS check-in failures and conflict resolution, without addressing broader application lifecycle management practices or methodologies.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T19:39:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to TFS check-in failures and conflict resolution, with no mention of Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T21:05:11",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses TFS check-in failures and conflict resolution, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:43:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses TFS (Team Foundation Server) integration issues and conflict resolution, with no direct references to Scrum principles, roles, events, or practices. While there may be a tangential connection to project management, it does not align with the core themes of Scrum, nor does it provide any depth on Scrum-related topics.",
     "level": "Ignored"
   }
 }

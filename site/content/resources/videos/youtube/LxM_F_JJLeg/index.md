@@ -43,6 +43,7 @@ resourceTypes:
 - video
 categories:
 - Social Technologies
+- Scrum
 
 ---
 I often find myself reflecting on a saying that resonates deeply with my experiences in the agile world: "Don't attribute to malevolence what can be explained by incompetence." This phrase has become a guiding principle for me, especially when navigating the complexities of organisational dynamics as an agile coach, Scrum Master, or product owner.

@@ -557,15 +557,6 @@
     "reasoning": "Content primarily discusses organizational change and scaling in software delivery, with no focus on decision-making processes or decision theory principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses the challenges of scaling agile practices in organizations but does not focus explicitly on Scrum principles, roles, events, or artifacts. Instead, it seems to address broader themes of agility and business transformation.",
-    "level": "Ignored"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T11:22:29",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses organisational change and scaling agile practices, with no clear focus on Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:32:35",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 50,
+    "final_score": 28.0,
+    "reasoning": "The content discusses various aspects of project management and agile methodologies, including Scrum principles, but lacks a focused and coherent discussion specifically on Scrum. While there are mentions of Scrum roles and frameworks, the overall content is more of a general discussion on agile practices and challenges rather than a dedicated exploration of Scrum itself.",
+    "level": "Quaternary"
   }
 }

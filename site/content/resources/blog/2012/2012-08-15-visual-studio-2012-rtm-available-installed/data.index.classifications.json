@@ -350,15 +350,6 @@
     "reasoning": "The content discusses the installation and upgrade process of Visual Studio 2012 and Team Foundation Server, which are tools related to Application Lifecycle Management. However, the primary focus is on the installation experiences rather than a comprehensive discussion of ALM methodologies or practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T19:48:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the installation and features of Visual Studio 2012 and Team Foundation Server, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T23:39:08",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and features of Visual Studio 2012 and Team Foundation Server, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:44:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Visual Studio 2012 and Team Foundation Server, with no direct mention of Scrum roles, events, or principles. While it touches on agile processes, it does not delve into Scrum-specific practices or frameworks, leading to a low confidence score.",
+    "level": "Quinary"
   }
 }

@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the structure and management of projects within a version control system, which aligns with the principles of Application Lifecycle Management, particularly in the context of development, deployment, and maintenance stages.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses branching strategies for Scrum teams and mentions Scrum in the context of version control and project management, but it is primarily focused on file layout and version control practices.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T00:54:29",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses file organisation and version control in software development, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:50:43",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 50,
+    "final_score": 65.0,
+    "reasoning": "The content briefly mentions Scrum in the context of branching strategies for Scrum teams, indicating some relevance to Scrum practices. However, the primary focus is on file structure and version control rather than a detailed discussion of Scrum principles, roles, or events. The depth of discussion on Scrum is moderate, as it touches on the implications of having multiple Scrum teams but lacks comprehensive coverage of Scrum's core themes.",
+    "level": "Secondary"
   }
 }

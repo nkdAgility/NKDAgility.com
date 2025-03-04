@@ -1313,15 +1313,6 @@
     "reasoning": "Content primarily discusses the concept of Service Level Expectation (SLE) within Scrum, focusing on its definition, calculation, and application, without personal reflections or experiences.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:11:43",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the Service Level Expectation (SLE) within the context of a Scrum Team's workflow, focusing on inspection and adaptation, which are key Scrum principles.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:11:44",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events without any mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:42:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses the concept of Service Level Expectation (SLE) within the context of a Scrum Team's workflow, highlighting its role in inspecting and adapting processes. It aligns well with Scrum principles, particularly in terms of transparency and continuous improvement. However, while it provides a good level of detail about SLE, it does not delve deeply into other Scrum roles or events, which slightly limits the depth of discussion.",
+    "level": "Secondary"
   }
 }

@@ -1331,15 +1331,6 @@
     "reasoning": "Content heavily discusses backlog management and Agile methodologies, with no clear focus on platform engineering or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T13:13:26",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses backlog management within the context of Scrum, including the importance of a flat backlog structure and its implications for team dynamics and value delivery.",
-    "level": "Secondary"
-  },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-17T13:13:30",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses backlog management and Agile methodologies without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:47:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content discusses backlog management, which is a crucial aspect of Scrum, particularly in relation to the Product Backlog. It mentions the importance of ordering backlog items and the implications of hierarchy, which aligns with Scrum principles. However, while it touches on Scrum concepts, it also incorporates broader agile principles and tools, which dilutes its focus on Scrum specifically. The depth of discussion on Scrum roles and events is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   }
 }

@@ -305,15 +305,6 @@
     "reasoning": "Content primarily discusses Kanban as a tool for transparency and continuous improvement, without a clear focus on the Agile Product Operating Model or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T13:10:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban, which is unrelated to Scrum principles and practices.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
     "calculated_at": "2025-02-17T13:10:50",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Kanban as a tool for process transparency and improvement, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:46:51",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses Kanban, which is unrelated to Scrum. There are no direct mentions of Scrum roles, events, or principles, and the focus is on a different framework. The only slight alignment is the mention of transparency and continuous improvement, which are also relevant in Scrum, but this is insufficient to classify the content under the Scrum category.",
     "level": "Ignored"
   }
 }

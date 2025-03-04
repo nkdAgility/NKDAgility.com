@@ -34,6 +34,7 @@ resourceTypes:
 - video
 categories:
 - Social Technologies
+- Scrum
 
 ---
 Many of you have asked,  "How did I become the third Scrum training provider for Microsoft?"

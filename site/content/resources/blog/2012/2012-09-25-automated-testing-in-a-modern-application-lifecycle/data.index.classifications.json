@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the role of automated testing within the context of the application lifecycle, highlighting its importance in ensuring quality and efficiency throughout the development and deployment stages.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T17:01:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "The content primarily discusses automated testing in software development and does not focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T17:01:54",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses automated testing in software development without a clear focus on the application of AI in Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:43:05",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 50,
+    "final_score": 28.0,
+    "reasoning": "The content primarily focuses on automated testing within a modern application lifecycle, which is not directly related to Scrum principles or practices. While it briefly touches on the importance of delivering working software and mentions team dynamics in the context of development teams, it lacks explicit discussions on Scrum roles, events, or artifacts. The depth of discussion on automated testing is significant, but it does not align closely with the core themes of Scrum, leading to a low confidence score.",
+    "level": "Quaternary"
   }
 }

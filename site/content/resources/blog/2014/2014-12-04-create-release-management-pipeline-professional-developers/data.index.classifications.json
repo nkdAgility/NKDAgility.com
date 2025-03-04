@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the creation of a Release Management pipeline, which is a key aspect of Application Lifecycle Management. It covers stages such as deployment, integration with tools like Team Foundation Server, and the use of automated processes, aligning well with ALM principles.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses team dynamics and roles such as the Development Team and Product Owner, which are relevant to Scrum, but the primary focus is on Release Management and DevOps practices.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T23:44:17",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation of a Release Management pipeline and DevOps practices without any mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:35:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline and discusses DevOps practices rather than Scrum principles. While it briefly mentions the Development Team and Product Owner roles, it lacks a comprehensive discussion of Scrum events, artifacts, or the Scrum framework itself. The content does not delve into iterative progress or continuous improvement in the context of Scrum, which diminishes its alignment with the category.",
+    "level": "Quaternary"
   }
 }

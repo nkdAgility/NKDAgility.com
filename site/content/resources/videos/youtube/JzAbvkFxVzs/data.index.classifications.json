@@ -1349,15 +1349,6 @@
     "reasoning": "Content primarily discusses dogma in Agile practices and the importance of pragmatism in Scrum, without a clear focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T14:37:29",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the principles of Scrum, particularly the importance of pragmatism over dogma in Scrum practices, and provides a specific example related to Scrum roles and team dynamics.",
-    "level": "Secondary"
-  },
   "Social Technologies": {
     "category": "Social Technologies",
     "calculated_at": "2025-02-17T14:37:30",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile practices and the importance of pragmatism in Scrum, with no mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:51:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 65.0,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content discusses Scrum principles, particularly the role of the Scrum Master and the importance of flexibility in Scrum practices. It highlights a specific incident involving a Scrum Master and the implications of dogmatic adherence to Scrum rules, which aligns well with the core themes of Scrum. However, while it mentions Scrum explicitly and provides a relevant example, the overall focus is more on the critique of dogma in Agile rather than a comprehensive exploration of Scrum itself. This results in a moderately high confidence score.",
+    "level": "Secondary"
   }
 }

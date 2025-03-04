@@ -323,15 +323,6 @@
     "reasoning": "Content primarily discusses the importance of continuous learning and personal development, with no clear focus on Agile principles or the Agile Product Operating Model.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T14:39:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses continuous learning and personal development, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
     "calculated_at": "2025-02-17T14:39:28",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of continuous learning and personal development, with no direct relation to AI, Agile methodologies, or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:51:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content does not mention Scrum or its principles, roles, or practices. It focuses on continuous learning and personal development, which are not directly related to Scrum methodologies or frameworks. The discussion lacks any alignment with Scrum's core themes, and there is minimal depth regarding project management or team dynamics.",
     "level": "Ignored"
   }
 }

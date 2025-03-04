@@ -26,7 +26,6 @@ card:
   title: 
 categories:
 - Scrum
-- Social Technologies
 tags:
 - Definition of Done
 

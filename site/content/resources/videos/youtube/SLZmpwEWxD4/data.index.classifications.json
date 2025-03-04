@@ -1331,15 +1331,6 @@
     "reasoning": "Content primarily discusses Kanban strategy and visualisation techniques, with no clear focus on platform engineering or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T13:13:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "The content primarily discusses Kanban strategies and does not focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-17T13:13:44",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Kanban strategy and team collaboration without any mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:48:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 50,
+    "final_score": 16.0,
+    "reasoning": "The content primarily focuses on Kanban strategies and does not discuss Scrum principles, roles, or events in any meaningful way. While it briefly mentions Scrum in the context of recommending flow metrics, this is not a primary focus and lacks depth. The overall discussion is centred around visualising work in a Kanban context, which is unrelated to the Scrum framework.",
+    "level": "Quinary"
   }
 }

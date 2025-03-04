@@ -53,15 +53,6 @@
     "reasoning": "The content discusses the importance of culture in scaling organisations, which is a significant aspect of leadership, but it primarily focuses on cultural issues rather than direct leadership practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-20T18:14:25",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the importance of culture in scaling teams and mentions Scrum in the context of tools, indicating that Scrum is a significant theme but not the primary focus.",
-    "level": "Tertiary"
-  },
   "MVP": {
     "category": "MVP",
     "calculated_at": "2025-02-20T20:03:39",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the importance of culture in scaling technology and Agile practices, without any mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:37:54",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 30,
+    "final_score": 41.0,
+    "reasoning": "The content briefly mentions Scrum in the context of daily scrums and tools like JIRA, but it primarily focuses on the cultural aspects of scaling technology rather than the Scrum framework itself. While there is some alignment with Scrum principles regarding collaboration and continuous improvement, the depth of discussion on Scrum-specific roles, events, or artifacts is minimal.",
+    "level": "Tertiary"
   }
 }

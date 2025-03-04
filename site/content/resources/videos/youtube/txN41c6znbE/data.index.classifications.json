@@ -1313,15 +1313,6 @@
     "reasoning": "The content discusses the competence crisis within Agile roles, touching on themes of leadership, team dynamics, and the importance of continuous learning, which are relevant to organisational psychology. However, the primary focus is on Agile methodologies and hiring practices rather than a deep exploration of psychological principles or theories.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:04:35",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the role of Scrum Masters, the importance of competence in Agile practices, and the systemic issues within organizations regarding the hiring and effectiveness of Scrum roles, making Scrum a central theme.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:04:39",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile methodologies and the competence crisis within Scrum roles, with no mention of Artificial Intelligence or its application in Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:41:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses the role of Scrum Masters, the importance of competence in Agile practices, and the systemic issues within organisations regarding the hiring and understanding of Scrum roles. It directly mentions Scrum multiple times, particularly in relation to the qualifications and expectations of Scrum Masters. The discussion aligns well with Scrum principles, especially regarding team dynamics and continuous improvement, although it also critiques broader Agile practices. The depth of the discussion is significant, providing detailed insights into the challenges faced by Scrum Masters and the competencies required for effective Scrum implementation.",
+    "level": "Secondary"
   }
 }

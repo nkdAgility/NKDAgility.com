@@ -41,8 +41,8 @@ tags:
 - Agile Strategy
 categories:
 - Leadership
-- Social Technologies
 - Scrum
+- Social Technologies
 preview: images/Professional-Agile-Leadership-Evidence-Based-Management-6-6.jpg
 
 ---

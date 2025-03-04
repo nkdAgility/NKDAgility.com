@@ -557,15 +557,6 @@
     "reasoning": "Content primarily discusses the historical context and criticisms of management practices rather than focusing on decision-making processes in uncertain environments.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:22:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content mainly discusses the historical context of management practices and critiques current agile adoption, without focusing primarily on Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T11:22:32",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses historical management practices and Agile adoption, with no focus on AI applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:32:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content discusses various aspects of Scrum, including the importance of short iterations, the role of the backlog, and the significance of retrospectives. It also critiques the misapplication of Agile principles in organisations, which aligns with Scrum's emphasis on iterative progress and continuous improvement. However, while Scrum is a primary focus, the content also diverges into broader Agile discussions and historical context, which slightly dilutes its direct focus on Scrum.",
+    "level": "Secondary"
   }
 }

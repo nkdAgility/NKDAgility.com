@@ -557,15 +557,6 @@
     "reasoning": "Content heavily discusses Scrum principles and rituals rather than decision-making processes in uncertain environments.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:21:37",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses Scrum principles, emphasizing the foundational aspects of Scrum rather than just the rituals or events.",
-    "level": "Secondary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T10:21:37",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum principles and practices without any mention of AI or its application in Agile methodologies.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:25:01",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses Scrum principles and critiques the overemphasis on its mechanics, indicating a strong focus on the core themes of Scrum. It aligns well with the conceptual framework of Scrum, particularly in terms of empirical process control and continuous improvement. However, while it provides a thoughtful perspective, it lacks detailed exploration of specific Scrum roles, events, or artifacts, which slightly lowers the depth score.",
+    "level": "Secondary"
   }
 }

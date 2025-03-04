@@ -323,15 +323,6 @@
     "reasoning": "Content primarily discusses the agility of project ecosystems and the need for automation, without focusing on specific products, books, or methodologies related to Agile or DevOps.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:31:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses agility in project ecosystems but does not focus specifically on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-02-17T12:31:56",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile methodologies and the need for automation, but does not specifically address the role of AI in these processes.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:46:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content briefly touches on agile principles and the importance of reducing bureaucracy, which aligns with Scrum's emphasis on delivering value and shortening feedback loops. However, it does not explicitly mention Scrum roles, events, or artifacts, leading to a lower confidence score.",
+    "level": "Quaternary"
   }
 }

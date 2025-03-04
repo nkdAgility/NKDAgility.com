@@ -1313,15 +1313,6 @@
     "reasoning": "Content primarily discusses Agile practices and scope creep without personal anecdotes or reflections.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T11:59:50",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and the importance of adapting to change, which are relevant to Scrum, but it primarily focuses on scope creep and product delivery rather than specific Scrum roles, events, or artifacts.",
-    "level": "Tertiary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T11:59:52",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile methodologies and scope creep without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:39:50",
+    "ai_confidence": 72.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses Agile principles and the importance of adapting to change, which aligns with Scrum's emphasis on iterative progress and delivering value. However, it does not explicitly mention Scrum roles, events, or artifacts, which limits its depth in the specific Scrum framework. The focus on scope creep and value delivery indicates a conceptual understanding of Agile methodologies, but the lack of direct references to Scrum practices reduces the overall confidence score.",
+    "level": "Secondary"
   }
 }

@@ -1349,15 +1349,6 @@
     "reasoning": "Content primarily focuses on VSTS Sync Migration Tools and their installation and configuration, with no clear discussion on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:15:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on VSTS Sync Migration Tools and does not discuss Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T11:15:52",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses VSTS Sync Migration Tools without any mention of AI or its application in Agile, DevOps, or software development.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:33:23",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 50,
+    "final_score": 18.0,
+    "reasoning": "The content primarily focuses on VSTS sync migration tools and their functionalities, with only a brief mention of migrating from the agile template in TFS to the scrum template. While it touches on some concepts related to Scrum, such as work item types and templates, it lacks a comprehensive discussion of Scrum principles, roles, events, or practices. Therefore, it does not align well with the Scrum category.",
+    "level": "Quinary"
   }
 }

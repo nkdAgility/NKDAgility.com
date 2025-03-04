@@ -350,15 +350,6 @@
     "reasoning": "The content discusses the integration of SharePoint 2013 with Team Foundation Server 2012, which relates to the deployment and configuration stages of the application lifecycle. However, it primarily focuses on installation and setup rather than broader ALM practices or methodologies.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the integration of SharePoint with Team Foundation Server and mentions Scrum dashboards, indicating that Scrum is a significant but secondary theme.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T16:35:10",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration of SharePoint 2013 with Team Foundation Server 2012, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:42:50",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 50,
+    "final_score": 46.0,
+    "reasoning": "The content primarily focuses on integrating SharePoint 2013 with Team Foundation Server 2012, with only a brief mention of Scrum in the context of enabling Scrum dashboards. While it touches on some aspects of project management and team collaboration, it lacks a comprehensive discussion of Scrum principles, roles, events, or artifacts, which are essential for a strong alignment with the Scrum category.",
+    "level": "Tertiary"
   }
 }

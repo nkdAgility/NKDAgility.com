@@ -44,15 +44,6 @@
     "reasoning": "Content primarily discusses the concept of agility and its evolution rather than focusing on product management strategies or methodologies.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:46:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the concept of agility and its organic growth within organisations, without a clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
     "calculated_at": "2025-02-18T12:22:51",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile transformation and organisational change without any mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:30:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 50,
+    "final_score": 34.0,
+    "reasoning": "The content discusses agile principles and the need for continuous change, which are relevant to Scrum, but it lacks specific references to Scrum roles, events, or artifacts. The focus is more on general agile transformation rather than the Scrum framework itself.",
+    "level": "Quaternary"
   }
 }

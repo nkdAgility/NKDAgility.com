@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the use of Team Foundation Server (TFS) and Visual Studio in managing software development processes, including project management, requirements gathering, and testing, which are key aspects of Application Lifecycle Management.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T00:30:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "The content primarily discusses Team Foundation Server and SharePoint 2010, with a focus on project management tools and features, rather than Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T01:27:49",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses training sessions on Team Foundation Server and SharePoint 2010, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:50:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 50,
+    "final_score": 34.0,
+    "reasoning": "The content primarily focuses on Team Foundation Server (TFS) and SharePoint 2010, with some references to project management and user stories, which are relevant to Scrum. However, it lacks a direct discussion of Scrum roles, events, or artifacts, and does not delve deeply into Scrum principles or practices. The mention of user stories aligns with Agile principles, but the overall focus is more on tools rather than the Scrum framework itself.",
+    "level": "Quaternary"
   }
 }

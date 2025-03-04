@@ -1313,15 +1313,6 @@
     "reasoning": "Content primarily focuses on a Scrum workshop and related Agile practices, with no mention of Kanban principles or practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:37:53",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses a workshop related to product validation and discovery within the context of Scrum, highlighting the importance of customer-centric development and team collaboration, but it is not primarily focused on Scrum principles or practices.",
-    "level": "Tertiary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:37:55",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on a workshop for product validation and discovery, with no direct discussion of AI applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:46:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on a workshop related to Scrum, specifically highlighting the Professional Product Validation and Discovery Workshop from Scrum.org. It discusses key aspects of product development that align with Scrum principles, such as customer-centric development and team collaboration. The mention of Dr. Joanna Plaskonka as a Professional Scrum Trainer further reinforces the Scrum connection. However, while the content is relevant, it does not delve deeply into the specific Scrum roles, events, or artifacts, which slightly lowers the depth score. Overall, the content is strongly aligned with Scrum principles and practices, justifying a high confidence score.",
+    "level": "Secondary"
   }
 }

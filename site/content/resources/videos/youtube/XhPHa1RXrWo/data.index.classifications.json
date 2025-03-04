@@ -1313,15 +1313,6 @@
     "reasoning": "The content discusses the historical context and evolution of Agile methodologies, touching on aspects of human connection, leadership competence, and employee dissatisfaction. While these themes relate to organisational psychology, the primary focus is on Agile practices rather than psychological principles directly influencing organisational behaviour.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:04:54",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Agile principles and the historical context of Scrum, but it primarily focuses on broader Agile concepts and challenges in competence rather than specifically on Scrum roles, events, or practices.",
-    "level": "Tertiary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:04:55",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile methodologies and historical perspectives on project management without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:41:22",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 65.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 50,
+    "final_score": 61.0,
+    "reasoning": "The content discusses Agile principles and their historical context, including references to Scrum and its role in the Agile Manifesto. While Scrum is mentioned, the primary focus is on broader Agile concepts and historical perspectives rather than a detailed exploration of Scrum's specific roles, events, or practices. The discussion touches on the importance of competence in Scrum roles, which aligns with Scrum principles, but lacks depth in covering the Scrum framework itself.",
+    "level": "Secondary"
   }
 }

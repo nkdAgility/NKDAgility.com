@@ -350,15 +350,6 @@
     "reasoning": "Content heavily discusses Scrum roles and the importance of Product Owners, which is more related to Scrum methodology than Application Lifecycle Management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T18:11:36",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner within the Scrum framework and addresses challenges related to multiple Product Owners, making Scrum a central theme.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T18:11:44",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and the importance of Product Owners, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:32:58",
+    "ai_confidence": 85.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 50,
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner within the Scrum framework, addressing challenges related to multiple Product Owners and the impact on backlog management. It aligns well with Scrum principles, particularly the importance of having a dedicated Product Owner to ensure effective backlog prioritisation and value delivery. The depth of discussion is significant, providing insights into the responsibilities of the Product Owner and the implications of their absence, which reflects a strong understanding of Scrum practices.",
+    "level": "Primary"
   }
 }

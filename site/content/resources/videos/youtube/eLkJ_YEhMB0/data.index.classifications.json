@@ -1349,15 +1349,6 @@
     "reasoning": "Content primarily discusses Scrum practices and the dysfunctions associated with Agile methodologies, rather than focusing on the principles of Beta Codex or decentralised organisational design.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T14:37:39",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses Scrum practices, specifically the Daily Scrum and Sprint Retrospective, while addressing common dysfunctions and focusing on value delivery.",
-    "level": "Secondary"
-  },
   "Social Technologies": {
     "category": "Social Technologies",
     "calculated_at": "2025-02-17T14:37:41",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile practices and Scrum roles without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:51:31",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses Scrum practices, particularly the Daily Scrum and Sprint Retrospective, highlighting their purpose and common dysfunctions. It directly references Scrum roles and events, demonstrating a strong alignment with Scrum principles. The depth of discussion is significant, as it critiques common practices and suggests improvements, indicating a thorough understanding of Scrum's intent and application.",
+    "level": "Secondary"
   }
 }

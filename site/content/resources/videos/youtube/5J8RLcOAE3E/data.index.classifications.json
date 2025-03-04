@@ -1313,15 +1313,6 @@
     "reasoning": "Content primarily discusses technical practices and philosophies related to continuous delivery and system architecture, without a clear focus on personal experiences or reflections.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T11:57:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses continuous delivery practices and philosophies, with no clear focus on Scrum principles, roles, events, or artifacts.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T11:57:05",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses continuous delivery practices and philosophies in software development without a clear focus on the application of AI in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:38:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses continuous delivery and practices related to deployment strategies, with minimal reference to Scrum principles or frameworks. While it touches on concepts like cross-functional collaboration, it does not explicitly mention Scrum roles, events, or artifacts, nor does it align closely with the core themes of Scrum. The discussion lacks depth in Scrum-specific practices, leading to a low confidence score.",
+    "level": "Quinary"
   }
 }

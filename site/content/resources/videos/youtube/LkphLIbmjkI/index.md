@@ -43,7 +43,7 @@ resourceTypes:
 categories:
 - Social Technologies
 - DevOps
-- Engineering Excellence
+- Scrum
 
 ---
 ## Limits of Professional Coaching

@@ -1313,15 +1313,6 @@
     "reasoning": "Content heavily discusses the structure and facilitation of a Sprint Review, focusing on technical aspects rather than personal experiences or insights.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:10:59",
-    "ai_confidence": 90,
-    "non_ai_confidence": 50,
-    "final_score": 86.0,
-    "reasoning": "Content primarily discusses the Sprint Review event within the Scrum framework, detailing its purpose, flow steps, and roles involved, which aligns closely with Scrum principles and practices.",
-    "level": "Primary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:10:59",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:43:09",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 38,
+    "ai_depth": 36,
+    "non_ai_confidence": 50,
+    "final_score": 88.0,
+    "reasoning": "The content provides a detailed exploration of the Sprint Review event within the Scrum framework, explicitly discussing its purpose, flow, and facilitation techniques. It directly mentions key Scrum roles, such as the Product Owner and Scrum Master, and outlines the steps involved in conducting a Sprint Review, which aligns closely with Scrum principles. The depth of discussion is significant, covering various aspects of the event and providing practical facilitation options, thus demonstrating a strong alignment with the core themes of Scrum.",
+    "level": "Primary"
   }
 }

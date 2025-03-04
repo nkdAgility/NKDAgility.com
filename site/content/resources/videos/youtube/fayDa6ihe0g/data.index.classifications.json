@@ -557,15 +557,6 @@
     "reasoning": "Content heavily discusses training and workshops related to Scrum without a focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:22:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "The content primarily promotes a training session and does not deeply discuss Scrum topics such as roles, events, or principles. It lacks substantial content related to the Scrum framework itself.",
-    "level": "Ignored"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T11:22:20",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum training and workshops, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:29:31",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 50,
+    "final_score": 28.0,
+    "reasoning": "The content briefly mentions Scrum in the context of a training overview but lacks detailed discussion on Scrum principles, roles, or practices. It does not provide substantial information or depth related to the Scrum framework, making it a secondary mention rather than a primary focus.",
+    "level": "Quaternary"
   }
 }

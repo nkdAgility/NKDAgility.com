@@ -1349,15 +1349,6 @@
     "reasoning": "Content heavily discusses agile consulting and Scrum, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T08:35:00",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses common mistakes made by agile consultants in relation to Scrum, emphasising the importance of understanding Scrum principles and practices rather than merely following the rules.",
-    "level": "Secondary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T08:35:02",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile consulting and Scrum practices without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:27:38",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content discusses Scrum explicitly, mentioning it as a tool and addressing common mistakes related to its implementation. It aligns well with Scrum principles, particularly the emphasis on team buy-in and understanding the underlying reasons for adopting Scrum. The depth of discussion is moderate, providing insights into the challenges faced by rookie agile consultants and the importance of focusing on principles rather than just rules.",
+    "level": "Secondary"
   }
 }

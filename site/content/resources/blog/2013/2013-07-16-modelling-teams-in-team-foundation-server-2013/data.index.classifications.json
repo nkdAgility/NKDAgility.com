@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the use of Team Foundation Server (TFS) for managing teams, projects, and source control, which are integral aspects of Application Lifecycle Management. It covers methodologies and practices related to structuring teams and managing workflows within the application lifecycle.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T18:06:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Team Foundation Server and its features for managing teams and projects, without a clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T22:06:44",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Team Foundation Server and its configuration for project management, with no clear focus on Artificial Intelligence applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:39:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses team structures and project management within Team Foundation Server (TFS), which may relate to Scrum practices, but it does not explicitly mention Scrum roles, events, or artifacts. While there are references to team dynamics and project management, the focus is primarily on TFS functionalities rather than Scrum principles or frameworks. Therefore, the confidence score reflects a low alignment with the Scrum category.",
+    "level": "Quaternary"
   }
 }

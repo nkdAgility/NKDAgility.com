@@ -1250,15 +1250,6 @@
     "reasoning": "Content primarily discusses immersive learning and coaching in Agile contexts, without a clear focus on throughput measurement or optimisation.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T19:23:29",
-    "ai_confidence": 70,
-    "non_ai_confidence": 50,
-    "final_score": 68.0,
-    "reasoning": "The content discusses Scrum concepts such as Sprints, retrospectives, and coaching within a Scrum framework, making it a major theme, though it also touches on other methodologies.",
-    "level": "Secondary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T19:23:30",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile methodologies and coaching but does not mention or relate to Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:19:32",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content discusses Scrum principles, particularly the role of coaching within the Scrum framework, and references key Scrum events such as Sprints and retrospectives. It highlights the importance of feedback loops and continuous improvement, which are core to Scrum practices. However, while Scrum is a significant focus, the mention of Kanban and the broader Agile context slightly dilutes the primary focus on Scrum, preventing a higher confidence score.",
+    "level": "Secondary"
   }
 }

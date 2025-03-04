@@ -1349,15 +1349,6 @@
     "reasoning": "Content primarily discusses WIP and Kanban principles, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T07:25:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "The content primarily discusses Kanban principles and does not focus on Scrum roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T07:25:44",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the principles of work in progress (WIP) and productivity in Agile methodologies, without any mention or integration of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:24:21",
+    "ai_confidence": 45.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 50,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the concept of limiting work in progress (WIP) and its implications for Scrum teams, particularly in relation to Sprint backlogs and the importance of focus. However, it primarily revolves around Kanban principles and context switching rather than a thorough exploration of Scrum itself. While Scrum is mentioned, it is not the primary focus, and the discussion lacks depth on Scrum roles, events, or artifacts.",
+    "level": "Tertiary"
   }
 }

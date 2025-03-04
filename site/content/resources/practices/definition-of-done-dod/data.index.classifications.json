@@ -1313,15 +1313,6 @@
     "reasoning": "Content primarily discusses the Definition of Done in the context of Scrum, with no mention of Kanban principles or practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:08:51",
-    "ai_confidence": 90,
-    "non_ai_confidence": 50,
-    "final_score": 86.0,
-    "reasoning": "Content primarily discusses the Definition of Done (DoD) within the context of Scrum, detailing its importance, implementation, and relation to Scrum roles and events.",
-    "level": "Primary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:08:52",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the Definition of Done in Scrum and does not mention Artificial Intelligence or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:43:20",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 38,
+    "ai_depth": 37,
+    "non_ai_confidence": 50,
+    "final_score": 88.0,
+    "reasoning": "The content extensively discusses the Definition of Done (DoD), which is a critical aspect of the Scrum framework. It covers how teams should define and agree on their DoD, the importance of transparency, and how it relates to the Scrum events and roles. The content aligns well with Scrum principles, emphasising quality, collaboration, and iterative improvement. It provides detailed insights into the DoD's role in ensuring releasable increments and maintaining team focus on quality, thus demonstrating a strong alignment with Scrum's core themes.",
+    "level": "Primary"
   }
 }

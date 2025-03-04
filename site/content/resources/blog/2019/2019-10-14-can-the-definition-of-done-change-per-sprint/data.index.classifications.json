@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses Scrum practices and the Definition of Done, which are not central to Application Lifecycle Management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T17:55:21",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the Definition of Done within the context of Scrum, addressing its implications, changes, and the responsibilities of the Scrum Team, which aligns closely with Scrum principles and practices.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T17:55:31",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum practices and the Definition of Done, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:32:47",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
+    "non_ai_confidence": 50,
+    "final_score": 88.0,
+    "reasoning": "The content extensively discusses the Definition of Done within the context of Scrum, referencing the Scrum Guide and addressing its implications for quality and team responsibilities. It aligns closely with key Scrum principles, particularly regarding continuous improvement and team dynamics. The depth of discussion is significant, providing detailed insights into how the Definition of Done should be applied and adapted, making it a primary focus of the content.",
+    "level": "Primary"
   }
 }

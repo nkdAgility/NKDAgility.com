@@ -350,15 +350,6 @@
     "reasoning": "Content heavily discusses Scrum methodologies and organisational change rather than the management of software application lifecycles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T00:13:09",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the Scrum at Scale Workshop and its relevance to implementing Scrum principles in organisational change, highlighting key aspects of the Scrum framework.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T00:13:17",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:35:48",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on the Scrum framework, specifically the Scrum at Scale model, which is a direct application of Scrum principles in an organisational context. It discusses the challenges of scaling agility, the importance of culture in Scrum implementation, and the role of Scrum.org in providing workshops to facilitate this process. The content aligns well with key topics such as Scrum roles, empirical process control, and continuous improvement, demonstrating a strong understanding of Scrum principles. The depth of discussion is significant, providing insights into the challenges and solutions related to Scrum implementation in enterprises.",
+    "level": "Secondary"
   }
 }

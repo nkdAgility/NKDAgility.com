@@ -1313,15 +1313,6 @@
     "reasoning": "Content heavily discusses the Daily Scrum event and its structure, focusing on technical aspects and facilitation methods rather than personal experiences or reflections.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:11:13",
-    "ai_confidence": 90,
-    "non_ai_confidence": 50,
-    "final_score": 86.0,
-    "reasoning": "Content primarily discusses the Daily Scrum event, its purpose, structure, and best practices, which are central to the Scrum framework.",
-    "level": "Primary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:11:14",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the Daily Scrum event in the Scrum framework, focusing on team collaboration and project management without any mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:43:16",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
+    "non_ai_confidence": 50,
+    "final_score": 88.0,
+    "reasoning": "The content extensively discusses the Daily Scrum, a key event in the Scrum framework, detailing its purpose, structure, and best practices. It aligns well with Scrum principles, emphasising collaboration, transparency, and continuous improvement. The depth of discussion is significant, providing actionable insights and facilitation options, which further supports its strong alignment with the Scrum category.",
+    "level": "Primary"
   }
 }

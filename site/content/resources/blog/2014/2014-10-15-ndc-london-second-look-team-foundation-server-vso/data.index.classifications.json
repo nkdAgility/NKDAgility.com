@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses Team Foundation Server (TFS) and Visual Studio Online (VSO) as comprehensive Application Lifecycle Management solutions. It covers various stages of the application lifecycle, including ideation, coding, testing, and deployment, clearly aligning with the principles of ALM.",
     "level": "Primary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile project management concepts such as PBIs, sprints, and roles related to Scrum, but it primarily focuses on Team Foundation Server, Visual Studio Online, and the features provided by these tools rather than Scrum itself.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T09:56:49",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Team Foundation Server, Agile project management, and related tools without a focus on Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:35:55",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content discusses Agile Project Management and includes references to Product Backlog Items (PBIs) and the role of the Product Owner, which are relevant to Scrum. However, the primary focus is on Team Foundation Server (TFS) and Visual Studio Online (VSO) rather than Scrum principles or practices. The discussion of scenarios and features does not delve deeply into Scrum events or roles, leading to a moderate confidence score.",
+    "level": "Secondary"
   }
 }

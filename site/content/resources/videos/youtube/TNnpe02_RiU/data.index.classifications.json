@@ -557,15 +557,6 @@
     "reasoning": "Content primarily discusses common frustrations in DevOps and myths surrounding continuous delivery, without a central focus on decision-making processes or the principles of decision theory.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:21:42",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions Scrum in the context of Agile and DevOps but primarily focuses on continuous delivery and related practices, rather than discussing Scrum principles or frameworks in depth.",
-    "level": "Tertiary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T10:21:42",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps practices and common misconceptions, with no clear focus on the application of AI in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:25:09",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses DevOps and does not mention Scrum or its principles, roles, events, or artifacts. It briefly touches on concepts related to continuous delivery, which is more aligned with DevOps practices than Scrum. Therefore, the confidence score is very low.",
     "level": "Ignored"
   }
 }

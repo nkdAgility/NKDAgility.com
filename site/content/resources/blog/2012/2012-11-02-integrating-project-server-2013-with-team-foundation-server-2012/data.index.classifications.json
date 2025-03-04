@@ -350,15 +350,6 @@
     "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, which relates to managing software applications and their lifecycle stages, particularly in deployment and configuration. However, the primary focus is on installation and configuration processes rather than a comprehensive discussion of application lifecycle management methodologies or practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses integrating Project Server with Team Foundation Server and mentions agile processes, including roles like Product Owner and Development Team, which are relevant to Scrum, but the primary focus is on technical integration rather than Scrum principles or practices.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T15:24:15",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, focusing on installation and configuration processes, without any mention of AI applications or their impact on Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:42:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 50,
+    "final_score": 34.0,
+    "reasoning": "The content briefly mentions Scrum in the context of integrating Project Server with Team Foundation Server, specifically referencing the Visual Studio Scrum template and the roles of Product Owners and Development Teams. However, the primary focus of the content is on Project Server and Team Foundation Server integration, with only a superficial connection to Scrum principles. The discussion lacks depth regarding Scrum practices, roles, and events, leading to a low confidence score.",
+    "level": "Quaternary"
   }
 }

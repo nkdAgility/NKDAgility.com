@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the features and benefits of Visual Studio ALM and TFS, focusing on the application lifecycle stages, process improvement, and the integration of Agile principles, which are central to Application Lifecycle Management.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and the importance of process improvement, which are relevant to Scrum, but the primary focus is on TFS and Visual Studio rather than Scrum itself.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T21:31:28",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the upgrade and features of TFS and Visual Studio ALM, with a focus on Agile methodologies, but does not address the integration or application of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:45:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Agile principles and discusses process improvement, which are relevant to Scrum, but it primarily focuses on TFS and Visual Studio rather than the Scrum framework itself. The discussion lacks depth in Scrum-specific roles, events, and artifacts, leading to a lower confidence score.",
+    "level": "Quaternary"
   }
 }

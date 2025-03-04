@@ -350,15 +350,6 @@
     "reasoning": "Content heavily discusses Scrum and Agile methodologies without a focus on the application lifecycle management processes or practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Scrum in the context of philosophy and principles, but it does not focus primarily on the Scrum framework or its specific roles, events, or artifacts.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T09:56:56",
@@ -1393,5 +1384,17 @@
     "final_score": 1.0,
     "reasoning": "Content heavily discusses Scrum and Agile methodologies without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:36:02",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 65.0,
+    "reasoning": "The content discusses Scrum in a philosophical context, referencing its principles and the importance of understanding its essence rather than rigidly adhering to its structure. While it does mention Scrum explicitly and touches on Agile principles, the discussion lacks depth in terms of specific Scrum roles, events, or artifacts. The focus is more on a broader interpretation of Scrum rather than a detailed examination of its framework, which affects the overall confidence score.",
+    "level": "Secondary"
   }
 }

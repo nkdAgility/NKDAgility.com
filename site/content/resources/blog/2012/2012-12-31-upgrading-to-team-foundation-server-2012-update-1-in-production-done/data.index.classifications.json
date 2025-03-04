@@ -350,15 +350,6 @@
     "reasoning": "The content primarily revolves around upgrading Team Foundation Server (TFS), which is an integral tool for managing the application lifecycle. It covers various stages involved in the upgrade process, including preparation, execution, and configuration, all of which are closely related to application lifecycle management practices and methodologies.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T16:29:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the upgrade process for Team Foundation Server (TFS) and its associated components, with no clear relevance to Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T17:35:29",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the upgrade process for Team Foundation Server, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:42:11",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on upgrading Team Foundation Server (TFS) and does not discuss Scrum principles, roles, events, or any related topics. While it may touch on aspects of project management, it lacks any direct references to Scrum or its framework, making it largely irrelevant to the Scrum category.",
     "level": "Ignored"
   }
 }

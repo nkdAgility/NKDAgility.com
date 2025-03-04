@@ -206,15 +206,6 @@
     "reasoning": "Content primarily discusses a personal experience with job interviews at Microsoft, focusing on the role and responsibilities of an Application Developer Consultant, rather than platform engineering principles or practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T20:32:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a personal experience related to job interviews at Microsoft, focusing on technical skills and roles rather than Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T20:32:19",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a job interview experience at Microsoft, focusing on the role, responsibilities, and technical skills required, without any mention of Artificial Intelligence or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:17:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on a personal experience related to a job interview at Microsoft, discussing technical skills and interview processes. There are no direct mentions of Scrum principles, roles, events, or artifacts, and the discussion does not align with the core themes of Scrum or Agile methodologies. The content lacks depth in any Scrum-related topics, resulting in a very low confidence score for alignment with the Scrum category.",
     "level": "Ignored"
   }
 }

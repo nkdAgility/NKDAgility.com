@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses permission issues related to TFS and SharePoint, which does not align with the core principles of Application Lifecycle Management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T19:29:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to permissions in TFS and SharePoint, with no mention of Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T20:50:04",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses permission issues in TFS and SharePoint, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:43:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses issues related to permissions in Team Foundation Server (TFS) and SharePoint, with no direct mention of Scrum principles, roles, events, or practices. While it touches on project management tools, it does not align with the core themes of Scrum or provide any depth on Scrum-related topics.",
     "level": "Ignored"
   }
 }

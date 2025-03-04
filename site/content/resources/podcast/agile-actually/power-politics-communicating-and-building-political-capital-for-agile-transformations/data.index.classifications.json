@@ -1331,15 +1331,6 @@
     "reasoning": "Content heavily discusses Agile concepts and coaching, with no direct connection to platform engineering or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T13:11:33",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content mentions Scrum in the context of agile coaching and consulting, but the primary focus is on communication and political capital in agile transformations, making Scrum a secondary theme.",
-    "level": "Tertiary"
-  },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-17T13:11:34",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile transformations and communication but does not mention AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:46:53",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 30,
+    "final_score": 41.0,
+    "reasoning": "The content briefly mentions Scrum in the context of the hosts' expertise and roles, but it primarily focuses on the importance of language and communication in Agile transformations. While there is some alignment with Scrum principles, such as transparency, the depth of discussion on Scrum-specific topics is limited.",
+    "level": "Tertiary"
   }
 }

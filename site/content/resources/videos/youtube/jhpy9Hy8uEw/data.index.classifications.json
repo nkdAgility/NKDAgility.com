@@ -1349,15 +1349,6 @@
     "reasoning": "Content heavily discusses personal experiences and opinions regarding Scrum.Org and Scrum Alliance, which are unrelated to the One Engineering System framework.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T08:34:12",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses experiences and opinions related to Scrum.Org and Scrum Alliance, focusing on Scrum training, certification, and community development, which are central to the Scrum framework.",
-    "level": "Secondary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T08:34:14",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum methodologies and personal experiences with Scrum.Org and Scrum Alliance, with no mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:27:22",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses the author's experience with Scrum.org and its community, which directly relates to the Scrum framework. It mentions key aspects such as the importance of community, collaboration among trainers, and the ethos of Scrum.org compared to Scrum Alliance. However, while it touches on Scrum principles, it lacks detailed exploration of specific Scrum roles, events, or artifacts, which affects the depth of discussion. Overall, the content aligns well with the Scrum category, but it is more anecdotal than instructional.",
+    "level": "Secondary"
   }
 }

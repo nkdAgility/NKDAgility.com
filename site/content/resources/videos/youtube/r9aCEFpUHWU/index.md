@@ -42,7 +42,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 When I reflect on my experiences as a Scrum Master, one thing becomes abundantly clear: the effectiveness of a Scrum Master hinges on their understanding of the philosophies, theories, and practices relevant to the team they support. Without this foundational knowledge, the impact on both the team and the organisation can be profound. 

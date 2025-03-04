@@ -1,13 +1,4 @@
 {
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T15:47:55",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses aspects of an agile environment and the impact of judgment on team dynamics, but it does not primarily focus on Scrum principles, roles, or practices.",
-    "level": "Quaternary"
-  },
   "Kanban": {
     "category": "Kanban",
     "calculated_at": "2025-02-17T15:47:56",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile practices and team dynamics without any mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:15:10",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content briefly touches on agile principles and the importance of adapting metrics to foster a healthy team environment, which aligns with Scrum's emphasis on continuous improvement and team dynamics. However, it lacks direct mentions of Scrum roles, events, or artifacts, and does not provide in-depth discussion on Scrum practices, leading to a moderate confidence score.",
+    "level": "Quaternary"
   }
 }

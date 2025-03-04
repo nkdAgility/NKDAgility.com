@@ -1349,15 +1349,6 @@
     "reasoning": "Content primarily critiques traditional Agile practices, specifically burndown charts, and does not focus on the principles or practices of BetaCodex.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T14:37:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the limitations of burndown charts within the context of Agile and Scrum practices, making Scrum a major but secondary theme.",
-    "level": "Tertiary"
-  },
   "Social Technologies": {
     "category": "Social Technologies",
     "calculated_at": "2025-02-17T14:37:52",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile methodologies and the limitations of burndown charts without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:51:33",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the limitations of burndown charts within the context of Agile and Scrum, highlighting the empirical process control that Scrum is founded upon. It critiques traditional project management thinking and emphasises the need for adaptability in managing work, which aligns with Scrum principles. However, while it touches on Scrum concepts, it does not delve deeply into specific Scrum roles, events, or artifacts, leading to a moderate confidence score.",
+    "level": "Secondary"
   }
 }

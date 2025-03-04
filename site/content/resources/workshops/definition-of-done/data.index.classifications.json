@@ -1331,15 +1331,6 @@
     "reasoning": "The content includes elements related to the Definition of Done, which is a concept within Agile practices, but it does not primarily focus on the frameworks or methodologies of Scrum, Kanban, Lean, or Agile.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T17:25:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Definition of Done, which is a key aspect of the Scrum framework, but it does not delve deeply into Scrum roles, events, or principles.",
-    "level": "Tertiary"
-  },
   "Beta Codex": {
     "category": "Beta Codex",
     "calculated_at": "2025-02-18T17:25:05",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the Definition of Done in Agile methodologies without any mention of AI.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:43:58",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content explicitly mentions the 'Definition of Done', which is a key concept within the Scrum framework, indicating a direct focus on Scrum principles. It aligns with the core themes of Scrum, particularly regarding the importance of defining what constitutes a completed increment. However, the depth of discussion is somewhat limited, as it outlines a structure for a session without delving deeply into the implications or practices surrounding the Definition of Done. Overall, while it is relevant to Scrum, the content does not provide extensive detail on the topic.",
+    "level": "Secondary"
   }
 }

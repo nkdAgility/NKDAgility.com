@@ -557,15 +557,6 @@
     "reasoning": "Content focuses primarily on the PSU course and its benefits for product development teams, with no substantial discussion on decision-making processes in uncertain environments.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:22:06",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the PSU course related to Scrum and how it integrates different roles in product development, but it primarily focuses on the course rather than in-depth Scrum principles.",
-    "level": "Tertiary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T10:22:06",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the PSU course and its benefits for product development decisions, with no clear focus on AI integration in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:25:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the integration of hypothesis-driven approaches in product development, which aligns with Scrum principles of iterative progress and team collaboration. It mentions the importance of team dynamics and the roles of team members, particularly in relation to the Scrum framework. However, while Scrum is referenced, the focus is more on product development strategies rather than a deep dive into Scrum practices, which slightly lowers the confidence score.",
+    "level": "Secondary"
   }
 }

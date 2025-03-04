@@ -39,6 +39,7 @@ tags:
 - Technical Excellence
 categories:
 - Engineering Excellence
+- Scrum
 preview: metro-visual-studio-2010-128-link-11-11.png
 
 ---

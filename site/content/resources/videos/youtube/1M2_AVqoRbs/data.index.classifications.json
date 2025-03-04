@@ -1313,15 +1313,6 @@
     "reasoning": "Content primarily discusses technical debt and its impact on value delivery, without a clear focus on Kanban principles or practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:02:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical debt and its impact on value delivery, without a clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:02:09",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical debt and its impact on value delivery, without a clear focus on AI applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:40:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on the importance of delivering a high-quality, usable product regularly, which aligns with Scrum's emphasis on iterative progress and delivering value. However, it does not explicitly mention Scrum roles, events, or artifacts, nor does it delve deeply into Scrum principles or practices, resulting in a low confidence score.",
+    "level": "Quaternary"
   }
 }

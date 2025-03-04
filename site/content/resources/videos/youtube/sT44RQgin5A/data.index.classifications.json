@@ -1313,15 +1313,6 @@
     "reasoning": "Content heavily discusses Scrum roles, evidence-based management, and technical methodologies without a focus on psychological principles or theories related to motivation, engagement, leadership, or team dynamics.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:12:20",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the four key value areas in Scrum, focusing on product backlog, current value, unrealised value, and organisational capability, which are central to Scrum principles and practices.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:12:21",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on evidence-based management and product value areas, without any mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:44:03",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses Scrum principles, particularly focusing on the four key value areas in Scrum, which directly relate to the Scrum framework and its implementation. It mentions the product backlog, product ownership, and the importance of team collaboration, all of which are core aspects of Scrum. The depth of discussion is significant, providing detailed insights into how these value areas impact project management and team dynamics within a Scrum context.",
+    "level": "Primary"
   }
 }

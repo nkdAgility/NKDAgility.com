@@ -1349,15 +1349,6 @@
     "reasoning": "Content primarily discusses training experiences and the value of multicultural engagement in Agile and Scrum, which does not align with the core principles of the One Engineering System.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T08:36:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses experiences related to training in Agile and Scrum, highlighting common challenges and the value of diverse perspectives in training sessions, making Scrum a major but secondary theme.",
-    "level": "Tertiary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T08:36:20",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses training and engagement in Agile methodologies without any mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:28:03",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 30,
+    "final_score": 59.0,
+    "reasoning": "The content briefly mentions Scrum in the context of training and Agile implementation challenges, indicating some relevance to the category. However, it lacks detailed discussion on Scrum roles, events, or artifacts, and does not delve deeply into Scrum principles or practices. The focus is more on the training experience and cultural diversity rather than the Scrum framework itself.",
+    "level": "Tertiary"
   }
 }

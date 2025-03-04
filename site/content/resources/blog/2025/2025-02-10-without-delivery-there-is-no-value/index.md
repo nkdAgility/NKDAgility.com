@@ -35,6 +35,7 @@ tags:
 - People and Process
 categories:
 - Product Management
+- Scrum
 preview: 2025-02-10-without-delivery-no-value.jpg
 marketing: []
 

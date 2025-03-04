@@ -36,8 +36,6 @@ tags:
 - Value Delivery
 categories:
 - Scrum
-- Product Management
-- Social Technologies
 preview: naked-agility-hypothesis-driven-2-2.jpg
 
 ---

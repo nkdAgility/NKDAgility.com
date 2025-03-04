@@ -1250,15 +1250,6 @@
     "reasoning": "Content heavily discusses the personal rewards and motivations of being a Scrum developer, rather than focusing on throughput measurement or optimisation.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T21:39:28",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the rewarding aspects of being a Scrum developer, which relates to the Scrum framework and its emphasis on meaningful work, but it does not primarily focus on Scrum principles or practices.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T21:39:29",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the rewarding aspects of being a Scrum developer without any mention of AI or its integration within Agile methodologies.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:21:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 50,
+    "final_score": 34.0,
+    "reasoning": "The content briefly touches on the role of a Scrum developer and the importance of meaningful work, which aligns with the Scrum principles of team dynamics and delivering value. However, it lacks explicit mentions of Scrum roles, events, or artifacts, and does not delve into the Scrum framework or practices in detail.",
+    "level": "Quaternary"
   }
 }

@@ -350,15 +350,6 @@
     "reasoning": "The content discusses Visual Studio's role in exploring and maintaining project architecture, which is relevant to Application Lifecycle Management, but it primarily focuses on architecture rather than the full lifecycle management.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T21:15:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio architecture and design concepts, with no clear focus on Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T21:15:46",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio architecture and design concepts, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:46:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Visual Studio 2010 and its architectural features, with no direct mention of Scrum principles, roles, or events. While it discusses team standards and project architecture, these topics do not align with the core themes of Scrum, such as iterative progress or team dynamics. The discussion lacks depth regarding Scrum practices, resulting in a very low confidence score.",
+    "level": "Quinary"
   }
 }

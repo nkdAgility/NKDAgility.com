@@ -305,15 +305,6 @@
     "reasoning": "Content primarily discusses immersive learning and training experiences, with no clear focus on Agile principles or the Agile Product Operating Model.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T13:17:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning and the experience of trainers, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
     "calculated_at": "2025-02-17T13:17:10",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses immersive learning and training, with no mention of AI or its application in Agile, DevOps, or software development.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:49:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content discusses immersive learning and the experience of trainers but does not explicitly mention Scrum or its principles, roles, events, or artifacts. While there is a vague reference to team engagement and consulting, it lacks direct relevance to Scrum's framework or practices, resulting in a low confidence score.",
+    "level": "Quinary"
   }
 }

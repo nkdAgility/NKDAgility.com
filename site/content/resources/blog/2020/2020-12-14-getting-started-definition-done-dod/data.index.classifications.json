@@ -1151,15 +1151,6 @@
     "reasoning": "The content primarily discusses the Definition of Done (DoD) in the context of Scrum, focusing on team collaboration, the roles of developers and product owners, and the importance of quality in the software development process. It highlights the need for team dynamics and communication in defining and adhering to the DoD, making it a central theme.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-13T21:56:08",
-    "ai_confidence": 90,
-    "non_ai_confidence": 50,
-    "final_score": 86.0,
-    "reasoning": "Content primarily discusses the Definition of Done (DoD) within the context of the Scrum framework, including its importance, characteristics, and the role of Scrum teams in defining and implementing it.",
-    "level": "Primary"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
     "calculated_at": "2025-02-13T21:56:10",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the Definition of Done in Scrum and Agile methodologies without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:30:29",
+    "ai_confidence": 92.0,
+    "ai_mentions": 95.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 90.0,
+    "non_ai_confidence": 50,
+    "final_score": 88.0,
+    "reasoning": "The content extensively discusses the Definition of Done (DoD), a crucial aspect of the Scrum framework, and provides detailed insights into its importance, implementation, and continuous improvement within the Scrum process. It directly references Scrum roles, events, and principles, demonstrating a strong alignment with the core themes of Scrum. The depth of discussion is significant, covering practical examples and recommendations for Scrum teams, which further supports a high confidence score.",
+    "level": "Primary"
   }
 }

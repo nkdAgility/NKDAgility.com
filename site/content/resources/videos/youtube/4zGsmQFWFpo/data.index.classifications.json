@@ -1313,15 +1313,6 @@
     "reasoning": "The content discusses the importance of hiring competent individuals and the role of leadership within teams, which are relevant to organisational psychology. However, the primary focus is on technical roles and practices rather than psychological principles or theories.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:04:46",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the roles of Scrum Masters and Product Owners, as well as the importance of competence in these roles, which aligns with Scrum principles. However, the primary focus is on broader organisational capabilities and hiring practices rather than Scrum itself.",
-    "level": "Tertiary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:04:47",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses organisational strategies, hiring practices, and the roles of scrum masters, without any mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:41:20",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 28,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the roles of Scrum Masters and Product Owners, highlighting the importance of competence in these positions. It critiques the current state of hiring practices and the need for capable individuals in Scrum roles, which aligns with Scrum principles. However, the focus is more on organisational capability and hiring practices rather than a detailed exploration of Scrum events or the framework itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   }
 }

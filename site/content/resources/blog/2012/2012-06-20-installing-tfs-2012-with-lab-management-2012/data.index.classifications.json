@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the installation and configuration of TFS 2012 and Lab Management, which are tools relevant to the application lifecycle. However, it lacks a comprehensive discussion on the broader methodologies and practices of Application Lifecycle Management.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T20:26:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the installation and configuration of TFS 2012 and Lab Management, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T21:31:24",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and configuration of TFS 2012 and Lab Management, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:45:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, with no direct references to Scrum principles, roles, events, or artifacts. While it discusses project management tools, it does not align with the core themes of Scrum, such as iterative progress, team dynamics, or continuous improvement. The mention of 'Team Project' is too vague to establish a connection to Scrum practices.",
     "level": "Ignored"
   }
 }

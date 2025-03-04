@@ -1313,15 +1313,6 @@
     "reasoning": "Content primarily discusses technical practices and experiences related to Site Reliability Engineering and Azure DevOps, without a focus on personal reflections or insights.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:11:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Site Reliability Engineering (SRE) practices and does not focus on Scrum principles, roles, or events.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:11:34",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Site Reliability Engineering (SRE) practices and does not focus on the application of AI in Agile, DevOps, or software development.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:42:10",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions concepts like transparency, which aligns with Scrum principles, but it primarily focuses on Site Reliability Engineering (SRE) practices rather than Scrum itself. There are no direct mentions of Scrum roles, events, or artifacts, and the discussion lacks depth in relation to Scrum's core themes.",
+    "level": "Quaternary"
   }
 }

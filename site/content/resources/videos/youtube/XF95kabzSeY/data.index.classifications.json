@@ -323,15 +323,6 @@
     "reasoning": "Content primarily focuses on teaching aspects related to a product owner apprenticeship, without a clear emphasis on the Agile Product Operating Model or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T14:46:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content mentions the role of a Product Owner, which is a key aspect of Scrum, but it does not provide in-depth discussion on Scrum principles or practices.",
-    "level": "Tertiary"
-  },
   "DevOps": {
     "category": "DevOps",
     "calculated_at": "2025-02-17T14:46:26",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:52:03",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner, which is a key aspect of the Scrum framework. It discusses the importance of understanding the product vision and value, which aligns with Scrum principles of delivering business value. However, it lacks detailed discussions on Scrum events or other roles, resulting in a moderate confidence score.",
+    "level": "Secondary"
   }
 }

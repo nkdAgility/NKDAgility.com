@@ -350,15 +350,6 @@
     "reasoning": "The content discusses the integration of VSTS and GitHub for synchronising code, which relates to aspects of application lifecycle management, particularly in the context of deployment and maintenance. However, it primarily focuses on the technical setup rather than broader ALM methodologies or practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T21:01:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the integration and synchronisation of code between VSTS and GitHub, focusing on DevOps practices rather than Scrum principles, roles, or events.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T21:01:39",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses synchronisation between VSTS and GitHub for DevOps practices without any mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:34:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the integration and synchronisation of VSTS (now Azure DevOps) and GitHub for open-source projects, focusing on DevOps practices rather than Scrum principles. While it mentions agile practices, it does not delve into Scrum roles, events, or artifacts, nor does it provide a detailed discussion on Scrum methodologies. Therefore, the content does not align well with the Scrum category.",
+    "level": "Quinary"
   }
 }

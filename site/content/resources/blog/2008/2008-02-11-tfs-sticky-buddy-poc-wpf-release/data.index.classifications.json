@@ -206,15 +206,6 @@
     "reasoning": "Content primarily discusses a proof of concept release for a specific application related to Team Foundation Server, without a clear focus on platform engineering principles or enhancing developer productivity.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T18:35:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a proof of concept release for a software application related to Team Foundation Server, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T18:35:22",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a proof of concept release for a digital dashboard project related to Team Foundation Server, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:00:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a proof of concept release for a software application related to Team Foundation Server (TFS) and does not mention Scrum principles, roles, events, or any related topics. While TFS can be used in Scrum environments, the content does not explicitly address Scrum or its frameworks, making it largely irrelevant to the category.",
+    "level": "Quinary"
   }
 }

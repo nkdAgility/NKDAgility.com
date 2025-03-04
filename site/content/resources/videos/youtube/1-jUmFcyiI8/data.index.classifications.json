@@ -1313,15 +1313,6 @@
     "reasoning": "Content primarily discusses technical aspects of deployment frequency, feedback loops, and delivery processes without personal anecdotes or reflections.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T11:57:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deployment frequency, feedback loops, and continuous delivery, which are not central to Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T11:57:13",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses deployment frequency, project management, and delivery processes without a clear focus on the application of AI in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:38:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses deployment frequency and continuous delivery, which are relevant to Agile practices, but it does not explicitly mention Scrum roles, events, or artifacts. While it touches on iterative cycles and feedback loops, which align with Scrum principles, the primary focus is on deployment strategies rather than Scrum itself.",
+    "level": "Quaternary"
   }
 }

@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses incorporating UX into a Scrum Team, which is not directly related to Application Lifecycle Management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:08:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "Content discusses incorporating UX into a Scrum Team, indicating a significant but secondary theme related to Scrum practices.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T17:47:19",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses incorporating UX into a Scrum Team, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:32:32",
+    "ai_confidence": 65.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 50,
+    "final_score": 64.0,
+    "reasoning": "The content discusses incorporating UX into a Scrum Team, which directly mentions Scrum and aligns with the principles of team dynamics and continuous improvement. However, the depth of discussion is limited as it does not elaborate on Scrum roles, events, or artifacts in detail.",
+    "level": "Secondary"
   }
 }

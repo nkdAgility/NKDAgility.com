@@ -1,13 +1,4 @@
 {
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T15:53:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses communication gaps in Agile teams, which is relevant to Scrum principles, but it is not primarily focused on Scrum itself.",
-    "level": "Tertiary"
-  },
   "Kanban": {
     "category": "Kanban",
     "calculated_at": "2025-02-17T15:53:59",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses communication gaps in Agile teams without any mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:15:22",
+    "ai_confidence": 55.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 30,
+    "final_score": 52.0,
+    "reasoning": "The content briefly mentions Scrum in the context of Agile communication but does not delve deeply into Scrum-specific roles, events, or practices. While it touches on Agile principles, the focus is more on general communication issues rather than Scrum's framework or implementation.",
+    "level": "Tertiary"
   }
 }

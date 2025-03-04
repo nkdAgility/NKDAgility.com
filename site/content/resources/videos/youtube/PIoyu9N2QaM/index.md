@@ -44,7 +44,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 ## Unpacking the Differences

@@ -39,7 +39,6 @@ tags:
 - Software Development
 categories:
 - Scrum
-- Social Technologies
 preview: metro-event-128-link-2-2.png
 
 ---

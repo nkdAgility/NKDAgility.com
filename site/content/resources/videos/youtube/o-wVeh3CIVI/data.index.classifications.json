@@ -1250,15 +1250,6 @@
     "reasoning": "Content heavily discusses Scrum and its principles, but does not focus on throughput, work item completion rates, or related metrics.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T07:25:23",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the principles and concepts of Scrum, including its role in managing complex tasks, which are central themes in Scrum discussions.",
-    "level": "Secondary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-18T07:25:23",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and Agile methodologies without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:23:49",
+    "ai_confidence": 55.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 50,
+    "final_score": 54.0,
+    "reasoning": "The content introduces Scrum as a framework for organising teams in complex environments, which aligns with the conceptual themes of Scrum. However, it lacks specific mentions of Scrum roles, events, or artifacts, and does not provide detailed discussion on these aspects, resulting in a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

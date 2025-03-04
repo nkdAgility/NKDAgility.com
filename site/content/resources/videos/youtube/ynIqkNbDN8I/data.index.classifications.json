@@ -53,15 +53,6 @@
     "reasoning": "Content primarily focuses on product development strategies and evidence-based management rather than leadership practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-20T18:15:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses unrealized value and evidence-based management, with no clear focus on Scrum principles, roles, or events.",
-    "level": "Ignored"
-  },
   "MVP": {
     "category": "MVP",
     "calculated_at": "2025-02-20T18:40:50",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses product development and evidence-based management, with no clear focus on Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:38:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses concepts related to product development and hypothesis-driven practices, which can be tangentially related to Scrum principles, particularly in terms of iterative development and feedback loops. However, it does not explicitly mention Scrum roles, events, or artifacts, nor does it focus on the Scrum framework itself. The discussion on feedback loops and deployment frequency aligns with Agile principles but lacks depth in Scrum-specific practices, leading to a moderate confidence score.",
+    "level": "Quaternary"
   }
 }

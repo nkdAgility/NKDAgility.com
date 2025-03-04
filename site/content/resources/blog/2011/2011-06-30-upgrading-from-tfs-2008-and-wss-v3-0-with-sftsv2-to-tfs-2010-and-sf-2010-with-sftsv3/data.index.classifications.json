@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server and SharePoint, which is a critical aspect of managing the application lifecycle, including deployment and maintenance stages. It also touches on process templates and migration strategies, aligning well with ALM practices.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T22:20:44",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the upgrade process from Scrum for Team System v2 to v3, detailing specific steps, challenges, and considerations related to Scrum methodologies within the context of Team Foundation Server.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T23:10:03",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the upgrade process of Team Foundation Server and SharePoint, with no mention of AI applications or integration.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:48:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on upgrading the Scrum for Team System process templates, detailing the migration from SfTSv2 to SfTSv3. It discusses specific Scrum-related elements such as work item types, team projects, and the implications of using Scrum within Team Foundation Server. The depth of discussion includes practical steps and commands related to Scrum, indicating a strong alignment with Scrum principles and practices. However, while Scrum is a significant focus, the content also delves into technical aspects of TFS and SharePoint, which slightly detracts from a pure Scrum classification.",
+    "level": "Secondary"
   }
 }

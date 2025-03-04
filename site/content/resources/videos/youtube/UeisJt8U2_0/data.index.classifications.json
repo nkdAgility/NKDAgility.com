@@ -1367,15 +1367,6 @@
     "reasoning": "Content heavily discusses issues related to Scrum and Agile practices, rather than the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T17:09:49",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the role of Scrum Masters and the impact of their competence on Scrum practices, highlighting key Scrum principles and values.",
-    "level": "Secondary"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:49:03",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses issues related to Scrum roles and the effectiveness of agile coaches, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:16:20",
+    "ai_confidence": 78.0,
+    "ai_mentions": 3,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content discusses the role of Scrum Masters and the impact of incompetent Scrum practices, which directly relates to the Scrum framework. It highlights the importance of understanding Scrum principles and criticises misinterpretations, aligning well with the core themes of Scrum. The depth of discussion is significant, as it provides examples and personal experiences, although it also includes some negative commentary on Scrum practices, which slightly detracts from a purely constructive focus.",
+    "level": "Secondary"
   }
 }

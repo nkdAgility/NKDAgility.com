@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses installation issues related to Visual Studio and Team Foundation Server, which does not align with the core principles of Application Lifecycle Management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T11:46:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses installation issues related to Visual Studio and Team Foundation Server, with no mention of Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T11:46:35",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses installation issues related to Visual Studio and Team Foundation Server, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:38:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses installation issues related to Visual Studio and Team Foundation Server, with no direct mentions or discussions of Scrum principles, roles, events, or practices. It does not align with the core themes of Scrum, nor does it provide any depth on the subject. Therefore, it is classified as having a very low confidence score for the Scrum category.",
     "level": "Ignored"
   }
 }

@@ -557,15 +557,6 @@
     "reasoning": "Content focuses on the fit of a trainer for an organization rather than on decision-making processes in uncertain environments.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:35:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum concepts, roles, or practices; it focuses on organizational fit and trainer alignment.",
-    "level": "Ignored"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T11:35:46",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content focuses on organisational fit and training rather than AI applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:33:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content does not explicitly mention Scrum or its principles, roles, events, or artifacts. While it discusses themes of collaboration and innovation, which are relevant to Agile methodologies, it lacks a direct focus on Scrum. The discussion is vague and does not provide sufficient detail or alignment with Scrum concepts, resulting in a low confidence score.",
+    "level": "Quinary"
   }
 }

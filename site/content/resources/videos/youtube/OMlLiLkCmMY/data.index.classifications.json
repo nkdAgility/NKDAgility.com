@@ -323,15 +323,6 @@
     "reasoning": "Content primarily focuses on organisational change and employee engagement rather than the Agile Product Operating Model or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T14:59:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on organisational change and team engagement, without specific reference to Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
     "calculated_at": "2025-02-17T14:59:54",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses organisational change and team engagement, with no mention of AI or its application in Agile, DevOps, or software development.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:52:59",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content briefly touches on the importance of involving team members in organisational change, which aligns with the Scrum principle of team collaboration. However, it lacks explicit mentions of Scrum roles, events, or artifacts, and does not delve into the Scrum framework or its practices in any meaningful detail.",
+    "level": "Quaternary"
   }
 }

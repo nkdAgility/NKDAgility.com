@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses tools and practices related to Application Lifecycle Management, specifically focusing on IntelliTrace and Test Impact Analysis within the context of Visual Studio ALM. It addresses key aspects of managing the application lifecycle, such as bug tracking and regression testing, which are central to ALM.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T21:24:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio 2010 features and tools, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T21:24:38",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio features and tools for debugging and testing, with no clear focus on AI applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:46:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Visual Studio 2010 features, specifically IntelliTrace and Test Impact Analysis, with no direct mention of Scrum principles, roles, or events. While it briefly references Agile environments, it does not delve into Scrum-specific practices or frameworks, resulting in a low confidence score.",
+    "level": "Quinary"
   }
 }

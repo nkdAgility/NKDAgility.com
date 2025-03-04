@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses a Scrum training course and Agile practices, with no clear focus on the application lifecycle stages or management methodologies.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T20:49:48",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the Professional Scrum Foundations course, its structure, and the practical application of Scrum principles during the course, making Scrum a central theme.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-17T09:09:07",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile practices and teaching experiences without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:45:39",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the Professional Scrum Foundations course, detailing the roles, events, and practices associated with Scrum. It highlights the importance of teamwork, sprints, and retrospectives, which are core elements of the Scrum framework. The author shares personal experiences and insights from teaching the course, demonstrating a deep understanding of Scrum principles and their practical application. The content is primarily focused on Scrum, with only brief mentions of Agile practices, thus aligning well with the category.",
+    "level": "Secondary"
   }
 }

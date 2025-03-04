@@ -1250,15 +1250,6 @@
     "reasoning": "Content primarily discusses the challenges of project management in complex environments and does not focus on the measurement or optimization of throughput.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T07:25:18",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "While the content primarily discusses project management in complex environments, it suggests an exploration of Agile and Scrum courses, indicating that Scrum principles may play a significant role in the proposed solutions.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-18T07:25:18",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses project management in complex environments without any mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:23:43",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content briefly touches on project management in complex environments but does not explicitly mention Scrum or its principles. While it hints at the challenges of managing projects with high uncertainty, it lacks a direct discussion of Scrum roles, events, or artifacts, which are essential for a higher confidence score in this category.",
+    "level": "Quaternary"
   }
 }

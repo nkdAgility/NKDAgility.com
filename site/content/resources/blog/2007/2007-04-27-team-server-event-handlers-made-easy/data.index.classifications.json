@@ -62,15 +62,6 @@
     "reasoning": "Content primarily discusses technical implementation of event handlers in Team Foundation Server, with no clear focus on organisational agility or related practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T08:28:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses event handlers for Team Foundation Server and does not focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-17T08:28:49",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses event handlers and Team Foundation Server, with no mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:22:18",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses event handlers for Team Foundation Server and does not mention Scrum principles, roles, events, or artifacts. While it touches on aspects of project management through the use of event handlers, it lacks any direct references to Scrum or its core themes, resulting in a very low confidence score.",
     "level": "Ignored"
   }
 }

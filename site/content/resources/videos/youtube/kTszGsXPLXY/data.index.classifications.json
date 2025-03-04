@@ -1331,15 +1331,6 @@
     "reasoning": "Content primarily discusses Kanban and its implementation, with no clear focus on platform engineering or internal developer platforms.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T13:15:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Kanban, its implementation, and related tools, with no clear focus on Scrum principles, roles, or events.",
-    "level": "Ignored"
-  },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-17T13:15:53",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Kanban methodology and its implementation, with no clear focus on Artificial Intelligence or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:49:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses Kanban, a different framework, and does not mention Scrum roles, events, or principles. While it touches on team dynamics and continuous improvement, these concepts are framed within the context of Kanban, not Scrum. Therefore, the alignment with Scrum is minimal.",
     "level": "Ignored"
   }
 }

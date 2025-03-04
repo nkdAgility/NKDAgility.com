@@ -1,13 +1,4 @@
 {
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T15:53:01",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Agile principles and team alignment, which are relevant to Scrum, but it does not focus primarily on Scrum-specific roles, events, or artifacts.",
-    "level": "Tertiary"
-  },
   "Kanban": {
     "category": "Kanban",
     "calculated_at": "2025-02-17T15:53:02",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile team alignment and chaos management, with no mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:15:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 30,
+    "final_score": 41.0,
+    "reasoning": "The content briefly mentions Scrum in the context of Agile but does not delve into specific Scrum roles, events, or principles. While it discusses the importance of team alignment and common goals, which are relevant to Scrum, the lack of detailed discussion on Scrum-specific practices limits its alignment with the category.",
+    "level": "Tertiary"
   }
 }

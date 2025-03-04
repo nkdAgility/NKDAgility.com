@@ -323,15 +323,6 @@
     "reasoning": "Content primarily discusses the empowerment of Agile teams and their processes, without focusing on specific products or literature.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:34:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and the importance of team empowerment, which are relevant to Scrum, but it does not focus specifically on Scrum roles, events, or artifacts.",
-    "level": "Tertiary"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-02-17T12:34:56",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile methodologies and team empowerment without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:46:14",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the empowerment of teams to adapt their processes, which aligns with Scrum principles of self-organisation and continuous improvement. However, it lacks explicit references to specific Scrum roles, events, or artifacts, which limits its depth in discussing the Scrum framework directly.",
+    "level": "Tertiary"
   }
 }

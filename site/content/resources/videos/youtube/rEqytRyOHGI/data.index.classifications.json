@@ -1349,15 +1349,6 @@
     "reasoning": "Content primarily discusses the concept of special Sprints in agile practices and critiques traditional risk management methods, without a clear focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T14:35:34",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the concept of Sprints within the Scrum framework, including the implications of special Sprints and their impact on delivering usable working products, which aligns closely with Scrum principles.",
-    "level": "Secondary"
-  },
   "Social Technologies": {
     "category": "Social Technologies",
     "calculated_at": "2025-02-17T14:35:36",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile practices and risk management without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:51:24",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content discusses various aspects of Scrum, particularly focusing on the concept of Sprints and the implications of special Sprints on agile practices. It directly mentions Scrum principles, such as the importance of delivering usable working products and managing risk through iterative processes. The depth of discussion is significant, as it provides a detailed example from the Azure DevOps team, illustrating the challenges and lessons learned in a Scrum context. However, while it aligns well with Scrum principles, it also critiques certain practices, which may slightly detract from its alignment with the core Scrum framework.",
+    "level": "Secondary"
   }
 }

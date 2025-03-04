@@ -1349,15 +1349,6 @@
     "reasoning": "Content primarily discusses Agile leadership versus traditional management, with no clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T08:02:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the differences between traditional management and Agile leadership, with only a brief mention of Scrum in the hashtags. Scrum is not a central theme.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T08:02:11",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between Agile leadership and traditional management, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:24:45",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content briefly touches on the differences between agile leadership and traditional management, which aligns with the broader principles of Agile, including self-organisation and team empowerment. However, it does not explicitly mention Scrum roles, events, or artifacts, nor does it delve into specific Scrum practices. The discussion is more general about agile leadership rather than focused on Scrum, leading to a moderate confidence score.",
+    "level": "Quaternary"
   }
 }

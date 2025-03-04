@@ -30,6 +30,7 @@ tags:
 - Events and Presentations
 categories:
 - Scrum
+- Social Technologies
 preview: Scalled-Professional-Scrum-1280-2-2.jpg
 
 ---

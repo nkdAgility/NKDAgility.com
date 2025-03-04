@@ -350,15 +350,6 @@
     "reasoning": "The content discusses configuring a domain controller in Azure, which relates to deployment and management aspects of application lifecycle management, but it primarily focuses on technical setup rather than broader ALM methodologies or practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T23:56:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses configuring a domain controller in Azure and does not mention Scrum principles, roles, events, or any related topics.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T23:56:43",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring a domain controller in Azure and does not address AI applications or integration within Agile or DevOps methodologies.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:35:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on configuring a domain controller in Azure and does not discuss any Scrum principles, roles, events, or practices. There are no direct mentions of Scrum or its related concepts, and the discussion lacks depth in any Scrum-related topics.",
     "level": "Ignored"
   }
 }

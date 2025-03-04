@@ -1349,15 +1349,6 @@
     "reasoning": "Content primarily discusses product management principles and the transition from project management, without a clear focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T14:46:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the role of a Product Owner and touches on concepts relevant to Scrum, such as vision and value in product management, but it primarily focuses on product management rather than Scrum principles or practices.",
-    "level": "Tertiary"
-  },
   "Social Technologies": {
     "category": "Social Technologies",
     "calculated_at": "2025-02-17T14:46:43",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses product management principles and the transition from project management to product management, with no mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:52:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 50,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of a Product Owner and touches on concepts relevant to Scrum, such as vision, value, and validation in product management. However, it does not explicitly mention Scrum roles, events, or artifacts in detail. The focus is more on product management principles rather than the Scrum framework itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   }
 }

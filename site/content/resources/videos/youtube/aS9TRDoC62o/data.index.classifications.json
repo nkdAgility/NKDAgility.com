@@ -1367,15 +1367,6 @@
     "reasoning": "Content primarily discusses the relationship between Agile and DevOps, without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T19:11:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses DevOps in relation to Agile practices, with only a brief mention of Scrum at the end, making Scrum not central to the discussion.",
-    "level": "Ignored"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:52:34",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration of Agile and DevOps practices without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:19:22",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 30,
+    "final_score": 26.0,
+    "reasoning": "The content primarily discusses DevOps in relation to Agile practices, with only a brief mention of Scrum at the end. While it touches on Agile principles, it does not delve into Scrum-specific roles, events, or artifacts, which are crucial for a strong alignment with the Scrum category. The focus is more on the integration of DevOps and Agile rather than on Scrum itself.",
+    "level": "Quaternary"
   }
 }

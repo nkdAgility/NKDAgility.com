@@ -1349,15 +1349,6 @@
     "reasoning": "Content primarily discusses the journey to becoming an Agile consultant, focusing on Agile and Scrum methodologies rather than the One Engineering System framework.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T08:26:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Agile consulting with a focus on Scrum principles and practices, but it is primarily about the journey to becoming an Agile consultant rather than a detailed exploration of Scrum itself.",
-    "level": "Tertiary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T08:26:18",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the journey to becoming an Agile consultant, focusing on Agile practices and experiences, without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:26:35",
+    "ai_confidence": 65.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 50,
+    "final_score": 64.0,
+    "reasoning": "The content discusses the role of Scrum in organisational change and how it can be applied outside of traditional software contexts. While Scrum is mentioned explicitly, the focus is more on the broader concept of Agile consulting rather than a deep dive into Scrum principles or practices. The discussion includes some relevant themes, such as the importance of context and experience in applying Scrum, but lacks detailed exploration of Scrum roles, events, or artifacts.",
+    "level": "Secondary"
   }
 }

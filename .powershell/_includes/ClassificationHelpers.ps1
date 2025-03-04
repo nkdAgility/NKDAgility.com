@@ -212,7 +212,8 @@ function Get-CategoryConfidenceWithChecksum {
     $count = 0;
     $total = $catalog.Keys.Count
     foreach ($category in $catalog.Keys) {
-        Write-Progress -Id 2 -ParentId 1 -Activity "Classification of $ClassificationType" -Status "Processing classification $count of $total '$category'" -PercentComplete (($count / $total) * 100)
+        Write-DebugLog "Processing classification [$count/$total] $category | $(($count / $total) * 100)%"
+        #Write-Progress -Id 2 -ParentId 1 -Activity "Classification of $ClassificationType" -Status "Processing classification $count of $total '$category'" -PercentComplete (($count / $total) * 100)
         $count++
         if ($cachedData.PSObject.Properties[$category]) {            
             $categoryScores[$category] = $cachedData.$category      
@@ -239,17 +240,29 @@ function Get-CategoryConfidenceWithChecksum {
                 - If the category is **briefly mentioned or secondary**, return a lower confidence score.
                 - The confidence score **must be dynamically evaluated** rather than assigned from a fixed range.
 
-                ### Confidence Score Guidelines:
-                - **90-100**: The content is **highly focused** on this category.
-                - **70-89**: The category is a **major topic but not the sole focus**.
-                - **40-69**: The category is present but **not a dominant theme**.
-                - **1-39**: The category is **only weakly related** to the content.
-                - **0**: The category is **not relevant**.
+                ### Confidence Breakdown:
+                To ensure an accurate and nuanced score, evaluate the content using the following dimensions:
+
+                1. **Direct Mentions** (20%) – How explicitly is the category discussed?
+                2. **Conceptual Alignment** (40%) – Does the content align with the **core themes** of the category?
+                3. **Depth of Discussion** (40%) – How much detail does the content provide on this category?
+
+                Each dimension contributes to the final confidence score.
+
+
+                ### Additional Instructions:
+                1. **Do not use pre-set confidence levels.** The score must be freely determined for each evaluation.
+                2. **Avoid repeating the same numbers across different evaluations.** Ensure that scores vary naturally.
+                3. **Do not round confidence scores** to commonly expected values (such as multiples of 10 or 5).
+                4. Justify the score with a **detailed explanation** specific to the content.
 
                 return format should be valid json that looks like this:
                 {
                 "category": "$category",
                 "confidence": 0,
+                "mentions: 0,
+                "alignment": 0,
+                "depth": 0,
                 "reasoning": "Content heavily discusses Scrum roles and events."
                 }
 
@@ -283,11 +296,13 @@ function Get-CategoryConfidenceWithChecksum {
             $count = 0
             foreach ($prompt in $prompts) {
                 $count++
-                Write-Progress -Id 2 -Activity "Classification of $ClassificationType" -Status "Processing prompt [$count/$($prompts.count)]" -PercentComplete (($count / $prompts.count) * 100)
+                Write-DebugLog "Processing Prompt [$count/$($prompts.Count)] | $(($count / $prompts.Count) * 100)%"
+                #Write-Progress -Id 2 -Activity "Classification of $ClassificationType" -Status "Processing prompt [$count/$($prompts.count)]" -PercentComplete (($count / $prompts.count) * 100)
                 # Calls processing
                 $aiResponseJson = Get-OpenAIResponse -Prompt $prompt
                 $result = Get-ConfidenceFromAIResponse -AIResponseJson $aiResponseJson -ResourceTitle $ResourceTitle -ResourceContent $ResourceContent
                 if ($result.reasoning -ne $null -and $result.category -ne "unknown") {
+                    Write-InformationLog "Updating {category} with new confidence of {confidence} " -PropertyValues $result.category, $result.ai_confidence
                     $categoryScores[$result.category] = $result 
                     $cachedData | Add-Member -MemberType NoteProperty -Name $result.category -Value $result -Force
                     # Save cache after each API call
@@ -298,7 +313,7 @@ function Get-CategoryConfidenceWithChecksum {
                     exit
                 }               
             }
-            Write-Progress -Id 2 -Activity "All Tasks Complete" -Completed
+            # Write-Progress -Id 2 -Activity "All Tasks Complete" -Completed
         }
     }
 
@@ -344,7 +359,7 @@ function Get-FinalSelection {
     $finalSelection = @()
 
     foreach ($level in $levels) {
-        $currentSelection = $categoryScores.Values | Where-Object { $_.level -eq $level } | Sort-Object final_score -Descending
+        $currentSelection = $categoryScores.Values | Where-Object { $_.final_score -gt 30 -and $_.level -eq $level } | Sort-Object final_score -Descending
         if ($currentSelection.Count -gt 0) {
             $finalSelection += $currentSelection
             break
@@ -402,6 +417,24 @@ function Get-ConfidenceFromAIResponse {
    
     if ($responceOK) {
         $aiConfidence = if ($AIResponse.PSObject.Properties["confidence"]) { $AIResponse.confidence } else { 0 }
+        if ($aiConfidence -le 1 -and $aiConfidence -gt 0) {
+            $aiConfidence = [math]::Round($aiConfidence * 100)
+        }
+        $aiMentions = if ($AIResponse.PSObject.Properties["mentions"]) { $AIResponse.mentions } else { 0 }
+        if ($aiMentions -le 1 -and $aiMentions -gt 0) {
+            $aiMentions = [math]::Round($aiMentions * 100)
+        }
+        $aiAlignment = if ($AIResponse.PSObject.Properties["alignment"]) { $AIResponse.alignment } else { 0 }
+        if ($aiAlignment -le 1 -and $aiAlignment -gt 0) {
+            $aiAlignment = [math]::Round($aiAlignment * 100)
+        }
+        $aiDepth = if ($AIResponse.PSObject.Properties["depth"]) { $AIResponse.depth } else { 0 }
+        if ($aiDepth -le 1 -and $aiDepth -gt 0) {
+            $aiDepth = [math]::Round($aiDepth * 100)
+        }
+       
+        # Detect if confidence is a float in the 0-1 range
+       
         $category = if ($AIResponse.PSObject.Properties["category"]) { $AIResponse.category } else { "unknown" }
     }
     
@@ -431,6 +464,9 @@ function Get-ConfidenceFromAIResponse {
         "category"          = $category
         "calculated_at"     = if ($responceOK) { (Get-Date).ToUniversalTime().ToString("s") } else { (Get-Date).AddDays(-365).ToUniversalTime().ToString("s") }
         "ai_confidence"     = $aiConfidence
+        "ai_mentions"       = $aiMentions
+        "ai_alignment"      = $aiAlignment
+        "ai_depth"          = $aiDepth
         "non_ai_confidence" = $nonAiConfidence
         "final_score"       = $finalScore
         "reasoning"         = $AIResponse.reasoning
@@ -442,12 +478,11 @@ function Get-ConfidenceFromAIResponse {
 function Remove-ClassificationsFromCache {
     param (
         [string[]]$ClassificationsToRemove,
-        [string]$CacheFolder,
-        [string]$ClassificationType = "classification"
+        [string]$CacheFolder
     )
 
     # Construct the cache file path
-    $cacheFile = Join-Path $CacheFolder "data.index.$ClassificationType.json"
+    $cacheFile = Join-Path $CacheFolder "data.index.classifications.json"
 
     # Check if the cache file exists
     if (!(Test-Path $cacheFile)) {
@@ -541,3 +576,5 @@ function Remove-ClassificationsFromCacheThatLookBroken {
         Write-WarningLog "No classifications were removed. Cache remains unchanged."
     }
 }
+
+

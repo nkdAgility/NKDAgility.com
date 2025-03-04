@@ -350,15 +350,6 @@
     "reasoning": "The content discusses aspects of the TFS Automation Platform, including installation, configuration, and processing of automations, which are relevant to the management of software applications. However, it primarily focuses on implementation details rather than the broader methodologies and practices of Application Lifecycle Management.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T23:16:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the TFS Automation Platform and its integration, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T00:14:52",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the TFS Automation Platform and its installation and configuration processes, with no clear focus on Artificial Intelligence applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:48:29",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses the TFS Automation Platform and its integration processes, with no direct mentions of Scrum roles, events, or principles. While there are some references to project management concepts, they do not align with Scrum's core themes or provide any depth on Scrum practices.",
     "level": "Ignored"
   }
 }

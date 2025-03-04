@@ -1250,15 +1250,6 @@
     "reasoning": "Content primarily discusses the impact of measurement systems on team behaviour and dynamics, rather than focusing on throughput as a measurement of work completion rates.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T17:38:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Agile coaching and the roles of Scrum Master and Product Owner, indicating a major but secondary theme related to Scrum principles and team dynamics.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T17:38:40",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile methodologies and team dynamics without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:17:35",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 50,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the roles of Scrum practitioners (Scrum Master, Product Owner, Developer) and touches on Agile principles, particularly the importance of measuring performance and its impact on team dynamics. However, while it mentions Scrum and Agile, the focus is more on systemic issues rather than specific Scrum practices or frameworks, leading to a moderate confidence score.",
+    "level": "Secondary"
   }
 }

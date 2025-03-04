@@ -1,13 +1,4 @@
 {
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T16:00:22",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner and the Scrum Master within the Scrum framework, addressing challenges and responsibilities related to these roles.",
-    "level": "Secondary"
-  },
   "Kanban": {
     "category": "Kanban",
     "calculated_at": "2025-02-17T16:00:24",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of the product owner and Scrum Master in Agile teams, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:15:40",
+    "ai_confidence": 82.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner within the Scrum framework, addressing challenges faced by ineffective Product Owners and the responsibilities of the Scrum Master in such situations. It explicitly mentions Scrum roles and the dynamics between the Scrum Master and Product Owner, which aligns well with the key topics of the Scrum category. The depth of discussion is substantial, providing insights into team dynamics and the importance of collaboration, although it could benefit from more structured references to Scrum events and artifacts.",
+    "level": "Secondary"
   }
 }

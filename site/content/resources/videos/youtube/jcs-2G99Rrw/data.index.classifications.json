@@ -1331,15 +1331,6 @@
     "reasoning": "Content primarily discusses Azure DevOps and Agile practices, with a focus on common pitfalls rather than platform engineering principles or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T13:12:45",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Agile practices and mentions Scrum in the context of Azure DevOps, but it primarily focuses on the tool's features and common pitfalls rather than Scrum principles or frameworks.",
-    "level": "Tertiary"
-  },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-17T13:12:48",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps and Agile practices without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:47:28",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 50,
+    "final_score": 61.0,
+    "reasoning": "The content briefly mentions Agile practices and the role of Azure DevOps in supporting agile teams, which aligns with Scrum principles. However, it primarily focuses on Azure DevOps and its features rather than discussing Scrum roles, events, or artifacts in detail. The discussion lacks depth on Scrum-specific topics, resulting in a moderate confidence score.",
+    "level": "Secondary"
   }
 }

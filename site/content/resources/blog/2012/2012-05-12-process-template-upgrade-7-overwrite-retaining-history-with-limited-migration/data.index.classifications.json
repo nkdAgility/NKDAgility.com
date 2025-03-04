@@ -350,15 +350,6 @@
     "reasoning": "The content discusses upgrading process templates in Team Foundation Server, which relates to the maintenance and management of software applications. However, it primarily focuses on specific technical steps rather than the broader methodologies and practices of Application Lifecycle Management.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses upgrading process templates in Team Foundation Server, specifically mentioning the Visual Studio Scrum 2.0 template and work item types like 'User Story' and 'Product Backlog Item', which are relevant to Scrum practices.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T21:31:35",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses upgrading process templates in Team Foundation Server, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:45:23",
+    "ai_confidence": 45.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 50,
+    "final_score": 46.0,
+    "reasoning": "The content discusses upgrading process templates in Team Foundation Server (TFS) and includes references to work item types such as 'User Story' and 'Product Backlog Item', which are relevant to Scrum. However, the primary focus is on technical instructions for migration rather than on Scrum principles, roles, or events. While there are mentions of Scrum-related terms, the depth of discussion on Scrum practices is limited, leading to a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

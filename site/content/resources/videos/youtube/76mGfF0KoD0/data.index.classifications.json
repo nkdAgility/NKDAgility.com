@@ -557,15 +557,6 @@
     "reasoning": "The content discusses decision-making within Scrum environments, including how teams should decide whether to adopt Scrum practices, which aligns with decision-making processes, albeit as a secondary theme.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the role of the Scrum Master in relation to team dynamics, specifically addressing how to approach challenges that arise within a Scrum team. It touches on Scrum principles and practices and considers the implementation and understanding of Scrum in a workshop context.",
-    "level": "Secondary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T10:22:11",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events without any mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:26:06",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content discusses the role of the Scrum Master in detail, addressing challenges faced when the Scrum Master struggles with the team. It also touches on the importance of team dynamics and the democratic nature of Scrum, aligning well with Scrum principles. However, while it mentions Scrum frequently, the focus on Agile Process Simulation (APS) workshops and consulting may detract slightly from a pure Scrum discussion, leading to a high but not perfect confidence score.",
+    "level": "Secondary"
   }
 }

@@ -1349,15 +1349,6 @@
     "reasoning": "Content primarily discusses the benefits of private training courses and the dynamics of conversations in training settings, with no clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T07:29:46",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Agile and Scrum in the context of training and team dynamics, but it primarily focuses on the benefits of private training courses rather than Scrum principles or practices.",
-    "level": "Tertiary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T07:29:47",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the benefits of private training courses in Agile and DevOps contexts, without any mention or focus on Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:24:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Scrum in the context of training and discussions around Agile practices, but it does not focus on Scrum principles, roles, or events in detail. While there is some alignment with Agile principles and the importance of team dynamics, the depth of discussion on Scrum specifically is limited, making it a secondary topic rather than a primary focus.",
+    "level": "Quaternary"
   }
 }

@@ -350,15 +350,6 @@
     "reasoning": "The content discusses creating custom activities for Team Foundation Build, which relates to the deployment and maintenance stages of the application lifecycle, but it primarily focuses on technical implementation rather than broader ALM practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T18:04:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses creating custom activities for Team Foundation Build, which is unrelated to Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T18:46:07",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses creating custom activities for Team Foundation Build, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:39:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, which is unrelated to Scrum principles, roles, or practices. There are no direct mentions of Scrum or its core concepts, and the discussion lacks depth in any Scrum-related topics.",
     "level": "Ignored"
   }
 }

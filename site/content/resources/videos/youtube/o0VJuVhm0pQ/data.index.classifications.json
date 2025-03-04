@@ -1349,15 +1349,6 @@
     "reasoning": "Content heavily discusses Scrum as a product development framework, focusing on its principles and execution rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T08:35:41",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the Scrum framework, its role in product development, and how it can facilitate customer acquisition and retention, making it a central theme.",
-    "level": "Secondary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T08:35:42",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and Agile methodologies without any mention of Artificial Intelligence or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:27:51",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content discusses Scrum principles and their implications for product development in competitive markets. It explicitly mentions Scrum's role in creating transparency and facilitating discussions about product backlog and delivery. The discussion aligns well with Scrum's emphasis on iterative progress and continuous improvement, although it also touches on broader business concepts, which slightly detracts from its focus on Scrum itself.",
+    "level": "Secondary"
   }
 }

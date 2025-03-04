@@ -45,8 +45,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Leadership
-- Social Technologies
 
 ---
 ## Reinvigorating Your Scrum Team: The Agile Coach's Playbook 🚀 

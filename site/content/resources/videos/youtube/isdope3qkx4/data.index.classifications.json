@@ -557,15 +557,6 @@
     "reasoning": "Content is focused on general questions regarding DevOps and Agility without a specific focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:22:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions Scrum in the context of an expert's professional background, but it is not primarily focused on Scrum principles or practices. It invites questions on various topics, including Scrum, which indicates a secondary theme.",
-    "level": "Tertiary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T11:22:44",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps and Agile topics without a clear focus on Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:32:04",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 50,
+    "final_score": 66.0,
+    "reasoning": "The content discusses Scrum principles, particularly in the context of distributed teams and tools that facilitate Scrum practices. It mentions the Scrum Guide and the importance of co-location, but the focus is more on tools and general agile practices rather than a deep dive into Scrum roles, events, or artifacts. While there are relevant mentions, the overall depth and primary focus lean more towards practical tool usage rather than a comprehensive discussion of Scrum itself.",
+    "level": "Secondary"
   }
 }

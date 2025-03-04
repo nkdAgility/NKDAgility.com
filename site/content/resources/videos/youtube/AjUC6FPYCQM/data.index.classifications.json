@@ -557,15 +557,6 @@
     "reasoning": "Content heavily discusses Scrum application and related practices without focusing on decision-making processes in uncertain environments.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:22:02",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses Scrum application, professionalism in Scrum practices, and challenges teams face, aligning closely with the principles and frameworks of Scrum.",
-    "level": "Secondary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T10:22:02",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum application and project management, with no focus on Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:25:38",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content discusses the importance of professionalism within Scrum teams, highlighting roles, transparency, and the need for teams to deliver potentially shippable products. It aligns well with Scrum principles, particularly regarding team dynamics and continuous improvement. However, while it touches on key Scrum concepts, it does not delve deeply into the specific Scrum events or artifacts, which slightly lowers the depth score.",
+    "level": "Secondary"
   }
 }

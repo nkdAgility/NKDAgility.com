@@ -1313,15 +1313,6 @@
     "reasoning": "Content heavily discusses automated testing and software engineering practices, with no focus on psychological principles or theories related to organisational behaviour.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:01:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses automated testing and software engineering practices, with no clear focus on Scrum principles, roles, events, or frameworks.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:01:58",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses automated testing and DevOps practices without a clear focus on the application of AI in these areas.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:40:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses automated testing and its importance in software engineering, with no direct mention of Scrum principles, roles, or events. While it touches on concepts like continuous improvement and efficiency, these are not explicitly linked to Scrum practices. The focus is more on technical aspects of testing rather than the collaborative and iterative nature of Scrum.",
+    "level": "Quinary"
   }
 }

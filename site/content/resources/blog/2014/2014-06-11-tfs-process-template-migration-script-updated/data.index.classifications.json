@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the migration of TFS process templates, which is a key aspect of managing the application lifecycle, particularly in the context of deployment and maintenance. It includes steps and considerations relevant to application governance and compliance, making it a significant theme.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T10:20:15",
-    "ai_confidence": 70,
-    "non_ai_confidence": 50,
-    "final_score": 68.0,
-    "reasoning": "The content discusses migrating to a Visual Studio Scrum template and includes specific references to Scrum terminology, such as 'Product Backlog Item' and 'Impediment', indicating that Scrum is a significant theme in the context of the migration process.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T10:42:28",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses TFS process template migration and related scripting, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:36:52",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 50,
+    "final_score": 64.0,
+    "reasoning": "The content discusses the migration to a Visual Studio Scrum template, which directly mentions Scrum and its associated terminology, such as 'Product Backlog Item' and 'Impediment'. However, the primary focus is on the technical aspects of the migration process rather than the Scrum framework itself, which limits the depth of discussion on Scrum principles and practices. While it aligns with Scrum concepts, the content does not delve into the roles, events, or empirical process control that are central to Scrum, resulting in a moderate confidence score.",
+    "level": "Secondary"
   }
 }

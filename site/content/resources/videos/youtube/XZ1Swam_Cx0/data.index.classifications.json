@@ -1,13 +1,4 @@
 {
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T15:59:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content mentions Scrum as part of a broader discussion on agile methodologies and critiques fake agilists, indicating that Scrum is a significant but secondary theme.",
-    "level": "Tertiary"
-  },
   "Kanban": {
     "category": "Kanban",
     "calculated_at": "2025-02-17T15:59:22",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the concept of fake agilists and their impact on Agile methodologies, without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:15:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions 'scrum' in the context of discussing agile methodologies but does not provide substantial information or detailed discussion about Scrum principles, roles, or practices. The focus is more on critiquing 'fake agilists' rather than exploring Scrum as a framework. Therefore, while there is a mention of Scrum, it is not a primary focus, leading to a low confidence score.",
+    "level": "Quaternary"
   }
 }

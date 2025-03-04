@@ -1349,15 +1349,6 @@
     "reasoning": "Content primarily discusses the role of a product owner in an agile context, focusing on task management versus team engagement, rather than the principles of BetaCodex or decentralised organisational design.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T14:23:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Product Owner and the importance of team dynamics, which are key aspects of Scrum, but it primarily focuses on the negative implications of poor practices rather than the Scrum framework itself.",
-    "level": "Tertiary"
-  },
   "Social Technologies": {
     "category": "Social Technologies",
     "calculated_at": "2025-02-17T14:24:16",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of a product owner in Agile methodologies, with no mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:50:57",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the role of the Product Owner, which is a key aspect of the Scrum framework. It highlights the importance of focusing on goals and outcomes rather than strict task management, aligning with Scrum principles of team engagement and value delivery. However, while it touches on Scrum concepts, it does not delve deeply into the Scrum events or other roles, which limits the depth of discussion. Overall, the content is primarily focused on the Product Owner's role within Scrum, justifying a moderate to high confidence score.",
+    "level": "Secondary"
   }
 }

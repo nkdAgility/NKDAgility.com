@@ -1331,15 +1331,6 @@
     "reasoning": "Content primarily discusses the importance of delivery in software development, focusing on Agile and Scrum methodologies rather than the principles or components of the One Engineering System framework.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-13T21:46:09",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the importance of delivery in Agile and Scrum, emphasising frequent releases, feedback loops, and the principles of transparency and adaptation, which are central to the Scrum framework.",
-    "level": "Secondary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-13T21:46:10",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of delivery in Agile methodologies and does not focus on Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:38:11",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 27.0,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content discusses the importance of delivery in the context of Agile and Scrum, highlighting key principles such as frequent releases, feedback loops, and the risks of delayed delivery. It explicitly mentions Scrum as a framework that supports these practices, aligning well with the core themes of the category. However, while it touches on Scrum principles, the focus is more on delivery and value realisation rather than a comprehensive exploration of Scrum roles, events, or artifacts, which slightly lowers the depth score.",
+    "level": "Primary"
   }
 }

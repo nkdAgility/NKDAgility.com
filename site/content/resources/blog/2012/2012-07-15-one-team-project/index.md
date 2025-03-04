@@ -39,6 +39,7 @@ tags:
 - Large Scale Agility
 categories:
 - Social Technologies
+- Scrum
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

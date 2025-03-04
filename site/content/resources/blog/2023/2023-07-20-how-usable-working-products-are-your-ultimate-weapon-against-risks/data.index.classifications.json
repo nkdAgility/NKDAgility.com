@@ -1331,15 +1331,6 @@
     "reasoning": "Content primarily discusses Agile practices and the importance of delivering usable working products, without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:08:35",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and the importance of delivering usable working products, which are relevant to Scrum practices, but it does not focus specifically on Scrum roles, events, or artifacts.",
-    "level": "Tertiary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-13T21:49:47",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile practices and the importance of usable working products, but does not mention or relate to Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:20:28",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content discusses Agile principles and the importance of delivering usable working products, which aligns with Scrum's emphasis on iterative development and customer collaboration. However, it lacks direct references to specific Scrum roles, events, or artifacts, resulting in a moderate confidence score. The focus is more on general Agile practices rather than a detailed exploration of Scrum itself.",
+    "level": "Secondary"
   }
 }

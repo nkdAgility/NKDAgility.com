@@ -39,7 +39,6 @@ tags:
 - Events and Presentations
 categories:
 - Scrum
-- Social Technologies
 preview: nakedalm-experts-professional-scrum-3-3.png
 
 ---

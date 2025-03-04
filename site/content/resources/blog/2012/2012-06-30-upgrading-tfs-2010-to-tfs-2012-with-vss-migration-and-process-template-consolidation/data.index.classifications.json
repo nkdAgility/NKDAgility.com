@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the upgrade process of TFS (Team Foundation Server), which is a critical aspect of managing the application lifecycle, including deployment, maintenance, and process template customisation. It details methodologies and tools used in the upgrade, aligning well with the principles of Application Lifecycle Management.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the upgrade of TFS and mentions the Visual Studio Scrum 2.0 Process Template, indicating a significant but secondary theme related to Scrum practices.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T21:31:16",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the upgrade process of TFS and VSS migration, with no mention of AI applications or integration within Agile or DevOps methodologies.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:44:59",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 50,
+    "final_score": 64.0,
+    "reasoning": "The content primarily focuses on upgrading TFS and migrating data, with only brief mentions of Scrum in the context of process templates. While it touches on aspects of project management and team collaboration, it lacks a comprehensive discussion of Scrum principles, roles, events, or artifacts, which are essential for a higher confidence score in this category.",
+    "level": "Secondary"
   }
 }

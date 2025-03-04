@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses issues related to version control systems and workflows, rather than the management of the application lifecycle.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T00:20:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to version control systems and Git, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T00:21:00",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses version control systems and workflows, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:35:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses issues related to version control systems, specifically Git and its comparison to StarTeam and TFVC. There are no direct mentions of Scrum principles, roles, events, or practices. The discussion does not align with the core themes of Scrum, such as team dynamics, iterative progress, or continuous improvement. The depth of discussion is focused on technical aspects of version control rather than any Scrum-related content.",
     "level": "Ignored"
   }
 }

@@ -33,6 +33,7 @@ tags:
 - Events and Presentations
 categories:
 - Social Technologies
+- Scrum
 preview: metro-nwc-128-link-2-2.png
 
 ---

@@ -1349,15 +1349,6 @@
     "reasoning": "Content primarily discusses the issues surrounding story points in Agile methodologies, focusing on estimation practices rather than the principles of decentralised, adaptive, and human-centric organisational design central to Beta Codex.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T14:38:04",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses story points, a concept related to Agile and Scrum, but primarily critiques their use rather than focusing on Scrum principles or practices.",
-    "level": "Tertiary"
-  },
   "Social Technologies": {
     "category": "Social Technologies",
     "calculated_at": "2025-02-17T14:38:05",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses story points in Agile methodologies without any mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:51:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses story points, a concept related to Agile and Scrum, but primarily critiques their use rather than focusing on Scrum principles or practices. While it touches on team dynamics and the dysfunctions caused by an overemphasis on story points, it lacks a comprehensive exploration of the Scrum framework, roles, events, or artifacts. The discussion is more about the pitfalls of story points than about Scrum itself, leading to a moderate confidence score.",
+    "level": "Quaternary"
   }
 }

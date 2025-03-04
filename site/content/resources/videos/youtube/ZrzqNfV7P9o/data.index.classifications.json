@@ -1349,15 +1349,6 @@
     "reasoning": "Content heavily discusses the use of Minecraft Education for teaching Scrum, which is unrelated to the principles of the One Engineering System.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:41:45",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the application of Scrum principles in a Minecraft educational setting, making Scrum a major theme, but it is not the sole focus.",
-    "level": "Tertiary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T10:41:47",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the use of Minecraft Education for teaching Scrum, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:28:49",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 50,
+    "final_score": 43.0,
+    "reasoning": "The content discusses the use of Minecraft as a tool for teaching complex problem-solving in a team setting, which aligns with Scrum principles of collaboration and iterative progress. However, it lacks direct mentions of Scrum roles, events, or artifacts, and does not delve deeply into Scrum practices. The focus is more on the educational aspect rather than a structured Scrum framework.",
+    "level": "Tertiary"
   }
 }

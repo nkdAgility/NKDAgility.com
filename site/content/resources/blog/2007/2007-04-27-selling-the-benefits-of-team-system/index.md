@@ -25,8 +25,7 @@ aliasesArchive:
 tags:
 - Products and Books
 - People and Process
-categories:
-- Product Management
+categories: []
 
 ---
 I have found that there is very little content available on the art of selling Team System for developers that want to use it. Developers need to sell it not only to their manager, but to a hole host of people, and it is no small expense to implement it.

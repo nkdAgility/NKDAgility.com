@@ -19,8 +19,8 @@ aliasesArchive:
 - /newsletters/change-is-easier-with-a-friend-buy-1-get-1-free/
 - /resources/newsletters/change-is-easier-with-a-friend-buy-1-get-1-free/
 categories:
-- Scrum
 - Social Technologies
+- Scrum
 tags:
 - Agile Project Management
 - Events and Presentations

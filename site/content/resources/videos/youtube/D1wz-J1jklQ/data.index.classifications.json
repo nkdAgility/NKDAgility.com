@@ -1313,15 +1313,6 @@
     "reasoning": "Content primarily discusses technical aspects of frequent deployments and technical debt without personal anecdotes or reflections.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T11:57:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the benefits of frequent deployments and technical debt management, without a clear focus on Scrum principles, roles, events, or artifacts.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T11:57:41",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses deployment strategies and technical debt in software development, with no clear focus on AI applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:38:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the benefits of frequent deployments and breaking down work into smaller chunks, which aligns with Agile principles and iterative progress. However, it does not explicitly mention Scrum roles, events, or artifacts, nor does it focus on Scrum practices specifically. The discussion is more about deployment strategies and technical debt rather than Scrum as a framework.",
+    "level": "Quaternary"
   }
 }

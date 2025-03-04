@@ -350,15 +350,6 @@
     "reasoning": "The content mentions a training session on 'Real World Business and Technical Benefits of ALM with TFS 2010', indicating a focus on Application Lifecycle Management, but the overall content primarily promotes training sessions without delving deeply into ALM methodologies or practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T00:08:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses free training sessions and coffee talks, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T00:46:22",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses free training sessions and specific topics related to software development, without any mention of AI or its integration within Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:49:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on promoting free training sessions at Northwest Cadence, specifically mentioning 'Coffee talks' and various topics related to software development. However, it does not explicitly discuss Scrum principles, roles, events, or any related frameworks. The mention of training could tangentially relate to Scrum if the topics covered were Scrum-related, but this is not indicated in the content provided. Therefore, the confidence score reflects a very low alignment with the Scrum category.",
+    "level": "Quinary"
   }
 }

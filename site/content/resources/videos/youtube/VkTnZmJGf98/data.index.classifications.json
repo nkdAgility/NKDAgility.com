@@ -1349,15 +1349,6 @@
     "reasoning": "The content discusses agility and organisational adaptation, which are relevant to BetaCodex principles, but it primarily focuses on evidence-based management rather than a direct exploration of BetaCodex concepts.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T14:07:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses evidence-based management and its impact on organisational success, with only a brief mention of Scrum among other methodologies. Scrum is not the central focus.",
-    "level": "Ignored"
-  },
   "Social Technologies": {
     "category": "Social Technologies",
     "calculated_at": "2025-02-17T14:07:42",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses evidence-based management in Agile practices without a clear focus on Artificial Intelligence applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:50:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Scrum among other frameworks but does not focus on Scrum principles, roles, or events. It discusses evidence-based management in a broader context of agility without delving into specific Scrum practices or concepts, leading to a low confidence score.",
+    "level": "Quaternary"
   }
 }

@@ -557,15 +557,6 @@
     "reasoning": "While the content discusses consulting and organizational change, it primarily focuses on consulting roles and methods rather than on explicit decision-making processes, heuristics, or frameworks associated with Decision Theory.",
     "level": "Quinary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:14:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role of consultants in organizations and their impact on agile practices, but does not focus on Scrum principles, roles, or framework. It is mostly about consulting rather than Scrum.",
-    "level": "Ignored"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T11:14:14",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of consultants in organisational change and Agile practices, without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:28:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the role of consultants in organisations and their impact on agile practices, but it does not explicitly mention Scrum or its specific roles, events, or artifacts. While there are references to agile principles and the need for organisational change, the discussion lacks a direct focus on Scrum methodologies or frameworks, leading to a low confidence score.",
+    "level": "Quinary"
   }
 }

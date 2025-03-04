@@ -557,15 +557,6 @@
     "reasoning": "Content heavily discusses the roles and responsibilities of Scrum Masters without addressing decision-making processes or theories relevant to Decision Theory.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:22:16",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the role and responsibilities of a Scrum Master, emphasizing the importance of professionalism within the Scrum framework, aligning well with key topics of Scrum.",
-    "level": "Secondary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T10:22:16",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the roles and responsibilities of Scrum Masters without any mention of Artificial Intelligence or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:26:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master, which is a key aspect of the Scrum framework. It addresses the distinction between 'newbie' and 'professional' Scrum Masters, aligning with the principles of accountability and team effectiveness. The discussion reflects on the responsibilities and professional expectations of a Scrum Master, which ties into the core themes of Scrum. However, while it provides a good level of detail, it does not delve deeply into other Scrum roles, events, or artifacts, which slightly limits the depth of discussion.",
+    "level": "Secondary"
   }
 }

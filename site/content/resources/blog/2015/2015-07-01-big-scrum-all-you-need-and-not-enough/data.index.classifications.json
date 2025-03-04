@@ -350,15 +350,6 @@
     "reasoning": "Content heavily discusses Scrum and scaling Agile methodologies, which are not directly related to Application Lifecycle Management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T21:56:42",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses scaling Scrum, its values, principles, and the need for professional Scrum teams, making it a central topic.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T21:56:53",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum practices and scaling Agile methodologies without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:34:28",
+    "ai_confidence": 82.0,
+    "ai_mentions": 16,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses Scrum principles and practices, particularly in the context of scaling Scrum. It mentions the need for Professional Scrum Teams and the importance of embodying agile values and principles, which aligns well with the core themes of the Scrum framework. The depth of discussion is significant, as it covers challenges in scaling agility and highlights additional practices for effective implementation. Overall, the content is focused on Scrum, providing a detailed exploration of its application in larger contexts.",
+    "level": "Secondary"
   }
 }

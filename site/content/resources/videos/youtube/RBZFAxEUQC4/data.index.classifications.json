@@ -1367,15 +1367,6 @@
     "reasoning": "Content primarily discusses the challenges and misconceptions surrounding Agile transformation rather than focusing on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T17:14:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the challenges and misconceptions surrounding agile transformation rather than focusing specifically on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:49:45",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile transformation and organisational change without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:17:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions 'agile' and 'scrum' towards the end, but the primary focus is on the pitfalls of adopting agile practices without understanding them. While it touches on the need for organisations to develop their own unique approach to agile, it lacks a detailed discussion of Scrum principles, roles, or events. The content does not delve into the Scrum framework or its core themes, leading to a low confidence score.",
+    "level": "Quaternary"
   }
 }

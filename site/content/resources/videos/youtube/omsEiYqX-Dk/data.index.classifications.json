@@ -1250,15 +1250,6 @@
     "reasoning": "The content discusses the importance of responding quickly to market changes and the role of agile practices in enabling faster responses, which relates to throughput. However, it primarily focuses on organisational agility and decision-making processes rather than directly measuring or optimising throughput.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T18:45:53",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses agile practices and mentions Scrum as part of a broader conversation about organisational agility, but it is not primarily focused on Scrum itself.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T18:45:55",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses organizational agility and the challenges of responding to market changes, without a clear focus on the application of AI in Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:18:53",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 30,
+    "final_score": 41.0,
+    "reasoning": "The content discusses agile practices broadly, including Scrum, but does not focus specifically on Scrum principles, roles, or events. While it mentions agile and touches on concepts relevant to Scrum, such as team empowerment and responsiveness to market changes, it also includes references to other frameworks like DevOps and Kanban, which dilutes its alignment with the Scrum category. The depth of discussion on Scrum is limited, as it does not delve into specific Scrum practices or frameworks.",
+    "level": "Tertiary"
   }
 }

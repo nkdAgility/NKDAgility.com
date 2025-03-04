@@ -350,15 +350,6 @@
     "reasoning": "The content discusses the shift from waterfall to agile methodologies in the context of software development, touching on aspects of application lifecycle management such as iterative development, user involvement, and project success rates. However, it primarily focuses on agile principles rather than a comprehensive view of the entire application lifecycle.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T18:33:46",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the transition from waterfall to agile methodologies, specifically highlighting the use of Scrum in the context of the FBI's project. It covers Scrum principles, the benefits of iterative development, and the impact of adopting Scrum practices in government projects.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T18:33:55",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the transition from waterfall to agile methodologies in the context of the Department of Defence and the FBI, without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:33:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the transition from waterfall to agile methodologies, specifically highlighting the use of Scrum within the Department of Defence and the FBI. It mentions Scrum roles, iterative processes, and the benefits of agile practices, which align well with Scrum principles. However, the primary focus is on the broader context of agile adoption rather than an in-depth exploration of Scrum itself, leading to a moderately high confidence score.",
+    "level": "Secondary"
   }
 }

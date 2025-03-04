@@ -53,15 +53,6 @@
     "reasoning": "Content primarily focuses on Scrum processes and product development rather than leadership practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-20T18:19:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions Scrum in the context of creating a sprint goal, indicating that it is a major theme, but lacks detailed discussion on Scrum principles or practices.",
-    "level": "Tertiary"
-  },
   "MVP": {
     "category": "MVP",
     "calculated_at": "2025-02-20T18:47:55",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:38:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on the importance of frequent product releases and adapting to market opportunities, which aligns with Agile principles and the Scrum framework's emphasis on delivering working software frequently. However, it lacks explicit mentions of Scrum roles, events, or artifacts, and does not delve into the specifics of Scrum practices, resulting in a low confidence score.",
+    "level": "Quaternary"
   }
 }

@@ -36,6 +36,7 @@ resourceTypes:
 - video
 categories:
 - Social Technologies
+- Scrum
 
 ---
 ## Immersive Learning: 8 Weeks of Deep Engagement

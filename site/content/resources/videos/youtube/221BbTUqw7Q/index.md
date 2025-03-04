@@ -47,7 +47,6 @@ resourceTypes:
 layout: video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 ## Scrum's True Potential: A Journey Through the APS Immersive Class

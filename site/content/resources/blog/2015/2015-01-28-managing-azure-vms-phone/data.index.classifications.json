@@ -350,15 +350,6 @@
     "reasoning": "The content discusses managing Azure virtual machines, which relates to application lifecycle management, but primarily focuses on the use of a mobile application for VM management rather than the broader ALM methodologies or practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T23:02:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses managing Azure virtual machines and does not focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T23:02:45",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses managing Azure virtual machines and does not focus on Artificial Intelligence or its integration within Agile or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:34:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on managing Azure virtual machines and does not discuss any Scrum principles, roles, events, or practices. While it touches on project management in a general sense, it lacks any specific references to Scrum or its framework, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

@@ -39,6 +39,7 @@ tags:
 - Software Developers
 categories:
 - Social Technologies
+- Scrum
 preview: NKDAgility-technically-7DeadlySins-16-15.jpg
 
 ---

@@ -1331,15 +1331,6 @@
     "reasoning": "Content heavily discusses Agile and Scrum frameworks, focusing on team dynamics and cultural challenges rather than the principles or implementation of the One Engineering System (1ES).",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-13T21:47:20",
-    "ai_confidence": 70,
-    "non_ai_confidence": 50,
-    "final_score": 68.0,
-    "reasoning": "The content discusses Agile and Scrum principles, focusing on team dynamics and the importance of responding to signals within the context of Scrum implementation. While it is a major theme, it also draws parallels to other methodologies, which slightly dilutes its primary focus.",
-    "level": "Secondary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-17T09:08:33",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile and Scrum methodologies without any mention of Artificial Intelligence or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:47:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content discusses Scrum in the context of Agile principles and highlights the importance of culture and mindset in implementing Scrum effectively. While it mentions Scrum explicitly and aligns with some core themes, such as continuous improvement and team dynamics, it does not delve deeply into specific Scrum roles, events, or artifacts. The discussion is more focused on the challenges of implementation rather than the framework itself, which affects the overall depth of discussion.",
+    "level": "Secondary"
   }
 }

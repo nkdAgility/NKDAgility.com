@@ -1367,15 +1367,6 @@
     "reasoning": "Content heavily discusses Scrum and its role in revealing organisational problems, without a focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T17:59:34",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the principles and value of Scrum, particularly how it reveals organisational problems and promotes continuous improvement, making it a central theme.",
-    "level": "Secondary"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:50:49",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and Agile methodologies without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:17:55",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 34,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses Scrum principles, particularly how it reveals organisational problems rather than solving them. It mentions Scrum's role in facilitating team collaboration and highlights the importance of feedback loops, which aligns with Agile principles. The depth of discussion is significant, providing examples from personal experience and addressing common challenges in Scrum implementation. Overall, the content is a strong fit for the Scrum category.",
+    "level": "Primary"
   }
 }

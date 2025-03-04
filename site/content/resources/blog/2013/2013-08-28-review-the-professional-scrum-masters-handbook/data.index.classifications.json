@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses Scrum methodologies and the role of Scrum Masters, which are not directly related to Application Lifecycle Management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T11:56:59",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the principles and practices of Scrum, particularly in relation to the review of a Scrum-related book, highlighting key roles, anti-patterns, and misconceptions within the Scrum framework.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T11:57:09",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:38:53",
+    "ai_confidence": 82.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on a review of 'The Professional Scrum Masters Handbook', discussing various Scrum principles, roles, and practices. It explicitly mentions Scrum multiple times and critiques the author's understanding of Scrum concepts, indicating a strong engagement with the topic. The depth of discussion includes specific anti-patterns and misconceptions related to Scrum, demonstrating a thorough examination of the subject matter. Overall, the content aligns well with the Scrum category, providing insights into its implementation and challenges.",
+    "level": "Secondary"
   }
 }

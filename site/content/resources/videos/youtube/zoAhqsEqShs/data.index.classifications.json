@@ -1349,15 +1349,6 @@
     "reasoning": "Content primarily discusses Agile consulting experiences and practices, with no clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T08:26:25",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses experiences and outcomes related to Agile consulting, with a significant focus on Scrum training and its impact on organisations, making Scrum a central theme.",
-    "level": "Secondary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T08:26:27",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile consulting experiences and transformations without a clear focus on the application of AI in Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:26:38",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content discusses Scrum training in detail, highlighting its impact on an organisation and the involvement of various roles, including the CEO. It provides a specific example of how Scrum principles were applied and the positive outcomes that resulted. However, while Scrum is a significant part of the narrative, the overall focus is more on Agile and DevOps, which slightly dilutes the primary emphasis on Scrum itself.",
+    "level": "Secondary"
   }
 }

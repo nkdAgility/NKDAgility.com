@@ -36,6 +36,7 @@ resourceTypes:
 categories:
 - Leadership
 - Social Technologies
+- Scrum
 
 ---
 In my journey through the world of Agile, I've often encountered what I like to call the "plagues" of agility. One of the most insidious of these is the tendency for teams to become overly attached to their tools and processes. This fixation can be detrimental, stifling the very essence of what it means to be agile. 

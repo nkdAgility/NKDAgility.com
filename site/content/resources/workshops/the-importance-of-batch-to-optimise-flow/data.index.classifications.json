@@ -1313,15 +1313,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on technical methodologies rather than psychological principles related to organisational behaviour.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:10:25",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses a workshop designed for Scrum teams, focusing on the impact of breaking down backlog items and includes facilitation steps relevant to Scrum practices.",
-    "level": "Tertiary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:10:26",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses workshop facilitation for optimising flow in Scrum, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:43:53",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content discusses a workshop designed for Scrum teams, focusing on the impact of breaking down large backlog items into smaller pieces, which aligns with Scrum principles of iterative progress and delivering value. It explicitly mentions Scrum teams and includes facilitation steps that reflect Scrum events and practices. However, while it touches on Scrum concepts, it does not delve deeply into the roles or specific Scrum events, which slightly lowers the depth score.",
+    "level": "Secondary"
   }
 }

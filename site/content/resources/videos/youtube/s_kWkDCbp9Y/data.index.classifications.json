@@ -1331,15 +1331,6 @@
     "reasoning": "The content discusses the role of an Agile coach, which relates to leadership in fostering team understanding and context. However, it primarily focuses on the coach's background and knowledge rather than broader leadership strategies or practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T15:38:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Agile coaching, which is related to Scrum principles, but it does not primarily focus on Scrum itself.",
-    "level": "Tertiary"
-  },
   "Beta Codex": {
     "category": "Beta Codex",
     "calculated_at": "2025-02-17T15:38:53",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of an Agile coach and team context, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:14:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 30,
+    "final_score": 41.0,
+    "reasoning": "The content briefly mentions Agile and Scrum in the context of coaching but lacks a detailed discussion on Scrum principles, roles, or events. While it aligns conceptually with the importance of understanding team dynamics and context, it does not delve into specific Scrum practices or frameworks, resulting in a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

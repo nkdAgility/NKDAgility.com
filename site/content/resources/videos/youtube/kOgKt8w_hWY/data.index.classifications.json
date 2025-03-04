@@ -557,15 +557,6 @@
     "reasoning": "Content is related to a live event and does not discuss decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:22:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content does not provide any information related to Scrum, its roles, events, or principles. It seems to be an invitation to watch a video rather than a discussion on Scrum.",
-    "level": "Ignored"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T11:22:23",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not discuss Artificial Intelligence or its application in Agile, DevOps, or software development; it is primarily about a live event without relevant context.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:31:29",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on DevOps and does not mention Scrum or its principles, roles, events, or artifacts. There is no alignment with Scrum concepts, and the discussion lacks depth regarding Scrum practices.",
     "level": "Ignored"
   }
 }

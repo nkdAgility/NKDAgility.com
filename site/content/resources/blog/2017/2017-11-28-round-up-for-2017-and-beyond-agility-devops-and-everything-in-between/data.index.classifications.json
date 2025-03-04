@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses conferences, training, and Agile methodologies, with no clear focus on the stages or practices of Application Lifecycle Management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Scrum training and classes, indicating that Scrum is a significant theme, but it is not the primary focus of the overall discussion.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T18:55:27",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile methodologies and DevOps practices without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:33:25",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 64.0,
+    "reasoning": "The content discusses Scrum in the context of training and workshops, with multiple mentions of Scrum classes and Professional Scrum Master training. However, it primarily focuses on the author's experiences and upcoming events rather than a detailed exploration of Scrum principles or frameworks. While Scrum is a significant part of the content, it is not the primary focus, leading to a moderate confidence score.",
+    "level": "Secondary"
   }
 }

@@ -1331,15 +1331,6 @@
     "reasoning": "Content primarily discusses Taylorism and traditional project management methodologies, with no clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the Agile movement and mentions the Scrum Framework, indicating that Scrum is a significant theme, but the primary focus is on traditional management practices and their evolution.",
-    "level": "Tertiary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-17T09:08:36",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses traditional project management methodologies and their historical context, with no clear focus on Artificial Intelligence or its integration within Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:30:08",
+    "ai_confidence": 45.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 35.0,
+    "non_ai_confidence": 50,
+    "final_score": 46.0,
+    "reasoning": "The content discusses the historical context of project management methodologies, including a brief mention of the Agile movement and the Scrum Framework. However, it primarily focuses on critiques of traditional management practices and Taylorism rather than providing a detailed exploration of Scrum principles, roles, or events. While there is some alignment with Agile principles, the depth of discussion on Scrum specifically is limited.",
+    "level": "Tertiary"
   }
 }

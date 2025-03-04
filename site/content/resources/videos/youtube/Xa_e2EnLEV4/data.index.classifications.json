@@ -1331,15 +1331,6 @@
     "reasoning": "Content primarily discusses issues related to Kanban and team behaviours, with no clear focus on platform engineering or internal developer platforms.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T13:14:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to Kanban and does not focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-17T13:14:06",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the importance of addressing problems in processes and does not mention AI or its applications in Agile, DevOps, or software development.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:48:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses issues related to Kanban and does not explicitly mention Scrum or its principles. While it touches on themes of reflection and continuous improvement, which are relevant to Agile methodologies, it lacks a direct focus on Scrum roles, events, or artifacts. The discussion is more anecdotal and does not provide substantial detail on Scrum practices, leading to a low confidence score.",
+    "level": "Quinary"
   }
 }

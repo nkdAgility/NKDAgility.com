@@ -1367,15 +1367,6 @@
     "reasoning": "Content heavily discusses APS classes and their appropriateness for Scrum teams, without reference to the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T17:14:12",
-    "ai_confidence": 70,
-    "non_ai_confidence": 50,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the appropriateness of APS classes for Scrum teams and touches on Scrum principles such as continuous improvement and feedback loops, making it a major but secondary theme.",
-    "level": "Secondary"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:49:42",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile methodologies and APS classes without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:17:00",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the appropriateness of an APS class for Scrum teams, indicating a clear focus on Scrum principles and practices. It mentions Scrum teams explicitly and relates the APS class to Scrum's iterative and adaptive nature. The discussion includes elements of team feedback and retrospectives, which align with Scrum's emphasis on continuous improvement. However, while the content is relevant, it does not delve deeply into the Scrum framework itself, such as specific roles or events, which slightly lowers the depth score.",
+    "level": "Secondary"
   }
 }

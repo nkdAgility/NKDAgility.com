@@ -1349,15 +1349,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T08:18:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "The content title suggests a connection to Scrum teams, but there is no substantial discussion or elaboration on Scrum principles, practices, or frameworks in the provided content.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T08:18:09",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:25:53",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 50,
+    "final_score": 28.0,
+    "reasoning": "The content title suggests a connection to Scrum teams, but the body of the content is missing. Without explicit discussion or details on Scrum principles, roles, or practices, the confidence score remains low. The mention of 'scrum team' indicates a minimal reference to the category, but without further elaboration, the alignment and depth are insufficient to warrant a higher score.",
+    "level": "Quaternary"
   }
 }

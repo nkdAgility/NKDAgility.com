@@ -1313,15 +1313,6 @@
     "reasoning": "The content includes personal reflections on investment strategies and experiences with hypothesis-driven engineering practices, but it primarily focuses on technical discussions and examples from Microsoft rather than personal anecdotes or insights.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T11:59:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a product owner and touches on collaborative practices, which are relevant to Scrum, but the primary focus is on hypothesis-driven engineering rather than Scrum principles or frameworks.",
-    "level": "Tertiary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T11:59:07",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses hypothesis-driven engineering practices and project management without a clear focus on the application of AI in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:39:35",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses concepts related to product management and hypothesis-driven engineering, which are relevant to Agile methodologies, including Scrum. However, it does not explicitly mention Scrum roles, events, or artifacts, and the focus is more on general product development practices rather than the specific principles and frameworks of Scrum. The discussion on collaboration and iterative progress aligns somewhat with Scrum's emphasis on team dynamics and continuous improvement, but the lack of direct references to Scrum limits the overall confidence score.",
+    "level": "Tertiary"
   }
 }

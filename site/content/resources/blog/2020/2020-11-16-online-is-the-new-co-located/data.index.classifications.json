@@ -1151,15 +1151,6 @@
     "reasoning": "The content primarily discusses the importance of visual presence and communication in online events, emphasising the human factors involved in team dynamics and collaboration, particularly in the context of Agile practices.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the concept of co-location in the context of Scrum teams and the importance of visual presence during online events, which aligns with Scrum principles. However, it primarily focuses on the implications of technology and communication rather than the Scrum framework itself.",
-    "level": "Tertiary"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
     "calculated_at": "2025-02-17T09:08:38",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of co-location and participation in online events, with no clear focus on Artificial Intelligence or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:30:53",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 50,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the concept of co-location in the context of Scrum teams and highlights the importance of visual presence during online events. However, it primarily focuses on the implications of technology on communication rather than delving deeply into Scrum roles, events, or practices. While it touches on Scrum principles, the discussion lacks sufficient depth and direct references to the Scrum framework, resulting in a moderate confidence score.",
+    "level": "Secondary"
   }
 }

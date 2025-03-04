@@ -1349,15 +1349,6 @@
     "reasoning": "Content primarily discusses agile consulting outcomes and methodologies, without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:37:31",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses agile consulting outcomes and mentions Scrum training and coaching, indicating that Scrum is a significant theme, but the primary focus is on broader agile principles and consulting practices.",
-    "level": "Tertiary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T10:37:34",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses agile consulting outcomes and methodologies without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:28:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses agile consulting and the need for adaptability in organisations, which aligns with some agile principles. However, it does not explicitly mention Scrum or its specific roles, events, or artifacts, leading to a low direct mention score. The conceptual alignment is moderate as it touches on themes of flexibility and team dynamics, but lacks depth in discussing Scrum practices or frameworks.",
+    "level": "Quaternary"
   }
 }

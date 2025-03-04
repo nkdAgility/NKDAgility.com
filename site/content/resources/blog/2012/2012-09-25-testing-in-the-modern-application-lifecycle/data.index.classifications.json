@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the complexities of manual testing within the context of the application lifecycle, including integration with tools like Microsoft Test Manager, which supports the management of testing processes throughout the application lifecycle.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T16:57:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses testing methodologies and tools in the context of software development, with only a brief mention of agile principles. It does not focus on Scrum roles, events, or artifacts, nor does it provide a central discussion on Scrum practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T16:57:46",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses manual testing processes and tools in software development, with no clear focus on the application of AI in Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:43:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses aspects of agile methodologies and the importance of collaboration within development teams, which are relevant to Scrum principles. However, it does not explicitly mention Scrum roles, events, or artifacts, and the focus is more on testing practices rather than Scrum itself. The discussion on integrating testing within agile teams hints at Scrum's emphasis on collaboration but lacks depth in Scrum-specific practices.",
+    "level": "Quaternary"
   }
 }

@@ -43,7 +43,6 @@ resourceTypes:
 layout: video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 What would you advise a scrum team to do in their first 4 weeks?

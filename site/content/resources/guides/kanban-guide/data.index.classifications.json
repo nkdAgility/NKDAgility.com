@@ -1313,15 +1313,6 @@
     "reasoning": "Content primarily discusses Kanban as a workflow optimisation strategy, focusing on its practices and theories rather than psychological principles or organisational behaviour.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:10:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily focused on Kanban, discussing its principles, practices, and implementation, with no mention of Scrum roles, events, or artifacts.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:10:52",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Kanban methodology and practices without any mention of Artificial Intelligence or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:41:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content is entirely focused on Kanban, discussing its principles, practices, and implementation. There are no direct mentions of Scrum, and the concepts presented do not align with Scrum's framework or principles. The discussion is solely centred on Kanban, making it irrelevant to the Scrum category.",
     "level": "Ignored"
   }
 }

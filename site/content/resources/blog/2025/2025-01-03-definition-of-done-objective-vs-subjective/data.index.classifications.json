@@ -1331,15 +1331,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on the Definition of Done rather than the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T08:55:23",
-    "ai_confidence": 90,
-    "non_ai_confidence": 50,
-    "final_score": 86.0,
-    "reasoning": "Content primarily discusses the Definition of Done within the Scrum framework, including its importance, establishment, and common pitfalls, while also addressing Scrum goals and their subjective nature.",
-    "level": "Primary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-17T08:55:23",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on the Definition of Done and project management practices without any mention of AI.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:39:05",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 38,
+    "ai_depth": 36,
+    "non_ai_confidence": 50,
+    "final_score": 88.0,
+    "reasoning": "The content extensively discusses the Definition of Done (DoD) within the context of Scrum, highlighting its importance as an objective measure of quality. It directly references Scrum principles, including Product and Sprint Goals, and aligns with the Scrum framework by addressing roles, events, and the significance of maintaining a clear DoD. The depth of discussion is substantial, providing detailed practices for establishing and maintaining the DoD, as well as common pitfalls teams face. Overall, the content is highly relevant to Scrum, making it a strong fit for the category.",
+    "level": "Primary"
   }
 }

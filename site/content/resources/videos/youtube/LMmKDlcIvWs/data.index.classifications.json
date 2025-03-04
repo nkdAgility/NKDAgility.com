@@ -1331,15 +1331,6 @@
     "reasoning": "Content primarily discusses Kanban as a strategy for optimising workflows, with no clear connection to platform engineering or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T13:16:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Kanban, its principles, and strategies, with no mention of Scrum roles, events, or artifacts.",
-    "level": "Ignored"
-  },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-17T13:16:15",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Kanban as a strategy for optimising workflows, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:49:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses Kanban, which is explicitly excluded from the Scrum category. There are no direct mentions of Scrum roles, events, or principles, and the focus is on Kanban strategies rather than Scrum practices. The minimal conceptual alignment with Scrum principles is overshadowed by the dominant focus on Kanban.",
     "level": "Ignored"
   }
 }

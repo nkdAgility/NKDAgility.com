@@ -1250,15 +1250,6 @@
     "reasoning": "Content heavily discusses the use of Lego in Scrum training, which is unrelated to the measurement and optimisation of work completion rates.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T17:25:49",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the use of Lego in Scrum training, indicating a focus on Scrum principles and training methods, but does not delve deeply into Scrum roles, events, or frameworks.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T17:25:50",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the use of Lego in Scrum training, which is unrelated to Artificial Intelligence or its application in Agile and DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:17:28",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 50,
+    "final_score": 36.0,
+    "reasoning": "The content briefly mentions the concept of collaborative working, which aligns with Scrum principles, but lacks direct references to Scrum roles, events, or artifacts. The discussion is more focused on the use of Lego in training rather than on Scrum itself, resulting in a low confidence score.",
+    "level": "Quaternary"
   }
 }

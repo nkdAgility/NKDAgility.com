@@ -34,8 +34,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Engineering Excellence
-- Social Technologies
 
 ---
 Agile is fundamentally about shortening the time it takes to deliver products to users and learning from that process. As I reflect on my journey as a professional Scrum trainer with Scrum.org and a Kanban trainer with Pro Kanban, I can’t help but notice how traditional management practices, which were born during the Industrial Revolution, no longer fit the modern landscape of work. 

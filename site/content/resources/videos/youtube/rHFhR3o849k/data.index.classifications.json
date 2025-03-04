@@ -557,15 +557,6 @@
     "reasoning": "Content heavily discusses Scrum roles and the differences between Scrum masters and project managers, without focusing on decision-making processes or uncertainty.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:22:22",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the role, qualities, and impact of a Scrum Master within the Scrum framework, emphasizing the differences from traditional project management, which aligns closely with Scrum principles.",
-    "level": "Secondary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T10:22:22",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:26:48",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 34,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content primarily focuses on the role of the Scrum Master, discussing their importance in team dynamics and organisational relationships. It explicitly mentions the Scrum Master multiple times and delves into the nuances of their role, which aligns well with Scrum principles. The discussion is detailed, covering how a Scrum Master can influence both the team and the broader organisation, thus demonstrating a strong understanding of Scrum's emphasis on collaboration and value delivery.",
+    "level": "Primary"
   }
 }

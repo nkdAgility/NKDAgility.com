@@ -557,15 +557,6 @@
     "reasoning": "Content primarily discusses Agile training and the experiences of an Agile coach, without a focus on decision-making processes or the principles of Decision Theory.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:35:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Scrum training and coaching in the context of agile practices, which suggests it is a significant but secondary theme centered around a broader agile topic.",
-    "level": "Tertiary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T11:35:55",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile methodologies and training without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:28:54",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content explicitly discusses Scrum practices, including sprints, team organisation, and the learning process involved in applying Scrum principles. It provides a detailed account of how Scrum is taught through practical experience, highlighting key events and roles within the framework. The narrative aligns well with the core themes of Scrum, such as iterative progress, team dynamics, and continuous improvement, while also reflecting on the challenges faced during initial sprints. Overall, the content demonstrates a strong focus on Scrum, making it highly relevant to the category.",
+    "level": "Primary"
   }
 }

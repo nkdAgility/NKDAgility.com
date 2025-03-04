@@ -350,15 +350,6 @@
     "reasoning": "The content discusses tools for migrating work items and data between TFS and VSTS, which relates to the management of software applications, but it primarily focuses on migration tools rather than the broader application lifecycle management practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T20:57:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses VSTS Sync Migration Tools and data migration processes, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T20:57:29",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses migration tools for VSTS and TFS, with no focus on AI applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:34:03",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses tools for migrating data between TFS and VSTS, with no explicit mention of Scrum principles, roles, or events. While it touches on team dynamics and project management, it does not align with the core themes of Scrum, such as iterative progress or continuous improvement. The depth of discussion is focused on technical aspects of migration rather than Scrum practices.",
+    "level": "Quinary"
   }
 }

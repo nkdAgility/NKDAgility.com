@@ -350,15 +350,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on the Scrum framework rather than the overall application lifecycle management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T16:31:00",
-    "ai_confidence": 90,
-    "non_ai_confidence": 50,
-    "final_score": 86.0,
-    "reasoning": "The content primarily discusses the Professional Scrum Foundations course, detailing Scrum roles, events, and the framework, making it a clear focus of the text.",
-    "level": "Primary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T16:31:01",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:42:47",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses the Professional Scrum Foundations course, detailing its structure, objectives, and the Scrum framework, including roles, events, and artifacts. It provides a thorough exploration of the course's practical application of Scrum principles, such as self-organisation and iterative progress through sprints. The depth of discussion is significant, with specific examples of sprints and team dynamics, aligning well with the core themes of Scrum. The content is primarily focused on Scrum, with minimal mention of unrelated frameworks, justifying a high confidence score.",
+    "level": "Primary"
   }
 }

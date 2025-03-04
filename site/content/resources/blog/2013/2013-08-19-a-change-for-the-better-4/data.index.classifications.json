@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the author's experience and plans related to Application Lifecycle Management (ALM), including consulting, coaching, and mentoring in ALM practices, which aligns closely with the category's focus.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions Scrum in the context of consulting and training, indicating it is a significant theme, but the primary focus is on personal circumstances and broader consulting work.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T18:25:10",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal life changes and consulting work in Agile and ALM, with no mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:38:59",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 50,
+    "final_score": 64.0,
+    "reasoning": "The content briefly mentions Scrum in the context of training and consulting services, indicating some relevance to the category. However, the primary focus is on personal life changes and general consulting work rather than an in-depth discussion of Scrum principles, roles, or practices. The mention of Scrum is not a central theme, and the overall depth of discussion on Scrum is minimal.",
+    "level": "Secondary"
   }
 }

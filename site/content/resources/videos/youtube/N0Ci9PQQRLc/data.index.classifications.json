@@ -557,15 +557,6 @@
     "reasoning": "Content heavily discusses Scrum roles, training, and coaching without focusing on decision-making processes or uncertainty.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:14:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "While the content discusses Scrum and its challenges in mastery, it also blends topics related to Agile training and consulting, making Scrum a major but secondary theme.",
-    "level": "Tertiary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T11:14:17",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:28:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 50,
+    "final_score": 34.0,
+    "reasoning": "The content primarily focuses on the author's journey from software engineer to DevOps consultant and trainer, with only brief mentions of Agile principles and practices. While there are references to team dynamics and continuous delivery, the discussion lacks a direct focus on Scrum roles, events, or artifacts. The content does not provide in-depth insights into Scrum as a framework, which diminishes its alignment with the category.",
+    "level": "Quaternary"
   }
 }

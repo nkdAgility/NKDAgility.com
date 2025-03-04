@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses Agile methodologies, Scrum practices, and engineering principles rather than the comprehensive management of the application lifecycle.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T19:09:38",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the challenges and practices related to Scrum, including the roles of the Scrum Master and the importance of retrospectives, while also addressing common misconceptions about Scrum's effectiveness.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T20:11:24",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum practices and Agile methodologies without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:41:39",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content discusses the insufficiency of Scrum and highlights the importance of good engineering practices alongside Scrum principles. It mentions Scrum roles, such as the Scrum Master, and emphasises the need for effective retrospectives, which are key Scrum events. The discussion is detailed and critiques common misconceptions about Scrum, indicating a strong alignment with Scrum principles. However, it also touches on other Agile frameworks, which slightly detracts from its primary focus on Scrum.",
+    "level": "Secondary"
   }
 }

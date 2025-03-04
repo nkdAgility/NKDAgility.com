@@ -1133,15 +1133,6 @@
     "reasoning": "Content primarily discusses the role of project managers within Agile rather than focusing on strategies for value delivery.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T07:25:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "Content references Scrum roles and the transition from traditional project management to Scrum practices, indicating a secondary theme of Scrum.",
-    "level": "Tertiary"
-  },
   "Continuous Integration": {
     "category": "Continuous Integration",
     "calculated_at": "2025-02-18T07:25:17",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses project management and Agile methodologies without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:23:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 50,
+    "final_score": 43.0,
+    "reasoning": "The content briefly mentions Scrum in the context of project management but does not delve deeply into Scrum roles, events, or principles. It discusses the challenges of traditional project management in relation to agility, hinting at Scrum concepts but lacking detailed exploration of the Scrum framework or its implementation.",
+    "level": "Tertiary"
   }
 }

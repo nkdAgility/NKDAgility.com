@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses new features of Team Foundation Server 2013, which are directly related to Application Lifecycle Management, including Agile Portfolio Management, team collaboration, and testing capabilities.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T18:27:57",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses Agile Portfolio Management and team collaboration features in Team Foundation Server, which are relevant to Scrum practices, but the primary focus is on the software tool rather than Scrum principles or frameworks.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T19:09:52",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses features of Visual Studio 2013 Team Foundation Server, focusing on Agile project management and team collaboration, without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:40:01",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content discusses Agile Portfolio Management and mentions backlogs, which are relevant to Scrum practices. However, it primarily focuses on Team Foundation Server features rather than the Scrum framework itself. The discussion lacks depth on Scrum roles, events, and empirical process control, leading to a moderate confidence score.",
+    "level": "Secondary"
   }
 }

@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses features of Visual Studio 2010 and its capabilities for targeting different .NET versions, with no clear focus on Application Lifecycle Management principles or practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T02:47:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses features of Visual Studio 2010 and does not mention Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T10:29:28",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses features of Visual Studio 2010 and its capabilities, with no mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:54:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses features of Visual Studio 2010 and does not mention Scrum principles, roles, events, or any related concepts. There is no alignment with the core themes of Scrum, and the depth of discussion is minimal, focusing instead on software development tools.",
     "level": "Ignored"
   }
 }

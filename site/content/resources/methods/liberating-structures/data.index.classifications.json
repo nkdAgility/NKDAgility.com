@@ -1331,15 +1331,6 @@
     "reasoning": "The content does not provide any information or discussion related to Social Technologies or its frameworks; it is merely a placeholder with no relevant context.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T17:29:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content does not mention Scrum principles, practices, or frameworks and is primarily about 'Liberating Structures', which is unrelated.",
-    "level": "Ignored"
-  },
   "Beta Codex": {
     "category": "Beta Codex",
     "calculated_at": "2025-02-18T17:29:21",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not discuss Artificial Intelligence or its application in Agile, DevOps, or software development; it is too vague and lacks relevant information.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:43:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content does not mention Scrum explicitly and lacks any discussion of its principles, practices, or frameworks. The title 'Liberating Structures' suggests a focus on a different topic, which does not align with Scrum discussions.",
     "level": "Ignored"
   }
 }

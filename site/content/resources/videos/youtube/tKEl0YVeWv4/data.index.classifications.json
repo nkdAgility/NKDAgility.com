@@ -1313,15 +1313,6 @@
     "reasoning": "Content primarily discusses automation in software development and deployment processes, lacking personal anecdotes or reflections related to Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T11:57:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses automation in software development and does not focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T11:57:27",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses automation in software development and DevOps practices without a clear focus on the application of AI.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:38:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on automation in software development, discussing its benefits and implications for deployment and testing processes. While it touches on themes relevant to Agile methodologies, such as rapid deployment and quality assurance, it does not explicitly mention Scrum principles, roles, events, or artifacts. The discussion lacks depth in Scrum-specific practices and does not align closely with the core themes of the Scrum framework.",
+    "level": "Quinary"
   }
 }

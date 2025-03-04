@@ -1331,15 +1331,6 @@
     "reasoning": "Content does not discuss any frameworks or principles related to Scrum, Kanban, Lean, or Agile practices; it focuses on user feedback and timelines.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T17:28:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum principles, roles, events, or practices; it focuses on user feedback and timelines, which are not central to Scrum.",
-    "level": "Ignored"
-  },
   "Beta Codex": {
     "category": "Beta Codex",
     "calculated_at": "2025-02-18T17:28:06",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content does not discuss Artificial Intelligence or its application in Agile, DevOps, or software development; it focuses on user feedback and timelines.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:43:24",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content briefly touches on user feedback, which could relate to Scrum principles of customer collaboration and iterative progress. However, it lacks explicit mentions of Scrum roles, events, or artifacts, and does not provide sufficient detail or depth regarding Scrum practices or frameworks. Overall, it does not align closely with the core themes of the Scrum category.",
+    "level": "Quinary"
   }
 }

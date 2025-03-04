@@ -350,15 +350,6 @@
     "reasoning": "The content discusses issues related to TFS Integration Tools, which are part of the application lifecycle management process, particularly in the context of deployment and maintenance. However, the primary focus is on a specific error and workaround rather than a comprehensive discussion on ALM methodologies or practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T19:40:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to TFS Integration Tools and does not address Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T23:26:50",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to TFS Integration Tools and does not mention or relate to Artificial Intelligence in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:43:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses technical issues related to TFS Integration Tools and does not mention Scrum principles, roles, events, or any related concepts. There is minimal conceptual alignment with Scrum, and the depth of discussion is focused on troubleshooting rather than project management frameworks.",
     "level": "Ignored"
   }
 }

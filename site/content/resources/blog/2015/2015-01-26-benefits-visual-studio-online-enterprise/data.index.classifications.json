@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the benefits and features of Visual Studio Online (VSO) in the context of managing the application lifecycle, including deployment, maintenance, and the integration of Agile and DevOps principles.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T23:07:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Visual Studio Online and its features, benefits, and challenges, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T23:07:11",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and benefits of Visual Studio Online for enterprise software development, with no clear focus on Artificial Intelligence applications within Agile or DevOps methodologies.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:34:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Visual Studio Online (VSO) and its features for enterprise software development, with no direct mention of Scrum roles, events, or principles. While it touches on concepts of agility and iterative development, it does not align closely with the core themes of Scrum, such as specific Scrum events or roles. The depth of discussion regarding Scrum is minimal, leading to a low confidence score.",
+    "level": "Quinary"
   }
 }

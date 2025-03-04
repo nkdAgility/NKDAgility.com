@@ -323,15 +323,6 @@
     "reasoning": "Content primarily discusses the concept of burndowns in Agile, focusing on planning and Scrum practices rather than the broader Agile Product Operating Model.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T14:26:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses burndowns in the context of Scrum and Agile, indicating a major but secondary theme related to Scrum principles.",
-    "level": "Tertiary"
-  },
   "DevOps": {
     "category": "DevOps",
     "calculated_at": "2025-02-17T14:26:23",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile methodologies and the concept of burndowns without any mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:50:59",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 50,
+    "final_score": 66.0,
+    "reasoning": "The content discusses burndowns, which are relevant to Scrum, but it primarily critiques their use rather than providing a comprehensive exploration of Scrum principles or practices. While it mentions Scrum in the context of agile practices, the focus is more on the pitfalls rather than the framework itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   }
 }

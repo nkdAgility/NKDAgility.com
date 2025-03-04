@@ -1349,15 +1349,6 @@
     "reasoning": "Content primarily discusses DevOps and Agile methodologies, with no clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T08:34:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses DevOps and its relationship with Agile, with only a brief mention of Scrum in the context of agile training and coaching.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T08:34:52",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps and Agile methodologies without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:27:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses DevOps and its relationship with Agile, with no direct mention of Scrum principles, roles, or events. While it touches on Agile concepts, it does not align with the core themes of Scrum, such as the specific roles or events within the Scrum framework. The depth of discussion is focused on DevOps rather than Scrum, leading to a very low confidence score.",
+    "level": "Quinary"
   }
 }

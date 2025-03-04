@@ -35,6 +35,7 @@ resourceTypes:
 - video
 categories:
 - Social Technologies
+- Scrum
 
 ---
 ## Unlock the Full Potential of Scrum with APS Courses

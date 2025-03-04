@@ -41,8 +41,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Scrum
 - Social Technologies
+- Scrum
 
 ---
 **What is the most interesting outcome you have achieved as an agile consultant?**

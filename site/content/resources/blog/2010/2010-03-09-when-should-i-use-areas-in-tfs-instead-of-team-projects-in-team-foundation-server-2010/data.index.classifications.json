@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the management of projects within Team Foundation Server (TFS), focusing on the use of Areas and Team Projects, which are integral to Application Lifecycle Management. It addresses best practices, implications for project configuration, and the benefits of a streamlined approach to managing multiple projects, aligning closely with ALM principles.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses project management practices and mentions Scrum in the context of using Team Foundation Server, but it primarily focuses on TFS project management rather than Scrum principles or frameworks.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T01:51:40",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses project management practices in Team Foundation Server (TFS) without any mention of Artificial Intelligence or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:52:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Scrum in the context of project management and discusses areas and iterations, which are relevant to Scrum practices. However, it primarily focuses on Team Foundation Server (TFS) and its project management capabilities rather than providing a detailed discussion on Scrum principles, roles, or events. The mention of Scrum is not a primary focus, and the depth of discussion on Scrum concepts is limited.",
+    "level": "Quaternary"
   }
 }

@@ -1313,15 +1313,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-13T21:52:51",
-    "ai_confidence": 90,
-    "non_ai_confidence": 50,
-    "final_score": 86.0,
-    "reasoning": "Content primarily discusses the importance of backlog refinement within the Scrum framework, including roles, events, and practices related to Scrum.",
-    "level": "Primary"
-  },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
     "calculated_at": "2025-02-13T21:52:52",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:30:26",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 85.0,
+    "ai_depth": 95.0,
+    "non_ai_confidence": 50,
+    "final_score": 88.0,
+    "reasoning": "The content extensively discusses key Scrum concepts such as Product Backlog refinement, Sprint Planning, and the roles of the Scrum Team, including the Product Owner and Developers. It provides detailed insights into the importance of backlog readiness and the implications of inadequate refinement, aligning closely with the core themes of the Scrum framework. The depth of discussion is significant, offering practical advice and referencing the Scrum Guide, which further solidifies its relevance to the Scrum category.",
+    "level": "Primary"
   }
 }

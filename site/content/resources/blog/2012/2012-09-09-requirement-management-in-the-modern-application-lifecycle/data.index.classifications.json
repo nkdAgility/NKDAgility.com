@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses requirement management within the context of the application lifecycle, specifically focusing on tools like Team Foundation Server (TFS) and their role in managing requirements throughout the software development process.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile project management tools and mentions concepts related to Scrum, such as managing sprints and work items, but it primarily focuses on requirement management and tools rather than Scrum principles or practices.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T20:47:14",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses requirement management and tools related to Team Foundation Server, with no clear focus on Artificial Intelligence applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:43:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses requirement management and tools related to Team Foundation Server (TFS) but does not explicitly mention Scrum or its core principles. While it touches on agile project management tools, the focus is primarily on TFS and its integration capabilities rather than on Scrum roles, events, or artifacts. The discussion lacks depth in Scrum-specific practices, leading to a low confidence score in alignment with the Scrum category.",
+    "level": "Quaternary"
   }
 }

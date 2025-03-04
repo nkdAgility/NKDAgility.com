@@ -1313,15 +1313,6 @@
     "reasoning": "Content heavily discusses Agile methodologies and project management, with no clear focus on psychological principles or theories related to organisational behaviour.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:38:17",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses Agile principles and the importance of iterative development, which aligns closely with Scrum practices, particularly in the context of delivering value and adapting to change.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:38:18",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile methodologies and project management without a clear focus on the application of AI within these contexts.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:46:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content discusses Agile principles and critiques the misconception that agility equates to speed, which aligns with Scrum's emphasis on iterative progress and delivering value. However, it lacks direct references to specific Scrum roles, events, or artifacts, resulting in a moderate confidence score.",
+    "level": "Secondary"
   }
 }

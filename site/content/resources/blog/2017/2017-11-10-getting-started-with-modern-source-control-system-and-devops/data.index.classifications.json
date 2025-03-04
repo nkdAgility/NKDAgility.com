@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the importance of source control and automated release pipelines within the context of managing the application lifecycle, aligning well with key topics of Application Lifecycle Management.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Scrum in the context of software development practices and tools, but the primary focus is on source control and DevOps rather than Scrum principles or frameworks.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T18:59:57",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses source control systems and DevOps practices without any mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:33:28",
+    "ai_confidence": 55.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 50,
+    "final_score": 54.0,
+    "reasoning": "The content briefly mentions Scrum in the context of software development practices and the importance of becoming a professional Scrum team. However, the primary focus is on source control and DevOps practices, with only a limited discussion of Scrum principles and roles. The alignment with Scrum concepts is present but not deeply explored, leading to a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

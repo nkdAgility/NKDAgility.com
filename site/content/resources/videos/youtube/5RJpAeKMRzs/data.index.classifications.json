@@ -1331,15 +1331,6 @@
     "reasoning": "Content heavily discusses Agile principles and practices without a direct connection to platform engineering or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T13:12:37",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses Agile principles and practices, with a significant focus on Scrum roles, events, and the importance of effective backlog management, which aligns closely with Scrum methodologies.",
-    "level": "Secondary"
-  },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-17T13:12:39",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile methodologies and common pitfalls within Agile practices, with no mention of Artificial Intelligence or its integration in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:47:26",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content discusses various aspects of Agile, with a significant focus on Scrum principles, such as backlog management, Sprint planning, and team dynamics. It mentions Scrum roles and events, particularly in the context of common pitfalls and best practices. However, while Scrum is a primary focus, the content also delves into broader Agile concepts and critiques, which slightly dilutes its alignment with the strict definition of the Scrum category.",
+    "level": "Secondary"
   }
 }

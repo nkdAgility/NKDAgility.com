@@ -314,15 +314,6 @@
     "reasoning": "Content heavily discusses Visual Studio 2010 Architectural Guidance and practical tools, with no focus on Agile principles or product-centric development.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T00:04:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio 2010 Architectural Guidance and related tools, with no mention of Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Organisational Agility": {
     "category": "Organisational Agility",
     "calculated_at": "2025-02-16T00:04:04",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio 2010 Architectural Guidance and related tools, with no mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:49:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses Visual Studio 2010 Architectural Guidance and does not mention Scrum or its principles, roles, events, or artifacts. There is no alignment with Scrum concepts, and the depth of discussion is focused on software architecture rather than project management frameworks.",
     "level": "Ignored"
   }
 }

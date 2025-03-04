@@ -21,6 +21,7 @@ card:
   title: Investing for Business Agility - Using evidence-based portfolio management to achieve better business outcomes
 categories:
 - Social Technologies
+- Scrum
 tags:
 - Business Agility
 - Portfolio Management

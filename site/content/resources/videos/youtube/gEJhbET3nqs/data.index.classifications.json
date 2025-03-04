@@ -557,15 +557,6 @@
     "reasoning": "Content heavily discusses Agile leadership and its benefits, with no focus on decision-making processes or theories related to uncertainty.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:33:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on agile leadership and organizational improvement, without a clear emphasis on Scrum principles, roles, or events.",
-    "level": "Ignored"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T11:33:22",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile leadership and team dynamics without any mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:31:09",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on a workshop designed to enhance agile leadership skills, specifically within the context of Scrum. It discusses the role of leaders in supporting agile teams, which aligns with Scrum principles. The mention of Scrum training and the emphasis on agile capabilities indicate a strong connection to the Scrum framework. However, while it touches on Scrum concepts, it does not delve deeply into specific Scrum roles, events, or artifacts, which slightly lowers the depth score.",
+    "level": "Secondary"
   }
 }

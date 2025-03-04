@@ -206,15 +206,6 @@
     "reasoning": "Content primarily discusses tools and features related to Team Foundation Server (TFS) without a clear focus on platform engineering principles or enhancing developer productivity.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T22:07:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses tools and features related to Team Foundation Server (TFS) without any clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T22:07:10",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses tools and features related to Team Foundation Server (TFS) without any mention of Artificial Intelligence or its application in Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:20:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses tools related to Team Foundation Server (TFS) and does not explicitly mention Scrum principles, roles, events, or artifacts. While there may be an indirect connection to project management, the focus is on TFS functionalities rather than Scrum practices, leading to a low confidence score.",
+    "level": "Quinary"
   }
 }

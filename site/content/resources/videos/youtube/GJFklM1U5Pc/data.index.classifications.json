@@ -1313,15 +1313,6 @@
     "reasoning": "Content heavily discusses the competence crisis in Scrum Master roles and Agile practices, focusing on technical skills and industry trends rather than psychological principles or theories related to motivation, engagement, leadership, or team dynamics.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:04:21",
-    "ai_confidence": 90,
-    "non_ai_confidence": 50,
-    "final_score": 86.0,
-    "reasoning": "Content primarily discusses the role, accountability, and competence of Scrum Masters, along with the implications for Scrum practices and the Scrum framework.",
-    "level": "Primary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:04:22",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the competence crisis in Scrum Master roles and Agile methodologies without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:41:09",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 40,
+    "non_ai_confidence": 50,
+    "final_score": 88.0,
+    "reasoning": "The content extensively discusses the role of Scrum Masters, their competencies, and the challenges faced in the Scrum framework. It directly addresses Scrum principles, the importance of understanding the Scrum Guide, and the accountabilities of Scrum Masters to both teams and Product Owners. The depth of discussion is significant, providing detailed examples and insights into the skills required for effective Scrum practice, which aligns closely with the core themes of the Scrum category.",
+    "level": "Primary"
   }
 }

@@ -25,8 +25,7 @@ aliasesArchive:
 tags:
 - Troubleshooting
 preview: metro-visual-studio-2005-128-link-1-1.png
-categories:
-- DevOps
+categories: []
 
 ---
 Some of my colleagues in New York have been working on deploying Team Foundation Server as a change management system and they ran into a little error while installing to the QA (UAT) environment.

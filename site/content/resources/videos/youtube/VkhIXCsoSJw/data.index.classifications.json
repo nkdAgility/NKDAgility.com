@@ -1313,15 +1313,6 @@
     "reasoning": "Content primarily discusses technical aspects of automation and engineering practices within Azure DevOps, lacking personal anecdotes or reflections.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T11:57:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses automation in development processes and does not focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T11:57:33",
@@ -1393,5 +1384,17 @@
     "final_score": 45.0,
     "reasoning": "The content discusses automation in the development process and mentions a Twitter sentiment bot, which relates to AI. However, the primary focus is on automation and development practices rather than a deep exploration of AI's role in Agile or DevOps.",
     "level": "Tertiary"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:38:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses automation and continuous delivery in software development, which are relevant to Agile practices but does not explicitly mention Scrum roles, events, or artifacts. While it touches on themes of iterative improvement and team confidence, it lacks a direct focus on Scrum principles or frameworks, leading to a low confidence score.",
+    "level": "Quaternary"
   }
 }

@@ -206,15 +206,6 @@
     "reasoning": "Content primarily discusses ALM consulting, Scrum, and related training and practices, which are directly linked to Agile methodologies.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions Scrum as part of a broader discussion on ALM consulting and training, indicating that it is a significant theme but not the primary focus.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T09:08:52",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Application Lifecycle Management (ALM), Scrum, and consulting services, with no clear focus on Artificial Intelligence or its integration within Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:38:16",
+    "ai_confidence": 55.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 50,
+    "final_score": 54.0,
+    "reasoning": "The content mentions Scrum in the context of consulting and training, indicating a focus on Agile methodologies. However, it primarily discusses ALM and related practices, with Scrum being a secondary topic. The depth of discussion on Scrum is limited, focusing more on ALM processes and tools rather than the Scrum framework itself.",
+    "level": "Tertiary"
   }
 }

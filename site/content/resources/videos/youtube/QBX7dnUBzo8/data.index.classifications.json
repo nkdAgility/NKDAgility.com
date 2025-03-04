@@ -1349,15 +1349,6 @@
     "reasoning": "The content discusses the need for organisational change and agility, touching on decentralisation and the challenges faced in traditional structures, but it primarily focuses on systemic issues rather than the core principles of Beta Codex.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T14:14:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses systemic issues in agile organisations and does not focus specifically on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Social Technologies": {
     "category": "Social Technologies",
     "calculated_at": "2025-02-17T14:14:07",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile methodologies and organisational challenges without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:50:29",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses agile principles and the challenges organisations face in adopting agile methodologies, which indirectly relates to Scrum. However, it lacks direct mentions of Scrum roles, events, or artifacts, and focuses more on broader agile concepts and organisational change rather than specific Scrum practices.",
+    "level": "Quaternary"
   }
 }

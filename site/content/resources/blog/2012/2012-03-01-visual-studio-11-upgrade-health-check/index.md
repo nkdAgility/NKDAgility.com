@@ -34,7 +34,6 @@ tags:
 - Agile Frameworks
 - Azure DevOps
 categories:
-- Scrum
 - Social Technologies
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 

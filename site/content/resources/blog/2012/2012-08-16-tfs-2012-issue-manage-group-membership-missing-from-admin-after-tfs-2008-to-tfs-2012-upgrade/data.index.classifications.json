@@ -350,15 +350,6 @@
     "reasoning": "The content discusses issues related to permissions and security management during an upgrade of Team Foundation Server, which is relevant to the application lifecycle, particularly in the deployment and maintenance stages. However, it primarily focuses on a specific technical issue rather than a broader discussion of application lifecycle management practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T19:47:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to TFS (Team Foundation Server) and permissions management, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T21:23:25",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to TFS permissions and upgrade processes, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:43:53",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses issues related to TFS (Team Foundation Server) and permissions management during an upgrade, with no direct references to Scrum principles, roles, events, or artifacts. While it touches on aspects of team collaboration indirectly through permissions management, it does not align with the core themes of Scrum or provide any depth in discussing Scrum practices.",
     "level": "Ignored"
   }
 }

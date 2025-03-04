@@ -1313,15 +1313,6 @@
     "reasoning": "Content primarily discusses budgeting practices in Agile environments without personal anecdotes or reflections.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T11:59:27",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses agile principles and mentions Scrum in the context of iterative progress and getting products in front of customers frequently, but it primarily focuses on budgeting practices rather than Scrum itself.",
-    "level": "Tertiary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T11:59:28",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses traditional budgeting practices and their impact on Agile methodologies, without any mention of Artificial Intelligence or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:39:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content discusses budgeting in the context of Agile methodologies, specifically mentioning Scrum's timeframes for iterations and the importance of getting products in front of customers frequently. However, while it touches on Scrum principles, the primary focus is on budgeting practices rather than a comprehensive exploration of Scrum itself. The discussion lacks depth in Scrum-specific roles, events, and artifacts, which limits its alignment with the category.",
+    "level": "Secondary"
   }
 }

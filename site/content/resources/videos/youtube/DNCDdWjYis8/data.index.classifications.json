@@ -557,15 +557,6 @@
     "reasoning": "Content heavily discusses the role of Scrum Masters and myths surrounding it without addressing any aspects of decision-making processes or uncertainty.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:21:41",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the responsibilities and misconceptions surrounding the role of Scrum Masters, which is a key aspect of the Scrum framework.",
-    "level": "Secondary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T10:21:41",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of Scrum Masters and Agile methodologies without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:25:06",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the role of the Scrum Master, highlighting the importance of facilitation over micromanagement, which aligns with Scrum principles. However, it lacks detailed exploration of other Scrum roles, events, or artifacts, resulting in a high confidence score but not a perfect one.",
+    "level": "Secondary"
   }
 }

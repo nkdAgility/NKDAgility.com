@@ -31,8 +31,8 @@ tags:
 - Agile Project Management
 - Software Development
 categories:
-- Scrum
 - Social Technologies
+- Scrum
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

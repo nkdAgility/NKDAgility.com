@@ -43,6 +43,7 @@ tags:
 - Team Collaboration
 categories:
 - Leadership
+- Scrum
 
 ---
 In any organization, the skills and knowledge of a team can determine its success or failure. But what happens when a team is identified as deficient? How do you as a leader address the issue before resorting to drastic measures like firing? The answer lies in training and fostering a continuous learning environment.

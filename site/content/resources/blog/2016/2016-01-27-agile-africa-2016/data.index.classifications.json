@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses an Agile event in Africa and does not focus on Application Lifecycle Management or its key topics.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content mentions a specific event called 'Scrum Day Africa', indicating that Scrum is a significant theme, but the overall focus is more on the broader Agile community and events rather than Scrum principles or practices.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T21:19:51",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile events and community engagement in Africa, with no mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:34:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions 'Scrum Day Africa' as part of an event series but does not delve into Scrum principles, roles, or practices. While it discusses Agile in a broader context, it lacks a focused discussion on Scrum itself, leading to a low confidence score.",
+    "level": "Quaternary"
   }
 }

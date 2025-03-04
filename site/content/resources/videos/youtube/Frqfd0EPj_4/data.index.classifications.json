@@ -1331,15 +1331,6 @@
     "reasoning": "Content primarily discusses immersive learning approaches for Scrum training rather than leadership practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T15:31:25",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Scrum training specifically, but also mentions Kanban and focuses on the broader concept of immersive learning rather than Scrum principles or practices exclusively.",
-    "level": "Tertiary"
-  },
   "Beta Codex": {
     "category": "Beta Codex",
     "calculated_at": "2025-02-17T15:31:27",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses immersive learning in Scrum training without any mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:53:33",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": 50,
+    "final_score": 61.0,
+    "reasoning": "The content discusses Scrum training specifically, indicating a focus on Scrum principles and practices. However, it also mentions Kanban, which detracts from the primary focus on Scrum. The discussion on immersive learning aligns with the need for effective training in Scrum, but lacks detailed exploration of Scrum roles, events, or artifacts, leading to a moderate confidence score.",
+    "level": "Secondary"
   }
 }

@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses file backup and cloud storage solutions, with no focus on application lifecycle management methodologies, practices, or tools.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T21:10:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses file storage solutions and does not relate to Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T21:11:41",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses file storage solutions and syncing methods using OneDrive, with no mention of AI or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:34:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses file management and cloud storage solutions, specifically OneDrive and its integration with Windows. There are no direct mentions of Scrum principles, roles, events, or any related topics. The content does not align with the core themes of Scrum, such as team dynamics, iterative progress, or continuous improvement. The depth of discussion is focused on technical instructions for file syncing rather than any project management framework.",
     "level": "Ignored"
   }
 }

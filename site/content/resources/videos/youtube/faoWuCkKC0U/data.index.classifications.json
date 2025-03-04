@@ -1250,15 +1250,6 @@
     "reasoning": "Content primarily focuses on product management and Agile practices without a clear emphasis on throughput measurement or optimisation.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T20:46:59",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the role of a Product Owner and touches on Agile principles, making Scrum a major but secondary theme.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T20:47:01",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses product management and Agile practices without any mention of AI or its integration within these methodologies.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:20:49",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 50,
+    "final_score": 65.0,
+    "reasoning": "The content mentions the role of a Product Owner, which is a key role in Scrum, and discusses Agile principles such as collaboration and responding to change. However, it lacks detailed discussion on specific Scrum events or artifacts, which limits its depth. Overall, while it aligns with Scrum concepts, it does not provide a comprehensive exploration of the framework.",
+    "level": "Secondary"
   }
 }

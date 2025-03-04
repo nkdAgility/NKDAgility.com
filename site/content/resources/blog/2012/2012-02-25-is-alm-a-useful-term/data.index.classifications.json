@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the concept of Application Lifecycle Management (ALM), its importance, and its differences from traditional Software Development Life Cycle (SDLC). It addresses various aspects of ALM, including methodologies, tools, and the integration of Agile practices, making it a central theme.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T20:57:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Application Lifecycle Management (ALM) and Agile practices, but does not focus specifically on Scrum principles, roles, events, or artifacts.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T22:09:45",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Application Lifecycle Management (ALM) and Agile methodologies without a clear focus on Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:45:53",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content discusses Agile practices and the importance of delivering high-quality software, which aligns with some Scrum principles. However, it primarily focuses on Application Lifecycle Management (ALM) rather than Scrum specifically. There are brief mentions of Agile, but the discussion lacks depth on Scrum roles, events, or artifacts, leading to a low confidence score.",
+    "level": "Quaternary"
   }
 }

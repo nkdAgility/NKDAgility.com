@@ -38,6 +38,7 @@ resourceTypes:
 - video
 categories:
 - Product Management
+- Scrum
 
 ---
 As a new product owner, you’re likely bombarded with information, advice, and endless techniques. So, where do you start? What’s the single most important thing you should focus on to ensure your success in this challenging role? The answer is simple: **continuous learning**.

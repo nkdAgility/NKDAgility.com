@@ -1349,15 +1349,6 @@
     "reasoning": "Content primarily discusses Scrum roles, events, and practices, without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:58:03",
-    "ai_confidence": 95,
-    "non_ai_confidence": 50,
-    "final_score": 90.0,
-    "reasoning": "The content primarily discusses the sprint review process, its purpose, and the roles involved, aligning closely with Scrum principles and practices.",
-    "level": "Primary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T10:58:06",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events without any mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:29:35",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 38,
+    "ai_depth": 36,
+    "non_ai_confidence": 50,
+    "final_score": 88.0,
+    "reasoning": "The content is a detailed discussion on the sprint review, a key event in the Scrum framework. It covers the purpose, structure, and importance of the sprint review, as well as techniques for effective participation and feedback collection. The speaker references Scrum principles, roles, and the empirical process control, demonstrating a strong alignment with Scrum's core themes. The depth of discussion is significant, providing insights into practical implementation and challenges faced during sprint reviews.",
+    "level": "Primary"
   }
 }

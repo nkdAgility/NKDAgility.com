@@ -1313,15 +1313,6 @@
     "reasoning": "Content primarily discusses self-taught learning and the role of external perspectives in problem-solving within organisations, focusing on technical aspects rather than psychological principles or theories related to motivation, engagement, or team dynamics.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:18:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "The content primarily discusses the importance of external perspectives in problem-solving and self-taught learning, with only a brief mention of being a scrum coach. It does not focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:18:39",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of external perspectives in problem-solving and self-taught learning in DevOps, without a clear focus on AI applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:44:46",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 50,
+    "final_score": 28.0,
+    "reasoning": "The content briefly mentions the role of a Scrum coach and consultant, indicating some connection to Scrum principles. However, the primary focus is on self-taught learning and the importance of external perspectives in problem-solving, which does not align closely with the core themes of Scrum. The discussion lacks depth regarding Scrum roles, events, or artifacts, resulting in a low confidence score.",
+    "level": "Quaternary"
   }
 }

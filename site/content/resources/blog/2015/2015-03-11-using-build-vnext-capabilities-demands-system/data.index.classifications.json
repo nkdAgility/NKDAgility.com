@@ -350,15 +350,6 @@
     "reasoning": "The content discusses the Build vNext system, which is a tool related to the application lifecycle, particularly in the context of build definitions and agent capabilities. However, it primarily focuses on the technical aspects of the build system rather than the broader methodologies and practices of Application Lifecycle Management.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T22:26:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the Build vNext capabilities and demands system in Microsoft VSO, which is unrelated to Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T22:26:16",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the Build vNext capabilities and demands system in VSO, with no mention of AI or its application in Agile or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:34:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the Build vNext capabilities and demands system in the context of Microsoft’s TFS and VSO, with no direct references to Scrum principles, roles, events, or artifacts. While there is a mention of project management through build definitions, it does not align with the core themes of Scrum or provide any depth on Scrum practices.",
     "level": "Ignored"
   }
 }

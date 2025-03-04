@@ -1250,15 +1250,6 @@
     "reasoning": "Content primarily discusses the benefits of spaced learning in Agile training rather than focusing on throughput measurement or optimisation.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T20:29:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the effectiveness of spaced learning in training, without a clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T20:29:42",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the effectiveness of spaced learning in Agile training, without any mention of AI or its applications in Agile methodologies.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:20:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on the concept of learning and practice in a real work environment, which could relate to Scrum principles of iterative learning and team collaboration. However, it lacks direct mentions of Scrum roles, events, or artifacts, and does not delve into the specific practices or frameworks of Scrum. The discussion is more focused on learning methodologies rather than Scrum itself.",
+    "level": "Quaternary"
   }
 }

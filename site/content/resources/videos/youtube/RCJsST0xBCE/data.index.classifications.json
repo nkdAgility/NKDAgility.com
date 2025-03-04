@@ -557,15 +557,6 @@
     "reasoning": "Content primarily focuses on Azure DevOps migration tools and practices, with no central discussion on decision-making processes or themes related to Decision Theory.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:35:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "The content is primarily focused on Azure DevOps migration tools and practices, with only a brief mention of Scrum classes, which does not substantiate its relevance to the Scrum category as the main focus is elsewhere.",
-    "level": "Ignored"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T11:35:43",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on Azure DevOps migration tools and practices, with no clear discussion on the application of AI in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:32:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on Azure DevOps migration tools and does not discuss Scrum principles, roles, events, or artifacts. While it may touch on project management aspects, it lacks any direct references to Scrum or its framework.",
     "level": "Ignored"
   }
 }

@@ -1367,15 +1367,6 @@
     "reasoning": "Content primarily discusses the contributions of specific product owners and their impact on product management and agile practices at Microsoft, without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T22:23:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the role of a Product Owner and their contributions to agile practices, which are relevant to Scrum, but the primary focus is on specific individuals and their impact rather than a comprehensive discussion of Scrum principles or frameworks.",
-    "level": "Tertiary"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:57:06",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the contributions of product owners in Agile and DevOps contexts, without any mention or focus on Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:22:25",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 65.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 30,
+    "final_score": 59.0,
+    "reasoning": "The content discusses the role of a Product Owner in detail, highlighting their contributions to agile practices and the shift towards a more agile approach within Microsoft. While it mentions Scrum principles, such as the importance of feedback loops and iterative development, it does not delve deeply into the Scrum framework itself or its specific events and artifacts. The discussion is primarily focused on the impact of individual Product Owners rather than a comprehensive exploration of Scrum as a framework.",
+    "level": "Tertiary"
   }
 }

@@ -1250,15 +1250,6 @@
     "reasoning": "Content heavily discusses ethical considerations and communication in Agile environments, rather than throughput metrics or optimization.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T23:36:12",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "While the content discusses transparency, which is relevant to Scrum principles, it is primarily centered around broader agile concepts and the hosts' expertise rather than a focused discussion on Scrum specifically.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T23:36:12",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile principles and the importance of language in Agile contexts, with no mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:15:48",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 30,
+    "final_score": 41.0,
+    "reasoning": "The content briefly mentions Scrum in the context of the hosts' expertise but does not focus on Scrum principles, practices, or frameworks. The discussion on transparency aligns with Agile principles but lacks depth in Scrum-specific topics.",
+    "level": "Tertiary"
   }
 }

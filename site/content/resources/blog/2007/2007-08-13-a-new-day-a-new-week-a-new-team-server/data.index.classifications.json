@@ -206,15 +206,6 @@
     "reasoning": "Content primarily discusses the upgrade of Team Foundation Server and integration with SharePoint, lacking a focus on platform engineering principles or internal developer platforms.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T20:58:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses upgrading Team Foundation Server and related technical aspects, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T20:58:51",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses upgrading Team Foundation Server and related development tasks, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:18:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the upgrade of Team Foundation Server and mentions Visual Studio and SharePoint integration, with no direct references to Scrum principles, roles, events, or practices. The focus is on technical aspects of software development rather than Scrum methodologies, resulting in a very low confidence score.",
+    "level": "Quinary"
   }
 }

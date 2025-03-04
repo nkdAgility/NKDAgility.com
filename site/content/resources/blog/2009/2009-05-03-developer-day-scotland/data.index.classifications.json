@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses various sessions and topics from a developer event, focusing on refactoring, dynamic languages, design patterns, and architectural issues, without a clear emphasis on Application Lifecycle Management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T02:53:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses various sessions and topics related to software development, refactoring, and programming patterns, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T10:29:32",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses software development topics, including refactoring, dynamic languages, design patterns, and architecture, without any mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:54:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses various technical sessions and topics related to software development, such as refactoring, dynamic languages, and design patterns. While there is a brief mention of iterations in the context of refactoring, it does not explicitly discuss Scrum principles, roles, events, or artifacts. The overall focus is on technical skills and practices rather than Scrum as a framework for project management.",
+    "level": "Quinary"
   }
 }

@@ -1367,15 +1367,6 @@
     "reasoning": "Content primarily discusses the importance of a product vision and its role in aligning team efforts, which is not directly related to the One Engineering System framework.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T23:42:26",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the importance of a product vision, which is relevant to Scrum principles, but it primarily focuses on the concept of product vision rather than Scrum itself.",
-    "level": "Tertiary"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:58:49",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of a product vision in business and Agile methodologies, without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:23:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 50,
+    "final_score": 34.0,
+    "reasoning": "The content briefly mentions the importance of a product vision, which is relevant to Scrum as it relates to the Product Owner's role. However, it lacks detailed discussion on Scrum principles, roles, or events, and does not provide in-depth insights into the Scrum framework or its implementation. The mention of 'agile, scrum or DevOps' at the end indicates a broader context but does not focus specifically on Scrum.",
+    "level": "Quaternary"
   }
 }

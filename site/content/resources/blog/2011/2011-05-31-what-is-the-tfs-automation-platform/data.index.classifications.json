@@ -350,15 +350,6 @@
     "reasoning": "The content discusses the TFS Automation Platform, which relates to iteration management and automation within the context of application lifecycle management, but it primarily focuses on specific automation features rather than the broader ALM methodologies and practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T23:17:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the TFS Automation Platform and its features, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T23:53:11",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the TFS Automation Platform and its features, with no clear focus on Artificial Intelligence applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:48:44",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses the TFS Automation Platform and its features, with no direct mention of Scrum principles, roles, events, or artifacts. While it touches on iteration management, which is a concept in Agile methodologies, it does not align with the core themes of Scrum or provide any depth on Scrum practices.",
     "level": "Ignored"
   }
 }

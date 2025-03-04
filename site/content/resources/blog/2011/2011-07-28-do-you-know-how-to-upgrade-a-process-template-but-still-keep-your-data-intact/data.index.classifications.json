@@ -350,15 +350,6 @@
     "reasoning": "The content discusses the process of upgrading a process template in Team Foundation Server, which relates to the maintenance and management of software applications. However, it primarily focuses on specific implementation details rather than the broader principles of Application Lifecycle Management.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T22:16:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses upgrading process templates in Team Foundation Server and does not focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T22:50:43",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses upgrading process templates in Team Foundation Server, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:47:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses upgrading process templates in Team Foundation Server (TFS) and does not explicitly mention Scrum principles, roles, events, or artifacts. While it touches on project management aspects, it lacks direct references to Scrum or its core themes, resulting in a low confidence score.",
+    "level": "Quinary"
   }
 }

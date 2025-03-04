@@ -1349,15 +1349,6 @@
     "reasoning": "Content heavily discusses product backlog management within the context of Agile, without a clear focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T15:01:35",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses product backlog management, which is a key aspect of the Scrum framework, but it does not primarily focus on Scrum principles or practices.",
-    "level": "Tertiary"
-  },
   "Social Technologies": {
     "category": "Social Technologies",
     "calculated_at": "2025-02-17T15:01:37",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses product backlog management in Agile, with no mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:53:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the importance of product backlog management, which is a key aspect of the Scrum framework. It explicitly mentions the need for transparency and adequate backlogs, aligning with Scrum principles. However, it lacks detailed exploration of Scrum roles, events, or broader Agile principles, resulting in a moderate confidence score.",
+    "level": "Secondary"
   }
 }

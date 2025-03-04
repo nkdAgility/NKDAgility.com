@@ -47,6 +47,7 @@ resourceTypes:
 - video
 categories:
 - Social Technologies
+- Scrum
 
 ---
 ### Applying Flow Metrics for Scrum: Enhancing Value Delivery with Kanban

@@ -1349,15 +1349,6 @@
     "reasoning": "Content primarily discusses Scrum and the PSU course, focusing on agile frameworks and user experience integration, without addressing the principles or components of the One Engineering System.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T08:34:40",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses Scrum, its integration with user experience, and the PSU course, making it a central theme.",
-    "level": "Secondary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T08:34:42",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile methodologies and Scrum frameworks without any mention of Artificial Intelligence or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:27:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content discusses Scrum as a predominant process in product development, highlighting its terminology and principles. It mentions the roles of Product Owners and the importance of integrating user experience into Scrum practices, which aligns well with Scrum's core themes. The depth of discussion is significant, as it explores the relationship between Scrum and user experience, although it does not delve deeply into specific Scrum events or artifacts.",
+    "level": "Secondary"
   }
 }

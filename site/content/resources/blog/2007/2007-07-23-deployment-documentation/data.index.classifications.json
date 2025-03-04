@@ -206,15 +206,6 @@
     "reasoning": "The content discusses deployment processes and the need for self-service capabilities in managing application updates, which aligns with platform engineering principles, but it is primarily focused on vendor interactions and specific deployment challenges.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T21:31:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses deployment processes and vendor interactions, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T21:31:56",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses deployment processes and vendor management without any mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:19:46",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on deployment processes and vendor management, with no direct mention of Scrum principles, roles, or events. While it discusses project management aspects, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is also minimal regarding Scrum, leading to a low confidence score.",
+    "level": "Quinary"
   }
 }

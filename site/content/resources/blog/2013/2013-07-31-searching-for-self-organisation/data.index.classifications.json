@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses self-organisation within teams and does not focus on the stages or practices of Application Lifecycle Management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T17:57:38",
-    "ai_confidence": 70,
-    "non_ai_confidence": 30,
-    "final_score": 66.0,
-    "reasoning": "The content discusses self-organisation, which is a key aspect of Scrum, particularly in relation to team dynamics and accountability. However, it does not explicitly mention Scrum roles, events, or artifacts, making it a major but secondary theme.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T18:18:03",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses self-organisation in teams and Agile methodologies without any mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:39:07",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 30,
+    "final_score": 73.0,
+    "reasoning": "The content discusses self-organisation, a key principle in Scrum, and its importance for team dynamics and accountability. It aligns well with Scrum's emphasis on team collaboration and the Development Team's role. However, while it touches on Scrum concepts, it does not explicitly mention Scrum roles, events, or artifacts, which slightly lowers the confidence score.",
+    "level": "Secondary"
   }
 }

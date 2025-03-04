@@ -1367,15 +1367,6 @@
     "reasoning": "Content primarily discusses systemic change in organisations and consulting outcomes, with no clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T21:52:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses systemic change in consulting engagements and briefly mentions agile and scrum at the end, but does not focus on Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:56:30",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses consulting engagement outcomes and systemic change, with no clear focus on AI applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:21:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions 'agile' and 'scrum' at the end, but the primary focus is on systemic change in consulting engagements rather than Scrum principles or practices. While there is a conceptual alignment with the idea of change and improvement, it lacks depth in discussing Scrum-specific roles, events, or artifacts.",
+    "level": "Quaternary"
   }
 }

@@ -557,15 +557,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events, without a focus on decision-making processes or uncertainty.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:36:00",
-    "ai_confidence": 85,
-    "non_ai_confidence": 50,
-    "final_score": 82.0,
-    "reasoning": "Content primarily focuses on training and understanding Scrum principles, roles, and the Scrum Master position, which are central to the Scrum methodology.",
-    "level": "Primary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T11:36:00",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:29:28",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content explicitly discusses the role of Scrum Masters and the Scrum framework, indicating a strong focus on Scrum principles and practices. It provides a detailed overview of the training course aimed at enhancing understanding of Scrum theory, roles, and accountabilities, which aligns well with the core themes of the category. The depth of discussion is significant, covering the structure of the training and the support provided post-course, which further reinforces its relevance to Scrum.",
+    "level": "Primary"
   }
 }

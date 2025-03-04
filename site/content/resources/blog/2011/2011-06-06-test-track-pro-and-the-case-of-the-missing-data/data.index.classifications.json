@@ -350,15 +350,6 @@
     "reasoning": "The content discusses issues related to data migration and querying in the context of Test Track Pro and TFS Integration Platform, which are relevant to the maintenance and management stages of the application lifecycle. However, it primarily focuses on technical troubleshooting rather than broader ALM methodologies or practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T22:43:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical issues related to data querying and integration, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T10:28:44",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to data querying and migration in Test Track Pro, with no mention of AI or its application in Agile or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:48:15",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses technical issues related to data querying and integration with the TFS Integration Platform, with no direct mentions or discussions of Scrum principles, roles, events, or practices. It lacks alignment with Scrum's core themes and does not provide any depth on Scrum-related topics.",
     "level": "Ignored"
   }
 }

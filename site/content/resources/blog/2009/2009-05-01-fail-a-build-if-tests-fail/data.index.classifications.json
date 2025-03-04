@@ -350,15 +350,6 @@
     "reasoning": "The content discusses a specific aspect of build management within the context of TFS2008, which relates to application lifecycle management, but it is primarily focused on a technical implementation rather than a broader discussion of ALM methodologies or practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T02:56:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses build configurations in TFS2008 and does not focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T03:05:46",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses build failure in TFS2008 and does not relate to AI in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:55:01",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on a technical aspect of build processes in TFS2008, specifically regarding test failures and build configurations. There are no direct mentions of Scrum roles, events, or principles, and the discussion does not align with the core themes of Scrum or Agile methodologies. The content lacks depth in relation to Scrum, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

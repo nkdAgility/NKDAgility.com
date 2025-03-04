@@ -557,15 +557,6 @@
     "reasoning": "Content focuses on Agile coaching and the qualifications of coaches, not on decision-making processes or the principles of Decision Theory.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:22:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content mentions Scrum and discusses agile coaching, which includes references to professional Scrum trainers. However, the primary focus is on the controversy of life coaches presenting themselves as agile coaches, making Scrum a secondary theme.",
-    "level": "Tertiary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T10:22:15",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile coaching and the qualifications of Agile coaches, with no mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:26:12",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 30,
+    "final_score": 41.0,
+    "reasoning": "The content discusses Agile coaching and mentions Scrum in the context of Agile practices. However, it primarily focuses on the controversy surrounding Agile coaches rather than the Scrum framework itself. While there are references to Scrum trainers and Agile coaching, the depth of discussion on Scrum principles, roles, or events is limited, leading to a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

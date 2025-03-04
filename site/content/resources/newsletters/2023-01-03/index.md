@@ -20,6 +20,7 @@ aliasesArchive:
 - /resources/newsletters/january-2023/
 categories:
 - Social Technologies
+- Scrum
 tags:
 - Agile Project Management
 - Events and Presentations

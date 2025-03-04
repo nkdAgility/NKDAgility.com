@@ -350,15 +350,6 @@
     "reasoning": "Content heavily discusses Scrum and Team Foundation Server, focusing on project management rather than the full application lifecycle.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T00:38:59",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses Scrum in the context of project management using Team Foundation Server, including references to Scrum practices and rules.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T01:18:08",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and Team Foundation Server, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:50:45",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content discusses Scrum in the context of a presentation about project management with Team Foundation Server 2010. It mentions Scrum directly and references rules for better Scrum practices. However, the discussion lacks depth regarding Scrum principles, roles, and events, focusing more on the author's experience and the presentation context rather than a thorough exploration of Scrum itself.",
+    "level": "Secondary"
   }
 }

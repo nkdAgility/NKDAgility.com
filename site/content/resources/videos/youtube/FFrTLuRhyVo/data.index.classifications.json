@@ -1313,15 +1313,6 @@
     "reasoning": "Content primarily discusses technical debt and product delivery without a clear focus on Kanban principles or practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:01:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical debt and product delivery without a clear focus on Scrum principles, roles, or events.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:01:47",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical debt and product delivery without a clear focus on AI applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:40:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on the importance of delivering a high-quality product regularly, which aligns with Scrum principles of iterative progress and delivering value. However, it lacks explicit mentions of Scrum roles, events, or artifacts, and does not delve deeply into Scrum practices or frameworks.",
+    "level": "Quaternary"
   }
 }

@@ -1250,15 +1250,6 @@
     "reasoning": "Content primarily discusses an immersive learning course and Scrum roles, with no clear focus on throughput measurement or optimisation.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T22:54:54",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Scrum.org's immersive learning classes and mentions the PSPO, indicating a focus on Scrum principles and practices, but it is not the primary topic.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T22:54:55",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:22:46",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 30,
+    "final_score": 64.0,
+    "reasoning": "The content mentions Scrum.org and discusses immersive learning related to Scrum, indicating a direct mention of the category. However, it lacks detailed exploration of Scrum roles, events, or principles, resulting in a moderate confidence score. The focus on practical application and feedback aligns with Scrum's iterative nature but does not delve deeply into the framework itself.",
+    "level": "Secondary"
   }
 }

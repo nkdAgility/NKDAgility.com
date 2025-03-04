@@ -44,15 +44,6 @@
     "reasoning": "The content discusses agility and the importance of upskilling in relation to Scrum and Agile practices, making it a major but secondary theme.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:46:01",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Scrum-related courses and certifications, indicating a major but secondary theme of Scrum within a broader context of agility and professional development.",
-    "level": "Tertiary"
-  },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
     "calculated_at": "2025-02-18T12:22:41",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses agility, skills, and training without any mention of AI or its application in Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:29:04",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 50,
+    "final_score": 66.0,
+    "reasoning": "The content discusses agility and mentions Scrum-related courses, indicating a focus on skills relevant to Scrum. However, it lacks detailed exploration of Scrum principles, roles, or events, making it more of a general discussion on agility rather than a focused Scrum discourse.",
+    "level": "Secondary"
   }
 }

@@ -1313,15 +1313,6 @@
     "reasoning": "Content does not provide personal reflections or experiences related to Agile, Scrum, or DevOps; it appears to focus on a product scorecard without personal context.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:12:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content does not provide enough information to determine a clear focus on Scrum principles, practices, or frameworks. It appears to be unrelated to Scrum discussions.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:12:06",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content does not mention AI or its application in Agile, DevOps, or software development.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:42:30",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content title 'Product Scorecard' does not explicitly mention Scrum or its principles. The brief mention of a purpose suggests a potential link to project management but lacks any direct references to Scrum roles, events, or artifacts. Therefore, the confidence score is low, reflecting minimal relevance to the Scrum category.",
+    "level": "Quinary"
   }
 }

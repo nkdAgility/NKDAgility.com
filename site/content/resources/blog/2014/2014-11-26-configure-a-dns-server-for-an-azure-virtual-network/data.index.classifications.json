@@ -350,15 +350,6 @@
     "reasoning": "Content is primarily focused on configuring a DNS server for an Azure Virtual Network, with no clear relevance to application lifecycle management practices, stages, or methodologies.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T08:56:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about configuring a DNS server in Azure and does not discuss any aspects of Scrum.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T08:56:52",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring a DNS server in Azure, which is unrelated to AI, Agile methodologies, or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:35:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on configuring a DNS server within an Azure Virtual Network, with no mention of Scrum principles, roles, events, or any related topics. It does not align with the core themes of Scrum, such as team dynamics or iterative progress, and lacks any depth in discussing Scrum practices.",
     "level": "Ignored"
   }
 }

@@ -44,15 +44,6 @@
     "reasoning": "The content discusses training workshops related to Agile, Scrum, and Kanban, which are key topics within the Social Technologies category, but the primary focus is on the training schedule and delivery methods rather than the frameworks themselves.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:46:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content includes a mention of workshops related to Scrum and empiricism, indicating that Scrum is a significant theme, but the primary focus is on training delivery methods and other unrelated topics.",
-    "level": "Tertiary"
-  },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
     "calculated_at": "2025-02-18T13:07:17",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses training methodologies and workshop schedules without any mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:29:37",
+    "ai_confidence": 55.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 50,
+    "final_score": 54.0,
+    "reasoning": "The content includes a mention of 'Introduction to Scrum' in the context of workshops, indicating a direct reference to Scrum principles. However, the primary focus is on training delivery methods and personal experiences rather than a detailed exploration of Scrum roles, events, or artifacts. While there is some alignment with Scrum concepts, such as iterative learning and adaptation, the depth of discussion on Scrum itself is limited, making it a secondary rather than primary focus.",
+    "level": "Tertiary"
   }
 }

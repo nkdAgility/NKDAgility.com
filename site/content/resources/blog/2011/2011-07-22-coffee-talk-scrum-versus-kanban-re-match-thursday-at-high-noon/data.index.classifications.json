@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses Scrum and Kanban methodologies, which are not directly related to Application Lifecycle Management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Scrum in the context of a comparison with Kanban, making it a major but secondary theme.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T02:06:42",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and Kanban methodologies without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:47:59",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 64.0,
+    "reasoning": "The content primarily discusses a comparison between Scrum and Kanban, with multiple mentions of Scrum throughout. While it does touch on Scrum principles and its iterative nature, the focus is significantly on contrasting it with Kanban, which detracts from a deeper exploration of Scrum itself. The depth of discussion on Scrum is moderate, as it includes references to its adoption and benefits, but lacks detailed exploration of Scrum roles, events, or artifacts.",
+    "level": "Secondary"
   }
 }

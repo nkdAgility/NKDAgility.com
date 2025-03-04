@@ -1331,15 +1331,6 @@
     "reasoning": "Content primarily discusses the creation of unique scaling practices and critiques established frameworks like SAFe and the Spotify Model, without focusing on the principles or integration aspects of the One Engineering System.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-13T21:50:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of creating unique scaling practices and does not focus on Scrum principles, roles, or events.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-13T21:50:23",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses scaling practices and organisational uniqueness, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:21:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the importance of creating unique scaling practices and mentions frameworks like SAFe and the Spotify Model, which are not aligned with Scrum principles. There are no direct mentions of Scrum roles, events, or artifacts, and the discussion lacks depth regarding Scrum's core themes. Overall, the content does not focus on Scrum, leading to a low confidence score.",
+    "level": "Quinary"
   }
 }

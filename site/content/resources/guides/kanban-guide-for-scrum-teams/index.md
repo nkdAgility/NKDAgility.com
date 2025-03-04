@@ -34,6 +34,7 @@ card:
 categories:
 - Kanban
 - Social Technologies
+- Scrum
 tags:
 - Flow Efficiency
 

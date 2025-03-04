@@ -38,6 +38,7 @@ resourceTypes:
 - video
 categories:
 - Social Technologies
+- Scrum
 
 ---
 ## Bridging DevOps & Software Engineering Through Scrum! 🔥

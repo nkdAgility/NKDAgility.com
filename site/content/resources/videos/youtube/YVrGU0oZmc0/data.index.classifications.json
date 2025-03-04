@@ -1313,15 +1313,6 @@
     "reasoning": "Content primarily discusses technical practices related to feature flags and continuous delivery, lacking personal anecdotes or reflections.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T11:57:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses feature flags and continuous delivery practices, which are not central to Scrum principles or frameworks.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T11:57:20",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses feature flags and continuous delivery practices in software development, with no clear focus on the application of AI in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:38:52",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses feature flags and continuous delivery practices, which are not directly related to Scrum principles or frameworks. While there are elements of team collaboration and iterative development mentioned, the focus is on deployment strategies rather than Scrum roles, events, or artifacts. The discussion lacks depth in Scrum-specific practices, leading to a low confidence score in alignment with the Scrum category.",
+    "level": "Quaternary"
   }
 }

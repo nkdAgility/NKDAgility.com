@@ -36,6 +36,7 @@ resourceTypes:
 - video
 categories:
 - Product Management
+- Scrum
 
 ---
 ## Defining Roles in Agile

@@ -1331,15 +1331,6 @@
     "reasoning": "Content primarily discusses Evidence-based Management within the Scrum framework, focusing on metrics and agile practices, rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-13T21:52:23",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses Evidence-based Management, which is a framework from Scrum.org, and focuses on metrics related to Scrum practices, roles, and the iterative approach of Scrum.",
-    "level": "Secondary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-13T21:52:25",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Evidence-based Management and metrics in Agile practices, with no direct reference to Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:30:19",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses Evidence-based Management, which is a framework associated with Scrum, and highlights its importance in measuring value and success in agile practices. It mentions Scrum roles, metrics, and the iterative nature of Scrum, aligning well with the core themes of the category. The depth of discussion is significant, providing detailed insights into metrics and their implications for Scrum implementation, thus justifying a high confidence score.",
+    "level": "Secondary"
   }
 }

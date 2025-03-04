@@ -1250,15 +1250,6 @@
     "reasoning": "Content heavily discusses the role of the Scrum Master and misconceptions about it, with no clear focus on throughput or work completion rates.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T07:25:33",
-    "ai_confidence": 85,
-    "non_ai_confidence": 50,
-    "final_score": 82.0,
-    "reasoning": "Content primarily discusses the role of the Scrum Master, clarifying misconceptions, and emphasizing their importance within the Scrum framework.",
-    "level": "Primary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-18T07:25:33",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the role and misconceptions of Scrum Masters in Agile methodologies, with no mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:24:08",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content primarily focuses on the role of the Scrum Master, addressing common misconceptions and clarifying the responsibilities associated with this role within the Scrum framework. It discusses the importance of the Scrum Master's presence and their impact on team dynamics, which aligns well with Scrum principles. The depth of discussion is significant, as it explores the transition from a traditional view of the Scrum Master to a more empowering leadership role. However, while it touches on Scrum events and the concept of team self-organisation, it does not delve deeply into all aspects of the Scrum framework, which slightly lowers the overall confidence score.",
+    "level": "Primary"
   }
 }

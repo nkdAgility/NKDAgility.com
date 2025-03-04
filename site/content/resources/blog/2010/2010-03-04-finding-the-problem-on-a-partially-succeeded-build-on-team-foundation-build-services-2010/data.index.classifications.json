@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the process of identifying and resolving issues in a build within the context of Team Foundation Server, which is a tool used in Application Lifecycle Management. It covers aspects of bug tracking, code review, and integration with Agile practices, making ALM a central theme.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T01:33:42",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content discusses adding a bug to the sprint backlog and mentions Scrum practices, indicating a primary focus on Scrum principles and processes.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-17T09:09:20",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses troubleshooting a build failure in Team Foundation Build Services, focusing on code issues and project management practices, without any mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:52:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content discusses the process of adding a bug to the sprint backlog and mentions Scrum practices, such as not assigning tasks directly to team members and bringing issues up in Scrum meetings. However, the primary focus is on debugging and build processes rather than a comprehensive discussion of Scrum principles or frameworks.",
+    "level": "Secondary"
   }
 }

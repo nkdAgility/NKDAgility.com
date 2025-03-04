@@ -1331,15 +1331,6 @@
     "reasoning": "Content heavily discusses Scrum and team dynamics without any direct connection to platform engineering or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T13:14:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Scrum in the context of team agreements and frameworks, but it primarily focuses on Kanban and the importance of collaboration, making Scrum a secondary theme.",
-    "level": "Tertiary"
-  },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-17T13:14:18",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses team collaboration and working agreements in Agile methodologies, without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:48:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 50,
+    "final_score": 34.0,
+    "reasoning": "The content briefly mentions Scrum as part of a discussion on team dynamics and working agreements, but it primarily focuses on Kanban and the importance of collaboration in any framework. While it acknowledges Scrum, it does not delve deeply into its principles or practices, making it a secondary topic rather than a primary focus.",
+    "level": "Quaternary"
   }
 }

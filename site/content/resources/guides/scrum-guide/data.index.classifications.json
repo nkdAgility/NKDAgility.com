@@ -1313,15 +1313,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:09:25",
-    "ai_confidence": 100,
-    "non_ai_confidence": 50,
-    "final_score": 95.0,
-    "reasoning": "The content is primarily about the Scrum framework, detailing its roles, events, and artifacts, as well as its principles and values.",
-    "level": "Primary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:09:26",
@@ -1393,5 +1384,17 @@
     "final_score": 1.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:43:34",
+    "ai_confidence": 95.0,
+    "ai_mentions": 20,
+    "ai_alignment": 40,
+    "ai_depth": 40,
+    "non_ai_confidence": 50,
+    "final_score": 90.0,
+    "reasoning": "The content is a comprehensive exposition of the Scrum framework, detailing its roles, events, and artifacts. It explicitly defines Scrum, discusses its principles, and elaborates on the responsibilities of the Scrum Master, Product Owner, and Development Team. The depth of discussion is significant, covering various aspects of Scrum implementation and its values, which aligns closely with the core themes of the category.",
+    "level": "Primary"
   }
 }

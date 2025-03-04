@@ -41,8 +41,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Scrum
+- Social Technologies
 
 ---
 ## My Professional Scrum Trainer Legacy: What Matters Most to Me?

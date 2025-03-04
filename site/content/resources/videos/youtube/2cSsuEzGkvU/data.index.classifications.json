@@ -323,15 +323,6 @@
     "reasoning": "Content primarily discusses the importance of empathy and trust in Agile relationships, without a clear focus on the Agile Product Operating Model or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T14:49:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the importance of empathy and building trust within teams and organisations, which is not central to Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
     "calculated_at": "2025-02-17T14:49:31",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses building trust and relationships in Agile, with no mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:52:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on themes of trust and relationships, which are relevant to team dynamics in Scrum, but it does not explicitly mention Scrum roles, events, or artifacts. The discussion is more focused on general agile principles rather than specific Scrum practices, leading to a low confidence score.",
+    "level": "Quaternary"
   }
 }

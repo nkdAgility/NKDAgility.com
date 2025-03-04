@@ -1250,15 +1250,6 @@
     "reasoning": "Content primarily discusses the evolution of product ownership and leadership roles in Agile, without focusing on throughput or its measurement and optimisation.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T20:07:54",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the role of a Product Owner, which is a key role in Scrum, but it primarily focuses on the evolution of leadership beyond the Scrum framework.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T20:07:55",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the evolution of product ownership and leadership within Agile methodologies, without any mention or focus on Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:20:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 30,
+    "final_score": 59.0,
+    "reasoning": "The content discusses the role of a Product Owner, which is a key role within the Scrum framework. However, the focus is more on the evolution of leadership and the broader implications of the role rather than on Scrum principles, events, or practices. While Scrum is mentioned, it is not the primary focus of the discussion, leading to a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

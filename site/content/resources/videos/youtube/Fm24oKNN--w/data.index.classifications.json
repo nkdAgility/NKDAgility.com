@@ -44,15 +44,6 @@
     "reasoning": "The content discusses Scrum training and its impact on organisational agility, which relates to product management methodologies, but it primarily focuses on training rather than strategic product management.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:46:59",
-    "ai_confidence": 80,
-    "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "Content primarily discusses Scrum training and its impact on organisational agility, indicating a strong focus on Scrum principles and practices.",
-    "level": "Secondary"
-  },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
     "calculated_at": "2025-02-18T12:23:28",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum training and organisational change, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:33:44",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 66.0,
+    "reasoning": "The content discusses Scrum training and its importance in establishing a baseline understanding of Scrum within the organisation. It mentions the need for a standard framework and the challenges of varying interpretations of Scrum among team members. However, while it touches on key aspects of Scrum, such as training and team dynamics, it lacks detailed exploration of specific Scrum roles, events, or artifacts, which limits the depth of discussion.",
+    "level": "Secondary"
   }
 }

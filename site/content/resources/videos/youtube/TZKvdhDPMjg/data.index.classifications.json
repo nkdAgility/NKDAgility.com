@@ -557,15 +557,6 @@
     "reasoning": "Content heavily discusses Agile consulting and does not focus on decision-making processes, risk assessment, or heuristics related to decision theory.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T08:37:33",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Agile consulting with a focus on provoking change in client perspectives, but it mentions Scrum and Agile principles and training, making it a secondary theme rather than a primary focus.",
-    "level": "Tertiary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T08:37:33",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile consulting and the importance of provoking change in client mindsets, with no mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:24:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on the concept of Agile consulting but does not explicitly mention Scrum or its specific roles, events, or artifacts. While it aligns with the Agile principle of encouraging reflection and adaptation, it lacks depth in discussing Scrum practices or frameworks, leading to a low confidence score.",
+    "level": "Quaternary"
   }
 }

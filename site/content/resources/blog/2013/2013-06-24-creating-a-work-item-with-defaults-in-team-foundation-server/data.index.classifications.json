@@ -350,15 +350,6 @@
     "reasoning": "The content discusses creating a Work Item in Team Foundation Server, which relates to the application lifecycle, but primarily focuses on a specific implementation detail rather than the broader aspects of Application Lifecycle Management.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T18:31:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses creating a Work Item in Team Foundation Server, with a focus on templates and UI customisation, rather than Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T19:20:03",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses creating work items in Team Foundation Server, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:40:26",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions 'Product Backlog Item', which is a Scrum artifact, but does not discuss Scrum principles, roles, or events in any meaningful way. The focus is primarily on creating work items in Team Foundation Server, which is more related to project management tools than to Scrum itself.",
+    "level": "Quaternary"
   }
 }

@@ -557,15 +557,6 @@
     "reasoning": "Content does not discuss decision-making processes or the principles of Decision Theory; it focuses on Agile methodologies and critiques of Taylorism.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:14:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content title and description do not indicate a focus on Scrum principles, practices, or frameworks. They appear to address broader topics related to agile and workplace theories without specific details on Scrum.",
-    "level": "Ignored"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T11:14:29",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile methodologies and critiques of Taylorism without a focus on AI applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:31:00",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 50,
+    "final_score": 18.0,
+    "reasoning": "The content briefly mentions Scrum in the context of a speaker's background and experience, but it primarily focuses on broader themes of agility, management practices, and critiques of traditional methodologies. There is minimal direct discussion of Scrum roles, events, or artifacts, and the depth of Scrum-specific content is very low.",
+    "level": "Quinary"
   }
 }

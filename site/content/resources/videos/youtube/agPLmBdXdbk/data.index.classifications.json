@@ -557,15 +557,6 @@
     "reasoning": "Content primarily discusses the traits needed for an Agile Consultant, focusing on tenacity rather than decision-making processes or elements of decision theory.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:21:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content discusses tenacity as a trait for Agile consultants but does not primarily focus on Scrum principles, roles, or events.",
-    "level": "Ignored"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T10:21:36",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the traits of an Agile Consultant without any mention of AI or its application in Agile methodologies.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:24:56",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content briefly touches on the qualities of an agile consultant, which may relate to Scrum indirectly, but it does not explicitly mention Scrum principles, roles, or practices. The focus is more on personal traits rather than the Scrum framework or its implementation.",
+    "level": "Quaternary"
   }
 }

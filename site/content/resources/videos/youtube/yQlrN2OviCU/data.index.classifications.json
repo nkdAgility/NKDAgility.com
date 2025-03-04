@@ -305,15 +305,6 @@
     "reasoning": "Content primarily discusses peer feedback in immersive learning, which is not directly related to the Agile Product Operating Model.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T13:26:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses peer feedback in immersive learning, which is not directly related to Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
     "calculated_at": "2025-02-17T13:26:27",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses peer feedback in immersive learning, with no clear focus on AI applications in Agile, DevOps, or software development.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:49:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content briefly touches on the concept of peer feedback, which could relate to team dynamics in Scrum, but it does not explicitly mention Scrum or its core principles, roles, events, or artifacts. The discussion is more focused on immersive learning rather than Scrum practices, leading to a low confidence score.",
+    "level": "Quinary"
   }
 }

@@ -1250,15 +1250,6 @@
     "reasoning": "Content heavily discusses product ownership and management rather than throughput measurement or optimisation.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T18:41:12",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Product Owner, which is a key aspect of the Scrum framework, but it does not primarily focus on Scrum principles or practices.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T18:41:14",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses product management in Agile teams without any mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:18:48",
+    "ai_confidence": 55.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 50.0,
+    "reasoning": "The content briefly mentions the role of the Product Owner, which is a key role in the Scrum framework. However, it lacks detailed discussion on Scrum principles, practices, or events, resulting in a moderate confidence score. The focus on product management aligns conceptually with Scrum's emphasis on delivering business value, but the depth of discussion is minimal.",
+    "level": "Tertiary"
   }
 }

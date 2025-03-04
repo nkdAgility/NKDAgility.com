@@ -557,15 +557,6 @@
     "reasoning": "Content primarily discusses the role of a Scrum Master and the importance of teaching in Agile environments, lacking a focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the role of a Scrum Master, focusing on the critical skill of teaching within the context of Scrum, thus making Scrum a central theme.",
-    "level": "Secondary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T10:21:52",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of a Scrum Master and the importance of teaching in Agile methodologies, with no mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:25:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master, which is a key aspect of the Scrum framework. It discusses the importance of teaching and understanding the principles behind Scrum practices, aligning with the core themes of team dynamics and continuous improvement. However, it lacks detailed exploration of Scrum events or artifacts, resulting in a moderate confidence score.",
+    "level": "Secondary"
   }
 }

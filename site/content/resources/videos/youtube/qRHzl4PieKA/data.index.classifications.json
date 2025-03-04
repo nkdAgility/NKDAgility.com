@@ -323,15 +323,6 @@
     "reasoning": "Content primarily discusses team empowerment and Agile practices without reference to specific products or literature.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:37:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of empowering teams to adapt requirements based on user feedback, which aligns with Agile principles and indirectly relates to Scrum practices, but it does not focus primarily on Scrum itself.",
-    "level": "Tertiary"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-02-17T12:37:20",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile practices and team empowerment without any mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:46:24",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of empowering teams to adapt requirements based on user feedback, which aligns with Agile principles and the Scrum framework's emphasis on customer collaboration and iterative progress. However, it lacks explicit mentions of Scrum roles, events, or artifacts, which limits its depth in discussing the Scrum category specifically.",
+    "level": "Tertiary"
   }
 }

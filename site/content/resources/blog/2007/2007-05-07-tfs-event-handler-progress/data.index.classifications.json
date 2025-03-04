@@ -206,15 +206,6 @@
     "reasoning": "Content primarily discusses progress on specific work items and error handling in a project, with no clear focus on platform engineering principles or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T22:22:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses progress on a project and specific work items, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
     "calculated_at": "2025-02-16T22:22:25",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses progress on a project related to error handling and testing in a software development context, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:21:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses progress on a project with specific work items and technical issues related to error handling in WCF services. There are no direct mentions of Scrum roles, events, or principles, and the discussion does not align with the core themes of Scrum such as iterative progress, team dynamics, or continuous improvement. The focus is on technical implementation rather than Scrum practices.",
+    "level": "Quinary"
   }
 }

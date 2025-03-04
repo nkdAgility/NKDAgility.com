@@ -1331,15 +1331,6 @@
     "reasoning": "Content primarily discusses scaling portfolio management and Agile practices, with no clear focus on platform engineering or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T13:15:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "The content primarily discusses scaling portfolio Kanban and does not focus on Scrum principles, roles, or events.",
-    "level": "Ignored"
-  },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-17T13:15:03",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses scaling portfolio Kanban and improving delivery flow, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:48:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 8,
+    "non_ai_confidence": 50,
+    "final_score": 16.0,
+    "reasoning": "The content primarily discusses a course on 'scaling with portfolio Kanban', which is not aligned with Scrum principles or practices. While it mentions roles such as Scrum Masters and Product Owners, these are secondary to the main focus on Kanban and portfolio management. The discussion lacks depth in Scrum-specific topics and does not provide substantial insights into Scrum events, artifacts, or the framework itself.",
+    "level": "Quinary"
   }
 }

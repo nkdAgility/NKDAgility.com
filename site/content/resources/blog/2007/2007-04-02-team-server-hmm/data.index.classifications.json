@@ -62,15 +62,6 @@
     "reasoning": "Content primarily discusses integration of software tools and does not focus on organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:19:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses integration of Team Foundation Server with SQL Server Management Studio, which is not related to Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-17T09:19:21",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses integration of team server with SQL Server Management Studio, with no focus on AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:22:32",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses integration between Team Foundation Server and SQL Server Management Studio, with no direct mention of Scrum principles, roles, or events. While it touches on software development tools, it does not align with the core themes of Scrum or provide any depth on Scrum practices.",
     "level": "Ignored"
   }
 }

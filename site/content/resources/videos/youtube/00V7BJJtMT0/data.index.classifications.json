@@ -1349,15 +1349,6 @@
     "reasoning": "Content primarily discusses the differences and similarities between DevOps and Agile, which are unrelated to the One Engineering System framework.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T08:34:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the differences and similarities between DevOps and Agile, with only a brief mention of Agile principles. Scrum is not a central topic.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T08:34:24",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the relationship between DevOps and Agile methodologies without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:27:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 30,
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses DevOps and its relationship with Agile, with only a brief mention of Agile principles. There is no direct focus on Scrum roles, events, or artifacts, which are essential to the Scrum category. The discussion lacks depth regarding Scrum-specific practices and does not align with the core themes of the Scrum framework.",
+    "level": "Quinary"
   }
 }

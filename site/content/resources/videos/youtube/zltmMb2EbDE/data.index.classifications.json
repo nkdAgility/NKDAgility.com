@@ -1331,15 +1331,6 @@
     "reasoning": "Content heavily discusses Kanban and Scrum methodologies without any direct connection to platform engineering or internal developer platforms.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T13:15:45",
-    "ai_confidence": 30,
-    "non_ai_confidence": 50,
-    "final_score": 32.0,
-    "reasoning": "The content discusses Scrum in the context of integrating Kanban, but the primary focus is on Kanban strategies rather than Scrum principles or practices.",
-    "level": "Quaternary"
-  },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-17T13:15:46",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Kanban and Scrum methodologies without any mention of Artificial Intelligence or its application in Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:49:06",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": 50,
+    "final_score": 28.0,
+    "reasoning": "The content primarily discusses Kanban and its integration with Scrum, rather than focusing on Scrum principles or practices. While Scrum is mentioned, the discussion is largely critical of Scrum's metrics and promotes Kanban as a necessary complement, which detracts from a focused discussion on Scrum itself.",
+    "level": "Quaternary"
   }
 }

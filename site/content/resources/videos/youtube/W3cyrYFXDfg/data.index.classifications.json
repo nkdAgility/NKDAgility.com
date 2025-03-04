@@ -1349,15 +1349,6 @@
     "reasoning": "The content discusses Agile leadership and servant leadership concepts, which align with human-centric approaches to leadership. However, it primarily focuses on training and skills for managers rather than the broader principles of BetaCodex.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T15:06:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile leadership and management skills, with no clear focus on Scrum principles, roles, or events.",
-    "level": "Ignored"
-  },
   "Social Technologies": {
     "category": "Social Technologies",
     "calculated_at": "2025-02-17T15:06:02",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile leadership and management skills without any mention of AI or its application in Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:53:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile leadership and the transition to servant leadership, which are relevant to Scrum principles. However, it does not explicitly mention Scrum roles, events, or artifacts, leading to a lower direct mention score. The conceptual alignment is moderate as it touches on themes of team effectiveness and leadership within an Agile context, but lacks depth in discussing specific Scrum practices. Overall, while it relates to Agile methodologies, it does not focus primarily on Scrum.",
+    "level": "Quaternary"
   }
 }

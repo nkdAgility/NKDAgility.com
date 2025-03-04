@@ -1313,15 +1313,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on misconceptions and practices rather than psychological principles or theories related to organisational behaviour.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:03:59",
-    "ai_confidence": 90,
-    "non_ai_confidence": 50,
-    "final_score": 86.0,
-    "reasoning": "Content primarily discusses the role and accountability of the Scrum Master, addressing common misconceptions and emphasising the principles and philosophies of Scrum.",
-    "level": "Primary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:04:01",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the role and misconceptions of the Scrum Master in Agile methodologies, with no mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:41:02",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 40,
+    "non_ai_confidence": 50,
+    "final_score": 88.0,
+    "reasoning": "The content extensively discusses the role and responsibilities of the Scrum Master, addressing common misconceptions and clarifying the principles and philosophies underpinning Scrum. It directly references Scrum concepts, such as accountabilities and the importance of understanding Scrum beyond mechanical practices. The depth of discussion is significant, providing insights into the Scrum Master's focus areas and the impact of misconceptions on team dynamics and organisational effectiveness.",
+    "level": "Primary"
   }
 }

@@ -62,15 +62,6 @@
     "reasoning": "Content primarily discusses issues related to source control and branching in software development, with no mention of events or presentations.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T11:33:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to source control and branching in TFS, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Resilience and Change": {
     "category": "Resilience and Change",
     "calculated_at": "2025-02-16T11:33:17",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses source control management and branching strategies, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:57:46",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses issues related to source control and branching strategies in a version control system, with no explicit mention of Scrum principles, roles, or events. While there is a brief reference to project management (PM), it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is focused on technical challenges rather than Scrum practices, resulting in a low confidence score.",
+    "level": "Quinary"
   }
 }

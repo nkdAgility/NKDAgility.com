@@ -323,15 +323,6 @@
     "reasoning": "Content primarily critiques the use of story points and velocity metrics in Agile, focusing on their subjective nature rather than discussing the Agile Product Operating Model or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T14:31:00",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content briefly mentions agile concepts related to Scrum, such as story points and velocity, but primarily critiques their use rather than discussing Scrum principles or practices in depth.",
-    "level": "Quaternary"
-  },
   "DevOps": {
     "category": "DevOps",
     "calculated_at": "2025-02-17T14:31:01",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile metrics and practices, with no mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:51:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions agile concepts related to story points and velocity, which are often associated with Scrum practices. However, it primarily critiques these metrics rather than discussing Scrum principles or frameworks in detail. The focus is more on the negative implications of certain agile practices rather than a comprehensive exploration of Scrum roles, events, or artifacts. Therefore, while there are mentions of Scrum-related topics, the overall alignment and depth of discussion do not strongly support a high confidence score.",
+    "level": "Quaternary"
   }
 }

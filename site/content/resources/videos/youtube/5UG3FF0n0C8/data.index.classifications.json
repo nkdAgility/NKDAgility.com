@@ -557,15 +557,6 @@
     "reasoning": "Content focuses on a Q&A session about various topics, primarily DevOps and Agility, without any substantive discussion on decision-making processes.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:22:34",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions Scrum in the context of a professional Scrum trainer, but it is primarily focused on an open Q&A format covering various topics, including DevOps and Agility, rather than Scrum specifically.",
-    "level": "Tertiary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T11:22:34",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses general topics related to DevOps and Agile without a specific focus on the application of AI.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:32:00",
+    "ai_confidence": 35.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 50,
+    "final_score": 36.0,
+    "reasoning": "The content briefly mentions Scrum in the context of a professional trainer but does not delve into specific Scrum principles, roles, or practices. The focus is more on a general Q&A format rather than a detailed discussion of Scrum, leading to a lower confidence score.",
+    "level": "Quaternary"
   }
 }

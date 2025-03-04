@@ -1250,15 +1250,6 @@
     "reasoning": "Content primarily discusses the definition and nature of a product backlog, which is unrelated to throughput measurement and optimisation.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T07:25:25",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the concept of a product backlog, which is a core artifact within the Scrum framework, indicating a clear focus on Scrum principles.",
-    "level": "Secondary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-18T07:25:25",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the concept of a product backlog without any mention of AI or its integration within Agile methodologies, DevOps practices, or software development processes.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:23:51",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 58.0,
+    "reasoning": "The content discusses the concept of a product backlog, which is a key artifact in the Scrum framework. It provides a clear definition and distinguishes between a proper product backlog and an overloaded list, indicating an understanding of Scrum principles. However, it lacks detailed exploration of Scrum roles, events, or broader Agile principles, which limits its depth and overall alignment with the category.",
+    "level": "Tertiary"
   }
 }

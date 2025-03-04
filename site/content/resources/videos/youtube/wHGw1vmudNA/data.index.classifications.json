@@ -1367,15 +1367,6 @@
     "reasoning": "Content primarily discusses conflict and collaboration within organisations, focusing on Agile principles rather than the One Engineering System framework.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T17:10:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses conflict within organisations and does not focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:49:08",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses conflict and collaboration within organisations, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:16:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions 'agile' and 'scrum' in the context of conflict within organisations, but it does not focus on Scrum principles, roles, or practices. The discussion is more about organisational dynamics and conflict rather than specific Scrum concepts, leading to a low confidence score.",
+    "level": "Quaternary"
   }
 }

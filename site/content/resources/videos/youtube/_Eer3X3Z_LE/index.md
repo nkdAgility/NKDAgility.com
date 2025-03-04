@@ -34,6 +34,8 @@ resourceTypes:
 layout: video
 categories:
 - Scrum
+- Product Management
+- Social Technologies
 
 ---
 **What is a product backlog?**

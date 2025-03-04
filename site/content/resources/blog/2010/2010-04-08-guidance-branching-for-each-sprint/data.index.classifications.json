@@ -350,15 +350,6 @@
     "reasoning": "The content discusses branching strategies in the context of Scrum, which is related to the development and management of software applications, but it primarily focuses on version control practices rather than the broader aspects of Application Lifecycle Management.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T01:10:19",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the application of branching strategies within the context of Scrum, detailing how Scrum teams manage their work during sprints.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T10:28:57",
@@ -1393,5 +1384,17 @@
     "final_score": 1.0,
     "reasoning": "Content heavily discusses branching strategies in Scrum and version control, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:51:34",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content discusses Scrum in detail, particularly in relation to branching strategies for sprints. It explicitly mentions Scrum teams, sprints, and the importance of merging work for the Sprint Review, which aligns well with Scrum principles. The depth of discussion includes practical insights into how branching can facilitate Scrum processes, indicating a strong understanding of Scrum's application in software development.",
+    "level": "Secondary"
   }
 }

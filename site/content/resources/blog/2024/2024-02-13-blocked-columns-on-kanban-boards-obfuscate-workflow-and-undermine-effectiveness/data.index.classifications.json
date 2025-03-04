@@ -1331,15 +1331,6 @@
     "reasoning": "Content primarily discusses the use of Blocked columns in Kanban boards and their impact on workflow, without addressing the principles or components of the One Engineering System framework.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-13T21:47:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kanban boards and their implications, with no clear focus on Scrum principles, roles, or events.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-13T21:47:41",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the use of Kanban boards in Agile project management, focusing on the implications of Blocked columns, without any mention of Artificial Intelligence.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:49:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses Kanban boards and their implications on workflow, with no direct mention of Scrum principles, roles, or events. While it touches on concepts relevant to Agile methodologies, it does not align with the core themes of Scrum, nor does it provide any depth regarding Scrum practices.",
     "level": "Ignored"
   }
 }

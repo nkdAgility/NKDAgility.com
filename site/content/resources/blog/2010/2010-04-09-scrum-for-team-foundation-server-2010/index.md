@@ -34,8 +34,8 @@ tags:
 - Product Delivery
 - Agile Frameworks
 categories:
-- Scrum
 - Social Technologies
+- Scrum
 preview: metro-visual-studio-2010-128-link-2-1.png
 
 ---

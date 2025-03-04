@@ -1349,15 +1349,6 @@
     "reasoning": "The content discusses the importance of questioning organisational practices and adapting to change, which aligns with the principles of BetaCodex. However, it primarily focuses on agile methodologies and Scrum rather than a direct exploration of BetaCodex principles.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T14:16:34",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the importance of questioning and continuous improvement, which aligns with Scrum principles, but it primarily focuses on broader agile concepts rather than specific Scrum roles, events, or artifacts.",
-    "level": "Tertiary"
-  },
   "Social Technologies": {
     "category": "Social Technologies",
     "calculated_at": "2025-02-17T14:16:35",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile methodologies and the importance of questioning processes, but does not mention AI or its application within Agile, DevOps, or software development.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:50:35",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 50,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of questioning and continuous improvement, which aligns with Scrum principles. It mentions Scrum as a mirror for organisational effectiveness, indicating a conceptual connection to Scrum's focus on adaptation and team dynamics. However, it lacks detailed discussion on specific Scrum roles, events, or artifacts, which limits its depth and direct mentions of the Scrum framework.",
+    "level": "Secondary"
   }
 }

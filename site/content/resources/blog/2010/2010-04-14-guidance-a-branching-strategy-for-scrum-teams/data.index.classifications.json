@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses branching strategies within the context of Scrum, which is a key aspect of managing the application lifecycle, particularly in development and deployment stages.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T00:57:44",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses branching strategies specifically for Scrum teams, detailing Scrum processes, roles, and the integration of code within the Scrum framework.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-17T09:09:18",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses branching strategies and Scrum practices without any mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:51:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content discusses various aspects of Scrum, including branching strategies specifically tailored for Scrum teams, the importance of sprints, and the roles of team members in the Scrum process. It provides detailed guidance on how to manage code during sprints, including merging strategies and handling bugs, which aligns well with Scrum principles. However, it also mentions branching strategies in a broader context, which slightly detracts from its primary focus on Scrum.",
+    "level": "Secondary"
   }
 }

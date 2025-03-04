@@ -1367,15 +1367,6 @@
     "reasoning": "Content primarily discusses the concept of consensus in product development and decision-making, with a focus on the role of product owners and entrepreneurs, rather than the principles or practices of the One Engineering System.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T18:03:43",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the role of the Product Owner within the Scrum framework and touches on decision-making processes relevant to Scrum, but it primarily focuses on consensus and leadership rather than Scrum principles and practices.",
-    "level": "Tertiary"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:51:00",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses consensus in product development and decision-making processes, with no clear focus on Artificial Intelligence or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:18:03",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the role of the Product Owner, which is a key aspect of the Scrum framework, and touches on decision-making processes relevant to Scrum practices. However, while it mentions Scrum and its principles, the focus is more on consensus and decision-making in product development rather than a comprehensive exploration of Scrum itself. The depth of discussion on Scrum-specific roles and events is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   }
 }

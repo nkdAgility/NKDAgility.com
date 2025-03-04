@@ -1349,15 +1349,6 @@
     "reasoning": "The content discusses continuous delivery, deployment strategies, and the importance of frequent updates in the context of software applications, aligning with key themes of Application Lifecycle Management. However, the primary focus is on the cultural and organizational challenges rather than systematic ALM practices.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:09:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Scrum principles, specifically the concept of delivering working software frequently, which aligns with Scrum practices. However, it primarily focuses on continuous delivery across multiple contexts, indicating that Scrum is a significant but secondary theme.",
-    "level": "Tertiary"
-  },
   "Social Technologies": {
     "category": "Social Technologies",
     "calculated_at": "2025-02-18T11:49:19",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses software development practices and continuous delivery, with no clear focus on the application of AI in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:42:33",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 50,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of delivering working software frequently, which aligns with Scrum principles. It mentions the Scrum Framework's emphasis on creating deployable software at least every 30 days, indicating a direct mention of Scrum. However, the overall focus is more on continuous delivery and organisational culture rather than a detailed exploration of Scrum roles, events, or artifacts, leading to a moderate confidence score.",
+    "level": "Secondary"
   }
 }

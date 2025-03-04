@@ -33,9 +33,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- DevOps
 - Scrum
-- Social Technologies
 
 ---
 Welcome back to my blog! Today, I want to share some insights from my recent office hours, where I tackled a few pressing questions about agile practices, particularly around story points, team sizes, and emergent architecture. These topics are crucial for anyone looking to enhance their understanding of agile methodologies and improve their team's performance.

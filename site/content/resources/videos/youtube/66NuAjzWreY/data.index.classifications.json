@@ -1313,15 +1313,6 @@
     "reasoning": "Content heavily discusses evidence-based management practices and metrics, which are more aligned with operational strategies than psychological principles influencing organisational behaviour.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:14:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses evidence-based management practices and their application in organisations, without a clear focus on Scrum principles, roles, or events.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:14:49",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses evidence-based management in Agile without a clear focus on Artificial Intelligence applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:44:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses evidence-based management, which is relevant to Agile practices but does not explicitly mention Scrum or its specific roles, events, or artifacts. While it touches on themes of team dynamics and decision-making, it lacks a direct focus on Scrum principles and frameworks.",
+    "level": "Quaternary"
   }
 }

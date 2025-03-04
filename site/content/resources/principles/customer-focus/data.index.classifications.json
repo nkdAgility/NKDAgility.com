@@ -1331,15 +1331,6 @@
     "reasoning": "The content does not provide any relevant information or discussion related to Social Technologies or its key topics.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T17:27:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content does not provide any relevant information or discussion related to Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "Beta Codex": {
     "category": "Beta Codex",
     "calculated_at": "2025-02-18T17:27:19",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not discuss Artificial Intelligence or its application in Agile, DevOps, or software development; it is too vague and lacks relevant information.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:42:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content does not mention Scrum or any related concepts, making it difficult to classify it within the Scrum category. The title 'Customer Focus' suggests a potential connection to Agile principles, but there is no substantial discussion or detail provided that aligns with Scrum practices or frameworks.",
     "level": "Ignored"
   }
 }

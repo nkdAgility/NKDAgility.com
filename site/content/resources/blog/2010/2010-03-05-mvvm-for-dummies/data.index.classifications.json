@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses MVVM (Model-View-ViewModel) design pattern and its implementation in WPF and Silverlight, which is not directly related to Application Lifecycle Management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T01:29:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses MVVM and related programming patterns, with no mention of Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T01:39:40",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses MVVM architecture and coding practices, with no mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:52:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses MVVM (Model-View-ViewModel) and related design patterns in WPF and Silverlight, with no direct mention of Scrum principles, roles, events, or artifacts. While it touches on software development practices, it does not align with the core themes of Scrum, such as iterative progress, team dynamics, or empirical process control. The depth of discussion is focused on MVVM rather than any aspect of Scrum.",
     "level": "Ignored"
   }
 }

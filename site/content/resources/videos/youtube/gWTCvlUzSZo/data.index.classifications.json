@@ -1250,15 +1250,6 @@
     "reasoning": "Content heavily discusses the importance of camera quality for Scrum Masters in engaging with their teams, which is unrelated to the measurement and optimisation of work completion rates.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T18:11:48",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the role of Scrum Masters and their engagement with teams, which is a significant aspect of Scrum, but it primarily focuses on the use of cameras rather than Scrum principles or practices.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T18:11:49",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the importance of camera quality for Scrum Masters in team engagement, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:18:07",
+    "ai_confidence": 45.0,
+    "ai_mentions": 10,
+    "ai_alignment": 20,
+    "ai_depth": 15,
+    "non_ai_confidence": 50,
+    "final_score": 46.0,
+    "reasoning": "The content mentions Scrum Masters and discusses the importance of engagement in a Scrum context, but it lacks a comprehensive exploration of Scrum principles, roles, or events. The focus is more on the use of cameras rather than on Scrum practices or frameworks.",
+    "level": "Tertiary"
   }
 }

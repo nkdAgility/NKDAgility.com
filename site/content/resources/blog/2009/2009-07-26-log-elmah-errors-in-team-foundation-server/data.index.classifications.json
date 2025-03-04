@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the integration of error logging with Team Foundation Server (TFS), which is a tool used in the application lifecycle management process. It covers aspects of managing work items, error logging, and the interaction between application errors and TFS, aligning well with the principles of Application Lifecycle Management.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T02:17:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses logging errors in Team Foundation Server and does not focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T03:05:42",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses logging errors in Team Foundation Server and does not relate to Artificial Intelligence or its integration in Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:53:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses logging errors in Team Foundation Server (TFS) using Elmah, with no direct references to Scrum principles, roles, events, or artifacts. While it touches on work items, which could relate to Scrum practices, it does not engage with Scrum as a framework or its core themes, resulting in a very low confidence score.",
+    "level": "Quinary"
   }
 }

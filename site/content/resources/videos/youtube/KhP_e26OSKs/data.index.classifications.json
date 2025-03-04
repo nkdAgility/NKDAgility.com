@@ -323,15 +323,6 @@
     "reasoning": "The content discusses stakeholder engagement and feedback in the context of Sprint reviews, which relates to Agile practices, but it primarily focuses on the challenges of engagement rather than the broader principles of the Agile Product Operating Model.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T14:45:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Sprint Review event and the challenges faced by product owners in engaging stakeholders, making Scrum a major but secondary theme.",
-    "level": "Tertiary"
-  },
   "DevOps": {
     "category": "DevOps",
     "calculated_at": "2025-02-17T14:45:07",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses stakeholder engagement in Sprint reviews, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:51:58",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content primarily discusses the challenges faced by product owners in engaging stakeholders during Sprint reviews, which is a specific Scrum event. However, while it mentions the importance of feedback and stakeholder engagement, it lacks a broader discussion of Scrum principles, roles, or practices. The focus is more on marketing aspects rather than a comprehensive exploration of Scrum, leading to a moderate confidence score.",
+    "level": "Secondary"
   }
 }

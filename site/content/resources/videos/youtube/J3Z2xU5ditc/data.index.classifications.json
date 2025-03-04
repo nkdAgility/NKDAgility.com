@@ -1250,15 +1250,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on planning rather than throughput measurement or optimization.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T23:36:16",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses various aspects of Scrum, focusing specifically on the importance of planning within the Scrum framework, including Sprint Planning and team communication. It addresses common misconceptions about planning in Agile and illustrates Scrum practices in the context of complex project environments.",
-    "level": "Secondary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T23:36:16",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:15:53",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content explicitly discusses various aspects of Scrum, particularly focusing on planning within the framework. It mentions key Scrum events such as Sprint Planning and Daily Scrum, which are central to the Scrum methodology. The discussion aligns well with the core themes of Scrum, including the importance of planning and communication among teams. The depth of the discussion is substantial, as it explores the nuances of planning in different contexts, although it could benefit from more detailed exploration of Scrum roles and artifacts. Overall, the content is a strong fit for the Scrum category.",
+    "level": "Primary"
   }
 }

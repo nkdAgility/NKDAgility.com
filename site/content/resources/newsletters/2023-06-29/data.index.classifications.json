@@ -1250,15 +1250,6 @@
     "reasoning": "Content primarily focuses on introducing NKD Agility's training programmes and the development of agile practitioners, without a clear emphasis on throughput measurement or optimisation.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T21:16:34",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Scrum in the context of training and developing agile practitioners, making it a significant theme, but it is not the primary focus.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T21:16:35",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on agile methodologies and training for agile practitioners, with no clear discussion on the integration or application of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:21:20",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content discusses Scrum in the context of training and developing agile practitioners, mentioning Scrum roles and the importance of methodologies like Scrum. However, it primarily focuses on the promotional aspect of training rather than a detailed exploration of Scrum principles or practices. While Scrum is a significant part of the content, it is not the primary focus, leading to a moderate confidence score.",
+    "level": "Secondary"
   }
 }

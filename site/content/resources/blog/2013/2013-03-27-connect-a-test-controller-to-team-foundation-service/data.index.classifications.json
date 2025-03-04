@@ -350,15 +350,6 @@
     "reasoning": "The content discusses connecting a Test Controller to Team Foundation Service, which relates to deployment and testing within the application lifecycle. However, it primarily focuses on technical setup rather than broader ALM methodologies or practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T19:08:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses connecting a Test Controller to Team Foundation Service and does not focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T20:10:16",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses connecting a Test Controller to Team Foundation Service, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:41:36",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses connecting a Test Controller to Team Foundation Service, which is unrelated to Scrum principles, roles, events, or practices. There are no direct mentions of Scrum or its core themes, and the discussion lacks depth in any Scrum-related context.",
     "level": "Ignored"
   }
 }

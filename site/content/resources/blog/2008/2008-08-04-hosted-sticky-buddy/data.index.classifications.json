@@ -62,15 +62,6 @@
     "reasoning": "Content primarily discusses a hosted version of a software tool and does not reference any events, presentations, or discussions related to Agile or DevOps.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T12:31:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a hosted version of a tool related to .NET and Team Foundation Server, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Resilience and Change": {
     "category": "Resilience and Change",
     "calculated_at": "2025-02-16T12:31:45",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a hosted version of a tool related to .NET and Team Foundation Server, with no mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:58:54",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content does not explicitly mention Scrum or its principles, roles, events, or artifacts. It focuses on a hosted version of a tool related to TFS (Team Foundation Server) and does not discuss any Scrum-related topics or concepts. The only potential alignment is the mention of ALM (Application Lifecycle Management), which is tangentially related but does not directly connect to Scrum. Overall, the content lacks depth and relevance to the Scrum category.",
     "level": "Ignored"
   }
 }

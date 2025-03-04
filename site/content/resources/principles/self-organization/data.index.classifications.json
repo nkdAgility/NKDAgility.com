@@ -1331,15 +1331,6 @@
     "reasoning": "Content primarily discusses the self-organization aspect of Scrum teams, highlighting collaboration and decision-making within the framework.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T17:28:14",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the concept of self-organization within Scrum teams, highlighting the autonomy and collaborative decision-making that are central to the Scrum framework.",
-    "level": "Secondary"
-  },
   "Beta Codex": {
     "category": "Beta Codex",
     "calculated_at": "2025-02-18T17:28:17",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:43:47",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content explicitly mentions self-organization, a key principle within the Scrum framework, indicating a direct connection to Scrum. It aligns with the core themes of team dynamics and collaboration, which are essential in Scrum. However, the discussion lacks depth, as it does not elaborate on specific Scrum roles, events, or artifacts, resulting in a moderate confidence score.",
+    "level": "Secondary"
   }
 }

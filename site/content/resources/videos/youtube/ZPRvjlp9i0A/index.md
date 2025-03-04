@@ -36,9 +36,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- DevOps
 - Scrum
-- Social Technologies
 
 ---
 As I sit here reflecting on my journey as a professional Scrum trainer and consultant, I can't help but think about the profound changes we've all experienced in recent times. The COVID-19 pandemic has forced many of us to adapt, and while I miss travelling the globe for training sessions, I've found new ways to connect and share knowledge online. Today, I want to dive into some pressing questions that have come up during my recent sessions, particularly around the roles within Scrum and how they impact organisations.

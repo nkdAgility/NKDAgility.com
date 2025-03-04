@@ -53,15 +53,6 @@
     "reasoning": "Content primarily focuses on Scrum roles and events rather than leadership practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-20T18:16:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "The content does not primarily discuss Scrum principles, roles, or practices; it only mentions Scrum Masters in a broader context of agile project management without detailed exploration of Scrum concepts.",
-    "level": "Ignored"
-  },
   "MVP": {
     "category": "MVP",
     "calculated_at": "2025-02-20T19:53:07",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, with no mention of AI or its application in Agile or DevOps practices.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:38:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on the importance of user feedback and validating assumptions, which aligns with Agile principles of customer collaboration and responding to change. However, it lacks direct mentions of Scrum roles, events, or artifacts, and does not delve into the Scrum framework or its implementation, resulting in a low confidence score.",
+    "level": "Quaternary"
   }
 }

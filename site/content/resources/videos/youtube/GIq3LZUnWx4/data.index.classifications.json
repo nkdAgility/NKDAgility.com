@@ -1367,15 +1367,6 @@
     "reasoning": "Content primarily discusses the role of Product Owners and the concept of value in the context of a PSPO course, which is not related to the One Engineering System framework.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T23:44:34",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Product Owner, which is a key aspect of the Scrum framework, but primarily focuses on the concept of value rather than Scrum practices or principles.",
-    "level": "Tertiary"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:59:00",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the concept of value in the context of a PSPO course, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:24:03",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 30,
+    "final_score": 68.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner in relation to value, which is a key aspect of Scrum. It mentions the importance of defining and communicating value within an organisation, aligning with Scrum principles. However, it lacks detailed discussion on Scrum events, roles, or the framework itself, which limits its depth. The mention of 'Scrum' is brief and more of a passing reference, while the focus on value is significant but not exhaustive in terms of Scrum practices.",
+    "level": "Secondary"
   }
 }

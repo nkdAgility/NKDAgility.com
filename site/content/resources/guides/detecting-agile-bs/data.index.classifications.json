@@ -1313,15 +1313,6 @@
     "reasoning": "Content primarily discusses Agile principles and practices, with a focus on identifying genuine Agile practices versus misapplications, rather than specifically addressing Kanban methodology.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:09:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses agile principles and practices, including aspects relevant to Scrum, but it primarily focuses on identifying and critiquing agile practices rather than detailing Scrum roles, events, or artifacts.",
-    "level": "Tertiary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:09:09",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile methodologies and practices without a clear focus on the application of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:42:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 30,
+    "final_score": 59.0,
+    "reasoning": "The content discusses agile principles and practices, which are relevant to Scrum, but it primarily focuses on identifying and critiquing the misuse of agile methodologies rather than providing a detailed exploration of Scrum itself. While it mentions concepts like iterative development and user feedback, it lacks in-depth discussion of Scrum roles, events, and artifacts, which are central to the Scrum framework.",
+    "level": "Tertiary"
   }
 }

@@ -1151,15 +1151,6 @@
     "reasoning": "The content primarily discusses the interplay between agile methodologies, team dynamics, and the importance of leadership in fostering effective processes for release planning and predictable delivery. It addresses how organisational culture and structure impact agility and the role of teams in managing unpredictability in software development.",
     "level": "Secondary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-13T22:18:10",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses Scrum principles, roles, and practices, particularly in the context of release planning and predictable delivery, aligning closely with the Scrum framework.",
-    "level": "Secondary"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
     "calculated_at": "2025-02-13T22:18:12",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile methodologies and release planning without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:30:45",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses Scrum principles, including roles like Scrum Master and Product Owner, and events such as Sprints and Sprint Reviews. It aligns well with the core themes of Scrum, particularly in relation to agile principles and empirical process control. The depth of discussion is significant, providing detailed insights into release planning, predictability, and continuous improvement within the Scrum framework.",
+    "level": "Primary"
   }
 }

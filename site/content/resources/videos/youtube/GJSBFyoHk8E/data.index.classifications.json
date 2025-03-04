@@ -1250,15 +1250,6 @@
     "reasoning": "Content heavily discusses the process of creating a sprint goal, focusing on team dynamics and decision-making rather than the measurement or optimisation of throughput.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T23:04:25",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the process of creating a Sprint goal, which is a key aspect of the Scrum framework.",
-    "level": "Secondary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T23:04:26",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:23:00",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the process of creating a Sprint goal, which is a key aspect of the Scrum framework. It mentions the roles of the team and the Product Owner, as well as the importance of the Product Backlog, aligning well with Scrum principles. However, while it provides a good overview of the considerations involved, it lacks detailed exploration of Scrum events or roles, which affects the depth of discussion.",
+    "level": "Secondary"
   }
 }

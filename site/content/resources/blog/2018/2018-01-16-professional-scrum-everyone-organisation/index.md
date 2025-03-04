@@ -40,8 +40,6 @@ tags:
 - Organisational Change
 categories:
 - Scrum
-- Leadership
-- Social Technologies
 preview: nkdagility-professional-scrum-is-for-everyone-1-2-2.jpg
 
 ---

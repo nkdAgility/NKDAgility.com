@@ -350,15 +350,6 @@
     "reasoning": "Content primarily discusses issues related to conflict resolution in TFS Integration Tools, which is not central to Application Lifecycle Management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T19:38:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to TFS Integration Tools and conflict resolution, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-15T21:03:54",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses conflict resolution in TFS Integration Tools and does not relate to Artificial Intelligence or its application in Agile, DevOps, or software development.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:43:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses issues related to TFS Integration Tools and conflict resolution during a migration process. There are no direct mentions of Scrum principles, roles, events, or artifacts. The discussion does not align with the core themes of Scrum, such as team dynamics, iterative progress, or continuous improvement. The content lacks depth in relation to Scrum, focusing instead on technical troubleshooting rather than project management methodologies.",
+    "level": "Quinary"
   }
 }

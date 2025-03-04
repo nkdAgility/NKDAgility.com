@@ -1250,15 +1250,6 @@
     "reasoning": "Content primarily discusses the importance of DevOps in delivering value and obtaining customer feedback, without a clear focus on throughput measurement or optimisation.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T22:19:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps and its importance in software engineering, with no clear focus on Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T22:19:26",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses DevOps processes and practices without a focus on AI integration.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:22:18",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses DevOps, which is unrelated to Scrum principles and practices. There are no direct mentions of Scrum roles, events, or artifacts, and the focus is on continuous delivery rather than iterative progress or team dynamics associated with Scrum.",
     "level": "Ignored"
   }
 }

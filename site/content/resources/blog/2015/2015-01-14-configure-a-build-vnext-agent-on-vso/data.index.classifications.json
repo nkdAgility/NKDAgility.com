@@ -350,15 +350,6 @@
     "reasoning": "The content primarily discusses the configuration of a build agent within the context of Visual Studio Online and Team Foundation Server, which relates to the deployment and maintenance stages of the application lifecycle. However, it does not extensively cover broader ALM methodologies or practices.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T23:19:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the configuration of a Build vNext Agent and related technical details, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-14T23:19:09",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the configuration of a Build vNext Agent and related technical details, with no mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:35:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on configuring a Build vNext Agent in Visual Studio Online and does not mention Scrum principles, roles, events, or any related topics. While it discusses aspects of project management tools, it lacks any direct references to Scrum or its framework, making it largely irrelevant to the Scrum category.",
     "level": "Ignored"
   }
 }

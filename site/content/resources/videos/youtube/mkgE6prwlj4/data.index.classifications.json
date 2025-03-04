@@ -1250,15 +1250,6 @@
     "reasoning": "The content discusses the improvement in build times, which relates to throughput, but the primary focus is on the application of Scrum and the effectiveness of the Azure DevOps teams rather than a detailed exploration of throughput as a central theme.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T23:28:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the application of Scrum principles in a specific context, highlighting improvements in team effectiveness and customer resonance, but does not delve deeply into Scrum roles, events, or artifacts.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-17T23:28:05",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum implementation and DevOps practices without a focus on AI.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:23:29",
+    "ai_confidence": 35.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 50,
+    "final_score": 36.0,
+    "reasoning": "The content briefly mentions Scrum in the context of its application within Azure DevOps teams, but it lacks a detailed discussion of Scrum principles, roles, or events. While it touches on the effectiveness of Scrum in improving product delivery, it does not delve into the core themes of the Scrum framework or provide substantial insights into its implementation or practices.",
+    "level": "Quaternary"
   }
 }

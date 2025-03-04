@@ -1331,15 +1331,6 @@
     "reasoning": "Content primarily discusses team dynamics, product development processes, and the importance of developer engagement, without a clear focus on platform engineering or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T13:12:06",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the roles of team members in product development, which aligns with Scrum principles, but it also covers broader topics such as team dynamics and decision-making that extend beyond Scrum.",
-    "level": "Tertiary"
-  },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-17T13:12:09",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses team dynamics, product development processes, and decision-making without a clear focus on the application of AI in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:47:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 30,
+    "final_score": 68.0,
+    "reasoning": "The content discusses Scrum in the context of team dynamics and the roles involved in product development, particularly highlighting the importance of developers and product owners. However, while it mentions Scrum, the focus is more on general team empowerment and product development practices rather than a detailed exploration of Scrum principles, events, or artifacts. The discussion touches on concepts like collaboration and decision-making, which align with Scrum's emphasis on team dynamics, but lacks depth in specific Scrum practices and frameworks.",
+    "level": "Secondary"
   }
 }

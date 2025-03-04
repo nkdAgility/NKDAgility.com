@@ -350,15 +350,6 @@
     "reasoning": "The content discusses Visual Studio ALM and its community proposal, which relates to application lifecycle management, but the primary focus is on community engagement and voting rather than in-depth ALM practices or methodologies.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T00:24:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the proposal and commitment stages of a community on StackExchange related to Visual Studio ALM, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
     "calculated_at": "2025-02-16T00:54:19",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the proposal and voting process for a StackExchange community focused on Visual Studio ALM, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:50:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the commitment stage of a community proposal for Visual Studio ALM on StackExchange, with no direct references to Scrum principles, roles, events, or practices. While it touches on community engagement and voting, these concepts do not align with the core themes of Scrum, such as iterative progress or team dynamics. The discussion lacks depth and detail regarding Scrum, leading to a low confidence score.",
+    "level": "Quinary"
   }
 }

@@ -1349,15 +1349,6 @@
     "reasoning": "Content heavily discusses Scrum teams and their dynamics, which are not directly related to the One Engineering System framework.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:37:22",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the characteristics of poor and great Scrum teams, focusing on roles such as the Product Owner and team dynamics, which are central to the Scrum framework.",
-    "level": "Secondary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T10:37:24",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum team dynamics and Agile practices without any mention of Artificial Intelligence or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:28:27",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content discusses various aspects of poor Scrum team dynamics, including the roles of the Product Owner and Development Team, and highlights the importance of trust, respect, and commitment within a Scrum framework. It provides specific examples of dysfunctional behaviours that contradict Scrum values, demonstrating a clear understanding of Scrum principles. However, while it addresses Scrum directly, the focus is more on negative examples rather than a comprehensive exploration of Scrum practices, which slightly limits the depth of discussion.",
+    "level": "Secondary"
   }
 }

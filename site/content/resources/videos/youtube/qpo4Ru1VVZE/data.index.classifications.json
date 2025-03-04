@@ -1313,15 +1313,6 @@
     "reasoning": "Content heavily discusses technical aspects of DevOps migration and compatibility issues, with no focus on psychological principles or organisational behaviour.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:03:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses migration from TFS to Azure DevOps, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-17T12:03:40",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses migration from TFS to Azure DevOps and compatibility issues, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:40:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the migration from TFS to Azure DevOps, focusing on compatibility issues and system functionality. There are no direct mentions of Scrum roles, events, or principles, and the discussion does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is also limited to technical migration concerns rather than any Scrum-related practices.",
+    "level": "Quinary"
   }
 }

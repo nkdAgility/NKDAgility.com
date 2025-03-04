@@ -1349,15 +1349,6 @@
     "reasoning": "Content primarily discusses the role of Agile consultants and methodologies, with no clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T08:24:26",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the role of Agile consultants in relation to Scrum and Agile methodologies, but it primarily focuses on the need for consultancy rather than the Scrum framework itself.",
-    "level": "Tertiary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-18T08:24:28",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of Agile consultants and Agile methodologies, with no clear focus on Artificial Intelligence applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:26:23",
+    "ai_confidence": 55.0,
+    "ai_mentions": 3,
+    "ai_alignment": 60.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 50,
+    "final_score": 54.0,
+    "reasoning": "The content discusses the role of agile consultants in relation to Scrum, particularly in the context of organisations transitioning between methodologies. It mentions Scrum explicitly and touches on its application during project failures. However, the discussion is more focused on the broader concept of agile consulting rather than a deep dive into Scrum principles, roles, or events, which limits the depth of the discussion.",
+    "level": "Tertiary"
   }
 }

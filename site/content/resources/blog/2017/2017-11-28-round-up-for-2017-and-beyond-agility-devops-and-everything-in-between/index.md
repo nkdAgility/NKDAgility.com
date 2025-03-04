@@ -32,6 +32,7 @@ aliasesArchive:
 - /resources/blog/round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
 categories:
 - Social Technologies
+- Scrum
 preview: -1-1.jpg
 tags:
 - Events and Presentations

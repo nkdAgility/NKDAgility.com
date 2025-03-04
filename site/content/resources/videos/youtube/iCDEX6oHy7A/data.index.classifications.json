@@ -44,15 +44,6 @@
     "reasoning": "The content primarily discusses a chat with a Scrum Trainer and focuses on professionalism and conflicting priorities, which are not central to product management discussions.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:46:52",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions Scrum and features a Professional Scrum Trainer, indicating a significant but secondary theme related to Scrum principles and practices.",
-    "level": "Tertiary"
-  },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
     "calculated_at": "2025-02-18T12:23:21",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events without any mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:32:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 40,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content discusses various aspects of Scrum, including roles, team dynamics, and the importance of agile principles. It features conversations about product ownership, backlog management, and the challenges of maintaining team engagement, which are all central to Scrum practices. The dialogue reflects a deep understanding of Scrum concepts, although it occasionally veers into broader agile discussions and personal anecdotes, which slightly dilutes the focus on Scrum specifically.",
+    "level": "Secondary"
   }
 }

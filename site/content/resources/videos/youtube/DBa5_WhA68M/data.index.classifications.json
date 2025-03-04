@@ -1349,15 +1349,6 @@
     "reasoning": "Content primarily discusses negotiation skills for product owners, which does not align with the principles of BetaCodex.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T14:48:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses negotiation skills specifically for product owners, which is a role within the Scrum framework. However, the primary focus is on negotiation techniques rather than Scrum principles or practices.",
-    "level": "Tertiary"
-  },
   "Social Technologies": {
     "category": "Social Technologies",
     "calculated_at": "2025-02-17T14:48:16",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses negotiation skills for product owners, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T10:52:13",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner, which is a key aspect of the Scrum framework. It discusses negotiation skills essential for a Product Owner, highlighting the importance of communication and stakeholder engagement, which aligns with Scrum principles. However, while it touches on Scrum-related topics, it does not delve deeply into the Scrum framework itself or its events and artifacts, leading to a moderate confidence score.",
+    "level": "Secondary"
   }
 }

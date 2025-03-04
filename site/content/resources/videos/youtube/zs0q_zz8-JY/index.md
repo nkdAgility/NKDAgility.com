@@ -38,8 +38,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Leadership
 - Scrum
+- Leadership
 - Social Technologies
 
 ---

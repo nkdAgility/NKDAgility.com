@@ -1367,15 +1367,6 @@
     "reasoning": "Content primarily discusses issues related to Agile practices and stakeholder engagement in Sprint reviews, without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T17:08:34",
-    "ai_confidence": 80,
-    "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "Content primarily discusses the challenges of engagement and feedback during Sprint reviews, which are key events in the Scrum framework.",
-    "level": "Secondary"
-  },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
     "calculated_at": "2025-02-24T13:48:51",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile practices and stakeholder engagement without any mention of Artificial Intelligence.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:16:08",
+    "ai_confidence": 82.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 30,
+    "final_score": 77.0,
+    "reasoning": "The content discusses the importance of stakeholder engagement during Sprint reviews, which is a key event in the Scrum framework. It highlights issues related to communication and feedback, directly referencing Scrum roles such as the Product Owner. The discussion aligns well with Scrum principles, particularly around team dynamics and continuous improvement. The depth of the content is significant, providing detailed examples and suggestions for enhancing engagement in Scrum events.",
+    "level": "Secondary"
   }
 }
