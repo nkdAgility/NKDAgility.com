@@ -20,7 +20,6 @@ aliasesArchive:
 - /resources/newsletters/unlock-your-potential-in-2024-master-scrum-with-nkd-agility-exclusive-20-discount/
 categories:
 - Scrum
-- Social Technologies
 tags:
 - Agile Frameworks
 - Continuous Learning

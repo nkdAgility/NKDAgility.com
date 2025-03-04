@@ -40,6 +40,7 @@ tags:
 - Agile Transformation
 categories:
 - Social Technologies
+- Scrum
 preview: NKDAgility-technically-TheEvolutionofAgileLearning-1-1-16-16.jpg
 
 ---

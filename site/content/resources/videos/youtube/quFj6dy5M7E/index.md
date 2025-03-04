@@ -41,6 +41,7 @@ sitemap:
 resourceTypes:
 - video
 categories:
+- Scrum
 - Product Management
 - Social Technologies
 

@@ -8,7 +8,6 @@ date: 2023-12-19
 weight: 1000
 categories:
 - DevOps
-- Scrum
 - Social Technologies
 author: MrHinsh
 resourceTypes: podcast

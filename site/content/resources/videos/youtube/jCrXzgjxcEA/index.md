@@ -43,6 +43,7 @@ resourceTypes:
 categories:
 - Kanban
 - Social Technologies
+- Scrum
 
 ---
 Creating an effective Caman strategy is no small feat, especially in our current hybrid work environment. As we navigate this new landscape, the need for digital tools to share our visualisations has never been more critical. One such tool that I find invaluable is Azure DevOps. Today, I want to share my insights on how to leverage Azure DevOps to visualise your work as part of a Caman strategy.

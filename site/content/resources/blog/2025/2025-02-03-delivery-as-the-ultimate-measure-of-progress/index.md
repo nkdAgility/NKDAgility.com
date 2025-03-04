@@ -37,6 +37,7 @@ tags:
 - Scrum Team
 - Value Delivery
 categories:
+- Scrum
 - DevOps
 - Social Technologies
 preview: 2025-02-03-delivery-as-the-ultimate-measure-of-progress.jpg

@@ -22,9 +22,9 @@ card:
   content: Discover more about Value-based Prioritization and how it can help you in your Agile journey!
   title: Value-based Prioritization
 categories:
-- Scrum
 - Product Management
 - Social Technologies
+- Scrum
 tags:
 - Product Backlog
 - Scrum Product Development

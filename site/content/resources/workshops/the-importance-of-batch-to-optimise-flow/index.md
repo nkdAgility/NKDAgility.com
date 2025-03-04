@@ -25,6 +25,7 @@ card:
   title: The Importance of Batch to Optimise Flow
 categories:
 - Social Technologies
+- Scrum
 tags:
 - People and Process
 - Events and Presentations

@@ -20,6 +20,7 @@ aliasesArchive:
 - /resources/newsletters/agile-kata-and-a-whole-lot-more-with-facilitation-backlog-management-and-evidence-based-management/
 categories:
 - Social Technologies
+- Scrum
 tags:
 - Agile Project Management
 - Events and Presentations

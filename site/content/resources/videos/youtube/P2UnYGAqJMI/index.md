@@ -36,8 +36,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Product Management
-- Social Technologies
 
 ---
 Agile teams often use burndown charts to track progress throughout a sprint. It seems like a solid approach—after all, it’s a visual indicator of how much work remains. But let me be clear: **burndowns are Agile banditry**! In fact, relying too heavily on burndowns could lead your team down a treacherous path of excessive upfront planning and false security. Let’s explore why burndowns aren’t the hero of Agile, and how embracing a continuous flow mindset can lead to real value.

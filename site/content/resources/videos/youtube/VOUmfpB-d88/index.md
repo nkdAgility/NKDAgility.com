@@ -43,7 +43,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 ## **The Shift from Traditional to Immersive Learning**

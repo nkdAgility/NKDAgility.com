@@ -34,8 +34,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Product Management
-- Leadership
 - Scrum
 
 ---

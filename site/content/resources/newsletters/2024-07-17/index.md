@@ -20,6 +20,7 @@ aliasesArchive:
 categories:
 - Product Management
 - Social Technologies
+- Scrum
 tags:
 - Discovery and Learning
 - Agile Product Management

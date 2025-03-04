@@ -35,6 +35,7 @@ card:
 categories:
 - Product Management
 - Social Technologies
+- Scrum
 tags:
 - Evidence Based Management
 - Ability to Innovate

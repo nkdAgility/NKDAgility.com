@@ -43,6 +43,7 @@ resourceTypes:
 - video
 categories:
 - Social Technologies
+- Scrum
 
 ---
 Have you ever felt something was off with burndown charts? I know I have. There's always been this nagging feeling that something wasn't quite right. Over the years, people have revered these charts as the ultimate tool for monitoring a team’s progress. But I’ve come to realize that this couldn’t be further from the truth.
