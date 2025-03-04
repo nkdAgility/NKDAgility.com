@@ -1,7 +1,7 @@
 ---
 title: Scrum
 trustpilot: false
-date: 2025-03-03T10:00:00Z
+date: 2025-04-03T10:00:00Z
 description: Scrum is a a **social technology** for building **adaptive solutions** it focuses on delivering the **highest business value** in the **shortest time**. Scrum is a **framework** that helps teams work together. Much like a rugby team (where it gets its name) training for the big game, Scrum encourages teams to learn through experiences, self-organize while working on a problem, and reflect on their wins and losses to continuously improve.
 Instructions: |-
   **Use this category only for discussions on Scrum.**  
