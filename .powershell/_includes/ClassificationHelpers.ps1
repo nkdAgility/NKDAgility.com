@@ -83,13 +83,6 @@ function Get-CategoryConfidenceWithChecksum {
         # Load from cache
         try {
             $cachedData = Get-Content $cacheFile | ConvertFrom-Json -ErrorAction Stop
-            $originalOrder = ($cachedData | ForEach-Object { $_.category }) -join ','
-            $cachedData = $cachedData | Sort-Object -Property final_score -Descending
-            $newOrder = ($cachedData | ForEach-Object { $_.category }) -join ','
-            if ($originalOrder -ne $sortedOrder) {
-                $cachedData | Sort-Object -Property final_score -Descending | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
-                Write-Output "Order changed, updating cache file."
-            }
         }
         catch {
             Write-WarningLog "Warning: Cache file corrupted. Resetting cache."
@@ -105,7 +98,7 @@ function Get-CategoryConfidenceWithChecksum {
                 $cachedData.PSObject.Properties.Remove($key)
             }
             Write-DebugLog "  Removed {expiredCount} Invalid Items" -PropertyValues $keysToRemove.Count
-            $cachedData | Sort-Object -Property final_score -Descending | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
+            $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
         }           
         # Check if the cache is up to date
         $expiredCount = 0
@@ -119,7 +112,7 @@ function Get-CategoryConfidenceWithChecksum {
         }
         if ($expiredCount -gt 0) {
             Write-DebugLog "  Removed {expiredCount} Expired Items" -PropertyValues $expiredCount
-            $cachedData | Sort-Object -Property final_score -Descending | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
+            $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
         }
         # Check if the cache uses the latest calculations
         $recalculatedCount = 0
@@ -143,7 +136,7 @@ function Get-CategoryConfidenceWithChecksum {
         }
         if ($recalculatedCount -gt 0) {
             Write-DebugLog "  Recalculated for {recalculatedCount} Items" -PropertyValues $recalculatedCount
-            $cachedData | Sort-Object -Property final_score -Descending | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force            
+            $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force            
         }
     }
     # Bring Batch results into Cache file
@@ -186,7 +179,7 @@ function Get-CategoryConfidenceWithChecksum {
                 }
 
                 # Save updated cache
-                $cachedData | Sort-Object -Property final_score -Descending | ConvertTo-Json -Depth 4 | Set-Content -Path $cacheFile -Force
+                $cachedData | ConvertTo-Json -Depth 4 | Set-Content -Path $cacheFile -Force
 
                 # Cleanup batch file after processing
                 Remove-Item $batchFile -Force
@@ -219,7 +212,8 @@ function Get-CategoryConfidenceWithChecksum {
     $count = 0;
     $total = $catalog.Keys.Count
     foreach ($category in $catalog.Keys) {
-        Write-Progress -Id 2 -ParentId 1 -Activity "Classification of $ClassificationType" -Status "Processing classification $count of $total '$category'" -PercentComplete (($count / $total) * 100)
+        Write-DebugLog "Processing classification [$count/$total] $category | $(($count / $total) * 100)%"
+        #Write-Progress -Id 2 -ParentId 1 -Activity "Classification of $ClassificationType" -Status "Processing classification $count of $total '$category'" -PercentComplete (($count / $total) * 100)
         $count++
         if ($cachedData.PSObject.Properties[$category]) {            
             $categoryScores[$category] = $cachedData.$category      
@@ -302,6 +296,7 @@ function Get-CategoryConfidenceWithChecksum {
             $count = 0
             foreach ($prompt in $prompts) {
                 $count++
+                Write-DebugLog "Processing Prompt [$count/$prompts.Count] | $(($count / $prompts.Count) * 100)%"
                 #Write-Progress -Id 2 -Activity "Classification of $ClassificationType" -Status "Processing prompt [$count/$($prompts.count)]" -PercentComplete (($count / $prompts.count) * 100)
                 # Calls processing
                 $aiResponseJson = Get-OpenAIResponse -Prompt $prompt
@@ -311,14 +306,14 @@ function Get-CategoryConfidenceWithChecksum {
                     $categoryScores[$result.category] = $result 
                     $cachedData | Add-Member -MemberType NoteProperty -Name $result.category -Value $result -Force
                     # Save cache after each API call
-                    $cachedData | Sort-Object -Property final_score -Descending | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
+                    $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
                 }
                 else {
                     Write-ErrorLog "Error processing AI response for $($result.category). Reasoning is Null!"
                     exit
                 }               
             }
-            #Write-Progress -Id 2 -Activity "All Tasks Complete" -Completed
+            # Write-Progress -Id 2 -Activity "All Tasks Complete" -Completed
         }
     }
 
@@ -521,7 +516,7 @@ function Remove-ClassificationsFromCache {
 
     # Save the updated cache if any classifications were removed
     if ($removedCount -gt 0) {
-        $cachedData | Sort-Object -Property final_score -Descending | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
+        $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
         Write-Host "Cache file updated successfully with $removedCount removals."
     }
     else {
@@ -574,7 +569,7 @@ function Remove-ClassificationsFromCacheThatLookBroken {
 
     # Save the updated cache if any classifications were removed
     if ($removedCount -gt 0) {
-        $cachedData | Sort-Object -Property final_score -Descending | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
+        $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
         Write-Host "Cache file updated successfully with $removedCount removals."
     }
     else {
