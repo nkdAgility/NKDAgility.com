@@ -13,8 +13,6 @@ slug: embracing-process-improvement-how-understanding-scrum-transformed-a-develo
 layout: video
 aliases:
 - /resources/F8a6gtXxLe0
-- /resources/videos/embracing-process-improvement-how-understanding-scrum-transformed-a-developers-mindset
-- /resources/videos/nkdagility-healthgrades-interview-dave-frisch
 aliasesArchive:
 - /resources/videos/nkdagility-healthgrades-interview-dave-frisch
 - /resources/nkdagility-healthgrades-interview-dave-frisch

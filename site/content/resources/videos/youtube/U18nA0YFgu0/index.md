@@ -17,8 +17,6 @@ duration: 262
 isShort: false
 aliases:
 - /resources/U18nA0YFgu0
-- /resources/videos/7-deadly-sins-of-agile-wrath
-- /resources/videos/wrath-7-deadly-sins-of-agile
 aliasesArchive:
 - /resources/videos/-deadly-sins-of-agile-wrath
 - /resources/videos/7-deadly-sins-of-agile-wrath

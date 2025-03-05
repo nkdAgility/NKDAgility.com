@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: rethinking-product-backlog-navigating-through-the-weeds-of-complexity
 aliases:
-- /blog/rethinking-product-backlog-navigating-through-the-weeds-of-complexity
-- /rethinking-product-backlog-navigating-through-the-weeds-of-complexity
-- /rethinking-product-backlog--navigating-through-the-weeds-of-complexity
-- /blog/rethinking-product-backlog--navigating-through-the-weeds-of-complexity
 - /resources/PmLDnMEBzBQ
-- /resources/blog/rethinking-product-backlog-navigating-through-the-weeds-of-complexity
 aliasesArchive:
 - /blog/rethinking-product-backlog-navigating-through-the-weeds-of-complexity
 - /rethinking-product-backlog-navigating-through-the-weeds-of-complexity

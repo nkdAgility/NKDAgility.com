@@ -17,8 +17,6 @@ duration: 198
 isShort: false
 aliases:
 - /resources/aS9TRDoC62o
-- /resources/videos/if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
-- /resources/videos/if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should
 aliasesArchive:
 - /resources/videos/if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
 - /resources/if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they

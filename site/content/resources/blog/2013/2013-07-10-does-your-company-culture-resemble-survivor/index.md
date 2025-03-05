@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: does-your-company-culture-resemble-survivor
 aliases:
-- /blog/does-your-company-culture-resemble-survivor
-- /does-your-company-culture-resemble-survivor
-- /does-your-company-culture-resemble-survivor-
-- /blog/does-your-company-culture-resemble-survivor-
 - /resources/1VbvpOX1Hg0
-- /resources/blog/does-your-company-culture-resemble-survivor
 aliasesArchive:
 - /blog/does-your-company-culture-resemble-survivor
 - /does-your-company-culture-resemble-survivor

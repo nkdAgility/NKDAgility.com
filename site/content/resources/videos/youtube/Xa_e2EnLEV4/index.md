@@ -17,8 +17,6 @@ duration: 277
 isShort: false
 aliases:
 - /resources/Xa_e2EnLEV4
-- /resources/videos/3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug
-- /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-sweeping-problems-under-the-rug
 aliasesArchive:
 - /resources/videos/-best-ways-to-wreck-kanban-sweep-problems-under-the-rug-
 - /resources/videos/3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug-

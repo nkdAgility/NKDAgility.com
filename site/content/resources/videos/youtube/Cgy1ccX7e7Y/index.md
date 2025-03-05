@@ -17,7 +17,6 @@ duration: 389
 isShort: false
 aliases:
 - /resources/Cgy1ccX7e7Y
-- /resources/videos/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client
 aliasesArchive:
 - /resources/videos/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client
 - /resources/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client

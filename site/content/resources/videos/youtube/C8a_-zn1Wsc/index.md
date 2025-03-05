@@ -17,9 +17,6 @@ duration: 48
 isShort: true
 aliases:
 - /resources/C8a_-zn1Wsc
-- /resources/videos/unlocking-the-power-of-immersive-learning-in-agile-overcoming-cognitive-bias-C8a_-zn1Wsc
-- /resources/videos/unlocking-the-power-of-immersive-learning-in-agile-overcoming-cognitive-bias
-- /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-1
 aliasesArchive:
 - /resources/videos/unlocking-the-power-of-immersive-learning-in-agile-overcoming-cognitive-bias
 - /resources/unlocking-the-power-of-immersive-learning-in-agile-overcoming-cognitive-bias

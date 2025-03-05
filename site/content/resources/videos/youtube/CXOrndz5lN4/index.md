@@ -14,9 +14,6 @@ slug: cultivating-a-culture-of-engineering-excellence-the-essential-role-of-tech
 layout: video
 aliases:
 - /resources/CXOrndz5lN4
-- /resources/videos/cultivating-a-culture-of-engineering-excellence-the-essential-role-of-technical-leadership-CXOrndz5lN4
-- /resources/videos/cultivating-a-culture-of-engineering-excellence-the-essential-role-of-technical-leadership
-- /resources/videos/building-a-culture-of-engineering-excellence
 aliasesArchive:
 - /resources/videos/cultivating-a-culture-of-engineering-excellence-the-essential-role-of-technical-leadership
 - /resources/videos/building-a-culture-of-engineering-excellence

@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
 aliases:
-- /blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
-- /live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
-- /the-tyranny-of-taylorism-and-how-to-detect-agile-bs
-- /blog/the-tyranny-of-taylorism-and-how-to-detect-agile-bs
 - /resources/IDMjGi5C8lS
-- /resources/blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
 aliasesArchive:
 - /blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
 - /live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs

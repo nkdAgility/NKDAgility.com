@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: release-planning-and-predictable-delivery
 aliases:
-- /blog/release-planning-and-predictable-delivery
-- /release-planning-and-predictable-delivery
 - /resources/2cOXevMnGb_
-- /resources/blog/release-planning-and-predictable-delivery
 aliasesArchive:
 - /blog/release-planning-and-predictable-delivery
 - /release-planning-and-predictable-delivery

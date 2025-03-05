@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: open-source-vsts-tfs-github-better-devops
 aliases:
-- /blog/open-source-vsts-tfs-github-better-devops
-- /open-source-vsts-tfs-github-better-devops
-- /open-source-with-vsts-or-tfs-and-github-for-better-devops
-- /blog/open-source-with-vsts-or-tfs-and-github-for-better-devops
 - /resources/LWHiaHn3CWF
-- /resources/blog/open-source-vsts-tfs-github-better-devops
 aliasesArchive:
 - /blog/open-source-vsts-tfs-github-better-devops
 - /open-source-vsts-tfs-github-better-devops

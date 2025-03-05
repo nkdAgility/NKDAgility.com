@@ -22,8 +22,6 @@ resourceTypes: blog
 slug: the-scrum-master-is-accountable-for-delivery
 aliases:
 - /resources/yMnia2DLI6q
-- /the-scrum-master-is-accountable-for-delivery
-- /blog/the-scrum-master-is-accountable-for-delivery
 aliasesArchive:
 - /the-scrum-master-is-accountable-for-delivery
 - /blog/the-scrum-master-is-accountable-for-delivery

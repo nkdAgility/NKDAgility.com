@@ -17,9 +17,6 @@ duration: 45
 isShort: true
 aliases:
 - /resources/ACZWkkvKEnw
-- /resources/videos/avoiding-the-local-optimisation-trap-how-to-ensure-your-governance-drives-organisational-success-ACZWkkvKEnw
-- /resources/videos/avoiding-the-local-optimisation-trap-how-to-ensure-your-governance-drives-organisational-success
-- /resources/videos/the-cog-conundrum
 aliasesArchive:
 - /resources/videos/avoiding-the-local-optimisation-trap-how-to-ensure-your-governance-drives-organisational-success
 - /resources/when-is-an-aps-course-appropriate-for-a-scrum-team

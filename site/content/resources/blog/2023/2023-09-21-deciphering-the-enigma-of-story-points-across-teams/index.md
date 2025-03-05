@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: deciphering-the-enigma-of-story-points-across-teams
 aliases:
-- /blog/deciphering-the-enigma-of-story-points-across-teams
-- /deciphering-the-enigma-of-story-points-across-teams
 - /resources/LKp5S7_4Kbw
-- /resources/blog/deciphering-the-enigma-of-story-points-across-teams
 aliasesArchive:
 - /blog/deciphering-the-enigma-of-story-points-across-teams
 - /deciphering-the-enigma-of-story-points-across-teams

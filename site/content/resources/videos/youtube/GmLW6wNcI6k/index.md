@@ -17,8 +17,6 @@ duration: 275
 isShort: false
 aliases:
 - /resources/GmLW6wNcI6k
-- /resources/videos/what-does-the-assessment-phase-of-a-consulting-engagement-look-and-feel-like
-- /resources/videos/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like
 aliasesArchive:
 - /resources/videos/what-does-the-assessment-phase-of-a-consulting-engagement-look-and-feel-like
 - /resources/what-does-the-assessment-phase-of-a-consulting-engagement-look-and-feel-like

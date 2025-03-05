@@ -13,7 +13,6 @@ slug: why-are-you-going-the-immersive-scrum-training-route
 layout: video
 aliases:
 - /resources/TabMnJpXFVA
-- /resources/videos/why-are-you-going-the-immersive-scrum-training-route
 aliasesArchive:
 - /resources/videos/why-are-you-going-the-immersive-scrum-training-route
 - /resources/videos/why-are-you-going-the-immersive-scrum-training-route-

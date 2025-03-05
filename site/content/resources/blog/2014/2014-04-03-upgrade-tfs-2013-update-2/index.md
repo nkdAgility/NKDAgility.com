@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: upgrade-tfs-2013-update-2
 aliases:
-- /blog/upgrade-tfs-2013-update-2
-- /upgrade-tfs-2013-update-2
-- /should-i-upgrade-to-tfs-2013-update-2-
-- /blog/should-i-upgrade-to-tfs-2013-update-2-
 - /resources/_FVuS9sZSA2
-- /resources/blog/upgrade-tfs-2013-update-2
 aliasesArchive:
 - /blog/upgrade-tfs-2013-update-2
 - /upgrade-tfs-2013-update-2

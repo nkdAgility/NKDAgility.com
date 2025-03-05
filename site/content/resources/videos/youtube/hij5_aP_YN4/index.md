@@ -17,9 +17,6 @@ duration: 55
 isShort: true
 aliases:
 - /resources/hij5_aP_YN4
-- /resources/videos/the-power-of-community-becoming-an-awesome-agile-coach-hij5_aP_YN4
-- /resources/videos/the-power-of-community-becoming-an-awesome-agile-coach
-- /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-4
 aliasesArchive:
 - /resources/videos/the-power-of-community-becoming-an-awesome-agile-coach
 - /resources/the-power-of-community-becoming-an-awesome-agile-coach

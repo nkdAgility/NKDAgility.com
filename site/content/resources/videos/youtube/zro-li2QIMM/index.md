@@ -13,9 +13,6 @@ slug: unlocking-success-join-me-for-a-virtual-coffee-to-tackle-your-agile-and-te
 layout: video
 aliases:
 - /resources/zro-li2QIMM
-- /resources/videos/unlocking-success-join-me-for-a-virtual-coffee-to-tackle-your-agile-and-technical-challenges-zro-li2QIMM
-- /resources/videos/unlocking-success-join-me-for-a-virtual-coffee-to-tackle-your-agile-and-technical-challenges
-- /resources/videos/-shorts-7-virtues-of-agile-charity
 aliasesArchive:
 - /resources/videos/unlocking-success-join-me-for-a-virtual-coffee-to-tackle-your-agile-and-technical-challenges
 - /resources/videos/-shorts-7-virtues-of-agile-charity

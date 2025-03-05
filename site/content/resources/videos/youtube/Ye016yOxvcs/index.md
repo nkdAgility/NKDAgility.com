@@ -17,9 +17,6 @@ duration: 51
 isShort: true
 aliases:
 - /resources/Ye016yOxvcs
-- /resources/videos/5-critical-skills-to-master-as-an-agile-consultant-part-1-Ye016yOxvcs
-- /resources/videos/5-critical-skills-to-master-as-an-agile-consultant-part-1
-- /resources/videos/5-critical-skill-to-master-as-an-agile-consultant-part-1
 aliasesArchive:
 - /resources/videos/-critical-skills-to-master-as-an-agile-consultant-part-
 - /resources/videos/5-critical-skills-to-master-as-an-agile-consultant-part-1

@@ -13,8 +13,6 @@ slug: mastering-scrum-key-insights-on-definition-of-done-spikes-and-managing-ad-
 layout: video
 aliases:
 - /resources/gc8Pq_5CepY
-- /resources/videos/mastering-scrum-key-insights-on-definition-of-done-spikes-and-managing-ad-hoc-work
-- /resources/videos/3rd-june-2020-office-hours-ask-me-anything
 aliasesArchive:
 - /resources/videos/rd-june-office-hours-ask-me-anything
 - /resources/videos/3rd-june-2020-office-hours-ask-me-anything

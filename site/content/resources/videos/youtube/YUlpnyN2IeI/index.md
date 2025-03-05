@@ -17,8 +17,6 @@ duration: 298
 isShort: false
 aliases:
 - /resources/YUlpnyN2IeI
-- /resources/videos/best-scrum-advice-you-ever-received
-- /resources/videos/unlocking-scrums-potential-avoiding-dogma-and-embracing-flexibility
 aliasesArchive:
 - /resources/videos/best-scrum-advice-you-ever-received
 - /resources/best-scrum-advice-you-ever-received-2

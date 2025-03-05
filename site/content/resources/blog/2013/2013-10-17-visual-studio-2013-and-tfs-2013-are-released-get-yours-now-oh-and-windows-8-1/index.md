@@ -14,14 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: visual-studio-2013-and-tfs-2013-are-released-get-yours-now-oh-and-windows-8-1
 aliases:
-- /blog/visual-studio-2013-and-tfs-2013-are-released-get-yours-now-oh-and-windows-8-1
-- /visual-studio-2013-and-tfs-2013-are-released-get-yours-now-oh-and-windows-8-1
-- /visual-studio-2013-and-tfs-2013-are-released,-get-yours-now--oh-and-windows-8-1&hellip;
-- /blog/visual-studio-2013-and-tfs-2013-are-released,-get-yours-now--oh-and-windows-8-1&hellip;
 - /resources/6g2Cp_ZpsHo
-- /visual-studio-2013-and-tfs-2013-are-released--get-yours-now--oh-and-windows-8-1&hellip;
-- /blog/visual-studio-2013-and-tfs-2013-are-released--get-yours-now--oh-and-windows-8-1&hellip;
-- /resources/blog/visual-studio-2013-and-tfs-2013-are-released-get-yours-now-oh-and-windows-8-1
 aliasesArchive:
 - /blog/visual-studio-2013-and-tfs-2013-are-released-get-yours-now-oh-and-windows-8-1
 - /visual-studio-2013-and-tfs-2013-are-released-get-yours-now-oh-and-windows-8-1

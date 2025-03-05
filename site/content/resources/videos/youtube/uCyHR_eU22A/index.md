@@ -17,7 +17,6 @@ duration: 152
 isShort: false
 aliases:
 - /resources/uCyHR_eU22A
-- /resources/videos/how-do-you-select-the-most-valuable-items-for-the-sprint-backlog
 aliasesArchive:
 - /resources/videos/how-do-you-select-the-most-valuable-items-for-the-sprint-backlog
 - /resources/how-do-you-select-the-most-valuable-items-for-the-sprint-backlog

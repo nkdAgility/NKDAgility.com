@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: benefits-visual-studio-online-enterprise
 aliases:
-- /blog/benefits-visual-studio-online-enterprise
-- /benefits-visual-studio-online-enterprise
-- /the-benefits-of-visual-studio-online-for-the-enterprise
-- /blog/the-benefits-of-visual-studio-online-for-the-enterprise
 - /resources/raLa_TzImU3
-- /resources/blog/benefits-visual-studio-online-enterprise
 aliasesArchive:
 - /blog/benefits-visual-studio-online-enterprise
 - /benefits-visual-studio-online-enterprise

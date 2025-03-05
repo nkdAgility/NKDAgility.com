@@ -12,8 +12,6 @@ url: /resources/videos/:slug
 slug: mastering-site-reliability-insights-from-azure-devops-on-building-a-resilient-live-site-culture
 aliases:
 - /resources/5bgcpPqcGlw
-- /resources/videos/mastering-site-reliability-insights-from-azure-devops-on-building-a-resilient-live-site-culture
-- /resources/videos/agile-evolution-live-site-culture-site-reliability-at-azure-devops
 aliasesArchive:
 - /resources/videos/mastering-site-reliability-insights-from-azure-devops-on-building-a-resilient-live-site-culture
 - /resources/videos/agile-evolution-live-site-culture-&-site-reliability-at-azure-devops

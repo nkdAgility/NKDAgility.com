@@ -13,7 +13,6 @@ slug: what-will-you-learn-on-the-psm-ii-course
 layout: video
 aliases:
 - /resources/QGXlCm_B5zA
-- /resources/videos/what-will-you-learn-on-the-psm-ii-course
 aliasesArchive:
 - /resources/videos/what-will-you-learn-on-the-psm-ii-course
 - /resources/videos/what-will-you-learn-on-the-psm-ii-course-

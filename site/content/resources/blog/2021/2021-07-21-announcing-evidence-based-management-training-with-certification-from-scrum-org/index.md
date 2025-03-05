@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: announcing-evidence-based-management-training-with-certification-from-scrum-org
 aliases:
-- /blog/announcing-evidence-based-management-training-with-certification-from-scrum-org
-- /announcing-evidence-based-management-training-with-certification-from-scrum-org
-- /announcing-professional-agile-leadership-with-evidence-based-management-training-(pal-ebm)-from-scrum-org
-- /blog/announcing-professional-agile-leadership-with-evidence-based-management-training-(pal-ebm)-from-scrum-org
 - /resources/XuePm2RAZa0
-- /resources/blog/announcing-evidence-based-management-training-with-certification-from-scrum-org
 aliasesArchive:
 - /blog/announcing-evidence-based-management-training-with-certification-from-scrum-org
 - /announcing-evidence-based-management-training-with-certification-from-scrum-org

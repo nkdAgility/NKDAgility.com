@@ -14,9 +14,6 @@ slug: unlocking-the-superpower-of-software-development-how-shifting-left-transfo
 layout: video
 aliases:
 - /resources/whKX9Mn1eb8
-- /resources/videos/unlocking-the-superpower-of-software-development-how-shifting-left-transforms-quality-assurance-whKX9Mn1eb8
-- /resources/videos/unlocking-the-superpower-of-software-development-how-shifting-left-transforms-quality-assurance
-- /resources/videos/the-superpower-of-quality-engineering
 aliasesArchive:
 - /resources/videos/unlocking-the-superpower-of-software-development-how-shifting-left-transforms-quality-assurance
 - /resources/videos/the-superpower-of-quality-engineering

@@ -13,8 +13,6 @@ slug: unlocking-organisational-value-the-transformative-power-of-engagement-in-a
 layout: video
 aliases:
 - /resources/tPX-wc6pG7M
-- /resources/videos/unlocking-organisational-value-the-transformative-power-of-engagement-in-agile-teams
-- /resources/videos/5-october-2023-agile-leader-webinar
 aliasesArchive:
 - /resources/videos/unlocking-organisational-value-the-transformative-power-of-engagement-in-agile-teams
 - /resources/videos/5-october-2023-agile-leader-webinar

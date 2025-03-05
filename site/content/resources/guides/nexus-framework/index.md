@@ -7,9 +7,6 @@ ResourceType: guides
 resourceTypes: guide
 layout: guide
 aliases:
-- guides/Nexus-Framework/
-- guides/Nexus-Framework.html
-- /learn/agile-delivery-kit/guides/nexus-framework
 - /resources/iC8MlA3TE7S
 aliasesArchive:
 - guides/Nexus-Framework/

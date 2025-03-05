@@ -17,9 +17,6 @@ duration: 43
 isShort: true
 aliases:
 - /resources/S1hBTkbZVFM
-- /resources/videos/the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership-S1hBTkbZVFM
-- /resources/videos/the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership
-- /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-1
 aliasesArchive:
 - /resources/videos/the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership
 - /resources/the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership

@@ -12,8 +12,6 @@ url: /resources/videos/:slug
 slug: transform-your-scrum-team-in-90-days-strategies-for-continuous-delivery-and-empowerment
 aliases:
 - /resources/4kqM1U7y1ZM
-- /resources/videos/transform-your-scrum-team-in-90-days-strategies-for-continuous-delivery-and-empowerment
-- /resources/videos/what-would-you-look-to-achieve-with-a-new-scrum-team-in-the-first-90-days
 aliasesArchive:
 - /resources/videos/transform-your-scrum-team-in-days-strategies-for-continuous-delivery-and-empowerment
 - /resources/videos/transform-your-scrum-team-in-90-days-strategies-for-continuous-delivery-and-empowerment

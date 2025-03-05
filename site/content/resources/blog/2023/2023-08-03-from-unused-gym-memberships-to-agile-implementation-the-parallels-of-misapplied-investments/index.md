@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
 aliases:
-- /blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
-- /from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
 - /resources/mzVDd2JFtHO
-- /resources/blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
 aliasesArchive:
 - /blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
 - /from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments

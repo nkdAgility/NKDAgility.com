@@ -13,8 +13,6 @@ slug: mastering-azure-devops-migration-a-step-by-step-guide-for-seamless-project
 layout: video
 aliases:
 - /resources/Qt1Ywu_KLrc
-- /resources/videos/mastering-azure-devops-migration-a-step-by-step-guide-for-seamless-project-transfers
-- /resources/videos/basic-work-item-migration-with-the-azure-devops-migration-tools
 aliasesArchive:
 - /resources/videos/mastering-azure-devops-migration-a-step-by-step-guide-for-seamless-project-transfers
 - /resources/videos/basic-work-item-migration-with-the-azure-devops-migration-tools

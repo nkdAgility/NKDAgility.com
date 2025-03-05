@@ -13,8 +13,6 @@ slug: why-agile-success-lies-in-principles-not-tools-a-shift-in-focus
 layout: video
 aliases:
 - /resources/y2TObrUi3m0
-- /resources/videos/why-agile-success-lies-in-principles-not-tools-a-shift-in-focus
-- /resources/videos/what-should-have-been-way-more-popular-in-agile-than-it-currently-is
 aliasesArchive:
 - /resources/videos/what-should-have-been-way-more-popular-in-agile-than-it-currently-is
 - /resources/videos/what-should-have-been-way-more-popular-in-agile-than-it-currently-is-

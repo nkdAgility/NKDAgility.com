@@ -13,9 +13,6 @@ slug: navigating-the-judgment-trap-how-to-foster-a-healthy-agile-environment-uRq
 layout: video
 aliases:
 - /resources/uRqsRNq-XRY
-- /resources/videos/navigating-the-judgment-trap-how-to-foster-a-healthy-agile-environment-uRqsRNq-XRY
-- /resources/videos/navigating-the-judgment-trap-how-to-foster-a-healthy-agile-environment
-- /resources/videos/7-signs-of-the-agile-apocalypse-judgement
 aliasesArchive:
 - /resources/videos/navigating-the-judgment-trap-how-to-foster-a-healthy-agile-environment
 - /resources/videos/7-signs-of-the-agile-apocalypse-judgement

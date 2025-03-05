@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: evolution-not-transformation-this-is-the-inevitability-of-change
 aliases:
-- /blog/evolution-not-transformation-this-is-the-inevitability-of-change
-- /evolution-not-transformation-this-is-the-inevitability-of-change
-- /evolution-not-transformation--this-is-the-inevitability-of-change
-- /blog/evolution-not-transformation--this-is-the-inevitability-of-change
 - /resources/WvUOpSMqawD
-- /resources/blog/evolution-not-transformation-this-is-the-inevitability-of-change
 aliasesArchive:
 - /blog/evolution-not-transformation-this-is-the-inevitability-of-change
 - /evolution-not-transformation-this-is-the-inevitability-of-change

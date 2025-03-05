@@ -14,14 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: professional-scrum-immingham-uk
 aliases:
-- /blog/professional-scrum-immingham-uk
-- /professional-scrum-immingham-uk
-- /professional-scrum-in-immingham,-uk
-- /blog/professional-scrum-in-immingham,-uk
 - /resources/b-WImy6z9no
-- /professional-scrum-in-immingham--uk
-- /blog/professional-scrum-in-immingham--uk
-- /resources/blog/professional-scrum-immingham-uk
 aliasesArchive:
 - /blog/professional-scrum-immingham-uk
 - /professional-scrum-immingham-uk

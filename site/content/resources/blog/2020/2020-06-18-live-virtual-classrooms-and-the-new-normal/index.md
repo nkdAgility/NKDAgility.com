@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: live-virtual-classrooms-and-the-new-normal
 aliases:
-- /blog/live-virtual-classrooms-and-the-new-normal
-- /live-virtual-classrooms-and-the-new-normal
-- /live-virtual-classroom's-and-the-new-normal
-- /blog/live-virtual-classroom's-and-the-new-normal
 - /resources/wS3GaFbyzDv
-- /resources/blog/live-virtual-classrooms-and-the-new-normal
 aliasesArchive:
 - /blog/live-virtual-classrooms-and-the-new-normal
 - /live-virtual-classrooms-and-the-new-normal

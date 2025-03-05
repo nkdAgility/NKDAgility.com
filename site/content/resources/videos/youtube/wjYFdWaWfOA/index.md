@@ -13,8 +13,6 @@ slug: unlocking-team-potential-the-essential-role-of-a-scrum-master-in-agile-suc
 layout: video
 aliases:
 - /resources/wjYFdWaWfOA
-- /resources/videos/unlocking-team-potential-the-essential-role-of-a-scrum-master-in-agile-success
-- /resources/videos/what-is-a-scrum-master-why-are-they-essential
 aliasesArchive:
 - /resources/videos/what-is-a-scrum-master-why-are-they-essential
 - /resources/videos/what-is-a-scrum-master-why-are-they-essential-

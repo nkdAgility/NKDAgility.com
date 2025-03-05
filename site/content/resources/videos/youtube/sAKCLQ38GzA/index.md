@@ -17,7 +17,6 @@ duration: 602
 isShort: false
 aliases:
 - /resources/sAKCLQ38GzA
-- /resources/videos/does-starting-with-why-simon-sinek-really-matter
 aliasesArchive:
 - /resources/videos/does-starting-with-why-simon-sinek-really-matter
 - /resources/does-starting-with-why-simon-sinek-really-matter

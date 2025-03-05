@@ -17,7 +17,6 @@ duration: 216
 isShort: false
 aliases:
 - /resources/l3NhlbM2gKM
-- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-2
 aliasesArchive:
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-2-

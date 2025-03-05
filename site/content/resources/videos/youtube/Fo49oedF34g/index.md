@@ -15,7 +15,6 @@ layout: video
 canonicalUrl: https://www.youtube.com/watch?v=Fo49oedF34g
 aliases:
 - /resources/Fo49oedF34g
-- /resources/videos/czym-rni-si-zwinne-przywdztwo-od-tradycyjnego-zarzdzania
 aliasesArchive:
 - /resources/videos/czym-rni-si-zwinne-przywdztwo-od-tradycyjnego-zarzdzania
 - /resources/videos/czym-różni-się-zwinne-przywództwo-od-tradycyjnego-zarządzania

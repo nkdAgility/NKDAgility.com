@@ -14,7 +14,6 @@ layout: video
 canonicalUrl: https://www.youtube.com/watch?v=Jkw4sMe6h-w
 aliases:
 - /resources/Jkw4sMe6h-w
-- /resources/videos/how-is-agile-leadership-different-to-traditional-management
 aliasesArchive:
 - /resources/videos/how-is-agile-leadership-different-to-traditional-management
 - /resources/videos/how-is-agile-leadership-different-to-traditional-management-

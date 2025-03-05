@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: error-adding-active-directory-group-to-release-management-client-in-visual-studio-2013
 aliases:
-- /blog/error-adding-active-directory-group-to-release-management-client-in-visual-studio-2013
-- /error-adding-active-directory-group-to-release-management-client-in-visual-studio-2013
 - /resources/k9Ptd76Xl_1
-- /resources/blog/error-adding-active-directory-group-to-release-management-client-in-visual-studio-2013
 aliasesArchive:
 - /blog/error-adding-active-directory-group-to-release-management-client-in-visual-studio-2013
 - /error-adding-active-directory-group-to-release-management-client-in-visual-studio-2013

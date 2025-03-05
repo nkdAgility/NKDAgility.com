@@ -7,8 +7,6 @@ ResourceType: guides
 resourceTypes: guide
 layout: guide
 aliases:
-- guides/manifesto-for-agile-software-developmen/
-- /learn/agile-delivery-kit/guides/manifesto-for-agile-software-development
 - /resources/poyC7fUGitC
 aliasesArchive:
 - guides/manifesto-for-agile-software-developmen/

@@ -13,8 +13,6 @@ slug: unpacking-the-scrum-master-role-moving-beyond-misconceptions-to-true-accou
 layout: video
 aliases:
 - /resources/Cia3d_y9akQ
-- /resources/videos/unpacking-the-scrum-master-role-moving-beyond-misconceptions-to-true-accountability
-- /resources/videos/what-are-some-of-the-most-common-misconceptions-you-encounter-about-the-scrum-master-role
 aliasesArchive:
 - /resources/videos/unpacking-the-scrum-master-role-moving-beyond-misconceptions-to-true-accountability
 - /resources/videos/what-are-some-of-the-most-common-misconceptions-you-encounter-about-the-scrum-master-role-

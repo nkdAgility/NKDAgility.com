@@ -12,8 +12,6 @@ url: /resources/videos/:slug
 slug: redefining-the-scrum-master-from-misconceptions-to-empowering-leadership
 aliases:
 - /resources/3YBrq-cle_w
-- /resources/videos/redefining-the-scrum-master-from-misconceptions-to-empowering-leadership
-- /resources/videos/how-will-a-psm-ii-course-challenge-your-assumptions-the-most
 aliasesArchive:
 - /resources/videos/redefining-the-scrum-master-from-misconceptions-to-empowering-leadership
 - /resources/videos/how-will-a-psm-ii-course-challenge-your-assumptions-the-most-

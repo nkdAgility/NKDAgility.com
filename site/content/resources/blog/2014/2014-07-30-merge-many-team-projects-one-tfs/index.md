@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: merge-many-team-projects-one-tfs
 aliases:
-- /blog/merge-many-team-projects-one-tfs
-- /merge-many-team-projects-one-tfs
-- /merge-team-projects-into-one-in-tfs
-- /blog/merge-team-projects-into-one-in-tfs
 - /resources/-0YnGYCeikc
-- /resources/blog/merge-many-team-projects-one-tfs
 aliasesArchive:
 - /blog/merge-many-team-projects-one-tfs
 - /merge-many-team-projects-one-tfs

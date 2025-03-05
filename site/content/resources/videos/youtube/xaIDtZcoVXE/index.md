@@ -17,9 +17,6 @@ duration: 33
 isShort: true
 aliases:
 - /resources/xaIDtZcoVXE
-- /resources/videos/how-do-you-know-how-long-it-takes-to-deliver-value-xaIDtZcoVXE
-- /resources/videos/how-do-you-know-how-long-it-takes-to-deliver-value
-- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-5
 aliasesArchive:
 - /resources/videos/how-do-you-know-how-long-it-takes-to-deliver-value
 - /resources/how-do-you-know-how-long-it-takes-to-deliver-value

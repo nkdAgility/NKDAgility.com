@@ -16,7 +16,6 @@ duration: 181
 isShort: false
 aliases:
 - /resources/00V7BJJtMT0
-- /resources/videos/what-is-devops-and-how-is-it-different-to-agile
 aliasesArchive:
 - /resources/videos/what-is-devops-and-how-is-it-different-to-agile
 - /resources/what-is-devops-and-how-is-it-different-to-agile

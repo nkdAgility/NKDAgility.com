@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: you-cant-stop-the-signal-but-you-can-ignore-it
 aliases:
-- /blog/you-cant-stop-the-signal-but-you-can-ignore-it
-- /you-cant-stop-the-signal-but-you-can-ignore-it
-- /you-can't-stop-the-signal--but-you-can-ignore-it-
-- /blog/you-can't-stop-the-signal--but-you-can-ignore-it-
 - /resources/KHNSdDjr5K_
-- /resources/blog/you-cant-stop-the-signal-but-you-can-ignore-it
 aliasesArchive:
 - /blog/you-cant-stop-the-signal-but-you-can-ignore-it
 - /you-cant-stop-the-signal-but-you-can-ignore-it

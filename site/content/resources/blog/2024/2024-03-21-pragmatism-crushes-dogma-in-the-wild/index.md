@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: pragmatism-crushes-dogma-in-the-wild
 aliases:
-- /blog/pragmatism-crushes-dogma-in-the-wild
-- /pragmatism-crushes-dogma-in-the-wild
 - /resources/mkdhLrKu8sh
-- /resources/blog/pragmatism-crushes-dogma-in-the-wild
 aliasesArchive:
 - /blog/pragmatism-crushes-dogma-in-the-wild
 - /pragmatism-crushes-dogma-in-the-wild

@@ -17,8 +17,6 @@ duration: 188
 isShort: false
 aliases:
 - /resources/Wvdh1lJfcLM
-- /resources/videos/mastering-the-migration-seamlessly-transitioning-from-tfs-to-azure-devops
-- /resources/videos/talk-us-through-the-migration-services-you-offer-via-azure-devops
 aliasesArchive:
 - /resources/videos/mastering-the-migration-seamlessly-transitioning-from-tfs-to-azure-devops
 - /resources/mastering-the-migration-seamlessly-transitioning-from-tfs-to-azure-devops

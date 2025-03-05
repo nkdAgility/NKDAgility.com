@@ -17,8 +17,6 @@ duration: 293
 isShort: false
 aliases:
 - /resources/Tye_-FY7boo
-- /resources/videos/vision-value-and-validation-the-keys-to-successful-product-management
-- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-2
 aliasesArchive:
 - /resources/videos/vision-value-and-validation-the-keys-to-successful-product-management
 - /resources/vision-value-and-validation-the-keys-to-successful-product-management

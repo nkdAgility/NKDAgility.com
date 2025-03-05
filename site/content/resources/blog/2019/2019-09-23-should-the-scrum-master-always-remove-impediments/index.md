@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: should-the-scrum-master-always-remove-impediments
 aliases:
-- /blog/should-the-scrum-master-always-remove-impediments
-- /should-the-scrum-master-always-remove-impediments
-- /should-the-scrum-master-always-remove-impediments-
-- /blog/should-the-scrum-master-always-remove-impediments-
 - /resources/xPJL0I4sjDJ
-- /resources/blog/should-the-scrum-master-always-remove-impediments
 aliasesArchive:
 - /blog/should-the-scrum-master-always-remove-impediments
 - /should-the-scrum-master-always-remove-impediments

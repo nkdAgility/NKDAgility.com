@@ -17,7 +17,6 @@ duration: 497
 isShort: false
 aliases:
 - /resources/N58DvsSx4U8
-- /resources/videos/what-is-your-favourite-devops-consulting-outcome
 aliasesArchive:
 - /resources/videos/what-is-your-favourite-devops-consulting-outcome
 - /resources/what-is-your-favourite-devops-consulting-outcome

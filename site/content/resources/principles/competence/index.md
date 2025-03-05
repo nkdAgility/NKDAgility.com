@@ -12,7 +12,6 @@ resourceTypes: principle
 layout: principle
 slug: competence
 aliases:
-- /principles/competence/
 - /resources/I3eGjbYOnzu
 aliasesArchive:
 - /principles/competence/

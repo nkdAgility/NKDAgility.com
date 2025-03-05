@@ -16,7 +16,6 @@ duration: 330
 isShort: false
 aliases:
 - /resources/7UZsdsD23rs
-- /resources/videos/what-is-empiricism-and-why-is-it-so-critical-to-great-agile
 aliasesArchive:
 - /resources/videos/what-is-empiricism-and-why-is-it-so-critical-to-great-agile
 - /resources/what-is-empiricism-and-why-is-it-so-critical-to-great-agile-2

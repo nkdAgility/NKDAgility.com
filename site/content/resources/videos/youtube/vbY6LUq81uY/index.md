@@ -14,8 +14,6 @@ slug: navigating-the-unknown-how-to-fund-your-product-like-a-venture-capitalist
 layout: video
 aliases:
 - /resources/vbY6LUq81uY
-- /resources/videos/navigating-the-unknown-how-to-fund-your-product-like-a-venture-capitalist
-- /resources/videos/maximizing-value-with-minimum-viable-products-mvps
 aliasesArchive:
 - /resources/videos/navigating-the-unknown-how-to-fund-your-product-like-a-venture-capitalist
 - /resources/videos/maximizing-value-with-minimum-viable-products-mvps

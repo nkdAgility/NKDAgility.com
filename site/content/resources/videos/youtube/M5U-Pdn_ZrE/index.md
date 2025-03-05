@@ -13,9 +13,6 @@ slug: mastering-the-art-of-understanding-essential-skills-for-product-owners-to-
 layout: video
 aliases:
 - /resources/M5U-Pdn_ZrE
-- /resources/videos/mastering-the-art-of-understanding-essential-skills-for-product-owners-to-foster-team-clarity-M5U-Pdn_ZrE
-- /resources/videos/mastering-the-art-of-understanding-essential-skills-for-product-owners-to-foster-team-clarity
-- /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-4
 aliasesArchive:
 - /resources/videos/mastering-the-art-of-understanding-essential-skills-for-product-owners-to-foster-team-clarity
 - /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-4

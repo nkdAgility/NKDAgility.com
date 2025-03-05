@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: scaling-professional-scrum-visual-studio-team-services
 aliases:
-- /blog/scaling-professional-scrum-visual-studio-team-services
-- /scaling-professional-scrum-visual-studio-team-services
-- /scaling-professional-scrum-with-visual-studio-team-services
-- /blog/scaling-professional-scrum-with-visual-studio-team-services
 - /resources/pErrcS8DxcQ
-- /resources/blog/scaling-professional-scrum-visual-studio-team-services
 aliasesArchive:
 - /blog/scaling-professional-scrum-visual-studio-team-services
 - /scaling-professional-scrum-visual-studio-team-services

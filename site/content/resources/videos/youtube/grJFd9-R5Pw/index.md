@@ -17,7 +17,6 @@ duration: 416
 isShort: false
 aliases:
 - /resources/grJFd9-R5Pw
-- /resources/videos/how-does-the-aps-course-help-people-apply-scrum-effectively
 aliasesArchive:
 - /resources/videos/how-does-the-aps-course-help-people-apply-scrum-effectively
 - /resources/how-does-the-aps-course-help-people-apply-scrum-effectively

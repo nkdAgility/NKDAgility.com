@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
 aliases:
-- /blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
-- /stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
 - /resources/mqbD3iIhRg4
-- /resources/blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
 aliasesArchive:
 - /blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
 - /stop-normalizing-unprofessional-behaviour-in-the-name-of-agility

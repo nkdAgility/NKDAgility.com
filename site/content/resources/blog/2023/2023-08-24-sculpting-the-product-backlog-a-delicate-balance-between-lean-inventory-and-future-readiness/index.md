@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness
 aliases:
-- /blog/sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness
-- /sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness
-- /sculpting-the-product-backlog--a-delicate-balance-between-lean-inventory-and-future-readiness
-- /blog/sculpting-the-product-backlog--a-delicate-balance-between-lean-inventory-and-future-readiness
 - /resources/wXQXA_aHLS1
-- /resources/blog/sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness
 aliasesArchive:
 - /blog/sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness
 - /sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness

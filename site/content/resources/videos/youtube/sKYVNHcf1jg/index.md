@@ -13,7 +13,6 @@ slug: what-was-your-worst-day-as-an-agile-consultant
 layout: video
 aliases:
 - /resources/sKYVNHcf1jg
-- /resources/videos/what-was-your-worst-day-as-an-agile-consultant
 aliasesArchive:
 - /resources/videos/what-was-your-worst-day-as-an-agile-consultant
 - /resources/videos/what-was-your-worst-day-as-an-agile-consultant-

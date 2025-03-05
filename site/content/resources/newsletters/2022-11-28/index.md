@@ -12,8 +12,6 @@ resourceTypes: newsletter
 layout: newsletter
 slug: newsletter-2022
 aliases:
-- /newsletters/newsletter-2022/
-- /resources/newsletters/newsletter-2022/
 - /resources/Kn3i3yGquon
 aliasesArchive:
 - /newsletters/newsletter-2022/

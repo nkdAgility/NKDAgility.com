@@ -14,14 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: continuous-deliver-sprint
 aliases:
-- /blog/continuous-deliver-sprint
-- /continuous-deliver-sprint
-- /i-do-continuous-deliver,-why-should-i-sprint-
-- /blog/i-do-continuous-deliver,-why-should-i-sprint-
 - /resources/nIIA3IUtX_z
-- /i-do-continuous-deliver--why-should-i-sprint-
-- /blog/i-do-continuous-deliver--why-should-i-sprint-
-- /resources/blog/continuous-deliver-sprint
 aliasesArchive:
 - /blog/continuous-deliver-sprint
 - /continuous-deliver-sprint

@@ -17,8 +17,6 @@ duration: 318
 isShort: false
 aliases:
 - /resources/hFjoIf3KPeI
-- /resources/videos/how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team
-- /resources/videos/motivating-a-scrum-team-how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team
 aliasesArchive:
 - /resources/videos/how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team
 - /resources/how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team-2

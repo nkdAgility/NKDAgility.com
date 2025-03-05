@@ -16,7 +16,6 @@ duration: 59
 isShort: true
 aliases:
 - /resources/5bgfme-Pspw
-- /resources/videos/momentum-5bgfme-Pspw
 aliasesArchive:
 - /resources/videos/momentum
 - /resources/momentum-2

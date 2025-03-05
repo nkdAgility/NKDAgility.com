@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: creating-training-virtual-machines-azure
 aliases:
-- /blog/creating-training-virtual-machines-azure
-- /creating-training-virtual-machines-azure
-- /creating-training-virtual-machines-in-azure
-- /blog/creating-training-virtual-machines-in-azure
 - /resources/93Qe5n6ux9U
-- /resources/blog/creating-training-virtual-machines-azure
 aliasesArchive:
 - /blog/creating-training-virtual-machines-azure
 - /creating-training-virtual-machines-azure

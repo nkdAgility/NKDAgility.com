@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: its-that-time-again-get-ready-to-upgrade-to-tfs-2015
 aliases:
-- /blog/its-that-time-again-get-ready-to-upgrade-to-tfs-2015
-- /its-that-time-again-get-ready-to-upgrade-to-tfs-2015
-- /it's-that-time-again;-get-ready-to-upgrade-to-tfs-2015
-- /blog/it's-that-time-again;-get-ready-to-upgrade-to-tfs-2015
 - /resources/7gr-fTIcGUp
-- /resources/blog/its-that-time-again-get-ready-to-upgrade-to-tfs-2015
 aliasesArchive:
 - /blog/its-that-time-again-get-ready-to-upgrade-to-tfs-2015
 - /its-that-time-again-get-ready-to-upgrade-to-tfs-2015

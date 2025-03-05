@@ -13,8 +13,6 @@ slug: mastering-kanban-the-essential-guide-to-defining-and-visualising-your-work
 layout: video
 aliases:
 - /resources/sbr8NkJSLPU
-- /resources/videos/mastering-kanban-the-essential-guide-to-defining-and-visualising-your-workflow-for-maximum-efficiency
-- /resources/videos/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
 aliasesArchive:
 - /resources/videos/mastering-kanban-the-essential-guide-to-defining-and-visualising-your-workflow-for-maximum-efficiency
 - /resources/videos/3-core-practices-of-kanban-defining-and-visualizing-a-workflow

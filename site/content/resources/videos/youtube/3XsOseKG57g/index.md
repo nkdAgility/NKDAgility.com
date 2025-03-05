@@ -16,7 +16,6 @@ duration: 121
 isShort: false
 aliases:
 - /resources/3XsOseKG57g
-- /resources/videos/what-do-people-love-most-about-the-4-day-training-format
 aliasesArchive:
 - /resources/videos/what-do-people-love-most-about-the-day-training-format
 - /resources/videos/what-do-people-love-most-about-the-4-day-training-format

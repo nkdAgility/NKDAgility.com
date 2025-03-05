@@ -13,8 +13,6 @@ slug: signs-youre-failing-as-a-product-owner-how-to-take-control-and-deliver-rea
 layout: video
 aliases:
 - /resources/uvU_ATou6QY
-- /resources/videos/signs-youre-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
-- /resources/videos/what-does-failure-look-like-as-a-product-owner
 aliasesArchive:
 - /resources/videos/signs-youre-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
 - /resources/videos/what-does-failure-look-like-as-a-product-owner-

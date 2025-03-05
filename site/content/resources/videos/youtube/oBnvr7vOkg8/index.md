@@ -17,7 +17,6 @@ duration: 400
 isShort: false
 aliases:
 - /resources/oBnvr7vOkg8
-- /resources/videos/how-does-someone-become-an-agile-consultant
 aliasesArchive:
 - /resources/videos/how-does-someone-become-an-agile-consultant
 - /resources/how-does-someone-become-an-agile-consultant

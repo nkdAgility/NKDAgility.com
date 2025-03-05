@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: evidence-based-management-gathering-metrics
 aliases:
-- /blog/evidence-based-management-gathering-metrics
-- /evidence-based-management-gathering-metrics
-- /evidence-based-management--gathering-the-metrics
-- /blog/evidence-based-management--gathering-the-metrics
 - /resources/mK5twHwVcIg
-- /resources/blog/evidence-based-management-gathering-metrics
 aliasesArchive:
 - /blog/evidence-based-management-gathering-metrics
 - /evidence-based-management-gathering-metrics

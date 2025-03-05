@@ -17,8 +17,6 @@ duration: 832
 isShort: false
 aliases:
 - /resources/KXvd_oyLe3Q
-- /resources/videos/the-crucible-of-learning-transforming-organizational-effectiveness-through-devops
-- /resources/videos/what-specific-outcomes-and-improvements-can-clients-expect-when-they-engage-with-your-devops-service
 aliasesArchive:
 - /resources/videos/the-crucible-of-learning-transforming-organizational-effectiveness-through-devops
 - /resources/the-crucible-of-learning-transforming-organizational-effectiveness-through-devops

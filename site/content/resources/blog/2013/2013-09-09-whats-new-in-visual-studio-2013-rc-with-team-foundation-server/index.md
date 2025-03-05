@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: whats-new-in-visual-studio-2013-rc-with-team-foundation-server
 aliases:
-- /blog/whats-new-in-visual-studio-2013-rc-with-team-foundation-server
-- /whats-new-in-visual-studio-2013-rc-with-team-foundation-server
-- /what's-new-in-visual-studio-2013-and-tfs-2013-rc
-- /blog/what's-new-in-visual-studio-2013-and-tfs-2013-rc
 - /resources/_YCdFNYKYcM
-- /resources/blog/whats-new-in-visual-studio-2013-rc-with-team-foundation-server
 aliasesArchive:
 - /blog/whats-new-in-visual-studio-2013-rc-with-team-foundation-server
 - /whats-new-in-visual-studio-2013-rc-with-team-foundation-server

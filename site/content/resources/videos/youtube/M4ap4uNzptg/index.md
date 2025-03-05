@@ -17,8 +17,6 @@ duration: 241
 isShort: false
 aliases:
 - /resources/M4ap4uNzptg
-- /resources/videos/unlocking-agiles-core-questioning-to-create-value
-- /resources/videos/agile-is-failing-organizations
 aliasesArchive:
 - /resources/videos/unlocking-agiles-core-questioning-to-create-value
 - /resources/unlocking-agiles-core-questioning-to-create-value

@@ -12,8 +12,6 @@ resourceTypes: newsletter
 layout: newsletter
 slug: naked-agility-training-schedule-2021-q4-2022-q1
 aliases:
-- /newsletters/naked-agility-training-schedule-2021-q4-2022-q1
-- /resources/newsletters/naked-agility-training-schedule-2021-q4-2022-q1
 - /resources/7oAVt27r_UY
 aliasesArchive:
 - /newsletters/naked-agility-training-schedule-2021-q4-2022-q1

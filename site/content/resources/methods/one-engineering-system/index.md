@@ -13,9 +13,6 @@ resourceTypes: method
 layout: method
 slug: one-engineering-system
 aliases:
-- /methods/one-engineering-system/
-- /methods/1es/
-- /learn/agile-delivery-kit/strategies/one-engineering-system/
 - /resources/6z97VZamnQQ
 aliasesArchive:
 - /methods/one-engineering-system/

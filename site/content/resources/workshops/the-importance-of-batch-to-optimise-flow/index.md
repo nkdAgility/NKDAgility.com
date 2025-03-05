@@ -7,9 +7,6 @@ ResourceType: workshops
 resourceTypes: workshop
 layout: workshop
 aliases:
-- workshops/The-Importance-of-Batch-to-Optimise-Flow.html
-- /learn/agile-delivery-kit/workshops/The-Importance-of-Batch-to-Optimise-Flow
-- /learn/agile-delivery-kit/workshops/the-importance-of-batch-to-optimise-flow/
 - /resources/kwS9oPiz-Ny
 aliasesArchive:
 - workshops/The-Importance-of-Batch-to-Optimise-Flow.html

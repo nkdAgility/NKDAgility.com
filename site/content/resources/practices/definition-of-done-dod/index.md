@@ -9,8 +9,6 @@ creator: Martin Hinshelwood
 resourceTypes: practice
 layout: practice
 aliases:
-- /practices/Definition-of-Done-DoD.html
-- /learn/agile-delivery-kit/practices/definition-of-done-dod
 - /resources/mAZrKmLwc3L
 aliasesArchive:
 - /practices/Definition-of-Done-DoD.html

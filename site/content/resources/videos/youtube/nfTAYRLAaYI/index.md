@@ -17,9 +17,6 @@ duration: 49
 isShort: true
 aliases:
 - /resources/nfTAYRLAaYI
-- /resources/videos/mastering-kanban-a-simple-guide-to-its-core-principles-nfTAYRLAaYI
-- /resources/videos/mastering-kanban-a-simple-guide-to-its-core-principles
-- /resources/videos/kanban-principles
 aliasesArchive:
 - /resources/videos/mastering-kanban-a-simple-guide-to-its-core-principles
 - /resources/mastering-kanban-a-simple-guide-to-its-core-principles

@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: navigating-the-future-with-a-fine-tuned-product-backlog
 aliases:
-- /blog/navigating-the-future-with-a-fine-tuned-product-backlog
-- /navigating-the-future-with-a-fine-tuned-product-backlog
 - /resources/hWDjTSSBUJh
-- /resources/blog/navigating-the-future-with-a-fine-tuned-product-backlog
 aliasesArchive:
 - /blog/navigating-the-future-with-a-fine-tuned-product-backlog
 - /navigating-the-future-with-a-fine-tuned-product-backlog

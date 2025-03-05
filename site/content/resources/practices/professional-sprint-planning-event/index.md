@@ -7,7 +7,6 @@ ResourceType: practices
 resourceTypes: practice
 layout: practice
 aliases:
-- /learn/agile-delivery-kit/practices/sprint-planning-event
 - /resources/v_AGzuOgZ0g
 aliasesArchive:
 - /learn/agile-delivery-kit/practices/sprint-planning-event

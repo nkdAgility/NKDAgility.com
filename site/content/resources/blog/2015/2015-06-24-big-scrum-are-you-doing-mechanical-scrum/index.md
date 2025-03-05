@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: big-scrum-are-you-doing-mechanical-scrum
 aliases:
-- /blog/big-scrum-are-you-doing-mechanical-scrum
-- /big-scrum-are-you-doing-mechanical-scrum
-- /big-scrum--are-you-doing-mechanical-scrum
-- /blog/big-scrum--are-you-doing-mechanical-scrum
 - /resources/8wFtoutYII0
-- /resources/blog/big-scrum-are-you-doing-mechanical-scrum
 aliasesArchive:
 - /blog/big-scrum-are-you-doing-mechanical-scrum
 - /big-scrum-are-you-doing-mechanical-scrum

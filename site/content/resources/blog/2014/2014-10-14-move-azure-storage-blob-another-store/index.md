@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: move-azure-storage-blob-another-store
 aliases:
-- /blog/move-azure-storage-blob-another-store
-- /move-azure-storage-blob-another-store
-- /move-an-azure-storage-blob-to-another-store
-- /blog/move-an-azure-storage-blob-to-another-store
 - /resources/b5bHXT2rLoN
-- /resources/blog/move-azure-storage-blob-another-store
 aliasesArchive:
 - /blog/move-azure-storage-blob-another-store
 - /move-azure-storage-blob-another-store

@@ -17,7 +17,6 @@ duration: 251
 isShort: false
 aliases:
 - /resources/vHNwcfbNOR8
-- /resources/videos/what-is-your-feeling-on-creating-agile-apprenticeships
 aliasesArchive:
 - /resources/videos/what-is-your-feeling-on-creating-agile-apprenticeships
 - /resources/what-is-your-feeling-on-creating-agile-apprenticeships

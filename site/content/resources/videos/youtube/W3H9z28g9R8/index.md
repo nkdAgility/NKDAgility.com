@@ -17,8 +17,6 @@ duration: 448
 isShort: false
 aliases:
 - /resources/W3H9z28g9R8
-- /resources/videos/7-harbingers-of-the-agile-apocalypse-famine
-- /resources/videos/famine-7-harbingers-agile-apocalypse
 aliasesArchive:
 - /resources/videos/-harbingers-of-the-agile-apocalypse-famine
 - /resources/videos/7-harbingers-of-the-agile-apocalypse-famine

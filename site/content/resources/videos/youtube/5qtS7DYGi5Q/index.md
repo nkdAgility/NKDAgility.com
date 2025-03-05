@@ -16,9 +16,6 @@ duration: 37
 isShort: true
 aliases:
 - /resources/5qtS7DYGi5Q
-- /resources/videos/how-do-you-know-the-value-currently-delivered-in-your-organization-5qtS7DYGi5Q
-- /resources/videos/how-do-you-know-the-value-currently-delivered-in-your-organization
-- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-2
 aliasesArchive:
 - /resources/videos/how-do-you-know-the-value-currently-delivered-in-your-organization
 - /resources/how-do-you-know-the-value-currently-delivered-in-your-organization

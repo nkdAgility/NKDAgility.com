@@ -13,9 +13,6 @@ slug: unlocking-continuous-improvement-how-metrics-and-visual-tools-transform-yo
 layout: video
 aliases:
 - /resources/sIhG2i7frpE
-- /resources/videos/unlocking-continuous-improvement-how-metrics-and-visual-tools-transform-your-workflow-sIhG2i7frpE
-- /resources/videos/unlocking-continuous-improvement-how-metrics-and-visual-tools-transform-your-workflow
-- /resources/videos/improving-workflow-with-kanban
 aliasesArchive:
 - /resources/videos/unlocking-continuous-improvement-how-metrics-and-visual-tools-transform-your-workflow
 - /resources/videos/improving-workflow-with-kanban

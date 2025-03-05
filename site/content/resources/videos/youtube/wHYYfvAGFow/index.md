@@ -17,7 +17,6 @@ duration: 483
 isShort: false
 aliases:
 - /resources/wHYYfvAGFow
-- /resources/videos/what-is-taylorism-and-how-did-it-influence-project-management
 aliasesArchive:
 - /resources/videos/what-is-taylorism-and-how-did-it-influence-project-management
 - /resources/what-is-taylorism-and-how-did-it-influence-project-management

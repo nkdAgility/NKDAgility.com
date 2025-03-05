@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: moving-onedrive-business-files-different-drive
 aliases:
-- /blog/moving-onedrive-business-files-different-drive
-- /moving-onedrive-business-files-different-drive
-- /moving-onedrive-for-business-files-to-a-different-drive
-- /blog/moving-onedrive-for-business-files-to-a-different-drive
 - /resources/qgSgXAu_d6a
-- /resources/blog/moving-onedrive-business-files-different-drive
 aliasesArchive:
 - /blog/moving-onedrive-business-files-different-drive
 - /moving-onedrive-business-files-different-drive

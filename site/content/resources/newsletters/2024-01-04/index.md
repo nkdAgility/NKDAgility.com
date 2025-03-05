@@ -12,8 +12,6 @@ resourceTypes: newsletter
 layout: newsletter
 slug: unlock-your-potential-in-2024-master-scrum-with-nkd-agility-exclusive-20-discount
 aliases:
-- /newsletters/unlock-your-potential-in-2024-master-scrum-with-nkd-agility-exclusive-20-discount/
-- /resources/newsletters/unlock-your-potential-in-2024-master-scrum-with-nkd-agility-exclusive-20-discount/
 - /resources/Knb7n17SqYe
 aliasesArchive:
 - /newsletters/unlock-your-potential-in-2024-master-scrum-with-nkd-agility-exclusive-20-discount/

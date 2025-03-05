@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: how-usable-working-products-are-your-ultimate-weapon-against-risks
 aliases:
-- /blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
-- /how-usable-working-products-are-your-ultimate-weapon-against-risks
 - /resources/UnSs37BlBV7
-- /resources/blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
 aliasesArchive:
 - /blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
 - /how-usable-working-products-are-your-ultimate-weapon-against-risks

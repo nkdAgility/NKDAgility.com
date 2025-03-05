@@ -11,8 +11,6 @@ resourceTypes: newsletter
 layout: newsletter
 slug: may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum
 aliases:
-- /newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/
-- /resources/newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/
 - /resources/6h1D_YPjPuU
 aliasesArchive:
 - /newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/

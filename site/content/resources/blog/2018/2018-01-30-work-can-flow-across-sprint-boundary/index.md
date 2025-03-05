@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: work-can-flow-across-sprint-boundary
 aliases:
-- /blog/work-can-flow-across-sprint-boundary
-- /work-can-flow-across-sprint-boundary
-- /work-can-flow-across-the-sprint-boundary
-- /blog/work-can-flow-across-the-sprint-boundary
 - /resources/a7UMLdZeVYq
-- /resources/blog/work-can-flow-across-sprint-boundary
 aliasesArchive:
 - /blog/work-can-flow-across-sprint-boundary
 - /work-can-flow-across-sprint-boundary

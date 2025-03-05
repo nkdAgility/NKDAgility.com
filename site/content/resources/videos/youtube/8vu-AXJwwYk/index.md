@@ -13,8 +13,6 @@ slug: unlocking-organisational-potential-the-transformative-power-of-a-great-con
 layout: video
 aliases:
 - /resources/8vu-AXJwwYk
-- /resources/videos/unlocking-organisational-potential-the-transformative-power-of-a-great-consultant
-- /resources/videos/how-much-of-an-impact-can-a-great-agile-consultant-have
 aliasesArchive:
 - /resources/videos/unlocking-organisational-potential-the-transformative-power-of-a-great-consultant
 - /resources/videos/how-much-of-an-impact-can-a-great-agile-consultant-have-

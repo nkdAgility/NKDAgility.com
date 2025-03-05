@@ -17,7 +17,6 @@ duration: 328
 isShort: false
 aliases:
 - /resources/vubnDXYXiL0
-- /resources/videos/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum
 aliasesArchive:
 - /resources/videos/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum
 - /resources/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum

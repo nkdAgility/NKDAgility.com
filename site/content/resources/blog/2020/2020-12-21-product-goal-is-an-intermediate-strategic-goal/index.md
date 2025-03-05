@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: product-goal-is-an-intermediate-strategic-goal
 aliases:
-- /blog/product-goal-is-an-intermediate-strategic-goal
-- /product-goal-is-an-intermediate-strategic-goal
 - /resources/PjYSLMnBHhI
-- /resources/blog/product-goal-is-an-intermediate-strategic-goal
 aliasesArchive:
 - /blog/product-goal-is-an-intermediate-strategic-goal
 - /product-goal-is-an-intermediate-strategic-goal

@@ -17,7 +17,6 @@ duration: 777
 isShort: false
 aliases:
 - /resources/Na9jm-enlD0
-- /resources/videos/where-is-consensus-valuable-and-where-does-it-kill-great-product-development
 aliasesArchive:
 - /resources/videos/where-is-consensus-valuable-and-where-does-it-kill-great-product-development
 - /resources/where-is-consensus-valuable-and-where-does-it-kill-great-product-development-2

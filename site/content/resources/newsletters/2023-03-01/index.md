@@ -12,8 +12,6 @@ resourceTypes: newsletter
 layout: newsletter
 slug: march-2023-nkdagility-the-magic-of-immersive-classes
 aliases:
-- /newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
-- /resources/newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
 - /resources/Y8ySIcajwoP
 aliasesArchive:
 - /newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/

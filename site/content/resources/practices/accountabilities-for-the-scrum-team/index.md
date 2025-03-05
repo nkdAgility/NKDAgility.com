@@ -7,8 +7,6 @@ ResourceType: practices
 resourceTypes: practice
 layout: practice
 aliases:
-- /practices/Accountabilities-for-the-Scrum-Team.html
-- /learn/agile-delivery-kit/practices/accountabilities-for-the-scrum-team
 - /resources/D4IlRdnMoRB
 aliasesArchive:
 - /practices/Accountabilities-for-the-Scrum-Team.html

@@ -13,8 +13,6 @@ slug: mastering-cloud-migration-overcoming-the-fear-of-incomplete-data-transfers
 layout: video
 aliases:
 - /resources/x6a_BuQq580
-- /resources/videos/mastering-cloud-migration-overcoming-the-fear-of-incomplete-data-transfers
-- /resources/videos/devops-migration-incomplete-migrations
 aliasesArchive:
 - /resources/videos/mastering-cloud-migration-overcoming-the-fear-of-incomplete-data-transfers
 - /resources/videos/devops-migration-incomplete-migrations

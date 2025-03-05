@@ -17,8 +17,6 @@ duration: 146
 isShort: false
 aliases:
 - /resources/kOj-O99mUZE
-- /resources/videos/overview-of-the-scaling-with-portfolio-kanban-course
-- /resources/videos/overview-of-scaling-with-portfolio-kanban-course
 aliasesArchive:
 - /resources/videos/overview-of-the-scaling-with-portfolio-kanban-course
 - /resources/overview-of-the-scaling-with-portfolio-kanban-course

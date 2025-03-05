@@ -17,8 +17,6 @@ duration: 371
 isShort: false
 aliases:
 - /resources/eLkJ_YEhMB0
-- /resources/videos/overcoming-the-ghost-of-agile-certifications
-- /resources/videos/5-ghosts-of-agile-past-3-questions
 aliasesArchive:
 - /resources/videos/overcoming-the-ghost-of-agile-certifications
 - /resources/overcoming-the-ghost-of-agile-certifications

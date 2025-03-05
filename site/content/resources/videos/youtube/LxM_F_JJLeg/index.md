@@ -13,8 +13,6 @@ slug: transforming-agile-how-to-shift-from-blame-to-systemic-solutions-for-bette
 layout: video
 aliases:
 - /resources/LxM_F_JJLeg
-- /resources/videos/transforming-agile-how-to-shift-from-blame-to-systemic-solutions-for-better-team-dynamics
-- /resources/videos/dont-put-down-to-malevolence-what-can-be-explained-by-incompetence
 aliasesArchive:
 - /resources/videos/transforming-agile-how-to-shift-from-blame-to-systemic-solutions-for-better-team-dynamics
 - /resources/videos/don’t-put-down-to-malevolence-what-can-be-explained-by-incompetence

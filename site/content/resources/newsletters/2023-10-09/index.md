@@ -12,8 +12,6 @@ resourceTypes: newsletter
 layout: newsletter
 slug: unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org
 aliases:
-- /newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
-- /resources/newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
 - /resources/2G_gVI5phMC
 aliasesArchive:
 - /newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/

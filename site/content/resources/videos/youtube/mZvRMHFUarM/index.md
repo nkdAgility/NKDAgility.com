@@ -14,8 +14,6 @@ slug: rethinking-software-estimation-embrace-probabilistic-forecasting-for-agile
 layout: video
 aliases:
 - /resources/mZvRMHFUarM
-- /resources/videos/rethinking-software-estimation-embrace-probabilistic-forecasting-for-agile-success
-- /resources/videos/estimating-with-confidence
 aliasesArchive:
 - /resources/videos/rethinking-software-estimation-embrace-probabilistic-forecasting-for-agile-success
 - /resources/videos/estimating-with-confidence

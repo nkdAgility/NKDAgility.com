@@ -13,8 +13,6 @@ slug: navigating-agile-transformation-empowering-teams-for-success-in-a-rapidly-
 layout: video
 aliases:
 - /resources/r_Af7X25IDk
-- /resources/videos/navigating-agile-transformation-empowering-teams-for-success-in-a-rapidly-changing-landscape
-- /resources/videos/ep005-leading-agile-change
 aliasesArchive:
 - /resources/videos/ep-leading-agile-change
 - /resources/videos/ep005-leading-agile-change

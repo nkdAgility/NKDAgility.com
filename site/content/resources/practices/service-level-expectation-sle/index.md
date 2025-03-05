@@ -7,7 +7,6 @@ ResourceType: practices
 resourceTypes: practice
 layout: practice
 aliases:
-- /learn/agile-delivery-kit/practices/service-level-expectation-sle
 - /resources/b7fi5SAsyNb
 aliasesArchive:
 - /learn/agile-delivery-kit/practices/service-level-expectation-sle

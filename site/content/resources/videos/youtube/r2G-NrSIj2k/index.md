@@ -14,7 +14,6 @@ slug: code-reviews-for-quality-assurance
 layout: video
 aliases:
 - /resources/r2G-NrSIj2k
-- /resources/videos/code-reviews-for-quality-assurance
 aliasesArchive:
 - /resources/videos/code-reviews-for-quality-assurance
 - /resources/code-reviews-for-quality-assurance

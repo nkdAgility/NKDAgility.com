@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: sprint-goal-is-an-immediate-tactical-goal
 aliases:
-- /blog/sprint-goal-is-an-immediate-tactical-goal
-- /sprint-goal-is-an-immediate-tactical-goal
 - /resources/sLRE2HdkUCS
-- /resources/blog/sprint-goal-is-an-immediate-tactical-goal
 aliasesArchive:
 - /blog/sprint-goal-is-an-immediate-tactical-goal
 - /sprint-goal-is-an-immediate-tactical-goal

@@ -12,7 +12,6 @@ resourceTypes: principle
 layout: principle
 slug: first-principles-thinking
 aliases:
-- /principles/first-principles-thinking/
 - /resources/q6gClR4HS5c
 aliasesArchive:
 - /principles/first-principles-thinking/

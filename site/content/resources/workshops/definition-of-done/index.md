@@ -7,9 +7,6 @@ ResourceType: workshops
 resourceTypes: workshop
 layout: workshop
 aliases:
-- /workshops/Definition-Of-Done.html
-- /learn/agile-delivery-kit/workshops/Definition-Of-Done
-- /learn/agile-delivery-kit/workshops/definition-of-done/
 - /resources/IgRDk1wrh65
 aliasesArchive:
 - /workshops/Definition-Of-Done.html

@@ -9,8 +9,6 @@ layout: recipe
 image: /images/naked-Agility-Scrum-Framework-Daily-Scrum.jpg
 creator: Martin Hinshelwood
 aliases:
-- /recipes/Daily-Scrum-Recipe.html
-- /learn/agile-delivery-kit/recipes/daily-scrum-recipe/
 - /resources/M4qDhvrXwp-
 aliasesArchive:
 - /recipes/Daily-Scrum-Recipe.html

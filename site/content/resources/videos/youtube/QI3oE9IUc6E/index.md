@@ -17,8 +17,6 @@ duration: 315
 isShort: false
 aliases:
 - /resources/QI3oE9IUc6E
-- /resources/videos/how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum
-- /resources/videos/how-effectively-does-an-aps-prepare-a-team-to-do-solid-professional-scrum
 aliasesArchive:
 - /resources/videos/how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum
 - /resources/how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum-2

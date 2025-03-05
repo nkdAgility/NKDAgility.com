@@ -17,8 +17,6 @@ duration: 599
 isShort: false
 aliases:
 - /resources/hXieCawt-XE
-- /resources/videos/mastering-kanban-creating-a-pull-based-system-for-workflow-efficiency
-- /resources/videos/work-less-do-more-with-pull-in-kanban
 aliasesArchive:
 - /resources/videos/mastering-kanban-creating-a-pull-based-system-for-workflow-efficiency
 - /resources/mastering-kanban-creating-a-pull-based-system-for-workflow-efficiency

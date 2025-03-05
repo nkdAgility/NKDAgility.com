@@ -16,8 +16,6 @@ duration: 143
 isShort: false
 aliases:
 - /resources/7R9_bYOswhk
-- /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced-scrum-master
-- /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced
 aliasesArchive:
 - /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced-scrum-master
 - /resources/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced-scrum-master-2

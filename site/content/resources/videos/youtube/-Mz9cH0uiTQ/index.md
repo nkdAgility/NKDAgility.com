@@ -12,8 +12,6 @@ url: /resources/videos/:slug
 slug: navigating-client-needs-how-agile-consultants-can-uncover-true-value-beyond-initial-requests
 aliases:
 - /resources/-Mz9cH0uiTQ
-- /resources/videos/navigating-client-needs-how-agile-consultants-can-uncover-true-value-beyond-initial-requests
-- /resources/videos/does-a-client-tell-an-agile-consultant-what-they-need-or-does-it-work-the-other-way-around
 aliasesArchive:
 - /resources/videos/navigating-client-needs-how-agile-consultants-can-uncover-true-value-beyond-initial-requests
 - /resources/videos/does-a-client-tell-an-agile-consultant-what-they-need-or-does-it-work-the-other-way-around-

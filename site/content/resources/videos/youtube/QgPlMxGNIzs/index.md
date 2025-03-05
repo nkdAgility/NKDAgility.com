@@ -17,7 +17,6 @@ duration: 229
 isShort: false
 aliases:
 - /resources/QgPlMxGNIzs
-- /resources/videos/how-do-you-think-agile-is-evolving-since-its-inception-in-2001
 aliasesArchive:
 - /resources/videos/how-do-you-think-agile-is-evolving-since-its-inception-in-
 - /resources/videos/how-do-you-think-agile-is-evolving-since-its-inception-in-2001

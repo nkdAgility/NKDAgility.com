@@ -17,8 +17,6 @@ duration: 343
 isShort: false
 aliases:
 - /resources/zltmMb2EbDE
-- /resources/videos/does-kanban-integrate-into-a-scrum-environment
-- /resources/videos/does-kanban-integrate-with-a-scrum-environment
 aliasesArchive:
 - /resources/videos/does-kanban-integrate-into-a-scrum-environment
 - /resources/does-kanban-integrate-into-a-scrum-environment

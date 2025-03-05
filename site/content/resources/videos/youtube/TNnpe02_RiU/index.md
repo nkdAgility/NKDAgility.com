@@ -17,9 +17,6 @@ duration: 31
 isShort: true
 aliases:
 - /resources/TNnpe02_RiU
-- /resources/videos/what-is-your-peeve-in-devops-TNnpe02_RiU
-- /resources/videos/what-is-your-peeve-in-devops
-- /resources/videos/pet-peeve-in-devops
 aliasesArchive:
 - /resources/videos/what-is-your-peeve-in-devops
 - /resources/what-is-your-peeve-in-devops

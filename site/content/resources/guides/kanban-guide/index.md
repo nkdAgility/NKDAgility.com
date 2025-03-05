@@ -7,7 +7,6 @@ ResourceType: guides
 resourceTypes: guide
 layout: guide
 aliases:
-- /learn/agile-delivery-kit/guides/kanban-guide
 - /resources/uD_5MdHKu1Q
 aliasesArchive:
 - /learn/agile-delivery-kit/guides/kanban-guide

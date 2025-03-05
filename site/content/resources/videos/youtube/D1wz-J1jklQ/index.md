@@ -14,8 +14,6 @@ slug: unlocking-code-quality-the-transformative-power-of-frequent-deployments
 layout: video
 aliases:
 - /resources/D1wz-J1jklQ
-- /resources/videos/unlocking-code-quality-the-transformative-power-of-frequent-deployments
-- /resources/videos/the-power-of-frequent-deployments-reducing-technical-debt-and-delivering-better-products
 aliasesArchive:
 - /resources/videos/unlocking-code-quality-the-transformative-power-of-frequent-deployments
 - /resources/videos/the-power-of-frequent-deployments-reducing-technical-debt-and-delivering-better-products

@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: vsts-sync-migration-tools
 aliases:
-- /blog/vsts-sync-migration-tools
-- /vsts-sync-migration-tools
 - /resources/UjyqYjINUfp
-- /resources/blog/vsts-sync-migration-tools
 aliasesArchive:
 - /blog/vsts-sync-migration-tools
 - /vsts-sync-migration-tools

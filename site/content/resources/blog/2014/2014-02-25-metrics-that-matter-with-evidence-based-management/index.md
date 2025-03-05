@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: metrics-that-matter-with-evidence-based-management
 aliases:
-- /blog/metrics-that-matter-with-evidence-based-management
-- /metrics-that-matter-with-evidence-based-management
 - /resources/ezNZJBiEwYA
-- /resources/blog/metrics-that-matter-with-evidence-based-management
 aliasesArchive:
 - /blog/metrics-that-matter-with-evidence-based-management
 - /metrics-that-matter-with-evidence-based-management

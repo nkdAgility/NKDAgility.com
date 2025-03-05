@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: professional-kanban-trainer-for-applying-professional-kanban
 aliases:
-- /blog/professional-kanban-trainer-for-applying-professional-kanban
-- /professional-kanban-trainer-for-applying-professional-kanban
 - /resources/ZQi3U9gnXj3
-- /resources/blog/professional-kanban-trainer-for-applying-professional-kanban
 aliasesArchive:
 - /blog/professional-kanban-trainer-for-applying-professional-kanban
 - /professional-kanban-trainer-for-applying-professional-kanban

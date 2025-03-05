@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: what-is-your-perspective-on-collocation
 aliases:
-- /blog/what-is-your-perspective-on-collocation
-- /what-is-your-perspective-on-collocation
-- /what-is-your-perspective-on-collocation-
-- /blog/what-is-your-perspective-on-collocation-
 - /resources/AcwMGmMo7iU
-- /resources/blog/what-is-your-perspective-on-collocation
 aliasesArchive:
 - /blog/what-is-your-perspective-on-collocation
 - /what-is-your-perspective-on-collocation

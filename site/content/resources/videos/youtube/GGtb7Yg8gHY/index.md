@@ -13,9 +13,6 @@ slug: navigating-team-conflict-from-healthy-disagreement-to-agile-harmony-GGtb7Y
 layout: video
 aliases:
 - /resources/GGtb7Yg8gHY
-- /resources/videos/navigating-team-conflict-from-healthy-disagreement-to-agile-harmony-GGtb7Yg8gHY
-- /resources/videos/navigating-team-conflict-from-healthy-disagreement-to-agile-harmony
-- /resources/videos/7-signs-of-the-agile-apocalypse-war
 aliasesArchive:
 - /resources/videos/navigating-team-conflict-from-healthy-disagreement-to-agile-harmony
 - /resources/videos/7-signs-of-the-agile-apocalypse-war

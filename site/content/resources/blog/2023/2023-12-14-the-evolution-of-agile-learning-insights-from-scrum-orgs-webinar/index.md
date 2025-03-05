@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
 aliases:
-- /blog/the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
-- /the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
-- /the-evolution-of-agile-learning--insights-from-scrum-org's-webinar
-- /blog/the-evolution-of-agile-learning--insights-from-scrum-org's-webinar
 - /resources/Ax5c4JFICyO
-- /resources/blog/the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
 aliasesArchive:
 - /blog/the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
 - /the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar

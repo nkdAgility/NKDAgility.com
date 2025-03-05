@@ -13,7 +13,6 @@ slug: what-are-the-most-common-challenges-you-are-contracted-to-solve-in-a-devop
 layout: video
 aliases:
 - /resources/LI6G1awAUyU
-- /resources/videos/what-are-the-most-common-challenges-you-are-contracted-to-solve-in-a-devops-consulting-gig
 aliasesArchive:
 - /resources/videos/what-are-the-most-common-challenges-you-are-contracted-to-solve-in-a-devops-consulting-gig
 - /resources/videos/what-are-the-most-common-challenges-you-are-contracted-to-solve-in-a-devops-consulting-gig-

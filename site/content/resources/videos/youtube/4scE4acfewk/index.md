@@ -16,8 +16,6 @@ duration: 212
 isShort: false
 aliases:
 - /resources/4scE4acfewk
-- /resources/videos/the-power-of-humility-in-agile-a-core-virtue-for-success
-- /resources/videos/7-virtues-of-agile-humility
 aliasesArchive:
 - /resources/videos/the-power-of-humility-in-agile-a-core-virtue-for-success
 - /resources/the-power-of-humility-in-agile-a-core-virtue-for-success

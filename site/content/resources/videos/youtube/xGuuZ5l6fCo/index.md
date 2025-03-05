@@ -17,8 +17,6 @@ duration: 412
 isShort: false
 aliases:
 - /resources/xGuuZ5l6fCo
-- /resources/videos/empowering-agile-teams-the-critical-role-of-user-feedback-in-requirement-changes
-- /resources/videos/are-you-truly-empowering-your-teams-to-respond-to-user-feedback-the-agile-reality-check-56
 aliasesArchive:
 - /resources/videos/empowering-agile-teams-the-critical-role-of-user-feedback-in-requirement-changes
 - /resources/empowering-agile-teams-the-critical-role-of-user-feedback-in-requirement-changes

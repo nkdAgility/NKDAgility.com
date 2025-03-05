@@ -13,8 +13,6 @@ slug: mastering-remote-work-key-insights-for-agile-teams-to-thrive-in-a-digital-
 layout: video
 aliases:
 - /resources/A8URbBCljnQ
-- /resources/videos/mastering-remote-work-key-insights-for-agile-teams-to-thrive-in-a-digital-world
-- /resources/videos/27th-march-2020-office-hours-ask-me-anything
 aliasesArchive:
 - /resources/videos/mastering-remote-work-key-insights-for-agile-teams-to-thrive-in-a-digital-world
 - /resources/videos/27th-march-2020-office-hours-ask-me-anything

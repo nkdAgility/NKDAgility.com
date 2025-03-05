@@ -17,7 +17,6 @@ duration: 39
 isShort: true
 aliases:
 - /resources/agPLmBdXdbk
-- /resources/videos/must-have-trait-in-an-agile-consultant-agPLmBdXdbk
 aliasesArchive:
 - /resources/videos/must-have-trait-in-an-agile-consultant
 - /resources/must-have-trait-in-an-agile-consultant

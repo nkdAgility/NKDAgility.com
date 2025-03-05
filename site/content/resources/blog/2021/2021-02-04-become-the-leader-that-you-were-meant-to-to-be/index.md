@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: become-the-leader-that-you-were-meant-to-to-be
 aliases:
-- /blog/become-the-leader-that-you-were-meant-to-to-be
-- /become-the-leader-that-you-were-meant-to-to-be
 - /resources/-Oo9b3G-8Zw
-- /resources/blog/become-the-leader-that-you-were-meant-to-to-be
 aliasesArchive:
 - /blog/become-the-leader-that-you-were-meant-to-to-be
 - /become-the-leader-that-you-were-meant-to-to-be

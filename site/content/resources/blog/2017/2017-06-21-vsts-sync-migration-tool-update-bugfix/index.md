@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: vsts-sync-migration-tool-update-bugfix
 aliases:
-- /blog/vsts-sync-migration-tool-update-bugfix
-- /vsts-sync-migration-tool-update-bugfix
-- /vsts-sync-migration-tool-update-and-bugfix
-- /blog/vsts-sync-migration-tool-update-and-bugfix
 - /resources/QO9MQIxxcoy
-- /resources/blog/vsts-sync-migration-tool-update-bugfix
 aliasesArchive:
 - /blog/vsts-sync-migration-tool-update-bugfix
 - /vsts-sync-migration-tool-update-bugfix

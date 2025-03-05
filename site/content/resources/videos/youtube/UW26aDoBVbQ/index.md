@@ -13,9 +13,6 @@ slug: unlocking-success-the-essential-role-of-product-ownership-in-lean-product-
 layout: video
 aliases:
 - /resources/UW26aDoBVbQ
-- /resources/videos/unlocking-success-the-essential-role-of-product-ownership-in-lean-product-delivery-UW26aDoBVbQ
-- /resources/videos/unlocking-success-the-essential-role-of-product-ownership-in-lean-product-delivery
-- /resources/videos/5-october-2023-product-ownership-and-lean-product-development-webinar
 aliasesArchive:
 - /resources/videos/unlocking-success-the-essential-role-of-product-ownership-in-lean-product-delivery
 - /resources/videos/5-october-2023-product-ownership-and-lean-product-development-webinar

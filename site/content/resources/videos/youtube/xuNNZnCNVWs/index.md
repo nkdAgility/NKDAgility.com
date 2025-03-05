@@ -13,7 +13,6 @@ slug: 1-critical-skill-for-a-scrum-master-and-why-xuNNZnCNVWs
 layout: video
 aliases:
 - /resources/xuNNZnCNVWs
-- /resources/videos/1-critical-skill-for-a-scrum-master-and-why-xuNNZnCNVWs
 aliasesArchive:
 - /resources/videos/-critical-skill-for-a-scrum-master-and-why
 - /resources/videos/1-critical-skill-for-a-scrum-master-and-why

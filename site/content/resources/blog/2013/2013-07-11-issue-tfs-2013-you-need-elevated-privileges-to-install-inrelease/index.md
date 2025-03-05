@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: issue-tfs-2013-you-need-elevated-privileges-to-install-inrelease
 aliases:
-- /blog/issue-tfs-2013-you-need-elevated-privileges-to-install-inrelease
-- /issue-tfs-2013-you-need-elevated-privileges-to-install-inrelease
-- /issue-[-tfs-2013-]-you-need-elevated-privileges-to-install-inrelease
-- /blog/issue-[-tfs-2013-]-you-need-elevated-privileges-to-install-inrelease
 - /resources/8WoqmaS6v99
-- /resources/blog/issue-tfs-2013-you-need-elevated-privileges-to-install-inrelease
 aliasesArchive:
 - /blog/issue-tfs-2013-you-need-elevated-privileges-to-install-inrelease
 - /issue-tfs-2013-you-need-elevated-privileges-to-install-inrelease

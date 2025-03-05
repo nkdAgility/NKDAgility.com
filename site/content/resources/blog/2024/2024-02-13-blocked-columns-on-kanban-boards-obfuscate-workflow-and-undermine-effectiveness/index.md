@@ -18,10 +18,7 @@ layout: blog
 resourceTypes: blog
 slug: blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
 aliases:
-- /blog/blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
-- /blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
 - /resources/7JJaRr4g-KA
-- /resources/blog/blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
 aliasesArchive:
 - /blog/blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
 - /blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness

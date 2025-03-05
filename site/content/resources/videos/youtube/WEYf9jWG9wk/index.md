@@ -13,9 +13,6 @@ slug: unlocking-success-how-small-experiments-transformed-feature-delivery-from-
 layout: video
 aliases:
 - /resources/WEYf9jWG9wk
-- /resources/videos/unlocking-success-how-small-experiments-transformed-feature-delivery-from-25-to-150-in-software-development-WEYf9jWG9wk
-- /resources/videos/unlocking-success-how-small-experiments-transformed-feature-delivery-from-25-to-150-in-software-development
-- /resources/videos/unleash-your-teams-full-potential
 aliasesArchive:
 - /resources/videos/unlocking-success-how-small-experiments-transformed-feature-delivery-from-to-in-software-development
 - /resources/videos/unlocking-success-how-small-experiments-transformed-feature-delivery-from-25-to-150-in-software-development

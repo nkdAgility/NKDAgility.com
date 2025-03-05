@@ -13,9 +13,6 @@ slug: why-azure-devops-is-the-ultimate-game-changer-for-scrum-masters-and-agile-
 layout: video
 aliases:
 - /resources/Zegnsk2Nl0Y
-- /resources/videos/why-azure-devops-is-the-ultimate-game-changer-for-scrum-masters-and-agile-teams-Zegnsk2Nl0Y
-- /resources/videos/why-azure-devops-is-the-ultimate-game-changer-for-scrum-masters-and-agile-teams
-- /resources/videos/5-tools-that-scrum-masters-love-part-5
 aliasesArchive:
 - /resources/videos/why-azure-devops-is-the-ultimate-game-changer-for-scrum-masters-and-agile-teams
 - /resources/videos/5-tools-that-scrum-masters-love-part-5

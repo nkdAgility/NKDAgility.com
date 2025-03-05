@@ -14,14 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: alm-consulting-scotland-uk-scandinavia-europe
 aliases:
-- /blog/alm-consulting-scotland-uk-scandinavia-europe
-- /alm-consulting-scotland-uk-scandinavia-europe
-- /alm-consulting-in-scotland,-uk,-scandinavia-&amp;-europe
-- /blog/alm-consulting-in-scotland,-uk,-scandinavia-&amp;-europe
 - /resources/ETl5K8OQ9kV
-- /alm-consulting-in-scotland--uk--scandinavia-&amp;-europe
-- /blog/alm-consulting-in-scotland--uk--scandinavia-&amp;-europe
-- /resources/blog/alm-consulting-scotland-uk-scandinavia-europe
 aliasesArchive:
 - /blog/alm-consulting-scotland-uk-scandinavia-europe
 - /alm-consulting-scotland-uk-scandinavia-europe

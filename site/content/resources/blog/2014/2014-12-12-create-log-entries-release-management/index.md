@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: create-log-entries-release-management
 aliases:
-- /blog/create-log-entries-release-management
-- /create-log-entries-release-management
-- /create-log-entries-in-release-management
-- /blog/create-log-entries-in-release-management
 - /resources/1jC1jE7shiY
-- /resources/blog/create-log-entries-release-management
 aliasesArchive:
 - /blog/create-log-entries-release-management
 - /create-log-entries-release-management

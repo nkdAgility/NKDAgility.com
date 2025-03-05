@@ -17,9 +17,6 @@ duration: 54
 isShort: true
 aliases:
 - /resources/XFN4iXYLE3U
-- /resources/videos/why-limiting-work-in-progress-is-key-to-success-in-kanban-XFN4iXYLE3U
-- /resources/videos/why-limiting-work-in-progress-is-key-to-success-in-kanban
-- /resources/videos/the-secret-power-of-kanban-why-limiting-work-in-progress-wip-is-key-to-success
 aliasesArchive:
 - /resources/videos/why-limiting-work-in-progress-is-key-to-success-in-kanban
 - "/resources/why-limiting-work-in-progress-is-key-to-success-in-kanban-\U0001F680"

@@ -17,7 +17,6 @@ duration: 390
 isShort: false
 aliases:
 - /resources/irSqFAJNJ9c
-- /resources/videos/what-does-a-poor-scrum-team-look-act-and-feel-like
 aliasesArchive:
 - /resources/videos/what-does-a-poor-scrum-team-look-act-and-feel-like
 - /resources/what-does-a-poor-scrum-team-look-act-and-feel-like

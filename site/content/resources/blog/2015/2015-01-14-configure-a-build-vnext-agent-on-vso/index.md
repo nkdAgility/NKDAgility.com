@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: configure-a-build-vnext-agent-on-vso
 aliases:
-- /blog/configure-a-build-vnext-agent-on-vso
-- /configure-a-build-vnext-agent-on-vso
-- /configure-a-build-vnext-agent
-- /blog/configure-a-build-vnext-agent
 - /resources/hyJFelRdglq
-- /resources/blog/configure-a-build-vnext-agent-on-vso
 aliasesArchive:
 - /blog/configure-a-build-vnext-agent-on-vso
 - /configure-a-build-vnext-agent-on-vso

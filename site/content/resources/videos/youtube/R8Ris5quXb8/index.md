@@ -13,9 +13,6 @@ slug: mastering-product-backlog-management-key-strategies-for-agile-success-R8Ri
 layout: video
 aliases:
 - /resources/R8Ris5quXb8
-- /resources/videos/mastering-product-backlog-management-key-strategies-for-agile-success-R8Ris5quXb8
-- /resources/videos/mastering-product-backlog-management-key-strategies-for-agile-success
-- /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
 aliasesArchive:
 - /resources/videos/mastering-product-backlog-management-key-strategies-for-agile-success
 - /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org

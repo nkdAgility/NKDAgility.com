@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: using-multiple-email-alias-existing-microsoft-id
 aliases:
-- /blog/using-multiple-email-alias-existing-microsoft-id
-- /using-multiple-email-alias-existing-microsoft-id
-- /using-multiple-email-alias-with-your-existing-microsoft-id
-- /blog/using-multiple-email-alias-with-your-existing-microsoft-id
 - /resources/3drabM1j0WE
-- /resources/blog/using-multiple-email-alias-existing-microsoft-id
 aliasesArchive:
 - /blog/using-multiple-email-alias-existing-microsoft-id
 - /using-multiple-email-alias-existing-microsoft-id

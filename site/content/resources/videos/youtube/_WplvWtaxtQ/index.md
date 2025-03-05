@@ -16,8 +16,6 @@ duration: 130
 isShort: false
 aliases:
 - /resources/_WplvWtaxtQ
-- /resources/videos/why-every-scrum-master-needs-an-immersive-training-experience
-- /resources/videos/why-do-you-think-the-psm-immersive-learning-experience-is-a-great-fit-for-aspiring-scrum-masters
 aliasesArchive:
 - /resources/videos/why-every-scrum-master-needs-an-immersive-training-experience
 - /resources/why-every-scrum-master-needs-an-immersive-training-experience

@@ -16,7 +16,6 @@ duration: 54
 isShort: true
 aliases:
 - /resources/-pW6YDYEO20
-- /resources/videos/worst-trait-in-unskilled-scrum-masters--pW6YDYEO20
 aliasesArchive:
 - /resources/videos/worst-trait-in-unskilled-scrum-masters
 - /resources/worst-trait-in-unskilled-scrum-masters

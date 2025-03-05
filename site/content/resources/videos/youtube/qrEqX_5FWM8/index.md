@@ -13,8 +13,6 @@ slug: transform-your-agile-training-the-power-of-immersive-learning-for-lasting-
 layout: video
 aliases:
 - /resources/qrEqX_5FWM8
-- /resources/videos/transform-your-agile-training-the-power-of-immersive-learning-for-lasting-impact
-- /resources/videos/overview-of-the-8-week-immersive-learning-experience
 aliasesArchive:
 - /resources/videos/transform-your-agile-training-the-power-of-immersive-learning-for-lasting-impact
 - /resources/videos/overview-of-the-8-week-immersive-learning-experience

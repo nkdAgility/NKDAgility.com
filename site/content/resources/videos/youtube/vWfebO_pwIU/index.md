@@ -13,7 +13,6 @@ slug: why-most-scrum-masters-only-have-psmi
 layout: video
 aliases:
 - /resources/vWfebO_pwIU
-- /resources/videos/why-most-scrum-masters-only-have-psmi
 aliasesArchive:
 - /resources/videos/why-most-scrum-masters-only-have-psmi
 - /resources/videos/why-most-scrum-masters-only-have-psmi!

@@ -13,8 +13,6 @@ slug: from-chaos-to-clarity-my-journey-through-devops-and-the-three-key-challeng
 layout: video
 aliases:
 - /resources/icX4XpolVLE
-- /resources/videos/from-chaos-to-clarity-my-journey-through-devops-and-the-three-key-challenges-to-overcome
-- /resources/videos/my-journey-into-devops-from-web-developer-to-author-speaker-thought-leader
 aliasesArchive:
 - /resources/videos/from-chaos-to-clarity-my-journey-through-devops-and-the-three-key-challenges-to-overcome
 - /resources/videos/my-journey-into-devops!-from-web-developer-to-author,-speaker,-&-thought-leader-

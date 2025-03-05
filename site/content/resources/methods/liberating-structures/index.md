@@ -12,8 +12,6 @@ resourceTypes: method
 layout: method
 slug: liberating-structures
 aliases:
-- /methods/liberating-structures/
-- /learn/agile-delivery-kit/strategies/liberating-structures/
 - /resources/-Gso-hQgUca
 aliasesArchive:
 - /methods/liberating-structures/

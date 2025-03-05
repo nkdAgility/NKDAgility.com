@@ -13,8 +13,6 @@ slug: empowering-leadership-driving-cultural-change-for-agile-success
 layout: video
 aliases:
 - /resources/XyprV8F_es4
-- /resources/videos/empowering-leadership-driving-cultural-change-for-agile-success
-- /resources/videos/the-role-of-leadership-in-driving-continuous-delivery-and-organizational-change
 aliasesArchive:
 - /resources/videos/-critical-skill-for-a-scrum-master-and-why
 - /resources/videos/1-critical-skill-for-a-scrum-master-and-why

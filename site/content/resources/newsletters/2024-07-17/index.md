@@ -11,8 +11,6 @@ resourceTypes: newsletter
 layout: newsletter
 slug: introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org
 aliases:
-- /newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
-- /resources/newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
 - /resources/w5rxdL8YHNa
 aliasesArchive:
 - /newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/

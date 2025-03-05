@@ -11,7 +11,6 @@ date: 2024-09-17
 weight: 775
 creator: Martin Hinshelwood
 aliases:
-- /learn/agile-delivery-kit/first-principals/continuous-delivery/
 - /resources/ThwZ-YCKBf-
 aliasesArchive:
 - /learn/agile-delivery-kit/first-principals/continuous-delivery/

@@ -12,8 +12,6 @@ resourceTypes: newsletter
 layout: newsletter
 slug: september-2023-nkdagility-empower-your-learning-journey-with-our-referral-programme
 aliases:
-- /newsletters/september-2023-nkdagility-empower-your-learning-journey-with-our-referral-programme/
-- /resources/newsletters/september-2023-nkdagility-empower-your-learning-journey-with-our-referral-programme/
 - /resources/TJDLWyX3cZt
 aliasesArchive:
 - /newsletters/september-2023-nkdagility-empower-your-learning-journey-with-our-referral-programme/

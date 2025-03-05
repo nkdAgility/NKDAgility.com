@@ -17,7 +17,6 @@ duration: 57
 isShort: true
 aliases:
 - /resources/I5YoOAai-m4
-- /resources/videos/agile-coach-versus-professional-coach-I5YoOAai-m4
 aliasesArchive:
 - /resources/videos/agile-coach-versus-professional-coach
 - /resources/agile-coach-versus-professional-coach-2

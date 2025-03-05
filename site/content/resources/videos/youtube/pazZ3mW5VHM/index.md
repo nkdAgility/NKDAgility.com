@@ -17,9 +17,6 @@ duration: 47
 isShort: true
 aliases:
 - /resources/pazZ3mW5VHM
-- /resources/videos/most-common-thing-you-hear-in-a-pspo-course-pazZ3mW5VHM
-- /resources/videos/most-common-thing-you-hear-in-a-pspo-course
-- /resources/videos/most-influential-people-in-agile-simon-reindl
 aliasesArchive:
 - /resources/videos/most-common-thing-you-hear-in-a-pspo-course
 - /resources/part-2-most-influential-people-in-agile-2

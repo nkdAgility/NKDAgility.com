@@ -17,7 +17,6 @@ duration: 356
 isShort: false
 aliases:
 - /resources/QQA9coiM4fk
-- /resources/videos/devops-consulting-overview
 aliasesArchive:
 - /resources/videos/devops-consulting-overview
 - /resources/devops-consulting-overview

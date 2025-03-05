@@ -7,9 +7,6 @@ ResourceId: 8gWwC3tvV_f
 ResourceImport: false
 ResourceType: workshops
 aliases:
-- /workshops/Sprint-Review-1.html
-- /learn/agile-delivery-kit/workshops/Sprint-Review-1
-- /learn/agile-delivery-kit/workshops/sprint-review-1/
 - /resources/8gWwC3tvV_f
 aliasesArchive:
 - /workshops/Sprint-Review-1.html

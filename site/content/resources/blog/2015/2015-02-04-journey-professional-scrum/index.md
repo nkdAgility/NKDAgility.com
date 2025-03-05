@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: journey-professional-scrum
 aliases:
-- /blog/journey-professional-scrum
-- /journey-professional-scrum
-- /my-journey-into-professional-scrum
-- /blog/my-journey-into-professional-scrum
 - /resources/PqEhZ1JIcDe
-- /resources/blog/journey-professional-scrum
 aliasesArchive:
 - /blog/journey-professional-scrum
 - /journey-professional-scrum

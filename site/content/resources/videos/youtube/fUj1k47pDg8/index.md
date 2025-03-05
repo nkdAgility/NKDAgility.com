@@ -13,8 +13,6 @@ slug: unpacking-assumptions-how-to-elevate-your-product-development-beyond-the-f
 layout: video
 aliases:
 - /resources/fUj1k47pDg8
-- /resources/videos/unpacking-assumptions-how-to-elevate-your-product-development-beyond-the-feature-factory
-- /resources/videos/ppdv-course-overview-with-dr-joanna-plaskonka
 aliasesArchive:
 - /resources/videos/unpacking-assumptions-how-to-elevate-your-product-development-beyond-the-feature-factory
 - /resources/videos/ppdv-course-overview-with-dr-joanna-plaskonka

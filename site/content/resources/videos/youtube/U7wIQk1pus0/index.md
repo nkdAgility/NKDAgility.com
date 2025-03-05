@@ -13,8 +13,6 @@ slug: a-step-by-step-guide-to-installing-tfs-2013-on-windows-server-2012-r2
 layout: video
 aliases:
 - /resources/U7wIQk1pus0
-- /resources/videos/a-step-by-step-guide-to-installing-tfs-2013-on-windows-server-2012-r2
-- /resources/videos/install-tfs-2013-basic
 aliasesArchive:
 - /resources/videos/install-tfs-basic
 - /resources/videos/install-tfs-2013-basic

@@ -13,8 +13,6 @@ slug: empowering-your-team-why-quick-fixes-in-agile-and-devops-are-a-myth
 layout: video
 aliases:
 - /resources/BJZdyEqHhXc
-- /resources/videos/empowering-your-team-why-quick-fixes-in-agile-and-devops-are-a-myth
-- /resources/videos/nkd-agility-consulting-approach
 aliasesArchive:
 - /resources/videos/empowering-your-team-why-quick-fixes-in-agile-and-devops-are-a-myth
 - /resources/videos/nkd-agility-consulting-approach

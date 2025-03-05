@@ -13,8 +13,6 @@ slug: unmasking-agile-how-to-spot-genuine-practices-amidst-the-myths
 layout: video
 aliases:
 - /resources/FZeT8O5Ucwg
-- /resources/videos/unmasking-agile-how-to-spot-genuine-practices-amidst-the-myths
-- /resources/videos/the-tyranny-of-taylorism-how-to-detect-agile-bs
 aliasesArchive:
 - /resources/videos/the-tyranny-of-taylorism-how-to-detect-agile-bs
 - /resources/videos/the-tyranny-of-taylorism-&-how-to-detect-agile-bs!

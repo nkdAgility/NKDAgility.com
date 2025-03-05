@@ -13,9 +13,6 @@ slug: unlocking-team-potential-the-essential-role-of-digital-whiteboards-in-agil
 layout: video
 aliases:
 - /resources/rbFTob3DdjE
-- /resources/videos/unlocking-team-potential-the-essential-role-of-digital-whiteboards-in-agile-collaboration-rbFTob3DdjE
-- /resources/videos/unlocking-team-potential-the-essential-role-of-digital-whiteboards-in-agile-collaboration
-- /resources/videos/5-tools-that-scrum-masters-love-part-2
 aliasesArchive:
 - /resources/videos/unlocking-team-potential-the-essential-role-of-digital-whiteboards-in-agile-collaboration
 - /resources/videos/5-tools-that-scrum-masters-love-part-2

@@ -13,7 +13,6 @@ slug: what-makes-a-truly-great-scrum-master
 layout: video
 aliases:
 - /resources/rHFhR3o849k
-- /resources/videos/what-makes-a-truly-great-scrum-master
 aliasesArchive:
 - /resources/videos/what-makes-a-truly-great-scrum-master
 - /resources/videos/what-makes-a-truly-great-scrum-master-

@@ -17,8 +17,6 @@ duration: 591
 isShort: false
 aliases:
 - /resources/KvZbBwzxSu4
-- /resources/videos/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
-- /resources/videos/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
 aliasesArchive:
 - /resources/videos/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
 - /resources/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction

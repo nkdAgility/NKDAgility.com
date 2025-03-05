@@ -13,8 +13,6 @@ slug: transform-your-career-how-to-become-a-confident-scrum-master-through-real-
 layout: video
 aliases:
 - /resources/cb6JpfomYRU
-- /resources/videos/transform-your-career-how-to-become-a-confident-scrum-master-through-real-world-learning-and-community-support
-- /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates
 aliasesArchive:
 - /resources/videos/transform-your-career-how-to-become-a-confident-scrum-master-through-real-world-learning-and-community-support
 - /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates-

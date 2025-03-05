@@ -17,7 +17,6 @@ duration: 50
 isShort: true
 aliases:
 - /resources/cv5IIVUgack
-- /resources/videos/how-hard-is-it-to-transition-from-being-a-developer-to-a-scrum-developer-cv5IIVUgack
 aliasesArchive:
 - /resources/videos/how-hard-is-it-to-transition-from-being-a-developer-to-a-scrum-developer
 - /resources/how-hard-is-it-to-transition-from-being-a-developer-to-a-scrum-developer

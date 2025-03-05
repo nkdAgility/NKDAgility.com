@@ -17,8 +17,6 @@ duration: 158
 isShort: false
 aliases:
 - /resources/wHGw1vmudNA
-- /resources/videos/7-harbingers-of-the-agile-apocalypse-war
-- /resources/videos/war-7-harbingers-agile-apocalypse
 aliasesArchive:
 - /resources/videos/-harbingers-of-the-agile-apocalypse-war
 - /resources/videos/7-harbingers-of-the-agile-apocalypse-war

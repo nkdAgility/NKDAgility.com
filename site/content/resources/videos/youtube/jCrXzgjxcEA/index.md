@@ -13,8 +13,6 @@ slug: mastering-caman-strategy-how-to-leverage-azure-devops-for-effective-visual
 layout: video
 aliases:
 - /resources/jCrXzgjxcEA
-- /resources/videos/mastering-caman-strategy-how-to-leverage-azure-devops-for-effective-visualisation-in-hybrid-work-environments
-- /resources/videos/kanban-with-azure-devops
 aliasesArchive:
 - /resources/videos/mastering-caman-strategy-how-to-leverage-azure-devops-for-effective-visualisation-in-hybrid-work-environments
 - /resources/videos/kanban-with-azure-devops

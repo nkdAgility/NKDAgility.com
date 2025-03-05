@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: quality-enablement-to-achieve-predictable-delivery
 aliases:
-- /blog/quality-enablement-to-achieve-predictable-delivery
-- /quality-enablement-to-achieve-predictable-delivery
 - /resources/Qvzmat4E5NB
-- /resources/blog/quality-enablement-to-achieve-predictable-delivery
 aliasesArchive:
 - /blog/quality-enablement-to-achieve-predictable-delivery
 - /quality-enablement-to-achieve-predictable-delivery

@@ -17,8 +17,6 @@ duration: 226
 isShort: false
 aliases:
 - /resources/S4zWfPiLAmc
-- /resources/videos/3-best-ways-to-wreck-kanban-use-vanity-metrics
-- /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-using-vanity-metrics
 aliasesArchive:
 - /resources/videos/-best-ways-to-wreck-kanban-use-vanity-metrics-
 - /resources/videos/3-best-ways-to-wreck-kanban-use-vanity-metrics-

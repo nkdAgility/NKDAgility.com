@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: migrating-codeplex-github
 aliases:
-- /blog/migrating-codeplex-github
-- /migrating-codeplex-github
-- /migrating-from-codeplex-to-github
-- /blog/migrating-from-codeplex-to-github
 - /resources/kgtNo8tGkjS
-- /resources/blog/migrating-codeplex-github
 aliasesArchive:
 - /blog/migrating-codeplex-github
 - /migrating-codeplex-github

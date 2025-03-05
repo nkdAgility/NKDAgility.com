@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: configure-a-dns-server-for-an-azure-virtual-network
 aliases:
-- /blog/configure-a-dns-server-for-an-azure-virtual-network
-- /configure-a-dns-server-for-an-azure-virtual-network
 - /resources/sQQqpuZV5xQ
-- /resources/blog/configure-a-dns-server-for-an-azure-virtual-network
 aliasesArchive:
 - /blog/configure-a-dns-server-for-an-azure-virtual-network
 - /configure-a-dns-server-for-an-azure-virtual-network

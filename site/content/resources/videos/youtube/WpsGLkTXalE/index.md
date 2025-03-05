@@ -13,9 +13,6 @@ slug: breaking-the-silence-how-to-combat-the-hidden-dangers-in-agile-teams-WpsGL
 layout: video
 aliases:
 - /resources/WpsGLkTXalE
-- /resources/videos/breaking-the-silence-how-to-combat-the-hidden-dangers-in-agile-teams-WpsGLkTXalE
-- /resources/videos/breaking-the-silence-how-to-combat-the-hidden-dangers-in-agile-teams
-- /resources/videos/7-signs-of-the-agile-apocalypse-silence
 aliasesArchive:
 - /resources/videos/breaking-the-silence-how-to-combat-the-hidden-dangers-in-agile-teams
 - /resources/videos/7-signs-of-the-agile-apocalypse-silence

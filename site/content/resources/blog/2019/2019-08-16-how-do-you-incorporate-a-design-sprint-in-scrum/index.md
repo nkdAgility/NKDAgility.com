@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: how-do-you-incorporate-a-design-sprint-in-scrum
 aliases:
-- /blog/how-do-you-incorporate-a-design-sprint-in-scrum
-- /how-do-you-incorporate-a-design-sprint-in-scrum
-- /how-do-you-incorporate-a-design-sprint-in-scrum-
-- /blog/how-do-you-incorporate-a-design-sprint-in-scrum-
 - /resources/MHeGFYrasBx
-- /resources/blog/how-do-you-incorporate-a-design-sprint-in-scrum
 aliasesArchive:
 - /blog/how-do-you-incorporate-a-design-sprint-in-scrum
 - /how-do-you-incorporate-a-design-sprint-in-scrum

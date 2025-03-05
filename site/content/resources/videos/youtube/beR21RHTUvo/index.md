@@ -17,8 +17,6 @@ duration: 433
 isShort: false
 aliases:
 - /resources/beR21RHTUvo
-- /resources/videos/story-points-a-ghost-of-agile-past
-- /resources/videos/5-ghosts-of-agile-past-story-points
 aliasesArchive:
 - /resources/videos/story-points-a-ghost-of-agile-past
 - /resources/story-points-a-ghost-of-agile-past

@@ -13,8 +13,6 @@ slug: embracing-change-why-agile-evolution-is-the-key-to-thriving-in-a-rapidly-s
 layout: video
 aliases:
 - /resources/p9OhFJ5Ojy4
-- /resources/videos/embracing-change-why-agile-evolution-is-the-key-to-thriving-in-a-rapidly-shifting-world
-- /resources/videos/agile-in-nigeria-2020-the-inevitability-of-change
 aliasesArchive:
 - /resources/videos/agile-in-nigeria-the-inevitability-of-change
 - /resources/videos/agile-in-nigeria-2020-the-inevitability-of-change

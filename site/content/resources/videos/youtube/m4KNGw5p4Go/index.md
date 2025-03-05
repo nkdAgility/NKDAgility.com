@@ -17,8 +17,6 @@ duration: 269
 isShort: false
 aliases:
 - /resources/m4KNGw5p4Go
-- /resources/videos/transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
-- /resources/videos/what-you-will-be-able-to-do-at-the-end-of-the-ppdv-course
 aliasesArchive:
 - /resources/videos/transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
 - /resources/transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration

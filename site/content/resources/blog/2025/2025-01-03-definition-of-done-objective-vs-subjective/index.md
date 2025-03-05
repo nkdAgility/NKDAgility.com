@@ -13,10 +13,6 @@ resourceTypes: blog
 slug: definition-of-done-objective-vs-subjective
 aliases:
 - /resources/-Z5GGUOjc-d
-- /definition-of-done-objective-vs-subjective
-- /blog/definition-of-done-objective-vs-subjective
-- /definition-of-done---objective-vs-subjective
-- /blog/definition-of-done---objective-vs-subjective
 aliasesArchive:
 - /definition-of-done-objective-vs-subjective
 - /blog/definition-of-done-objective-vs-subjective

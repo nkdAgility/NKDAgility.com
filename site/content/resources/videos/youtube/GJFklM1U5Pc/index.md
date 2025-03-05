@@ -17,8 +17,6 @@ duration: 1313
 isShort: false
 aliases:
 - /resources/GJFklM1U5Pc
-- /resources/videos/the-competence-crisis-in-scrum-master-roles-a-call-for-excellence
-- /resources/videos/in-your-experience-what-is-the-current-state-of-scrum-master-competence-in-the-product-development
 aliasesArchive:
 - /resources/videos/the-competence-crisis-in-scrum-master-roles-a-call-for-excellence
 - /resources/the-competence-crisis-in-scrum-master-roles-a-call-for-excellence

@@ -12,8 +12,6 @@ url: /resources/videos/:slug
 slug: maximise-your-virtual-classroom-experience-essential-tech-tips-for-scrum-training
 aliases:
 - /resources/_bjNHN4PI9s
-- /resources/videos/maximise-your-virtual-classroom-experience-essential-tech-tips-for-scrum-training
-- /resources/videos/ep-007-running-a-live-virtual-classroom
 aliasesArchive:
 - /resources/videos/maximise-your-virtual-classroom-experience-essential-tech-tips-for-scrum-training
 - /resources/videos/ep-007-running-a-live-virtual-classroom

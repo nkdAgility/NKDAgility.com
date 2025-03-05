@@ -17,8 +17,6 @@ duration: 234
 isShort: false
 aliases:
 - /resources/CawY8x3kGVk
-- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-3
-- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-3-micromanagement-developer-autonomy-and-more
 aliasesArchive:
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-3-

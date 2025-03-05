@@ -13,7 +13,6 @@ slug: how-does-the-psu-course-help-teams-make-more-effective-product-development
 layout: video
 aliases:
 - /resources/wNgfCTE7C6M
-- /resources/videos/how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions
 aliasesArchive:
 - /resources/videos/how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions
 - /resources/videos/how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions-

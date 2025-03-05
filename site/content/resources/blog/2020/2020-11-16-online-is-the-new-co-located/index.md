@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: online-is-the-new-co-located
 aliases:
-- /blog/online-is-the-new-co-located
-- /online-is-the-new-co-located
 - /resources/QnZVgaG90q_
-- /resources/blog/online-is-the-new-co-located
 aliasesArchive:
 - /blog/online-is-the-new-co-located
 - /online-is-the-new-co-located

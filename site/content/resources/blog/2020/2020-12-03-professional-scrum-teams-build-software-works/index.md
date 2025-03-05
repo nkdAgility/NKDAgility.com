@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: professional-scrum-teams-build-software-works
 aliases:
-- /blog/professional-scrum-teams-build-software-works
-- /professional-scrum-teams-build-software-works
-- /professional-scrum-teams-build-software-that-works
-- /blog/professional-scrum-teams-build-software-that-works
 - /resources/vCeqzJIgF1F
-- /resources/blog/professional-scrum-teams-build-software-works
 aliasesArchive:
 - /blog/professional-scrum-teams-build-software-works
 - /professional-scrum-teams-build-software-works

@@ -13,8 +13,6 @@ slug: mastering-tfs-installation-on-a-single-server-a-step-by-step-guide-for-beg
 layout: video
 aliases:
 - /resources/U69JMzIZXro
-- /resources/videos/mastering-tfs-installation-on-a-single-server-a-step-by-step-guide-for-beginners
-- /resources/videos/installing-tfs-2013-standard
 aliasesArchive:
 - /resources/videos/installing-tfs-standard
 - /resources/videos/installing-tfs-2013-standard

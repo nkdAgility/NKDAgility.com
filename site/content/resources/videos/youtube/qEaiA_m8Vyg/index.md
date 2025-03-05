@@ -17,7 +17,6 @@ duration: 345
 isShort: false
 aliases:
 - /resources/qEaiA_m8Vyg
-- /resources/videos/why-have-you-decided-to-go-all-in-on-immersive-learning-experiences
 aliasesArchive:
 - /resources/videos/why-have-you-decided-to-go-all-in-on-immersive-learning-experiences
 - /resources/why-have-you-decided-to-go-all-in-on-immersive-learning-experiences

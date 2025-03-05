@@ -13,8 +13,6 @@ slug: mastering-azure-devops-avoiding-common-pitfalls-for-agile-success
 layout: video
 aliases:
 - /resources/jcs-2G99Rrw
-- /resources/videos/mastering-azure-devops-avoiding-common-pitfalls-for-agile-success
-- /resources/videos/top-4-rookie-mistakes-in-azure-devops
 aliasesArchive:
 - /resources/videos/mastering-azure-devops-avoiding-common-pitfalls-for-agile-success
 - /resources/videos/top-4-rookie-mistakes-in-azure-devops

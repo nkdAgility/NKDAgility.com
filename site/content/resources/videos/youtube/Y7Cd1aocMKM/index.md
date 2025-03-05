@@ -17,7 +17,6 @@ duration: 384
 isShort: false
 aliases:
 - /resources/Y7Cd1aocMKM
-- /resources/videos/how-effective-is-scrum-training-via-digital-delivery
 aliasesArchive:
 - /resources/videos/how-effective-is-scrum-training-via-digital-delivery
 - /resources/how-effective-is-scrum-training-via-digital-delivery

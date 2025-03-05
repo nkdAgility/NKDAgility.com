@@ -13,8 +13,6 @@ slug: harvesting-agility-what-mushroom-foraging-taught-me-about-scrum-and-team-d
 layout: video
 aliases:
 - /resources/aWYoJtSgTDo
-- /resources/videos/harvesting-agility-what-mushroom-foraging-taught-me-about-scrum-and-team-dynamics
-- /resources/videos/the-importance-of-knowing-the-territory
 aliasesArchive:
 - /resources/videos/harvesting-agility-what-mushroom-foraging-taught-me-about-scrum-and-team-dynamics
 - /resources/videos/the-importance-of-knowing-the-territory-

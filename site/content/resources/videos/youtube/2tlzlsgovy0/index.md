@@ -12,9 +12,6 @@ url: /resources/videos/:slug
 slug: empowering-agile-teams-why-understanding-product-vision-is-key-to-success-2tlzlsgovy0
 aliases:
 - /resources/2tlzlsgovy0
-- /resources/videos/empowering-agile-teams-why-understanding-product-vision-is-key-to-success-2tlzlsgovy0
-- /resources/videos/empowering-agile-teams-why-understanding-product-vision-is-key-to-success
-- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-2
 aliasesArchive:
 - /resources/videos/empowering-agile-teams-why-understanding-product-vision-is-key-to-success
 - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-2

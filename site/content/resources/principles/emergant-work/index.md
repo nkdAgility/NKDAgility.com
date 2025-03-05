@@ -12,7 +12,6 @@ resourceTypes: principles
 layout: principles
 draft: true
 aliases:
-- /learn/agile-delivery-kit/first-principals/emergant-work/
 - /resources/g4M_sdh5Fg2
 aliasesArchive:
 - /learn/agile-delivery-kit/first-principals/emergant-work/

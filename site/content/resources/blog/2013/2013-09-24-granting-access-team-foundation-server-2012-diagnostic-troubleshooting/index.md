@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: granting-access-team-foundation-server-2012-diagnostic-troubleshooting
 aliases:
-- /blog/granting-access-team-foundation-server-2012-diagnostic-troubleshooting
-- /granting-access-team-foundation-server-2012-diagnostic-troubleshooting
-- /granting-access-to-team-foundation-server-2012-for-diagnostic-troubleshooting
-- /blog/granting-access-to-team-foundation-server-2012-for-diagnostic-troubleshooting
 - /resources/8N31NtGZFyB
-- /resources/blog/granting-access-team-foundation-server-2012-diagnostic-troubleshooting
 aliasesArchive:
 - /blog/granting-access-team-foundation-server-2012-diagnostic-troubleshooting
 - /granting-access-team-foundation-server-2012-diagnostic-troubleshooting

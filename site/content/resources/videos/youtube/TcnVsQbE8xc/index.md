@@ -17,7 +17,6 @@ duration: 50
 isShort: true
 aliases:
 - /resources/TcnVsQbE8xc
-- /resources/videos/reasons-to-do-a-psm-ii-course-in-60-seconds-TcnVsQbE8xc
 aliasesArchive:
 - /resources/videos/reasons-to-do-a-psm-ii-course-in-seconds
 - /resources/videos/reasons-to-do-a-psm-ii-course-in-60-seconds

@@ -13,8 +13,6 @@ slug: navigating-the-tfs-to-azure-devops-migration-overcoming-compatibility-conc
 layout: video
 aliases:
 - /resources/qpo4Ru1VVZE
-- /resources/videos/navigating-the-tfs-to-azure-devops-migration-overcoming-compatibility-concerns-with-confidence
-- /resources/videos/devops-migration-compatibility-problems
 aliasesArchive:
 - /resources/videos/navigating-the-tfs-to-azure-devops-migration-overcoming-compatibility-concerns-with-confidence
 - /resources/videos/devops-migration-compatibility-problems

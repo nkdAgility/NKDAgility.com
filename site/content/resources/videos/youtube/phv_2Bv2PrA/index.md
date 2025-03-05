@@ -13,8 +13,6 @@ slug: navigating-complexity-why-agile-practices-are-essential-for-modern-product
 layout: video
 aliases:
 - /resources/phv_2Bv2PrA
-- /resources/videos/navigating-complexity-why-agile-practices-are-essential-for-modern-product-development
-- /resources/videos/what-is-agile
 aliasesArchive:
 - /resources/videos/what-is-agile
 - /resources/videos/what-is-agile-

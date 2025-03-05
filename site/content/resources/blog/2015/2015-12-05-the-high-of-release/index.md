@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: the-high-of-release
 aliases:
-- /blog/the-high-of-release
-- /the-high-of-release
 - /resources/akntzjbRQe2
-- /resources/blog/the-high-of-release
 aliasesArchive:
 - /blog/the-high-of-release
 - /the-high-of-release

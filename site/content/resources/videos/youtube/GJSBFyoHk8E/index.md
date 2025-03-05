@@ -17,7 +17,6 @@ duration: 53
 isShort: true
 aliases:
 - /resources/GJSBFyoHk8E
-- /resources/videos/how-does-a-scrum-team-create-a-sprint-goal-GJSBFyoHk8E
 aliasesArchive:
 - /resources/videos/how-does-a-scrum-team-create-a-sprint-goal
 - /resources/how-does-a-scrum-team-create-a-sprint-goal

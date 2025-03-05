@@ -17,8 +17,6 @@ duration: 177
 isShort: false
 aliases:
 - /resources/RBZFAxEUQC4
-- /resources/videos/7-deadly-sins-of-agile-lust
-- /resources/videos/lust-7-deadly-sins-of-agile
 aliasesArchive:
 - /resources/videos/-deadly-sins-of-agile-lust
 - /resources/videos/7-deadly-sins-of-agile-lust

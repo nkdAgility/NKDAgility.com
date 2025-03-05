@@ -14,8 +14,6 @@ slug: unlocking-the-true-potential-of-scrum-why-professionalism-matters-in-agile
 layout: video
 aliases:
 - /resources/AjUC6FPYCQM
-- /resources/videos/unlocking-the-true-potential-of-scrum-why-professionalism-matters-in-agile-teams
-- /resources/videos/do-teams-really-understand-the-power-of-applying-scrum-professionally
 aliasesArchive:
 - /resources/videos/do-teams-really-understand-the-power-of-applying-scrum-professionally
 - /resources/videos/do-teams-really-understand-the-power-of-applying-scrum-professionally-

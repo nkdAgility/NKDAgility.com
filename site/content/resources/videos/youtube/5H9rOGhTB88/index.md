@@ -16,8 +16,6 @@ duration: 488
 isShort: false
 aliases:
 - /resources/5H9rOGhTB88
-- /resources/videos/empowering-teams-to-tailor-their-processes-a-path-to-true-agility
-- /resources/videos/are-your-teams-truly-empowered-to-adapt-their-processes-the-agile-reality-check-46
 aliasesArchive:
 - /resources/videos/empowering-teams-to-tailor-their-processes-a-path-to-true-agility
 - /resources/empowering-teams-to-tailor-their-processes-a-path-to-true-agility

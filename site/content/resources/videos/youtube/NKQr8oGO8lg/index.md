@@ -13,8 +13,6 @@ slug: unlocking-potential-how-immersive-learning-transforms-careers-and-organisa
 layout: video
 aliases:
 - /resources/NKQr8oGO8lg
-- /resources/videos/unlocking-potential-how-immersive-learning-transforms-careers-and-organisations
-- /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-pal-e-course-deliver-to-delegates
 aliasesArchive:
 - /resources/videos/unlocking-potential-how-immersive-learning-transforms-careers-and-organisations
 - /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-pal-e-course-deliver-to-delegates-

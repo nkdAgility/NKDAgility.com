@@ -13,8 +13,6 @@ resourceTypes: blog
 slug: why-handoffs-are-killing-your-agility
 aliases:
 - /resources/pDvDdIEi9sj
-- /why-handoffs-are-killing-your-agility
-- /blog/why-handoffs-are-killing-your-agility
 aliasesArchive:
 - /why-handoffs-are-killing-your-agility
 - /blog/why-handoffs-are-killing-your-agility

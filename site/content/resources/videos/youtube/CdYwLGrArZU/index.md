@@ -17,7 +17,6 @@ duration: 56
 isShort: true
 aliases:
 - /resources/CdYwLGrArZU
-- /resources/videos/most-common-thing-you-hear-in-a-pspo-course-CdYwLGrArZU
 aliasesArchive:
 - /resources/videos/most-common-thing-you-hear-in-a-pspo-course
 - /resources/most-common-thing-you-hear-in-a-pspo-course-2

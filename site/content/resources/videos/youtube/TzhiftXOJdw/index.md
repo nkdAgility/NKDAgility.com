@@ -17,8 +17,6 @@ duration: 240
 isShort: false
 aliases:
 - /resources/TzhiftXOJdw
-- /resources/videos/what-more-needs-to-happen-before-traditional-organisations-consider-agile
-- /resources/videos/what-more-needs-to-happen-before-traditional-organizations-consider-agile
 aliasesArchive:
 - /resources/videos/what-more-needs-to-happen-before-traditional-organisations-consider-agile
 - /resources/what-more-needs-to-happen-before-traditional-organisations-consider-agile

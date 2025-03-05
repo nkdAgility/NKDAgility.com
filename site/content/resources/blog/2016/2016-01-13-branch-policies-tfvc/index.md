@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: branch-policies-tfvc
 aliases:
-- /blog/branch-policies-tfvc
-- /branch-policies-tfvc
-- /branch-policies-for-tfvc
-- /blog/branch-policies-for-tfvc
 - /resources/_26VFOA-vCe
-- /resources/blog/branch-policies-tfvc
 aliasesArchive:
 - /blog/branch-policies-tfvc
 - /branch-policies-tfvc

@@ -14,14 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: professional-scrum-foundations-coming-to-glasgow-scotland-in-november-2013
 aliases:
-- /blog/professional-scrum-foundations-coming-to-glasgow-scotland-in-november-2013
-- /professional-scrum-foundations-coming-to-glasgow-scotland-in-november-2013
-- /professional-scrum-foundations-coming-to-glasgow,-scotland-in-november-2013
-- /blog/professional-scrum-foundations-coming-to-glasgow,-scotland-in-november-2013
 - /resources/SO1wlCfiUu4
-- /professional-scrum-foundations-coming-to-glasgow--scotland-in-november-2013
-- /blog/professional-scrum-foundations-coming-to-glasgow--scotland-in-november-2013
-- /resources/blog/professional-scrum-foundations-coming-to-glasgow-scotland-in-november-2013
 aliasesArchive:
 - /blog/professional-scrum-foundations-coming-to-glasgow-scotland-in-november-2013
 - /professional-scrum-foundations-coming-to-glasgow-scotland-in-november-2013

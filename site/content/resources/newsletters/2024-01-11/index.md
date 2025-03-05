@@ -12,8 +12,6 @@ resourceTypes: newsletter
 layout: newsletter
 slug: change-is-easier-with-a-friend-buy-1-get-1-free
 aliases:
-- /newsletters/change-is-easier-with-a-friend-buy-1-get-1-free/
-- /resources/newsletters/change-is-easier-with-a-friend-buy-1-get-1-free/
 - /resources/ZHJtz2t0uTU
 aliasesArchive:
 - /newsletters/change-is-easier-with-a-friend-buy-1-get-1-free/

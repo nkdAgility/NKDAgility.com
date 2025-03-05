@@ -14,7 +14,6 @@ layout: video
 canonicalUrl: https://www.youtube.com/watch?v=fayDa6ihe0g
 aliases:
 - /resources/fayDa6ihe0g
-- /resources/videos/live-virtual-professional-scrum-product-owner-in-5-minutes
 aliasesArchive:
 - /resources/videos/live-virtual-professional-scrum-product-owner-in-minutes
 - /resources/videos/live-virtual-professional-scrum-product-owner-in-5-minutes

@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: dod-has-made-it-illegal-to-do-waterfall
 aliases:
-- /blog/dod-has-made-it-illegal-to-do-waterfall
-- /dod-has-made-it-illegal-to-do-waterfall
 - /resources/dnmT3QDhGxx
-- /resources/blog/dod-has-made-it-illegal-to-do-waterfall
 aliasesArchive:
 - /blog/dod-has-made-it-illegal-to-do-waterfall
 - /dod-has-made-it-illegal-to-do-waterfall

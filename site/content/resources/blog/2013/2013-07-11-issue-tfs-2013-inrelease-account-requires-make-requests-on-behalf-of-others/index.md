@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
 aliases:
-- /blog/issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
-- /issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
-- /issue-[-tfs-2013-]-inrelease-account-requires-make-requests-on-behalf-of-others
-- /blog/issue-[-tfs-2013-]-inrelease-account-requires-make-requests-on-behalf-of-others
 - /resources/SYCGxfoMPjw
-- /resources/blog/issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
 aliasesArchive:
 - /blog/issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
 - /issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others

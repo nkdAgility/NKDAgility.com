@@ -13,9 +13,6 @@ slug: ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usab
 layout: video
 aliases:
 - /resources/uvZ9TGbMtnU
-- /resources/videos/ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products-uvZ9TGbMtnU
-- /resources/videos/ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products
-- /resources/videos/-shorts-5-kinds-of-agile-bandits-1st-kind
 aliasesArchive:
 - /resources/videos/ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products
 - /resources/videos/-shorts-5-kinds-of-agile-bandits-1st-kind

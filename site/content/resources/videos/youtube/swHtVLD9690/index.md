@@ -17,8 +17,6 @@ duration: 438
 isShort: false
 aliases:
 - /resources/swHtVLD9690
-- /resources/videos/the-common-challenges-of-adopting-devops-practices
-- /resources/videos/what-common-challenges-do-organizations-face-when-adopting-devops-practices
 aliasesArchive:
 - /resources/videos/the-common-challenges-of-adopting-devops-practices
 - /resources/the-common-challenges-of-adopting-devops-practices

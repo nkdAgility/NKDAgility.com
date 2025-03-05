@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: create-release-management-pipeline-professional-developers
 aliases:
-- /blog/create-release-management-pipeline-professional-developers
-- /create-release-management-pipeline-professional-developers
-- /create-a-release-management-pipeline-for-professional-developers
-- /blog/create-a-release-management-pipeline-for-professional-developers
 - /resources/WYBOx1X0R-3
-- /resources/blog/create-release-management-pipeline-professional-developers
 aliasesArchive:
 - /blog/create-release-management-pipeline-professional-developers
 - /create-release-management-pipeline-professional-developers

@@ -17,8 +17,6 @@ duration: 202
 isShort: false
 aliases:
 - /resources/DWOh_hRJ1uo
-- /resources/videos/what-is-your-best-advice-for-becoming-a-scrum-master-outside-software-engineering
-- /resources/videos/what-is-your-best-advice-for-becoming-a-scrum-master-outside-of-software-engineering
 aliasesArchive:
 - /resources/videos/what-is-your-best-advice-for-becoming-a-scrum-master-outside-software-engineering
 - /resources/what-is-your-best-advice-for-becoming-a-scrum-master-outside-software-engineering

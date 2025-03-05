@@ -14,8 +14,6 @@ slug: transforming-organisational-culture-unlocking-engineering-excellence-throu
 layout: video
 aliases:
 - /resources/KhKFVRcdbGo
-- /resources/videos/transforming-organisational-culture-unlocking-engineering-excellence-through-system-optimisation
-- /resources/videos/nkd-agility-your-partner-in-cost-effective-software-development
 aliasesArchive:
 - /resources/videos/transforming-organisational-culture-unlocking-engineering-excellence-through-system-optimisation
 - /resources/videos/nkd-agility-your-partner-in-cost-effective-software-development

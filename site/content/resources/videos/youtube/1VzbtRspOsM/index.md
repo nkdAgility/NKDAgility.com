@@ -16,8 +16,6 @@ duration: 239
 isShort: false
 aliases:
 - /resources/1VzbtRspOsM
-- /resources/videos/how-immersive-learning-transforms-aspiring-agile-leaders
-- /resources/videos/why-is-the-pal-e-immersivelearning-experience-such-a-great-fit-for-aspiring-agileleaders
 aliasesArchive:
 - /resources/videos/how-immersive-learning-transforms-aspiring-agile-leaders
 - /resources/how-immersive-learning-transforms-aspiring-agile-leaders

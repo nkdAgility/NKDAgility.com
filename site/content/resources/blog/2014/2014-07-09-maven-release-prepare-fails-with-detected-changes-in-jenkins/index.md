@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: maven-release-prepare-fails-with-detected-changes-in-jenkins
 aliases:
-- /blog/maven-release-prepare-fails-with-detected-changes-in-jenkins
-- /maven-release-prepare-fails-with-detected-changes-in-jenkins
 - /resources/gtoRjWgSmKe
-- /resources/blog/maven-release-prepare-fails-with-detected-changes-in-jenkins
 aliasesArchive:
 - /blog/maven-release-prepare-fails-with-detected-changes-in-jenkins
 - /maven-release-prepare-fails-with-detected-changes-in-jenkins

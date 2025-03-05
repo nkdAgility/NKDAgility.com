@@ -17,7 +17,6 @@ duration: 558
 isShort: false
 aliases:
 - /resources/zoAhqsEqShs
-- /resources/videos/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant
 aliasesArchive:
 - /resources/videos/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant
 - /resources/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant

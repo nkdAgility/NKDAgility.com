@@ -30,10 +30,7 @@ layout: blog
 resourceTypes: blog
 slug: hiring-a-professional-product-owner
 aliases:
-- /blog/hiring-a-professional-product-owner
-- /hiring-a-professional-product-owner
 - /resources/Stln5As7Fof
-- /resources/blog/hiring-a-professional-product-owner
 aliasesArchive:
 - /blog/hiring-a-professional-product-owner
 - /hiring-a-professional-product-owner

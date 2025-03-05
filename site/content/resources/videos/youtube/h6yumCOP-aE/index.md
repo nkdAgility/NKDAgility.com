@@ -17,8 +17,6 @@ duration: 302
 isShort: false
 aliases:
 - /resources/h6yumCOP-aE
-- /resources/videos/3-best-ways-to-wreck-kanban-dont-have-a-working-agreement
-- /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-not-having-a-working-agreement
 aliasesArchive:
 - /resources/videos/-best-ways-to-wreck-kanban-dont-have-a-working-agreement-
 - /resources/videos/3-best-ways-to-wreck-kanban-dont-have-a-working-agreement-

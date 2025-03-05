@@ -13,8 +13,6 @@ slug: rethinking-backlog-management-why-a-flat-structure-boosts-agility-and-valu
 layout: video
 aliases:
 - /resources/ZBb8OZ0I6qA
-- /resources/videos/rethinking-backlog-management-why-a-flat-structure-boosts-agility-and-value-delivery
-- /resources/videos/why-its-imposible-to-order-a-hierarchy-and-what-you-can-do-instead
 aliasesArchive:
 - /resources/videos/rethinking-backlog-management-why-a-flat-structure-boosts-agility-and-value-delivery
 - /resources/videos/why-its-imposible-to-order-a-hierarchy,-and-what-you-can-do-instead!

@@ -12,8 +12,6 @@ resourceTypes: newsletter
 layout: newsletter
 slug: agile-kata-and-a-whole-lot-more-with-facilitation-backlog-management-and-evidence-based-management
 aliases:
-- /newsletters/agile-kata-and-a-whole-lot-more-with-facilitation-backlog-management-and-evidence-based-management/
-- /resources/newsletters/agile-kata-and-a-whole-lot-more-with-facilitation-backlog-management-and-evidence-based-management/
 - /resources/hz-iCoxHxxa
 aliasesArchive:
 - /newsletters/agile-kata-and-a-whole-lot-more-with-facilitation-backlog-management-and-evidence-based-management/

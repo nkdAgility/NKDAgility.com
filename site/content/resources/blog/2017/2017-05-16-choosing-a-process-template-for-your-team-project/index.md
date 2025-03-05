@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: choosing-a-process-template-for-your-team-project
 aliases:
-- /blog/choosing-a-process-template-for-your-team-project
-- /choosing-a-process-template-for-your-team-project
 - /resources/dGSGEOYRJAo
-- /resources/blog/choosing-a-process-template-for-your-team-project
 aliasesArchive:
 - /blog/choosing-a-process-template-for-your-team-project
 - /choosing-a-process-template-for-your-team-project

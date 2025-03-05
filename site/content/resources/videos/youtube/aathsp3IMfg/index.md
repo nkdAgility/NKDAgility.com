@@ -17,8 +17,6 @@ duration: 194
 isShort: false
 aliases:
 - /resources/aathsp3IMfg
-- /resources/videos/when-is-an-aps-course-appropriate-for-a-scrum-team
-- /resources/videos/what-does-your-dream-agile-consulting-week-look-like
 aliasesArchive:
 - /resources/videos/when-is-an-aps-course-appropriate-for-a-scrum-team
 - /resources/when-is-an-aps-course-appropriate-for-a-scrum-team

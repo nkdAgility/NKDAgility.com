@@ -16,8 +16,6 @@ duration: 119
 isShort: false
 aliases:
 - /resources/3S0zghhDPwc
-- /resources/videos/the-overlooked-virtue-of-agility-diligence
-- /resources/videos/7-virtues-of-agile-diligence
 aliasesArchive:
 - /resources/videos/the-overlooked-virtue-of-agility-diligence
 - /resources/the-overlooked-virtue-of-agility-diligence

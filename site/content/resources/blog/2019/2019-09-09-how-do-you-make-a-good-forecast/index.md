@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: how-do-you-make-a-good-forecast
 aliases:
-- /blog/how-do-you-make-a-good-forecast
-- /how-do-you-make-a-good-forecast
-- /how-do-you-make-a-good-forecast-
-- /blog/how-do-you-make-a-good-forecast-
 - /resources/fm9Rt6R7JZz
-- /resources/blog/how-do-you-make-a-good-forecast
 aliasesArchive:
 - /blog/how-do-you-make-a-good-forecast
 - /how-do-you-make-a-good-forecast

@@ -17,7 +17,6 @@ duration: 152
 isShort: false
 aliases:
 - /resources/Srwxg7Etnr0
-- /resources/videos/how-does-a-scrum-team-decide-on-a-sprint-goal
 aliasesArchive:
 - /resources/videos/how-does-a-scrum-team-decide-on-a-sprint-goal
 - /resources/how-does-a-scrum-team-decide-on-a-sprint-goal

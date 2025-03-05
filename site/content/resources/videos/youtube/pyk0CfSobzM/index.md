@@ -17,7 +17,6 @@ duration: 244
 isShort: false
 aliases:
 - /resources/pyk0CfSobzM
-- /resources/videos/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint
 aliasesArchive:
 - /resources/videos/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint
 - /resources/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint

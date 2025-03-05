@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: get-visual-studio-2013-team-foundation-server-while-its-hot
 aliases:
-- /blog/get-visual-studio-2013-team-foundation-server-while-its-hot
-- /get-visual-studio-2013-team-foundation-server-while-its-hot
-- /what's-new-in-visual-studio-2013-team-foundation-server-preview
-- /blog/what's-new-in-visual-studio-2013-team-foundation-server-preview
 - /resources/V5OQtr0U1IS
-- /resources/blog/get-visual-studio-2013-team-foundation-server-while-its-hot
 aliasesArchive:
 - /blog/get-visual-studio-2013-team-foundation-server-while-its-hot
 - /get-visual-studio-2013-team-foundation-server-while-its-hot

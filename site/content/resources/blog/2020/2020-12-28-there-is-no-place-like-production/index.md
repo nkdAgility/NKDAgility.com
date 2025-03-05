@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: there-is-no-place-like-production
 aliases:
-- /blog/there-is-no-place-like-production
-- /there-is-no-place-like-production
 - /resources/KUJ7jHOGqP7
-- /resources/blog/there-is-no-place-like-production
 aliasesArchive:
 - /blog/there-is-no-place-like-production
 - /there-is-no-place-like-production

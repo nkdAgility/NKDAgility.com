@@ -17,8 +17,6 @@ duration: 436
 isShort: false
 aliases:
 - /resources/YuKD3WWFJNQ
-- /resources/videos/7-harbingers-of-the-agile-apocalypse-silence
-- /resources/videos/silence-7-harbingers-agile-apocalypse
 aliasesArchive:
 - /resources/videos/-harbingers-of-the-agile-apocalypse-silence
 - /resources/videos/7-harbingers-of-the-agile-apocalypse-silence

@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: installing-release-management-client-visual-studio-2013
 aliases:
-- /blog/installing-release-management-client-visual-studio-2013
-- /installing-release-management-client-visual-studio-2013
-- /installing-release-management-client-for-visual-studio-2013
-- /blog/installing-release-management-client-for-visual-studio-2013
 - /resources/FuoEoqFDuqx
-- /resources/blog/installing-release-management-client-visual-studio-2013
 aliasesArchive:
 - /blog/installing-release-management-client-visual-studio-2013
 - /installing-release-management-client-visual-studio-2013

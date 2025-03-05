@@ -13,9 +13,6 @@ slug: unlocking-agile-mastery-how-the-minecraft-case-study-transforms-training-a
 layout: video
 aliases:
 - /resources/dTE8-Z1ZgA4
-- /resources/videos/unlocking-agile-mastery-how-the-minecraft-case-study-transforms-training-and-team-dynamics-dTE8-Z1ZgA4
-- /resources/videos/unlocking-agile-mastery-how-the-minecraft-case-study-transforms-training-and-team-dynamics
-- /resources/videos/why-do-you-trust-simon-to-deliver-the-aps-course-for-nkd-agility
 aliasesArchive:
 - /resources/videos/unlocking-agile-mastery-how-the-minecraft-case-study-transforms-training-and-team-dynamics
 - /resources/videos/why-do-you-trust-simon-to-deliver-the-aps-course-for-nkd-agility

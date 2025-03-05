@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: kalabule-or-a-professional-at-agile-in-africa
 aliases:
-- /blog/kalabule-or-a-professional-at-agile-in-africa
-- /kalabule-or-a-professional-at-agile-in-africa
 - /resources/yUp0v2lyPX6
-- /resources/blog/kalabule-or-a-professional-at-agile-in-africa
 aliasesArchive:
 - /blog/kalabule-or-a-professional-at-agile-in-africa
 - /kalabule-or-a-professional-at-agile-in-africa

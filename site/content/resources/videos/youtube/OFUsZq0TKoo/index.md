@@ -13,8 +13,6 @@ slug: transform-your-product-development-unlock-user-value-reduce-waste-and-enha
 layout: video
 aliases:
 - /resources/OFUsZq0TKoo
-- /resources/videos/transform-your-product-development-unlock-user-value-reduce-waste-and-enhance-collaboration-with-structured-learning
-- /resources/videos/what-you-will-be-able-to-do-after-the-ppdv-course
 aliasesArchive:
 - /resources/videos/transform-your-product-development-unlock-user-value-reduce-waste-and-enhance-collaboration-with-structured-learning
 - /resources/videos/what-you-will-be-able-to-do-after-the-ppdv-course

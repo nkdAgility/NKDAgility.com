@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: modelling-teams-in-team-foundation-server-2013
 aliases:
-- /blog/modelling-teams-in-team-foundation-server-2013
-- /modelling-teams-in-team-foundation-server-2013
 - /resources/Km0aNB0A6C1
-- /resources/blog/modelling-teams-in-team-foundation-server-2013
 aliasesArchive:
 - /blog/modelling-teams-in-team-foundation-server-2013
 - /modelling-teams-in-team-foundation-server-2013

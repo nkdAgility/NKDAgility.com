@@ -12,8 +12,6 @@ url: /resources/videos/:slug
 slug: from-developer-to-agile-advocate-how-my-journey-unveiled-the-power-of-scrum-and-devops
 aliases:
 - /resources/4FTEJ4tDQqU
-- /resources/videos/from-developer-to-agile-advocate-how-my-journey-unveiled-the-power-of-scrum-and-devops
-- /resources/videos/why-did-you-embrace-agile-over-traditional-project-management-as-a-developer
 aliasesArchive:
 - /resources/videos/from-developer-to-agile-advocate-how-my-journey-unveiled-the-power-of-scrum-and-devops
 - /resources/videos/why-did-you-embrace-agile-over-traditional-project-management-as-a-developer-

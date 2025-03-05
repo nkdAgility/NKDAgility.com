@@ -13,8 +13,6 @@ slug: mastering-complexity-in-scrum-transform-your-team-with-agile-product-strat
 layout: video
 aliases:
 - /resources/n4XaJV9dJfs
-- /resources/videos/mastering-complexity-in-scrum-transform-your-team-with-agile-product-strategy-insights
-- /resources/videos/what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams
 aliasesArchive:
 - /resources/videos/mastering-complexity-in-scrum-transform-your-team-with-agile-product-strategy-insights
 - /resources/videos/what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams-

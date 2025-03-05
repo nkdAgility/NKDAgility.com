@@ -17,8 +17,6 @@ duration: 331
 isShort: false
 aliases:
 - /resources/kTszGsXPLXY
-- /resources/videos/getting-started-with-kanban
-- /resources/videos/how-easy-is-it-to-create-a-kanban-pilot-in-the-organization
 aliasesArchive:
 - /resources/videos/getting-started-with-kanban-
 - /resources/getting-started-with-kanban

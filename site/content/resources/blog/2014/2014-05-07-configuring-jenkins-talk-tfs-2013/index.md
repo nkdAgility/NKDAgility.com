@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: configuring-jenkins-talk-tfs-2013
 aliases:
-- /blog/configuring-jenkins-talk-tfs-2013
-- /configuring-jenkins-talk-tfs-2013
-- /configuring-jenkins-to-talk-to-tfs-2013
-- /blog/configuring-jenkins-to-talk-to-tfs-2013
 - /resources/ynMjy3Tn7hl
-- /resources/blog/configuring-jenkins-talk-tfs-2013
 aliasesArchive:
 - /blog/configuring-jenkins-talk-tfs-2013
 - /configuring-jenkins-talk-tfs-2013

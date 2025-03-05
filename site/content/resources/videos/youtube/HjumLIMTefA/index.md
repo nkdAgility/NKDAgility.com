@@ -17,9 +17,6 @@ duration: 43
 isShort: true
 aliases:
 - /resources/HjumLIMTefA
-- /resources/videos/the-power-of-immersive-learning-in-agile-training-HjumLIMTefA
-- /resources/videos/the-power-of-immersive-learning-in-agile-training
-- /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-5
 aliasesArchive:
 - /resources/videos/the-power-of-immersive-learning-in-agile-training
 - /resources/the-power-of-immersive-learning-in-agile-training

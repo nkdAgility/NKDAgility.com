@@ -7,9 +7,6 @@ ResourceType: workshops
 resourceTypes: workshop
 layout: workshop
 aliases:
-- workshops/Customer-Working-Agreement.html
-- /learn/agile-delivery-kit/workshops/Customer-Working-Agreement
-- /learn/agile-delivery-kit/workshops/customer-working-agreement/
 - /resources/hjlKdneL4t8
 aliasesArchive:
 - workshops/Customer-Working-Agreement.html

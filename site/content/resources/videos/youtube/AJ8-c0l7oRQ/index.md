@@ -17,7 +17,6 @@ duration: 43
 isShort: true
 aliases:
 - /resources/AJ8-c0l7oRQ
-- /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3-AJ8-c0l7oRQ
 aliasesArchive:
 - /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-
 - /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3

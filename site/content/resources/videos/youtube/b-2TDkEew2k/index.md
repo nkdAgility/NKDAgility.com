@@ -13,9 +13,6 @@ slug: mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficienc
 layout: video
 aliases:
 - /resources/b-2TDkEew2k
-- /resources/videos/mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency-b-2TDkEew2k
-- /resources/videos/mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency
-- /resources/videos/-shorts-7-virtues-of-agile-temperance
 aliasesArchive:
 - /resources/videos/mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency
 - /resources/videos/-shorts-7-virtues-of-agile-temperance

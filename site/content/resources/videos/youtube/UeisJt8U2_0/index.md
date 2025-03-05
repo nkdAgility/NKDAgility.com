@@ -17,8 +17,6 @@ duration: 422
 isShort: false
 aliases:
 - /resources/UeisJt8U2_0
-- /resources/videos/7-harbingers-of-the-agile-apocalypse-plague
-- /resources/videos/plague-7-harbingers-agile-apocalypse
 aliasesArchive:
 - /resources/videos/-harbingers-of-the-agile-apocalypse-plague
 - /resources/videos/7-harbingers-of-the-agile-apocalypse-plague

@@ -13,8 +13,6 @@ url: /resources/videos/:slug
 slug: unlocking-the-true-power-of-agile-embracing-change-and-collaboration-for-team-success
 aliases:
 - /resources/3nSV-v2cK-w
-- /resources/videos/unlocking-the-true-power-of-agile-embracing-change-and-collaboration-for-team-success
-- /resources/videos/if-you-could-distil-the-psm-immersive-learning-experience-into-3-major-benefits-what-would-they-be
 aliasesArchive:
 - /resources/videos/unlocking-the-true-power-of-agile-embracing-change-and-collaboration-for-team-success
 - /resources/videos/if-you-could-distil-the-psm-immersive-learning-experience-into-3-major-benefits-what-would-they-be-

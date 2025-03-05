@@ -14,7 +14,6 @@ slug: what-are-3-top-tips-for-a-new-agile-consultant
 layout: video
 aliases:
 - /resources/gImXmxjn_1g
-- /resources/videos/what-are-3-top-tips-for-a-new-agile-consultant
 aliasesArchive:
 - /resources/videos/what-are-top-tips-for-a-new-agile-consultant
 - /resources/videos/what-are-3-top-tips-for-a-new-agile-consultant

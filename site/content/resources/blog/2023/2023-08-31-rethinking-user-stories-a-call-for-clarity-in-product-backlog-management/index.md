@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: rethinking-user-stories-a-call-for-clarity-in-product-backlog-management
 aliases:
-- /blog/rethinking-user-stories-a-call-for-clarity-in-product-backlog-management
-- /rethinking-user-stories-a-call-for-clarity-in-product-backlog-management
-- /rethinking-'user-stories'--a-call-for-clarity-in-product-backlog-management
-- /blog/rethinking-'user-stories'--a-call-for-clarity-in-product-backlog-management
 - /resources/E2aOGiRDnuG
-- /resources/blog/rethinking-user-stories-a-call-for-clarity-in-product-backlog-management
 aliasesArchive:
 - /blog/rethinking-user-stories-a-call-for-clarity-in-product-backlog-management
 - /rethinking-user-stories-a-call-for-clarity-in-product-backlog-management

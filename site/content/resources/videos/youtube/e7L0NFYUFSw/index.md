@@ -13,8 +13,6 @@ slug: debunking-the-scrum-myth-why-twice-the-work-in-half-the-time-is-a-misleadi
 layout: video
 aliases:
 - /resources/e7L0NFYUFSw
-- /resources/videos/debunking-the-scrum-myth-why-twice-the-work-in-half-the-time-is-a-misleading-promise
-- /resources/videos/does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time
 aliasesArchive:
 - /resources/videos/does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time
 - /resources/videos/does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time-

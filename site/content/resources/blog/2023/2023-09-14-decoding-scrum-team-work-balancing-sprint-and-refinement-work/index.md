@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: decoding-scrum-team-work-balancing-sprint-and-refinement-work
 aliases:
-- /blog/decoding-scrum-team-work-balancing-sprint-and-refinement-work
-- /decoding-scrum-team-work-balancing-sprint-and-refinement-work
-- /decoding-scrum-team-work--balancing-sprint-and-refinement-work
-- /blog/decoding-scrum-team-work--balancing-sprint-and-refinement-work
 - /resources/RCMVmNzZDfV
-- /resources/blog/decoding-scrum-team-work-balancing-sprint-and-refinement-work
 aliasesArchive:
 - /blog/decoding-scrum-team-work-balancing-sprint-and-refinement-work
 - /decoding-scrum-team-work-balancing-sprint-and-refinement-work

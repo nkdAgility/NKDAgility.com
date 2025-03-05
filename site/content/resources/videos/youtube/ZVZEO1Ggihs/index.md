@@ -17,8 +17,6 @@ duration: 77
 isShort: false
 aliases:
 - /resources/ZVZEO1Ggihs
-- /resources/videos/unlocking-sustainable-growth-why-leadership-is-the-key-to-successful-scaling
-- /resources/videos/the-role-of-leadership-in-scalable-product-development
 aliasesArchive:
 - /resources/videos/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
 - /resources/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master

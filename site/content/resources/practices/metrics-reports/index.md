@@ -7,7 +7,6 @@ ResourceType: practices
 resourceTypes: practice
 layout: practice
 aliases:
-- /learn/agile-delivery-kit/practices/metrics-reports
 - /resources/26FWeqJuu0P
 aliasesArchive:
 - /learn/agile-delivery-kit/practices/metrics-reports

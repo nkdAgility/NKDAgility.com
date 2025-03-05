@@ -14,8 +14,6 @@ slug: technical-debt-management-for-long-term-quality
 layout: video
 aliases:
 - /resources/BAwBXYtKj7o
-- /resources/videos/technical-debt-management-for-long-term-quality
-- /resources/videos/the-power-of-automated-testing
 aliasesArchive:
 - /resources/videos/technical-debt-management-for-long-term-quality
 - /resources/videos/the-power-of-automated-testing

@@ -16,7 +16,6 @@ duration: 47
 isShort: true
 aliases:
 - /resources/2Cy9MxXiiOo
-- /resources/videos/what-is-a-sprint-goal-2Cy9MxXiiOo
 aliasesArchive:
 - /resources/videos/what-is-a-sprint-goal
 - /resources/what-is-a-sprint-goal-2

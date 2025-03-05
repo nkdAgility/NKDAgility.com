@@ -17,7 +17,6 @@ duration: 186
 isShort: false
 aliases:
 - /resources/sb9RsFslUfU
-- /resources/videos/how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant
 aliasesArchive:
 - /resources/videos/how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant
 - /resources/how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant

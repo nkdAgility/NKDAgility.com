@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-build-reports-licencies-licx-unable-load-type
 aliases:
-- /blog/tfs-build-reports-licencies-licx-unable-load-type
-- /tfs-build-reports-licencies-licx-unable-load-type
-- /tfs-build-reports-licencies-licx--unable-to-load-type
-- /blog/tfs-build-reports-licencies-licx--unable-to-load-type
 - /resources/om6UWMd_ONd
-- /resources/blog/tfs-build-reports-licencies-licx-unable-load-type
 aliasesArchive:
 - /blog/tfs-build-reports-licencies-licx-unable-load-type
 - /tfs-build-reports-licencies-licx-unable-load-type

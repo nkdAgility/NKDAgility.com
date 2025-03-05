@@ -13,9 +13,6 @@ slug: unlocking-team-potential-why-every-scrum-master-needs-a-quality-camera-for
 layout: video
 aliases:
 - /resources/gWTCvlUzSZo
-- /resources/videos/unlocking-team-potential-why-every-scrum-master-needs-a-quality-camera-for-effective-engagement-gWTCvlUzSZo
-- /resources/videos/unlocking-team-potential-why-every-scrum-master-needs-a-quality-camera-for-effective-engagement
-- /resources/videos/5-tools-that-scrum-masters-love-part-3
 aliasesArchive:
 - /resources/videos/unlocking-team-potential-why-every-scrum-master-needs-a-quality-camera-for-effective-engagement
 - /resources/videos/5-tools-that-scrum-masters-love-part-3

@@ -17,9 +17,6 @@ duration: 45
 isShort: true
 aliases:
 - /resources/OlzXHZihQzI
-- /resources/videos/unlocking-the-power-of-immersive-learning-in-agile-OlzXHZihQzI
-- /resources/videos/unlocking-the-power-of-immersive-learning-in-agile
-- /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-4
 aliasesArchive:
 - /resources/videos/unlocking-the-power-of-immersive-learning-in-agile
 - /resources/unlocking-the-power-of-immersive-learning-in-agile

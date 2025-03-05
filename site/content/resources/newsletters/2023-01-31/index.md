@@ -12,8 +12,6 @@ resourceTypes: newsletter
 layout: newsletter
 slug: february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have
 aliases:
-- /newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/
-- /resources/newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/
 - /resources/Kofi3sgOhDX
 aliasesArchive:
 - /newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/

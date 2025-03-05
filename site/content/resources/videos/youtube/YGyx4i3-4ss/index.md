@@ -13,9 +13,6 @@ slug: unlocking-user-insights-the-key-to-meaningful-software-development-YGyx4i3
 layout: video
 aliases:
 - /resources/YGyx4i3-4ss
-- /resources/videos/unlocking-user-insights-the-key-to-meaningful-software-development-YGyx4i3-4ss
-- /resources/videos/unlocking-user-insights-the-key-to-meaningful-software-development
-- /resources/videos/ppdv-course-overview
 aliasesArchive:
 - /resources/videos/unlocking-user-insights-the-key-to-meaningful-software-development
 - /resources/videos/ppdv-course-overview

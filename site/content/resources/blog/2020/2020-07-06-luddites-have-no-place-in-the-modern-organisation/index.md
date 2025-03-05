@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: luddites-have-no-place-in-the-modern-organisation
 aliases:
-- /blog/luddites-have-no-place-in-the-modern-organisation
-- /luddites-have-no-place-in-the-modern-organisation
 - /resources/dyxqF7lrHmn
-- /resources/blog/luddites-have-no-place-in-the-modern-organisation
 aliasesArchive:
 - /blog/luddites-have-no-place-in-the-modern-organisation
 - /luddites-have-no-place-in-the-modern-organisation

@@ -14,8 +14,6 @@ slug: mastering-agile-3-essential-strategies-to-boost-your-teams-sprint-success
 layout: video
 aliases:
 - /resources/ks38bwDTVfM
-- /resources/videos/mastering-agile-3-essential-strategies-to-boost-your-teams-sprint-success
-- /resources/videos/what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed
 aliasesArchive:
 - /resources/videos/mastering-agile-essential-strategies-to-boost-your-teams-sprint-success
 - /resources/videos/mastering-agile-3-essential-strategies-to-boost-your-teams-sprint-success

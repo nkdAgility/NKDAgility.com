@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: uncommitted-changes-messing-sync-git-visual-studio
 aliases:
-- /blog/uncommitted-changes-messing-sync-git-visual-studio
-- /uncommitted-changes-messing-sync-git-visual-studio
-- /uncommitted-changes-messing-up-your-sync-in-git-with-visual-studio
-- /blog/uncommitted-changes-messing-up-your-sync-in-git-with-visual-studio
 - /resources/CuWpL0GPBwN
-- /resources/blog/uncommitted-changes-messing-sync-git-visual-studio
 aliasesArchive:
 - /blog/uncommitted-changes-messing-sync-git-visual-studio
 - /uncommitted-changes-messing-sync-git-visual-studio

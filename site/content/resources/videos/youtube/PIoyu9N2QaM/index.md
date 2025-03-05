@@ -17,8 +17,6 @@ duration: 363
 isShort: false
 aliases:
 - /resources/PIoyu9N2QaM
-- /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master
-- /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned-experienced-scrum-master
 aliasesArchive:
 - /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master
 - /resources/transform-your-software-team-with-expert-product-development-mentoring

@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: mask-password-in-jenkins-when-calling-tee
 aliases:
-- /blog/mask-password-in-jenkins-when-calling-tee
-- /mask-password-in-jenkins-when-calling-tee
 - /resources/rG_NN58PQym
-- /resources/blog/mask-password-in-jenkins-when-calling-tee
 aliasesArchive:
 - /blog/mask-password-in-jenkins-when-calling-tee
 - /mask-password-in-jenkins-when-calling-tee

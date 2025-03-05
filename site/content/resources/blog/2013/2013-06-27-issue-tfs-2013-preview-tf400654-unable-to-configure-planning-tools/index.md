@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: issue-tfs-2013-preview-tf400654-unable-to-configure-planning-tools
 aliases:
-- /blog/issue-tfs-2013-preview-tf400654-unable-to-configure-planning-tools
-- /issue-tfs-2013-preview-tf400654-unable-to-configure-planning-tools
-- /issue-[-tfs-2013-preview-]-tf400654--unable-to-configure-planning-tools
-- /blog/issue-[-tfs-2013-preview-]-tf400654--unable-to-configure-planning-tools
 - /resources/vjwgG3uy0lI
-- /resources/blog/issue-tfs-2013-preview-tf400654-unable-to-configure-planning-tools
 aliasesArchive:
 - /blog/issue-tfs-2013-preview-tf400654-unable-to-configure-planning-tools
 - /issue-tfs-2013-preview-tf400654-unable-to-configure-planning-tools

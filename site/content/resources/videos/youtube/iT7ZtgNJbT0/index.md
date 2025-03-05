@@ -17,7 +17,6 @@ duration: 174
 isShort: false
 aliases:
 - /resources/iT7ZtgNJbT0
-- /resources/videos/what-was-your-best-day-as-an-agile-consultant
 aliasesArchive:
 - /resources/videos/what-was-your-best-day-as-an-agile-consultant
 - /resources/what-was-your-best-day-as-an-agile-consultant-2

@@ -13,8 +13,6 @@ slug: unlocking-business-value-the-power-of-evidence-based-management-for-effect
 layout: video
 aliases:
 - /resources/MCkSBdzRK_c
-- /resources/videos/unlocking-business-value-the-power-of-evidence-based-management-for-effective-leadership
-- /resources/videos/making-business-decisions-with-evidence-what-is-evidence-based-management
 aliasesArchive:
 - /resources/videos/unlocking-business-value-the-power-of-evidence-based-management-for-effective-leadership
 - /resources/videos/making-business-decisions-with-evidence!-what-is-evidence-based-management-

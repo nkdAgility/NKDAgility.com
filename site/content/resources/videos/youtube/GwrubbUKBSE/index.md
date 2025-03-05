@@ -14,7 +14,6 @@ layout: video
 canonicalUrl: https://www.youtube.com/watch?v=GwrubbUKBSE
 aliases:
 - /resources/GwrubbUKBSE
-- /resources/videos/30th-march-2020-office-hours-ask-me-anything
 aliasesArchive:
 - /resources/videos/th-march-office-hours-ask-me-anything
 - /resources/videos/30th-march-2020-office-hours-ask-me-anything

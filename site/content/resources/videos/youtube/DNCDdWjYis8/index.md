@@ -14,9 +14,6 @@ slug: redefining-the-scrum-master-from-boss-to-empowering-facilitator-DNCDdWjYis
 layout: video
 aliases:
 - /resources/DNCDdWjYis8
-- /resources/videos/redefining-the-scrum-master-from-boss-to-empowering-facilitator-DNCDdWjYis8
-- /resources/videos/redefining-the-scrum-master-from-boss-to-empowering-facilitator
-- /resources/videos/worst-trait-in-unskilled-scrum-masters
 aliasesArchive:
 - /resources/videos/worst-trait-in-unskilled-scrum-masters
 - /resources/videos/worst-trait-in-unskilled-scrum-masters-

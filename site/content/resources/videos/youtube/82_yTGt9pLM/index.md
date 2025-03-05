@@ -12,8 +12,6 @@ url: /resources/videos/:slug
 slug: unlocking-agile-consulting-transform-your-organisation-with-diverse-strategies-and-continuous-learning
 aliases:
 - /resources/82_yTGt9pLM
-- /resources/videos/unlocking-agile-consulting-transform-your-organisation-with-diverse-strategies-and-continuous-learning
-- /resources/videos/agile-consulting-services-overview
 aliasesArchive:
 - /resources/videos/unlocking-agile-consulting-transform-your-organisation-with-diverse-strategies-and-continuous-learning
 - /resources/videos/agile-consulting-services-overview

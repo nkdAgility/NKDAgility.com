@@ -14,8 +14,6 @@ slug: why-embracing-automation-is-essential-for-reducing-human-error-in-software
 layout: video
 aliases:
 - /resources/sdIPSpbeA9w
-- /resources/videos/why-embracing-automation-is-essential-for-reducing-human-error-in-software-development
-- /resources/videos/the-cost-saving-power-of-automation
 aliasesArchive:
 - /resources/videos/why-embracing-automation-is-essential-for-reducing-human-error-in-software-development
 - /resources/videos/the-cost-saving-power-of-automation

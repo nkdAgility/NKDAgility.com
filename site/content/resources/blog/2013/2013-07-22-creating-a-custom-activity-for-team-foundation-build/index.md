@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: creating-a-custom-activity-for-team-foundation-build
 aliases:
-- /blog/creating-a-custom-activity-for-team-foundation-build
-- /creating-a-custom-activity-for-team-foundation-build
 - /resources/mgwL4ERT1N3
-- /resources/blog/creating-a-custom-activity-for-team-foundation-build
 aliasesArchive:
 - /blog/creating-a-custom-activity-for-team-foundation-build
 - /creating-a-custom-activity-for-team-foundation-build

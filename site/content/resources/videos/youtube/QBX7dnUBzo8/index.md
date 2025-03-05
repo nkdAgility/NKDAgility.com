@@ -17,8 +17,6 @@ duration: 349
 isShort: false
 aliases:
 - /resources/QBX7dnUBzo8
-- /resources/videos/addressing-systemic-issues-in-agile-organizations
-- /resources/videos/agile-techniques-that-boost-startups
 aliasesArchive:
 - /resources/videos/addressing-systemic-issues-in-agile-organizations
 - /resources/addressing-systemic-issues-in-agile-organizations

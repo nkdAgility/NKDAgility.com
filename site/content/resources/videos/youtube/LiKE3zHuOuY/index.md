@@ -17,7 +17,6 @@ duration: 29
 isShort: true
 aliases:
 - /resources/LiKE3zHuOuY
-- /resources/videos/how-much-of-an-impact-can-scrum-have-in-a-devops-environment-LiKE3zHuOuY
 aliasesArchive:
 - /resources/videos/how-much-of-an-impact-can-scrum-have-in-a-devops-environment
 - /resources/how-much-of-an-impact-can-scrum-have-in-a-devops-environment

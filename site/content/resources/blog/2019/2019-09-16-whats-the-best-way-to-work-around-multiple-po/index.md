@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: whats-the-best-way-to-work-around-multiple-po
 aliases:
-- /blog/whats-the-best-way-to-work-around-multiple-po
-- /whats-the-best-way-to-work-around-multiple-po
-- /what's-the-best-way-to-work-around-multiple-po-
-- /blog/what's-the-best-way-to-work-around-multiple-po-
 - /resources/KIG3LzjF3zK
-- /resources/blog/whats-the-best-way-to-work-around-multiple-po
 aliasesArchive:
 - /blog/whats-the-best-way-to-work-around-multiple-po
 - /whats-the-best-way-to-work-around-multiple-po

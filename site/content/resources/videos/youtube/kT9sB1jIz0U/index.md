@@ -13,8 +13,6 @@ slug: embracing-hierarchies-of-competence-how-respect-and-expertise-transform-wo
 layout: video
 aliases:
 - /resources/kT9sB1jIz0U
-- /resources/videos/embracing-hierarchies-of-competence-how-respect-and-expertise-transform-workplaces
-- /resources/videos/why-i-love-hierarchies-of-competence
 aliasesArchive:
 - /resources/videos/why-i-love-hierarchies-of-competence
 - /resources/why-i-love-hierarchies-of-competence

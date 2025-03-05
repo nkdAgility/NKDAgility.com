@@ -17,7 +17,6 @@ duration: 121
 isShort: false
 aliases:
 - /resources/uGIhajIO3pQ
-- /resources/videos/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event
 aliasesArchive:
 - /resources/videos/agile-scotland-why-does-this-matter-to-you-and-why-should-people-come-to-the-event
 - /resources/videos/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event

@@ -12,7 +12,6 @@ resourceTypes: principle
 layout: principle
 slug: continuous-improvement
 aliases:
-- /principles/continuous-improvement/
 - /resources/ncwxEspXRQm
 aliasesArchive:
 - /principles/continuous-improvement/

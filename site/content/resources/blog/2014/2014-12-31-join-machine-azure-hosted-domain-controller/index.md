@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: join-machine-azure-hosted-domain-controller
 aliases:
-- /blog/join-machine-azure-hosted-domain-controller
-- /join-machine-azure-hosted-domain-controller
-- /join-a-machine-to-your-azure-hosted-domain-controller
-- /blog/join-a-machine-to-your-azure-hosted-domain-controller
 - /resources/7RVNi9gLHYY
-- /resources/blog/join-machine-azure-hosted-domain-controller
 aliasesArchive:
 - /blog/join-machine-azure-hosted-domain-controller
 - /join-machine-azure-hosted-domain-controller

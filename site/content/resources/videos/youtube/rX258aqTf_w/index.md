@@ -17,7 +17,6 @@ duration: 318
 isShort: false
 aliases:
 - /resources/rX258aqTf_w
-- /resources/videos/in-what-circumstances-is-agile-consulting-appropriate
 aliasesArchive:
 - /resources/videos/in-what-circumstances-is-agile-consulting-appropriate
 - /resources/in-what-circumstances-is-agile-consulting-appropriate

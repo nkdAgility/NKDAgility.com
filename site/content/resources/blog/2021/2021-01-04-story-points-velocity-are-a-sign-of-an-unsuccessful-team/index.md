@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: story-points-velocity-are-a-sign-of-an-unsuccessful-team
 aliases:
-- /blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team
-- /story-points-velocity-are-a-sign-of-an-unsuccessful-team
-- /story-points-&-velocity-are-a-sign-of-an-unsuccessful-team
-- /blog/story-points-&-velocity-are-a-sign-of-an-unsuccessful-team
 - /resources/ICuFIMyhnwj
-- /resources/blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team
 aliasesArchive:
 - /blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team
 - /story-points-velocity-are-a-sign-of-an-unsuccessful-team

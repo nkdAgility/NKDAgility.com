@@ -12,7 +12,6 @@ resourceTypes: principle
 layout: principle
 slug: innovation
 aliases:
-- /principles/innovation/
 - /resources/31Zki4xCtFO
 aliasesArchive:
 - /principles/innovation/

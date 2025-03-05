@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: live-webcast-qa-with-martin-hinshelwood-on-27th-march-2020
 aliases:
-- /blog/live-webcast-qa-with-martin-hinshelwood-on-27th-march-2020
-- /live-webcast-qa-with-martin-hinshelwood-on-27th-march-2020
-- /live-webcast--q&amp;a-with-martin-hinshelwood-on-27th-march-2020
-- /blog/live-webcast--q&amp;a-with-martin-hinshelwood-on-27th-march-2020
 - /resources/s7bwajkP-HP
-- /resources/blog/live-webcast-qa-with-martin-hinshelwood-on-27th-march-2020
 aliasesArchive:
 - /blog/live-webcast-qa-with-martin-hinshelwood-on-27th-march-2020
 - /live-webcast-qa-with-martin-hinshelwood-on-27th-march-2020

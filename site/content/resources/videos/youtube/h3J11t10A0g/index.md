@@ -14,8 +14,6 @@ slug: navigating-the-unpredictability-of-software-development-embrace-agile-for-
 layout: video
 aliases:
 - /resources/h3J11t10A0g
-- /resources/videos/navigating-the-unpredictability-of-software-development-embrace-agile-for-success
-- /resources/videos/escaping-the-deadline-death-spiral
 aliasesArchive:
 - /resources/videos/navigating-the-unpredictability-of-software-development-embrace-agile-for-success
 - /resources/videos/escaping-the-deadline-death-spiral

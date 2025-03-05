@@ -13,8 +13,6 @@ slug: from-software-engineer-to-scrum-trainer-how-my-journey-shapes-effective-de
 layout: video
 aliases:
 - /resources/N0Ci9PQQRLc
-- /resources/videos/from-software-engineer-to-scrum-trainer-how-my-journey-shapes-effective-devops-training
-- /resources/videos/how-does-your-real-world-experience-translate-into-your-training-style
 aliasesArchive:
 - /resources/videos/how-does-your-real-world-experience-translate-into-your-training-style
 - /resources/videos/how-does-your-real-world-experience-translate-into-your-training-style-

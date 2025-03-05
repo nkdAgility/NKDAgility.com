@@ -13,8 +13,6 @@ slug: the-crucial-role-of-competence-how-knowledgeable-scrum-masters-drive-team-
 layout: video
 aliases:
 - /resources/r9aCEFpUHWU
-- /resources/videos/the-crucial-role-of-competence-how-knowledgeable-scrum-masters-drive-team-success
-- /resources/videos/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
 aliasesArchive:
 - /resources/videos/the-crucial-role-of-competence-how-knowledgeable-scrum-masters-drive-team-success
 - /resources/videos/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations

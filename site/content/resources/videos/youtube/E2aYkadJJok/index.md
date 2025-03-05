@@ -13,9 +13,6 @@ slug: mastering-your-kanban-board-a-practical-guide-to-visualising-workflows-for
 layout: video
 aliases:
 - /resources/E2aYkadJJok
-- /resources/videos/mastering-your-kanban-board-a-practical-guide-to-visualising-workflows-for-maximum-efficiency-E2aYkadJJok
-- /resources/videos/mastering-your-kanban-board-a-practical-guide-to-visualising-workflows-for-maximum-efficiency
-- /resources/videos/kanban-boards-for-campaign-success-the-ultimate-guide-to-visualizing-your-workflow
 aliasesArchive:
 - /resources/videos/mastering-your-kanban-board-a-practical-guide-to-visualising-workflows-for-maximum-efficiency
 - /resources/videos/kanban-boards-for-campaign-success-the-ultimate-guide-to-visualizing-your-workflow

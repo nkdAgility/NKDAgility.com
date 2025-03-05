@@ -12,7 +12,6 @@ resourceTypes: principles
 layout: principles
 draft: true
 aliases:
-- /learn/agile-delivery-kit/first-principals/self-organization/
 - /resources/eyXbQF80i4R
 aliasesArchive:
 - /learn/agile-delivery-kit/first-principals/self-organization/

@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: how-to-rename-a-team-project-in-tfs-2015
 aliases:
-- /blog/how-to-rename-a-team-project-in-tfs-2015
-- /how-to-rename-a-team-project-in-tfs-2015
 - /resources/ysF0Hy8v8Rf
-- /resources/blog/how-to-rename-a-team-project-in-tfs-2015
 aliasesArchive:
 - /blog/how-to-rename-a-team-project-in-tfs-2015
 - /how-to-rename-a-team-project-in-tfs-2015

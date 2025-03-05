@@ -12,7 +12,6 @@ resourceTypes: principles
 layout: principles
 draft: true
 aliases:
-- /learn/agile-delivery-kit/first-principals/empirical-process-control/
 - /resources/VBf7KL90jRm
 aliasesArchive:
 - /learn/agile-delivery-kit/first-principals/empirical-process-control/

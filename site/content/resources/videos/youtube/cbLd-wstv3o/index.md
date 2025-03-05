@@ -17,9 +17,6 @@ duration: 53
 isShort: true
 aliases:
 - /resources/cbLd-wstv3o
-- /resources/videos/how-to-discover-unrealized-value-in-your-product-cbLd-wstv3o
-- /resources/videos/how-to-discover-unrealized-value-in-your-product
-- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-3
 aliasesArchive:
 - /resources/videos/how-to-discover-unrealized-value-in-your-product
 - /resources/how-to-discover-unrealized-value-in-your-product

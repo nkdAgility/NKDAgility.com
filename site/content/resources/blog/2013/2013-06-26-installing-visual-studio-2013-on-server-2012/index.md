@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: installing-visual-studio-2013-on-server-2012
 aliases:
-- /blog/installing-visual-studio-2013-on-server-2012
-- /installing-visual-studio-2013-on-server-2012
 - /resources/LAt1NHw5pbR
-- /resources/blog/installing-visual-studio-2013-on-server-2012
 aliasesArchive:
 - /blog/installing-visual-studio-2013-on-server-2012
 - /installing-visual-studio-2013-on-server-2012

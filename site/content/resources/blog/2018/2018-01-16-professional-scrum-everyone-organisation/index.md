@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: professional-scrum-everyone-organisation
 aliases:
-- /blog/professional-scrum-everyone-organisation
-- /professional-scrum-everyone-organisation
-- /professional-scrum-is-for-everyone-in-your-organisation
-- /blog/professional-scrum-is-for-everyone-in-your-organisation
 - /resources/Cr7wjIJ8Uvb
-- /resources/blog/professional-scrum-everyone-organisation
 aliasesArchive:
 - /blog/professional-scrum-everyone-organisation
 - /professional-scrum-everyone-organisation

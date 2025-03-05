@@ -17,7 +17,6 @@ duration: 464
 isShort: false
 aliases:
 - /resources/nMkit8zBxG0
-- /resources/videos/what-is-sprint-planning
 aliasesArchive:
 - /resources/videos/what-is-sprint-planning
 - /resources/what-is-sprint-planning

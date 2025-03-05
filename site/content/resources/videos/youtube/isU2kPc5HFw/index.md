@@ -17,8 +17,6 @@ duration: 998
 isShort: false
 aliases:
 - /resources/isU2kPc5HFw
-- /resources/videos/the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
-- /resources/videos/talk-us-through-your-experience-with-azure-devops
 aliasesArchive:
 - /resources/videos/the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
 - /resources/the-evolution-of-my-journey-with-azure-devops-lessons-and-insights

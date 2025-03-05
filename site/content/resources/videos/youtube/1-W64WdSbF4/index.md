@@ -16,8 +16,6 @@ duration: 5769
 isShort: false
 aliases:
 - /resources/1-W64WdSbF4
-- /resources/videos/free-workshop-04-introduction-to-sprint-reviews-review-retrospective
-- /resources/videos/free-workshop-4-introduction-to-sprint-review-audio-fixed
 aliasesArchive:
 - /resources/videos/free-workshop-introduction-to-sprint-reviews-review-retrospective
 - /resources/videos/free-workshop-04-introduction-to-sprint-reviews-review-retrospective

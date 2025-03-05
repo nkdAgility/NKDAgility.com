@@ -17,7 +17,6 @@ duration: 64
 isShort: false
 aliases:
 - /resources/ArVDYRCKpOE
-- /resources/videos/quotes-fake-it-until-you-make-it
 aliasesArchive:
 - /resources/videos/quotes-fake-it-until-you-make-it
 - /resources/quotes-fake-it-until-you-make-it

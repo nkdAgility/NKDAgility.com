@@ -16,7 +16,6 @@ duration: 452
 isShort: false
 aliases:
 - /resources/2IuL2Qvvbfk
-- /resources/videos/biggest-contribution-from-a-product-owner-that-you-know-of
 aliasesArchive:
 - /resources/videos/biggest-contribution-from-a-product-owner-that-you-know-of
 - /resources/biggest-contribution-from-a-product-owner-that-you-know-of

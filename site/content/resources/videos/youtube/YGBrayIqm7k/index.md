@@ -17,8 +17,6 @@ duration: 539
 isShort: false
 aliases:
 - /resources/YGBrayIqm7k
-- /resources/videos/the-synergy-between-product-management-and-product-development-in-agile-environments
-- /resources/videos/agile-product-management-vs-product-development-understanding-the-crucial-partnership-for-success
 aliasesArchive:
 - /resources/videos/the-synergy-between-product-management-and-product-development-in-agile-environments
 - /resources/the-synergy-between-product-management-and-product-development-in-agile-environments

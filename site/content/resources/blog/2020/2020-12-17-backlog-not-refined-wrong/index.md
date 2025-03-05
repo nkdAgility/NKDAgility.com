@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: backlog-not-refined-wrong
 aliases:
-- /blog/backlog-not-refined-wrong
-- /backlog-not-refined-wrong
-- /if-your-backlog-is-not-refined-then-you-are-doing-it-wrong
-- /blog/if-your-backlog-is-not-refined-then-you-are-doing-it-wrong
 - /resources/4ukwclfJlXy
-- /resources/blog/backlog-not-refined-wrong
 aliasesArchive:
 - /blog/backlog-not-refined-wrong
 - /backlog-not-refined-wrong

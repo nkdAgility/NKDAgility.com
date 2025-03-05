@@ -14,8 +14,6 @@ slug: maximising-deployment-frequency-the-key-to-faster-time-to-market-and-busin
 layout: video
 aliases:
 - /resources/1-jUmFcyiI8
-- /resources/videos/maximising-deployment-frequency-the-key-to-faster-time-to-market-and-business-success
-- /resources/videos/accelerating-time-to-market-with-a-tight-feedback-loop
 aliasesArchive:
 - /resources/videos/maximising-deployment-frequency-the-key-to-faster-time-to-market-and-business-success
 - /resources/videos/accelerating-time-to-market-with-a-tight-feedback-loop

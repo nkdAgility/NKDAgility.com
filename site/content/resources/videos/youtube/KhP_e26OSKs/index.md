@@ -13,9 +13,6 @@ slug: transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningf
 layout: video
 aliases:
 - /resources/KhP_e26OSKs
-- /resources/videos/transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback-KhP_e26OSKs
-- /resources/videos/transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback
-- /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-3
 aliasesArchive:
 - /resources/videos/transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback
 - /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-3

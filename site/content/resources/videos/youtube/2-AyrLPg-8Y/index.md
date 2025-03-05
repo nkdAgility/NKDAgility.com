@@ -12,9 +12,6 @@ url: /resources/videos/:slug
 slug: transform-your-leadership-the-power-of-evidence-based-management-in-agile-2-AyrLPg-8Y
 aliases:
 - /resources/2-AyrLPg-8Y
-- /resources/videos/transform-your-leadership-the-power-of-evidence-based-management-in-agile-2-AyrLPg-8Y
-- /resources/videos/transform-your-leadership-the-power-of-evidence-based-management-in-agile
-- /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leader-journey
 aliasesArchive:
 - /resources/videos/transform-your-leadership-the-power-of-evidence-based-management-in-agile
 - /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leader-journey-

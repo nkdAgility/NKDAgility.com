@@ -13,9 +13,6 @@ slug: unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workf
 layout: video
 aliases:
 - /resources/hBw4ouNB1U0
-- /resources/videos/unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success-hBw4ouNB1U0
-- /resources/videos/unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success
-- /resources/videos/the-kanban-key-how-continuous-improvement-transforms-your-workflow
 aliasesArchive:
 - /resources/videos/unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success
 - /resources/videos/the-kanban-key-how-continuous-improvement-transforms-your-workflow

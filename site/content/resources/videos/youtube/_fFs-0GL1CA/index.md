@@ -12,8 +12,6 @@ url: /resources/videos/:slug
 slug: why-pursuing-agile-certifications-is-your-key-to-career-advancement
 aliases:
 - /resources/_fFs-0GL1CA
-- /resources/videos/why-pursuing-agile-certifications-is-your-key-to-career-advancement
-- /resources/videos/why-do-you-encourage-people-to-follow-a-certification-path-in-their-career-journey
 aliasesArchive:
 - /resources/videos/why-pursuing-agile-certifications-is-your-key-to-career-advancement
 - /resources/videos/why-do-you-encourage-people-to-follow-a-certification-path-in-their-career-journey-

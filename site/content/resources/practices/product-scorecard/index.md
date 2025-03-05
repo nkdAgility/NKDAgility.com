@@ -7,7 +7,6 @@ ResourceType: practices
 resourceTypes: practice
 layout: practice
 aliases:
-- /learn/agile-delivery-kit/practices/product-scorecard
 - /resources/g4aUBoHHLme
 aliasesArchive:
 - /learn/agile-delivery-kit/practices/product-scorecard

@@ -17,7 +17,6 @@ duration: 307
 isShort: false
 aliases:
 - /resources/qWHCBUwpOZk
-- /resources/videos/3-core-practices-of-kanban-improving-a-workflow
 aliasesArchive:
 - /resources/videos/-core-practices-of-kanban-improving-a-workflow-
 - /resources/videos/3-core-practices-of-kanban-improving-a-workflow-

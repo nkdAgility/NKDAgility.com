@@ -17,9 +17,6 @@ duration: 32
 isShort: true
 aliases:
 - /resources/MCdI76dGVMM
-- /resources/videos/hardest-part-of-becoming-a-professional-scrum-master-MCdI76dGVMM
-- /resources/videos/hardest-part-of-becoming-a-professional-scrum-master
-- /resources/videos/hardest-part-of-becoming-a-professional-scrummaster
 aliasesArchive:
 - /resources/videos/hardest-part-of-becoming-a-professional-scrum-master
 - /resources/hardest-part-of-becoming-a-professional-scrum-master

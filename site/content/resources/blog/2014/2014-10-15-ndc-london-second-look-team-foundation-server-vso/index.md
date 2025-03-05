@@ -14,14 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: ndc-london-second-look-team-foundation-server-vso
 aliases:
-- /blog/ndc-london-second-look-team-foundation-server-vso
-- /ndc-london-second-look-team-foundation-server-vso
-- /ndc-london--second-look,-team-foundation-server-&amp;-vso
-- /blog/ndc-london--second-look,-team-foundation-server-&amp;-vso
 - /resources/bI6ySrK2G51
-- /ndc-london--second-look--team-foundation-server-&amp;-vso
-- /blog/ndc-london--second-look--team-foundation-server-&amp;-vso
-- /resources/blog/ndc-london-second-look-team-foundation-server-vso
 aliasesArchive:
 - /blog/ndc-london-second-look-team-foundation-server-vso
 - /ndc-london-second-look-team-foundation-server-vso

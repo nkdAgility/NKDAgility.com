@@ -14,8 +14,6 @@ slug: building-a-high-performance-delivery-engine-unlocking-success-through-comp
 layout: video
 aliases:
 - /resources/quFj6dy5M7E
-- /resources/videos/building-a-high-performance-delivery-engine-unlocking-success-through-competence-and-collaboration
-- /resources/videos/building-a-high-performance-delivery-engine
 aliasesArchive:
 - /resources/videos/building-a-high-performance-delivery-engine-unlocking-success-through-competence-and-collaboration
 - /resources/videos/building-a-high-performance-delivery-engine

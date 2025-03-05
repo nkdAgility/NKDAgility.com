@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
 aliases:
-- /blog/many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
-- /many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
 - /resources/kmQceaX7e-O
-- /resources/blog/many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
 aliasesArchive:
 - /blog/many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
 - /many-organisations-are-lured-to-safe-by-the-song-of-the-sirens

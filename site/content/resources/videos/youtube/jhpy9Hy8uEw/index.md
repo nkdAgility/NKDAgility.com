@@ -17,8 +17,6 @@ duration: 303
 isShort: false
 aliases:
 - /resources/jhpy9Hy8uEw
-- /resources/videos/why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
-- /resources/videos/choosing-scrum-org-over-scrum-alliance
 aliasesArchive:
 - /resources/videos/why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
 - /resources/why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track

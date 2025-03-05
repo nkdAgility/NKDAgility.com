@@ -17,8 +17,6 @@ duration: 411
 isShort: false
 aliases:
 - /resources/CPYTApf0Ibs
-- /resources/videos/does-your-team-truly-understand-your-product-vision-and-goals
-- /resources/videos/secret-to-unlocking-team-potential-and-product-success-the-agile-reality-check-26
 aliasesArchive:
 - /resources/videos/does-your-team-truly-understand-your-product-vision-and-goals
 - /resources/does-your-team-truly-understand-your-product-vision-and-goals

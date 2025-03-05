@@ -11,7 +11,6 @@ layout: principles
 creator: Martin Hinshelwood
 draft: true
 aliases:
-- /learn/agile-delivery-kit/first-principals/emergant-practices/
 - /resources/_MbvqRG_XNM
 aliasesArchive:
 - /learn/agile-delivery-kit/first-principals/emergant-practices/

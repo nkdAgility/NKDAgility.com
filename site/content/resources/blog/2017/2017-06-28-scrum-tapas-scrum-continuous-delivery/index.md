@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: scrum-tapas-scrum-continuous-delivery
 aliases:
-- /blog/scrum-tapas-scrum-continuous-delivery
-- /scrum-tapas-scrum-continuous-delivery
-- /scrum-tapas--scrum-and-continuous-delivery
-- /blog/scrum-tapas--scrum-and-continuous-delivery
 - /resources/LoRDIqNuwD-
-- /resources/blog/scrum-tapas-scrum-continuous-delivery
 aliasesArchive:
 - /blog/scrum-tapas-scrum-continuous-delivery
 - /scrum-tapas-scrum-continuous-delivery

@@ -17,7 +17,6 @@ duration: 385
 isShort: false
 aliases:
 - /resources/BE6E5tV8130
-- /resources/videos/how-is-agile-product-development-different-to-waterfall-project-management
 aliasesArchive:
 - /resources/videos/how-is-agile-product-development-different-to-waterfall-project-management
 - /resources/how-is-agile-product-development-different-to-waterfall-project-management

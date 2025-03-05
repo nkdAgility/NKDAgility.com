@@ -16,7 +16,6 @@ duration: 56
 isShort: true
 aliases:
 - /resources/_Eer3X3Z_LE
-- /resources/videos/what-is-a-product-backlog-_Eer3X3Z_LE
 aliasesArchive:
 - /resources/videos/what-is-a-product-backlog
 - /resources/what-is-a-product-backlog-2

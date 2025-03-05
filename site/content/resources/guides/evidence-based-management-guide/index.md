@@ -7,7 +7,6 @@ ResourceType: guides
 resourceTypes: guide
 layout: guide
 aliases:
-- /learn/agile-delivery-kit/guides/evidence-based-management-guide
 - /resources/ltc7lzhy14U
 aliasesArchive:
 - /learn/agile-delivery-kit/guides/evidence-based-management-guide

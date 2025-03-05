@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: live-site-culture-site-reliability-engineering
 aliases:
-- /blog/live-site-culture-site-reliability-engineering
-- /live-site-culture-site-reliability-engineering
-- /live-site-culture-&-site-reliability-engineering
-- /blog/live-site-culture-&-site-reliability-engineering
 - /resources/c_gS0nlQD9E
-- /resources/blog/live-site-culture-site-reliability-engineering
 aliasesArchive:
 - /blog/live-site-culture-site-reliability-engineering
 - /live-site-culture-site-reliability-engineering

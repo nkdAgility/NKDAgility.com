@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: introducing-kanban-professional-scrum-teams
 aliases:
-- /blog/introducing-kanban-professional-scrum-teams
-- /introducing-kanban-professional-scrum-teams
-- /introducing-kanban-for-professional-scrum-teams
-- /blog/introducing-kanban-for-professional-scrum-teams
 - /resources/CucU7DN-fJ7
-- /resources/blog/introducing-kanban-professional-scrum-teams
 aliasesArchive:
 - /blog/introducing-kanban-professional-scrum-teams
 - /introducing-kanban-professional-scrum-teams

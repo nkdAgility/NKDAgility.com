@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: review-developing-intel-haswell-harris-beach-sds-ultrabook
 aliases:
-- /blog/review-developing-intel-haswell-harris-beach-sds-ultrabook
-- /review-developing-intel-haswell-harris-beach-sds-ultrabook
-- /review-part-2--developing-with-intel-haswell-harris-beach-sds-ultrabook
-- /blog/review-part-2--developing-with-intel-haswell-harris-beach-sds-ultrabook
 - /resources/n-WAS50HK1d
-- /resources/blog/review-developing-intel-haswell-harris-beach-sds-ultrabook
 aliasesArchive:
 - /blog/review-developing-intel-haswell-harris-beach-sds-ultrabook
 - /review-developing-intel-haswell-harris-beach-sds-ultrabook

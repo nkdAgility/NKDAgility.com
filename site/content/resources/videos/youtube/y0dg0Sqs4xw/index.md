@@ -17,7 +17,6 @@ duration: 114
 isShort: false
 aliases:
 - /resources/y0dg0Sqs4xw
-- /resources/videos/what-is-a-common-mistake-made-by-rookie-agile-consultants
 aliasesArchive:
 - /resources/videos/what-is-a-common-mistake-made-by-rookie-agile-consultants
 - /resources/what-is-a-common-mistake-made-by-rookie-agile-consultants

@@ -13,8 +13,6 @@ slug: mastering-sprint-planning-key-principles-for-agile-success
 layout: video
 aliases:
 - /resources/uQ786VBz3Jw
-- /resources/videos/mastering-sprint-planning-key-principles-for-agile-success
-- /resources/videos/what-is-your-1-tip-for-effective-sprint-planning
 aliasesArchive:
 - /resources/videos/mastering-sprint-planning-key-principles-for-agile-success
 - /resources/videos/what-is-your-1-tip-for-effective-sprint-planning-

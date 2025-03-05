@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: the-definition-of-done-ensuring-quality-without-compromising-value
 aliases:
-- /blog/the-definition-of-done-ensuring-quality-without-compromising-value
-- /the-definition-of-done-ensuring-quality-without-compromising-value
-- /the-definition-of-done--ensuring-quality-without-compromising-value
-- /blog/the-definition-of-done--ensuring-quality-without-compromising-value
 - /resources/DcwDyX1ZGUP
-- /resources/blog/the-definition-of-done-ensuring-quality-without-compromising-value
 aliasesArchive:
 - /blog/the-definition-of-done-ensuring-quality-without-compromising-value
 - /the-definition-of-done-ensuring-quality-without-compromising-value

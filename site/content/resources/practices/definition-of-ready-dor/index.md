@@ -7,8 +7,6 @@ ResourceType: practices
 resourceTypes: practice
 layout: practice
 aliases:
-- /practices/Definition-of-Ready-DoR.html
-- /learn/agile-delivery-kit/practices/definition-of-ready-dor
 - /resources/afLYe__TZKq
 aliasesArchive:
 - /practices/Definition-of-Ready-DoR.html

@@ -14,7 +14,6 @@ slug: security-by-design-building-secure-software
 layout: video
 aliases:
 - /resources/NgoP5W5y7Gs
-- /resources/videos/security-by-design-building-secure-software
 aliasesArchive:
 - /resources/videos/security-by-design-building-secure-software
 - /resources/security-by-design-building-secure-software

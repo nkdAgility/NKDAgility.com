@@ -12,7 +12,6 @@ resourceTypes: principle
 layout: principle
 slug: customer-focus
 aliases:
-- /principles/customer-focus/
 - /resources/p1bdjnIJDmW
 aliasesArchive:
 - /principles/customer-focus/

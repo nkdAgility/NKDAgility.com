@@ -12,9 +12,6 @@ url: /resources/videos/:slug
 slug: embracing-asynchronous-communication-transform-your-collaboration-and-boost-productivity-79M9edUp_5c
 aliases:
 - /resources/79M9edUp_5c
-- /resources/videos/embracing-asynchronous-communication-transform-your-collaboration-and-boost-productivity-79M9edUp_5c
-- /resources/videos/embracing-asynchronous-communication-transform-your-collaboration-and-boost-productivity
-- /resources/videos/5-tools-that-scrum-masters-love-part-4
 aliasesArchive:
 - /resources/videos/embracing-asynchronous-communication-transform-your-collaboration-and-boost-productivity
 - /resources/videos/5-tools-that-scrum-masters-love-part-4

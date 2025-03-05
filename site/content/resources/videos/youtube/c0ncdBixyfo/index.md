@@ -17,7 +17,6 @@ duration: 505
 isShort: false
 aliases:
 - /resources/c0ncdBixyfo
-- /resources/videos/what-is-the-one-thing-that-no-agile-team-can-survive
 aliasesArchive:
 - /resources/videos/what-is-the-one-thing-that-no-agile-team-can-survive
 - /resources/what-is-the-one-thing-that-no-agile-team-can-survive

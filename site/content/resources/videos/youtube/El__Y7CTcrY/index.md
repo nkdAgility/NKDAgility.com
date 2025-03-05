@@ -17,9 +17,6 @@ duration: 43
 isShort: true
 aliases:
 - /resources/El__Y7CTcrY
-- /resources/videos/the-power-of-immersive-learning-in-scrum-training-why-less-is-more-El__Y7CTcrY
-- /resources/videos/the-power-of-immersive-learning-in-scrum-training-why-less-is-more
-- /resources/videos/5-reasons-why-i-love-the-immersive-learning-experience-for-students-part-1
 aliasesArchive:
 - /resources/videos/the-power-of-immersive-learning-in-scrum-training-why-less-is-more
 - /resources/the-power-of-immersive-learning-in-scrum-training-why-less-is-more

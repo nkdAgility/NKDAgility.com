@@ -14,8 +14,6 @@ slug: taming-the-chaos-how-to-align-your-agile-team-for-success
 layout: video
 aliases:
 - /resources/X4QzM00onL4
-- /resources/videos/taming-the-chaos-how-to-align-your-agile-team-for-success
-- /resources/videos/chaos-7-harbingers-agile-apocalypse-but-shorter
 aliasesArchive:
 - /resources/videos/taming-the-chaos-how-to-align-your-agile-team-for-success
 - /resources/videos/chaos-7-harbingers-agile-apocalypse-but-shorter!

@@ -17,7 +17,6 @@ duration: 124
 isShort: false
 aliases:
 - /resources/gjrvSJWE0Gk
-- /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course
 aliasesArchive:
 - /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course-
 - /resources/overview-of-applying-metrics-for-predictability-kanban-course

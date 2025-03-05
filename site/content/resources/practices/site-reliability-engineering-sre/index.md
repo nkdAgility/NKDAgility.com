@@ -7,7 +7,6 @@ ResourceType: practices
 resourceTypes: practice
 layout: practice
 aliases:
-- /learn/agile-delivery-kit/practices/site-reliability-engineering-sre
 - /resources/K0i7PIZARDw
 aliasesArchive:
 - /learn/agile-delivery-kit/practices/site-reliability-engineering-sre

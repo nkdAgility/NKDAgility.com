@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: change-release-management-server-client-connects
 aliases:
-- /blog/change-release-management-server-client-connects
-- /change-release-management-server-client-connects
-- /change-the-release-management-server-that-your-client-connects-to
-- /blog/change-the-release-management-server-that-your-client-connects-to
 - /resources/zTjRpmZ5cJQ
-- /resources/blog/change-release-management-server-client-connects
 aliasesArchive:
 - /blog/change-release-management-server-client-connects
 - /change-release-management-server-client-connects

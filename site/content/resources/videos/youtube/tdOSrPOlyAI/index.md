@@ -14,8 +14,6 @@ slug: transforming-engineering-excellence-the-power-of-naked-agility-in-quality-
 layout: video
 aliases:
 - /resources/tdOSrPOlyAI
-- /resources/videos/transforming-engineering-excellence-the-power-of-naked-agility-in-quality-and-leadership
-- /resources/videos/nkd-agility-your-partner-in-engineering-excellence
 aliasesArchive:
 - /resources/videos/transforming-engineering-excellence-the-power-of-naked-agility-in-quality-and-leadership
 - /resources/videos/nkd-agility-your-partner-in-engineering-excellence

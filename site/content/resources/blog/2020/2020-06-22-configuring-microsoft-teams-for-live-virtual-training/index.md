@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: configuring-microsoft-teams-for-live-virtual-training
 aliases:
-- /blog/configuring-microsoft-teams-for-live-virtual-training
-- /configuring-microsoft-teams-for-live-virtual-training
 - /resources/Xc0Lh3NbXfK
-- /resources/blog/configuring-microsoft-teams-for-live-virtual-training
 aliasesArchive:
 - /blog/configuring-microsoft-teams-for-live-virtual-training
 - /configuring-microsoft-teams-for-live-virtual-training

@@ -16,9 +16,6 @@ duration: 38
 isShort: true
 aliases:
 - /resources/7SdBfGWCG8Q
-- /resources/videos/the-power-of-building-relationships-through-immersive-learning-in-scrum-7SdBfGWCG8Q
-- /resources/videos/the-power-of-building-relationships-through-immersive-learning-in-scrum
-- /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-2
 aliasesArchive:
 - /resources/videos/the-power-of-building-relationships-through-immersive-learning-in-scrum
 - /resources/the-power-of-building-relationships-through-immersive-learning-in-scrum

@@ -17,8 +17,6 @@ duration: 261
 isShort: false
 aliases:
 - /resources/ZrzqNfV7P9o
-- /resources/videos/learn-scrum-with-minecraft-education-edition
-- /resources/videos/why-does-minecraft-make-the-aps-course-so-awesome
 aliasesArchive:
 - /resources/videos/learn-scrum-with-minecraft-education-edition
 - /resources/why-does-minecraft-make-the-aps-course-so-awesome

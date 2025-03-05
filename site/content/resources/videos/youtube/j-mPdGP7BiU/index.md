@@ -17,8 +17,6 @@ duration: 302
 isShort: false
 aliases:
 - /resources/j-mPdGP7BiU
-- /resources/videos/mastering-product-development-from-assumptions-to-hypotheses
-- /resources/videos/ppdv-learning-outcomes
 aliasesArchive:
 - /resources/videos/mastering-product-development-from-assumptions-to-hypotheses
 - /resources/mastering-product-development-from-assumptions-to-hypotheses

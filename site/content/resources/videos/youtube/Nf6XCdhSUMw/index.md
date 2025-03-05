@@ -13,8 +13,6 @@ slug: harnessing-evidence-based-management-transform-your-decision-making-with-d
 layout: video
 aliases:
 - /resources/Nf6XCdhSUMw
-- /resources/videos/harnessing-evidence-based-management-transform-your-decision-making-with-data-driven-insights
-- /resources/videos/introduction-to-evidence-based-management
 aliasesArchive:
 - /resources/videos/harnessing-evidence-based-management-transform-your-decision-making-with-data-driven-insights
 - /resources/videos/introduction-to-evidence-based-management

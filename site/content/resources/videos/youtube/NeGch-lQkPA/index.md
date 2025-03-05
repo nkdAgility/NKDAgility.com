@@ -17,8 +17,6 @@ duration: 125
 isShort: false
 aliases:
 - /resources/NeGch-lQkPA
-- /resources/videos/overview-of-applying-flow-metrics-for-scrum-course
-- /resources/videos/overview-of-applying-flow-metrics-for-scrum-kanban-course
 aliasesArchive:
 - /resources/videos/overview-of-applying-flow-metrics-for-scrum-course-
 - /resources/overview-of-applying-flow-metrics-for-scrum-course

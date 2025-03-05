@@ -12,7 +12,6 @@ resourceTypes: principles
 layout: principles
 draft: true
 aliases:
-- /learn/agile-delivery-kit/first-principals/value-based-prioritization/
 - /resources/HzW0lKldLP9
 aliasesArchive:
 - /learn/agile-delivery-kit/first-principals/value-based-prioritization/

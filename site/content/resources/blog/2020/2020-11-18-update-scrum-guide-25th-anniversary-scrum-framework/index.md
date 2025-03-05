@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: update-scrum-guide-25th-anniversary-scrum-framework
 aliases:
-- /blog/update-scrum-guide-25th-anniversary-scrum-framework
-- /update-scrum-guide-25th-anniversary-scrum-framework
-- /update-to-the-scrum-guide-on-the-25th-anniversary-of-the-scrum-framework
-- /blog/update-to-the-scrum-guide-on-the-25th-anniversary-of-the-scrum-framework
 - /resources/7CqdvOa9t4c
-- /resources/blog/update-scrum-guide-25th-anniversary-scrum-framework
 aliasesArchive:
 - /blog/update-scrum-guide-25th-anniversary-scrum-framework
 - /update-scrum-guide-25th-anniversary-scrum-framework

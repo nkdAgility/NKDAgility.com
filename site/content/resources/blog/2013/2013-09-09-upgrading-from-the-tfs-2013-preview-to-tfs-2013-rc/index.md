@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
 aliases:
-- /blog/upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
-- /upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
 - /resources/WlTNhsC5jek
-- /resources/blog/upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
 aliasesArchive:
 - /blog/upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
 - /upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc

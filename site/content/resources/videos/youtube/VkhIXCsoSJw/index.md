@@ -14,8 +14,6 @@ slug: embracing-automation-the-key-to-transforming-your-development-process-and-
 layout: video
 aliases:
 - /resources/VkhIXCsoSJw
-- /resources/videos/embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence
-- /resources/videos/automate-everything-boosting-engineering-excellence-and-building-confidence
 aliasesArchive:
 - /resources/videos/embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence
 - /resources/videos/automate-everything-boosting-engineering-excellence-and-building-confidence

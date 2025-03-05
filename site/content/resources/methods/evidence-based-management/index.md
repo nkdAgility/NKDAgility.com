@@ -12,8 +12,6 @@ resourceTypes: method
 layout: method
 slug: evidence-based-management
 aliases:
-- /methods/ebm/
-- /learn/agile-delivery-kit/strategies/evidence-based-management/
 - /resources/dN0v6E1KsNd
 aliasesArchive:
 - /methods/ebm/

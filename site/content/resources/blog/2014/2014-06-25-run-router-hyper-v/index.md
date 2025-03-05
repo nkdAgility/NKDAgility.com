@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: run-router-hyper-v
 aliases:
-- /blog/run-router-hyper-v
-- /run-router-hyper-v
-- /run-a-router-on-hyper-v
-- /blog/run-a-router-on-hyper-v
 - /resources/0Ly3betXY-6
-- /resources/blog/run-router-hyper-v
 aliasesArchive:
 - /blog/run-router-hyper-v
 - /run-router-hyper-v

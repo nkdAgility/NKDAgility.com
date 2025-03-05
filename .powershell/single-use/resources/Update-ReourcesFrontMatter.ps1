@@ -7,7 +7,7 @@
 . ./.powershell/_includes/ClassificationHelpers.ps1
 
 
-$levelSwitch.MinimumLevel = 'Debug'
+$levelSwitch.MinimumLevel = 'Information'
 
 # Iterate through each blog folder and update markdown files
 $outputDir = ".\site\content\resources"
@@ -158,7 +158,7 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
     if ($hugoMarkdown.FrontMatter.Contains("ResourceId")) {
         $aliases += "/resources/$($hugoMarkdown.FrontMatter.ResourceId)"
     }
-    Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliases' -values $aliases -addAfter 'slug'
+    Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliases' -values $aliases -addAfter 'slug' -Overwrite
     # =================Add aliasesArchive===================
     $aliasesArchive = @()
     $aliasesArchive += $hugoMarkdown.FrontMatter.aliases | Where-Object { $_ -notmatch $hugoMarkdown.FrontMatter.ResourceId }
@@ -191,9 +191,6 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
     if ($null -ne $aliasesArchive -and $aliasesArchive -is [array] -and $aliasesArchive.Count -gt 0) {
         Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliasesArchive' -values $aliasesArchive -addAfter 'aliases'
     }
-
-    Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliasesArchive'
-
     #================Themes, Categories, & TAGS==========================
     $BodyContent = $hugoMarkdown.BodyContent
     If ($hugoMarkdown.FrontMatter.ResourceType -eq "videos") {

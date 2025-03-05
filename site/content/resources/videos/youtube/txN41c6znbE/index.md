@@ -17,8 +17,6 @@ duration: 1604
 isShort: false
 aliases:
 - /resources/txN41c6znbE
-- /resources/videos/where-agile-went-wrong-understanding-the-competence-crisis
-- /resources/videos/the-difference-between-a-rock-solid-deeply-competent-scrum-master-and-a-jira-jockey
 aliasesArchive:
 - /resources/videos/where-agile-went-wrong-understanding-the-competence-crisis
 - /resources/where-agile-went-wrong-understanding-the-competence-crisis

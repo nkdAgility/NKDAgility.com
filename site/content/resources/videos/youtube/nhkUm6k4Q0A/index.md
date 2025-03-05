@@ -17,8 +17,6 @@ duration: 61
 isShort: false
 aliases:
 - /resources/nhkUm6k4Q0A
-- /resources/videos/how-to-be-an-effective-agile-coach-agnosticism-in-practice
-- /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-2
 aliasesArchive:
 - /resources/videos/how-to-be-an-effective-agile-coach-agnosticism-in-practice
 - /resources/how-to-be-an-effective-agile-coach-agnosticism-in-practice

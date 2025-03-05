@@ -13,8 +13,6 @@ slug: navigating-the-agile-landscape-understanding-the-key-differences-between-p
 layout: video
 aliases:
 - /resources/ZPRvjlp9i0A
-- /resources/videos/navigating-the-agile-landscape-understanding-the-key-differences-between-product-owners-and-project-managers
-- /resources/videos/14th-april-2020-office-hours-ask-me-anything
 aliasesArchive:
 - /resources/videos/th-april-office-hours-ask-me-anything
 - /resources/videos/14th-april-2020-office-hours-ask-me-anything

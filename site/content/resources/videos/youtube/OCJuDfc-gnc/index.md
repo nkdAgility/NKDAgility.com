@@ -13,8 +13,6 @@ slug: scaling-agility-navigating-the-dragons-of-change-in-the-future-of-work
 layout: video
 aliases:
 - /resources/OCJuDfc-gnc
-- /resources/videos/scaling-agility-navigating-the-dragons-of-change-in-the-future-of-work
-- /resources/videos/25th-march-2020-office-hours-ask-me-anything
 aliasesArchive:
 - /resources/videos/th-march-office-hours-ask-me-anything
 - /resources/videos/25th-march-2020-office-hours-ask-me-anything

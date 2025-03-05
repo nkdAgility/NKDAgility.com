@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: create-a-build-vnext-build-definition-on-vso
 aliases:
-- /blog/create-a-build-vnext-build-definition-on-vso
-- /create-a-build-vnext-build-definition-on-vso
-- /create-a-build-vnext-build-definition
-- /blog/create-a-build-vnext-build-definition
 - /resources/ey-p-MBUzgQ
-- /resources/blog/create-a-build-vnext-build-definition-on-vso
 aliasesArchive:
 - /blog/create-a-build-vnext-build-definition-on-vso
 - /create-a-build-vnext-build-definition-on-vso

@@ -13,8 +13,6 @@ slug: rethinking-the-statement-of-work-how-to-truly-meet-client-needs-beyond-the
 layout: video
 aliases:
 - /resources/MutnPwNzyXM
-- /resources/videos/rethinking-the-statement-of-work-how-to-truly-meet-client-needs-beyond-the-contract
-- /resources/videos/most-valuable-lesson-you-learned-as-an-agile-consultant
 aliasesArchive:
 - /resources/videos/rethinking-the-statement-of-work-how-to-truly-meet-client-needs-beyond-the-contract
 - /resources/videos/most-valuable-lesson-you-learned-as-an-agile-consultant

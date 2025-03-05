@@ -17,8 +17,6 @@ duration: 154
 isShort: false
 aliases:
 - /resources/SMgKAk-qPMM
-- /resources/videos/temperance-in-agile-why-less-is-more
-- /resources/videos/7-virtues-of-agile-temperance
 aliasesArchive:
 - /resources/videos/temperance-in-agile-why-less-is-more
 - /resources/temperance-in-agile-why-less-is-more

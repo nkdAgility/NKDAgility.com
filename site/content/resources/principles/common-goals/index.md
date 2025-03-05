@@ -11,7 +11,6 @@ date: 2024-09-17
 weight: 775
 creator: Martin Hinshelwood
 aliases:
-- /learn/agile-delivery-kit/first-principals/common-goals/
 - /resources/K-0Kt7CHeQw
 aliasesArchive:
 - /learn/agile-delivery-kit/first-principals/common-goals/

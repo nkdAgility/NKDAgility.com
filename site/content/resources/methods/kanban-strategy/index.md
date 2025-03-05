@@ -12,8 +12,6 @@ resourceTypes: method
 layout: method
 slug: kanban-strategy
 aliases:
-- /methods/kanban-strategy/
-- /learn/agile-delivery-kit/strategies/kanban-strategy/
 - /resources/_O7H5eH902L
 aliasesArchive:
 - /methods/kanban-strategy/

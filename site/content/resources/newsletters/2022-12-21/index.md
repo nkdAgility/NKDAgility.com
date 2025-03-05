@@ -12,8 +12,6 @@ resourceTypes: newsletter
 layout: newsletter
 slug: seasons-greetings-upcoming-professional-scrum-training-classes
 aliases:
-- /newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
-- /resources/newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
 - /resources/Tx-0zZJ1biI
 aliasesArchive:
 - /newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/

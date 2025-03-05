@@ -17,8 +17,6 @@ duration: 257
 isShort: false
 aliases:
 - /resources/UeGdC6GRyq4
-- /resources/videos/under-employed-30-upfront-balance-when-you-are-employed
-- /resources/videos/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed
 aliasesArchive:
 - /resources/videos/under-employed-upfront-balance-when-you-are-employed
 - /resources/videos/under-employed-30-upfront-balance-when-you-are-employed

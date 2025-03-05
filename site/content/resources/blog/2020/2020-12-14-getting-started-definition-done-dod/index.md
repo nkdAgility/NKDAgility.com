@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: getting-started-definition-done-dod
 aliases:
-- /blog/getting-started-definition-done-dod
-- /getting-started-definition-done-dod
-- /getting-started-with-a-definition-of-done-(dod)
-- /blog/getting-started-with-a-definition-of-done-(dod)
 - /resources/z18IcQhlD7I
-- /resources/blog/getting-started-definition-done-dod
 aliasesArchive:
 - /blog/getting-started-definition-done-dod
 - /getting-started-definition-done-dod

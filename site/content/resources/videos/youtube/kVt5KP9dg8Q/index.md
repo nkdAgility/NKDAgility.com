@@ -17,8 +17,6 @@ duration: 346
 isShort: false
 aliases:
 - /resources/kVt5KP9dg8Q
-- /resources/videos/detecting-agile-bs-lessons-from-the-department-of-defense
-- /resources/videos/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-66
 aliasesArchive:
 - /resources/videos/detecting-agile-bs-lessons-from-the-department-of-defense
 - /resources/detecting-agile-bs-lessons-from-the-department-of-defense

@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: upgrading-to-visual-studio-scrum-3-0-process-template-in-tfs-2013
 aliases:
-- /blog/upgrading-to-visual-studio-scrum-3-0-process-template-in-tfs-2013
-- /upgrading-to-visual-studio-scrum-3-0-process-template-in-tfs-2013
 - /resources/hp378aoGMNz
-- /resources/blog/upgrading-to-visual-studio-scrum-3-0-process-template-in-tfs-2013
 aliasesArchive:
 - /blog/upgrading-to-visual-studio-scrum-3-0-process-template-in-tfs-2013
 - /upgrading-to-visual-studio-scrum-3-0-process-template-in-tfs-2013

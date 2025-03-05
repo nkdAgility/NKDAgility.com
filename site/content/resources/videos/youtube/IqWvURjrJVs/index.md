@@ -14,7 +14,6 @@ layout: video
 canonicalUrl: https://www.youtube.com/watch?v=IqWvURjrJVs
 aliases:
 - /resources/IqWvURjrJVs
-- /resources/videos/znaczenie-znajomoci-terenu
 aliasesArchive:
 - /resources/videos/znaczenie-znajomoci-terenu
 - /resources/videos/znaczenie-znajomości-terenu

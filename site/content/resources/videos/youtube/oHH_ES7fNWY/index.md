@@ -13,8 +13,6 @@ slug: mastering-email-notifications-in-release-management-a-step-by-step-guide-t
 layout: video
 aliases:
 - /resources/oHH_ES7fNWY
-- /resources/videos/mastering-email-notifications-in-release-management-a-step-by-step-guide-to-configuring-office-365-smtp
-- /resources/videos/sending-email-from-office-365-for-tfs-2013
 aliasesArchive:
 - /resources/videos/sending-email-from-office-for-tfs-
 - /resources/videos/sending-email-from-office-365-for-tfs-2013

@@ -13,8 +13,6 @@ slug: why-more-teams-wont-speed-up-delivery-the-truth-about-scaling-effectively
 layout: video
 aliases:
 - /resources/bHwgZ_Cx99U
-- /resources/videos/why-more-teams-wont-speed-up-delivery-the-truth-about-scaling-effectively
-- /resources/videos/scaling-teams-without-losing-speed-or-quality
 aliasesArchive:
 - /resources/videos/devops-demystified-why-its-more-than-just-tools-and-how-to-embrace-its-true-value
 - /resources/videos/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-

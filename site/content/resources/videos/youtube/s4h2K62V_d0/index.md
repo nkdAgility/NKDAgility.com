@@ -14,8 +14,6 @@ slug: code-reviews-for-quality-assurance
 layout: video
 aliases:
 - /resources/s4h2K62V_d0
-- /resources/videos/code-reviews-for-quality-assurance
-- /resources/videos/shifting-left-quality-from-the-start
 aliasesArchive:
 - /resources/videos/code-reviews-for-quality-assurance
 - /resources/videos/shifting-left-quality-from-the-start

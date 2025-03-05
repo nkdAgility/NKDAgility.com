@@ -13,9 +13,6 @@ slug: transform-your-software-architecture-the-game-changing-impact-of-tdd-and-p
 layout: video
 aliases:
 - /resources/CWxkBJJduCE
-- /resources/videos/transform-your-software-architecture-the-game-changing-impact-of-tdd-and-pair-programming-CWxkBJJduCE
-- /resources/videos/transform-your-software-architecture-the-game-changing-impact-of-tdd-and-pair-programming
-- /resources/videos/redefining-test-driven-development
 aliasesArchive:
 - /resources/videos/transform-your-software-architecture-the-game-changing-impact-of-tdd-and-pair-programming
 - /resources/videos/redefining-test-driven-development

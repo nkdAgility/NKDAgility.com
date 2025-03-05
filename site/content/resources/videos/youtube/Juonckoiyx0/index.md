@@ -17,7 +17,6 @@ duration: 155
 isShort: false
 aliases:
 - /resources/Juonckoiyx0
-- /resources/videos/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
 aliasesArchive:
 - /resources/videos/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
 - /resources/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review-2

@@ -17,7 +17,6 @@ duration: 48
 isShort: true
 aliases:
 - /resources/Iy33x8E9JMQ
-- /resources/videos/dogma-versus-empiricism-in-a-consulting-engagement-Iy33x8E9JMQ
 aliasesArchive:
 - /resources/videos/dogma-versus-empiricism-in-a-consulting-engagement
 - /resources/dogma-versus-empiricism-in-a-consulting-engagement-2

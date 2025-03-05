@@ -14,8 +14,6 @@ slug: unlocking-the-true-power-of-continuous-delivery-how-automation-transforms-
 layout: video
 aliases:
 - /resources/LWRAX3OyO28
-- /resources/videos/unlocking-the-true-power-of-continuous-delivery-how-automation-transforms-software-development
-- /resources/videos/the-power-of-continuous-delivery
 aliasesArchive:
 - /resources/videos/unlocking-the-true-power-of-continuous-delivery-how-automation-transforms-software-development
 - /resources/videos/the-power-of-continuous-delivery

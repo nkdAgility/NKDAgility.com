@@ -12,9 +12,6 @@ url: /resources/videos/:slug
 slug: bridging-the-gap-understanding-the-true-meaning-of-done-in-agile-teams-2QojN_k3JZ4
 aliases:
 - /resources/2QojN_k3JZ4
-- /resources/videos/bridging-the-gap-understanding-the-true-meaning-of-done-in-agile-teams-2QojN_k3JZ4
-- /resources/videos/bridging-the-gap-understanding-the-true-meaning-of-done-in-agile-teams
-- /resources/videos/-shorts-7-virtues-of-agile-diligence
 aliasesArchive:
 - /resources/videos/bridging-the-gap-understanding-the-true-meaning-of-done-in-agile-teams
 - /resources/videos/-shorts-7-virtues-of-agile-diligence

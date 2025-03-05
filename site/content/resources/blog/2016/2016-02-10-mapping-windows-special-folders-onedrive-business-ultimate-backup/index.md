@@ -14,13 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: mapping-windows-special-folders-onedrive-business-ultimate-backup
 aliases:
-- /blog/mapping-windows-special-folders-onedrive-business-ultimate-backup
-- /mapping-windows-special-folders-onedrive-business-ultimate-backup
-- /mapping-your-windows-special-folders-to-onedrive-for-business
-- /mapping-your-windows-special-folders-to-onedrive-for-business---ultimate-backup
-- /blog/mapping-your-windows-special-folders-to-onedrive-for-business---ultimate-backup
 - /resources/mKq16PgA7Ks
-- /resources/blog/mapping-windows-special-folders-onedrive-business-ultimate-backup
 aliasesArchive:
 - /blog/mapping-windows-special-folders-onedrive-business-ultimate-backup
 - /mapping-windows-special-folders-onedrive-business-ultimate-backup

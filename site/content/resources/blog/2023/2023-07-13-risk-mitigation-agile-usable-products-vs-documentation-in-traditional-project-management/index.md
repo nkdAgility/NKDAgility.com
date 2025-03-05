@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: risk-mitigation-agile-usable-products-vs-documentation-in-traditional-project-management
 aliases:
-- /blog/risk-mitigation-agile-usable-products-vs-documentation-in-traditional-project-management
-- /risk-mitigation-agile-usable-products-vs-documentation-in-traditional-project-management
-- /risk-mitigation--agile-usable-products-vs-documentation-in-traditional-project-management
-- /blog/risk-mitigation--agile-usable-products-vs-documentation-in-traditional-project-management
 - /resources/vkqr5T9YVsf
-- /resources/blog/risk-mitigation-agile-usable-products-vs-documentation-in-traditional-project-management
 aliasesArchive:
 - /blog/risk-mitigation-agile-usable-products-vs-documentation-in-traditional-project-management
 - /risk-mitigation-agile-usable-products-vs-documentation-in-traditional-project-management

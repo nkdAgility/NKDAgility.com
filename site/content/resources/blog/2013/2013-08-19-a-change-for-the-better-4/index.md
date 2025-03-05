@@ -14,13 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: a-change-for-the-better-4
 aliases:
-- /blog/a-change-for-the-better-4
-- /a-change-for-the-better-4
-- /a-change-for-the-better--4
-- /a-change-for-the-better--4---homecoming
-- /blog/a-change-for-the-better--4---homecoming
 - /resources/yryUrqeINBG
-- /resources/blog/a-change-for-the-better-4
 aliasesArchive:
 - /blog/a-change-for-the-better-4
 - /a-change-for-the-better-4

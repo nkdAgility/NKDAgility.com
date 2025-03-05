@@ -17,8 +17,6 @@ duration: 584
 isShort: false
 aliases:
 - /resources/Ys0dWfKVSeA
-- /resources/videos/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
-- /resources/videos/scrum-the-mirror-to-organizational-challenges
 aliasesArchive:
 - /resources/videos/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
 - /resources/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable-2

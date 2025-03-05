@@ -14,14 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
 aliases:
-- /blog/round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
-- /round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
-- /round-up-for-2017-and-beyond--agility,-devops,-and-everything-in-between
-- /blog/round-up-for-2017-and-beyond--agility,-devops,-and-everything-in-between
 - /resources/J0HjcdNvqGW
-- /round-up-for-2017-and-beyond--agility--devops--and-everything-in-between
-- /blog/round-up-for-2017-and-beyond--agility--devops--and-everything-in-between
-- /resources/blog/round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
 aliasesArchive:
 - /blog/round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
 - /round-up-for-2017-and-beyond-agility-devops-and-everything-in-between

@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: the-fallacy-of-the-rejected-backlog-item
 aliases:
-- /blog/the-fallacy-of-the-rejected-backlog-item
-- /the-fallacy-of-the-rejected-backlog-item
 - /resources/Ewu5coIz9qm
-- /resources/blog/the-fallacy-of-the-rejected-backlog-item
 aliasesArchive:
 - /blog/the-fallacy-of-the-rejected-backlog-item
 - /the-fallacy-of-the-rejected-backlog-item

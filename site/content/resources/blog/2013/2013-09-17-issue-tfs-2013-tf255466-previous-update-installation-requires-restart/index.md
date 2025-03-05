@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: issue-tfs-2013-tf255466-previous-update-installation-requires-restart
 aliases:
-- /blog/issue-tfs-2013-tf255466-previous-update-installation-requires-restart
-- /issue-tfs-2013-tf255466-previous-update-installation-requires-restart
-- /issue-[-tfs-2013-]-tf255466-a-previous-update-or-installation-requires-a-restart
-- /blog/issue-[-tfs-2013-]-tf255466-a-previous-update-or-installation-requires-a-restart
 - /resources/Crf5MJ60PGe
-- /resources/blog/issue-tfs-2013-tf255466-previous-update-installation-requires-restart
 aliasesArchive:
 - /blog/issue-tfs-2013-tf255466-previous-update-installation-requires-restart
 - /issue-tfs-2013-tf255466-previous-update-installation-requires-restart

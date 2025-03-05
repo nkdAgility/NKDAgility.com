@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: big-scrum-all-you-need-and-not-enough
 aliases:
-- /blog/big-scrum-all-you-need-and-not-enough
-- /big-scrum-all-you-need-and-not-enough
-- /big-scrum--all-you-need-and-not-enough
-- /blog/big-scrum--all-you-need-and-not-enough
 - /resources/yCJ5ERuJHUU
-- /resources/blog/big-scrum-all-you-need-and-not-enough
 aliasesArchive:
 - /blog/big-scrum-all-you-need-and-not-enough
 - /big-scrum-all-you-need-and-not-enough

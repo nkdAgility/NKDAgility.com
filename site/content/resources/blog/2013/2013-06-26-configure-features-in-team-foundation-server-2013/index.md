@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: configure-features-in-team-foundation-server-2013
 aliases:
-- /blog/configure-features-in-team-foundation-server-2013
-- /configure-features-in-team-foundation-server-2013
 - /resources/MbkXNCfuEU2
-- /resources/blog/configure-features-in-team-foundation-server-2013
 aliasesArchive:
 - /blog/configure-features-in-team-foundation-server-2013
 - /configure-features-in-team-foundation-server-2013

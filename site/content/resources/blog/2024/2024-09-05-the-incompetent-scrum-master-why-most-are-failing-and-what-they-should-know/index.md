@@ -15,13 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
 aliases:
-- /blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
-- /blog/why-most-scrum-masters-are-failing-and-what-they-should-know/
-- /the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
-- /why-most-scrum-masters-are-failing-and-what-they-should-know
-- /blog/why-most-scrum-masters-are-failing-and-what-they-should-know
 - /resources/VTjU5Wl2XWU
-- /resources/blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
 aliasesArchive:
 - /blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
 - /blog/why-most-scrum-masters-are-failing-and-what-they-should-know/

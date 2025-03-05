@@ -13,8 +13,6 @@ slug: unlocking-agile-success-embrace-continuous-forecasting-and-transform-your-
 layout: video
 aliases:
 - /resources/HjyUeuf1IEw
-- /resources/videos/unlocking-agile-success-embrace-continuous-forecasting-and-transform-your-training-experience
-- /resources/videos/20th-may-2020-office-hours-ask-me-anything
 aliasesArchive:
 - /resources/videos/th-may-office-hours-ask-me-anything
 - /resources/videos/20th-may-2020-office-hours-ask-me-anything

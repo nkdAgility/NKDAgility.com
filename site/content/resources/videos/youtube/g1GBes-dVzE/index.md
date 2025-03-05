@@ -17,7 +17,6 @@ duration: 53
 isShort: true
 aliases:
 - /resources/g1GBes-dVzE
-- /resources/videos/one-thing-an-agile-coach-must-do-to-be-successful-g1GBes-dVzE
 aliasesArchive:
 - /resources/videos/one-thing-an-agile-coach-must-do-to-be-successful
 - /resources/one-thing-an-agile-coach-must-do-to-be-successful-2

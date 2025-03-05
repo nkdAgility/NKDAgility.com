@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: create-standard-environment-release-management-azure
 aliases:
-- /blog/create-standard-environment-release-management-azure
-- /create-standard-environment-release-management-azure
-- /create-a-standard-environment-for-release-management-in-azure
-- /blog/create-a-standard-environment-for-release-management-in-azure
 - /resources/iI7MvY2p7RU
-- /resources/blog/create-standard-environment-release-management-azure
 aliasesArchive:
 - /blog/create-standard-environment-release-management-azure
 - /create-standard-environment-release-management-azure

@@ -14,8 +14,6 @@ slug: unlocking-organisational-agility-how-to-empower-your-team-for-rapid-market
 layout: video
 aliases:
 - /resources/omsEiYqX-Dk
-- /resources/videos/unlocking-organisational-agility-how-to-empower-your-team-for-rapid-market-response
-- /resources/videos/how-much-competitive-advantage-does-organizational-agility-offer-versus-traditional-management
 aliasesArchive:
 - /resources/videos/unlocking-organisational-agility-how-to-empower-your-team-for-rapid-market-response
 - /resources/videos/how-much-competitive-advantage-does-organizational-agility-offer-versus-traditional-management-

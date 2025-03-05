@@ -12,7 +12,6 @@ resourceTypes: principles
 layout: principles
 draft: true
 aliases:
-- /learn/agile-delivery-kit/first-principals/market-focus/
 - /resources/T6DrE9pN0ds
 aliasesArchive:
 - /learn/agile-delivery-kit/first-principals/market-focus/

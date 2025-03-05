@@ -17,8 +17,6 @@ duration: 373
 isShort: false
 aliases:
 - /resources/m2Z4UV4OQlI
-- /resources/videos/the-power-of-metrics-why-pal-ebm-is-essential-for-your-organization
-- /resources/videos/why-do-you-recommend-the-pal-ebm-course
 aliasesArchive:
 - /resources/videos/the-power-of-metrics-why-pal-ebm-is-essential-for-your-organization
 - /resources/the-power-of-metrics-why-pal-ebm-is-essential-for-your-organization

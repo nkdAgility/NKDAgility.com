@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
 aliases:
-- /blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
-- /the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
-- /the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
-- /blog/the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
 - /resources/Jz5uZMzPiRx
-- /resources/blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
 aliasesArchive:
 - /blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
 - /the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility

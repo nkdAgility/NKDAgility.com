@@ -14,8 +14,6 @@ slug: transforming-chaos-into-clarity-how-optimising-systems-fuels-engineering-e
 layout: video
 aliases:
 - /resources/zqMzD1PXq4s
-- /resources/videos/transforming-chaos-into-clarity-how-optimising-systems-fuels-engineering-excellence
-- /resources/videos/the-cost-of-chaos-the-impact-of-poor-technical-leadership
 aliasesArchive:
 - /resources/videos/transforming-chaos-into-clarity-how-optimising-systems-fuels-engineering-excellence
 - /resources/videos/the-cost-of-chaos-the-impact-of-poor-technical-leadership

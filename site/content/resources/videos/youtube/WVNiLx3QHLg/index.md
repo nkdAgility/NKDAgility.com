@@ -17,9 +17,6 @@ duration: 57
 isShort: true
 aliases:
 - /resources/WVNiLx3QHLg
-- /resources/videos/why-i-love-heirarchies-of-competence-WVNiLx3QHLg
-- /resources/videos/why-i-love-heirarchies-of-competence
-- /resources/videos/why-i-love-hierarchies-of-competence
 aliasesArchive:
 - /resources/videos/why-i-love-heirarchies-of-competence
 - /resources/why-i-love-heirarchies-of-competence

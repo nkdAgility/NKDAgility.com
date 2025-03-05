@@ -13,8 +13,6 @@ slug: rethinking-sprint-planning-why-burndown-charts-are-agile-banditry-and-what
 layout: video
 aliases:
 - /resources/BtHASX2lgGo
-- /resources/videos/rethinking-sprint-planning-why-burndown-charts-are-agile-banditry-and-what-to-do-instead
-- /resources/videos/5-kinds-of-agile-bandits-planning-bandits
 aliasesArchive:
 - /resources/videos/rethinking-sprint-planning-why-burndown-charts-are-agile-banditry-and-what-to-do-instead
 - /resources/videos/5-kinds-of-agile-bandits-planning-bandits

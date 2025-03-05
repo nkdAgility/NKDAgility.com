@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: review-the-professional-scrum-masters-handbook
 aliases:
-- /blog/review-the-professional-scrum-masters-handbook
-- /review-the-professional-scrum-masters-handbook
-- /review--the-professional-scrum-masters-handbook
-- /blog/review--the-professional-scrum-masters-handbook
 - /resources/Truj03gqwvW
-- /resources/blog/review-the-professional-scrum-masters-handbook
 aliasesArchive:
 - /blog/review-the-professional-scrum-masters-handbook
 - /review-the-professional-scrum-masters-handbook

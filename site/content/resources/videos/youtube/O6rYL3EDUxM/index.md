@@ -17,8 +17,6 @@ duration: 426
 isShort: false
 aliases:
 - /resources/O6rYL3EDUxM
-- /resources/videos/detecting-agile-bs-lessons-from-the-us-department-of-defense
-- /resources/videos/6-questions-to-determine-if-your-company-is-really-agile-the-agile-reality-check-16
 aliasesArchive:
 - /resources/videos/detecting-agile-bs-lessons-from-the-us-department-of-defense
 - /resources/detecting-agile-bs-lessons-from-the-us-department-of-defense

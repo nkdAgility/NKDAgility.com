@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: migrating-to-office-365-from-google-mail
 aliases:
-- /blog/migrating-to-office-365-from-google-mail
-- /migrating-to-office-365-from-google-mail
 - /resources/w2vG6eEu5BH
-- /resources/blog/migrating-to-office-365-from-google-mail
 aliasesArchive:
 - /blog/migrating-to-office-365-from-google-mail
 - /migrating-to-office-365-from-google-mail

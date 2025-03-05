@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: can-the-definition-of-done-change-per-sprint
 aliases:
-- /blog/can-the-definition-of-done-change-per-sprint
-- /can-the-definition-of-done-change-per-sprint
-- /can-the-definition-of-done-change-per-sprint-
-- /blog/can-the-definition-of-done-change-per-sprint-
 - /resources/LdmZbBlwgM-
-- /resources/blog/can-the-definition-of-done-change-per-sprint
 aliasesArchive:
 - /blog/can-the-definition-of-done-change-per-sprint
 - /can-the-definition-of-done-change-per-sprint

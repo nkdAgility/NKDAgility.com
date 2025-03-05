@@ -13,9 +13,6 @@ slug: celebrating-jernimo-palacios-a-beacon-of-mentorship-and-community-in-agile
 layout: video
 aliases:
 - /resources/JNJerYuU30E
-- /resources/videos/celebrating-jernimo-palacios-a-beacon-of-mentorship-and-community-in-agile-practices-JNJerYuU30E
-- /resources/videos/celebrating-jernimo-palacios-a-beacon-of-mentorship-and-community-in-agile-practices
-- /resources/videos/most-influential-person-in-agile-jernimo-palacios
 aliasesArchive:
 - /resources/videos/most-influential-person-in-agile-jernimo-palacios
 - /resources/videos/most-influential-person-in-agile-jerónimo-palacios

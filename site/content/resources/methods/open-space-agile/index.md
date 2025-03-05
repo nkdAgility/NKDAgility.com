@@ -12,8 +12,6 @@ resourceTypes: method
 layout: method
 slug: open-space-agile
 aliases:
-- /methods/open-space-agile/
-- /learn/agile-delivery-kit/strategies/open-space-agile/
 - /resources/U-6FN9nj1fM
 aliasesArchive:
 - /methods/open-space-agile/

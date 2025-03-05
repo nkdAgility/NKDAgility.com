@@ -13,8 +13,6 @@ slug: embracing-chastity-in-agile-why-taking-your-time-is-key-to-true-transforma
 layout: video
 aliases:
 - /resources/vftc6m70a0w
-- /resources/videos/embracing-chastity-in-agile-why-taking-your-time-is-key-to-true-transformation
-- /resources/videos/7-virtues-of-agile-chastity
 aliasesArchive:
 - /resources/videos/embracing-chastity-in-agile-why-taking-your-time-is-key-to-true-transformation
 - /resources/videos/7-virtues-of-agile-chastity

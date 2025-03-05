@@ -17,7 +17,6 @@ duration: 263
 isShort: false
 aliases:
 - /resources/yEu8Fw4JQWM
-- /resources/videos/in-wip-less-is-more-why
 aliasesArchive:
 - /resources/videos/in-wip-less-is-more-why
 - /resources/in-wip-less-is-more-why

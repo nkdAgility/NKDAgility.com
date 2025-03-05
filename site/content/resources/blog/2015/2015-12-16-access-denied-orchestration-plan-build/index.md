@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: access-denied-orchestration-plan-build
 aliases:
-- /blog/access-denied-orchestration-plan-build
-- /access-denied-orchestration-plan-build
-- /access-denied-for-orchestration-plan-on-build
-- /blog/access-denied-for-orchestration-plan-on-build
 - /resources/l331AonWBuN
-- /resources/blog/access-denied-orchestration-plan-build
 aliasesArchive:
 - /blog/access-denied-orchestration-plan-build
 - /access-denied-orchestration-plan-build

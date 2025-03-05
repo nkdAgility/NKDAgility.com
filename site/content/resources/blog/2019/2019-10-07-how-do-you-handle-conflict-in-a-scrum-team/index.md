@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: how-do-you-handle-conflict-in-a-scrum-team
 aliases:
-- /blog/how-do-you-handle-conflict-in-a-scrum-team
-- /how-do-you-handle-conflict-in-a-scrum-team
-- /how-do-you-handle-conflict-in-a-scrum-team-
-- /blog/how-do-you-handle-conflict-in-a-scrum-team-
 - /resources/xIWBb8Cy_Rv
-- /resources/blog/how-do-you-handle-conflict-in-a-scrum-team
 aliasesArchive:
 - /blog/how-do-you-handle-conflict-in-a-scrum-team
 - /how-do-you-handle-conflict-in-a-scrum-team

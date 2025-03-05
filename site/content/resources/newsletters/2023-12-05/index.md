@@ -11,8 +11,6 @@ author: MrHinsh
 resourceTypes: newsletter
 slug: 2024-learning-journeys-and-extending-the-learning-process
 aliases:
-- /newsletters/2024-learning-journeys-and-extending-the-learning-process/
-- /resources/newsletters/2024-learning-journeys-and-extending-the-learning-process/
 - /resources/-wdSJlbQQbK
 aliasesArchive:
 - /newsletters/2024-learning-journeys-and-extending-the-learning-process/

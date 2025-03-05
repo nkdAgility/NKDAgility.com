@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
 aliases:
-- /blog/embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
-- /embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
-- /embrace-uniqueness--why-creating-your-own-scaling-practices-leads-to-business-success
-- /blog/embrace-uniqueness--why-creating-your-own-scaling-practices-leads-to-business-success
 - /resources/rMAdB_yEwWb
-- /resources/blog/embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
 aliasesArchive:
 - /blog/embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
 - /embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success

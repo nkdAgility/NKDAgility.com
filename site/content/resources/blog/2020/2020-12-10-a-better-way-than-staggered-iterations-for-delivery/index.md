@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: a-better-way-than-staggered-iterations-for-delivery
 aliases:
-- /blog/a-better-way-than-staggered-iterations-for-delivery
-- /a-better-way-than-staggered-iterations-for-delivery
 - /resources/DOMFzBBMzfq
-- /resources/blog/a-better-way-than-staggered-iterations-for-delivery
 aliasesArchive:
 - /blog/a-better-way-than-staggered-iterations-for-delivery
 - /a-better-way-than-staggered-iterations-for-delivery

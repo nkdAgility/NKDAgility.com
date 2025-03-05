@@ -15,14 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
 aliases:
-- /blog/what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
-- /what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
-- /what-is-taylorism,-and-why-waterfall-is-just-the-tip-of-the-iceberg-
-- /blog/what-is-taylorism,-and-why-waterfall-is-just-the-tip-of-the-iceberg-
 - /resources/wYwQygBrmgx
-- /what-is-taylorism--and-why-waterfall-is-just-the-tip-of-the-iceberg-
-- /blog/what-is-taylorism--and-why-waterfall-is-just-the-tip-of-the-iceberg-
-- /resources/blog/what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
 aliasesArchive:
 - /blog/what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
 - /what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg

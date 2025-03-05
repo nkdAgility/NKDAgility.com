@@ -7,8 +7,6 @@ ResourceType: guides
 resourceTypes: guide
 layout: guide
 aliases:
-- /guides/Kanban-Guide-for-Scrum-Teams.html
-- /learn/agile-delivery-kit/guides/kanban-guide-for-scrum-teams
 - /resources/Z3HzXH_nmmz
 aliasesArchive:
 - /guides/Kanban-Guide-for-Scrum-Teams.html

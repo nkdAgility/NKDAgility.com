@@ -15,14 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: scrum-is-made-up-of-influencers-entrepreneurs-and-makers
 aliases:
-- /blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
-- /scrum-is-made-up-of-influencers-entrepreneurs-and-makers
-- /scrum-is-made-up-of-influencers,-entrepreneurs,-and-makers
-- /blog/scrum-is-made-up-of-influencers,-entrepreneurs,-and-makers
 - /resources/DdQ1nKvk-hv
-- /scrum-is-made-up-of-influencers--entrepreneurs--and-makers
-- /blog/scrum-is-made-up-of-influencers--entrepreneurs--and-makers
-- /resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
 aliasesArchive:
 - /blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
 - /scrum-is-made-up-of-influencers-entrepreneurs-and-makers

@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: access-denied-user-needs-label-permission-tfs
 aliases:
-- /blog/access-denied-user-needs-label-permission-tfs
-- /access-denied-user-needs-label-permission-tfs
-- /access-denied-user-needs-label-permission-in-tfs
-- /blog/access-denied-user-needs-label-permission-in-tfs
 - /resources/jdpPpvEHzGa
-- /resources/blog/access-denied-user-needs-label-permission-tfs
 aliasesArchive:
 - /blog/access-denied-user-needs-label-permission-tfs
 - /access-denied-user-needs-label-permission-tfs

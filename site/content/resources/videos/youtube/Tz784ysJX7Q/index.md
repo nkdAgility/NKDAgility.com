@@ -14,8 +14,6 @@ slug: balancing-speed-and-stability-why-quality-should-always-come-first-in-deli
 layout: video
 aliases:
 - /resources/Tz784ysJX7Q
-- /resources/videos/balancing-speed-and-stability-why-quality-should-always-come-first-in-delivery-management
-- /resources/videos/balancing-speed-and-stability-in-delivery
 aliasesArchive:
 - /resources/videos/balancing-speed-and-stability-why-quality-should-always-come-first-in-delivery-management
 - /resources/videos/balancing-speed-and-stability-in-delivery

@@ -11,8 +11,6 @@ resourceTypes: newsletter
 layout: newsletter
 slug: professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september
 aliases:
-- /newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
-- /resources/newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
 - /resources/bvPDNFJju4h
 aliasesArchive:
 - /newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/

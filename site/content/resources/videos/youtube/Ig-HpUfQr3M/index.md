@@ -14,8 +14,6 @@ slug: maximising-product-value-the-power-of-hypothesis-driven-engineering
 layout: video
 aliases:
 - /resources/Ig-HpUfQr3M
-- /resources/videos/maximising-product-value-the-power-of-hypothesis-driven-engineering
-- /resources/videos/monitoring-and-measuring-for-success
 aliasesArchive:
 - /resources/videos/maximising-product-value-the-power-of-hypothesis-driven-engineering
 - /resources/videos/monitoring-and-measuring-for-success

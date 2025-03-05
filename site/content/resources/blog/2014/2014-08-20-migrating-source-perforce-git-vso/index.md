@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: migrating-source-perforce-git-vso
 aliases:
-- /blog/migrating-source-perforce-git-vso
-- /migrating-source-perforce-git-vso
-- /migrating-source-from-perforce-to-git-on-vso
-- /blog/migrating-source-from-perforce-to-git-on-vso
 - /resources/bvuzuOYg8gs
-- /resources/blog/migrating-source-perforce-git-vso
 aliasesArchive:
 - /blog/migrating-source-perforce-git-vso
 - /migrating-source-perforce-git-vso

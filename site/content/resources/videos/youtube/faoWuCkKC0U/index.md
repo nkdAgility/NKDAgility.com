@@ -17,7 +17,6 @@ duration: 46
 isShort: true
 aliases:
 - /resources/faoWuCkKC0U
-- /resources/videos/reasons-to-do-a-pspo-a-course-in-60-seconds-faoWuCkKC0U
 aliasesArchive:
 - /resources/videos/reasons-to-do-a-pspo-a-course-in-seconds
 - /resources/videos/reasons-to-do-a-pspo-a-course-in-60-seconds

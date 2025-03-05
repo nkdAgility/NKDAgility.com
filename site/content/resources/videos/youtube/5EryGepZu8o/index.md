@@ -16,7 +16,6 @@ duration: 204
 isShort: false
 aliases:
 - /resources/5EryGepZu8o
-- /resources/videos/if-you-could-teach-just-one-thing-about-scrum-what-would-it-be
 aliasesArchive:
 - /resources/videos/if-you-could-teach-just-one-thing-about-scrum-what-would-it-be
 - /resources/if-you-could-teach-just-one-thing-about-scrum-what-would-it-be

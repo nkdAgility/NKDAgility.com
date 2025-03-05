@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: professional-organisational-change-ghana-police-service
 aliases:
-- /blog/professional-organisational-change-ghana-police-service
-- /professional-organisational-change-ghana-police-service
-- /professional-organisational-change-at-the-ghana-police-service
-- /blog/professional-organisational-change-at-the-ghana-police-service
 - /resources/yv8bhGf1MfF
-- /resources/blog/professional-organisational-change-ghana-police-service
 aliasesArchive:
 - /blog/professional-organisational-change-ghana-police-service
 - /professional-organisational-change-ghana-police-service

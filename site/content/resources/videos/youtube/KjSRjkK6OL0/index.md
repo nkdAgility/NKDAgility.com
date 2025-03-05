@@ -17,7 +17,6 @@ duration: 45
 isShort: true
 aliases:
 - /resources/KjSRjkK6OL0
-- /resources/videos/what-does-an-ineffective-scrum-masters-day-look-like-KjSRjkK6OL0
 aliasesArchive:
 - /resources/videos/what-does-an-ineffective-scrum-masters-day-look-like
 - /resources/what-does-an-ineffective-scrum-masters-day-look-like

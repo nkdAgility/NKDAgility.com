@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: the-product-goal-is-a-commitment-for-the-product-backlog
 aliases:
-- /blog/the-product-goal-is-a-commitment-for-the-product-backlog
-- /the-product-goal-is-a-commitment-for-the-product-backlog
 - /resources/sVDzuTFDLSJ
-- /resources/blog/the-product-goal-is-a-commitment-for-the-product-backlog
 aliasesArchive:
 - /blog/the-product-goal-is-a-commitment-for-the-product-backlog
 - /the-product-goal-is-a-commitment-for-the-product-backlog

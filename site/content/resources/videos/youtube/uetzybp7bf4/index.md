@@ -14,8 +14,6 @@ slug: empowering-teams-with-financial-insights-the-key-to-maximising-roi-and-fos
 layout: video
 aliases:
 - /resources/uetzybp7bf4
-- /resources/videos/empowering-teams-with-financial-insights-the-key-to-maximising-roi-and-fostering-ownership
-- /resources/videos/building-a-culture-of-continuous-improvement
 aliasesArchive:
 - /resources/videos/empowering-teams-with-financial-insights-the-key-to-maximising-roi-and-fostering-ownership
 - /resources/videos/building-a-culture-of-continuous-improvement

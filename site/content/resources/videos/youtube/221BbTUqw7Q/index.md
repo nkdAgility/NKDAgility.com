@@ -16,8 +16,6 @@ duration: 241
 isShort: false
 aliases:
 - /resources/221BbTUqw7Q
-- /resources/videos/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course
-- /resources/videos/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-course
 aliasesArchive:
 - /resources/videos/what-are-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course
 - /resources/videos/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course

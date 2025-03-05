@@ -16,8 +16,6 @@ duration: 222
 isShort: false
 aliases:
 - /resources/6D6QTjSrJ14
-- /resources/videos/what-has-the-initial-response-been-to-the-immersive-learning-experiences-how-do-you-see-that-evolving
-- /resources/videos/what-has-the-initial-response-been-to-the-immersive-learning-experiences
 aliasesArchive:
 - /resources/videos/what-has-the-initial-response-been-to-the-immersive-learning-experiences-how-do-you-see-that-evolving
 - /resources/what-has-the-initial-response-been-to-the-immersive-learning-experiences-how-do-you-see-that-evolving

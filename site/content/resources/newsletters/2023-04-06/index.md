@@ -11,8 +11,6 @@ resourceTypes: newsletter
 layout: newsletter
 slug: april-2023-nkdagility-applying-professional-scrum
 aliases:
-- /newsletters/april-2023-nkdagility-applying-professional-scrum/
-- /resources/newsletters/april-2023-nkdagility-applying-professional-scrum/
 - /resources/WAc9JUyPY5M
 aliasesArchive:
 - /newsletters/april-2023-nkdagility-applying-professional-scrum/

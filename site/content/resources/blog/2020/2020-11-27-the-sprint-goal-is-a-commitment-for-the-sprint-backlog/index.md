@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: the-sprint-goal-is-a-commitment-for-the-sprint-backlog
 aliases:
-- /blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog
-- /the-sprint-goal-is-a-commitment-for-the-sprint-backlog
 - /resources/99LDtXqmRu5
-- /resources/blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog
 aliasesArchive:
 - /blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog
 - /the-sprint-goal-is-a-commitment-for-the-sprint-backlog

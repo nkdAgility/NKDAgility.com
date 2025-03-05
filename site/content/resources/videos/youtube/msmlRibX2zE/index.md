@@ -14,7 +14,6 @@ layout: video
 canonicalUrl: https://www.youtube.com/watch?v=msmlRibX2zE
 aliases:
 - /resources/msmlRibX2zE
-- /resources/videos/harris-beach-sds-ultrabook-unbox-msmlRibX2zE
 aliasesArchive:
 - /resources/videos/harris-beach-sds-ultrabook-unbox
 - /resources/harris-beach-sds-ultrabook-unbox

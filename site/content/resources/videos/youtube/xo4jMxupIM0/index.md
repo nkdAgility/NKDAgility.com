@@ -18,8 +18,6 @@ sitemap:
   priority: 0.6
 aliases:
 - /resources/xo4jMxupIM0
-- /resources/videos/unlocking-the-power-of-double-loop-learning-transform-your-scrum-master-journey-with-immersive-training
-- /resources/videos/what-makes-the-psm-immersive-learning-experience-so-unique
 aliasesArchive:
 - /resources/videos/unlocking-the-power-of-double-loop-learning-transform-your-scrum-master-journey-with-immersive-training
 - /resources/videos/what-makes-the-psm-immersive-learning-experience-so-unique

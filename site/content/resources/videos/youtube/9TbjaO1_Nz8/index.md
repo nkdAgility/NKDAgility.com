@@ -13,8 +13,6 @@ slug: unlocking-startup-success-why-every-entrepreneur-needs-to-master-product-m
 layout: video
 aliases:
 - /resources/9TbjaO1_Nz8
-- /resources/videos/unlocking-startup-success-why-every-entrepreneur-needs-to-master-product-management-value
-- /resources/videos/would-you-recommend-the-pspo-course-to-an-entrepreneur-and-why
 aliasesArchive:
 - /resources/videos/unlocking-startup-success-why-every-entrepreneur-needs-to-master-product-management-value
 - /resources/videos/would-you-recommend-the-pspo-course-to-an-entrepreneur-and-why-

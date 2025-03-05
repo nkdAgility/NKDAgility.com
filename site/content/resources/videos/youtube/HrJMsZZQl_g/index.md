@@ -17,7 +17,6 @@ duration: 234
 isShort: false
 aliases:
 - /resources/HrJMsZZQl_g
-- /resources/videos/when-is-an-aps-course-appropriate-for-a-scrum-team
 aliasesArchive:
 - /resources/videos/when-is-an-aps-course-appropriate-for-a-scrum-team
 - /resources/when-is-an-aps-course-appropriate-for-a-scrum-team-2

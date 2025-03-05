@@ -16,7 +16,6 @@ duration: 263
 isShort: false
 aliases:
 - /resources/-xMY9Heanjk
-- /resources/videos/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team
 aliasesArchive:
 - /resources/videos/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team
 - /resources/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team

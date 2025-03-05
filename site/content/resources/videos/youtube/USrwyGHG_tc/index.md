@@ -17,9 +17,6 @@ duration: 45
 isShort: true
 aliases:
 - /resources/USrwyGHG_tc
-- /resources/videos/is-a-scrum-master-an-agile-micromanager-USrwyGHG_tc
-- /resources/videos/is-a-scrum-master-an-agile-micromanager
-- /resources/videos/is-a-scrum-master-an-agile-micro-manager
 aliasesArchive:
 - /resources/videos/is-a-scrum-master-an-agile-micromanager
 - /resources/is-a-scrum-master-an-agile-micromanager-2

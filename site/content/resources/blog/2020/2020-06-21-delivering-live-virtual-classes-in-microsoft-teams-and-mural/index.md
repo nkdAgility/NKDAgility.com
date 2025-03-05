@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: delivering-live-virtual-classes-in-microsoft-teams-and-mural
 aliases:
-- /blog/delivering-live-virtual-classes-in-microsoft-teams-and-mural
-- /delivering-live-virtual-classes-in-microsoft-teams-and-mural
 - /resources/fyJ8PxhOEZz
-- /resources/blog/delivering-live-virtual-classes-in-microsoft-teams-and-mural
 aliasesArchive:
 - /blog/delivering-live-virtual-classes-in-microsoft-teams-and-mural
 - /delivering-live-virtual-classes-in-microsoft-teams-and-mural
