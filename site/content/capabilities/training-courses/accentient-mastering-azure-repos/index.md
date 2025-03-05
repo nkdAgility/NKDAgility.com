@@ -8,33 +8,33 @@ date: 2020-08-31
 creator: Martin Hinshelwood
 type: course
 slug: mastering-azure-repos-training
-url: 
+url:
 aliases:
-- /training-courses/mastering-azure-repos
-- /training-courses/azure-devops-training-courses/mastering-azure-repos-training/
-- /capabilities/training-courses/accentient/mastering-azure-repos-training
-- /resources/d4jyFSYdS2v
-aliasesFor404:
-- /training-courses/mastering-azure-repos
-- /training-courses/azure-devops-training-courses/mastering-azure-repos-training/
-- /capabilities/training-courses/accentient/mastering-azure-repos-training
+  - /training-courses/mastering-azure-repos
+  - /training-courses/azure-devops-training-courses/mastering-azure-repos-training/
+  - /capabilities/training-courses/accentient/mastering-azure-repos-training
+  - /resources/d4jyFSYdS2v
+aliasesArchive:
+  - /training-courses/mastering-azure-repos
+  - /training-courses/azure-devops-training-courses/mastering-azure-repos-training/
+  - /capabilities/training-courses/accentient/mastering-azure-repos-training
 course-topics:
-- Azure DevOps Training Courses
+  - Azure DevOps Training Courses
 course-vendors:
-- Accentient
+  - Accentient
 course-learning-experiences:
-- Traditional
+  - Traditional
 delivery-audiences:
-- Developers
+  - Developers
 tags:
-- Azure Repos
-- Azure DevOps
+  - Azure Repos
+  - Azure DevOps
 categories:
-- DevOps
-- Engineering Excellence
-preview: 
+  - DevOps
+  - Engineering Excellence
+preview:
 previewIcon: A-MARS.png
-brandColour: 
+brandColour:
 card:
   button:
     content: ""
@@ -57,14 +57,14 @@ outcomes: |2+
   4. Working with Azure Repos
   5. Mastering Azure Repos
 
-assessment: 
-objectives: 
+assessment:
+objectives:
 prerequisites: None
-audience: 
-trainers: 
-roadmap: 
-syllabus: 
-events: 
-
+audience:
+trainers:
+roadmap:
+syllabus:
+events:
 ---
+
 Azure DevOps Services provide a set of cloud-hosted tools that software teams can use to quickly plan, develop, test, and deliver value in the form of working software. Azure Repos provide public or private Git repositories that enable better collaboration and cleaner code. To maximize learning, students will work in teams, in a common team project, on a common codebase.

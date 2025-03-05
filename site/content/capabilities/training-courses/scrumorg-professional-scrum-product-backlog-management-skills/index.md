@@ -11,32 +11,32 @@ type: course
 slug: professional-scrum-product-backlog-management-skills-with-certification
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
-- /training-courses/scrum-training-courses/professional-scrum-product-backlog-management-skills-with-certification/
-- /capabilities/training-courses/scrum.org/professional-scrum-product-backlog-management-skills-with-certification/
-- /resources/N4fzkLtirTS
-aliasesFor404:
-- /training-courses/scrum-training-courses/professional-scrum-product-backlog-management-skills-with-certification/
-- /capabilities/training-courses/scrum.org/professional-scrum-product-backlog-management-skills-with-certification/
+  - /training-courses/scrum-training-courses/professional-scrum-product-backlog-management-skills-with-certification/
+  - /capabilities/training-courses/scrum.org/professional-scrum-product-backlog-management-skills-with-certification/
+  - /resources/N4fzkLtirTS
+aliasesArchive:
+  - /training-courses/scrum-training-courses/professional-scrum-product-backlog-management-skills-with-certification/
+  - /capabilities/training-courses/scrum.org/professional-scrum-product-backlog-management-skills-with-certification/
 course-topics:
-- Scrum Training Courses
+  - Scrum Training Courses
 course-vendors:
-- Scrum.org
+  - Scrum.org
 course-learning-experiences:
-- Traditional
+  - Traditional
 delivery-audiences:
-- Product Owners
-- Product Managers
-- Scrum Masters
-- Lean Agile Practitioners
+  - Product Owners
+  - Product Managers
+  - Scrum Masters
+  - Lean Agile Practitioners
 tags:
-- Agile Project Management
+  - Agile Project Management
 categories:
-- Scrum
-- Product Management
-- Social Technologies
+  - Scrum
+  - Product Management
+  - Social Technologies
 preview: naked-agility-Professional-Scrum-PSPBMS-1600x900-1.jpg
 previewIcon: Scrumorg-Course-PSPBMS-400x.png
-brandColour: 
+brandColour:
 card:
   button:
     content: ""
@@ -62,7 +62,7 @@ outcomes: |-
   7. **Balancing Strategy and Autonomy**: Recognising the subtle relationship between overarching strategy and the Product Backlog, ensuring a balance between strategic alignment and team autonomy.
 
    These topics provide a comprehensive overview of Product Backlog management within the Scrum framework, equipping participants with the skills and knowledge to navigate the Scrum landscape effectively.
-assessment: 
+assessment:
 objectives: |2+
 
   1. **Product Essence Comprehension:** By the culmination of our sessions, you'll possess a lucid understanding of your product, the associated goals, and the strategic steps required to realise them.
@@ -72,13 +72,13 @@ objectives: |2+
   5. **Empirical Decision Making:** Harness empirical data to inform your decisions, positioning you to capitalise on opportunities and gain a competitive advantage.
 
 prerequisites: There are no pre-requests for this class, but some experience of managing a backlog would be beneficial.
-audience: 
-trainers: 
-roadmap: 
-syllabus: 
-events: 
-
+audience:
+trainers:
+roadmap:
+syllabus:
+events:
 ---
+
 Welcome to a comprehensive journey into the world of Scrum's Product Backlog Management. This course is meticulously designed to equip participants with the expertise to understand their product's essence, master the Product Backlog, engage effectively with stakeholders, promote transparency, and make data-driven decisions. With sessions ranging from stakeholder motivations to the intricacies of the Product Backlog and empirical decision-making, attendees will gain invaluable insights, irrespective of whether they're Product Owners, Scrum Masters, or Product Managers.
 
 Our curriculum, rooted in real-world scenarios, ensures immediate applicability in professional settings. Under the guidance of experienced Professional Scrum Trainers, participants will benefit from a globally consistent and high-calibre learning experience. Upon completion, attendees will be eligible for the Professional Scrum Product Backlog Mastery assessment, marking a significant milestone in their Scrum journey.

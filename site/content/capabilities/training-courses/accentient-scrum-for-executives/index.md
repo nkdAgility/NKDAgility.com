@@ -8,33 +8,33 @@ date: 2020-08-31
 creator: Martin Hinshelwood
 type: course
 slug: scrum-for-executives-training
-url: 
+url:
 aliases:
-- /training-courses/scrum-for-executives
-- /training-courses/scrum-for-executives-training/
-- /capabilities/training-courses/accentient/scrum-for-executives
-- /resources/AHschsDjL2E
-aliasesFor404:
-- /training-courses/scrum-for-executives
-- /training-courses/scrum-for-executives-training/
-- /capabilities/training-courses/accentient/scrum-for-executives
+  - /training-courses/scrum-for-executives
+  - /training-courses/scrum-for-executives-training/
+  - /capabilities/training-courses/accentient/scrum-for-executives
+  - /resources/AHschsDjL2E
+aliasesArchive:
+  - /training-courses/scrum-for-executives
+  - /training-courses/scrum-for-executives-training/
+  - /capabilities/training-courses/accentient/scrum-for-executives
 course-topics:
-- Scrum Training Courses
+  - Scrum Training Courses
 course-vendors:
-- Accentient
+  - Accentient
 course-learning-experiences:
-- Traditional
+  - Traditional
 delivery-audiences:
-- Entrepreneurs
-- Executives
+  - Entrepreneurs
+  - Executives
 tags:
-- Agile Frameworks
+  - Agile Frameworks
 categories:
-- Scrum
-- Social Technologies
-preview: 
+  - Scrum
+  - Social Technologies
+preview:
 previewIcon: A-S4E.png
-brandColour: 
+brandColour:
 card:
   button:
     content: ""
@@ -69,14 +69,14 @@ outcomes: |2+
   7. The Scrum Principles
   8. Where Scrum Fits and Where It Doesn’t
 
-assessment: 
-objectives: 
-prerequisites: 
-audience: 
-trainers: 
-roadmap: 
-syllabus: 
-events: 
-
+assessment:
+objectives:
+prerequisites:
+audience:
+trainers:
+roadmap:
+syllabus:
+events:
 ---
+
 This instructor-led class is intended to answer three questions commonly asked by executives, managers, and other decision-makers: *What is Scrum? Why should I care?* and *What will be expected of me to properly adopt Scrum?* Through presentation and discussion, attendees will learn the answers to these questions. By forming into teams and collaborating on activities, attendees will further experience these truths.

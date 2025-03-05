@@ -11,40 +11,40 @@ type: course
 slug: professional-scrum-facilitation-skills-psfs-with-certification
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
-- /training-courses/scrum-training-courses/professional-scrum-facilitation-skills-psfs-with-certification/
-- /capabilities/training-courses/scrum.org/professional-scrum-facilitation-skills-psfs-with-certification/
-- /resources/COuQsbI48JU
-aliasesFor404:
-- /training-courses/scrum-training-courses/professional-scrum-facilitation-skills-psfs-with-certification/
-- /capabilities/training-courses/scrum.org/professional-scrum-facilitation-skills-psfs-with-certification/
+  - /training-courses/scrum-training-courses/professional-scrum-facilitation-skills-psfs-with-certification/
+  - /capabilities/training-courses/scrum.org/professional-scrum-facilitation-skills-psfs-with-certification/
+  - /resources/COuQsbI48JU
+aliasesArchive:
+  - /training-courses/scrum-training-courses/professional-scrum-facilitation-skills-psfs-with-certification/
+  - /capabilities/training-courses/scrum.org/professional-scrum-facilitation-skills-psfs-with-certification/
 course-topics:
-- Scrum Training Courses
+  - Scrum Training Courses
 course-vendors:
-- Scrum.org
+  - Scrum.org
 course-learning-experiences:
-- Traditional
+  - Traditional
 delivery-audiences:
-- Product Owners
-- Product Managers
-- Teams
-- Lean Agile Practitioners
+  - Product Owners
+  - Product Managers
+  - Teams
+  - Lean Agile Practitioners
 tags:
-- Transparency
-- Professional Scrum
-- Team Collaboration
-- Scrum Team
-- Agile Frameworks
-- Team Performance
-- People and Process
-- Agile Project Management
-- Scrum Master
-- Software Development
+  - Transparency
+  - Professional Scrum
+  - Team Collaboration
+  - Scrum Team
+  - Agile Frameworks
+  - Team Performance
+  - People and Process
+  - Agile Project Management
+  - Scrum Master
+  - Software Development
 categories:
-- Scrum
-- Social Technologies
+  - Scrum
+  - Social Technologies
 preview: naked-agility-Professional-Scrum-PSFS-1600x900-1.jpg
 previewIcon: Scrumorg-Course-PSFS-400x.png
-brandColour: 
+brandColour:
 card:
   button:
     content: ""
@@ -52,15 +52,15 @@ card:
   content: Develop proficiency in facilitation skills to help your Scrum Team better solve problems, create a shared understanding, and foster transparency. Learn how to become a better facilitator to improve Scrum Team, stakeholder and customer interactions.
 code: PSFS
 level: advanced
-introduction: 
+introduction:
 overview: |+
   This course is most suitable for professionals with Scrum knowledge and experience that are interested in learning how to use facilitation to enhance team collaboration and reduce conflict. It is ideal for: 
   - All Scrum Team members (Scrum Masters, Developers and Product Owners)
   - Scrum Coaches, Agile Coaches and Consultants
   - Students who have previously taken Applying Professional Scrum, Professional Scrum Master, Professional Scrum Product Owner training or equivalent.
 
-outcomes: 
-assessment: 
+outcomes:
+assessment:
 objectives: |2+
 
   - Explain the roles that facilitation principles and the Scrum Values play in enhancing healthy collaboration within Scrum Teams
@@ -73,13 +73,13 @@ prerequisites: |2+
   - Be familiar with Scrum and the Scrum Guide
   - Have worked with or on a Scrum Team
 
-audience: 
-trainers: 
-roadmap: 
-syllabus: 
-events: 
-
+audience:
+trainers:
+roadmap:
+syllabus:
+events:
 ---
+
 \[wpv-post-link\] is an interactive course designed to help teams and individuals develop proficiency in facilitation skills, so that they can help teams better solve problems, build consensus and foster transparency.
 
 Great Scrum Teams are self-managing, cross-functional and have the ability and skills necessary to drive to successful outcomes. However, team interactions don’t always go as expected and can cause conflict or roadblocks. Effective facilitation can help the team move forward toward their desired outcomes.

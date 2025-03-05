@@ -10,41 +10,41 @@ type: course
 slug: professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
-- /ebm
-- /pal-ebm
-- /training-courses/professional-agile-leadership-with-evidence-based-management-training-with-certification
-- /training-courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-training-experience-with-certification
-- /training-courses/professional-scrum-training-courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/
-- /capabilities/training-courses/scrum.org/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/
-- /resources/enw9s_l3PeE
-aliasesFor404:
-- /ebm
-- /pal-ebm
-- /training-courses/professional-agile-leadership-with-evidence-based-management-training-with-certification
-- /training-courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-training-experience-with-certification
-- /training-courses/professional-scrum-training-courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/
-- /capabilities/training-courses/scrum.org/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/
+  - /ebm
+  - /pal-ebm
+  - /training-courses/professional-agile-leadership-with-evidence-based-management-training-with-certification
+  - /training-courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-training-experience-with-certification
+  - /training-courses/professional-scrum-training-courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/
+  - /capabilities/training-courses/scrum.org/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/
+  - /resources/enw9s_l3PeE
+aliasesArchive:
+  - /ebm
+  - /pal-ebm
+  - /training-courses/professional-agile-leadership-with-evidence-based-management-training-with-certification
+  - /training-courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-training-experience-with-certification
+  - /training-courses/professional-scrum-training-courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/
+  - /capabilities/training-courses/scrum.org/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/
 course-topics:
-- Scrum Training Courses
+  - Scrum Training Courses
 course-vendors:
-- Scrum.org
+  - Scrum.org
 course-learning-experiences:
-- Traditional
+  - Traditional
 delivery-audiences:
-- Product Owners
-- Product Managers
-- Managers
-- Entrepreneurs
+  - Product Owners
+  - Product Managers
+  - Managers
+  - Entrepreneurs
 tags:
-- Metrics and Learning
-- Evidence Based Management
+  - Metrics and Learning
+  - Evidence Based Management
 categories:
-- Leadership
-- Product Management
-- Social Technologies
+  - Leadership
+  - Product Management
+  - Social Technologies
 preview: naked-agility-Professional-Scrum-PALEBM-1600x900-1.jpg
 previewIcon: Scrumorg-Course-PALEBM-400x.png
-brandColour: 
+brandColour:
 shortTitle: Evidence-Based Management
 card:
   button:
@@ -53,7 +53,7 @@ card:
   content: Scrum.org created the Evidence-Based Management™ (EBM) framework which is an Agile approach to help leaders guide their teams toward continuously improving customer outcomes, organizational capabilities, and business results. EBM focuses on customer value and intentional experimentation to systematically improve an organization’s performance and achieve its strategic goals.
 code: PAL-EBM
 level: advanced
-introduction: 
+introduction:
 overview: |-
   PAL-EBM is for professionals in leadership roles (including executives, managers, Scrum Masters, Product Owners, coaches, and consultants) who: 
   - Are responsible for the success of their product delivery programs or Agile transformations and are seeking a means to measure and demonstrate that success
@@ -71,7 +71,7 @@ outcomes: |-
   - Drive operational improvements by using four Key Value Areas (Unrealized Value, Current Value, Time-to-Market, and the Ability to Innovate) as lenses for evidence-based decision-making
 
   <!-- /wp:list -->
-assessment: 
+assessment:
 objectives: |2+
 
   - Understand the essential aspects of goals and measures and how they influence behaviors and an organization’s culture and values
@@ -85,13 +85,13 @@ prerequisites: |+
   - Read: [The Evidence-Based Management Guide](https://nkdagility.com/the-evidence-based-management-guide-measuring-value-to-enable-improvement-and-agility/)
   - Read: [Investing for Business Agility: Using evidence-based portfolio management to achieve better business outcomes](https://nkdagility.com/investing-for-business-agility-using-evidence-based-portfolio-management-to-achieve-better-business-outcomes/)
 
-audience: 
-trainers: 
-roadmap: 
-syllabus: 
-events: 
-
+audience:
+trainers:
+roadmap:
+syllabus:
+events:
 ---
+
 [Professional Agile Leadership with Evidence-Based Management (PAL-EBM)](https://nkdagility.com/training/courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-training-experience-with-certification/) training experience uses a unique blend of **self-paced** learning, **live classroom** hands-on activity-based exercises, and **community-based** aftercare. With markets and customer needs constantly changing, organizations need information and evidence that helps them adapt quickly to new challenges and opportunities so that they can deliver greater value and achieve true business agility.The course goes beyond the topics explored in the [Professional Agile Leadership Essentials](https://nkdagility.com/training/courses/professional-agile-leadership-essentials-pal-e-training-experience-with-certification-helping-leaders-understand-their-role-in-enabling-agile-transformation/)  & [Professional Scrum Product Owner (PSPO)](https://nkdagility.com/training/scheduled/professional-scrum-product-owner-pspo-experience-on-8th-august-2022-live-virtual-class-over-4-half-days/) classes and deepens participants’ understanding by introducing the four key-value areas and a number of suggested key-value metrics that can help leaders guide their teams toward continuously improving customer outcomes, organizational capabilities, and business results. EBM focuses on customer value and intentional experimentation to systematically improve an organization’s performance and achieve its strategic goals.Students should already have at least one year of product development experience and practical knowledge of Scrum to participate in and benefit from these exercises. Having previously taken the PAL class is recommended but not required.
 
 - Session 1: **Goals, Measures, & Behaviors**

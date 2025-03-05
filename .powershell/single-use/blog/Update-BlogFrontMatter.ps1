@@ -88,7 +88,7 @@ $blogs | ForEach-Object {
             }
         }
         if ($404aliases -is [array] -and $404aliases.Count -gt 0) {
-            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliasesFor404' -values $404aliases -addAfter 'aliases'
+            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliasesArchive' -values $404aliases -addAfter 'aliases'
         }
         
         

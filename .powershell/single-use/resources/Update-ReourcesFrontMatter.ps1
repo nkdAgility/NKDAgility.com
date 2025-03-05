@@ -192,7 +192,7 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
         Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliasesArchive' -values $aliasesArchive -addAfter 'aliases'
     }
 
-    Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliasesFor404'
+    Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliasesArchive'
 
     #================Themes, Categories, & TAGS==========================
     $BodyContent = $hugoMarkdown.BodyContent

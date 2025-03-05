@@ -1,12 +1,12 @@
-{{- $.Scratch.Add "routes" slice -}}
+{{- $.Scratch.Add "routesFor404" slice -}}
 {{- range $p := sort site.AllPages "Path" }}
-  {{- $aliasesFor404 := $p.Params.aliasesFor404 -}}
-  {{ if $aliasesFor404 }}
-    {{- range $alias := sort $p.Params.aliasesFor404 }}
+  {{- $aliasesArchive := $p.Params.aliasesArchive -}}
+  {{ if $aliasesArchive }}
+    {{- range $alias := sort $p.Params.aliasesArchive }}
       {{- if not (strings.HasSuffix $alias "/") }}
         {{- $alias = printf "%s/" $alias }}
       {{- end }}
-      {{- $.Scratch.Add "routes" (dict
+      {{- $.Scratch.Add "routesFor404" (dict
         "route" $alias
         "redirect" $p.RelPermalink
         "statusCode" 301
@@ -17,6 +17,6 @@
     {{- end }}
   {{- end }}
 {{- end }}
-{{- $routes := dict "routes" ($.Scratch.Get "routes") }}
+{{- $routes := dict "routesFor404" ($.Scratch.Get "routesFor404") }}
 {{- $jsonOutput := $routes | jsonify }}
 {{- (resources.FromString "static.routes.json" $jsonOutput).Publish }}

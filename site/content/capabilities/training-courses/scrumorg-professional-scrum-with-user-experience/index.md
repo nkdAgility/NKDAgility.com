@@ -10,48 +10,48 @@ type: course
 slug: professional-scrum-with-user-experience-psu-with-certification
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
-- /training-courses/professional-scrum-with-user-experience-psu-training
-- /training-courses/professional-scrum-with-user-experience-training-with-certification
-- /training-courses/professional-scrum-with-user-experience-psu-training-with-certification-unifying-the-team-to-deliver-value-together
-- /training-courses/scrum-training-courses/professional-scrum-with-user-experience-psu-with-certification/
-- /capabilities/training-courses/scrum.org/professional-scrum-with-user-experience-psu-with-certification/
-- /resources/napm9Qz4WTz
-aliasesFor404:
-- /training-courses/professional-scrum-with-user-experience-psu-training
-- /training-courses/professional-scrum-with-user-experience-training-with-certification
-- /training-courses/professional-scrum-with-user-experience-psu-training-with-certification-unifying-the-team-to-deliver-value-together
-- /training-courses/scrum-training-courses/professional-scrum-with-user-experience-psu-with-certification/
-- /capabilities/training-courses/scrum.org/professional-scrum-with-user-experience-psu-with-certification/
+  - /training-courses/professional-scrum-with-user-experience-psu-training
+  - /training-courses/professional-scrum-with-user-experience-training-with-certification
+  - /training-courses/professional-scrum-with-user-experience-psu-training-with-certification-unifying-the-team-to-deliver-value-together
+  - /training-courses/scrum-training-courses/professional-scrum-with-user-experience-psu-with-certification/
+  - /capabilities/training-courses/scrum.org/professional-scrum-with-user-experience-psu-with-certification/
+  - /resources/napm9Qz4WTz
+aliasesArchive:
+  - /training-courses/professional-scrum-with-user-experience-psu-training
+  - /training-courses/professional-scrum-with-user-experience-training-with-certification
+  - /training-courses/professional-scrum-with-user-experience-psu-training-with-certification-unifying-the-team-to-deliver-value-together
+  - /training-courses/scrum-training-courses/professional-scrum-with-user-experience-psu-with-certification/
+  - /capabilities/training-courses/scrum.org/professional-scrum-with-user-experience-psu-with-certification/
 course-topics:
-- Scrum Training Courses
+  - Scrum Training Courses
 course-vendors:
-- Scrum.org
+  - Scrum.org
 course-learning-experiences:
-- Immersive
-- Traditional
+  - Immersive
+  - Traditional
 delivery-audiences:
-- Product Owners
-- Product Managers
-- Scrum Masters
-- Lean Agile Practitioners
-- Teams
+  - Product Owners
+  - Product Managers
+  - Scrum Masters
+  - Lean Agile Practitioners
+  - Teams
 tags:
-- Scrum Product Development
-- Experimentation
-- Professional Scrum
-- Product Discovery
-- Practical Techniques and Tooling
-- Agile Product Management
-- Value Delivery
-- People and Process
-- Discovery and Learning
-- Software Development
+  - Scrum Product Development
+  - Experimentation
+  - Professional Scrum
+  - Product Discovery
+  - Practical Techniques and Tooling
+  - Agile Product Management
+  - Value Delivery
+  - People and Process
+  - Discovery and Learning
+  - Software Development
 categories:
-- Scrum
-- Social Technologies
+  - Scrum
+  - Social Technologies
 preview: naked-agility-Professional-Scrum-PSU-1600x900-2.jpg
 previewIcon: Scrumorg-Course-PSU-400x.png
-brandColour: 
+brandColour:
 card:
   button:
     content: ""
@@ -78,7 +78,7 @@ outcomes: |2+
   - Focus on users
   - Experimentation
 
-assessment: 
+assessment:
 objectives: |+
   Students will leave the class understanding: 
   - Gain a common understanding of what is meant by Professional Scrum
@@ -104,13 +104,13 @@ prerequisites: |+
   - Review [The Scrum Guide](https://nkdagility.com/resources/the-scrum-guide/)
   - Review the Course Material provided in your [Classroom](https://community.nkdagility.com/all-courses)
 
-audience: 
-trainers: 
-roadmap: 
-syllabus: 
-events: 
-
+audience:
+trainers:
+roadmap:
+syllabus:
+events:
 ---
+
 ### Should UX be part of the Scrum Team?
 
 UX/CX plays a critical role in successful product development. Participants explore Professional Scrum and Lean UX through a unique blend of self-paced learning, live classroom hands-on activity-based exercises, and community-based aftercare.

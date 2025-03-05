@@ -10,51 +10,51 @@ type: course
 slug: scaled-professional-scrum-with-nexus-sps-with-certification
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
-- /training-courses/scrum-at-scale-workshop
-- /training-courses/scaling-professional-scrum
-- /training-courses/scaled-professional-scrum-sps
-- /training-courses/scaled-professional-scrum-sps-with-nexus
-- /training-courses/scaled-professional-scrum-with-nexus-training-with-certification
-- /training-courses/scrum-training-courses/scaled-professional-scrum-with-nexus-sps-with-certification/
-- /capabilities/training-courses/scrum.org/scaled-professional-scrum-with-nexus-sps-with-certification/
-- /resources/-U-z8x8yTw9
-aliasesFor404:
-- /training-courses/scrum-at-scale-workshop
-- /training-courses/scaling-professional-scrum
-- /training-courses/scaled-professional-scrum-sps
-- /training-courses/scaled-professional-scrum-sps-with-nexus
-- /training-courses/scaled-professional-scrum-with-nexus-training-with-certification
-- /training-courses/scrum-training-courses/scaled-professional-scrum-with-nexus-sps-with-certification/
-- /capabilities/training-courses/scrum.org/scaled-professional-scrum-with-nexus-sps-with-certification/
+  - /training-courses/scrum-at-scale-workshop
+  - /training-courses/scaling-professional-scrum
+  - /training-courses/scaled-professional-scrum-sps
+  - /training-courses/scaled-professional-scrum-sps-with-nexus
+  - /training-courses/scaled-professional-scrum-with-nexus-training-with-certification
+  - /training-courses/scrum-training-courses/scaled-professional-scrum-with-nexus-sps-with-certification/
+  - /capabilities/training-courses/scrum.org/scaled-professional-scrum-with-nexus-sps-with-certification/
+  - /resources/-U-z8x8yTw9
+aliasesArchive:
+  - /training-courses/scrum-at-scale-workshop
+  - /training-courses/scaling-professional-scrum
+  - /training-courses/scaled-professional-scrum-sps
+  - /training-courses/scaled-professional-scrum-sps-with-nexus
+  - /training-courses/scaled-professional-scrum-with-nexus-training-with-certification
+  - /training-courses/scrum-training-courses/scaled-professional-scrum-with-nexus-sps-with-certification/
+  - /capabilities/training-courses/scrum.org/scaled-professional-scrum-with-nexus-sps-with-certification/
 course-topics:
-- Scrum Training Courses
+  - Scrum Training Courses
 course-vendors:
-- Scrum.org
+  - Scrum.org
 course-learning-experiences:
-- Traditional
+  - Traditional
 delivery-audiences:
-- Product Owners
-- Product Managers
-- Scrum Masters
-- Lean Agile Practitioners
-- Teams
+  - Product Owners
+  - Product Managers
+  - Scrum Masters
+  - Lean Agile Practitioners
+  - Teams
 tags:
-- Scrum Product Development
-- Professional Scrum
-- Software Development
-- Large Scale Agility
-- Scaled Agile
-- People and Process
-- Scaling Scrum
-- Agile Frameworks
-- Agile Project Management
-- Scaling Agility
+  - Scrum Product Development
+  - Professional Scrum
+  - Software Development
+  - Large Scale Agility
+  - Scaled Agile
+  - People and Process
+  - Scaling Scrum
+  - Agile Frameworks
+  - Agile Project Management
+  - Scaling Agility
 categories:
-- Scrum
-- Social Technologies
+  - Scrum
+  - Social Technologies
 preview: naked-agility-Professional-Scrum-SPS-1600x900-1.jpg
 previewIcon: Scrumorg-Course-SPS-400x.png
-brandColour: 
+brandColour:
 card:
   button:
     content: ""
@@ -85,7 +85,7 @@ outcomes: |2+
   - Dealing with common challenges
   - Practices to help teams efficiently build an integrated software product
 
-assessment: 
+assessment:
 objectives: |2+
 
   - Learn how to Scale Scrum using the Nexus framework
@@ -102,13 +102,13 @@ prerequisites: |+
   - Have an understanding of development techniques, tools, and practices needed to sustain large scale development.
   - Passed the [Nexus Open](https://www.classmarker.com/online-test/start/?quiz=d49560ebb3d48c4f) assessment.
 
-audience: 
-trainers: 
-roadmap: 
-syllabus: 
-events: 
-
+audience:
+trainers:
+roadmap:
+syllabus:
+events:
 ---
+
 The Scaled Professional Scrum is a hands-on, activity-based course where students develop a collection of skills that can be applied to overcome challenges when scaling Scrum. Even after achieving success with Scrum, teams are still limited by the amount of work they can do and the value they can create. They need to expand, or scale, to a group of Scrum Teams working together on the same product. When doing so, they often encounter common challenges with cross-team dependencies, self-management, transparency and accountability.
 
 When introducing heavy-weight scaling methodologies, teams often find that the added overhead slows down the teams and distracts from the essence and benefits of Scrum. Instead, the Nexus Framework minimally extended the Scrum Framework to include ways that help solve the dependency and collaboration challenges of cross-team work. Since Nexus enhances the foundational elements of Scrum, it reinforces the benefits of Scrum while also being familiar to those that have used Scrum.

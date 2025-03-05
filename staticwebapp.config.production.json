@@ -11,7 +11,7 @@
   "routes": [
     {
       "route": "/login",
-      "redirect": "/.auth/login/aad?post_login_redirect_uri=https://nkdagility.com"
+      "redirect": "/.auth/login/github?post_login_redirect_uri=https://nkdagility.com"
     }
   ]
 }
