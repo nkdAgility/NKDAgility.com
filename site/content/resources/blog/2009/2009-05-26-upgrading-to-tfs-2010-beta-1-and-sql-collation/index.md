@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: upgrading-to-tfs-2010-beta-1-and-sql-collation
 aliases:
-- /blog/upgrading-to-tfs-2010-beta-1-and-sql-collation
-- /upgrading-to-tfs-2010-beta-1-and-sql-collation
 - /resources/NdEr9LWJ2ti
-- /resources/blog/upgrading-to-tfs-2010-beta-1-and-sql-collation
 aliasesArchive:
 - /blog/upgrading-to-tfs-2010-beta-1-and-sql-collation
 - /upgrading-to-tfs-2010-beta-1-and-sql-collation

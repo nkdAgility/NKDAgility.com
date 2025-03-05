@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: a-change-for-the-better-3
 aliases:
-- /blog/a-change-for-the-better-3
-- /a-change-for-the-better-3
-- /a-change-for-the-better--3---ssw-to-northwest-cadence
-- /blog/a-change-for-the-better--3---ssw-to-northwest-cadence
 - /resources/a_PdCAmRAp9
-- /resources/blog/a-change-for-the-better-3
 aliasesArchive:
 - /blog/a-change-for-the-better-3
 - /a-change-for-the-better-3

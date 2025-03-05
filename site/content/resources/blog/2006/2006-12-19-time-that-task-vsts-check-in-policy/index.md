@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: time-that-task-vsts-check-in-policy
 aliases:
-- /blog/time-that-task-vsts-check-in-policy
-- /time-that-task-vsts-check-in-policy
 - /resources/3-mqIx3Xkgv
-- /resources/blog/time-that-task-vsts-check-in-policy
 aliasesArchive:
 - /blog/time-that-task-vsts-check-in-policy
 - /time-that-task-vsts-check-in-policy

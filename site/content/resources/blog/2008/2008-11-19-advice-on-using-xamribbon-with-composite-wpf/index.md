@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: advice-on-using-xamribbon-with-composite-wpf
 aliases:
-- /blog/advice-on-using-xamribbon-with-composite-wpf
-- /advice-on-using-xamribbon-with-composite-wpf
 - /resources/gEnb0c6i-3I
-- /resources/blog/advice-on-using-xamribbon-with-composite-wpf
 aliasesArchive:
 - /blog/advice-on-using-xamribbon-with-composite-wpf
 - /advice-on-using-xamribbon-with-composite-wpf

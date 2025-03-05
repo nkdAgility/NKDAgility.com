@@ -14,14 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: hosted-tfs-and-cheap-from-phase2
 aliases:
-- /blog/hosted-tfs-and-cheap-from-phase2
-- /hosted-tfs-and-cheap-from-phase2
-- /hosted-tfs,-and-cheap…-from-phase2
-- /blog/hosted-tfs,-and-cheap…-from-phase2
 - /resources/UAYEfY1bHiv
-- /hosted-tfs--and-cheap…-from-phase2
-- /blog/hosted-tfs--and-cheap…-from-phase2
-- /resources/blog/hosted-tfs-and-cheap-from-phase2
 aliasesArchive:
 - /blog/hosted-tfs-and-cheap-from-phase2
 - /hosted-tfs-and-cheap-from-phase2

@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: constructing-a-framework-for-the-tfs-automation-platform
 aliases:
-- /blog/constructing-a-framework-for-the-tfs-automation-platform
-- /constructing-a-framework-for-the-tfs-automation-platform
 - /resources/w6AaB_5-1gr
-- /resources/blog/constructing-a-framework-for-the-tfs-automation-platform
 aliasesArchive:
 - /blog/constructing-a-framework-for-the-tfs-automation-platform
 - /constructing-a-framework-for-the-tfs-automation-platform

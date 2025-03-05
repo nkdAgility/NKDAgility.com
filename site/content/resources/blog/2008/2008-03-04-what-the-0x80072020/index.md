@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: what-the-0x80072020
 aliases:
-- /blog/what-the-0x80072020
-- /what-the-0x80072020
-- /what-the-0x80072020-
-- /blog/what-the-0x80072020-
 - /resources/ts3nKVfoy1j
-- /resources/blog/what-the-0x80072020
 aliasesArchive:
 - /blog/what-the-0x80072020
 - /what-the-0x80072020

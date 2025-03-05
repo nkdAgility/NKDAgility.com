@@ -14,14 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: were-sorry-but-you-wont-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
 aliases:
-- /blog/were-sorry-but-you-wont-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
-- /were-sorry-but-you-wont-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
-- /we’re-sorry,-but-you-won’t-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
-- /blog/we’re-sorry,-but-you-won’t-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
 - /resources/sjUCMYPEzTd
-- /we’re-sorry--but-you-won’t-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
-- /blog/we’re-sorry--but-you-won’t-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
-- /resources/blog/were-sorry-but-you-wont-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
 aliasesArchive:
 - /blog/were-sorry-but-you-wont-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
 - /were-sorry-but-you-wont-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time

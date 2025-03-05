@@ -14,13 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-2012-issue-manage-group-membership-missing-from-admin-after-tfs-2008-to-tfs-2012-upgrade
 aliases:
-- /blog/tfs-2012-issue-manage-group-membership-missing-from-admin-after-tfs-2008-to-tfs-2012-upgrade
-- /tfs-2012-issue-manage-group-membership-missing-from-admin-after-tfs-2008-to-tfs-2012-upgrade
-- /tfs-2012
-- /tfs-2012---issue--manage-group-membership-missing-from-admin-after-tfs-2008-to-tfs-2012-upgrade
-- /blog/tfs-2012---issue--manage-group-membership-missing-from-admin-after-tfs-2008-to-tfs-2012-upgrade
 - /resources/bKcrt-7tHMX
-- /resources/blog/tfs-2012-issue-manage-group-membership-missing-from-admin-after-tfs-2008-to-tfs-2012-upgrade
 aliasesArchive:
 - /blog/tfs-2012-issue-manage-group-membership-missing-from-admin-after-tfs-2008-to-tfs-2012-upgrade
 - /tfs-2012-issue-manage-group-membership-missing-from-admin-after-tfs-2008-to-tfs-2012-upgrade

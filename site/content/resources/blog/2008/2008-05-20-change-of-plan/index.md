@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: change-of-plan
 aliases:
-- /blog/change-of-plan
-- /change-of-plan
 - /resources/KfLCHLNio90
-- /resources/blog/change-of-plan
 aliasesArchive:
 - /blog/change-of-plan
 - /change-of-plan

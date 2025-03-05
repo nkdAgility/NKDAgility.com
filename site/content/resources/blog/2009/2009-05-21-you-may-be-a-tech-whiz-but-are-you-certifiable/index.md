@@ -14,14 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: you-may-be-a-tech-whiz-but-are-you-certifiable
 aliases:
-- /blog/you-may-be-a-tech-whiz-but-are-you-certifiable
-- /you-may-be-a-tech-whiz-but-are-you-certifiable
-- /you-may-be-a-tech-whiz,-but-are-you-certifiable-
-- /blog/you-may-be-a-tech-whiz,-but-are-you-certifiable-
 - /resources/kxyjGP3saZX
-- /you-may-be-a-tech-whiz--but-are-you-certifiable-
-- /blog/you-may-be-a-tech-whiz--but-are-you-certifiable-
-- /resources/blog/you-may-be-a-tech-whiz-but-are-you-certifiable
 aliasesArchive:
 - /blog/you-may-be-a-tech-whiz-but-are-you-certifiable
 - /you-may-be-a-tech-whiz-but-are-you-certifiable

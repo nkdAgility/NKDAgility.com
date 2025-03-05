@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: the-delivery-mk-ii
 aliases:
-- /blog/the-delivery-mk-ii
-- /the-delivery-mk-ii
 - /resources/g5GoTmk3aI4
-- /resources/blog/the-delivery-mk-ii
 aliasesArchive:
 - /blog/the-delivery-mk-ii
 - /the-delivery-mk-ii

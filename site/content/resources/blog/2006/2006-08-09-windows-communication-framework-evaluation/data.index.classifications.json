@@ -323,15 +323,6 @@
     "reasoning": "Content primarily discusses the evaluation of WCF as a technology rather than focusing on specific products or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T11:11:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Windows Communication Framework (WCF) and related technologies, with no mention of Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-02-17T11:11:53",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Windows Communication Framework (WCF) and its features, with no clear focus on Artificial Intelligence or its integration within Agile or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-05T14:38:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses Windows Communication Foundation (WCF) and related technologies, with no direct mentions or discussions of Scrum principles, roles, events, or practices. The focus is on evaluating a specific technology rather than project management frameworks, which does not align with the Scrum category.",
     "level": "Ignored"
   }
 }

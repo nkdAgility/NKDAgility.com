@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: continuous-value-delivery-with-modern-business-applications
 aliases:
-- /blog/continuous-value-delivery-with-modern-business-applications
-- /continuous-value-delivery-with-modern-business-applications
 - /resources/Bqw3QI4cP_9
-- /resources/blog/continuous-value-delivery-with-modern-business-applications
 aliasesArchive:
 - /blog/continuous-value-delivery-with-modern-business-applications
 - /continuous-value-delivery-with-modern-business-applications

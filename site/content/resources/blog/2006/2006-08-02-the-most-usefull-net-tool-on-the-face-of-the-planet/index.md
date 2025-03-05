@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: the-most-usefull-net-tool-on-the-face-of-the-planet
 aliases:
-- /blog/the-most-usefull-net-tool-on-the-face-of-the-planet
-- /the-most-usefull-net-tool-on-the-face-of-the-planet
-- /the-most-usefull--net-tool-on-the-face-of-the-planet-
-- /blog/the-most-usefull--net-tool-on-the-face-of-the-planet-
 - /resources/5AaOgf__tP8
-- /resources/blog/the-most-usefull-net-tool-on-the-face-of-the-planet
 aliasesArchive:
 - /blog/the-most-usefull-net-tool-on-the-face-of-the-planet
 - /the-most-usefull-net-tool-on-the-face-of-the-planet

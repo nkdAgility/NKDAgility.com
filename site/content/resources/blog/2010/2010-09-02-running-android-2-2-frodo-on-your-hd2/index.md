@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: running-android-2-2-frodo-on-your-hd2
 aliases:
-- /blog/running-android-2-2-frodo-on-your-hd2
-- /running-android-2-2-frodo-on-your-hd2
-- /running-android-2-2-(frodo)-on-your-hd2
-- /blog/running-android-2-2-(frodo)-on-your-hd2
 - /resources/pEjQq9m7081
-- /resources/blog/running-android-2-2-frodo-on-your-hd2
 aliasesArchive:
 - /blog/running-android-2-2-frodo-on-your-hd2
 - /running-android-2-2-frodo-on-your-hd2

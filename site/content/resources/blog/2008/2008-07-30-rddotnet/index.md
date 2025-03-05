@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: rddotnet
 aliases:
-- /blog/rddotnet
-- /rddotnet
 - /resources/gihU6AH59yn
-- /resources/blog/rddotnet
 aliasesArchive:
 - /blog/rddotnet
 - /rddotnet

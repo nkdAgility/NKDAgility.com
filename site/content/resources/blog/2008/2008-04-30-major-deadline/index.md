@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: major-deadline
 aliases:
-- /blog/major-deadline
-- /major-deadline
 - /resources/qNeovUSRj-o
-- /resources/blog/major-deadline
 aliasesArchive:
 - /blog/major-deadline
 - /major-deadline

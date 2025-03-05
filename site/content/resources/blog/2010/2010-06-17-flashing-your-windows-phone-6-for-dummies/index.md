@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: flashing-your-windows-phone-6-for-dummies
 aliases:
-- /blog/flashing-your-windows-phone-6-for-dummies
-- /flashing-your-windows-phone-6-for-dummies
 - /resources/1tC2VKI3OMf
-- /resources/blog/flashing-your-windows-phone-6-for-dummies
 aliasesArchive:
 - /blog/flashing-your-windows-phone-6-for-dummies
 - /flashing-your-windows-phone-6-for-dummies

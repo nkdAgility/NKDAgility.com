@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: disqus-chrome-with-non-support
 aliases:
-- /blog/disqus-chrome-with-non-support
-- /disqus-chrome-with-non-support
-- /disqus-&-chrome-with-non-support
-- /blog/disqus-&-chrome-with-non-support
 - /resources/1XIDHtEDmeQ
-- /resources/blog/disqus-chrome-with-non-support
 aliasesArchive:
 - /blog/disqus-chrome-with-non-support
 - /disqus-chrome-with-non-support

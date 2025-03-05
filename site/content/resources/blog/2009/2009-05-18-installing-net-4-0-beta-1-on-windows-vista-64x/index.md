@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: installing-net-4-0-beta-1-on-windows-vista-64x
 aliases:
-- /blog/installing-net-4-0-beta-1-on-windows-vista-64x
-- /installing-net-4-0-beta-1-on-windows-vista-64x
-- /installing--net-4-0-beta-1-on-windows-vista-64x
-- /blog/installing--net-4-0-beta-1-on-windows-vista-64x
 - /resources/v5UNW1ylUxI
-- /resources/blog/installing-net-4-0-beta-1-on-windows-vista-64x
 aliasesArchive:
 - /blog/installing-net-4-0-beta-1-on-windows-vista-64x
 - /installing-net-4-0-beta-1-on-windows-vista-64x

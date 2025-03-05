@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: refocus
 aliases:
-- /blog/refocus
-- /refocus---
-- /blog/refocus---
 - /resources/ofk0IF885SJ
-- /refocus
-- /resources/blog/refocus
 aliasesArchive:
 - /blog/refocus
 - /refocus---

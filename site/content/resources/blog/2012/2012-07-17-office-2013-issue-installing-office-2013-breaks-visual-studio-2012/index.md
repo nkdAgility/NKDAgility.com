@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: office-2013-issue-installing-office-2013-breaks-visual-studio-2012
 aliases:
-- /blog/office-2013-issue-installing-office-2013-breaks-visual-studio-2012
-- /office-2013-issue-installing-office-2013-breaks-visual-studio-2012
-- /office-2013-issue--installing-office-2013-breaks-visual-studio-2012
-- /blog/office-2013-issue--installing-office-2013-breaks-visual-studio-2012
 - /resources/ScEwWPyBqLw
-- /resources/blog/office-2013-issue-installing-office-2013-breaks-visual-studio-2012
 aliasesArchive:
 - /blog/office-2013-issue-installing-office-2013-breaks-visual-studio-2012
 - /office-2013-issue-installing-office-2013-breaks-visual-studio-2012

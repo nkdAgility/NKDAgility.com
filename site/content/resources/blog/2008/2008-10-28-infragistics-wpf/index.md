@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: infragistics-wpf
 aliases:
-- /blog/infragistics-wpf
-- /infragistics-wpf
 - /resources/qNzd15yz5fn
-- /resources/blog/infragistics-wpf
 aliasesArchive:
 - /blog/infragistics-wpf
 - /infragistics-wpf

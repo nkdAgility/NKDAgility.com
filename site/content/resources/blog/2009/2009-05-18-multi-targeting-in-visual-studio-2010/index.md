@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: multi-targeting-in-visual-studio-2010
 aliases:
-- /blog/multi-targeting-in-visual-studio-2010
-- /multi-targeting-in-visual-studio-2010
 - /resources/j92AlbTRvDq
-- /resources/blog/multi-targeting-in-visual-studio-2010
 aliasesArchive:
 - /blog/multi-targeting-in-visual-studio-2010
 - /multi-targeting-in-visual-studio-2010

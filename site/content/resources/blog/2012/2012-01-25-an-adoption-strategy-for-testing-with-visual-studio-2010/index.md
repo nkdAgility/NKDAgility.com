@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: an-adoption-strategy-for-testing-with-visual-studio-2010
 aliases:
-- /blog/an-adoption-strategy-for-testing-with-visual-studio-2010
-- /an-adoption-strategy-for-testing-with-visual-studio-2010
 - /resources/InqupQ5d983
-- /resources/blog/an-adoption-strategy-for-testing-with-visual-studio-2010
 aliasesArchive:
 - /blog/an-adoption-strategy-for-testing-with-visual-studio-2010
 - /an-adoption-strategy-for-testing-with-visual-studio-2010

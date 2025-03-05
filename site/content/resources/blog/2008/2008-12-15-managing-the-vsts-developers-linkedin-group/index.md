@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: managing-the-vsts-developers-linkedin-group
 aliases:
-- /blog/managing-the-vsts-developers-linkedin-group
-- /managing-the-vsts-developers-linkedin-group
-- /managing-the-“vsts-developers”-linkedin-group-
-- /blog/managing-the-“vsts-developers”-linkedin-group-
 - /resources/FNNPsRLDXlu
-- /resources/blog/managing-the-vsts-developers-linkedin-group
 aliasesArchive:
 - /blog/managing-the-vsts-developers-linkedin-group
 - /managing-the-vsts-developers-linkedin-group

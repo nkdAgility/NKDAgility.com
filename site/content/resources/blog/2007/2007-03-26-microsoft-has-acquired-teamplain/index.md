@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: microsoft-has-acquired-teamplain
 aliases:
-- /blog/microsoft-has-acquired-teamplain
-- /microsoft-has-acquired-teamplain
 - /resources/uXJxvyaVhda
-- /resources/blog/microsoft-has-acquired-teamplain
 aliasesArchive:
 - /blog/microsoft-has-acquired-teamplain
 - /microsoft-has-acquired-teamplain

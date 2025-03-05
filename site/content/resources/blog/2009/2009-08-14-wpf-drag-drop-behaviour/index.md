@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: wpf-drag-drop-behaviour
 aliases:
-- /blog/wpf-drag-drop-behaviour
-- /wpf-drag-drop-behaviour
-- /wpf-drag-&-drop-behaviour
-- /blog/wpf-drag-&-drop-behaviour
 - /resources/-BCzcrYA0j8
-- /resources/blog/wpf-drag-drop-behaviour
 aliasesArchive:
 - /blog/wpf-drag-drop-behaviour
 - /wpf-drag-drop-behaviour

@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: database-corruption-in-tfs-2005-causes-tf246017-during-upgrade
 aliases:
-- /blog/database-corruption-in-tfs-2005-causes-tf246017-during-upgrade
-- /database-corruption-in-tfs-2005-causes-tf246017-during-upgrade
 - /resources/YVhqKOWo2QQ
-- /resources/blog/database-corruption-in-tfs-2005-causes-tf246017-during-upgrade
 aliasesArchive:
 - /blog/database-corruption-in-tfs-2005-causes-tf246017-during-upgrade
 - /database-corruption-in-tfs-2005-causes-tf246017-during-upgrade

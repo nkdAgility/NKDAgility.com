@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: log-elmah-errors-in-team-foundation-server
 aliases:
-- /blog/log-elmah-errors-in-team-foundation-server
-- /log-elmah-errors-in-team-foundation-server
 - /resources/FGTZV3eWHR9
-- /resources/blog/log-elmah-errors-in-team-foundation-server
 aliasesArchive:
 - /blog/log-elmah-errors-in-team-foundation-server
 - /log-elmah-errors-in-team-foundation-server

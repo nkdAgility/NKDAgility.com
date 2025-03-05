@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: windows-server-2012-core-for-dummies
 aliases:
-- /blog/windows-server-2012-core-for-dummies
-- /windows-server-2012-core-for-dummies
 - /resources/qtma311iiMY
-- /resources/blog/windows-server-2012-core-for-dummies
 aliasesArchive:
 - /blog/windows-server-2012-core-for-dummies
 - /windows-server-2012-core-for-dummies

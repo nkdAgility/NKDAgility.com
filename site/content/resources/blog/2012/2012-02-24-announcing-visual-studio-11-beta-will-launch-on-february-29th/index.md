@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: announcing-visual-studio-11-beta-will-launch-on-february-29th
 aliases:
-- /blog/announcing-visual-studio-11-beta-will-launch-on-february-29th
-- /announcing-visual-studio-11-beta-will-launch-on-february-29th
 - /resources/oP62ZJrRzkU
-- /resources/blog/announcing-visual-studio-11-beta-will-launch-on-february-29th
 aliasesArchive:
 - /blog/announcing-visual-studio-11-beta-will-launch-on-february-29th
 - /announcing-visual-studio-11-beta-will-launch-on-february-29th

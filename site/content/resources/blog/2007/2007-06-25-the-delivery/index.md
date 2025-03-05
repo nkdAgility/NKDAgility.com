@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: the-delivery
 aliases:
-- /blog/the-delivery
-- /the-delivery
 - /resources/Cy6oTqwpH2P
-- /resources/blog/the-delivery
 aliasesArchive:
 - /blog/the-delivery
 - /the-delivery

@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: windows-live-id-and-openid
 aliases:
-- /blog/windows-live-id-and-openid
-- /windows-live-id-and-openid
 - /resources/OsETJoX5w_V
-- /resources/blog/windows-live-id-and-openid
 aliasesArchive:
 - /blog/windows-live-id-and-openid
 - /windows-live-id-and-openid

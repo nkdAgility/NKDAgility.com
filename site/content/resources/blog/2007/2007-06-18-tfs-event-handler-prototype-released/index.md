@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-event-handler-prototype-released
 aliases:
-- /blog/tfs-event-handler-prototype-released
-- /tfs-event-handler-prototype-released
-- /tfs-event-handler--prototype-released
-- /blog/tfs-event-handler--prototype-released
 - /resources/bfZgaw94nbj
-- /resources/blog/tfs-event-handler-prototype-released
 aliasesArchive:
 - /blog/tfs-event-handler-prototype-released
 - /tfs-event-handler-prototype-released

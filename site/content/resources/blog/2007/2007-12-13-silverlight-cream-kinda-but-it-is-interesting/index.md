@@ -14,14 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: silverlight-cream-kinda-but-it-is-interesting
 aliases:
-- /blog/silverlight-cream-kinda-but-it-is-interesting
-- /silverlight-cream-kinda-but-it-is-interesting
-- /silverlight-cream,-kinda,-but-it-is-interesting-
-- /blog/silverlight-cream,-kinda,-but-it-is-interesting-
 - /resources/FoFh5MvtoSA
-- /silverlight-cream--kinda--but-it-is-interesting-
-- /blog/silverlight-cream--kinda--but-it-is-interesting-
-- /resources/blog/silverlight-cream-kinda-but-it-is-interesting
 aliasesArchive:
 - /blog/silverlight-cream-kinda-but-it-is-interesting
 - /silverlight-cream-kinda-but-it-is-interesting

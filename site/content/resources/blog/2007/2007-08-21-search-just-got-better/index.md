@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: search-just-got-better
 aliases:
-- /blog/search-just-got-better
-- /search-just-got-better
 - /resources/TUpvQFU0NSg
-- /resources/blog/search-just-got-better
 aliasesArchive:
 - /blog/search-just-got-better
 - /search-just-got-better

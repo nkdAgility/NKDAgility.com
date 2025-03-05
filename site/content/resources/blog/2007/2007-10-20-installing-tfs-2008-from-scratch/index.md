@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: installing-tfs-2008-from-scratch
 aliases:
-- /blog/installing-tfs-2008-from-scratch
-- /installing-tfs-2008-from-scratch
 - /resources/90J7b6pXQm3
-- /resources/blog/installing-tfs-2008-from-scratch
 aliasesArchive:
 - /blog/installing-tfs-2008-from-scratch
 - /installing-tfs-2008-from-scratch

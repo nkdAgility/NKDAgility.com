@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: scottish-visual-studio-2010-launch-event-with-jason-zander
 aliases:
-- /blog/scottish-visual-studio-2010-launch-event-with-jason-zander
-- /scottish-visual-studio-2010-launch-event-with-jason-zander
 - /resources/6uW7o7pk9WZ
-- /resources/blog/scottish-visual-studio-2010-launch-event-with-jason-zander
 aliasesArchive:
 - /blog/scottish-visual-studio-2010-launch-event-with-jason-zander
 - /scottish-visual-studio-2010-launch-event-with-jason-zander

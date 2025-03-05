@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: scott-guthrie-in-glasgow
 aliases:
-- /blog/scott-guthrie-in-glasgow
-- /scott-guthrie-in-glasgow
 - /resources/JkUaXsGbwTq
-- /resources/blog/scott-guthrie-in-glasgow
 aliasesArchive:
 - /blog/scott-guthrie-in-glasgow
 - /scott-guthrie-in-glasgow

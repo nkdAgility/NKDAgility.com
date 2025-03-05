@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-feature-wish-tfs-checkin-notifier
 aliases:
-- /blog/tfs-feature-wish-tfs-checkin-notifier
-- /tfs-feature-wish-tfs-checkin-notifier
-- /tfs-feature-wish-(tfs-checkin-notifier)
-- /blog/tfs-feature-wish-(tfs-checkin-notifier)
 - /resources/1QNKNnc1Mvj
-- /resources/blog/tfs-feature-wish-tfs-checkin-notifier
 aliasesArchive:
 - /blog/tfs-feature-wish-tfs-checkin-notifier
 - /tfs-feature-wish-tfs-checkin-notifier

@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: reformat-your-css-on-the-fly
 aliases:
-- /blog/reformat-your-css-on-the-fly
-- /reformat-your-css-on-the-fly
 - /resources/elcSY_VSAVs
-- /resources/blog/reformat-your-css-on-the-fly
 aliasesArchive:
 - /blog/reformat-your-css-on-the-fly
 - /reformat-your-css-on-the-fly

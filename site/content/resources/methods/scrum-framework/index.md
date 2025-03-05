@@ -9,8 +9,6 @@ draft: true
 resourceTypes: method
 layout: method
 aliases:
-- /methods/scrum-framework/
-- /learn/agile-delivery-kit/strategies/scrum-framework/
 - /resources/peNS32Lw-sn
 aliasesArchive:
 - /methods/scrum-framework/
@@ -21,7 +19,6 @@ card:
   title: Scrum Framework
   content: Scrum Framework
 categories:
-- Scrum
 - Social Technologies
 tags:
 - Agile Frameworks

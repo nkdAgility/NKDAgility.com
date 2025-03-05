@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: amusing-job-requirements
 aliases:
-- /blog/amusing-job-requirements
-- /amusing-job-requirements
 - /resources/NU1-eAy72tU
-- /resources/blog/amusing-job-requirements
 aliasesArchive:
 - /blog/amusing-job-requirements
 - /amusing-job-requirements

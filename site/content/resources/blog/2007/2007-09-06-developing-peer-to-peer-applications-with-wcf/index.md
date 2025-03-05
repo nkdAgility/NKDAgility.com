@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: developing-peer-to-peer-applications-with-wcf
 aliases:
-- /blog/developing-peer-to-peer-applications-with-wcf
-- /developing-peer-to-peer-applications-with-wcf
 - /resources/SlusLOwCCkg
-- /resources/blog/developing-peer-to-peer-applications-with-wcf
 aliasesArchive:
 - /blog/developing-peer-to-peer-applications-with-wcf
 - /developing-peer-to-peer-applications-with-wcf

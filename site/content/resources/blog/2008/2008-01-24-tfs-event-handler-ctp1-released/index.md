@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-event-handler-ctp1-released
 aliases:
-- /blog/tfs-event-handler-ctp1-released
-- /tfs-event-handler-ctp1-released
 - /resources/iC_oZlW88n0
-- /resources/blog/tfs-event-handler-ctp1-released
 aliasesArchive:
 - /blog/tfs-event-handler-ctp1-released
 - /tfs-event-handler-ctp1-released

@@ -62,15 +62,6 @@
     "reasoning": "Content primarily discusses the release of software updates and bug fixes, with no focus on organisational agility or related practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T10:07:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release of Visual Studio SP1 and Team Foundation Server SP1, with no clear focus on Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-17T10:07:10",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of Visual Studio SP1 and Team System SP1, with no mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-05T14:38:34",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses the release of Visual Studio SP1 and Team Foundation Server SP1, with no explicit mention of Scrum principles, roles, events, or practices. While it touches on topics related to software development tools, it does not align with the core themes of Scrum or provide any depth on Scrum-related discussions.",
     "level": "Ignored"
   }
 }

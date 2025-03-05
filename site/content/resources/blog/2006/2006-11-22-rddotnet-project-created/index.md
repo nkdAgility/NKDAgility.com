@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: rddotnet-project-created
 aliases:
-- /blog/rddotnet-project-created
-- /rddotnet-project-created
 - /resources/cD1LS3C3pX0
-- /resources/blog/rddotnet-project-created
 aliasesArchive:
 - /blog/rddotnet-project-created
 - /rddotnet-project-created

@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: the-future-of-software-development
 aliases:
-- /blog/the-future-of-software-development
-- /the-future-of-software-development
 - /resources/y4gWKp3Fy4v
-- /resources/blog/the-future-of-software-development
 aliasesArchive:
 - /blog/the-future-of-software-development
 - /the-future-of-software-development

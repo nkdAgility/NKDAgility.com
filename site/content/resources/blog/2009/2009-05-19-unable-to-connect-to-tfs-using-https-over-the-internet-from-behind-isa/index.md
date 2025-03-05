@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: unable-to-connect-to-tfs-using-https-over-the-internet-from-behind-isa
 aliases:
-- /blog/unable-to-connect-to-tfs-using-https-over-the-internet-from-behind-isa
-- /unable-to-connect-to-tfs-using-https-over-the-internet-from-behind-isa
 - /resources/6IrP42bGBD6
-- /resources/blog/unable-to-connect-to-tfs-using-https-over-the-internet-from-behind-isa
 aliasesArchive:
 - /blog/unable-to-connect-to-tfs-using-https-over-the-internet-from-behind-isa
 - /unable-to-connect-to-tfs-using-https-over-the-internet-from-behind-isa

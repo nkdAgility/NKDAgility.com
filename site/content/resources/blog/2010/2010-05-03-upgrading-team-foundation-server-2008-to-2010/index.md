@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: upgrading-team-foundation-server-2008-to-2010
 aliases:
-- /blog/upgrading-team-foundation-server-2008-to-2010
-- /upgrading-team-foundation-server-2008-to-2010
 - /resources/eKRnTeo9UMp
-- /resources/blog/upgrading-team-foundation-server-2008-to-2010
 aliasesArchive:
 - /blog/upgrading-team-foundation-server-2008-to-2010
 - /upgrading-team-foundation-server-2008-to-2010

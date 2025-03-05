@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: installing-visual-studio-2005-on-windows-vista
 aliases:
-- /blog/installing-visual-studio-2005-on-windows-vista
-- /installing-visual-studio-2005-on-windows-vista
 - /resources/NxfpKwvGzvy
-- /resources/blog/installing-visual-studio-2005-on-windows-vista
 aliasesArchive:
 - /blog/installing-visual-studio-2005-on-windows-vista
 - /installing-visual-studio-2005-on-windows-vista

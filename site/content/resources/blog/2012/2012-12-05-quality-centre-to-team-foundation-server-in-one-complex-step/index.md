@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: quality-centre-to-team-foundation-server-in-one-complex-step
 aliases:
-- /blog/quality-centre-to-team-foundation-server-in-one-complex-step
-- /quality-centre-to-team-foundation-server-in-one-complex-step
 - /resources/c2QQURpbvrm
-- /resources/blog/quality-centre-to-team-foundation-server-in-one-complex-step
 aliasesArchive:
 - /blog/quality-centre-to-team-foundation-server-in-one-complex-step
 - /quality-centre-to-team-foundation-server-in-one-complex-step

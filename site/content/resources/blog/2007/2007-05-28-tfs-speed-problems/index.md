@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-speed-problems
 aliases:
-- /blog/tfs-speed-problems
-- /tfs-speed-problems
 - /resources/OeHyC7ftjHo
-- /resources/blog/tfs-speed-problems
 aliasesArchive:
 - /blog/tfs-speed-problems
 - /tfs-speed-problems

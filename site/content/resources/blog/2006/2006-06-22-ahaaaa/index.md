@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: ahaaaa
 aliases:
-- /blog/ahaaaa
-- /ahaaaa
-- /ahaaaa-
-- /blog/ahaaaa-
 - /resources/E3cUOS0i5ul
-- /resources/blog/ahaaaa
 aliasesArchive:
 - /blog/ahaaaa
 - /ahaaaa

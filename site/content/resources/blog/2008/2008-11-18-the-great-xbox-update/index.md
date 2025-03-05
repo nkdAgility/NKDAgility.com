@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: the-great-xbox-update
 aliases:
-- /blog/the-great-xbox-update
-- /the-great-xbox-update
 - /resources/X8DVH4Nrsye
-- /resources/blog/the-great-xbox-update
 aliasesArchive:
 - /blog/the-great-xbox-update
 - /the-great-xbox-update

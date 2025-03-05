@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: adventures-in-scrum-lesson-1-the-failed-sprint
 aliases:
-- /blog/adventures-in-scrum-lesson-1-the-failed-sprint
-- /adventures-in-scrum-lesson-1-the-failed-sprint
-- /adventures-in-scrum--lesson-1-–-the-failed-sprint
-- /blog/adventures-in-scrum--lesson-1-–-the-failed-sprint
 - /resources/OG5mmVtH9nU
-- /resources/blog/adventures-in-scrum-lesson-1-the-failed-sprint
 aliasesArchive:
 - /blog/adventures-in-scrum-lesson-1-the-failed-sprint
 - /adventures-in-scrum-lesson-1-the-failed-sprint

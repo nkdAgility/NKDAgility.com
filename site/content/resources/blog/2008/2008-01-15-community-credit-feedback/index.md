@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: community-credit-feedback
 aliases:
-- /blog/community-credit-feedback
-- /community-credit-feedback
 - /resources/HElvJm048ib
-- /resources/blog/community-credit-feedback
 aliasesArchive:
 - /blog/community-credit-feedback
 - /community-credit-feedback

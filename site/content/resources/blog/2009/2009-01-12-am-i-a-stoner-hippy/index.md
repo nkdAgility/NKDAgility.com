@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: am-i-a-stoner-hippy
 aliases:
-- /blog/am-i-a-stoner-hippy
-- /am-i-a-stoner-hippy
-- /am-i-a-stoner-hippy-
-- /blog/am-i-a-stoner-hippy-
 - /resources/CNzLcasBQF9
-- /resources/blog/am-i-a-stoner-hippy
 aliasesArchive:
 - /blog/am-i-a-stoner-hippy
 - /am-i-a-stoner-hippy

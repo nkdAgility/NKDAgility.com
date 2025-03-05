@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: windows-7-rc
 aliases:
-- /blog/windows-7-rc
-- /windows-7-rc
 - /resources/Rb281yyb0Cl
-- /resources/blog/windows-7-rc
 aliasesArchive:
 - /blog/windows-7-rc
 - /windows-7-rc

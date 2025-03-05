@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: sync-extension-for-listscollections-or-whatever
 aliases:
-- /blog/sync-extension-for-listscollections-or-whatever
-- /sync-extension-for-listscollections-or-whatever
-- /sync-extension-for-lists-collections-or-whatever
-- /blog/sync-extension-for-lists-collections-or-whatever
 - /resources/hDlrQdNzLp1
-- /resources/blog/sync-extension-for-listscollections-or-whatever
 aliasesArchive:
 - /blog/sync-extension-for-listscollections-or-whatever
 - /sync-extension-for-listscollections-or-whatever

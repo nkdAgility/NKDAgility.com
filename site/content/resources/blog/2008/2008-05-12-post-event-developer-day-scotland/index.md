@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: post-event-developer-day-scotland
 aliases:
-- /blog/post-event-developer-day-scotland
-- /post-event-developer-day-scotland
-- /post-event--developer-day-scotland---
-- /blog/post-event--developer-day-scotland---
 - /resources/gVVlURec7mu
-- /resources/blog/post-event-developer-day-scotland
 aliasesArchive:
 - /blog/post-event-developer-day-scotland
 - /post-event-developer-day-scotland

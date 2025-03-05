@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
 aliases:
-- /blog/solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
-- /solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
 - /resources/B1bu87flA8w
-- /resources/blog/solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
 aliasesArchive:
 - /blog/solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
 - /solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server

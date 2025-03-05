@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: rangers-shipped-visual-studio-2010-database-guide
 aliases:
-- /blog/rangers-shipped-visual-studio-2010-database-guide
-- /rangers-shipped-visual-studio-2010-database-guide
 - /resources/cPIxk6Q_Dan
-- /resources/blog/rangers-shipped-visual-studio-2010-database-guide
 aliasesArchive:
 - /blog/rangers-shipped-visual-studio-2010-database-guide
 - /rangers-shipped-visual-studio-2010-database-guide

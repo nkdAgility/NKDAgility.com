@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: internet-explorer-8-release-candidate-1-rc1
 aliases:
-- /blog/internet-explorer-8-release-candidate-1-rc1
-- /internet-explorer-8-release-candidate-1-rc1
-- /internet-explorer-8-release-candidate-1-(rc1)
-- /blog/internet-explorer-8-release-candidate-1-(rc1)
 - /resources/RHIiRGd5H31
-- /resources/blog/internet-explorer-8-release-candidate-1-rc1
 aliasesArchive:
 - /blog/internet-explorer-8-release-candidate-1-rc1
 - /internet-explorer-8-release-candidate-1-rc1

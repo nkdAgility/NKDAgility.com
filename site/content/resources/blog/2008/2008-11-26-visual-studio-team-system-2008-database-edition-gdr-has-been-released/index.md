@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: visual-studio-team-system-2008-database-edition-gdr-has-been-released
 aliases:
-- /blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released
-- /visual-studio-team-system-2008-database-edition-gdr-has-been-released
-- /visual-studio-team-system-2008-database-edition-gdr-has-been-released-
-- /blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released-
 - /resources/VkCGOULM8GF
-- /resources/blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released
 aliasesArchive:
 - /blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released
 - /visual-studio-team-system-2008-database-edition-gdr-has-been-released

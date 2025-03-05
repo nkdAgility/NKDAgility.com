@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-data-manager
 aliases:
-- /blog/tfs-data-manager
-- /tfs-data-manager
 - /resources/0STlzaSKK3X
-- /resources/blog/tfs-data-manager
 aliasesArchive:
 - /blog/tfs-data-manager
 - /tfs-data-manager

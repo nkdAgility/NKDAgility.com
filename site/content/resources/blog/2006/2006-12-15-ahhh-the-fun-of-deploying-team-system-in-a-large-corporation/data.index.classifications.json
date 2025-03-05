@@ -62,15 +62,6 @@
     "reasoning": "Content primarily discusses the deployment of Team Foundation Server (TFS) within a corporate environment, focusing on technical aspects rather than organisational agility or related strategies.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T10:08:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Team Foundation Server (TFS) deployment and related technical issues, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-17T10:08:33",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the deployment of Team Foundation Server and related technical issues, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-05T14:38:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses deploying Team Foundation Server (TFS) within a corporate environment, which is not directly related to Scrum principles or practices. While TFS can be used in Agile environments, the content does not mention Scrum roles, events, or artifacts, nor does it align with the core themes of Scrum. The discussion is more focused on technical deployment issues rather than Scrum methodologies.",
+    "level": "Quinary"
   }
 }

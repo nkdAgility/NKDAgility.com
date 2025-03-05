@@ -14,14 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: microsoft-forget-about-paypal-how-about-a-mastercard-killer
 aliases:
-- /blog/microsoft-forget-about-paypal-how-about-a-mastercard-killer
-- /microsoft-forget-about-paypal-how-about-a-mastercard-killer
-- /microsoft--forget-about-paypal,-how-about-a-mastercard-killer-
-- /blog/microsoft--forget-about-paypal,-how-about-a-mastercard-killer-
 - /resources/i3ovxH1TSqK
-- /microsoft--forget-about-paypal--how-about-a-mastercard-killer-
-- /blog/microsoft--forget-about-paypal--how-about-a-mastercard-killer-
-- /resources/blog/microsoft-forget-about-paypal-how-about-a-mastercard-killer
 aliasesArchive:
 - /blog/microsoft-forget-about-paypal-how-about-a-mastercard-killer
 - /microsoft-forget-about-paypal-how-about-a-mastercard-killer

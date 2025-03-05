@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
 aliases:
-- /blog/creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
-- /creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
 - /resources/9fVxqpOPzX8
-- /resources/blog/creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
 aliasesArchive:
 - /blog/creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
 - /creating-a-backup-in-team-foundation-server-2010-using-the-power-tools

@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: xbox-live-to-twitter
 aliases:
-- /blog/xbox-live-to-twitter
-- /xbox-live-to-twitter
 - /resources/7DGS8UR6dab
-- /resources/blog/xbox-live-to-twitter
 aliasesArchive:
 - /blog/xbox-live-to-twitter
 - /xbox-live-to-twitter

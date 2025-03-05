@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: green-to-orangejoining-the-vsip-team-as-a-technical-product-manager
 aliases:
-- /blog/green-to-orangejoining-the-vsip-team-as-a-technical-product-manager
-- /green-to-orangejoining-the-vsip-team-as-a-technical-product-manager
-- /green-to-orange–joining-the-vsip-team-as-a-technical-product-manager
-- /blog/green-to-orange–joining-the-vsip-team-as-a-technical-product-manager
 - /resources/P0ESCmC9VhB
-- /resources/blog/green-to-orangejoining-the-vsip-team-as-a-technical-product-manager
 aliasesArchive:
 - /blog/green-to-orangejoining-the-vsip-team-as-a-technical-product-manager
 - /green-to-orangejoining-the-vsip-team-as-a-technical-product-manager

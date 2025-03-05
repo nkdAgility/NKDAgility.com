@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: free-online-training-from-microsoft
 aliases:
-- /blog/free-online-training-from-microsoft
-- /free-online-training-from-microsoft
 - /resources/BGC7JkOCdJs
-- /resources/blog/free-online-training-from-microsoft
 aliasesArchive:
 - /blog/free-online-training-from-microsoft
 - /free-online-training-from-microsoft

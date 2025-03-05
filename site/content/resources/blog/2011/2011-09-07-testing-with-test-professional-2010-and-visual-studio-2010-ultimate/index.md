@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: testing-with-test-professional-2010-and-visual-studio-2010-ultimate
 aliases:
-- /blog/testing-with-test-professional-2010-and-visual-studio-2010-ultimate
-- /testing-with-test-professional-2010-and-visual-studio-2010-ultimate
 - /resources/SPcXGSE8VUI
-- /resources/blog/testing-with-test-professional-2010-and-visual-studio-2010-ultimate
 aliasesArchive:
 - /blog/testing-with-test-professional-2010-and-visual-studio-2010-ultimate
 - /testing-with-test-professional-2010-and-visual-studio-2010-ultimate

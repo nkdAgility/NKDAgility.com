@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: microsoft-document-explorer-2008-on-window-7
 aliases:
-- /blog/microsoft-document-explorer-2008-on-window-7
-- /microsoft-document-explorer-2008-on-window-7
 - /resources/kCaERZgxgy3
-- /resources/blog/microsoft-document-explorer-2008-on-window-7
 aliasesArchive:
 - /blog/microsoft-document-explorer-2008-on-window-7
 - /microsoft-document-explorer-2008-on-window-7

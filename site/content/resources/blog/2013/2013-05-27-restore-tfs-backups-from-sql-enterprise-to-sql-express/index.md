@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: restore-tfs-backups-from-sql-enterprise-to-sql-express
 aliases:
-- /blog/restore-tfs-backups-from-sql-enterprise-to-sql-express
-- /restore-tfs-backups-from-sql-enterprise-to-sql-express
 - /resources/Rtjw5m2qP3t
-- /resources/blog/restore-tfs-backups-from-sql-enterprise-to-sql-express
 aliasesArchive:
 - /blog/restore-tfs-backups-from-sql-enterprise-to-sql-express
 - /restore-tfs-backups-from-sql-enterprise-to-sql-express

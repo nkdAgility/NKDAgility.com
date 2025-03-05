@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: beta-exam-71-510-ts-visual-studio-2005-team-foundation-server
 aliases:
-- /blog/beta-exam-71-510-ts-visual-studio-2005-team-foundation-server
-- /beta-exam-71-510-ts-visual-studio-2005-team-foundation-server
-- /beta-exam-71-510--ts--visual-studio-2005-team-foundation-server
-- /blog/beta-exam-71-510--ts--visual-studio-2005-team-foundation-server
 - /resources/KuQewTMxwar
-- /resources/blog/beta-exam-71-510-ts-visual-studio-2005-team-foundation-server
 aliasesArchive:
 - /blog/beta-exam-71-510-ts-visual-studio-2005-team-foundation-server
 - /beta-exam-71-510-ts-visual-studio-2005-team-foundation-server

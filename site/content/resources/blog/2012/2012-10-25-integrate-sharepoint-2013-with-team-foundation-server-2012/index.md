@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: integrate-sharepoint-2013-with-team-foundation-server-2012
 aliases:
-- /blog/integrate-sharepoint-2013-with-team-foundation-server-2012
-- /integrate-sharepoint-2013-with-team-foundation-server-2012
 - /resources/Yz4ahbFh1ay
-- /resources/blog/integrate-sharepoint-2013-with-team-foundation-server-2012
 aliasesArchive:
 - /blog/integrate-sharepoint-2013-with-team-foundation-server-2012
 - /integrate-sharepoint-2013-with-team-foundation-server-2012

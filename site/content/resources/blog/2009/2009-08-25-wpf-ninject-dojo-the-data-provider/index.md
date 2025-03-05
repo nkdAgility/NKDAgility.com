@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: wpf-ninject-dojo-the-data-provider
 aliases:
-- /blog/wpf-ninject-dojo-the-data-provider
-- /wpf-ninject-dojo-the-data-provider
-- /wpf-ninject-dojo--the-data-provider
-- /blog/wpf-ninject-dojo--the-data-provider
 - /resources/fiHZn7VEOpq
-- /resources/blog/wpf-ninject-dojo-the-data-provider
 aliasesArchive:
 - /blog/wpf-ninject-dojo-the-data-provider
 - /wpf-ninject-dojo-the-data-provider

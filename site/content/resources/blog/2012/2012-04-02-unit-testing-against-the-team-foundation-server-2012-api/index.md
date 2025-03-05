@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: unit-testing-against-the-team-foundation-server-2012-api
 aliases:
-- /blog/unit-testing-against-the-team-foundation-server-2012-api
-- /unit-testing-against-the-team-foundation-server-2012-api
 - /resources/eizpccdEtUL
-- /resources/blog/unit-testing-against-the-team-foundation-server-2012-api
 aliasesArchive:
 - /blog/unit-testing-against-the-team-foundation-server-2012-api
 - /unit-testing-against-the-team-foundation-server-2012-api

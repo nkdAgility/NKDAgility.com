@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: team-server-event-handlers-made-easy
 aliases:
-- /blog/team-server-event-handlers-made-easy
-- /team-server-event-handlers-made-easy
-- /team-server-event-handlers-made-easy---
-- /blog/team-server-event-handlers-made-easy---
 - /resources/NjGpMY3aKfH
-- /resources/blog/team-server-event-handlers-made-easy
 aliasesArchive:
 - /blog/team-server-event-handlers-made-easy
 - /team-server-event-handlers-made-easy

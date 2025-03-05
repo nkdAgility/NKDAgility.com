@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
 aliases:
-- /blog/caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
-- /caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
 - /resources/uPqvuZorGO-
-- /resources/blog/caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
 aliasesArchive:
 - /blog/caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
 - /caffeinating-your-development-lifecycle-in-bellevue-on-october-13th

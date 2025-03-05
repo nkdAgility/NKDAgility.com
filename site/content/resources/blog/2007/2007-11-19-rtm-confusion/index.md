@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: rtm-confusion
 aliases:
-- /blog/rtm-confusion
-- /rtm-confusion
 - /resources/S8tFRw6ao4M
-- /resources/blog/rtm-confusion
 aliasesArchive:
 - /blog/rtm-confusion
 - /rtm-confusion

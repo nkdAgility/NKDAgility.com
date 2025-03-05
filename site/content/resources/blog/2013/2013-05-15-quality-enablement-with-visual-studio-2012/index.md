@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: quality-enablement-with-visual-studio-2012
 aliases:
-- /blog/quality-enablement-with-visual-studio-2012
-- /quality-enablement-with-visual-studio-2012
 - /resources/YcLApPV4Zgj
-- /resources/blog/quality-enablement-with-visual-studio-2012
 aliasesArchive:
 - /blog/quality-enablement-with-visual-studio-2012
 - /quality-enablement-with-visual-studio-2012

@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: ddd-scotland-v2-0-2nd-of-may-2009
 aliases:
-- /blog/ddd-scotland-v2-0-2nd-of-may-2009
-- /ddd-scotland-v2-0-2nd-of-may-2009
-- /ddd-scotland-v2-0--2nd-of-may-2009
-- /blog/ddd-scotland-v2-0--2nd-of-may-2009
 - /resources/6LNVlHaSuxS
-- /resources/blog/ddd-scotland-v2-0-2nd-of-may-2009
 aliasesArchive:
 - /blog/ddd-scotland-v2-0-2nd-of-may-2009
 - /ddd-scotland-v2-0-2nd-of-may-2009

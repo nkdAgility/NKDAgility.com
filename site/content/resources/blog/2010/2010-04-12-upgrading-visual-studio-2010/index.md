@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: upgrading-visual-studio-2010
 aliases:
-- /blog/upgrading-visual-studio-2010
-- /upgrading-visual-studio-2010
 - /resources/PqP_zdmb8WX
-- /resources/blog/upgrading-visual-studio-2010
 aliasesArchive:
 - /blog/upgrading-visual-studio-2010
 - /upgrading-visual-studio-2010

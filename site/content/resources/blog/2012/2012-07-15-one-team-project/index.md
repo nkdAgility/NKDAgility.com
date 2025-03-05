@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: one-team-project
 aliases:
-- /blog/one-team-project
-- /one-team-project
-- /one-team-project-to-rule-them-all
-- /blog/one-team-project-to-rule-them-all
 - /resources/8AfjJ-2eCEV
-- /resources/blog/one-team-project
 aliasesArchive:
 - /blog/one-team-project
 - /one-team-project

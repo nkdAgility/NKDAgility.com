@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy
 aliases:
-- /blog/disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy
-- /disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy
 - /resources/DPQr4iigMBP
-- /resources/blog/disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy
 aliasesArchive:
 - /blog/disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy
 - /disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy

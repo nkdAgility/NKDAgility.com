@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-2012-issue-get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010
 aliases:
-- /blog/tfs-2012-issue-get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010
-- /tfs-2012-issue-get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010
-- /tfs-2012-issue--get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010
-- /blog/tfs-2012-issue--get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010
 - /resources/ZbdFc4NfQUe
-- /resources/blog/tfs-2012-issue-get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010
 aliasesArchive:
 - /blog/tfs-2012-issue-get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010
 - /tfs-2012-issue-get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010

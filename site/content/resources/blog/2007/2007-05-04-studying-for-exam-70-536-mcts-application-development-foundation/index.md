@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: studying-for-exam-70-536-mcts-application-development-foundation
 aliases:
-- /blog/studying-for-exam-70-536-mcts-application-development-foundation
-- /studying-for-exam-70-536-mcts-application-development-foundation
-- /studying-for-exam-70-536--mcts-application-development-foundation
-- /blog/studying-for-exam-70-536--mcts-application-development-foundation
 - /resources/pVQvZ2ZSyk-
-- /resources/blog/studying-for-exam-70-536-mcts-application-development-foundation
 aliasesArchive:
 - /blog/studying-for-exam-70-536-mcts-application-development-foundation
 - /studying-for-exam-70-536-mcts-application-development-foundation

@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: advanced-email-content
 aliases:
-- /blog/advanced-email-content
-- /advanced-email-content
 - /resources/h1xQYYoWfnY
-- /resources/blog/advanced-email-content
 aliasesArchive:
 - /blog/advanced-email-content
 - /advanced-email-content

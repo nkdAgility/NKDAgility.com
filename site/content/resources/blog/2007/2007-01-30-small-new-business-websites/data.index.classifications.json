@@ -62,15 +62,6 @@
     "reasoning": "Content primarily discusses website development, SEO, and related services, with no clear focus on organisational agility or its principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:48:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses web development, SEO, and related topics, with no clear focus on Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-17T09:48:35",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses website development, SEO, and related topics without any mention of Artificial Intelligence or its application in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-05T14:37:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses web development, SEO, and related topics without any mention of Scrum principles, roles, events, or practices. There is no alignment with the core themes of Scrum, and the depth of discussion is minimal, focusing instead on technical aspects of website creation.",
     "level": "Ignored"
   }
 }

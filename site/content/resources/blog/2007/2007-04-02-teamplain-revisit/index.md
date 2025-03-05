@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: teamplain-revisit
 aliases:
-- /blog/teamplain-revisit
-- /teamplain-revisit
-- /teamplain---revisit
-- /blog/teamplain---revisit
 - /resources/74iowBMHVfu
-- /resources/blog/teamplain-revisit
 aliasesArchive:
 - /blog/teamplain-revisit
 - /teamplain-revisit

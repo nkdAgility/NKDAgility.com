@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: branch-madness
 aliases:
-- /blog/branch-madness
-- /branch-madness
-- /branch-madness-
-- /blog/branch-madness-
 - /resources/s2fykp0ti2Y
-- /resources/blog/branch-madness
 aliasesArchive:
 - /blog/branch-madness
 - /branch-madness

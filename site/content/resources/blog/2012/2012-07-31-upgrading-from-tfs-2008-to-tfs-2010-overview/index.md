@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: upgrading-from-tfs-2008-to-tfs-2010-overview
 aliases:
-- /blog/upgrading-from-tfs-2008-to-tfs-2010-overview
-- /upgrading-from-tfs-2008-to-tfs-2010-overview
 - /resources/sN8_s0-PGBm
-- /resources/blog/upgrading-from-tfs-2008-to-tfs-2010-overview
 aliasesArchive:
 - /blog/upgrading-from-tfs-2008-to-tfs-2010-overview
 - /upgrading-from-tfs-2008-to-tfs-2010-overview

@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: linkedin-woopsie-with-the-outlook-2010-social-media-connector
 aliases:
-- /blog/linkedin-woopsie-with-the-outlook-2010-social-media-connector
-- /linkedin-woopsie-with-the-outlook-2010-social-media-connector
 - /resources/4lmIuDVmx2V
-- /resources/blog/linkedin-woopsie-with-the-outlook-2010-social-media-connector
 aliasesArchive:
 - /blog/linkedin-woopsie-with-the-outlook-2010-social-media-connector
 - /linkedin-woopsie-with-the-outlook-2010-social-media-connector

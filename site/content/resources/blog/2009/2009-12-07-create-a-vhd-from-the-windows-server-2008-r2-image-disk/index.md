@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: create-a-vhd-from-the-windows-server-2008-r2-image-disk
 aliases:
-- /blog/create-a-vhd-from-the-windows-server-2008-r2-image-disk
-- /create-a-vhd-from-the-windows-server-2008-r2-image-disk
 - /resources/drLuFfVqIJ7
-- /resources/blog/create-a-vhd-from-the-windows-server-2008-r2-image-disk
 aliasesArchive:
 - /blog/create-a-vhd-from-the-windows-server-2008-r2-image-disk
 - /create-a-vhd-from-the-windows-server-2008-r2-image-disk

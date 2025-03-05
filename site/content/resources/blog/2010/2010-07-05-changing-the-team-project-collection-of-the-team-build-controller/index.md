@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: changing-the-team-project-collection-of-the-team-build-controller
 aliases:
-- /blog/changing-the-team-project-collection-of-the-team-build-controller
-- /changing-the-team-project-collection-of-the-team-build-controller
 - /resources/n7Y4Ij-CPvp
-- /resources/blog/changing-the-team-project-collection-of-the-team-build-controller
 aliasesArchive:
 - /blog/changing-the-team-project-collection-of-the-team-build-controller
 - /changing-the-team-project-collection-of-the-team-build-controller

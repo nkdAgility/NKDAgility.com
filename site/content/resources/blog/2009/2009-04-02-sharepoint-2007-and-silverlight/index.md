@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: sharepoint-2007-and-silverlight
 aliases:
-- /blog/sharepoint-2007-and-silverlight
-- /sharepoint-2007-and-silverlight
 - /resources/sHgkQlcvb2R
-- /resources/blog/sharepoint-2007-and-silverlight
 aliasesArchive:
 - /blog/sharepoint-2007-and-silverlight
 - /sharepoint-2007-and-silverlight

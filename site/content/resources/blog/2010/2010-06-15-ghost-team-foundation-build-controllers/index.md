@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: ghost-team-foundation-build-controllers
 aliases:
-- /blog/ghost-team-foundation-build-controllers
-- /ghost-team-foundation-build-controllers
-- /ghost-build-controllers-in-team-foundation-server
-- /blog/ghost-build-controllers-in-team-foundation-server
 - /resources/ks3BqiRqWAK
-- /resources/blog/ghost-team-foundation-build-controllers
 aliasesArchive:
 - /blog/ghost-team-foundation-build-controllers
 - /ghost-team-foundation-build-controllers

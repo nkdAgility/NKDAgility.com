@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: technorati-troubles
 aliases:
-- /blog/technorati-troubles
-- /technorati-troubles
 - /resources/r1BGZbCmJRA
-- /resources/blog/technorati-troubles
 aliasesArchive:
 - /blog/technorati-troubles
 - /technorati-troubles

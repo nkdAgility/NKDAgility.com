@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: professional-scrum-developer-net-training-in-london
 aliases:
-- /blog/professional-scrum-developer-net-training-in-london
-- /professional-scrum-developer-net-training-in-london
-- /professional-scrum-developer-(-net)-training-in-london
-- /blog/professional-scrum-developer-(-net)-training-in-london
 - /resources/3N171wqPaTf
-- /resources/blog/professional-scrum-developer-net-training-in-london
 aliasesArchive:
 - /blog/professional-scrum-developer-net-training-in-london
 - /professional-scrum-developer-net-training-in-london

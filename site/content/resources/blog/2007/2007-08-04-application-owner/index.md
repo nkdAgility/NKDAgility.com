@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: application-owner
 aliases:
-- /blog/application-owner
-- /application-owner
 - /resources/JqwdfuCbOrt
-- /resources/blog/application-owner
 aliasesArchive:
 - /blog/application-owner
 - /application-owner

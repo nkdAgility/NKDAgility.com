@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: the-search-for-a-single-point-of-truth
 aliases:
-- /blog/the-search-for-a-single-point-of-truth
-- /the-search-for-a-single-point-of-truth
 - /resources/nWNc5jUb0Up
-- /resources/blog/the-search-for-a-single-point-of-truth
 aliasesArchive:
 - /blog/the-search-for-a-single-point-of-truth
 - /the-search-for-a-single-point-of-truth

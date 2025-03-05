@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-error-msb4018-the-buildshadowtask-task-failed-unexpectedly
 aliases:
-- /blog/tfs-error-msb4018-the-buildshadowtask-task-failed-unexpectedly
-- /tfs-error-msb4018-the-buildshadowtask-task-failed-unexpectedly
-- /tfs-error--msb4018-the--buildshadowtask--task-failed-unexpectedly
-- /blog/tfs-error--msb4018-the--buildshadowtask--task-failed-unexpectedly
 - /resources/xi_wQ8zFW_U
-- /resources/blog/tfs-error-msb4018-the-buildshadowtask-task-failed-unexpectedly
 aliasesArchive:
 - /blog/tfs-error-msb4018-the-buildshadowtask-task-failed-unexpectedly
 - /tfs-error-msb4018-the-buildshadowtask-task-failed-unexpectedly

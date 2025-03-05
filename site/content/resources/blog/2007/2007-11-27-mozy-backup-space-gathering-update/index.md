@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: mozy-backup-space-gathering-update
 aliases:
-- /blog/mozy-backup-space-gathering-update
-- /mozy-backup-space-gathering-update
 - /resources/Ijl3My1sDG-
-- /resources/blog/mozy-backup-space-gathering-update
 aliasesArchive:
 - /blog/mozy-backup-space-gathering-update
 - /mozy-backup-space-gathering-update

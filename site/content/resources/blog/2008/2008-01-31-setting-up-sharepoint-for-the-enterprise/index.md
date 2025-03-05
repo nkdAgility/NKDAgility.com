@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: setting-up-sharepoint-for-the-enterprise
 aliases:
-- /blog/setting-up-sharepoint-for-the-enterprise
-- /setting-up-sharepoint-for-the-enterprise
 - /resources/q0Nsf_xfijz
-- /resources/blog/setting-up-sharepoint-for-the-enterprise
 aliasesArchive:
 - /blog/setting-up-sharepoint-for-the-enterprise
 - /setting-up-sharepoint-for-the-enterprise

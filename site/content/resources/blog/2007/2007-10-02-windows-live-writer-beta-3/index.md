@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: windows-live-writer-beta-3
 aliases:
-- /blog/windows-live-writer-beta-3
-- /windows-live-writer-beta-3
 - /resources/7OIuDx9W3kb
-- /resources/blog/windows-live-writer-beta-3
 aliasesArchive:
 - /blog/windows-live-writer-beta-3
 - /windows-live-writer-beta-3

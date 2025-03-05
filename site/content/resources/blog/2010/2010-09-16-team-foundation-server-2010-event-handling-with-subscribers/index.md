@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: team-foundation-server-2010-event-handling-with-subscribers
 aliases:
-- /blog/team-foundation-server-2010-event-handling-with-subscribers
-- /team-foundation-server-2010-event-handling-with-subscribers
 - /resources/FzwWmNio6fH
-- /resources/blog/team-foundation-server-2010-event-handling-with-subscribers
 aliasesArchive:
 - /blog/team-foundation-server-2010-event-handling-with-subscribers
 - /team-foundation-server-2010-event-handling-with-subscribers

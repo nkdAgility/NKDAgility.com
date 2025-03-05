@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: team-foundation-server-sharepoint-integration
 aliases:
-- /blog/team-foundation-server-sharepoint-integration
-- /team-foundation-server-sharepoint-integration
 - /resources/Dn2_7F_mhyC
-- /resources/blog/team-foundation-server-sharepoint-integration
 aliasesArchive:
 - /blog/team-foundation-server-sharepoint-integration
 - /team-foundation-server-sharepoint-integration

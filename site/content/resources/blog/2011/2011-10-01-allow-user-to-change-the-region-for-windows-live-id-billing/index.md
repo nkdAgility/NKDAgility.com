@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: allow-user-to-change-the-region-for-windows-live-id-billing
 aliases:
-- /blog/allow-user-to-change-the-region-for-windows-live-id-billing
-- /allow-user-to-change-the-region-for-windows-live-id-billing
 - /resources/v_DNTz1r6-H
-- /resources/blog/allow-user-to-change-the-region-for-windows-live-id-billing
 aliasesArchive:
 - /blog/allow-user-to-change-the-region-for-windows-live-id-billing
 - /allow-user-to-change-the-region-for-windows-live-id-billing

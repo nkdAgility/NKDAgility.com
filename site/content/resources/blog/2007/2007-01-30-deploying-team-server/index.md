@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: deploying-team-server
 aliases:
-- /blog/deploying-team-server
-- /deploying-team-server
 - /resources/BcNPa5LLzLX
-- /resources/blog/deploying-team-server
 aliasesArchive:
 - /blog/deploying-team-server
 - /deploying-team-server

@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: xbox-360-elite
 aliases:
-- /blog/xbox-360-elite
-- /xbox-360-elite
 - /resources/ELz8sUhrCKr
-- /resources/blog/xbox-360-elite
 aliasesArchive:
 - /blog/xbox-360-elite
 - /xbox-360-elite

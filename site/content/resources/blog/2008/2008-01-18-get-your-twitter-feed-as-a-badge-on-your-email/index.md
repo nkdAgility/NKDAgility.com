@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: get-your-twitter-feed-as-a-badge-on-your-email
 aliases:
-- /blog/get-your-twitter-feed-as-a-badge-on-your-email
-- /get-your-twitter-feed-as-a-badge-on-your-email
-- /get-your-twitter-feed-as-a-badge-on-your-email-
-- /blog/get-your-twitter-feed-as-a-badge-on-your-email-
 - /resources/RIgnx9Matxd
-- /resources/blog/get-your-twitter-feed-as-a-badge-on-your-email
 aliasesArchive:
 - /blog/get-your-twitter-feed-as-a-badge-on-your-email
 - /get-your-twitter-feed-as-a-badge-on-your-email

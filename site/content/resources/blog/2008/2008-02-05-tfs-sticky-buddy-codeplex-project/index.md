@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-sticky-buddy-codeplex-project
 aliases:
-- /blog/tfs-sticky-buddy-codeplex-project
-- /tfs-sticky-buddy-codeplex-project
 - /resources/g0bjuq5cIqX
-- /resources/blog/tfs-sticky-buddy-codeplex-project
 aliasesArchive:
 - /blog/tfs-sticky-buddy-codeplex-project
 - /tfs-sticky-buddy-codeplex-project

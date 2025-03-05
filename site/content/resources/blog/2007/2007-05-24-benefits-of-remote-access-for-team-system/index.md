@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: benefits-of-remote-access-for-team-system
 aliases:
-- /blog/benefits-of-remote-access-for-team-system
-- /benefits-of-remote-access-for-team-system
 - /resources/FOg_cOXZKmA
-- /resources/blog/benefits-of-remote-access-for-team-system
 aliasesArchive:
 - /blog/benefits-of-remote-access-for-team-system
 - /benefits-of-remote-access-for-team-system

@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: can-you-really-commit-to-delivering-work
 aliases:
-- /blog/can-you-really-commit-to-delivering-work
-- /can-you-really-commit-to-delivering-work
-- /can-you-really-commit-to-delivering-work-
-- /blog/can-you-really-commit-to-delivering-work-
 - /resources/uvzKTaweOnW
-- /resources/blog/can-you-really-commit-to-delivering-work
 aliasesArchive:
 - /blog/can-you-really-commit-to-delivering-work
 - /can-you-really-commit-to-delivering-work

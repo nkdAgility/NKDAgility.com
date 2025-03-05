@@ -14,13 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: one-team-project-collection-to-rule-them-allconsolidating-team-projects
 aliases:
-- /blog/one-team-project-collection-to-rule-them-allconsolidating-team-projects
-- /one-team-project-collection-to-rule-them-allconsolidating-team-projects
-- /one-team-project-collection-to-rule-them-all
-- /one-team-project-collection-to-rule-them-all---consolidating-team-projects
-- /blog/one-team-project-collection-to-rule-them-all---consolidating-team-projects
 - /resources/xzuqsTxb7UD
-- /resources/blog/one-team-project-collection-to-rule-them-allconsolidating-team-projects
 aliasesArchive:
 - /blog/one-team-project-collection-to-rule-them-allconsolidating-team-projects
 - /one-team-project-collection-to-rule-them-allconsolidating-team-projects

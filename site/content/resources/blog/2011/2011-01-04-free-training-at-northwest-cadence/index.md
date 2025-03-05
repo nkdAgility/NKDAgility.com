@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: free-training-at-northwest-cadence
 aliases:
-- /blog/free-training-at-northwest-cadence
-- /free-training-at-northwest-cadence
 - /resources/uZaKwlACVT_
-- /resources/blog/free-training-at-northwest-cadence
 aliasesArchive:
 - /blog/free-training-at-northwest-cadence
 - /free-training-at-northwest-cadence

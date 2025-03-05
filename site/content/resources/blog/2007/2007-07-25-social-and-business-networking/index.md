@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: social-and-business-networking
 aliases:
-- /blog/social-and-business-networking
-- /social-and-business-networking
 - /resources/wm96r47cCGV
-- /resources/blog/social-and-business-networking
 aliasesArchive:
 - /blog/social-and-business-networking
 - /social-and-business-networking

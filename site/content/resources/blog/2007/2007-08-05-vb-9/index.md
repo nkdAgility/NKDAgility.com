@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: vb-9
 aliases:
-- /blog/vb-9
-- /vb-9
 - /resources/vaweB_aRVhL
-- /resources/blog/vb-9
 aliasesArchive:
 - /blog/vb-9
 - /vb-9

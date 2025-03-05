@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-admin-tool-1-2-gotcha
 aliases:
-- /blog/tfs-admin-tool-1-2-gotcha
-- /tfs-admin-tool-1-2-gotcha
 - /resources/SmRXtDPyViB
-- /resources/blog/tfs-admin-tool-1-2-gotcha
 aliasesArchive:
 - /blog/tfs-admin-tool-1-2-gotcha
 - /tfs-admin-tool-1-2-gotcha

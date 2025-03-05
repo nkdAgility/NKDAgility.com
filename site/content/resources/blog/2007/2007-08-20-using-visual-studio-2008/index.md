@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: using-visual-studio-2008
 aliases:
-- /blog/using-visual-studio-2008
-- /using-visual-studio-2008
 - /resources/lO6Rlwe1r6f
-- /resources/blog/using-visual-studio-2008
 aliasesArchive:
 - /blog/using-visual-studio-2008
 - /using-visual-studio-2008

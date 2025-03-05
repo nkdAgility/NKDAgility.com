@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: if-you-had-a-choice
 aliases:
-- /blog/if-you-had-a-choice
-- /if-you-had-a-choice
-- /if-you-had-a-choice-
-- /blog/if-you-had-a-choice-
 - /resources/689UIOKlBfJ
-- /resources/blog/if-you-had-a-choice
 aliasesArchive:
 - /blog/if-you-had-a-choice
 - /if-you-had-a-choice

@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: do-you-know-the-minimum-builds-to-create-on-any-branch
 aliases:
-- /blog/do-you-know-the-minimum-builds-to-create-on-any-branch
-- /do-you-know-the-minimum-builds-to-create-on-any-branch
-- /do-you-know-the-minimum-builds-to-create-on-any-branch-
-- /blog/do-you-know-the-minimum-builds-to-create-on-any-branch-
 - /resources/wPA1p1UQ6Bi
-- /resources/blog/do-you-know-the-minimum-builds-to-create-on-any-branch
 aliasesArchive:
 - /blog/do-you-know-the-minimum-builds-to-create-on-any-branch
 - /do-you-know-the-minimum-builds-to-create-on-any-branch

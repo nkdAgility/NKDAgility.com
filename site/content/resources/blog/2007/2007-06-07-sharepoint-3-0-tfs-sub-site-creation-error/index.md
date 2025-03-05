@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: sharepoint-3-0-tfs-sub-site-creation-error
 aliases:
-- /blog/sharepoint-3-0-tfs-sub-site-creation-error
-- /sharepoint-3-0-tfs-sub-site-creation-error
-- /sharepoint-3-0-tfs-sub-site-creation-error-
-- /blog/sharepoint-3-0-tfs-sub-site-creation-error-
 - /resources/x5FZPMNJgBF
-- /resources/blog/sharepoint-3-0-tfs-sub-site-creation-error
 aliasesArchive:
 - /blog/sharepoint-3-0-tfs-sub-site-creation-error
 - /sharepoint-3-0-tfs-sub-site-creation-error

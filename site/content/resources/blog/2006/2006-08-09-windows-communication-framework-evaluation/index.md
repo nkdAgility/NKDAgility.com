@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: windows-communication-framework-evaluation
 aliases:
-- /blog/windows-communication-framework-evaluation
-- /windows-communication-framework-evaluation
 - /resources/piNenAHpFYq
-- /resources/blog/windows-communication-framework-evaluation
 aliasesArchive:
 - /blog/windows-communication-framework-evaluation
 - /windows-communication-framework-evaluation

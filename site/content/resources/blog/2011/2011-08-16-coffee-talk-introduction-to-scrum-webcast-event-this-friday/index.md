@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: coffee-talk-introduction-to-scrum-webcast-event-this-friday
 aliases:
-- /blog/coffee-talk-introduction-to-scrum-webcast-event-this-friday
-- /coffee-talk-introduction-to-scrum-webcast-event-this-friday
-- /coffee-talk--introduction-to-scrum---webcast-event-this-friday-
-- /blog/coffee-talk--introduction-to-scrum---webcast-event-this-friday-
 - /resources/ThIUwJr1ff_
-- /resources/blog/coffee-talk-introduction-to-scrum-webcast-event-this-friday
 aliasesArchive:
 - /blog/coffee-talk-introduction-to-scrum-webcast-event-this-friday
 - /coffee-talk-introduction-to-scrum-webcast-event-this-friday

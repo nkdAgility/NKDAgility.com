@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: software-development-industrial-revolution
 aliases:
-- /blog/software-development-industrial-revolution
-- /software-development-industrial-revolution
 - /resources/3YR-l0WfbLK
-- /resources/blog/software-development-industrial-revolution
 aliasesArchive:
 - /blog/software-development-industrial-revolution
 - /software-development-industrial-revolution

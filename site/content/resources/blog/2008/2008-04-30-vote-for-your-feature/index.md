@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: vote-for-your-feature
 aliases:
-- /blog/vote-for-your-feature
-- /vote-for-your-feature
 - /resources/0gvfwOdoE6v
-- /resources/blog/vote-for-your-feature
 aliasesArchive:
 - /blog/vote-for-your-feature
 - /vote-for-your-feature

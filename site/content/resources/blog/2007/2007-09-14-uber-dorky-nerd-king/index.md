@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: uber-dorky-nerd-king
 aliases:
-- /blog/uber-dorky-nerd-king
-- /uber-dorky-nerd-king
 - /resources/Ujdt5B-Adqp
-- /resources/blog/uber-dorky-nerd-king
 aliasesArchive:
 - /blog/uber-dorky-nerd-king
 - /uber-dorky-nerd-king

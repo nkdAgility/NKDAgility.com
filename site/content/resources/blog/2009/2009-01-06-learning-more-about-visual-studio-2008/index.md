@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: learning-more-about-visual-studio-2008
 aliases:
-- /blog/learning-more-about-visual-studio-2008
-- /learning-more-about-visual-studio-2008
 - /resources/DI9tjIOOa_M
-- /resources/blog/learning-more-about-visual-studio-2008
 aliasesArchive:
 - /blog/learning-more-about-visual-studio-2008
 - /learning-more-about-visual-studio-2008

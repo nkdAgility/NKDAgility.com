@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-event-handler-ctp-2-released
 aliases:
-- /blog/tfs-event-handler-ctp-2-released
-- /tfs-event-handler-ctp-2-released
 - /resources/eFFwzH5niQO
-- /resources/blog/tfs-event-handler-ctp-2-released
 aliasesArchive:
 - /blog/tfs-event-handler-ctp-2-released
 - /tfs-event-handler-ctp-2-released

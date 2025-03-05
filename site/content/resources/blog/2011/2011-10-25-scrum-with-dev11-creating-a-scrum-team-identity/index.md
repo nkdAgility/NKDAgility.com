@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: scrum-with-dev11-creating-a-scrum-team-identity
 aliases:
-- /blog/scrum-with-dev11-creating-a-scrum-team-identity
-- /scrum-with-dev11-creating-a-scrum-team-identity
-- /scrum-with-visual-studio-11--creating-a-scrum-team-identity
-- /blog/scrum-with-visual-studio-11--creating-a-scrum-team-identity
 - /resources/lcqmvIZfw-_
-- /resources/blog/scrum-with-dev11-creating-a-scrum-team-identity
 aliasesArchive:
 - /blog/scrum-with-dev11-creating-a-scrum-team-identity
 - /scrum-with-dev11-creating-a-scrum-team-identity

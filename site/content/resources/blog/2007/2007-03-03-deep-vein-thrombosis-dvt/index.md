@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: deep-vein-thrombosis-dvt
 aliases:
-- /blog/deep-vein-thrombosis-dvt
-- /deep-vein-thrombosis-dvt
-- /deep-vein-thrombosis-(dvt)
-- /blog/deep-vein-thrombosis-(dvt)
 - /resources/_7Yp1RZb_8I
-- /resources/blog/deep-vein-thrombosis-dvt
 aliasesArchive:
 - /blog/deep-vein-thrombosis-dvt
 - /deep-vein-thrombosis-dvt

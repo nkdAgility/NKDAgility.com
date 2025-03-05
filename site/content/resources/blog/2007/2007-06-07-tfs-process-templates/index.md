@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-process-templates
 aliases:
-- /blog/tfs-process-templates
-- /tfs-process-templates
 - /resources/gJqTAngPe0a
-- /resources/blog/tfs-process-templates
 aliasesArchive:
 - /blog/tfs-process-templates
 - /tfs-process-templates

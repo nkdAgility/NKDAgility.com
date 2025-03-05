@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-sticky-buddy-2-0-development-started
 aliases:
-- /blog/tfs-sticky-buddy-2-0-development-started
-- /tfs-sticky-buddy-2-0-development-started
-- /tfs-sticky-buddy-2-0-development-started…
-- /blog/tfs-sticky-buddy-2-0-development-started…
 - /resources/TxY4h-j1YTB
-- /resources/blog/tfs-sticky-buddy-2-0-development-started
 aliasesArchive:
 - /blog/tfs-sticky-buddy-2-0-development-started
 - /tfs-sticky-buddy-2-0-development-started

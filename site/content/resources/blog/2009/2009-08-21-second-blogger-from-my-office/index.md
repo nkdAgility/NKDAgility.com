@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: second-blogger-from-my-office
 aliases:
-- /blog/second-blogger-from-my-office
-- /second-blogger-from-my-office
 - /resources/uzDvrUVCXdK
-- /resources/blog/second-blogger-from-my-office
 aliasesArchive:
 - /blog/second-blogger-from-my-office
 - /second-blogger-from-my-office

@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: calling-an-object-method-in-a-data-trigger
 aliases:
-- /blog/calling-an-object-method-in-a-data-trigger
-- /calling-an-object-method-in-a-data-trigger
 - /resources/qw2arcsyX7a
-- /resources/blog/calling-an-object-method-in-a-data-trigger
 aliasesArchive:
 - /blog/calling-an-object-method-in-a-data-trigger
 - /calling-an-object-method-in-a-data-trigger

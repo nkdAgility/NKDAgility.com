@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: team-build-error
 aliases:
-- /blog/team-build-error
-- /team-build-error
 - /resources/hLCFRDIvAXj
-- /resources/blog/team-build-error
 aliasesArchive:
 - /blog/team-build-error
 - /team-build-error

@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: creating-a-wpf-work-item-control
 aliases:
-- /blog/creating-a-wpf-work-item-control
-- /creating-a-wpf-work-item-control
 - /resources/4vBEBY-yvDB
-- /resources/blog/creating-a-wpf-work-item-control
 aliasesArchive:
 - /blog/creating-a-wpf-work-item-control
 - /creating-a-wpf-work-item-control

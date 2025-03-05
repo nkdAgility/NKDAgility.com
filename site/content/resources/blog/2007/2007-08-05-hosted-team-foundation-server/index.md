@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: hosted-team-foundation-server
 aliases:
-- /blog/hosted-team-foundation-server
-- /hosted-team-foundation-server
 - /resources/uP5FXaFL6Lx
-- /resources/blog/hosted-team-foundation-server
 aliasesArchive:
 - /blog/hosted-team-foundation-server
 - /hosted-team-foundation-server

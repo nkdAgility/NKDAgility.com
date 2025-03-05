@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: kerberos-and-sharepoint-2007
 aliases:
-- /blog/kerberos-and-sharepoint-2007
-- /kerberos-and-sharepoint-2007
 - /resources/REHiKbbVOD8
-- /resources/blog/kerberos-and-sharepoint-2007
 aliasesArchive:
 - /blog/kerberos-and-sharepoint-2007
 - /kerberos-and-sharepoint-2007

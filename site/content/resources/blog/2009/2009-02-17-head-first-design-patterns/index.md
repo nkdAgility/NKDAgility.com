@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: head-first-design-patterns
 aliases:
-- /blog/head-first-design-patterns
-- /head-first-design-patterns
 - /resources/EFWY-8yQI--
-- /resources/blog/head-first-design-patterns
 aliasesArchive:
 - /blog/head-first-design-patterns
 - /head-first-design-patterns

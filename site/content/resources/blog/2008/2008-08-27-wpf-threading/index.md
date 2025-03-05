@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: wpf-threading
 aliases:
-- /blog/wpf-threading
-- /wpf-threading
 - /resources/-LV_xYUDcK4
-- /resources/blog/wpf-threading
 aliasesArchive:
 - /blog/wpf-threading
 - /wpf-threading

@@ -14,13 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
 aliases:
-- /blog/tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
-- /tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
-- /tfs-2012-3-issue
-- /tfs-2012-3-issue---scheduled-backups-gives-a-tf400998-when-reconfigured
-- /blog/tfs-2012-3-issue---scheduled-backups-gives-a-tf400998-when-reconfigured
 - /resources/_XqGOC9TbpP
-- /resources/blog/tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
 aliasesArchive:
 - /blog/tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
 - /tfs-2012-3-issue-scheduled-backups-gives-a-tf400998

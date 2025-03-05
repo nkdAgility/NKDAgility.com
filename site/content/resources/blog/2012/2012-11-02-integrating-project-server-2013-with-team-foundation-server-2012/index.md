@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: integrating-project-server-2013-with-team-foundation-server-2012
 aliases:
-- /blog/integrating-project-server-2013-with-team-foundation-server-2012
-- /integrating-project-server-2013-with-team-foundation-server-2012
 - /resources/fk1Jv6RyesT
-- /resources/blog/integrating-project-server-2013-with-team-foundation-server-2012
 aliasesArchive:
 - /blog/integrating-project-server-2013-with-team-foundation-server-2012
 - /integrating-project-server-2013-with-team-foundation-server-2012

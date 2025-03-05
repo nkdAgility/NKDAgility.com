@@ -62,15 +62,6 @@
     "reasoning": "Content primarily discusses the need for speed in software delivery and the use of Team Foundation Server, without a clear focus on organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:47:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the need for speed and efficiency in software development, focusing on Team Foundation Server and industrialisation of activities, without any clear mention of Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-17T09:47:06",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses software development processes and the importance of speed in the industry, without any mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-05T14:37:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content does not explicitly mention Scrum or its principles, roles, events, or artifacts. While it discusses the need for collaboration and speed in software development, it does not align with the core themes of Scrum, such as iterative progress or continuous improvement. The discussion is more focused on industrialisation and competitive advantage rather than Scrum practices.",
+    "level": "Quinary"
   }
 }

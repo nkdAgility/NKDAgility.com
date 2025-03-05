@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: finding-features-conversations
 aliases:
-- /blog/finding-features-conversations
-- /finding-features-conversations
-- /finding-features--conversations
-- /blog/finding-features--conversations
 - /resources/hqtW-w7ZTE1
-- /resources/blog/finding-features-conversations
 aliasesArchive:
 - /blog/finding-features-conversations
 - /finding-features-conversations

@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
 aliases:
-- /blog/retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
-- /retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
 - /resources/oz3cfvmwtph
-- /resources/blog/retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
 aliasesArchive:
 - /blog/retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
 - /retrieving-an-identity-from-team-foundation-server-using-only-the-display-name

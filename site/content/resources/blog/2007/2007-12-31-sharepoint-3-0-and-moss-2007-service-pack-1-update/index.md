@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: sharepoint-3-0-and-moss-2007-service-pack-1-update
 aliases:
-- /blog/sharepoint-3-0-and-moss-2007-service-pack-1-update
-- /sharepoint-3-0-and-moss-2007-service-pack-1-update
 - /resources/f9uWaQLg8wR
-- /resources/blog/sharepoint-3-0-and-moss-2007-service-pack-1-update
 aliasesArchive:
 - /blog/sharepoint-3-0-and-moss-2007-service-pack-1-update
 - /sharepoint-3-0-and-moss-2007-service-pack-1-update

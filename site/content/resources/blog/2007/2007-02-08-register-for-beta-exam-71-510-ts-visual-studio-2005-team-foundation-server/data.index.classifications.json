@@ -62,15 +62,6 @@
     "reasoning": "Content primarily discusses registration details for a certification exam and does not address organisational agility or related themes.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:39:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses registration details for a certification exam and does not mention Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-17T09:39:45",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses registration details for a certification exam related to Visual Studio 2005 Team Foundation Server, with no mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-05T14:37:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on registration details for a certification exam related to Visual Studio 2005 Team Foundation Server, with no direct mentions or discussions of Scrum principles, roles, events, or practices. It does not align with the core themes of Scrum, and the depth of discussion is minimal, as it lacks any relevant content on Scrum methodologies.",
     "level": "Ignored"
   }
 }

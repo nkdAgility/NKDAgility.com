@@ -14,14 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: feedburner-no-google
 aliases:
-- /blog/feedburner-no-google
-- /feedburner-no-google
-- /feedburner,-no-google…
-- /blog/feedburner,-no-google…
 - /resources/W90U2-3Up25
-- /feedburner--no-google…
-- /blog/feedburner--no-google…
-- /resources/blog/feedburner-no-google
 aliasesArchive:
 - /blog/feedburner-no-google
 - /feedburner-no-google

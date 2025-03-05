@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: are-you-doing-scrum-really
 aliases:
-- /blog/are-you-doing-scrum-really
-- /are-you-doing-scrum-really
-- /are-you-doing-scrum--really-
-- /blog/are-you-doing-scrum--really-
 - /resources/X1Hm4PJt0CV
-- /resources/blog/are-you-doing-scrum-really
 aliasesArchive:
 - /blog/are-you-doing-scrum-really
 - /are-you-doing-scrum-really

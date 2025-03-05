@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
 aliases:
-- /blog/project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
-- /project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
-- /project-server-2013-issue-–-tf294026--the-following-work-item-field-does-not-exist
-- /blog/project-server-2013-issue-–-tf294026--the-following-work-item-field-does-not-exist
 - /resources/zTaVoXPnTVP
-- /resources/blog/project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
 aliasesArchive:
 - /blog/project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
 - /project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist

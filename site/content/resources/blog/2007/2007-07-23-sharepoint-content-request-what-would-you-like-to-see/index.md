@@ -14,13 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: sharepoint-content-request-what-would-you-like-to-see
 aliases:
-- /blog/sharepoint-content-request-what-would-you-like-to-see
-- /sharepoint-content-request-what-would-you-like-to-see
-- /sharepoint-content-request
-- /sharepoint-content-request---what-would-you-like-to-see-
-- /blog/sharepoint-content-request---what-would-you-like-to-see-
 - /resources/pyKCdDNWdPB
-- /resources/blog/sharepoint-content-request-what-would-you-like-to-see
 aliasesArchive:
 - /blog/sharepoint-content-request-what-would-you-like-to-see
 - /sharepoint-content-request-what-would-you-like-to-see

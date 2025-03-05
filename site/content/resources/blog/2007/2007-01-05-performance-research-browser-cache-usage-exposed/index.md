@@ -14,15 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: performance-research-browser-cache-usage-exposed
 aliases:
-- /blog/performance-research-browser-cache-usage-exposed
-- /performance-research-browser-cache-usage-exposed
-- /performance-research,-browser-cache-usage
-- /performance-research,-browser-cache-usage---exposed-
-- /blog/performance-research,-browser-cache-usage---exposed-
 - /resources/UF1mz0nza4p
-- /performance-research--browser-cache-usage---exposed-
-- /blog/performance-research--browser-cache-usage---exposed-
-- /resources/blog/performance-research-browser-cache-usage-exposed
 aliasesArchive:
 - /blog/performance-research-browser-cache-usage-exposed
 - /performance-research-browser-cache-usage-exposed

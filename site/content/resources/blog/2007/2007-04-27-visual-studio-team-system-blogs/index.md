@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: visual-studio-team-system-blogs
 aliases:
-- /blog/visual-studio-team-system-blogs
-- /visual-studio-team-system-blogs
 - /resources/de7b3FE-UNO
-- /resources/blog/visual-studio-team-system-blogs
 aliasesArchive:
 - /blog/visual-studio-team-system-blogs
 - /visual-studio-team-system-blogs

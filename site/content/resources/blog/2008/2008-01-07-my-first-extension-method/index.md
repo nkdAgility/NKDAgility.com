@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: my-first-extension-method
 aliases:
-- /blog/my-first-extension-method
-- /my-first-extension-method---
-- /blog/my-first-extension-method---
 - /resources/QJ6lF5ONMCD
-- /my-first-extension-method
-- /resources/blog/my-first-extension-method
 aliasesArchive:
 - /blog/my-first-extension-method
 - /my-first-extension-method---

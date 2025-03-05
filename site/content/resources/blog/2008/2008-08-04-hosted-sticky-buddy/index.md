@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: hosted-sticky-buddy
 aliases:
-- /blog/hosted-sticky-buddy
-- /hosted-sticky-buddy
 - /resources/4r5fzbQPMir
-- /resources/blog/hosted-sticky-buddy
 aliasesArchive:
 - /blog/hosted-sticky-buddy
 - /hosted-sticky-buddy

@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-sticky-buddy-v1-0
 aliases:
-- /blog/tfs-sticky-buddy-v1-0
-- /tfs-sticky-buddy-v1-0
 - /resources/aLPelZ6_wNc
-- /resources/blog/tfs-sticky-buddy-v1-0
 aliasesArchive:
 - /blog/tfs-sticky-buddy-v1-0
 - /tfs-sticky-buddy-v1-0

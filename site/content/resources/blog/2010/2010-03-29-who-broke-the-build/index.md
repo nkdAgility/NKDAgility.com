@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: who-broke-the-build
 aliases:
-- /blog/who-broke-the-build
-- /who-broke-the-build
-- /who-broke-the-build-
-- /blog/who-broke-the-build-
 - /resources/SVgPQgwftag
-- /resources/blog/who-broke-the-build
 aliasesArchive:
 - /blog/who-broke-the-build
 - /who-broke-the-build

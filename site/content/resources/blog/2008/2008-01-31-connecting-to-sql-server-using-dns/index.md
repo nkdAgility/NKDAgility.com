@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: connecting-to-sql-server-using-dns
 aliases:
-- /blog/connecting-to-sql-server-using-dns
-- /connecting-to-sql-server-using-dns
 - /resources/tV0-x7E8IQc
-- /resources/blog/connecting-to-sql-server-using-dns
 aliasesArchive:
 - /blog/connecting-to-sql-server-using-dns
 - /connecting-to-sql-server-using-dns

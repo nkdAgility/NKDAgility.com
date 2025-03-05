@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: windows-cardspace-gets-firefox-support
 aliases:
-- /blog/windows-cardspace-gets-firefox-support
-- /windows-cardspace-gets-firefox-support
 - /resources/S4ZOLBDIh7u
-- /resources/blog/windows-cardspace-gets-firefox-support
 aliasesArchive:
 - /blog/windows-cardspace-gets-firefox-support
 - /windows-cardspace-gets-firefox-support

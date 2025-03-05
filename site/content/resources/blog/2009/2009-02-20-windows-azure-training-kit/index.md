@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: windows-azure-training-kit
 aliases:
-- /blog/windows-azure-training-kit
-- /windows-azure-training-kit
 - /resources/5GEKVUBfbi2
-- /resources/blog/windows-azure-training-kit
 aliasesArchive:
 - /blog/windows-azure-training-kit
 - /windows-azure-training-kit

@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: presenting-aplication-lifecycle-management-precursor
 aliases:
-- /blog/presenting-aplication-lifecycle-management-precursor
-- /presenting-aplication-lifecycle-management-precursor
-- /presenting-aplication-lifecycle-management--precursor
-- /blog/presenting-aplication-lifecycle-management--precursor
 - /resources/896VMaXqzu_
-- /resources/blog/presenting-aplication-lifecycle-management-precursor
 aliasesArchive:
 - /blog/presenting-aplication-lifecycle-management-precursor
 - /presenting-aplication-lifecycle-management-precursor

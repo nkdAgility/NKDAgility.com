@@ -10,9 +10,6 @@ resourceTypes: method
 layout: method
 url: 
 aliases:
-- /APOM
-- /methods/agile-product-operating-model/
-- /learn/agile-delivery-kit/strategies/agile-product-operating-model/
 - /resources/cBWi9iKD1Sa
 aliasesArchive:
 - /APOM

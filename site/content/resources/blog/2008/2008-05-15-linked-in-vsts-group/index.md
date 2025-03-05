@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: linked-in-vsts-group
 aliases:
-- /blog/linked-in-vsts-group
-- /linked-in-vsts-group
 - /resources/HSVy1vwtnsH
-- /resources/blog/linked-in-vsts-group
 aliasesArchive:
 - /blog/linked-in-vsts-group
 - /linked-in-vsts-group

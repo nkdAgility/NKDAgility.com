@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: do-you-know-that-every-user-story-should-have-an-owner
 aliases:
-- /blog/do-you-know-that-every-user-story-should-have-an-owner
-- /do-you-know-that-every-user-story-should-have-an-owner
-- /do-you-know-that-every-user-story-should-have-an-owner-
-- /blog/do-you-know-that-every-user-story-should-have-an-owner-
 - /resources/OOCAnXLzP9r
-- /resources/blog/do-you-know-that-every-user-story-should-have-an-owner
 aliasesArchive:
 - /blog/do-you-know-that-every-user-story-should-have-an-owner
 - /do-you-know-that-every-user-story-should-have-an-owner

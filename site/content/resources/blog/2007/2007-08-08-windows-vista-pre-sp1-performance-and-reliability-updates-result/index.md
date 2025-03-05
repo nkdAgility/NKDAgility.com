@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: windows-vista-pre-sp1-performance-and-reliability-updates-result
 aliases:
-- /blog/windows-vista-pre-sp1-performance-and-reliability-updates-result
-- /windows-vista-pre-sp1-performance-and-reliability-updates-result
 - /resources/-jMZpToD5Kr
-- /resources/blog/windows-vista-pre-sp1-performance-and-reliability-updates-result
 aliasesArchive:
 - /blog/windows-vista-pre-sp1-performance-and-reliability-updates-result
 - /windows-vista-pre-sp1-performance-and-reliability-updates-result

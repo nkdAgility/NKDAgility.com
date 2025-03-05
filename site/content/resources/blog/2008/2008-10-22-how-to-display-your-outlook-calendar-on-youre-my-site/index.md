@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: how-to-display-your-outlook-calendar-on-youre-my-site
 aliases:
-- /blog/how-to-display-your-outlook-calendar-on-youre-my-site
-- /how-to-display-your-outlook-calendar-on-youre-my-site
-- /how-to--display-your-outlook-calendar-on-you’re-my-site
-- /blog/how-to--display-your-outlook-calendar-on-you’re-my-site
 - /resources/9eJE-0v9BjB
-- /resources/blog/how-to-display-your-outlook-calendar-on-youre-my-site
 aliasesArchive:
 - /blog/how-to-display-your-outlook-calendar-on-youre-my-site
 - /how-to-display-your-outlook-calendar-on-youre-my-site

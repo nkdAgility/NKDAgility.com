@@ -14,14 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: outlook-2010-beta-2-and-add-ins-dynamics-crm-team-companion-linkedin-and-plaxo
 aliases:
-- /blog/outlook-2010-beta-2-and-add-ins-dynamics-crm-team-companion-linkedin-and-plaxo
-- /outlook-2010-beta-2-and-add-ins-dynamics-crm-team-companion-linkedin-and-plaxo
-- /outlook-2010-beta-2-and-add-ins--dynamics-crm,-team-companion,-linkedin-and-plaxo
-- /blog/outlook-2010-beta-2-and-add-ins--dynamics-crm,-team-companion,-linkedin-and-plaxo
 - /resources/YxOe4jYxLpj
-- /outlook-2010-beta-2-and-add-ins--dynamics-crm--team-companion--linkedin-and-plaxo
-- /blog/outlook-2010-beta-2-and-add-ins--dynamics-crm--team-companion--linkedin-and-plaxo
-- /resources/blog/outlook-2010-beta-2-and-add-ins-dynamics-crm-team-companion-linkedin-and-plaxo
 aliasesArchive:
 - /blog/outlook-2010-beta-2-and-add-ins-dynamics-crm-team-companion-linkedin-and-plaxo
 - /outlook-2010-beta-2-and-add-ins-dynamics-crm-team-companion-linkedin-and-plaxo

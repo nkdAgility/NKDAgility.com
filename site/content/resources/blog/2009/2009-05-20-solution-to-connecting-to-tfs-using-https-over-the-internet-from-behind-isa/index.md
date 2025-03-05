@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: solution-to-connecting-to-tfs-using-https-over-the-internet-from-behind-isa
 aliases:
-- /blog/solution-to-connecting-to-tfs-using-https-over-the-internet-from-behind-isa
-- /solution-to-connecting-to-tfs-using-https-over-the-internet-from-behind-isa
 - /resources/4uyTp0ETt2H
-- /resources/blog/solution-to-connecting-to-tfs-using-https-over-the-internet-from-behind-isa
 aliasesArchive:
 - /blog/solution-to-connecting-to-tfs-using-https-over-the-internet-from-behind-isa
 - /solution-to-connecting-to-tfs-using-https-over-the-internet-from-behind-isa

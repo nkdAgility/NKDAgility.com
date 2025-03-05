@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: recipe-for-team-server-in-a-small-business
 aliases:
-- /blog/recipe-for-team-server-in-a-small-business
-- /recipe-for-team-server-in-a-small-business
 - /resources/wOQl29WfTz6
-- /resources/blog/recipe-for-team-server-in-a-small-business
 aliasesArchive:
 - /blog/recipe-for-team-server-in-a-small-business
 - /recipe-for-team-server-in-a-small-business

@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-eventhandler-message-queuing
 aliases:
-- /blog/tfs-eventhandler-message-queuing
-- /tfs-eventhandler-message-queuing
-- /tfs-eventhandler--message-queuing
-- /blog/tfs-eventhandler--message-queuing
 - /resources/SLkPRSid1iJ
-- /resources/blog/tfs-eventhandler-message-queuing
 aliasesArchive:
 - /blog/tfs-eventhandler-message-queuing
 - /tfs-eventhandler-message-queuing

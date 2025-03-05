@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: an-index-to-all-visual-studio-2010-overview-sessions
 aliases:
-- /blog/an-index-to-all-visual-studio-2010-overview-sessions
-- /an-index-to-all-visual-studio-2010-overview-sessions
-- /visual-studio-2010-overview-webcasts
-- /blog/visual-studio-2010-overview-webcasts
 - /resources/_EPy7wea5xE
-- /resources/blog/an-index-to-all-visual-studio-2010-overview-sessions
 aliasesArchive:
 - /blog/an-index-to-all-visual-studio-2010-overview-sessions
 - /an-index-to-all-visual-studio-2010-overview-sessions

@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: vista-mobile-device-center
 aliases:
-- /blog/vista-mobile-device-center
-- /vista-mobile-device-center
 - /resources/Lqpn7ILc1mg
-- /resources/blog/vista-mobile-device-center
 aliasesArchive:
 - /blog/vista-mobile-device-center
 - /vista-mobile-device-center

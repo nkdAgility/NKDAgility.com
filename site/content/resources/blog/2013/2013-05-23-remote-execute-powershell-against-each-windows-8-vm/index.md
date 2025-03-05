@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: remote-execute-powershell-against-each-windows-8-vm
 aliases:
-- /blog/remote-execute-powershell-against-each-windows-8-vm
-- /remote-execute-powershell-against-each-windows-8-vm
 - /resources/T_5NKsLxoK7
-- /resources/blog/remote-execute-powershell-against-each-windows-8-vm
 aliasesArchive:
 - /blog/remote-execute-powershell-against-each-windows-8-vm
 - /remote-execute-powershell-against-each-windows-8-vm

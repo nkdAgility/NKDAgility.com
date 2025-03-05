@@ -10,9 +10,6 @@ url:
 resourceTypes: method
 layout: method
 aliases:
-- /APOM
-- /methods/agnostic-agile/
-- /learn/agile-delivery-kit/strategies/agnostic-agile/
 - /resources/kfsLvZzGPDZ
 aliasesArchive:
 - /APOM

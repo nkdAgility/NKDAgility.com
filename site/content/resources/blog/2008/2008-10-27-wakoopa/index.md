@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: wakoopa
 aliases:
-- /blog/wakoopa
-- /wakoopa
 - /resources/-dqfdSPfCHx
-- /resources/blog/wakoopa
 aliasesArchive:
 - /blog/wakoopa
 - /wakoopa

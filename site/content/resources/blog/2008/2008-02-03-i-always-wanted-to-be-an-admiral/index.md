@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: i-always-wanted-to-be-an-admiral
 aliases:
-- /blog/i-always-wanted-to-be-an-admiral
-- /i-always-wanted-to-be-an-admiral
-- /i-always-wanted-to-be-an-admiral-
-- /blog/i-always-wanted-to-be-an-admiral-
 - /resources/GsQob9JDjYK
-- /resources/blog/i-always-wanted-to-be-an-admiral
 aliasesArchive:
 - /blog/i-always-wanted-to-be-an-admiral
 - /i-always-wanted-to-be-an-admiral

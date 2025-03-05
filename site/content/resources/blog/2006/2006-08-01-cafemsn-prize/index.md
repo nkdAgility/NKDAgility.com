@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: cafemsn-prize
 aliases:
-- /blog/cafemsn-prize
-- /cafemsn-prize
 - /resources/lDSK1w8_5AB
-- /resources/blog/cafemsn-prize
 aliasesArchive:
 - /blog/cafemsn-prize
 - /cafemsn-prize

@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: what-is-dyslexia
 aliases:
-- /blog/what-is-dyslexia
-- /what-is-dyslexia
-- /what-is-dyslexia-
-- /blog/what-is-dyslexia-
 - /resources/97Evnsuws6e
-- /resources/blog/what-is-dyslexia
 aliasesArchive:
 - /blog/what-is-dyslexia
 - /what-is-dyslexia

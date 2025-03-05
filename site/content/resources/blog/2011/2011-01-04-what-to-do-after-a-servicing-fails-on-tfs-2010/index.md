@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: what-to-do-after-a-servicing-fails-on-tfs-2010
 aliases:
-- /blog/what-to-do-after-a-servicing-fails-on-tfs-2010
-- /what-to-do-after-a-servicing-fails-on-tfs-2010
 - /resources/3MtCtNaIpU3
-- /resources/blog/what-to-do-after-a-servicing-fails-on-tfs-2010
 aliasesArchive:
 - /blog/what-to-do-after-a-servicing-fails-on-tfs-2010
 - /what-to-do-after-a-servicing-fails-on-tfs-2010

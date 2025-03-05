@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: product-owners-are-not-a-myth-2
 aliases:
-- /blog/product-owners-are-not-a-myth-2
-- /product-owners-are-not-a-myth-2
-- /product-owners-are-not-a-myth
-- /blog/product-owners-are-not-a-myth
 - /resources/pgJ89XqQPZe
-- /resources/blog/product-owners-are-not-a-myth-2
 aliasesArchive:
 - /blog/product-owners-are-not-a-myth-2
 - /product-owners-are-not-a-myth-2

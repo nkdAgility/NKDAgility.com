@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: unity-and-asp-net
 aliases:
-- /blog/unity-and-asp-net
-- /unity-and-asp-net
 - /resources/ga9A29v5JJk
-- /resources/blog/unity-and-asp-net
 aliasesArchive:
 - /blog/unity-and-asp-net
 - /unity-and-asp-net

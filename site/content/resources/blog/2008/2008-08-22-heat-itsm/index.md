@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: heat-itsm
 aliases:
-- /blog/heat-itsm
-- /heat-itsm
 - /resources/YKQN4PBqwk2
-- /resources/blog/heat-itsm
 aliasesArchive:
 - /blog/heat-itsm
 - /heat-itsm

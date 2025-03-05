@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: hinshelm-on-composite-ui-application-block
 aliases:
-- /blog/hinshelm-on-composite-ui-application-block
-- /hinshelm-on-composite-ui-application-block
-- /adding-toolstrippanel-ui-adapter-support-to-the-composite-ui-application-block
-- /blog/adding-toolstrippanel-ui-adapter-support-to-the-composite-ui-application-block
 - /resources/y_vlPh65_5Q
-- /resources/blog/hinshelm-on-composite-ui-application-block
 aliasesArchive:
 - /blog/hinshelm-on-composite-ui-application-block
 - /hinshelm-on-composite-ui-application-block

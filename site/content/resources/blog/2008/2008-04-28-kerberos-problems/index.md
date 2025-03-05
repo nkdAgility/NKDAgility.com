@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: kerberos-problems
 aliases:
-- /blog/kerberos-problems
-- /kerberos-problems
 - /resources/0Of8b0Njxtf
-- /resources/blog/kerberos-problems
 aliasesArchive:
 - /blog/kerberos-problems
 - /kerberos-problems

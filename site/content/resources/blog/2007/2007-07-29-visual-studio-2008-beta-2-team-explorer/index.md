@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: visual-studio-2008-beta-2-team-explorer
 aliases:
-- /blog/visual-studio-2008-beta-2-team-explorer
-- /visual-studio-2008-beta-2-team-explorer
 - /resources/x3OxJIEMgFJ
-- /resources/blog/visual-studio-2008-beta-2-team-explorer
 aliasesArchive:
 - /blog/visual-studio-2008-beta-2-team-explorer
 - /visual-studio-2008-beta-2-team-explorer

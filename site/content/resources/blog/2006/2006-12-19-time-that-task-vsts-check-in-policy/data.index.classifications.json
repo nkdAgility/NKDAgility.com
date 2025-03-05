@@ -62,15 +62,6 @@
     "reasoning": "Content primarily discusses a specific check-in policy for TFS and raises concerns about developer interruptions, which does not align with the core principles of organisational agility.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T10:05:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a check-in policy for Team Foundation Server and does not focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-17T10:05:44",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a check-in policy for TFS and related developer workflow issues, with no clear focus on AI applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-05T14:38:27",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content briefly mentions a check-in policy related to Team Foundation Server (TFS) but does not explicitly discuss Scrum principles, roles, events, or artifacts. The focus is more on a specific tool and its potential issues rather than on Scrum as a framework or methodology. There is minimal alignment with Scrum concepts, and the depth of discussion is very low, primarily revolving around a technical issue rather than Scrum practices.",
+    "level": "Quinary"
   }
 }

@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again
 aliases:
-- /blog/installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again
-- /installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again
-- /installing-the-2007-microsoft-office-servers-service-pack-1-(sp1)----again---
-- /blog/installing-the-2007-microsoft-office-servers-service-pack-1-(sp1)----again---
 - /resources/RgZYSYc6tNy
-- /resources/blog/installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again
 aliasesArchive:
 - /blog/installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again
 - /installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again

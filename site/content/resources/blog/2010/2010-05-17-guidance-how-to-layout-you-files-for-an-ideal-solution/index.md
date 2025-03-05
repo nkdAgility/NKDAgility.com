@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: guidance-how-to-layout-you-files-for-an-ideal-solution
 aliases:
-- /blog/guidance-how-to-layout-you-files-for-an-ideal-solution
-- /guidance-how-to-layout-you-files-for-an-ideal-solution
-- /guidance--how-to-layout-you-files-for-an-ideal-solution
-- /blog/guidance--how-to-layout-you-files-for-an-ideal-solution
 - /resources/qHU7H_raZge
-- /resources/blog/guidance-how-to-layout-you-files-for-an-ideal-solution
 aliasesArchive:
 - /blog/guidance-how-to-layout-you-files-for-an-ideal-solution
 - /guidance-how-to-layout-you-files-for-an-ideal-solution

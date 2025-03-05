@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: do-you-know-how-to-move-the-team-foundation-server-cache
 aliases:
-- /blog/do-you-know-how-to-move-the-team-foundation-server-cache
-- /do-you-know-how-to-move-the-team-foundation-server-cache
 - /resources/aF0H8q5h-Yg
-- /resources/blog/do-you-know-how-to-move-the-team-foundation-server-cache
 aliasesArchive:
 - /blog/do-you-know-how-to-move-the-team-foundation-server-cache
 - /do-you-know-how-to-move-the-team-foundation-server-cache

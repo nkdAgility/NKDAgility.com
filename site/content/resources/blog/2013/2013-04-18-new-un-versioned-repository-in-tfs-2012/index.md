@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: new-un-versioned-repository-in-tfs-2012
 aliases:
-- /blog/new-un-versioned-repository-in-tfs-2012
-- /new-un-versioned-repository-in-tfs-2012
 - /resources/AoTaD6481iE
-- /resources/blog/new-un-versioned-repository-in-tfs-2012
 aliasesArchive:
 - /blog/new-un-versioned-repository-in-tfs-2012
 - /new-un-versioned-repository-in-tfs-2012

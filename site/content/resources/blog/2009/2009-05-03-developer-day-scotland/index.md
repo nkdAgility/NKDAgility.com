@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: developer-day-scotland
 aliases:
-- /blog/developer-day-scotland
-- /developer-day-scotland
 - /resources/qtc58tBJRtL
-- /resources/blog/developer-day-scotland
 aliasesArchive:
 - /blog/developer-day-scotland
 - /developer-day-scotland

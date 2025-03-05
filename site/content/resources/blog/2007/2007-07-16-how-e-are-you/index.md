@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: how-e-are-you
 aliases:
-- /blog/how-e-are-you
-- /how-e-are-you
-- /how-'e'-are-you-
-- /blog/how-'e'-are-you-
 - /resources/YDrhk8yEGQa
-- /resources/blog/how-e-are-you
 aliasesArchive:
 - /blog/how-e-are-you
 - /how-e-are-you

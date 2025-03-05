@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-event-handler-in-net-3-5-part-2
 aliases:
-- /blog/tfs-event-handler-in-net-3-5-part-2
-- /tfs-event-handler-in-net-3-5-part-2
-- /tfs-event-handler-in--net-3-5-part-2
-- /blog/tfs-event-handler-in--net-3-5-part-2
 - /resources/mjc3r1M0PTV
-- /resources/blog/tfs-event-handler-in-net-3-5-part-2
 aliasesArchive:
 - /blog/tfs-event-handler-in-net-3-5-part-2
 - /tfs-event-handler-in-net-3-5-part-2

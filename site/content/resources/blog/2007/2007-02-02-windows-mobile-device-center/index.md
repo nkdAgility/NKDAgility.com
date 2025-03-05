@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: windows-mobile-device-center
 aliases:
-- /blog/windows-mobile-device-center
-- /windows-mobile-device-center
 - /resources/yQwInotryjQ
-- /resources/blog/windows-mobile-device-center
 aliasesArchive:
 - /blog/windows-mobile-device-center
 - /windows-mobile-device-center

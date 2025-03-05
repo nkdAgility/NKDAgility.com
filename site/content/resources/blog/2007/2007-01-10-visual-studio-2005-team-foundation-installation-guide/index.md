@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: visual-studio-2005-team-foundation-installation-guide
 aliases:
-- /blog/visual-studio-2005-team-foundation-installation-guide
-- /visual-studio-2005-team-foundation-installation-guide
 - /resources/hoZ59uz-zBG
-- /resources/blog/visual-studio-2005-team-foundation-installation-guide
 aliasesArchive:
 - /blog/visual-studio-2005-team-foundation-installation-guide
 - /visual-studio-2005-team-foundation-installation-guide

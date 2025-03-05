@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-sticky-buddy-layout-fun
 aliases:
-- /blog/tfs-sticky-buddy-layout-fun
-- /tfs-sticky-buddy-layout-fun---
-- /blog/tfs-sticky-buddy-layout-fun---
 - /resources/kiOEzMLUa0k
-- /tfs-sticky-buddy-layout-fun
-- /resources/blog/tfs-sticky-buddy-layout-fun
 aliasesArchive:
 - /blog/tfs-sticky-buddy-layout-fun
 - /tfs-sticky-buddy-layout-fun---

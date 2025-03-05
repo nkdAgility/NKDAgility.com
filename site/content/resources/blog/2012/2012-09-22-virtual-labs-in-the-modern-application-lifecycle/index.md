@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: virtual-labs-in-the-modern-application-lifecycle
 aliases:
-- /blog/virtual-labs-in-the-modern-application-lifecycle
-- /virtual-labs-in-the-modern-application-lifecycle
 - /resources/SXJ7aTQkyMj
-- /resources/blog/virtual-labs-in-the-modern-application-lifecycle
 aliasesArchive:
 - /blog/virtual-labs-in-the-modern-application-lifecycle
 - /virtual-labs-in-the-modern-application-lifecycle

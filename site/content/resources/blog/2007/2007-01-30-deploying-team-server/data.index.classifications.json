@@ -62,15 +62,6 @@
     "reasoning": "Content primarily discusses the implementation of TFS and associated costs, without a clear focus on organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:51:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the implementation of TFS (Team Foundation Server) and the associated costs and logistics, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-17T09:51:12",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the implementation and cost considerations of Team Foundation Server (TFS) in a development environment, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-05T14:37:56",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses the implementation of TFS (Team Foundation Server) and the logistical challenges associated with scaling a development team. While it touches on aspects of project management, it does not explicitly mention Scrum principles, roles, events, or artifacts. The focus is more on tools and infrastructure rather than the Scrum framework or its practices, leading to a low confidence score in alignment with the Scrum category.",
+    "level": "Quinary"
   }
 }

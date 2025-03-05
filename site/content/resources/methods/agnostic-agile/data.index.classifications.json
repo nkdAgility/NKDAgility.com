@@ -1331,15 +1331,6 @@
     "reasoning": "The content only provides a brief mention of 'Agnostic Agile' without discussing specific frameworks, principles, or practices related to Scrum, Kanban, Lean, or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T17:42:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agnostic Agile, which is not directly related to Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Beta Codex": {
     "category": "Beta Codex",
     "calculated_at": "2025-02-18T17:42:03",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agnostic Agile without any mention of AI or its applications in Agile methodologies, DevOps practices, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-05T14:39:18",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content title 'Agnostic Agile' suggests a focus on a broader agile methodology rather than specifically on Scrum. The description provided does not mention any Scrum roles, events, or principles, indicating a lack of direct mentions. The conceptual alignment with Scrum is minimal, as it does not address any of the core themes associated with Scrum. Additionally, there is no depth of discussion regarding Scrum practices or frameworks, leading to a very low confidence score.",
     "level": "Ignored"
   }
 }

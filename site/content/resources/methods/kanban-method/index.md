@@ -9,8 +9,6 @@ draft: true
 resourceTypes: method
 layout: method
 aliases:
-- /methods/kanban-method/
-- /learn/agile-delivery-kit/strategies/kanban-method/
 - /resources/AHnXqKUgcDD
 aliasesArchive:
 - /methods/kanban-method/
@@ -20,7 +18,8 @@ card:
     content: More info
   title: Kanban Method
   content: Kanban Method
-categories: []
+categories:
+- Scrum
 tags:
 - Professional Scrum
 

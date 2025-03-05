@@ -14,14 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: the-evolution-of-a-blog-the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
 aliases:
-- /blog/the-evolution-of-a-blog-the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
-- /the-evolution-of-a-blog-the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
-- /the-evolution-of-a-blog,-the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
-- /blog/the-evolution-of-a-blog,-the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
 - /resources/6-_05CBAsbh
-- /the-evolution-of-a-blog--the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
-- /blog/the-evolution-of-a-blog--the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
-- /resources/blog/the-evolution-of-a-blog-the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
 aliasesArchive:
 - /blog/the-evolution-of-a-blog-the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
 - /the-evolution-of-a-blog-the-race-for-responsiveness-and-even-a-little-support-from-wp-engine

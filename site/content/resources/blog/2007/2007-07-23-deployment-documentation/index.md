@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: deployment-documentation
 aliases:
-- /blog/deployment-documentation
-- /deployment-documentation
 - /resources/154BNVcnbaU
-- /resources/blog/deployment-documentation
 aliasesArchive:
 - /blog/deployment-documentation
 - /deployment-documentation

@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: creating-a-better-tfs-sticky-buddy-core
 aliases:
-- /blog/creating-a-better-tfs-sticky-buddy-core
-- /creating-a-better-tfs-sticky-buddy-core
-- /creating-a-better-tfs-sticky-buddy-(core)
-- /blog/creating-a-better-tfs-sticky-buddy-(core)
 - /resources/NNnyeihSpHg
-- /resources/blog/creating-a-better-tfs-sticky-buddy-core
 aliasesArchive:
 - /blog/creating-a-better-tfs-sticky-buddy-core
 - /creating-a-better-tfs-sticky-buddy-core

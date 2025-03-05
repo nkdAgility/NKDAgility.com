@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
 aliases:
-- /blog/tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
-- /tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
-- /tfs-2010-work-item-seed--tfs-work-item-system-id-at-a-predefined-number
-- /blog/tfs-2010-work-item-seed--tfs-work-item-system-id-at-a-predefined-number
 - /resources/rRCNKBm5xct
-- /resources/blog/tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
 aliasesArchive:
 - /blog/tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
 - /tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number

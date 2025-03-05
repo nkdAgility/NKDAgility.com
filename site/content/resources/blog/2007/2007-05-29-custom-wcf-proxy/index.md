@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: custom-wcf-proxy
 aliases:
-- /blog/custom-wcf-proxy
-- /custom-wcf-proxy
 - /resources/hfv2zp8Q-i4
-- /resources/blog/custom-wcf-proxy
 aliasesArchive:
 - /blog/custom-wcf-proxy
 - /custom-wcf-proxy

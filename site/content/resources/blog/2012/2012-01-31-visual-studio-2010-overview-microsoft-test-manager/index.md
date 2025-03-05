@@ -14,13 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: visual-studio-2010-overview-microsoft-test-manager
 aliases:
-- /blog/visual-studio-2010-overview-microsoft-test-manager
-- /visual-studio-2010-overview-microsoft-test-manager
-- /visual-studio-2010-overview
-- /visual-studio-2010-overview---microsoft-test-manager
-- /blog/visual-studio-2010-overview---microsoft-test-manager
 - /resources/6a-Qtjtf94G
-- /resources/blog/visual-studio-2010-overview-microsoft-test-manager
 aliasesArchive:
 - /blog/visual-studio-2010-overview-microsoft-test-manager
 - /visual-studio-2010-overview-microsoft-test-manager

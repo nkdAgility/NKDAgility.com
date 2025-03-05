@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: anatomy-of-an-automation-for-the-tfs-automation-platform
 aliases:
-- /blog/anatomy-of-an-automation-for-the-tfs-automation-platform
-- /anatomy-of-an-automation-for-the-tfs-automation-platform
 - /resources/5naWQQ14MHe
-- /resources/blog/anatomy-of-an-automation-for-the-tfs-automation-platform
 aliasesArchive:
 - /blog/anatomy-of-an-automation-for-the-tfs-automation-platform
 - /anatomy-of-an-automation-for-the-tfs-automation-platform

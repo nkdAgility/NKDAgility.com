@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: microsoft-myphone-service-available-to-the-public
 aliases:
-- /blog/microsoft-myphone-service-available-to-the-public
-- /microsoft-myphone-service-available-to-the-public
 - /resources/NJdlXIZJJyN
-- /resources/blog/microsoft-myphone-service-available-to-the-public
 aliasesArchive:
 - /blog/microsoft-myphone-service-available-to-the-public
 - /microsoft-myphone-service-available-to-the-public

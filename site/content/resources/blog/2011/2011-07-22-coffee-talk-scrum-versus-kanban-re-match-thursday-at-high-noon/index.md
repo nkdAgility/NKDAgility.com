@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon
 aliases:
-- /blog/coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon
-- /coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon
-- /coffee-talk--scrum-versus-kanban-(re-match)-----thursday-at-high-noon-
-- /blog/coffee-talk--scrum-versus-kanban-(re-match)-----thursday-at-high-noon-
 - /resources/KtZxhtX0v9O
-- /resources/blog/coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon
 aliasesArchive:
 - /blog/coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon
 - /coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon

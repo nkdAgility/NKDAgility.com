@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: windows-live-alerts
 aliases:
-- /blog/windows-live-alerts
-- /windows-live-alerts
 - /resources/kr2gucSHKSd
-- /resources/blog/windows-live-alerts
 aliasesArchive:
 - /blog/windows-live-alerts
 - /windows-live-alerts

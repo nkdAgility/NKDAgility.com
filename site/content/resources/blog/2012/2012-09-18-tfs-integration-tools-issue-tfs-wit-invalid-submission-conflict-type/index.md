@@ -14,13 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
 aliases:
-- /blog/tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
-- /tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
-- /tfs-integration-tools
-- /tfs-integration-tools---issue--tfs-wit-invalid-submission-conflict-type
-- /blog/tfs-integration-tools---issue--tfs-wit-invalid-submission-conflict-type
 - /resources/vrpjXVvhpYA
-- /resources/blog/tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
 aliasesArchive:
 - /blog/tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
 - /tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type

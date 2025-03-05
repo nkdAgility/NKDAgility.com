@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: visual-studio-2012-launch-roadshow-in-san-diego-and-irvine
 aliases:
-- /blog/visual-studio-2012-launch-roadshow-in-san-diego-and-irvine
-- /visual-studio-2012-launch-roadshow-in-san-diego-and-irvine
-- /visual-studio-2012-launch-roadshows-around-the-world
-- /blog/visual-studio-2012-launch-roadshows-around-the-world
 - /resources/HtT5KwXieea
-- /resources/blog/visual-studio-2012-launch-roadshow-in-san-diego-and-irvine
 aliasesArchive:
 - /blog/visual-studio-2012-launch-roadshow-in-san-diego-and-irvine
 - /visual-studio-2012-launch-roadshow-in-san-diego-and-irvine

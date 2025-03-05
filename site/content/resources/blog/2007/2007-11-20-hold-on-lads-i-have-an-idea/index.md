@@ -14,14 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: hold-on-lads-i-have-an-idea
 aliases:
-- /blog/hold-on-lads-i-have-an-idea
-- /hold-on-lads-i-have-an-idea
-- /hold-on-lads,-i-have-an-idea-
-- /blog/hold-on-lads,-i-have-an-idea-
 - /resources/foVNVdAmeyw
-- /hold-on-lads--i-have-an-idea-
-- /blog/hold-on-lads--i-have-an-idea-
-- /resources/blog/hold-on-lads-i-have-an-idea
 aliasesArchive:
 - /blog/hold-on-lads-i-have-an-idea
 - /hold-on-lads-i-have-an-idea

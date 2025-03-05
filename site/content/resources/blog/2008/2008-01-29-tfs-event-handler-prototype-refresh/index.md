@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-event-handler-prototype-refresh
 aliases:
-- /blog/tfs-event-handler-prototype-refresh
-- /tfs-event-handler-prototype-refresh
-- /tfs-event-handler-(prototype)-refresh
-- /blog/tfs-event-handler-(prototype)-refresh
 - /resources/RcunqCP6sF8
-- /resources/blog/tfs-event-handler-prototype-refresh
 aliasesArchive:
 - /blog/tfs-event-handler-prototype-refresh
 - /tfs-event-handler-prototype-refresh

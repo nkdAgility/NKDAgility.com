@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: net-framework-3-0
 aliases:
-- /blog/net-framework-3-0
-- /net-framework-3-0
-- /-net-framework-3-0
-- /blog/-net-framework-3-0
 - /resources/8jxki9iqNyC
-- /resources/blog/net-framework-3-0
 aliasesArchive:
 - /blog/net-framework-3-0
 - /net-framework-3-0

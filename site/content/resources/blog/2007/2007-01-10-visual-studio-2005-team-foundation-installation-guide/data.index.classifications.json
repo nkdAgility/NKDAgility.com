@@ -62,15 +62,6 @@
     "reasoning": "Content primarily discusses updates to the Visual Studio 2005 Team Foundation Installation Guide and does not focus on organisational agility or related practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:54:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation guide for Visual Studio Team Foundation and does not focus on Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-17T09:54:53",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation guide for Visual Studio 2005 Team Foundation and does not relate to AI or its application in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-05T14:38:07",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses the installation guide for Visual Studio 2005 Team Foundation Server (TFS) and does not explicitly mention Scrum principles, roles, events, or artifacts. While TFS can be used in Scrum environments, the content does not focus on Scrum as a framework or its practices, making it only tangentially related to the category.",
     "level": "Ignored"
   }
 }

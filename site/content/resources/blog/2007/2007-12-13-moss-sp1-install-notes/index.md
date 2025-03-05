@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: moss-sp1-install-notes
 aliases:
-- /blog/moss-sp1-install-notes
-- /moss-sp1-install-notes
 - /resources/s8EZNFYedNl
-- /resources/blog/moss-sp1-install-notes
 aliasesArchive:
 - /blog/moss-sp1-install-notes
 - /moss-sp1-install-notes

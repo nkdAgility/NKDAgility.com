@@ -62,15 +62,6 @@
     "reasoning": "Content primarily discusses the features and benefits of .NET Framework 3.0 and WCF, with no clear focus on organisational agility or related practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T10:22:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses .NET Framework 3.0 and its features, with no mention of Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-17T10:22:52",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses .NET Framework 3.0 and its features, with no mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-05T14:38:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the .NET Framework 3.0 and its features, with no direct mentions of Scrum principles, roles, events, or practices. While there is a brief mention of productivity and consistency, these concepts do not align with the core themes of Scrum, such as team dynamics or iterative progress. The discussion lacks depth regarding Scrum, making it irrelevant to the category.",
     "level": "Ignored"
   }
 }

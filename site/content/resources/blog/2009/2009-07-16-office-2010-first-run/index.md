@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: office-2010-first-run
 aliases:
-- /blog/office-2010-first-run
-- /office-2010-first-run
 - /resources/muFdzg1ck3Q
-- /resources/blog/office-2010-first-run
 aliasesArchive:
 - /blog/office-2010-first-run
 - /office-2010-first-run

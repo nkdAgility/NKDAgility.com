@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item
 aliases:
-- /blog/tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item
-- /tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item
-- /tfs-integration-tools--tf237165--the-team-foundation-server-could-not-update-the-work-item
-- /blog/tfs-integration-tools--tf237165--the-team-foundation-server-could-not-update-the-work-item
 - /resources/-dhZywZGtrn
-- /resources/blog/tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item
 aliasesArchive:
 - /blog/tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item
 - /tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item

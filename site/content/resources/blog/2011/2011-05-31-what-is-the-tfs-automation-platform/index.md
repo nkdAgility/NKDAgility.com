@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: what-is-the-tfs-automation-platform
 aliases:
-- /blog/what-is-the-tfs-automation-platform
-- /what-is-the-tfs-automation-platform
 - /resources/AavdFKxGJg9
-- /resources/blog/what-is-the-tfs-automation-platform
 aliasesArchive:
 - /blog/what-is-the-tfs-automation-platform
 - /what-is-the-tfs-automation-platform

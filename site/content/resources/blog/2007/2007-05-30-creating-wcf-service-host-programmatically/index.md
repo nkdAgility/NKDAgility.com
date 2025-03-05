@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: creating-wcf-service-host-programmatically
 aliases:
-- /blog/creating-wcf-service-host-programmatically
-- /creating-wcf-service-host-programmatically
 - /resources/z78UlmtJAzV
-- /resources/blog/creating-wcf-service-host-programmatically
 aliasesArchive:
 - /blog/creating-wcf-service-host-programmatically
 - /creating-wcf-service-host-programmatically

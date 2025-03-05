@@ -1331,15 +1331,6 @@
     "reasoning": "Content primarily discusses the concept of Company as a Product (CaaP), which is not directly related to Scrum, Kanban, Lean, or Agile practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T17:41:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on the concept of 'Company as a Product' and does not discuss Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "Beta Codex": {
     "category": "Beta Codex",
     "calculated_at": "2025-02-18T17:41:44",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of Company as a Product (CaaP) without any mention of AI or its application in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-05T14:39:13",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content does not explicitly mention Scrum or its principles, roles, events, or artifacts. It appears to focus on a concept unrelated to Scrum, which significantly limits its relevance to the category.",
     "level": "Ignored"
   }
 }

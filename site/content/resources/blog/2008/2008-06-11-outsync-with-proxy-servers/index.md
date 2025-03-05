@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: outsync-with-proxy-servers
 aliases:
-- /blog/outsync-with-proxy-servers
-- /outsync-with-proxy-servers
 - /resources/juUxY8REuRz
-- /resources/blog/outsync-with-proxy-servers
 aliasesArchive:
 - /blog/outsync-with-proxy-servers
 - /outsync-with-proxy-servers

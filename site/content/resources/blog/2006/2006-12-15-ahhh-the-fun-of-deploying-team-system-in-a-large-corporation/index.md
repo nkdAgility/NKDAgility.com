@@ -14,14 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: ahhh-the-fun-of-deploying-team-system-in-a-large-corporation
 aliases:
-- /blog/ahhh-the-fun-of-deploying-team-system-in-a-large-corporation
-- /ahhh-the-fun-of-deploying-team-system-in-a-large-corporation
-- /ahhh,-the-fun-of-deploying-team-system-in-a-large-corporation
-- /blog/ahhh,-the-fun-of-deploying-team-system-in-a-large-corporation
 - /resources/w548lro11wJ
-- /ahhh--the-fun-of-deploying-team-system-in-a-large-corporation
-- /blog/ahhh--the-fun-of-deploying-team-system-in-a-large-corporation
-- /resources/blog/ahhh-the-fun-of-deploying-team-system-in-a-large-corporation
 aliasesArchive:
 - /blog/ahhh-the-fun-of-deploying-team-system-in-a-large-corporation
 - /ahhh-the-fun-of-deploying-team-system-in-a-large-corporation

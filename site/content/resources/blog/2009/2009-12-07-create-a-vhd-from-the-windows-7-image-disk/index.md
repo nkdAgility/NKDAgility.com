@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: create-a-vhd-from-the-windows-7-image-disk
 aliases:
-- /blog/create-a-vhd-from-the-windows-7-image-disk
-- /create-a-vhd-from-the-windows-7-image-disk
 - /resources/5Um1AiEyIZr
-- /resources/blog/create-a-vhd-from-the-windows-7-image-disk
 aliasesArchive:
 - /blog/create-a-vhd-from-the-windows-7-image-disk
 - /create-a-vhd-from-the-windows-7-image-disk

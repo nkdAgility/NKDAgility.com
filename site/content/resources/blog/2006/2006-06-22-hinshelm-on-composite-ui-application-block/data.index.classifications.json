@@ -323,15 +323,6 @@
     "reasoning": "Content primarily discusses technical implementation details of a UI component in a software framework, with no focus on products, books, or Agile/DevOps methodologies.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T11:17:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical implementation details related to the Composite UI Application Block and does not address Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-02-17T11:17:37",
@@ -1392,6 +1383,18 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the implementation of a UI adapter in a software framework, with no mention of AI, Agile methodologies, or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-05T14:39:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical implementation details related to the Composite UI Application Block and does not mention Scrum or its principles, roles, events, or practices. There is minimal conceptual alignment with Scrum, as it does not discuss team dynamics, iterative processes, or continuous improvement, which are core themes of the Scrum framework.",
     "level": "Ignored"
   }
 }

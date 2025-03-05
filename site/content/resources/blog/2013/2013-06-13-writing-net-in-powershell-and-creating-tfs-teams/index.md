@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: writing-net-in-powershell-and-creating-tfs-teams
 aliases:
-- /blog/writing-net-in-powershell-and-creating-tfs-teams
-- /writing-net-in-powershell-and-creating-tfs-teams
-- /writing--net-in-powershell-and-creating-tfs-teams
-- /blog/writing--net-in-powershell-and-creating-tfs-teams
 - /resources/52GnS0fI67Q
-- /resources/blog/writing-net-in-powershell-and-creating-tfs-teams
 aliasesArchive:
 - /blog/writing-net-in-powershell-and-creating-tfs-teams
 - /writing-net-in-powershell-and-creating-tfs-teams

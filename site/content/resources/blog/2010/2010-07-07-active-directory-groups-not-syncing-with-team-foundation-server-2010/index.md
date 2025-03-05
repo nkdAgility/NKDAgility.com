@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: active-directory-groups-not-syncing-with-team-foundation-server-2010
 aliases:
-- /blog/active-directory-groups-not-syncing-with-team-foundation-server-2010
-- /active-directory-groups-not-syncing-with-team-foundation-server-2010
 - /resources/Rfu6uP301x2
-- /resources/blog/active-directory-groups-not-syncing-with-team-foundation-server-2010
 aliasesArchive:
 - /blog/active-directory-groups-not-syncing-with-team-foundation-server-2010
 - /active-directory-groups-not-syncing-with-team-foundation-server-2010

@@ -1331,15 +1331,6 @@
     "reasoning": "The content title mentions 'Agile', but the description does not provide any details or discussions related to Scrum, Kanban, Lean, or Agile practices. It lacks specific references to the frameworks or methodologies that define the category.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T17:41:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses an Agile Product Operating Model, which does not specifically focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Beta Codex": {
     "category": "Beta Codex",
     "calculated_at": "2025-02-18T17:41:54",
@@ -1393,5 +1384,17 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile methodologies without any mention of AI or its applications.",
     "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-05T14:39:15",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 14.0,
+    "reasoning": "The content briefly mentions 'Agile' but does not explicitly discuss Scrum principles, roles, events, or artifacts. There is minimal alignment with Scrum's core themes, and the depth of discussion is very limited, focusing instead on a broader Agile context without specific reference to Scrum.",
+    "level": "Quinary"
   }
 }

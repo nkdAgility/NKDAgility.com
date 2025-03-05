@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: microsoft-answer-for-the-end-user
 aliases:
-- /blog/microsoft-answer-for-the-end-user
-- /microsoft-answer-for-the-end-user
 - /resources/KIMZ-rpIxds
-- /resources/blog/microsoft-answer-for-the-end-user
 aliasesArchive:
 - /blog/microsoft-answer-for-the-end-user
 - /microsoft-answer-for-the-end-user

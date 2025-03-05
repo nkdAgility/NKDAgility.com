@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: solution-seo-permanent-redirects-for-old-urls
 aliases:
-- /blog/solution-seo-permanent-redirects-for-old-urls
-- /solution-seo-permanent-redirects-for-old-urls
-- /solution---seo-permanent-redirects-for-old-url’s-
-- /blog/solution---seo-permanent-redirects-for-old-url’s-
 - /resources/2x0w1Oay2UF
-- /resources/blog/solution-seo-permanent-redirects-for-old-urls
 aliasesArchive:
 - /blog/solution-seo-permanent-redirects-for-old-urls
 - /solution-seo-permanent-redirects-for-old-urls

@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-event-handler-update
 aliases:
-- /blog/tfs-event-handler-update
-- /tfs-event-handler-update
 - /resources/4sQLWkddZE1
-- /resources/blog/tfs-event-handler-update
 aliasesArchive:
 - /blog/tfs-event-handler-update
 - /tfs-event-handler-update

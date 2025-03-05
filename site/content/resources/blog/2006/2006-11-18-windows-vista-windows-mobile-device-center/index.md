@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: windows-vista-windows-mobile-device-center
 aliases:
-- /blog/windows-vista-windows-mobile-device-center
-- /windows-vista-windows-mobile-device-center
-- /windows-vista--windows-mobile-device-center
-- /blog/windows-vista--windows-mobile-device-center
 - /resources/V8uWqfxfKyn
-- /resources/blog/windows-vista-windows-mobile-device-center
 aliasesArchive:
 - /blog/windows-vista-windows-mobile-device-center
 - /windows-vista-windows-mobile-device-center

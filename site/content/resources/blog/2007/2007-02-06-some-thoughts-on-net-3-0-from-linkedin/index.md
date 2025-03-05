@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: some-thoughts-on-net-3-0-from-linkedin
 aliases:
-- /blog/some-thoughts-on-net-3-0-from-linkedin
-- /some-thoughts-on-net-3-0-from-linkedin
-- /some-thoughts-on--net-3-0-from-linkedin
-- /blog/some-thoughts-on--net-3-0-from-linkedin
 - /resources/L_rhObh8cmE
-- /resources/blog/some-thoughts-on-net-3-0-from-linkedin
 aliasesArchive:
 - /blog/some-thoughts-on-net-3-0-from-linkedin
 - /some-thoughts-on-net-3-0-from-linkedin

@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-2012-issue-tf215097-an-error-occurred-while-initializing-a-build-for-build-definition
 aliases:
-- /blog/tfs-2012-issue-tf215097-an-error-occurred-while-initializing-a-build-for-build-definition
-- /tfs-2012-issue-tf215097-an-error-occurred-while-initializing-a-build-for-build-definition
-- /tfs-2012-issue--tf215097-an-error-occurred-while-initializing-a-build-for-build-definition
-- /blog/tfs-2012-issue--tf215097-an-error-occurred-while-initializing-a-build-for-build-definition
 - /resources/Esy-i2Fcamk
-- /resources/blog/tfs-2012-issue-tf215097-an-error-occurred-while-initializing-a-build-for-build-definition
 aliasesArchive:
 - /blog/tfs-2012-issue-tf215097-an-error-occurred-while-initializing-a-build-for-build-definition
 - /tfs-2012-issue-tf215097-an-error-occurred-while-initializing-a-build-for-build-definition

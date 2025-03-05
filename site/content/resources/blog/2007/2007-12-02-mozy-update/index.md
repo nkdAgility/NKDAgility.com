@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: mozy-update
 aliases:
-- /blog/mozy-update
-- /mozy-update
 - /resources/Tb5vwyZh7DY
-- /resources/blog/mozy-update
 aliasesArchive:
 - /blog/mozy-update
 - /mozy-update

@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: removing-acls-for-dead-ad-accounts
 aliases:
-- /blog/removing-acls-for-dead-ad-accounts
-- /removing-acls-for-dead-ad-accounts
-- /removing-acl's-for-dead-ad-accounts
-- /blog/removing-acl's-for-dead-ad-accounts
 - /resources/l3dnUvBZV8r
-- /resources/blog/removing-acls-for-dead-ad-accounts
 aliasesArchive:
 - /blog/removing-acls-for-dead-ad-accounts
 - /removing-acls-for-dead-ad-accounts

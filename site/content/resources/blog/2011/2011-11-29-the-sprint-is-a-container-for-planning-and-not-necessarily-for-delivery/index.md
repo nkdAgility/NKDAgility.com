@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
 aliases:
-- /blog/the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
-- /the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
 - /resources/6USQKO75YgH
-- /resources/blog/the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
 aliasesArchive:
 - /blog/the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
 - /the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery

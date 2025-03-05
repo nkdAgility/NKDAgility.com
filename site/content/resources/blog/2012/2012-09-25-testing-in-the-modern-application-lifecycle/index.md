@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: testing-in-the-modern-application-lifecycle
 aliases:
-- /blog/testing-in-the-modern-application-lifecycle
-- /testing-in-the-modern-application-lifecycle
 - /resources/o-EY2NAQQSe
-- /resources/blog/testing-in-the-modern-application-lifecycle
 aliasesArchive:
 - /blog/testing-in-the-modern-application-lifecycle
 - /testing-in-the-modern-application-lifecycle

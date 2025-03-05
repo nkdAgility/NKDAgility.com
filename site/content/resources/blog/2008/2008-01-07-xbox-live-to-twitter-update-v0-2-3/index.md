@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: xbox-live-to-twitter-update-v0-2-3
 aliases:
-- /blog/xbox-live-to-twitter-update-v0-2-3
-- /xbox-live-to-twitter-update-v0-2-3
-- /xbox-live-to-twitter-update-(v0-2-3)
-- /blog/xbox-live-to-twitter-update-(v0-2-3)
 - /resources/4kh61B4o7T1
-- /resources/blog/xbox-live-to-twitter-update-v0-2-3
 aliasesArchive:
 - /blog/xbox-live-to-twitter-update-v0-2-3
 - /xbox-live-to-twitter-update-v0-2-3

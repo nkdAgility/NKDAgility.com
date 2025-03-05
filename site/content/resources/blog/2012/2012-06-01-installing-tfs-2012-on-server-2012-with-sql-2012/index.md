@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: installing-tfs-2012-on-server-2012-with-sql-2012
 aliases:
-- /blog/installing-tfs-2012-on-server-2012-with-sql-2012
-- /installing-tfs-2012-on-server-2012-with-sql-2012
 - /resources/krqWTY5WW0r
-- /resources/blog/installing-tfs-2012-on-server-2012-with-sql-2012
 aliasesArchive:
 - /blog/installing-tfs-2012-on-server-2012-with-sql-2012
 - /installing-tfs-2012-on-server-2012-with-sql-2012

@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: my-team-foundation-server-system-accounts-are-changing-what-do-i-do
 aliases:
-- /blog/my-team-foundation-server-system-accounts-are-changing-what-do-i-do
-- /my-team-foundation-server-system-accounts-are-changing-what-do-i-do
-- /my-team-foundation-server-system-accounts-are-changing--what-do-i-do-
-- /blog/my-team-foundation-server-system-accounts-are-changing--what-do-i-do-
 - /resources/GJOGgre5lz-
-- /resources/blog/my-team-foundation-server-system-accounts-are-changing-what-do-i-do
 aliasesArchive:
 - /blog/my-team-foundation-server-system-accounts-are-changing-what-do-i-do
 - /my-team-foundation-server-system-accounts-are-changing-what-do-i-do

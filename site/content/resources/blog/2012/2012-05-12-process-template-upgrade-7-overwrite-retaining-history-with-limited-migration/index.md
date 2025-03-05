@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
 aliases:
-- /blog/process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
-- /process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
-- /process-template-upgrade--7-–-rename-work-items-and-import-new-ones
-- /blog/process-template-upgrade--7-–-rename-work-items-and-import-new-ones
 - /resources/8bwduNxH7WG
-- /resources/blog/process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
 aliasesArchive:
 - /blog/process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
 - /process-template-upgrade-7-overwrite-retaining-history-with-limited-migration

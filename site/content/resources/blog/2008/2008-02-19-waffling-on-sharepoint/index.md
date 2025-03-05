@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: waffling-on-sharepoint
 aliases:
-- /blog/waffling-on-sharepoint
-- /waffling-on-sharepoint---
-- /blog/waffling-on-sharepoint---
 - /resources/O3FNfeA_FB8
-- /waffling-on-sharepoint
-- /resources/blog/waffling-on-sharepoint
 aliasesArchive:
 - /blog/waffling-on-sharepoint
 - /waffling-on-sharepoint---

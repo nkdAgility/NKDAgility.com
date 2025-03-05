@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: sharepoint-planning
 aliases:
-- /blog/sharepoint-planning
-- /sharepoint-planning
 - /resources/NWq41MdV9s6
-- /resources/blog/sharepoint-planning
 aliasesArchive:
 - /blog/sharepoint-planning
 - /sharepoint-planning

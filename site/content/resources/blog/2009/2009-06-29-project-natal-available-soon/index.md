@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: project-natal-available-soon
 aliases:
-- /blog/project-natal-available-soon
-- /project-natal-available-soon
 - /resources/DomKUWOAmyb
-- /resources/blog/project-natal-available-soon
 aliasesArchive:
 - /blog/project-natal-available-soon
 - /project-natal-available-soon

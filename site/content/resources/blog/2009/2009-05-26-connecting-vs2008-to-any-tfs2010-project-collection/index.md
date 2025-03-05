@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: connecting-vs2008-to-any-tfs2010-project-collection
 aliases:
-- /blog/connecting-vs2008-to-any-tfs2010-project-collection
-- /connecting-vs2008-to-any-tfs2010-project-collection
 - /resources/f6DE_mA4Fk1
-- /resources/blog/connecting-vs2008-to-any-tfs2010-project-collection
 aliasesArchive:
 - /blog/connecting-vs2008-to-any-tfs2010-project-collection
 - /connecting-vs2008-to-any-tfs2010-project-collection

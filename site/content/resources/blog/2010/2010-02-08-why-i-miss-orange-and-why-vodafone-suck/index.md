@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: why-i-miss-orange-and-why-vodafone-suck
 aliases:
-- /blog/why-i-miss-orange-and-why-vodafone-suck
-- /why-i-miss-orange-and-why-vodafone-suck
-- /why-i-miss-orange-and-why-vodafone-suck-
-- /blog/why-i-miss-orange-and-why-vodafone-suck-
 - /resources/5uRWOuzPVbV
-- /resources/blog/why-i-miss-orange-and-why-vodafone-suck
 aliasesArchive:
 - /blog/why-i-miss-orange-and-why-vodafone-suck
 - /why-i-miss-orange-and-why-vodafone-suck

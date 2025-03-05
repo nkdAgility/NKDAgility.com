@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-vs-subversion-fact-check
 aliases:
-- /blog/tfs-vs-subversion-fact-check
-- /tfs-vs-subversion-fact-check
-- /tfs-vs--subversion-fact-check
-- /blog/tfs-vs--subversion-fact-check
 - /resources/Tpk1xLI-Ygd
-- /resources/blog/tfs-vs-subversion-fact-check
 aliasesArchive:
 - /blog/tfs-vs-subversion-fact-check
 - /tfs-vs-subversion-fact-check

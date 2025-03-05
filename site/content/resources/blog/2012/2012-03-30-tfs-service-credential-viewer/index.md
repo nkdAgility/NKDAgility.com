@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: tfs-service-credential-viewer
 aliases:
-- /blog/tfs-service-credential-viewer
-- /tfs-service-credential-viewer
 - /resources/X946f3k8qX8
-- /resources/blog/tfs-service-credential-viewer
 aliasesArchive:
 - /blog/tfs-service-credential-viewer
 - /tfs-service-credential-viewer

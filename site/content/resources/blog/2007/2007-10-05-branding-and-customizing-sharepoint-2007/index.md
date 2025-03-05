@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: branding-and-customizing-sharepoint-2007
 aliases:
-- /blog/branding-and-customizing-sharepoint-2007
-- /branding-and-customizing-sharepoint-2007
 - /resources/1j-4XNo1AAo
-- /resources/blog/branding-and-customizing-sharepoint-2007
 aliasesArchive:
 - /blog/branding-and-customizing-sharepoint-2007
 - /branding-and-customizing-sharepoint-2007

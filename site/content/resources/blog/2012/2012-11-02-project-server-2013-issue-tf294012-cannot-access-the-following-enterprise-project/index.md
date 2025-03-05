@@ -14,13 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: project-server-2013-issue-tf294012-cannot-access-the-following-enterprise-project
 aliases:
-- /blog/project-server-2013-issue-tf294012-cannot-access-the-following-enterprise-project
-- /project-server-2013-issue-tf294012-cannot-access-the-following-enterprise-project
-- /project-server-2013-issue
-- /project-server-2013-issue---tf294012--cannot-access-the-following-enterprise-project
-- /blog/project-server-2013-issue---tf294012--cannot-access-the-following-enterprise-project
 - /resources/B7vlHTIj_jT
-- /resources/blog/project-server-2013-issue-tf294012-cannot-access-the-following-enterprise-project
 aliasesArchive:
 - /blog/project-server-2013-issue-tf294012-cannot-access-the-following-enterprise-project
 - /project-server-2013-issue-tf294012-cannot-access-the-following-enterprise-project

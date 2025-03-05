@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: stuck-with-vista
 aliases:
-- /blog/stuck-with-vista
-- /stuck-with-vista
-- /stuck-with-vista-
-- /blog/stuck-with-vista-
 - /resources/WFhOkuWMbpS
-- /resources/blog/stuck-with-vista
 aliasesArchive:
 - /blog/stuck-with-vista
 - /stuck-with-vista

@@ -14,12 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: im-luke-skywalker-according-to-the-star-wars-personality-test
 aliases:
-- /blog/im-luke-skywalker-according-to-the-star-wars-personality-test
-- /im-luke-skywalker-according-to-the-star-wars-personality-test
-- /i'm-luke-skywalker-according-to-the-star-wars-personality-test-
-- /blog/i'm-luke-skywalker-according-to-the-star-wars-personality-test-
 - /resources/q9eDYUo8WyX
-- /resources/blog/im-luke-skywalker-according-to-the-star-wars-personality-test
 aliasesArchive:
 - /blog/im-luke-skywalker-according-to-the-star-wars-personality-test
 - /im-luke-skywalker-according-to-the-star-wars-personality-test

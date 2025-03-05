@@ -14,10 +14,7 @@ layout: blog
 resourceTypes: blog
 slug: team-system-widgets
 aliases:
-- /blog/team-system-widgets
-- /team-system-widgets
 - /resources/P5ilJfzSeMk
-- /resources/blog/team-system-widgets
 aliasesArchive:
 - /blog/team-system-widgets
 - /team-system-widgets
