@@ -17,6 +17,6 @@
     {{- end }}
   {{- end }}
 {{- end }}
-{{- $routes := dict "routesFor404" ($.Scratch.Get "routesFor404") }}
+{{- $routes := dict "routes" ($.Scratch.Get "routesFor404") }}
 {{- $jsonOutput := $routes | jsonify }}
 {{- (resources.FromString "static.routes.json" $jsonOutput).Publish }}
