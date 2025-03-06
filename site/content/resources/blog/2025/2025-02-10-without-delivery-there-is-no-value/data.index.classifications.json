@@ -1123,11 +1123,14 @@
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-11T14:09:10",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-06T14:34:08",
+    "ai_confidence": 87.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses the importance of delivery in Agile methodologies, linking it to transparency and accountability through frequent releases and feedback loops. It highlights how transparency is essential for inspection and adaptation, making it a central theme.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the importance of delivery in Agile methodologies, linking it directly to transparency and accountability. It highlights how frequent releases enable inspection and adaptation, which are core principles of transparency. The depth of discussion on the consequences of delayed delivery and the benefits of iterative feedback loops further reinforces the alignment with the category. Overall, the content is focused on how transparency in delivery processes fosters accountability among teams, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Practical Techniques and Tooling": {
@@ -1168,12 +1171,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T08:53:18",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-06T14:34:03",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 30,
-    "final_score": 80.0,
-    "reasoning": "The content primarily discusses the importance of frequent delivery and its impact on value realisation, which aligns closely with DevOps principles of Continuous Delivery and the need for rapid feedback loops. It also references DORA metrics, which are central to measuring DevOps success, indicating a strong focus on DevOps practices.",
-    "level": "Secondary"
+    "final_score": 81.0,
+    "reasoning": "The content discusses the importance of delivery in software development, emphasising frequent releases and feedback loops, which are core principles of DevOps. It references DORA metrics and highlights the impact of delivery on value realisation, aligning well with DevOps themes. However, while it touches on Agile and Scrum, it does not delve deeply into specific DevOps practices or tools, which slightly lowers the depth score.",
+    "level": "Primary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",

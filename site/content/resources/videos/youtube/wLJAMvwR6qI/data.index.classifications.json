@@ -1087,11 +1087,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-12T23:13:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:49:00",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of assumptions and hypotheses in product development, which are central to effective product delivery methodologies.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of assumptions and hypotheses in product development, which aligns with the iterative development and feedback loops essential in product delivery. However, while it touches on relevant themes, it lacks a direct focus on methodologies like Agile or specific practices for deployment and testing, which are crucial for a higher confidence score.",
     "level": "Secondary"
   },
   "Agile Product Management": {
@@ -1393,14 +1396,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:44:54",
+    "calculated_at": "2025-03-06T14:48:58",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses product development and hypothesis-driven strategies, which are relevant to Agile methodologies, including Scrum. However, it does not explicitly mention Scrum roles, events, or artifacts, leading to a low direct mention score. The conceptual alignment is moderate as it touches on iterative learning and validation, which are principles in Scrum, but lacks depth in discussing Scrum-specific practices. Overall, while there are connections to Scrum principles, the content primarily focuses on assumptions and hypotheses rather than the Scrum framework itself.",
+    "reasoning": "The content discusses product development and hypothesis-driven strategies, which are relevant to Agile methodologies, including Scrum. However, it does not explicitly mention Scrum roles, events, or artifacts, leading to a low direct mention score. The conceptual alignment is moderate as it touches on aspects of iterative learning and validation, which are part of Scrum principles, but lacks depth in discussing Scrum-specific practices. Overall, while there are connections to Scrum, the primary focus is not on Scrum itself.",
     "level": "Quaternary"
   }
 }

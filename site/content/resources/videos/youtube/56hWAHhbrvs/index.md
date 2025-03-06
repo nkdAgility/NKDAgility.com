@@ -36,16 +36,16 @@ tags:
 - Agile Transformation
 - Beta Codex
 - Business Agility
-- Enterprise Agility
 - Organisational Agility
 - Organisational Change
 - Organisational Culture
+- Organisational Physics
 resourceTypes:
 - video
 layout: video
 categories:
-- Product Management
 - Social Technologies
+- Product Management
 
 ---
 # Navigating the Agile Apocalypse: Overcoming the Alpha Organizational Structure

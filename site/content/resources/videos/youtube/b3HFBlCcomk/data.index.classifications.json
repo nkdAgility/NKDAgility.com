@@ -346,12 +346,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T12:38:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T14:51:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile methodologies and the importance of understanding market fit, which relates to engineering practices. However, the primary focus is on the misconceptions of agility rather than on engineering excellence principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses agility in software development, challenging the misconception that agility equates to speed. While it touches on aspects of engineering excellence, such as the importance of delivering the right product and avoiding bureaucracy, it primarily focuses on project management concepts rather than specific engineering practices or craftsmanship. The discussion lacks direct references to coding standards, testing methodologies, or CI/CD practices, which are central to the category of Engineering Excellence.",
+    "level": "Quaternary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1096,11 +1099,14 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-12T09:18:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:51:52",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the principles of agility in product management, emphasising the importance of market fit, customer value, and iterative development, which are central to Agile Product Management.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the concept of agility in product management, particularly the misconception that agility equates to speed. It touches on the importance of understanding customer needs and market fit, which aligns with Agile principles. However, while it provides some relevant examples and insights, it lacks a structured discussion on specific Agile practices, roles, or methodologies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Discovery and Learning": {

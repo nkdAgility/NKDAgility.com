@@ -1105,11 +1105,14 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-12T05:54:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:49:56",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily focuses on the processes of working with assumptions and hypotheses in product development, emphasising experimentation, validation, and learning from data, which aligns well with the themes of discovery and learning.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses the importance of assumptions and hypotheses in product development, which aligns closely with the core themes of experimentation and learning. It provides detailed insights into how to validate assumptions, create hypotheses, and analyse experiments, demonstrating a strong focus on discovery and learning processes. The depth of discussion is significant, covering various aspects of hypothesis-driven development and the importance of learning from experimentation, which reinforces its relevance to the category.",
     "level": "Secondary"
   },
   "Systems Thinking": {
@@ -1393,14 +1396,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:45:29",
+    "calculated_at": "2025-03-06T14:49:54",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
-    "ai_depth": 50.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses product development, assumptions, and hypotheses, which are relevant to Agile methodologies, including Scrum. However, it does not explicitly mention Scrum roles, events, or artifacts, nor does it focus on the Scrum framework itself. The discussion on validating assumptions and hypothesis-driven development aligns with Agile principles but lacks depth in Scrum-specific practices. Therefore, while there is some conceptual alignment, the absence of direct mentions and detailed discussion on Scrum leads to a lower confidence score.",
+    "reasoning": "The content discusses product development and hypothesis-driven approaches, which are relevant to Agile methodologies, including Scrum. However, it does not explicitly mention Scrum roles, events, or artifacts, nor does it focus on the Scrum framework itself. The discussion on assumptions and hypotheses aligns with Agile principles but lacks depth in Scrum-specific practices.",
     "level": "Quaternary"
   }
 }

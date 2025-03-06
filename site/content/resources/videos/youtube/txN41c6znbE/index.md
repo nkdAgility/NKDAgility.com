@@ -2,7 +2,7 @@
 title: 'Where Agile Went Wrong: Understanding the Competence Crisis'
 description: "Explore the competence crisis in Agile! Discover why skilled Scrum Masters matter and how to bridge the gap for real-world success. \U0001F331\U0001F680 #AgileLeadership"
 date: 2024-10-14T07:00:38Z
-weight: 405
+weight: 305
 ResourceId: txN41c6znbE
 ResourceType: videos
 ResourceImport: true

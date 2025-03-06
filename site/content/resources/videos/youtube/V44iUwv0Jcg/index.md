@@ -28,6 +28,7 @@ tags:
 - Lean Thinking
 - Operational Practices
 - Discovery and Learning
+- Metrics and Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

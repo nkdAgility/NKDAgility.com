@@ -29,8 +29,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Experimentation
 - Discovery and Learning
+- Experimentation
 - Metrics and Learning
 - Continuous Learning
 - Decision Making

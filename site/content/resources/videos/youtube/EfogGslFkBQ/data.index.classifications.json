@@ -343,12 +343,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T14:31:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T14:58:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content critiques the use of story points and velocity as metrics in agile development, suggesting a focus on more effective metrics like throughput and cycle time. While it discusses some aspects of software development practices, the primary focus is on agile methodologies rather than broader engineering excellence principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily critiques the use of story points and velocity as metrics in agile development, which indirectly touches on engineering practices. However, it does not focus on broader principles of software craftsmanship, quality assurance, or continuous improvement in engineering processes. While it mentions the importance of metrics, it lacks depth in discussing best practices or methodologies that align with the core themes of engineering excellence.",
+    "level": "Quaternary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1063,11 +1066,14 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-12T08:06:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:58:39",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the drawbacks of using story points and velocity as metrics, advocating for a focus on flow metrics, cycle time, and throughput, which are central to the concept of flow efficiency.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily critiques the use of story points and velocity as metrics in Agile, advocating for a focus on flow metrics like throughput and cycle time. While it does mention flow efficiency concepts, the discussion is more about the drawbacks of certain Agile practices rather than a comprehensive exploration of flow efficiency principles. The content aligns with the category's themes but lacks depth in discussing techniques for optimising flow or eliminating bottlenecks.",
     "level": "Secondary"
   },
   "AI and Automation in Agility": {

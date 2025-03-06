@@ -42,7 +42,6 @@ tags:
 resourceTypes:
 - video
 categories:
-- Product Management
 - Leadership
 
 ---

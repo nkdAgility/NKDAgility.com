@@ -808,11 +808,14 @@
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-12T17:23:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:40:56",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the concept of technical debt, differentiating it from incompetence and emphasising the need to prioritise its repayment. It explores the implications of shipping bad code and the necessity of addressing technical debt within a competent team context.",
+    "final_score": 72.0,
+    "reasoning": "The content explicitly discusses technical debt, differentiating between known and unknown types, and highlights the importance of addressing it. It provides a conceptual understanding of technical debt as a consequence of poor coding practices and the need for prioritisation in remediation. However, while it touches on the implications of shipping bad code, it lacks detailed strategies or methodologies for managing technical debt, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Scaling Scrum": {
@@ -1393,7 +1396,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:40:15",
+    "calculated_at": "2025-03-06T14:40:51",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,

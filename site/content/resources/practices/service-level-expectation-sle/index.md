@@ -26,9 +26,9 @@ categories:
 - Scrum
 - Social Technologies
 tags:
+- Metrics and Learning
 - Cycle Time
 - Scrum Team
-- Metrics and Learning
 - Scrum Product Development
 - Agile Frameworks
 - Agile Project Management

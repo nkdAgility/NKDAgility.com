@@ -32,10 +32,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Practical Techniques and Tooling
 - Cycle Time
 - Metrics and Learning
 - People and Process
-- Practical Techniques and Tooling
 - Agile Frameworks
 - Agile Project Management
 - Operational Practices
@@ -45,8 +45,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Kanban
 - Social Technologies
+- Kanban
 
 ---
 ### Getting Started with Kanban: A Guide to Initiating Your First Kanban Pilot

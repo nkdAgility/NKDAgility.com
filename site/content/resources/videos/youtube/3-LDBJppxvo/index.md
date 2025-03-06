@@ -30,8 +30,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Customer Feedback Loops
 - Agile Product Management
+- Customer Feedback Loops
 - Agile Values and Principles
 - Working Software
 - Agile Philosophy

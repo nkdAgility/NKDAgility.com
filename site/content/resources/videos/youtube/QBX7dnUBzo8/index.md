@@ -2,7 +2,7 @@
 title: Addressing Systemic Issues in Agile Organizations
 description: Unlock the secrets to startup success! Discover how agile techniques can transform your business and boost team performance in this must-watch video.
 date: 2024-01-24T07:00:16Z
-weight: 550
+weight: 585
 ResourceId: QBX7dnUBzo8
 ResourceType: videos
 ResourceImport: true
@@ -33,13 +33,13 @@ tags:
 - Enterprise Agility
 - Business Agility
 - People and Process
-- Resilience and Change
 - Agile Frameworks
 - Agile Leadership
 - Agile Philosophy
 - Agile Strategy
 - Agile Transformation
 - Change Management
+- Metrics and Learning
 resourceTypes:
 - video
 categories:

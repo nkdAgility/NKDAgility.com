@@ -36,8 +36,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Engineering Excellence
 - Leadership
+- Engineering Excellence
 - Product Management
 
 ---

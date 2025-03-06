@@ -25,7 +25,6 @@ card:
 categories:
 - Scrum
 tags:
-- Product Delivery
 - Scrum Product Development
 - Agile Planning
 - Agile Planning Tools

@@ -38,8 +38,7 @@ tags:
 - Pragmatic Thinking
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 ### The Danger of Ignoring Problems in Your Kanban Strategy

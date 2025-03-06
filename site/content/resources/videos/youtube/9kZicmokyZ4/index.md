@@ -30,9 +30,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Metrics and Learning
 - Agile Product Management
 - Evidence Based Management
-- Metrics and Learning
 - Value Delivery
 - Decision Making
 - Empirical Process Control
@@ -44,6 +44,7 @@ resourceTypes:
 - video
 categories:
 - Product Management
+- Social Technologies
 
 ---
 In today’s fast-paced, ever-evolving business world, it’s not enough to simply make changes and hope for the best. We need to understand the true impact of our actions—whether they’re improving or hindering our overall success. This is where evidence-based management comes into play. If you're working in an Agile environment, it’s essential to have the right tools in place to measure success and progress effectively.

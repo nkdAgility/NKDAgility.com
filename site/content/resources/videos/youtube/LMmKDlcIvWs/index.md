@@ -30,12 +30,12 @@ sitemap:
 tags:
 - Strategy
 - Metrics and Learning
-- Flow Efficiency
 - Practical Techniques and Tooling
 - Agile Frameworks
 - Lean Thinking
 - Operational Practices
 - Pragmatic Thinking
+- Flow Efficiency
 - Lean Principles
 - Lean
 resourceTypes:

@@ -17,7 +17,7 @@ recommendedContent:
 - metrics-reports
 - metrics-reports.html
 date: 2024-09-17
-weight: 460
+weight: 425
 creator: Martin Hinshelwood
 card:
   button:
@@ -31,13 +31,13 @@ categories:
 tags:
 - Metrics and Learning
 - Transparency
+- Product Delivery
 - Throughput
 - Flow Efficiency
 - Agile Product Operating Model
 - Cycle Time
 - Operational Practices
 - Practical Techniques and Tooling
-- Product Delivery
 - Team Performance
 
 ---

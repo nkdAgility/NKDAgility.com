@@ -34,10 +34,10 @@ tags:
 - Accountability
 - People and Process
 - Organisational Culture
-- Transparency and Accountability
 - Agile Philosophy
 - Agile Project Management
 - Personal
+- Transparency and Accountability
 - Pragmatic Thinking
 - Sociotechnical Systems
 - Software Developers

@@ -29,9 +29,9 @@ tags:
 - Strategy
 - Scrum Team
 - Strategic Goals
-- People and Process
 - Professional Scrum
 - Agile Project Management
+- People and Process
 - Agile Product Management
 - Product Owner
 - Team Motivation

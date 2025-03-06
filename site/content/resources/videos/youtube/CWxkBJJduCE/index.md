@@ -26,8 +26,8 @@ duration: 53
 isShort: true
 tags:
 - Software Development
-- Engineering Practices
 - Technical Excellence
+- Engineering Practices
 - Technical Mastery
 - Code and Complexity
 - Software Developers

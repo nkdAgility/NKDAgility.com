@@ -28,7 +28,6 @@ tags:
 - Product Delivery
 - People and Process
 - Decision Making
-- Complexity Thinking
 - Pragmatic Thinking
 - Sociotechnical Systems
 resourceTypes:

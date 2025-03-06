@@ -6,7 +6,7 @@ ResourceImport: false
 ResourceType: methods
 shorttitle: 1ES
 date: 2024-09-17
-weight: 410
+weight: 420
 creator: Martin Hinshelwood
 draft: false
 resourceTypes: method
@@ -33,10 +33,10 @@ tags:
 - Practical Techniques and Tooling
 - Strategy
 - One Engineering System (1ES)
-- Azure DevOps
 - Software Development
 - Operational Practices
 - Team Collaboration
+- Azure DevOps
 - Pragmatic Thinking
 - Collaboration Tools
 - Software Developers

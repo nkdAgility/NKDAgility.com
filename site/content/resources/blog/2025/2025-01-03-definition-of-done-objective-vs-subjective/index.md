@@ -5,7 +5,7 @@ ResourceId: -Z5GGUOjc-d
 ResourceType: blog
 ResourceImport: false
 date: 2025-01-03
-weight: 195
+weight: 220
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -35,7 +35,6 @@ tags:
 - Working Software
 categories:
 - Scrum
-- Engineering Excellence
 preview: 2025-01-03-definition-of-done-objective-vs-subjective.jpg
 
 ---

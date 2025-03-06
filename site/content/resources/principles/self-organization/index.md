@@ -27,7 +27,6 @@ categories:
 tags:
 - Scrum Master
 - Scrum Team
-- Professional Scrum
 - Team Collaboration
 - Team Performance
 - Agile Frameworks
@@ -35,6 +34,7 @@ tags:
 - People and Process
 - Self Organisation
 - Software Development
+- Professional Scrum
 
 ---
 Self-Organization: Scrum teams are self-organizing, which means they have the autonomy to determine how to achieve their goals. The team members collaborate and make decisions together, and the Scrum Master helps to facilitate and guide the process

@@ -24,8 +24,8 @@ preview: https://i.ytimg.com/vi/hWyF6CbcbQ8/maxresdefault.jpg
 duration: 124
 isShort: false
 tags:
-- Software Development
 - Pragmatic Thinking
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

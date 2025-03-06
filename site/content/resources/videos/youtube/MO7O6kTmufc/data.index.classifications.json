@@ -31,12 +31,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T12:12:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T14:47:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses evidence-based management, which is relevant to Agile principles and decision-making in product management, but it does not primarily focus on Agile Product Management as a central theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses evidence-based management, which is relevant to Agile Product Management, particularly in the context of using metrics to inform decisions. However, it lacks explicit mentions of Agile principles or roles such as the Product Owner, and does not delve deeply into how these practices align with customer needs or product value maximisation.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1393,14 +1396,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:44:06",
+    "calculated_at": "2025-03-06T14:47:34",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 25.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content briefly touches on the concept of metrics and decision-making, which can relate to Scrum's emphasis on empirical process control and continuous improvement. However, it does not explicitly mention Scrum roles, events, or artifacts, nor does it delve deeply into Scrum principles. The focus on evidence-based management is relevant but not specific to Scrum, leading to a low confidence score.",
+    "reasoning": "The content briefly touches on metrics and decision-making, which can relate to Scrum's emphasis on empirical process control and continuous improvement. However, it does not explicitly mention Scrum roles, events, or artifacts, nor does it delve deeply into Scrum principles. The focus is more on evidence-based management rather than Scrum itself, leading to a lower confidence score.",
     "level": "Quaternary"
   }
 }

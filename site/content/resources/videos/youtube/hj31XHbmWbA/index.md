@@ -35,8 +35,7 @@ tags:
 - Sensemaking
 resourceTypes:
 - video
-categories:
-- Product Management
+categories: []
 
 ---
 **Steve Jobs and the Art of Connecting Dots in Agile Environments** 

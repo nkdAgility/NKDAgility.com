@@ -8,7 +8,7 @@ ResourceImportId: 50309
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2023-10-17
-weight: 770
+weight: 850
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -28,11 +28,11 @@ aliasesArchive:
 - /blog/the-7-deadly-sins-of-agile--a-grecian-odyssey-through-modern-software-development
 - /resources/blog/the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
 tags:
+- People and Process
 - Agile Philosophy
 - Agile Project Management
 - Software Development
 - Agile Strategy
-- People and Process
 - Agile Values and Principles
 - Agile Frameworks
 - Agile Transformation

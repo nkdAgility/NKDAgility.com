@@ -928,11 +928,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-13T15:52:03",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-06T14:45:32",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses principles and practices related to agile development, including continuous integration, user feedback, and the importance of delivering working software. While it primarily focuses on identifying genuine agile practices versus misinterpretations, it also touches on key aspects of engineering excellence such as automation, collaboration, and metrics for assessing performance.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses agile development practices and principles, which are closely related to engineering excellence. It highlights the importance of user feedback, continuous integration, and automation, all of which align with best practices in software craftsmanship. However, the primary focus is on identifying genuine agile practices rather than a comprehensive exploration of engineering excellence itself, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Entrepreneurship": {
@@ -1075,11 +1078,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-13T15:47:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:45:35",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses various tools and methodologies related to Agile and DevOps practices, including specific tools for version control, continuous integration, and configuration management. It also addresses practical questions for teams and management, indicating a strong focus on practical application.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses various tools and methodologies related to Agile and DevOps practices, such as version control systems (Git, ClearCase, Subversion), CI/CD tools (Jenkins, Azure Pipelines), and configuration management tools (Chef, Ansible). It also outlines key questions for assessing Agile practices and the effectiveness of tooling in software development. While it does touch on Agile principles, the primary focus is on practical techniques and tools, which aligns well with the category. However, the depth of discussion on specific methodologies is somewhat limited, preventing a higher confidence score.",
     "level": "Secondary"
   },
   "Events and Presentations": {

@@ -1255,12 +1255,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-18T17:29:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T14:45:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions issues related to commitment and sprint goals, which are relevant to team dynamics and collaboration in Agile environments, but it lacks depth and focus on the interplay between human behaviour and structured methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions issues related to commitment and sprint goals, which are relevant to team dynamics in Agile environments. However, it lacks a detailed exploration of how these factors influence collaboration or process methodologies, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -1390,14 +1393,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-06T13:33:26",
+    "calculated_at": "2025-03-06T14:45:51",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 10.0,
     "non_ai_confidence": 0,
     "final_score": 22.0,
-    "reasoning": "The content briefly mentions concepts related to Scrum, such as commitment and sprint goals, but lacks a detailed discussion on Scrum roles, events, or artifacts. The alignment with Scrum principles is minimal, and the depth of discussion is insufficient to warrant a higher confidence score.",
+    "reasoning": "The content briefly mentions concepts related to Scrum, such as 'sprint goals', but lacks a comprehensive discussion on Scrum roles, events, or principles. The focus on failures does not provide sufficient depth or alignment with the core themes of Scrum, leading to a low confidence score.",
     "level": "Quaternary"
   }
 }

@@ -46,8 +46,6 @@ resourceTypes:
 - video
 categories:
 - DevOps
-- Leadership
-- Social Technologies
 
 ---
 Hex stacks can scale, but can your culture? This is a question that resonates deeply with me, and I believe it’s one of the most critical challenges we face in today’s fast-paced tech landscape. Scaling technology is often seen as the straightforward part of the equation. You simply add more servers, more clusters, and more automation, and voilà, you’re done. However, if your engineering culture doesn’t evolve alongside your technology, you’re setting yourself up for a fall.

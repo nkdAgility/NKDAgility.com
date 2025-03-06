@@ -34,7 +34,7 @@ tags:
 - Software Developers
 - Software Development
 - Complexity Thinking
-- Organisational Agility
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

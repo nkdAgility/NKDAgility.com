@@ -1138,11 +1138,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-11T23:16:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:50:38",
+    "ai_confidence": 85.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical techniques and tools involved in migrating from TFS to Azure DevOps, including specific migration services, tools provided by Microsoft, and the processes involved in ensuring a successful transition.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed discussion on specific tools and methodologies related to migrating from TFS to Azure DevOps, which aligns well with the category's focus on practical techniques and tooling. It explicitly mentions migration tools, validation processes, and managed services, demonstrating a strong emphasis on practical application. The depth of discussion is significant, covering various aspects of the migration process and the challenges involved, which further supports the high confidence score.",
     "level": "Secondary"
   },
   "Events and Presentations": {
@@ -1366,12 +1369,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T13:54:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T14:50:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition from TFS to Azure DevOps, mentioning Scrum and Agile methodologies in the context of process templates, indicating a secondary theme related to social technologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses migration services related to Azure DevOps and TFS, with only brief mentions of Agile and Scrum in the context of process templates. While there is some alignment with the themes of collaboration and adaptation to change, the focus is predominantly on technical migration processes rather than on the core principles of Scrum, Kanban, Lean, or Agile practices. The depth of discussion is limited to practical migration details, lacking a thorough exploration of social technologies or their methodologies.",
+    "level": "Quaternary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

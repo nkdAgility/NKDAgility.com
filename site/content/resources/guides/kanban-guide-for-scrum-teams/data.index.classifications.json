@@ -343,12 +343,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T12:11:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T14:44:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Kanban practices within the Scrum framework, focusing on flow optimization, metrics, and continuous improvement, which are relevant to engineering excellence. However, the primary focus is on Scrum and Kanban methodologies rather than broader engineering practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the integration of Kanban practices within the Scrum framework, which is more about project management methodologies than engineering excellence. While it touches on metrics and flow, it lacks a strong emphasis on software craftsmanship, coding standards, or continuous improvement of engineering processes, which are core to the category of Engineering Excellence.",
+    "level": "Quaternary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1084,11 +1087,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-12T13:55:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:44:41",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the integration of Kanban practices within the Scrum framework, focusing on flow optimization, metrics, and the iterative process of product delivery. It addresses key aspects of product delivery methodologies, such as the importance of feedback loops and the role of cross-functional teams in enhancing delivery efficiency.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on integrating Kanban practices within the Scrum framework, which directly relates to methodologies and practices involved in product delivery. It discusses flow optimization, metrics, and the importance of iterative processes, aligning well with the core themes of product delivery. The depth of discussion is substantial, covering various aspects of how Kanban can enhance Scrum, including specific practices and metrics that improve delivery efficiency. However, the content is somewhat limited to the intersection of Kanban and Scrum, which may not encompass the broader scope of product delivery methodologies.",
     "level": "Secondary"
   },
   "Agile Product Management": {

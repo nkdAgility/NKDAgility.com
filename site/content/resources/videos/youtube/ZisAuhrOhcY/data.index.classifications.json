@@ -82,12 +82,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T13:14:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T14:55:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of transparency and metrics in managing work flow, which relates to product management principles, but primarily focuses on Kanban and Scrum methodologies rather than strategic product management itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Kanban as a strategy within the context of Scrum, focusing on managing workflow and transparency. While it touches on aspects relevant to product management, such as the need for predictability and metrics, it lacks a direct focus on the strategic alignment of customer needs and business objectives. The discussion is more about the implementation of Kanban rather than the overarching principles of product management, which diminishes its relevance to the category.",
+    "level": "Quaternary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -1129,11 +1132,14 @@
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-11T21:57:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:55:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of transparency in Agile methodologies, particularly in the context of using Kanban to improve visibility and predictability within teams. It highlights the consequences of a lack of transparency and advocates for strategies that enhance accountability and communication, making it a central theme.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of transparency in the context of Kanban and Scrum, highlighting how a lack of transparency can lead to fear and a desire for control within teams. It mentions the need for clear communication and understanding of work flow, which aligns with the principles of transparency and accountability. However, the primary focus is on promoting Kanban as a strategy rather than a deep exploration of transparency and accountability practices themselves, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Practical Techniques and Tooling": {

@@ -26,6 +26,7 @@ card:
 categories:
 - Social Technologies
 - Scrum
+- Kanban
 tags:
 - Flow Efficiency
 - People and Process

@@ -29,8 +29,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Operational Practices
 - Flow Efficiency
+- Operational Practices
 - Metrics and Learning
 - People and Process
 - Practical Techniques and Tooling

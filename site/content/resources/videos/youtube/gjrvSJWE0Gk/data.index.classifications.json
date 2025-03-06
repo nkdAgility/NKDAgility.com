@@ -1213,20 +1213,26 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-17T13:15:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T14:55:17",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses metrics for predictability in the context of Kanban, which is a significant theme, but it does not primarily focus on Kanban principles or practices.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content explicitly discusses metrics related to Kanban, particularly focusing on predictability and flow, which are core themes of the Kanban methodology. It mentions the importance of understanding and interpreting metrics to improve predictability, aligning well with Kanban principles. However, while it provides a good level of detail on metrics and their application, it lacks a broader discussion on other Kanban practices such as visualisation and WIP limits, which prevents a higher confidence score.",
+    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-12T07:02:52",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-06T14:55:20",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses metrics for predictability and improving the flow of value to the business, which aligns with value delivery principles. However, it primarily focuses on the specifics of a Kanban course rather than broader value delivery strategies.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses metrics for predictability, which directly relates to measuring and maximising customer value. It highlights the importance of understanding the impact of changes on predictability and how this can enhance the flow of value into production. The focus on interpreting data and making forecasts aligns well with the principles of iterative development and continuous delivery. However, while the content is relevant, it does not delve deeply into broader strategies or methodologies within Agile or DevOps frameworks, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Technical Excellence": {

@@ -30,7 +30,6 @@ tags:
 - Experimentation
 - People and Process
 - Product Validation
-- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

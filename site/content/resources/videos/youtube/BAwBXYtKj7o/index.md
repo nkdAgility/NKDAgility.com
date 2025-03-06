@@ -2,7 +2,7 @@
 title: Technical Debt Management for Long-Term Quality
 description: Discover how automated testing transforms software engineering, reducing errors and speeding up feedback for high-quality, efficient delivery.
 date: 2024-11-21T07:00:11Z
-weight: 355
+weight: 370
 ResourceId: BAwBXYtKj7o
 ResourceType: videos
 ResourceImport: true
@@ -33,7 +33,6 @@ resourceTypes:
 - video
 categories:
 - DevOps
-- Engineering Excellence
 
 ---
 # Technical Debt Management for Long-Term Quality | Martin Hinshelwood  

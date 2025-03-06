@@ -2,7 +2,7 @@
 title: 'Detecting Agile BS: Lessons from the US Department of Defense'
 description: "Is your company truly Agile? \U0001F914 Discover a 6-question test inspired by the U.S. Department of Defense to assess and enhance your Agile practices!"
 date: 2024-06-28T06:45:01Z
-weight: 540
+weight: 435
 ResourceId: O6rYL3EDUxM
 ResourceType: videos
 ResourceImport: true
@@ -30,6 +30,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Product Delivery
 - Increment
 - Agile Leadership
 - Agile Product Management
@@ -37,7 +38,6 @@ tags:
 - Agile Values and Principles
 - Business Agility
 - People and Process
-- Product Delivery
 - Working Software
 - Agile Frameworks
 resourceTypes:
@@ -45,7 +45,7 @@ resourceTypes:
 categories:
 - Scrum
 - Social Technologies
-- Product Management
+- Engineering Excellence
 
 ---
 The concept of Agile has taken the business world by storm, with organizations everywhere claiming to have adopted Agile methodologies. But are they truly practicing Agile, or is it just Agile in name only? One of the most eye-opening resources on this topic comes from an unexpected source—the US Department of Defense (DoD). Their guide, titled "Detecting Agile BS," was created to help procurement officers determine whether vendors were genuinely Agile or merely paying lip service to the methodology. This guide raises important questions that every organization claiming to be Agile should ask itself.

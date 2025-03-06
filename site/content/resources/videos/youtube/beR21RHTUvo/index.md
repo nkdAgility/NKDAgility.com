@@ -30,8 +30,8 @@ sitemap:
   priority: 0.6
 tags:
 - Estimation
-- People and Process
 - Agile Project Management
+- People and Process
 - Pragmatic Thinking
 - Software Development
 resourceTypes:

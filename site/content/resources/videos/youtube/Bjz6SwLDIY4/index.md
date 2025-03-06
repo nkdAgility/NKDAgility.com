@@ -35,15 +35,15 @@ tags:
 - People and Process
 - Resilience and Change
 - Change Management
-- Enterprise Agility
 - Market Adaptability
 - Agile Philosophy
 - Beta Codex
+- Enterprise Agility
 resourceTypes:
 - video
 categories:
-- Leadership
 - Product Management
+- Leadership
 - Social Technologies
 
 ---

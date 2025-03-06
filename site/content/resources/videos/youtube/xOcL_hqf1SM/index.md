@@ -33,8 +33,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Kanban
 - Social Technologies
+- Kanban
 - Scrum
 
 ---

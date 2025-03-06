@@ -37,14 +37,15 @@ tags:
 - Value Delivery
 - Agile Frameworks
 - Agile Strategy
-- Flow Efficiency
 - People and Process
 - Portfolio Management
+- Scaling Agility
 resourceTypes:
 - video
 categories:
 - Social Technologies
 - Kanban
+- Product Management
 
 ---
 ### Scaling Portfolio Kanban: Enhancing Flow and Predictability at the Organizational Level

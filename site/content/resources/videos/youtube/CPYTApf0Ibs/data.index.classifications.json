@@ -346,12 +346,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T12:38:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T14:51:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of shared understanding of product vision and strategic goals within Agile teams, which indirectly relates to engineering practices and collaboration. However, the primary focus is on Agile transformation and team dynamics rather than specific engineering excellence practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the importance of a clear product vision and strategic goals within an organisation, which is more aligned with project management and team dynamics than with engineering excellence. While it touches on the need for engineers to understand their contributions to these goals, it lacks a direct focus on software craftsmanship, coding standards, or engineering processes. The depth of discussion on how these concepts relate to engineering practices is minimal, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1024,11 +1027,14 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-12T08:28:48",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of shared understanding of product vision and strategic goals within teams, which is crucial for fostering enterprise agility. It addresses how this understanding impacts decision-making, collaboration, and alignment with broader organisational objectives, aligning well with the principles of enterprise agility.",
+    "calculated_at": "2025-03-06T14:51:47",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of a clear product vision and strategic goals within an organisation, which aligns with the principles of enterprise agility. It highlights the need for all team members to understand how their work contributes to these goals, fostering a culture of collaboration and alignment. However, the focus remains primarily on team-level practices rather than broader organisational structures or frameworks for scaling agility, which limits its depth in the context of enterprise agility.",
     "level": "Secondary"
   },
   "Lean": {

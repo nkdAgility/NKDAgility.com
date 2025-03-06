@@ -29,12 +29,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Coaching
 - Mentoring
+- People and Process
 resourceTypes:
 - video
 categories:
+- Social Technologies
 - Scrum
 
 ---

@@ -343,11 +343,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-12T04:11:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:41:04",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of integrating security into the software development process from the outset, emphasising best practices in coding, architecture, and continuous improvement. It aligns well with the principles of software craftsmanship and quality assurance, as well as the role of automation in enhancing development efficiency.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the importance of integrating security into the software development process from the outset, aligning closely with the principles of software craftsmanship and quality assurance. It highlights best practices such as 'shifting left' and the need for continuous improvement in coding standards to prevent vulnerabilities. The depth of discussion on tools like SonarQube and GitHub's security features further supports the focus on engineering excellence, making it a primary topic rather than a secondary mention.",
     "level": "Secondary"
   },
   "Throughput": {
@@ -1186,11 +1189,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-12T04:10:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:41:07",
+    "ai_confidence": 78.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses security practices related to Azure DevOps, including specific tools and methodologies used within the Azure DevOps framework, making it a central theme.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses Azure DevOps in the context of security practices, specifically mentioning its tools and functionalities related to security validation and threat protection. While the primary focus is on security by design, it aligns well with Azure DevOps principles and practices, particularly in the context of CI/CD and team collaboration. The depth of discussion includes specific examples of Azure DevOps tools and their integration into security processes, which enhances the relevance to the category.",
     "level": "Secondary"
   },
   "Products and Books": {

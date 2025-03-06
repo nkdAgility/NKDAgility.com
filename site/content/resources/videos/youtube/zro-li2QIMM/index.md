@@ -26,7 +26,6 @@ duration: 50
 isShort: true
 tags:
 - Mentoring
-- Personal
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -34,7 +33,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Leadership
 - Social Technologies
 
 ---

@@ -32,7 +32,7 @@ tags:
 - Agile Transformation
 - Coaching
 - Events and Presentations
-- News and Reviews
+- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.4

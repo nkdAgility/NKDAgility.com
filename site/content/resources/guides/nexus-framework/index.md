@@ -42,9 +42,9 @@ categories:
 tags:
 - Scaling Scrum
 - Scaled Agile
+- Product Delivery
 - Scrum Product Development
 - Large Scale Agility
-- Product Delivery
 - Scrum Team
 - Professional Scrum
 - Scaling Agility

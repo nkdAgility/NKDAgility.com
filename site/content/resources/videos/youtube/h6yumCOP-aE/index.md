@@ -40,9 +40,9 @@ tags:
 - Agile Project Management
 - Pragmatic Thinking
 - Strategy
+- Sociotechnical Systems
 - Team Motivation
 - Accountability
-- Operational Practices
 resourceTypes:
 - video
 categories:

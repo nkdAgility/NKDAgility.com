@@ -2,7 +2,7 @@
 title: 3 best ways to wreck Kanban. Use vanity metrics.
 description: Unlock Kanban success by ditching vanity metrics! Discover actionable insights to enhance your workflow and drive continuous improvement. Watch now!
 date: 2024-02-29T07:00:09Z
-weight: 775
+weight: 855
 ResourceId: S4zWfPiLAmc
 ResourceType: videos
 ResourceImport: true
@@ -36,13 +36,13 @@ tags:
 - Transparency
 - Cycle Time
 - Metrics and Learning
-- Transparency and Accountability
 - Empirical Process Control
 - Evidence Based Leadership
 - Evidence Based Management
 - Practical Techniques and Tooling
 - Agile Project Management
 - Decision Making
+- Operational Practices
 resourceTypes:
 - video
 categories:

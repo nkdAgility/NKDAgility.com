@@ -30,6 +30,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Agile Frameworks
 - Agile Project Management
 - Agile Strategy
@@ -38,7 +39,6 @@ tags:
 - Coaching
 - Decision Making
 - Organisational Agility
-- People and Process
 - Practical Techniques and Tooling
 resourceTypes:
 - video

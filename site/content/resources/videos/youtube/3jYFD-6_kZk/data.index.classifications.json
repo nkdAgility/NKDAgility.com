@@ -343,11 +343,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T12:30:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T14:50:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses various technical challenges and best practices related to data migration in Azure DevOps, touching on aspects of software craftsmanship and the importance of following proper procedures to ensure successful outcomes. However, the primary focus is on migration issues rather than a broader discussion of engineering excellence principles.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses various technical challenges and best practices related to data migration in Azure DevOps, touching on aspects of software craftsmanship and quality assurance. However, while it highlights some engineering practices, such as the importance of following documented procedures and the implications of identity management, it lacks a structured focus on broader engineering excellence principles. The depth of discussion is primarily anecdotal and does not delve deeply into continuous improvement or metrics for assessing engineering performance.",
     "level": "Tertiary"
   },
   "Throughput": {
@@ -1138,11 +1141,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T11:31:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:50:32",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques and tooling related to Azure DevOps data migration, including specific challenges, methodologies, and best practices for managing identities and database migrations. It provides insights into the application of tools and processes that enhance DevOps practices, making it a central theme.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed exploration of practical techniques and tooling related to Azure DevOps data migration. It discusses specific tools, methodologies, and common pitfalls encountered during the migration process, aligning closely with the core themes of the category. The depth of discussion is significant, covering various aspects of identity management, order of operations, and backup procedures, which are critical for successful implementation. Overall, the content is highly relevant and offers practical insights, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Events and Presentations": {

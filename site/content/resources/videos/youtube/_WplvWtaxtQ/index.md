@@ -28,10 +28,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Scrum Master
 - Scrum Team
 - Agile Project Management
+- People and Process
 resourceTypes:
 - video
 layout: video

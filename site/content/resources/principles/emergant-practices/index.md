@@ -25,7 +25,6 @@ tags:
 - Miscellaneous
 - Discovery and Learning
 - People and Process
-- Complexity Thinking
 - Pragmatic Thinking
 
 ---

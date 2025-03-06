@@ -37,8 +37,8 @@ tags:
 - Continuous Learning
 - Hypothesis Driven Development
 - Pragmatic Thinking
+- Agile Product Management
 - Product Delivery
-- Products and Books
 resourceTypes:
 - video
 categories:

@@ -27,15 +27,13 @@ isShort: true
 tags:
 - People and Process
 - Software Development
-- Miscellaneous
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 In the ever-evolving landscape of Agile methodologies, I often find myself reflecting on the signs that indicate a shift towards an Agile apocalypse. One of the most glaring indicators is the emergence of what I like to call the "Antichrist" of Agile: the fake agilists. 

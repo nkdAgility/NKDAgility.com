@@ -35,8 +35,8 @@ sitemap:
 tags:
 - Agile Frameworks
 - Agile Project Management
-- People and Process
 - Software Development
+- People and Process
 - Pragmatic Thinking
 resourceTypes:
 - video

@@ -35,10 +35,10 @@ tags:
 - Scrum Team
 - Agile Frameworks
 - Agile Philosophy
-- Agile Product Management
 - Agile Transformation
 - Pragmatic Thinking
 - Scrum Master
+- Scrum Product Development
 resourceTypes:
 - video
 categories:

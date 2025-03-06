@@ -36,6 +36,7 @@ tags:
 categories:
 - Product Management
 - Scrum
+- DevOps
 preview: 2025-02-10-without-delivery-no-value.jpg
 marketing: []
 

@@ -346,12 +346,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T08:55:23",
-    "ai_confidence": 92,
+    "calculated_at": "2025-03-06T14:37:00",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 0,
-    "final_score": 83.0,
-    "reasoning": "The content primarily discusses the Definition of Done (DoD) in Scrum, emphasising its role as an objective measure of quality in software development. It covers best practices for establishing and maintaining a DoD, the importance of automation, and the impact of quality standards on deliverables, aligning closely with the principles of engineering excellence.",
-    "level": "Primary"
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the Definition of Done (DoD) within the context of Scrum, highlighting its importance as an objective measure of quality in software development. It directly addresses best practices for establishing a DoD, including the need for it to be objective, measurable, and regularly reviewed, which aligns closely with the principles of software craftsmanship and quality assurance. The depth of discussion is significant, providing detailed strategies for maintaining high standards in deliverables and emphasising the role of automation in ensuring compliance with the DoD. Overall, the content is a strong fit for the category of Engineering Excellence.",
+    "level": "Secondary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1222,11 +1225,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-11T14:49:36",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-06T14:37:04",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses the Definition of Done (DoD) in Scrum, focusing on its role as an objective measure of quality, which aligns with engineering practices that enhance software delivery processes. It addresses the importance of establishing a solid DoD, automation, and continuous improvement, making it a significant theme in the context of technical excellence.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) in Scrum, which is a crucial aspect of ensuring quality in software development. It highlights the importance of having an objective measure for quality, aligning with the principles of Technical Excellence. However, the focus is more on Scrum practices and subjective vs. objective measures rather than deep technical methodologies or engineering practices like TDD or CI/CD. While it touches on relevant topics, it does not delve deeply into technical excellence principles, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Organisational Agility": {

@@ -25,11 +25,11 @@ duration: 218
 isShort: false
 tags:
 - Practical Techniques and Tooling
-- People and Process
 - Operational Practices
 - Team Collaboration
 - Agile Frameworks
 - Agile Project Management
+- People and Process
 - Software Development
 - Transparency
 - Flow Efficiency

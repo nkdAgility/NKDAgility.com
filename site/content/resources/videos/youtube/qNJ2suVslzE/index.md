@@ -26,6 +26,7 @@ duration: 259
 isShort: false
 tags:
 - Market Adaptability
+- Organisational Agility
 - Agile Product Operating Model
 - Agile Product Management
 - Agile Values and Principles
@@ -34,7 +35,6 @@ tags:
 - Agile Planning
 - Agile Project Management
 - Agile Strategy
-- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

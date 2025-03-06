@@ -2,7 +2,7 @@
 title: 'Navigating DevOps: Crafting Unique Solutions for Unique Organizations'
 description: "Discover how to customise your DevOps consulting services for unique organisational needs, fostering continuous improvement and incremental growth. \U0001F680\U0001F4C8"
 date: 2024-08-23T07:00:12Z
-weight: 550
+weight: 585
 ResourceId: L2u9Qojrvb8
 ResourceType: videos
 ResourceImport: true

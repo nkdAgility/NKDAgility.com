@@ -66,6 +66,7 @@ tags:
 - Agile Project Management
 - Scrum Team
 - Professional Scrum
+- Agile Product Management
 - Software Development
 - Agile Frameworks
 
