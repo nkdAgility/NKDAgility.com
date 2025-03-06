@@ -3,6 +3,7 @@
 
 $batchesInProgress = $null;
 $batchesInProgressMax = 40;
+$watermarkAgeLimit = 20;
 $watermarkScoreLimit = 20
 $watermarkCount = 1
 
@@ -208,7 +209,16 @@ function Get-CategoryConfidenceWithChecksum {
     if ($waterMarkRefresh -le 0) {
         $waterMarkRefresh = [math]::Abs($waterMarkRefresh)
         # Find items from CatalogFromCache that are older than the watermark date and have a final_score > watermarkScoreLimit
-        $CatalogItemsToRefreshOrGet = @($CatalogItemsToRefreshOrGet) + @($CatalogFromCache.Values | Where-Object { $_.final_score -gt $watermarkScoreLimit } | Sort-Object { [DateTimeOffset]$_.calculated_at } | Select-Object -ExpandProperty category | Select-Object -First $waterMarkRefresh)
+        $CatalogItemsToRefreshOrGet = @($CatalogItemsToRefreshOrGet) + @(
+            $CatalogFromCache.Values |
+            Where-Object { 
+                $_.final_score -gt $watermarkScoreLimit -and 
+                [DateTimeOffset]$_.calculated_at -lt [DateTimeOffset]::Now.AddDays(-$watermarkAgeLimit)
+            } |
+            Sort-Object { [DateTimeOffset]$_.calculated_at } |
+            Select-Object -ExpandProperty category |
+            Select-Object -First $waterMarkRefresh
+        )
     }
     Write-InformationLog "   Refreshing {CatalogItemsToRefreshOrGet} items from the Catalogue" -PropertyValues $CatalogItemsToRefreshOrGet.Count
 
@@ -292,7 +302,8 @@ function Get-CategoryConfidenceWithChecksum {
                 $result = Get-ConfidenceFromAIResponse -AIResponseJson $aiResponseJson -ResourceTitle $ResourceTitle -ResourceContent $ResourceContent
                 if ($result.reasoning -ne $null -and $result.category -ne "unknown") {
                     $oldConfidence = $cachedData[$result.category]?.ai_confidence ?? 0
-                    Write-InformationLog "Updating {category} with confidence of {old} to new confidence of {confidence} " -PropertyValues $result.category, $oldConfidence, $result.ai_confidence
+                    $DaysAgo = [math]::Round(([DateTimeOffset]::Now - [DateTimeOffset]$cachedData[$result.category].calculated_at).TotalDays)
+                    Write-InformationLog "Updating {category} with confidence of {old} calculated {daysago} to new confidence of {confidence} " -PropertyValues $result.category, $oldConfidence, $DaysAgo, $result.ai_confidence
                     $CatalogFromCache[$result.category] = $result
                     $cachedData[$result.category] = $result
                     # Save cache after each API call
@@ -548,23 +559,24 @@ function Remove-ClassificationsFromCacheThatLookBroken {
             if ($classificationData.reasoning -eq $null) {
                 # Remove the classification from cache
                 $cachedData.Remove($classification)
-                $removedCount++
-                Write-Host "Removed classification '$classification' from cache."
-            } 
-        }
-        else {
-            Write-WarningLog "Classification '$classification' not found in cache. Skipping."
-        }
-    }
+                if ($removedCount -gt 0) {
+                    $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
+                    Write-Host "Cache file updated successfully with $removedCount removals."
+                }
+                else {
+                    Write-WarningLog "No classifications were removed. Cache remains unchanged."
+                }
+            }
 
-    # Save the updated cache if any classifications were removed
-    if ($removedCount -gt 0) {
-        $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
-        Write-Host "Cache file updated successfully with $removedCount removals."
-    }
-    else {
-        Write-WarningLog "No classifications were removed. Cache remains unchanged."
+
+            if ($removedCount -gt 0) {
+                $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
+                Write-Host "Cache file updated successfully with $removedCount removals."
+            }
+            else {
+                Write-WarningLog "No classifications were removed. Cache remains unchanged."
+            }
+        }
+
     }
 }
-
-
