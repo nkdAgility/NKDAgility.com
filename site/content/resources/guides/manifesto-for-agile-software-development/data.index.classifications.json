@@ -82,12 +82,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T12:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T13:33:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles which are relevant to product management, but it primarily focuses on the Agile Manifesto rather than specific product management strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the Agile Manifesto, which is more focused on Agile methodologies rather than the strategic aspects of product management. While it mentions customer satisfaction and collaboration, it lacks depth in discussing how these principles align with product management frameworks or decision-making processes. The content does not explicitly address the role of product management or provide detailed insights into balancing stakeholder interests or assessing technical feasibility.",
+    "level": "Quaternary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -1081,11 +1084,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-12T13:47:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:33:23",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Agile methodologies and principles that directly relate to the delivery of software products, emphasising customer satisfaction, iterative development, and collaboration, which are central to product delivery practices.",
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses Agile methodologies, which are central to product delivery. It highlights key principles such as customer satisfaction through early delivery, collaboration, and iterative development, all of which align closely with the core themes of product delivery. The depth of discussion on Agile principles provides substantial insight into effective practices for delivering software products, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Agile Product Management": {

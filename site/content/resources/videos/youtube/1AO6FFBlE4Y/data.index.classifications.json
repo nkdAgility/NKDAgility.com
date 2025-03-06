@@ -1054,11 +1054,14 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T12:09:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:28:53",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the impact of poor quality code on productivity, brand reputation, and technical debt, which are central themes in the interplay between code quality and complexity in software development. It explores how addressing these issues can lead to better maintainability and scalability, aligning well with the category's focus.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the implications of poor code quality on productivity, brand reputation, and technical debt, which are all central themes in the 'Code and Complexity' category. It highlights the relationship between code quality and complexity, particularly in the context of maintaining multiple product versions and the cognitive load on engineers. The depth of discussion is significant, providing specific examples and outcomes from real-world scenarios, such as the Azure DevOps team's improvements. However, while the content is rich in detail, it could benefit from a more explicit connection to complexity theory principles, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Flow Efficiency": {
@@ -1171,11 +1174,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T12:10:06",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-06T13:28:50",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 50,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the impact of poor quality code on productivity and brand reputation, touching on engineering practices and the importance of maintaining a high-quality product. It also references the Azure DevOps team's improvements in productivity and feature delivery, which aligns with DevOps principles. However, the primary focus is on quality and productivity rather than a comprehensive discussion of DevOps practices, making it a major but secondary theme.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the impact of poor quality code on productivity and brand reputation, which indirectly relates to DevOps principles such as Continuous Integration and Continuous Delivery. It highlights the importance of engineering practices and the need for a cultural shift towards quality, which aligns with DevOps goals. However, the primary focus is on the consequences of poor coding practices rather than a direct exploration of DevOps methodologies or tools, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Azure DevOps": {

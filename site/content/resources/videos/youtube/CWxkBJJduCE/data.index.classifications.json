@@ -28,11 +28,14 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-13T19:56:54",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-06T13:28:46",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the impact of test-driven development (TDD) and pair programming on software architecture, which relates to code quality and complexity. However, the primary focus is on the practices themselves rather than a deep exploration of complexity theory or its principles.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses test-driven development (TDD) and pair programming, both of which are relevant to software code quality and complexity management. It highlights how TDD contributes to better architecture by focusing on necessary features, aligning with the principles of maintainability and performance. The mention of pair programming addresses best practices in software development, which is a core theme of the category. However, while the content touches on these topics, it lacks a deeper exploration of complexity theory and its application in software systems, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Resilience and Change": {
@@ -721,11 +724,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:28:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses test-driven development (TDD) and pair programming, which are both key practices that promote high standards in software craftsmanship and development processes. It emphasizes principles of software quality, collaborative coding practices, and the long-term benefits of these engineering practices, aligning well with the focus on engineering excellence.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses test-driven development (TDD) and pair programming, which are both practices that align with the principles of software craftsmanship and quality assurance. It highlights the importance of creating better architectures and the long-term benefits of pair programming, which ties into continuous improvement and engineering processes. However, while these topics are relevant, the discussion lacks depth in exploring broader engineering excellence themes such as CI/CD practices or metrics for assessing performance, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {

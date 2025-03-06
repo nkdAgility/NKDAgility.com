@@ -1,12 +1,15 @@
 {
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-20T18:14:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T13:21:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content touches on aspects of product management, particularly in relation to scaling culture and collaboration within Agile frameworks, but it primarily focuses on cultural issues rather than strategic product management practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of engineering culture in scaling technology, which indirectly relates to product management by highlighting the need for collaboration and alignment within teams. However, it lacks direct mentions of product management methodologies, frameworks, or strategic decision-making processes. The focus is more on cultural aspects rather than the strategic alignment of customer needs and business objectives, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -874,12 +877,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-20T20:03:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T13:21:57",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of culture in scaling organizations, particularly in the context of Agile principles, which is relevant to organisational change. However, it primarily focuses on culture and tools rather than change methodologies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of organisational culture in scaling technology, which aligns with the themes of organisational change. It highlights the need for a culture that supports agility and collaboration, which is relevant to the category. However, it lacks specific frameworks or methodologies for implementing change and does not delve deeply into change management practices, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",

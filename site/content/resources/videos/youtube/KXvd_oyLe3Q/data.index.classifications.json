@@ -1018,11 +1018,14 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-12T04:57:00",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-06T13:37:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the transformation of organisational effectiveness through DevOps, highlighting the need for collaboration, continuous improvement, and the integration of practices across teams. While it primarily focuses on DevOps, it also touches on themes of organisational alignment, scaling agility, and the cultural shifts necessary for effective agile transformations, making it a major but secondary theme.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the challenges and transformations within a large organisation, particularly focusing on DevOps practices and their impact on organisational effectiveness. While it touches on themes of agility, such as responsiveness and continuous improvement, the primary focus is on DevOps rather than a broader enterprise agility context. The discussion includes specific examples of organisational challenges and improvements, but it lacks a comprehensive exploration of enterprise agility frameworks or cultural aspects, which limits its alignment with the category.",
     "level": "Secondary"
   },
   "Lean": {
@@ -1171,11 +1174,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T04:57:29",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-06T13:37:49",
+    "ai_confidence": 92.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 95.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 50,
-    "final_score": 82.0,
-    "reasoning": "The content primarily discusses the implementation of DevOps practices, including the establishment of a dedicated DevOps team, the challenges faced by multiple teams using different source control systems, and the importance of automation and continuous delivery. It also highlights the cultural shifts and improvements in efficiency that can result from adopting DevOps principles, making it a central theme throughout the narrative.",
+    "final_score": 88.0,
+    "reasoning": "The content extensively discusses the implementation of DevOps practices within a large organisation, detailing the challenges faced and the solutions developed to achieve continuous delivery. It highlights the importance of automation, collaboration, and cultural shifts necessary for successful DevOps transformation. The narrative includes specific examples of metrics and outcomes related to DevOps, such as build execution rates and feature delivery improvements, demonstrating a deep understanding of the principles and practices of DevOps. Overall, the content is highly relevant and focused on the core themes of the DevOps category.",
     "level": "Primary"
   },
   "Azure DevOps": {

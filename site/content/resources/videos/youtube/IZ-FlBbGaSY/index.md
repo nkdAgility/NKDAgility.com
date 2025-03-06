@@ -25,6 +25,7 @@ preview: https://i.ytimg.com/vi/IZ-FlBbGaSY/maxresdefault.jpg
 duration: 451
 isShort: false
 tags:
+- Product Delivery
 - Continuous Delivery
 - Continuous Integration
 - Software Development
@@ -34,6 +35,7 @@ sitemap:
 resourceTypes:
 - video
 categories:
+- DevOps
 - Engineering Excellence
 
 ---

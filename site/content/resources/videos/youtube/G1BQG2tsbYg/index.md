@@ -31,10 +31,10 @@ sitemap:
 tags:
 - Agile Strategy
 - Business Agility
-- Enterprise Agility
 - Strategy
 - Agile Product Management
 - Agile Values and Principles
+- Enterprise Agility
 - Agile Frameworks
 - Agile Planning
 - Agile Project Management

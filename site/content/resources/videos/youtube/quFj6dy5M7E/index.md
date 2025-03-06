@@ -31,10 +31,10 @@ tags:
 - Pragmatic Thinking
 - Software Development
 - Sociotechnical Systems
+- Market Adaptability
 - Software Developers
 - Team Performance
 - Agile Product Operating Model
-- Business Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

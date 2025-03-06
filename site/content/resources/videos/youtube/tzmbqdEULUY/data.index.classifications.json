@@ -1135,11 +1135,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T20:23:41",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-06T13:29:26",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses practical techniques for managing downtime during a data migration, including the use of Git for collaboration and the importance of planning and dry runs. While it primarily focuses on a specific migration case, it also touches on tools and methodologies relevant to Agile and DevOps practices.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses practical techniques for data migration, specifically focusing on minimising downtime and the use of Git as a source control system. It provides insights into planning, dry runs, and the importance of collaboration tools during migration, which aligns with the category's focus on practical application of methodologies and tools. However, while it touches on relevant tools and techniques, the depth of discussion on broader Agile and DevOps practices is limited, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Events and Presentations": {
@@ -1171,11 +1174,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T20:23:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:29:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the migration process within the context of Azure DevOps, focusing on minimising downtime and the importance of planning and dry runs, which are key aspects of DevOps practices.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses data migration and its impact on engineers' productivity, which is relevant to DevOps practices, particularly in the context of minimising downtime during deployments. It mentions Azure DevOps and Git, which are tools associated with DevOps, but the primary focus is on the migration process rather than broader DevOps principles or practices. While there is some alignment with DevOps concepts, such as planning and collaboration, the depth of discussion on core DevOps themes like CI/CD, automation, or cultural shifts is limited.",
     "level": "Secondary"
   },
   "Azure DevOps": {

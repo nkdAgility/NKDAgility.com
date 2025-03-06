@@ -24,9 +24,14 @@ card:
   title: Product Backlog
 categories:
 - Scrum
-- Product Management
 tags:
-- Product Backlog
+- Product Delivery
+- Scrum Product Development
+- Agile Planning
+- Agile Planning Tools
+- Agile Project Management
+- Professional Scrum
+- Software Development
 
 ---
 ## What is a Product Backlog?

@@ -40,8 +40,6 @@ resourceTypes:
 layout: video
 categories:
 - Product Management
-- Leadership
-- Social Technologies
 
 ---
 ## **What Is Traditional Management?**

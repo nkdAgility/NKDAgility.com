@@ -40,14 +40,12 @@ tags:
 - Operational Practices
 - Pragmatic Thinking
 - Lean
+- Organisational Change
 - People and Process
 - Market Adaptability
-- Organisational Change
 resourceTypes:
 - video
 categories:
-- Engineering Excellence
-- Leadership
 - Social Technologies
 
 ---

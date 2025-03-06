@@ -1081,11 +1081,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-12T23:52:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:45:30",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the challenges and best practices related to using Azure DevOps in the context of product delivery, including the importance of agile methodologies and the integration of tools for effective delivery.",
+    "final_score": 76.0,
+    "reasoning": "The content discusses Azure DevOps in the context of Agile methodologies and product delivery, highlighting the transition from traditional delivery schedules to Agile sprints. It provides insights into the challenges faced by teams using Azure DevOps, which directly relates to the methodologies and practices of delivering software products. The depth of discussion includes specific issues that affect product delivery, such as work item hierarchy, which is crucial for effective planning and execution. Overall, the content aligns well with the core themes of product delivery, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Agile Product Management": {
@@ -1171,12 +1174,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T23:52:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:45:26",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses Azure DevOps, its features, and common mistakes in its usage, which aligns closely with DevOps principles and practices. It highlights the integration of tools and processes for effective software delivery, making it a central topic.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content primarily focuses on Azure DevOps, discussing its features, common pitfalls, and the evolution of the tool in relation to Agile practices. It explicitly mentions DevOps principles, such as continuous delivery and the integration of tools and processes, aligning well with the core themes of the DevOps category. The depth of discussion is substantial, providing insights into user experiences and specific issues encountered with Azure DevOps, which enhances its relevance to the DevOps classification.",
+    "level": "Primary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",

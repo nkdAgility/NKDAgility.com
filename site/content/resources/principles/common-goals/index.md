@@ -23,6 +23,7 @@ card:
 categories:
 - Scrum
 - Social Technologies
+- Product Management
 tags:
 - Scrum Product Development
 - Strategy
@@ -31,8 +32,8 @@ tags:
 - People and Process
 - Professional Scrum
 - Agile Project Management
-- Product Owner
 - Agile Product Management
+- Product Owner
 - Team Motivation
 
 ---

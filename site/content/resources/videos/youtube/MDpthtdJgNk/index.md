@@ -31,10 +31,10 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Practical Techniques and Tooling
 - Agile Frameworks
 - Operational Practices
 - Pragmatic Thinking
+- Practical Techniques and Tooling
 resourceTypes:
 - video
 categories:

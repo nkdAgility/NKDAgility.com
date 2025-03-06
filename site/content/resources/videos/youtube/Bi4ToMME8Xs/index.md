@@ -28,11 +28,11 @@ tags:
 - Continuous Learning
 - Discovery and Learning
 - Agile Frameworks
-- Agile Product Management
 - Agile Project Management
 - Agile Transformation
 - Coaching
 - Events and Presentations
+- News and Reviews
 sitemap:
   filename: sitemap.xml
   priority: 0.4

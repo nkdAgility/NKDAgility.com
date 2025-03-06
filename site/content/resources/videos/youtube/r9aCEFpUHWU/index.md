@@ -30,10 +30,10 @@ tags:
 - Scrum Team
 - Agile Product Management
 - People and Process
-- Product Delivery
 - Software Development
 - Team Performance
 - Agile Frameworks
+- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

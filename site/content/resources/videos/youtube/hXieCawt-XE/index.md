@@ -38,8 +38,8 @@ tags:
 - Software Development
 - Agile Frameworks
 - Agile Project Management
-- Lean
 - Lean Principles
+- Throughput
 resourceTypes:
 - video
 categories:

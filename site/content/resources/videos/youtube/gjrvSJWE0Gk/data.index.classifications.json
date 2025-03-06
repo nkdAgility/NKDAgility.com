@@ -82,12 +82,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T13:15:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T13:48:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics for predictability and their impact on team delivery, which relates to product management but primarily focuses on Kanban and operational aspects rather than strategic product management.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on metrics for predictability within a Kanban framework, which is more aligned with project management and operational efficiency rather than the strategic aspects of product management. While it touches on the importance of understanding customer needs and delivering value, it lacks a direct discussion on product management methodologies, stakeholder alignment, or strategic decision-making. The depth of discussion is limited to operational metrics rather than broader product management principles.",
+    "level": "Quaternary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -1135,11 +1138,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T07:02:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:48:37",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the application of metrics in a Kanban context to improve predictability, which aligns with practical techniques and tooling in Agile methodologies.",
+    "final_score": 71.0,
+    "reasoning": "The content explicitly discusses the application of metrics within a Kanban framework to improve predictability, which aligns well with the category's focus on practical techniques and tooling. It provides insights into how to interpret data and make forecasts, which are essential for Agile and DevOps practices. However, while it covers specific methodologies and tools, the depth of discussion could be enhanced with more detailed examples or case studies.",
     "level": "Secondary"
   },
   "Events and Presentations": {

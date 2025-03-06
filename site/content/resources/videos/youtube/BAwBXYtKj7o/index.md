@@ -32,6 +32,7 @@ sitemap:
 resourceTypes:
 - video
 categories:
+- DevOps
 - Engineering Excellence
 
 ---

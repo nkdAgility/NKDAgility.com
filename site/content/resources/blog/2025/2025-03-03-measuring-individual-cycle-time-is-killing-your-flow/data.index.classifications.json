@@ -1,26 +1,26 @@
 {
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-03-04T12:45:02",
+    "calculated_at": "2025-03-06T13:17:11",
     "ai_confidence": 92.0,
     "ai_mentions": 18,
-    "ai_alignment": 38,
-    "ai_depth": 36,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 50,
     "final_score": 88.0,
-    "reasoning": "The content extensively discusses Kanban principles, particularly focusing on optimising flow and the importance of system-wide metrics over individual performance. It directly mentions Kanban multiple times and aligns well with key themes such as Work in Progress (WIP) limits, Process Cycle Efficiency (PCE), and the overall goal of improving system flow. The depth of discussion is significant, providing detailed insights into how individual metrics can distort behaviour and hinder collaboration, which is central to Kanban methodology.",
+    "reasoning": "The content extensively discusses Kanban principles, particularly focusing on optimising flow and the importance of system-wide metrics over individual performance. It directly mentions Kanban multiple times and aligns well with key topics such as Work in Progress (WIP) limits, Process Cycle Efficiency (PCE), and the overall goal of improving system flow. The depth of discussion is significant, providing detailed insights into how individual metrics can distort team dynamics and hinder overall efficiency, which is central to Kanban methodology.",
     "level": "Primary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-04T12:45:05",
+    "calculated_at": "2025-03-06T13:21:17",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 45.0,
-    "ai_depth": 50.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
     "final_score": 56.0,
-    "reasoning": "The content discusses the importance of optimising workflows and system efficiency, which aligns with DevOps principles. However, it primarily focuses on Kanban and individual cycle time rather than explicitly addressing DevOps practices, tools, or cultural shifts. While it touches on concepts relevant to DevOps, such as collaboration and process improvement, it does not delve deeply into the specific tools or metrics typically associated with DevOps, leading to a moderate confidence score.",
+    "reasoning": "The content discusses concepts related to Kanban and workflow optimisation, which are relevant to DevOps principles, particularly in terms of improving system efficiency and collaboration. However, it primarily focuses on individual cycle time and local optimisation rather than the broader DevOps practices such as CI/CD, automation, or cultural shifts. While it touches on systemic issues that can affect delivery, it does not explicitly mention DevOps or its key tools and practices, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Scrum": {
@@ -85,19 +85,19 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-03-04T12:45:20",
+    "calculated_at": "2025-03-06T13:17:15",
     "ai_confidence": 92.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
     "ai_depth": 38,
     "non_ai_confidence": 50,
     "final_score": 88.0,
-    "reasoning": "The content extensively discusses the concept of throughput in relation to Kanban and system flow, highlighting the importance of optimising workflows and measuring the right metrics. It directly addresses the pitfalls of measuring individual cycle time and emphasises the need to focus on overall system efficiency, which aligns closely with the key topics of the throughput category. The depth of discussion is significant, providing detailed insights into how to improve throughput and the relationship between various metrics, thus justifying a high confidence score.",
+    "reasoning": "The content extensively discusses the concept of throughput in relation to Kanban and system flow, highlighting the importance of optimising workflows rather than focusing on individual metrics. It directly mentions throughput multiple times and provides a detailed analysis of how measuring individual cycle time can misrepresent system efficiency. The depth of discussion includes strategies for improving throughput, such as managing work in progress and identifying bottlenecks, which aligns closely with the key topics outlined for the category.",
     "level": "Primary"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-03-04T12:45:23",
+    "calculated_at": "2025-03-06T13:21:20",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
     "ai_alignment": 32,

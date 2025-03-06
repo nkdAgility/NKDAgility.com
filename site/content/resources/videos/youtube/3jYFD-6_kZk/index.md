@@ -28,8 +28,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Troubleshooting
 - Install and Configuration
+- Troubleshooting
 - Azure DevOps
 - System Configuration
 - Practical Techniques and Tooling

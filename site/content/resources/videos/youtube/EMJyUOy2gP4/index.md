@@ -29,6 +29,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Product Delivery
 - Metrics and Learning
 - People and Process
 - Scrum Master
@@ -38,7 +39,6 @@ tags:
 - Agile Product Management
 - Decision Making
 - Operational Practices
-- Practical Techniques and Tooling
 resourceTypes:
 - video
 categories:

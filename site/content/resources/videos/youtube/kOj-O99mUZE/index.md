@@ -43,8 +43,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Kanban
 - Social Technologies
+- Kanban
 
 ---
 ### Scaling Portfolio Kanban: Enhancing Flow and Predictability at the Organizational Level

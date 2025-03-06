@@ -1135,11 +1135,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T04:10:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:27:42",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for integrating security into the software development process, specifically through the concept of 'shifting left' and the use of tools like SonarQube and GitHub's advanced security features. It provides insights into methodologies for improving security practices within Agile and DevOps frameworks.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the concept of 'shifting left' in software development, which aligns with practical techniques for integrating security into the development process. It mentions specific tools like SonarQube, SonarCloud, and GitHub's advanced security features, which are relevant to the category. However, while it touches on methodologies and practices, the focus is more on the importance of security rather than a detailed exploration of Agile or DevOps tooling and methodologies. The depth of discussion on specific tools and their application is moderate, leading to a high confidence score but not the maximum.",
     "level": "Secondary"
   },
   "Events and Presentations": {
@@ -1171,11 +1174,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T04:10:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:27:38",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the integration of security practices within the software development lifecycle, emphasising the importance of shifting security left, which aligns with DevOps principles. It also mentions tools and practices related to Azure DevOps, indicating a strong focus on DevOps methodologies.",
+    "final_score": 79.0,
+    "reasoning": "The content discusses the integration of security practices within the software development lifecycle, emphasising the importance of shifting security left, which aligns with DevOps principles. It mentions tools like Azure DevOps and GitHub, which are relevant to DevOps practices. The discussion on collaboration between teams and the cultural shift needed for security integration further supports its alignment with DevOps. However, while it touches on DevOps concepts, the primary focus is on security rather than a comprehensive exploration of DevOps as a whole.",
     "level": "Secondary"
   },
   "Azure DevOps": {

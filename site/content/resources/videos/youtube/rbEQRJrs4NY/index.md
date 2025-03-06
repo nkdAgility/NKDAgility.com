@@ -27,7 +27,6 @@ duration: 62
 isShort: false
 tags:
 - Agile Project Management
-- Agile Transformation
 - Experimentation
 - People and Process
 - Product Validation

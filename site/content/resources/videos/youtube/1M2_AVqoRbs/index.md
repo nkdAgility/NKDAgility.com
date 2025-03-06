@@ -2,7 +2,7 @@
 title: 'Transforming Technical Debt: Unlocking Opportunities for Innovation and Value'
 description: Transform your view on technical debt from a cost to an opportunity. Discover strategies to enhance product quality, boost team morale, and drive innovation!
 date: 2024-11-20T16:53:31Z
-weight: 680
+weight: 670
 ResourceId: 1M2_AVqoRbs
 ResourceType: videos
 ResourceImport: true

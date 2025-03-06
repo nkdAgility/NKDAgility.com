@@ -34,8 +34,8 @@ tags:
 - Product Delivery
 - Resilience and Change
 - Software Developers
-- Systems Thinking
 - Working Software
+- Complexity Thinking
 resourceTypes:
 - video
 sitemap:

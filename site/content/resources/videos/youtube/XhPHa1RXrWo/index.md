@@ -35,14 +35,15 @@ tags:
 - Agile Philosophy
 - Agile Strategy
 - Agile Transformation
-- Complexity Thinking
 - Software Developers
 - Software Development
 - Organisational Agility
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
 - Social Technologies
+- Product Management
 - Scrum
 
 ---

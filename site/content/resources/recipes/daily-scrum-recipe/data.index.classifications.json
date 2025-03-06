@@ -865,12 +865,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T12:11:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T13:34:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the Daily Scrum event within the Scrum framework, which is a project management methodology. While it touches on aspects of team collaboration and strategy, it does not focus on the broader strategic alignment of customer needs, business objectives, and technical capabilities that are central to product management.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the Daily Scrum event within the Scrum framework, which is a project management methodology rather than a direct discussion on product management. While it touches on aspects of team collaboration and strategy, it lacks a broader context of product management principles, such as aligning customer needs with business objectives or discussing product vision. The depth of discussion is significant regarding Scrum practices, but it does not sufficiently address the strategic elements of product management.",
+    "level": "Quaternary"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -1036,11 +1039,14 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-13T09:44:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:34:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the Daily Scrum event within the Scrum framework, focusing on managing work in progress, identifying bottlenecks, and enhancing transparency, which are all key aspects of flow efficiency.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the Daily Scrum within the Scrum framework, focusing on managing work in progress and identifying bottlenecks, which aligns with flow efficiency principles. It mentions visual management tools like Work Item Aging graphs and WIP limits, which are directly related to optimising throughput. However, while it touches on flow efficiency concepts, the primary focus is on the Daily Scrum process rather than a comprehensive exploration of flow efficiency itself.",
     "level": "Secondary"
   },
   "Market Adaptability": {

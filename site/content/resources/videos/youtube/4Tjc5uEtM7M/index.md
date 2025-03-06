@@ -23,10 +23,10 @@ preview: https://i.ytimg.com/vi/4Tjc5uEtM7M/maxresdefault.jpg
 duration: 262
 isShort: false
 tags:
+- Practical Techniques and Tooling
 - Azure DevOps
 - Pragmatic Thinking
 - Troubleshooting
-- Practical Techniques and Tooling
 - Software Development
 sitemap:
   filename: sitemap.xml

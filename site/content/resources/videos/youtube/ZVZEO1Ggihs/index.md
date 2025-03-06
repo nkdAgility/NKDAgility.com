@@ -2,7 +2,7 @@
 title: 'Unlocking Sustainable Growth: Why Leadership is the Key to Successful Scaling'
 description: Unlock sustainable growth by transforming leadership for scaling success. Discover how to empower teams, eliminate bottlenecks, and decentralise decision-making.
 date: 2025-02-24T10:12:43Z
-weight: 635
+weight: 670
 ResourceId: ZVZEO1Ggihs
 ResourceType: videos
 ResourceImport: true
@@ -35,12 +35,12 @@ tags:
 - Agile Leadership
 - Large Scale Agility
 - Scaling Agility
-- Technical Leadership
 - Business Agility
 - Enterprise Agility
 - Organisational Agility
 - Organisational Culture
 - Scaled Agile
+- Sociotechnical Systems
 resourceTypes:
 - video
 categories:

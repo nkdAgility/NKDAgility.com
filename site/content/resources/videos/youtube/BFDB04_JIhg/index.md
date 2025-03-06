@@ -35,8 +35,8 @@ tags:
 - Practical Techniques and Tooling
 - Operational Practices
 - Lean Thinking
-- Metrics and Learning
 - Lean
+- Metrics and Learning
 resourceTypes:
 - video
 categories:

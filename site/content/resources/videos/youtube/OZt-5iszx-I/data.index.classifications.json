@@ -1,11 +1,14 @@
 {
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T12:38:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T13:42:48",
+    "ai_confidence": 55.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of user feedback in maximising product value, which aligns with the principles of Value Stream Management, but it primarily focuses on agile practices rather than a comprehensive exploration of value stream optimisation.",
+    "final_score": 50.0,
+    "reasoning": "The content discusses the importance of user feedback in improving product value, which aligns with the principles of Value Stream Management. However, it primarily focuses on the agile process of incorporating feedback rather than explicitly addressing value stream mapping or waste elimination. The discussion lacks depth in terms of specific techniques or metrics related to Value Stream Management.",
     "level": "Tertiary"
   },
   "Metrics and Learning": {
@@ -55,12 +58,15 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-17T12:38:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T13:42:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of turning user feedback into actionable work items, which aligns with the Kanban principle of managing and optimising the flow of work. However, it does not explicitly focus on Kanban practices or visualisation techniques, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of user feedback and its transformation into actionable work items, which aligns with the Kanban principle of continuous improvement and maximising value delivery. However, it lacks explicit references to Kanban practices such as visualisation, WIP limits, or flow management. The discussion is more focused on general agile principles rather than the specific methodologies of Kanban, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",

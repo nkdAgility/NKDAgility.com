@@ -1045,11 +1045,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-11T23:16:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:40:49",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the migration process from TFS to Azure DevOps, detailing the tools and services involved in the installation and configuration of Azure DevOps. It provides actionable insights on validating environments and managing the migration process, which aligns well with the category's focus on installation and configuration.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on the migration process from TFS to Azure DevOps, detailing specific tools and services that facilitate this transition. It discusses the installation and configuration aspects of the migration tools, including validation requirements and potential issues that may arise during the process. The depth of discussion is significant, as it covers both the managed services offered and the intricacies of the migration, aligning well with the key topics of the category. However, while the content is rich in practical guidance, it could benefit from more structured step-by-step instructions to enhance clarity.",
     "level": "Secondary"
   },
   "Code and Complexity": {
@@ -1171,11 +1174,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-11T23:16:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:40:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the migration from TFS to Azure DevOps, which is closely related to DevOps practices, including the use of tools and processes for continuous delivery. It highlights the integration of services and tools that facilitate this transition, aligning well with DevOps principles.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the migration from TFS to Azure DevOps, which is a key aspect of DevOps practices. It discusses tools and services related to this migration, indicating a strong alignment with DevOps principles, particularly in terms of automation and continuous delivery. However, while it touches on relevant topics, it lacks a broader discussion on cultural shifts, metrics, or challenges in DevOps, which slightly lowers the depth of discussion. Overall, the content is relevant and detailed, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Azure DevOps": {

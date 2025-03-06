@@ -30,21 +30,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Enterprise Agility
 - Business Agility
 - Organisational Agility
 - Organisational Culture
 - People and Process
 - Strategic Goals
 - Agile Strategy
-- Enterprise Agility
 - Market Adaptability
 - Operational Practices
 - Organisational Change
 resourceTypes:
 - video
 categories:
-- Engineering Excellence
 - Product Management
+- Engineering Excellence
 - Leadership
 
 ---

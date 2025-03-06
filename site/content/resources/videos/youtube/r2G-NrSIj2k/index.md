@@ -23,9 +23,9 @@ preview: https://i.ytimg.com/vi/r2G-NrSIj2k/maxresdefault.jpg
 duration: 116
 isShort: false
 tags:
-- Code and Complexity
 - Practical Techniques and Tooling
 - Engineering Practices
+- Code and Complexity
 - Modern Source Control
 - Software Development
 - Technical Excellence

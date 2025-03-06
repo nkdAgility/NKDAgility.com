@@ -7,7 +7,6 @@ ResourceType: podcast
 date: 2024-06-04
 weight: 1000
 categories:
-- Leadership
 - Social Technologies
 - Scrum
 author: MrHinsh

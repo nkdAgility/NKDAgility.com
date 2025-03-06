@@ -1054,11 +1054,14 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T02:53:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:27:19",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses code reviews as a practice to improve code quality, which aligns with the principles of software code quality and best practices in software development. It also touches on automation in the code review process, indicating a focus on managing complexity in codebases.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses code reviews, which directly relates to software code quality and best practices in development. It highlights the importance of code reviews in improving code quality and reducing defects, aligning well with the core themes of the category. The mention of automation in the pull request process and the emphasis on validated checks further connect to the principles of maintainability and performance. However, while the discussion is detailed, it does not delve deeply into complexity theory or its application in software architecture, which slightly limits the depth of the discussion. Overall, the content is focused and relevant, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Flow Efficiency": {
@@ -1171,11 +1174,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T02:54:03",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-06T13:27:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 30,
-    "final_score": 66.0,
-    "reasoning": "The content discusses code reviews and automation in the context of DevOps practices, highlighting the importance of automated checks and pull requests. However, it primarily focuses on code quality rather than broader DevOps principles.",
+    "final_score": 68.0,
+    "reasoning": "The content discusses code reviews and their role in improving code quality, which is relevant to DevOps practices. It mentions automation in the context of pull requests, aligning with the principles of Continuous Integration and Continuous Delivery. However, the primary focus is on code reviews rather than a broader discussion of DevOps principles, limiting the depth of the discussion. The mention of GitHub and DevOps indicates some relevance, but it does not delve deeply into the cultural or collaborative aspects of DevOps.",
     "level": "Secondary"
   },
   "Azure DevOps": {

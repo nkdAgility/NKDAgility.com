@@ -33,7 +33,7 @@ tags:
 - Agile Product Management
 - Continuous Learning
 - Hypothesis Driven Development
-- Product Delivery
+- Complexity Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

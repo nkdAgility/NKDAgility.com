@@ -25,11 +25,11 @@ preview: https://i9.ytimg.com/vi/UgFVn4Sp1rw/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 675
 isShort: false
 tags:
+- Metrics and Learning
 - Pragmatic Thinking
 - Ability to Innovate
 - Agile Product Management
 - Decision Making
-- Metrics and Learning
 - People and Process
 - Scrum Product Development
 - Agile Product Operating Model
@@ -41,8 +41,8 @@ sitemap:
 resourceTypes:
 - video
 categories:
-- Scrum
 - Product Management
+- Scrum
 - Social Technologies
 
 ---

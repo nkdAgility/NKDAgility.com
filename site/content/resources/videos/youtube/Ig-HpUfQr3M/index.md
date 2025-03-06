@@ -2,7 +2,7 @@
 title: 'Maximising Product Value: The Power of Hypothesis-Driven Engineering'
 description: Transform your product investment strategy with hypothesis-driven engineering. Learn to maximise value, minimise waste, and adapt swiftly to customer needs.
 date: 2024-12-11T06:30:00Z
-weight: 405
+weight: 440
 ResourceId: Ig-HpUfQr3M
 ResourceType: videos
 ResourceImport: true
@@ -32,8 +32,8 @@ sitemap:
 resourceTypes:
 - video
 categories:
-- Engineering Excellence
 - Product Management
+- Engineering Excellence
 
 ---
 When it comes to managing product investments, I’ve shifted my perspective significantly over the years. The phrase "stay within budget" doesn’t resonate with me anymore. Instead, I view it as having a pool of money that I can allocate strategically to maximise value. This approach requires a solid understanding of the data at hand and a clear vision of what we aim to achieve.

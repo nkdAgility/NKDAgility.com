@@ -667,12 +667,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T13:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T13:46:04",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses backlog management and the implications of hierarchy in Agile frameworks, which are relevant to product management, but the primary focus is on technical implementation details rather than strategic product management concepts.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses backlog management within Agile frameworks, particularly focusing on the implications of hierarchical structures versus flat lists. While it touches on product management concepts, such as prioritisation and value delivery, the depth of discussion leans more towards technical implementation details rather than strategic product management methodologies. The mention of Agile principles and the importance of value flow aligns with product management themes, but the overall focus on tooling and specific practices detracts from a purely strategic discussion.",
+    "level": "Secondary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -1009,11 +1012,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-12T14:51:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:46:07",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the use of Azure DevOps for managing backlogs and features, providing insights into its functionalities and best practices, while also addressing common issues with hierarchical structures in backlog management.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily focuses on backlog management within Azure DevOps, discussing specific features and functionalities of the tool. It provides a detailed analysis of how to manage backlogs effectively, emphasising the importance of a flat structure over hierarchical organisation. The author explicitly mentions Azure DevOps multiple times, demonstrating a clear alignment with the category. The depth of discussion is significant, as it includes practical examples and insights into using Azure DevOps for backlog management, making it highly relevant to the Azure DevOps category.",
     "level": "Secondary"
   },
   "Products and Books": {

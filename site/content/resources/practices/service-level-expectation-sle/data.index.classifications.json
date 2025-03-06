@@ -865,12 +865,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T12:11:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T13:33:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the Service Level Expectation (SLE) within the context of Scrum, which is relevant to product management methodologies, but primarily focuses on Scrum practices rather than broader product management strategies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the Service Level Expectation (SLE) within the context of a Scrum Team's workflow, which is relevant to product management methodologies. However, it primarily focuses on technical aspects of Scrum rather than the strategic alignment of product management. While it touches on the importance of historical data and predictability, it lacks a broader discussion on customer needs, business objectives, or the integration of Lean principles, which are core themes of product management.",
+    "level": "Quaternary"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -1036,11 +1039,14 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-13T09:32:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:33:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the Service Level Expectation (SLE) in relation to flow within a Scrum Team's workflow, focusing on cycle time and the importance of managing flow issues, which aligns closely with the principles of flow efficiency.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses Service Level Expectations (SLE) in the context of Scrum, which relates to flow efficiency by forecasting cycle times and identifying flow issues. However, while it touches on cycle time and the importance of transparency, it does not delve deeply into broader flow efficiency principles or techniques for optimising throughput. The focus is primarily on SLE rather than a comprehensive exploration of flow efficiency concepts.",
     "level": "Secondary"
   },
   "Market Adaptability": {

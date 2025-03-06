@@ -42,8 +42,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Leadership
 - Product Management
+- Leadership
 
 ---
 In today's fast-paced, complex business environment, many organizations struggle with a fundamental issue: a widespread lack of understanding regarding value, strategic direction, and current goals. This problem isn't just theoretical; it's a reality I've witnessed firsthand across numerous organizations.

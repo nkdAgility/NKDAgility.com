@@ -27,15 +27,15 @@ card:
   title: One Engineering System
   content: Unify your development pipeline with One Engineering System. Ensure seamless collaboration and integration across all engineering teams and workflows.
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 tags:
+- Practical Techniques and Tooling
 - Strategy
 - One Engineering System (1ES)
 - Azure DevOps
 - Software Development
 - Operational Practices
-- Practical Techniques and Tooling
 - Team Collaboration
 - Pragmatic Thinking
 - Collaboration Tools

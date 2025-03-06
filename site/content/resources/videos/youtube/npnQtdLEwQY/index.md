@@ -2,7 +2,7 @@
 title: 'Navigating Technical Debt: How to Transform Challenges into Opportunities for Quality and Efficiency'
 description: Discover the true cost of technical debt and poor quality in product development. Learn how to manage them for sustainable success and happier users!
 date: 2024-12-19T06:00:00Z
-weight: 405
+weight: 375
 ResourceId: npnQtdLEwQY
 ResourceType: videos
 ResourceImport: true

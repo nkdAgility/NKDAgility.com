@@ -25,8 +25,8 @@ preview: https://i.ytimg.com/vi/MO7O6kTmufc/maxresdefault.jpg
 duration: 36
 isShort: true
 tags:
-- Evidence Based Management
 - Metrics and Learning
+- Evidence Based Management
 - Decision Making
 - Evidence Based Leadership
 - Pragmatic Thinking

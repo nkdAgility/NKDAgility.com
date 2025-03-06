@@ -33,16 +33,16 @@ tags:
 - Flow Efficiency
 - Practical Techniques and Tooling
 - Agile Frameworks
-- Lean
 - Lean Thinking
 - Operational Practices
 - Pragmatic Thinking
 - Lean Principles
+- Lean
 resourceTypes:
 - video
 categories:
-- Kanban
 - Social Technologies
+- Kanban
 
 ---
 ### Demystifying Kanban: A Strategy for Continuous Improvement

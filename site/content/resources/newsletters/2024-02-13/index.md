@@ -21,6 +21,7 @@ aliasesArchive:
 categories:
 - Social Technologies
 - Scrum
+- Product Management
 tags:
 - Agile Project Management
 - Events and Presentations
@@ -28,8 +29,8 @@ tags:
 - Products and Books
 - Software Development
 - Agile Product Management
-- Agile Transformation
 - Practical Techniques and Tooling
+- Agile Transformation
 - Pragmatic Thinking
 
 ---

@@ -2,7 +2,7 @@
 title: 'Balancing Speed and Stability: Why Quality Should Always Come First in Delivery Management'
 description: Discover how to balance speed and stability in project delivery. Learn why prioritising quality over tight deadlines is essential for long-term success.
 date: 2025-01-24T06:30:21Z
-weight: 415
+weight: 425
 ResourceId: Tz784ysJX7Q
 ResourceType: videos
 ResourceImport: true
@@ -25,8 +25,8 @@ preview: https://i.ytimg.com/vi/Tz784ysJX7Q/maxresdefault.jpg
 duration: 469
 isShort: false
 tags:
-- People and Process
 - Product Delivery
+- People and Process
 - Decision Making
 - Complexity Thinking
 - Pragmatic Thinking

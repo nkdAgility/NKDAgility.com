@@ -29,12 +29,12 @@ preview: https://i.ytimg.com/vi/_Hd8NZeiwFA/maxresdefault.jpg
 duration: 618
 isShort: false
 tags:
+- People and Process
 - Scrum Master
 - Scrum Team
 - Agile Frameworks
 - Agile Project Management
 - Agile Transformation
-- People and Process
 - Professional Scrum
 - Scrum Product Development
 - Team Performance

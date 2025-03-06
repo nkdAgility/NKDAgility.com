@@ -37,13 +37,12 @@ tags:
 - Value Delivery
 - Agile Frameworks
 - Agile Project Management
-- Lean
 - Lean Thinking
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
 - Kanban
-- Social Technologies
 
 ---
 ### Improving Your Workflow in a Kanban Strategy

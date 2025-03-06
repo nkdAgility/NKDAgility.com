@@ -388,11 +388,14 @@
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-13T09:22:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:32:47",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily focuses on defining and discussing the concept of a Product Increment, which aligns closely with the Increment category in Agile and Scrum frameworks.",
+    "final_score": 64.0,
+    "reasoning": "The content begins with a definition of a Product Increment, which directly mentions the category. However, it lacks depth and detail regarding the significance, best practices, and measurement techniques associated with Increments in Agile. The discussion does not fully explore the relationship between Increments and other Scrum artifacts or strategies for incorporating feedback, which limits its overall alignment with the core themes of the category.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
@@ -1387,14 +1390,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:42:35",
-    "ai_confidence": 45.0,
+    "calculated_at": "2025-03-06T13:32:42",
+    "ai_confidence": 35.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
+    "ai_alignment": 40.0,
     "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 40.0,
-    "reasoning": "The content briefly introduces the concept of a Product Increment, which is a key artifact in the Scrum framework. However, it lacks detailed discussion on Scrum roles, events, or broader principles. While it aligns with the Scrum category by mentioning an important aspect, the overall depth and breadth of the discussion are limited, resulting in a moderate confidence score.",
+    "final_score": 32.0,
+    "reasoning": "The content briefly introduces the concept of a Product Increment, which is a key artifact in Scrum. However, it lacks detailed discussion on Scrum roles, events, or the broader framework. While it aligns conceptually with Scrum principles, the depth of discussion is limited, resulting in a moderate confidence score.",
     "level": "Quaternary"
   }
 }

@@ -34,8 +34,6 @@ card:
   title: The Evidence-Based Management Guide Improving Value Delivery under Conditions of Uncertainty
 categories:
 - Product Management
-- Social Technologies
-- Scrum
 tags:
 - Evidence Based Management
 - Ability to Innovate

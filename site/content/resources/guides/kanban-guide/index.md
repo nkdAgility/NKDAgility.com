@@ -29,6 +29,7 @@ categories:
 - Kanban
 - Social Technologies
 tags:
+- Lean
 - Operational Practices
 
 ---

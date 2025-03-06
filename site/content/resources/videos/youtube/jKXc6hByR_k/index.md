@@ -36,8 +36,6 @@ sitemap:
 resourceTypes:
 - video
 categories:
-- Leadership
-- Engineering Excellence
 - Product Management
 
 ---

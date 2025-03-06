@@ -23,12 +23,12 @@ card:
   content: Discover more about Accountabilities for the Scrum Team and how it can help you in your Agile journey!
   title: Accountabilities for the Scrum Team
 categories:
-- Social Technologies
 - Scrum
+- Social Technologies
 tags:
-- Scrum Team
 - Agile Frameworks
 - Agile Project Management
+- Scrum Team
 
 ---
 While we have an overview of the [accountabilities](/Project-Management/Agile-Ways-of-Working/Core-Practices/Accountabilities) for the organisation it is worth diving into some of the accountabilities specifically.
