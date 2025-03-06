@@ -30,11 +30,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Flow Efficiency
 - Strategy
 - Throughput
 - Metrics and Learning
 - Cycle Time
-- Flow Efficiency
 - Practical Techniques and Tooling
 - Software Development
 - Agile Frameworks

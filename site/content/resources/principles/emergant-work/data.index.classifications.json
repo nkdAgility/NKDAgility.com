@@ -82,12 +82,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-18T17:28:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T13:33:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content mentions user feedback, which is a relevant aspect of product management, but lacks depth in discussing strategic alignment or methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions user feedback, which is relevant to product management, but lacks depth and does not explicitly discuss strategic alignment or methodologies. The focus on timelines is too vague to provide substantial insight into product management practices.",
+    "level": "Quaternary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -559,12 +562,15 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-18T17:28:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T13:33:17",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions updating work based on user feedback within a short timeframe, which relates to the concept of deployment frequency, but it does not provide a comprehensive discussion on the topic.",
-    "level": "Tertiary"
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions updating work based on user feedback, which implies a connection to deployment frequency. However, it lacks explicit discussion on deployment intervals, strategies for increasing frequency, or detailed insights into Agile and DevOps practices. The mention of timelines suggests a focus on responsiveness rather than a comprehensive exploration of deployment frequency.",
+    "level": "Quaternary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",

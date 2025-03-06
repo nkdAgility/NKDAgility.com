@@ -1063,11 +1063,14 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-12T05:09:09",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-06T13:49:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the use of Kanban and metrics like cycle time to improve workflow and identify bottlenecks, which aligns with flow efficiency principles. However, it also includes broader discussions about team dynamics and workshops, making flow efficiency a major but secondary theme.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the implementation of Kanban and the importance of metrics like cycle time, which are directly related to flow efficiency. It highlights the need for visualising data to identify bottlenecks and improve throughput, aligning well with the core themes of flow efficiency. However, while it provides practical advice and examples, the depth of discussion on specific flow efficiency techniques and metrics could be more comprehensive.",
     "level": "Secondary"
   },
   "AI and Automation in Agility": {
@@ -1207,11 +1210,14 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-12T05:09:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:49:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the implementation of Kanban principles, including visualisation of work, metrics like cycle time, and the importance of workshops for defining workflows, making it a clear focus of the discussion.",
+    "final_score": 73.0,
+    "reasoning": "The content explicitly discusses Kanban principles, such as starting with metrics, visualising work, and engaging in conversations about workflow. It mentions tools like JIRA and Azure DevOps in the context of Kanban, which aligns with the visualisation of work processes. The depth of discussion is significant, covering practical steps to implement Kanban and the importance of understanding workflow. However, the content occasionally veers into general task management and lacks a more structured exploration of Kanban's core philosophies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Value Delivery": {

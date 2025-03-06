@@ -38,7 +38,7 @@ tags:
 - Product Discovery
 - Product Validation
 - Lean Startup
-- Evidence Based Management
+- Decision Theory
 resourceTypes:
 - video
 categories:

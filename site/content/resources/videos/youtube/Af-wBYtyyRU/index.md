@@ -32,10 +32,10 @@ sitemap:
 tags:
 - Value Delivery
 - Throughput
+- Product Delivery
 - Ability to Innovate
 - Agile Product Management
 - Metrics and Learning
-- Product Delivery
 - Agile Product Operating Model
 - Agile Project Management
 - Decision Making

@@ -82,12 +82,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T12:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T13:34:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses the Nexus framework, which is an extension of Scrum for scaling product delivery. While it touches on aspects of product management, such as the role of the Product Owner and the importance of a single Product Backlog, the focus is more on the technical implementation of the Nexus framework rather than the strategic alignment of customer needs, business objectives, and methodologies for product management.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on the Nexus framework, which is an extension of Scrum aimed at scaling product delivery. It discusses the roles, events, and artifacts within the Nexus framework, which are crucial for product management in an Agile context. While it does touch on aspects of product management, such as the role of the Product Owner and the importance of a single Product Backlog, the emphasis is more on the technical implementation of the Nexus framework rather than on strategic product management principles. Therefore, while it aligns with the category, it does not delve deeply into the strategic aspects of product management, leading to a moderately high confidence score.",
+    "level": "Secondary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -1018,11 +1021,14 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-12T13:41:52",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-06T13:34:46",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses the Nexus framework for scaling Scrum, which is relevant to enterprise agility. It addresses how multiple Scrum teams can collaborate effectively, manage dependencies, and enhance product delivery, aligning with the principles of organisational agility. However, the focus is more on the framework and team-level practices rather than broader organisational implications, which slightly limits its classification as primarily about enterprise agility.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the Nexus framework, which is a method for scaling Scrum across multiple teams. While it discusses the integration of teams and the management of dependencies, it does not explicitly address broader organisational agility or cultural aspects of enterprise agility. However, it does touch on themes such as collaboration and the importance of leadership roles within the Nexus Integration Team, which aligns with the principles of enterprise agility. The depth of discussion on scaling practices and team dynamics contributes positively to the confidence score, but the lack of a wider organisational context limits its alignment with the category.",
     "level": "Secondary"
   },
   "Lean": {

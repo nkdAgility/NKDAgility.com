@@ -26,10 +26,10 @@ duration: 57
 isShort: true
 tags:
 - People and Process
-- Metrics and Learning
 - Organisational Psychology
 - Employee Engagement
 - Sociotechnical Systems
+- Metrics and Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

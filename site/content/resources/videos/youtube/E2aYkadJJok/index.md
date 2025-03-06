@@ -31,8 +31,8 @@ tags:
 - Operational Practices
 - Pragmatic Thinking
 - Throughput
-- Flow Efficiency
 - Software Development
+- Flow Efficiency
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -41,7 +41,6 @@ resourceTypes:
 - video
 categories:
 - Kanban
-- Social Technologies
 
 ---
 When it comes to visualising work in a Kanban system, one of the most crucial elements is the Kanban board itself. I can’t stress enough how important it is to have a clear representation of your workflow. It’s not just about aesthetics; it’s about understanding how your system operates and how work moves through it.

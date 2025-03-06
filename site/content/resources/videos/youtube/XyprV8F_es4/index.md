@@ -28,6 +28,7 @@ preview: https://i.ytimg.com/vi/XyprV8F_es4/maxresdefault.jpg
 duration: 398
 isShort: false
 tags:
+- Organisational Change
 - Continuous Delivery
 - Continuous Learning
 - Resilience and Change
@@ -36,7 +37,6 @@ tags:
 - Change Management
 - Enterprise Agility
 - Organisational Agility
-- Organisational Change
 - Organisational Culture
 sitemap:
   filename: sitemap.xml

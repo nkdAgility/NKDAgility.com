@@ -1054,11 +1054,14 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T09:14:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:28:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the importance of automated testing in software engineering, focusing on how it relates to code quality, complexity management, and the reduction of human error. It explores the impact of complexity on testing strategies and the need for fast-running unit tests, which aligns well with the themes of code quality and complexity in software development.",
+    "final_score": 73.0,
+    "reasoning": "The content discusses the importance of automated testing in software engineering, which directly relates to code quality and complexity management. It highlights the challenges of human error in testing, the need for fast-running unit tests, and the impact of complexity on testing strategies. The mention of test infrastructure and the shift from end-to-end tests to unit tests reflects a deep understanding of managing complexity in codebases. However, while it touches on key themes, it does not delve deeply into complexity theory or specific frameworks, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Flow Efficiency": {
@@ -1171,12 +1174,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T09:14:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:28:15",
+    "ai_confidence": 87.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the importance of automated testing within the context of DevOps practices, including the need for fast-running tests, the role of automation in reducing human error, and the integration of testing into the software delivery pipeline. It also references Azure DevOps and the shift towards more efficient testing strategies, which aligns closely with DevOps principles.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content discusses automated testing extensively, highlighting its importance in the DevOps process, particularly in relation to Continuous Integration and Continuous Delivery. It mentions Azure DevOps and the need for fast-running tests, which aligns with DevOps principles. The depth of discussion on test automation and its impact on software delivery indicates a strong focus on DevOps practices, although it does not explicitly mention the term 'DevOps' frequently.",
+    "level": "Primary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",

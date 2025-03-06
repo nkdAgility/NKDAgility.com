@@ -1054,11 +1054,14 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T02:11:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:28:39",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of code quality, the shift-left approach in software development, and the role of practices like pair programming and test-driven development in managing complexity and improving maintainability. It aligns well with the key topics of the category, particularly in relation to software code quality and best practices in development.",
+    "final_score": 80.0,
+    "reasoning": "The content primarily discusses the importance of integrating quality assurance into the software development process, particularly through practices like shift left, test-driven development, and pair programming. It explicitly mentions code quality and the complexities involved in maintaining and supporting code, aligning well with the core themes of the category. The depth of discussion is substantial, covering various practices and their implications on software quality and complexity, although it could benefit from more explicit references to complexity theory and its principles.",
     "level": "Secondary"
   },
   "Flow Efficiency": {
@@ -1171,11 +1174,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T02:11:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:28:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the integration of quality assurance practices within the software development lifecycle, emphasising the shift-left approach, which aligns with DevOps principles. It highlights the importance of collaboration, automation, and continuous delivery, making it a central theme in the context of DevOps.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses concepts related to quality assurance and engineering practices, such as 'shift left' and test-driven development, which are relevant to DevOps principles. However, it primarily focuses on software engineering practices rather than the broader integration of development and operations teams. While it touches on automation and team dynamics, it lacks a comprehensive exploration of DevOps tools, cultural shifts, and metrics, which are crucial for a higher confidence score in the DevOps category.",
     "level": "Secondary"
   },
   "Azure DevOps": {

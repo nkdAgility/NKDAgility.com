@@ -38,13 +38,12 @@ tags:
 - Flow Efficiency
 - Practical Techniques and Tooling
 - Value Delivery
-- Value Stream Management
 - Agile Frameworks
 - Agile Project Management
+- Agile Transformation
 resourceTypes:
 - video
 categories:
-- Kanban
 - Social Technologies
 
 ---

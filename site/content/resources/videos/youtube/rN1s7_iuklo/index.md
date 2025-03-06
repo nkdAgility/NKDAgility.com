@@ -35,8 +35,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Leadership
 - Social Technologies
+- Leadership
 
 ---
 In the fast-paced world of Agile, the key to success lies in the ability of teams to adapt and evolve. But are your teams truly empowered to change their processes based on what they learn? If they aren't, then they might not be as agile as you think. 🚀

@@ -1,12 +1,15 @@
 {
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-20T18:14:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T13:22:07",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses scaling product development teams and the importance of alignment and system optimisation, which are relevant to product management, but it primarily focuses on the challenges of scaling rather than the strategic aspects of product management.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the challenges of scaling product development, focusing on the importance of system alignment and effective communication, which are key aspects of product management. It highlights the need for clarity in priorities and managing technical debt, aligning well with the strategic aspects of product management. However, while it touches on relevant themes, it lacks detailed methodologies or frameworks specific to product management, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -874,11 +877,14 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-20T18:25:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T13:22:09",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of scaling teams and system optimization which could relate to organisational change, particularly in improving efficiency and alignment within teams. However, it primarily focuses on software development and scaling rather than a comprehensive discussion on organisational change principles or methodologies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the challenges of scaling product development and the importance of building effective systems rather than merely increasing headcount. While it touches on themes relevant to organisational change, such as alignment and system improvement, it lacks explicit mention of change management frameworks or methodologies. The focus is more on operational efficiency and team dynamics rather than a comprehensive exploration of organisational change principles.",
     "level": "Tertiary"
   },
   "Deployment Strategies": {

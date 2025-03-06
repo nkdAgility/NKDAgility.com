@@ -25,10 +25,10 @@ preview: https://i.ytimg.com/vi/ZBb8OZ0I6qA/maxresdefault.jpg
 duration: 1156
 isShort: false
 tags:
+- Azure DevOps
 - Agile Product Management
 - Agile Project Management
 - Agile Product Operating Model
-- Azure DevOps
 - People and Process
 - Practical Techniques and Tooling
 - Product Backlog
@@ -43,6 +43,7 @@ resourceTypes:
 - video
 categories:
 - Scrum
+- Product Management
 - Social Technologies
 
 ---

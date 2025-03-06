@@ -25,6 +25,7 @@ duration: 971
 isShort: false
 tags:
 - Decision Making
+- Decision Theory
 - People and Process
 - Ability to Innovate
 - Agile Project Management
@@ -33,7 +34,6 @@ tags:
 - Complexity Thinking
 - Organisational Agility
 - Organisational Change
-- Resilience and Change
 sitemap:
   filename: sitemap.xml
   priority: 0.6

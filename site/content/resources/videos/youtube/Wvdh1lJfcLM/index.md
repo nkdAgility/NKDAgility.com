@@ -29,8 +29,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Azure DevOps
 - Install and Configuration
+- Azure DevOps
 - Practical Techniques and Tooling
 - Software Development
 resourceTypes:

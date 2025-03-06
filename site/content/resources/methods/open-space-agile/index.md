@@ -26,7 +26,6 @@ card:
 categories: []
 tags:
 - People and Process
-- Scrum Values
 - Software Development
 
 ---

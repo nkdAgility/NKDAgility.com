@@ -1081,11 +1081,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-12T01:29:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:38:28",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses DevOps practices and their impact on product delivery, including methodologies for effective deployment, quality assurance, and the importance of feedback loops, which are central to the product delivery process.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses various aspects of DevOps, which is closely related to product delivery, particularly in terms of deployment practices, quality assurance, and the integration of development and operations. It highlights the importance of understanding current practices, improving delivery processes, and maintaining quality, which aligns well with the core themes of product delivery. However, the primary focus is on DevOps rather than a comprehensive exploration of product delivery methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Agile Product Management": {
@@ -1171,11 +1174,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T01:29:28",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-06T13:38:23",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 50,
-    "final_score": 86.0,
-    "reasoning": "The content primarily discusses various aspects of DevOps, including bespoke solutions, the importance of understanding current practices, the role of automation, and the cultural shifts necessary for successful implementation. It also addresses tools, metrics, and real-world examples, making DevOps the central theme throughout the discussion.",
+    "final_score": 88.0,
+    "reasoning": "The content explicitly discusses various aspects of DevOps, including bespoke solutions, the importance of understanding current practices, and the need for cultural shifts within organisations. It provides detailed examples of challenges faced in DevOps implementations, such as the use of multiple source control systems and misconceptions about compliance. The discussion on continuous delivery, deployment strategies, and the need for collaboration between development and operations teams aligns well with core DevOps principles. The depth of the content is significant, offering insights into both the challenges and solutions within the DevOps framework.",
     "level": "Primary"
   },
   "Azure DevOps": {

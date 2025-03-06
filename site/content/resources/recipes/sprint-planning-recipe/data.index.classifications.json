@@ -865,12 +865,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T12:11:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T13:33:55",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses the Sprint Planning process within the Scrum framework, which is a key aspect of product management. However, it focuses more on the implementation details of the Scrum event rather than the strategic alignment of customer needs and business objectives.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content primarily focuses on the Sprint Planning process within the Scrum framework, which is a key aspect of product management. It discusses the roles of the Product Owner and Scrum Team, the importance of understanding the Product Backlog, and the need for clear communication with stakeholders. However, while it touches on product goals and backlog management, it lacks a broader discussion on strategic alignment with business objectives or customer needs, which are crucial for a higher confidence score in the Product Management category.",
+    "level": "Secondary"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -1099,11 +1102,14 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-13T09:48:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:33:58",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the Sprint Planning process within the Scrum framework, highlighting the role of the Product Owner and the importance of aligning the Product Goal with the Sprint Goal, which are central themes in Agile Product Management.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed discussion on Sprint Planning within the Scrum framework, which is a core aspect of Agile Product Management. It explicitly mentions the roles of the Product Owner and the Scrum Team, aligning well with the category's focus on stakeholder engagement and collaboration. The depth of the discussion is significant, covering various steps and facilitation options for Sprint Planning, which reflects a strong understanding of Agile principles in product management.",
     "level": "Secondary"
   },
   "Install and Configuration": {

@@ -24,9 +24,9 @@ preview: https://i.ytimg.com/vi/sbr8NkJSLPU/maxresdefault.jpg
 duration: 218
 isShort: false
 tags:
+- Practical Techniques and Tooling
 - People and Process
 - Operational Practices
-- Practical Techniques and Tooling
 - Team Collaboration
 - Agile Frameworks
 - Agile Project Management

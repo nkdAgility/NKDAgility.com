@@ -25,7 +25,6 @@ preview: https://i9.ytimg.com/vi/zqMzD1PXq4s/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 413
 isShort: false
 tags:
-- Azure DevOps
 - People and Process
 - Technical Excellence
 - Technical Leadership
@@ -35,6 +34,7 @@ tags:
 - Technical Mastery
 - Value Delivery
 - Operational Practices
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

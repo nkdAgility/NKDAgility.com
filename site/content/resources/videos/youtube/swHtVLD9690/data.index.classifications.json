@@ -1036,11 +1036,14 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-12T01:33:18",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-06T13:38:01",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses challenges in adopting DevOps practices, particularly focusing on risk management and adaptability in response to changing environments. While it primarily addresses technical aspects of DevOps, it also touches on the need for organisations to adapt and improve their processes, which aligns with the themes of resilience and change.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses challenges in adopting DevOps practices, particularly focusing on risk management and the need for adaptability in a changing environment. While it touches on themes of resilience and change, such as the importance of closing feedback loops and adapting to new risk profiles, the primary focus remains on technical challenges rather than a comprehensive exploration of organisational resilience or change management strategies. The discussion lacks depth in terms of frameworks or methodologies specifically aimed at enhancing organisational resilience.",
     "level": "Secondary"
   },
   "Install and Configuration": {
@@ -1171,12 +1174,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T01:33:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:37:58",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the challenges of adopting DevOps practices, including the need for cultural shifts, the importance of closing feedback loops, and the impact of traditional deployment methods on efficiency. It aligns well with key topics in the DevOps category, such as the role of automation, the integration of development and operations, and the need for new tools and techniques in a DevOps context.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content primarily focuses on the challenges of adopting DevOps practices, discussing the shift from traditional software development models to DevOps principles. It explicitly mentions key aspects of DevOps, such as the importance of closing feedback loops and adapting to new risk profiles, which are central to the DevOps philosophy. The depth of the discussion is significant, providing detailed examples and insights into the cultural and procedural changes necessary for successful DevOps implementation. Overall, the content aligns well with the core themes of the DevOps category.",
+    "level": "Primary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",

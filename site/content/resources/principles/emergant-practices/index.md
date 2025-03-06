@@ -22,10 +22,10 @@ card:
   title: Emergant Practices
 categories: []
 tags:
+- Miscellaneous
 - Discovery and Learning
 - People and Process
 - Complexity Thinking
-- Miscellaneous
 - Pragmatic Thinking
 
 ---

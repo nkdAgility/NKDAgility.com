@@ -8,7 +8,7 @@ ResourceImportId: 51730
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2024-09-05
-weight: 245
+weight: 255
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -37,7 +37,6 @@ tags:
 - People and Process
 - Professional Scrum
 - Software Development
-- Team Performance
 categories:
 - Scrum
 preview: NKDAgility-technically-whymostscrummastersarefailing-2-2.jpg

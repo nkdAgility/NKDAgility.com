@@ -307,12 +307,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-20T18:47:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content mentions Scrum and Agile, it seems to focus more on a general view of Scrum and its implications rather than directly discussing product delivery methodologies and practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-06T13:23:09",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of frequent product releases and continuous delivery, which aligns with key themes of product delivery. However, it lacks explicit mentions of methodologies, testing, or deployment strategies, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
@@ -1387,14 +1390,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:38:29",
+    "calculated_at": "2025-03-06T13:23:07",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content briefly touches on the importance of frequent product releases and adapting to market opportunities, which aligns with Agile principles and the Scrum framework's emphasis on delivering working software frequently. However, it lacks explicit mentions of Scrum roles, events, or artifacts, and does not delve into the specifics of Scrum practices, resulting in a low confidence score.",
+    "reasoning": "The content briefly touches on the importance of frequent product releases and adapting to market opportunities, which aligns with Agile principles and the concept of delivering value. However, it lacks explicit mentions of Scrum roles, events, or artifacts, and does not delve into the Scrum framework or its practices in detail.",
     "level": "Quaternary"
   }
 }

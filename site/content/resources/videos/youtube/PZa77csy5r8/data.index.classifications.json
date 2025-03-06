@@ -1009,11 +1009,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-12T16:52:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:27:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses technical debt management within the context of the Azure DevOps team, including specific examples and outcomes related to their practices. It highlights the impact of technical debt on their ability to deliver features and the transition to continuous delivery, making Azure DevOps a central theme.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses technical debt extensively, using the Azure DevOps team as a primary example to illustrate the impact of technical debt on development processes. It directly mentions Azure DevOps multiple times, indicating a strong focus on the platform. The discussion aligns well with the category's themes, particularly in relation to continuous delivery and agile practices. However, while the content is rich in detail regarding technical debt, it does not delve deeply into the specific functionalities or tools of Azure DevOps, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Products and Books": {
@@ -1135,11 +1138,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T16:52:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:27:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the management of technical debt in the context of DevOps practices, particularly highlighting the impact of continuous delivery and the importance of closing feedback loops. It provides a real-world example of the Azure DevOps team, illustrating how addressing technical debt can enhance software delivery and value creation, which aligns closely with DevOps principles.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses technical debt and its implications on software delivery, referencing the Azure DevOps team's transition to continuous delivery. While it touches on aspects of DevOps, such as the importance of managing technical debt and improving delivery processes, the primary focus is on technical debt itself rather than a comprehensive exploration of DevOps principles or practices. The mention of continuous delivery and feedback loops indicates some alignment with DevOps concepts, but the depth of discussion is limited to technical debt management rather than a broader DevOps context.",
     "level": "Secondary"
   },
   "People and Process": {

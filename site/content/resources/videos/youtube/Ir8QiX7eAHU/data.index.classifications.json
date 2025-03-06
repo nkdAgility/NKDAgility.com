@@ -1027,11 +1027,14 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-12T06:21:23",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-06T13:46:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses WIP limits within a Kanban strategy, which is a Lean tool. While it does touch on concepts relevant to Lean, such as flow and waste identification, the focus is more on Kanban practices rather than a comprehensive discussion of Lean principles.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses WIP limits, a key aspect of Kanban, which is closely related to Lean principles. It explains how WIP limits help in visualising work and improving flow, aligning with Lean's focus on minimising waste and maximising value. The depth of discussion on WIP limits and their impact on system performance indicates a strong understanding of Lean methodologies. However, while it touches on Lean concepts, the primary focus is on Kanban, which may dilute its classification as strictly Lean.",
     "level": "Secondary"
   },
   "Resilience and Change": {
@@ -1207,12 +1210,15 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-12T06:21:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:46:36",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the concept of WIP limits within the context of Kanban strategy, including visualisation of work, flow management, and continuous improvement practices, making it a clear focus of the discussion.",
-    "level": "Secondary"
+    "final_score": 88.0,
+    "reasoning": "The content primarily focuses on the concept of WIP limits, a fundamental aspect of Kanban methodology. It discusses the importance of visualising work, managing flow, and optimising WIP limits in detail, which aligns closely with Kanban principles. The depth of discussion is significant, providing practical examples and insights into how WIP limits can be applied in various contexts. While there is a brief mention of Scrum towards the end, it does not detract from the overall focus on Kanban, thus maintaining a high confidence score.",
+    "level": "Primary"
   },
   "Value Delivery": {
     "category": "Value Delivery",

@@ -29,9 +29,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Practical Techniques and Tooling
 - Personal
 - Azure DevOps
-- Practical Techniques and Tooling
 - Software Developers
 - Software Development
 - Pragmatic Thinking

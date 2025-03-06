@@ -1063,11 +1063,14 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-12T01:50:20",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-06T13:46:32",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content primarily discusses the importance of visualising work in a Kanban strategy, which is a key aspect of flow efficiency. It touches on the need for a shared understanding of the workflow and the role of visual management tools in optimising work processes. However, it also includes broader discussions about team dynamics and the implementation of Kanban, which makes flow efficiency a major but secondary theme.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the importance of visualising work within a Kanban strategy, which directly relates to flow efficiency by emphasising the need to see and manage work in progress. It mentions the challenges of team alignment on system understanding, which is crucial for optimising flow. However, while it touches on flow metrics and the need for a defined workflow, it lacks detailed exploration of specific flow efficiency techniques or metrics, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "AI and Automation in Agility": {
@@ -1207,12 +1210,15 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-12T01:50:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:46:29",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the importance of visualising work in a Kanban strategy, detailing the process of creating a Kanban board and the need for team agreement on workflow, which aligns closely with Kanban principles.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content primarily focuses on the visualisation aspect of Kanban, discussing the importance of creating a shared understanding of the workflow and the need for a 'rule book' to define how the system operates. It explicitly mentions Kanban strategy multiple times and aligns well with key Kanban principles such as visualisation of work processes and the need for team agreement on workflow. The depth of discussion is substantial, providing practical advice on implementing Kanban boards and workshops, although it briefly touches on Scrum, which slightly detracts from its overall alignment with pure Kanban principles.",
+    "level": "Primary"
   },
   "Value Delivery": {
     "category": "Value Delivery",

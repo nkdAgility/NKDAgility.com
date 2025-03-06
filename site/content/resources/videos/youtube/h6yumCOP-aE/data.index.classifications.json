@@ -82,12 +82,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T13:14:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T13:47:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of team agreements and collaboration in the context of frameworks like Scrum and Kanban, which are relevant to product management. However, the primary focus is on team dynamics and working agreements rather than strategic product management practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of team agreements and collaboration in the context of frameworks like Scrum and Kanban. However, it primarily focuses on the operational aspects of team dynamics rather than the strategic alignment of product management. While it touches on relevant themes, it lacks depth in discussing methodologies or frameworks that guide product managers in making informed decisions, which is essential for a higher confidence score in the Product Management category.",
+    "level": "Quaternary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -1252,11 +1255,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-12T06:50:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:47:10",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 32,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of team collaboration and establishing a working agreement, which are central themes in the context of Agile methodologies like Scrum and Kanban. It highlights the human factors influencing team dynamics and the necessity of agreement for effective process implementation.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses the importance of team agreements and collaboration, which are central to the 'People and Process' category. It highlights how a lack of a working agreement can lead to disarray within teams, directly addressing team dynamics and the necessity of communication. The depth of discussion is significant, as it provides examples and analogies to illustrate the consequences of not having a shared understanding among team members. Overall, the content aligns well with the key topics of the category, particularly in relation to Agile methodologies and the human factors influencing team performance.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {

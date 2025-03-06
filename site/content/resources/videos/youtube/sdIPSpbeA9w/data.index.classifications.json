@@ -1009,11 +1009,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-12T15:40:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:25:12",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of automation in software development, specifically referencing Azure DevOps tools and practices. It highlights the transition from manual testing to automated testing within the context of Azure DevOps, making it a central theme.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses automation in software development and includes specific references to Azure DevOps, particularly in the context of testing and CI/CD practices. However, while Azure DevOps is mentioned, the primary focus is on the general concept of automation rather than a comprehensive exploration of Azure DevOps functionalities or best practices. The depth of discussion on Azure DevOps is limited, as it does not delve into the full suite of services or methodologies associated with Azure DevOps.",
     "level": "Secondary"
   },
   "Products and Books": {
@@ -1135,12 +1138,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T15:41:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:25:07",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the role of automation in software development, particularly in the context of testing and deployment, which aligns closely with DevOps principles. It highlights the importance of reducing manual processes, improving feedback loops, and enhancing efficiency, all of which are central to DevOps practices.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content discusses the importance of automation in software development, which is a key principle of DevOps. It highlights the role of automation in reducing human error, improving efficiency, and closing feedback loops, all of which align with DevOps practices. The mention of Azure DevOps tools and the transformation of testing processes further supports its relevance to the category. However, while it touches on DevOps principles, the focus is more on automation and human error rather than a comprehensive discussion of DevOps as a whole, which slightly limits its depth and alignment.",
+    "level": "Primary"
   },
   "People and Process": {
     "category": "People and Process",

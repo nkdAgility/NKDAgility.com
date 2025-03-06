@@ -82,11 +82,14 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-11T14:34:21",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-06T13:23:29",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "Content primarily discusses the importance of delivery in Scrum, which is a key aspect of product management, particularly in aligning product development with customer needs and business objectives.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses Scrum and delivery practices, which are relevant to product management but focuses more on technical implementation and Scrum methodology rather than the strategic aspects of product management. While it touches on the importance of delivery in relation to user feedback and value, it lacks a broader discussion on aligning customer needs and business objectives, which are central to product management.",
     "level": "Secondary"
   },
   "Agile Leadership": {
@@ -1054,11 +1057,14 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-11T14:33:04",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-06T13:23:33",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses the importance of delivery in Scrum, emphasising the need for continuous delivery and the impact of flow on team performance and value delivery. It addresses bottlenecks in the delivery process and strategies to optimise throughput, aligning well with the principles of Flow Efficiency.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of delivery in Scrum, emphasising that delivery is the measure of progress, which aligns with the principles of flow efficiency. It highlights the need for teams to focus on delivering increments to production, thus optimising throughput. The discussion on automating processes and making undelivered work visible directly relates to identifying and eliminating bottlenecks, which is a key aspect of flow efficiency. However, while the content is rich in detail regarding delivery, it does not explicitly mention flow efficiency or related metrics, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "AI and Automation in Agility": {

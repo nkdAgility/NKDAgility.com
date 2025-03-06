@@ -82,11 +82,14 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T12:10:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T13:11:17",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implications of batch size on flow and delivery, which relates to product management principles, but primarily focuses on a workshop format and facilitation steps rather than strategic product management discussions.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on a workshop designed to illustrate the impact of batch size on flow, which is relevant to product management. However, it lacks direct discussions on strategic alignment, stakeholder interests, or methodologies specific to product management. While it touches on Agile concepts, the depth of discussion is limited, focusing more on facilitation steps and exercises rather than comprehensive product management strategies.",
     "level": "Tertiary"
   },
   "Agile Leadership": {
@@ -343,12 +346,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T12:10:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T13:35:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of optimising flow through batch processing, which relates to engineering practices. However, it primarily focuses on a workshop format and Scrum team dynamics rather than directly addressing software craftsmanship or development processes.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of breaking down large backlog items into smaller pieces, which aligns with the principles of software craftsmanship and continuous improvement. However, it primarily focuses on a workshop format and facilitation steps rather than in-depth engineering practices or methodologies. The mention of batch sizes and flow does touch on aspects of efficiency and predictability, but lacks a comprehensive exploration of coding standards, testing methodologies, or CI/CD practices, which are central to the category of Engineering Excellence.",
+    "level": "Quaternary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1027,11 +1033,14 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-12T14:12:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:11:19",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of optimising flow through batch size, which aligns with Lean principles of maximising value and minimising waste. It includes facilitation steps that focus on improving processes and efficiency, key aspects of Lean methodologies.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of batch size in optimising flow, which aligns with Lean principles of reducing waste and improving efficiency. However, the primary focus is on a Scrum workshop, which limits the depth of Lean-specific discussions. While it mentions concepts related to Lean, such as flow and batch processing, it does not delve deeply into Lean methodologies or tools, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Resilience and Change": {
@@ -1063,11 +1072,14 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-12T14:12:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:35:11",
+    "ai_confidence": 85.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the impact of batch size on flow efficiency, emphasising the benefits of smaller batches in optimising throughput and predictability, which aligns closely with the principles of Flow Efficiency.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses the impact of batch size on flow efficiency, particularly through the workshop's focus on breaking down large backlog items into smaller pieces. It aligns well with the core themes of Flow Efficiency by addressing queuing theory and the implications of batch size on throughput. The depth of discussion is substantial, as it includes detailed facilitation steps and exercises aimed at improving flow, making it a primary focus of the content.",
     "level": "Secondary"
   },
   "AI and Automation in Agility": {

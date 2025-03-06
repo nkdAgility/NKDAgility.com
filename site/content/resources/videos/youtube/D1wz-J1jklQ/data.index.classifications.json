@@ -1036,11 +1036,14 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-12T15:21:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:24:29",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the benefits of frequent deployments and reducing batch sizes, which directly relates to optimising throughput and minimising bottlenecks in the value stream. It emphasises the importance of continuous delivery and the impact on technical debt, aligning well with the principles of Flow Efficiency.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of frequent deployments and breaking down larger tasks into smaller, manageable pieces, which directly relates to optimising flow efficiency. It highlights how smaller batch sizes and increased deployment frequency can reduce technical debt and improve code quality, aligning well with the principles of Flow Efficiency. The depth of discussion on how these practices impact team performance and customer feedback further supports its relevance to the category.",
     "level": "Secondary"
   },
   "Market Adaptability": {
@@ -1135,11 +1138,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T15:22:11",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-06T13:24:26",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses the benefits of frequent deployments, which aligns closely with Continuous Delivery (CD) principles in DevOps. It addresses the impact of deployment frequency on technical debt, code maintainability, and customer feedback, all of which are central themes in DevOps practices.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the benefits of frequent deployments, which aligns closely with DevOps principles such as Continuous Delivery (CD) and the importance of maintaining code quality. It highlights the role of automation and telemetry in improving deployment practices and reducing technical debt, which are key aspects of DevOps. The depth of discussion on how smaller batch sizes and frequent deployments can enhance collaboration and efficiency further supports its strong alignment with the DevOps category.",
     "level": "Secondary"
   },
   "People and Process": {

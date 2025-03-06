@@ -1081,11 +1081,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-12T08:17:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:27:49",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses methodologies and practices related to performance engineering, testing in production, and continuous delivery, which are central to the product delivery process. It highlights the importance of user feedback, iterative development, and deployment strategies, aligning well with the key topics of the category.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses methodologies and practices related to product delivery, particularly focusing on performance engineering, testing in production, and audience-based deployment strategies. It aligns well with key topics such as the importance of iterative development, effective testing, and the role of cross-functional teams. The depth of discussion is significant, providing detailed examples and insights into how to enhance product delivery through real user feedback and telemetry. Overall, the content is highly relevant to the category of Product Delivery.",
     "level": "Secondary"
   },
   "Agile Product Management": {
@@ -1171,12 +1174,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T08:18:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:27:45",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses performance engineering, testing in production, and continuous delivery, which are key aspects of DevOps practices. It also references Azure DevOps and the importance of automation and user feedback in the deployment process, aligning well with DevOps principles.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses principles of DevOps, particularly focusing on performance engineering, continuous delivery, and audience-based deployment models. It highlights the importance of automation in testing and deployment, which aligns well with DevOps practices. The mention of Azure DevOps as a case study further strengthens its relevance to the category. The depth of discussion on real-world applications and the cultural shifts necessary for successful implementation also contribute to a high confidence score.",
+    "level": "Primary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",

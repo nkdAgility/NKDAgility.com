@@ -10,11 +10,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-25T12:04:16",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-06T13:17:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 50,
-    "final_score": 68.0,
-    "reasoning": "The content discusses DevOps best practices and mentions automated testing and continuous integration, which are significant aspects of DevOps. However, the primary focus is on scaling and technical debt, making DevOps a secondary theme.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the importance of managing technical debt in the context of scaling, which is relevant to DevOps principles. It mentions DevOps practices and automation, indicating a connection to the category. However, the primary focus is on technical debt rather than a comprehensive exploration of DevOps principles, practices, or tools. The discussion lacks depth in terms of specific DevOps metrics or cultural shifts, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Product Management": {
@@ -28,21 +31,27 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-25T12:04:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:21:24",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical debt management, sustainable architecture, and DevOps best practices, which are central to engineering excellence.",
+    "final_score": 74.0,
+    "reasoning": "The content explicitly discusses the management of technical debt, which is a key topic under Engineering Excellence. It aligns well with the principles of software craftsmanship by emphasising the importance of a solid architecture and sustainable practices. The mention of automated testing and continuous integration further supports the core themes of best practices in coding and CI/CD. The depth of discussion is substantial, providing insights into how technical debt impacts scaling and productivity, thus fostering a culture of excellence in software development.",
     "level": "Secondary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-25T12:04:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T14:02:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses scaling and agility, which are related to Agile practices, but the primary focus is on technical debt and architecture rather than the core principles of Scrum, Kanban, Lean, or Agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses scaling and technical debt but does not explicitly mention any of the core frameworks like Scrum, Kanban, Lean, or Agile practices. While it touches on concepts like sustainable architecture and DevOps, which can relate to Agile methodologies, the primary focus is on technical debt management rather than social technologies or collaborative frameworks. Therefore, the confidence score reflects a low direct mention and conceptual alignment with the category.",
+    "level": "Quaternary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -73,11 +82,14 @@
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-25T12:04:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:17:22",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the implications of technical debt on scaling and agility, highlighting its impact on productivity and delivery, which aligns closely with the category.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses technical debt as a critical factor in scaling and sustainable growth, highlighting its impact on productivity and feature delivery. It aligns well with the core themes of the category by addressing the consequences of neglecting technical debt and suggesting strategies for managing it through sustainable architecture and DevOps practices. The depth of discussion is substantial, providing insights into how technical debt can hinder development velocity and the importance of addressing it proactively.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -199,21 +211,27 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-25T12:04:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T13:21:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of managing technical debt and implementing DevOps best practices, which are relevant to technical leadership. However, it primarily focuses on scaling and technical debt rather than providing a comprehensive discussion on technical leadership principles.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of managing technical debt and its impact on scaling, which aligns with the principles of technical leadership. However, it lacks explicit discussions on mentoring, team dynamics, or agile ceremonies, which are crucial for a higher confidence score. The focus is primarily on technical aspects rather than leadership strategies.",
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-25T12:04:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T14:02:16",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses scaling and the impact of technical debt on agility, which aligns with the principles of business agility, but it primarily focuses on technical aspects and practices rather than a comprehensive exploration of business agility as a primary topic.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of managing technical debt in the context of scaling, which indirectly relates to business agility. However, it primarily focuses on technical aspects and practices rather than the broader principles of business agility. While it mentions 'naked agility' and DevOps practices, these are not explored in depth regarding their role in fostering a culture of innovation or adaptability. The discussion lacks a comprehensive exploration of leadership roles or case studies that would strengthen its alignment with the category.",
+    "level": "Quaternary"
   },
   "AI": {
     "category": "AI",

@@ -55,12 +55,15 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-17T12:40:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:42:56",
+    "ai_confidence": 85.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the visualisation of work using Kanban boards, which is a central aspect of the Kanban methodology.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content explicitly discusses the use of a Kanban board, which is a central aspect of the Kanban methodology. It focuses on visualising work processes and the flow of tasks, aligning well with the core themes of Kanban. The depth of discussion is substantial, as it addresses the practical implementation of a Kanban board and the concept of single piece flow, which are critical to optimising work processes. Overall, the content is highly relevant to the Kanban category.",
+    "level": "Primary"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
@@ -172,11 +175,14 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T12:40:42",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-06T13:43:00",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the use of a Kanban board to visualise workflows, which is a key aspect of flow efficiency. It touches on optimising work flow and mentions single piece flow, indicating a focus on improving throughput. However, it does not delve deeply into metrics or broader strategies for flow efficiency, making it a major but secondary theme.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the use of a Kanban board, which is a visual management tool that aligns with flow efficiency principles. It mentions the concept of single piece flow, which is directly related to optimising throughput. However, the discussion lacks depth in exploring techniques for eliminating bottlenecks or measuring flow efficiency metrics. Overall, while the topic is relevant, it does not provide a comprehensive exploration of flow efficiency, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Systems Thinking": {

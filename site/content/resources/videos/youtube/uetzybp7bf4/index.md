@@ -30,11 +30,11 @@ tags:
 - Business Agility
 - Change Management
 - Continuous Learning
-- Decision Theory
 - Discovery and Learning
 - Metrics and Learning
 - Organisational Culture
 - Pragmatic Thinking
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

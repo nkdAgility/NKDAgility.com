@@ -1045,12 +1045,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-11T21:35:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:12:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content provides detailed instructions on the installation and configuration of Minecraft Education, including requirements for participants and IT admins, making it a primary focus.",
-    "level": "Secondary"
+    "final_score": 6.0,
+    "reasoning": "The content primarily discusses the use of Minecraft as a teaching tool for Scrum principles, focusing on team dynamics and problem-solving rather than any technical aspects of installation or configuration of software or tools. There are no direct mentions of installation procedures, configuration best practices, or troubleshooting, which are essential for the category.",
+    "level": "Ignored"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
@@ -1315,12 +1318,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T10:41:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:12:08",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the application of Scrum within a complex environment using Minecraft, highlighting Scrum roles and practices in a collaborative learning context.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the use of Minecraft as a tool to facilitate teamwork and problem-solving in a training context, which aligns with the themes of collaboration and team dynamics in Social Technologies. However, it lacks direct mentions of specific frameworks like Scrum or Agile, and while it touches on aspects of complexity and participation, it does not delve deeply into the methodologies themselves. The focus is more on the educational experience rather than the structured practices of Social Technologies.",
+    "level": "Tertiary"
   },
   "Leadership": {
     "category": "Leadership",

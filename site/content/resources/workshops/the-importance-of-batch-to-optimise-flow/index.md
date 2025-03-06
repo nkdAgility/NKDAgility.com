@@ -16,7 +16,7 @@ aliasesArchive:
 - /learn/agile-delivery-kit/workshops/The-Importance-of-Batch-to-Optimise-Flow
 - /learn/agile-delivery-kit/workshops/the-importance-of-batch-to-optimise-flow/
 date: 2024-09-17
-weight: 550
+weight: 585
 creator: Martin Hinshelwood
 card:
   button:
@@ -27,16 +27,16 @@ categories:
 - Social Technologies
 - Scrum
 tags:
+- Flow Efficiency
 - People and Process
 - Events and Presentations
-- Flow Efficiency
 - Practical Techniques and Tooling
 - Scrum Product Development
 - Team Performance
 - Value Delivery
 - Agile Frameworks
 - Agile Project Management
-- Lean
+- Lean Principles
 
 ---
 ## Duration

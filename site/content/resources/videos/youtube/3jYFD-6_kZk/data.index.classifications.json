@@ -1045,11 +1045,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-12T11:30:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:40:38",
+    "ai_confidence": 82.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 29,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the installation and configuration challenges associated with migrating data to Azure DevOps, including specific steps, common issues, and best practices for ensuring a successful migration process.",
+    "final_score": 77.0,
+    "reasoning": "The content primarily focuses on the installation and configuration challenges associated with migrating to Azure DevOps, detailing specific issues, processes, and best practices. It discusses the importance of order in migration, identity management, and the technical intricacies involved in ensuring a successful transition. The depth of discussion is significant, providing actionable insights and troubleshooting advice, which aligns well with the category's core themes. However, while the content is rich in technical detail, it occasionally veers into anecdotal experiences, which slightly detracts from its primary focus on installation and configuration.",
     "level": "Secondary"
   },
   "Code and Complexity": {
@@ -1171,12 +1174,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T11:31:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:40:35",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the complexities and challenges of migrating data within Azure DevOps, which is a key aspect of DevOps practices. It addresses issues related to identity management, version control, and operational procedures that are central to the DevOps philosophy of integrating development and operations. While there are some tangential discussions, the main focus is on the practical implications of DevOps tools and processes.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content primarily focuses on the intricacies of migrating data within Azure DevOps, which is a core aspect of DevOps practices. It discusses the challenges and considerations involved in the migration process, including identity management, version control, and the importance of following proper procedures to ensure a successful transition. The detailed exploration of potential pitfalls and the emphasis on the role of operations and development teams in this context aligns well with the principles of DevOps, particularly in terms of collaboration and the integration of processes and tools. The depth of discussion regarding specific issues and solutions further supports a high confidence score in the DevOps category.",
+    "level": "Primary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",

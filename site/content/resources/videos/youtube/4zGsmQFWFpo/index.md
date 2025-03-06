@@ -43,8 +43,8 @@ resourceTypes:
 layout: video
 categories:
 - Leadership
-- Product Management
 - Social Technologies
+- Scrum
 
 ---
 In today’s rapidly evolving landscape, focusing solely on _Agile_ as a label can be limiting. Instead, the goal should be to increase our organization’s **capability**, **maximize value**, and **enhance effectiveness**. It's not about the moniker; it’s about achieving outcomes that matter. 🏆

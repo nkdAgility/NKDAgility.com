@@ -29,10 +29,10 @@ sitemap:
   priority: 0.6
 tags:
 - Metrics and Learning
-- Practical Techniques and Tooling
 - Forecasting
 - Operational Practices
 - Pragmatic Thinking
+- Practical Techniques and Tooling
 - Value Delivery
 - Decision Making
 - Estimation

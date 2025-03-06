@@ -27,9 +27,9 @@ isShort: false
 tags:
 - Estimation
 - Forecasting
+- Decision Theory
 - Software Development
 - Decision Making
-- Decision Theory
 - Pragmatic Thinking
 - Product Delivery
 sitemap:
@@ -38,8 +38,8 @@ sitemap:
 resourceTypes:
 - video
 categories:
-- Engineering Excellence
 - Product Management
+- Engineering Excellence
 - Social Technologies
 
 ---

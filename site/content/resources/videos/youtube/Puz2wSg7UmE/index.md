@@ -40,7 +40,6 @@ resourceTypes:
 - video
 categories:
 - Product Management
-- DevOps
 - Engineering Excellence
 
 ---

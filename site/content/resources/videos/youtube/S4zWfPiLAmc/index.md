@@ -40,9 +40,9 @@ tags:
 - Empirical Process Control
 - Evidence Based Leadership
 - Evidence Based Management
-- Flow Efficiency
 - Practical Techniques and Tooling
 - Agile Project Management
+- Decision Making
 resourceTypes:
 - video
 categories:

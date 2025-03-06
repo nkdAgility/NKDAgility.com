@@ -39,8 +39,8 @@ tags:
 - Agile Frameworks
 - Agile Project Management
 - Operational Practices
-- Pragmatic Thinking
 - Flow Efficiency
+- Pragmatic Thinking
 - Software Development
 resourceTypes:
 - video

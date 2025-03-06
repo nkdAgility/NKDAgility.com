@@ -32,6 +32,7 @@ sitemap:
 tags:
 - Lean Principles
 - Operational Practices
+- Metrics and Learning
 resourceTypes:
 - video
 categories:

@@ -1081,12 +1081,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-12T05:57:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:28:04",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses continuous integration and continuous delivery (CI/CD) practices, which are central to the methodologies and practices involved in product delivery. It elaborates on the importance of mainline branching, the role of CI/CD in reducing integration problems, and strategies for effective deployment, aligning well with the key topics of the category.",
-    "level": "Secondary"
+    "final_score": 85.0,
+    "reasoning": "The content extensively discusses CI/CD practices, which are integral to product delivery. It covers the importance of continuous integration and delivery, mainline branching, and deployment strategies, aligning closely with the core themes of the category. The depth of discussion is significant, providing detailed insights into how these practices can enhance product delivery efficiency and quality. Overall, the content is highly relevant and focused on the methodologies and practices involved in delivering software products.",
+    "level": "Primary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1171,12 +1174,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T05:57:30",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-06T13:28:01",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 38,
+    "ai_depth": 36,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses Continuous Integration (CI) and Continuous Delivery (CD), which are core principles of DevOps. It elaborates on the importance of mainline branching, the role of automation in deployment, and the cultural shifts necessary for effective CI/CD practices. The focus on real-world examples and recommendations for implementing CI/CD further solidifies its alignment with the DevOps category.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses Continuous Integration (CI) and Continuous Delivery (CD), which are core principles of DevOps. It provides detailed insights into the importance of mainline branching, the distinction between CI/CD and automated builds, and the cultural shifts necessary for effective implementation. The author also references real-world examples, such as Google's mono repo approach and Microsoft's deployment strategies, which align with the DevOps focus on collaboration and efficiency. Overall, the content is highly relevant to the DevOps category, with a strong emphasis on its principles and practices.",
+    "level": "Primary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",

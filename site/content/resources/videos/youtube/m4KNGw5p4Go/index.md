@@ -38,7 +38,7 @@ tags:
 - Product Validation
 - Value Delivery
 - Continuous Learning
-- Lean Product Development
+- Agile Product Management
 resourceTypes:
 - video
 categories:

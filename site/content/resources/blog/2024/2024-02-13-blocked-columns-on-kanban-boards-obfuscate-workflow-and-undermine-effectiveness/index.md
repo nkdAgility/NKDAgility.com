@@ -35,11 +35,10 @@ tags:
 - Software Development
 - Agile Frameworks
 - Agile Project Management
-- Lean
 - Operational Practices
+- Pragmatic Thinking
 categories:
 - Kanban
-- Social Technologies
 preview: NKDAgility-technically-BlockedColumns-7-7.jpg
 
 ---

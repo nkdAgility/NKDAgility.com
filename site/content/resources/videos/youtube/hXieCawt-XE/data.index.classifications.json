@@ -82,11 +82,14 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T13:13:52",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-06T13:46:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content primarily discusses Kanban and its implementation, with some references to Scrum. While it touches on workflow management, it does not focus on the strategic aspects of product management or the methodologies that guide product managers in making informed decisions.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Kanban and its implementation, discussing workflow efficiency and management techniques. While it briefly touches on Scrum, the main emphasis is on Kanban practices rather than the strategic aspects of product management. The discussion lacks depth in terms of aligning customer needs, business objectives, or technical capabilities, which are core themes of product management. Therefore, it does not fully meet the criteria for this category.",
     "level": "Quaternary"
   },
   "Agile Leadership": {
@@ -1027,11 +1030,14 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-12T06:33:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:46:49",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of a Kanban strategy, which is a Lean tool aimed at improving workflow efficiency and reducing waste. It covers key Lean concepts such as visualising workflow, managing work in progress (WIP), and identifying wait states, all of which align closely with Lean principles.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses Kanban extensively, which is a Lean tool, and touches on concepts such as workflow visualisation, WIP limits, and waste reduction. It aligns well with Lean principles, particularly in the context of continuous improvement and the identification of bottlenecks in processes. However, while it mentions Lean concepts, the primary focus is on Kanban rather than Lean as a whole, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Resilience and Change": {

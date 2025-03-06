@@ -25,7 +25,6 @@ categories:
 - Scrum
 - Social Technologies
 tags:
-- People and Process
 - Scrum Master
 - Scrum Team
 - Professional Scrum
@@ -33,6 +32,7 @@ tags:
 - Team Performance
 - Agile Frameworks
 - Agile Project Management
+- People and Process
 - Self Organisation
 - Software Development
 

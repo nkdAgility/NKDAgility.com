@@ -334,11 +334,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T20:29:29",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-06T13:29:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses DevOps migrations, which is a significant aspect of software development practices, particularly in relation to data integrity and the migration process. However, it primarily focuses on the specifics of data handling rather than broader software development methodologies or practices.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses DevOps migrations, which is a relevant aspect of software development, particularly in the context of continuous integration and deployment practices. However, while it touches on data integrity and migration processes, it lacks a detailed exploration of methodologies or best practices in software development. The focus is more on the practical aspects of data handling during migrations rather than a comprehensive discussion of software development principles or frameworks.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -1171,11 +1174,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T20:28:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:29:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the challenges and considerations involved in migrating data within a DevOps context, specifically focusing on the balance between data fidelity and flexibility during the migration process. It addresses tools and processes relevant to DevOps migrations, making it a central theme.",
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses DevOps migrations, which is a core aspect of DevOps practices. It addresses the integration of data integrity within the migration process, highlighting the balance between fidelity and flexibility, which aligns with the principles of continuous delivery and the role of automation in DevOps. The discussion provides a moderate level of detail about the challenges and considerations involved in migrating data within a DevOps context, although it could benefit from deeper exploration of tools and metrics related to DevOps success.",
     "level": "Secondary"
   },
   "Azure DevOps": {

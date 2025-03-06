@@ -775,11 +775,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-12T17:27:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:27:53",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of quality engineering and the shift left concept, which aligns closely with principles of software craftsmanship and quality assurance.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the concept of 'shift left' in quality assurance, which aligns with the principles of software craftsmanship and quality assurance. It highlights the importance of integrating quality early in the development process, reflecting best practices in coding and testing methodologies. However, while it touches on key themes, the discussion lacks depth and does not extensively cover other aspects of engineering excellence, such as CI/CD practices or technical debt management.",
     "level": "Secondary"
   },
   "Digital Transformation": {
@@ -1153,12 +1156,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T17:24:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:27:56",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of quality engineering and the shift left concept, which aligns closely with engineering practices that enhance software quality and delivery processes.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the concept of 'shift left' in software development, which aligns with the principles of integrating quality assurance early in the development cycle. This is relevant to Technical Excellence as it touches on enhancing code quality and reliability. However, the discussion lacks depth and does not explicitly mention other key topics such as TDD, CI/CD, or modular architecture, which are crucial for a higher confidence score. The focus is primarily on the concept of shift left, making it a secondary rather than a primary focus on Technical Excellence.",
+    "level": "Tertiary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",

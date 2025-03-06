@@ -24,8 +24,8 @@ preview: https://i.ytimg.com/vi/qpo4Ru1VVZE/maxresdefault.jpg
 duration: 174
 isShort: false
 tags:
-- Azure DevOps
 - Software Development
+- Azure DevOps
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml

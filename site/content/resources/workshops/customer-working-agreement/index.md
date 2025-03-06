@@ -30,15 +30,15 @@ categories:
 - Product Management
 tags:
 - Transparency and Accountability
-- Agile Product Management
 - People and Process
-- Product Delivery
 - Scrum Product Development
 - Working Agreements
 - Agile Frameworks
 - Agile Planning
 - Agile Project Management
 - Professional Scrum
+- Software Development
+- Transparency
 
 ---
 ## Customer Working Agreement

@@ -1027,12 +1027,15 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-12T06:00:46",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-06T13:48:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses Kanban, which is a Lean methodology, and touches on principles of process optimisation and waste identification. However, it primarily focuses on the transition from traditional project management to Kanban rather than a broader discussion on Lean principles.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses Kanban, which is a Lean methodology, and touches on aspects of process optimisation and waste identification. However, it primarily focuses on the transition from traditional project management to Kanban without deeply exploring Lean principles or methodologies beyond Kanban. While it mentions the importance of data and metrics in improving processes, it lacks a broader discussion on Lean concepts such as value stream mapping or the Seven Wastes. Therefore, while there is a clear connection to Lean, the depth and breadth of the discussion are limited.",
+    "level": "Tertiary"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -1207,11 +1210,14 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-12T06:01:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T13:48:49",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the Kanban strategy, its principles, and how it can be applied in transitioning from traditional project management. It emphasises visualisation of work, metrics, and continuous improvement, aligning well with Kanban practices.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily discusses the Kanban methodology, focusing on its principles, such as visualising work, collecting metrics, and optimising workflow without requiring immediate changes to existing processes. It explicitly mentions Kanban multiple times and explains its advantages over traditional project management and Scrum. The depth of discussion is significant, covering practical applications and the importance of data analysis in identifying workflow issues. However, there are brief references to Scrum, which slightly detracts from the overall focus on Kanban.",
     "level": "Secondary"
   },
   "Value Delivery": {

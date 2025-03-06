@@ -25,11 +25,11 @@ preview: https://i.ytimg.com/vi/DSIXtHZTirA/maxresdefault.jpg
 duration: 704
 isShort: false
 tags:
+- Product Delivery
 - Pragmatic Thinking
 - Azure DevOps
 - Continuous Delivery
 - People and Process
-- Product Delivery
 - Working Software
 - Deployment Frequency
 - Deployment Strategies
@@ -41,7 +41,6 @@ sitemap:
 resourceTypes:
 - video
 categories:
-- Engineering Excellence
 - DevOps
 
 ---

@@ -3,6 +3,9 @@
 
 $batchesInProgress = $null;
 $batchesInProgressMax = 40;
+$watermarkScoreLimit = 20
+$watermarkCount = 1
+
 function Get-CatalogHashtable {
     param (
         [string]$FolderPath = "site\content",
@@ -82,42 +85,28 @@ function Get-CategoryConfidenceWithChecksum {
     if (Test-Path $cacheFile) {
         # Load from cache
         try {
-            $cachedData = Get-Content $cacheFile | ConvertFrom-Json -ErrorAction Stop
+            $cachedData = Get-Content $cacheFile | ConvertFrom-Json -AsHashtable -ErrorAction Stop
         }
         catch {
             Write-WarningLog "Warning: Cache file corrupted. Resetting cache."
             $cachedData = @{}
         }
-        Write-DebugLog "Cache Contains: $(($cachedData.PSObject.Properties.Count | Measure-Object).count) items"
+        Write-DebugLog "Cache Contains: $($cachedData.count) items"
         # Remove items that are not in catalogue            
-        $keysToRemove = $cachedData.PSObject.Properties.Name | Where-Object { $_ -notin $catalog_full.Keys }
+        $keysToRemove = $cachedData.keys | Where-Object { $_ -notin $catalog_full.Keys }
         if ( $keysToRemove.Count -gt 0) {
             # If there are keys to remove, remove them and update the cache
             Write-DebugLog "     Remove: $($keysToRemove.Count) items not found in catalog"
             foreach ($key in $keysToRemove) {
-                $cachedData.PSObject.Properties.Remove($key)
+                $cachedData.Remove($key)
             }
             Write-DebugLog "  Removed {expiredCount} Invalid Items" -PropertyValues $keysToRemove.Count
-            $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
+            $cachedData | ConvertTo-Json -Depth 10 | Set-Content -Path $cacheFile -Force
         }           
-        # Check if the cache is up to date
-        $expiredCount = 0
-        foreach ($key in $cachedData.PSObject.Properties) {
-            $entry = $key.Value
-            if ((-not $entry.calculated_at) -or ([DateTimeOffset]$entry.calculated_at) -lt ([DateTimeOffset]$catalog_full[$key.Name].date)) {
-                Write-DebugLog "Cache is out of date for $($key.Name). Removing."
-                $cachedData.PSObject.Properties.Remove($key.Name)
-                $expiredCount++
-            }
-        }
-        if ($expiredCount -gt 0) {
-            Write-DebugLog "  Removed {expiredCount} Expired Items" -PropertyValues $expiredCount
-            $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
-        }
         # Check if the cache uses the latest calculations
         $recalculatedCount = 0
-        foreach ($key in $cachedData.PSObject.Properties) {
-            $entry = $key.Value
+        foreach ($key in $cachedData.keys) {
+            $entry = $cachedData[$key]
             $finalScore = Get-ComputedConfidence -aiConfidence $entry.ai_confidence -nonAiConfidence $entry.non_ai_confidence
             $level = Get-ComputedLevel -confidence $finalScore
 
@@ -125,12 +114,12 @@ function Get-CategoryConfidenceWithChecksum {
                 $entry.final_score = $finalScore
                 $entry.level = $level
                 # Add calculated_at if it doesn't exist
-                if (-not ($entry.PSObject.Properties.Name -contains 'calculated_at')) {
-                    $entry | Add-Member -MemberType NoteProperty -Name 'calculated_at' -Value (Get-Date).ToUniversalTime().ToString("s")
+                if (-not ($entry.ContainsKey('calculated_at'))) {
+                    $entry.Insert(1, 'calculated_at', (Get-Date).ToUniversalTime().ToString("s"))
                 }
                 $entry.calculated_at = (Get-Date).ToUniversalTime().ToString("s")                
                 # Update cache
-                $cachedData.($key.name) = $entry
+                $cachedData[$key] = $entry
                 $recalculatedCount++
             }
         }
@@ -167,14 +156,14 @@ function Get-CategoryConfidenceWithChecksum {
                         continue
                     }
                     $newEntry = Get-ConfidenceFromAIResponse -AIResponseJson $aiResponseJson -ResourceTitle $ResourceTitle -ResourceContent $ResourceContent
-                    if ($cachedData.PSObject.Properties[$newEntry.category]) {
+                    if ($cachedData.ContainsKey($newEntry.category)) {
                         $oldEntry = $cachedData.($newEntry.category)
                         if ([System.DateTimeOffset]$oldEntry.calculated_at -gt $newEntry.calculated_at) {
-                            $cachedData.$newEntry.category = $newEntry
+                            $cachedData[$newEntry.category] = $newEntry
                         }
                     }
                     else {
-                        $cachedData | Add-Member -MemberType NoteProperty -Name $newEntry.category -Value $newEntry 
+                        $cachedData.Add($newEntry.category, $newEntry )
                     }
                 }
 
@@ -206,28 +195,28 @@ function Get-CategoryConfidenceWithChecksum {
     #================/CACHE====================
     #==========================================
 
-    # Build Scores from cache and missings
-    $categoryScores = @{}
-    $categoryMissing = @{}
-    $count = 0;
-    $total = $catalog.Keys.Count
-    foreach ($category in $catalog.Keys) {
-        Write-DebugLog "Processing classification [$count/$total] $category | $(($count / $total) * 100)%"
-        #Write-Progress -Id 2 -ParentId 1 -Activity "Classification of $ClassificationType" -Status "Processing classification $count of $total '$category'" -PercentComplete (($count / $total) * 100)
-        $count++
-        if ($cachedData.PSObject.Properties[$category]) {            
-            $categoryScores[$category] = $cachedData.$category      
-        }
-        else {
-            $categoryMissing[$category] = $category
-        }
-    }
+    #Find items from the catalogue that we have.
+    $CatalogFromCache = @{}; $cachedData.Keys | Where-Object { $catalog.ContainsKey($_) } | ForEach-Object { $CatalogFromCache[$_] = $cachedData[$_] }
 
-    if ($categoryMissing.Count -gt 0 -and $batchStatus -eq $null -and $updateMissing) {
+    # Find items from the catalogue that we don't have.
+    $CatalogItemsToRefreshOrGet = @($catalog.Keys | Where-Object { $_ -notin $cachedData.Keys })
+    # Find items from the CatalogFromCache that are out of date.
+    $CatalogItemsToRefreshOrGet = @($CatalogItemsToRefreshOrGet) + @($CatalogFromCache.Values | Where-Object {
+        (-not $_.calculated_at) -or ([DateTimeOffset]$_.calculated_at -lt [DateTimeOffset]$catalog_full[$_.category].date)
+        } | Select-Object -ExpandProperty category)
+    $waterMarkRefresh = $CatalogItemsToRefreshOrGet.Count - $watermarkCount
+    if ($waterMarkRefresh -le 0) {
+        $waterMarkRefresh = [math]::Abs($waterMarkRefresh)
+        # Find items from CatalogFromCache that are older than the watermark date and have a final_score > watermarkScoreLimit
+        $CatalogItemsToRefreshOrGet = @($CatalogItemsToRefreshOrGet) + @($CatalogFromCache.Values | Where-Object { $_.final_score -gt $watermarkScoreLimit } | Sort-Object { [DateTimeOffset]$_.calculated_at } | Select-Object -ExpandProperty category | Select-Object -First $waterMarkRefresh)
+    }
+    Write-InformationLog "   Refreshing {CatalogItemsToRefreshOrGet} items from the Catalogue" -PropertyValues $CatalogItemsToRefreshOrGet.Count
+
+    if ($CatalogItemsToRefreshOrGet.Count -gt 0 -and $batchStatus -eq $null -and $updateMissing) {
       
         # Build prompts for missing items
         $prompts = @()
-        foreach ($category in $categoryMissing.Keys) {
+        foreach ($category in $CatalogItemsToRefreshOrGet) {
             $prompt = @"
                 You are an AI expert in content classification. Evaluate how well the given content aligns with the category **"$category"**. 
 
@@ -302,9 +291,10 @@ function Get-CategoryConfidenceWithChecksum {
                 $aiResponseJson = Get-OpenAIResponse -Prompt $prompt
                 $result = Get-ConfidenceFromAIResponse -AIResponseJson $aiResponseJson -ResourceTitle $ResourceTitle -ResourceContent $ResourceContent
                 if ($result.reasoning -ne $null -and $result.category -ne "unknown") {
-                    Write-InformationLog "Updating {category} with new confidence of {confidence} " -PropertyValues $result.category, $result.ai_confidence
-                    $categoryScores[$result.category] = $result 
-                    $cachedData | Add-Member -MemberType NoteProperty -Name $result.category -Value $result -Force
+                    $oldConfidence = $cachedData[$result.category]?.ai_confidence ?? 0
+                    Write-InformationLog "Updating {category} with confidence of {old} to new confidence of {confidence} " -PropertyValues $result.category, $oldConfidence, $result.ai_confidence
+                    $CatalogFromCache[$result.category] = $result
+                    $cachedData[$result.category] = $result
                     # Save cache after each API call
                     $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
                 }
@@ -321,7 +311,7 @@ function Get-CategoryConfidenceWithChecksum {
     #==========================================
     #=================return===================
     #==========================================
-    $finalSelection = Get-FinalSelection -categoryScores $categoryScores
+    $finalSelection = Get-FinalSelection -categoryScores $CatalogFromCache
     return $finalSelection | Sort-Object final_score -Descending | ConvertTo-Json -Depth 2
     #==========================================
     #================/return===================
@@ -492,7 +482,7 @@ function Remove-ClassificationsFromCache {
 
     # Load the cache data
     try {
-        $cachedData = Get-Content $cacheFile | ConvertFrom-Json -ErrorAction Stop
+        $cachedData = Get-Content $cacheFile | ConvertFrom-Json -AsHashtable -ErrorAction Stop
     }
     catch {
         Write-WarningLog "Cache file is corrupted or unreadable. Unable to process."
@@ -503,9 +493,9 @@ function Remove-ClassificationsFromCache {
 
     # Iterate through each classification to remove
     foreach ($classification in $ClassificationsToRemove) {
-        if ($cachedData.PSObject.Properties[$classification]) {
+        if ($cachedData.ContainsKey($classification)) {
             # Remove the classification from cache
-            $cachedData.PSObject.Properties.Remove($classification)
+            $cachedData.Remove($classification)
             $removedCount++
             Write-Host "Removed classification '$classification' from cache."
         }
@@ -516,7 +506,7 @@ function Remove-ClassificationsFromCache {
 
     # Save the updated cache if any classifications were removed
     if ($removedCount -gt 0) {
-        $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
+        $cachedData | ConvertTo-Json -Depth 10 | Set-Content -Path $cacheFile -Force
         Write-Host "Cache file updated successfully with $removedCount removals."
     }
     else {
@@ -542,7 +532,7 @@ function Remove-ClassificationsFromCacheThatLookBroken {
 
     # Load the cache data
     try {
-        $cachedData = Get-Content $cacheFile | ConvertFrom-Json -ErrorAction Stop
+        $cachedData = Get-Content $cacheFile | ConvertFrom-Json -AsHashtable -ErrorAction Stop
     }
     catch {
         Write-WarningLog "Cache file is corrupted or unreadable. Unable to process."
@@ -553,11 +543,11 @@ function Remove-ClassificationsFromCacheThatLookBroken {
 
     # Iterate through each classification to remove
     foreach ($classification in $ClassificationCatalog.Keys) {
-        if ($cachedData.PSObject.Properties[$classification]) {
-            $classificationData = $cachedData.PSObject.Properties[$classification].Value
+        if ($cachedData.ContainsKey($classification)) {
+            $classificationData = $cachedData[$classification]
             if ($classificationData.reasoning -eq $null) {
                 # Remove the classification from cache
-                $cachedData.PSObject.Properties.Remove($classification)
+                $cachedData.Remove($classification)
                 $removedCount++
                 Write-Host "Removed classification '$classification' from cache."
             } 

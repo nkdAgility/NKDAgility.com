@@ -39,7 +39,7 @@ tags:
 - Evidence Based Management
 - Pragmatic Thinking
 - Value Delivery
-- Coaching
+- Agile Product Management
 resourceTypes:
 - video
 categories:
