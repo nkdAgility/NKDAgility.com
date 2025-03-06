@@ -2,7 +2,7 @@
 title: Navigating the Complex World of Azure DevOps Data Migration
 description: Discover essential insights for Azure DevOps migration! Learn about common pitfalls, best practices, and expert tips to ensure a smooth transition.
 date: 2024-07-31T12:00:49Z
-weight: 770
+weight: 715
 ResourceId: 3jYFD-6_kZk
 ResourceType: videos
 ResourceImport: true
@@ -28,11 +28,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Azure DevOps
+- Practical Techniques and Tooling
 - Install and Configuration
 - Troubleshooting
-- Azure DevOps
 - System Configuration
-- Practical Techniques and Tooling
 - Pragmatic Thinking
 - Software Development
 - Technical Mastery

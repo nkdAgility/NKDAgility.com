@@ -496,11 +496,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-12T20:17:05",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-06T14:42:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses issues related to incomplete migrations and the need for planning and resolving potential problems during the migration process, making troubleshooting a significant theme.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the challenges and considerations involved in cloud migration, particularly addressing fears of incomplete data transfers and the need for planning to avoid issues. It mentions specific troubleshooting steps, such as consulting with Microsoft support when problems arise, which aligns well with the troubleshooting category. However, while it touches on troubleshooting aspects, the primary focus is on migration strategies rather than a systematic approach to diagnosing and resolving technical issues, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Increment": {
@@ -550,11 +553,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T20:17:13",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T15:43:39",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical problem-solving strategies related to DevOps migrations, emphasising real-world applications and the importance of planning and communication in complex environments.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses practical strategies for cloud migration, emphasising real-world applications and problem-solving techniques. It highlights the importance of planning and communication with Microsoft support, which aligns well with the core themes of Pragmatic Thinking. The author shares personal experiences and insights, demonstrating adaptability and critical thinking in navigating migration challenges. The depth of discussion is substantial, providing specific examples and considerations that reflect a pragmatic approach to complex environments.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -1174,14 +1180,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-06T13:29:06",
+    "calculated_at": "2025-03-06T14:42:51",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 30,
     "final_score": 32.0,
-    "reasoning": "The content discusses cloud migration and mentions Azure DevOps, which is related to DevOps practices. However, the primary focus is on the migration process itself rather than the principles, practices, or cultural aspects of DevOps. While there are elements of planning and tooling that touch on DevOps, the discussion lacks depth in terms of DevOps principles like CI/CD, automation, or team collaboration, leading to a lower confidence score.",
+    "reasoning": "The content discusses cloud migration and mentions Azure DevOps, which is related to DevOps practices. However, the primary focus is on the migration process itself rather than the principles, practices, or cultural aspects of DevOps. While there are elements of planning and tooling that align with DevOps, the discussion lacks depth in terms of DevOps principles like CI/CD, automation, or collaboration between teams.",
     "level": "Quaternary"
   },
   "Azure DevOps": {

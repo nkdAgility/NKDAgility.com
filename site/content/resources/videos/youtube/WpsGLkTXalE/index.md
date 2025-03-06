@@ -34,7 +34,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Leadership
 - Product Management
 - Social Technologies
 

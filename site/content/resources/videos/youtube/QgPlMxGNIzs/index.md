@@ -38,7 +38,7 @@ tags:
 - Agile Philosophy
 - Agile Strategy
 - Agile Transformation
-- Enterprise Agility
+- Market Adaptability
 resourceTypes:
 - video
 categories:

@@ -32,12 +32,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Professional Scrum
 - Scrum Master
 - Scrum Team
 - Agile Frameworks
 - Agile Project Management
-- People and Process
 - Software Development
 - Accountability
 resourceTypes:

@@ -2,7 +2,7 @@
 title: 'Transforming Waste into Value: How to Boost ROI with Agile Metrics'
 description: Uncover the hidden waste in your organisation! Learn how DORA metrics can boost innovation and ROI while embracing agility for better value.
 date: 2024-12-17T06:00:00Z
-weight: 405
+weight: 395
 ResourceId: Gym5-p-mNtw
 ResourceType: videos
 ResourceImport: true
@@ -28,13 +28,13 @@ tags:
 - Metrics and Learning
 - Operational Practices
 - Pragmatic Thinking
+- Organisational Agility
 - Agile Product Management
 - Agile Product Operating Model
 - Business Agility
+- Market Adaptability
 - People and Process
 - Ability to Innovate
-- Agile Philosophy
-- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -42,8 +42,8 @@ resourceTypes:
 - video
 categories:
 - Engineering Excellence
-- Product Management
 - Social Technologies
+- Product Management
 
 ---
 Most organisations are blissfully unaware of the sheer amount of waste lurking within their systems. It’s staggering to think about the money they’re haemorrhaging simply because they lack a focus on engineering excellence. In the context of agile and business agility, we need to embrace a continuous mindset—continuous integration, continuous delivery, continuous feedback, and continuous testing. This dynamic nature of operations allows us to identify problems sooner, which means they’re smaller and easier to address. By doing so, we not only eliminate waste but also gather valuable data and telemetry that help us understand our processes better. This understanding is crucial for pinpointing problem areas and taking action before costs spiral out of control.

@@ -30,12 +30,12 @@ aliasesArchive:
 tags:
 - Business Agility
 - Agile Strategy
-- Enterprise Agility
 - Organisational Agility
 - Organisational Culture
 - People and Process
 - Pragmatic Thinking
 - Strategy
+- Enterprise Agility
 - Discovery and Learning
 - Market Adaptability
 categories:

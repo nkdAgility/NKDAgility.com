@@ -45,6 +45,7 @@ resourceTypes:
 - video
 categories:
 - Leadership
+- Product Management
 
 ---
 # Conquering Famine in Agile Organizations: A Blueprint for Success 🚀

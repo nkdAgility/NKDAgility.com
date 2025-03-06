@@ -2,7 +2,7 @@
 title: 'Unlocking Success: How Small Experiments Transformed Feature Delivery from 25 to 150 in Software Development'
 description: Discover how embracing smaller features and a culture of experimentation can transform your software development process, boosting delivery from 25 to 150 features annually!
 date: 2024-11-20T08:02:36Z
-weight: 775
+weight: 810
 ResourceId: WEYf9jWG9wk
 ResourceType: videos
 ResourceImport: true
@@ -29,10 +29,10 @@ isShort: true
 tags:
 - Discovery and Learning
 - Hypothesis Driven Development
-- Value Delivery
 - Continuous Learning
 - Experimentation
 - Pragmatic Thinking
+- Value Delivery
 - Business Agility
 - Lean Product Development
 - Product Discovery

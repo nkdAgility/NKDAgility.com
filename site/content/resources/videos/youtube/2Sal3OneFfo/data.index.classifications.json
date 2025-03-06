@@ -73,14 +73,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-06T13:36:25",
+    "calculated_at": "2025-03-06T14:47:58",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 50.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 50,
     "final_score": 65.0,
-    "reasoning": "The content discusses migration services related to Azure DevOps, which is a key tool in the DevOps ecosystem. It mentions specific tools and services that facilitate collaboration and productivity, aligning with the principles of DevOps. However, the discussion lacks depth regarding broader DevOps practices, cultural shifts, or metrics, which limits its overall alignment with the category.",
+    "reasoning": "The content discusses migration tools related to Azure DevOps, which is a key aspect of DevOps practices. However, it lacks a broader discussion on DevOps principles, cultural shifts, or automation, focusing instead on specific tools without delving into their impact on collaboration or efficiency. The mention of migration services indicates relevance, but the overall depth and alignment with core DevOps themes are limited.",
     "level": "Secondary"
   },
   "Install and Configuration": {
@@ -160,11 +160,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T12:15:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:48:01",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses migration services related to Azure DevOps, specifically mentioning the Azure DevOps data migration tool and its functionalities, which aligns well with the category's focus.",
+    "final_score": 67.0,
+    "reasoning": "The content explicitly discusses migration services related to Azure DevOps, particularly mentioning the Azure DevOps data migration tool. This indicates a direct mention of Azure DevOps, contributing positively to the confidence score. The discussion aligns with the core themes of Azure DevOps, focusing on tools and services that facilitate collaboration and productivity. However, the depth of discussion is somewhat limited as it primarily revolves around migration without delving into broader functionalities or best practices of Azure DevOps. Overall, the content is relevant and provides a good level of detail, justifying a relatively high confidence score.",
     "level": "Secondary"
   },
   "Technical Excellence": {

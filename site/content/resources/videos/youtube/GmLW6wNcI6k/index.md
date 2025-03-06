@@ -31,10 +31,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Discovery and Learning
 - People and Process
 - Complexity Thinking
 - Pragmatic Thinking
+- Discovery and Learning
 - Business Agility
 - Agile Philosophy
 - Empirical Process Control

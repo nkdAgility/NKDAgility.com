@@ -2,7 +2,7 @@
 title: 'Mastering Azure DevOps: Avoiding Common Pitfalls for Agile Success'
 description: Unlock the secrets to optimising Azure DevOps! Discover common pitfalls and expert insights to enhance your agile practices and boost team productivity.
 date: 2024-04-09T08:00:20Z
-weight: 770
+weight: 715
 ResourceId: jcs-2G99Rrw
 ResourceType: videos
 ResourceImport: true
@@ -24,11 +24,11 @@ preview: https://i.ytimg.com/vi/jcs-2G99Rrw/maxresdefault.jpg
 duration: 2034
 isShort: false
 tags:
+- Azure DevOps
+- Practical Techniques and Tooling
 - Product Delivery
 - One Engineering System (1ES)
-- Azure DevOps
 - Azure Boards
-- Practical Techniques and Tooling
 - Pragmatic Thinking
 - Software Developers
 - Software Development

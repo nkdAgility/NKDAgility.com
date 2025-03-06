@@ -37,8 +37,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Kanban
+- Social Technologies
 
 ---
 ### Understanding and Applying Kanban: The Professional Kanban Course

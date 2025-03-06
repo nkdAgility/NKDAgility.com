@@ -29,8 +29,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Values and Principles
 - People and Process
+- Agile Values and Principles
 - Agile Philosophy
 - Team Collaboration
 - Team Motivation
@@ -38,7 +38,6 @@ tags:
 resourceTypes:
 - video
 categories:
-- Product Management
 - Leadership
 - Social Technologies
 

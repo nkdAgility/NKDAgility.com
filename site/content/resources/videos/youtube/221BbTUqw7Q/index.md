@@ -39,9 +39,9 @@ tags:
 - Software Development
 - Empirical Process Control
 - Pragmatic Thinking
+- Agile Product Management
 - Scrum Product Development
 - Scrum Team
-- Agile Product Management
 resourceTypes:
 - video
 layout: video

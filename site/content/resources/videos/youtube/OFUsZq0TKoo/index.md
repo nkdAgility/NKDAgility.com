@@ -25,15 +25,6 @@ duration: 269
 isShort: false
 tags:
 - Discovery and Learning
-- Lean Product Development
-- People and Process
-- Product Discovery
-- Evidence Based Leadership
-- Hypothesis Driven Development
-- Pragmatic Thinking
-- Product Validation
-- Value Delivery
-- Continuous Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -42,6 +33,7 @@ resourceTypes:
 - video
 categories:
 - Product Management
+- Social Technologies
 
 ---
 As I reflect on my journey in product development, I can’t help but think about the transformative power of structured learning. Recently, I had the opportunity to delve into a course that promises to change the game for anyone involved in product development. I want to share my insights on how this course can significantly enhance your approach to creating user value, reducing waste, and fostering collaboration.

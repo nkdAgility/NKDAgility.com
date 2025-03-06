@@ -31,7 +31,6 @@ sitemap:
 tags:
 - Agile Product Management
 - People and Process
-- Product Delivery
 - Product Owner
 - Product Validation
 - Value Delivery
@@ -39,6 +38,7 @@ tags:
 - Product Discovery
 - Product Strategy
 - Agile Strategy
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

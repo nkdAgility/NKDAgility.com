@@ -26,12 +26,12 @@ duration: 237
 isShort: false
 tags:
 - Accountability
+- Professional Scrum
 - People and Process
 - Scrum Master
 - Scrum Team
 - Agile Product Management
 - Pragmatic Thinking
-- Professional Scrum
 - Team Collaboration
 - Team Performance
 - Technical Leadership

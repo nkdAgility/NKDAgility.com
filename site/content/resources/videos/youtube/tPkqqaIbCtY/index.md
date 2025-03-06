@@ -34,15 +34,14 @@ tags:
 - Customer Retention
 - Customer Satisfaction
 - Miscellaneous
-- Personal
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Product Management
+categories: []
 
 ---
 In my journey through the world of product development, I've often found myself reflecting on the relationship between our products and the users who engage with them. It's a dynamic that can make or break the success of what we create. Today, I want to share some insights on how we can foster a more benevolent relationship with our users, ensuring that they see our products not as burdens or cost centres, but as valuable tools that empower them.

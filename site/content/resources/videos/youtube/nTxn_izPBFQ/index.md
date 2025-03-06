@@ -31,10 +31,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Product Management
 - Product Owner
 - Agile Project Management
 - People and Process
+- Agile Product Management
 - Agile Leadership
 - Agile Product Operating Model
 - Scrum Product Development

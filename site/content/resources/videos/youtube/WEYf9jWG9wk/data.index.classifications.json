@@ -931,12 +931,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T12:02:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T14:42:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transformation of feature delivery through experimentation, which relates to continuous improvement and the quality of deliverables, but it primarily focuses on the process rather than specific engineering practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the transformation of feature delivery through experimentation, which indirectly relates to engineering excellence by highlighting the importance of iterative improvement and responsiveness to customer feedback. However, it lacks explicit mentions of software craftsmanship principles, coding standards, or best practices in engineering processes. The focus is more on the outcomes of experimentation rather than the underlying engineering practices that ensure quality and excellence.",
+    "level": "Quaternary"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -1069,11 +1072,14 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-13T19:52:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:42:12",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 38.0,
+    "ai_depth": 34.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of experimentation in enhancing feature delivery and adapting to customer feedback, which aligns closely with the principles of discovery and learning in product development.",
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the process of conducting small experiments to enhance feature delivery, which aligns well with the category's focus on experimentation and learning. It highlights the importance of adapting based on customer feedback and iterating on ideas, which are core themes of discovery and learning. However, while the discussion is relevant, it lacks a deeper exploration of methodologies or frameworks that support these processes, resulting in a slightly lower depth score.",
     "level": "Secondary"
   },
   "Practical Techniques and Tooling": {
@@ -1150,11 +1156,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-13T19:52:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T15:43:26",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the impact of small experiments on feature delivery and how this iterative approach enhances customer resonance, aligning closely with value delivery principles.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the transformation of feature delivery through small experiments, which aligns with the principles of iterative development and incremental delivery. It highlights the importance of customer feedback and adapting to what resonates with users, reflecting a conceptual alignment with value delivery. However, the discussion lacks depth in terms of specific methodologies or frameworks like Agile or Lean, and it does not explicitly mention value delivery practices, which affects the overall confidence score.",
     "level": "Secondary"
   },
   "Metrics and Learning": {

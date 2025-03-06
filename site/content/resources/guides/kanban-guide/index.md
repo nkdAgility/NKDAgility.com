@@ -18,7 +18,7 @@ recommendedContent:
 - collection: practices
   path: _practices/service-level-expectation-sle.md
 date: 2024-09-17
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 card:
   button:
@@ -29,6 +29,7 @@ categories:
 - Kanban
 - Social Technologies
 tags:
+- Flow Efficiency
 - Lean
 - Operational Practices
 

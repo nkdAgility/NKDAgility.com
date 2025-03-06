@@ -33,11 +33,11 @@ tags:
 - Scrum Product Development
 - Scrum Team
 - Transparency and Accountability
-- Agile Product Management
 - Professional Scrum
 - Scrum Master
 - Team Collaboration
 - Team Performance
+- Agile Frameworks
 resourceTypes:
 - video
 layout: video

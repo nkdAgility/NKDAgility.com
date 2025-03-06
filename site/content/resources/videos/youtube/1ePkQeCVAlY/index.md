@@ -32,11 +32,11 @@ tags:
 - Value Delivery
 - Value Stream Management
 - Complexity Thinking
-- Lean
 - Lean Principles
 - Lean Thinking
 - Operational Practices
 - Organisational Physics
+- Pragmatic Thinking
 resourceTypes:
 - video
 layout: video

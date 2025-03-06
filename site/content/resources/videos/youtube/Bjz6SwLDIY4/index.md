@@ -29,21 +29,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Resilience and Change
 - Business Agility
 - Organisational Agility
 - Organisational Change
 - People and Process
-- Resilience and Change
 - Change Management
-- Enterprise Agility
 - Market Adaptability
 - Agile Philosophy
 - Beta Codex
+- Enterprise Agility
 resourceTypes:
 - video
 categories:
-- Leadership
 - Product Management
+- Leadership
 - Social Technologies
 
 ---

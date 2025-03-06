@@ -29,11 +29,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Operational Practices
 - Flow Efficiency
+- Operational Practices
+- Practical Techniques and Tooling
 - Metrics and Learning
 - People and Process
-- Practical Techniques and Tooling
 - Value Delivery
 - Agile Frameworks
 - Agile Project Management

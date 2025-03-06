@@ -334,20 +334,26 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T12:52:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T15:47:06",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Azure DevOps migration, which is a key aspect of software development practices, including version control and project management methodologies.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses Azure DevOps migrations, which is a key aspect of software development practices, particularly in the context of version control and collaborative development. It provides detailed insights into the reasons for migrations, the challenges faced, and the solutions offered, aligning well with the core themes of software development methodologies and practices. The depth of discussion on migration processes and the implications for software quality and maintenance further supports a high confidence score.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T12:30:30",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-06T14:50:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses Azure DevOps migrations and the challenges involved, but it primarily focuses on the reasons for migration and the process rather than on engineering excellence principles, best practices, or continuous improvement in software craftsmanship.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses Azure DevOps migrations, touching on aspects of software development practices and the importance of maintaining modern environments. However, it lacks a direct focus on engineering excellence principles, such as coding standards or CI/CD practices. While it mentions the need for better environments and the implications of outdated systems, it does not delve deeply into best practices or continuous improvement in engineering processes.",
     "level": "Quaternary"
   },
   "Throughput": {
@@ -1186,11 +1192,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-12T12:50:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:50:43",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses Azure DevOps migration, detailing challenges, solutions, and best practices related to Azure DevOps services.",
+    "final_score": 80.0,
+    "reasoning": "The content primarily focuses on Azure DevOps migration, detailing various scenarios and challenges associated with moving to Azure DevOps. It explicitly mentions Azure DevOps multiple times, demonstrating a strong direct mention score. The discussion aligns well with the core themes of Azure DevOps, particularly in the context of migration and the benefits of using Azure DevOps over older systems. The depth of the discussion is substantial, as it covers specific migration challenges, reasons for migration, and the advantages of using Azure DevOps, providing a comprehensive overview of the topic.",
     "level": "Secondary"
   },
   "Products and Books": {

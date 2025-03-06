@@ -343,12 +343,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T14:48:53",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses challenges related to adopting DevOps practices, which touches on aspects of engineering excellence such as quality assurance, risk management, and the importance of feedback loops. However, the primary focus is on the challenges of DevOps rather than a comprehensive exploration of engineering excellence principles.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses challenges in adopting DevOps practices, which relates to engineering excellence through the lens of continuous improvement and quality assurance. However, while it touches on aspects like risk management and feedback loops, it lacks a direct focus on best practices in coding standards, testing methodologies, or CI/CD practices. The discussion is more about the challenges and historical context rather than a deep dive into engineering excellence principles.",
+    "level": "Secondary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1084,11 +1087,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-12T01:33:24",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-06T14:48:55",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses challenges related to adopting DevOps practices, which are closely tied to product delivery methodologies. It touches on aspects of testing, deployment, and the importance of feedback loops, making it a significant theme, though not the sole focus.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses various aspects of DevOps practices, which are closely related to product delivery methodologies. It highlights challenges in adopting DevOps, the importance of testing and validation in production, and the need for iterative feedback loops. While it does not explicitly focus on product delivery as a primary topic, it aligns well with the core themes of the category, such as risk management, quality assurance, and the integration of development and operations. The depth of discussion on these topics provides a strong connection to product delivery, justifying a relatively high confidence score.",
     "level": "Secondary"
   },
   "Agile Product Management": {
@@ -1120,11 +1126,14 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-12T01:33:30",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-06T15:46:23",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses challenges in adopting DevOps practices, particularly focusing on risk management and feedback loops, which are relevant to complexity thinking. However, it primarily centres on practical challenges rather than a deep exploration of complexity science principles.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses challenges in adopting DevOps practices, touching on themes of risk management and feedback loops, which are relevant to complexity thinking. However, it lacks direct references to complexity science principles and frameworks like the Cynefin Framework or emergence. While it does mention the need for adaptability and understanding risk in a changing environment, the discussion remains somewhat surface-level and does not deeply engage with the core concepts of complexity theory.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {

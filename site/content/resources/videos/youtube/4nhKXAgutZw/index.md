@@ -33,10 +33,10 @@ tags:
 - Customer Satisfaction
 - Agile Philosophy
 - Organisational Culture
+- Organisational Psychology
 - Employee Engagement
 - Team Motivation
 - Agile Leadership
-- Organisational Psychology
 resourceTypes:
 - video
 layout: video

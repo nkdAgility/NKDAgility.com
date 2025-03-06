@@ -40,6 +40,7 @@ resourceTypes:
 - video
 categories:
 - Social Technologies
+- Kanban
 
 ---
 ### Enhancing Team Predictability with Kanban: The "Applying Metrics for Predictability" Course

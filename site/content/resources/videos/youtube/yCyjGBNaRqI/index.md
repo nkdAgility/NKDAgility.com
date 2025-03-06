@@ -27,13 +27,13 @@ tags:
 - Team Motivation
 - People and Process
 - Agile Values and Principles
-- Organisational Agility
 - Agile Leadership
 - Agile Philosophy
 - Coaching
 - Employee Engagement
 - Organisational Culture
 - Organisational Psychology
+- Self Organisation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

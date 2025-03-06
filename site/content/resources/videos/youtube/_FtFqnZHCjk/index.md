@@ -2,7 +2,7 @@
 title: The Evolution of Product Management in the Agile Era
 description: Explore the key differences between Agile and traditional product management. Learn how Agile's faster cycles and feedback loops enhance value delivery!
 date: 2024-07-18T06:45:01Z
-weight: 770
+weight: 805
 ResourceId: _FtFqnZHCjk
 ResourceType: videos
 ResourceImport: true
@@ -29,15 +29,6 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Product Management
-- Agile Values and Principles
-- Agile Product Operating Model
-- Agile Project Management
-- Cycle Time
-- People and Process
-- Product Delivery
-- Value Delivery
-- Agile Frameworks
-- Agile Philosophy
 resourceTypes:
 - video
 layout: video

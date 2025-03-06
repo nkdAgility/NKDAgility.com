@@ -30,11 +30,11 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Discovery and Learning
 - Continuous Learning
 - Team Collaboration
 - Team Performance
 - Agile Frameworks
+- Discovery and Learning
 - Pragmatic Thinking
 - Empirical Process Control
 - Customer Feedback Loops

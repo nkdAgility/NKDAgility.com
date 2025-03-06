@@ -46,11 +46,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T15:41:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T15:04:14",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of software development practices, particularly in relation to Agile and Scrum methodologies, which include managing technical debt and refining processes. However, the primary focus is on Agile practices rather than a broader discussion of engineering excellence.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses Agile practices, particularly focusing on the importance of having a definition of done, managing technical debt, and planning for future work. While it touches on aspects of engineering excellence, such as technical debt management and the need for planning, the primary focus is on Agile methodologies rather than broader engineering practices. The discussion lacks depth in terms of software craftsmanship principles and best practices in coding standards or testing methodologies, which are central to the category of Engineering Excellence.",
     "level": "Tertiary"
   },
   "Code and Complexity": {
@@ -109,11 +112,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T15:41:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T15:04:17",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses strategies for improving team dynamics and processes within an Agile framework, focusing on collaboration, planning, and refinement, which are central to effective team performance.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses strategies for improving team performance in Agile environments, focusing on the importance of having a definition of done, managing workload, and refining the product backlog. These topics directly relate to team dynamics, collaboration, and the human factors influencing Agile processes. The depth of discussion is substantial, providing detailed insights into how teams can enhance their productivity and adapt their processes, which aligns well with the core themes of the 'People and Process' category.",
     "level": "Secondary"
   },
   "DevOps": {

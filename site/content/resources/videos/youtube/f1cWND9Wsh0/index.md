@@ -27,7 +27,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
 - Agile Project Management
 - Agile Transformation
 - People and Process
@@ -37,6 +36,7 @@ resourceTypes:
 - video
 categories:
 - Social Technologies
+- Scrum
 
 ---
 ## Debunking the Lego Approach 

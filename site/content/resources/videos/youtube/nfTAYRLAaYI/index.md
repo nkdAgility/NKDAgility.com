@@ -36,6 +36,7 @@ tags:
 - Operational Practices
 - Lean Principles
 - Software Development
+- Flow Efficiency
 resourceTypes:
 - video
 categories:

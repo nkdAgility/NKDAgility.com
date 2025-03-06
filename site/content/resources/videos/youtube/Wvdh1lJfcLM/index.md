@@ -29,9 +29,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Install and Configuration
 - Azure DevOps
 - Practical Techniques and Tooling
+- Install and Configuration
 - Software Development
 resourceTypes:
 - video

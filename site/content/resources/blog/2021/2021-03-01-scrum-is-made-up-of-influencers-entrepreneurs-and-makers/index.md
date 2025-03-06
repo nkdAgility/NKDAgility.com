@@ -36,11 +36,11 @@ tags:
 - People and Process
 - Agile Frameworks
 - Value Delivery
+- Product Delivery
 - Agile Leadership
 - Agile Product Management
 - Scrum Product Development
 - Technical Leadership
-- Product Delivery
 - Sociotechnical Systems
 categories:
 - Leadership

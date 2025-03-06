@@ -30,9 +30,9 @@ tags:
 - Agile Philosophy
 - Agile Strategy
 - Change Management
-- Enterprise Agility
 - Large Scale Agility
 - Organisational Agility
+- Organisational Change
 categories:
 - Leadership
 - Social Technologies

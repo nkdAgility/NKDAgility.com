@@ -30,11 +30,11 @@ sitemap:
 tags:
 - Mentoring
 - Continuous Learning
-- Discovery and Learning
 - People and Process
 - Coaching
 - Personal
 - Team Collaboration
+- Discovery and Learning
 - Agile Leadership
 - Agile Philosophy
 - Agile Transformation

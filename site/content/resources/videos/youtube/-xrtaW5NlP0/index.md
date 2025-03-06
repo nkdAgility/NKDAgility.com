@@ -34,8 +34,8 @@ tags:
 - Operational Practices
 - Pragmatic Thinking
 - Metrics and Learning
-- Lean
 - Organisational Physics
+- Lean
 resourceTypes:
 - video
 layout: video

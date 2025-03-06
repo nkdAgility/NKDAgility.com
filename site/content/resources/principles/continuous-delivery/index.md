@@ -8,7 +8,7 @@ resourceTypes: principles
 layout: principles
 recommendedContent: 
 date: 2024-09-17
-weight: 775
+weight: 695
 creator: Martin Hinshelwood
 aliases:
 - /learn/agile-delivery-kit/first-principals/continuous-delivery/
@@ -22,14 +22,15 @@ card:
   title: Continuous Delivery
 categories:
 - Product Management
+- Engineering Excellence
 tags:
-- Continuous Delivery
-- Product Delivery
 - Value Delivery
+- Continuous Delivery
 - Customer Feedback Loops
 - Discovery and Learning
 - Product Validation
 - Frequent Releases
+- Product Delivery
 - Software Development
 - Working Software
 - Agile Product Management

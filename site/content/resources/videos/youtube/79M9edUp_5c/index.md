@@ -34,7 +34,8 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories: []
+categories:
+- Social Technologies
 
 ---
 As I reflect on the evolution of communication in our professional lives, particularly since the onset of the pandemic, I find myself increasingly drawn to the concept of asynchronous communication. This method has not only transformed how we collaborate but has also enhanced our ability to engage with one another without the constraints of time and location.

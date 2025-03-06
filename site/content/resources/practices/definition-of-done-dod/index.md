@@ -42,6 +42,7 @@ categories:
 tags:
 - Definition of Done
 - Increment
+- Product Delivery
 - Scrum Product Development
 - Software Development
 - Working Software

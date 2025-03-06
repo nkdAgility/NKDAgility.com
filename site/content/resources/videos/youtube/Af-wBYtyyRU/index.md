@@ -30,11 +30,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Product Management
 - Value Delivery
 - Throughput
 - Product Delivery
 - Ability to Innovate
-- Agile Product Management
 - Metrics and Learning
 - Agile Product Operating Model
 - Agile Project Management

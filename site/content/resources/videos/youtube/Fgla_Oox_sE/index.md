@@ -32,9 +32,9 @@ tags:
 - People and Process
 - Product Owner
 - Agile Product Management
+- Value Delivery
 - Scrum Product Development
 - Product Strategy
-- Value Delivery
 - Agile Project Management
 - Agile Strategy
 resourceTypes:

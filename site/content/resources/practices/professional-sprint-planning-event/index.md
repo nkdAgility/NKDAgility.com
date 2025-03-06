@@ -38,14 +38,13 @@ card:
   title: Sprint Planning Event
 categories:
 - Scrum
-- Social Technologies
 tags:
-- Agile Product Management
 - People and Process
+- Agile Product Management
+- Product Delivery
 - Scrum Product Development
 - Scrum Team
 - Agile Planning
-- Product Delivery
 - Professional Scrum
 - Team Collaboration
 - Agile Frameworks

@@ -163,12 +163,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T14:44:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T15:53:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses tools that are specifically favoured by Scrum Masters, highlighting their relevance to the role and responsibilities within the Scrum framework.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content mentions Scrum Masters and their appreciation for Azure DevOps, indicating a direct reference to the role. However, it lacks depth in discussing the responsibilities, techniques, or practices of Scrum Masters. The alignment with core themes is moderate, as it touches on tools that facilitate Scrum processes but does not delve into coaching, team dynamics, or Scrum ceremonies. Overall, while the topic is relevant, the content does not provide substantial insights into the Scrum Master role.",
+    "level": "Tertiary"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -1117,12 +1120,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T16:42:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T15:10:35",
+    "ai_confidence": 68.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Azure DevOps in the context of Scrum Masters, indicating a significant but secondary theme related to DevOps practices and tools, while primarily focusing on Scrum roles.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content explicitly mentions Azure DevOps and its appeal to Scrum Masters, indicating a direct connection to DevOps practices. However, while it touches on the integration of tools and team capabilities, it lacks a deeper exploration of core DevOps principles such as CI/CD, automation, or cultural shifts. The focus is primarily on the tool's usability rather than a comprehensive discussion of DevOps as a whole.",
+    "level": "Secondary"
   },
   "People and Process": {
     "category": "People and Process",
@@ -1198,11 +1204,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T14:43:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T15:10:38",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the use of Azure DevOps as a tool that Scrum Masters appreciate, highlighting its practical application in enhancing team performance and collaboration within Agile practices.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses Azure DevOps in the context of its benefits for Scrum Masters and Agile teams, which aligns with the category's focus on tools that enhance Agile practices. However, while it mentions Azure DevOps explicitly, the discussion lacks depth regarding specific methodologies or frameworks, and it does not provide detailed insights into practical techniques or best practices for tool integration.",
     "level": "Secondary"
   },
   "Kanban": {

@@ -36,8 +36,8 @@ tags:
 - Scrum Team
 - Agile Frameworks
 - Agile Project Management
-- Personal
 - Software Development
+- Personal
 - Professional Scrum
 resourceTypes:
 - video

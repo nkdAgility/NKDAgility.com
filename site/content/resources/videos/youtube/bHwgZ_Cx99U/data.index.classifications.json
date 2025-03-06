@@ -31,11 +31,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-25T12:16:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T14:32:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of team alignment and quality in software delivery, which relates to engineering practices, but it primarily focuses on scaling teams and organisational dynamics rather than specific engineering excellence principles.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the challenges of scaling teams in software development and highlights the importance of team alignment and quality, which are relevant to engineering excellence. However, it primarily focuses on organisational structure and team dynamics rather than specific engineering practices or methodologies. While it touches on the impact of technical debt and the need for high quality, it lacks detailed exploration of coding standards, testing methodologies, or CI/CD practices.",
     "level": "Tertiary"
   },
   "Social Technologies": {
@@ -79,12 +82,15 @@
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-25T12:16:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T14:32:45",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions technical debt as a consequence of scaling teams, indicating it is a significant theme, but the primary focus is on team dynamics and scaling strategies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the impact of scaling teams on delivery speed and mentions technical debt as a consequence of poor team alignment and coordination. While technical debt is mentioned, it is not the primary focus of the discussion. The content primarily addresses team dynamics and organisational structure rather than providing in-depth strategies or implications related to technical debt management. Therefore, while there is some relevance, it does not fully align with the core themes of the Technical Debt category.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",

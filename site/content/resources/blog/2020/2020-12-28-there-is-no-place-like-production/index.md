@@ -25,6 +25,7 @@ aliasesArchive:
 - /resources/blog/there-is-no-place-like-production
 tags:
 - Increment
+- Product Delivery
 - Agile Product Management
 - Business Agility
 - Product Validation
@@ -33,7 +34,6 @@ tags:
 - Agile Product Operating Model
 - Discovery and Learning
 - Lean Product Development
-- Metrics and Learning
 categories:
 - Product Management
 preview: wizard-of-oz-ruby-slippers-2018-billboard-1548-2-2.jpg

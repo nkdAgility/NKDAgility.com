@@ -343,11 +343,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-12T02:55:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:40:36",
+    "ai_confidence": 87.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses code reviews as a practice for improving code quality and reducing defects, which aligns closely with the principles of software craftsmanship and quality assurance. It also touches on automation in the pull request process, which is relevant to continuous integration and delivery practices.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses the importance of code reviews in improving code quality, which is a key aspect of software craftsmanship and quality assurance. It aligns well with the principles of best practices in coding standards and the role of automation in enhancing development efficiency. The depth of discussion is significant, as it covers various techniques and practices related to code reviews, including the shift towards pre-reviewing code and the automation of pull requests. Overall, the content strongly supports the category of Engineering Excellence.",
     "level": "Secondary"
   },
   "Throughput": {
@@ -1138,11 +1141,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T02:53:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:40:40",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses practical techniques related to code reviews, automation in the pull request process, and the use of tools like GitHub within a DevOps context.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses practical techniques related to code reviews and automation in the context of Agile and DevOps practices. It explicitly mentions the importance of pull requests and automated checks, aligning well with the category's focus on tooling and methodologies. The depth of discussion is significant, providing insights into how these practices can enhance code quality and team performance.",
     "level": "Secondary"
   },
   "Events and Presentations": {
@@ -1231,11 +1237,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T02:54:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T15:43:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses code reviews as a practice to enhance code quality and reduce defects, aligning closely with principles of Technical Excellence. It emphasizes automation in the code review process and the importance of validated checks, which are key aspects of engineering practices that improve agility and delivery in software development.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses code reviews and their role in improving code quality, which aligns with the principles of Technical Excellence. It mentions the importance of automated checks and practices that enhance the development process, reflecting a focus on engineering methodologies. However, the discussion is somewhat general and lacks in-depth exploration of specific technical practices like TDD or CI/CD, which limits the overall depth of the content.",
     "level": "Secondary"
   },
   "Organisational Agility": {

@@ -36,8 +36,8 @@ tags:
 - Scrum Master
 - Empirical Process Control
 - Software Development
+- Discovery and Learning
 - Pragmatic Thinking
-- Agile Values and Principles
 resourceTypes:
 - video
 categories:

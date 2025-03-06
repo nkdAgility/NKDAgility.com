@@ -24,6 +24,7 @@ aliasesArchive:
 - /storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
 - /resources/blog/storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
 tags:
+- Product Delivery
 - Transparency
 - Increment
 - Agile Product Management
@@ -33,11 +34,10 @@ tags:
 - Agile Philosophy
 - Agile Planning
 - Agile Project Management
-- Agile Strategy
 categories:
 - Scrum
-- Product Management
 - Social Technologies
+- Product Management
 preview: image-1.jpg
 
 ---

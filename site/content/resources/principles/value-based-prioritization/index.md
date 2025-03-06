@@ -23,17 +23,17 @@ card:
   title: Value-based Prioritization
 categories:
 - Scrum
-- Social Technologies
 - Product Management
+- Social Technologies
 tags:
+- Value Delivery
 - Product Backlog
 - Scrum Product Development
-- Agile Product Management
 - Agile Product Operating Model
 - Product Owner
-- Value Delivery
 - Agile Planning
 - Agile Project Management
+- Agile Product Management
 - Product Delivery
 
 ---

@@ -31,13 +31,13 @@ tags:
 - Estimation
 - Increment
 - Transparency
-- Agile Product Management
 - Agile Project Management
 - Metrics and Learning
 - Agile Planning
 - Cycle Time
 - Scrum Product Development
 - Scrum Team
+- Transparency and Accountability
 categories:
 - Scrum
 preview: image-9-14-14.png

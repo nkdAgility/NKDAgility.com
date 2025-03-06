@@ -55,12 +55,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-11T14:40:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T15:41:30",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the role of the Scrum Master in facilitating team effectiveness and delivery, which aligns with coaching principles. It emphasises creating an environment for growth, support, and continuous improvement, central to coaching practices.",
-    "level": "Secondary"
+    "final_score": 59.0,
+    "reasoning": "The content discusses the Scrum Master's role in facilitating team success and creating an environment conducive to effective delivery, which aligns with coaching principles. However, the primary focus is on accountability for delivery rather than on coaching techniques or fostering growth, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -346,11 +349,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-06T14:35:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the role of the Scrum Master in ensuring effective delivery and continuous improvement within a Scrum Team, which aligns with principles of engineering excellence. However, the primary focus is on Scrum roles and responsibilities rather than broader engineering practices.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master in facilitating delivery within a Scrum Team, which is more focused on project management and team dynamics rather than engineering excellence. While it touches on aspects of continuous improvement and accountability, it lacks a direct emphasis on software craftsmanship, coding standards, or technical practices that are central to the Engineering Excellence category.",
     "level": "Secondary"
   },
   "Throughput": {
@@ -1231,11 +1237,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-11T14:39:28",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-06T14:35:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses the role of the Scrum Master in facilitating delivery and continuous improvement within a Scrum Team, which aligns with the principles of organisational agility. It highlights the importance of creating an environment conducive to effective delivery, learning, and adaptability, which are key aspects of organisational agility.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the role of the Scrum Master in facilitating delivery and continuous improvement, which aligns with the principles of organisational agility. It highlights the importance of creating an environment conducive to effective delivery, which is a key aspect of agility. However, the primary focus is on Scrum roles and responsibilities rather than broader organisational agility strategies, which slightly limits its overall alignment.",
     "level": "Secondary"
   },
   "Personal": {

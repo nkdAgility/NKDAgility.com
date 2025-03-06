@@ -25,10 +25,10 @@ preview: https://i.ytimg.com/vi/eK8YscAACnE/maxresdefault.jpg
 duration: 37
 isShort: true
 tags:
-- Metrics and Learning
 - Pragmatic Thinking
 - Throughput
 - Flow Efficiency
+- Metrics and Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -36,8 +36,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Kanban
-- Product Management
 - Social Technologies
 
 ---

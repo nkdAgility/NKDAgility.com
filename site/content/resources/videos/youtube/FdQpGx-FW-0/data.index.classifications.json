@@ -82,12 +82,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T15:07:20",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile principles and the role of product owners in decision-making, which are relevant to product management. However, the primary focus is on critiquing prescriptive frameworks like Scrum rather than on strategic product management practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile methodologies, particularly Scrum, and critiques prescriptive frameworks in product management. It touches on the importance of principles over rules, which aligns with product management's focus on customer value and decision-making. However, the discussion is more about Agile practices than strategic product management, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -1009,20 +1012,26 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-12T07:46:32",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-06T15:07:23",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses decision-making principles and the importance of autonomy in organisational contexts, which aligns with decision theory. However, it primarily focuses on Agile methodologies and critiques of prescriptive frameworks, making decision theory a secondary theme.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses decision-making principles and the impact of prescriptive frameworks on organisational agility, which aligns with decision theory. It highlights the importance of principles over rules in decision-making processes, emphasising autonomy and access to data for effective choices. However, while it touches on decision-making, the primary focus is on Agile methodologies rather than a deep exploration of decision theory itself.",
     "level": "Secondary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-12T07:46:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T15:52:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the limitations of prescriptive frameworks in agile practices and emphasises the importance of principles over rules, which aligns with fostering a culture of adaptability and collaboration within organisations. It critiques traditional organisational structures and advocates for a more agile approach that empowers individuals, making it a primary topic related to enterprise agility.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the pitfalls of prescriptive frameworks and the importance of principles over rules, which aligns with the core themes of fostering a culture of adaptability and collaboration. However, it primarily focuses on team-level practices and critiques of specific methodologies like Scrum, rather than providing a comprehensive view of enterprise-level agility. The discussion lacks depth in organisational structures and strategies for scaling agility, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Lean": {

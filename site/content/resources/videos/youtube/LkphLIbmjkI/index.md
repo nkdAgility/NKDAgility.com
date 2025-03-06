@@ -36,8 +36,8 @@ tags:
 - Pragmatic Thinking
 - Mentoring
 - Software Developers
-- Continuous Learning
 - Practical Techniques and Tooling
+- Continuous Learning
 resourceTypes:
 - video
 categories:

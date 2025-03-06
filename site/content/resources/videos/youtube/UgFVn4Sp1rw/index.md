@@ -2,7 +2,7 @@
 title: 'Mastering Product Development Costs: Empower Your Team for Financial Success'
 description: Unlock the secrets of product development costs! Discover how to empower your team with financial awareness and drive innovation for greater profitability.
 date: 2024-12-20T07:00:00Z
-weight: 535
+weight: 615
 ResourceId: UgFVn4Sp1rw
 ResourceType: videos
 ResourceImport: true
@@ -26,15 +26,15 @@ duration: 675
 isShort: false
 tags:
 - Metrics and Learning
+- People and Process
 - Pragmatic Thinking
 - Ability to Innovate
-- Agile Product Management
 - Decision Making
-- People and Process
 - Scrum Product Development
 - Agile Product Operating Model
 - Agile Project Management
 - Evidence Based Leadership
+- Evidence Based Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

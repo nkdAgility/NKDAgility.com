@@ -35,12 +35,12 @@ tags:
 - Agile Leadership
 - Large Scale Agility
 - Scaling Agility
-- Business Agility
 - Enterprise Agility
 - Organisational Agility
 - Organisational Culture
 - Scaled Agile
 - Sociotechnical Systems
+- Business Agility
 resourceTypes:
 - video
 categories:

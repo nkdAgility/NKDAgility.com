@@ -41,6 +41,7 @@ resourceTypes:
 - video
 categories:
 - Product Management
+- Social Technologies
 
 ---
 In my journey through the world of Agile and Scrum, I've often found myself reflecting on the intricacies of product backlog management. It’s a topic that, while seemingly straightforward, is laden with nuances that can significantly impact the value we derive from our work. Today, I want to share some insights from a recent class I attended that delved into these subtleties and how we can effectively manage our product backlogs.

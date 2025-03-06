@@ -36,10 +36,10 @@ tags:
 - Organisational Physics
 - Sociotechnical Systems
 - Decision Making
+- Enterprise Agility
 - Organisational Change
 - Market Adaptability
 - Business Agility
-- Enterprise Agility
 resourceTypes:
 - video
 categories:

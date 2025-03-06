@@ -550,12 +550,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-11T23:14:39",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-06T15:48:42",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of addressing problems directly rather than ignoring them, which aligns with practical problem-solving strategies in Agile contexts. However, it primarily focuses on a personal anecdote rather than a structured approach to Agile or Scrum principles.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the negative impact of ignoring problems in a practical context, using a personal anecdote to illustrate the consequences of 'sweeping problems under the rug.' It touches on the importance of addressing issues directly, which aligns with pragmatic thinking in Agile and Scrum. However, while it mentions practical problem-solving, it lacks a structured discussion on specific Agile or DevOps strategies, resulting in a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1255,11 +1258,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-11T23:13:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:54:31",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses human behaviours and team dynamics related to process management, specifically the negative impact of ignoring problems and the importance of discipline and courage in implementing strategies.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the human behaviour of ignoring problems and the consequences of such actions within a process context. It highlights the importance of retrospectives and reflection, which are key elements in Agile methodologies. The narrative illustrates how team dynamics can affect process efficiency, aligning well with the category's focus on human factors and collaboration. However, while it provides a personal anecdote that connects to broader themes, the depth of discussion on structured methodologies is somewhat limited, preventing a higher score.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {
@@ -1363,14 +1369,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-06T13:46:53",
-    "ai_confidence": 42.0,
+    "calculated_at": "2025-03-06T14:54:29",
+    "ai_confidence": 32.0,
     "ai_mentions": 15.0,
-    "ai_alignment": 35.0,
-    "ai_depth": 30.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 38.0,
-    "reasoning": "The content discusses the negative impact of ignoring problems within a team context, which aligns with the themes of continuous improvement and collaboration in Agile methodologies. However, it lacks direct mentions of specific frameworks like Scrum or Kanban, and the depth of discussion on these methodologies is limited. The focus is more on a general narrative about problem-solving rather than a structured exploration of social technologies.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the negative impact of ignoring problems within a team context, which aligns with the themes of continuous improvement and collaboration. However, it lacks direct references to specific frameworks like Scrum or Kanban, and the discussion is more anecdotal than detailed in terms of methodologies. The mention of a CAD strategy hints at a structured approach but does not delve into the principles of Agile or Lean practices, resulting in a lower confidence score.",
     "level": "Quaternary"
   },
   "Internal Developer Platform": {

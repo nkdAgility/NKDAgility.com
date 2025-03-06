@@ -346,11 +346,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T12:05:00",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-06T14:44:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content primarily discusses business predictability and agile principles, with only peripheral references to engineering practices. It does not focus on software craftsmanship or development processes, which are central to the category of Engineering Excellence.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses business predictability through agile principles, which is more aligned with project management and organisational strategy than with engineering excellence. While it touches on aspects of agile methodologies that could relate to engineering practices, such as the importance of planning and adapting systems, it lacks a direct focus on software craftsmanship, coding standards, or quality assurance. The depth of discussion on agile principles is significant, but it does not delve into the technical aspects of engineering excellence, leading to a lower confidence score.",
     "level": "Quaternary"
   },
   "Throughput": {
@@ -1042,11 +1045,14 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-12T07:16:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:44:07",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses how agile principles can enhance business predictability, which is closely tied to organisational resilience and adaptability in response to market changes. It addresses strategies for fostering a culture of adaptability, the role of leadership in guiding change, and the importance of planning and continuous improvement, making it a central theme.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of predictability in business and how agile principles can help organisations adapt to market changes and uncertainties. It mentions the need for clear goals and operational efficiencies, which align with the themes of resilience and adaptability. However, while it touches on these concepts, the primary focus is on achieving predictability rather than a comprehensive exploration of resilience and change methodologies. The depth of discussion on change management practices and leadership roles is limited, which affects the overall confidence score.",
     "level": "Secondary"
   },
   "Install and Configuration": {
@@ -1087,11 +1093,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-12T07:16:26",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-06T15:44:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the role of agile methodologies in achieving business predictability, which is a significant aspect of product delivery. It touches on planning, feedback loops, and the importance of aligning efforts towards common goals, all of which are relevant to product delivery practices. However, the primary focus is on predictability rather than the end-to-end process of delivering software products, making it a major but secondary theme.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the role of Agile principles in achieving business predictability, which is closely related to product delivery. It mentions methodologies like Agile, Scrum, and Kanban, and highlights the importance of planning, feedback loops, and cross-functional collaboration. However, while it touches on these topics, the focus is more on the broader concept of business predictability rather than the specific end-to-end process of delivering software products. Therefore, while there is significant alignment with the category, it does not fully meet the criteria for a primary focus on product delivery.",
     "level": "Secondary"
   },
   "Agile Product Management": {

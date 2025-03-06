@@ -40,13 +40,12 @@ tags:
 - Agile Frameworks
 - Agile Project Management
 - Mentoring
-- Pragmatic Thinking
 - Professional Scrum
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
 - Scrum
-- Leadership
 - Social Technologies
 
 ---

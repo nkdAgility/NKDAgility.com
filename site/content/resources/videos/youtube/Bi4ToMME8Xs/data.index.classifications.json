@@ -103,12 +103,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T12:05:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T14:44:25",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Scrum and Agile methodologies, suggesting a focus on professional development in these areas, but it primarily promotes a specific learning experience rather than providing news or reviews.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content briefly mentions Scrum and Agile methodologies, indicating a focus on professional development in these areas. However, it lacks detailed discussion on industry news or reviews, primarily serving as a promotional message for a learning experience rather than providing insights or evaluations relevant to the category.",
+    "level": "Quaternary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
@@ -1393,14 +1396,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:41:51",
+    "calculated_at": "2025-03-06T14:44:23",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
     "ai_alignment": 45.0,
-    "ai_depth": 20.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 50,
     "final_score": 61.0,
-    "reasoning": "The content briefly mentions Scrum in the context of improving outcomes through a Scrum Master training programme. While it does reference Scrum directly, the discussion lacks depth and does not explore the core principles, roles, or practices of Scrum in detail. The focus is primarily on promoting a training service rather than an in-depth exploration of Scrum itself.",
+    "reasoning": "The content mentions Scrum explicitly in the context of improving outcomes through a Scrum Master, indicating a direct reference to the category. However, it lacks detailed discussion on Scrum principles, roles, or events, which affects the depth of the content. The alignment with Scrum concepts is moderate, as it hints at the importance of effective Scrum practices but does not delve into specifics.",
     "level": "Secondary"
   }
 }

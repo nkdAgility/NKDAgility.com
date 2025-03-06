@@ -40,6 +40,7 @@ card:
   title: Sprint Review Recipe
 categories:
 - Scrum
+- Social Technologies
 tags:
 - Scrum Product Development
 - Sprint Review

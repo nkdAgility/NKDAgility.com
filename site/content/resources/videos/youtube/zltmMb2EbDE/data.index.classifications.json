@@ -82,12 +82,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T13:15:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T14:55:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Kanban with Scrum, focusing on metrics and strategies that can enhance product management practices. However, the primary focus is on the technical aspects of Kanban and Scrum rather than the strategic alignment of customer needs and business objectives.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the integration of Kanban into Scrum, focusing on metrics and strategies for improving workflow. While it touches on aspects of product management, such as the importance of metrics and customer communication, it lacks a broader discussion on strategic alignment, stakeholder interests, or methodologies specific to product management. The emphasis is more on technical implementation and personal opinions rather than established product management theories.",
+    "level": "Quaternary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -1138,11 +1141,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-11T21:54:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:55:33",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the integration of Kanban into Scrum environments, focusing on practical techniques, metrics, and strategies that enhance Agile practices. It provides insights into how Kanban can improve team performance and delivery outcomes, aligning well with the category's focus.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses the integration of Kanban (referred to as 'Cban') within a Scrum environment, focusing on practical techniques and metrics that enhance Agile practices. It provides a clear argument for the necessity of using a Kanban strategy alongside Scrum, detailing specific metrics such as cycle time, lead time, and throughput that are essential for effective project management. The discussion is rich in practical application, making it highly relevant to the category of Practical Techniques and Tooling.",
     "level": "Secondary"
   },
   "Events and Presentations": {
@@ -1285,11 +1291,14 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-11T21:54:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T15:49:13",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of metrics in the context of integrating Kanban with Scrum, emphasising the need for data-driven decision-making and continuous improvement through specific metrics like cycle time, lead time, and throughput.",
+    "final_score": 80.0,
+    "reasoning": "The content discusses the integration of Kanban with Scrum, focusing heavily on the importance of metrics in understanding workflow and improving processes. It critiques traditional Scrum metrics like velocity and story points, advocating for more relevant metrics such as cycle time and lead time. The discussion is rich in detail about how metrics can facilitate better decision-making and continuous improvement, aligning well with the core themes of the category. However, while it mentions metrics frequently, the primary focus is on the integration of Kanban rather than solely on metrics and learning, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Application Lifecycle Management": {

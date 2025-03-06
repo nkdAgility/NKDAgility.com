@@ -5,7 +5,7 @@ ResourceId: _ncZFfeCrnS
 ResourceType: blog
 ResourceImport: false
 date: 2025-02-13T09:00:00
-weight: 240
+weight: 265
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
@@ -36,7 +36,6 @@ tags:
 - Practical Techniques and Tooling
 categories:
 - DevOps
-- Engineering Excellence
 preview: 2025-02-06-testing-in-production-maximises-quality-and-value.jpg
 marketing: []
 

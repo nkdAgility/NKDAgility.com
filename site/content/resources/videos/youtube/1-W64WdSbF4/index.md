@@ -35,11 +35,11 @@ tags:
 - Scrum Product Development
 - Sprint Review
 - Increment
+- Product Delivery
 - People and Process
 - Agile Product Management
 - Agile Project Management
 - Events and Presentations
-- Product Delivery
 - Product Owner
 resourceTypes:
 - video

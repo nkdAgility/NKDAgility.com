@@ -37,9 +37,9 @@ tags:
 - People and Process
 - Scrum Team
 - Transparency and Accountability
-- Agile Product Management
-- Product Delivery
 - Professional Scrum
+- Scrum Master
+- Software Developers
 resourceTypes:
 - video
 layout: video

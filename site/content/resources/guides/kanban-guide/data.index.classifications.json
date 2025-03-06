@@ -343,12 +343,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T12:10:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T14:44:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Kanban practices and principles, which relate to continuous improvement and workflow optimization in software development. However, the primary focus is on Kanban as a methodology rather than on broader engineering excellence principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Kanban as a workflow optimisation strategy rather than directly addressing engineering excellence. While it touches on continuous improvement and metrics, which are relevant to engineering practices, the main emphasis is on Kanban principles and practices rather than broader software craftsmanship or development standards.",
+    "level": "Quaternary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1066,12 +1069,15 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-12T13:51:03",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-06T14:44:36",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses Kanban as a strategy for optimising the flow of value through a process, detailing practices and metrics that directly relate to flow efficiency, such as WIP limits, cycle time, and throughput.",
-    "level": "Secondary"
+    "final_score": 84.0,
+    "reasoning": "The content extensively discusses Kanban as a strategy for optimising flow, detailing practices such as defining workflows, managing work in progress (WIP), and measuring flow metrics like cycle time and throughput. It aligns closely with the principles of Flow Efficiency, emphasising continuous improvement and the elimination of bottlenecks. The depth of discussion on controlling WIP and the importance of flow metrics further supports a high confidence score.",
+    "level": "Primary"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -1138,11 +1144,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T13:51:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T15:44:23",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the Kanban methodology, its practices, and how to implement it effectively, which aligns well with the exploration and application of practical techniques and tooling in Agile and DevOps.",
+    "final_score": 80.0,
+    "reasoning": "The content provides a comprehensive guide on Kanban, detailing its practices, principles, and metrics, which are essential tools and methodologies in Agile and DevOps. It explicitly discusses the implementation of Kanban practices, such as defining workflows, managing work in progress, and using metrics for continuous improvement. The depth of discussion on how to apply these techniques effectively aligns well with the category's focus on practical application and tooling.",
     "level": "Secondary"
   },
   "Events and Presentations": {
