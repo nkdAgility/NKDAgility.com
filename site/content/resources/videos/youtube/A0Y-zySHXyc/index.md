@@ -30,7 +30,6 @@ sitemap:
   priority: 0.6
 tags:
 - Accountability
-- Agile Product Management
 - People and Process
 - Product Owner
 - Scrum Product Development
@@ -39,6 +38,7 @@ tags:
 - Agile Project Management
 - Professional Scrum
 - Team Collaboration
+- Agile Product Management
 resourceTypes:
 - video
 categories:

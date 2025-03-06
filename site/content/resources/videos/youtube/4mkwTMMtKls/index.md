@@ -31,13 +31,12 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Agile Philosophy
 - Personal
+- Agile Philosophy
 resourceTypes:
 - video
 layout: video
 categories:
-- Product Management
 - Leadership
 - Social Technologies
 

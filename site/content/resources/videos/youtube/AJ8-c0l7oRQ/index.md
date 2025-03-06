@@ -32,6 +32,7 @@ resourceTypes:
 - video
 categories:
 - Social Technologies
+- Scrum
 
 ---
 ## Finding the Right Balance between Simplicity and Complexity 🧱 

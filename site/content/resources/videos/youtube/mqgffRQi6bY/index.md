@@ -31,9 +31,9 @@ tags:
 resourceTypes:
 - video
 categories:
+- Social Technologies
 - Scrum
 - Product Management
-- Social Technologies
 
 ---
 ## Confronting Complexity 

@@ -39,6 +39,7 @@ resourceTypes:
 - video
 categories:
 - Product Management
+- Social Technologies
 - Scrum
 
 ---
