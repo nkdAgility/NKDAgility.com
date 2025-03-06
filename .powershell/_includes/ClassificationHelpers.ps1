@@ -578,4 +578,5 @@ function Remove-ClassificationsFromCacheThatLookBroken {
             }
         }
 
-
+    }
+}
