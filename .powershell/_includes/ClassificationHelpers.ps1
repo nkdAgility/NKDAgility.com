@@ -104,45 +104,6 @@ function Get-CategoryConfidenceWithChecksum {
             Write-DebugLog "  Removed {expiredCount} Invalid Items" -PropertyValues $keysToRemove.Count
             $cachedData | ConvertTo-Json -Depth 10 | Set-Content -Path $cacheFile -Force
         }           
-        # Check if the cache is up to date with the catalog entry last update date
-        $expiredEntries = $cachedData.Values | Where-Object {
-            (-not $_.calculated_at) -or ([DateTimeOffset]$_.calculated_at -lt [DateTimeOffset]$catalog_full[$_.category].date)
-        } | Select-Object -Property category
-        $expiredCount = $expiredEntries.Count
-        if ($expiredCount -gt 0) {
-            $dirty = $false
-            # Remove expired entries
-            foreach ($entry in $expiredEntries) {
-                Write-DebugLog "Cache is out of date for $($entry.category). Removing."
-                $cachedData.Remove($entry.category)
-                $dirty = $true
-            }
-            # Save updated cache if changes were made
-            if ($dirty) {
-                Write-DebugLog "Removed $expiredCount expired items."
-                $cachedData | ConvertTo-Json -Depth 10 | Set-Content -Path $cacheFile -Force
-            }
-        }
-        # Check for watermark and remove 1 item.
-        # Get entries that are older than the watermark date and have a final_score > 20
-        $expiredEntries = $cachedData.Values | Where-Object { $_.calculated_at -and ([DateTimeOffset]$_.calculated_at -lt $watermarkDate) -and ($_.final_score -gt $watermarkScoreLimit) } | Sort-Object { [DateTimeOffset]$_.calculated_at } | Select-Object -Property category | Select-Object -First $watermarkCount
-        $expiredCount = $expiredEntries.Count
-
-        if ($expiredCount -gt 0) {
-            $dirty = $false
-            # Remove expired entries
-            foreach ($entry in $expiredEntries) {
-                Write-DebugLog "Cache entry for $($entry.category) is older than watermark and has a high final score. Removing."
-                $cachedData.Remove($entry.category)
-                $dirty = $true
-            }
-            # Save updated cache if changes were made
-            if ($dirty) {
-                Write-DebugLog "Removed $expiredCount outdated items with final_score > 20."
-                $cachedData | ConvertTo-Json -Depth 10 | Set-Content -Path $cacheFile -Force
-            }
-        }
-
         # Check if the cache uses the latest calculations
         $recalculatedCount = 0
         foreach ($key in $cachedData.keys) {
@@ -235,28 +196,26 @@ function Get-CategoryConfidenceWithChecksum {
     #================/CACHE====================
     #==========================================
 
-    # Build Scores from cache and missings
-    $categoryScores = @{}
-    $categoryMissing = @{}
-    $count = 0;
-    $total = $catalog.Keys.Count
-    foreach ($category in $catalog.Keys) {
-        Write-DebugLog "Processing classification [$count/$total] $category | $(($count / $total) * 100)%"
-        #Write-Progress -Id 2 -ParentId 1 -Activity "Classification of $ClassificationType" -Status "Processing classification $count of $total '$category'" -PercentComplete (($count / $total) * 100)
-        $count++
-        if ($cachedData.ContainsKey($category)) {            
-            $categoryScores[$category] = $cachedData[$category]  
-        }
-        else {
-            $categoryMissing[$category] = $category
-        }
-    }
+    #Find items from the catalogue that we have.
+    $CatalogFromCache = @{}; $cachedData.Keys | Where-Object { $catalog.ContainsKey($_) } | ForEach-Object { $CatalogFromCache[$_] = $cachedData[$_] }
 
-    if ($categoryMissing.Count -gt 0 -and $batchStatus -eq $null -and $updateMissing) {
+    # Find items from the catalogue that we don't have.
+    $CatalogItemsToRefreshOrGet = @($catalog.Keys | Where-Object { $_ -notin $cachedData.Keys })
+    # Find items from the CatalogFromCache that are out of date.
+    $CatalogItemsToRefreshOrGet = @($CatalogItemsToRefreshOrGet) + @($CatalogFromCache.Values | Where-Object {
+        (-not $_.calculated_at) -or ([DateTimeOffset]$_.calculated_at -lt [DateTimeOffset]$catalog_full[$_.category].date)
+        } | Select-Object -ExpandProperty category)
+    if ($CatalogItemsToRefreshOrGet.Count -eq 0) {
+        # Find items from CatalogFromCache that are older than the watermark date and have a final_score > watermarkScoreLimit
+        $CatalogItemsToRefreshOrGet = @($CatalogItemsToRefreshOrGet) + @($CatalogFromCache.Values | Where-Object { $_.calculated_at -and ([DateTimeOffset]$_.calculated_at -lt $watermarkDate) -and ($_.final_score -gt $watermarkScoreLimit) } | Sort-Object { [DateTimeOffset]$_.calculated_at } | Select-Object -ExpandProperty category | Select-Object -First $watermarkCount)
+    }
+    
+
+    if ($CatalogItemsToRefreshOrGet.Count -gt 0 -and $batchStatus -eq $null -and $updateMissing) {
       
         # Build prompts for missing items
         $prompts = @()
-        foreach ($category in $categoryMissing.Keys) {
+        foreach ($category in $CatalogItemsToRefreshOrGet) {
             $prompt = @"
                 You are an AI expert in content classification. Evaluate how well the given content aligns with the category **"$category"**. 
 
@@ -332,8 +291,8 @@ function Get-CategoryConfidenceWithChecksum {
                 $result = Get-ConfidenceFromAIResponse -AIResponseJson $aiResponseJson -ResourceTitle $ResourceTitle -ResourceContent $ResourceContent
                 if ($result.reasoning -ne $null -and $result.category -ne "unknown") {
                     Write-InformationLog "Updating {category} with new confidence of {confidence} " -PropertyValues $result.category, $result.ai_confidence
-                    $categoryScores[$result.category] = $result 
-                    $cachedData | Add-Member -MemberType NoteProperty -Name $result.category -Value $result -Force
+                    $CatalogFromCache[$result.category] = $result
+                    $cachedData[$result.category] = $result
                     # Save cache after each API call
                     $cachedData | ConvertTo-Json -Depth 2 | Set-Content -Path $cacheFile -Force
                 }
@@ -350,7 +309,7 @@ function Get-CategoryConfidenceWithChecksum {
     #==========================================
     #=================return===================
     #==========================================
-    $finalSelection = Get-FinalSelection -categoryScores $categoryScores
+    $finalSelection = Get-FinalSelection -categoryScores $CatalogFromCache
     return $finalSelection | Sort-Object final_score -Descending | ConvertTo-Json -Depth 2
     #==========================================
     #================/return===================
