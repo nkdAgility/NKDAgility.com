@@ -37,7 +37,7 @@ tags:
 - Organisational Agility
 - Pragmatic Thinking
 - Team Performance
-- Sociotechnical Systems
+- Discovery and Learning
 resourceTypes:
 - video
 layout: video

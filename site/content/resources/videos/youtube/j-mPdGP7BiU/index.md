@@ -31,13 +31,13 @@ sitemap:
 tags:
 - Discovery and Learning
 - Experimentation
-- Metrics and Learning
 - Continuous Learning
 - Decision Making
 - Hypothesis Driven Development
 - Product Discovery
 - Product Validation
 - Lean Startup
+- Metrics and Learning
 - Decision Theory
 resourceTypes:
 - video

@@ -33,9 +33,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Scrum Team
 - Agile Project Management
-- People and Process
 - Professional Scrum
 - Software Developers
 - Technical Leadership

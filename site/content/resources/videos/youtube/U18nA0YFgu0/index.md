@@ -36,8 +36,8 @@ tags:
 - Organisational Culture
 - Agile Philosophy
 - Agile Project Management
-- Personal
 - Transparency and Accountability
+- Personal
 - Pragmatic Thinking
 - Sociotechnical Systems
 - Software Developers

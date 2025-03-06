@@ -29,8 +29,8 @@ tags:
 - Azure DevOps
 - Engineering Practices
 - Pragmatic Thinking
-- Technical Excellence
 - Technical Mastery
+- Technical Excellence
 - Operational Practices
 sitemap:
   filename: sitemap.xml

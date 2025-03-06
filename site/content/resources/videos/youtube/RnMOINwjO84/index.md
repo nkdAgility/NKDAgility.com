@@ -26,6 +26,7 @@ isShort: false
 tags:
 - Enterprise Agility
 - Decision Making
+- Resilience and Change
 - Decision Theory
 - People and Process
 - Ability to Innovate
@@ -33,7 +34,6 @@ tags:
 - Agile Values and Principles
 - Business Agility
 - Complexity Thinking
-- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

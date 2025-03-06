@@ -30,8 +30,8 @@ sitemap:
 tags:
 - Scrum Master
 - Scrum Team
-- Agile Project Management
 - People and Process
+- Agile Project Management
 resourceTypes:
 - video
 layout: video

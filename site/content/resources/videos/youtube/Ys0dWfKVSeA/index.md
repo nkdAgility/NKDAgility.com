@@ -33,7 +33,6 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Agile Product Management
 - Agile Frameworks
 - Agile Project Management
 - Agile Transformation
@@ -41,6 +40,7 @@ tags:
 - Software Development
 - Team Collaboration
 - Value Delivery
+- Agile Product Management
 - Empirical Process Control
 resourceTypes:
 - video

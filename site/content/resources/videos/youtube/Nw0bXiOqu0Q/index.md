@@ -43,7 +43,6 @@ resourceTypes:
 categories:
 - Social Technologies
 - Leadership
-- Product Management
 
 ---
 Why are recessions a great time for organizations to evaluate the opportunity of agile?

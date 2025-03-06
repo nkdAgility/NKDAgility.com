@@ -24,10 +24,10 @@ preview: https://i.ytimg.com/vi/jcs-2G99Rrw/maxresdefault.jpg
 duration: 2034
 isShort: false
 tags:
+- Azure DevOps
 - Practical Techniques and Tooling
 - Product Delivery
 - One Engineering System (1ES)
-- Azure DevOps
 - Azure Boards
 - Pragmatic Thinking
 - Software Developers

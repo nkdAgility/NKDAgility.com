@@ -33,13 +33,13 @@ tags:
 - Estimation
 - Throughput
 - Flow Efficiency
-- Agile Product Management
 - Metrics and Learning
 - People and Process
 - Agile Project Management
 - Cycle Time
 - Software Developers
 - Pragmatic Thinking
+- Software Development
 resourceTypes:
 - video
 categories:

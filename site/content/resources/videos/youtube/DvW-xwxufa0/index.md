@@ -31,8 +31,8 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Pragmatic Thinking
 - Discovery and Learning
+- Pragmatic Thinking
 - Continuous Learning
 resourceTypes:
 - video

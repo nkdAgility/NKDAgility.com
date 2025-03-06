@@ -37,7 +37,7 @@ tags:
 - Agile Project Management
 - Agile Leadership
 - Decision Making
-- Metrics and Learning
+- Team Performance
 resourceTypes:
 - video
 layout: video

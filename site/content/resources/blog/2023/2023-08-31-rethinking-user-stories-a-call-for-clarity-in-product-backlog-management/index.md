@@ -29,6 +29,7 @@ aliasesArchive:
 - /resources/blog/rethinking-user-stories-a-call-for-clarity-in-product-backlog-management
 tags:
 - Transparency
+- Product Delivery
 - Scrum Product Development
 - Agile Product Management
 - People and Process
@@ -36,7 +37,6 @@ tags:
 - Transparency and Accountability
 - Agile Project Management
 - Pragmatic Thinking
-- Product Delivery
 - Product Owner
 categories:
 - Product Management

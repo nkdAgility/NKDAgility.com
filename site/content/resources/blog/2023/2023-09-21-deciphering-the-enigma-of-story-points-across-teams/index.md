@@ -25,11 +25,11 @@ aliasesArchive:
 - /resources/blog/deciphering-the-enigma-of-story-points-across-teams
 tags:
 - Throughput
-- Agile Product Management
 - Flow Efficiency
 - Agile Project Management
 - Metrics and Learning
 - Value Delivery
+- Agile Product Management
 - Decision Making
 - Team Performance
 - Evidence Based Leadership

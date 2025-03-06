@@ -32,7 +32,6 @@ sitemap:
 tags:
 - Agile Product Operating Model
 - Agile Project Management
-- Product Delivery
 - Scaled Agile
 - Value Delivery
 - Agile Frameworks
@@ -40,6 +39,7 @@ tags:
 - People and Process
 - Portfolio Management
 - Scaling Agility
+- Scaling Kanban
 resourceTypes:
 - video
 categories:

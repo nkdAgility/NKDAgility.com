@@ -34,8 +34,8 @@ sitemap:
   priority: 0.6
 tags:
 - Flow Efficiency
-- Operational Practices
 - Practical Techniques and Tooling
+- Operational Practices
 - Agile Frameworks
 - Agile Project Management
 - Lean Thinking

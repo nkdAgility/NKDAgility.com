@@ -36,11 +36,11 @@ tags:
 - Sprint Review
 - Agile Project Management
 - People and Process
-- Product Delivery
 - Scrum Product Development
 - Agile Frameworks
 - Pragmatic Thinking
 - Professional Scrum
+- Scrum Master
 resourceTypes:
 - video
 categories:

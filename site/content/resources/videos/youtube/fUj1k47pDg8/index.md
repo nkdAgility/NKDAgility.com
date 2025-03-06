@@ -25,15 +25,6 @@ duration: 355
 isShort: false
 tags:
 - Discovery and Learning
-- Experimentation
-- Empirical Process Control
-- People and Process
-- Product Discovery
-- Product Validation
-- Continuous Learning
-- Hypothesis Driven Development
-- Complexity Thinking
-- Decision Making
 sitemap:
   filename: sitemap.xml
   priority: 0.6

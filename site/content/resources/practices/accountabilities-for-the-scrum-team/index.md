@@ -26,7 +26,6 @@ categories:
 - Scrum
 - Social Technologies
 tags:
-- Agile Frameworks
 - Scrum Team
 - Agile Project Management
 

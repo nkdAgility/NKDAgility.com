@@ -28,8 +28,8 @@ isShort: false
 tags:
 - Value Delivery
 - People and Process
-- Product Delivery
 - Pragmatic Thinking
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -30,9 +30,9 @@ tags:
 - Pragmatic Thinking
 - Team Collaboration
 - Remote Working
+- Sociotechnical Systems
 - Team Performance
 - Collaboration Tools
-- Personal
 categories:
 - Social Technologies
 - Scrum

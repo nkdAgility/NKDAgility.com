@@ -82,11 +82,14 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-11T20:44:14",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-06T16:00:55",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the implications of technical debt on product delivery and business outcomes, highlighting the importance of understanding product quality and customer needs. It also touches on the transition to Agile methodologies, specifically Scrum, to improve product management practices, making it a significant theme in the discussion.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the implications of technical debt on product delivery and business outcomes, which aligns with product management's focus on balancing stakeholder interests and assessing technical feasibility. However, it primarily centres on technical debt rather than broader product management strategies, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Agile Leadership": {
@@ -1045,11 +1048,14 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-11T20:39:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T16:00:59",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses technical debt, its implications on software quality, and the complexities involved in managing it within software development processes. It explores the relationship between technical debt and code quality, making it a central theme.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses technical debt extensively, highlighting its risks to software quality and business outcomes. It aligns well with the category by addressing the principles of code quality, the impact of complexity on software development, and the importance of managing technical debt. However, while it provides a detailed exploration of technical debt, it does not delve deeply into complexity theory or specific coding practices, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Flow Efficiency": {

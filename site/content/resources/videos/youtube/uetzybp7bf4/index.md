@@ -25,6 +25,7 @@ preview: https://i9.ytimg.com/vi/uetzybp7bf4/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 379
 isShort: false
 tags:
+- Transparency and Accountability
 - Decision Making
 - People and Process
 - Business Agility
@@ -34,7 +35,6 @@ tags:
 - Metrics and Learning
 - Organisational Culture
 - Pragmatic Thinking
-- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

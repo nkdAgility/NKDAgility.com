@@ -26,10 +26,10 @@ categories:
 - Product Management
 tags:
 - Scrum Product Development
-- Strategy
 - Scrum Team
 - Strategic Goals
 - Professional Scrum
+- Strategy
 - Agile Project Management
 - People and Process
 - Agile Product Management

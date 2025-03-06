@@ -24,10 +24,10 @@ preview: https://i.ytimg.com/vi/tzmbqdEULUY/maxresdefault.jpg
 duration: 218
 isShort: false
 tags:
-- Software Development
 - Pragmatic Thinking
 - Practical Techniques and Tooling
 - Azure DevOps
+- Software Development
 - Operational Practices
 sitemap:
   filename: sitemap.xml

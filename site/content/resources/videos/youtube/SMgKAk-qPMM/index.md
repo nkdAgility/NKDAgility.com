@@ -29,8 +29,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Values and Principles
 - Agile Frameworks
+- Agile Values and Principles
 - Agile Philosophy
 - Agile Project Management
 - Agile Transformation

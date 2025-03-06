@@ -40,7 +40,7 @@ tags:
 - Agile Project Management
 - Team Collaboration
 - Team Performance
-- Coaching
+- Agile Product Management
 resourceTypes:
 - video
 categories:

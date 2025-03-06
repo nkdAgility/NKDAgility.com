@@ -31,8 +31,8 @@ tags:
 - Organisational Change
 - Resilience and Change
 - Change Management
-- Enterprise Agility
 - Market Adaptability
+- Enterprise Agility
 categories:
 - Leadership
 - Social Technologies

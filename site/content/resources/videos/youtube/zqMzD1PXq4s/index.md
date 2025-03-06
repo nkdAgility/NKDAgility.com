@@ -25,7 +25,6 @@ preview: https://i9.ytimg.com/vi/zqMzD1PXq4s/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 413
 isShort: false
 tags:
-- People and Process
 - Technical Excellence
 - Technical Leadership
 - Engineering Practices
@@ -34,6 +33,7 @@ tags:
 - Technical Mastery
 - Value Delivery
 - Operational Practices
+- People and Process
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml

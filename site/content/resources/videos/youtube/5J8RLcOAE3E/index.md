@@ -34,8 +34,8 @@ tags:
 - Product Delivery
 - Resilience and Change
 - Software Developers
+- Technical Excellence
 - Working Software
-- Complexity Thinking
 resourceTypes:
 - video
 sitemap:

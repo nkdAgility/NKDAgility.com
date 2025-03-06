@@ -30,8 +30,8 @@ aliasesArchive:
 tags:
 - Evidence Based Management
 categories:
-- Scrum
 - Product Management
+- Scrum
 - Social Technologies
 preview: naked-agility-evidence-based-management-1-1.jpg
 

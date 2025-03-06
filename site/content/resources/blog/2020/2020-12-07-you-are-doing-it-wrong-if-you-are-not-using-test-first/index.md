@@ -8,7 +8,7 @@ ResourceImportId: 9469
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-12-07
-weight: 370
+weight: 385
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -30,6 +30,8 @@ tags:
 - Technical Excellence
 categories:
 - Engineering Excellence
+- Scrum
+- Social Technologies
 preview: nkdAgility-PSD-Krakow-0-1-1.jpg
 
 ---

@@ -29,11 +29,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Resilience and Change
 - Business Agility
 - Organisational Agility
 - Organisational Change
 - People and Process
-- Resilience and Change
 - Change Management
 - Market Adaptability
 - Agile Philosophy

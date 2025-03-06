@@ -82,11 +82,14 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-12T04:40:58",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-06T15:53:37",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the implications of feedback received during a Sprint review and how it relates to product direction and stakeholder engagement, which are key aspects of product management. However, it primarily focuses on Scrum processes rather than broader product management strategies.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the implications of feedback received during a Sprint Review, which is a key aspect of product management within Agile frameworks. It addresses the importance of aligning product direction with stakeholder needs and the strategic decisions that can arise from feedback, such as pivoting or stopping a product. The discussion is detailed and directly relates to product management principles, particularly in the context of Agile methodologies. However, while it is focused on product management, it does not delve deeply into broader strategic frameworks or metrics, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Agile Leadership": {
@@ -1009,12 +1012,15 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-12T04:40:00",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-06T15:53:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses decision-making processes in the context of Sprint reviews, focusing on how to respond to feedback and the implications of that feedback on product direction. While it primarily revolves around Scrum practices, it does explore decision-making frameworks and the importance of making informed choices based on stakeholder feedback, which aligns with decision theory principles.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses decision-making processes in the context of a Sprint Review, particularly focusing on how to respond to feedback and the implications of that feedback on product direction. It explicitly mentions the need to evaluate whether the right product is being built and the potential outcomes of the review, which aligns with decision theory principles. However, while it touches on decision-making, the depth of discussion is more focused on Agile practices rather than a comprehensive exploration of decision theory itself.",
+    "level": "Tertiary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",

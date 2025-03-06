@@ -26,11 +26,11 @@ categories:
 tags:
 - Value Delivery
 - Continuous Delivery
-- Product Delivery
 - Customer Feedback Loops
 - Discovery and Learning
 - Product Validation
 - Frequent Releases
+- Product Delivery
 - Software Development
 - Working Software
 - Agile Product Management

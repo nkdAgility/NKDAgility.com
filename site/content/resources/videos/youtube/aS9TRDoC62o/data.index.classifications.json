@@ -1018,12 +1018,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-12T09:30:07",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-06T15:54:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the integration of DevOps with Agile practices and the importance of organisational adaptability in responding to market changes, which aligns with the principles of Enterprise Agility. However, the primary focus is on DevOps and Agile practices rather than a broader organisational context.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the integration of DevOps with Agile practices, highlighting the importance of organisational adaptability and responsiveness to market changes. While it does not explicitly mention 'Enterprise Agility', it aligns with the core themes of fostering a culture of adaptability and continuous improvement. The depth of discussion on balancing technical capabilities with organisational responsiveness contributes to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Lean": {
     "category": "Lean",
@@ -1171,11 +1174,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T09:30:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T15:54:19",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the integration of DevOps with Agile practices, emphasising the importance of engineering excellence and the need for collaboration between development and operations to enhance software delivery.",
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the integration of DevOps with Agile practices, highlighting the importance of engineering excellence and the need for a balance between technical capabilities and organisational responsiveness. It addresses key DevOps concepts such as shortening feedback loops and delivering high-quality products quickly, which aligns well with the core themes of the DevOps category. The depth of discussion is substantial, providing insights into how DevOps practices can enhance Agile methodologies, thus reinforcing the primary focus on DevOps.",
     "level": "Secondary"
   },
   "Azure DevOps": {

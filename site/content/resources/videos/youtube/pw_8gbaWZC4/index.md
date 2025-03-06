@@ -25,8 +25,8 @@ preview: https://i.ytimg.com/vi/pw_8gbaWZC4/maxresdefault.jpg
 duration: 294
 isShort: false
 tags:
-- Transparency
 - Metrics and Learning
+- Transparency
 - Flow Efficiency
 - Agile Frameworks
 - Agile Project Management

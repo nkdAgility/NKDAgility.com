@@ -30,8 +30,8 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Agile Project Management
 - Personal
+- Agile Project Management
 - Agile Transformation
 - Software Development
 resourceTypes:

@@ -34,11 +34,11 @@ tags:
 - Decision Making
 - Product Owner
 - Products and Books
-- Agile Product Management
 - Agile Project Management
 - Team Collaboration
 - Entrepreneurship
 - Pragmatic Thinking
+- Sensemaking
 resourceTypes:
 - video
 categories:

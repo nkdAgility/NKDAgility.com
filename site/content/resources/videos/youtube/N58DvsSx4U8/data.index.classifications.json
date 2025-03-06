@@ -1135,11 +1135,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T04:21:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T15:57:39",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical application of DevOps techniques and tooling, specifically focusing on the transformation journey of a client using Azure DevOps and the restructuring of processes to improve efficiency and collaboration.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses a specific case study involving the implementation of Azure DevOps and the challenges faced by a large organisation in streamlining their build processes. It mentions practical tools (Azure DevOps, Team Foundation Version Control) and methodologies (Agile, DevOps) while providing insights into the complexities of integrating multiple teams and systems. However, the focus is more on the narrative of the consulting experience rather than a structured exploration of practical techniques and tooling, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Events and Presentations": {
@@ -1171,12 +1174,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T04:21:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T15:57:37",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses a DevOps consulting outcome, detailing the transformation journey of a client through the integration of DevOps practices, tools, and principles. It highlights the challenges faced, the role of Azure DevOps, and the importance of simplification and unification in the DevOps process.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content primarily focuses on a real-world DevOps consulting experience, discussing the challenges faced by a large organisation in managing their software development and deployment processes. It explicitly mentions DevOps principles, such as the need for a unified source control system and the importance of simplifying build processes, which aligns well with the core themes of DevOps. The depth of discussion is significant, as it details the complexities of the existing system, the consultant's recommendations, and the eventual implementation of Azure DevOps. Overall, the content is a strong fit for the DevOps category.",
+    "level": "Primary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",

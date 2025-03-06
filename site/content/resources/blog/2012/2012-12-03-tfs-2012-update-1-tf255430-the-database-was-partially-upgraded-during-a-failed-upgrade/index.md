@@ -29,8 +29,8 @@ aliasesArchive:
 - /blog/tfs-2012-update-1---tf255430--the-database-was-partially-upgraded-during-a-failed-upgrade
 - /resources/blog/tfs-2012-update-1-tf255430-the-database-was-partially-upgraded-during-a-failed-upgrade
 tags:
-- Windows
 - Install and Configuration
+- Windows
 - System Configuration
 - Operational Practices
 - Practical Techniques and Tooling

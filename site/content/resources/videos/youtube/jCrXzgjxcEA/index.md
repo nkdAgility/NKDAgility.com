@@ -24,12 +24,12 @@ preview: https://i.ytimg.com/vi/jCrXzgjxcEA/maxresdefault.jpg
 duration: 1448
 isShort: false
 tags:
+- Azure DevOps
 - Practical Techniques and Tooling
 - Software Development
 - Agile Planning Tools
 - Agile Project Management
 - Azure Boards
-- Azure DevOps
 - Cycle Time
 - Lead Time
 - Software Developers

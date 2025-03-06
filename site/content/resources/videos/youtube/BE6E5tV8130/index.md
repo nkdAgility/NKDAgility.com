@@ -41,8 +41,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Product Management
 - Social Technologies
+- Product Management
 
 ---
 How is agile product development different to waterfall project management?

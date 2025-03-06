@@ -29,8 +29,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Coaching
 - People and Process
+- Coaching
 - Mentoring
 - Pragmatic Thinking
 resourceTypes:

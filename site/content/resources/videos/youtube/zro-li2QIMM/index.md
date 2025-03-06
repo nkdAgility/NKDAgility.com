@@ -26,6 +26,15 @@ duration: 50
 isShort: true
 tags:
 - Mentoring
+- Personal
+- Agile Values and Principles
+- People and Process
+- Agile Frameworks
+- Agile Leadership
+- Agile Philosophy
+- Agile Project Management
+- Agile Strategy
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -30,9 +30,9 @@ tags:
 - Software Development
 - Technical Excellence
 - People and Process
+- Value Delivery
 - Technical Debt
 - Technical Leadership
-- Value Delivery
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml

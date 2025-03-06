@@ -33,13 +33,13 @@ tags:
 - Flow Efficiency
 - Lean
 - People and Process
+- Product Delivery
 - Strategy
 - Throughput
 - Agile Product Management
 - Cycle Time
 - Lean Product Development
 - Lean Thinking
-- Scrum Product Development
 resourceTypes:
 - video
 categories:

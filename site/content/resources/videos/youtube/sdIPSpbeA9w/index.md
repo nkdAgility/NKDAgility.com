@@ -27,12 +27,12 @@ isShort: false
 tags:
 - Automated Testing
 - Software Development
+- Technical Excellence
 - Test Automation
 - Practical Techniques and Tooling
 - Pragmatic Thinking
 - Engineering Practices
 - Operational Practices
-- Technical Excellence
 - Technical Mastery
 - Value Delivery
 sitemap:

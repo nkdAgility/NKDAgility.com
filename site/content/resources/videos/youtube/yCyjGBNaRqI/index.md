@@ -33,7 +33,7 @@ tags:
 - Employee Engagement
 - Organisational Culture
 - Organisational Psychology
-- Personal
+- Self Organisation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

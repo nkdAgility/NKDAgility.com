@@ -32,8 +32,8 @@ resourceTypes:
 categories:
 - Engineering Excellence
 tags:
-- Metrics and Learning
 - Value Delivery
+- Metrics and Learning
 - Operational Practices
 - Transparency
 - Systems Thinking

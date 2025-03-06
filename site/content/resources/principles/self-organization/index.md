@@ -32,8 +32,8 @@ tags:
 - Agile Frameworks
 - Agile Project Management
 - People and Process
-- Self Organisation
 - Software Development
+- Self Organisation
 - Professional Scrum
 
 ---

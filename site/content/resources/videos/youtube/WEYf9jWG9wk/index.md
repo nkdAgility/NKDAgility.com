@@ -29,10 +29,10 @@ isShort: true
 tags:
 - Discovery and Learning
 - Hypothesis Driven Development
-- Value Delivery
 - Continuous Learning
 - Experimentation
 - Pragmatic Thinking
+- Value Delivery
 - Business Agility
 - Lean Product Development
 - Product Discovery

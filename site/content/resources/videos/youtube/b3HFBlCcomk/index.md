@@ -37,8 +37,8 @@ tags:
 - Agile Philosophy
 - Agile Strategy
 - Agile Transformation
-- Business Agility
 - Organisational Agility
+- Value Delivery
 resourceTypes:
 - video
 categories:

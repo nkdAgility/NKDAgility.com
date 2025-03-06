@@ -31,13 +31,13 @@ tags:
 - Flow Efficiency
 - People and Process
 - Events and Presentations
-- Practical Techniques and Tooling
 - Scrum Product Development
 - Team Performance
 - Value Delivery
 - Agile Frameworks
 - Agile Project Management
 - Lean Principles
+- Lean Product Development
 
 ---
 ## Duration

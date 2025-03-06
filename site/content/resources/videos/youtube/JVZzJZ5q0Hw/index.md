@@ -33,12 +33,12 @@ sitemap:
 tags:
 - Agile Planning
 - Scrum Product Development
+- Product Delivery
 - Backlog Refinement
 - People and Process
 - Product Backlog
 - Agile Planning Tools
 - Agile Product Management
-- Product Delivery
 - Scrum Team
 - Team Performance
 resourceTypes:

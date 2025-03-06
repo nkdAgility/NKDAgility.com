@@ -31,7 +31,6 @@ sitemap:
 tags:
 - People and Process
 - Agile Leadership
-- Agile Product Management
 - Agile Product Operating Model
 - Agile Values and Principles
 - Business Agility
@@ -39,6 +38,7 @@ tags:
 - Agile Frameworks
 - Agile Philosophy
 - Agile Project Management
+- Agile Strategy
 resourceTypes:
 - video
 layout: video

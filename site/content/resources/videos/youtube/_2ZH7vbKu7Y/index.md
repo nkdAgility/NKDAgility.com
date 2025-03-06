@@ -35,12 +35,12 @@ tags:
 - Personal
 - Continuous Learning
 - Discovery and Learning
-- Resilience and Change
 - Agile Leadership
 - Change Management
 - Organisational Change
 - Pragmatic Thinking
 - Team Collaboration
+- Team Motivation
 categories:
 - Leadership
 - Engineering Excellence

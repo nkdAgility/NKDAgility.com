@@ -31,7 +31,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Discovery and Learning
 - Professional Scrum
 - Scrum Master
 - Agile Frameworks
@@ -41,6 +40,7 @@ tags:
 - Coaching
 - Pragmatic Thinking
 - Accountability
+- Discovery and Learning
 resourceTypes:
 - video
 categories:

@@ -33,7 +33,6 @@ tags:
 - Organisational Agility
 - People and Process
 - Organisational Change
-- Resilience and Change
 - Agile Philosophy
 - Agile Transformation
 - Business Agility

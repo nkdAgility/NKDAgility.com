@@ -39,10 +39,10 @@ tags:
 - Empirical Process Control
 - Evidence Based Leadership
 - Evidence Based Management
-- Practical Techniques and Tooling
 - Agile Project Management
 - Decision Making
 - Operational Practices
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

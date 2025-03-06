@@ -29,8 +29,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Resilience and Change
 - Organisational Agility
+- Resilience and Change
 - Product Strategy
 - Decision Making
 - Pragmatic Thinking

@@ -41,10 +41,10 @@ categories:
 tags:
 - People and Process
 - Agile Product Management
+- Product Delivery
 - Scrum Product Development
 - Scrum Team
 - Agile Planning
-- Product Delivery
 - Professional Scrum
 - Team Collaboration
 - Agile Frameworks

@@ -29,9 +29,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Coaching
 - Mentoring
 - People and Process
+- Coaching
 resourceTypes:
 - video
 categories:

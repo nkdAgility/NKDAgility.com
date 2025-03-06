@@ -37,7 +37,7 @@ tags:
 - Discovery and Learning
 - People and Process
 - Product Backlog
-- Resilience and Change
+- Scrum Product Development
 categories:
 - Product Management
 - Social Technologies

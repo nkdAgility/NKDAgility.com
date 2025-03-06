@@ -28,8 +28,8 @@ tags:
 - Modern Source Control
 - Practical Techniques and Tooling
 - Software Development
-- Technical Excellence
 - Technical Mastery
+- Technical Excellence
 - Operational Practices
 - Pragmatic Thinking
 sitemap:

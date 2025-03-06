@@ -33,13 +33,13 @@ tags:
 - Product Delivery
 - Increment
 - Agile Leadership
-- Agile Product Management
 - Agile Product Operating Model
 - Agile Values and Principles
 - Business Agility
 - People and Process
 - Working Software
 - Agile Frameworks
+- Agile Philosophy
 resourceTypes:
 - video
 categories:

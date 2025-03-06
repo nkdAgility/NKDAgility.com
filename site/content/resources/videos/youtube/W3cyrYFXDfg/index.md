@@ -37,9 +37,9 @@ tags:
 - Evidence Based Leadership
 - Organisational Agility
 - Agile Strategy
+- Business Agility
 - Enterprise Agility
 - Agile Project Management
-- Agile Transformation
 resourceTypes:
 - video
 categories:

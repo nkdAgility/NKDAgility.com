@@ -37,9 +37,9 @@ tags:
 - Agile Project Management
 - Pragmatic Thinking
 - Personal
-- Practical Techniques and Tooling
 - Scrum Team
 - Team Performance
+- Coaching
 resourceTypes:
 - video
 layout: video

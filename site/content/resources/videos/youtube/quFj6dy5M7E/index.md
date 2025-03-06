@@ -30,11 +30,11 @@ tags:
 - Value Delivery
 - Pragmatic Thinking
 - Software Development
+- Organisational Agility
 - Sociotechnical Systems
 - Market Adaptability
 - Software Developers
 - Team Performance
-- Agile Product Operating Model
 sitemap:
   filename: sitemap.xml
   priority: 0.6

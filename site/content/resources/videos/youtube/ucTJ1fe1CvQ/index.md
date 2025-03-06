@@ -30,15 +30,6 @@ sitemap:
   priority: 0.6
 tags:
 - Discovery and Learning
-- Experimentation
-- People and Process
-- Product Discovery
-- Product Validation
-- Continuous Learning
-- Hypothesis Driven Development
-- Pragmatic Thinking
-- Agile Product Management
-- Product Delivery
 resourceTypes:
 - video
 categories:

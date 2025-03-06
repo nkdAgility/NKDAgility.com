@@ -34,11 +34,11 @@ tags:
 - Product Owner
 - Scrum Product Development
 - Scrum Team
-- Transparency and Accountability
 - Agile Project Management
 - Professional Scrum
 - Team Collaboration
 - Agile Product Management
+- Personal
 resourceTypes:
 - video
 categories:

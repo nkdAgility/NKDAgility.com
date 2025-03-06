@@ -31,13 +31,13 @@ tags:
 - People and Process
 - Scrum Product Development
 - Agile Product Management
-- Product Delivery
 - Professional Scrum
 - Agile Frameworks
 - Agile Planning
 - Agile Project Management
 - Pragmatic Thinking
 - Software Developers
+- Software Development
 resourceTypes:
 - video
 categories:

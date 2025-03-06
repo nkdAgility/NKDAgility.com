@@ -31,9 +31,9 @@ sitemap:
   priority: 0.6
 tags:
 - Flow Efficiency
+- Practical Techniques and Tooling
 - Operational Practices
 - Lean Thinking
-- Practical Techniques and Tooling
 - Pragmatic Thinking
 - Software Development
 - Agile Frameworks

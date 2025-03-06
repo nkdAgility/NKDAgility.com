@@ -35,8 +35,8 @@ tags:
 - Agile Product Management
 - Personal
 - Pragmatic Thinking
-- Product Owner
 - Value Delivery
+- Product Owner
 - Decision Making
 - Evidence Based Leadership
 - Experimentation

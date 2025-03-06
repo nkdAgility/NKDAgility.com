@@ -35,10 +35,10 @@ tags:
 - Strategy
 - Transparency
 - Flow Efficiency
+- Practical Techniques and Tooling
 - Metrics and Learning
 - Agile Project Management
 - Agile Strategy
-- Practical Techniques and Tooling
 - Software Development
 - Agile Frameworks
 - Operational Practices

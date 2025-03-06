@@ -25,7 +25,6 @@ preview: https://i.ytimg.com/vi/Zegnsk2Nl0Y/maxresdefault.jpg
 duration: 44
 isShort: true
 tags:
-- Scrum Master
 - Practical Techniques and Tooling
 sitemap:
   filename: sitemap.xml

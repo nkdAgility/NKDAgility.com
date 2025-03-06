@@ -32,9 +32,9 @@ tags:
 - Business Agility
 - Discovery and Learning
 - Lean Startup
-- Metrics and Learning
 - Pragmatic Thinking
 - Product Delivery
+- Product Discovery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -33,11 +33,11 @@ tags:
 - Discovery and Learning
 - Agile Leadership
 - Organisational Culture
+- Organisational Agility
 - Continuous Learning
 - Organisational Change
 - Coaching
 - Mentoring
-- Organisational Agility
 - Personal
 resourceTypes:
 - video

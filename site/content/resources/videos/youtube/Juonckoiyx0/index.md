@@ -27,6 +27,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Product Delivery
 - People and Process
 - Scrum Product Development
 - Scrum Team
@@ -36,7 +37,6 @@ tags:
 - Product Owner
 - Professional Scrum
 - Scrum Master
-- Team Collaboration
 resourceTypes:
 - video
 categories:

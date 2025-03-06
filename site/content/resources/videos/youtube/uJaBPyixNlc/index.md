@@ -39,7 +39,6 @@ tags:
 - Agile Frameworks
 - Agile Transformation
 - Mentoring
-- Discovery and Learning
 resourceTypes:
 - video
 categories:

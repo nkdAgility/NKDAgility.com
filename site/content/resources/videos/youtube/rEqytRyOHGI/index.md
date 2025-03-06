@@ -30,7 +30,6 @@ sitemap:
   priority: 0.6
 tags:
 - Product Delivery
-- Agile Product Management
 - Agile Project Management
 - People and Process
 - Agile Frameworks
@@ -39,6 +38,7 @@ tags:
 - Agile Strategy
 - Agile Transformation
 - Scrum Product Development
+- Value Delivery
 resourceTypes:
 - video
 categories:

@@ -38,8 +38,8 @@ tags:
 - Empirical Process Control
 - Evidence Based Management
 - Pragmatic Thinking
-- Transparency and Accountability
 - Agile Strategy
+- Decision Making
 resourceTypes:
 - video
 categories:

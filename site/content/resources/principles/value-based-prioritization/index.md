@@ -26,11 +26,11 @@ categories:
 - Product Management
 - Social Technologies
 tags:
+- Value Delivery
 - Product Backlog
 - Scrum Product Development
 - Agile Product Operating Model
 - Product Owner
-- Value Delivery
 - Agile Planning
 - Agile Project Management
 - Agile Product Management

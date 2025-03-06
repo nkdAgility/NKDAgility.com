@@ -1183,11 +1183,14 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T16:52:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T15:43:00",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses technical debt, its implications on software quality, and the relationship between managing technical debt and improving code quality and system performance. It explores how decisions made during development can lead to complexities that affect long-term maintainability and scalability, aligning well with the key topics of the category.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily discusses technical debt, which is a significant aspect of code quality and complexity. It explores how technical debt arises from both deliberate and inadvertent decisions in software development, linking it to the overall quality of the codebase. The examples provided, particularly regarding the Azure DevOps team, illustrate the impact of technical debt on software delivery and the importance of managing it effectively. While the discussion is rich in detail and provides insights into the relationship between technical debt and code quality, it does not delve deeply into broader complexity theory concepts or architectural implications, which slightly limits its alignment with the category's core themes.",
     "level": "Secondary"
   },
   "Lean": {

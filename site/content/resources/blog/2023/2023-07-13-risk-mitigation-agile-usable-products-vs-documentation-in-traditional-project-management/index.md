@@ -30,13 +30,13 @@ aliasesArchive:
 tags:
 - Pragmatic Thinking
 - Strategy
+- Product Delivery
 - Agile Product Management
 - Agile Project Management
 - Increment
 - Agile Philosophy
 - Agile Strategy
 - Agile Values and Principles
-- Product Delivery
 - Software Development
 categories:
 - Social Technologies

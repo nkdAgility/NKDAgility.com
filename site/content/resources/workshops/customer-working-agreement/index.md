@@ -29,7 +29,6 @@ categories:
 - Scrum
 - Product Management
 tags:
-- People and Process
 - Scrum Product Development
 - Working Agreements
 - Agile Frameworks
@@ -39,6 +38,7 @@ tags:
 - Software Development
 - Transparency
 - Agile Product Management
+- Transparency and Accountability
 
 ---
 ## Customer Working Agreement

@@ -28,10 +28,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Metrics and Learning
 - Decision Making
 - Evidence Based Management
 - Evidence Based Leadership
-- Metrics and Learning
 - People and Process
 - Decision Theory
 - Pragmatic Thinking

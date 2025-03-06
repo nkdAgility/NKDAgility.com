@@ -26,10 +26,10 @@ duration: 675
 isShort: false
 tags:
 - Metrics and Learning
+- People and Process
 - Pragmatic Thinking
 - Ability to Innovate
 - Decision Making
-- People and Process
 - Scrum Product Development
 - Agile Product Operating Model
 - Agile Project Management

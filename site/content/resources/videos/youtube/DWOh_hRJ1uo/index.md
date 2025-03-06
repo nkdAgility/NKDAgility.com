@@ -36,7 +36,6 @@ tags:
 - Agile Frameworks
 - Agile Project Management
 - People and Process
-- Discovery and Learning
 - Continuous Learning
 - Pragmatic Thinking
 - Professional Scrum

@@ -31,8 +31,8 @@ tags:
 - People and Process
 - Software Development
 - Pragmatic Thinking
-- Agile Transformation
 - Personal
+- Agile Transformation
 resourceTypes:
 - video
 categories:

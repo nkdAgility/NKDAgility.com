@@ -33,7 +33,6 @@ tags:
 - Agile Frameworks
 - Agile Project Management
 - Pragmatic Thinking
-- Value Delivery
 - Decision Making
 - Agile Strategy
 resourceTypes:

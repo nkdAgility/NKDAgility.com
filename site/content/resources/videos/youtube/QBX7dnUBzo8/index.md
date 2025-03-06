@@ -33,13 +33,13 @@ tags:
 - Enterprise Agility
 - Business Agility
 - People and Process
+- Systems Thinking
 - Agile Frameworks
 - Agile Leadership
 - Agile Philosophy
 - Agile Strategy
 - Agile Transformation
 - Change Management
-- Metrics and Learning
 resourceTypes:
 - video
 categories:

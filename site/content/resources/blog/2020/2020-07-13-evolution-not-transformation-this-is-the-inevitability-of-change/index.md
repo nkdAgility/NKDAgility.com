@@ -36,7 +36,7 @@ tags:
 - Agile Values and Principles
 - Business Agility
 - Change Management
-- Continuous Learning
+- Complexity Thinking
 categories:
 - Leadership
 - Social Technologies
