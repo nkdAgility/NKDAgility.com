@@ -43,12 +43,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-25T12:04:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T14:02:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses scaling and agility, which are related to Agile practices, but the primary focus is on technical debt and architecture rather than the core principles of Scrum, Kanban, Lean, or Agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses scaling and technical debt but does not explicitly mention any of the core frameworks like Scrum, Kanban, Lean, or Agile practices. While it touches on concepts like sustainable architecture and DevOps, which can relate to Agile methodologies, the primary focus is on technical debt management rather than social technologies or collaborative frameworks. Therefore, the confidence score reflects a low direct mention and conceptual alignment with the category.",
+    "level": "Quaternary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -220,12 +223,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-25T12:04:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T14:02:16",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses scaling and the impact of technical debt on agility, which aligns with the principles of business agility, but it primarily focuses on technical aspects and practices rather than a comprehensive exploration of business agility as a primary topic.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of managing technical debt in the context of scaling, which indirectly relates to business agility. However, it primarily focuses on technical aspects and practices rather than the broader principles of business agility. While it mentions 'naked agility' and DevOps practices, these are not explored in depth regarding their role in fostering a culture of innovation or adaptability. The discussion lacks a comprehensive exploration of leadership roles or case studies that would strengthen its alignment with the category.",
+    "level": "Quaternary"
   },
   "AI": {
     "category": "AI",
