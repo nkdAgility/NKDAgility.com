@@ -36,7 +36,7 @@ tags:
 - Value Delivery
 - Agile Frameworks
 - Agile Project Management
-- Lean
+- Lean Principles
 
 ---
 ## Duration
