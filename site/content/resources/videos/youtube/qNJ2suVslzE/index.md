@@ -25,16 +25,16 @@ preview: https://i9.ytimg.com/vi/qNJ2suVslzE/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 259
 isShort: false
 tags:
-- Market Adaptability
-- Agile Product Operating Model
 - Agile Product Management
+- Market Adaptability
+- Organisational Agility
+- Agile Product Operating Model
 - Agile Values and Principles
 - Agile Frameworks
 - Agile Philosophy
 - Agile Planning
 - Agile Project Management
 - Agile Strategy
-- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

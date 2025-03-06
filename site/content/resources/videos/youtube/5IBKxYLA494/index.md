@@ -25,6 +25,7 @@ duration: 2504
 isShort: false
 tags:
 - Agile Project Management
+- Practical Techniques and Tooling
 - Scrum Product Development
 - Software Development
 sitemap:

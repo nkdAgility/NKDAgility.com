@@ -28,8 +28,8 @@ duration: 36
 isShort: true
 tags:
 - Technical Debt
-- Working Software
 - Value Delivery
+- Working Software
 sitemap:
   filename: sitemap.xml
   priority: 0.6

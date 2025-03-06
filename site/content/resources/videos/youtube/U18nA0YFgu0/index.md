@@ -34,9 +34,9 @@ tags:
 - Accountability
 - People and Process
 - Organisational Culture
-- Transparency and Accountability
 - Agile Philosophy
 - Agile Project Management
+- Transparency and Accountability
 - Personal
 - Pragmatic Thinking
 - Sociotechnical Systems

@@ -1087,20 +1087,26 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-12T04:13:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:55:24",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the application of flow metrics within Scrum to enhance value delivery, which aligns closely with product delivery methodologies and practices.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the application of flow metrics within a Scrum context, which directly relates to product delivery methodologies. It highlights the importance of value delivery and the role of Kanban in enhancing Scrum practices, aligning well with the core themes of product delivery. The depth of discussion is substantial, covering specific practices and tools that can improve delivery outcomes, although it primarily focuses on Scrum rather than a broader range of product delivery methodologies.",
     "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-12T04:13:56",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-06T15:49:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "Content discusses the application of flow metrics within Scrum, focusing on value delivery and stakeholder satisfaction, which aligns with Agile Product Management principles.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the application of flow metrics within a Scrum context, which is a key Agile framework. It explicitly mentions Scrum roles and events, indicating a direct focus on Agile methodologies. The discussion aligns well with the core themes of Agile Product Management, particularly in terms of delivering value and improving team performance. However, while it provides substantial detail on the use of Kanban within Scrum, it does not delve deeply into broader Agile product management strategies or stakeholder engagement, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Discovery and Learning": {
@@ -1213,11 +1219,14 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-17T13:15:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T14:55:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 12,
+    "ai_alignment": 16,
+    "ai_depth": 14,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Kanban principles in the context of a Scrum course, making Kanban a significant but secondary theme.",
+    "final_score": 43.0,
+    "reasoning": "The content discusses Kanban in the context of a Scrum course, which indicates a secondary focus rather than a primary one. While it mentions Kanban's benefits for Scrum teams and touches on flow metrics, the overall emphasis is on Scrum practices. The direct mentions of Kanban are present, but they are not the main subject of the discussion, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Value Delivery": {

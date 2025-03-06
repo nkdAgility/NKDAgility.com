@@ -27,6 +27,7 @@ isShort: false
 tags:
 - Agile Values and Principles
 - Organisational Agility
+- Discovery and Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -34,7 +35,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Leadership
 - Social Technologies
 - Scrum
 

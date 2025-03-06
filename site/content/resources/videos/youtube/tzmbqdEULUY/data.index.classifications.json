@@ -334,21 +334,27 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T20:25:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T15:43:45",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the migration process in a software development context, including the use of Git for version control and the planning involved to minimise downtime during data migration, which aligns with software development practices.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses data migration in the context of software development, particularly focusing on minimising downtime and the role of version control systems like Git. It touches on collaborative practices and planning, which are relevant to software development methodologies. However, while it mentions key concepts like Git and planning, the depth of discussion on broader software development practices is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T12:03:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T14:43:04",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of planning and executing a data migration with minimal downtime, which touches on best practices in engineering processes and collaboration among engineers. However, the primary focus is on the migration process itself rather than a broader discussion on engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses data migration and minimising downtime, which touches on aspects of engineering practices, such as planning and execution. However, it lacks a direct focus on broader engineering excellence principles like coding standards, quality assurance, or CI/CD practices. While it mentions the importance of dry runs and planning, it does not delve deeply into the continuous improvement of engineering processes or the quality of deliverables, which are core themes of the category.",
+    "level": "Quaternary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1186,11 +1192,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-12T20:23:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:43:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the migration process involving Azure DevOps, including the impact of downtime and the use of Git within Azure DevOps, making it a central topic.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses Azure DevOps in the context of data migration and downtime management, which is relevant to Azure DevOps functionalities. However, the primary focus is on the migration process rather than a comprehensive exploration of Azure DevOps services or best practices. While Azure DevOps is mentioned, the discussion lacks depth in terms of its broader functionalities and methodologies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Products and Books": {

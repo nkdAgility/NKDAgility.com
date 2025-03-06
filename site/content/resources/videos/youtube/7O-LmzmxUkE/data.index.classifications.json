@@ -82,12 +82,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T15:06:58",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum events and their purpose in product development, which relates to product management, but primarily focuses on Scrum methodology rather than broader product management strategies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily discusses Scrum events and their purposes, which are relevant to product management but focuses more on the mechanics of Scrum rather than the strategic aspects of product management. While it touches on stakeholder engagement and the importance of adapting based on feedback, it lacks a broader discussion on product management methodologies or frameworks. The depth of discussion is moderate, but it does not fully align with the core themes of product management as defined in the category.",
+    "level": "Quaternary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -1081,20 +1084,26 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-12T10:32:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T15:07:01",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses Scrum events and their purpose in the context of product delivery, focusing on inspection and adaptation, which are key aspects of Agile methodologies.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses Scrum, a framework within Agile methodologies, which is directly related to product delivery. It elaborates on the purpose of Scrum events, emphasising their role in inspection and adaptation, which aligns with the iterative development and feedback loops essential for effective product delivery. The depth of discussion is significant, as it provides detailed insights into specific Scrum events and their intended outcomes, contributing to the understanding of how these practices facilitate the delivery of usable software products. However, while the content is focused on Scrum, it does not cover broader aspects of product delivery such as deployment strategies or cross-functional team dynamics, which slightly limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-12T10:33:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T15:52:06",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses Scrum events and their purpose in the Agile framework, focusing on the role of the Product Owner and the importance of adapting the product backlog based on stakeholder feedback.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses Scrum events and their purpose in facilitating adaptation and inspection, which aligns closely with Agile Product Management principles. It explicitly mentions the role of Scrum events in achieving product goals and stakeholder engagement, indicating a strong focus on Agile methodologies. However, while it provides substantial detail on Scrum practices, it lacks broader discussions on product management strategies and techniques, which slightly limits its depth in the context of Agile Product Management.",
     "level": "Secondary"
   },
   "Discovery and Learning": {

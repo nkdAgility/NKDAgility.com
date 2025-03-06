@@ -100,11 +100,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T15:39:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T15:04:06",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily focuses on the technical process of migrating projects using Azure DevOps tools, detailing installation, configuration, and execution steps. While it touches on technical practices, it lacks a broader discussion on methodologies or principles that enhance agility or quality in software development.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on the practical steps for migrating projects using Azure DevOps tools, which includes some technical details about configuration and execution. However, it lacks a strong emphasis on broader engineering practices or methodologies that enhance agility, such as TDD, CI/CD, or modular architecture. While it touches on technical aspects, it does not delve deeply into the principles of technical excellence or how these practices contribute to overall project success.",
     "level": "Tertiary"
   },
   "People and Process": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T15:39:32",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-06T15:04:03",
+    "ai_confidence": 92.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 95.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 50,
-    "final_score": 86.0,
-    "reasoning": "The content primarily focuses on the migration process using Azure DevOps tools, which is a key aspect of DevOps practices. It discusses installation, configuration, and execution of migration tasks, highlighting automation and tools that facilitate continuous delivery, aligning well with DevOps principles.",
+    "final_score": 88.0,
+    "reasoning": "The content is a detailed guide on using Azure DevOps migration tools, which directly relates to DevOps practices. It discusses the installation, configuration, and execution of migration processes, showcasing the integration of tools and automation in DevOps. The content aligns well with key DevOps topics such as Continuous Integration and Continuous Delivery, the role of automation, and the use of specific tools. The depth of discussion is substantial, providing step-by-step instructions and addressing potential issues, which further supports its strong alignment with the DevOps category.",
     "level": "Primary"
   },
   "Social Technologies": {

@@ -1168,20 +1168,26 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 92,
+    "calculated_at": "2025-03-06T14:35:18",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 50,
-    "final_score": 88.0,
-    "reasoning": "Content primarily discusses the flaws of traditional branching models in software delivery and advocates for modern practices like GitHub Flow and Release Flow, which are central to DevOps principles of continuous integration and delivery.",
+    "final_score": 83.0,
+    "reasoning": "The content focuses extensively on the flaws of traditional branching models in software delivery, advocating for modern practices like GitHub Flow and Release Flow, which are integral to DevOps principles. It discusses continuous integration and delivery, automation, and the cultural shifts necessary for effective DevOps implementation. The depth of discussion is significant, providing detailed critiques and alternatives to outdated practices, thus aligning well with the core themes of DevOps.",
     "level": "Primary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-11T14:28:12",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-06T14:35:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 78.0,
-    "reasoning": "The content discusses branching strategies and CI/CD practices, specifically mentioning Microsoft's Release Flow, which is directly related to Azure DevOps functionalities. It focuses on improving delivery processes, aligning with Azure DevOps principles.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses branching strategies and models relevant to software delivery, including GitHub Flow and Release Flow, which are associated with Azure DevOps. However, while it mentions Release Flow as developed by Microsoft, the primary focus is on general branching practices rather than specific Azure DevOps functionalities or best practices. The discussion lacks depth in Azure DevOps-specific tools and methodologies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Products and Books": {
@@ -1231,11 +1237,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-11T14:28:25",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-06T15:41:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "Content primarily discusses the flaws of traditional branching models and advocates for more agile practices like GitHub Flow and Release Flow, which enhance organisational agility by promoting continuous delivery and reducing complexity.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the flaws of traditional branching models and promotes more agile practices like GitHub Flow and Release Flow, which align with the principles of organisational agility. However, it primarily focuses on technical aspects of software delivery rather than broader organisational strategies or cultural shifts, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Personal": {

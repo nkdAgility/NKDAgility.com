@@ -121,11 +121,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-13T19:57:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:42:31",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses Test-Driven Development (TDD) and pair programming, both of which are key engineering practices that enhance code quality and architecture. It focuses on the benefits of these methodologies in improving software architecture and overall productivity, aligning well with the principles of technical excellence.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on Test-Driven Development (TDD) and its impact on software architecture, which aligns well with the principles of Technical Excellence. It discusses the benefits of TDD in creating better architectures and highlights the role of pair programming in enhancing code quality. However, while it touches on these key topics, the depth of discussion could be expanded to fully explore the methodologies and practices that enhance agility in software development. Overall, the content is relevant and provides a solid foundation, but it could benefit from a more comprehensive exploration of the themes outlined in the category.",
     "level": "Secondary"
   },
   "Install and Configuration": {
@@ -1393,14 +1396,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:40:43",
+    "calculated_at": "2025-03-06T14:42:26",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
     "ai_depth": 40.0,
     "non_ai_confidence": 0,
     "final_score": 22.0,
-    "reasoning": "The content primarily discusses test-driven development (TDD) and pair programming, which are not specific to Scrum. While there are elements of collaboration and productivity that could relate to Scrum principles, the focus is not on Scrum roles, events, or artifacts. The mention of productivity and collaboration is too vague to strongly align with Scrum's core themes, resulting in a low confidence score.",
+    "reasoning": "The content briefly touches on concepts related to collaboration and productivity, which are relevant to Scrum principles, but it primarily focuses on test-driven development (TDD) and pair programming without explicitly discussing Scrum roles, events, or artifacts. The alignment with Scrum is minimal, as it does not delve into the Scrum framework or its core themes, resulting in a low confidence score.",
     "level": "Quaternary"
   }
 }

@@ -29,21 +29,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
-- Agile Leadership
-- Agile Project Management
-- Agile Strategy
-- Agile Transformation
-- Business Agility
-- Coaching
-- Enterprise Agility
-- Market Adaptability
-- Mentoring
+- People and Process
 resourceTypes:
 - video
 layout: video
 categories:
-- Leadership
 - Social Technologies
 
 ---

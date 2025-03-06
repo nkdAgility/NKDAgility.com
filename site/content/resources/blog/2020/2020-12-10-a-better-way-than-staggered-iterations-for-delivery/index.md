@@ -8,7 +8,7 @@ ResourceImportId: 9915
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-12-10
-weight: 275
+weight: 245
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -24,6 +24,7 @@ aliasesArchive:
 - /a-better-way-than-staggered-iterations-for-delivery
 - /resources/blog/a-better-way-than-staggered-iterations-for-delivery
 tags:
+- Value Delivery
 - Increment
 - Test First Development
 - Business Agility
@@ -33,7 +34,6 @@ tags:
 - Scrum Product Development
 - Scrum Team
 - Software Developers
-- Software Development
 categories:
 - Scrum
 preview: staggered-iterations-for-delivery1-2-2.png

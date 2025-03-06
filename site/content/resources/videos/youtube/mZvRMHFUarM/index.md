@@ -2,7 +2,7 @@
 title: 'Rethinking Software Estimation: Embrace Probabilistic Forecasting for Agile Success'
 description: Unlock the secrets of effective software project management! Discover how probabilistic forecasting can replace traditional estimation for better outcomes.
 date: 2024-12-05T06:30:00Z
-weight: 775
+weight: 810
 ResourceId: mZvRMHFUarM
 ResourceType: videos
 ResourceImport: true
@@ -25,12 +25,12 @@ preview: https://i9.ytimg.com/vi/mZvRMHFUarM/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 201
 isShort: false
 tags:
+- Pragmatic Thinking
 - Estimation
 - Forecasting
 - Decision Theory
 - Software Development
 - Decision Making
-- Pragmatic Thinking
 - Product Delivery
 sitemap:
   filename: sitemap.xml
@@ -39,7 +39,6 @@ resourceTypes:
 - video
 categories:
 - Product Management
-- Engineering Excellence
 - Social Technologies
 
 ---

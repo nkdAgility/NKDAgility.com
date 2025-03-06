@@ -37,7 +37,7 @@ tags:
 - Agile Frameworks
 - Agile Philosophy
 - Agile Strategy
-- Enterprise Agility
+- Organisational Agility
 resourceTypes:
 - video
 categories:

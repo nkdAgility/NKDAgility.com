@@ -334,20 +334,26 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T20:21:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:43:00",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the migration from TFS to Azure DevOps, addressing compatibility issues and considerations in the context of software development practices.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the migration from TFS to Azure DevOps, which is a significant aspect of software development practices, particularly in the context of version control and CI/CD. It explicitly mentions compatibility issues, the importance of maintaining code integrity, and the need for planning around customisations, all of which are core themes in software development. The depth of discussion is substantial, covering practical considerations and implications of the migration process, thus aligning well with the category.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T12:03:37",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-06T14:42:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses compatibility issues and considerations during a migration to Azure DevOps, which touches on aspects of software development practices. However, it primarily focuses on migration challenges rather than promoting high standards in software craftsmanship or continuous improvement of engineering processes.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the migration from TFS to Azure DevOps, touching on compatibility issues and the importance of maintaining functionality and data integrity. However, it lacks a direct focus on engineering excellence principles such as coding standards, quality assurance, or best practices in software craftsmanship. While it does mention the need for compliance and the significance of organisational assets, these points are more about operational concerns rather than a deep exploration of engineering excellence. The discussion is somewhat relevant but does not delve into the core themes of the category.",
     "level": "Quaternary"
   },
   "Throughput": {
@@ -550,11 +556,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T20:21:54",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-06T15:43:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses practical considerations and problem-solving strategies related to migrating from TFS on-prem to Azure DevOps, highlighting real-world applications and the need for adaptability in managing compatibility issues. However, it primarily focuses on specific migration challenges rather than broader Agile or Scrum principles.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses practical considerations and problem-solving strategies related to migrating from TFS to Azure DevOps, which aligns with the core themes of Pragmatic Thinking. It addresses real-world challenges, such as compatibility issues and the need for planning around customisations, demonstrating adaptability and critical thinking. However, while it touches on relevant topics, the depth of discussion on Agile or Scrum principles is limited, and the focus is more on technical migration rather than broader Agile methodologies.",
     "level": "Secondary"
   },
   "Deployment Frequency": {

@@ -32,6 +32,7 @@ sitemap:
 tags:
 - Discovery and Learning
 - Continuous Learning
+- People and Process
 - Personal
 resourceTypes:
 - video

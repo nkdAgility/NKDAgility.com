@@ -30,14 +30,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Practical Techniques and Tooling
 - Strategy
 - Operational Practices
-- People and Process
-- Practical Techniques and Tooling
 - Team Collaboration
 - Agile Frameworks
 - Agile Project Management
 - Lean Thinking
+- People and Process
 - Pragmatic Thinking
 - Software Development
 resourceTypes:

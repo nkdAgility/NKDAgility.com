@@ -32,7 +32,6 @@ sitemap:
 tags:
 - Personal
 - Discovery and Learning
-- People and Process
 - Continuous Learning
 - Coaching
 resourceTypes:

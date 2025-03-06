@@ -955,11 +955,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-13T15:47:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:45:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the One Engineering System (1ES) as a strategy to unify engineering tools and practices, enhancing collaboration and efficiency in software development. It addresses standardization, tool adoption, and the impact on workflows, which are central to engineering excellence.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the One Engineering System (1ES) and its role in unifying engineering tools and practices, which aligns with the principles of engineering excellence. It mentions specific tools and practices that enhance collaboration and efficiency, indicating a focus on best practices in software development. However, while it touches on important aspects like continuous integration and team communication, the depth of discussion on broader engineering excellence principles is somewhat limited, preventing a higher confidence score.",
     "level": "Secondary"
   },
   "Software Development": {
@@ -1186,11 +1189,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-12T17:35:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:45:05",
+    "ai_confidence": 78.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the implementation of Azure DevOps services within the context of the One Engineering System, highlighting specific tools and their functionalities, which aligns well with the Azure DevOps category.",
+    "final_score": 72.0,
+    "reasoning": "The content explicitly mentions Azure DevOps services and discusses their application within the context of the One Engineering System, which aligns well with the category's focus. It provides a detailed overview of specific Azure DevOps tools and their roles in enhancing collaboration and efficiency, demonstrating a strong conceptual alignment with Azure DevOps principles. The depth of discussion is significant, as it not only lists the tools but also addresses the importance of adapting workflows to their unique features, indicating a thorough understanding of Azure DevOps functionalities.",
     "level": "Secondary"
   },
   "Products and Books": {
@@ -1231,11 +1237,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T17:35:46",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-06T15:44:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the unification of engineering tools and practices to enhance collaboration and efficiency, which aligns with the principles of technical excellence. However, it primarily focuses on the implementation of specific tools rather than deeper engineering methodologies or practices.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the One Engineering System (1ES) and its role in unifying engineering tools and practices, which aligns with the principles of Technical Excellence. It mentions specific tools like Azure DevOps for continuous integration and deployment, indicating a focus on improving engineering practices. However, the discussion is more about the strategy and tools rather than deep technical methodologies or practices like TDD or CI/CD in detail, which limits the depth of the discussion.",
     "level": "Secondary"
   },
   "Organisational Agility": {

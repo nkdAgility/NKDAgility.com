@@ -25,19 +25,19 @@ aliasesArchive:
 - /resources/blog/deciphering-the-enigma-of-story-points-across-teams
 tags:
 - Throughput
-- Agile Product Management
+- Flow Efficiency
 - Agile Project Management
 - Metrics and Learning
 - Value Delivery
+- Agile Product Management
 - Decision Making
-- Flow Efficiency
 - Team Performance
 - Evidence Based Leadership
 - Operational Practices
 categories:
+- Product Management
 - Social Technologies
 - Scrum
-- Product Management
 preview: naked-agility-technically-flow-not-velocity-5-5.jpg
 
 ---

@@ -1,11 +1,14 @@
 {
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-17T15:42:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T15:04:19",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions Kanban as part of a broader discussion on Agile coaching, making it a significant but secondary theme.",
+    "final_score": 43.0,
+    "reasoning": "The content briefly mentions Kanban as part of a broader discussion on Agile coaching, but it does not delve deeply into Kanban principles or practices. While there is some alignment with Kanban concepts, the focus is primarily on Agile in general, with Scrum being highlighted more prominently. The lack of detailed exploration of Kanban methodologies and their application results in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Systems Thinking": {
@@ -109,11 +112,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T15:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T15:04:22",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of an Agile coach and the importance of understanding processes and methodologies like Scrum and Kanban, indicating a focus on team dynamics and collaboration, but it also heavily leans towards technical knowledge and tools.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of an Agile coach and the importance of understanding processes and methodologies like Scrum and Kanban. However, it primarily focuses on the technical knowledge required rather than the interplay between human behaviour and structured methodologies. While there are mentions of Agile practices, the depth of discussion on team dynamics, leadership, or communication is minimal, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "DevOps": {

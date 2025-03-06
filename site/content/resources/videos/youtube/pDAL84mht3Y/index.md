@@ -37,7 +37,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Leadership
 - Social Technologies
 
 ---

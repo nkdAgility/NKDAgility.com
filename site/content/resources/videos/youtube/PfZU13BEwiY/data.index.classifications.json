@@ -10,14 +10,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-06T13:17:18",
+    "calculated_at": "2025-03-06T14:32:12",
     "ai_confidence": 78.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
     "ai_depth": 28.0,
     "non_ai_confidence": 50,
     "final_score": 75.0,
-    "reasoning": "The content discusses the importance of managing technical debt in the context of scaling, which is relevant to DevOps principles. It mentions DevOps practices and automation, indicating a connection to the category. However, the primary focus is on technical debt rather than a comprehensive exploration of DevOps principles, practices, or tools. The discussion lacks depth in terms of specific DevOps metrics or cultural shifts, leading to a moderate confidence score.",
+    "reasoning": "The content discusses the importance of managing technical debt in the context of scaling, which indirectly relates to DevOps principles. It mentions DevOps practices and automation, indicating some alignment with the category. However, the primary focus is on technical debt rather than a comprehensive exploration of DevOps principles, practices, or tools, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Product Management": {
@@ -262,12 +262,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-25T12:04:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T14:32:16",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of scaling and technical debt, which are related to release management practices, but the primary focus is on agility and technical debt rather than on release processes specifically.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of managing technical debt and mentions practices like automated testing and continuous integration, which are relevant to release management. However, it lacks a direct focus on release planning, scheduling, or coordination among stakeholders, which are core aspects of the category. The discussion is more about scaling and architecture rather than the specific processes involved in managing software releases.",
+    "level": "Quaternary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",

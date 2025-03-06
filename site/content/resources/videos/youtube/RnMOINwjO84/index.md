@@ -24,7 +24,9 @@ preview: https://i.ytimg.com/vi/RnMOINwjO84/maxresdefault.jpg
 duration: 971
 isShort: false
 tags:
+- Enterprise Agility
 - Decision Making
+- Resilience and Change
 - Decision Theory
 - People and Process
 - Ability to Innovate
@@ -32,8 +34,6 @@ tags:
 - Agile Values and Principles
 - Business Agility
 - Complexity Thinking
-- Organisational Agility
-- Organisational Change
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,6 +43,7 @@ resourceTypes:
 categories:
 - Social Technologies
 - Product Management
+- Leadership
 
 ---
 In the ever-evolving landscape of business, one thing has become abundantly clear: there are no universal rules for making informed decisions based on the data we collect. Whether it’s evidence-based management, telemetry data, or any other form of data, the reality is that what works in one context may not work in another. This is particularly true as we navigate a world that is increasingly complex rather than merely complicated.

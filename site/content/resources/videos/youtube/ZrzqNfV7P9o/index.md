@@ -31,7 +31,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Practical Techniques and Tooling
 - Pragmatic Thinking
 resourceTypes:
 - video

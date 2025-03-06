@@ -31,9 +31,9 @@ tags:
 - Ability to Innovate
 - Change Management
 - Discovery and Learning
+- Enterprise Agility
 - Evidence Based Leadership
 - Evidence Based Management
-- Lean Product Development
 categories:
 - Product Management
 - Leadership

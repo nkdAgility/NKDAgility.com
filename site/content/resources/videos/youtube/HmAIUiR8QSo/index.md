@@ -29,8 +29,8 @@ tags:
 - Technical Leadership
 - Organisational Culture
 - Technical Mastery
-- Pragmatic Thinking
 - Sociotechnical Systems
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

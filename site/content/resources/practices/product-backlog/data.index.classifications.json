@@ -1285,12 +1285,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T12:10:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T14:45:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of a Product Backlog, which is relevant to product delivery methodologies, but does not provide enough depth or focus on the broader aspects of product delivery processes.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly introduces the concept of a Product Backlog, which is a component of Agile methodologies relevant to product delivery. However, it lacks detailed discussion on how it integrates with the overall product delivery process, such as planning, prioritisation, or deployment strategies. The mention of 'Product Backlog' indicates a connection to product delivery, but the content does not provide sufficient depth or comprehensive alignment with the broader themes of the category.",
+    "level": "Quaternary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -1393,14 +1396,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:42:38",
-    "ai_confidence": 55.0,
+    "calculated_at": "2025-03-06T14:45:27",
+    "ai_confidence": 45.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
-    "ai_depth": 5.0,
+    "ai_depth": 35.0,
     "non_ai_confidence": 0,
-    "final_score": 50.0,
-    "reasoning": "The content briefly mentions the 'Product Backlog', which is a key artifact in Scrum, indicating some relevance to the category. However, it lacks detailed discussion on Scrum principles, roles, or events, resulting in a moderate confidence score. The focus is primarily on defining the Product Backlog without exploring its implications or connections to the broader Scrum framework.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content explicitly mentions 'Product Backlog', which is a key artifact in Scrum, indicating a direct mention. However, it lacks broader discussions on Scrum roles, events, or principles, resulting in a moderate alignment with the core themes of Scrum. The depth of discussion is limited to defining the Product Backlog and its items, which does not provide extensive detail on the Scrum framework as a whole.",
+    "level": "Quaternary"
   }
 }

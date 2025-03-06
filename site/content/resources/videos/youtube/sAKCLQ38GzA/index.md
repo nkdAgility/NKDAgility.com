@@ -28,8 +28,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Product Operating Model
 - People and Process
+- Agile Product Operating Model
 - Team Motivation
 - Employee Engagement
 - Organisational Culture

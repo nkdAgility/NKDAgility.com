@@ -82,12 +82,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T12:29:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T14:50:18",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile practices and the importance of quality in product delivery, which are relevant to product management, but it primarily focuses on Agile methodologies rather than strategic product management discussions.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses Agile practices and the challenges of implementing them effectively within organisations, which aligns with product management's focus on methodologies. However, it primarily critiques Agile implementation rather than providing strategic insights into product management itself. The depth of discussion on Agile principles is notable, but it lacks a direct focus on product management strategies, making it a secondary rather than primary focus.",
+    "level": "Secondary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -1087,11 +1090,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-12T05:04:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:50:21",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the challenges and methodologies related to agile practices, continuous delivery, and quality assurance in the context of product delivery. It highlights the importance of high-quality products and the elimination of bureaucratic processes, which are central themes in product delivery discussions.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses various aspects of Agile methodologies and their impact on product delivery, particularly focusing on the importance of quality and the elimination of bureaucratic processes in the delivery pipeline. It highlights the need for continuous delivery and the role of testing, specifically user acceptance testing, in ensuring product quality. The discussion is detailed and provides practical insights into improving product delivery processes, aligning well with the core themes of the category.",
     "level": "Secondary"
   },
   "Agile Product Management": {
@@ -1204,11 +1210,14 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-12T05:05:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T15:46:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the principles and practices of business agility, particularly in relation to continuous delivery, quality assurance, and the elimination of bureaucratic processes. It encourages self-reflection on agile practices within organisations, aligning closely with the key topics of business agility.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the challenges of achieving true agility within organisations, particularly in relation to bureaucratic processes and quality assurance. It touches on the importance of continuous delivery and the need for high-quality products to eliminate unnecessary checks, which aligns with the principles of business agility. However, while it mentions agility and reflects on practices that hinder it, the primary focus is more on critiquing existing processes rather than providing a comprehensive exploration of business agility principles or strategies. Therefore, the confidence score reflects a moderate alignment with the category.",
     "level": "Secondary"
   },
   "Kanban": {

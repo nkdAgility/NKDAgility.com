@@ -2,7 +2,7 @@
 title: 'Stop Starting and Start Finishing: The Key to Team Success'
 description: Unlock Agile success! Learn to "stop starting and start finishing" for enhanced productivity and team effectiveness. Watch now for valuable insights!
 date: 2024-01-31T14:26:11Z
-weight: 545
+weight: 490
 ResourceId: 8aIUldVDtGw
 ResourceType: videos
 ResourceImport: true
@@ -30,16 +30,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Flow Efficiency
 - Lean
 - People and Process
+- Product Delivery
 - Strategy
 - Throughput
 - Agile Product Management
 - Cycle Time
 - Lean Product Development
 - Lean Thinking
-- Scrum Product Development
-- Agile Project Management
 resourceTypes:
 - video
 categories:

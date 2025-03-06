@@ -82,12 +82,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T14:37:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T14:59:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the implications of story points in Agile methodologies, which relates to product management, but primarily focuses on the technical aspects of estimation rather than strategic product management themes.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the concept of story points within Agile methodologies, which is a specific aspect of product management. However, it focuses more on the critique of story points rather than on strategic product management practices. While it touches on the implications of story points for team dynamics and delivery, it lacks a broader discussion on aligning customer needs, business objectives, or technical capabilities. The depth of discussion is limited to the critique of a specific practice rather than exploring comprehensive product management strategies.",
+    "level": "Quaternary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -334,11 +337,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T08:58:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T15:50:28",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Agile methodologies, specifically the use and implications of story points in Agile practices, which is central to software development discussions.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the concept of story points within Agile methodologies, highlighting their historical context, issues, and implications for team dynamics. While it does mention Agile practices and critiques the use of story points, the focus is more on the problems associated with them rather than a comprehensive exploration of Agile methodologies or software development practices. The discussion is somewhat detailed but lacks a broader context of software development processes, which affects the depth of the discussion.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -1252,11 +1258,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-12T08:57:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:59:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the impact of story points on team dynamics, dysfunctional behaviours, and the importance of focusing on value rather than arbitrary metrics, which aligns closely with the interplay between human behaviour and structured methodologies in Agile environments.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the dysfunctions associated with story points in Agile teams, highlighting how these practices impact team dynamics and behaviours. It critiques the focus on story points over value delivery, which aligns with the category's emphasis on human factors in process methodologies. The depth of discussion on the negative consequences of story points and the call for a shift towards flow metrics indicates a strong engagement with the interplay between people and processes. However, while it touches on team dynamics, it does not delve deeply into broader aspects of leadership or organisational structure, which slightly limits its overall alignment.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {

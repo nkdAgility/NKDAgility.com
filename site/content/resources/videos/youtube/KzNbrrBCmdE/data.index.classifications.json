@@ -121,12 +121,15 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T12:06:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T14:44:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses decision-making in the context of flexibility and inflexibility, which relates to outcomes and goals, indicating a secondary theme of decision theory.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on decision-making in the context of flexibility and inflexibility, suggesting a consideration of outcomes and goals. However, it lacks explicit discussions on heuristics, biases, or decision-making frameworks, which are core to Decision Theory. The focus is more on Agile project management rather than a thorough exploration of decision-making processes in uncertain environments.",
+    "level": "Quaternary"
   },
   "People and Process": {
     "category": "People and Process",
@@ -1390,14 +1393,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-06T13:31:00",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-03-06T14:44:27",
+    "ai_confidence": 25.0,
     "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 29.0,
-    "reasoning": "The content discusses flexibility and inflexibility in project management but does not explicitly mention Scrum or its specific roles, events, or artifacts. While it touches on themes relevant to Agile principles, such as adapting to context and achieving project goals, it lacks a direct focus on Scrum practices or frameworks. The discussion is more general and does not provide detailed insights into Scrum, leading to a low confidence score.",
+    "final_score": 22.0,
+    "reasoning": "The content briefly touches on flexibility and inflexibility in project management but does not explicitly mention Scrum or its core components. While it hints at project management principles, it lacks a direct focus on Scrum roles, events, or artifacts, leading to a low confidence score.",
     "level": "Quaternary"
   }
 }

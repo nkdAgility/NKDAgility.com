@@ -343,11 +343,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T14:33:28",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-06T14:58:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses metrics related to project management and agile practices, but it primarily focuses on the pitfalls of say-do metrics rather than engineering excellence principles or practices. While it touches on aspects of measurement and outcomes, it does not centralise on software craftsmanship or development practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the pitfalls of using say-do metrics in agile environments, which indirectly touches on aspects of engineering excellence, such as the importance of accurate metrics and the focus on outcomes over outputs. However, it primarily centres on project management practices rather than core engineering principles or software craftsmanship. The discussion lacks depth in terms of best practices in coding standards, testing methodologies, or CI/CD practices, which are central to the category of Engineering Excellence.",
     "level": "Quaternary"
   },
   "Throughput": {
@@ -1090,11 +1093,14 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-12T03:40:36",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-06T14:58:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the implications of say-do metrics in Agile environments, focusing on the importance of outcomes over outputs, which aligns with Agile principles. However, it primarily critiques the misuse of metrics rather than providing a comprehensive discussion on Agile Product Management practices.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the pitfalls of using say-do metrics in Agile environments, highlighting the importance of focusing on outcomes rather than outputs. It touches on Agile principles and the impact of metrics on team dynamics and psychological safety, which aligns with Agile Product Management. However, the discussion lacks depth in terms of specific Agile practices and roles, such as the Product Owner or backlog prioritisation, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Discovery and Learning": {
@@ -1126,11 +1132,14 @@
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-12T03:40:42",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-06T15:50:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the implications of say-do metrics on transparency and accountability within Agile teams, highlighting issues of data manipulation and the importance of honest reporting. While it primarily focuses on the pitfalls of these metrics, it does touch on the broader themes of accountability and the need for open communication, making it a significant but secondary theme.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the concept of 'say-do metrics' and critiques their use in Agile environments, highlighting issues of transparency and accountability. It mentions how misleading metrics can lead to a lack of psychological safety and accountability within teams. However, while it touches on these themes, the primary focus is on the critique of specific metrics rather than a broader discussion on transparency and accountability principles. The depth of discussion is moderate, providing examples but lacking comprehensive strategies or techniques for enhancing accountability or transparency.",
     "level": "Secondary"
   },
   "Practical Techniques and Tooling": {

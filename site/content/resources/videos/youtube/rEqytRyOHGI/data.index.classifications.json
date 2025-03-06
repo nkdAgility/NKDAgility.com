@@ -343,11 +343,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T14:35:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T14:58:58",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implications of special Sprints on software delivery and technical debt, which are relevant to engineering practices. However, the primary focus is on Agile methodologies rather than a broader discussion of engineering excellence.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the implications of special Sprints on software delivery and risk management, which touches on engineering practices. It critiques the concept of safety nets in agile methodologies, linking it to technical debt and the importance of delivering usable products. However, while it mentions aspects of engineering excellence, such as quality and technical debt, the primary focus is on agile practices rather than a comprehensive exploration of engineering excellence principles. Thus, it aligns moderately with the category.",
     "level": "Tertiary"
   },
   "Throughput": {
@@ -1081,20 +1084,26 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-12T02:46:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:59:01",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses agile methodologies, specifically the impact of special Sprints on product delivery and risk management, making it a central theme.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses Agile methodologies and their impact on product delivery, particularly focusing on the concept of 'special Sprints' and their detrimental effects on delivering usable working products. It aligns well with the core themes of product delivery, such as iterative development, risk management, and the importance of continuous delivery. The depth of discussion is substantial, providing a detailed example from the Azure DevOps team that illustrates the challenges and solutions in the product delivery process. Overall, the content is highly relevant to the category, with a strong emphasis on practical application and real-world scenarios.",
     "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-12T02:46:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T15:50:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses Agile practices, specifically the implications of special Sprints on product delivery and risk management, aligning closely with Agile Product Management principles.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the implications of special Sprints within Agile practices, particularly in relation to risk management and the delivery of usable working products. It highlights the importance of continuous delivery and stakeholder engagement, which are core themes of Agile Product Management. The depth of discussion is substantial, providing a real-world example from the Azure DevOps team, which adds to the overall understanding of Agile principles. However, while the content is focused on Agile practices, it does not delve deeply into the role of the Product Owner or specific backlog prioritisation techniques, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Discovery and Learning": {

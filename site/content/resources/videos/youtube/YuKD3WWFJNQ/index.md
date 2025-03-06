@@ -46,8 +46,8 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Product Management
 - Social Technologies
+- Product Management
 
 ---
 # Breaking the Silence: Sparking Engagement in Agile Teams 🚀

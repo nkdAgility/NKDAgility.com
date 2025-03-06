@@ -29,10 +29,10 @@ tags:
 - Business Agility
 - Customer Satisfaction
 - Discovery and Learning
-- Empirical Process Control
 - Frequent Releases
 - Lead Time
 - Lean Product Development
+- Lean Startup
 
 ---
 Update the work based on user feedback on timelines shorter than one month

@@ -2,7 +2,7 @@
 title: 'Illuminate Your Workflow: Harnessing Candan Strategies for Continuous Improvement and Transparency'
 description: Unlock the power of Candan strategies! Discover how flow metrics enhance transparency and drive continuous improvement in your workflows.
 date: 2024-03-08T07:00:31Z
-weight: 550
+weight: 475
 ResourceId: pw_8gbaWZC4
 ResourceType: videos
 ResourceImport: true
@@ -25,8 +25,8 @@ preview: https://i.ytimg.com/vi/pw_8gbaWZC4/maxresdefault.jpg
 duration: 294
 isShort: false
 tags:
-- Transparency
 - Metrics and Learning
+- Transparency
 - Flow Efficiency
 - Agile Frameworks
 - Agile Project Management
@@ -34,7 +34,7 @@ tags:
 - Pragmatic Thinking
 - Practical Techniques and Tooling
 - Strategy
-- Decision Making
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

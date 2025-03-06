@@ -40,8 +40,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Scrum
+- Social Technologies
 
 ---
 In my journey through the world of Agile, I've often encountered a myriad of misconceptions that can hinder our progress. One of the most persistent myths is the idea of special Sprints—those elusive Sprint Zeros, hardening Sprints, and bug fix Sprints. Today, I want to share my thoughts on why these concepts can be detrimental to our Agile practices and how we can focus on delivering usable, working products instead.

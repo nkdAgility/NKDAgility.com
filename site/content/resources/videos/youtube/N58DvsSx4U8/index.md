@@ -32,12 +32,12 @@ tags:
 - People and Process
 - Azure DevOps
 - Digital Transformation
-- Practical Techniques and Tooling
 - Software Developers
 - Software Development
 - Operational Practices
 - Personal
 - Pragmatic Thinking
+- Practical Techniques and Tooling
 resourceTypes:
 - video
 categories:

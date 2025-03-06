@@ -24,6 +24,7 @@ aliasesArchive:
 - /how-usable-working-products-are-your-ultimate-weapon-against-risks
 - /resources/blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
 tags:
+- Product Delivery
 - Increment
 - Agile Product Management
 - Agile Product Operating Model
@@ -33,7 +34,6 @@ tags:
 - Software Developers
 - Software Development
 - Working Software
-- Agile Philosophy
 categories:
 - Engineering Excellence
 - Social Technologies

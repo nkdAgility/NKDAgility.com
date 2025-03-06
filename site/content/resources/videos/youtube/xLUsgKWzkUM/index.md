@@ -31,6 +31,7 @@ tags:
 - Scrum Product Development
 - Agile Project Management
 - Value Delivery
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

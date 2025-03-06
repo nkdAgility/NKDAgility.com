@@ -343,11 +343,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T16:42:02",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-06T15:06:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses team competence and practices related to software development, but it primarily focuses on team dynamics and management rather than engineering excellence principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the challenges of dealing with incompetent teams and the implications of poor practices in software development. While it touches on issues related to software craftsmanship, such as source control and team dynamics, it lacks a focused discussion on engineering excellence principles, best practices, or continuous improvement. The mention of source control is relevant but is framed within a narrative of incompetence rather than a constructive exploration of engineering practices. Overall, the content does not align closely with the core themes of Engineering Excellence.",
     "level": "Quaternary"
   },
   "Throughput": {
@@ -1243,20 +1246,26 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-12T02:40:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T15:06:17",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses personal experiences and reflections on working with teams perceived as incompetent, providing insights into the challenges faced and the author's interpretations of team dynamics in an Agile context.",
+    "final_score": 65.0,
+    "reasoning": "The content provides a personal anecdote about the author's experiences with a team perceived as incompetent, discussing their reflections and insights on team dynamics and the implications of incompetence in a professional context. The author shares specific experiences and challenges faced while working with the team, which aligns well with the Personal category. However, while the content does touch on personal experiences, it also includes technical discussions about team practices and behaviours, which slightly detracts from its alignment with the Personal category.",
     "level": "Secondary"
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-12T02:40:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T15:51:57",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses team dynamics, the role of leadership in addressing incompetence, and the human factors influencing team performance in a technology context, particularly within Agile and DevOps environments.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the dynamics of team performance, particularly in the context of a product owner's responsibilities regarding team competence. It highlights the importance of training and the consequences of incompetence, which aligns well with the category's focus on human behaviour and structured methodologies. The depth of discussion includes specific examples of team interactions and leadership challenges, providing a nuanced view of the interplay between people and processes. However, while the content is rich in examples, it could benefit from a more structured exploration of methodologies like Agile or Scrum, which would enhance its alignment with the category.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {

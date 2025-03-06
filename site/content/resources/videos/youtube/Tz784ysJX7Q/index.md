@@ -26,9 +26,8 @@ duration: 469
 isShort: false
 tags:
 - Product Delivery
-- People and Process
 - Decision Making
-- Complexity Thinking
+- People and Process
 - Pragmatic Thinking
 - Sociotechnical Systems
 resourceTypes:

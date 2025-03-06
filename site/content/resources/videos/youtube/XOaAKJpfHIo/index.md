@@ -28,8 +28,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Product Delivery
+- People and Process
 - Software Development
 - Value Delivery
 - Software Developers

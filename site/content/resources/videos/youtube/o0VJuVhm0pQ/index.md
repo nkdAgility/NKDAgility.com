@@ -32,17 +32,17 @@ tags:
 - People and Process
 - Scrum Product Development
 - Agile Product Management
-- Product Delivery
 - Software Development
 - Value Delivery
 - Agile Frameworks
 - Agile Project Management
 - Pragmatic Thinking
+- Product Delivery
 resourceTypes:
 - video
 categories:
-- Scrum
 - Product Management
+- Scrum
 - Social Technologies
 
 ---

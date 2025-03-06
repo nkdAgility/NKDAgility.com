@@ -32,7 +32,6 @@ tags:
 - People and Process
 - Agile Leadership
 - Business Agility
-- Resilience and Change
 - Agile Transformation
 - Organisational Agility
 - Organisational Change

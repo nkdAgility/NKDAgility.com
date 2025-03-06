@@ -32,8 +32,8 @@ tags:
 - People and Process
 - Organisational Agility
 - Pragmatic Thinking
+- Product Delivery
 - Agile Frameworks
-- Agile Product Management
 categories:
 - Social Technologies
 preview: naked-agility-technically-agile-gym-membership-Agile-1-1.jpg

@@ -30,7 +30,6 @@ sitemap:
 tags:
 - People and Process
 - Sociotechnical Systems
-- Complexity Thinking
 resourceTypes:
 - video
 categories:

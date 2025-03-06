@@ -346,11 +346,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T14:05:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T14:56:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses principles related to Lean and Scrum methodologies, focusing on workflow management and the importance of finishing work over starting new tasks. While it touches on aspects of engineering practices, it primarily revolves around project management and team dynamics rather than core engineering excellence topics.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of focusing on finishing work rather than starting multiple projects, which indirectly relates to engineering excellence by promoting efficiency and value delivery. However, it primarily centres on Lean and Scrum methodologies rather than specific engineering practices or craftsmanship principles. The discussion lacks depth in terms of coding standards, quality assurance, or CI/CD practices, which are core themes of the category.",
     "level": "Tertiary"
   },
   "Throughput": {
@@ -1069,11 +1072,14 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-12T10:21:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:56:44",
+    "ai_confidence": 87.0,
+    "ai_mentions": 16,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of focusing on finishing work rather than starting new tasks, which aligns closely with the principles of Flow Efficiency. It addresses concepts such as work in progress limits, cycle time, and the impact of context switching on throughput, making it a central theme of the discussion.",
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the importance of focusing on finishing work rather than starting new tasks, which aligns closely with the principles of Flow Efficiency. It mentions Lean principles, the impact of work in progress on cycle time, and the role of a single product owner in streamlining workflow. The depth of discussion includes references to cognitive load, context switching, and the use of cumulative flow diagrams, all of which are relevant to optimising throughput. Overall, the content is highly relevant to the category, with a strong emphasis on improving flow efficiency.",
     "level": "Secondary"
   },
   "AI and Automation in Agility": {
@@ -1087,11 +1093,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-12T10:21:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T15:49:33",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of focusing on finishing work rather than starting multiple projects, which aligns with product delivery principles. It references Scrum and Lean methodologies, emphasising the role of a single product owner and the impact of context switching on delivery efficiency. The discussion on cycle time and value maximisation further supports its relevance to product delivery practices.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses the importance of focusing on finishing work rather than starting multiple projects, which aligns closely with product delivery principles. It mentions Scrum and Lean methodologies, emphasising the role of a single product owner and the need for prioritising work based on value. The discussion on cycle time and throughput directly relates to delivery efficiency, making it a strong fit for the category. However, while it covers relevant topics, it does not delve deeply into specific methodologies or metrics, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Agile Product Management": {

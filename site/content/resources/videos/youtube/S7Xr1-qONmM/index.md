@@ -32,17 +32,17 @@ tags:
 - Scrum Product Development
 - Agile Product Management
 - Agile Project Management
-- Product Delivery
 - Product Owner
 - Professional Scrum
 - Value Delivery
 - Agile Frameworks
 - Pragmatic Thinking
+- Software Development
 resourceTypes:
 - video
 categories:
-- Scrum
 - Product Management
+- Scrum
 - Social Technologies
 
 ---

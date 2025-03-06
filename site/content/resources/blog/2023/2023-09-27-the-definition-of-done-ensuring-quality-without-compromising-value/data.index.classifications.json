@@ -343,11 +343,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-11T18:08:38",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-06T15:10:52",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses the Definition of Done (DoD) and its implications for quality assurance in software development, which aligns with principles of software craftsmanship. However, it also delves into acceptance criteria and agile practices, making it a major but secondary theme rather than the central focus.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) as a measure of quality, which aligns with the principles of software craftsmanship and quality assurance. It explicitly mentions the importance of maintaining high standards and transparency in the development process, which are key themes of Engineering Excellence. The depth of discussion is substantial, as it explores the implications of integrating acceptance criteria into the DoD and the risks involved, demonstrating a thorough understanding of quality assurance practices. However, while it is focused on quality, it does not cover broader topics such as CI/CD practices or technical debt management, which slightly limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Throughput": {
@@ -1072,20 +1075,26 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-11T18:06:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T15:10:54",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the Definition of Done (DoD) and its implications for quality assurance in the context of product delivery, focusing on maintaining standards and transparency, which are central to effective product delivery practices.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) in detail, which is a critical aspect of product delivery, particularly in Agile methodologies. It explicitly mentions quality assurance and the importance of maintaining standards for release, aligning well with the core themes of product delivery. The depth of discussion is substantial, covering potential risks and considerations regarding acceptance criteria and their impact on the DoD. However, while it is focused on a relevant topic, it does not cover a broader range of product delivery practices, which slightly limits its overall confidence score.",
     "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-11T18:06:54",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-06T15:53:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content primarily discusses the Definition of Done (DoD) and its implications for quality and transparency in Agile practices, particularly in relation to Scrum. While it touches on Agile principles, the focus is more on quality assurance rather than broader Agile product management strategies.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) and its relationship with acceptance criteria, which are relevant to Agile practices. However, while it touches on quality assurance and transparency, it lacks a broader discussion on Agile Product Management principles such as stakeholder engagement, backlog prioritisation, or customer feedback integration. The focus is primarily on quality measures rather than the strategic alignment of product management, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Discovery and Learning": {

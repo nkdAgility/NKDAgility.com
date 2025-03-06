@@ -27,9 +27,9 @@ categories:
 tags:
 - Empirical Process Control
 - Transparency
-- Agile Frameworks
 - Agile Project Management
 - Software Development
+- Agile Frameworks
 - Professional Scrum
 
 ---

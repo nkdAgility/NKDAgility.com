@@ -2,7 +2,7 @@
 title: 'Avoiding the Seven Deadly Sins of Agile: Transform Your Organisation for True Agility'
 description: Uncover the "Seven Deadly Sins of Agile" that hinder transformation. Learn how to foster true agility and drive meaningful change in your organisation.
 date: 2024-04-14T12:17:16Z
-weight: 545
+weight: 625
 ResourceId: 5RJpAeKMRzs
 ResourceType: videos
 ResourceImport: true

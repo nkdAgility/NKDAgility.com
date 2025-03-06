@@ -343,12 +343,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T13:14:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T14:54:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics and data analysis in the context of Kanban, which relates to engineering practices and continuous improvement. However, the primary focus is on Kanban implementation rather than broader engineering excellence principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the pitfalls of using vanity metrics in Kanban implementation, which is tangentially related to engineering excellence. While it touches on the importance of data and metrics, it does not explicitly focus on software craftsmanship or best practices in coding standards, which are central to the category. The discussion lacks depth in terms of engineering processes and does not promote high standards in software development practices, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1129,20 +1132,26 @@
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-12T02:07:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:54:42",
+    "ai_confidence": 75.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of data transparency in Kanban implementation, emphasising the need for actionable metrics and the consequences of relying on vanity metrics. It aligns well with the principles of transparency and accountability within Agile methodologies.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of data transparency in the context of Kanban implementation, highlighting how relying on vanity metrics undermines accountability and effective process improvement. It directly mentions transparency and connects it to actionable data, which aligns well with the core themes of the category. However, the primary focus is on critiquing metrics rather than a broader discussion on transparency and accountability practices within Agile teams, which slightly limits its depth.",
     "level": "Secondary"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T02:07:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T15:48:47",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for implementing Kanban effectively, focusing on the importance of data and metrics in the process. It provides insights into specific tools like Jira and Trello, and emphasizes actionable metrics over vanity metrics, aligning well with the category's focus on practical application and tooling.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses practical techniques for implementing Kanban effectively, specifically focusing on the importance of data and metrics in the process. It critiques the use of vanity metrics and emphasises the need for actionable data, which aligns well with the category's focus on methodologies and best practices. The mention of tools like Jira and Trello further supports its relevance to practical tooling. However, while it provides valuable insights, the overall depth of discussion could be enhanced with more structured methodologies or frameworks.",
     "level": "Secondary"
   },
   "Events and Presentations": {

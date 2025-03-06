@@ -18,7 +18,7 @@ references:
   url: https://agilemanifesto.org/
 recommendedContent: 
 date: 2024-09-17
-weight: 540
+weight: 465
 creator: Martin Hinshelwood
 card:
   button:
@@ -27,6 +27,7 @@ card:
   title: Manifesto for Agile Software Development
 categories:
 - Social Technologies
+- Engineering Excellence
 tags:
 - Agile Values and Principles
 - Agile Philosophy

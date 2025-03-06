@@ -766,12 +766,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-12T15:20:48",
-    "ai_confidence": 90,
-    "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "The content primarily discusses the importance of automation in engineering processes, technical debt management, and improving testing methodologies, all of which align closely with the principles of engineering excellence. It highlights best practices in software craftsmanship and the impact of these practices on team confidence and product quality.",
-    "level": "Primary"
+    "calculated_at": "2025-03-06T14:36:34",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the importance of automation in software development, particularly in relation to testing and deployment processes. It highlights best practices in coding standards, technical debt management, and the role of automation in enhancing development efficiency, all of which are core themes of Engineering Excellence. The depth of discussion is significant, providing detailed examples from the Azure DevOps team, illustrating the transformation of their testing infrastructure and the impact on team confidence and product quality. Overall, the content aligns closely with the principles of software craftsmanship and continuous improvement in engineering processes.",
+    "level": "Secondary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -1039,20 +1042,26 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-12T15:16:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:36:38",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the optimisation of engineering processes, specifically focusing on reducing cycle times, improving testing infrastructure, and automating workflows to enhance throughput and delivery speed. It aligns well with the principles of Flow Efficiency in Lean and Agile methodologies.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses various aspects of flow efficiency, particularly in the context of automation and reducing cycle times. It explicitly mentions the importance of optimising testing processes and reducing feedback loops, which are key elements of flow efficiency. The depth of discussion is significant, detailing the Azure DevOps team's journey to improve their testing infrastructure and the impact on their delivery speed. However, while flow efficiency is a primary focus, there are also broader themes of confidence and customer engagement that slightly dilute the focus.",
     "level": "Secondary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-12T15:16:43",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-06T15:41:54",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses automation and continuous delivery practices that enhance engineering confidence and responsiveness to market demands, aligning with the principles of Agile and DevOps. However, the primary focus is on technical implementation rather than broader market adaptability strategies.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses the importance of automation and continuous feedback loops in the context of Agile and DevOps practices, which are essential for market adaptability. It highlights how the Azure DevOps team improved their delivery speed and quality through automation, thus enhancing their responsiveness to market demands. The depth of discussion on reducing cycle times and improving testing infrastructure aligns well with the principles of Lean and Agile methodologies. However, while the content is rich in examples and insights, it could further elaborate on broader strategies for market adaptability beyond the specific case study.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {

@@ -1255,12 +1255,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-20T18:47:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T14:34:59",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content briefly mentions Scrum, which is a part of Agile methodologies, indicating a secondary theme related to software development practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of frequent product releases and continuous delivery, which are relevant to software development practices. However, it lacks explicit references to specific methodologies or frameworks, and the focus is more on market strategy than on software engineering processes. The alignment with core themes is moderate, and while there is some depth in discussing release frequency, it does not delve into the technical aspects of software development.",
+    "level": "Quaternary"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -1390,14 +1393,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-06T13:23:07",
+    "calculated_at": "2025-03-06T14:34:53",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
     "ai_depth": 20.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content briefly touches on the importance of frequent product releases and adapting to market opportunities, which aligns with Agile principles and the concept of delivering value. However, it lacks explicit mentions of Scrum roles, events, or artifacts, and does not delve into the Scrum framework or its practices in detail.",
+    "reasoning": "The content briefly touches on the importance of frequent product releases and adapting to market opportunities, which aligns with Agile principles and the iterative nature of Scrum. However, it lacks explicit mentions of Scrum roles, events, or artifacts, and does not delve into the Scrum framework or its implementation, resulting in a low confidence score.",
     "level": "Quaternary"
   }
 }

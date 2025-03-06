@@ -29,14 +29,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Values and Principles
 - Agile Frameworks
+- Agile Values and Principles
 - Agile Philosophy
-- Agile Product Management
 - Agile Project Management
 - Agile Transformation
 - Pragmatic Thinking
 - Software Development
+- Agile Product Management
 - Agile Planning
 - Software Developers
 resourceTypes:

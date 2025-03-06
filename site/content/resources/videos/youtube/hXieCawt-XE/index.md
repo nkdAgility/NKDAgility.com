@@ -30,10 +30,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Operational Practices
 - Flow Efficiency
-- Lean Thinking
 - Practical Techniques and Tooling
+- Operational Practices
+- Lean Thinking
 - Pragmatic Thinking
 - Software Development
 - Agile Frameworks
@@ -44,7 +44,6 @@ resourceTypes:
 - video
 categories:
 - Kanban
-- Social Technologies
 
 ---
 When implementing a Kanban strategy, we're essentially creating a pull-based system of work. This methodology, which originated in lean manufacturing, offers teams a structured way to visualize, manage, and improve their workflow. If you're struggling with bottlenecks, work piling up, or inefficiencies in your process, Kanban might be exactly what you need.

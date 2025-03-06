@@ -1255,12 +1255,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-20T19:53:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T14:34:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Agile and Scrum, which are key topics in software development methodologies. However, the primary focus seems to be on the role of Scrum Masters rather than on software development practices themselves.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of real user feedback in product development, which aligns with Agile principles and user-centric design. However, it lacks direct mentions of software development methodologies or practices, and the depth of discussion is more focused on general product value rather than specific software engineering techniques.",
+    "level": "Quaternary"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -1390,14 +1393,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-06T13:22:49",
+    "calculated_at": "2025-03-06T14:34:23",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
     "ai_depth": 50.0,
     "non_ai_confidence": 0,
     "final_score": 29.0,
-    "reasoning": "The content discusses the importance of real user feedback in validating assumptions about product value, which aligns with Agile principles of customer collaboration and responding to change. However, it does not explicitly mention Scrum roles, events, or artifacts, leading to a lower confidence score. The discussion lacks depth in Scrum-specific practices, focusing more on general product development concepts.",
+    "reasoning": "The content discusses the importance of real user feedback in validating assumptions about product value, which aligns with Agile principles of customer collaboration and responding to change. However, it does not explicitly mention Scrum roles, events, or artifacts, leading to a lower score in direct mentions. The depth of discussion is moderate, focusing on the concept of user feedback but lacking specific Scrum-related practices or frameworks.",
     "level": "Quaternary"
   }
 }

@@ -35,7 +35,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Project Management
 - Software Development
 resourceTypes:
 - video

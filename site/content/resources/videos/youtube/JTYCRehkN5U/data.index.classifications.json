@@ -82,12 +82,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T12:45:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T14:52:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of technical excellence in Agile development, which is a significant aspect of product management. However, it primarily focuses on technical implementation details and the engineering process rather than the strategic alignment of customer needs and business objectives.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses technical excellence in Agile development, which is relevant to product management, particularly in the context of delivering usable products and mitigating risks. However, the primary focus is on technical implementation and Agile practices rather than strategic product management concepts. While it touches on aspects like customer feedback and product quality, it lacks a comprehensive exploration of product management methodologies and frameworks, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -1087,20 +1090,26 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-12T05:42:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:52:27",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of technical excellence and agile methodologies in delivering usable software products, focusing on risk mitigation, iterative development, and the role of quality in product delivery.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the importance of technical excellence and agile methodologies in product delivery, particularly focusing on the iterative process and the necessity of delivering a usable product at the end of each iteration. It aligns well with key topics such as risk mitigation, the role of cross-functional teams, and the impact of technical debt on delivery efficiency. The depth of discussion is significant, providing detailed examples and insights into how technical excellence contributes to effective product delivery, making it a primary focus of the content.",
     "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-12T05:42:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T15:47:45",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the importance of technical excellence in Agile development, particularly in relation to delivering usable working products and mitigating risk, which aligns closely with Agile Product Management principles.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses Agile principles, particularly the importance of technical excellence in delivering usable products iteratively, which aligns with Agile Product Management. It mentions Scrum and the need for a working product at the end of iterations, reflecting the role of the Product Owner and the importance of customer feedback. However, while it touches on Agile concepts, the primary focus is on technical excellence rather than broader Agile product management strategies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Discovery and Learning": {

@@ -343,12 +343,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-12T12:11:43",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-06T14:42:35",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 82.0,
-    "reasoning": "The content primarily discusses the impact of poor quality code on engineering practices, productivity, and brand reputation, while emphasising the importance of high standards in software craftsmanship and continuous improvement. It highlights best practices, technical debt management, and the benefits of investing in engineering excellence, making it a clear fit for the category.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the implications of poor quality code on productivity, brand reputation, and overall engineering practices. It highlights the importance of maintaining high standards in software craftsmanship, addressing technical debt, and implementing effective engineering processes. The detailed examples provided, such as the case of Azure DevOps, illustrate the benefits of refactoring and improving engineering practices, aligning closely with the core themes of Engineering Excellence. The depth of discussion on the costs associated with poor engineering practices and the strategies for improvement further supports a high confidence score.",
+    "level": "Secondary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1066,11 +1069,14 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-12T12:09:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:42:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the impact of poor quality code on productivity and delivery speed, highlighting the importance of optimising work processes and reducing bottlenecks. It provides examples of how improving engineering practices can enhance flow efficiency, making it a central theme.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the impact of poor quality code on productivity and the importance of optimising engineering practices to enhance throughput. It highlights how technical debt and inefficient practices can lead to bottlenecks, affecting the overall flow of work. The mention of metrics like feature delivery rates and the shift from long-running tests to quicker validation methods aligns well with flow efficiency principles. However, while the content touches on relevant themes, it primarily focuses on quality and technical debt rather than flow efficiency as a standalone topic.",
     "level": "Secondary"
   },
   "AI and Automation in Agility": {
@@ -1084,11 +1090,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-12T12:09:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T15:43:33",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the impact of poor quality code on product delivery, including the costs associated with fixing bugs, maintaining multiple versions, and the importance of engineering practices that enhance productivity and quality. It also touches on the benefits of improving quality for customer satisfaction and delivery efficiency, aligning well with the principles of product delivery.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the implications of poor quality code on product delivery, highlighting the costs associated with fixing bugs, maintaining multiple versions, and the impact on team productivity. It aligns well with the core themes of product delivery, such as the importance of quality assurance, iterative development, and the role of engineering practices in enhancing delivery efficiency. The depth of discussion is significant, providing detailed examples and metrics that illustrate the relationship between quality and delivery performance.",
     "level": "Secondary"
   },
   "Agile Product Management": {

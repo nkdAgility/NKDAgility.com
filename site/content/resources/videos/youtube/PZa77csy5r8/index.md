@@ -2,7 +2,7 @@
 title: 'Mastering Technical Debt: Strategies to Transform Challenges into Opportunities for Your Development Team'
 description: Unlock the secrets of technical debt! Discover how to manage and pay it back effectively to boost your team's productivity and deliver more value.
 date: 2024-11-28T06:00:11Z
-weight: 300
+weight: 290
 ResourceId: PZa77csy5r8
 ResourceType: videos
 ResourceImport: true

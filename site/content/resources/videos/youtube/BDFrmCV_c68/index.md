@@ -32,11 +32,11 @@ sitemap:
   priority: 0.6
 tags:
 - Metrics and Learning
+- Agile Product Management
 - Personal
 - Pragmatic Thinking
-- Agile Product Management
-- Product Owner
 - Value Delivery
+- Product Owner
 - Decision Making
 - Evidence Based Leadership
 - Experimentation

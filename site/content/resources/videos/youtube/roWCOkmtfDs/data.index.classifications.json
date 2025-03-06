@@ -346,12 +346,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T12:16:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T14:48:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of validation in product development, which relates to engineering practices and the need for hypothesis-driven approaches. However, the primary focus is on sales and business strategy rather than engineering excellence itself.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of validation in product development, which touches on aspects of engineering excellence, particularly in relation to hypothesis-driven practices and the need for data-driven decision-making. However, while it mentions engineering practices, the primary focus is on sales and product management rather than on software craftsmanship or development processes. The discussion lacks depth in coding standards, testing methodologies, or CI/CD practices, which are core themes of engineering excellence.",
+    "level": "Secondary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1087,20 +1090,26 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-12T02:35:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:48:11",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of validation in product development, focusing on how to measure the value of features and the impact of sales-driven decisions on product usability. It aligns well with product delivery methodologies, particularly in the context of hypothesis-driven practices and the need for data-driven decision-making in feature development.",
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses the importance of validation in product development, focusing on how to measure the value of features added to a product. It aligns well with key topics in product delivery, such as the need for hypothesis-driven practices, the role of metrics in assessing feature usage, and the impact of sales incentives on product decisions. The depth of discussion is significant, providing detailed examples and insights into how to improve product delivery through better measurement and validation practices.",
     "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-12T02:35:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T15:46:01",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of validation in product development, emphasising hypothesis-driven practices and the need for evidence-based decision-making, which aligns closely with Agile principles in product management.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of validating product features and making evidence-based decisions, which aligns with Agile principles of responding to customer needs and maximising product value. However, while it touches on Agile concepts, it does not explicitly mention Agile frameworks or roles like the Product Owner, and the discussion is more focused on validation and sales metrics rather than the broader scope of Agile Product Management.",
     "level": "Secondary"
   },
   "Discovery and Learning": {

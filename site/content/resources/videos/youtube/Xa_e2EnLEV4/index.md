@@ -35,11 +35,9 @@ sitemap:
 tags:
 - People and Process
 - Personal
-- Pragmatic Thinking
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 ### The Danger of Ignoring Problems in Your Kanban Strategy

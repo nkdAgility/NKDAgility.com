@@ -30,19 +30,18 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Systems Thinking
 - Organisational Change
 - Organisational Culture
 - People and Process
 - Change Management
 - Organisational Physics
 - Sociotechnical Systems
-- Systems Thinking
 - Complexity Thinking
 - Pragmatic Thinking
 resourceTypes:
 - video
 categories:
-- Leadership
 - Social Technologies
 
 ---

@@ -29,7 +29,6 @@ tags:
 - Discovery and Learning
 - Products and Books
 - Miscellaneous
-- Personal
 sitemap:
   filename: sitemap.xml
   priority: 0.6

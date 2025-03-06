@@ -29,7 +29,6 @@ sitemap:
   priority: 0.6
 tags:
 - Transparency
-- Agile Product Management
 - Agile Project Management
 - Scrum Product Development
 - People and Process
@@ -38,6 +37,7 @@ tags:
 - Agile Frameworks
 - Software Development
 - Team Collaboration
+- Team Performance
 resourceTypes:
 - video
 categories:

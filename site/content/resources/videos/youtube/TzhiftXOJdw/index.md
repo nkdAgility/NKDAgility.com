@@ -35,10 +35,10 @@ tags:
 - Agile Transformation
 - Business Agility
 - Change Management
-- Enterprise Agility
 - Market Adaptability
 - Organisational Agility
 - Organisational Change
+- Beta Codex
 resourceTypes:
 - video
 categories:

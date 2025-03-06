@@ -30,20 +30,20 @@ sitemap:
   priority: 0.6
 tags:
 - Transparency
-- Agile Product Management
 - Agile Project Management
 - Product Backlog
 - Agile Planning Tools
-- Product Delivery
+- Agile Product Management
 - Product Owner
 - Software Development
 - Value Delivery
+- Product Delivery
 - Agile Planning
 resourceTypes:
 - video
 categories:
-- Product Management
 - Social Technologies
+- Product Management
 - Scrum
 
 ---

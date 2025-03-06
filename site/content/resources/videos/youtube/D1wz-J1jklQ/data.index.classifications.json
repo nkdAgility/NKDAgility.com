@@ -775,12 +775,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-12T15:25:38",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-06T14:36:43",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 10,
-    "final_score": 82.0,
-    "reasoning": "The content primarily discusses the benefits of frequent deployments in relation to technical debt management, maintainability of code, and the importance of continuous delivery practices, all of which align closely with the principles of engineering excellence.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the importance of frequent deployments and their impact on code quality, technical debt management, and maintainability, which are all key aspects of engineering excellence. It directly addresses best practices in coding and the benefits of continuous delivery, aligning well with the core themes of the category. The depth of discussion is significant, providing detailed insights into how these practices can enhance software craftsmanship and improve overall engineering processes.",
+    "level": "Secondary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -1048,11 +1051,14 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-12T15:21:51",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-06T14:36:47",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the benefits of frequent deployments and smaller batch sizes, which align with Agile and DevOps practices that enhance responsiveness to market demands. However, the primary focus is on technical debt and code quality rather than directly addressing market adaptability strategies.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the benefits of frequent deployments and smaller batch sizes, which align with Agile and DevOps principles that enhance market adaptability. It highlights how these practices allow for quicker responses to customer feedback and market demands, thus demonstrating a clear connection to the category. However, while the content is rich in detail about technical practices, it does not explicitly frame these practices within a broader market adaptability strategy, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {
@@ -1075,11 +1081,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-12T15:21:56",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-06T15:41:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the benefits of frequent deployments and smaller batch sizes, which align with agile principles of adaptability and responsiveness. It touches on customer feedback and continuous delivery, indicating a focus on improving organisational agility. However, the primary focus is on technical practices rather than broader organisational strategies or cultural shifts.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the benefits of frequent deployments and smaller batch sizes, which align with agile principles of adaptability and responsiveness. However, it primarily focuses on technical aspects of code quality and deployment practices rather than broader organisational strategies or cultural shifts. While it touches on customer feedback and continuous delivery, it lacks a comprehensive exploration of organisational agility as a primary focus.",
     "level": "Secondary"
   },
   "Systems Thinking": {

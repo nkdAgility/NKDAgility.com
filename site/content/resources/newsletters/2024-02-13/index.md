@@ -23,11 +23,11 @@ categories:
 - Scrum
 - Product Management
 tags:
-- Agile Project Management
 - Events and Presentations
+- Agile Project Management
 - People and Process
-- Products and Books
 - Software Development
+- Products and Books
 - Agile Product Management
 - Practical Techniques and Tooling
 - Agile Transformation

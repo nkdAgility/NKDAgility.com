@@ -6,7 +6,7 @@ ResourceImport: false
 ResourceType: methods
 shorttitle: 1ES
 date: 2024-09-17
-weight: 410
+weight: 420
 creator: Martin Hinshelwood
 draft: false
 resourceTypes: method
@@ -33,13 +33,13 @@ tags:
 - Practical Techniques and Tooling
 - Strategy
 - One Engineering System (1ES)
-- Azure DevOps
 - Software Development
 - Operational Practices
 - Team Collaboration
+- Azure DevOps
 - Pragmatic Thinking
 - Collaboration Tools
-- Software Developers
+- Technical Excellence
 
 ---
 The One Engineering System (1ES) is a strategy aimed at unifying engineering tools and practices to enhance collaboration and efficiency within software development teams. By standardizing on a common set of tools, organizations can reduce friction and streamline workflows.

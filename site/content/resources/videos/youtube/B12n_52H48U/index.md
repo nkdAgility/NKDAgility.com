@@ -34,18 +34,18 @@ tags:
 - Product Owner
 - Agile Product Management
 - Decision Making
-- Decision Theory
 - People and Process
 - Agile Project Management
 - Pragmatic Thinking
+- Decision Theory
 - Scrum Product Development
 - Accountability
 - Agile Strategy
 resourceTypes:
 - video
 categories:
-- Product Management
 - Social Technologies
+- Product Management
 - Scrum
 
 ---

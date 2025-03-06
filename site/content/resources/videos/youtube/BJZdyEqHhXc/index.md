@@ -25,7 +25,6 @@ duration: 271
 isShort: false
 tags:
 - People and Process
-- Resilience and Change
 - Change Management
 - Organisational Agility
 - Organisational Change
@@ -33,6 +32,7 @@ tags:
 - Pragmatic Thinking
 - Sensemaking
 - Sociotechnical Systems
+- Resilience and Change
 - Business Agility
 sitemap:
   filename: sitemap.xml

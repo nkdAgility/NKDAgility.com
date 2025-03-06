@@ -28,12 +28,12 @@ aliasesArchive:
 - /blog/the-evolution-of-agile-learning--insights-from-scrum-org's-webinar
 - /resources/blog/the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
 tags:
+- Discovery and Learning
+- Events and Presentations
 - Change Management
 - Continuous Learning
-- Discovery and Learning
 - People and Process
 - Agile Frameworks
-- Events and Presentations
 - Products and Books
 - Pragmatic Thinking
 - Coaching

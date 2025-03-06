@@ -775,11 +775,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-12T15:01:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:35:54",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practices and philosophies related to continuous delivery, quality assurance, and the management of complex systems, which are central to engineering excellence. It emphasises the importance of adapting practices to fit complex environments and highlights the need for continuous improvement in engineering processes.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses continuous delivery and the challenges of implementing best practices in complex environments, which aligns with the principles of software craftsmanship and quality assurance. It touches on practices that enhance collaboration and quality, such as audience-based deployment and the philosophy of 'find it and fix it'. However, the focus on the inadequacy of best practices in complex scenarios somewhat detracts from a strong emphasis on established best practices, leading to a lower confidence score in terms of direct mentions and depth of discussion.",
     "level": "Secondary"
   },
   "Digital Transformation": {
@@ -1150,20 +1153,26 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-12T14:57:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:35:58",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses practices that enable cross-functional collaboration and continuous delivery, highlighting the importance of team dynamics, communication, and the human factors involved in adapting processes to enhance productivity and quality.",
+    "final_score": 76.0,
+    "reasoning": "The content discusses the importance of practices that enable cross-functional collaboration and continuous delivery, which aligns with the category's focus on team dynamics and communication. It highlights the need for a philosophy of 'find it and fix it' in the context of team processes, indicating a strong understanding of human factors in technology. However, while it touches on these themes, the primary focus remains on technical practices rather than a deep exploration of people and process dynamics.",
     "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T14:57:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T15:41:37",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practices and philosophies related to continuous delivery, audience-based deployment, and the importance of building quality into software. It addresses technical methodologies that enhance agility and responsiveness in software development, aligning well with the principles of Technical Excellence.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses continuous delivery and the shift towards audience-based deployment strategies, which are relevant to technical excellence. It highlights the importance of adapting practices to complex environments and emphasises the need for quality in production. However, while it touches on several key practices, it lacks a structured exploration of specific methodologies like TDD or CI/CD, which would strengthen its alignment with the category.",
     "level": "Secondary"
   },
   "Events and Presentations": {

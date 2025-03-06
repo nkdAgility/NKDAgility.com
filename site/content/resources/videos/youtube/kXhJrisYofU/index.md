@@ -28,13 +28,13 @@ tags:
 - Agile Product Management
 - Agile Product Operating Model
 - Agile Project Management
+- Market Adaptability
 - Agile Values and Principles
 - Change Management
 - People and Process
 - Resilience and Change
 - Agile Frameworks
 - Agile Philosophy
-- Agile Planning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -2,7 +2,7 @@
 title: How to Measure Your Organization's Ability to Improve Value Through Innovation
 description: "Discover 5 compelling reasons to integrate Evidence-Based Management (EBM) into your agile environment and unlock your organisation's innovation potential! #EBM #Agile"
 date: 2024-01-25T11:00:18Z
-weight: 545
+weight: 470
 ResourceId: Puz2wSg7UmE
 ResourceType: videos
 ResourceImport: true
@@ -30,8 +30,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Ability to Innovate
 - Metrics and Learning
+- Ability to Innovate
 - Evidence Based Management
 - Value Delivery
 - Evidence Based Leadership
@@ -39,8 +39,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Product Management
 - Engineering Excellence
+- Product Management
 
 ---
 In today's fast-paced business environment, organizations are constantly seeking ways to improve the value they deliver. But how can you truly know if your organization is effective at doing so? The answer lies in understanding your **organizational capability** and, more specifically, your **ability to innovate**. In this blog post, we’ll explore how you can leverage evidence-based management to measure and improve your organization's capacity for innovation. We’ll also dive into some key metrics that can help you gauge your progress.

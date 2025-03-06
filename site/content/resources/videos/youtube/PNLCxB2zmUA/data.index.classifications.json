@@ -1255,12 +1255,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-20T19:50:49",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content mentions Agile and Scrum, which are related to software development, the primary focus appears to be on the difference between newbie and professional Scrum Masters, making it a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-06T14:34:50",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the necessity of architectural adaptation in software development, particularly in relation to changing product demands and the impact on test infrastructure. It mentions the Azure DevOps team, which ties into software development practices. However, while it touches on relevant themes, the discussion lacks depth in methodologies or frameworks, resulting in a moderately high confidence score.",
+    "level": "Secondary"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -1390,11 +1393,11 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-06T13:23:02",
+    "calculated_at": "2025-03-06T14:34:45",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 12,
-    "ai_depth": 8,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the need for architectural changes in response to evolving product demands, which aligns with the Agile principle of responding to change. However, it lacks explicit references to Scrum roles, events, or artifacts, and does not delve deeply into Scrum practices. The focus is more on architectural adaptation rather than Scrum-specific methodologies, leading to a lower confidence score.",

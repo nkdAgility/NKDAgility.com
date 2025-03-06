@@ -35,9 +35,9 @@ tags:
 - Product Owner
 - Agile Product Operating Model
 - Agile Project Management
-- Product Delivery
 - Value Delivery
 - Pragmatic Thinking
+- Product Delivery
 - Product Strategy
 resourceTypes:
 - video

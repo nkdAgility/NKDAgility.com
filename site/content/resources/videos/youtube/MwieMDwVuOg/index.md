@@ -44,6 +44,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Social Technologies
 - Product Management
 
 ---

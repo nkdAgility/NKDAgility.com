@@ -37,7 +37,7 @@ tags:
 - Empirical Process Control
 - Software Development
 - Pragmatic Thinking
-- Scrum Product Development
+- Discovery and Learning
 resourceTypes:
 - video
 categories:

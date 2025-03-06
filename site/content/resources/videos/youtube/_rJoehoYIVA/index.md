@@ -2,7 +2,7 @@
 title: 'Mastering Azure DevOps Migration: Navigating Challenges, Solutions, and Best Practices'
 description: Discover expert insights on Azure DevOps migration, addressing common challenges and benefits for IT managers, DevOps teams, and business owners.
 date: 2024-07-31T09:25:17Z
-weight: 865
+weight: 855
 ResourceId: _rJoehoYIVA
 ResourceType: videos
 ResourceImport: true
@@ -29,8 +29,8 @@ sitemap:
   priority: 0.6
 tags:
 - Azure DevOps
-- Pragmatic Thinking
 - Software Development
+- Pragmatic Thinking
 - Practical Techniques and Tooling
 resourceTypes:
 - video

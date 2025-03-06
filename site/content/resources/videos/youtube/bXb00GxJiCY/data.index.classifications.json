@@ -277,12 +277,15 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T14:02:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T14:56:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses immersive learning in the context of Scrum training, which implies a connection to training events, but does not focus primarily on specific events or presentations.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses immersive learning in the context of Scrum training, which implies a connection to training events. However, it lacks explicit mentions of specific events or presentations, and the focus is more on the benefits of immersive learning rather than detailing an event or presentation itself. The discussion is relevant but does not provide sufficient depth or direct references to align strongly with the category.",
+    "level": "Quaternary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
@@ -1393,14 +1396,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:49:48",
+    "calculated_at": "2025-03-06T14:56:26",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
-    "ai_depth": 15.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 50,
     "final_score": 34.0,
-    "reasoning": "The content briefly mentions immersive learning in the context of Scrum training, indicating a connection to Scrum principles. However, it lacks explicit discussion of Scrum roles, events, or artifacts, and does not delve into the core themes of the Scrum framework or Agile principles. The focus is more on the benefits of immersive learning rather than on Scrum itself, leading to a low confidence score.",
+    "reasoning": "The content briefly mentions immersive learning in the context of Scrum training, indicating a connection to Scrum principles. However, it lacks explicit discussion of Scrum roles, events, or artifacts, which are central to the category. The focus is more on the benefits of immersive learning rather than on Scrum itself, leading to a lower confidence score.",
     "level": "Quaternary"
   }
 }

@@ -27,8 +27,8 @@ aliasesArchive:
 - /blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
 - /resources/blog/blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
 tags:
-- Flow Efficiency
 - Transparency
+- Flow Efficiency
 - Azure Boards
 - Azure DevOps
 - Practical Techniques and Tooling

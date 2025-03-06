@@ -343,11 +343,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-12T05:58:49",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-06T14:41:34",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "The content primarily discusses continuous integration and continuous delivery (CI/CD) practices, emphasising the importance of mainline branching and the correct implementation of CI/CD to enhance software quality and reduce risks. It aligns closely with the principles of software craftsmanship and best practices in engineering processes.",
+    "final_score": 85.0,
+    "reasoning": "The content extensively discusses CI/CD practices, emphasising the importance of continuous integration and delivery as core components of engineering excellence. It provides detailed insights into the principles of mainline branching, the pitfalls of misapplying CI/CD, and the impact of these practices on product quality and risk reduction. The depth of discussion is significant, covering both theoretical aspects and practical implications, which aligns well with the key topics of the Engineering Excellence category.",
     "level": "Primary"
   },
   "Throughput": {
@@ -1138,11 +1141,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T05:57:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:41:39",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Continuous Integration and Continuous Delivery (CI/CD) practices, providing insights into their implementation and the importance of mainline branching. It explores practical techniques and methodologies that enhance Agile and DevOps practices, making it a central theme of the discussion.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed discussion on CI/CD pipelines, continuous integration, and continuous delivery, which are key components of DevOps tooling. It explicitly mentions the importance of mainline branching and the practical application of these methodologies in real-world scenarios. The author critiques common misconceptions about CI/CD and offers insights into best practices, demonstrating a strong alignment with the category's focus on practical techniques and tooling. The depth of the discussion is substantial, covering various aspects of CI/CD and its implementation, which further supports a high confidence score.",
     "level": "Secondary"
   },
   "Events and Presentations": {
@@ -1186,11 +1192,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-12T05:57:31",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-06T15:43:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses CI/CD practices, which are integral to Azure DevOps, but it does not explicitly mention Azure DevOps or its specific tools and services. It focuses on general CI/CD concepts and methodologies, making Azure DevOps a major but secondary theme.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses CI/CD pipelines extensively, which is a core functionality of Azure DevOps. However, it does not explicitly mention Azure DevOps or its specific services, leading to a lower direct mention score. The discussion aligns with the principles of continuous integration and delivery, which are integral to Azure DevOps, but lacks depth in terms of specific Azure DevOps tools or practices. Overall, while the content is relevant, it does not focus directly on Azure DevOps itself.",
     "level": "Secondary"
   },
   "Products and Books": {

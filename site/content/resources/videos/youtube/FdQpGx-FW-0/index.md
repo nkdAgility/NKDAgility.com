@@ -46,7 +46,7 @@ resourceTypes:
 categories:
 - Leadership
 - Social Technologies
-- Scrum
+- Product Management
 
 ---
 # Escaping the Judgment Trap in Agile Transformation 🚀

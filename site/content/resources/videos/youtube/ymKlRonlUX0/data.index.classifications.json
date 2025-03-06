@@ -82,12 +82,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T14:37:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-06T14:59:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile methodologies and the implications of using burndown charts, which are relevant to product management practices. However, the primary focus is on critiquing specific Agile tools rather than broader strategic aspects of product management.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily critiques the use of burndown charts within Agile methodologies, which is a relevant topic in product management. However, it lacks a broader discussion on strategic alignment, customer needs, or business objectives, focusing instead on technical implementation and personal opinions about Agile practices. While it touches on Agile principles, it does not delve deeply into the strategic aspects of product management, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -1090,11 +1093,14 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-11T22:12:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T14:59:23",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses Agile principles, particularly the limitations of burndown charts and the need for empirical management in Agile product development, aligning closely with Agile Product Management themes.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the limitations of burndown charts within Agile frameworks, particularly critiquing traditional project management approaches. While it touches on Agile principles and the need for empirical management, it lacks a direct focus on product management roles, backlog prioritisation, or stakeholder engagement, which are key topics in Agile Product Management. The discussion is more about Agile practices than product management specifically, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Discovery and Learning": {
@@ -1252,11 +1258,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-11T22:12:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-06T15:50:26",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the limitations of burndown charts in Agile methodologies, focusing on team dynamics, the need for empirical management of work, and the importance of adapting processes to enhance value delivery. It addresses how teams can improve their practices and the human factors involved in Agile processes.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily critiques the use of burndown charts in Agile methodologies, highlighting the human factors and team dynamics involved in planning and executing sprints. It discusses the limitations of traditional project management thinking and advocates for a more empirical approach to managing work, which aligns well with the category's focus on human behaviour and structured methodologies. The depth of discussion on how teams can adapt their processes to improve value delivery further supports a strong alignment with the 'People and Process' category.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {

@@ -2,7 +2,7 @@
 title: 'Maximising ROI in Software Development: Unlocking Value Through Quality and Expertise'
 description: Maximise your software investment with Naked Agility! Discover how to ensure quality, foster expertise, and boost ROI in your development process.
 date: 2024-12-13T06:30:00Z
-weight: 535
+weight: 455
 ResourceId: jKXc6hByR_k
 ResourceType: videos
 ResourceImport: true
@@ -26,10 +26,10 @@ preview: https://i9.ytimg.com/vi/jKXc6hByR_k/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 172
 isShort: false
 tags:
-- People and Process
-- Product Delivery
 - Value Delivery
+- People and Process
 - Pragmatic Thinking
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -37,6 +37,7 @@ resourceTypes:
 - video
 categories:
 - Product Management
+- Engineering Excellence
 
 ---
 If you’re looking to build teams and an organisation that can deliver the highest possible value for your investment, then Naked Agility is here to help. Whether you’re a team member immersed in engineering practices or a CTO or CEO grappling with hypothesis-driven methodologies, we can provide the coaching and advice you need to maximise your return on investment.

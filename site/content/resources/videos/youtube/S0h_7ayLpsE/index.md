@@ -2,7 +2,7 @@
 title: Mastering Evidence-Based Management for Agile Success
 description: Unlock the power of Evidence-Based Management! Learn to gather and analyse data for better product decisions and boost customer satisfaction.
 date: 2024-10-02T13:17:24Z
-weight: 540
+weight: 415
 ResourceId: S0h_7ayLpsE
 ResourceType: videos
 ResourceImport: true
