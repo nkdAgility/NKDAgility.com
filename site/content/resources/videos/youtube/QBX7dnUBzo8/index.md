@@ -30,6 +30,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Enterprise Agility
 - Business Agility
 - People and Process
 - Resilience and Change
@@ -39,11 +40,11 @@ tags:
 - Agile Strategy
 - Agile Transformation
 - Change Management
-- Enterprise Agility
 resourceTypes:
 - video
 categories:
 - Leadership
+- Product Management
 
 ---
 Organizations often struggle to address the root causes of inefficiencies, particularly when adopting Agile practices. Instead of tackling the core issues within their systems, they focus on surface-level problems. This blog post will explore these systemic issues and provide insights on how to make meaningful changes that lead to greater effectiveness and agility.
