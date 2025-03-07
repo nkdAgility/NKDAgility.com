@@ -67,7 +67,7 @@
 {{- define "siteSectionCallback" }}
   <section class="container my-5">
     <div class="m-1 small">
-      <h5>Categories</h5>
+      <h2>Categories</h2>
       <div class="row">
         {{ range $category, $pages := .Site.Taxonomies.categories }}
           <div class="col-md-3 d-flex align-items-center">
@@ -82,7 +82,7 @@
       <hr />
     </div>
     <div class="m-1 small">
-      <h6>Tags</h6>
+      <h2>Tags</h2>
       <div class="row">
         {{ range $category, $pages := .Site.Taxonomies.tags }}
           <div class="col-md-3 d-flex align-items-center">
