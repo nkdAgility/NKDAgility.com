@@ -345,6 +345,22 @@ jobs:
 
         env:
           LOCAL_IMAGE_PATH: "./_site/"
+      - name: "Delete Local Data Files"
+        shell: pwsh
+        run: |
+          Write-InfoLog "Deleting all data file files locally..."
+          Get-ChildItem -Path $env:LOCAL_IMAGE_PATH -Recurse -Include data.captions.*.srt, data.captions.json, data.json, data.index.classifications.json  | ForEach-Object {
+            try {
+                $count++
+                Remove-Item -Path $_.FullName -Force
+                Write-DebugLog "Deleted: $($_.FullName)"
+            }
+            catch {
+                Write-ErrorLog "Error deleting file $($_.FullName): $_"
+            }
+          }
+        env:
+          LOCAL_IMAGE_PATH: "./_site/resources/"
       # - name: "Build NKDAgility Outputs"
       #   shell: pwsh
       #   run: ./.powershell/build/Sync-BlobStorageImages.ps1
