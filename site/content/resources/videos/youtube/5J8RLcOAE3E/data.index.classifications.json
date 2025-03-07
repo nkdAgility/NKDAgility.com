@@ -868,12 +868,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T11:57:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T12:35:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses practices related to continuous delivery and audience-based deployment, which are relevant to product management. However, the primary focus is on technical implementation and practices rather than strategic alignment or methodologies specific to product management.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses continuous delivery and practices that support it, which are relevant to product management. However, it primarily focuses on technical implementation details and personal experiences rather than the strategic alignment of customer needs, business objectives, and methodologies specific to product management. While there are mentions of practices that could relate to product management, they are not the primary focus, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -1186,11 +1189,14 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T14:57:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:30:23",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the complexities of continuous delivery in software development, the inadequacy of best practices in complex systems, and the importance of adapting practices to manage quality and user experience. It explores the interplay between code quality, deployment strategies, and the inherent complexities of software systems, aligning well with the themes of the 'Code and Complexity' category.",
+    "final_score": 76.0,
+    "reasoning": "The content discusses the complexities of continuous delivery in software development, emphasising that there are no universal best practices in complex environments. It aligns well with the category by exploring the interplay between code quality and the complexities of deployment strategies, such as audience-based delivery. The depth of discussion is significant, as it covers various practices, philosophies, and real-world examples, including the circuit breaker pattern and the implications of architectural decisions on system reliability. Overall, the content is primarily focused on the relationship between code quality and complexity, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Lean": {
@@ -1204,11 +1210,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-12T14:57:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:35:51",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practices and philosophies that enhance continuous delivery and quality in production, aligning closely with strategies for delivering value to customers. It emphasises the importance of audience-based deployment, cross-functional collaboration, and the need for continuous improvement, which are central to value delivery in Agile and DevOps contexts.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses continuous delivery practices and the importance of adapting to complex environments, which aligns with the principles of iterative development and customer value delivery. It highlights the shift from traditional deployment models to audience-based strategies, emphasising the need for cross-functional collaboration and continuous quality. The depth of discussion on practices that enhance delivery and the philosophy of finding and fixing issues in production further supports its relevance to the Value Delivery category.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -1222,11 +1231,14 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-12T14:57:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:40:39",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses practices and philosophies that enhance organisational resilience and adaptability in complex environments, particularly in the context of continuous delivery and change management.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the need for adaptability in continuous delivery practices, emphasising that there are no best practices in complex environments. It aligns with the themes of resilience by addressing how organisations can cope with disruptions and the importance of a philosophy that encourages continuous improvement. However, while it touches on resilience and change, the primary focus is more on technical practices rather than a comprehensive exploration of organisational resilience strategies.",
     "level": "Secondary"
   },
   "Practical Techniques and Tooling": {
@@ -1375,12 +1387,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T13:47:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T12:40:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practices that enable cross-functional collaboration and continuous delivery, which are relevant to Agile methodologies. However, it primarily focuses on the challenges and philosophies surrounding continuous delivery rather than strictly adhering to Scrum, Kanban, Lean, or Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses continuous delivery and practices that enable cross-functional collaboration, which aligns with the themes of Social Technologies. However, it does not explicitly mention Scrum, Kanban, Lean, or Agile methodologies, leading to a lower confidence score. The depth of discussion on collaboration and continuous improvement is present but not extensive enough to warrant a higher score.",
+    "level": "Secondary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

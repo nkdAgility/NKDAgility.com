@@ -34,7 +34,7 @@ tags:
 - Software Development
 - Complexity Thinking
 - Pragmatic Thinking
-- Value Delivery
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

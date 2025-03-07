@@ -26,15 +26,6 @@ duration: 525
 isShort: false
 tags:
 - Metrics and Learning
-- Operational Practices
-- Pragmatic Thinking
-- Organisational Agility
-- Agile Product Management
-- Agile Product Operating Model
-- Business Agility
-- Market Adaptability
-- People and Process
-- Ability to Innovate
 sitemap:
   filename: sitemap.xml
   priority: 0.6

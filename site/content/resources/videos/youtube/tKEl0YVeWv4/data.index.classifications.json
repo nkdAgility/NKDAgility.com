@@ -868,12 +868,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T11:57:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T12:36:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses automation in product development, which is a significant aspect of product management, particularly in relation to improving deployment processes and product quality. However, the primary focus is on technical implementation details rather than strategic product management practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on automation in software development, discussing its benefits and implications for deployment and testing processes. While it touches on aspects relevant to product management, such as the importance of quality and rapid deployment, it lacks a direct focus on strategic alignment with customer needs or business objectives. The discussion is more technical and operational rather than centred on product management methodologies or frameworks, which diminishes its relevance to the category.",
+    "level": "Quaternary"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -1168,11 +1171,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T15:12:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:30:36",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses automation in software development, focusing on automated testing, deployment, and the importance of these practices for ensuring reliability and scalability. It aligns well with the principles of Continuous Integration and Continuous Delivery (CI/CD), which are key aspects of technical excellence.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses automation in software development, particularly focusing on automated testing and deployment, which are key aspects of Continuous Integration and Continuous Delivery (CI/CD) practices. It provides detailed examples, such as the Knight Capital Group incident and Facebook's deployment strategies, illustrating the importance of automation in ensuring code quality and reliability. The discussion aligns well with the principles of Technical Excellence, emphasising the need for high-quality engineering practices that enhance agility and responsiveness to changing requirements. The depth of the discussion is significant, as it covers both theoretical aspects and practical implications of automation in software development.",
     "level": "Secondary"
   },
   "Events and Presentations": {
@@ -1204,11 +1210,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-12T15:12:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:36:12",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of automation in delivering value through faster and more reliable product development, aligning with key topics of continuous delivery and customer satisfaction.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses automation in software development, particularly in the context of continuous integration and deployment, which aligns with value delivery principles. However, while it touches on the importance of automation for improving efficiency and reducing risks, it lacks a direct focus on customer value measurement or iterative delivery strategies. The examples provided illustrate the consequences of poor automation but do not delve deeply into methodologies for maximising customer value or aligning product development with customer needs.",
     "level": "Secondary"
   },
   "Miscellaneous": {

@@ -868,12 +868,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T11:57:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T12:36:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of feature flags in the context of continuous delivery, which relates to product management practices. However, it primarily focuses on technical implementation details rather than strategic aspects of product management.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses feature flags and their role in continuous delivery, which touches on aspects of product management, such as gathering customer feedback and assessing product viability. However, the primary focus is on technical implementation details rather than strategic product management practices. While there are mentions of engaging with customers and monitoring telemetry, the depth of discussion leans more towards technical execution rather than the strategic alignment of product management principles.",
+    "level": "Quaternary"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -1168,11 +1171,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T15:07:43",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-07T12:30:32",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses the implementation and benefits of feature flags in the context of continuous delivery, which aligns closely with technical practices that enhance software delivery processes. It elaborates on how feature flags facilitate agile deployment, improve code quality, and allow for responsive adjustments based on user feedback and telemetry, making it a clear discussion on technical excellence.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the practice of Continuous Delivery and the use of feature flags, which are essential components of technical excellence in software development. It discusses how feature flags facilitate incremental feature deployment, allowing teams to gather telemetry and feedback, which aligns well with the principles of agile methodologies and continuous improvement. The depth of the discussion is significant, providing detailed examples and insights into the process, which enhances the overall understanding of technical excellence in the context of software delivery.",
     "level": "Secondary"
   },
   "Events and Presentations": {
@@ -1204,11 +1210,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-12T15:07:53",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-07T12:36:05",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 40,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses the use of feature flags as a strategy for continuous delivery, which aligns closely with the principles of iterative development and maximising customer value. It highlights how feature flags facilitate customer feedback and engagement, ensuring that product development is aligned with user needs, thus enhancing value delivery.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the practice of using feature flags as a strategy for continuous delivery, which directly aligns with the principles of iterative development and incremental delivery. It highlights how feature flags allow for gradual feature rollout, customer feedback, and telemetry analysis, all of which are crucial for maximising customer value and aligning product development with user needs. The depth of discussion is significant, providing detailed examples and insights into the process, which enhances the overall understanding of value delivery in a software development context.",
     "level": "Secondary"
   },
   "Miscellaneous": {

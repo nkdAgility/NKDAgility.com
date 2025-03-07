@@ -29,8 +29,8 @@ tags:
 - Software Development
 - Engineering Practices
 - Technical Mastery
-- Value Delivery
 - Working Software
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

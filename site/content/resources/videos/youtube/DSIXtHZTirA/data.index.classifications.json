@@ -1231,11 +1231,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-12T08:18:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:32:49",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses strategies for performance engineering, continuous delivery, and user feedback mechanisms, all of which are central to delivering value to customers in a software development context.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses performance engineering and its impact on user satisfaction, which aligns with the principles of iterative development and continuous delivery. It highlights the importance of getting feedback from real users and adapting features based on their needs, which is a key aspect of value delivery. The depth of discussion on testing in production and audience-based rollouts further supports its relevance to the category. However, while it touches on value delivery, it does not explicitly frame the entire narrative within the context of Agile or DevOps methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Technical Excellence": {

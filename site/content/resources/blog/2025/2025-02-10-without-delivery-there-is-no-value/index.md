@@ -34,8 +34,8 @@ tags:
 - Frequent Releases
 - People and Process
 categories:
-- Product Management
 - Scrum
+- Social Technologies
 - DevOps
 preview: 2025-02-10-without-delivery-no-value.jpg
 marketing: []

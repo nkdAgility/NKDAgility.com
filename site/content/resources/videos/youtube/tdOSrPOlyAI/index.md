@@ -29,11 +29,11 @@ tags:
 - Technical Mastery
 - Software Development
 - Technical Excellence
+- Pragmatic Thinking
 - People and Process
 - Value Delivery
 - Technical Debt
 - Technical Leadership
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

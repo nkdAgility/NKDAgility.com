@@ -32,13 +32,13 @@ tags:
 - Agile Strategy
 - Business Agility
 - Strategy
-- Agile Product Management
 - Agile Values and Principles
 - Enterprise Agility
 - Agile Frameworks
 - Agile Planning
 - Agile Project Management
 - Change Management
+- Market Adaptability
 resourceTypes:
 - video
 categories:

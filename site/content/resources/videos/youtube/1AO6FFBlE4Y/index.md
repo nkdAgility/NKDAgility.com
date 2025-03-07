@@ -25,6 +25,7 @@ duration: 600
 isShort: false
 tags:
 - Code and Complexity
+- Value Delivery
 - Product Delivery
 - Engineering Practices
 - Technical Debt
@@ -33,7 +34,6 @@ tags:
 - Technical Mastery
 - Working Software
 - Pragmatic Thinking
-- Software Developers
 sitemap:
   filename: sitemap.xml
   priority: 0.6
