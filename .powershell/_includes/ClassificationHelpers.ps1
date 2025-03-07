@@ -3,7 +3,7 @@
 
 $batchesInProgress = $null;
 $batchesInProgressMax = 40;
-$watermarkAgeLimit = 20;
+$watermarkAgeLimit = (New-TimeSpan -Start (Get-Date "2025-02-18T09:00:00") -End (Get-Date)).Days
 $watermarkScoreLimit = 20
 $watermarkCount = 1
 
@@ -303,7 +303,8 @@ function Get-CategoryConfidenceWithChecksum {
                 if ($result.reasoning -ne $null -and $result.category -ne "unknown") {
                     $oldConfidence = $cachedData[$result.category]?.ai_confidence ?? 0
                     $DaysAgo = [math]::Round(([DateTimeOffset]::Now - [DateTimeOffset]$cachedData[$result.category].calculated_at).TotalDays)
-                    Write-InformationLog "Updating {category} with confidence of {old} calculated {daysago} to new confidence of {confidence} " -PropertyValues $result.category, $oldConfidence, $DaysAgo, $result.ai_confidence
+                    $confidenceDiff = "{0}{1}" -f ($(if (($result.ai_confidence - $oldConfidence) -ge 0) { '+' } else { '-' }), [math]::Abs($result.ai_confidence - $oldConfidence))
+                    Write-InformationLog "Updating {category} confidence {diff}! The old confidence of {old} was calculated {daysago} days ago. The new confidence is {confidence}!" -PropertyValues $result.category, $confidenceDiff, $oldConfidence, $DaysAgo, $result.ai_confidence
                     $CatalogFromCache[$result.category] = $result
                     $cachedData[$result.category] = $result
                     # Save cache after each API call
