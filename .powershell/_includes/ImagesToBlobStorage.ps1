@@ -27,19 +27,19 @@ function Delete-LocalImageFiles {
         [string]$LocalPath
     )
     try {
-        Write-Debug "Deleting all image files locally..."
+        Write-InfoLog "Deleting all image files locally..."
         Get-ChildItem -Path $LocalPath -Recurse -Include *.jpg, *.jpeg, *.png, *.gif, *.webp, *.svg | ForEach-Object {
             try {
                 Remove-Item -Path $_.FullName -Force
-                Write-Debug "Deleted: $($_.FullName)"
+                Write-InfoLog "Deleted: $($_.FullName)"
             }
             catch {
-                Write-Debug "Error deleting file $($_.FullName): $_"
+                Write-ErrorLog "Error deleting file $($_.FullName): $_"
             }
         }
     }
     catch {
-        Write-Debug "Error during file deletion: $_"
+        Write-ErrorLog "Error during file deletion: $_"
     }
 }
 
