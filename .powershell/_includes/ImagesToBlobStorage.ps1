@@ -29,7 +29,15 @@ function Delete-LocalImageFiles {
     $count = 0
     try {
         Write-InfoLog "Deleting all image files locally..."
-        Get-ChildItem -Path $LocalPath -Recurse -Include *.jpg, *.jpeg, *.png, *.gif, *.webp, *.svg | ForEach-Object {
+        $images = Get-ChildItem -Path $LocalPath -Recurse -Include *.jpg, *.jpeg, *.png, *.gif, *.webp, *.svg
+        if ($images.Count -eq 0) {
+            Write-InfoLog "No image files found."
+            return 0;
+        }
+        $size = ($images | Measure-Object -Property Length -Sum).Sum 
+        $sizeString = "{0:N2} MB" -f ($size / 1MB)
+        Write-InfoLog "Found ($($images.Count)) image files of $sizeString."
+        $images | ForEach-Object {
             try {
                 $count++
                 Remove-Item -Path $_.FullName -Force
@@ -119,11 +127,11 @@ function Rewrite-ImageLinks {
                     # Relative paths - Ensure consistency by converting to root-relative
                     # 1. Get the parent directory of the HTML file
                     $ParentDirectory = Split-Path -Path $HtmlFile.FullName -Parent
-                    Write-Debug "Parent Directory: $ParentDirectory"
+                    Write-DebugLog "Parent Directory: $ParentDirectory"
 
                     # 2. Combine the parent directory with the original path
                     $CombinedPath = Join-Path -Path $ParentDirectory -ChildPath $OriginalPath
-                    Write-Debug "Combined Path: $CombinedPath"
+                    Write-DebugLog "Combined Path: $CombinedPath"
 
                     if (-not (Test-Path -Path $CombinedPath)) {
                         Write-Debug "  Path does not exist: $CombinedPath"
@@ -131,21 +139,21 @@ function Rewrite-ImageLinks {
                     }
                     # 3. Resolve the full path
                     $ResolvedPath = Resolve-Path -Path $CombinedPath
-                    Write-Debug "Resolved Path: $ResolvedPath"
+                    Write-DebugLog "Resolved Path: $ResolvedPath"
 
                     # 4. Get the root-relative path
                     $LocalImagesFullPath = (Get-Item $LocalPath).FullName
-                    Write-Debug "Local Images Full Path: $LocalImagesFullPath"
+                    Write-DebugLog "Local Images Full Path: $LocalImagesFullPath"
 
                     $RootRelativePath = $ResolvedPath.Path.Replace($LocalImagesFullPath, "").Replace("\", "/")
-                    Write-Debug "Root Relative Path: $RootRelativePath"
+                    Write-DebugLog "Root Relative Path: $RootRelativePath"
 
                     # 5. Construct the updated path
                     $UpdatedPath = "$BlobUrl/$RootRelativePath"
-                    Write-Debug "  Updated Path: $UpdatedPath"
+                    Write-DebugLog "  Updated Path: $UpdatedPath"
                 }
                 catch {
-                    Write-Debug "  Error resolving path: $_"
+                    Write-ErrorLog "  Error resolving path: $_"
                     continue;
                 }
             }
@@ -153,7 +161,7 @@ function Rewrite-ImageLinks {
             # Replace the original path in the content
             if ($OriginalPath -ne $UpdatedPath) {
                 $FileContent = $FileContent -replace [regex]::Escape($OriginalPath), $UpdatedPath
-                Write-Debug "  Replaced: $OriginalPath -> $UpdatedPath"
+                Write-DebugLog "  Replaced: $OriginalPath -> $UpdatedPath"
                 $totalLinks += 1;
             }
             
@@ -161,7 +169,7 @@ function Rewrite-ImageLinks {
 
         # Save updated content back to the file
         Set-Content -LiteralPath $HtmlFile.FullName -Value $FileContent
-        Write-InfoLog "Updated ($($Matches.count)): $($HtmlFile.FullName)"
+        Write-DebugLog "Updated ($($Matches.count)): $($HtmlFile.FullName)"
             
     }
     Write-InfoLog "HTML link  rewriting complete of $totalLinks."
