@@ -34,14 +34,30 @@ function Delete-LocalImageFiles {
             Write-InfoLog "No image files found."
             return 0;
         }
+
+        $totalFiles = $images.Count
         $size = ($images | Measure-Object -Property Length -Sum).Sum 
         $sizeString = "{0:N2} MB" -f ($size / 1MB)
-        Write-InfoLog "Found ($($images.Count)) image files of $sizeString."
-        $images | ForEach-Object {
+        Write-InfoLog "Found ($totalFiles) image files totalling $sizeString."
+
+        $lastPercentage = 0  # Tracks when to log progress
+        $progressInterval = 10 # Percentage interval for logging
+
+        $images | ForEach-Object -Begin { $index = 0 } -Process {
             try {
-                $count++
                 Remove-Item -Path $_.FullName -Force
                 Write-DebugLog "Deleted: $($_.FullName)"
+                $count++
+                $index++
+
+                # Calculate percentage progress
+                $percentage = [math]::Round(($index / $totalFiles) * 100, 0)
+
+                # Log progress at defined intervals
+                if ($percentage -ge $lastPercentage + $progressInterval) {
+                    Write-InfoLog "Progress: $percentage% ($index of $totalFiles image files deleted)"
+                    $lastPercentage = $percentage
+                }
             }
             catch {
                 Write-ErrorLog "Error deleting file $($_.FullName): $_"
@@ -49,11 +65,12 @@ function Delete-LocalImageFiles {
         }
     }
     catch {
-        Write-ErrorLog "Error during file deletion: $_"
+        Write-ErrorLog "Error during image file deletion: $_"
     }
-    Write-InfoLog "Deleted: $count"
+    Write-InfoLog "Completed: Deleted $count image files."
     return $count;
 }
+
 
 # Method 3: Rewrite image links in .html files using regex
 function Rewrite-ImageLinks {
