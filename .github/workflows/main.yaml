@@ -23,7 +23,7 @@ defaults:
 jobs:
   # Setup & Configuration
   Setup:
-    name: "Setup & Configuration "
+    name: "Invocation & Binding "
     runs-on: ubuntu-latest
     outputs:
       GitVersion_BranchName: ${{ steps.gitversion.outputs.GitVersion_BranchName }}
@@ -146,7 +146,7 @@ jobs:
 
   # Setup Validator
   SetupSummeryStage:
-    name: "Build Run Data"
+    name: "Chronicle"
     runs-on: ubuntu-latest
     needs: Setup
     steps:
@@ -175,7 +175,7 @@ jobs:
 
   # Spellcheck
   Spellcheck:
-    name: "Spellcheck Site"
+    name: "Hex Inspection"
     runs-on: ubuntu-latest
     if: ${{ success() }}
     needs: [Setup]
@@ -200,7 +200,7 @@ jobs:
 
   # Build Docs
   BuildSite:
-    name: "Build Site"
+    name: "Conjuring"
     runs-on: ubuntu-latest
     if: ${{ success() }}
     needs: [Setup]
@@ -267,7 +267,7 @@ jobs:
 
   # Build Api
   BuildApi:
-    name: "Build Api"
+    name: "Conduit"
     runs-on: ubuntu-latest
     if: ${{ false }}
     needs: [Setup]
@@ -296,7 +296,7 @@ jobs:
 
   # Offload Images
   OffloadImages:
-    name: "Cleanup and Ofload to Blob Storage"
+    name: "Cloudomancy & Transmutation"
     runs-on: ubuntu-latest
     if: ${{ success() }}
     needs: [BuildSite, Setup]
@@ -379,7 +379,7 @@ jobs:
 
   # Release to Docs
   Publsh:
-    name: "Publish Site"
+    name: "Manifestation"
     runs-on: ubuntu-latest
     needs: [Setup, BuildSite, Spellcheck, OffloadImages]
     if: ${{ success() }}
