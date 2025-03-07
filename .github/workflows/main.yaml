@@ -228,7 +228,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: "${{ vars.HUGO_BUILD_VERSION }}" 
+          hugo-version: "${{ vars.HUGO_BUILD_VERSION }}"
           extended: true
 
       - name: Build
@@ -341,7 +341,8 @@ jobs:
         shell: pwsh
         run: |
           . ./.powershell/_includes/ImagesToBlobStorage.ps1
-          Delete-LocalImageFiles -LocalPath $env:LOCAL_IMAGE_PATH
+          $deletedImagesCount = Delete-LocalImageFiles -LocalPath $env:LOCAL_IMAGE_PATH
+
         env:
           LOCAL_IMAGE_PATH: "./_site/"
       # - name: "Build NKDAgility Outputs"

@@ -26,12 +26,14 @@ function Delete-LocalImageFiles {
     param (
         [string]$LocalPath
     )
+    $count = 0
     try {
         Write-InfoLog "Deleting all image files locally..."
         Get-ChildItem -Path $LocalPath -Recurse -Include *.jpg, *.jpeg, *.png, *.gif, *.webp, *.svg | ForEach-Object {
             try {
+                $count++
                 Remove-Item -Path $_.FullName -Force
-                Write-InfoLog "Deleted: $($_.FullName)"
+                Write-DebugLog "Deleted: $($_.FullName)"
             }
             catch {
                 Write-ErrorLog "Error deleting file $($_.FullName): $_"
@@ -41,6 +43,8 @@ function Delete-LocalImageFiles {
     catch {
         Write-ErrorLog "Error during file deletion: $_"
     }
+    Write-InfoLog "Deleted: $count"
+    return $count;
 }
 
 # Method 3: Rewrite image links in .html files using regex
