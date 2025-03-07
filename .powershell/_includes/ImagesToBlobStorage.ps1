@@ -12,12 +12,12 @@ function Upload-ImageFiles {
         [string]$AzureSASToken
     )
     try {
-        Write-Debug "Uploading image files to Azure Blob Storage using azcopy..."
+        Write-InfoLog "Uploading image files to Azure Blob Storage using azcopy..."
         azcopy sync $LocalPath "$BlobUrlBase`?$AzureSASToken" --recursive=true --include-pattern "*.jpg;*.jpeg;*.png;*.gif;*.webp;*.svg" --compare-hash=MD5
-        Write-Debug "Upload complete."
+        Write-InfoLog "Upload complete."
     }
     catch {
-        Write-Debug "Error during upload: $_"
+        Write-ErrorLog"Error during upload: $_"
     }
 }
 
@@ -26,22 +26,51 @@ function Delete-LocalImageFiles {
     param (
         [string]$LocalPath
     )
+    $count = 0
     try {
-        Write-Debug "Deleting all image files locally..."
-        Get-ChildItem -Path $LocalPath -Recurse -Include *.jpg, *.jpeg, *.png, *.gif, *.webp, *.svg | ForEach-Object {
+        Write-InfoLog "Deleting all image files locally..."
+        $images = Get-ChildItem -Path $LocalPath -Recurse -Include *.jpg, *.jpeg, *.png, *.gif, *.webp, *.svg
+        if ($images.Count -eq 0) {
+            Write-InfoLog "No image files found."
+            return 0;
+        }
+
+        $totalFiles = $images.Count
+        $size = ($images | Measure-Object -Property Length -Sum).Sum 
+        $sizeString = "{0:N2} MB" -f ($size / 1MB)
+        Write-InfoLog "Found ($totalFiles) image files totalling $sizeString."
+
+        $lastPercentage = 0  # Tracks when to log progress
+        $progressInterval = 10 # Percentage interval for logging
+
+        $images | ForEach-Object -Begin { $index = 0 } -Process {
             try {
                 Remove-Item -Path $_.FullName -Force
-                Write-Debug "Deleted: $($_.FullName)"
+                Write-DebugLog "Deleted: $($_.FullName)"
+                $count++
+                $index++
+
+                # Calculate percentage progress
+                $percentage = [math]::Round(($index / $totalFiles) * 100, 0)
+
+                # Log progress at defined intervals
+                if ($percentage -ge $lastPercentage + $progressInterval) {
+                    Write-InfoLog "Progress: $percentage% ($index of $totalFiles image files deleted)"
+                    $lastPercentage = $percentage
+                }
             }
             catch {
-                Write-Debug "Error deleting file $($_.FullName): $_"
+                Write-ErrorLog "Error deleting file $($_.FullName): $_"
             }
         }
     }
     catch {
-        Write-Debug "Error during file deletion: $_"
+        Write-ErrorLog "Error during image file deletion: $_"
     }
+    Write-InfoLog "Completed: Deleted $count image files."
+    return $count;
 }
+
 
 # Method 3: Rewrite image links in .html files using regex
 function Rewrite-ImageLinks {
@@ -55,10 +84,18 @@ function Rewrite-ImageLinks {
     $HtmlFiles = Get-ChildItem -Path $LocalPath -Recurse -Include *.html
 
     $totalLinks = 0;
+    $totalFiles = $HtmlFiles.Count
+
+    if ($totalFiles -eq 0) {
+        Write-InfoLog "No .html files found for processing."
+        return
+    }
+
+    $lastPercentage = 0  # Tracks when to log progress
+    $progressInterval = 10 # Percentage interval for logging
 
     foreach ($HtmlFile in $HtmlFiles) {
        
-        # $FileContent = Get-Content -Path (Resolve-Path $HtmlFile.FullName) -Raw
         $FileContent = Get-Content -LiteralPath $HtmlFile.FullName -Raw
         # Regex to match all src attributes with image paths
         $ImageRegex = "(?i)(src|content|href)\s*=\s*([""']?)(?<url>[^\s""'>]+\.(jpg|jpeg|png|gif|webp|svg))\2"
@@ -91,18 +128,18 @@ function Rewrite-ImageLinks {
                 try {
                     # Define the regex pattern
                     $allowedPattern = '^(?:https?:\/\/)?(?:nkdagility\.com|preview\.nkdagility\.com|yellow-pond-042d21b03.*\.westeurope\.5\.azurestaticapps\.net)(\/.*)?$'
-                    if ($OriginalUrl -match $allowedPattern) {
+                    if ($OriginalPath -match $allowedPattern) {
                         continue
                     }
                 
                     $pattern = '^(?:https?:\/\/)?[^\/]+(?<path>\/.*)$'
-                    if ($OriginalUrl -match $pattern) {
+                    if ($OriginalPath -match $pattern) {
                         $path = $matches['path']
                         $UpdatedPath = "$BlobUrl/" + $path -join '/'
                     }      
                 }
                 catch {
-                    Write-Debug "  ERROR HTTP: $OriginalPath -> $UpdatedPath : $_" 
+                    Write-DebugLog "  ERROR HTTP: $OriginalPath -> $UpdatedPath : $_" 
                 }              
             }
             elseif ($OriginalPath.StartsWith("/")) {
@@ -115,33 +152,33 @@ function Rewrite-ImageLinks {
                     # Relative paths - Ensure consistency by converting to root-relative
                     # 1. Get the parent directory of the HTML file
                     $ParentDirectory = Split-Path -Path $HtmlFile.FullName -Parent
-                    Write-Debug "Parent Directory: $ParentDirectory"
+                    Write-DebugLog "Parent Directory: $ParentDirectory"
 
                     # 2. Combine the parent directory with the original path
                     $CombinedPath = Join-Path -Path $ParentDirectory -ChildPath $OriginalPath
-                    Write-Debug "Combined Path: $CombinedPath"
+                    Write-DebugLog "Combined Path: $CombinedPath"
 
                     if (-not (Test-Path -Path $CombinedPath)) {
-                        Write-Debug "  Path does not exist: $CombinedPath"
+                        Write-DebugLog "  Path does not exist: $CombinedPath"
                         continue;
                     }
                     # 3. Resolve the full path
                     $ResolvedPath = Resolve-Path -Path $CombinedPath
-                    Write-Debug "Resolved Path: $ResolvedPath"
+                    Write-DebugLog "Resolved Path: $ResolvedPath"
 
                     # 4. Get the root-relative path
                     $LocalImagesFullPath = (Get-Item $LocalPath).FullName
-                    Write-Debug "Local Images Full Path: $LocalImagesFullPath"
+                    Write-DebugLog "Local Images Full Path: $LocalImagesFullPath"
 
                     $RootRelativePath = $ResolvedPath.Path.Replace($LocalImagesFullPath, "").Replace("\", "/")
-                    Write-Debug "Root Relative Path: $RootRelativePath"
+                    Write-DebugLog "Root Relative Path: $RootRelativePath"
 
                     # 5. Construct the updated path
                     $UpdatedPath = "$BlobUrl/$RootRelativePath"
-                    Write-Debug "  Updated Path: $UpdatedPath"
+                    Write-DebugLog "  Updated Path: $UpdatedPath"
                 }
                 catch {
-                    Write-Debug "  Error resolving path: $_"
+                    Write-ErrorLog "  Error resolving path: $_"
                     continue;
                 }
             }
@@ -149,7 +186,7 @@ function Rewrite-ImageLinks {
             # Replace the original path in the content
             if ($OriginalPath -ne $UpdatedPath) {
                 $FileContent = $FileContent -replace [regex]::Escape($OriginalPath), $UpdatedPath
-                Write-Debug "  Replaced: $OriginalPath -> $UpdatedPath"
+                Write-DebugLog "  Replaced: $OriginalPath -> $UpdatedPath"
                 $totalLinks += 1;
             }
             
@@ -157,10 +194,18 @@ function Rewrite-ImageLinks {
 
         # Save updated content back to the file
         Set-Content -LiteralPath $HtmlFile.FullName -Value $FileContent
-        Write-InfoLog "Updated ($($Matches.count)): $($HtmlFile.FullName)"
+        Write-DebugLog "Updated ($($Matches.count)): $($HtmlFile.FullName)"
+
+        # **Progress tracking**
+        $index++
+        $percentage = [math]::Round(($index / $totalFiles) * 100, 0)
+        
+        # Log progress every 10%
+        if ($percentage -ge $lastPercentage + $progressInterval) {
+            Write-InfoLog "Progress: $percentage% ($index of $totalFiles HTML files processed with $totalLinks links updated)"
+            $lastPercentage = $percentage
+        }
             
     }
-    Write-InfoLog "HTML link  rewriting complete of $totalLinks."
-
-    
+    Write-InfoLog "HTML link rewriting complete: $totalLinks links updated across $totalFiles files."
 }
