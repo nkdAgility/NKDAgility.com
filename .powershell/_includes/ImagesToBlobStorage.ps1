@@ -12,12 +12,12 @@ function Upload-ImageFiles {
         [string]$AzureSASToken
     )
     try {
-        Write-Debug "Uploading image files to Azure Blob Storage using azcopy..."
+        Write-InfoLog "Uploading image files to Azure Blob Storage using azcopy..."
         azcopy sync $LocalPath "$BlobUrlBase`?$AzureSASToken" --recursive=true --include-pattern "*.jpg;*.jpeg;*.png;*.gif;*.webp;*.svg" --compare-hash=MD5
-        Write-Debug "Upload complete."
+        Write-InfoLog "Upload complete."
     }
     catch {
-        Write-Debug "Error during upload: $_"
+        Write-ErrorLog"Error during upload: $_"
     }
 }
 
@@ -84,10 +84,18 @@ function Rewrite-ImageLinks {
     $HtmlFiles = Get-ChildItem -Path $LocalPath -Recurse -Include *.html
 
     $totalLinks = 0;
+    $totalFiles = $HtmlFiles.Count
+
+    if ($totalFiles -eq 0) {
+        Write-InfoLog "No .html files found for processing."
+        return
+    }
+
+    $lastPercentage = 0  # Tracks when to log progress
+    $progressInterval = 10 # Percentage interval for logging
 
     foreach ($HtmlFile in $HtmlFiles) {
        
-        # $FileContent = Get-Content -Path (Resolve-Path $HtmlFile.FullName) -Raw
         $FileContent = Get-Content -LiteralPath $HtmlFile.FullName -Raw
         # Regex to match all src attributes with image paths
         $ImageRegex = "(?i)(src|content|href)\s*=\s*([""']?)(?<url>[^\s""'>]+\.(jpg|jpeg|png|gif|webp|svg))\2"
@@ -120,18 +128,18 @@ function Rewrite-ImageLinks {
                 try {
                     # Define the regex pattern
                     $allowedPattern = '^(?:https?:\/\/)?(?:nkdagility\.com|preview\.nkdagility\.com|yellow-pond-042d21b03.*\.westeurope\.5\.azurestaticapps\.net)(\/.*)?$'
-                    if ($OriginalUrl -match $allowedPattern) {
+                    if ($OriginalPath -match $allowedPattern) {
                         continue
                     }
                 
                     $pattern = '^(?:https?:\/\/)?[^\/]+(?<path>\/.*)$'
-                    if ($OriginalUrl -match $pattern) {
+                    if ($OriginalPath -match $pattern) {
                         $path = $matches['path']
                         $UpdatedPath = "$BlobUrl/" + $path -join '/'
                     }      
                 }
                 catch {
-                    Write-Debug "  ERROR HTTP: $OriginalPath -> $UpdatedPath : $_" 
+                    Write-DebugLog "  ERROR HTTP: $OriginalPath -> $UpdatedPath : $_" 
                 }              
             }
             elseif ($OriginalPath.StartsWith("/")) {
@@ -151,7 +159,7 @@ function Rewrite-ImageLinks {
                     Write-DebugLog "Combined Path: $CombinedPath"
 
                     if (-not (Test-Path -Path $CombinedPath)) {
-                        Write-Debug "  Path does not exist: $CombinedPath"
+                        Write-DebugLog "  Path does not exist: $CombinedPath"
                         continue;
                     }
                     # 3. Resolve the full path
@@ -187,9 +195,17 @@ function Rewrite-ImageLinks {
         # Save updated content back to the file
         Set-Content -LiteralPath $HtmlFile.FullName -Value $FileContent
         Write-DebugLog "Updated ($($Matches.count)): $($HtmlFile.FullName)"
+
+        # **Progress tracking**
+        $index++
+        $percentage = [math]::Round(($index / $totalFiles) * 100, 0)
+        
+        # Log progress every 10%
+        if ($percentage -ge $lastPercentage + $progressInterval) {
+            Write-InfoLog "Progress: $percentage% ($index of $totalFiles HTML files processed with $totalLinks links updated)"
+            $lastPercentage = $percentage
+        }
             
     }
-    Write-InfoLog "HTML link  rewriting complete of $totalLinks."
-
-    
+    Write-InfoLog "HTML link rewriting complete: $totalLinks links updated across $totalFiles files."
 }
