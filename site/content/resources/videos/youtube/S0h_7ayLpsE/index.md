@@ -33,6 +33,7 @@ tags:
 - Evidence Based Leadership
 - Evidence Based Management
 - Metrics and Learning
+- Agile Product Management
 resourceTypes:
 - video
 categories:

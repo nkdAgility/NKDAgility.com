@@ -868,11 +868,14 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T11:57:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T12:36:21",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the benefits of frequent deployments and how they relate to understanding customer needs and reducing technical debt, which are relevant to product management. However, the primary focus is on technical practices rather than strategic product management discussions.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the benefits of frequent deployments and how they can lead to better code quality and customer feedback. However, it primarily focuses on technical aspects of deployment and coding practices rather than the strategic alignment of product management. While there are mentions of customer needs and feedback, the depth of discussion on product management methodologies and frameworks is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Organisational Culture": {
@@ -1102,11 +1105,14 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-12T15:22:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:30:43",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the benefits of frequent deployments, including the collection of telemetry and data to inform decision-making, which aligns with evidence-based management principles and continuous improvement methodologies.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the importance of frequent deployments and how they relate to technical debt, customer feedback, and code quality. It explicitly mentions the collection of telemetry and data to validate whether features are worth investing in, which aligns with evidence-based decision-making. The discussion on breaking down work into smaller chunks and the impact of deployment frequency on team behaviour and product quality further supports its relevance to the category. However, while it touches on metrics and learning, it does not delve deeply into specific methodologies or frameworks, which slightly limits the depth of discussion.",
     "level": "Secondary"
   },
   "Agile Product Management": {
@@ -1168,11 +1174,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T15:22:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:36:25",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the benefits of frequent deployments and their impact on technical debt, code quality, and maintainability, aligning closely with the principles of Continuous Integration and Continuous Delivery (CI/CD) practices.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on the importance of frequent deployments and its impact on code quality, maintainability, and technical debt, which aligns closely with the principles of Technical Excellence. It discusses Continuous Delivery practices and how they facilitate better engineering outcomes, demonstrating a strong conceptual alignment with the category. The depth of discussion is substantial, providing detailed insights into how smaller batch sizes and frequent deployments can enhance code quality and responsiveness to user feedback, thus fostering a culture of continuous improvement.",
     "level": "Secondary"
   },
   "Events and Presentations": {

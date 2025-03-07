@@ -34,7 +34,7 @@ tags:
 - Engineering Practices
 - Operational Practices
 - Technical Mastery
-- Value Delivery
+- Azure DevOps
 sitemap:
   filename: sitemap.xml
   priority: 0.6

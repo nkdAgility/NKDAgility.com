@@ -23,12 +23,12 @@ preview: https://i.ytimg.com/vi/r2G-NrSIj2k/maxresdefault.jpg
 duration: 116
 isShort: false
 tags:
-- Engineering Practices
 - Code and Complexity
 - Modern Source Control
 - Practical Techniques and Tooling
 - Software Development
 - Technical Mastery
+- Engineering Practices
 - Technical Excellence
 - Operational Practices
 - Pragmatic Thinking

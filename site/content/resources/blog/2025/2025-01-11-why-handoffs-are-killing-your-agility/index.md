@@ -32,7 +32,7 @@ tags:
 categories:
 - Engineering Excellence
 - Social Technologies
-- Product Management
+- DevOps
 preview: 2025-01-11-why-handoffs-are-killing-your-agility.jpg
 
 ---

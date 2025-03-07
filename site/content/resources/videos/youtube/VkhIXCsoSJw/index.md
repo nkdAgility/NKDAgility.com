@@ -31,10 +31,10 @@ tags:
 - Azure DevOps
 - Operational Practices
 - Pragmatic Thinking
-- AI and Automation in Agility
 - Automated Testing
 - Code and Complexity
 - Cycle Time
+- Flow Efficiency
 resourceTypes:
 - video
 sitemap:

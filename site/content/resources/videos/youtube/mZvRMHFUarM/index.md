@@ -25,13 +25,7 @@ preview: https://i9.ytimg.com/vi/mZvRMHFUarM/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 201
 isShort: false
 tags:
-- Pragmatic Thinking
-- Estimation
 - Forecasting
-- Decision Theory
-- Software Development
-- Decision Making
-- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

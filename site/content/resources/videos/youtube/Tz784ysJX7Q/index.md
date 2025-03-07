@@ -26,9 +26,8 @@ duration: 469
 isShort: false
 tags:
 - Product Delivery
-- Decision Making
-- People and Process
 - Pragmatic Thinking
+- People and Process
 - Sociotechnical Systems
 resourceTypes:
 - video

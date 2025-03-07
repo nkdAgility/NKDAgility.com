@@ -316,11 +316,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-12T02:55:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:32:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses code reviews, automation in the pull request process, and practices that enhance code quality, which are central to engineering practices in Agile development.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses code reviews, which directly relate to clean code and quality assurance, aligning with the principles of Engineering Practices. It mentions the importance of automation in the pull request process, which ties into CI/CD practices. The depth of discussion is substantial, covering various techniques and advocating for automated checks, but it does not delve deeply into TDD or pair programming, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Portfolio Management": {

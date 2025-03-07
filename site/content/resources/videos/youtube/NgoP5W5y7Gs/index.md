@@ -27,9 +27,9 @@ tags:
 - Software Developers
 - Software Development
 - Azure DevOps
-- Engineering Practices
 - Pragmatic Thinking
 - Technical Mastery
+- Engineering Practices
 - Technical Excellence
 - Operational Practices
 sitemap:

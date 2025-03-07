@@ -36,9 +36,9 @@ tags:
 - Scrum Master
 - Scrum Product Development
 - Scrum Team
+- Value Delivery
 - Ability to Innovate
 - Decision Making
-- Operational Practices
 resourceTypes:
 - video
 categories:

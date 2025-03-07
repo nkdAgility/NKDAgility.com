@@ -2,7 +2,7 @@
 title: 'Transforming Agility: How Azure DevOps Went from Two-Year Releases to 880,000 Deployments'
 description: Unlock your organisation's potential with continuous delivery! Discover how to shorten feedback loops and stay ahead in a fast-paced market.
 date: 2025-02-06T10:20:34Z
-weight: 410
+weight: 400
 ResourceId: _gyzx59-AJk
 ResourceType: videos
 ResourceImport: true
@@ -29,6 +29,7 @@ isShort: false
 tags:
 - Deployment Frequency
 - Frequent Releases
+- Market Adaptability
 sitemap:
   filename: sitemap.xml
   priority: 0.6
