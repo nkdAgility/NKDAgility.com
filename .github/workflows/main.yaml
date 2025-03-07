@@ -296,7 +296,7 @@ jobs:
 
   # Offload Images
   OffloadImages:
-    name: "Ofload Site Images to Blob Storage"
+    name: "Cleanup and Ofload to Blob Storage"
     runs-on: ubuntu-latest
     if: ${{ success() }}
     needs: [BuildSite, Setup]
@@ -323,6 +323,11 @@ jobs:
         shell: pwsh
         run: |
           . ./.powershell/_includes/ImagesToBlobStorage.ps1
+          if ($env:ACTIONS_STEP_DEBUG -eq "true") {
+            $levelSwitch.MinimumLevel = 'Debug'
+          } else {
+            $levelSwitch.MinimumLevel = 'Information'
+          }
           Upload-ImageFiles -LocalPath $env:LOCAL_IMAGE_PATH -BlobUrlBase $env:BLOB_STORAGE_URL -AzureSASToken $env:AZURE_BLOB_STORAGE_SAS_TOKEN
         env:
           LOCAL_IMAGE_PATH: "./_site/"
@@ -333,43 +338,40 @@ jobs:
         shell: pwsh
         run: |
           . ./.powershell/_includes/ImagesToBlobStorage.ps1
+          if ($env:ACTIONS_STEP_DEBUG -eq "true") {
+            $levelSwitch.MinimumLevel = 'Debug'
+          } else {
+            $levelSwitch.MinimumLevel = 'Information'
+          }
           Rewrite-ImageLinks -LocalPath $env:LOCAL_IMAGE_PATH -BlobUrl $env:BLOB_URL_BIT
         env:
           LOCAL_IMAGE_PATH: "./_site/"
           BLOB_URL_BIT: ${{needs.Setup.outputs.nkdAgility_BLOB_URL_BIT}}
-      - name: "Delete Local Images"
+      - name: "Clean Local Images"
         shell: pwsh
         run: |
           . ./.powershell/_includes/ImagesToBlobStorage.ps1
+          if ($env:ACTIONS_STEP_DEBUG -eq "true") {
+            $levelSwitch.MinimumLevel = 'Debug'
+          } else {
+            $levelSwitch.MinimumLevel = 'Information'
+          }
           $deletedImagesCount = Delete-LocalImageFiles -LocalPath $env:LOCAL_IMAGE_PATH
 
         env:
           LOCAL_IMAGE_PATH: "./_site/"
-      - name: "Delete Local Data Files"
+      - name: "Clean Local Data Files"
         shell: pwsh
         run: |
-          Write-InfoLog "Deleting all data file files locally..."
-          Get-ChildItem -Path $env:LOCAL_IMAGE_PATH -Recurse -Include data.captions.*.srt, data.captions.json, data.json, data.index.classifications.json  | ForEach-Object {
-            try {
-                $count++
-                Remove-Item -Path $_.FullName -Force
-                Write-DebugLog "Deleted: $($_.FullName)"
-            }
-            catch {
-                Write-ErrorLog "Error deleting file $($_.FullName): $_"
-            }
+          . ./.powershell/_includes/CleanupDataFiles.ps1
+          if ($env:ACTIONS_STEP_DEBUG -eq "true") {
+            $levelSwitch.MinimumLevel = 'Debug'
+          } else {
+            $levelSwitch.MinimumLevel = 'Information'
           }
+          $deletedCount = Delete-LocalDataFiles -LocalPath $env:LOCAL_DATA_PATH
         env:
-          LOCAL_IMAGE_PATH: "./_site/resources/"
-      # - name: "Build NKDAgility Outputs"
-      #   shell: pwsh
-      #   run: ./.powershell/build/Sync-BlobStorageImages.ps1
-      #   env:
-      #     LOCAL_IMAGE_PATH: "./_site/"
-      #     BLOB_URL_BIT: "/blob"
-      #     BLOB_STORAGE_URL: "https://nkdagilityblobs.blob.core.windows.net/`$web"
-      #     AZURE_BLOB_STORAGE_SAS_TOKEN: ${{ secrets.AZURE_BLOB_STORAGE_SAS_TOKEN }}
-      #     AZCOPY_FAIL_ON_ERROR: "true"
+          LOCAL_DATA_PATH: "./_site/resources/"
       - uses: actions/upload-artifact@v4
         with:
           name: Site-Blobbed
