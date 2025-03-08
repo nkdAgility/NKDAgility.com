@@ -129,14 +129,17 @@ function Rewrite-ImageLinks {
                     # Define the regex pattern
                     $allowedPattern = '^(?:https?:\/\/)?(?:nkdagility\.com|preview\.nkdagility\.com|yellow-pond-042d21b03.*\.westeurope\.5\.azurestaticapps\.net)(\/.*)?$'
                     if ($OriginalPath -match $allowedPattern) {
-                        continue
+                        $pattern = '^(?:https?:\/\/)?[^\/]+(?<path>\/.*)$'
+                        if ($OriginalPath -match $pattern) {
+                            $path = $matches['path']
+                            $UpdatedPath = "$BlobUrl/" + $path -join '/'
+                        }
+                       
                     }
-                
-                    $pattern = '^(?:https?:\/\/)?[^\/]+(?<path>\/.*)$'
-                    if ($OriginalPath -match $pattern) {
-                        $path = $matches['path']
-                        $UpdatedPath = "$BlobUrl/" + $path -join '/'
-                    }      
+                    else {
+                        Write-DebugLog "  Skipping : $OriginalPath"
+                    }   
+                          
                 }
                 catch {
                     Write-DebugLog "  ERROR HTTP: $OriginalPath -> $UpdatedPath : $_" 
