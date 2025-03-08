@@ -205,21 +205,21 @@ function Get-CategoryConfidenceWithChecksum {
     $CatalogItemsToRefreshOrGet = @($CatalogItemsToRefreshOrGet) + @($CatalogFromCache.Values | Where-Object {
         (-not $_.calculated_at) -or ([DateTimeOffset]$_.calculated_at -lt [DateTimeOffset]$catalog_full[$_.category].date)
         } | Select-Object -ExpandProperty category)
-    # $waterMarkRefresh = $CatalogItemsToRefreshOrGet.Count - $watermarkCount
-    # if ($waterMarkRefresh -le 0) {
-    #     $waterMarkRefresh = [math]::Abs($waterMarkRefresh)
-    #     # Find items from CatalogFromCache that are older than the watermark date and have a final_score > watermarkScoreLimit
-    #     $CatalogItemsToRefreshOrGet = @($CatalogItemsToRefreshOrGet) + @(
-    #         $CatalogFromCache.Values |
-    #         Where-Object { 
-    #             $_.final_score -gt $watermarkScoreLimit -and 
-    #             [DateTimeOffset]$_.calculated_at -lt [DateTimeOffset]::Now.AddDays(-$watermarkAgeLimit)
-    #         } |
-    #         Sort-Object { [DateTimeOffset]$_.calculated_at } |
-    #         Select-Object -ExpandProperty category |
-    #         Select-Object -First $waterMarkRefresh
-    #     )
-    # }
+    $waterMarkRefresh = $CatalogItemsToRefreshOrGet.Count - $watermarkCount
+    if ($waterMarkRefresh -le 0) {
+        $waterMarkRefresh = [math]::Abs($waterMarkRefresh)
+        # Find items from CatalogFromCache that are older than the watermark date and have a final_score > watermarkScoreLimit
+        $CatalogItemsToRefreshOrGet = @($CatalogItemsToRefreshOrGet) + @(
+            $CatalogFromCache.Values |
+            Where-Object { 
+                $_.final_score -gt $watermarkScoreLimit -and 
+                [DateTimeOffset]$_.calculated_at -lt [DateTimeOffset]::Now.AddDays(-$watermarkAgeLimit)
+            } |
+            Sort-Object { [DateTimeOffset]$_.calculated_at } |
+            Select-Object -ExpandProperty category |
+            Select-Object -First $waterMarkRefresh
+        )
+    }
     Write-InformationLog "   Refreshing {CatalogItemsToRefreshOrGet} items from the Catalogue" -PropertyValues $CatalogItemsToRefreshOrGet.Count
 
     if ($CatalogItemsToRefreshOrGet.Count -gt 0 -and $batchStatus -eq $null -and $updateMissing) {
