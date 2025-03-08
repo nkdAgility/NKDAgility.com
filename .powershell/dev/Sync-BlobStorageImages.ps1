@@ -2,18 +2,26 @@
 
 . ./.powershell/_includes/ImagesToBlobStorage.ps1
 
-Write-Host "Starting process..."
+#Write-InfoLog "Remove existing public content..."
+#Remove-Item -Path .\public\* -Recurse -Force
+Write-InfoLog "Build new public content.."
+#hugo --source site --config "hugo.yaml, hugo.local.yaml"
+Write-InfoLog "Starting process..."
+
+
 
 # Variables
 if (-not $env:LOCAL_IMAGE_PATH) {
     $env:LOCAL_IMAGE_PATH = ".\public\resources\blog\announcing-evidence-based-management-training-with-certification-from-scrum-org\" # Local folder containing images and HTML files
     
 }
-Write-Host "Local Image Path: $env:LOCAL_IMAGE_PATH"
+Write-InfoLog "Local Image Path: $env:LOCAL_IMAGE_PATH"
+
 if (-not $env:BLOB_URL_BIT) {
     $env:BLOB_URL_BIT = "https://nkdagilityblobs.blob.core.windows.net/`$web" #"/blob"  # URL to be used for rewriting - can be full URL or "blob" for relative paths
 }
-Write-Host "Blob URL Bit: $env:BLOB_URL_BIT"
+Write-InfoLog "Blob URL Bit: $env:BLOB_URL_BIT"
+
 if (-not $env:BLOB_STORAGE_URL) {
     $env:BLOB_STORAGE_URL = "https://nkdagilityblobs.blob.core.windows.net/`$web"  # Base URL for Blob storage
 }
@@ -30,4 +38,4 @@ Rewrite-ImageLinks -LocalPath $env:LOCAL_IMAGE_PATH -BlobUrl $env:BLOB_URL_BIT
 
 #Delete-LocalImageFiles -LocalPath $env:LOCAL_IMAGE_PATH
 
-Write-Host "Process complete!"
+Write-InfoLog "Process complete!"
