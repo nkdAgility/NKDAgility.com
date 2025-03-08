@@ -9,16 +9,19 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: TabMnJpXFVA
 url: /resources/videos/:slug
-slug: why-are-you-going-the-immersive-scrum-training-route
+slug: transforming-training-how-immersive-learning-and-devops-drive-real-value-in-organisations
 layout: video
 aliases:
 - /resources/TabMnJpXFVA
+- /resources/videos/transforming-training-how-immersive-learning-and-devops-drive-real-value-in-organisations
 - /resources/videos/why-are-you-going-the-immersive-scrum-training-route
 aliasesArchive:
 - /resources/videos/why-are-you-going-the-immersive-scrum-training-route
 - /resources/videos/why-are-you-going-the-immersive-scrum-training-route-
 - /resources/why-are-you-going-the-immersive-scrum-training-route-
 - why-are-you-going-the-immersive-scrum-training-route
+- /resources/videos/transforming-training-how-immersive-learning-and-devops-drive-real-value-in-organisations
+- transforming-training-how-immersive-learning-and-devops-drive-real-value-in-organisations
 preview: https://i.ytimg.com/vi/TabMnJpXFVA/maxresdefault.jpg
 duration: 287
 isShort: false

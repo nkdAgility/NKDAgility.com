@@ -302,7 +302,13 @@ function Get-CategoryConfidenceWithChecksum {
                 $result = Get-ConfidenceFromAIResponse -AIResponseJson $aiResponseJson -ResourceTitle $ResourceTitle -ResourceContent $ResourceContent
                 if ($result.reasoning -ne $null -and $result.category -ne "unknown") {
                     $oldConfidence = $cachedData[$result.category]?.ai_confidence ?? 0
-                    $DaysAgo = [math]::Round(([DateTimeOffset]::Now - [DateTimeOffset]$cachedData[$result.category].calculated_at).TotalDays)
+                    $DaysAgo = if ($cachedData[$result.category]?.calculated_at -is [DateTime]) {
+                        [math]::Round(([DateTimeOffset]::Now - [DateTimeOffset]$cachedData[$result.category].calculated_at).TotalDays)
+                    }
+                    else {
+                        0
+                    }
+                    
                     Write-InformationLog "Updating {category} with confidence of {old} calculated {daysago} to new confidence of {confidence} " -PropertyValues $result.category, $oldConfidence, $DaysAgo, $result.ai_confidence
                     $CatalogFromCache[$result.category] = $result
                     $cachedData[$result.category] = $result

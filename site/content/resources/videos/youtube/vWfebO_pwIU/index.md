@@ -9,16 +9,19 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: vWfebO_pwIU
 url: /resources/videos/:slug
-slug: why-most-scrum-masters-only-have-psmi
+slug: why-many-scrum-masters-stall-at-psm1-the-crucial-role-of-passion-in-professional-growth
 layout: video
 aliases:
 - /resources/vWfebO_pwIU
+- /resources/videos/why-many-scrum-masters-stall-at-psm1-the-crucial-role-of-passion-in-professional-growth
 - /resources/videos/why-most-scrum-masters-only-have-psmi
 aliasesArchive:
 - /resources/videos/why-most-scrum-masters-only-have-psmi
 - /resources/videos/why-most-scrum-masters-only-have-psmi!
 - /resources/why-most-scrum-masters-only-have-psmi!
 - why-most-scrum-masters-only-have-psmi
+- /resources/videos/why-many-scrum-masters-stall-at-psm1-the-crucial-role-of-passion-in-professional-growth
+- why-many-scrum-masters-stall-at-psm1-the-crucial-role-of-passion-in-professional-growth
 preview: https://i.ytimg.com/vi/vWfebO_pwIU/maxresdefault.jpg
 duration: 291
 isShort: false

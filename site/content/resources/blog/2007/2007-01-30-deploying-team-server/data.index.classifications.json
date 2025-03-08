@@ -64,12 +64,15 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-17T09:51:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-08T13:15:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the implementation of TFS (Team Foundation Server) and the associated costs and logistics, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the implementation of TFS (Team Foundation Server) and the logistical challenges associated with scaling a development team. While it touches on aspects of project management, it does not explicitly mention Scrum principles, roles, events, or artifacts. The focus is more on tools and infrastructure rather than the Scrum framework or its core themes, leading to a low confidence score in alignment with the Scrum category.",
+    "level": "Quinary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
