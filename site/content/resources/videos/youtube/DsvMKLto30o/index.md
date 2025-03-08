@@ -1,8 +1,8 @@
 ---
-title: 'NKD Agility: Your partner in developing engineering excellence'
-description: Discover how performance engineering enhances user experience! Join Martin Hinshelwood as he shares strategies for optimising software in production.
+title: 'Embrace Simplicity: How to Transform Complexity into Continuous Delivery Success'
+description: Unlock the secrets to continuous delivery! Discover how to simplify your software and foster a culture of agility for faster, more reliable feature delivery.
 date: 2025-02-27T07:00:10Z
-weight: 375
+weight: 315
 ResourceId: DsvMKLto30o
 ResourceType: videos
 ResourceImport: true
@@ -26,61 +26,62 @@ preview: https://i.ytimg.com/vi/DsvMKLto30o/maxresdefault.jpg
 duration: 788
 isShort: false
 tags:
-- Product Delivery
+- Software Development
 - Pragmatic Thinking
 - Continuous Delivery
+- Product Delivery
+- Frequent Releases
+- Operational Practices
+- Code and Complexity
 - People and Process
-- Working Software
-- Deployment Frequency
-- Deployment Strategies
-- Engineering Practices
-- Software Developers
-- Software Development
+- Azure DevOps
+- Resilience and Change
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 resourceTypes:
 - video
 categories:
 - DevOps
-canonicalUrl: https://www.youtube.com/watch?v=DsvMKLto30o
 
 ---
- Stop Hiding Behind Complexity & Start Delivering Continuously 🚀 | Why No System is Too Big for Continuous Delivery
+I recently penned a post titled "Stop Hiding Behind Complexity and Start Delivering Continuously," and I want to expand on that idea here. The crux of my argument is straightforward: if anyone in your organisation claims that your software is too big or too complex for continuous delivery, they are either lying, being lazy, or simply don’t know how to make it happen. More often than not, it’s the latter—they just don’t understand how to transition from their outdated, cumbersome systems to a more agile, continuous delivery model.
 
-📢 Too many teams claim their systems are “too big” and “too complex” for continuous delivery. The truth? It’s not about size or complexity—it’s about the will to change. 
+### The Path to Continuous Delivery
 
-In this video, I break down why there’s no excuse for avoiding continuous delivery and how organizations can start making real progress today.
+Let’s be clear: achieving continuous delivery is not an insurmountable challenge. It requires a genuine organisational commitment to improving both the quality of the product and the speed at which features are delivered. This isn’t about throwing more people at the problem; it’s about getting your product into shape.
 
-⏳ Chapters:
+- **Assess Your Product**: If your software resembles a lumbering, 500-pound gorilla, it’s time to rethink your approach. A bloated product cannot adapt quickly to new demands. 
+- **Commit to Change**: Just as you would if you were trying to get fit, you need to commit to changing your software’s architecture and processes. This means investing time and effort into making your product leaner and more responsive.
 
-00:00 - Introduction: The Complexity Excuse
-02:15 - Why Most Organizations Resist Change
-05:32 - The Fitness Analogy: Training Your Software for Agility
-08:47 - Lessons from Airlines & Legacy Systems
-12:20 - The Cost of Ignoring Technical Debt
-16:05 - The DevOps Transformation at Microsoft
-19:40 - Practical Steps to Move Toward Continuous Delivery
-24:15 - Call to Action: Get Off Your Ass & Fix It
+### Drawing Parallels with Personal Fitness
 
-💡 What You’ll Learn in This Video:
+Consider your own health. If you aspire to achieve a physique like Hugh Jackman in *Wolverine*, you wouldn’t expect to get there without significant lifestyle changes. You’d need to:
 
-✅ Why no system is too big or complex for continuous delivery
-✅ How legacy systems hold organizations back—and how to fix them
-✅ What airlines, banks, and other industries keep getting wrong
-✅ How Microsoft Windows transformed from six-year cycles to daily deployments
-✅ The role of technical debt, risk, and executive buy-in in DevOps transformation
-✅ Why your organization needs an application lifecycle management strategy
-✅ Actionable steps to start delivering continuously, no matter where you are today
+- **Revamp Your Diet**: Eating healthier is crucial.
+- **Exercise Regularly**: A consistent workout routine is essential.
+- **Adjust Your Habits**: You might need to change your daily schedule to accommodate your new lifestyle.
 
-🎯 Who This is For?
+The same principles apply to your software. If you want it to be agile and capable of rapid feature delivery, you must put in the work to ensure it reaches that state. 
 
-💼 CTOs & Engineering Leaders → Learn how to push past excuses and drive technical leadership.
-🛠 DevOps & Software Engineers → Discover the roadmap to making continuous delivery a reality.
-🚀 Agile & Transformation Coaches → Get insights on how to break down resistance and enable change.
+### The Challenge of Legacy Systems
 
-It’s time to stop hiding behind complexity and start delivering continuously. No matter how big or old your system is, there’s a path forward. Need help? 
-Visit https://www.nkdagility.com to start your DevOps transformation today.
+I often see organisations, particularly in industries like aviation, struggle with legacy systems. These systems are like old mainframes that have been patched over the years but never truly updated. For instance, I’ve heard stories about American Airlines having to pull retired engineers out of retirement homes to fix their outdated systems. This is a clear sign of a knowledge gap and a lack of organisational will to modernise.
 
-#DevOps #ContinuousDelivery #Agile #SoftwareEngineering #EngineeringExcellence #TechnicalLeadership #CTO #AgileTransformation #TechLeadership #CloudMigration #LegacyModernization #DevOpsTransformation 
- [Watch on Youtube](https://www.youtube.com/watch?v=DsvMKLto30o)
+- **Recognise the Risks**: When systems are neglected, they become ticking time bombs. The recent outages at major airlines highlight this risk. They often stem from a failure to maintain and upgrade core systems, leading to catastrophic failures when external issues arise.
+- **Invest in Resilience**: To avoid these pitfalls, organisations must invest in robust application lifecycle management. This means not just building a system and walking away but continuously improving and maintaining it.
+
+### The Importance of Continuous Improvement
+
+The reality is that software development is an ongoing process. Just as maintaining fitness is easier than achieving it, keeping your software in good shape is less challenging than getting it there in the first place. However, it still requires consistent effort and investment.
+
+- **Learn from Others**: Take a page from the Windows team’s playbook. They transformed their delivery process from a six-year cycle to continuous delivery by addressing long-standing issues in their codebase. This required a commitment to change and a willingness to tackle the technical debt that had accumulated over decades.
+
+### The Call to Action
+
+So, what’s the takeaway? No matter how complex your systems may seem, you can move towards continuous delivery. It’s not just an engineering problem; it’s a cultural one. 
+
+- **Foster Organisational Will**: Leaders must recognise the value of investing in their systems. This means allocating resources—time, effort, and money—to fix existing problems and prevent future ones.
+- **Don’t Ignore the Signals**: If you notice signs of trouble, such as frequent outages or slow delivery times, take them seriously. These are indicators that something needs to change.
+
+In conclusion, the complexity of your software should not be an excuse for stagnation. With the right mindset and commitment, you can overcome these challenges and achieve a state of continuous delivery. Don’t hide behind complexity—embrace the work required to simplify and improve your systems. The rewards will be well worth the effort.

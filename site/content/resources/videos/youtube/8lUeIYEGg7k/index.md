@@ -1,8 +1,8 @@
 ---
-title: Why do you trust Joanna to deliver Scrum.Org classes for NKD Agility?
-description: "Discover why Martin Hinshelwood trusts Joanna as a top Scrum trainer for NKD Agility. Elevate your team's performance with expert guidance! #Scrum #Agile"
+title: 'Mastering the Art of Scaling Agile: Strategies to Maintain Agility Across Multiple Teams'
+description: Unlock the secrets to scaling agile effectively! Discover tailored strategies to maintain agility across multiple teams and navigate complexities with ease.
 date: 2025-02-26T06:00:08Z
-weight: 770
+weight: 665
 ResourceId: 8lUeIYEGg7k
 ResourceType: videos
 ResourceImport: true
@@ -29,37 +29,44 @@ aliasesArchive:
 - why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 tags:
-- People and Process
+- Large Scale Agility
+- Scaled Agile
+- Scaling Scrum
+- Pragmatic Thinking
+- Agile Frameworks
+- Scaling Agility
+- Agile Project Management
+- Agile Strategy
+- Enterprise Agility
+- Software Development
 resourceTypes:
 - video
 categories:
-- Leadership
 - Social Technologies
-canonicalUrl: https://www.youtube.com/watch?v=8lUeIYEGg7k
 
 ---
- 🚀 Scaling Agile Beyond a Single Team: The Real Challenge 🚀  
+Agile works exceptionally well when it’s just one team, doesn’t it? The simplicity of interactions, the fluidity of communication, and the ability to pivot quickly are all hallmarks of a well-functioning agile team. However, what happens when you scale up to ten or more teams? Suddenly, those straightforward interactions become a tangled web of dependencies, and before you know it, everything slows down to a crawl. Does this scenario resonate with you?
 
-Agile works exceptionally well when it’s just one team. But what happens when you have ten? Or more? Suddenly, simple interactions become complex:  
+### The Challenge of Scaling Agile
 
-🔸 Dependencies pile up  
-🔸 Alignment breaks down 
-🔸 Delivery slows to a crawl  
+Scaling agile isn’t merely about adding more teams to the mix; it’s about ensuring that the same level of agility is maintained across all teams. This is where things can get tricky. Frameworks like SAFe (Scaled Agile Framework), LeSS (Large Scale Scrum), and Nexus each offer unique approaches to scaling agile practices. However, the challenge lies in making the right choice for your organisation. What works brilliantly for one company may not yield the same results for another.
 
-Scaling Agile isn’t about adding more teams—it’s about maintaining the same level of agility across all teams.  
+### Finding the Right Fit
 
-Frameworks like LeSS, and Nexus each provide different approaches, but the real challenge? Choosing the right one for your organization. 
+At Naked Agility, we firmly believe that there’s no one-size-fits-all solution. Our approach is hands-on; we roll up our sleeves and work closely with you to identify the scaling model that best fits your specific context. I’ve had the privilege of working with numerous organisations, and I can assure you, it’s never the same twice. Each organisation has its own culture, challenges, and goals, which means that our solutions must be tailored accordingly.
 
-That’s where Naked Agility comes in. We don’t believe in cookie-cutter solutions. We roll up our sleeves and help you:  
-✔️ Navigate the complexities of scaling  
-✔️ Avoid the common pitfalls 
-✔️ Keep delivering value—at speed—no matter how big you scale 
+### Navigating Complexities
 
-Because what works for one organization won’t necessarily work for yours. And scaling shouldn’t mean losing agility.  
+Here’s what we focus on when helping organisations scale:
 
-If you’re ready to scale the right way, let’s talk.  Visit https://www.nkdagility.com
+- **Understanding Dependencies**: We take the time to map out dependencies between teams, ensuring that everyone is aligned and aware of how their work impacts others.
+- **Avoiding Pitfalls**: Scaling can lead to common pitfalls, such as miscommunication and loss of focus. We help you identify these risks early on and implement strategies to mitigate them.
+- **Delivering Value at Speed**: Our ultimate goal is to keep delivering value quickly, regardless of how large your organisation grows. We emphasise maintaining agility in processes, even as complexity increases.
 
-#Agile #ScalingAgile #BusinessAgility #Scrum #ProductDevelopment #NakedAgility 
- [Watch on Youtube](https://www.youtube.com/watch?v=8lUeIYEGg7k)
+### Let’s Talk
+
+If you’re ready to scale your agile practices without sacrificing the core principles that make agile so effective, I invite you to reach out. Together, we can navigate the complexities of scaling and ensure that your organisation continues to thrive. Remember, agility is not just a methodology; it’s a mindset that can empower your teams to deliver exceptional results, no matter the size of your operation.
+
+In conclusion, scaling agile is a journey, not a destination. It requires careful consideration, collaboration, and a willingness to adapt. Let’s embark on this journey together and unlock the full potential of your agile transformation.

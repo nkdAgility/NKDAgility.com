@@ -205,21 +205,21 @@ function Get-CategoryConfidenceWithChecksum {
     $CatalogItemsToRefreshOrGet = @($CatalogItemsToRefreshOrGet) + @($CatalogFromCache.Values | Where-Object {
         (-not $_.calculated_at) -or ([DateTimeOffset]$_.calculated_at -lt [DateTimeOffset]$catalog_full[$_.category].date)
         } | Select-Object -ExpandProperty category)
-    $waterMarkRefresh = $CatalogItemsToRefreshOrGet.Count - $watermarkCount
-    if ($waterMarkRefresh -le 0) {
-        $waterMarkRefresh = [math]::Abs($waterMarkRefresh)
-        # Find items from CatalogFromCache that are older than the watermark date and have a final_score > watermarkScoreLimit
-        $CatalogItemsToRefreshOrGet = @($CatalogItemsToRefreshOrGet) + @(
-            $CatalogFromCache.Values |
-            Where-Object { 
-                $_.final_score -gt $watermarkScoreLimit -and 
-                [DateTimeOffset]$_.calculated_at -lt [DateTimeOffset]::Now.AddDays(-$watermarkAgeLimit)
-            } |
-            Sort-Object { [DateTimeOffset]$_.calculated_at } |
-            Select-Object -ExpandProperty category |
-            Select-Object -First $waterMarkRefresh
-        )
-    }
+    # $waterMarkRefresh = $CatalogItemsToRefreshOrGet.Count - $watermarkCount
+    # if ($waterMarkRefresh -le 0) {
+    #     $waterMarkRefresh = [math]::Abs($waterMarkRefresh)
+    #     # Find items from CatalogFromCache that are older than the watermark date and have a final_score > watermarkScoreLimit
+    #     $CatalogItemsToRefreshOrGet = @($CatalogItemsToRefreshOrGet) + @(
+    #         $CatalogFromCache.Values |
+    #         Where-Object { 
+    #             $_.final_score -gt $watermarkScoreLimit -and 
+    #             [DateTimeOffset]$_.calculated_at -lt [DateTimeOffset]::Now.AddDays(-$watermarkAgeLimit)
+    #         } |
+    #         Sort-Object { [DateTimeOffset]$_.calculated_at } |
+    #         Select-Object -ExpandProperty category |
+    #         Select-Object -First $waterMarkRefresh
+    #     )
+    # }
     Write-InformationLog "   Refreshing {CatalogItemsToRefreshOrGet} items from the Catalogue" -PropertyValues $CatalogItemsToRefreshOrGet.Count
 
     if ($CatalogItemsToRefreshOrGet.Count -gt 0 -and $batchStatus -eq $null -and $updateMissing) {
@@ -302,7 +302,13 @@ function Get-CategoryConfidenceWithChecksum {
                 $result = Get-ConfidenceFromAIResponse -AIResponseJson $aiResponseJson -ResourceTitle $ResourceTitle -ResourceContent $ResourceContent
                 if ($result.reasoning -ne $null -and $result.category -ne "unknown") {
                     $oldConfidence = $cachedData[$result.category]?.ai_confidence ?? 0
-                    $DaysAgo = [math]::Round(([DateTimeOffset]::Now - [DateTimeOffset]$cachedData[$result.category].calculated_at).TotalDays)
+                    $DaysAgo = if ($cachedData[$result.category]?.calculated_at -is [DateTime]) {
+                        [math]::Round(([DateTimeOffset]::Now - [DateTimeOffset]$cachedData[$result.category].calculated_at).TotalDays)
+                    }
+                    else {
+                        0
+                    }
+                    
                     Write-InformationLog "Updating {category} with confidence of {old} calculated {daysago} to new confidence of {confidence} " -PropertyValues $result.category, $oldConfidence, $DaysAgo, $result.ai_confidence
                     $CatalogFromCache[$result.category] = $result
                     $cachedData[$result.category] = $result

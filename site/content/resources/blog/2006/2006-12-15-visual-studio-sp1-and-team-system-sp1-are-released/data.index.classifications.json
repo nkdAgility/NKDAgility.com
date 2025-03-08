@@ -64,12 +64,15 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-17T10:07:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-08T13:15:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release of Visual Studio SP1 and Team Foundation Server SP1, with no clear focus on Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the release of Visual Studio SP1 and Team Foundation Server SP1, with no explicit mention of Scrum principles, roles, or events. While Team Foundation Server can be related to Agile practices, the content does not delve into Scrum-specific discussions or frameworks, resulting in a very low confidence score.",
+    "level": "Quinary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
