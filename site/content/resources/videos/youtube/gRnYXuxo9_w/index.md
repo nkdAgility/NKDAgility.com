@@ -9,16 +9,19 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: gRnYXuxo9_w
 url: /resources/videos/:slug
-slug: scrum-value-openness-what-does-it-mean-and-why-does-it-matter
+slug: unlocking-trust-in-scrum-the-power-of-openness-and-transparency
 layout: video
 aliases:
 - /resources/gRnYXuxo9_w
+- /resources/videos/unlocking-trust-in-scrum-the-power-of-openness-and-transparency
 - /resources/videos/scrum-value-openness-what-does-it-mean-and-why-does-it-matter
 aliasesArchive:
 - /resources/videos/scrum-value-openness-what-does-it-mean-and-why-does-it-matter
 - /resources/videos/scrum-value,-openness,-what-does-it-mean-and-why-does-it-matter-
 - /resources/scrum-value,-openness,-what-does-it-mean-and-why-does-it-matter-
 - scrum-value-openness-what-does-it-mean-and-why-does-it-matter
+- /resources/videos/unlocking-trust-in-scrum-the-power-of-openness-and-transparency
+- unlocking-trust-in-scrum-the-power-of-openness-and-transparency
 preview: https://i.ytimg.com/vi/gRnYXuxo9_w/maxresdefault.jpg
 duration: 171
 isShort: false

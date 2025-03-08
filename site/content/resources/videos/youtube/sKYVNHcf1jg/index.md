@@ -9,16 +9,19 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: sKYVNHcf1jg
 url: /resources/videos/:slug
-slug: what-was-your-worst-day-as-an-agile-consultant
+slug: navigating-my-most-memorable-challenge-as-an-agile-consultant-lessons-in-readiness-and-engagement
 layout: video
 aliases:
 - /resources/sKYVNHcf1jg
+- /resources/videos/navigating-my-most-memorable-challenge-as-an-agile-consultant-lessons-in-readiness-and-engagement
 - /resources/videos/what-was-your-worst-day-as-an-agile-consultant
 aliasesArchive:
 - /resources/videos/what-was-your-worst-day-as-an-agile-consultant
 - /resources/videos/what-was-your-worst-day-as-an-agile-consultant-
 - /resources/what-was-your-worst-day-as-an-agile-consultant-
 - what-was-your-worst-day-as-an-agile-consultant
+- /resources/videos/navigating-my-most-memorable-challenge-as-an-agile-consultant-lessons-in-readiness-and-engagement
+- navigating-my-most-memorable-challenge-as-an-agile-consultant-lessons-in-readiness-and-engagement
 preview: https://i.ytimg.com/vi/sKYVNHcf1jg/maxresdefault.jpg
 duration: 280
 isShort: false

@@ -9,16 +9,19 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: rHFhR3o849k
 url: /resources/videos/:slug
-slug: what-makes-a-truly-great-scrum-master
+slug: unlocking-greatness-how-the-right-scrum-master-transforms-teams-and-organisations
 layout: video
 aliases:
 - /resources/rHFhR3o849k
+- /resources/videos/unlocking-greatness-how-the-right-scrum-master-transforms-teams-and-organisations
 - /resources/videos/what-makes-a-truly-great-scrum-master
 aliasesArchive:
 - /resources/videos/what-makes-a-truly-great-scrum-master
 - /resources/videos/what-makes-a-truly-great-scrum-master-
 - /resources/what-makes-a-truly-great-scrum-master-
 - what-makes-a-truly-great-scrum-master
+- /resources/videos/unlocking-greatness-how-the-right-scrum-master-transforms-teams-and-organisations
+- unlocking-greatness-how-the-right-scrum-master-transforms-teams-and-organisations
 preview: https://i.ytimg.com/vi/rHFhR3o849k/maxresdefault.jpg
 duration: 237
 isShort: false
