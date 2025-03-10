@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T11:32:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:52:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a specific issue encountered while customising a process template in TFS, including practical troubleshooting techniques and a solution involving work item definitions, which aligns with the exploration and application of tooling.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses a specific technical issue encountered while customising a process template in TFS, including troubleshooting steps and a solution. It mentions practical techniques for debugging and configuring work item definitions, which aligns with the category. However, the focus is more on a specific problem rather than a broader exploration of tools or methodologies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,12 +733,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:52:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific technical issue encountered while customizing a process template in TFS, including aspects of debugging and server/client interactions. While it does touch upon some engineering problems and a solution related to software craftsmanship, the primary focus is on troubleshooting a particular error rather than broader practices in engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific technical issue related to a software development process, including debugging and problem-solving techniques. However, it lacks a broader discussion on engineering excellence principles, best practices, or continuous improvement. While it touches on aspects of quality assurance and technical debt (the assumption of a non-null value), it does not provide a comprehensive exploration of engineering excellence as defined in the category. The focus is more on troubleshooting a specific error rather than promoting high standards in software craftsmanship.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

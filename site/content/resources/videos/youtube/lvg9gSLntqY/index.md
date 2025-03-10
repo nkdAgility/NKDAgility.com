@@ -31,8 +31,7 @@ tags:
 - Complexity Thinking
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 ## Project Management in Intricate Environments

@@ -29,7 +29,6 @@ aliasesArchive:
 tags:
 - Windows
 - Install and Configuration
-- Practical Techniques and Tooling
 - System Configuration
 - Azure DevOps
 - Azure Pipelines
@@ -37,6 +36,7 @@ tags:
 - Pragmatic Thinking
 - Software Development
 - Troubleshooting
+- Practical Techniques and Tooling
 categories:
 - DevOps
 preview: puzzle-issue-problem-128-link-7-7.png

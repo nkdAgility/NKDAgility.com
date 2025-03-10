@@ -38,6 +38,7 @@ resourceTypes:
 categories:
 - Social Technologies
 - Scrum
+- Product Management
 
 ---
 In the world of Agile, we often talk about the signs of an impending apocalypse, and one of the most critical indicators is famine. Now, before you picture a dystopian future, let’s unpack what this means in the context of Scrum and Agile practices.

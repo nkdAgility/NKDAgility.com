@@ -27,6 +27,7 @@ aliasesArchive:
 - /blog/evolution-not-transformation--this-is-the-inevitability-of-change
 - /resources/blog/evolution-not-transformation-this-is-the-inevitability-of-change
 tags:
+- Enterprise Agility
 - Organisational Agility
 - Experimentation
 - Agile Project Management
@@ -36,10 +37,10 @@ tags:
 - Agile Values and Principles
 - Business Agility
 - Change Management
-- Complexity Thinking
 categories:
 - Leadership
 - Social Technologies
+- Product Management
 preview: image-15-5-4.png
 
 ---

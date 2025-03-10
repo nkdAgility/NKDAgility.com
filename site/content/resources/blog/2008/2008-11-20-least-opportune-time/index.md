@@ -32,7 +32,6 @@ tags:
 - Modern Source Control
 - Personal
 - Release Management
-- Software Developers
 - Software Development
 - Troubleshooting
 categories: []

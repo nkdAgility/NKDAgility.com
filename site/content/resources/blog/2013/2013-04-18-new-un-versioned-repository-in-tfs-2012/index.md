@@ -8,7 +8,7 @@ ResourceImportId: 9452
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-04-18
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,14 +25,13 @@ aliasesArchive:
 tags:
 - Modern Source Control
 - Install and Configuration
-- Practical Techniques and Tooling
 - Software Development
 - System Configuration
 - Troubleshooting
+- Practical Techniques and Tooling
 - Operational Practices
 categories:
 - DevOps
-- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

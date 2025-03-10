@@ -25,12 +25,12 @@ aliasesArchive:
 tags:
 - Windows
 - Install and Configuration
-- Practical Techniques and Tooling
 - Azure DevOps
 - Azure Pipelines
 - Software Development
 - System Configuration
 - Troubleshooting
+- Practical Techniques and Tooling
 categories:
 - DevOps
 

@@ -34,7 +34,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Leadership
+- Product Management
 
 ---
 **Discipline versus motivation?**

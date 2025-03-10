@@ -33,12 +33,12 @@ tags:
 - People and Process
 - Software Developers
 - Software Development
-- Value Delivery
 - Deployment Frequency
 - Deployment Strategies
 - Operational Practices
 - Product Delivery
 - Technical Excellence
+- Technical Mastery
 resourceTypes:
 - video
 categories:

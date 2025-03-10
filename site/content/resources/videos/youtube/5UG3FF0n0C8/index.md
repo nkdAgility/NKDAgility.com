@@ -24,7 +24,6 @@ duration: 41
 isShort: true
 tags:
 - Events and Presentations
-- Software Developers
 - Software Development
 sitemap:
   filename: sitemap.xml
@@ -34,8 +33,8 @@ layout: video
 resourceTypes:
 - video
 categories:
-- DevOps
 - Social Technologies
+- DevOps
 
 ---
  Bring your questions on any topic from DevOps to Agility and Martin will do his best to answer them. Martin is a Professional Scrum Trainer with Scrum.org and a Microsoft MVP in Azure DevOps. Ask him anything!

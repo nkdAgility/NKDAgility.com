@@ -36,8 +36,7 @@ tags:
 - Troubleshooting
 - Windows
 - Practical Techniques and Tooling
-categories:
-- DevOps
+categories: []
 preview: metro-problem-icon-6-6.png
 
 ---

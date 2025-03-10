@@ -24,8 +24,8 @@ preview: https://i.ytimg.com/vi/yCyjGBNaRqI/maxresdefault.jpg
 duration: 174
 isShort: false
 tags:
-- Team Motivation
 - People and Process
+- Team Motivation
 - Agile Values and Principles
 - Agile Leadership
 - Agile Philosophy
@@ -42,6 +42,7 @@ resourceTypes:
 - video
 categories:
 - Leadership
+- Social Technologies
 - Product Management
 
 ---

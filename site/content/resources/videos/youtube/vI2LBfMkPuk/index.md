@@ -25,6 +25,7 @@ preview: https://i.ytimg.com/vi/vI2LBfMkPuk/maxresdefault.jpg
 duration: 200
 isShort: false
 tags:
+- Software Developers
 - Software Development
 sitemap:
   filename: sitemap.xml

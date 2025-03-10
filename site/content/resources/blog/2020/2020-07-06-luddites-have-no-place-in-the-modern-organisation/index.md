@@ -29,9 +29,9 @@ tags:
 - Business Agility
 - Organisational Agility
 - Organisational Change
-- Resilience and Change
 - Change Management
 - Market Adaptability
+- Resilience and Change
 - Enterprise Agility
 categories:
 - Leadership

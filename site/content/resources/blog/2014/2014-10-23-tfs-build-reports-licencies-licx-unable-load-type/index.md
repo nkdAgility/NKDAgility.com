@@ -28,7 +28,6 @@ aliasesArchive:
 - /resources/blog/tfs-build-reports-licencies-licx-unable-load-type
 tags:
 - Install and Configuration
-- Practical Techniques and Tooling
 - Continuous Integration
 - Operational Practices
 - Pragmatic Thinking
@@ -36,6 +35,7 @@ tags:
 - System Configuration
 - Technical Excellence
 - Troubleshooting
+- Practical Techniques and Tooling
 - Release Management
 categories:
 - DevOps

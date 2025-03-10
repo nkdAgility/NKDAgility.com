@@ -30,10 +30,10 @@ sitemap:
   priority: 0.6
 tags:
 - Discovery and Learning
+- Hypothesis Driven Development
 - Experimentation
 - Continuous Learning
 - Decision Making
-- Hypothesis Driven Development
 - Product Discovery
 - Product Validation
 - Lean Startup

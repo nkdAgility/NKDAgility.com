@@ -8,7 +8,7 @@ ResourceImportId: 127
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-05-01
-weight: 640
+weight: 720
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,8 +23,8 @@ aliasesArchive:
 - /fail-a-build-if-tests-fail
 - /resources/blog/fail-a-build-if-tests-fail
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
 - Automated Testing
 - Azure DevOps
 - Azure Pipelines
@@ -36,6 +36,7 @@ tags:
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Engineering Excellence
+- DevOps
 
 ---
 It took me longer than I thought it would to find this, but is you are using TFS2008 and you want builds to fail if any of the tests fail then you can add the following to the tests properties group in your build project (TFSBuild.prof)

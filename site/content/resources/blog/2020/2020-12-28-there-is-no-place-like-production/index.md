@@ -8,7 +8,7 @@ ResourceImportId: 45324
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-12-28
-weight: 545
+weight: 490
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -25,8 +25,8 @@ aliasesArchive:
 - /resources/blog/there-is-no-place-like-production
 tags:
 - Increment
-- Product Delivery
 - Agile Product Management
+- Product Delivery
 - Business Agility
 - Product Validation
 - Release Management

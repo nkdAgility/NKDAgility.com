@@ -25,7 +25,6 @@ duration: 255
 isShort: false
 tags:
 - Coaching
-- Business Agility
 - Organisational Agility
 - People and Process
 - Agile Frameworks
@@ -34,6 +33,7 @@ tags:
 - Agile Strategy
 - Agile Transformation
 - Market Adaptability
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.4

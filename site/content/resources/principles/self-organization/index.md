@@ -29,11 +29,11 @@ tags:
 - Scrum Team
 - Team Collaboration
 - Team Performance
-- Agile Frameworks
 - Agile Project Management
 - People and Process
 - Software Development
 - Self Organisation
+- Agile Frameworks
 - Professional Scrum
 
 ---

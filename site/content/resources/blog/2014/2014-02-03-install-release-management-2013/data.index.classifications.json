@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T11:11:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:51:03",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the installation and configuration of Release Management 2013, which is a practical tool relevant to Agile and DevOps practices.",
+    "final_score": 66.0,
+    "reasoning": "The content explicitly discusses the installation and configuration of Release Management 2013, which is a practical tool relevant to Agile and DevOps practices. It provides direct mentions of specific tools (Release Management Server, Client, and Deployment Agent) and highlights the practical aspects of using these tools. The alignment with the category is strong as it focuses on the application of a specific tool within a DevOps context. The depth of discussion is also notable, as it includes personal experiences and challenges faced during installation, which adds valuable insights into the practical application of the tool.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:51:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Release Management, which is a component of the DevOps process, but it primarily focuses on installation and configuration rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Release Management 2013, which is a tool relevant to DevOps practices, particularly in the context of Continuous Delivery. However, it lacks explicit discussions on broader DevOps principles, cultural shifts, or metrics. The focus is primarily on installation and configuration rather than the integration of people, processes, and tools that characterise DevOps. While it touches on automation and deployment, it does not provide a comprehensive exploration of the DevOps category.",
+    "level": "Quaternary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",

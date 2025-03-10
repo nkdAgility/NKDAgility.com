@@ -26,10 +26,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Flow Efficiency
 - Throughput
 - People and Process
 - Cycle Time
-- Flow Efficiency
 - Agile Frameworks
 - Operational Practices
 - Pragmatic Thinking

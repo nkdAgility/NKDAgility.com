@@ -39,9 +39,9 @@ tags:
 - Organisational Agility
 - Software Development
 - Team Collaboration
-- Value Delivery
 - Agile Product Management
 - Empirical Process Control
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

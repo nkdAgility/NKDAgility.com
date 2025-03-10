@@ -27,8 +27,8 @@ aliasesArchive:
 - /blog/issue-[-tfs2012-2-]-tf30063-you-are-not-authorized-to-access
 - /resources/blog/issue-tfs2012-2-tf30063-you-are-not-authorized-to-access
 tags:
-- Install and Configuration
 - Troubleshooting
+- Install and Configuration
 - Windows
 categories: []
 preview: puzzle-issue-problem-128-link-3-3.png

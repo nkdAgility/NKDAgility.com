@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T18:18:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:59:47",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses practical techniques for configuring Planning Tools in Team Foundation Server, including specific steps for updating process templates and custom fields.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses a specific error related to configuring Planning Tools in Team Foundation Server (TFS) and provides a solution that involves practical steps for updating a process template. While it does mention tooling (TFS) and offers a solution, the focus is primarily on troubleshooting rather than a broader exploration of Agile or DevOps methodologies or frameworks. The depth of discussion is moderate, as it outlines steps to resolve a specific issue but lacks comprehensive insights into best practices or case studies that would enhance team performance or collaboration.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:59:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses configuring planning tools in Team Foundation Server, which relates to process templates and team project management, but it primarily focuses on a specific error and its resolution rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses an error related to configuring planning tools in Team Foundation Server (TFS) and provides a solution for updating process templates. While it touches on aspects of configuration and process management, it lacks a direct focus on DevOps principles such as CI/CD, automation, or cultural shifts. The mention of the Visual Studio Scrum process template indicates a connection to Agile methodologies rather than a comprehensive discussion of DevOps practices. Overall, the content is more technical and specific to TFS rather than embodying the broader themes of DevOps.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

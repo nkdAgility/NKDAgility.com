@@ -37,11 +37,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T11:29:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:49:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses challenges and considerations related to automated builds, testing, and deployment of Business Intelligence solutions, which aligns with engineering practices that enhance agility and technical excellence.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses challenges related to automated builds and testing of Business Intelligence solutions, which aligns with the principles of Technical Excellence. It mentions specific issues around automation and testing, indicating a focus on engineering practices. However, the discussion lacks depth in exploring solutions or methodologies like TDD or CI/CD, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -73,11 +76,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T11:29:22",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-07T15:49:49",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses automation and deployment challenges related to Business Intelligence solutions, which aligns with DevOps principles. However, it primarily focuses on specific issues with BI packages rather than a broader DevOps context.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses automation in the context of building and deploying Business Intelligence solutions, which aligns with DevOps principles. It explicitly mentions automation of deployment and testing, which are key aspects of DevOps practices. However, while it touches on relevant topics, it lacks a broader discussion on cultural shifts, tools, or metrics that would provide a more comprehensive view of DevOps. The focus is primarily on specific technical challenges rather than the overarching DevOps philosophy.",
     "level": "Secondary"
   },
   "AI and Automation in Agility": {

@@ -76,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-14T15:18:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:13:30",
+    "ai_confidence": 85.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses troubleshooting and resolving a specific installation and configuration issue related to Team Foundation Server and Project Server, providing actionable insights and solutions.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific installation and configuration issue related to Team Foundation Server and Project Server. It provides a detailed account of the error encountered, the necessary permissions, and a clear solution for changing the service account to resolve the issue. This aligns well with the key topics of installation and configuration, particularly in the context of best practices and troubleshooting. The depth of discussion is significant, as it not only identifies the problem but also explains the implications of service account permissions, making it actionable for users facing similar issues.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -121,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:13:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses integration issues between Team Foundation Server and Project Server, which relates to DevOps practices, but primarily focuses on troubleshooting rather than broader DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific issue related to Team Foundation Server and Project Server integration, which touches on aspects of deployment and permissions management. However, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. The focus is primarily on troubleshooting a technical error rather than on the integration of people, processes, and tools that characterise DevOps.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

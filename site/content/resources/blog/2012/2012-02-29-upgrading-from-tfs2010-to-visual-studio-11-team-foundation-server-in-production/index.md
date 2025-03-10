@@ -29,8 +29,7 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - System Configuration
-categories:
-- DevOps
+categories: []
 
 ---
 Upgrading from Visual Studio 2010 Team Foundation Server to Visual Studio 11 Team Foundation Server beta is very easy and as we have seen, [fully supported in production](http://blog.nwcadence.com/go-live-with-visual-studio-11-beta-3/). Today I got the new bits and I an going to upgrade our Northwest Cadence production server.

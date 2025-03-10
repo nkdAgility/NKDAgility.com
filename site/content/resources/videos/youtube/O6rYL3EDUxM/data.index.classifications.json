@@ -1114,11 +1114,14 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-12T03:48:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T13:00:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the principles of Agile, focusing on self-assessment, continuous improvement, and the importance of feedback loops, which are central to the processes of discovery and learning in product development.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of delivering working software and gathering feedback, which aligns with the principles of continuous learning and adaptation in Agile methodologies. However, the primary focus is on critiquing Agile practices rather than exploring methodologies that foster innovation or learning. While it touches on self-reflection and improvement, it lacks a deeper exploration of discovery processes or frameworks that support learning.",
     "level": "Secondary"
   },
   "Systems Thinking": {
@@ -1186,12 +1189,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T12:45:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:00:30",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Continuous Delivery as a key aspect of Agile practices, which aligns with DevOps principles. However, the primary focus is on Agile methodologies and the authenticity of Agile practices rather than on DevOps itself.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses Agile practices and the challenges of implementing Agile methodologies, particularly in the context of the US Department of Defense. While it touches on concepts related to continuous delivery and the importance of delivering working software, it does not explicitly focus on DevOps principles or practices. The discussion lacks depth in terms of DevOps-specific tools, cultural shifts, or metrics, which are crucial for a stronger alignment with the DevOps category.",
+    "level": "Quaternary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",

@@ -25,6 +25,7 @@ preview: https://i.ytimg.com/vi/4YixczaREUw/maxresdefault.jpg
 duration: 1373
 isShort: false
 tags:
+- Professional Scrum
 - Software Development
 sitemap:
   filename: sitemap.xml

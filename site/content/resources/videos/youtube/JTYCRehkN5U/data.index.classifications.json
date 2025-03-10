@@ -1186,20 +1186,26 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T12:45:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:00:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the importance of technical excellence and its impact on delivering usable working products, which aligns with DevOps principles. However, the primary focus is on Agile methodologies and Scrum practices, making DevOps a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 34.0,
+    "reasoning": "The content primarily discusses Agile methodologies and technical excellence, with a focus on Scrum practices. While it touches on aspects of DevOps, such as continuous delivery and the importance of quality in software development, it does not explicitly centre on DevOps principles or practices. The discussion lacks depth in DevOps-specific tools, cultural shifts, or metrics, leading to a lower confidence score in alignment with the DevOps category.",
+    "level": "Quaternary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-12T05:42:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T13:00:43",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of technical excellence in software development, specifically referencing the Azure DevOps team's transition to continuous delivery and their focus on quality. It provides insights into Azure DevOps practices and methodologies, making it a central theme.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses technical excellence and agile methodologies, with a specific mention of the Azure DevOps team and their transition to continuous delivery. However, the primary focus is on general agile principles and technical excellence rather than a detailed exploration of Azure DevOps functionalities or best practices. While Azure DevOps is mentioned, it is not the central theme of the discussion, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Products and Books": {

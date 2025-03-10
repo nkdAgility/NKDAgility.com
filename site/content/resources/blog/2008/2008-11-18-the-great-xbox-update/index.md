@@ -22,8 +22,7 @@ aliasesArchive:
 - /blog/the-great-xbox-update
 - /the-great-xbox-update
 - /resources/blog/the-great-xbox-update
-tags:
-- News and Reviews
+tags: []
 categories: []
 preview: metro-xbox-360-link-3-2.png
 

@@ -29,6 +29,7 @@ sitemap:
 tags:
 - Scrum Product Development
 - Agile Project Management
+- Professional Scrum
 resourceTypes:
 - video
 layout: video

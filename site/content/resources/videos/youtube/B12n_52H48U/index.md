@@ -32,11 +32,11 @@ sitemap:
   priority: 0.6
 tags:
 - Product Owner
-- Agile Product Management
 - Decision Making
 - People and Process
 - Agile Project Management
 - Pragmatic Thinking
+- Agile Product Management
 - Decision Theory
 - Scrum Product Development
 - Accountability

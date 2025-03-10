@@ -31,11 +31,11 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Strategy
+- Organisational Agility
 - People and Process
 - Agile Philosophy
 - Agile Transformation
 - Beta Codex
-- Organisational Agility
 - Organisational Change
 - Organisational Culture
 - Organisational Physics

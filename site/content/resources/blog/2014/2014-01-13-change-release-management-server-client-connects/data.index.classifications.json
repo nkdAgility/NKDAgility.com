@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T11:17:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:51:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses practical techniques for changing the Release Management Server connection, including specific tools and methods for configuration.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a practical guide on changing the Release Management Server connection, detailing specific steps and tools involved in the process. It discusses the use of a utility for configuration changes and suggests creating batch files for efficiency, which aligns well with the category's focus on practical techniques and tooling. However, while it is detailed, the discussion is somewhat narrow and specific to a single tool, which slightly limits its broader applicability to Agile and DevOps practices.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:51:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses changing the Release Management Server, which is related to deployment processes, but it primarily focuses on a specific technical task rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses changing the Release Management Server, which is related to deployment processes, but it lacks a broader discussion on DevOps principles, practices, or cultural shifts. While it touches on a specific tool and configuration aspect, it does not delve into the integration of people, processes, or the overall efficiency of software delivery, which are core to the DevOps category.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

@@ -27,6 +27,7 @@ duration: 418
 isShort: false
 tags:
 - People and Process
+- Software Developers
 - Team Collaboration
 sitemap:
   filename: sitemap.xml
@@ -34,6 +35,7 @@ sitemap:
 resourceTypes:
 - video
 categories:
+- Social Technologies
 - Scrum
 
 ---

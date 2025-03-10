@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T11:13:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:51:10",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the installation and configuration of the Release Management Server for TFS 2013, which aligns with practical techniques and tooling in the context of DevOps practices.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed guide on installing and configuring the Release Management Server for TFS 2013, which directly relates to practical tooling in a DevOps context. It discusses specific steps, tools, and configurations, aligning well with the category's focus on practical techniques and tooling. The depth of discussion is significant, covering installation processes and configuration nuances, which enhances its relevance to the category. However, while it is focused on a specific tool, it lacks broader discussions on methodologies or frameworks that could further strengthen its alignment.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T11:13:22",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-07T14:51:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses the installation and configuration of the Release Management Server for TFS, which is relevant to DevOps practices. However, it lacks a broader discussion on DevOps principles, automation, or cultural shifts, making it a major but secondary theme.",
-    "level": "Secondary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the installation of the Release Management Server for TFS 2013, which is a tool relevant to DevOps practices. However, it primarily focuses on the installation process rather than broader DevOps principles, practices, or cultural shifts. While it touches on aspects of automation and configuration, it lacks depth in discussing the integration of people, processes, and tools, which are core to the DevOps category. Therefore, while there is some alignment, it is not the primary focus of the content.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

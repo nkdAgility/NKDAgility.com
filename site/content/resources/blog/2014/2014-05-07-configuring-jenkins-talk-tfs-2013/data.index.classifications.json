@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T10:36:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:49:29",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical steps and techniques for configuring Jenkins to work with TFS, including installation and configuration of plugins, which aligns well with the category's focus on tooling and methodologies in Agile and DevOps practices.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed guide on configuring Jenkins to work with TFS, which directly aligns with the category's focus on practical techniques and tooling. It discusses specific tools (Jenkins and TFS), methodologies for integrating them, and includes step-by-step instructions, demonstrating a clear application of the tools in a real-world scenario. The depth of discussion is substantial, covering installation, configuration, and the implications of using these tools, which enhances the overall understanding of their practical application in Agile and DevOps contexts.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T10:36:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:49:25",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the integration of Jenkins with TFS, which is relevant to Continuous Integration (CI) practices in DevOps. It covers the configuration and automation aspects of the build process, aligning well with DevOps principles.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on configuring Jenkins to work with TFS, which is relevant to DevOps practices, particularly in the context of Continuous Integration (CI). It discusses the integration of tools (Jenkins and TFS) and touches on automation aspects, but lacks a broader discussion on DevOps principles, cultural shifts, or metrics. While it provides practical steps and details, it does not delve deeply into the overarching themes of DevOps, such as collaboration between teams or the impact of automation on deployment frequency.",
     "level": "Secondary"
   },
   "Miscellaneous": {

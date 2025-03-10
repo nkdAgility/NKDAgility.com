@@ -29,9 +29,9 @@ aliasesArchive:
 tags:
 - Transparency
 - Flow Efficiency
+- Practical Techniques and Tooling
 - Azure Boards
 - Azure DevOps
-- Practical Techniques and Tooling
 - Software Development
 - Agile Frameworks
 - Agile Project Management

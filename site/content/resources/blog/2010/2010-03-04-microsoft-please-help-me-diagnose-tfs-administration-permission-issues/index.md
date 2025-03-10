@@ -31,10 +31,10 @@ aliasesArchive:
 - /blog/microsoft--please-help-me-diagnose-tfs-administration-permission-issues-
 - /resources/blog/microsoft-please-help-me-diagnose-tfs-administration-permission-issues
 tags:
-- Install and Configuration
 - System Configuration
 - Troubleshooting
 - Windows
+- Install and Configuration
 preview: metro-SSWLogo-128-link-1-1.png
 categories: []
 

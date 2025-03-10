@@ -26,7 +26,6 @@ duration: 4859
 isShort: false
 tags:
 - People and Process
-- Decision Making
 - Organisational Change
 sitemap:
   filename: sitemap.xml

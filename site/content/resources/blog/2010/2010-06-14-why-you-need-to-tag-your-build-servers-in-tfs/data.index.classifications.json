@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T00:34:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:36:00",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical application of tagging build servers in TFS, which is a specific tooling technique to enhance build management and team collaboration.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed discussion on the practical application of tagging build servers in TFS, which directly relates to tooling in DevOps practices. It explores the complexities of managing build servers, the benefits of using tags, and specific methodologies for implementing these tags effectively. The depth of the discussion includes examples, figures, and a clear explanation of how to set up and manage build agents, aligning well with the core themes of the category. Overall, the content is focused on practical techniques and tooling, making it a strong fit for the classification.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T00:34:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:35:56",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the management of build servers in a continuous integration environment, which aligns with DevOps principles and practices, particularly in relation to automation and streamlining workflows.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the management of build servers and the use of tags in a continuous integration environment, which aligns with DevOps principles. However, while it touches on automation and the need for collaboration among geographically diverse teams, it lacks a broader discussion on cultural shifts, metrics, or tools that are central to DevOps. The focus is primarily on technical implementation rather than the holistic integration of people and processes.",
     "level": "Secondary"
   },
   "Miscellaneous": {

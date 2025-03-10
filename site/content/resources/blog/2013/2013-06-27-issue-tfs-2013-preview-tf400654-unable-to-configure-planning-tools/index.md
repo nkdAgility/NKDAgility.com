@@ -29,13 +29,12 @@ aliasesArchive:
 tags:
 - Troubleshooting
 - Install and Configuration
-- Practical Techniques and Tooling
 - Azure DevOps
 - Software Development
 - System Configuration
+- Practical Techniques and Tooling
 categories:
 - Scrum
-- DevOps
 - Social Technologies
 preview: puzzle-issue-problem-128-link-2-2.png
 

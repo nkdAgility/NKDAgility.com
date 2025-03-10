@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T23:38:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:42:01",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical setup and configuration of a release management environment in Azure, detailing specific tools and methodologies used in the process.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed exploration of setting up a standard environment for release management using Azure and Visual Studio tools. It explicitly mentions various tools such as Visual Studio Online, Release Management, Git, and Application Insights, aligning well with the category's focus on practical techniques and tooling. The discussion includes specific methodologies for configuring environments, automating deployments, and integrating tools, demonstrating a strong alignment with the core themes of the category. The depth of the discussion is substantial, covering step-by-step processes and considerations for effective implementation, which enhances the overall confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T23:38:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:41:56",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the creation of a standard environment for release management in Azure, which involves automation, deployment processes, and tools that are central to DevOps practices.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on creating a standard environment for release management in Azure, which aligns closely with DevOps principles such as automation, continuous delivery, and the use of tools like Visual Studio Online and Application Insights. It discusses the setup of environments, automated deployments, and the integration of various tools, which are key aspects of DevOps practices. The depth of discussion is substantial, providing detailed steps and considerations for configuring environments, although it could benefit from a more explicit discussion of cultural shifts and collaboration aspects in DevOps.",
     "level": "Secondary"
   },
   "Miscellaneous": {

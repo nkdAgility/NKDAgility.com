@@ -30,10 +30,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Systems Thinking
 - Organisational Change
 - Organisational Culture
-- People and Process
 - Change Management
 - Organisational Physics
 - Sociotechnical Systems

@@ -1,12 +1,15 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T11:08:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:26:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions DevOps as a topic for discussion, but it is not the primary focus, as it also includes Agility and is centred around a Q&A format.",
-    "level": "Tertiary"
+    "final_score": 34.0,
+    "reasoning": "The content primarily discusses Agile methodologies, particularly Scrum, and the use of story points, team sizes, and emergent architecture. While there are brief mentions of DevOps, such as the reference to 'Naked agility is available for DevOps and agile training and consulting,' the focus remains on Agile practices rather than the integration of development and operations, which is central to DevOps. The discussion lacks depth in DevOps principles, practices, and tools, leading to a low confidence score in alignment with the DevOps category.",
+    "level": "Quaternary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
@@ -451,12 +454,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-18T12:23:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions DevOps and Agile, suggesting a context relevant to software developers; however, it is primarily an open Q&A format and not focused deeply on the role of developers in these methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-07T14:26:34",
+    "ai_confidence": 67.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses Agile methodologies, specifically story points and team sizes, which are relevant to software developers. It touches on the impact of these practices on team dynamics and productivity, aligning with the core themes of the category. However, the discussion lacks depth in exploring broader Agile and DevOps principles and tools, focusing more on personal opinions and experiences rather than structured best practices or methodologies.",
+    "level": "Secondary"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",

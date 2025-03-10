@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T21:52:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:27:09",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical steps and commands for upgrading a process template in TFS, which aligns with the exploration and application of tooling in Agile and DevOps practices.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed, step-by-step guide on upgrading a process template in TFS, which directly relates to practical techniques and tooling in Agile and DevOps. It discusses specific tools (TFS, command line tools) and methodologies (process template management) that enhance team performance and delivery outcomes. The depth of discussion is significant, covering multiple aspects of the process, including fixing queries and reports, and installing new work item types and categories. Overall, the content aligns well with the category's focus on practical application and tooling.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,12 +733,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:26:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses upgrading a process template in TFS, which touches on aspects of software development practices, but primarily focuses on project-specific operations rather than broader engineering excellence principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading a process template in TFS, which includes steps for managing work items, queries, and reports. While it touches on aspects of software development practices, such as maintaining data integrity and using command line tools, it lacks a broader discussion on engineering excellence principles, best practices, or continuous improvement. The content does not explicitly mention key topics like coding standards, CI/CD practices, or technical debt management, leading to a lower confidence score in alignment with the category.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

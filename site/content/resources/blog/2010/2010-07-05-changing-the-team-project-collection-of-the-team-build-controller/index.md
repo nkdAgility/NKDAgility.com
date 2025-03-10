@@ -24,7 +24,6 @@ aliasesArchive:
 - /resources/blog/changing-the-team-project-collection-of-the-team-build-controller
 tags:
 - Install and Configuration
-- Practical Techniques and Tooling
 - System Configuration
 - Azure DevOps
 - Continuous Integration
@@ -32,6 +31,7 @@ tags:
 - Software Development
 - Technical Mastery
 - Troubleshooting
+- Practical Techniques and Tooling
 - Application Lifecycle Management
 preview: metro-SSWLogo-128-link-6-6.png
 categories:

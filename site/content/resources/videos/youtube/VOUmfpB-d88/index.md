@@ -34,11 +34,11 @@ tags:
 - People and Process
 - Agile Philosophy
 - Continuous Learning
-- Value Delivery
 - Agile Frameworks
 - Agile Project Management
 - Agile Transformation
 - Coaching
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

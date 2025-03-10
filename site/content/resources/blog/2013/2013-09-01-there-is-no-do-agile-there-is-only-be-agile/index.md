@@ -28,7 +28,6 @@ aliasesArchive:
 - /resources/blog/there-is-no-do-agile-there-is-only-be-agile
 tags:
 - Transparency
-- Agile Product Management
 - Empirical Process Control
 - People and Process
 - Agile Project Management
@@ -37,6 +36,7 @@ tags:
 - Organisational Agility
 - Organisational Change
 - Scaling Agility
+- Team Collaboration
 categories:
 - Scrum
 - Leadership

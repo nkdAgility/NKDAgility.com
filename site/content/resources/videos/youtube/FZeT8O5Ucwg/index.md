@@ -26,6 +26,7 @@ duration: 2106
 isShort: false
 tags:
 - People and Process
+- Software Developers
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -33,6 +34,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Social Technologies
 - Scrum
 
 ---

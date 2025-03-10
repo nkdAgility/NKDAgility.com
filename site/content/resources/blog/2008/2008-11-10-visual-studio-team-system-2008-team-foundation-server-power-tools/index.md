@@ -24,6 +24,12 @@ aliasesArchive:
 - /resources/blog/visual-studio-team-system-2008-team-foundation-server-power-tools
 tags:
 - News and Reviews
+- Practical Techniques and Tooling
+- Products and Books
+- Release Management
+- Application Lifecycle Management
+- Frequent Releases
+- Software Development
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

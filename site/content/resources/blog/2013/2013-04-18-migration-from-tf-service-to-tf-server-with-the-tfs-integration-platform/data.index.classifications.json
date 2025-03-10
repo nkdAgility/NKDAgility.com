@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T19:03:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:08:33",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical techniques and tooling involved in migrating from TF Service to TF Server using the TFS Integration Platform, including configuration details and user mapping.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed guide on migrating from TF Service to TF Server using the TFS Integration Platform, which directly relates to practical tooling in a DevOps context. It discusses specific configurations, user account mappings, and the challenges faced during the migration process, aligning well with the core themes of practical techniques and tooling. The depth of discussion is substantial, covering both source control and work item tracking, although it could benefit from more examples or case studies to enhance its practical application focus.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,12 +733,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:08:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the technical aspects of migrating from TF Service to TF Server using the TFS Integration Platform, which touches on coding and development practices. However, the focus is more on migration and system configuration rather than broader software craftsmanship or engineering excellence topics.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TF Service to TF Server, which is a specific task rather than a broader discussion on engineering excellence. While it touches on some relevant topics like user account mapping and configuration, it lacks a comprehensive exploration of best practices, quality assurance, or continuous improvement in engineering processes. The discussion is more about practical implementation than promoting high standards in software craftsmanship.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

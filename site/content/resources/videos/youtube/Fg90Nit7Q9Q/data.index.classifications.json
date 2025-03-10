@@ -1,11 +1,14 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T22:03:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T13:49:38",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the alignment of DevOps and software engineering practices through the Scrum framework, highlighting key Scrum principles such as Sprints and the importance of a usable product, which are central to the category.",
+    "final_score": 74.0,
+    "reasoning": "The content explicitly discusses Scrum, highlighting its role in aligning DevOps and software engineering practices. It mentions key Scrum principles such as delivering a usable product at the end of each Sprint, which directly relates to the core themes of value delivery and collaboration. The depth of discussion is significant, as it explores the integration of engineering excellence and DevOps within the Scrum framework, demonstrating a strong understanding of how these methodologies can enhance team dynamics and responsiveness to change.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -64,12 +67,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T22:03:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:49:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum in the context of aligning DevOps and software engineering practices, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses Scrum in the context of aligning DevOps and software engineering practices, which indicates a direct mention of Scrum principles. However, while it touches on the importance of having a usable product at the end of each Sprint, it lacks a comprehensive exploration of Scrum roles, events, or artifacts. The discussion is somewhat aligned with the core themes of Professional Scrum, particularly regarding transparency and feedback loops, but it does not delve deeply into the theoretical foundations or practical implementations of Scrum as outlined in the Scrum Guide.",
+    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",

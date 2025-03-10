@@ -27,7 +27,6 @@ tags:
 - Practical Techniques and Tooling
 - Products and Books
 - System Configuration
-- Release Management
 - Software Development
 - Windows
 - Azure DevOps

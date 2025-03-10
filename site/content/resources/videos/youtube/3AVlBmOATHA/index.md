@@ -31,19 +31,19 @@ tags:
 - People and Process
 - Agile Strategy
 - Agile Transformation
-- Business Agility
 - Change Management
 - Organisational Change
 - Organisational Agility
 - Pragmatic Thinking
+- Business Agility
 - Sociotechnical Systems
 resourceTypes:
 - video
 layout: video
 categories:
 - Leadership
-- Social Technologies
 - Product Management
+- Social Technologies
 
 ---
 How would you help organizations pitch the opportunity of agile internally?

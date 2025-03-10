@@ -577,12 +577,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T00:48:24",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-07T15:34:17",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "Content primarily discusses a proof-of-concept software application that calculates blog post rankings using external data sources and modular programming techniques, which falls under software development practices.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses a proof-of-concept for ranking blog posts based on various metrics, which involves software development concepts such as creating a WPF application and using web services. However, the primary focus is on the ranking algorithm and data collection rather than on software development methodologies or best practices. While it touches on coding and implementation, it lacks depth in discussing software engineering principles or frameworks, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",

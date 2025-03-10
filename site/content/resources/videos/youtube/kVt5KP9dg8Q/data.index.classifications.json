@@ -1183,12 +1183,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T12:29:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T12:57:56",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges of continuous delivery and the importance of quality in software delivery, which are relevant to DevOps principles. However, the primary focus is on Agile practices and self-reflection rather than a direct discussion of DevOps as a central theme.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses aspects of continuous delivery and the importance of quality in software delivery, which aligns with DevOps principles. However, it primarily focuses on Agile methodologies and the challenges of achieving true agility, rather than on DevOps practices or tools. The mention of continuous delivery is brief and secondary to the overall discussion about Agile, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1231,11 +1234,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-12T05:05:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:57:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of continuous delivery, quality assurance, and the elimination of bureaucratic processes in Agile environments, which aligns closely with the principles of value delivery.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of continuous delivery and the minimisation of bureaucratic processes in Agile environments, which aligns well with the principles of iterative development and customer value delivery. It highlights the need for high-quality products to reduce the necessity for user acceptance testing, thus directly addressing customer satisfaction and value management. However, while it touches on these themes, it does not delve deeply into specific methodologies or practices, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Technical Excellence": {

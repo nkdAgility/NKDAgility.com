@@ -35,6 +35,7 @@ tags:
 - Working Software
 categories:
 - Scrum
+- Social Technologies
 preview: 2025-01-03-definition-of-done-objective-vs-subjective.jpg
 
 ---

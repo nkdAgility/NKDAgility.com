@@ -211,12 +211,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-14T15:07:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:13:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content provides in-depth technical troubleshooting steps and practices related to upgrading Team Foundation Server, addressing specific technical errors, qualifying logs, and best practices for ensuring a smooth upgrade process. The focus is clearly on technical practices and methodologies relevant to software engineering and delivery processes.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses a specific error encountered during the upgrade of Team Foundation Server, focusing on troubleshooting and solutions. While it touches on technical aspects related to database connectivity and upgrade processes, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. The mention of best practices for upgrades is relevant but does not delve deeply into the principles of Technical Excellence, such as TDD or CI/CD. Therefore, while there is some alignment, the depth and focus on the category are limited.",
+    "level": "Tertiary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -733,12 +736,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:13:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses troubleshooting errors encountered during a TFS upgrade and emphasizes best practices for maintaining a healthy TFS environment, indicating engineering processes. However, it primarily focuses on operational issues rather than core engineering excellence principles and practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific error encountered during the upgrade of Team Foundation Server, focusing on troubleshooting and solutions rather than broader engineering excellence principles. While it touches on best practices for upgrades, it lacks a comprehensive discussion on software craftsmanship, coding standards, or continuous improvement processes, which are central to the category of Engineering Excellence.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

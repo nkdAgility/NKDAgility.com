@@ -37,12 +37,12 @@ tags:
 - Decision Making
 - Empirical Process Control
 - People and Process
-- Product Delivery
+- Value Delivery
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Product Management
+- Social Technologies
 
 ---
 How is agile product development different to waterfall project management?

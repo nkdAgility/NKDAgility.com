@@ -34,7 +34,6 @@ tags:
 - Organisational Agility
 - Organisational Change
 categories:
-- Leadership
 - Social Technologies
 preview: Siren-mermaids-25084952-1378-1045-6-5.jpg
 

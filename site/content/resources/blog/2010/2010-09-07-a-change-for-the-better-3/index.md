@@ -8,7 +8,7 @@ ResourceImportId: 28
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-09-07
-weight: 455
+weight: 445
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -35,8 +35,8 @@ tags:
 - Software Development
 - Mentoring
 - Personal
+- Practical Techniques and Tooling
 - Product Delivery
-- Agile Transformation
 categories:
 - Social Technologies
 - Scrum

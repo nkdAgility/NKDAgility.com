@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T00:13:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:34:13",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implementation of event handling in Team Foundation Server 2010, detailing practical techniques and coding examples that enhance tooling within a DevOps context.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed exploration of implementing event handling in Team Foundation Server (TFS) 2010, which directly relates to practical techniques and tooling in a DevOps context. It discusses the use of the ISubscriber interface, the process of creating event handlers, and the specifics of handling events, which aligns well with the category's focus on methodologies and frameworks that enhance Agile and DevOps practices. The depth of the discussion is significant, with code examples and explanations of how to set up and use the tooling effectively. Overall, the content is highly relevant and provides practical insights into the application of TFS as a tool within a DevOps framework.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,12 +733,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:34:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical implementations and considerations in creating event handlers for Team Foundation Server, which relates to coding standards and software craftsmanship, making it a secondary theme in the broader context of engineering practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on implementing event handling in Team Foundation Server 2010, which is a technical topic related to software development. However, it lacks explicit discussions on engineering excellence principles, best practices, or continuous improvement processes. While it touches on coding practices and technical implementation, it does not delve deeply into the broader themes of software craftsmanship or quality assurance, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

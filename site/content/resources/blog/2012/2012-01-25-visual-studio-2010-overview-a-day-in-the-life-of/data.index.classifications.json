@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T21:34:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:25:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical application of TFS (Team Foundation Server) in various roles within a project, including planning, sprint management, and bug verification, which aligns well with the category's focus on practical techniques and tooling.",
+    "final_score": 66.0,
+    "reasoning": "The content provides a detailed overview of how different roles (Developer, Tester, Program Manager) interact with TFS (Team Foundation Server) in a practical context, which aligns well with the category's focus on practical techniques and tooling. It discusses specific activities such as planning a release and sprint, verifying bug fixes, and building units of work, which are all relevant to Agile and DevOps practices. The depth of discussion is substantial, as it includes goals and demos related to TFS, showcasing practical applications of the tool. However, while it mentions TFS explicitly, it does not delve deeply into methodologies or frameworks beyond the context of TFS, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,12 +733,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:24:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses various aspects of software development roles and practices in the context of using TFS, which is related to engineering processes, but it primarily focuses on project planning and team roles rather than on engineering excellence directly.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content provides a general overview of roles in a software development context, specifically focusing on the use of TFS (Team Foundation Server) for planning and executing tasks. While it touches on aspects of software development, such as planning sprints and verifying bug fixes, it lacks a direct focus on engineering excellence principles like coding standards, quality assurance, or continuous improvement. The discussion is more about project management and operational tasks rather than promoting high standards in software craftsmanship.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

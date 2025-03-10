@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T01:21:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:39:14",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the setup and management of build servers, which are practical tools in the context of Agile and DevOps practices.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed discussion on the implementation of build servers and the specific types of builds (Gate, CI, Nightly) that should be established in a team project. It aligns well with the category by focusing on practical techniques for enhancing collaboration and delivery outcomes in a development environment. The mention of build workflows and testing strategies demonstrates a clear application of tooling within Agile and DevOps practices. The depth of the discussion is substantial, offering insights into the rationale behind different build types and their respective testing requirements.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T01:22:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:39:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the setup and management of build servers, which is a key aspect of Continuous Integration (CI) in DevOps practices.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of build servers and outlines a structured approach to setting up builds for a team project, which aligns with DevOps principles of Continuous Integration (CI). However, while it touches on automation and testing, it lacks a broader discussion on cultural shifts, collaboration, or tools beyond the specific context of builds. The focus is primarily on the mechanics of build processes rather than a comprehensive exploration of DevOps as a whole.",
     "level": "Secondary"
   },
   "Miscellaneous": {

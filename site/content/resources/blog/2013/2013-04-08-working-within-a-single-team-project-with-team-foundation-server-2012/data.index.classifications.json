@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T19:04:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:08:40",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical application of Team Foundation Server 2012, including design considerations, workflows, and best practices for managing projects and teams within the tool, which aligns well with the category.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed exploration of using Team Foundation Server (TFS) 2012, discussing specific design considerations, workflows, and best practices for managing projects within a single team project. It aligns well with the category by focusing on practical techniques and tooling, particularly in the context of Agile and DevOps practices. The discussion includes direct mentions of TFS features, automation workflows, and the importance of team organisation, which are all relevant to the category. However, while it covers practical aspects, the depth of discussion on metrics or case studies is somewhat limited, preventing a higher confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,12 +733,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:08:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses design considerations and best practices for using Team Foundation Server 2012, particularly around team organization and project management in software development, which aligns with the principles of engineering excellence but is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the use of Team Foundation Server (TFS) and its implications for project management and team organisation, which touches on aspects of engineering practices. However, it primarily focuses on project management considerations rather than directly addressing software craftsmanship, coding standards, or quality assurance. While there are mentions of best practices and design considerations, the depth of discussion on engineering excellence principles is limited, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

@@ -28,8 +28,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Software Development
+- People and Process
 - Pragmatic Thinking
 - Personal
 - Agile Transformation

@@ -33,8 +33,8 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Product Management
 - Social Technologies
+- Product Management
 
 ---
 ## The Product Owner Journey

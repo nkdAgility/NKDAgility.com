@@ -30,13 +30,13 @@ tags:
 - People and Process
 - Scrum Product Development
 - Agile Frameworks
-- Agile Product Management
 - Agile Project Management
 - Agile Transformation
 - Events and Presentations
 - Professional Scrum
 - Scrum Team
 - Software Development
+- Product Delivery
 categories:
 - Scrum
 preview: metro-event-128-link-2-2.png

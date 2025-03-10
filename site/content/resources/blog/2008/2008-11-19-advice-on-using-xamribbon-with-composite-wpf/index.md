@@ -8,7 +8,7 @@ ResourceImportId: 164
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-11-19
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,11 +23,10 @@ aliasesArchive:
 - /advice-on-using-xamribbon-with-composite-wpf
 - /resources/blog/advice-on-using-xamribbon-with-composite-wpf
 tags:
-- Practical Techniques and Tooling
 - Software Development
 - Technical Mastery
-categories:
-- Engineering Excellence
+- Practical Techniques and Tooling
+categories: []
 preview: metro-binary-vb-128-link-2-2.png
 
 ---

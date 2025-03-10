@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T17:00:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:14:37",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses automated testing as a practical technique within the modern application lifecycle, detailing various tools and methodologies for implementation, which aligns well with the category.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses automated testing within the context of a modern application lifecycle, highlighting specific tools and methodologies such as unit testing, UI testing, and integration with Visual Studio and Team Foundation Server. It provides practical insights into the implementation of these techniques, making it highly relevant to the category of Practical Techniques and Tooling. The depth of discussion on various testing types and their integration into development processes further supports a high confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T17:01:14",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-07T15:14:33",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses automated testing within the context of a modern application lifecycle, which is a significant aspect of DevOps practices. However, it primarily focuses on testing rather than the broader principles of DevOps, making it a major but secondary theme.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses automated testing, which is a crucial aspect of DevOps practices, particularly in the context of Continuous Integration and Continuous Delivery. However, while it touches on the importance of automation and integration within the software development lifecycle, it lacks a broader discussion on the cultural shifts, collaboration, and specific DevOps tools that are essential for a comprehensive understanding of the DevOps category. The focus is primarily on testing rather than the holistic integration of development and operations.",
     "level": "Secondary"
   },
   "Miscellaneous": {

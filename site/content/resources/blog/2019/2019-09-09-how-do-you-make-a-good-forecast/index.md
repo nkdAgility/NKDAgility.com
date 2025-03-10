@@ -29,7 +29,6 @@ aliasesArchive:
 tags:
 - People and Process
 - Throughput
-- Agile Product Management
 - Agile Product Operating Model
 - Agile Project Management
 - Metrics and Learning
@@ -37,10 +36,11 @@ tags:
 - Professional Scrum
 - Scrum Product Development
 - Agile Frameworks
+- Agile Planning
 categories:
 - Scrum
-- Product Management
 - Social Technologies
+- Product Management
 preview: 993957510-1-1.jpg
 
 ---

@@ -24,6 +24,7 @@ aliasesArchive:
 - /resources/blog/visual-studio-alm-by-martin-hinshelwood-is-now-available-on-kindle
 tags:
 - Products and Books
+- News and Reviews
 categories: []
 preview: nakedalm-logo-128-link-2-2.png
 

@@ -8,7 +8,7 @@ ResourceImportId: 10771
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-10-07
-weight: 770
+weight: 885
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -31,7 +31,6 @@ tags:
 - Windows
 categories:
 - DevOps
-- Engineering Excellence
 preview: nakedalm-windows-logo-16-16.png
 
 ---

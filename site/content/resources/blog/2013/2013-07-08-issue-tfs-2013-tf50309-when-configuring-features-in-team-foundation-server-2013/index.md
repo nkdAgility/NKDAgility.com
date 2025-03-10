@@ -31,11 +31,11 @@ aliasesArchive:
 tags:
 - Troubleshooting
 - Install and Configuration
-- Practical Techniques and Tooling
 - System Configuration
 - Azure DevOps
 - Pragmatic Thinking
 - Software Development
+- Practical Techniques and Tooling
 categories: []
 preview: puzzle-issue-problem-128-link-5-5.png
 

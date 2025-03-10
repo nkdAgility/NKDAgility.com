@@ -145,11 +145,14 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T11:49:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:55:28",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses upcoming Professional Scrum Foundations courses, which are structured training events focused on Agile methodologies. It details the course offerings, target audiences, and the benefits of attending, aligning well with the category of events and presentations.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses the Professional Scrum Foundations course, which is a training event. It mentions the course details, target audience, and the benefits of attending, aligning well with the category of events and presentations. However, while it provides some depth about the courses, it lacks explicit references to specific events or presentations beyond the course descriptions, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Flow Efficiency": {
@@ -730,12 +733,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:55:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum training and principles that relate to improving development practices, but it primarily focuses on the Scrum framework rather than on specific engineering excellence topics such as coding standards, quality assurance, or technical debt management.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum training and its benefits for team alignment and understanding of the framework. While it touches on aspects of software development practices, such as the importance of consistent training and the role of Scrum in fostering collaboration, it lacks a direct focus on engineering excellence principles like coding standards, quality assurance, or CI/CD practices. The discussion is more about Scrum methodology than about high standards in software craftsmanship.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

@@ -1,12 +1,15 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T22:08:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T13:49:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the role of Scrum within a DevOps environment, highlighting its principles, practices, and the importance of collaboration and iterative processes.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content briefly mentions Scrum in the context of DevOps, indicating a connection to social technologies. However, it lacks detailed discussion on Scrum principles, roles, or events, which are crucial for a higher confidence score. The alignment with core themes is moderate, as it touches on collaboration and strategy but does not delve into the specifics of Scrum or Agile practices.",
+    "level": "Tertiary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -64,12 +67,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T22:08:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:50:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum's role and principles in the context of a DevOps environment, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions Scrum in the context of DevOps but lacks a detailed exploration of Scrum principles, roles, or practices. The focus is more on the integration of DevOps rather than an in-depth discussion of Scrum itself, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Automated Testing": {
     "category": "Automated Testing",

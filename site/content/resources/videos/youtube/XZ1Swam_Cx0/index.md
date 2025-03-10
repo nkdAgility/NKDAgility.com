@@ -31,8 +31,8 @@ tags:
 - Agile Philosophy
 - Agile Project Management
 - Agile Transformation
-- Software Developers
 - Software Development
+- Software Developers
 sitemap:
   filename: sitemap.xml
   priority: 0.6

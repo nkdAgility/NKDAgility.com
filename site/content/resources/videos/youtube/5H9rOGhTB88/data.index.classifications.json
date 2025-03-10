@@ -1114,11 +1114,14 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-12T10:47:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:58:37",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of empowering teams to adapt their processes based on learning and feedback, which aligns closely with the principles of discovery and learning in product development. It highlights the need for continuous improvement and the value of self-reflection in agile practices.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of empowering teams to adapt their processes based on learning, which aligns with the core themes of continuous learning and innovation. It highlights the need for teams to reflect on their practices and adapt to maximise value, which is a key aspect of discovery and learning. However, while it touches on these themes, the discussion is somewhat anecdotal and lacks a structured exploration of methodologies or frameworks that support discovery and learning, leading to a slightly lower depth score.",
     "level": "Secondary"
   },
   "Systems Thinking": {
@@ -1186,12 +1189,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T12:33:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T12:58:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the empowerment of teams to adapt their processes, which aligns with DevOps principles of continuous improvement and collaboration. However, the primary focus is on Agile practices and team dynamics rather than specific DevOps practices or tools.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the empowerment of teams to adapt their processes, which aligns with the cultural shifts necessary for successful DevOps implementation. However, it primarily focuses on Agile principles and team dynamics rather than specific DevOps practices like CI/CD or automation. While there are mentions of continuous delivery, the overall emphasis is on Agile methodologies and the challenges faced in a traditional environment, which detracts from a strong DevOps focus.",
+    "level": "Quaternary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",

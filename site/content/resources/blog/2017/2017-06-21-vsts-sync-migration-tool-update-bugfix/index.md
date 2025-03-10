@@ -30,9 +30,9 @@ tags:
 - Install and Configuration
 - Azure DevOps
 - News and Reviews
-- Practical Techniques and Tooling
 - Products and Books
 - Software Development
+- Practical Techniques and Tooling
 categories:
 - DevOps
 preview: nkdagility-martin-hinshelwood-vsts-sync-migration-1-1.png

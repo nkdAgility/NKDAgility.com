@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T19:30:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:15:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses troubleshooting and resolving issues with Team Foundation Server builds, which involves practical techniques and tooling related to CI/CD processes.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed account of troubleshooting a specific issue with Team Foundation Server (TFS) builds, which aligns with practical techniques and tooling. It discusses the steps taken to diagnose and resolve the problem, including checking logs, adjusting server settings, and modifying the web.config file. However, while it does mention specific tools and configurations, the focus is primarily on a single issue rather than a broader exploration of methodologies or frameworks. Therefore, while it is relevant, it does not fully encompass the depth and breadth expected in the category.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T19:30:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:15:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to Team Foundation Server (TFS) builds, which are integral to Continuous Integration (CI) practices in DevOps. It addresses troubleshooting build failures and server configurations, aligning with DevOps principles.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses troubleshooting issues related to Team Foundation Server (TFS) builds, which is relevant to DevOps practices, particularly in the context of Continuous Integration (CI). However, while it touches on aspects of automation and build processes, it lacks a broader discussion on DevOps principles, cultural shifts, or tools beyond TFS. The focus is primarily on a specific technical issue rather than a comprehensive exploration of DevOps as a whole.",
     "level": "Secondary"
   },
   "Miscellaneous": {

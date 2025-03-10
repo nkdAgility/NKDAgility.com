@@ -41,9 +41,9 @@ tags:
 resourceTypes:
 - video
 categories:
-- Leadership
 - Social Technologies
 - Product Management
+- Leadership
 
 ---
 **The Power of Purpose: How 'Start with Why' Drives Agile Success** 

@@ -23,6 +23,7 @@ preview: https://i.ytimg.com/vi/Bi4ToMME8Xs/maxresdefault.jpg
 duration: 20
 isShort: true
 tags:
+- People and Process
 - Professional Scrum
 - Scrum Master
 - Continuous Learning
@@ -32,7 +33,6 @@ tags:
 - Agile Transformation
 - Coaching
 - Events and Presentations
-- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.4

@@ -33,7 +33,6 @@ resourceTypes:
 categories:
 - Social Technologies
 - Scrum
-- Product Management
 
 ---
 ## Confronting Complexity 

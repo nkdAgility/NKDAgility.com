@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T00:42:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:36:47",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical steps and techniques involved in upgrading Team Foundation Server from 2008 to 2010, including backup procedures, database restoration, and verification processes, which align with the category's focus on practical application of tooling.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed, step-by-step guide on upgrading Team Foundation Server (TFS) from 2008 to 2010, which directly relates to practical techniques and tooling in the context of Agile and DevOps practices. It discusses specific tools (TFS, SQL Server) and methodologies (backup, restore, upgrade processes) that enhance team performance and delivery outcomes. The depth of discussion is significant, covering various aspects of the upgrade process, including verification, backup strategies, and post-upgrade testing, which aligns well with the key topics of the category.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,12 +733,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:36:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the upgrade process of Team Foundation Server, which involves aspects related to software development practices such as backups, verification of installation, and management of changes during the upgrade. However, the main focus is on the upgrade procedure itself rather than on broader topics of engineering excellence, coding standards, or best practices in software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server, which includes some aspects of software craftsmanship and quality assurance, such as verifying installations and backing up databases. However, it lacks a broader discussion on best practices, continuous improvement, or metrics for assessing engineering performance. The depth of discussion is limited to procedural steps rather than a comprehensive exploration of engineering excellence principles.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

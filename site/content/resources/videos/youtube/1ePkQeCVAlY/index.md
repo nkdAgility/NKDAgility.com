@@ -43,7 +43,7 @@ layout: video
 categories:
 - Engineering Excellence
 - Kanban
-- Product Management
+- Social Technologies
 
 ---
 **What is the difference between resource efficiency and flow efficiency?**

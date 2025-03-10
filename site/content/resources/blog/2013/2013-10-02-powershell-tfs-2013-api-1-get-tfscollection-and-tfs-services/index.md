@@ -8,7 +8,7 @@ ResourceImportId: 10149
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-10-02
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -32,7 +32,6 @@ tags:
 - Technical Mastery
 categories:
 - DevOps
-- Engineering Excellence
 preview: metro-powershell-logo-1-1.png
 
 ---

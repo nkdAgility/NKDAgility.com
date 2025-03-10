@@ -8,7 +8,7 @@ ResourceImportId: 10596
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-06-18
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,13 +30,12 @@ tags:
 - Troubleshooting
 - Install and Configuration
 - Azure DevOps
-- Practical Techniques and Tooling
 - Software Development
+- Practical Techniques and Tooling
 - Windows
 - System Configuration
 categories:
 - DevOps
-- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

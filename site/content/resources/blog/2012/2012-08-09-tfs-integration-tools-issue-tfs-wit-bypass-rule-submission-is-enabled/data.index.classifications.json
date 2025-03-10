@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T19:48:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:17:30",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a specific issue related to the TFS Integration Platform and provides a practical solution using the tfssecurity.exe tool, which aligns with the exploration and application of tooling in Agile and DevOps practices.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed discussion on a specific issue related to the TFS Integration Platform, including practical steps to resolve a permission error. It explicitly mentions the use of the 'tfssecurity.exe' tool, which aligns with the category's focus on practical techniques and tooling. The content also discusses the limitations of the UI and the necessity of command-line tools, demonstrating a clear application of methodologies for tool integration. Overall, the depth of the discussion and the direct mention of tools contribute to a high confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,12 +733,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:17:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses some technical aspects of the TFS Integration Platform, including permissions and configurations, which relate to software development and operational efficiency, but it mainly focuses on a specific technical issue rather than broader engineering excellence practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to TFS Integration and permissions, which does not directly address broader themes of engineering excellence such as software craftsmanship, coding standards, or continuous improvement practices. While it touches on a technical aspect of software development, it lacks a comprehensive discussion on best practices or quality assurance, leading to a low confidence score in the context of the specified category.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

@@ -27,6 +27,7 @@ isShort: false
 tags:
 - Metrics and Learning
 - People and Process
+- Value Delivery
 - Pragmatic Thinking
 - Ability to Innovate
 - Decision Making
@@ -34,7 +35,6 @@ tags:
 - Agile Product Operating Model
 - Agile Project Management
 - Evidence Based Leadership
-- Evidence Based Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

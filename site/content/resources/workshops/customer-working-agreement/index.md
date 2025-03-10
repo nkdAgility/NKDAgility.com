@@ -34,11 +34,11 @@ tags:
 - Agile Frameworks
 - Agile Planning
 - Agile Project Management
-- Professional Scrum
 - Software Development
 - Transparency
 - Agile Product Management
 - Transparency and Accountability
+- People and Process
 
 ---
 ## Customer Working Agreement

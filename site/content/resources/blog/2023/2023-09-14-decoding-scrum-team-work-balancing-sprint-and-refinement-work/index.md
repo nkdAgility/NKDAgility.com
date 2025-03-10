@@ -28,9 +28,9 @@ aliasesArchive:
 - /blog/decoding-scrum-team-work--balancing-sprint-and-refinement-work
 - /resources/blog/decoding-scrum-team-work-balancing-sprint-and-refinement-work
 tags:
+- Agile Product Management
 - Scrum Product Development
 - Product Delivery
-- Agile Product Management
 - Agile Project Management
 - Backlog Refinement
 - People and Process

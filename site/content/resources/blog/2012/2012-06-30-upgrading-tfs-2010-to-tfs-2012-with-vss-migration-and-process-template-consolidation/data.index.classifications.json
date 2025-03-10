@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T20:21:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:19:47",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical techniques and tooling involved in upgrading TFS from 2010 to 2012, including specific methodologies, tools used, and detailed steps for migration and configuration.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed account of upgrading TFS from 2010 to 2012, including specific tools, methodologies, and processes involved in the migration. It discusses practical techniques such as trial upgrades, configuration management, and the use of XML for settings, which are all relevant to the category. The depth of discussion is significant, with step-by-step processes and troubleshooting tips, aligning well with the key topics of practical techniques and tooling in Agile and DevOps.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,12 +733,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-15T21:31:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:19:43",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content focuses extensively on engineering practices related to upgrading TFS, managing version control, and ensuring the quality of software processes. It discusses technical procedures, documentation best practices, and the significance of customized process templates, all of which align with the principles of engineering excellence.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading TFS and migrating data, which includes some elements of software craftsmanship and best practices. However, it lacks a comprehensive discussion on engineering excellence principles, such as quality assurance, coding standards, or continuous improvement processes. While it touches on relevant topics, they are not the main focus, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

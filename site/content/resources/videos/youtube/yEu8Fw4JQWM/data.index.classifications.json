@@ -82,12 +82,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T16:42:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses principles related to Kanban and productivity in the context of work in progress, which are relevant to product management methodologies, but it primarily focuses on task management rather than strategic product management.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-07T14:02:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses concepts related to Kanban and Scrum, particularly focusing on the idea of limiting work in progress (WIP) to improve efficiency. However, it lacks a direct focus on product management as a strategic discipline. While it touches on Agile methodologies, it does not delve into the broader strategic alignment of customer needs, business objectives, or technical capabilities that are central to product management. The discussion is more about operational efficiency and context switching rather than the strategic aspects of product management, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -1066,11 +1069,14 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-11T22:19:42",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of limiting work in progress (WIP) to enhance flow efficiency, focusing on principles from Kanban and the impact of multitasking on productivity.",
+    "calculated_at": "2025-03-07T14:02:24",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 32,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the concept of Work In Progress (WIP) and its impact on flow efficiency, emphasising the importance of limiting WIP to enhance throughput. It aligns well with the core themes of Flow Efficiency, particularly in relation to Lean and Agile methodologies. The depth of discussion is substantial, providing analogies and references to context switching and its effects on productivity, which are relevant to the optimisation of work throughput. Overall, the content is focused on the principles of Flow Efficiency, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "AI and Automation in Agility": {

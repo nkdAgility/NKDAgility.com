@@ -8,7 +8,7 @@ ResourceImportId: 7240
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-20
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,8 +30,7 @@ aliasesArchive:
 - /resources/blog/tfs-integration-tools-issue-tf14009-cannot-merge-source-into-target-because-the-target-is-underneath-source
 tags:
 - Troubleshooting
-categories:
-- Engineering Excellence
+categories: []
 preview: metro-problem-icon-5-5.png
 
 ---

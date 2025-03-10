@@ -38,7 +38,7 @@ tags:
 - Agile Product Operating Model
 - Agile Project Management
 - Agile Strategy
-- Metrics and Learning
+- Product Strategy
 resourceTypes:
 - video
 categories:

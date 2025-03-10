@@ -127,12 +127,15 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-16T01:53:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:41:55",
+    "ai_confidence": 67.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses personal experiences and reflections related to a job transition, including insights on workplace happiness and productivity, without directly referencing Agile, Scrum, DevOps, or Lean principles.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content primarily discusses personal experiences and reflections related to a job transition, which aligns with the Miscellaneous category. While it mentions tools and roles, it does not delve into specific Agile, Scrum, DevOps, or Lean methodologies. The discussion is anecdotal and lacks actionable insights, focusing instead on personal narratives and general productivity tips, which fits the criteria for Miscellaneous content.",
+    "level": "Tertiary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -730,12 +733,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:41:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses roles and responsibilities related to software architecture and mentions standards for productivity, which relates to best practices in software development, but the primary focus is on personal career experiences rather than engineering excellence itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the author's career transition and personal experiences rather than explicitly discussing engineering excellence or best practices in software development. While there are mentions of rules and standards from SSW that could relate to engineering practices, the overall discussion lacks depth in technical topics such as coding standards, CI/CD, or quality assurance. The content does not provide substantial insights into engineering processes or metrics, which are crucial for a higher confidence score in this category.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

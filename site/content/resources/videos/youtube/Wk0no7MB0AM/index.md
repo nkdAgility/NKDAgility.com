@@ -28,10 +28,10 @@ isShort: true
 tags:
 - Scrum Master
 - Agile Project Management
-- People and Process
 - Team Collaboration
 - Team Performance
 - Software Development
+- People and Process
 - Scrum Team
 sitemap:
   filename: sitemap.xml
@@ -40,8 +40,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Scrum
+- Social Technologies
 
 ---
 In my journey through the world of Agile, I've often encountered various signs that indicate when teams are veering off course. One of the most alarming of these signs is what I like to call "war"—a manifestation of team conflict that can derail even the most promising projects. 

@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T21:51:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:36:24",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses troubleshooting and configuring build permissions in TFS, which directly relates to practical techniques and tooling in a DevOps context.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed account of troubleshooting a specific issue related to build permissions in TFS, which aligns with practical techniques and tooling. It discusses the configuration of build agents, permissions, and the use of Visual Studio to resolve issues, demonstrating a clear application of tooling in a real-world scenario. However, while it touches on relevant tools and methodologies, the focus is primarily on a specific problem rather than a broader exploration of Agile or DevOps practices.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T21:51:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:36:21",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to setting up a build agent and permissions in a CI/CD environment, which are central to DevOps practices.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses issues related to setting up a Build Agent and permissions within a build system, which are core aspects of DevOps practices. It explicitly mentions the use of Team Foundation Server (TFS) and the importance of permissions for build services, aligning well with the principles of Continuous Integration and Continuous Delivery. The depth of discussion regarding troubleshooting and configuration details further supports its relevance to DevOps, demonstrating a clear understanding of the tools and processes involved.",
     "level": "Secondary"
   },
   "Miscellaneous": {

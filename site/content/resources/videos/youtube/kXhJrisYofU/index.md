@@ -25,7 +25,7 @@ preview: https://i9.ytimg.com/vi/kXhJrisYofU/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 496
 isShort: false
 tags:
-- Agile Product Management
+- Organisational Agility
 - Agile Product Operating Model
 - Agile Project Management
 - Market Adaptability

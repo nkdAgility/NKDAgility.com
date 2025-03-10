@@ -8,7 +8,7 @@ ResourceImportId: 133
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-04-01
-weight: 775
+weight: 720
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,9 +23,9 @@ aliasesArchive:
 - /visual-studio-team-test-quick-reference-guide-1-0
 - /resources/blog/visual-studio-team-test-quick-reference-guide-1-0
 tags:
-- Practical Techniques and Tooling
 - Pragmatic Thinking
 - Products and Books
+- Practical Techniques and Tooling
 - Software Development
 - Troubleshooting
 - Technical Mastery

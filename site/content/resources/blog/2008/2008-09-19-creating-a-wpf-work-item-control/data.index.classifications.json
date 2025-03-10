@@ -37,11 +37,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T11:44:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:51:21",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of a custom WPF control for work item tracking in Visual Studio, which involves technical practices related to software development, such as creating modular components and integrating them into existing systems. It focuses on engineering methodologies that enhance the development process, aligning well with the principles of technical excellence.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the technical implementation of a WPF control for work item tracking in Visual Studio Team System. It discusses the creation of a custom control, which aligns with technical excellence in terms of modular architecture and the use of specific engineering practices. However, while it provides some technical details, it lacks a broader discussion on methodologies like TDD or CI/CD, which are central to the category of Technical Excellence. Therefore, the confidence score reflects a moderate alignment with the category.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -631,12 +634,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-16T12:36:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:51:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the creation of a custom WPF work item control for Visual Studio Team System, focusing on coding best practices, software craftsmanship, and engineering processes associated with software development.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical implementation of a WPF control for work item tracking in Visual Studio Team System. While it does touch on aspects of software craftsmanship, such as creating reusable components and adhering to interface contracts, it lacks a broader discussion on engineering excellence principles, best practices, or continuous improvement processes. The depth of discussion is limited to specific coding examples without addressing the overarching themes of quality assurance, CI/CD practices, or team collaboration.",
+    "level": "Quaternary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",

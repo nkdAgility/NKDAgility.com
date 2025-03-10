@@ -8,7 +8,7 @@ ResourceImportId: 130
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-04-23
-weight: 865
+weight: 890
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,8 +27,8 @@ aliasesArchive:
 - /blog/data-dude-r2-is-out-
 - /resources/blog/data-dude-r2-is-out
 tags:
-- Products and Books
 - News and Reviews
+- Products and Books
 categories: []
 
 ---

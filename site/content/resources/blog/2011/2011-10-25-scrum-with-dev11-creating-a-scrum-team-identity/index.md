@@ -35,11 +35,10 @@ tags:
 - Agile Frameworks
 - Agile Project Management
 - Agile Transformation
-- Software Developers
 - Software Development
 categories:
-- Scrum
 - Social Technologies
+- Scrum
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

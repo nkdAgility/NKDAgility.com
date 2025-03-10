@@ -34,6 +34,7 @@ sitemap:
 tags:
 - People and Process
 - Scrum Master
+- Professional Scrum
 resourceTypes:
 - video
 categories:

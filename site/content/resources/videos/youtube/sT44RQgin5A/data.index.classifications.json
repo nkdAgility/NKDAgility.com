@@ -1114,11 +1114,14 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-12T01:37:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:54:39",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the principles of evidence-based management in Scrum, focusing on the importance of metrics, experimentation, and the ability to innovate. It explores how to measure current and unrealised value, the significance of telemetry, and the role of organisational capability in fostering a culture of continuous learning and improvement, which aligns well with the themes of discovery and learning.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses evidence-based management and its four key value areas in Scrum, focusing on metrics and decision-making processes. While it touches on aspects of learning and innovation, such as the importance of telemetry and the ability to innovate, the primary focus is on project management and metrics rather than on fostering a culture of discovery and learning. The discussion lacks depth in exploring methodologies that enhance continuous learning and experimentation, which are central to the category.",
     "level": "Secondary"
   },
   "Systems Thinking": {
@@ -1186,12 +1189,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T12:12:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T12:54:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses aspects of organisational capability, time to market, and innovation rates, which are relevant to DevOps principles. However, the primary focus is on Scrum and evidence-based management rather than DevOps practices specifically.",
-    "level": "Tertiary"
+    "final_score": 34.0,
+    "reasoning": "The content primarily discusses Scrum and evidence-based management, which are more aligned with Agile methodologies than DevOps. While it touches on some DevOps concepts like time to market and technical debt, these are not the main focus. The discussion lacks depth in DevOps principles and practices, and the overall emphasis is on Scrum roles and metrics rather than the integration of development and operations.",
+    "level": "Quaternary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",

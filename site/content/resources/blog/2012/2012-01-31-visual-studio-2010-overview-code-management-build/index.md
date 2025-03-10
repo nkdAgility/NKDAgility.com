@@ -8,7 +8,7 @@ ResourceImportId: 4182
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-01-31
-weight: 640
+weight: 675
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -31,9 +31,9 @@ aliasesArchive:
 categories:
 - Engineering Excellence
 tags:
+- Practical Techniques and Tooling
 - Software Development
 - Application Lifecycle Management
-- Practical Techniques and Tooling
 - Technical Excellence
 - Modern Source Control
 - Continuous Integration

@@ -26,8 +26,7 @@ tags:
 - Windows
 - Install and Configuration
 - System Configuration
-categories:
-- DevOps
+categories: []
 preview: nakedalm-experts-visual-studio-alm-31-31.png
 
 ---

@@ -10,12 +10,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T23:18:04",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-07T14:38:47",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 82.0,
-    "reasoning": "The content primarily discusses the configuration and implementation of the vNext Build Agent in Visual Studio Online, detailing practical steps, prerequisites, and methodologies for setting up a build system, which aligns closely with the category's focus on practical techniques and tooling.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed guide on configuring a Build vNext Agent, which directly relates to practical tooling in DevOps. It discusses specific tools (TFS, VSO, Azure) and methodologies (agent configuration, VM setup) that enhance team performance and delivery outcomes. The depth of discussion includes step-by-step instructions, prerequisites, and insights into the new build system's features, aligning well with the category's focus on practical techniques and tooling.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T23:18:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:38:41",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration of a Build vNext Agent, which is a key aspect of Continuous Integration (CI) and Continuous Delivery (CD) practices in DevOps. It details the setup process, tools involved, and the benefits of the new build system, aligning well with DevOps principles.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on configuring a Build vNext Agent, which is a key aspect of DevOps practices, particularly in Continuous Integration and Continuous Delivery. It discusses the new build system, its modularity, and the management of build agents, all of which are central to DevOps principles. The depth of discussion includes specific steps for setup, prerequisites, and the benefits of the new system, indicating a thorough exploration of the topic. The content aligns well with the core themes of DevOps, such as automation and collaboration between development and operations, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Miscellaneous": {

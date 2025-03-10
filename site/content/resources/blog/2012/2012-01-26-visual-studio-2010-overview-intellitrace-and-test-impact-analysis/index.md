@@ -8,7 +8,7 @@ ResourceImportId: 4140
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-01-26
-weight: 775
+weight: 675
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -31,15 +31,14 @@ aliasesArchive:
 tags:
 - Automated Testing
 - Events and Presentations
-- Practical Techniques and Tooling
 - Application Lifecycle Management
 - Software Development
 - Technical Excellence
 - Troubleshooting
+- Practical Techniques and Tooling
 - Technical Mastery
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories:
-- DevOps
 - Engineering Excellence
 
 ---

@@ -2,7 +2,7 @@
 title: 2023 is predicted to be a very tough year. What do you think will be needed to win and improve?
 description: Discover key strategies for thriving in 2023's challenges as Martin Hinshelwood explores the essentials for successful Agile leadership and adaptation.
 date: 2023-02-13T22:00:04Z
-weight: 550
+weight: 585
 ResourceId: 9PBpgfsojQI
 ResourceType: videos
 ResourceImport: true
@@ -30,12 +30,12 @@ sitemap:
   priority: 0.6
 tags:
 - Strategy
-- Agile Product Management
 - People and Process
 - Product Owner
 - Agile Product Operating Model
 - Agile Project Management
 - Value Delivery
+- Agile Product Management
 - Pragmatic Thinking
 - Product Delivery
 - Product Strategy

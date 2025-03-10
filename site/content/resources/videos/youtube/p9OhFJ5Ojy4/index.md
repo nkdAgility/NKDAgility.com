@@ -25,6 +25,7 @@ preview: https://i.ytimg.com/vi/p9OhFJ5Ojy4/hqdefault.jpg
 duration: 2977
 isShort: false
 tags:
+- Organisational Change
 - Agile Philosophy
 - Organisational Agility
 - Change Management
@@ -36,7 +37,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Leadership
 - Social Technologies
 
 ---

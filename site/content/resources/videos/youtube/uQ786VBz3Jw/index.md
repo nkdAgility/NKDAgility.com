@@ -25,6 +25,7 @@ preview: https://i.ytimg.com/vi/uQ786VBz3Jw/maxresdefault.jpg
 duration: 246
 isShort: false
 tags:
+- Professional Scrum
 - Transparency
 - Agile Planning
 - Agile Planning Tools
@@ -34,7 +35,6 @@ tags:
 - Transparency and Accountability
 - Agile Frameworks
 - Agile Project Management
-- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

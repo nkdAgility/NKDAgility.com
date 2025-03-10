@@ -145,12 +145,15 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T21:57:42",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-07T15:27:55",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "The content primarily discusses an upcoming in-person event, detailing its purpose, schedule, and registration information, which aligns closely with the category of Events and Presentations.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses an upcoming in-person event, 'Coffee Talks', which is a live presentation format. It details the event's purpose, schedule, and registration process, aligning closely with the category's focus on events and presentations. The discussion includes specific topics related to Agile and Application Lifecycle Management, enhancing its relevance. The depth of information provided about the event, including the time, location, and activities planned, further supports a high confidence score.",
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -1243,12 +1246,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:27:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content includes a mention of Agile and Application Lifecycle Management (ALM), which are relevant to product management, but the primary focus is on an event rather than in-depth discussions or methodologies central to product management.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions Agile and discusses Application Lifecycle Management (ALM) practices, which are relevant to product management. However, it primarily focuses on promoting an event rather than providing in-depth discussions or methodologies related to product management. The mention of Agile is not explored in detail, and the overall content lacks a strategic focus on product management principles.",
+    "level": "Quaternary"
   },
   "Self Organisation": {
     "category": "Self Organisation",

@@ -32,11 +32,11 @@ tags:
 - Definition of Done
 - Professional Scrum
 - Scrum Product Development
-- Transparency and Accountability
 - Working Software
 - Agile Project Management
 - Product Delivery
 - Software Development
+- Transparency and Accountability
 - Increment
 categories:
 - Scrum

@@ -27,12 +27,12 @@ aliasesArchive:
 - /blog/does-your-organisation-have-both-project-mangers-as-well-as-product-owners-
 - /resources/blog/organisation-project-mangers-well-product-owners
 tags:
-- Agile Product Management
 - Agile Product Operating Model
 - Agile Project Management
 - Product Delivery
 - Product Owner
 - Agile Philosophy
+- Agile Product Management
 - Agile Strategy
 - Agile Transformation
 - Business Agility

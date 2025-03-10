@@ -8,7 +8,7 @@ ResourceImportId: 11634
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2016-10-26
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,7 +28,6 @@ tags:
 - Software Development
 categories:
 - DevOps
-- Engineering Excellence
 preview: image_thumb-1-1.png
 
 ---

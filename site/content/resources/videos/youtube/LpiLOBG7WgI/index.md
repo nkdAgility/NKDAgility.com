@@ -37,8 +37,8 @@ tags:
 - Agile Product Management
 - People and Process
 - Pragmatic Thinking
-- Product Delivery
 - Professional Scrum
+- Scrum Master
 resourceTypes:
 - video
 categories:

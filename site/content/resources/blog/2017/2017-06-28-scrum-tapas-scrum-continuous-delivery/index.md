@@ -27,9 +27,9 @@ aliasesArchive:
 - /blog/scrum-tapas--scrum-and-continuous-delivery
 - /resources/blog/scrum-tapas-scrum-continuous-delivery
 tags:
-- Events and Presentations
 - Agile Frameworks
 - Software Development
+- Events and Presentations
 - Agile Project Management
 categories:
 - Social Technologies

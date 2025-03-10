@@ -28,16 +28,7 @@ aliasesArchive:
 - /blog/professional-scrum-is-for-everyone-in-your-organisation
 - /resources/blog/professional-scrum-everyone-organisation
 tags:
-- People and Process
-- Transparency
 - Agile Product Management
-- Agile Product Operating Model
-- Agile Project Management
-- Business Agility
-- Change Management
-- Events and Presentations
-- Organisational Agility
-- Organisational Change
 categories:
 - Scrum
 preview: nkdagility-professional-scrum-is-for-everyone-1-2-2.jpg

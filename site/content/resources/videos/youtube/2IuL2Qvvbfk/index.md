@@ -32,11 +32,11 @@ tags:
 - Agile Project Management
 - Azure DevOps
 - People and Process
-- Product Delivery
 - Product Owner
 - Agile Strategy
 - Pragmatic Thinking
 - Technical Leadership
+- Value Delivery
 resourceTypes:
 - video
 layout: video

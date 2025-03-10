@@ -1114,11 +1114,14 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-12T23:31:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T13:01:31",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of enabling team members to engage, learn, and make informed decisions in product development, which aligns with the principles of continuous learning and fostering a culture of innovation.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of enabling teams to be happy and engaged, which indirectly relates to learning and discovery. It touches on concepts like feedback loops and the need for team members to understand the principles behind their work, which aligns with the category's focus on continuous learning. However, the primary focus is more on team dynamics and project management rather than explicit methodologies for discovery and learning, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Systems Thinking": {
@@ -1186,12 +1189,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T13:12:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:01:27",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses aspects of DevOps, such as continuous delivery and the importance of collaboration among team members, but it primarily focuses on team dynamics and the mentoring program rather than the core principles and practices of DevOps.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of collaboration and engagement among team members, which aligns with DevOps principles. It briefly mentions DevOps and continuous delivery, indicating some relevance to the category. However, the primary focus is on team dynamics and product development rather than the specific practices and tools of DevOps. The depth of discussion on DevOps concepts is moderate, but it lacks detailed exploration of key DevOps practices, tools, or metrics.",
+    "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",

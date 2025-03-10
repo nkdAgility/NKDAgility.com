@@ -8,7 +8,7 @@ ResourceImportId: 5288
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-05-29
-weight: 775
+weight: 675
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,14 +24,13 @@ aliasesArchive:
 - /resources/blog/full-fidelity-history-and-data-migration-are-mutually-exclusive
 tags:
 - Application Lifecycle Management
-- Practical Techniques and Tooling
 - Software Development
 - Azure DevOps
 - Decision Making
 - Pragmatic Thinking
 - Technical Mastery
+- Practical Techniques and Tooling
 categories:
-- DevOps
 - Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 

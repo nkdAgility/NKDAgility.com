@@ -23,10 +23,10 @@ aliasesArchive:
 - /wpf-scale-transform-behaviour
 - /resources/blog/wpf-scale-transform-behaviour
 tags:
-- Practical Techniques and Tooling
 - Software Development
 - Technical Excellence
 - Technical Mastery
+- Practical Techniques and Tooling
 - Windows
 categories: []
 preview: metro-binary-vb-128-link-1-1.png

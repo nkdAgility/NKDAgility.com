@@ -8,7 +8,7 @@ ResourceImportId: 9211
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-12-31
-weight: 775
+weight: 720
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,8 +29,8 @@ aliasesArchive:
 tags:
 - Install and Configuration
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-15-15.png
 
 ---

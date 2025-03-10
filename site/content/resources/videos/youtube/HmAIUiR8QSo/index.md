@@ -25,9 +25,9 @@ preview: https://i.ytimg.com/vi/HmAIUiR8QSo/maxresdefault.jpg
 duration: 387
 isShort: false
 tags:
+- Organisational Culture
 - People and Process
 - Technical Leadership
-- Organisational Culture
 - Technical Mastery
 - Sociotechnical Systems
 - Pragmatic Thinking

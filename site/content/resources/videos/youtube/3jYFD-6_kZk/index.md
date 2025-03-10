@@ -32,9 +32,9 @@ tags:
 - Practical Techniques and Tooling
 - Install and Configuration
 - Troubleshooting
-- System Configuration
 - Pragmatic Thinking
 - Software Development
+- System Configuration
 - Technical Mastery
 resourceTypes:
 - video

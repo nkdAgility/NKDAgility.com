@@ -32,8 +32,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Personal
+- People and Process
 resourceTypes:
 - video
 categories:

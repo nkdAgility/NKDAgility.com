@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T19:42:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:16:54",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a specific issue related to TFS integration tools, providing practical solutions and workarounds for a migration problem, which aligns with the exploration and application of tooling in Agile and DevOps practices.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed discussion on a specific issue encountered during a migration process using TFS, which directly relates to practical tooling and techniques in a DevOps context. It discusses the error TF14009, the implications of branching in TFS, and offers multiple workarounds, showcasing practical techniques for resolving issues with tooling. The depth of the discussion is significant, as it includes error messages, potential solutions, and a workaround that involves manual XML editing, which aligns well with the category's focus on practical application of tools and methodologies. However, while the content is rich in practical advice, it could benefit from a broader exploration of Agile or DevOps methodologies to enhance its alignment further.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,12 +733,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:16:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to version control and migration in a software development context, which touches on best practices in software craftsmanship. However, it focuses primarily on troubleshooting a specific error rather than broader topics of engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to TFS migration and error handling, which does not directly address broader themes of engineering excellence such as software craftsmanship, coding standards, or CI/CD practices. While it touches on problem-solving and technical processes, it lacks a comprehensive exploration of best practices or continuous improvement in engineering processes.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

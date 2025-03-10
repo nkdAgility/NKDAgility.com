@@ -33,6 +33,7 @@ tags:
 - Pragmatic Thinking
 - Software Development
 - Agile Planning
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

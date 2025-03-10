@@ -32,12 +32,12 @@ categories:
 - Scrum
 - Social Technologies
 tags:
+- Practical Techniques and Tooling
 - Scrum Product Development
 - Software Developers
 - Software Development
 - Modern Source Control
 - Operational Practices
-- Practical Techniques and Tooling
 - Product Delivery
 - Professional Scrum
 - Agile Frameworks

@@ -8,7 +8,7 @@ ResourceImportId: 9777
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-16
-weight: 865
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,9 +25,9 @@ aliasesArchive:
 tags:
 - Software Development
 - Application Lifecycle Management
+- Practical Techniques and Tooling
 - Install and Configuration
 - Modern Source Control
-- Practical Techniques and Tooling
 - Azure DevOps
 - Operational Practices
 - System Configuration

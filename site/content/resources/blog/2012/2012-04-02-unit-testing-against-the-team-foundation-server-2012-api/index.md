@@ -8,7 +8,7 @@ ResourceImportId: 5112
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-04-02
-weight: 640
+weight: 650
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,10 +23,10 @@ aliasesArchive:
 - /unit-testing-against-the-team-foundation-server-2012-api
 - /resources/blog/unit-testing-against-the-team-foundation-server-2012-api
 tags:
+- Practical Techniques and Tooling
 - Test Driven Development
 - Automated Testing
 - Test First Development
-- Practical Techniques and Tooling
 - Software Development
 - Test Automation
 - Azure DevOps

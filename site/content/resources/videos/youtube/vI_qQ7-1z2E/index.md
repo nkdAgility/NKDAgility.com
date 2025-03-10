@@ -38,9 +38,9 @@ tags:
 - Continuous Learning
 - People and Process
 - Coaching
+- Practical Techniques and Tooling
 - Pragmatic Thinking
 - Accountability
-- Discovery and Learning
 resourceTypes:
 - video
 categories:

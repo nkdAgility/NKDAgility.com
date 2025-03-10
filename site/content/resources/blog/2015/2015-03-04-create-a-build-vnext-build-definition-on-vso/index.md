@@ -27,7 +27,6 @@ aliasesArchive:
 - /blog/create-a-build-vnext-build-definition
 - /resources/blog/create-a-build-vnext-build-definition-on-vso
 tags:
-- Practical Techniques and Tooling
 - Software Development
 - Azure DevOps
 - Azure Pipelines

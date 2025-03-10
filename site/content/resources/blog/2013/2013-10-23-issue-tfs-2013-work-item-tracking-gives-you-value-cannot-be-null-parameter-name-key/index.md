@@ -8,7 +8,7 @@ ResourceImportId: 10221
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-10-23
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,8 +28,7 @@ aliasesArchive:
 - /resources/blog/issue-tfs-2013-work-item-tracking-gives-you-value-cannot-be-null-parameter-name-key
 tags:
 - Troubleshooting
-categories:
-- Engineering Excellence
+categories: []
 
 ---
 When customising your process template work item tracking gives you an “ArgumentNullException: Value cannot be null. Parameter name: key” exception with no more details.

@@ -30,12 +30,12 @@ sitemap:
 tags:
 - People and Process
 - Agile Philosophy
+- Software Developers
 resourceTypes:
 - video
 layout: video
 categories:
 - Engineering Excellence
-- Product Management
 - Social Technologies
 
 ---

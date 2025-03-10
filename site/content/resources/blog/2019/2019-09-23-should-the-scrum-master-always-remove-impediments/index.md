@@ -30,13 +30,13 @@ tags:
 - Professional Scrum
 - Scrum Master
 - Scrum Team
-- Events and Presentations
 - People and Process
 - Pragmatic Thinking
 - Scrum Product Development
 - Team Collaboration
 - Team Performance
 - Agile Frameworks
+- Agile Project Management
 categories:
 - Scrum
 preview: PSX_20190823_113052-1-1.jpg

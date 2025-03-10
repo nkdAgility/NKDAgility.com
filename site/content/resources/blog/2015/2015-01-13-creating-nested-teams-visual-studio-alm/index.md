@@ -27,17 +27,16 @@ aliasesArchive:
 - /blog/creating-nested-teams-in-visual-studio-alm
 - /resources/blog/creating-nested-teams-visual-studio-alm
 tags:
+- Practical Techniques and Tooling
 - Install and Configuration
 - System Configuration
 - Application Lifecycle Management
 - Azure Boards
-- Practical Techniques and Tooling
 - Software Development
 - Azure DevOps
 - Pragmatic Thinking
 categories:
 - Kanban
-- Social Technologies
 preview: nakedalm-experts-visual-studio-alm-17-17.png
 
 ---

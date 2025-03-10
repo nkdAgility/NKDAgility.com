@@ -26,6 +26,7 @@ duration: 451
 isShort: false
 tags:
 - Product Delivery
+- Technical Excellence
 - Continuous Delivery
 - Continuous Integration
 - Software Development

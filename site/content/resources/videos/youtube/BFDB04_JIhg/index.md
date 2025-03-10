@@ -31,11 +31,11 @@ sitemap:
   priority: 0.6
 tags:
 - Transparency
-- Transparency and Accountability
 - Practical Techniques and Tooling
 - Operational Practices
 - Lean Thinking
 - Lean
+- Transparency and Accountability
 - Metrics and Learning
 resourceTypes:
 - video

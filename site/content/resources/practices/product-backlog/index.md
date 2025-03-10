@@ -29,7 +29,6 @@ tags:
 - Agile Planning
 - Agile Planning Tools
 - Agile Project Management
-- Professional Scrum
 - Software Development
 
 ---

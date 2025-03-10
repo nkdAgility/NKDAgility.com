@@ -27,6 +27,7 @@ duration: 67
 isShort: false
 tags:
 - People and Process
+- Agile Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -34,6 +35,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Product Management
 - Scrum
 - Social Technologies
 

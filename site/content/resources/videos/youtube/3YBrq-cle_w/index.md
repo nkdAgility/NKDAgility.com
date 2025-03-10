@@ -33,7 +33,7 @@ tags:
 - Agile Project Management
 - Agile Transformation
 - Software Development
-- Coaching
+- Software Developers
 sitemap:
   filename: sitemap.xml
   priority: 0.6

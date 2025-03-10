@@ -8,7 +8,7 @@ ResourceImportId: 10019
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-09-09
-weight: 770
+weight: 850
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -32,12 +32,11 @@ tags:
 - Application Lifecycle Management
 - Collaboration Tools
 - News and Reviews
-- Practical Techniques and Tooling
 - Azure DevOps
 - Agile Planning Tools
+- Practical Techniques and Tooling
 categories:
 - DevOps
-- Engineering Excellence
 - Social Technologies
 preview: nakedalm-experts-visual-studio-alm-13-13.png
 

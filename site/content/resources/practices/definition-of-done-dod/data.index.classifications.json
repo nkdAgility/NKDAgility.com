@@ -1159,11 +1159,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-13T15:29:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:52:25",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the Definition of Done (DoD) within the context of Scrum, focusing on how it ensures quality and transparency in delivering value to customers. It highlights the importance of a shared understanding of what constitutes 'Done' to facilitate predictable delivery and customer satisfaction, aligning well with the principles of iterative development and continuous delivery.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the Definition of Done (DoD) within the context of Agile and Scrum, focusing on how it ensures the delivery of releasable increments of software. It highlights the importance of transparency, quality, and shared understanding among teams, which are core principles of value delivery. The depth of discussion includes practical examples and strategies for creating and maintaining a DoD, aligning closely with the key topics of value delivery, such as iterative development and customer value maximisation.",
     "level": "Secondary"
   },
   "Metrics and Learning": {
@@ -1204,12 +1207,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T12:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T12:52:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the Definition of Done (DoD) in the context of Scrum, which is related to software delivery practices. While it touches on aspects of quality and transparency that are relevant to DevOps, the primary focus is on Scrum methodology rather than DevOps principles and practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) in the context of Scrum, which is related to software delivery practices. While it touches on aspects of quality assurance and the importance of a shared understanding of what constitutes 'done', it primarily focuses on Scrum methodology rather than the broader principles of DevOps. There are mentions of automation and quality checks that align with DevOps practices, but the overall emphasis is on Scrum processes, which limits its direct relevance to the DevOps category.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",

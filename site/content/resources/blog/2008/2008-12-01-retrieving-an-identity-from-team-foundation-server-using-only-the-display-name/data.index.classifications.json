@@ -118,11 +118,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T10:56:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:48:22",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for retrieving identities from Team Foundation Server, including specific code examples and methodologies for implementing these techniques, which aligns well with the category focus.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed technical guide on retrieving identities from Team Foundation Server (TFS) using specific methods and code snippets. It discusses practical techniques for modifying work item definitions and handling group assignments, which directly aligns with the category's focus on tooling and methodologies in Agile and DevOps practices. The depth of discussion is significant, with clear examples and references to relevant tools and services, demonstrating a strong application of practical techniques.",
     "level": "Secondary"
   },
   "Value Stream Management": {
@@ -631,12 +634,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:48:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses retrieving identities from Team Foundation Server (TFS), which relates to software development practices and engineering processes, specifically in the context of team collaboration and management of work items. However, it does not delve significantly into best practices or principles of software craftsmanship, making the category a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a technical implementation related to Team Foundation Server and retrieving user identities, which does not directly address the principles of software craftsmanship or best practices in engineering. While it includes some technical details that could contribute to engineering processes, it lacks a broader discussion on engineering excellence, such as quality assurance, coding standards, or continuous improvement practices. Therefore, it only partially aligns with the category.",
+    "level": "Quaternary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",

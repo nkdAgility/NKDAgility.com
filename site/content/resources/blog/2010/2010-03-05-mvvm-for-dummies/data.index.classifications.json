@@ -370,11 +370,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T01:39:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:39:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses best practices and principles related to the MVVM (Model-View-ViewModel) design pattern in software development, focusing on clean architecture and separation of concerns in WPF and Silverlight applications.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the MVVM pattern in detail, including its principles and implementation in WPF and Silverlight. It explicitly mentions separation of concerns, which aligns with best practices in software design. The depth of discussion is significant, providing code examples that illustrate ideal and compromised implementations, thus demonstrating a strong focus on technical mastery.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -730,12 +733,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:39:54",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses MVVM, separation of concerns, and coding standards related to WPF and Silverlight, which are relevant to software engineering practices, but the primary focus is on MVVM as a pattern rather than broader engineering excellence principles.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the MVVM pattern and its implementation in WPF and Silverlight, which relates to software craftsmanship and coding standards. However, it lacks a broader discussion on engineering excellence principles, such as quality assurance or continuous improvement practices. The focus is primarily on specific coding examples rather than a comprehensive exploration of engineering excellence.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

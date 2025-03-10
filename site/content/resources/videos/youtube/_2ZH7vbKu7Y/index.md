@@ -31,10 +31,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Discovery and Learning
 - People and Process
 - Personal
 - Continuous Learning
-- Discovery and Learning
 - Agile Leadership
 - Change Management
 - Organisational Change

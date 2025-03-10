@@ -8,7 +8,7 @@ ResourceImportId: 81
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-10-25
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,16 +28,15 @@ aliasesArchive:
 - /resources/blog/deploying-visual-studio-2010-team-foundation-server-beta-2-done
 tags:
 - Install and Configuration
-- Practical Techniques and Tooling
 - Software Development
 - System Configuration
+- Practical Techniques and Tooling
 - Deployment Strategies
 - Personal
 - Pragmatic Thinking
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories:
 - DevOps
-- Engineering Excellence
 
 ---
 Well, nothing like hitting the ground running, my first job at SSW was to join the TFS Migration Team, it was a fun experience, let me tell you how it went.

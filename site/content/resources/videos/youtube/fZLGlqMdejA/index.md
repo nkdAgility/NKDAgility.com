@@ -36,16 +36,17 @@ tags:
 - Agile Product Operating Model
 - Agile Values and Principles
 - People and Process
-- Product Delivery
 - Value Delivery
 - Agile Frameworks
 - Agile Philosophy
 - Agile Project Management
+- Agile Strategy
 resourceTypes:
 - video
 categories:
 - Scrum
 - Social Technologies
+- Product Management
 
 ---
 **Overcoming Greed in Agile: A Path to Value and Efficiency** 

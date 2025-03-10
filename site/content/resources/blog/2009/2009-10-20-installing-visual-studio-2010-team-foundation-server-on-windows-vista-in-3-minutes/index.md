@@ -25,8 +25,8 @@ aliasesArchive:
 tags:
 - Windows
 - Install and Configuration
-- Practical Techniques and Tooling
 - System Configuration
+- Practical Techniques and Tooling
 preview: metro-visual-studio-2010-128-link-7-7.png
 categories: []
 

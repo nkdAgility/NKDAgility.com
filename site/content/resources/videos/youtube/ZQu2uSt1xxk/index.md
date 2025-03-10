@@ -34,6 +34,7 @@ tags:
 - Metrics and Learning
 - Practical Techniques and Tooling
 - Operational Practices
+- Continuous Learning
 resourceTypes:
 - video
 categories:

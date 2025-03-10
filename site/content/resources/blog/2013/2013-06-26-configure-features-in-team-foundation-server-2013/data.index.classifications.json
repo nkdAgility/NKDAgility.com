@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T18:28:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:00:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the configuration of features in Team Foundation Server 2013, which is a practical application of tooling relevant to Agile and DevOps practices.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed walkthrough of configuring features in Team Foundation Server 2013, which directly relates to practical tooling in Agile and DevOps contexts. It discusses specific features, the configuration process, and the use of a wizard, aligning well with the category's focus on practical techniques and tooling. However, while it is rich in practical application, it lacks broader discussions on methodologies or frameworks, which slightly lowers the depth of discussion score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -1360,12 +1363,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:16:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:59:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses configuring features in Team Foundation Server 2013, which is related to Agile practices and Scrum process templates, but the primary focus is on the technical aspects of TFS rather than the methodologies themselves.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions the Visual Studio Scrum process template, which relates to Scrum practices, but the primary focus is on configuring features in Team Foundation Server 2013. While there are references to team administration and features that could imply collaboration, the overall discussion does not delve deeply into the core themes of Scrum, Kanban, Lean, or Agile methodologies. Therefore, the confidence score reflects a low alignment with the category.",
+    "level": "Quaternary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

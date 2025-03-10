@@ -118,12 +118,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:37:32",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 60.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions a DevOps course and discusses related training events, but the primary focus is on scheduling and personal updates rather than in-depth DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses specific DevOps courses and mentions tools like Visual Studio ALM and TFS, which are relevant to DevOps practices. However, the primary focus is on scheduling and promoting training events rather than a deep exploration of DevOps principles or practices. While there are direct mentions of DevOps, the overall discussion lacks depth in terms of the core themes of DevOps, such as CI/CD, automation, and cultural shifts.",
+    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -145,11 +148,14 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-14T22:29:27",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-07T14:37:45",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses upcoming public courses and events related to Agile and DevOps, including specific dates and details about the courses and conferences.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses multiple upcoming events and courses related to Agile and DevOps, including specific dates and details about the presentations. It aligns well with the category as it focuses on live online training and conferences, showcasing a clear connection to the themes of learning and collaboration in the Agile and DevOps communities. The depth of discussion is significant, providing detailed information about each event, which further supports a high confidence score.",
     "level": "Secondary"
   },
   "Flow Efficiency": {

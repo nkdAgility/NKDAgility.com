@@ -82,12 +82,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T12:56:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses challenges related to product development and validation in the context of DevOps, which touches on aspects of product management such as understanding customer needs and adapting to market feedback. However, the primary focus is on DevOps practices rather than strategic product management methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses challenges related to adopting DevOps practices, which touches on aspects of product management, such as risk management and feedback loops. However, it primarily focuses on technical implementation and operational challenges rather than the strategic alignment of customer needs, business objectives, and product management methodologies. While there are mentions of product validation and the importance of feedback, the overall discussion lacks a strong focus on the core themes of product management, resulting in a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -1165,11 +1168,14 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-12T01:33:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:56:13",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the challenges and strategies related to adopting DevOps practices, focusing on how these practices can enhance an organisation's ability to adapt to market changes and improve responsiveness. It highlights the importance of closing feedback loops and understanding risk profiles, which are central to market adaptability.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the challenges of adopting DevOps practices, particularly in relation to maintaining adaptability and responsiveness to market changes. It highlights the importance of closing feedback loops and adapting to real-world testing, which aligns well with the principles of market adaptability. The depth of discussion on how traditional methods hinder adaptability and the need for new approaches to risk management further supports its relevance to the category.",
     "level": "Secondary"
   },
   "Miscellaneous": {

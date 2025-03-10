@@ -33,10 +33,10 @@ tags:
 - Flow Efficiency
 - Practical Techniques and Tooling
 - Operational Practices
+- Agile Frameworks
 - Lean Thinking
 - Pragmatic Thinking
 - Software Development
-- Agile Frameworks
 - Agile Project Management
 - Lean Principles
 - Throughput

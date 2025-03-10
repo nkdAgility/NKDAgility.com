@@ -26,8 +26,8 @@ preview: https://i.ytimg.com/vi/vWfebO_pwIU/maxresdefault.jpg
 duration: 291
 isShort: false
 tags:
-- Scrum Master
 - Professional Scrum
+- Scrum Master
 - Agile Project Management
 sitemap:
   filename: sitemap.xml
@@ -36,8 +36,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Scrum
+- Social Technologies
 
 ---
 As I reflect on the journey of Scrum Masters and their progression through the Professional Scrum Master (PSM) certifications, I can't help but notice a troubling trend: many Scrum Masters never advance beyond the PSM1 level. This observation leads me to a crucial question: why is that? 

@@ -25,10 +25,9 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Release Management
-- Practical Techniques and Tooling
 - System Configuration
-categories:
-- DevOps
+- Practical Techniques and Tooling
+categories: []
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

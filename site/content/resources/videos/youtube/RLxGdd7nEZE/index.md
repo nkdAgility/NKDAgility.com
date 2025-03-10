@@ -28,8 +28,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Organisational Physics
+- People and Process
 - Systems Thinking
 - Change Management
 - Organisational Change
@@ -39,7 +39,6 @@ resourceTypes:
 - video
 categories:
 - Leadership
-- Product Management
 - Social Technologies
 
 ---

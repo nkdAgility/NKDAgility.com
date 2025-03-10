@@ -39,8 +39,8 @@ tags:
 - Agile Strategy
 - Business Agility
 - Employee Engagement
-- Organisational Change
 - Organisational Culture
+- Organisational Physics
 resourceTypes:
 - video
 categories:

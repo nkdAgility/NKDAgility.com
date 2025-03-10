@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T00:08:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:33:37",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a practical technique for managing work item IDs in TFS 2010 using the API, including code examples and methodologies for implementation.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed exploration of a practical technique for managing work item IDs in TFS 2010, including specific code examples and methodologies for using the TFS API. It discusses the implementation of a solution to a real-world problem, aligning well with the category's focus on practical techniques and tooling. The depth of discussion is significant, with clear explanations of the code and its purpose, as well as considerations for best practices. The content is primarily focused on practical application rather than theoretical discussions, which supports a high confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,12 +733,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:33:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content describes a method of automating the creation and management of work items in TFS, touching on aspects of software craftsmanship and system design. However, it primarily focuses on a specific technical solution rather than broader principles of engineering excellence, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a specific technical implementation related to TFS work item IDs, which does not directly address broader engineering excellence principles such as software craftsmanship, coding standards, or continuous improvement practices. While it touches on aspects of coding and API usage, it lacks a comprehensive discussion on best practices or quality assurance, leading to a low confidence score in the context of 'Engineering Excellence'.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

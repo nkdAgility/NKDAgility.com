@@ -21,6 +21,7 @@ aliasesArchive:
 categories:
 - Product Management
 - Scrum
+- Social Technologies
 tags:
 - Product Owner
 - Agile Product Management

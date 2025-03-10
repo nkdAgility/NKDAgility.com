@@ -52,11 +52,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T15:03:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:16:56",
+    "ai_confidence": 45.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions evidence-based management in the context of leadership and Agile, but it does not provide substantial discussion or insights into the principles, practices, or empirical evidence that define the category.",
+    "final_score": 42.0,
+    "reasoning": "The content explicitly mentions 'evidence-based management' and discusses its relevance to leadership within an Agile context, indicating a direct mention. However, it lacks depth and detail on the principles, practices, or empirical evidence that underpin Evidence-Based Management, resulting in a moderate alignment with the core themes. The discussion is somewhat superficial, focusing more on the skills of leaders rather than on the application of empirical evidence in decision-making processes.",
     "level": "Tertiary"
   },
   "Personal": {
@@ -223,12 +226,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T15:04:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:16:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Agile and the context of leadership within Agile practices, indicating a secondary theme related to social technologies, but does not primarily focus on the frameworks or methodologies outlined in the category.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Agile (AG) but lacks detailed discussion on specific frameworks like Scrum or Kanban. While it aligns conceptually with the idea of enhancing leadership skills within Agile contexts, it does not provide substantial depth or direct references to the core principles of Social Technologies.",
+    "level": "Quaternary"
   },
   "Lean": {
     "category": "Lean",

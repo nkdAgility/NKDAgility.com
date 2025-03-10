@@ -32,8 +32,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Scrum
+- Social Technologies
 
 ---
 ## Debunking the "Magic" Myth

@@ -8,7 +8,7 @@ ResourceImportId: 33
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-07-07
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,12 +23,11 @@ aliasesArchive:
 - /tfs-event-handler-for-team-foundation-server-2010
 - /resources/blog/tfs-event-handler-for-team-foundation-server-2010
 tags:
-- Practical Techniques and Tooling
 - Azure DevOps
 - Software Development
+- Practical Techniques and Tooling
 categories:
 - DevOps
-- Engineering Excellence
 - Social Technologies
 preview: metro-binary-vb-128-link-3-3.png
 

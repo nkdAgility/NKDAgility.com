@@ -127,12 +127,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-18T12:23:46",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation of TFS 2013, which relates to Windows as it involves installation procedures often performed in a Windows environment, but it does not primarily focus on Windows operating system itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-07T14:51:35",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Team Foundation Server (TFS) on a Windows environment, detailing the steps involved in setting up SQL Server and TFS, which are both integral to Windows systems. It discusses specific Windows features, such as service accounts and Active Directory integration, and addresses potential issues related to Windows Server configurations. The depth of discussion is substantial, covering various aspects of the installation process, including prerequisites, configurations, and troubleshooting steps, which aligns well with the key topics outlined for the Windows category.",
+    "level": "Primary"
   },
   "Sprint Review": {
     "category": "Sprint Review",

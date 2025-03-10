@@ -37,12 +37,12 @@ tags:
 - People and Process
 - Practical Techniques and Tooling
 - Pragmatic Thinking
-- Software Development
+- Professional Scrum
 resourceTypes:
 - video
 categories:
-- Scrum
 - Social Technologies
+- Scrum
 
 ---
 # Tailoring Scrum to Scale: Building Your Own Framework for Success

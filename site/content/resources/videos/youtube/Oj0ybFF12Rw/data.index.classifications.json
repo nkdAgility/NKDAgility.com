@@ -31,12 +31,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T17:14:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:30:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum and its scaling, which relates to product management methodologies, but it primarily focuses on the implementation of Scrum rather than strategic aspects of product management.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the concept of scaling Scrum, which is a specific Agile framework. While it touches on aspects of product management, such as delivering value and team dynamics, it lacks a broader discussion on strategic alignment with customer needs or business objectives. The focus is more on technical implementation rather than the strategic methodologies and frameworks that guide product managers. Therefore, while there are relevant mentions, the overall depth and alignment with the core themes of product management are limited.",
+    "level": "Quaternary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1123,11 +1126,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T23:36:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:30:30",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum in the context of scaling methodologies which is relevant to software development practices, but the primary focus is on critique rather than developer roles in Agile.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the concept of scaling Scrum, which is relevant to software developers working within Agile frameworks. However, it primarily focuses on a specific opinion about scaling rather than providing a comprehensive exploration of Agile practices or the role of developers. While it mentions Scrum and its application, it lacks depth in discussing broader Agile principles or the integration of DevOps, which are crucial for a higher confidence score.",
     "level": "Tertiary"
   },
   "Deployment Frequency": {

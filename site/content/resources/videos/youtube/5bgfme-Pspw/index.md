@@ -32,7 +32,6 @@ resourceTypes:
 - video
 layout: video
 categories:
-- Product Management
 - Leadership
 
 ---

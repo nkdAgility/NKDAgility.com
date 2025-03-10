@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T18:33:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:04:16",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for resolving user permission issues in SharePoint 2013 after migration from SharePoint 2010, including the use of PowerShell scripts and authentication mechanisms.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses a specific technical issue related to SharePoint migration and provides a practical solution using PowerShell scripting. It directly mentions the use of a PowerShell script to address authentication issues, which aligns with the category's focus on practical techniques and tooling. However, while it provides a solution, the overall discussion is more focused on troubleshooting rather than a broader exploration of methodologies or frameworks that enhance Agile and DevOps practices. Therefore, while it has a strong practical component, it lacks depth in discussing Agile or DevOps methodologies, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,11 +733,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 40,
+    "calculated_at": "2025-03-07T15:04:12",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 36.0,
-    "reasoning": "The content discusses technical aspects of SharePoint migration and configuration, but it primarily focuses on troubleshooting and specific issues rather than on broader engineering practices or principles of software craftsmanship.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to SharePoint migration and user authentication, which does not directly address the principles of software craftsmanship or best practices in engineering processes. While it includes some technical details and a PowerShell script, it lacks a broader discussion on engineering excellence, such as coding standards, quality assurance, or continuous improvement practices. The focus is more on troubleshooting and solutions rather than promoting high standards in software development.",
     "level": "Quaternary"
   },
   "Revenue per Employee": {

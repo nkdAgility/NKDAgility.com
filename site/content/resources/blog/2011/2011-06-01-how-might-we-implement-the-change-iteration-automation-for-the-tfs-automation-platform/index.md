@@ -8,7 +8,7 @@ ResourceImportId: 3383
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-06-01
-weight: 730
+weight: 720
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,13 +24,13 @@ aliasesArchive:
 - /resources/blog/how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
 tags:
 - Platform Engineering
-- Practical Techniques and Tooling
 - Software Development
 - Azure DevOps
 - Operational Practices
 - Pragmatic Thinking
 - Software Developers
 - Digital Transformation
+- Practical Techniques and Tooling
 - System Configuration
 preview: metro-visual-studio-2010-128-link-4-4.png
 categories:

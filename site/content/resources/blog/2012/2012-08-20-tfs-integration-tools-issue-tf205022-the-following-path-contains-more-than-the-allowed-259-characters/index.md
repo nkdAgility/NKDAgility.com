@@ -8,7 +8,7 @@ ResourceImportId: 7255
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-20
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -31,15 +31,14 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Modern Source Control
-- Practical Techniques and Tooling
 - Azure DevOps
 - Software Development
 - System Configuration
 - Troubleshooting
 - Windows
+- Practical Techniques and Tooling
 - Pragmatic Thinking
-categories:
-- Engineering Excellence
+categories: []
 preview: metro-problem-icon-4-4.png
 
 ---

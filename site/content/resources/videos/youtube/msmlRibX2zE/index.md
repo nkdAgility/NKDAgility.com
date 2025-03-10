@@ -22,8 +22,7 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/msmlRibX2zE/maxresdefault.jpg
 duration: 19
 isShort: true
-tags:
-- News and Reviews
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4

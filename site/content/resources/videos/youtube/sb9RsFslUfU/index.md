@@ -28,14 +28,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Personal
+- People and Process
 resourceTypes:
 - video
 categories:
-- DevOps
 - Leadership
 - Social Technologies
+- DevOps
 
 ---
 ## From Practitioner to Consultant

@@ -8,7 +8,7 @@ ResourceImportId: 4573
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-02-24
-weight: 775
+weight: 810
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -32,16 +32,15 @@ tags:
 - Modern Source Control
 - Application Lifecycle Management
 - Install and Configuration
-- Practical Techniques and Tooling
 - Azure DevOps
 - Digital Transformation
 - Operational Practices
 - Personal
 - Software Development
+- Practical Techniques and Tooling
 - Pragmatic Thinking
 categories:
 - DevOps
-- Engineering Excellence
 
 ---
 Jason Zander has just announced that the Visual Studio 11 & Visual Studio 11 Team Foundation Server Beta **will be available on the 29th February 2012**. I am really looking forward to this launch as it embodies the phrase “spit & polish” and really lowers the bar for entry into the Team Foundation Server world.

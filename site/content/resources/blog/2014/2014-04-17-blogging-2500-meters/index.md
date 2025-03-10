@@ -29,7 +29,6 @@ aliasesArchive:
 categories: []
 preview: nakedalm-logo-260-7-7.png
 tags:
-- Windows
 - Personal
 
 ---

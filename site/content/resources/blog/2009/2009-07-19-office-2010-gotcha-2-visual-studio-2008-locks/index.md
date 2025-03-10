@@ -27,9 +27,9 @@ aliasesArchive:
 - /blog/office-2010-gotcha-2--visual-studio-2008-locks
 - /resources/blog/office-2010-gotcha-2-visual-studio-2008-locks
 tags:
-- Install and Configuration
 - Troubleshooting
 - Windows
+- Install and Configuration
 preview: metro-visual-studio-2005-128-link-2-1.png
 categories: []
 

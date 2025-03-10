@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T20:17:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:19:37",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses a specific issue related to TFS Integration Tools, including practical steps to resolve access issues, which aligns with the exploration and application of tooling.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses a specific issue related to TFS Integration Tools, including a workaround for an access denied error. It directly mentions a practical tool (TFS Integration Tools) and provides a solution to a common problem, which aligns with the category's focus on practical techniques and tooling. However, the discussion lacks depth in exploring broader methodologies or frameworks, and while it mentions a specific tool, it does not provide extensive insights into its application or integration within Agile or DevOps practices.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:19:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses TFS Integration Tools, which are relevant to DevOps practices, but the primary focus is on a specific error and its resolution rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific issue related to TFS Integration Tools, which is a part of the DevOps ecosystem, but it does not explicitly address broader DevOps principles or practices. While it touches on a technical problem that could arise in a DevOps context, it lacks a comprehensive exploration of DevOps concepts such as CI/CD, automation, or cultural shifts. The focus is primarily on troubleshooting a specific error rather than on the integration of people, processes, and tools in a DevOps framework.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

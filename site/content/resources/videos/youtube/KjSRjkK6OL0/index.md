@@ -33,7 +33,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 ## Spotting an Ineffective Scrum Master's Day

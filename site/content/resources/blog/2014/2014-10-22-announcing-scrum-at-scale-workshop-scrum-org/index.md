@@ -30,13 +30,13 @@ tags:
 - Agile Project Management
 - Change Management
 - Enterprise Agility
-- Evidence Based Management
 - Large Scale Agility
 - Metrics and Learning
 - Organisational Agility
 - Organisational Change
 - Organisational Culture
 - People and Process
+- Resilience and Change
 categories:
 - Scrum
 - Social Technologies

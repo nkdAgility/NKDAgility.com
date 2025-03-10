@@ -24,7 +24,6 @@ aliasesArchive:
 - /resources/blog/tfs-usage-statistics
 tags:
 - Modern Source Control
-- Metrics and Learning
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

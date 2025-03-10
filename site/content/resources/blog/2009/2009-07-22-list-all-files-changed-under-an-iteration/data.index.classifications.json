@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T02:17:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:43:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a practical technique for retrieving and listing files changed under a specific iteration using API calls to TFS, which aligns with the exploration and application of tooling in Agile and DevOps practices.",
+    "final_score": 66.0,
+    "reasoning": "The content provides a practical example of using API calls to extract data from TFS, which aligns well with the category's focus on practical techniques and tooling. It discusses specific coding techniques and tools (TFS, API calls) and demonstrates a method for achieving a task, which is a core aspect of the category. However, while it does mention the potential for improvement and future tool development, it lacks a broader discussion on methodologies or frameworks that support Agile or DevOps practices, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,12 +733,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:43:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content involves a coding solution to list files changed under an iteration, which relates to software craftsmanship and development practices. However, it primarily focuses on a specific implementation rather than broader discussions on best practices or continuous improvement.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a specific coding task related to querying work items and changesets in TFS, which does not directly discuss engineering excellence or best practices in software craftsmanship. While there are brief mentions of inefficiencies and potential improvements, the overall discussion lacks depth in terms of engineering principles, coding standards, or quality assurance practices. The content is more of a practical coding example rather than a discussion on engineering excellence.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

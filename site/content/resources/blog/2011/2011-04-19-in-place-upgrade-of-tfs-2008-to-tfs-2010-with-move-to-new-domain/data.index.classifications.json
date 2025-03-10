@@ -10,12 +10,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T23:18:35",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-07T15:31:45",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 82.0,
-    "reasoning": "The content provides a detailed, step-by-step guide on upgrading Team Foundation Server (TFS) and moving it to a new domain, which aligns closely with practical techniques and tooling in Agile and DevOps practices.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed, step-by-step guide on upgrading Team Foundation Server (TFS) from 2008 to 2010, which directly aligns with practical techniques and tooling in the context of Agile and DevOps practices. It discusses specific tools (TFS, Team Build), methodologies for implementation (upgrade processes), and best practices (e.g., using the Best Practice Analyser). The depth of discussion is significant, covering multiple aspects of the upgrade process, including potential pitfalls and troubleshooting steps, which enhances its relevance to the category.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T23:18:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:31:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the upgrade and migration processes of Team Foundation Server (TFS), which are integral to DevOps practices, particularly in Continuous Integration and Continuous Delivery contexts.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server (TFS) and migrating it to a new domain. While it does touch on aspects of DevOps, such as the importance of configuration and best practices, it lacks a broader discussion on DevOps principles, cultural shifts, or automation. The content is more of a technical guide than a discussion on DevOps as a holistic practice.",
     "level": "Secondary"
   },
   "Miscellaneous": {

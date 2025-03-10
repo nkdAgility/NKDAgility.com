@@ -31,6 +31,7 @@ aliasesArchive:
 - /blog/in-nexus-with-5-scrum-teams--how-can-the-product-owner-attend-all-sprint-planning-events-
 - /resources/blog/in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events
 tags:
+- Agile Product Management
 - Agile Project Management
 - Scrum Product Development
 - Product Backlog
@@ -39,7 +40,6 @@ tags:
 - Scaling Scrum
 - Scrum Team
 - Agile Planning
-- Agile Product Management
 - Events and Presentations
 categories:
 - Scrum

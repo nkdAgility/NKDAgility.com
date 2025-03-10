@@ -493,11 +493,14 @@
   },
   "Estimation": {
     "category": "Estimation",
-    "calculated_at": "2025-02-12T08:58:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T13:11:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses story points, a key estimation technique in Agile, and critiques their use and impact on team dynamics and value delivery. It addresses both historical context and current implications of estimation practices, making it a central theme.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses story points extensively, highlighting their historical context, issues with absolute and relative estimation, and the dysfunctions that arise from their use. It critiques the reliance on story points and advocates for flow metrics instead, which aligns with the core themes of estimation in Agile. However, while it provides a detailed critique, it does not delve deeply into collaborative estimation techniques or empirical data usage, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Troubleshooting": {
@@ -1213,12 +1216,15 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-17T14:37:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:11:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the limitations of story points and advocates for flow metrics, which aligns with Kanban principles. However, the primary focus is on story points and their impact on Agile practices rather than a direct discussion of Kanban methodology.",
-    "level": "Tertiary"
+    "final_score": 34.0,
+    "reasoning": "The content primarily discusses story points and their implications within Agile methodologies, particularly critiquing their use and the dysfunctions they create. While it briefly mentions flow metrics, which are relevant to Kanban, the focus is predominantly on the drawbacks of story points rather than on Kanban principles such as visualisation, WIP limits, or continuous improvement. The mention of Daniel Vacanti, a proponent of Kanban, suggests some alignment, but the overall discussion does not centre on Kanban practices or methodologies, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Value Delivery": {
     "category": "Value Delivery",

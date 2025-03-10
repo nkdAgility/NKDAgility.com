@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T23:01:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:38:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the use of the Mobile Azure Manager app for managing Azure virtual machines, which aligns with practical techniques and tooling in the context of cloud services and DevOps practices.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the use of the Mobile Azure Manager app to manage Azure virtual machines, which directly relates to practical tooling in a DevOps context. It provides specific examples of how the app enhances the management of VMs, including features like starting and stopping machines, and discusses the author's personal experience with the tool. While it does not delve deeply into methodologies or frameworks, it effectively illustrates a practical application of a tool that supports Agile and DevOps practices, thus aligning well with the category.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,12 +733,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-07T14:38:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content primarily discusses the use of a mobile application for managing Azure virtual machines, which is more focused on operational efficiency rather than engineering excellence or software craftsmanship principles.",
-    "level": "Quaternary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on managing Azure virtual machines through a mobile application, which is more about operational efficiency than engineering excellence. While it touches on aspects of automation and cloud management, it lacks a direct discussion on software craftsmanship, coding standards, or continuous improvement practices. The mention of PowerShell scripts and managing VMs hints at technical practices but does not delve into best practices or principles of software engineering, resulting in a low confidence score.",
+    "level": "Quinary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

@@ -37,8 +37,8 @@ tags:
 - Agile Frameworks
 - Value Delivery
 - Product Delivery
-- Agile Leadership
 - Agile Product Management
+- Agile Leadership
 - Scrum Product Development
 - Technical Leadership
 - Sociotechnical Systems

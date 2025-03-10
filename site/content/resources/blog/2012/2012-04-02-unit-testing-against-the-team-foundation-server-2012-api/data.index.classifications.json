@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T20:40:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:21:38",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for unit testing against the Team Foundation Server API, including authentication methods and the implementation of interfaces to facilitate testing. It provides insights into tooling and methodologies relevant to Agile and DevOps practices.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed exploration of unit testing against the Team Foundation Server (TFS) API, focusing on practical techniques such as Test Driven Development (TDD) and the implementation of interfaces to facilitate testing without UI interaction. It discusses specific tooling (TFS, unit testing frameworks) and methodologies (TDD, BDD) relevant to Agile and DevOps practices. The depth of discussion is significant, with code examples and explanations of authentication challenges and solutions, aligning well with the category's focus on practical application of tools and techniques.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,11 +733,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-15T20:42:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:21:33",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses unit testing, Test Driven Development (TDD), and best practices for authentication in a software development context, which aligns with the principles of software craftsmanship and quality assurance.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses unit testing and Test Driven Development (TDD), which are relevant to software craftsmanship and quality assurance. It provides practical examples of coding practices and addresses challenges in testing methodologies, particularly in the context of authentication with TFS. However, while it touches on important aspects of engineering excellence, it lacks a broader discussion on best practices or continuous improvement processes, which limits its depth and alignment with the category.",
     "level": "Secondary"
   },
   "Revenue per Employee": {

@@ -30,7 +30,6 @@ sitemap:
 tags:
 - People and Process
 - Scrum Product Development
-- Agile Product Management
 - Professional Scrum
 - Agile Frameworks
 - Agile Planning
@@ -38,6 +37,7 @@ tags:
 - Pragmatic Thinking
 - Software Developers
 - Software Development
+- Agile Product Management
 resourceTypes:
 - video
 categories:

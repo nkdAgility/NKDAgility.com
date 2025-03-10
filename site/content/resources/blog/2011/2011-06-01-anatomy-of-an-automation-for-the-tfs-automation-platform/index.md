@@ -25,10 +25,10 @@ aliasesArchive:
 tags:
 - Software Development
 - Install and Configuration
+- Practical Techniques and Tooling
 - System Configuration
 - Internal Developer Platform
 - Platform Engineering
-- Practical Techniques and Tooling
 - Azure DevOps
 - Operational Practices
 - Technical Excellence

@@ -334,11 +334,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T12:30:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:13:17",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the relationship between DevOps and Agile, which are key methodologies in software development, focusing on their principles and practices.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the relationship between DevOps and Agile, which are both integral to software development methodologies. It explicitly mentions core practices and principles relevant to both frameworks, indicating a strong alignment with the Software Development category. The discussion is detailed, exploring how these methodologies complement each other in delivering software products, thus providing a substantial depth of insight into the topic.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -1171,12 +1174,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:12:57",
+    "ai_confidence": 67.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the relationship between DevOps and Agile, highlighting their similarities and the importance of both in delivering software products. However, the primary focus is on Agile practices, making DevOps a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the relationship between DevOps and Agile, highlighting their similarities and the importance of both in delivering software products. While it does mention DevOps explicitly, the focus is more on the comparison with Agile rather than a deep dive into DevOps principles or practices. The discussion touches on key themes like automation and cycle times, but lacks detailed exploration of specific DevOps practices or tools, which affects the depth of the discussion.",
+    "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",

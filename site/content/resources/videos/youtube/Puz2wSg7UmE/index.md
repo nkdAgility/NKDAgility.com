@@ -32,14 +32,13 @@ sitemap:
 tags:
 - Metrics and Learning
 - Ability to Innovate
-- Evidence Based Management
 - Value Delivery
 - Evidence Based Leadership
+- Evidence Based Management
 - Decision Making
 resourceTypes:
 - video
 categories:
-- Engineering Excellence
 - Product Management
 
 ---

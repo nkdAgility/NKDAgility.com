@@ -24,10 +24,12 @@ aliasesArchive:
 - /resources/blog/caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
 tags:
 - Events and Presentations
+- Application Lifecycle Management
+- News and Reviews
 categories:
-- Product Management
 - DevOps
 - Engineering Excellence
+- Social Technologies
 preview: metro-nwc-128-link-3-3.png
 
 ---

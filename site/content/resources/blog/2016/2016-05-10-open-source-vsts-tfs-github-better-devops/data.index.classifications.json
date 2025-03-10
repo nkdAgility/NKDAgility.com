@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T21:00:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:34:55",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the practical application of synchronising code between VSTS and GitHub, detailing specific commands, configurations, and automation processes that enhance DevOps practices.",
+    "final_score": 80.0,
+    "reasoning": "The content provides a detailed exploration of synchronising code between VSTS (now Azure DevOps) and GitHub, which directly relates to practical tooling in DevOps. It discusses specific commands, build definitions, and automation processes, aligning well with the category's focus on practical techniques and tooling. The depth of discussion includes various synchronisation methods and configuration options, demonstrating a strong understanding of the tools involved. Overall, the content is highly relevant and offers actionable insights for implementing these techniques.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T21:00:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:34:51",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the integration of VSTS (now Azure DevOps) and GitHub for synchronising code, which aligns with DevOps principles such as Continuous Integration (CI) and automation. It focuses on the tools and processes that facilitate DevOps practices, making it a major theme.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content explicitly discusses the integration of VSTS (now Azure DevOps) and GitHub for synchronising code, which is a core aspect of DevOps practices. It covers automation through CI/CD pipelines, the role of version control systems, and the importance of collaboration between development and operations teams. The depth of discussion includes specific commands and configurations for achieving this synchronisation, demonstrating a practical application of DevOps principles. Overall, the content aligns well with the key topics of the DevOps category.",
+    "level": "Primary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

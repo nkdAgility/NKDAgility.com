@@ -8,7 +8,7 @@ ResourceImportId: 49501
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2023-07-20
-weight: 405
+weight: 415
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -24,9 +24,9 @@ aliasesArchive:
 - /how-usable-working-products-are-your-ultimate-weapon-against-risks
 - /resources/blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
 tags:
+- Agile Product Management
 - Product Delivery
 - Increment
-- Agile Product Management
 - Agile Product Operating Model
 - Agile Strategy
 - Customer Feedback Loops

@@ -33,11 +33,11 @@ aliasesArchive:
 tags:
 - People and Process
 - Agile Project Management
-- Practical Techniques and Tooling
 - Team Collaboration
 - Agile Frameworks
 - Pragmatic Thinking
 - Software Development
+- Practical Techniques and Tooling
 - Team Performance
 - Scrum Product Development
 categories:

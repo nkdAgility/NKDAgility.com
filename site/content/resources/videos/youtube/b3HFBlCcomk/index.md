@@ -38,7 +38,7 @@ tags:
 - Agile Strategy
 - Agile Transformation
 - Organisational Agility
-- Value Delivery
+- Agile Product Management
 resourceTypes:
 - video
 categories:

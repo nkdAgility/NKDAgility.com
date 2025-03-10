@@ -28,16 +28,17 @@ aliasesArchive:
 - /resources/blog/maven-release-perform-tries-get-workspace-sub-folder-tfs
 tags:
 - Install and Configuration
-- Practical Techniques and Tooling
 - Software Development
 - System Configuration
 - Pragmatic Thinking
 - Technical Mastery
 - Troubleshooting
+- Practical Techniques and Tooling
 - Release Management
 - Operational Practices
 categories:
 - DevOps
+- Engineering Excellence
 preview: naked-alm-jenkins-logo-2-2.png
 
 ---

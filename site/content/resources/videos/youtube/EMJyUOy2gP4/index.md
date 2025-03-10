@@ -29,16 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Agile Product Management
 - Product Delivery
 - Metrics and Learning
-- People and Process
 - Scrum Master
 - Scrum Product Development
 - Scrum Team
+- Value Delivery
 - Ability to Innovate
 - Decision Making
-- Operational Practices
 resourceTypes:
 - video
 categories:

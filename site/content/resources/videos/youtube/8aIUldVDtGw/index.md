@@ -32,11 +32,11 @@ sitemap:
 tags:
 - Flow Efficiency
 - Lean
+- Agile Product Management
 - People and Process
 - Product Delivery
 - Strategy
 - Throughput
-- Agile Product Management
 - Cycle Time
 - Lean Product Development
 - Lean Thinking

@@ -23,12 +23,11 @@ aliasesArchive:
 - /chicago-visual-studio-alm-user-group-27th-march
 - /resources/blog/chicago-visual-studio-alm-user-group-27th-march
 tags:
-- Practical Techniques and Tooling
 - Events and Presentations
+- Practical Techniques and Tooling
 - Software Development
 categories:
 - Kanban
-- Social Technologies
 preview: metro-UserGroup-128-2-2.png
 
 ---

@@ -24,11 +24,11 @@ aliasesArchive:
 - /resources/blog/integrate-sharepoint-2013-with-team-foundation-server-2013
 tags:
 - Install and Configuration
-- Practical Techniques and Tooling
 - System Configuration
 - Azure DevOps
 - Software Development
 - Troubleshooting
+- Practical Techniques and Tooling
 - Windows
 - Application Lifecycle Management
 categories: []

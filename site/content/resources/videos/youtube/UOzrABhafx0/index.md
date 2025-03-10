@@ -33,17 +33,17 @@ tags:
 - Product Backlog
 - Agile Project Management
 - Product Owner
-- Products and Books
 - Scrum Product Development
 - Agile Frameworks
 - Agile Planning
 - Agile Planning Tools
 - Professional Scrum
+- Software Development
 resourceTypes:
 - video
 categories:
-- Scrum
 - Social Technologies
+- Scrum
 - Product Management
 
 ---

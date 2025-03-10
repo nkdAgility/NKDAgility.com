@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T01:49:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:41:30",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the installation process of Visual Studio 2008 Team Foundation Server SP1, detailing practical steps, a release plan, a test plan, and a back-out plan, which aligns well with the exploration and application of tooling in a DevOps context.",
+    "final_score": 66.0,
+    "reasoning": "The content provides a detailed step-by-step guide for installing Visual Studio 2008 Team Foundation Server SP1, which aligns with practical techniques and tooling. It discusses specific actions, such as turning off remote access, running SQL backups, and testing services, which are relevant to the category. However, while it mentions practical steps, it lacks broader discussions on methodologies or frameworks that enhance Agile and DevOps practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:41:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation of Team Foundation Server (TFS), which is relevant to DevOps practices, but the primary focus is on the installation process rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2008 Team Foundation Server SP1, which is a specific technical task rather than a broader discussion on DevOps principles or practices. While it touches on aspects of deployment and server management, it lacks explicit discussions on CI/CD, automation, or cultural shifts in DevOps. The depth of discussion is limited to installation steps and troubleshooting, which does not align closely with the core themes of DevOps.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

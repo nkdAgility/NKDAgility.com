@@ -36,10 +36,10 @@ tags:
 - Operational Practices
 - Software Developers
 - Software Development
-- Value Delivery
 - Organisational Agility
 - Pragmatic Thinking
 - Product Delivery
+- Business Agility
 resourceTypes:
 - video
 categories:

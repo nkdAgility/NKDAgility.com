@@ -28,6 +28,7 @@ aliasesArchive:
 - /resources/blog/introducing-kanban-professional-scrum-teams
 tags:
 - Throughput
+- Practical Techniques and Tooling
 - Agile Project Management
 - Metrics and Learning
 - Agile Frameworks
@@ -35,7 +36,6 @@ tags:
 - Flow Efficiency
 - News and Reviews
 - Operational Practices
-- Practical Techniques and Tooling
 - Products and Books
 categories:
 - Social Technologies

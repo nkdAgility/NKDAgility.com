@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T16:38:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:14:00",
+    "ai_confidence": 67.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the application of Office 2013 tools in the context of Application Lifecycle Management (ALM), highlighting practical uses of PowerPoint and Excel as ALM tools, which aligns with the category focus.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the use of Office 2013 applications as tools within Application Lifecycle Management (ALM), which aligns with the category's focus on practical techniques and tooling. It provides specific examples of how PowerPoint and Excel can be utilised in ALM processes, demonstrating a clear application of tools. However, the discussion lacks depth in terms of broader Agile and DevOps methodologies and does not extensively cover metrics or best practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-07T15:13:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses Application Lifecycle Management (ALM) tools, specifically Office 2013 applications, but does not focus on DevOps principles, practices, or cultural shifts. It primarily revolves around the features and usability of Office 2013 rather than the integration of development and operations.",
-    "level": "Quaternary"
+    "final_score": 11.0,
+    "reasoning": "The content discusses application lifecycle management (ALM) and mentions tools like PowerPoint and Excel in this context. However, it does not explicitly address DevOps principles, practices, or cultural shifts. The focus is primarily on Office 2013 features rather than on the integration of development and operations, automation, or continuous delivery, which are core to DevOps.",
+    "level": "Quinary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

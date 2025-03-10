@@ -27,12 +27,12 @@ aliasesArchive:
 - /blog/scrum-with-visual-studio-11---creating-a-new-team-project
 - /resources/blog/scrum-with-dev11-creating-a-new-team-project
 tags:
-- Agile Project Management
 - Practical Techniques and Tooling
 - Agile Frameworks
 - Asynchronous Development
 - Software Development
 categories:
+- Scrum
 - Social Technologies
 
 ---

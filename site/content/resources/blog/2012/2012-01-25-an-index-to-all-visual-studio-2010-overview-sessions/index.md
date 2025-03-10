@@ -8,7 +8,7 @@ ResourceImportId: 4128
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-01-25
-weight: 770
+weight: 850
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,12 +28,11 @@ aliasesArchive:
 - /resources/blog/an-index-to-all-visual-studio-2010-overview-sessions
 tags:
 - Application Lifecycle Management
-- Events and Presentations
 - Software Development
+- Events and Presentations
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories:
 - DevOps
-- Engineering Excellence
 
 ---
 [![VisualStudioALMLogo](images/VisualStudioALMLogo_thumb-2-2.png "VisualStudioALMLogo")](http://blog.hinshelwood.com/files/2012/01/VisualStudioALMLogo.png)

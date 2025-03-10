@@ -8,7 +8,7 @@ ResourceImportId: 9338
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-03-23
-weight: 270
+weight: 260
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,7 +25,6 @@ aliasesArchive:
 tags:
 - Agile Frameworks
 - Agile Planning
-- Agile Product Management
 - Agile Project Management
 - Engineering Practices
 - People and Process
@@ -33,9 +32,10 @@ tags:
 - Scrum Master
 - Scrum Product Development
 - Scrum Team
+- Software Development
 categories:
-- Scrum
 - Engineering Excellence
+- Scrum
 - Social Technologies
 preview: nakedalm-experts-professional-scrum-3-3.png
 

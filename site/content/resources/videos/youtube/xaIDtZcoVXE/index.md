@@ -31,10 +31,10 @@ sitemap:
   priority: 0.6
 tags:
 - Decision Making
+- Evidence Based Management
 - Metrics and Learning
 - Value Stream Management
 - Ability to Innovate
-- Evidence Based Management
 - Value Delivery
 - Evidence Based Leadership
 - Flow Efficiency

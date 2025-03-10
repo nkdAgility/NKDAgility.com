@@ -25,8 +25,8 @@ preview: https://i.ytimg.com/vi/tPkqqaIbCtY/maxresdefault.jpg
 duration: 48
 isShort: true
 tags:
-- Discovery and Learning
 - People and Process
+- Discovery and Learning
 - Product Discovery
 - Product Strategy
 - Product Validation

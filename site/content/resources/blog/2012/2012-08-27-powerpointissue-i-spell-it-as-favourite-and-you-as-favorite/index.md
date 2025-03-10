@@ -27,7 +27,6 @@ aliasesArchive:
 - /blog/i-spell-it-as-favourite-and-you-as-favorite
 - /resources/blog/powerpointissue-i-spell-it-as-favourite-and-you-as-favorite
 tags:
-- Practical Techniques and Tooling
 - Miscellaneous
 categories: []
 preview: metro-binary-vb-128-link-6-6.png

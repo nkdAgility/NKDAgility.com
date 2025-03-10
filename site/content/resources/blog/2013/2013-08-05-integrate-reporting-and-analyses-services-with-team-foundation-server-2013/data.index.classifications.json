@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T17:55:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:58:21",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical steps for integrating reporting and analysis services with Team Foundation Server 2013, detailing specific tools and methodologies involved in the process.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed, step-by-step guide on integrating reporting and analysis services with Team Foundation Server 2013, which directly aligns with practical techniques and tooling in a DevOps context. It discusses specific tools (SQL Server, Team Foundation Server) and methodologies for implementation, demonstrating a clear focus on practical application rather than theoretical concepts. The depth of discussion is substantial, covering installation, configuration, and integration processes, which enhances the overall confidence in its alignment with the category.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:56:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses integrating reporting and analysis services with Team Foundation Server, which relates to DevOps practices, particularly in the context of Continuous Integration and Continuous Delivery. However, the primary focus is on installation and configuration rather than broader DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on integrating reporting and analysis services with Team Foundation Server (TFS), which is a tool used in software development and project management. While it touches on aspects of configuration and setup that could be relevant to DevOps practices, such as enabling services and configuring environments, it lacks a direct discussion of core DevOps principles like Continuous Integration (CI), Continuous Delivery (CD), or automation. The depth of discussion is more technical and procedural rather than strategic or cultural, which is essential for a strong alignment with the DevOps category.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

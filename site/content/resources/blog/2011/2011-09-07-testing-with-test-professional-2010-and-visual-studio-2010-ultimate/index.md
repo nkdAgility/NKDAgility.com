@@ -8,7 +8,7 @@ ResourceImportId: 3776
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-09-07
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,10 +25,9 @@ aliasesArchive:
 tags:
 - Application Lifecycle Management
 - Events and Presentations
-- Practical Techniques and Tooling
 - Products and Books
-categories:
-- Engineering Excellence
+- Practical Techniques and Tooling
+categories: []
 
 ---
 ![NWC tagline logo_transparent](images/NWC-tagline-logo_transparent-1-1.png "NWC tagline logo_transparent")On Monday 24th October one of our consultants, Dan Wood, is presenting our course on Testing with Visual Studio ALM. The course is running on **Monday 24th October** and I managed to get NWC to provide 10 additional seats for you guys at the discounted rate.

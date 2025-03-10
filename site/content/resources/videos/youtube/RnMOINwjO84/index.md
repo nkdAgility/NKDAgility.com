@@ -24,6 +24,7 @@ preview: https://i.ytimg.com/vi/RnMOINwjO84/maxresdefault.jpg
 duration: 971
 isShort: false
 tags:
+- Discovery and Learning
 - Enterprise Agility
 - Decision Making
 - Resilience and Change
@@ -33,7 +34,6 @@ tags:
 - Agile Project Management
 - Agile Values and Principles
 - Business Agility
-- Complexity Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

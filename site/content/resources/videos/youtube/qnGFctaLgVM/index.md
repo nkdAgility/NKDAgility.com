@@ -34,11 +34,9 @@ tags:
 - Miscellaneous
 - Personal
 - Pragmatic Thinking
-- Professional Scrum
 resourceTypes:
 - video
-categories:
-- Product Management
+categories: []
 
 ---
 ## Why Russell is the Go-To PSPO Trainer for NKD Agility 🏆 

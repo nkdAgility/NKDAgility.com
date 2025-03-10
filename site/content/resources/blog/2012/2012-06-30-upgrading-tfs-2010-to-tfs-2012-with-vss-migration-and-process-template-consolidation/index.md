@@ -8,7 +8,7 @@ ResourceImportId: 5702
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-06-30
-weight: 640
+weight: 720
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,7 +26,6 @@ tags:
 - Install and Configuration
 - System Configuration
 categories:
-- Engineering Excellence
 - Scrum
 
 ---

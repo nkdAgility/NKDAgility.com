@@ -31,10 +31,10 @@ sitemap:
   priority: 0.6
 tags:
 - Personal
-- People and Process
 - Agile Frameworks
 - Agile Project Management
 - Continuous Learning
+- People and Process
 - Agile Values and Principles
 resourceTypes:
 - video

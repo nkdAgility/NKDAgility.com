@@ -1,11 +1,14 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T23:40:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T13:58:12",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses Scrum as a social technology, its principles, and its application in navigating complexity, aligning closely with the category's focus.",
+    "final_score": 71.0,
+    "reasoning": "The content explicitly mentions Scrum as a social technology, which contributes to the direct mentions score. It aligns with the core themes of the category by discussing its purpose in complex environments, but it lacks detailed exploration of Scrum roles, events, or artefacts, which affects the depth of discussion. Overall, while it introduces Scrum effectively, it does not delve deeply into the methodologies or practices that would enhance its alignment with the category.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -1117,12 +1120,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-18T07:25:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:58:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses Scrum, which is a framework within Agile development that relates to the role of developers, but it does not specifically center on their practices or methodologies in a way that clearly aligns with the category.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly introduces Scrum, which is relevant to Agile methodologies, but it lacks explicit discussion on the role of software developers or how they can leverage Scrum within Agile or DevOps frameworks. The mention of complexity in Scrum is relevant but does not delve into best practices or tools that support developers. Overall, while there is some alignment with the category, the depth and direct mentions are insufficient for a higher confidence score.",
+    "level": "Quaternary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",

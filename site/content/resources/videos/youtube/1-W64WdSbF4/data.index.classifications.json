@@ -346,12 +346,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T16:42:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:20:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of the sprint review process, which touches on engineering practices such as feedback loops, stakeholder engagement, and the importance of product ownership in software development. However, the primary focus is on Scrum roles and events rather than a comprehensive exploration of engineering excellence principles.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on the sprint review process within Scrum, discussing its purpose, structure, and the importance of stakeholder engagement. While it touches on aspects of engineering excellence, such as the need for continuous improvement and quality assurance, the main emphasis is on Scrum practices rather than broader engineering principles. The discussion lacks depth in areas like coding standards, technical debt management, or CI/CD practices, which are crucial to the 'Engineering Excellence' category.",
+    "level": "Secondary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1096,11 +1099,14 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-12T12:18:56",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-07T14:20:11",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 40,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "The content primarily discusses the sprint review process within the Scrum framework, focusing on the role of the Product Owner, stakeholder engagement, and techniques for incorporating feedback into product iterations, which are all central themes of Agile Product Management.",
+    "final_score": 85.0,
+    "reasoning": "The content extensively discusses the sprint review process, the role of the product owner, stakeholder engagement, and techniques for incorporating feedback, all of which are central to Agile Product Management. It provides detailed insights into how to conduct effective sprint reviews, the importance of transparency, and the need for continuous alignment with customer needs and business objectives.",
     "level": "Primary"
   },
   "Discovery and Learning": {

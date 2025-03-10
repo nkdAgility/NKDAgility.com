@@ -118,11 +118,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T08:57:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:43:32",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS) and Visual Studio Online (VSO) in the context of application lifecycle management, continuous delivery, and automation, which are key principles of DevOps.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS) and Visual Studio Online (VSO) in the context of application lifecycle management (ALM), which aligns with DevOps principles. It mentions continuous integration and deployment practices, as well as automation in the deployment process. However, the focus is more on the specifics of TFS and VSO rather than a broader discussion of DevOps principles, which limits the depth of the discussion. The content does not explicitly mention DevOps as a category, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -334,11 +337,14 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-15T08:57:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:43:52",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses a session at NDC London focused on Team Foundation Server (TFS) and Visual Studio Online (VSO), highlighting new features and improvements. It aligns with industry events, providing insights into the session's content and the tools relevant to Agile and DevOps, thus fitting the category of news and reviews.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses a specific session at the NDC London conference, focusing on Team Foundation Server (TFS) and Visual Studio Online (VSO). While it provides insights into the speaker's plans and the features of TFS, it lacks broader industry news or reviews that would typically characterise the 'News and Reviews' category. The mention of Agile Project Management and the context of the conference aligns with the category, but the depth of discussion is more about personal experience and session preparation rather than a comprehensive review or news update.",
     "level": "Secondary"
   },
   "Application Lifecycle Management": {

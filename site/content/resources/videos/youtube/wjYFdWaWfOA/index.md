@@ -34,6 +34,7 @@ tags:
 - People and Process
 - Software Development
 - Team Performance
+- Software Developers
 sitemap:
   filename: sitemap.xml
   priority: 0.6

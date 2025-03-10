@@ -28,8 +28,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Project Management
 - People and Process
+- Agile Project Management
 - Professional Scrum
 - Agile Frameworks
 - Agile Transformation

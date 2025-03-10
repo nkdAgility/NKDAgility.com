@@ -29,12 +29,12 @@ aliasesArchive:
 tags:
 - Scrum Product Development
 - Scrum Team
-- Agile Product Management
 - People and Process
 - Software Development
 - Team Collaboration
 - Team Performance
 - Agile Project Management
+- Agile Product Management
 - Accountability
 - Pragmatic Thinking
 categories:

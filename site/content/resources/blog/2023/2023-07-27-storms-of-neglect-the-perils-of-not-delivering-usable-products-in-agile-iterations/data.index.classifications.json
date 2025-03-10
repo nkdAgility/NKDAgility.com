@@ -346,12 +346,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:42:09",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, touching on aspects of technical debt, trust with stakeholders, and the need for quality and adaptability, which are relevant to engineering excellence. However, the primary focus is on Agile practices rather than engineering processes or craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of delivering usable products in Agile iterations, which indirectly relates to engineering excellence through the lens of quality assurance and continuous improvement. However, it primarily focuses on the consequences of neglecting this practice rather than providing detailed insights into engineering processes or best practices. While it touches on concepts like technical debt and stakeholder trust, it lacks a thorough exploration of coding standards, CI/CD practices, or metrics for assessing engineering performance.",
+    "level": "Secondary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1087,11 +1090,14 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-11T18:50:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T13:42:16",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the importance of delivering usable products in Agile iterations, highlighting key Agile principles such as stakeholder trust, technical debt, adaptability, and the need for feedback, all of which align closely with Agile Product Management practices.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses the importance of delivering usable products in Agile iterations, which directly relates to Agile Product Management principles. It highlights the role of usable products in maintaining stakeholder trust, managing technical debt, and ensuring adaptability, all of which are core themes in Agile methodologies. The depth of discussion is significant, as it explores various consequences of neglecting this principle, providing a comprehensive view of its impact on product management. Overall, the content aligns well with the category, demonstrating a strong understanding of Agile practices.",
     "level": "Secondary"
   },
   "Discovery and Learning": {

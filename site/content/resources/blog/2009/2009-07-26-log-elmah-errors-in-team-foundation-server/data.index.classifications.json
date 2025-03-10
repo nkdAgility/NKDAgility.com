@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T02:16:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:43:20",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implementation of a logging system for errors in Team Foundation Server (TFS) using Elmah, detailing practical techniques for creating and managing work items, which aligns with the exploration and application of tools and methodologies in Agile and DevOps practices.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed exploration of implementing a logging mechanism for errors in Team Foundation Server (TFS) using Elmah. It discusses specific methodologies for creating and managing work items, including error logging, attachment handling, and querying work items. The content aligns well with the category as it focuses on practical techniques and tooling, specifically the integration of Elmah with TFS, which enhances Agile and DevOps practices. The depth of discussion is significant, covering various aspects of the implementation process, including code snippets and explanations of the methods used.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T02:16:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:43:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses integrating error logging with Team Foundation Server (TFS), which aligns with DevOps practices of continuous integration and delivery, as well as automation in deployment processes.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses logging errors in Team Foundation Server (TFS) and the integration of error logging with work items, which aligns with DevOps practices of continuous delivery and monitoring. However, it lacks a broader discussion on DevOps principles, cultural shifts, or automation, which limits its depth and overall alignment with the category.",
     "level": "Secondary"
   },
   "Miscellaneous": {

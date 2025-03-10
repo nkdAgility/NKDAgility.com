@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T01:32:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:40:12",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for troubleshooting build failures in Team Foundation Build Services, including specific coding practices, bug tracking, and integration with Agile methodologies like Scrum.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed walkthrough of troubleshooting a build failure in Team Foundation Build Services, which directly relates to practical tooling in a DevOps context. It discusses specific tools (e.g., Team Foundation Server, Visual Studio) and methodologies (e.g., creating work items, code reviews) that enhance team performance and collaboration. The depth of discussion includes code examples and practical solutions, aligning well with the category's focus on practical techniques and tooling. However, while it is rich in practical application, it could benefit from a broader exploration of Agile methodologies or additional tooling frameworks to fully meet the category's criteria.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,11 +733,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-16T01:39:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:40:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses best practices in debugging build failures, code quality, and the importance of code reviews, which are essential themes in engineering excellence.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses troubleshooting a build failure, which is a technical issue directly related to software development practices. It highlights the importance of code reviews, defensive programming, and proper error handling, aligning well with the principles of software craftsmanship and quality assurance. The depth of discussion includes specific examples and solutions, contributing to a strong alignment with the category. However, the primary focus is on a specific problem rather than a broader discussion of engineering excellence, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Revenue per Employee": {

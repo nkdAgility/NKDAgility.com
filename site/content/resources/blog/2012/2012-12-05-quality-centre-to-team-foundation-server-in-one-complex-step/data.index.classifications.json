@@ -427,11 +427,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-14T15:06:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:12:59",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical approaches, challenges, and tools for migrating from HP Quality Centre to Team Foundation Server, emphasizing real-world applications, problem-solving strategies, and the evaluation of various tools that facilitate migration and synchronization, which aligns well with the theme of Pragmatic Thinking.",
+    "final_score": 70.0,
+    "reasoning": "The content provides a detailed analysis of various tools for migrating from Quality Centre to Team Foundation Server, discussing practical considerations and real-world applications of these tools. It addresses specific questions that need to be considered during the migration process, demonstrating a pragmatic approach to problem-solving in a complex environment. The depth of discussion on the tools and their functionalities aligns well with the core themes of pragmatic thinking, particularly in the context of Agile and DevOps. However, while it is focused on practical applications, it does not explicitly mention Agile or Scrum methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -895,11 +898,14 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T09:09:00",
-    "ai_confidence": 40,
+    "calculated_at": "2025-03-07T15:12:56",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 38.0,
-    "reasoning": "The content primarily discusses migration and synchronization tools between Quality Centre and Team Foundation Server, which are more technical in nature rather than focusing on strategic aspects of product management.",
+    "final_score": 24.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating data between Quality Centre and Team Foundation Server, discussing various tools and their functionalities. While it touches on the importance of understanding customer needs and the implications of migration versus synchronisation, it lacks a comprehensive exploration of product management methodologies, frameworks, or strategic alignment with business objectives. The discussion is more technical than strategic, leading to a low confidence score in the context of product management.",
     "level": "Quaternary"
   },
   "Self Organisation": {

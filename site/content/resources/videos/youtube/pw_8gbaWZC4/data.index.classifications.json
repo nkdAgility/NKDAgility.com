@@ -442,12 +442,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T13:13:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:03:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of metrics and strategies for improving workflow and decision-making in a product context, particularly in relation to Scrum and Candan strategies, which are relevant to product management. However, the primary focus is on technical implementation and monitoring rather than strategic product management principles.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses Candan strategies and flow metrics, which are relevant to product management, particularly in the context of improving workflows and transparency. However, it primarily focuses on technical implementation details and methodologies rather than the strategic alignment of customer needs and business objectives. While it mentions Scrum and the importance of metrics, it lacks a deeper exploration of how these concepts directly relate to product management principles, resulting in a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -1273,11 +1276,14 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-13T18:07:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T13:03:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the use of flow metrics and visual management tools, such as Kanban, to improve workflow and identify bottlenecks, which aligns closely with the principles of Flow Efficiency.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of monitoring workflows and using metrics to identify inefficiencies, which aligns well with the principles of Flow Efficiency. It mentions flow metrics and visualisation tools, which are key topics in the category. However, while it provides a good amount of detail, it also includes references to Scrum and Candan strategies that may detract from a strict focus on Flow Efficiency, leading to a slightly lower confidence score.",
     "level": "Secondary"
   },
   "Agile Product Management": {

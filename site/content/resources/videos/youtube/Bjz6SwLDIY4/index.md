@@ -35,15 +35,15 @@ tags:
 - Organisational Change
 - People and Process
 - Change Management
-- Market Adaptability
 - Agile Philosophy
 - Beta Codex
 - Enterprise Agility
+- Market Adaptability
 resourceTypes:
 - video
 categories:
-- Product Management
 - Leadership
+- Product Management
 - Social Technologies
 
 ---

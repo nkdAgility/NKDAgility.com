@@ -29,10 +29,10 @@ aliasesArchive:
 tags:
 - Modern Source Control
 - Install and Configuration
-- Practical Techniques and Tooling
 - Software Development
 - System Configuration
 - Troubleshooting
+- Practical Techniques and Tooling
 categories: []
 preview: puzzle-issue-problem-128-link-1-1.png
 

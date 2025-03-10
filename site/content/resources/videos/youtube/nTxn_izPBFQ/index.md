@@ -38,14 +38,14 @@ tags:
 - Agile Leadership
 - Agile Product Operating Model
 - Scrum Product Development
-- Products and Books
 - Pragmatic Thinking
+- Products and Books
 resourceTypes:
 - video
 categories:
 - Leadership
 - Product Management
-- Social Technologies
+- Scrum
 
 ---
 **How good is the APSPO course in helping leaders determine product direction and Why?**

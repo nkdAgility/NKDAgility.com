@@ -27,11 +27,11 @@ aliasesArchive:
 - /blog/requirement-management-in-the-modern-application-lifecycle-with-tfs
 - /resources/blog/requirement-management-in-the-modern-application-lifecycle
 tags:
+- Practical Techniques and Tooling
 - Agile Planning Tools
 - Agile Project Management
 - Application Lifecycle Management
 - Agile Planning
-- Practical Techniques and Tooling
 - Product Delivery
 - Products and Books
 - Software Development

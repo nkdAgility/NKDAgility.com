@@ -26,12 +26,12 @@ isShort: false
 tags:
 - Azure DevOps
 - Practical Techniques and Tooling
+- Software Development
 - Product Delivery
 - One Engineering System (1ES)
 - Azure Boards
 - Pragmatic Thinking
 - Software Developers
-- Software Development
 - Troubleshooting
 sitemap:
   filename: sitemap.xml

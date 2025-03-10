@@ -34,9 +34,9 @@ sitemap:
 tags:
 - Practical Techniques and Tooling
 - Cycle Time
-- Metrics and Learning
 - Agile Frameworks
 - Agile Project Management
+- Metrics and Learning
 - Operational Practices
 - People and Process
 - Flow Efficiency

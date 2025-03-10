@@ -23,8 +23,8 @@ aliasesArchive:
 - /mask-password-in-jenkins-when-calling-tee
 - /resources/blog/mask-password-in-jenkins-when-calling-tee
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
 - System Configuration
 - Continuous Integration
 - Operational Practices

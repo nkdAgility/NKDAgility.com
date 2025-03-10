@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T08:06:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:05:20",
+    "ai_confidence": 68.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses misconceptions and challenges related to continuous delivery within the context of DevOps, making it a central theme.",
+    "final_score": 66.0,
+    "reasoning": "The content directly mentions DevOps and discusses a common misconception related to continuous delivery, which is a core principle of DevOps. However, while it touches on the topic, it lacks depth in exploring broader DevOps practices, tools, or cultural shifts, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Social Technologies": {
@@ -451,12 +454,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-18T10:21:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:05:22",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the role of developers in enabling continuous delivery within the context of DevOps and Agile methodologies, addressing empowerment and misconceptions related to their capabilities.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content briefly touches on the role of developers in the context of DevOps, specifically regarding continuous delivery and empowering developers. However, it lacks detailed discussion on Agile methodologies or specific practices that enhance productivity and collaboration. The mention of developers' power is relevant but does not delve into best practices or tools, resulting in a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",

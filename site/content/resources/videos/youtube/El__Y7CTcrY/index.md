@@ -30,8 +30,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Personal
 - Discovery and Learning
+- Personal
 - Continuous Learning
 - Coaching
 resourceTypes:

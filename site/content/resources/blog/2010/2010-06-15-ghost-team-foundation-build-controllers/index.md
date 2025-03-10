@@ -8,7 +8,7 @@ ResourceImportId: 39
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-06-15
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,13 +28,12 @@ aliasesArchive:
 - /resources/blog/ghost-team-foundation-build-controllers
 tags:
 - Troubleshooting
-- Practical Techniques and Tooling
 - Azure DevOps
 - Software Development
+- Practical Techniques and Tooling
 preview: metro-visual-studio-2010-128-link-4-4.png
 categories:
 - DevOps
-- Engineering Excellence
 
 ---
 Have you ever seen ghost build controllers in Team Foundation Server that you just can't seam to delete no matter what you do? Sometime there are builds left over in the system that were queued but never completed.

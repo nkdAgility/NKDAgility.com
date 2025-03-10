@@ -33,9 +33,9 @@ sitemap:
 tags:
 - Metrics and Learning
 - Agile Product Management
-- Personal
 - Pragmatic Thinking
 - Value Delivery
+- Personal
 - Product Owner
 - Decision Making
 - Evidence Based Leadership
@@ -44,6 +44,7 @@ tags:
 resourceTypes:
 - video
 categories:
+- Social Technologies
 - Product Management
 
 ---

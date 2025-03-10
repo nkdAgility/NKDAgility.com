@@ -34,9 +34,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Scrum
-- Engineering Excellence
-- DevOps
+- Social Technologies
 
 ---
 ## From Developer to Scrum Developer: A Journey of Continuous Learning

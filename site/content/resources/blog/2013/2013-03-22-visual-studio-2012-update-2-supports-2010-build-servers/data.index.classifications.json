@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T19:09:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:09:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical techniques for upgrading and configuring Team Foundation Server (TFS) and its build agents, which aligns with the exploration and application of tools and methodologies in a DevOps context.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed discussion on the practical aspects of upgrading and configuring Team Foundation Server (TFS) and its build agents, which directly relates to tooling in a DevOps context. It discusses specific tools (TFS 2010 and TFS 2012), methodologies for connecting build agents, and the challenges faced during upgrades, aligning well with the category's focus on practical techniques and tooling. However, while it is rich in detail, it lacks broader discussions on Agile methodologies or metrics, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,12 +733,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:08:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the technical aspects of upgrading build servers and configuration, which relates to engineering practices but focuses more on system specifics than on broader principles of software craftsmanship or continuous improvement.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the technical aspects of upgrading build servers and the implications for development workflows, which touches on engineering practices. However, it lacks a direct focus on broader principles of engineering excellence, such as software craftsmanship or quality assurance. The discussion is primarily about specific technical upgrades rather than promoting high standards in software development practices.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

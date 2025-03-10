@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T09:10:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:45:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical issues and solutions related to using Maven with TFS, including configuration details, command line parameters, and considerations for multiple users and builds, which aligns well with the category's focus on practical techniques and tooling.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed discussion on the practical challenges and solutions related to using Maven with TFS, which directly aligns with the category's focus on tooling and methodologies. It discusses specific configurations, command line parameters, and the implications of workspace management in a CI/CD context. The depth of the discussion is significant, as it includes troubleshooting steps and considerations for multiple users and builds, demonstrating a practical application of techniques to improve deployment processes.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T09:11:02",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-07T14:45:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses issues related to build and release processes using Maven and TFS, which are relevant to DevOps practices. However, it primarily focuses on specific technical challenges rather than broader DevOps principles or cultural shifts.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses issues related to Maven and TFS in the context of build and release processes, which are relevant to DevOps practices. However, it lacks a broader discussion on DevOps principles, cultural shifts, or automation impacts. The focus is primarily on a specific technical problem rather than a comprehensive exploration of DevOps as a whole.",
+    "level": "Tertiary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

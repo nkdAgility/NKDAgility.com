@@ -31,10 +31,10 @@ sitemap:
   priority: 0.6
 tags:
 - Strategy
-- People and Process
 - Cycle Time
 - Agile Frameworks
 - Metrics and Learning
+- People and Process
 - Operational Practices
 - Pragmatic Thinking
 - Software Development

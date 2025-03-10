@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T19:38:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:16:26",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for resolving TFS check-in conflicts, detailing specific steps and tools used in the process, which aligns well with the category focus.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed walkthrough of resolving a specific issue related to TFS Integration Tools, which falls under practical techniques for tooling. It discusses the steps to troubleshoot and resolve conflicts during a TFS check-in, demonstrating the application of a specific tool in a real-world scenario. The mention of specific actions, such as deleting rules and using the command line or TFS Sidekicks, aligns well with the category's focus on practical application. However, while it is rich in detail, it lacks broader discussions on methodologies or frameworks that enhance Agile and DevOps practices, which slightly lowers the overall alignment score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,12 +733,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:16:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical issue related to TFS (Team Foundation Server) which touches upon conflict resolution, check-in processes, and integration challenges, relevant to software development practices. However, it does not primarily focus on broader themes of engineering excellence, software craftsmanship, or practices aimed at improving the quality of deliverables.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to TFS check-in failures and conflict resolution, which is more focused on troubleshooting than on broader engineering excellence practices. While it touches on aspects of software development, such as conflict resolution and the use of tools, it lacks a comprehensive discussion on best practices, quality assurance, or continuous improvement in engineering processes.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

@@ -25,9 +25,9 @@ aliasesArchive:
 tags:
 - Windows
 - Install and Configuration
-- Practical Techniques and Tooling
 - Products and Books
 - Application Lifecycle Management
+- Practical Techniques and Tooling
 categories: []
 preview: metro-office-128-link-5-5.png
 

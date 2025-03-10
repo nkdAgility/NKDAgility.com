@@ -31,12 +31,12 @@ tags:
 - Transparency
 - Scrum Product Development
 - Agile Planning
-- Agile Product Management
 - Agile Values and Principles
 - Product Delivery
 - Scrum Team
 - Software Development
 - Transparency and Accountability
+- Agile Frameworks
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-5-5.png

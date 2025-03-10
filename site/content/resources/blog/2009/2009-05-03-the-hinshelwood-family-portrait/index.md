@@ -24,8 +24,7 @@ aliasesArchive:
 - /resources/blog/the-hinshelwood-family-portrait
 categories: []
 preview: nakedalm-logo-128-link-2-1.png
-tags:
-- Personal
+tags: []
 
 ---
 For my wife’s birthday my brother and his wife bought us a professional photo shoot, and the photographer got some [fantastic shots](http://perfectexpressions.co.uk/blog/2009/05/the-hinshelwood-family-portrait-shoot/). I love the one of my daughter jumping. We have had a couple of go’s at this before, but we have always been disappointed in both the photographer and the results.

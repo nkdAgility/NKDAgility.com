@@ -23,7 +23,7 @@ aliasesArchive:
 - /configuring-microsoft-teams-for-live-virtual-training
 - /resources/blog/configuring-microsoft-teams-for-live-virtual-training
 categories:
-- Social Technologies
+- Scrum
 preview: image-14-4-4.png
 tags:
 - Install and Configuration

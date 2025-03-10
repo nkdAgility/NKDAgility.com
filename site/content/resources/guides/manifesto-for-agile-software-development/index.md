@@ -27,7 +27,6 @@ card:
   title: Manifesto for Agile Software Development
 categories:
 - Social Technologies
-- Engineering Excellence
 tags:
 - Agile Values and Principles
 - Agile Philosophy

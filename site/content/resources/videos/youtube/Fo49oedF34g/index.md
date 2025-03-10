@@ -25,10 +25,10 @@ preview: https://i.ytimg.com/vi/Fo49oedF34g/maxresdefault.jpg
 duration: 268
 isShort: false
 tags:
+- Agile Frameworks
 - Coaching
 - Organisational Agility
 - People and Process
-- Agile Frameworks
 - Agile Project Management
 - Agile Transformation
 - Pragmatic Thinking
@@ -41,7 +41,6 @@ sitemap:
 resourceTypes:
 - video
 categories:
-- Scrum
 - Social Technologies
 
 ---

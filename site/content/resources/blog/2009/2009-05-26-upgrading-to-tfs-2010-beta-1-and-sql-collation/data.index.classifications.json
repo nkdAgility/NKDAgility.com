@@ -73,11 +73,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T02:29:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:44:20",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the installation and upgrade process of TFS 2010, including specific errors encountered during the configuration related to SQL collation, which aligns with the key topics of installation and configuration.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on the installation and upgrade process of TFS 2010, detailing specific errors encountered during the upgrade due to SQL collation mismatches. It provides a clear account of the installation challenges faced, which aligns well with the category's focus on installation and configuration. The mention of specific error messages and the proposed solution of reinstalling everything indicates a depth of discussion that is relevant to troubleshooting installation issues. Overall, the content is highly relevant to the category, with a strong emphasis on practical installation and configuration challenges.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:44:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to upgrading Team Foundation Server (TFS), which is a tool used in DevOps practices, but the primary focus is on technical errors and solutions rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses an upgrade process related to Team Foundation Server (TFS) and SQL Server, which are tools often used in DevOps environments. However, it primarily focuses on a specific technical issue (collation mismatch) rather than broader DevOps principles or practices. While there are mentions of TFS, the discussion lacks depth in terms of DevOps concepts such as CI/CD, automation, or cultural shifts, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
