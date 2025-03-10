@@ -31,13 +31,13 @@ aliasesArchive:
 tags:
 - Modern Source Control
 - Application Lifecycle Management
-- Azure DevOps
 - Digital Transformation
 - Operational Practices
 - Personal
 - Software Development
 - Install and Configuration
 - Practical Techniques and Tooling
+- Azure DevOps
 - Pragmatic Thinking
 categories:
 - DevOps

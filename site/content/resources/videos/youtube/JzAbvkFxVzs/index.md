@@ -35,8 +35,8 @@ tags:
 - Agile Project Management
 - Pragmatic Thinking
 - People and Process
-- Agile Frameworks
 - Agile Values and Principles
+- Agile Frameworks
 - Personal
 - Scrum Values
 resourceTypes:

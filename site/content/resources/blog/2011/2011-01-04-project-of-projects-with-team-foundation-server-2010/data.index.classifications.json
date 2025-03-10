@@ -121,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:01:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of project management and build processes within Team Foundation Server, which are relevant to DevOps practices, but it primarily focuses on project structuring rather than the broader principles of DevOps.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses aspects of project management and organisation within Team Foundation Server (TFS), touching on areas, iterations, source code management, and builds. While these topics are relevant to DevOps practices, the focus is more on project structuring rather than the broader principles of DevOps such as CI/CD, automation, or cultural shifts. The content lacks a strong emphasis on collaboration between development and operations teams, which is a core aspect of DevOps. Therefore, while there are mentions of relevant tools and practices, the overall discussion does not align closely with the primary focus of the DevOps category.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -349,11 +352,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T00:07:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:01:39",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the management of projects within Team Foundation Server, focusing on areas, iterations, source code structure, work item queries, and builds, which are all relevant to the application lifecycle management process.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses aspects of managing projects within Team Foundation Server, touching on areas, iterations, source code management, work item queries, and builds. While it does not explicitly mention 'Application Lifecycle Management', it aligns with key themes such as project organisation and management practices that are relevant to the application lifecycle. However, the discussion lacks depth in covering the full lifecycle stages and best practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Daily Scrum": {

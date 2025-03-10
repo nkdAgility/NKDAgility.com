@@ -45,8 +45,6 @@ resourceTypes:
 - video
 categories:
 - Leadership
-- Social Technologies
-- DevOps
 
 ---
 ## Why Senior Leadership is Non-Negotiable in an Agile Consulting Journey

@@ -29,7 +29,6 @@ aliasesArchive:
 tags:
 - Software Development
 - Events and Presentations
-- People and Process
 - Products and Books
 - Application Lifecycle Management
 - Value Delivery
@@ -37,6 +36,7 @@ tags:
 - Azure DevOps
 - Product Delivery
 - Practical Techniques and Tooling
+- Pragmatic Thinking
 categories:
 - Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-8-8.png

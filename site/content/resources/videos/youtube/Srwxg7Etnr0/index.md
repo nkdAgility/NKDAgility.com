@@ -34,10 +34,10 @@ tags:
 - Agile Planning
 - Scrum Master
 - Team Collaboration
-- Agile Frameworks
 - Agile Project Management
 - Software Development
 - Agile Product Management
+- Professional Scrum
 resourceTypes:
 - video
 categories:

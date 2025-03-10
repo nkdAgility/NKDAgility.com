@@ -23,7 +23,6 @@ aliasesArchive:
 - /office-2010-install
 - /resources/blog/office-2010-install
 tags:
-- System Configuration
 - Windows
 - Install and Configuration
 preview: metro-office-128-link-7-1.png

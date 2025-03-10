@@ -23,7 +23,6 @@ aliasesArchive:
 - /office-mobile-2007
 - /resources/blog/office-mobile-2007
 tags:
-- Install and Configuration
 - Windows
 categories: []
 preview: metro-office-128-link-1-1.png

@@ -28,8 +28,8 @@ aliasesArchive:
 - /resources/blog/tfs-event-handler-prototype-refresh
 tags:
 - Software Development
-- Troubleshooting
 - Install and Configuration
+- Troubleshooting
 categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 

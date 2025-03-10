@@ -103,11 +103,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T20:36:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:16:05",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implementation of a Team Foundation Server Event Handler in .NET, detailing practical coding techniques, service configurations, and tooling related to TFS and WCF, which aligns well with the category's focus on practical techniques and tooling.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed exploration of creating a Team Foundation Server (TFS) Event Handler using .NET 3.5, which directly relates to practical tooling in a DevOps context. It discusses specific methodologies for implementing TFS event handling, including code examples and configuration details, which align well with the category's focus on practical techniques and tooling. The depth of discussion is significant, covering various aspects of service configuration, event subscription, and implementation details, thus demonstrating a strong alignment with the key topics outlined in the category.",
     "level": "Secondary"
   },
   "Value Delivery": {
@@ -310,12 +313,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:16:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implementation of a Team Foundation Server Event Handler, which relates to automation and integration in software delivery, but primarily focuses on technical details rather than broader DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on creating a Team Foundation Server Event Handler in .NET, which is more aligned with software development and integration rather than the broader principles of DevOps. While it touches on aspects of automation and integration, it lacks a comprehensive discussion on DevOps practices, cultural shifts, or metrics that define the category. The mention of TFS and WCF indicates some relevance to DevOps tools, but the overall focus is not on enhancing collaboration or continuous delivery, which are core to DevOps.",
+    "level": "Quaternary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",

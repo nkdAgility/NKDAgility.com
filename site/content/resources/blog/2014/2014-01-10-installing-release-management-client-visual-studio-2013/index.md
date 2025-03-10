@@ -31,9 +31,9 @@ tags:
 - Practical Techniques and Tooling
 - Application Lifecycle Management
 - Release Management
-- Azure DevOps
 - Software Development
 - System Configuration
+- Azure DevOps
 - Technical Mastery
 - Troubleshooting
 categories:

@@ -32,12 +32,12 @@ tags:
 - Azure DevOps
 - Pragmatic Thinking
 - Product Backlog
-- Technical Excellence
+- Technical Mastery
 preview: metro-visual-studio-2010-128-link-8-8.png
 categories:
 - Scrum
-- Social Technologies
 - Engineering Excellence
+- Social Technologies
 
 ---
 Now that I have the Build failing because of a genuine bug and not just because of a test framework failure, lets see if we can trace through to finding why the first test in our new application failed. Lets look at the build and see if we can see why there is a red cross on it.

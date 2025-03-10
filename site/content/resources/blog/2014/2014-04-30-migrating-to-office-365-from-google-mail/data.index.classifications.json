@@ -376,12 +376,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T11:05:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:44:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the technical aspects of migrating from Google Mail to Office 365, including various methods of email migration and the use of PowerShell for managing the migration process. It emphasizes technical challenges and solutions, aligning well with the principles of software craftsmanship and engineering practices.",
-    "level": "Secondary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the practical aspects of migrating from Google Mail to Office 365, detailing specific methods and PowerShell commands. While it touches on technical execution, it lacks a broader discussion on software craftsmanship, best practices, or principles of clean code. The depth of technical detail is present, but the overall focus is more on migration challenges rather than on achieving excellence in software engineering practices.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",

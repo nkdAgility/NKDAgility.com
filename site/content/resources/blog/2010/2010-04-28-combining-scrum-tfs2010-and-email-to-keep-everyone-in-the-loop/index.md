@@ -35,9 +35,9 @@ tags:
 - Team Collaboration
 - Agile Frameworks
 - People and Process
-- Pragmatic Thinking
 - Software Development
 - Practical Techniques and Tooling
+- Pragmatic Thinking
 - Team Performance
 - Scrum Product Development
 categories:

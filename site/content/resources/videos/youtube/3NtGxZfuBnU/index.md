@@ -29,6 +29,7 @@ sitemap:
 tags:
 - People and Process
 - Agile Philosophy
+- Organisational Change
 resourceTypes:
 - video
 layout: video

@@ -24,7 +24,6 @@ duration: 370
 isShort: false
 tags:
 - People and Process
-- Agile Frameworks
 - Agile Philosophy
 - Agile Strategy
 - Agile Transformation
@@ -32,6 +31,7 @@ tags:
 - Organisational Change
 - Pragmatic Thinking
 - Business Agility
+- Agile Frameworks
 - Continuous Learning
 sitemap:
   filename: sitemap.xml
@@ -42,6 +42,7 @@ resourceTypes:
 - video
 categories:
 - Social Technologies
+- Leadership
 
 ---
 When I think about Agile Consulting, I often find that it’s a term that can leave people scratching their heads. What does it really mean? Over the years, I’ve developed my own approach to Agile Consulting, and I’d like to share some insights from my experiences that might help clarify this nebulous concept.

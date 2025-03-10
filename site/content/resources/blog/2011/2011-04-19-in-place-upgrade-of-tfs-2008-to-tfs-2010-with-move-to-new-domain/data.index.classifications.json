@@ -217,11 +217,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T23:19:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:00:37",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical process of upgrading Team Foundation Server (TFS) and its associated components, which aligns with engineering practices that enhance software development and delivery processes.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server (TFS) and migrating it to a new domain. It provides detailed steps and warnings related to the upgrade process, which aligns with technical excellence in terms of ensuring a reliable and efficient upgrade. However, while it discusses specific technical practices, it lacks broader discussions on methodologies like TDD, CI/CD, or modular architecture, which are key themes of the category. Therefore, while it is relevant, it does not fully encompass the depth and breadth expected for a high confidence score in 'Technical Excellence'.",
     "level": "Secondary"
   },
   "Complexity Thinking": {

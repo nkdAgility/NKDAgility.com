@@ -27,9 +27,9 @@ aliasesArchive:
 - /blog/team-server-hmm-
 - /resources/blog/team-server-hmm
 tags:
+- Practical Techniques and Tooling
 - Modern Source Control
 - Application Lifecycle Management
-- Practical Techniques and Tooling
 - Products and Books
 - Software Development
 - Miscellaneous

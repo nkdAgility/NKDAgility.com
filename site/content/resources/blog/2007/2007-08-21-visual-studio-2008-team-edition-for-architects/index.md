@@ -24,7 +24,6 @@ aliasesArchive:
 - /resources/blog/visual-studio-2008-team-edition-for-architects
 tags:
 - Application Lifecycle Management
-- Software Development
 - Windows
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []

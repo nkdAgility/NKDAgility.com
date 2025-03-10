@@ -31,18 +31,17 @@ tags:
 - Agile Leadership
 - Agile Values and Principles
 - People and Process
-- Agile Product Management
 - Business Agility
 - Empirical Process Control
 - Evidence Based Leadership
 - Metrics and Learning
 - Ability to Innovate
 - Agile Frameworks
+- Agile Philosophy
 resourceTypes:
 - video
 categories:
 - Leadership
-- Social Technologies
 
 ---
 This is a great question, although I imagine I might pick up a bit of flack because of the hordes of people who love [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) and think of him as one of the most iconic leaders of the past century.

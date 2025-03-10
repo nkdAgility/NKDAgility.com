@@ -29,9 +29,9 @@ aliasesArchive:
 tags:
 - Azure DevOps
 - News and Reviews
-- Products and Books
 - Software Development
 - Practical Techniques and Tooling
+- Products and Books
 - Install and Configuration
 categories:
 - DevOps

@@ -31,12 +31,12 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Organisational Physics
 - Systems Thinking
 - Organisational Change
 - Organisational Culture
 - Sociotechnical Systems
 - Change Management
-- Organisational Physics
 - Complexity Thinking
 - Pragmatic Thinking
 resourceTypes:

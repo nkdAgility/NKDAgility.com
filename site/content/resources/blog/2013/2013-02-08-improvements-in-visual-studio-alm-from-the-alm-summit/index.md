@@ -30,9 +30,9 @@ tags:
 - Software Development
 - Azure DevOps
 - Operational Practices
-- Technical Excellence
 - Working Software
 - Events and Presentations
+- Technical Excellence
 categories:
 - Kanban
 - Engineering Excellence

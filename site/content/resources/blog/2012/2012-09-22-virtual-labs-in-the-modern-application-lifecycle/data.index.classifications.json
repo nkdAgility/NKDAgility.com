@@ -217,11 +217,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-14T17:05:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:53:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the challenges and solutions related to modern application development, focusing on the integration of virtual labs, automated testing, and deployment processes, which are key aspects of technical excellence in software engineering.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the complexities of modern application development and the role of virtual labs in addressing these challenges. It explicitly mentions automation, integration points, and the need for continuous delivery, which aligns well with the principles of Technical Excellence. The depth of discussion on problems faced by development and operations teams, as well as potential solutions, indicates a strong focus on engineering practices. However, while it touches on relevant topics, it does not delve deeply into specific methodologies like TDD or CI/CD, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Complexity Thinking": {

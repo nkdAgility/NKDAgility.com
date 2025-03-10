@@ -29,10 +29,10 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Troubleshooting
-- Azure DevOps
 - Software Development
 - System Configuration
 - Practical Techniques and Tooling
+- Azure DevOps
 categories:
 - Scrum
 preview: puzzle-issue-problem-128-link-2-2.png

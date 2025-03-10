@@ -31,8 +31,8 @@ tags:
 - Software Developers
 - Software Development
 - System Configuration
-- Technical Excellence
 - Technical Mastery
+- Troubleshooting
 categories:
 - Engineering Excellence
 

@@ -28,7 +28,6 @@ aliasesArchive:
 - /resources/blog/creating-a-better-tfs-sticky-buddy-core
 tags:
 - Software Development
-- Technical Mastery
 - Technical Excellence
 categories:
 - Engineering Excellence

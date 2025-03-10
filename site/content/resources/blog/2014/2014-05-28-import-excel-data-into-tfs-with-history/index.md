@@ -24,7 +24,6 @@ aliasesArchive:
 - /resources/blog/import-excel-data-into-tfs-with-history
 tags:
 - Practical Techniques and Tooling
-- Azure DevOps
 - Pragmatic Thinking
 - Technical Mastery
 - Install and Configuration

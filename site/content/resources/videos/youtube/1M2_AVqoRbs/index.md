@@ -26,6 +26,7 @@ isShort: true
 tags:
 - Technical Debt
 - Value Delivery
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

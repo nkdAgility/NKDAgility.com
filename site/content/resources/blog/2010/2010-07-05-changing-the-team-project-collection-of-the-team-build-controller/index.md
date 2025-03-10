@@ -25,13 +25,13 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - System Configuration
-- Azure DevOps
 - Continuous Integration
 - Operational Practices
 - Software Development
 - Technical Mastery
 - Troubleshooting
 - Practical Techniques and Tooling
+- Azure DevOps
 - Application Lifecycle Management
 preview: metro-SSWLogo-128-link-6-6.png
 categories:

@@ -33,11 +33,11 @@ tags:
 - Windows
 - System Configuration
 - Operational Practices
-- Practical Techniques and Tooling
 - Release Management
 - Software Development
 - Technical Mastery
 - Troubleshooting
+- Practical Techniques and Tooling
 - Pragmatic Thinking
 categories: []
 preview: metro-problem-icon-2-2.png

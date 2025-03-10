@@ -31,7 +31,6 @@ sitemap:
 tags:
 - Product Delivery
 - Agile Project Management
-- People and Process
 - Agile Frameworks
 - Agile Philosophy
 - Agile Planning
@@ -39,6 +38,7 @@ tags:
 - Agile Transformation
 - Scrum Product Development
 - Working Software
+- Agile Product Management
 resourceTypes:
 - video
 categories:

@@ -25,6 +25,7 @@ preview: https://i.ytimg.com/vi/Q2Fo3sM6BVo/maxresdefault.jpg
 duration: 891
 isShort: false
 tags:
+- Team Performance
 - Software Developers
 - Professional Scrum
 - Agile Frameworks

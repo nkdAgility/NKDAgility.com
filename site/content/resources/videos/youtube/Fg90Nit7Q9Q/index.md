@@ -40,7 +40,7 @@ resourceTypes:
 categories:
 - Social Technologies
 - Scrum
-- Engineering Excellence
+- DevOps
 
 ---
 ## Bridging DevOps & Software Engineering Through Scrum! 🔥

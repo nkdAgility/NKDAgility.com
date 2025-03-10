@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T11:07:21",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-10T14:45:17",
+    "ai_confidence": 92.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 95.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 30,
-    "final_score": 84.0,
-    "reasoning": "The content primarily discusses Evidence-Based Management, focusing on metrics, KPIs, and their application in organisational decision-making and performance evaluation.",
+    "final_score": 86.0,
+    "reasoning": "The content extensively discusses Evidence-Based Management (EBM), including its principles, the importance of accurate metrics, and the application of EBM in organisational contexts. It provides detailed insights into how EBM can guide decision-making and improve processes, aligning closely with the core themes of the category. The depth of discussion is significant, covering various aspects of EBM, including the use of KPIs and the integration of EBM with Agile methodologies.",
     "level": "Primary"
   },
   "Code and Complexity": {
@@ -205,12 +208,15 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:45:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses metrics and evidence-based management, which are relevant to Kanban principles, but the primary focus is on metrics and KPIs rather than Kanban methodology itself.",
-    "level": "Tertiary"
+    "final_score": 34.0,
+    "reasoning": "The content discusses metrics and evidence-based management, which are relevant to Kanban principles, particularly in terms of measuring flow and outcomes. However, it primarily focuses on general metrics and does not explicitly delve into Kanban practices such as visualisation of work or limiting WIP. The mention of Kanban is minimal and not a primary focus, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",

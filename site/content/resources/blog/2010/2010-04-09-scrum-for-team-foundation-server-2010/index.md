@@ -23,12 +23,12 @@ aliasesArchive:
 - /scrum-for-team-foundation-server-2010
 - /resources/blog/scrum-for-team-foundation-server-2010
 tags:
+- Events and Presentations
 - Scrum Product Development
 - Software Developers
 - Software Development
 - Agile Planning Tools
 - Agile Project Management
-- Events and Presentations
 - Product Delivery
 - Agile Frameworks
 - Agile Planning

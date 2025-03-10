@@ -35,7 +35,8 @@ tags:
 - Agile Project Management
 preview: metro-visual-studio-2010-128-link-8-8.png
 categories:
-- Social Technologies
+- Engineering Excellence
+- Scrum
 
 ---
 Well, it depends… If you are a small company that creates a finite number of internal projects then you will find it easier to create a single project for each of your products and have TFS do the heavy lifting with reporting, SharePoint sites and Version Control.

@@ -24,7 +24,6 @@ aliasesArchive:
 - /resources/blog/tfs-sticky-buddy-v2-0
 tags:
 - Technical Excellence
-- Code and Complexity
 - Working Software
 - Application Lifecycle Management
 - Software Development

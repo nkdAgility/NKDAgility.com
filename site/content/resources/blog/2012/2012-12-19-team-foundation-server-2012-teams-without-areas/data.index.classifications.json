@@ -703,11 +703,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-14T16:29:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:51:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the configuration of Team Foundation Server (TFS) to support teams without areas using a team field. It details steps on how to implement these configurations, which aligns with the processes and methodologies for system configuration.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on configuring Team Foundation Server (TFS) to use a 'team field' instead of areas, which directly relates to system configuration. It discusses specific steps for setting up global lists, modifying work item types, and changing configuration files, all of which are key aspects of system configuration. The depth of discussion is substantial, providing detailed instructions and warnings about best practices, which aligns well with the category's focus on configuration management and optimisation strategies.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1363,12 +1366,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:49:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:51:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of team fields in TFS, which relates to team dynamics and collaboration, but it primarily focuses on technical implementation rather than the core principles of Scrum, Kanban, Lean, or Agile practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the use of a team field in TFS, which relates to team dynamics and configuration but lacks a direct focus on Scrum, Kanban, Lean, or Agile methodologies. While it touches on aspects of team collaboration and configuration, it does not delve deeply into the principles or practices of the mentioned frameworks, resulting in a low confidence score for alignment with the Social Technologies category.",
+    "level": "Quaternary"
   },
   "Leadership": {
     "category": "Leadership",

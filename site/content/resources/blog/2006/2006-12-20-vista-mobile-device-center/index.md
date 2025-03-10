@@ -24,7 +24,6 @@ aliasesArchive:
 - /resources/blog/vista-mobile-device-center
 tags:
 - Windows
-- Troubleshooting
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

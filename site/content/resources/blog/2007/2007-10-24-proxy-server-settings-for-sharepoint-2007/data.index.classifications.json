@@ -373,11 +373,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T20:09:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:15:08",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical aspects of configuring proxy server settings for SharePoint 2007, which aligns directly with system configuration topics.",
+    "final_score": 74.0,
+    "reasoning": "The content explicitly discusses the configuration of proxy settings for SharePoint 2007, which is a direct application of system configuration principles. It provides specific examples of XML configuration snippets, detailing how to set up the proxy server, including parameters like 'useDefaultCredentials' and 'bypasslist'. This aligns well with the core themes of system configuration, such as best practices for software installation and configuration, and troubleshooting common configuration issues. The depth of discussion is significant, as it not only presents the configuration code but also explains its implications for authentication. Overall, the content is highly relevant to the category, with a strong focus on practical configuration details.",
     "level": "Secondary"
   },
   "Ability to Innovate": {

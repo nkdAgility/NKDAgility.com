@@ -27,7 +27,6 @@ aliasesArchive:
 - /blog/tfs-sticky-buddy-poc-(wpf)-release
 - /resources/blog/tfs-sticky-buddy-poc-wpf-release
 tags:
-- Software Development
 - Install and Configuration
 categories: []
 preview: metro-visual-studio-2005-128-link-2-1.png

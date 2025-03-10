@@ -28,6 +28,7 @@ tags:
 - Agile Frameworks
 - Software Development
 - Agile Product Management
+- People and Process
 categories:
 - Scrum
 - Social Technologies

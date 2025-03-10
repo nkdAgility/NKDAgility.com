@@ -35,15 +35,15 @@ tags:
 - Software Developers
 - Pragmatic Thinking
 - Market Adaptability
+- Organisational Agility
 - Working Software
 - Agile Philosophy
-- Agile Project Management
 resourceTypes:
 - video
 categories:
 - DevOps
-- Social Technologies
 - Engineering Excellence
+- Social Technologies
 
 ---
 How important is DevOps in continuous delivery of value to customers?

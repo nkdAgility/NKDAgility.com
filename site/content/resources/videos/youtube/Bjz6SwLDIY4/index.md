@@ -30,8 +30,8 @@ sitemap:
   priority: 0.6
 tags:
 - Business Agility
-- Resilience and Change
 - Organisational Agility
+- Resilience and Change
 - Organisational Change
 - People and Process
 - Change Management

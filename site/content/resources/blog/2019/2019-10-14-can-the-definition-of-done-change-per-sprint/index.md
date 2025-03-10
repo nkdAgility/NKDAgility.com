@@ -31,14 +31,15 @@ tags:
 - Definition of Done
 - Increment
 - People and Process
+- Product Delivery
 - Scrum Product Development
 - Agile Project Management
 - Scrum Team
-- Product Delivery
 - Professional Scrum
 - Scrum Master
 categories:
 - Scrum
+- Social Technologies
 preview: 20190906_152025-2-2.gif
 
 ---

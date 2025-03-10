@@ -25,11 +25,11 @@ duration: 600
 isShort: false
 tags:
 - Code and Complexity
+- Engineering Practices
 - Technical Excellence
 - Value Delivery
 - Product Delivery
 - Working Software
-- Engineering Practices
 - Technical Debt
 - Operational Practices
 - Technical Mastery

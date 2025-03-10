@@ -28,6 +28,7 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Software Development
 - Agile Philosophy
 - Agile Project Management
 - Empirical Process Control
@@ -36,7 +37,6 @@ tags:
 - Pragmatic Thinking
 - Agile Values and Principles
 - Sensemaking
-- Software Development
 resourceTypes:
 - video
 layout: video

@@ -580,12 +580,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T19:46:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:13:01",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a proof of concept release related to Team Foundation Server and Windows Presentation Foundation, which are both tools used in software development. The focus on the application's development and its system requirements aligns closely with software engineering practices.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses a proof of concept release for a software application built using WPF, which aligns with software development practices. However, it lacks detailed discussions on methodologies, best practices, or frameworks, focusing instead on the release and usage of a specific application. The mention of system requirements and installation does not delve into broader software development concepts, resulting in a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",

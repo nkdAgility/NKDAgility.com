@@ -217,11 +217,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T22:20:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:00:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical processes involved in upgrading Team Foundation Server and SharePoint, including specific methodologies and practices that enhance software development and delivery, such as migration strategies and integration techniques.",
+    "final_score": 65.0,
+    "reasoning": "The content provides a detailed guide on upgrading from TFS 2008 to TFS 2010, focusing on technical processes and methodologies. It discusses specific engineering practices such as data migration, process template upgrades, and integration with SharePoint, which are all relevant to technical excellence. The depth of discussion is significant, with step-by-step instructions and code snippets, demonstrating a strong alignment with the principles of technical excellence in software development. However, while it touches on technical practices, it does not explicitly discuss broader concepts like TDD or CI/CD, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -1363,11 +1366,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:56:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:59:57",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the upgrade process of Scrum for Team System templates, which is a key aspect of Agile methodologies and aligns with the principles of Scrum.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the upgrade process of Team Foundation Server and SharePoint, with specific references to the Scrum for Team System (SfTS) process template. It discusses the migration from SfTSv2 to SfTSv3, which aligns with Agile practices. The mention of Scrum roles and templates indicates a strong connection to the category of Social Technologies, particularly in the context of Agile methodologies. However, the content is more technical and procedural rather than a broad discussion on the principles of Scrum or Agile, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Leadership": {

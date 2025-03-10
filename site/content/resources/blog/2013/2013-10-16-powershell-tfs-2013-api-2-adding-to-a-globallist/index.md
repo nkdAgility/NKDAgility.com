@@ -33,8 +33,8 @@ tags:
 - Technical Mastery
 - Software Development
 - System Configuration
-- Technical Excellence
 - Install and Configuration
+- Technical Excellence
 categories:
 - Engineering Excellence
 preview: metro-powershell-logo-1-1.png

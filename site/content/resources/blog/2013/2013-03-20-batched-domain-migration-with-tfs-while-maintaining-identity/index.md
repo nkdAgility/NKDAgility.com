@@ -30,9 +30,9 @@ tags:
 - Operational Practices
 - Software Development
 - System Configuration
-- Technical Excellence
 - Technical Mastery
 - Troubleshooting
+- Technical Excellence
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-5-5.png

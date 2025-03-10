@@ -26,6 +26,7 @@ preview: https://i.ytimg.com/vi/wNgfCTE7C6M/maxresdefault.jpg
 duration: 371
 isShort: false
 tags:
+- Pragmatic Thinking
 - People and Process
 - Agile Project Management
 - Software Developers

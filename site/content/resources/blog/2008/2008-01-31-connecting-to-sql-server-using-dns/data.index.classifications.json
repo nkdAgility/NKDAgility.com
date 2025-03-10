@@ -949,12 +949,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T19:06:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:13:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses technical details and best practices for connecting to SQL Server using DNS, including service configuration and authentication methodologies, aligning well with the technical mastery focus.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on connecting to SQL Server using DNS, which is a specific technical task. While it does touch on aspects of technical implementation, such as the setup of SPNs and the SQL Server Browser service, it lacks a broader discussion on software craftsmanship, best practices, or principles of clean code. The depth of discussion is moderate, providing practical steps and commands, but it does not delve into methodologies or principles that would elevate it to a discussion of technical mastery.",
+    "level": "Quaternary"
   },
   "Remote Working": {
     "category": "Remote Working",

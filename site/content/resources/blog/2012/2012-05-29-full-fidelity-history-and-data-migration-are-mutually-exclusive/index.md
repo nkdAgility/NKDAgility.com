@@ -23,8 +23,8 @@ aliasesArchive:
 - /full-fidelity-history-and-data-migration-are-mutually-exclusive
 - /resources/blog/full-fidelity-history-and-data-migration-are-mutually-exclusive
 tags:
-- Application Lifecycle Management
 - Software Development
+- Application Lifecycle Management
 - Decision Making
 - Pragmatic Thinking
 - Technical Mastery

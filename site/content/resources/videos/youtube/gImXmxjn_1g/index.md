@@ -28,6 +28,7 @@ preview: https://i.ytimg.com/vi/gImXmxjn_1g/maxresdefault.jpg
 duration: 376
 isShort: false
 tags:
+- People and Process
 - Pragmatic Thinking
 - Team Collaboration
 sitemap:

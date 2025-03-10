@@ -28,6 +28,7 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Agile Frameworks
 resourceTypes:
 - video
 layout: video

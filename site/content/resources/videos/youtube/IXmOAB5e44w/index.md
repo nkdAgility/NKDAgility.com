@@ -27,11 +27,11 @@ duration: 147
 isShort: false
 tags:
 - People and Process
+- Miscellaneous
 - Discovery and Learning
 - Continuous Learning
 - Customer Retention
 - Employee Engagement
-- Miscellaneous
 - Software Development
 - Team Collaboration
 - Team Motivation

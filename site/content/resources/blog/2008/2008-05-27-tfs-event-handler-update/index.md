@@ -25,7 +25,6 @@ aliasesArchive:
 tags:
 - News and Reviews
 - Practical Techniques and Tooling
-- Release Management
 - Working Software
 - Application Lifecycle Management
 - Frequent Releases

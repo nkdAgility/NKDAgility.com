@@ -244,11 +244,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-16T01:22:26",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T15:04:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses build processes and testing strategies, which are relevant to product delivery, but it primarily focuses on technical implementation rather than broader methodologies or practices.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of build servers and outlines a structured approach to setting up builds for a team project, which aligns with the methodologies of product delivery. It provides specific details on different types of builds (Gate, CI, Nightly) and their purposes, which reflects an understanding of testing and quality assurance practices. However, while it touches on deployment aspects, it lacks broader discussions on planning, iterative development, and cross-functional team roles, which limits its overall depth in the context of product delivery.",
     "level": "Secondary"
   },
   "Beta Codex": {

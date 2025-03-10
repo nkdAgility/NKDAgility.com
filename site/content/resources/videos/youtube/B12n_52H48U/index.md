@@ -39,8 +39,8 @@ tags:
 - Agile Product Management
 - Decision Theory
 - Market Adaptability
+- Organisational Agility
 - Scrum Product Development
-- Accountability
 resourceTypes:
 - video
 categories:

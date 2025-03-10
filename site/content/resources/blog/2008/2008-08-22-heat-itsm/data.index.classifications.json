@@ -76,12 +76,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:10:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Heat ITSM with TFS, which relates to automation and workflow management, but it primarily focuses on specific tools rather than broader DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the integration of Heat ITSM with TFS, which touches on aspects of automation and tool integration relevant to DevOps. However, it lacks a broader discussion on DevOps principles, cultural shifts, or metrics, making it more of a technical implementation rather than a comprehensive exploration of DevOps practices.",
+    "level": "Quaternary"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -121,11 +124,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T12:14:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:11:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the integration of Heat ITSM with Team Foundation Server (TFS), detailing practical techniques for syncing support calls and creating work items, which aligns with the exploration and application of tools in Agile and DevOps practices.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the use of Heat ITSM and TFS (Team Foundation Server) for managing support calls and syncing items between systems, which directly relates to practical tooling in Agile and DevOps contexts. It provides specific examples of how to implement these tools, including the use of an Event Handler to automate updates, which aligns well with the category's focus on practical techniques. The depth of discussion includes references to application development and refactoring, indicating a hands-on approach to tooling. However, while the content is relevant, it could benefit from more detailed exploration of methodologies or frameworks to fully meet the category's criteria.",
     "level": "Secondary"
   },
   "Value Stream Management": {

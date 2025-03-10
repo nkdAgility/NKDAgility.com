@@ -97,12 +97,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:51:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:22:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implementation of TFS and its importance for managing a large development team, which relates to engineering practices and methodologies. However, the focus is more on the logistical and financial aspects rather than specific technical excellence practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the implementation of TFS (Team Foundation Server) and its importance for managing a large development team, which touches on aspects of technical excellence such as the need for a comprehensive solution for the development life cycle. However, it lacks a direct focus on specific engineering practices or methodologies like TDD or CI/CD, and the discussion is more about the logistical and financial implications rather than technical practices that enhance agility or quality.",
+    "level": "Quaternary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1063,12 +1066,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T11:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:22:17",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implementation of Team Foundation Server (TFS) and its importance for effective software development, touching on aspects of engineering processes and the need for a complete solution in the development life cycle, but does not delve deeply into best practices or specific methodologies related to engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the implementation of TFS (Team Foundation Server) and its importance for managing a large development team, which touches on aspects of engineering excellence such as the need for a comprehensive solution in the development lifecycle. However, the primary focus is on project management and logistical challenges rather than on software craftsmanship or best practices in coding and quality assurance. The discussion lacks depth in terms of specific engineering practices and does not provide detailed insights into continuous improvement or metrics for assessing engineering performance.",
+    "level": "Quaternary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",

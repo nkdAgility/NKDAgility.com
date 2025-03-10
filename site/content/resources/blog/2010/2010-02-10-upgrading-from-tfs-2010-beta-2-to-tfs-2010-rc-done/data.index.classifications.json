@@ -352,12 +352,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T01:36:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:05:07",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS), which is a tool used in Application Lifecycle Management. It details steps involved in managing the lifecycle of a software application, including installation and configuration, which aligns with the key topics of ALM.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the upgrade process of TFS 2010, which is related to the application lifecycle, particularly in the deployment and maintenance stages. However, it lacks a comprehensive exploration of ALM methodologies, best practices, or tools beyond the specific upgrade steps. While it mentions ALM in the context of Visual Studio, the focus is primarily on the technical upgrade process rather than a broader discussion of application lifecycle management principles.",
+    "level": "Tertiary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",

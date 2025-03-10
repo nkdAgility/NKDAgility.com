@@ -28,13 +28,13 @@ tags:
 - Events and Presentations
 - People and Process
 - Software Developers
-- Software Development
 - Agile Philosophy
+- Software Development
 - Organisational Culture
 categories:
 - Social Technologies
 - Engineering Excellence
-- Scrum
+- Leadership
 preview: clip_image001-2-2.png
 
 ---

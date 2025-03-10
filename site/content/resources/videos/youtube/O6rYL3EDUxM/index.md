@@ -35,16 +35,16 @@ tags:
 - Agile Leadership
 - Agile Product Operating Model
 - Agile Values and Principles
-- Business Agility
 - People and Process
 - Working Software
 - Agile Frameworks
 - Agile Philosophy
+- Agile Planning
 resourceTypes:
 - video
 categories:
-- Scrum
 - Social Technologies
+- Scrum
 - Leadership
 
 ---

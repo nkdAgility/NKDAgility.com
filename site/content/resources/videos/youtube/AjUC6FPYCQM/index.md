@@ -33,6 +33,7 @@ tags:
 - Agile Project Management
 - Agile Transformation
 - Software Developers
+- Pragmatic Thinking
 - Scrum Master
 sitemap:
   filename: sitemap.xml

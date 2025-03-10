@@ -30,7 +30,6 @@ tags:
 - Install and Configuration
 - Windows
 - System Configuration
-- Technical Mastery
 - Troubleshooting
 categories: []
 preview: nakedalm-logo-128-link-1-1.png

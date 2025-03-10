@@ -35,8 +35,8 @@ tags:
 - Software Development
 - Mentoring
 - Personal
-- Practical Techniques and Tooling
 - Product Delivery
+- Practical Techniques and Tooling
 categories:
 - Social Technologies
 - Scrum

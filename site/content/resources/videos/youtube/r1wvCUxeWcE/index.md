@@ -29,10 +29,10 @@ tags:
 - Practical Techniques and Tooling
 - Software Development
 - Lean Principles
+- Pragmatic Thinking
 - Agile Frameworks
 - Agile Project Management
 - Lean Thinking
-- Pragmatic Thinking
 - Flow Efficiency
 sitemap:
   filename: sitemap.xml

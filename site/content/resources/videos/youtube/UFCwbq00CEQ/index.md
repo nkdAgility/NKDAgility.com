@@ -28,6 +28,7 @@ tags:
 - Team Motivation
 - People and Process
 - Agile Philosophy
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

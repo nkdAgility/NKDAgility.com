@@ -124,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:49:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses features of Team Foundation Server 2013 that relate to Agile Portfolio Management and team collaboration, which are relevant to DevOps practices, but the primary focus is on the software and its features rather than on DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses features of Visual Studio 2013 and Team Foundation Server, focusing on Agile Portfolio Management, team collaboration, and testing capabilities. While these topics touch on aspects of DevOps, such as collaboration and continuous delivery, they do not explicitly address core DevOps principles or practices. The discussion lacks depth in terms of DevOps-specific metrics, automation, or cultural shifts, leading to a low confidence score in alignment with the DevOps category.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -241,11 +244,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-15T18:27:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:49:12",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses new features in Team Foundation Server 2013 that enhance Agile methodologies, team collaboration, and testing practices, all of which are central to effective product delivery.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses several key aspects of product delivery, particularly focusing on Agile methodologies, team collaboration, and testing practices within the context of Team Foundation Server 2013. It explicitly mentions Agile Portfolio Management, team collaboration features, and testing capabilities, which are all relevant to the product delivery process. The depth of discussion is substantial, providing detailed insights into how these features enhance the delivery of software products. However, while the content is rich in relevant topics, it primarily serves as an overview of new features rather than a comprehensive guide on product delivery methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Beta Codex": {

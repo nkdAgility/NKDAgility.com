@@ -30,9 +30,9 @@ aliasesArchive:
 - /resources/blog/sharepoint-content-request-what-would-you-like-to-see
 categories: []
 tags:
+- Miscellaneous
 - Practical Techniques and Tooling
 - Application Lifecycle Management
-- Miscellaneous
 - Software Development
 
 ---

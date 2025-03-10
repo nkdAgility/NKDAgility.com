@@ -27,9 +27,9 @@ aliasesArchive:
 - /blog/are-scrum-masters-agents-for-change-
 - /resources/blog/are-scrum-masters-agents-for-change
 tags:
+- Agile Project Management
 - Professional Scrum
 - Scrum Master
-- Agile Project Management
 - Organisational Change
 - Agile Frameworks
 - Agile Transformation

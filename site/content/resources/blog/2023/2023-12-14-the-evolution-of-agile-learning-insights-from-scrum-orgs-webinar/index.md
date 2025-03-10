@@ -30,9 +30,9 @@ aliasesArchive:
 tags:
 - Discovery and Learning
 - Events and Presentations
+- People and Process
 - Change Management
 - Continuous Learning
-- People and Process
 - Agile Frameworks
 - Pragmatic Thinking
 - Coaching

@@ -33,8 +33,8 @@ tags:
 - Practical Techniques and Tooling
 - Operational Practices
 - Strategy
-- Team Collaboration
 - Agile Frameworks
+- Team Collaboration
 - Agile Project Management
 - Lean Thinking
 - People and Process

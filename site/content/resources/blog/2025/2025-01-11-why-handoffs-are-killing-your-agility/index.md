@@ -30,8 +30,8 @@ tags:
 - Team Collaboration
 - Value Delivery
 categories:
-- Engineering Excellence
 - Social Technologies
+- Engineering Excellence
 - DevOps
 preview: 2025-01-11-why-handoffs-are-killing-your-agility.jpg
 

@@ -43,12 +43,15 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T22:46:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:19:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a product owner in a Scrum context, highlighting the impact of their actions on team dynamics and accountability, which relates to leadership practices. However, it primarily focuses on a specific incident rather than broader leadership strategies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific negative experience involving a product owner during a Sprint review, highlighting a failure in leadership and support for the development team. While it touches on leadership dynamics, it primarily focuses on a single incident rather than broader leadership strategies or frameworks. The direct mention of the product owner's actions provides some relevance, but the overall discussion lacks depth and does not explore the core themes of effective leadership in an Agile context.",
+    "level": "Quaternary"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -193,12 +196,15 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-17T22:47:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:19:27",
+    "ai_confidence": 68.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific incident during a Sprint Review, highlighting the roles of the product owner and stakeholders, but it primarily focuses on a negative experience rather than the overall purpose or best practices of the Sprint Review.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content explicitly discusses a negative experience during a Sprint Review, highlighting the roles of the product owner and stakeholders. While it mentions the Sprint Review directly, the focus is more on a specific incident rather than a comprehensive exploration of the Sprint Review process or best practices. The alignment with the core themes is moderate, as it touches on stakeholder engagement but lacks depth in discussing the overall purpose and techniques for effective Sprint Reviews.",
+    "level": "Secondary"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",

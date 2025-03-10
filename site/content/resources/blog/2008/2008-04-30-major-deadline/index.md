@@ -23,9 +23,9 @@ aliasesArchive:
 - /major-deadline
 - /resources/blog/major-deadline
 tags:
-- Software Development
 - Troubleshooting
 - Pragmatic Thinking
+- Software Development
 - Digital Transformation
 - Technical Mastery
 categories: []

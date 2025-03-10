@@ -28,10 +28,10 @@ tags:
 - Metrics and Learning
 - Strategy
 - Transparency
+- Pragmatic Thinking
 - Agile Frameworks
 - Agile Project Management
 - Operational Practices
-- Pragmatic Thinking
 - Flow Efficiency
 - Practical Techniques and Tooling
 - Value Delivery

@@ -30,11 +30,11 @@ tags:
 - Scrum Product Development
 - Agile Product Operating Model
 - Agile Planning
-- Agile Project Management
 - Product Backlog
 - Agile Product Management
 - Product Delivery
 - Product Owner
+- Agile Project Management
 
 ---
 Value-based Prioritization: Focus on delivering value to the stakeholders. The product backlog is prioritized based on the value it delivers, and the Scrum team works on the highest-priority items first.

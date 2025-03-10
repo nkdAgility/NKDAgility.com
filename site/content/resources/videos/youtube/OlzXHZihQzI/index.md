@@ -32,8 +32,8 @@ sitemap:
 tags:
 - Discovery and Learning
 - Continuous Learning
-- People and Process
 - Organisational Agility
+- People and Process
 resourceTypes:
 - video
 categories:

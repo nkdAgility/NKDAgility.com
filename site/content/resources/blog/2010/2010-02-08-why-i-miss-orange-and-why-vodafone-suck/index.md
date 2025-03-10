@@ -27,7 +27,6 @@ aliasesArchive:
 - /blog/why-i-miss-orange-and-why-vodafone-suck-
 - /resources/blog/why-i-miss-orange-and-why-vodafone-suck
 tags:
-- Customer Satisfaction
 - Miscellaneous
 categories: []
 preview: nakedalm-logo-128-link-2-2.png

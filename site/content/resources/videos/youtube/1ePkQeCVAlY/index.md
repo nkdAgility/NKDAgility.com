@@ -31,12 +31,12 @@ tags:
 - People and Process
 - Value Delivery
 - Value Stream Management
-- Complexity Thinking
 - Lean Principles
 - Lean Thinking
 - Operational Practices
 - Organisational Physics
 - Pragmatic Thinking
+- Complexity Thinking
 resourceTypes:
 - video
 layout: video

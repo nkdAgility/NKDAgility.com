@@ -34,11 +34,11 @@ tags:
 - Throughput
 - Flow Efficiency
 - Agile Project Management
-- Cycle Time
 - Software Developers
 - Metrics and Learning
 - Pragmatic Thinking
 - Software Development
+- Cycle Time
 - Agile Product Management
 resourceTypes:
 - video

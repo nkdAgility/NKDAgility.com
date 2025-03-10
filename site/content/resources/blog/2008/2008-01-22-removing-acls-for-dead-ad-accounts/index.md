@@ -27,8 +27,8 @@ aliasesArchive:
 - /blog/removing-acl's-for-dead-ad-accounts
 - /resources/blog/removing-acls-for-dead-ad-accounts
 tags:
-- Windows
 - System Configuration
+- Windows
 - Software Development
 - Troubleshooting
 categories: []

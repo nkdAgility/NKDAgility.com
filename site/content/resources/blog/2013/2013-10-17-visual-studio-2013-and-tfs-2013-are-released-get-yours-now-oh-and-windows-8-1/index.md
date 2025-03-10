@@ -33,9 +33,9 @@ aliasesArchive:
 tags:
 - Windows
 - News and Reviews
-- Products and Books
 - System Configuration
 - Software Development
+- Products and Books
 - Install and Configuration
 - Practical Techniques and Tooling
 - Application Lifecycle Management

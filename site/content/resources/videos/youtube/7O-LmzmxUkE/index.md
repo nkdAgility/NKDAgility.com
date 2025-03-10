@@ -30,13 +30,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Professional Scrum
 - Scrum Product Development
 - Transparency
 - Empirical Process Control
 - People and Process
 - Daily Scrum
 - Scrum Team
-- Professional Scrum
 - Scrum Master
 - Software Developers
 - Team Collaboration

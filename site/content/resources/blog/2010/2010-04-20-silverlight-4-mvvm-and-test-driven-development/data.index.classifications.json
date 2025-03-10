@@ -1351,12 +1351,15 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T10:28:56",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T15:03:30",
+    "ai_confidence": 42.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses building test-driven programs and mentions TDD concepts like Refactoring. However, it is primarily focused on a talk about Silverlight and MVVM, making TDD a significant but secondary theme.",
-    "level": "Secondary"
+    "final_score": 39.0,
+    "reasoning": "The content mentions Test-Driven Development (TDD) in the context of a talk about MVVM and Silverlight, indicating a focus on TDD principles. However, the discussion lacks depth and specific details about TDD practices, such as the Red-Green-Refactor cycle or writing unit tests before code implementation. The primary focus seems to be on the event and speaker rather than a thorough exploration of TDD itself.",
+    "level": "Quaternary"
   },
   "Social Technologies": {
     "category": "Social Technologies",

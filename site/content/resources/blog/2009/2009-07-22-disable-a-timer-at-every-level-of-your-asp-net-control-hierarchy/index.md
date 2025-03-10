@@ -23,7 +23,6 @@ aliasesArchive:
 - /disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy
 - /resources/blog/disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy
 tags:
-- Troubleshooting
 - Software Development
 categories: []
 preview: metro-binary-vb-128-link-1-1.png

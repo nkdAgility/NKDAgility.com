@@ -289,12 +289,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T19:49:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:54:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 55.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses an issue related to the TFS Integration Platform, which is part of Azure DevOps, and provides a solution involving Azure DevOps service accounts.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific issue related to the TFS Integration Platform, which is part of the Azure DevOps suite. It provides a detailed explanation of a permission error encountered when using TFS WIT bypass-rule submission, including a solution involving command-line tools. While it does not explicitly mention Azure DevOps frequently, it is focused on a tool within the Azure DevOps ecosystem, thus aligning with the category. However, the discussion lacks broader context on Azure DevOps functionalities and best practices, which affects the overall depth and alignment scores.",
+    "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",

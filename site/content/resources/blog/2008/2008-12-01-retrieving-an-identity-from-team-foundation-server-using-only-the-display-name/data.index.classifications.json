@@ -286,11 +286,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-16T10:56:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:08:50",
+    "ai_confidence": 78.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses retrieving identities from Team Foundation Server (TFS), which is a component of Azure DevOps, and includes specific methods and services related to TFS. It focuses on practical implementation details relevant to Azure DevOps functionalities.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses retrieving identities from Team Foundation Server (TFS), which is a component of Azure DevOps. It provides detailed technical information about using TFS services, including code snippets and methods related to identity retrieval. The discussion aligns well with Azure DevOps functionalities, particularly in the context of managing work items and user identities. However, while it is focused on TFS, it does not cover broader Azure DevOps services or methodologies, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {

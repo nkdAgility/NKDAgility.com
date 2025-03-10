@@ -27,13 +27,13 @@ tags:
 - Complexity Thinking
 - Discovery and Learning
 - Enterprise Agility
+- Market Adaptability
 - Decision Making
 - Resilience and Change
 - Decision Theory
 - People and Process
 - Ability to Innovate
 - Agile Project Management
-- Agile Values and Principles
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -34,9 +34,9 @@ tags:
 - Agile Frameworks
 - Agile Planning
 - Agile Product Management
-- Product Delivery
 - Professional Scrum
 - Team Collaboration
+- Software Developers
 categories:
 - Scrum
 preview: metro-sharepoint-128-link-1-1.png

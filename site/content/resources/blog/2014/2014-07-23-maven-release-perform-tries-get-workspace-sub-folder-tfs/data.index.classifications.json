@@ -1057,11 +1057,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T09:57:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:43:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses technical issues related to configuring Maven build processes and integrating with TFS, along with best practices and problem-solving strategies for system configuration in a CI/CD environment.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses issues related to configuring Maven with TFS, including specific command line parameters and workspace management. It provides detailed insights into the configuration challenges faced during the transition from SVN to TFS, which aligns well with the category of System Configuration. The discussion includes best practices for build environments, workspace management, and the implications of multiple users and builds, all of which are relevant to system configuration. However, while the content is rich in practical examples, it occasionally veers into personal opinions and experiences, which slightly detracts from its focus on technical configuration aspects.",
     "level": "Secondary"
   },
   "Product Strategy": {

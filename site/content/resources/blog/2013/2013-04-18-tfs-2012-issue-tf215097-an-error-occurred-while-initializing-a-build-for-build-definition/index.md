@@ -32,7 +32,6 @@ tags:
 - Continuous Integration
 - Software Development
 - System Configuration
-- Technical Excellence
 - Troubleshooting
 - Windows
 - Practical Techniques and Tooling

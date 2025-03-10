@@ -35,8 +35,8 @@ tags:
 - Team Motivation
 - Organisational Culture
 - Agile Leadership
-- Agile Project Management
 - Decision Making
+- Agile Project Management
 - Team Performance
 resourceTypes:
 - video

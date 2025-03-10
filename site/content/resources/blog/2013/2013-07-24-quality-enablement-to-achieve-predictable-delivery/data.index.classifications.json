@@ -34,11 +34,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T18:00:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:48:00",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the importance of defining quality metrics and acceptance criteria to improve predictability in software delivery, aligning with the principles of Evidence-Based Management.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of quality enablement in achieving predictable delivery, which aligns with the principles of Evidence-Based Management by emphasising the need for empirical measures such as Definition of Done and Acceptance Criteria. It highlights the necessity of quantifying quality to improve predictability, which is a core theme of EBM. The depth of discussion on specific practices and their impact on organisational performance further supports its relevance to EBM, although it does not explicitly mention EBM or its founders, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Code and Complexity": {
@@ -1255,12 +1258,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:47:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content primarily focuses on quality enablement and software delivery processes, it discusses the role of acceptance criteria and the Definition of Done in the context of product management, which aligns with balancing stakeholder interests and identifying customer needs.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of quality in software delivery, which is a critical aspect of product management. It addresses the need for clear definitions and acceptance criteria, aligning with the strategic aspects of product management. However, the focus is more on technical implementation details rather than broader product management strategies, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",

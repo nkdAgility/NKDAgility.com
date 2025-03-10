@@ -33,7 +33,6 @@ resourceTypes:
 - video
 categories:
 - DevOps
-- Leadership
 
 ---
 ## DevOps & Agile: Two Sides of the Same Coin 🪙

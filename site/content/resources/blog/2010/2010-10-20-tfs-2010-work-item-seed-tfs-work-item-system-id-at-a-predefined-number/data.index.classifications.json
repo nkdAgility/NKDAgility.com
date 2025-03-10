@@ -214,12 +214,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T00:09:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:01:42",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a technical solution for managing work item IDs in TFS, including the use of APIs and coding practices, which aligns with engineering practices that enhance software development processes.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content primarily focuses on a technical solution for managing work item IDs in TFS, which involves coding practices and API usage. While it does not explicitly mention concepts like TDD or CI/CD, it demonstrates a technical approach to a specific problem, showcasing coding techniques and the use of APIs. However, the discussion lacks depth in broader engineering practices and methodologies that enhance agility, which limits its alignment with the category of Technical Excellence.",
+    "level": "Tertiary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",

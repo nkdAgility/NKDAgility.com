@@ -31,9 +31,9 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Transparency and Accountability
 - Agile Values and Principles
 - Customer Satisfaction
-- Transparency and Accountability
 - Agile Philosophy
 - Miscellaneous
 - Personal

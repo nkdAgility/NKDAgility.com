@@ -27,7 +27,6 @@ tags:
 - Install and Configuration
 - Practical Techniques and Tooling
 - System Configuration
-- Technical Mastery
 categories: []
 preview: metro-pagelines-11-11.png
 

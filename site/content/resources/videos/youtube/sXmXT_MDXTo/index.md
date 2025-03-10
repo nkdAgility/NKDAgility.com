@@ -30,12 +30,12 @@ sitemap:
   priority: 0.6
 tags:
 - Pragmatic Thinking
-- People and Process
 - Software Developers
 - Software Development
 - Deployment Frequency
 - Deployment Strategies
 - Operational Practices
+- People and Process
 - Product Delivery
 - Technical Mastery
 - Value Delivery

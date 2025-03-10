@@ -36,7 +36,7 @@ tags:
 categories:
 - Engineering Excellence
 - DevOps
-- Scrum
+- Product Management
 preview: nakedalm-experts-professional-scrum-2-2.png
 
 ---

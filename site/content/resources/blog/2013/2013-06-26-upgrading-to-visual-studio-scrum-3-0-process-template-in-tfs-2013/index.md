@@ -27,12 +27,12 @@ tags:
 - Practical Techniques and Tooling
 - Agile Project Management
 - Agile Frameworks
-- Products and Books
 - System Configuration
 - Azure DevOps
 - Operational Practices
 - Pragmatic Thinking
 - Software Developers
+- Software Development
 categories:
 - Scrum
 - Social Technologies

@@ -217,11 +217,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T00:08:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:42:40",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses challenges and solutions related to configuring a build server, which aligns with Continuous Integration practices. It highlights the importance of automated builds and the technical issues encountered, making it a significant focus of the discussion.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses challenges faced during the configuration of a CI build server, which aligns with the principles of Continuous Integration and Continuous Delivery (CI/CD). However, the focus is primarily on specific issues encountered rather than a broader discussion of engineering practices or methodologies that enhance agility. While it touches on the importance of automated builds and the need for proper component management, it lacks depth in exploring how these practices contribute to technical excellence. The mention of CI builds is present but not the primary focus, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Complexity Thinking": {

@@ -33,10 +33,10 @@ tags:
 - Pragmatic Thinking
 - Software Development
 - System Configuration
-- Technical Excellence
 - Troubleshooting
 - Practical Techniques and Tooling
 - Release Management
+- Technical Excellence
 categories:
 - DevOps
 - Engineering Excellence

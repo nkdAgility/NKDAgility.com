@@ -25,7 +25,6 @@ aliasesArchive:
 tags:
 - Modern Source Control
 - Software Development
-- System Configuration
 - Troubleshooting
 - Install and Configuration
 - Practical Techniques and Tooling

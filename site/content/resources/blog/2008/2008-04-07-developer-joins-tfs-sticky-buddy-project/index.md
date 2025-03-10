@@ -24,7 +24,6 @@ aliasesArchive:
 - /resources/blog/developer-joins-tfs-sticky-buddy-project
 tags:
 - News and Reviews
-- People and Process
 - Software Development
 categories: []
 

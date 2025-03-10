@@ -25,9 +25,9 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 - Azure Boards
-- Azure DevOps
 - Software Development
 - Install and Configuration
+- Azure DevOps
 categories: []
 
 ---

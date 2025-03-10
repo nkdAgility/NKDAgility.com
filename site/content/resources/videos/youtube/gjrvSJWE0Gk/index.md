@@ -31,9 +31,9 @@ tags:
 - Metrics and Learning
 - Forecasting
 - Operational Practices
-- Pragmatic Thinking
 - Practical Techniques and Tooling
 - Value Delivery
+- Pragmatic Thinking
 - Decision Making
 - Estimation
 resourceTypes:

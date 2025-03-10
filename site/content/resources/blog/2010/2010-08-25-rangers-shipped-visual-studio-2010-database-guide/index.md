@@ -24,9 +24,9 @@ aliasesArchive:
 - /resources/blog/rangers-shipped-visual-studio-2010-database-guide
 tags:
 - Practical Techniques and Tooling
+- Products and Books
 - Modern Source Control
 - Application Lifecycle Management
-- Products and Books
 - Technical Mastery
 - Install and Configuration
 - Software Development

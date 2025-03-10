@@ -307,11 +307,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:13:37",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-10T15:19:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses creating a service factory and accessing services, but it does not primarily focus on DevOps principles, practices, or tools. It lacks a clear connection to DevOps themes such as CI/CD, automation, or collaboration between development and operations.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses creating a managed service factory and accessing services, which touches on aspects of service management and potentially automation. However, it lacks explicit references to DevOps principles, practices, or cultural shifts. The focus is more on technical implementation rather than the broader DevOps context, resulting in a low confidence score.",
     "level": "Quaternary"
   },
   "Technical Excellence": {
@@ -949,11 +952,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T08:18:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:19:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a technical solution for creating a managed service factory, detailing software design patterns and implementation approaches which align well with principles of software craftsmanship and engineering practices.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the creation of a managed service factory, which involves software design and architecture principles. It touches on the implementation of interfaces and service management, aligning with technical mastery concepts. However, the discussion lacks depth in best practices and methodologies, focusing more on a specific implementation rather than broader engineering principles.",
     "level": "Secondary"
   },
   "Remote Working": {

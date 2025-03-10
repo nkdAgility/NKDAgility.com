@@ -27,8 +27,8 @@ aliasesArchive:
 - /blogging-about
 - /resources/blog/blogging-about
 tags:
-- Personal
 - Miscellaneous
+- Personal
 categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 

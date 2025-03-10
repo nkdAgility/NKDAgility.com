@@ -29,16 +29,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Discovery and Learning
-- Mentoring
 - People and Process
-- Agile Philosophy
-- Continuous Learning
-- Agile Frameworks
-- Agile Project Management
-- Agile Transformation
-- Coaching
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

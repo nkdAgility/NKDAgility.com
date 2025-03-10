@@ -35,8 +35,8 @@ tags:
 - People and Process
 - Organisational Culture
 categories:
-- Leadership
 - Social Technologies
+- Leadership
 - Product Management
 preview: naked-agility-with-martin-hinshelwood-iceberg-11-10.jpg
 

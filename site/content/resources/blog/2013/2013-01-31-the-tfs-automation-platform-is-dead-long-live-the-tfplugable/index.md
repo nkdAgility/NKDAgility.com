@@ -31,19 +31,19 @@ aliasesArchive:
 - /blog/the-tfs-automation-platform-is-dead--long-live-the-tfplugable
 - /resources/blog/the-tfs-automation-platform-is-dead-long-live-the-tfplugable
 tags:
-- Install and Configuration
 - Application Lifecycle Management
 - System Configuration
 - Azure DevOps
 - Frequent Releases
+- Install and Configuration
 - Software Development
 - Technical Mastery
 - Practical Techniques and Tooling
 - Product Delivery
 - Pragmatic Thinking
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 preview: nakedalm-logo-128-link-3-3.png
 
 ---

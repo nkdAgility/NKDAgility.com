@@ -586,11 +586,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T01:11:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:02:31",
+    "ai_confidence": 82.0,
+    "ai_mentions": 16,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the development and customization of Event Handlers for Team Foundation Server (TFS), which directly relates to software development practices and methodologies, particularly in version control and notifications within software projects.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the development of event handlers for Team Foundation Server (TFS), which is a tool used in software development for version control and project management. It explicitly mentions TFS, event handling, and integration points, aligning well with software development practices. The depth of discussion includes specific features and notifications related to version control, build processes, and work item tracking, indicating a strong focus on software engineering outcomes. Overall, the content is highly relevant to the Software Development category.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1363,12 +1366,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:58:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:02:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the TFS Event Handler and its integration with Team Foundation Server, which indirectly relates to Agile practices, particularly in the context of Scrum. However, the primary focus is on technical implementation rather than the core principles of Scrum or Agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the TFS Event Handler and its functionalities, which are related to software development processes. While it briefly mentions Scrum in the context of email handlers, the primary focus is on technical implementation rather than on the frameworks of Scrum, Kanban, Lean, or Agile practices. The alignment with the core themes of Social Technologies is limited, as it does not delve into collaboration, continuous improvement, or value delivery in a structured manner.",
+    "level": "Quaternary"
   },
   "Leadership": {
     "category": "Leadership",

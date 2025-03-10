@@ -32,6 +32,7 @@ aliasesArchive:
 - /resources/blog/professional-scrum-foundations-in-alameda-california
 tags:
 - Agile Project Management
+- People and Process
 categories:
 - Scrum
 - Social Technologies

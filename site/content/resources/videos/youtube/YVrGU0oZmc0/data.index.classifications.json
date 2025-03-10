@@ -28,11 +28,14 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-12T15:08:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:51:20",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the use of feature flags as a strategy to enable more frequent and safer deployments, which aligns closely with the optimisation of deployment intervals in Agile and DevOps practices.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the use of feature flags as a strategy to facilitate continuous delivery, which directly relates to optimising deployment frequency. It highlights the importance of deploying features incrementally and gathering feedback, aligning well with Agile and DevOps principles. The depth of discussion on telemetry and user engagement further supports the category focus, demonstrating a clear understanding of how deployment frequency impacts product development and customer feedback loops.",
     "level": "Secondary"
   },
   "Throughput": {

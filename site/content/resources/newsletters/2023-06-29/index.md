@@ -20,6 +20,7 @@ aliasesArchive:
 categories:
 - Scrum
 - Social Technologies
+- Product Management
 tags:
 - Agile Transformation
 - Continuous Learning

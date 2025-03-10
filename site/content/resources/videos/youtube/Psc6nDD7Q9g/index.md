@@ -31,7 +31,6 @@ sitemap:
   priority: 0.6
 tags:
 - Transparency
-- People and Process
 - Transparency and Accountability
 - Practical Techniques and Tooling
 - Software Development
@@ -39,6 +38,7 @@ tags:
 - Agile Project Management
 - Metrics and Learning
 - Operational Practices
+- People and Process
 - Empirical Process Control
 resourceTypes:
 - video

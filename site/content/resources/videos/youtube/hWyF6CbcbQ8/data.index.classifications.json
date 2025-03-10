@@ -910,12 +910,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T12:03:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:54:12",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of data integrity and migration within a DevOps context, which relates to technical practices. However, it primarily focuses on the migration process rather than broader principles of software craftsmanship or engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses data integrity in the context of DevOps migrations, touching on technical aspects such as database architecture and the balance between data fidelity and flexibility. However, it lacks a strong focus on broader software craftsmanship principles, best practices, or methodologies that are central to the 'Technical Mastery' category. The discussion is somewhat technical but does not delve deeply into the principles of clean code, testing, or architectural best practices, which diminishes its alignment with the category.",
+    "level": "Quaternary"
   },
   "Release Management": {
     "category": "Release Management",

@@ -38,8 +38,8 @@ tags:
 - Azure Boards
 - Azure DevOps
 categories:
-- Social Technologies
 - Scrum
+- Social Technologies
 - Product Management
 preview: nakedalm-experts-visual-studio-alm-14-14.png
 

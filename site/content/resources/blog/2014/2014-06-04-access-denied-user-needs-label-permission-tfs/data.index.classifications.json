@@ -1051,11 +1051,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T10:32:09",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T14:44:20",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses configuration settings within TFS regarding permissions and access control as part of system management, which relates to system configuration. However, the primary focus is on the access control specifics rather than a broader discussion of system configuration methodologies or practices.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses specific configuration issues related to TFS (Team Foundation Server) and the permissions required for users to create labels. It directly addresses the configuration of user permissions and the implications of security measures in a team project context. While it does not delve deeply into broader system configuration practices, it does provide a practical example of troubleshooting a configuration issue and offers a solution that aligns with the principles of system configuration. The discussion is primarily focused on the technical aspects of configuring user access and permissions, which is relevant to the category.",
     "level": "Secondary"
   },
   "Product Strategy": {

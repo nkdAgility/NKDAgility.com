@@ -25,9 +25,9 @@ aliasesArchive:
 tags:
 - Windows
 - Install and Configuration
-- Practical Techniques and Tooling
 - System Configuration
 - Troubleshooting
+- Practical Techniques and Tooling
 categories: []
 preview: metro-sharepoint-128-link-1-1.png
 

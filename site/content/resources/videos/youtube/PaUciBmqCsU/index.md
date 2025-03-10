@@ -37,10 +37,10 @@ tags:
 - Transparency
 - Transparency and Accountability
 - Empirical Process Control
-- Practical Techniques and Tooling
 - Agile Frameworks
 - Agile Project Management
 - Agile Transformation
+- Lean Principles
 resourceTypes:
 - video
 categories:

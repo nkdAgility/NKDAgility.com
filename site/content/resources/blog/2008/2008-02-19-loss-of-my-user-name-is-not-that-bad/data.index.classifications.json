@@ -1084,11 +1084,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T18:58:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:12:59",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the use of the .NET framework to interact with Windows Active Directory and security contexts, which is highly relevant to the Windows operating system and its user account management features.",
+    "final_score": 73.0,
+    "reasoning": "The content discusses the use of the 'System.DirectoryServices.AccountManagement' namespace in .NET for managing Active Directory, which is directly related to Windows environments. It mentions Windows user initialisation and provides code examples that are relevant to Windows user account management. However, while it touches on Windows-related topics, the primary focus is on .NET programming rather than a comprehensive discussion of Windows itself, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Lean Principles": {

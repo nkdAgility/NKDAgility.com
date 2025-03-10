@@ -28,8 +28,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Product Development
 - Professional Scrum
+- Scrum Product Development
 - Agile Frameworks
 - Agile Planning
 - Agile Project Management

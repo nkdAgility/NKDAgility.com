@@ -29,6 +29,7 @@ aliasesArchive:
 tags:
 - Products and Books
 - News and Reviews
+- Windows
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories: []
 

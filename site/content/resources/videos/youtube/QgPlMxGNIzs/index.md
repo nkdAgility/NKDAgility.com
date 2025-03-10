@@ -33,17 +33,17 @@ tags:
 - Agile Frameworks
 - Agile Leadership
 - Agile Project Management
-- Business Agility
 - People and Process
 - Agile Philosophy
 - Agile Strategy
 - Agile Transformation
 - Organisational Agility
+- Software Development
 resourceTypes:
 - video
 categories:
-- Leadership
 - Social Technologies
+- Leadership
 
 ---
 How do you think Agile is evolving since its inception in 2001?

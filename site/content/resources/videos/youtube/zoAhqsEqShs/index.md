@@ -43,6 +43,7 @@ resourceTypes:
 categories:
 - Social Technologies
 - Scrum
+- DevOps
 
 ---
 **What is the most interesting outcome you have achieved as an agile consultant?**

@@ -33,8 +33,8 @@ resourceTypes:
 - video
 categories:
 - Product Management
-- DevOps
 - Social Technologies
+- DevOps
 
 ---
 Building a high-performance delivery engine within an organisation is no small feat. From my experience, it requires a deep understanding of various contexts and a level of competence that is often underestimated. Many organisations focus primarily on technical skills, but to truly excel in software delivery, we need to broaden our perspective.

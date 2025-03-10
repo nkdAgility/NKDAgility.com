@@ -33,8 +33,8 @@ tags:
 - Technical Mastery
 - Troubleshooting
 - Practical Techniques and Tooling
-- Pragmatic Thinking
 - Install and Configuration
+- Pragmatic Thinking
 categories: []
 preview: metro-sharepoint-128-link-4-4.png
 

@@ -25,6 +25,7 @@ preview: https://i.ytimg.com/vi/U69JMzIZXro/maxresdefault.jpg
 duration: 1219
 isShort: false
 tags:
+- Install and Configuration
 - System Configuration
 - Windows
 sitemap:

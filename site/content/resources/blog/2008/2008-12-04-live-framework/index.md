@@ -27,7 +27,6 @@ tags:
 - System Configuration
 - Practical Techniques and Tooling
 - Software Development
-- Technical Mastery
 preview: metro-cloud-azure-link-2-2.png
 categories: []
 

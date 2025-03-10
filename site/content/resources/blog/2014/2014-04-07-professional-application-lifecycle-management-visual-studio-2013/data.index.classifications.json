@@ -343,11 +343,14 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-15T11:02:21",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T14:44:50",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content primarily discusses the release and features of a specific book related to Application Lifecycle Management, which aligns with industry updates. However, it also includes personal reflections and experiences that detract from its focus on news and reviews.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the release of a book on Application Lifecycle Management (ALM) with Visual Studio 2013, which aligns with the category of News and Reviews. It provides updates on the book's availability and highlights new features relevant to Agile and DevOps practices. However, while it mentions the book and its content, the discussion lacks depth in terms of critical analysis or broader industry implications, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Application Lifecycle Management": {
@@ -1372,12 +1375,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:13:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:44:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile methodologies and the transition from MSF for Agile Software Development to Scrum in Visual Studio, indicating a major but secondary theme related to Social Technologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Agile methodologies and the transition from MSF for Agile Software Development to Scrum templates in Visual Studio, indicating some relevance to Social Technologies. However, the primary focus is on the book's production and features of Visual Studio 2013 rather than a detailed discussion of Scrum, Kanban, Lean, or Agile practices. The alignment with core themes is limited, and the depth of discussion on Social Technologies is minimal.",
+    "level": "Quaternary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

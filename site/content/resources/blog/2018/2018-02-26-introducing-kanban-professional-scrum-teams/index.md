@@ -32,13 +32,14 @@ tags:
 - Agile Project Management
 - Metrics and Learning
 - Agile Frameworks
-- Flow Efficiency
 - News and Reviews
 - Operational Practices
 - Products and Books
 - Software Developers
+- Software Development
 categories:
 - Social Technologies
+- Kanban
 - Scrum
 preview: nkdagility-scrum-and-kanban-1900-2-1.png
 

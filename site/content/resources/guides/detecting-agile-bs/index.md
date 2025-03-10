@@ -39,8 +39,8 @@ aliasesArchive:
 - /Guides/Detecting-Agile-BS.html
 - /learn/agile-delivery-kit/guides/detecting-agile-bs
 categories:
-- Social Technologies
 - Engineering Excellence
+- Social Technologies
 - DevOps
 tags:
 - Software Development

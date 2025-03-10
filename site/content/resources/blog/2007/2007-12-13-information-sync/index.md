@@ -24,8 +24,8 @@ aliasesArchive:
 - /resources/blog/information-sync
 tags:
 - Windows
-- Products and Books
 - Troubleshooting
+- Products and Books
 - Miscellaneous
 categories: []
 preview: nakedalm-logo-128-link-6-6.png

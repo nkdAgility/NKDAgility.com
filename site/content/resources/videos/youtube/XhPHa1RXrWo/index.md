@@ -31,11 +31,11 @@ sitemap:
 tags:
 - People and Process
 - Agile Values and Principles
+- Software Development
 - Agile Philosophy
 - Agile Strategy
 - Agile Transformation
 - Software Developers
-- Software Development
 - Pragmatic Thinking
 - Complexity Thinking
 - Sociotechnical Systems

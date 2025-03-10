@@ -26,7 +26,6 @@ tags:
 - News and Reviews
 - Products and Books
 - Practical Techniques and Tooling
-- Release Management
 - Application Lifecycle Management
 - Frequent Releases
 - Software Development

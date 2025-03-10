@@ -688,11 +688,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T12:50:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:11:38",
+    "ai_confidence": 78.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily describes an error related to permissions and access in IIS, which is part of the Windows operating system, along with solutions for managing service accounts within the Windows environment.",
+    "final_score": 70.0,
+    "reasoning": "The content explicitly discusses an error related to permissions in IIS, which is a component of the Windows operating system. It provides a specific troubleshooting scenario involving service accounts and access rights, aligning well with the core themes of the Windows category. The depth of discussion is significant as it details a solution to a common issue, demonstrating practical application within the Windows environment. However, while the focus is primarily on Windows, the mention of 'Build Agent' and 'web services' could suggest a broader context that slightly detracts from a perfect alignment.",
     "level": "Secondary"
   },
   "Product Strategy": {

@@ -33,10 +33,10 @@ tags:
 - Collaboration Tools
 - Portfolio Management
 - Product Backlog
-- Product Delivery
 - Team Collaboration
 - Agile Planning
 - Agile Strategy
+- Application Lifecycle Management
 categories:
 - Social Technologies
 - Scrum

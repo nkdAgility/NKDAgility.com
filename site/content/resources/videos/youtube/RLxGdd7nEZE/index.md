@@ -28,8 +28,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Organisational Physics
 - People and Process
+- Organisational Physics
 - Sociotechnical Systems
 - Systems Thinking
 - Change Management
@@ -38,8 +38,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Leadership
 - Social Technologies
+- Leadership
 
 ---
 ## Exploring the Apex of Consulting Engagements: Unlocking Systemic Change

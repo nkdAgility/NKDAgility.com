@@ -33,13 +33,13 @@ tags:
 - Agile Product Management
 - Agile Planning
 - Agile Project Management
-- Metrics and Learning
 - Scrum Product Development
 - Team Performance
 - Operational Practices
 - People and Process
 - Pragmatic Thinking
 - Software Developers
+- Software Development
 resourceTypes:
 - video
 layout: video

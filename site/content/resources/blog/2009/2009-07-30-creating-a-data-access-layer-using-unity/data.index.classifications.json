@@ -376,11 +376,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T02:51:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:06:20",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of a data access layer using Unity, focusing on software design, architecture, coding best practices, and maintainability through dependency injection and configuration management, which aligns well with the principles of Technical Mastery.",
+    "final_score": 74.0,
+    "reasoning": "The content provides a detailed exploration of creating a data access layer using Unity, which aligns closely with best practices in software design and architecture. It discusses the use of interfaces, dependency injection, and the Singleton pattern, all of which are key principles of clean code and software craftsmanship. The depth of discussion is significant, covering implementation details, configuration, and the rationale behind design choices, which supports a high confidence score in the 'Technical Mastery' category.",
     "level": "Secondary"
   },
   "Product Discovery": {

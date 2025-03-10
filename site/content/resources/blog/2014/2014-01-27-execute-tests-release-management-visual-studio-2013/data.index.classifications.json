@@ -217,11 +217,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T11:14:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:45:35",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the integration of automated testing and release management within Visual Studio 2013, focusing on technical practices that enhance the deployment pipeline and ensure code quality, which aligns well with the principles of Technical Excellence.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the use of Release Management and automated testing within Visual Studio 2013, which aligns with the principles of Continuous Integration and Continuous Delivery (CI/CD). It provides practical insights into configuring environments and executing tests, demonstrating a focus on enhancing the deployment pipeline. However, while it touches on relevant technical practices, the discussion lacks a broader exploration of the underlying principles of Technical Excellence, such as TDD or modular architecture, which limits its depth and overall alignment with the category.",
     "level": "Secondary"
   },
   "Complexity Thinking": {

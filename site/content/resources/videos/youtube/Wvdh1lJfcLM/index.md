@@ -33,6 +33,7 @@ tags:
 - Practical Techniques and Tooling
 - Install and Configuration
 - Software Development
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

@@ -26,6 +26,7 @@ aliasesArchive:
 tags:
 - Agile Product Management
 - Product Delivery
+- Value Delivery
 - Transparency
 - Increment
 - Agile Product Operating Model
@@ -33,7 +34,6 @@ tags:
 - Agile Frameworks
 - Agile Philosophy
 - Agile Planning
-- Agile Project Management
 categories:
 - Scrum
 - Social Technologies

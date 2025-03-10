@@ -32,9 +32,9 @@ tags:
 - Automated Testing
 - Application Lifecycle Management
 - Software Development
-- Technical Excellence
 - Troubleshooting
 - Practical Techniques and Tooling
+- Technical Excellence
 - Events and Presentations
 - Technical Mastery
 preview: metro-visual-studio-2010-128-link-1-1.png

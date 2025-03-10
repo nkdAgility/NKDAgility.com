@@ -1222,11 +1222,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T11:24:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:09:28",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses troubleshooting errors encountered in a WPF application related to theme resource management, providing solutions for exceptions and issues that arise in this context.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses specific issues encountered when using WPF and provides code modifications to resolve exceptions related to resource management and region management. It directly addresses troubleshooting by identifying problems (e.g., ItemsControlHasItemsSourceException, RegionNameExistsException) and offering practical solutions. However, while it is focused on resolving technical issues, the depth of discussion on broader troubleshooting methodologies and tools is limited, which affects the overall confidence score.",
     "level": "Secondary"
   },
   "Scrum Master": {

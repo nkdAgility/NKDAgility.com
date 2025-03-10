@@ -32,11 +32,11 @@ tags:
 - Agile Project Management
 - Agile Strategy
 - Agile Transformation
-- Organisational Agility
 - Technical Leadership
 - Pragmatic Thinking
 - Software Development
 - Agile Leadership
+- Organisational Agility
 - Organisational Change
 resourceTypes:
 - video

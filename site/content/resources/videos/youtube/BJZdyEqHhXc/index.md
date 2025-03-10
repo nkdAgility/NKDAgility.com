@@ -26,7 +26,6 @@ isShort: false
 tags:
 - People and Process
 - Change Management
-- Organisational Agility
 - Organisational Change
 - Decision Making
 - Pragmatic Thinking
@@ -34,6 +33,7 @@ tags:
 - Sociotechnical Systems
 - Resilience and Change
 - Miscellaneous
+- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

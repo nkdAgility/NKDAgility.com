@@ -25,8 +25,7 @@ aliasesArchive:
 tags:
 - Software Development
 - Practical Techniques and Tooling
-categories:
-- Social Technologies
+categories: []
 preview: metro-binary-vb-128-link-3-3.png
 
 ---

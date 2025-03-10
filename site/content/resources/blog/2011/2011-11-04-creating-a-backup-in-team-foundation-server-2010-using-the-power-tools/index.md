@@ -27,10 +27,10 @@ tags:
 - Practical Techniques and Tooling
 - System Configuration
 - Technical Mastery
-- Pragmatic Thinking
 - Software Development
 - Troubleshooting
 - Windows
+- Pragmatic Thinking
 categories: []
 
 ---

@@ -30,9 +30,9 @@ tags:
 - Install and Configuration
 - Modern Source Control
 - Software Development
-- System Configuration
 - Troubleshooting
 - Practical Techniques and Tooling
+- System Configuration
 categories: []
 preview: puzzle-issue-problem-128-link-1-1.png
 

@@ -33,8 +33,7 @@ tags:
 - Agile Philosophy
 resourceTypes:
 - video
-categories:
-- Leadership
+categories: []
 
 ---
 **Discipline versus motivation?**

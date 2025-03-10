@@ -31,7 +31,6 @@ sitemap:
 tags:
 - People and Process
 - Agile Project Management
-- Daily Scrum
 - Scrum Team
 - Agile Frameworks
 - Agile Philosophy
@@ -39,6 +38,7 @@ tags:
 - Pragmatic Thinking
 - Scrum Master
 - Scrum Product Development
+- Team Collaboration
 resourceTypes:
 - video
 categories:

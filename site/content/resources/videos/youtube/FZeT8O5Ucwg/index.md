@@ -26,6 +26,7 @@ duration: 2106
 isShort: false
 tags:
 - People and Process
+- Pragmatic Thinking
 - Software Developers
 - Organisational Change
 sitemap:

@@ -217,11 +217,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T20:09:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:55:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical process of migrating data from FogBugz to TFS 2012, including the setup of a development environment, the creation of a custom adapter, and the handling of data mapping and import processes, which aligns with engineering practices that enhance software development.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating data using the TFS Integration Platform, detailing the setup of a development environment, configuration of a custom adapter, and the coding involved in the migration process. While it does touch on some engineering practices, such as the importance of careful state mapping and the use of a custom adapter, it lacks a broader discussion on methodologies like TDD or CI/CD, which are central to the 'Technical Excellence' category. The depth of technical detail is moderate, but it does not fully explore the principles of agile engineering practices or continuous improvement, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Complexity Thinking": {

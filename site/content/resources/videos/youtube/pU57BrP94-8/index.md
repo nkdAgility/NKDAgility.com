@@ -30,8 +30,8 @@ tags:
 - Discovery and Learning
 - People and Process
 - Continuous Learning
-- Coaching
 - Team Collaboration
+- Coaching
 - Metrics and Learning
 - Empirical Process Control
 - Mentoring

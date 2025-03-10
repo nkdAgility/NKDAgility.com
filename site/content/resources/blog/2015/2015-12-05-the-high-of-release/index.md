@@ -25,7 +25,6 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 - Events and Presentations
-- Product Delivery
 - Azure DevOps
 - Azure Pipelines
 - Release Management
@@ -33,6 +32,7 @@ tags:
 - Software Developers
 - Software Development
 - Frequent Releases
+- Operational Practices
 categories:
 - DevOps
 - Engineering Excellence

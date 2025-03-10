@@ -37,7 +37,7 @@ tags:
 - Strategy
 - Enterprise Agility
 - Discovery and Learning
-- Resilience and Change
+- Market Adaptability
 categories:
 - Leadership
 preview: naked-agility-technically-agile-Blog-EmbraceUniqueness-1-1-1.jpg

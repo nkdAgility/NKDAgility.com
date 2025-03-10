@@ -29,10 +29,10 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Organisational Culture
 - Agile Values and Principles
 - Customer Satisfaction
 - Agile Philosophy
-- Organisational Culture
 - Employee Engagement
 - Agile Leadership
 - Organisational Psychology

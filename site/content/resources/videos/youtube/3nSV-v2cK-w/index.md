@@ -34,6 +34,7 @@ tags:
 - Software Development
 - Team Performance
 - Business Agility
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

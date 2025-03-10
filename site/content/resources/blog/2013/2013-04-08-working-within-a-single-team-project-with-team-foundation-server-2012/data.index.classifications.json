@@ -289,12 +289,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T19:05:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:50:47",
+    "ai_confidence": 62.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 55.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses Team Foundation Server (TFS), which is a component of Azure DevOps, focusing on its features, design considerations, and best practices for managing projects within TFS.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses Team Foundation Server (TFS), which is a predecessor to Azure DevOps. While it touches on relevant concepts such as team projects, security, and project management, it lacks a direct focus on Azure DevOps services and functionalities. The discussion is somewhat aligned with Azure DevOps principles, but it does not explicitly mention Azure DevOps or its specific features, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",
@@ -1363,12 +1366,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:48:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:50:44",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of Team Foundation Server (TFS) that relate to team organisation and project management, touching on Agile practices and team dynamics, but it primarily focuses on TFS features rather than a comprehensive exploration of Scrum, Kanban, Lean, or Agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS) and its features, which are relevant to Agile methodologies, particularly in the context of team organisation and project management. However, while it touches on concepts like teams and projects, it lacks a focused discussion on specific frameworks like Scrum or Kanban, and does not delve deeply into the principles of Agile or Lean methodologies. The mention of Agile practices is present but not central, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",

@@ -28,7 +28,6 @@ aliasesArchive:
 - /resources/blog/tfs-integration-toolsissue-analysisprovider-not-found
 tags:
 - Troubleshooting
-- Pragmatic Thinking
 - Software Development
 - System Configuration
 - Technical Mastery

@@ -27,7 +27,6 @@ tags:
 - Modern Source Control
 - Install and Configuration
 - Software Development
-- Technical Mastery
 categories: []
 
 ---

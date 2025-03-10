@@ -253,11 +253,14 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-14T22:59:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:39:48",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content discusses scaling Scrum specifically with Visual Studio Team Services, focusing on the practical implementation of Scrum in larger team structures, which aligns closely with Professional Scrum themes.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on scaling Scrum using Visual Studio Team Services, which aligns well with the category's emphasis on practical implementations of Scrum principles. It discusses the Nexus framework, which is relevant to scaling Scrum, and provides insights into workshops and webcasts aimed at enhancing understanding of Scrum practices. However, while it touches on key topics, the depth of theoretical exploration could be improved, as it leans more towards practical application and tool usage rather than a comprehensive discussion of Scrum principles.",
     "level": "Secondary"
   },
   "Modern Source Control": {
@@ -1129,11 +1132,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:39:45",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses tools (Visual Studio Team Services) that support scaling Scrum, which has overlaps with DevOps practices, particularly around automation. However, the primary focus is on Scrum and its implementation rather than a direct discussion of DevOps principles.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses scaling Scrum using Visual Studio Team Services, which touches on automation and orchestration—key aspects of DevOps. However, the primary focus is on Scrum practices rather than DevOps principles. While there are mentions of tools and some alignment with DevOps concepts, the depth of discussion primarily revolves around Scrum, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Miscellaneous": {

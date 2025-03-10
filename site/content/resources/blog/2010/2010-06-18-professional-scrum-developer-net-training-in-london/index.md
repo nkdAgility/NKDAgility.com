@@ -31,7 +31,6 @@ tags:
 - Professional Scrum
 - Software Development
 - Agile Frameworks
-- Events and Presentations
 categories:
 - Scrum
 - Social Technologies

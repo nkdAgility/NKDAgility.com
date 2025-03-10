@@ -34,11 +34,11 @@ tags:
 - Practical Techniques and Tooling
 - Software Development
 - Application Lifecycle Management
-- Technical Excellence
 - Modern Source Control
 - Continuous Integration
 - Operational Practices
 - Events and Presentations
+- Technical Excellence
 - Technical Mastery
 
 ---

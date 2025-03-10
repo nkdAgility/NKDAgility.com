@@ -23,8 +23,8 @@ aliasesArchive:
 - /wpf-scale-transform-behaviour
 - /resources/blog/wpf-scale-transform-behaviour
 tags:
-- Software Development
 - Technical Mastery
+- Software Development
 - Practical Techniques and Tooling
 - Windows
 - Technical Excellence

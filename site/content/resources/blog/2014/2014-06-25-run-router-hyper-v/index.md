@@ -29,7 +29,6 @@ aliasesArchive:
 tags:
 - Windows
 - Install and Configuration
-- Pragmatic Thinking
 - System Configuration
 - Technical Mastery
 - Troubleshooting

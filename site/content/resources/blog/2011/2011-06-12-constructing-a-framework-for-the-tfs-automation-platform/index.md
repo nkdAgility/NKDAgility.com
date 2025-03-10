@@ -24,12 +24,12 @@ aliasesArchive:
 - /resources/blog/constructing-a-framework-for-the-tfs-automation-platform
 tags:
 - Platform Engineering
-- Install and Configuration
 - Internal Developer Platform
 - Software Development
 - Practical Techniques and Tooling
 - Technical Excellence
 - Technical Mastery
+- Install and Configuration
 - Pragmatic Thinking
 - Software Developers
 - System Configuration

@@ -286,12 +286,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T10:32:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:44:23",
+    "ai_confidence": 67.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the process of importing data into TFS (Team Foundation Server), which is a component of Azure DevOps, and provides specific methods and functions related to this task.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content primarily discusses the process of importing data into TFS (Team Foundation Server), which is a part of Azure DevOps. It provides a detailed walkthrough of using Excel to facilitate this process, demonstrating a practical application of Azure DevOps tools. However, while it mentions TFS and its integration with Excel, the discussion lacks broader context on Azure DevOps services and methodologies, which slightly reduces its alignment with the category. The depth of technical detail regarding the implementation is substantial, but the focus remains narrow on a specific task rather than a comprehensive exploration of Azure DevOps functionalities.",
+    "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",

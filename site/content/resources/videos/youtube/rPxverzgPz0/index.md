@@ -46,6 +46,7 @@ resourceTypes:
 categories:
 - Scrum
 - Social Technologies
+- Leadership
 
 ---
 **Would you recommend the APS course to a newbie scrum team, and Why?**

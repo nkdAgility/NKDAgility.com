@@ -343,12 +343,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:13:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:20:37",
+    "ai_confidence": 68.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses studying for a specific certification exam and mentions resources, including books, related to the exam preparation, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses studying for a specific certification exam related to Microsoft .NET Framework, which aligns with the category of 'Products and Books' as it references a book used for preparation. The mention of multiple exams and the self-study approach indicates a focus on resources that support learning, which is relevant to Agile and DevOps principles. However, the discussion is more personal and lacks a detailed analysis or review of the books or tools, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Product Management": {
     "category": "Product Management",

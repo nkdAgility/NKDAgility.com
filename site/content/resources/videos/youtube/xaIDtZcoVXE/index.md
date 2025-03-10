@@ -2,7 +2,7 @@
 title: How Do You Know How Long It Takes to Deliver Value?
 description: 'Unlock the power of Evidence-Based Management! Discover 5 reasons why EBM is essential for enhancing your Time to Market and driving business success. #EBM #Shorts'
 date: 2024-01-26T11:00:51Z
-weight: 550
+weight: 525
 ResourceId: xaIDtZcoVXE
 ResourceType: videos
 ResourceImport: true

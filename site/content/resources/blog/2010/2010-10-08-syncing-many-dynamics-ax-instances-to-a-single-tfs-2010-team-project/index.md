@@ -32,7 +32,7 @@ tags:
 - Operational Practices
 - Pragmatic Thinking
 - Software Development
-- Technical Excellence
+- Technical Mastery
 categories:
 - DevOps
 - Engineering Excellence

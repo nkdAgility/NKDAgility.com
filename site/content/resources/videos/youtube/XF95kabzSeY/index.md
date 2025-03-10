@@ -26,6 +26,7 @@ preview: https://i.ytimg.com/vi/XF95kabzSeY/maxresdefault.jpg
 duration: 67
 isShort: false
 tags:
+- Product Owner
 - People and Process
 - Agile Product Management
 - Product Delivery

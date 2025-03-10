@@ -385,11 +385,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T11:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:22:51",
+    "ai_confidence": 55.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 50.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content primarily discusses a specific feature related to the Windows operating system, but it is focused on the integration with Firefox rather than Windows itself.",
+    "final_score": 54.0,
+    "reasoning": "The content explicitly mentions 'Windows CardSpace', which is a feature of the Windows operating system, indicating a direct mention of the category. However, the discussion primarily focuses on the support for Firefox rather than on Windows itself, which affects the depth of discussion. While it aligns with the Windows category by discussing a Windows feature, it lacks comprehensive details on installation, configuration, or troubleshooting, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Azure Repos": {

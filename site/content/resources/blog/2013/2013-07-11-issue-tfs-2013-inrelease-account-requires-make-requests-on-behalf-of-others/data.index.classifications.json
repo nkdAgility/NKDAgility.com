@@ -289,11 +289,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T18:09:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:48:30",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a specific issue related to Team Foundation Server (TFS), which is part of the Azure DevOps suite, and provides a solution that involves configuring permissions within TFS. This aligns with Azure DevOps functionalities.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific issue related to Team Foundation Server (TFS), which is part of the Azure DevOps suite. It provides a detailed explanation of a configuration problem and a solution involving permissions within TFS, aligning well with Azure DevOps functionalities. However, while it is focused on TFS, it does not cover broader Azure DevOps services or methodologies, which slightly lowers the alignment score. The depth of the discussion is substantial, providing technical details and a solution, but it lacks a broader context of Azure DevOps practices.",
     "level": "Secondary"
   },
   "Personal": {

@@ -32,11 +32,11 @@ tags:
 - System Configuration
 - Continuous Integration
 - Software Development
-- Technical Excellence
 - Technical Mastery
 - Operational Practices
 - Modern Source Control
 - Pragmatic Thinking
+- Technical Excellence
 categories:
 - DevOps
 preview: naked-alm-jenkins-logo-9-9.png

@@ -8,7 +8,7 @@ ResourceImportId: 8885
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-10-10
-weight: 545
+weight: 470
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -32,7 +32,7 @@ tags:
 - News and Reviews
 - Organisational Agility
 - Digital Transformation
-- Market Adaptability
+- Resilience and Change
 categories:
 - DevOps
 preview: metro-new-normal-icon-28-28.png

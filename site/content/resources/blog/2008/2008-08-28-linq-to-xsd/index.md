@@ -23,7 +23,6 @@ aliasesArchive:
 - /linq-to-xsd
 - /resources/blog/linq-to-xsd
 tags:
-- Software Development
 - Install and Configuration
 categories: []
 preview: metro-binary-vb-128-link-2-2.png

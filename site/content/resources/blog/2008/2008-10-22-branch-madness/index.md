@@ -27,7 +27,6 @@ aliasesArchive:
 - /blog/branch-madness-
 - /resources/blog/branch-madness
 tags:
-- Install and Configuration
 - Modern Source Control
 - Application Lifecycle Management
 - Azure Repos
@@ -36,6 +35,7 @@ tags:
 - Software Development
 - Troubleshooting
 - Practical Techniques and Tooling
+- Install and Configuration
 - Miscellaneous
 preview: nakedalm-logo-128-link-2-1.png
 categories:

@@ -29,8 +29,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Product Management
 - Product Backlog
+- Agile Product Management
 - Agile Project Management
 - Product Owner
 - Scrum Product Development

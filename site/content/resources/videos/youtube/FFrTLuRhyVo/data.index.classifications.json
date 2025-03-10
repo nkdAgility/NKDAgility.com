@@ -1207,12 +1207,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T12:01:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:53:28",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of high-quality product delivery and its impact on value, which aligns with the principles of technical excellence, but it does not delve deeply into specific engineering practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content briefly mentions the importance of high-quality product delivery, which aligns with the principles of Technical Excellence. However, it lacks explicit discussions on specific engineering practices or methodologies such as TDD, CI/CD, or modular architecture. The focus is more on the implications of technical debt rather than on concrete technical practices, resulting in a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",

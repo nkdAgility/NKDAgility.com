@@ -34,9 +34,9 @@ tags:
 - People and Process
 - Pragmatic Thinking
 - Complexity Thinking
+- Business Agility
 - Discovery and Learning
 - Market Adaptability
-- Business Agility
 - Agile Philosophy
 - Empirical Process Control
 - Organisational Agility

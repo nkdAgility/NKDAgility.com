@@ -214,11 +214,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T18:34:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:49:36",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical issues related to SharePoint migration, authentication mechanisms, and the use of PowerShell scripts to resolve these issues, which aligns with engineering practices and methodologies.",
+    "final_score": 61.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to SharePoint migration and user authentication, which is a practical problem rather than a broader discussion on engineering practices or methodologies that enhance agility in software development. While it does mention a technical solution involving PowerShell scripting, it lacks a comprehensive exploration of concepts like TDD, CI/CD, or modular architecture. The focus is more on troubleshooting and specific implementation rather than on principles of technical excellence, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Complexity Thinking": {

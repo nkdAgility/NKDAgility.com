@@ -25,6 +25,7 @@ duration: 49
 isShort: true
 tags:
 - Operational Practices
+- Flow Efficiency
 sitemap:
   filename: sitemap.xml
   priority: 0.6

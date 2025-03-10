@@ -36,7 +36,6 @@ tags:
 - Personal
 - Continuous Learning
 - Pragmatic Thinking
-- Organisational Culture
 resourceTypes:
 - video
 categories:

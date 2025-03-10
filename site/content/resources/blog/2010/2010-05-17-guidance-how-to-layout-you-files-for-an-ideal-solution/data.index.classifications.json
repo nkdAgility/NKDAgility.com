@@ -244,11 +244,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-16T00:37:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:03:03",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the structure and management of software projects, including version control, branching strategies, and deployment processes, which are central to effective product delivery.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the structure and management of software projects, particularly in relation to version control and branching strategies, which are essential for effective product delivery. It mentions the importance of maintaining a clear folder structure and the role of branches in development and release processes. However, while it touches on aspects of product delivery, such as deployment and release management, it lacks a comprehensive exploration of methodologies like Agile or CI/CD practices, which are central to the category.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -1363,12 +1366,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:59:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:03:01",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses branching strategies and version control in the context of Scrum teams, making Scrum a significant theme, but it is primarily focused on file layout and project structure.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses aspects of project management and version control that are relevant to Scrum, particularly in the context of branching strategies and team project setups. However, it lacks a comprehensive exploration of Scrum principles or Agile methodologies, making it a secondary focus rather than a primary discussion on Social Technologies.",
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",

@@ -35,11 +35,11 @@ tags:
 - Practical Techniques and Tooling
 - Throughput
 - Agile Frameworks
-- Cycle Time
 - Software Development
 - Agile Project Management
 - Operational Practices
 - Pragmatic Thinking
+- Cycle Time
 resourceTypes:
 - video
 categories:

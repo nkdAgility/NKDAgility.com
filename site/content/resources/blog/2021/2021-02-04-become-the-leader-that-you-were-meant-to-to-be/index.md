@@ -25,8 +25,8 @@ aliasesArchive:
 - /resources/blog/become-the-leader-that-you-were-meant-to-to-be
 tags:
 - People and Process
-- Agile Leadership
 - Scrum Master
+- Agile Leadership
 - Products and Books
 - Professional Scrum
 - Agile Project Management

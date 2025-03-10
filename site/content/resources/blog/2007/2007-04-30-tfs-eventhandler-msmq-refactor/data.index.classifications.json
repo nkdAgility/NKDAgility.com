@@ -130,12 +130,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:13:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:20:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a refactor of a codebase, which relates to code quality and complexity management through modular design. However, it primarily focuses on the implementation details rather than a broader discussion on code quality principles or complexity theory.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses a refactor of a TFS Event Handler project, which involves breaking down a large solution into smaller components. While this touches on aspects of code quality and modular design, it lacks a deeper exploration of complexity theory or best practices in software development. The mention of services and message queues indicates some awareness of architectural considerations, but the overall discussion remains superficial and does not fully engage with the core themes of the category.",
+    "level": "Quaternary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",

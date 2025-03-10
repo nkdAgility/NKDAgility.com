@@ -244,11 +244,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-15T23:57:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:01:16",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the use of Team Foundation Server (TFS) and Visual Studio 2010 in managing the software development lifecycle, including requirements, tasks, changesets, builds, and testing, which are all integral to the product delivery process.",
+    "final_score": 74.0,
+    "reasoning": "The content extensively discusses the role of Team Foundation Server (TFS) and Visual Studio in managing the software development lifecycle, focusing on traceability, requirements management, task tracking, and testing—all of which are integral to effective product delivery. It covers methodologies related to planning, development, testing, and deployment, aligning well with the core themes of product delivery. The depth of discussion is significant, providing detailed insights into how TFS facilitates compliance and audit requirements, which are crucial for delivering quality software products. However, while the content is highly relevant, it does not explicitly mention agile methodologies or CI/CD practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -1363,11 +1366,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:57:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:01:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of Team Foundation Server (TFS) and Visual Studio in the context of Application Lifecycle Management (ALM), which includes elements of Agile practices and team roles. However, it primarily focuses on compliance and traceability rather than the core principles of Scrum, Kanban, Lean, or Agile methodologies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the use of Team Foundation Server (TFS) and Visual Studio 2010 in the context of Application Lifecycle Management (ALM), which includes aspects of Agile practices and team roles. However, while it touches on collaboration and the importance of roles within a team, it lacks a focused discussion on specific frameworks like Scrum or Kanban. The depth of discussion on Agile principles is moderate, but it does not fully align with the core themes of Social Technologies as defined.",
     "level": "Tertiary"
   },
   "Leadership": {

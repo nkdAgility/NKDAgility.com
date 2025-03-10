@@ -34,8 +34,8 @@ tags:
 - Personal
 - Pragmatic Thinking
 categories:
-- Social Technologies
 - Scrum
+- Social Technologies
 preview: image-1-1-1.png
 
 ---

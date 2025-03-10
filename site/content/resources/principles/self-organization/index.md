@@ -30,9 +30,9 @@ tags:
 - Team Performance
 - Agile Project Management
 - People and Process
-- Software Development
 - Team Collaboration
 - Self Organisation
+- Software Development
 - Agile Frameworks
 - Professional Scrum
 

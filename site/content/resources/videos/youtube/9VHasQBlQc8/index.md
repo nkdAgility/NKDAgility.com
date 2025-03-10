@@ -33,9 +33,9 @@ tags:
 - Agile Philosophy
 - Agile Leadership
 - Organisational Culture
+- Team Collaboration
 - Agile Values and Principles
 - Personal
-- Team Collaboration
 - Team Motivation
 - Team Performance
 resourceTypes:

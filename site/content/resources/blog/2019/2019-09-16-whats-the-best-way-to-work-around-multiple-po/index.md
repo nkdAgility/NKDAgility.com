@@ -28,6 +28,7 @@ aliasesArchive:
 - /resources/blog/whats-the-best-way-to-work-around-multiple-po
 tags:
 - Agile Product Management
+- People and Process
 - Product Backlog
 - Product Owner
 - Professional Scrum
@@ -35,7 +36,6 @@ tags:
 - Scrum Team
 - Agile Product Operating Model
 - Agile Project Management
-- People and Process
 - Product Delivery
 categories:
 - Scrum

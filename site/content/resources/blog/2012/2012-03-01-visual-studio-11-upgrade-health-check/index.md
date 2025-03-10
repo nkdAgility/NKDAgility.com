@@ -23,7 +23,6 @@ aliasesArchive:
 - /visual-studio-11-upgrade-health-check
 - /resources/blog/visual-studio-11-upgrade-health-check
 tags:
-- Events and Presentations
 - Install and Configuration
 - News and Reviews
 - People and Process
@@ -33,6 +32,7 @@ tags:
 - Agile Frameworks
 - Azure DevOps
 - Product Delivery
+- Software Development
 categories:
 - Social Technologies
 - Scrum

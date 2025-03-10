@@ -23,8 +23,8 @@ aliasesArchive:
 - /tfs-sticky-buddy-v1-0
 - /resources/blog/tfs-sticky-buddy-v1-0
 tags:
-- Products and Books
 - Software Development
+- Products and Books
 - Practical Techniques and Tooling
 categories: []
 preview: metro-visual-studio-2005-128-link-2-1.png

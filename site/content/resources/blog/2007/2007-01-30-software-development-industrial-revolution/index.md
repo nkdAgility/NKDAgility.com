@@ -8,7 +8,7 @@ ResourceImportId: 416
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-01-30
-weight: 775
+weight: 810
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -34,6 +34,7 @@ tags:
 - Release Management
 - Software Developers
 categories:
+- DevOps
 - Engineering Excellence
 preview: nakedalm-logo-128-link-1-1.png
 

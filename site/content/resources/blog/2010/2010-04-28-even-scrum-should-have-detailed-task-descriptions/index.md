@@ -29,10 +29,10 @@ tags:
 - Agile Project Management
 - Software Development
 - People and Process
+- Software Developers
 - Definition of Ready
 - Team Collaboration
 - Pragmatic Thinking
-- Software Developers
 categories:
 - Social Technologies
 - Scrum

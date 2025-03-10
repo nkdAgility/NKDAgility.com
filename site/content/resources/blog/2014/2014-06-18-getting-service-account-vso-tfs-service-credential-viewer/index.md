@@ -29,8 +29,8 @@ aliasesArchive:
 tags:
 - Troubleshooting
 - Install and Configuration
-- Azure DevOps
 - Software Development
+- Azure DevOps
 - Practical Techniques and Tooling
 - Windows
 - System Configuration

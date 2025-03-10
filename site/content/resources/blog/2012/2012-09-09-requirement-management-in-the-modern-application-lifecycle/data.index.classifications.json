@@ -121,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:53:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses tools and practices related to requirement management within the context of Team Foundation Server, which can be associated with DevOps principles, but the primary focus is on requirements rather than core DevOps practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on requirement management within the context of Team Foundation Server (TFS) and does not explicitly discuss DevOps principles or practices. While it touches on aspects of Agile methodologies and mentions tools that could be part of a DevOps toolchain, the main emphasis is on managing requirements rather than the integration of development and operations or continuous delivery. Therefore, it has a low confidence score for the DevOps category.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -241,11 +244,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-15T19:26:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:53:20",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses requirement management within the context of software delivery, focusing on tools and methodologies that facilitate the effective capture and management of requirements, which is central to the product delivery process.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses various tools and methodologies related to requirement management within the context of software delivery, which aligns with the principles of product delivery. It mentions Agile methodologies, integration points, and the importance of capturing actionable requirements, all of which are relevant to the category. However, while it provides a good amount of detail, the focus is more on specific tools rather than a comprehensive discussion of product delivery methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Beta Codex": {

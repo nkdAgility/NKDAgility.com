@@ -29,8 +29,8 @@ sitemap:
   priority: 0.6
 tags:
 - Mentoring
-- Continuous Learning
 - Coaching
+- Continuous Learning
 - People and Process
 - Team Collaboration
 - Personal

@@ -79,11 +79,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T01:19:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:04:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration of the Build Notifications application and the process of managing builds within Visual Studio, which aligns with the category's focus on installation and configuration procedures.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the installation and configuration of the 'Build Notifications' application within Visual Studio 2010, providing specific steps on how to access and configure it. It also touches on the importance of maintaining build quality and the implications of broken builds, which aligns with the category's focus on configuration best practices. However, the primary focus is more on the consequences of broken builds and team dynamics rather than a detailed guide on installation and configuration processes, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -1363,12 +1366,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:00:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:04:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of maintaining build quality and ownership within a team, which relates to collaboration and team dynamics, but it primarily focuses on technical aspects of build management rather than the frameworks of Scrum, Kanban, Lean, or Agile practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of maintaining build quality and the implications of broken builds, which indirectly relates to team dynamics and collaboration. However, it lacks explicit references to Scrum, Kanban, Lean, or Agile methodologies, and does not delve deeply into the principles of these frameworks. The focus is more on technical aspects of build management rather than on social technologies or collaborative frameworks.",
+    "level": "Quaternary"
   },
   "Leadership": {
     "category": "Leadership",

@@ -39,7 +39,7 @@ tags:
 - Agile Project Management
 - Pragmatic Thinking
 - Software Development
-- Agile Product Management
+- Professional Scrum
 resourceTypes:
 - video
 categories:

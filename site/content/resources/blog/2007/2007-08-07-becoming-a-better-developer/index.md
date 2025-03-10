@@ -27,8 +27,8 @@ aliasesArchive:
 - /becoming-a-better-developer
 - /resources/blog/becoming-a-better-developer
 tags:
-- Personal
 - Miscellaneous
+- Personal
 categories: []
 preview: metro-merilllynch-128-link-1-1.png
 

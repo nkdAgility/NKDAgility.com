@@ -33,7 +33,6 @@ aliasesArchive:
 tags:
 - Application Lifecycle Management
 - Software Development
-- Value Delivery
 - Windows
 - Practical Techniques and Tooling
 - Working Software

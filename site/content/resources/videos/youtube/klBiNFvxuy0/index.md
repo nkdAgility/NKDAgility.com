@@ -29,9 +29,9 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Agile Frameworks
 - Agile Project Management
 - Professional Scrum
-- Agile Frameworks
 - Agile Transformation
 - Scrum Master
 - Empirical Process Control

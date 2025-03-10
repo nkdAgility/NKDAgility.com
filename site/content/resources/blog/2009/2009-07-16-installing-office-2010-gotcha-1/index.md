@@ -23,6 +23,7 @@ aliasesArchive:
 - /installing-office-2010-gotcha-1
 - /resources/blog/installing-office-2010-gotcha-1
 tags:
+- Windows
 - Install and Configuration
 preview: nakedalm-logo-128-link-2-2.png
 categories: []

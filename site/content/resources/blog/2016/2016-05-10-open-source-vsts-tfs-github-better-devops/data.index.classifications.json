@@ -289,11 +289,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-14T21:01:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:39:53",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the integration and synchronisation of VSTS (now Azure DevOps) with GitHub, focusing on CI/CD practices and automation within Azure DevOps, which aligns well with the category.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily discusses the integration and synchronisation of VSTS (now Azure DevOps) with GitHub, focusing on CI/CD practices and automation within Azure DevOps. It provides detailed instructions on setting up builds and managing repositories, which aligns closely with Azure DevOps functionalities. The depth of discussion is significant, covering various scenarios and configurations, thus demonstrating a strong alignment with the category.",
     "level": "Secondary"
   },
   "Personal": {
@@ -1372,12 +1375,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:39:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of VSTS and GitHub in the context of DevOps and Agile practices, indicating a major but secondary theme related to collaboration and continuous improvement.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Agile practices and discusses the use of VSTS in a DevOps context, but it primarily focuses on synchronisation between VSTS and GitHub rather than on the core principles of Scrum, Kanban, Lean, or Agile methodologies. While there is some alignment with the themes of collaboration and continuous improvement, the depth of discussion on Social Technologies is limited, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

@@ -28,11 +28,11 @@ tags:
 - Agile Project Management
 - System Configuration
 - Azure Boards
-- Azure DevOps
 - Operational Practices
 - Pragmatic Thinking
 - Software Developers
 - Software Development
+- Azure DevOps
 categories:
 - Social Technologies
 - Scrum

@@ -29,13 +29,13 @@ sitemap:
   priority: 0.6
 tags:
 - Strategy
-- Agile Frameworks
 - Lean Thinking
 - Metrics and Learning
 - Operational Practices
 - Pragmatic Thinking
 - Flow Efficiency
 - Practical Techniques and Tooling
+- Agile Frameworks
 - Lean Principles
 - Lean
 resourceTypes:

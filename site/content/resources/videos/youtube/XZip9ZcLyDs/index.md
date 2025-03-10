@@ -29,8 +29,8 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum Master
-- Agile Project Management
 - People and Process
+- Agile Project Management
 - Scrum Team
 - Agile Leadership
 resourceTypes:

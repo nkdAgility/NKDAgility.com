@@ -23,6 +23,7 @@ preview: https://i.ytimg.com/vi/Bi4ToMME8Xs/maxresdefault.jpg
 duration: 20
 isShort: true
 tags:
+- Events and Presentations
 - People and Process
 - Professional Scrum
 - Scrum Master
@@ -32,7 +33,6 @@ tags:
 - Agile Project Management
 - Agile Transformation
 - Coaching
-- Events and Presentations
 sitemap:
   filename: sitemap.xml
   priority: 0.4

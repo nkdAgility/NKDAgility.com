@@ -32,8 +32,8 @@ tags:
 - Customer Feedback Loops
 - Organisational Agility
 - Team Collaboration
-- Agile Frameworks
 - Agile Project Management
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

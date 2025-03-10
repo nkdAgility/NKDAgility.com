@@ -214,11 +214,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T11:35:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:46:32",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the use of PowerShell with the TFS 2013 API to automate the addition of entries to a global list, showcasing engineering practices that enhance efficiency and code reusability.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on a technical implementation using PowerShell to interact with the TFS 2013 API, which demonstrates a specific engineering practice. However, while it discusses the technical process in detail, it lacks broader discussions on methodologies like TDD, CI/CD, or modular architecture that are central to the category of Technical Excellence. The content is more about a specific coding task rather than a comprehensive exploration of engineering practices that enhance agility in software development.",
     "level": "Secondary"
   },
   "Complexity Thinking": {

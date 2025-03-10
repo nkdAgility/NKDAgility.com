@@ -25,10 +25,10 @@ aliasesArchive:
 tags:
 - System Configuration
 - Install and Configuration
+- Windows
 - Practical Techniques and Tooling
 - Products and Books
 - Software Development
-- Windows
 - Azure DevOps
 categories: []
 

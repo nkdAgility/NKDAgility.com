@@ -33,7 +33,6 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Values and Principles
-- Scrum Master
 - Scrum Team
 - Agile Frameworks
 - Agile Leadership
@@ -42,6 +41,7 @@ tags:
 - Agile Transformation
 - Business Agility
 - Organisational Agility
+- People and Process
 resourceTypes:
 - video
 categories:

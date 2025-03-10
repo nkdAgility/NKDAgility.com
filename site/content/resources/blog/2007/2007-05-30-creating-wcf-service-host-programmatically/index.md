@@ -26,7 +26,6 @@ tags:
 - Windows
 - Software Development
 - Install and Configuration
-- Practical Techniques and Tooling
 - System Configuration
 - Technical Excellence
 - Technical Mastery

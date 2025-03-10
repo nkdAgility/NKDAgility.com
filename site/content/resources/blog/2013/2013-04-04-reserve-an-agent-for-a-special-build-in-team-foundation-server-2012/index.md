@@ -25,6 +25,7 @@ aliasesArchive:
 tags:
 - Pragmatic Thinking
 - Software Development
+- Install and Configuration
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-11-11.png

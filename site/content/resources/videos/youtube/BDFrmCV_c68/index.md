@@ -35,12 +35,12 @@ tags:
 - Pragmatic Thinking
 - Metrics and Learning
 - Value Delivery
+- Hypothesis Driven Development
 - Personal
 - Product Owner
 - Decision Making
 - Evidence Based Leadership
 - Experimentation
-- Hypothesis Driven Development
 resourceTypes:
 - video
 categories:

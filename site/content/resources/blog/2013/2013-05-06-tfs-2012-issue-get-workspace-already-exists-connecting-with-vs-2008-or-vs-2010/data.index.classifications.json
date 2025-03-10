@@ -1051,11 +1051,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T19:48:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:50:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses an issue related to the configuration of Visual Studio workspaces when connecting to Team Foundation Server, along with providing a workaround for configuration resolution. This aligns well with system configuration practices.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific issue related to workspace configuration in Visual Studio when connecting to Team Foundation Server (TFS). It directly addresses a configuration problem and provides a workaround, which aligns with the category's focus on system configuration. The mention of creating a 'Server' workspace and the implications of local versus server workspaces shows a good level of detail. However, while it is relevant, the discussion is somewhat narrow and does not cover broader system configuration practices or strategies, which slightly limits its overall depth and alignment.",
     "level": "Secondary"
   },
   "Product Strategy": {

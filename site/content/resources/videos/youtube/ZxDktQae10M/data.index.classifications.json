@@ -517,12 +517,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T16:42:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:37:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions installation and configuration basics, which are relevant to the Windows operating system, but the primary focus is on VSTS Sync Migration Tools rather than Windows itself.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses VSTS sync migration tools and their usage for migrating data between TFS and VSTS, which does not directly relate to the Windows operating system. While there are mentions of installation procedures and PowerShell commands, these are not the main focus of the content. The discussion lacks depth in Windows-specific topics such as installation, configuration, or troubleshooting of the Windows OS itself.",
+    "level": "Quinary"
   },
   "Sprint Review": {
     "category": "Sprint Review",

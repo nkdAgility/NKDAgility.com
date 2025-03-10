@@ -376,11 +376,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T02:06:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:06:00",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses advanced technical concepts related to dependency injection, specifically using Ninject in a WPF application, along with code implementation details that contribute to software craftsmanship and engineering practices.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on the implementation of dependency injection using Ninject in a WPF application, which aligns well with best practices in software design and architecture. It discusses the importance of maintaining clean code and improving code quality through the use of dependency injection, which is a key principle of software craftsmanship. The depth of discussion is substantial, providing code examples and explanations of how to create a custom DataSourceProvider, which demonstrates a strong understanding of technical concepts. Overall, the content is a detailed exploration of a specific technical practice, justifying a high confidence score in the 'Technical Mastery' category.",
     "level": "Secondary"
   },
   "Product Discovery": {

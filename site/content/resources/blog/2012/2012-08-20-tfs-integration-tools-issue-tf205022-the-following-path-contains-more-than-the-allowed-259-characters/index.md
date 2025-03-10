@@ -30,7 +30,6 @@ aliasesArchive:
 - /resources/blog/tfs-integration-tools-issue-tf205022-the-following-path-contains-more-than-the-allowed-259-characters
 tags:
 - Modern Source Control
-- Azure DevOps
 - Software Development
 - System Configuration
 - Troubleshooting

@@ -27,8 +27,8 @@ aliasesArchive:
 - /blog/uncommitted-changes-messing-up-your-sync-in-git-with-visual-studio
 - /resources/blog/uncommitted-changes-messing-sync-git-visual-studio
 tags:
-- Modern Source Control
 - Software Development
+- Modern Source Control
 - Troubleshooting
 - Practical Techniques and Tooling
 categories: []

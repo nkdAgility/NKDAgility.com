@@ -385,12 +385,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T10:22:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:22:28",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses IIS (Internet Information Services) which is a Microsoft web server product that runs on Windows, indicating a major theme related to the Windows environment. However, the primary focus is on proxy servers and specific issues with .pac files, suggesting that Windows is a secondary topic.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses IIS (Internet Information Services), which is a Windows feature, and references its version (IIS 6.0). However, the primary focus is on proxy servers and .pac files, with only a brief mention of Windows-related topics. The discussion lacks depth in terms of Windows-specific installation, configuration, or troubleshooting, making it more peripheral to the Windows category.",
+    "level": "Secondary"
   },
   "Azure Repos": {
     "category": "Azure Repos",

@@ -31,13 +31,13 @@ tags:
 - Estimation
 - Scrum Product Development
 - Scrum Team
-- Professional Scrum
 - Scrum Master
 - Agile Frameworks
 - Agile Planning
 - Agile Project Management
 - Pragmatic Thinking
 - Software Development
+- Agile Product Management
 resourceTypes:
 - video
 categories:

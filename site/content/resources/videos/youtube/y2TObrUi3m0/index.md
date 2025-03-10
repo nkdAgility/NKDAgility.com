@@ -29,6 +29,7 @@ tags:
 - Agile Values and Principles
 - Agile Philosophy
 - Agile Transformation
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

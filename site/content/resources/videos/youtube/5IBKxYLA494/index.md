@@ -28,6 +28,7 @@ tags:
 - Practical Techniques and Tooling
 - Scrum Product Development
 - Software Development
+- Agile Product Management
 - People and Process
 sitemap:
   filename: sitemap.xml

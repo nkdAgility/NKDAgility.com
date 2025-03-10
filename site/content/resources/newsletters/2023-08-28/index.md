@@ -28,9 +28,9 @@ tags:
 - Continuous Learning
 - Events and Presentations
 - News and Reviews
-- People and Process
 - Product Owner
 - Products and Books
+- Scrum Master
 
 ---
 Greetings,

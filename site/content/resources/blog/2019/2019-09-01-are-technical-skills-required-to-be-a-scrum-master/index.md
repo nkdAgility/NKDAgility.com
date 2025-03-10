@@ -29,7 +29,6 @@ aliasesArchive:
 tags:
 - Coaching
 - Scrum Product Development
-- Events and Presentations
 - Professional Scrum
 - Scrum Master
 - Scrum Team
@@ -37,6 +36,7 @@ tags:
 - Team Performance
 - Technical Mastery
 - People and Process
+- Technical Leadership
 categories:
 - Scrum
 preview: 1029723898-1-1.jpg

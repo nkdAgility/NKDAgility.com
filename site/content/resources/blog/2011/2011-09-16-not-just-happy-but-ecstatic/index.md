@@ -33,7 +33,6 @@ aliasesArchive:
 tags:
 - Pragmatic Thinking
 - Operational Practices
-- Personal
 - Release Management
 - Technical Mastery
 - Practical Techniques and Tooling

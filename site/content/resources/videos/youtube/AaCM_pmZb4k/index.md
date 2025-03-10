@@ -43,7 +43,6 @@ resourceTypes:
 - video
 categories:
 - Leadership
-- Social Technologies
 
 ---
 ## Hierarchies of Competence Vs Control: Insights & Relevance

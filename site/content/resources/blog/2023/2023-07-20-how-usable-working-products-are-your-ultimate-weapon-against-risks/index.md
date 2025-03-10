@@ -27,16 +27,16 @@ tags:
 - Agile Product Management
 - Product Delivery
 - Increment
+- Market Adaptability
 - Agile Product Operating Model
 - Agile Strategy
 - Customer Feedback Loops
 - Engineering Practices
 - Software Developers
 - Software Development
-- Working Software
 categories:
-- Engineering Excellence
 - Social Technologies
+- Engineering Excellence
 - Product Management
 preview: image-1.jpg
 

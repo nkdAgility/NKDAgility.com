@@ -25,7 +25,8 @@ aliasesArchive:
 tags:
 - Install and Configuration
 categories:
-- Social Technologies
+- Scrum
+- Product Management
 preview: metro-sharepoint-128-link-23-23.png
 
 ---

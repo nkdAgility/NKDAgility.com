@@ -26,13 +26,13 @@ isShort: false
 tags:
 - People and Process
 - Team Motivation
+- Organisational Psychology
 - Agile Values and Principles
 - Agile Leadership
 - Agile Philosophy
 - Coaching
 - Employee Engagement
 - Organisational Culture
-- Organisational Psychology
 - Self Organisation
 sitemap:
   filename: sitemap.xml

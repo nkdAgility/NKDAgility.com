@@ -268,12 +268,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T12:41:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:00:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Kanban boards and workflow visualisation, which are relevant to product delivery methodologies, but the primary focus is on the practical aspects of Kanban rather than the broader product delivery process.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the use of a Kanban board, which is a tool related to workflow visualisation in product delivery. However, it primarily focuses on the mechanics of setting up a Kanban board rather than the broader methodologies and practices involved in delivering software products. While it touches on aspects of workflow and efficiency, it lacks depth in discussing key topics such as Agile methodologies, iterative development, or deployment strategies, which are central to the category of Product Delivery.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

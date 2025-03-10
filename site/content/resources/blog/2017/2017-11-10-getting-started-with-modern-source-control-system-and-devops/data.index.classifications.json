@@ -217,11 +217,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-14T18:58:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:37:49",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses modern source control systems and DevOps practices, emphasising the importance of automated release pipelines, source control, and engineering excellence, which aligns closely with the principles of Technical Excellence.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses various aspects of modern source control systems and DevOps practices, which are relevant to technical excellence. It mentions the importance of source control, automated release pipelines, and practices like Test-Driven Development (TDD). However, while these topics are touched upon, the discussion lacks depth in exploring the principles and methodologies that enhance agility in software development. The focus is more on tools and practices rather than a comprehensive exploration of engineering excellence principles.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -1255,12 +1258,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-10T14:37:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "The content primarily discusses source control systems and DevOps practices, with only peripheral references to product management concepts such as user feedback and team collaboration.",
-    "level": "Quaternary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on source control systems and DevOps practices, with a strong emphasis on technical implementation details rather than strategic product management. While there are brief mentions of team collaboration and the importance of user feedback, these are not explored in the context of product management methodologies or frameworks. The discussion lacks depth in strategic alignment with customer needs and business objectives, which are core themes of product management.",
+    "level": "Quinary"
   },
   "Self Organisation": {
     "category": "Self Organisation",

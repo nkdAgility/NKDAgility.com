@@ -30,9 +30,9 @@ tags:
 - Test First Development
 - Software Development
 - Test Automation
-- Azure DevOps
 - Engineering Practices
 - Pragmatic Thinking
+- Software Developers
 categories:
 - Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-3-3.png

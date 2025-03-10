@@ -217,11 +217,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T02:17:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:06:27",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of a logging system that integrates with Team Foundation Server (TFS), focusing on engineering practices such as error logging, work item management, and the use of templates for work item creation. It demonstrates technical methodologies that enhance software development processes, aligning well with the principles of Technical Excellence.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on implementing a logging mechanism for errors in Team Foundation Server (TFS) using Elmah, which involves technical practices such as error logging, work item management, and integration with TFS. While it does not explicitly mention concepts like TDD or CI/CD, it demonstrates technical excellence through detailed code examples and discussions on modular architecture and error handling. However, the lack of direct references to broader engineering methodologies limits its alignment with the category.",
     "level": "Secondary"
   },
   "Complexity Thinking": {

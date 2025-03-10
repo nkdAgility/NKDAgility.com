@@ -34,7 +34,6 @@ tags:
 - News and Reviews
 - Software Development
 - Practical Techniques and Tooling
-- Events and Presentations
 - Install and Configuration
 categories: []
 preview: nakedalm-experts-visual-studio-alm-1-1.png

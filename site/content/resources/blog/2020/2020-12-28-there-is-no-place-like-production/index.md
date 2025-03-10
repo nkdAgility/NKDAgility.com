@@ -36,6 +36,7 @@ tags:
 - Metrics and Learning
 categories:
 - Product Management
+- Social Technologies
 preview: wizard-of-oz-ruby-slippers-2018-billboard-1548-2-2.jpg
 
 ---

@@ -160,11 +160,14 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-14T18:37:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:37:19",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the integration of Kanban practices within the Scrum framework, focusing on flow optimisation, limiting WIP, and metrics like cycle time and throughput, which are central to flow efficiency.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the integration of Kanban practices within the Scrum framework, focusing on flow efficiency principles such as limiting WIP, visualising workflow, and measuring metrics like cycle time and throughput. It provides a detailed overview of how these practices can enhance flow efficiency in Scrum teams, indicating a strong alignment with the category. However, while flow efficiency is a significant theme, the content also includes broader discussions about Scrum and training, which slightly dilutes the primary focus.",
     "level": "Secondary"
   },
   "People and Process": {
@@ -205,12 +208,15 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:37:17",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Kanban principles and practices, particularly in relation to Scrum, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses Kanban principles and practices extensively, particularly in the context of Scrum. It mentions key Kanban concepts such as visualisation of workflow, limiting WIP, and metrics like cycle time and throughput. However, the primary focus is on integrating Kanban with Scrum rather than solely on Kanban itself, which slightly reduces the confidence score.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",

@@ -373,11 +373,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T19:06:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:13:19",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration of Service Principal Names (SPNs) for SQL Server, which directly aligns with system configuration processes and methodologies.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the addition of Service Principal Names (SPNs) in Active Directory for SQL Server connectivity, which is a specific aspect of system configuration. It directly mentions the configuration of SPNs, which is relevant to system setup. However, while it touches on the process of connecting to SQL Server and moving databases, it lacks a broader discussion on best practices or optimisation strategies, limiting its depth. Overall, it aligns well with the category but does not provide extensive detail.",
     "level": "Secondary"
   },
   "Ability to Innovate": {

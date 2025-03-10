@@ -27,6 +27,7 @@ duration: 291
 isShort: false
 tags:
 - Professional Scrum
+- People and Process
 - Scrum Master
 - Agile Project Management
 - Team Performance

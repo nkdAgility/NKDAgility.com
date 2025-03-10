@@ -58,11 +58,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T21:31:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:18:30",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the deployment process, configuration challenges, and the need for a structured installation and rollback strategy for a complex application, which aligns well with the Install and Configuration category.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the deployment process and configuration of a complex application, which aligns with the category of Install and Configuration. It mentions the need for a structured deployment process, including version control and rollback mechanisms, which are key aspects of installation and configuration. However, the discussion is somewhat anecdotal and lacks detailed step-by-step instructions or best practices, which affects the depth of the content. The primary focus is on the challenges faced with the vendor rather than a comprehensive guide, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -1240,11 +1243,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:18:25",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of deployment processes and rollback strategies, which align with practices in software delivery and engineering best practices, but it primarily focuses on vendor management and deployment logistics rather than on engineering excellence specifically.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the deployment process and the need for better control and rollback mechanisms, which touches on aspects of engineering excellence such as quality assurance and continuous improvement. However, it lacks a direct focus on broader engineering practices or principles, and the depth of discussion is limited to a specific deployment scenario without extensive exploration of best practices or metrics.",
     "level": "Tertiary"
   },
   "Revenue per Employee": {

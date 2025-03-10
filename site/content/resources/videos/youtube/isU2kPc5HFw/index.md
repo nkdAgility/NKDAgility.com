@@ -33,8 +33,8 @@ tags:
 - Practical Techniques and Tooling
 - Software Developers
 - Software Development
-- Personal
 - Pragmatic Thinking
+- Personal
 resourceTypes:
 - video
 categories:

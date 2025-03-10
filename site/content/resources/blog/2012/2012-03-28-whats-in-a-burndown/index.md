@@ -34,9 +34,9 @@ tags:
 - Agile Planning
 - Agile Project Management
 - Metrics and Learning
-- People and Process
 - Professional Scrum
 - Software Developers
+- Team Performance
 categories:
 - Scrum
 preview: nakedalm-logo-128-link-1-1.png

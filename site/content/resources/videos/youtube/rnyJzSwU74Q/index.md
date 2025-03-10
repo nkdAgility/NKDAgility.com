@@ -25,6 +25,7 @@ preview: https://i.ytimg.com/vi/rnyJzSwU74Q/maxresdefault.jpg
 duration: 866
 isShort: false
 tags:
+- Pragmatic Thinking
 - Software Developers
 - Agile Project Management
 - Agile Philosophy

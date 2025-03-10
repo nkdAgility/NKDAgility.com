@@ -26,6 +26,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Pragmatic Thinking
 - Coaching
 - Agile Values and Principles
 - Resilience and Change
@@ -35,7 +36,6 @@ tags:
 - Agile Strategy
 - Agile Transformation
 - Change Management
-- People and Process
 resourceTypes:
 - video
 categories:

@@ -32,12 +32,12 @@ tags:
 - Product Backlog
 - Product Owner
 - Scrum Product Development
-- People and Process
 - Professional Scrum
 - Scrum Master
 - Scrum Team
 - Software Developers
 - Agile Frameworks
+- Agile Planning
 resourceTypes:
 - video
 categories:

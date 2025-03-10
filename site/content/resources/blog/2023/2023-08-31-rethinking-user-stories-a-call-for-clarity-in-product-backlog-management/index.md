@@ -31,13 +31,13 @@ tags:
 - Transparency
 - Product Delivery
 - Scrum Product Development
-- People and Process
 - Product Backlog
 - Agile Project Management
 - Pragmatic Thinking
 - Product Owner
 - Software Development
 - Agile Product Management
+- People and Process
 categories:
 - Product Management
 - Scrum

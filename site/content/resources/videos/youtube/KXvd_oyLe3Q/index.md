@@ -32,13 +32,13 @@ tags:
 - Discovery and Learning
 - Pragmatic Thinking
 - Azure DevOps
-- Complexity Thinking
 - Continuous Learning
 - Metrics and Learning
 - People and Process
 - Ability to Innovate
 - Change Management
 - Engineering Practices
+- Frequent Releases
 resourceTypes:
 - video
 categories:

@@ -29,9 +29,9 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
+- Azure DevOps
 - Continuous Integration
 - System Configuration
-- Azure DevOps
 - Modern Source Control
 - Operational Practices
 - Software Developers

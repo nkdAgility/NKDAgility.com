@@ -289,12 +289,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T19:10:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:51:06",
+    "ai_confidence": 62.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 55.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the integration and upgrade process of Team Foundation Server (TFS) 2010 and 2012, which are part of the Azure DevOps suite. It focuses on build servers and workflows, aligning with Azure DevOps functionalities.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses the compatibility and upgrade paths between Visual Studio 2012 and Team Foundation Server (TFS) 2010, which is part of the Azure DevOps suite. It provides detailed technical information about connecting build servers and agents, which aligns with Azure DevOps functionalities. However, it lacks broader discussions on Azure DevOps services and methodologies, focusing instead on specific technical aspects of TFS. This results in a moderate confidence score, as it is relevant but not comprehensive in covering the full scope of Azure DevOps.",
+    "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",

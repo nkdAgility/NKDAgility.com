@@ -27,10 +27,10 @@ aliasesArchive:
 - /blog/should-the-scrum-master-always-remove-impediments-
 - /resources/blog/should-the-scrum-master-always-remove-impediments
 tags:
+- Scrum Team
 - People and Process
 - Professional Scrum
 - Scrum Master
-- Scrum Team
 - Pragmatic Thinking
 - Scrum Product Development
 - Team Collaboration

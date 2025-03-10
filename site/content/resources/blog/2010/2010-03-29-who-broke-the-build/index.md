@@ -28,7 +28,6 @@ aliasesArchive:
 - /resources/blog/who-broke-the-build
 tags:
 - Windows
-- Install and Configuration
 - Application Lifecycle Management
 - Modern Source Control
 - Software Developers
@@ -37,6 +36,7 @@ tags:
 - Azure DevOps
 - Azure Pipelines
 - Continuous Delivery
+- Continuous Integration
 preview: metro-visual-studio-2010-128-link-10-10.png
 categories:
 - Engineering Excellence

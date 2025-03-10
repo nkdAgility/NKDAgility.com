@@ -35,11 +35,11 @@ tags:
 - Agile Strategy
 - People and Process
 - Market Adaptability
-- Business Agility
 - Pragmatic Thinking
+- Business Agility
 categories:
-- Social Technologies
 - Engineering Excellence
+- Social Technologies
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

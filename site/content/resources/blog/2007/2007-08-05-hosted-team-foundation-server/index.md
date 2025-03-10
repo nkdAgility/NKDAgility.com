@@ -23,12 +23,12 @@ aliasesArchive:
 - /hosted-team-foundation-server
 - /resources/blog/hosted-team-foundation-server
 tags:
+- Azure DevOps
 - News and Reviews
 - Practical Techniques and Tooling
 - Products and Books
 - Software Development
 - Application Lifecycle Management
-- Azure DevOps
 - Modern Source Control
 - Troubleshooting
 categories: []

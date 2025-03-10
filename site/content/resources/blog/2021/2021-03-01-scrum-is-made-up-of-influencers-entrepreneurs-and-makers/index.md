@@ -32,8 +32,8 @@ aliasesArchive:
 - /blog/scrum-is-made-up-of-influencers--entrepreneurs--and-makers
 - /resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
 tags:
-- Agile Project Management
 - People and Process
+- Agile Project Management
 - Agile Frameworks
 - Product Delivery
 - Value Delivery

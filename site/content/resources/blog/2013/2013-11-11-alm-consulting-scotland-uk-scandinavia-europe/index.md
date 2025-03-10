@@ -36,9 +36,9 @@ tags:
 - Practical Techniques and Tooling
 - People and Process
 - Software Development
-- Product Delivery
 - Operational Practices
 - Pragmatic Thinking
+- Product Delivery
 - Agile Project Management
 - Deployment Strategies
 categories:
