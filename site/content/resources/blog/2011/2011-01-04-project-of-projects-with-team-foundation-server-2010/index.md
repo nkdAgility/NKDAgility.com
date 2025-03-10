@@ -8,7 +8,7 @@ ResourceImportId: 18
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2011-01-04
-weight: 775
+weight: 700
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,14 +24,14 @@ aliasesArchive:
 - /resources/blog/project-of-projects-with-team-foundation-server-2010
 tags:
 - Practical Techniques and Tooling
+- Azure DevOps
 - Application Lifecycle Management
 - Software Development
-- Azure DevOps
 - Operational Practices
 - Pragmatic Thinking
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
 - Social Technologies
 preview: metro-visual-studio-2010-128-link-8-8.png
 

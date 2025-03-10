@@ -76,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T19:48:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:54:26",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses troubleshooting and configuring the TFS Integration Platform, including specific steps to resolve a permission issue related to service accounts, which aligns with installation and configuration topics.",
+    "final_score": 80.0,
+    "reasoning": "The content provides a detailed discussion on a specific installation and configuration issue related to the TFS Integration Platform. It explicitly mentions the error encountered during the initial setup and offers a solution involving command-line tools, which aligns well with the category's focus on actionable installation and configuration guidance. The depth of the discussion is significant, as it includes troubleshooting steps and specific commands to resolve the issue, demonstrating a strong alignment with the key topics outlined in the category.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -121,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:54:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the TFS Integration Platform and its configuration, which relates to DevOps practices, but it primarily focuses on a specific technical issue rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific issue related to the TFS Integration Platform, which is a tool used in DevOps environments. However, it primarily focuses on a technical error and its resolution rather than broader DevOps principles, practices, or cultural aspects. While it touches on aspects of automation and tool usage, it lacks a comprehensive discussion on DevOps methodologies or practices, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

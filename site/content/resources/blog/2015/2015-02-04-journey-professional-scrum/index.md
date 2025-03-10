@@ -8,7 +8,7 @@ ResourceImportId: 11115
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-02-04
-weight: 540
+weight: 465
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,6 +27,7 @@ aliasesArchive:
 - /blog/my-journey-into-professional-scrum
 - /resources/blog/journey-professional-scrum
 tags:
+- Discovery and Learning
 - People and Process
 - Scrum Product Development
 - Strategy
@@ -36,7 +37,6 @@ tags:
 - Organisational Change
 - Organisational Culture
 - Product Delivery
-- Professional Scrum
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-5-5.png

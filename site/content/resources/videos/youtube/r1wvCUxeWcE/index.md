@@ -25,8 +25,8 @@ preview: https://i.ytimg.com/vi/r1wvCUxeWcE/maxresdefault.jpg
 duration: 57
 isShort: true
 tags:
-- Practical Techniques and Tooling
 - Operational Practices
+- Practical Techniques and Tooling
 - Software Development
 - Lean Principles
 - Agile Frameworks

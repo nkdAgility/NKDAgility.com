@@ -27,8 +27,8 @@ aliasesArchive:
 - /blog/a-change-for-the-better--3---ssw-to-northwest-cadence
 - /resources/blog/a-change-for-the-better-3
 tags:
-- Application Lifecycle Management
 - People and Process
+- Application Lifecycle Management
 - Agile Project Management
 - Software Developers
 - Continuous Learning

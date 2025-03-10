@@ -82,12 +82,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:25:14",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a refactor of a TFS Event Handler project, which involves architectural changes and modularisation, indicating a focus on technical practices. However, it lacks depth in discussing broader engineering methodologies or principles that enhance agility and quality.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses a refactor of a TFS Event Handler project, which implies some technical practices related to modular architecture. However, it lacks explicit mentions of key topics such as TDD, CI/CD, or Agile methodologies. The discussion is somewhat aligned with the principles of technical excellence but does not provide sufficient depth or detail on these practices.",
+    "level": "Quaternary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1045,12 +1048,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:52:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:25:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a refactoring process within a software project, which aligns with principles of software craftsmanship and the continuous improvement of engineering practices. However, it mainly focuses on the specifics of the implementation rather than on broader best practices or engineering excellence as a primary topic.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a refactoring effort, which touches on aspects of software craftsmanship and improving code structure. However, it lacks explicit mentions of best practices, quality assurance, or broader engineering processes. The focus is primarily on the specific implementation details of the TFS Event Handler project rather than a comprehensive discussion on engineering excellence.",
+    "level": "Quaternary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",

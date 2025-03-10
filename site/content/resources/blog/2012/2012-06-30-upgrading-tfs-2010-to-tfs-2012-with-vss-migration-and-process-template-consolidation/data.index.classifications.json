@@ -76,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T20:21:42",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-10T12:56:06",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 40,
     "non_ai_confidence": 30,
-    "final_score": 84.0,
-    "reasoning": "The content primarily focuses on the installation and configuration processes involved in upgrading TFS from 2010 to 2012, including detailed steps, troubleshooting, and best practices for migration and configuration of related systems.",
+    "final_score": 81.0,
+    "reasoning": "The content provides a comprehensive guide on upgrading TFS from 2010 to 2012, detailing installation procedures, configuration steps, and troubleshooting common issues. It includes specific instructions, code examples, and references to best practices, aligning closely with the key topics of the 'Install and Configuration' category. The depth of discussion is significant, covering various aspects of the upgrade process, including trial upgrades, configuration files, and user mapping, which are essential for effective implementation.",
     "level": "Primary"
   },
   "Transparency and Accountability": {
@@ -1249,12 +1252,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:56:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses aspects of managing the upgrade of TFS and process templates which can relate to product management principles, particularly in the context of aligning projects with organizational objectives and managing workflows. However, the primary focus is on technical details and implementation specifics which are not central to the strategic aspects of product management.",
-    "level": "Tertiary"
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on technical implementation details related to upgrading TFS and migrating data from VSS, which does not align with the strategic aspects of product management. While there are brief mentions of process templates and team features, these are overshadowed by the technical nature of the content, lacking a focus on customer needs, business objectives, or methodologies relevant to product management.",
+    "level": "Quinary"
   },
   "Self Organisation": {
     "category": "Self Organisation",

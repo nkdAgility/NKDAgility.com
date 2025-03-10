@@ -8,7 +8,7 @@ ResourceImportId: 9731
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-08
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,6 +23,7 @@ aliasesArchive:
 - /create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
 - /resources/blog/create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
 tags:
+- Install and Configuration
 - Software Development
 categories:
 - Social Technologies

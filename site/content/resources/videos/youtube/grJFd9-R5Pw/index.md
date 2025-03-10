@@ -33,7 +33,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 How does the APS course help people apply scrum effectively?

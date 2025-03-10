@@ -30,7 +30,6 @@ tags:
 - Application Lifecycle Management
 - Azure DevOps
 - Modern Source Control
-- Software Developers
 - Troubleshooting
 categories: []
 

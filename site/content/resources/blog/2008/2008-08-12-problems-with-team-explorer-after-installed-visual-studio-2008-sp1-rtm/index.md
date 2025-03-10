@@ -23,8 +23,8 @@ aliasesArchive:
 - /problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm
 - /resources/blog/problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm
 tags:
-- Install and Configuration
 - Troubleshooting
+- Install and Configuration
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

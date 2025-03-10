@@ -26,6 +26,7 @@ duration: 2961
 isShort: false
 tags:
 - Events and Presentations
+- Team Collaboration
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
@@ -34,6 +35,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Leadership
 - Social Technologies
 - Scrum
 

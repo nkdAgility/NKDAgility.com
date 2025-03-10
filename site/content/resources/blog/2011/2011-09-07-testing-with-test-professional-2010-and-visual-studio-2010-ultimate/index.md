@@ -23,8 +23,8 @@ aliasesArchive:
 - /testing-with-test-professional-2010-and-visual-studio-2010-ultimate
 - /resources/blog/testing-with-test-professional-2010-and-visual-studio-2010-ultimate
 tags:
-- Application Lifecycle Management
 - Events and Presentations
+- Application Lifecycle Management
 - Products and Books
 - Practical Techniques and Tooling
 categories: []

@@ -1156,11 +1156,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-13T22:01:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:26:34",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of team dynamics, cross-functional teams, and the impact of structured methodologies on software delivery, which aligns closely with the themes of collaboration and process improvement in Agile environments.",
+    "final_score": 76.0,
+    "reasoning": "The content extensively discusses the importance of team dynamics, cross-functional collaboration, and the impact of organisational structures on agile processes. It highlights the need for teams to take responsibility for delivering working software and addresses the human factors involved in Agile methodologies. The depth of discussion on fostering effective teams and improving processes aligns well with the category, while also providing specific strategies for enhancing productivity and innovation.",
     "level": "Secondary"
   },
   "Product Delivery": {
@@ -1183,12 +1186,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:26:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses aspects of agile delivery and the importance of cross-functional teams, which are relevant to DevOps principles. However, the primary focus is on Scrum practices rather than a comprehensive exploration of DevOps as a whole.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses agile methodologies and the importance of cross-functional teams, which are relevant to DevOps principles. However, it primarily focuses on Scrum practices and does not explicitly mention DevOps concepts such as Continuous Integration or Continuous Delivery. While there are references to automation and team collaboration, the depth of discussion on DevOps-specific tools and practices is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",

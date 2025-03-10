@@ -118,12 +118,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:54:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to Team Foundation Server (TFS), which is a tool used in DevOps practices, but the primary focus is on troubleshooting a specific error rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific issue related to Team Foundation Server (TFS) and troubleshooting steps, which are more aligned with technical support rather than broader DevOps principles. While it touches on version control, it lacks a comprehensive discussion on DevOps practices, automation, or cultural shifts. The focus is on resolving a technical problem rather than exploring the integration of development and operations or continuous delivery.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -580,11 +583,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T21:22:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:54:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily deals with an issue related to Team Foundation Server (TFS), discussing troubleshooting steps and a technical bug fix, which are central to software development practices involving version control systems.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses a specific issue related to Team Foundation Server (TFS), which is a tool used in software development for version control and project management. It provides a detailed account of troubleshooting steps and technical details regarding a bug in the version control subsystem. While it does not explicitly cover broader software development methodologies or practices, it aligns with the category through its focus on a software development tool and the resolution of a technical issue within that context. The depth of discussion is moderate, providing insights into the problem and its resolution, but it lacks extensive coverage of software development principles or practices.",
     "level": "Secondary"
   },
   "Agile Project Management": {

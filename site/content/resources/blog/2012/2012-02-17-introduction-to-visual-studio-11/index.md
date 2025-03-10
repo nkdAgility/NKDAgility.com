@@ -23,13 +23,13 @@ aliasesArchive:
 - /introduction-to-visual-studio-11
 - /resources/blog/introduction-to-visual-studio-11
 tags:
-- Events and Presentations
 - Install and Configuration
 - News and Reviews
 - Practical Techniques and Tooling
 - Products and Books
 - Azure DevOps
 - Software Development
+- Events and Presentations
 categories: []
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 

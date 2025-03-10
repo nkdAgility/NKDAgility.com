@@ -26,6 +26,15 @@ duration: 17
 isShort: true
 tags:
 - People and Process
+- Agile Product Management
+- Agile Project Management
+- Ability to Innovate
+- Agile Frameworks
+- Agile Leadership
+- Agile Strategy
+- Agile Transformation
+- Business Agility
+- Continuous Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -35,7 +44,6 @@ resourceTypes:
 - video
 categories:
 - Leadership
-- Product Management
 
 ---
 As I reflect on my journey through the world of Agile, I often find myself thinking about the importance of continuous learning and skill enhancement. Recently, I had the opportunity to participate in an evidence-based management class, and I can’t help but share how transformative this experience was for me and how it can be for you too.

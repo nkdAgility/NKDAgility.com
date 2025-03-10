@@ -37,8 +37,8 @@ resourceTypes:
 - video
 categories:
 - Product Management
+- Social Technologies
 - Scrum
-- Leadership
 
 ---
 ## The Core of PSPO: Unearthing the Essence of Value

@@ -27,8 +27,8 @@ aliasesArchive:
 - /blog/do-you-know-about-the-visual-studio-2010-architecture-guidance-
 - /resources/blog/do-you-know-about-the-visual-studio-2010-architecture-guidance
 tags:
-- Practical Techniques and Tooling
 - Products and Books
+- Practical Techniques and Tooling
 - Software Development
 - Technical Mastery
 preview: metro-visual-studio-2010-128-link-4-4.png

@@ -29,7 +29,6 @@ tags:
 - People and Process
 - Team Performance
 - Miscellaneous
-- Organisational Psychology
 - Team Collaboration
 - Team Motivation
 

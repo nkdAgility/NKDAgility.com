@@ -29,9 +29,9 @@ aliasesArchive:
 tags:
 - Troubleshooting
 - Modern Source Control
-- Pragmatic Thinking
 - Software Development
 - Practical Techniques and Tooling
+- Pragmatic Thinking
 categories: []
 
 ---

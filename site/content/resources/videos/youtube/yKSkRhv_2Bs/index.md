@@ -29,7 +29,6 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Agile Frameworks
 - Agile Project Management
 - Professional Scrum
 resourceTypes:

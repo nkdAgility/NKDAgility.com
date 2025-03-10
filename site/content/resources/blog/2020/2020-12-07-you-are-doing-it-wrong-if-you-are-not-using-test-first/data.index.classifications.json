@@ -1165,11 +1165,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-13T22:05:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:26:39",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of Test First principles, particularly Test Driven Development (TDD), in the context of delivering quality software products. It highlights how these practices contribute to meeting customer needs and reducing maintenance costs, which aligns closely with the methodologies and practices involved in product delivery.",
+    "final_score": 74.0,
+    "reasoning": "The content extensively discusses the importance of Test First principles, particularly in relation to Test Driven Development (TDD), which is a critical aspect of ensuring quality in product delivery. It aligns well with the category by addressing methodologies that enhance the delivery process, such as the need for validation and feedback loops. The depth of discussion on how Test First can lead to better customer satisfaction and reduced maintenance costs further supports its relevance to product delivery. However, while it is focused on testing practices, it does not cover broader aspects of product delivery such as deployment strategies or cross-functional team dynamics, which slightly limits its overall alignment.",
     "level": "Secondary"
   },
   "Organisational Psychology": {
@@ -1183,12 +1186,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:26:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Test First principles and their importance in software development, which relates to DevOps practices, particularly in the context of Continuous Delivery. However, the primary focus is on testing methodologies rather than a comprehensive exploration of DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses Test First principles and their importance in software development, particularly in relation to Test Driven Development (TDD). While it touches on aspects of continuous delivery and the need for validation in the development process, it primarily focuses on testing methodologies rather than the broader DevOps practices. The mention of DevOps is limited and not a primary focus, which affects the overall confidence score.",
+    "level": "Secondary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",

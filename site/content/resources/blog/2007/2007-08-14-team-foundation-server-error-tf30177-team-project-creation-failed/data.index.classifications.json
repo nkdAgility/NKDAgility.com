@@ -55,11 +55,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T20:56:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:21:02",
+    "ai_confidence": 85.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses troubleshooting and configuration steps for Team Foundation Server (TFS), including specific instructions for modifying server settings and resolving proxy errors during project creation.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed guide on troubleshooting a specific error encountered during the installation and configuration of Team Foundation Server (TFS). It explicitly discusses the installation process, including steps to resolve proxy issues and modify server settings, which aligns well with the category's focus on actionable instructions. The depth of discussion is significant, as it includes specific commands and XML configurations necessary for proper setup. Overall, the content is highly relevant to the Install and Configuration category.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -307,12 +310,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:13:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:20:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses troubleshooting and configuration of Team Foundation Server (TFS), which is relevant to DevOps practices, but it primarily focuses on a specific error and its resolution rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific error related to Team Foundation Server (TFS) and provides troubleshooting steps. While it touches on aspects of deployment and configuration, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. The focus is more on technical resolution rather than the integration of people, processes, and tools that characterise DevOps.",
+    "level": "Quaternary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",

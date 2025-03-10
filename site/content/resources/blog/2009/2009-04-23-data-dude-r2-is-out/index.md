@@ -27,7 +27,6 @@ aliasesArchive:
 - /blog/data-dude-r2-is-out-
 - /resources/blog/data-dude-r2-is-out
 tags:
-- News and Reviews
 - Products and Books
 categories: []
 

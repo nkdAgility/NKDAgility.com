@@ -24,9 +24,17 @@ aliasesArchive:
 - /resources/blog/upgrading-team-foundation-server-2008-to-2010
 tags:
 - Install and Configuration
+- Practical Techniques and Tooling
+- Operational Practices
+- System Configuration
+- Application Lifecycle Management
+- Azure DevOps
+- Release Management
+- Software Development
+- Technical Mastery
+- Troubleshooting
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories:
-- DevOps
 - Social Technologies
 
 ---

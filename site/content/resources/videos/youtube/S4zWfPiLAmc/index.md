@@ -33,9 +33,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Metrics and Learning
 - Transparency
 - Cycle Time
-- Metrics and Learning
 - Empirical Process Control
 - Evidence Based Leadership
 - Evidence Based Management

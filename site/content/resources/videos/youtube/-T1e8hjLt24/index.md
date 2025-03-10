@@ -28,7 +28,6 @@ tags:
 - Miscellaneous
 - Continuous Learning
 - Discovery and Learning
-- Products and Books
 sitemap:
   filename: sitemap.xml
   priority: 0.6

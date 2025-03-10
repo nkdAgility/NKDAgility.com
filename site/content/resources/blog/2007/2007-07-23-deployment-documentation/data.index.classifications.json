@@ -1,11 +1,14 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T21:31:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:22:30",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the deployment process of a business application, including tracking, control, and rollback strategies, which are key aspects of Application Lifecycle Management.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on the deployment process of a business application, which is a crucial stage in the application lifecycle. It discusses the need for tracking and controlling deployments, as well as the importance of rollback mechanisms, which aligns with best practices in application lifecycle management. However, while it touches on deployment and some aspects of governance, it lacks a comprehensive discussion of the entire application lifecycle or the integration of methodologies like Agile or DevOps. Therefore, while it is relevant, it does not fully encompass the broader scope of Application Lifecycle Management.",
     "level": "Secondary"
   },
   "Flow Efficiency": {
@@ -307,11 +310,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:32:12",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T13:22:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses deployment processes, control of environments, and the need for automation and rollback strategies, which are relevant to DevOps practices. However, it primarily focuses on vendor interactions and specific deployment challenges rather than broader DevOps principles.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses deployment processes and the need for better control and automation in deployment, which aligns with DevOps principles. However, it lacks explicit mentions of DevOps practices and does not delve deeply into CI/CD or cultural shifts, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Technical Excellence": {

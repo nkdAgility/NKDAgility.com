@@ -29,8 +29,8 @@ aliasesArchive:
 - /blog/visual-studio-2010-overview---introduction
 - /resources/blog/visual-studio-2010-overview-introduction
 tags:
-- Application Lifecycle Management
 - Events and Presentations
+- Application Lifecycle Management
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories: []
 

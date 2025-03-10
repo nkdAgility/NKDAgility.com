@@ -33,18 +33,18 @@ tags:
 - Decision Theory
 - Decision Making
 - Product Owner
-- Products and Books
 - Agile Project Management
 - Team Collaboration
 - Entrepreneurship
 - Pragmatic Thinking
+- Products and Books
 - Sensemaking
 resourceTypes:
 - video
 categories:
 - Product Management
 - Leadership
-- Social Technologies
+- Scrum
 
 ---
 ## Understanding the Dynamics of Consensus 🤔 

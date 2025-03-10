@@ -28,12 +28,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T09:51:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:27:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the implementation of TFS and the implications for team structure and collaboration, indicating a secondary theme related to people and process.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the implementation of TFS and the challenges associated with scaling the team, which touches on team dynamics and the need for effective processes. However, it primarily focuses on technical aspects and cost considerations rather than deeply exploring human behaviour or structured methodologies in technology and product development.",
+    "level": "Quaternary"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -346,11 +349,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:51:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:27:00",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implementation of TFS (Team Foundation Server) and its importance in managing a large development team, which relates to DevOps principles. However, the focus is more on project management and infrastructure rather than core DevOps practices.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the implementation of TFS (Team Foundation Server) and its importance in managing a large development team, which aligns with DevOps principles of integrating tools for better collaboration and efficiency. However, the focus is more on project management and cost considerations rather than on core DevOps practices like CI/CD or automation. The discussion lacks depth in terms of specific DevOps methodologies or cultural shifts, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "One Engineering System (1ES)": {

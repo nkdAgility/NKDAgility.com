@@ -30,10 +30,10 @@ tags:
 - Transparency
 - Definition of Done
 - Increment
+- People and Process
 - Scrum Product Development
 - Agile Project Management
 - Scrum Team
-- People and Process
 - Product Delivery
 - Professional Scrum
 - Scrum Master

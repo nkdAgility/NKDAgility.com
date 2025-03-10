@@ -23,9 +23,9 @@ aliasesArchive:
 - /visual-studio-2008-beta-2-team-explorer
 - /resources/blog/visual-studio-2008-beta-2-team-explorer
 tags:
+- Products and Books
 - Install and Configuration
 - Practical Techniques and Tooling
-- Products and Books
 - Application Lifecycle Management
 - Software Development
 - System Configuration

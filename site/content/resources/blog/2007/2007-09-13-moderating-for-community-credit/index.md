@@ -25,8 +25,8 @@ aliasesArchive:
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 tags:
-- Miscellaneous
 - Personal
+- Miscellaneous
 
 ---
 Well, today I started a new part time job that I do not get paid for, but put just as much professional interest into as may main job.

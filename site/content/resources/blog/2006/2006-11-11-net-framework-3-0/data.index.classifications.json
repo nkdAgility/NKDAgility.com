@@ -64,11 +64,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-17T10:22:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-10T13:27:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses .NET Framework 3.0 and its features, with no mention of Scrum principles, roles, or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the .NET Framework and its features, with no direct mentions of Scrum principles, roles, or practices. While there is a brief mention of productivity, it does not align with the core themes of Scrum or provide any depth on Scrum-related topics.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -91,12 +94,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T10:22:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:27:57",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the benefits of using .NET Framework 3.0 and WCF, highlighting improvements in code quality and developer productivity, which are relevant to technical excellence. However, it does not delve deeply into specific engineering practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content mentions the .NET Framework 3.0 and its impact on developer productivity, which aligns with the principles of technical excellence. However, it lacks a detailed discussion on specific engineering practices or methodologies such as TDD or CI/CD. The focus is more on personal experience and benefits rather than a structured exploration of technical excellence concepts.",
+    "level": "Quaternary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",

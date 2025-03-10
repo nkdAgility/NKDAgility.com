@@ -187,11 +187,14 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-15T18:45:22",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T12:48:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of continuous quality and delivery in modern software development, which aligns with the principles of business agility. However, it primarily focuses on quality enablement and tools rather than a comprehensive exploration of business agility principles and practices.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of quality enablement in software development, which indirectly relates to business agility by emphasising the need for continuous delivery and responsiveness to consumer expectations. However, it primarily focuses on quality practices and tools rather than explicitly addressing the principles and strategies of business agility. While there are mentions of agile concepts, they are not the primary focus, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Metrics and Learning": {
@@ -736,12 +739,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-15T19:42:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:48:18",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses quality enablement, continuous integration, and the importance of establishing high standards in software development practices, all of which are central themes in engineering excellence.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses the importance of quality enablement in software development, emphasising continuous testing, delivery, and the need for high-quality applications. It aligns closely with the principles of software craftsmanship, continuous integration, and the role of automation in enhancing development efficiency. The depth of discussion on practices such as acceptance testing, automated testing, and the impact of quality on business agility further supports its strong alignment with the category of Engineering Excellence.",
+    "level": "Primary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

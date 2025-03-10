@@ -29,6 +29,7 @@ isShort: true
 tags:
 - Technical Debt
 - Technical Mastery
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

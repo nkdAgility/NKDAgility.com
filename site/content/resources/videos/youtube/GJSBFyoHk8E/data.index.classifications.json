@@ -31,12 +31,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T22:59:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:10:33",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the strategic direction of the product and the role of the product owner, which are relevant to product management, but it primarily focuses on the Scrum framework and the process of creating a sprint goal.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the creation of a Sprint goal within a Scrum team, which is relevant to product management as it touches on aligning team efforts with strategic product direction and stakeholder value. However, it primarily focuses on the tactical aspects of Scrum rather than broader product management strategies, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -124,11 +127,14 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T23:00:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:10:38",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the process of creating a sprint goal within a Scrum team, which is a key aspect of the Scrum framework.",
+    "final_score": 70.0,
+    "reasoning": "The content explicitly discusses the process of creating a Sprint goal within a Scrum team, which is a key aspect of the Scrum framework. It provides a clear overview of how various factors influence the selection of items from the product backlog, demonstrating a strong alignment with Agile principles. The depth of discussion is significant, as it outlines the considerations and strategic thinking involved in the process, reflecting the core themes of Agile frameworks. However, it does not explore other Agile frameworks or provide a comparative analysis, which slightly limits its overall confidence score.",
     "level": "Secondary"
   },
   "Revenue per Employee": {

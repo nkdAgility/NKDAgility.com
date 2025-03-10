@@ -33,6 +33,7 @@ tags:
 - Agile Product Management
 - Agile Project Management
 - Scrum Product Development
+- Agile Frameworks
 - Professional Scrum
 resourceTypes:
 - video

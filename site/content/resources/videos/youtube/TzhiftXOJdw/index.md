@@ -29,13 +29,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Market Adaptability
 - People and Process
 - Agile Philosophy
 - Agile Strategy
 - Agile Transformation
 - Business Agility
 - Change Management
-- Market Adaptability
 - Organisational Agility
 - Organisational Change
 - Beta Codex

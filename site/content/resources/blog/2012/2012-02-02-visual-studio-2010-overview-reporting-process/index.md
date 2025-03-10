@@ -29,8 +29,8 @@ aliasesArchive:
 - /blog/visual-studio-2010-overview---reporting-&-process
 - /resources/blog/visual-studio-2010-overview-reporting-process
 tags:
-- Application Lifecycle Management
 - Practical Techniques and Tooling
+- Application Lifecycle Management
 - Software Development
 - Operational Practices
 preview: metro-visual-studio-2010-128-link-1-1.png

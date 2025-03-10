@@ -31,7 +31,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Product Management
 - Agile Product Operating Model
 - Agile Values and Principles
 - People and Process
@@ -39,6 +38,7 @@ tags:
 - Agile Project Management
 - Market Adaptability
 - Value Delivery
+- Agile Product Management
 - Business Agility
 - Organisational Agility
 resourceTypes:

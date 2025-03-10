@@ -121,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:03:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the TFS Event Handler, which relates to version control and build notifications, key components in a DevOps environment. However, it primarily focuses on specific implementations rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the TFS Event Handler and its functionalities, which are relevant to DevOps practices, particularly in the context of Continuous Integration and Continuous Delivery. However, the focus is primarily on the technical implementation of event handlers rather than broader DevOps principles, cultural shifts, or tools. While it touches on automation and integration points, it lacks a comprehensive exploration of DevOps as a holistic practice, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -283,12 +286,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-16T00:26:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:03:55",
+    "ai_confidence": 67.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the TFS Event Handler, which is a component of Team Foundation Server, a part of Azure DevOps. It focuses on event handling and notifications within TFS, aligning with Azure DevOps functionalities.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content primarily discusses the TFS Event Handler, which is a component of Azure DevOps (formerly known as Team Foundation Server). It provides specific details about event handling, notifications, and integration points within TFS, aligning with Azure DevOps functionalities. However, while it mentions TFS, it does not delve deeply into broader Azure DevOps practices or methodologies, which slightly lowers the alignment score. The depth of discussion is substantial, focusing on specific features and their implications, but it lacks a comprehensive overview of Azure DevOps as a whole.",
+    "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",

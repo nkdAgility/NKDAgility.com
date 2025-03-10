@@ -145,12 +145,15 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:57:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions a conversation at the MVP Summit, indicating a connection to an event, but the primary focus is on MSDN licensing rather than the event itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions a conversation at the MVP Summit, which is an event, but the primary focus is on MSDN licensing and its benefits for developers. There is minimal discussion about the event itself or any presentations related to Agile or DevOps, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",

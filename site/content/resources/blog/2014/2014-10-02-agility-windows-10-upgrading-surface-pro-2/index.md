@@ -28,8 +28,7 @@ aliasesArchive:
 - /resources/blog/agility-windows-10-upgrading-surface-pro-2
 tags:
 - Windows
-categories:
-- Social Technologies
+categories: []
 preview: nakedalm-windows-logo-12-12.png
 
 ---

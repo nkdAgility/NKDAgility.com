@@ -26,7 +26,6 @@ categories:
 - Engineering Excellence
 tags:
 - Value Delivery
-- Continuous Delivery
 - Customer Feedback Loops
 - Product Validation
 - Frequent Releases
@@ -35,6 +34,7 @@ tags:
 - Working Software
 - Agile Product Management
 - Discovery and Learning
+- Continuous Delivery
 
 ---
 Closing the feedback loop is imposable without getting your product in front of the users that will be using it. Only they can determine if the perceived value that you think that you have is actually value.

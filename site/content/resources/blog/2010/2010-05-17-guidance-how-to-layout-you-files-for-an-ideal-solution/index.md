@@ -35,8 +35,8 @@ tags:
 - Release Management
 - Agile Project Management
 - Pragmatic Thinking
-- Technical Excellence
 - Technical Mastery
+- Practical Techniques and Tooling
 categories:
 - Scrum
 preview: metro-visual-studio-2010-128-link-11-11.png

@@ -29,7 +29,6 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - System Configuration
-- Azure DevOps
 - Pragmatic Thinking
 - Software Development
 - Technical Mastery

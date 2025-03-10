@@ -23,12 +23,11 @@ aliasesArchive:
 - /list-all-files-changed-under-an-iteration
 - /resources/blog/list-all-files-changed-under-an-iteration
 tags:
-- Azure DevOps
 - Azure Repos
 - Software Development
 - Practical Techniques and Tooling
-categories:
-- DevOps
+- Azure DevOps
+categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

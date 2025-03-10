@@ -76,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T01:05:16",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-10T13:05:44",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 40,
     "non_ai_confidence": 30,
-    "final_score": 84.0,
-    "reasoning": "The content primarily focuses on the step-by-step process of upgrading from TFS 2010 RC to TFS 2010 RTM, detailing installation and configuration procedures, including uninstallation, installation, and configuration of various components. It provides actionable instructions and insights relevant to the installation and configuration of TFS, making it a clear fit for the category.",
+    "final_score": 86.0,
+    "reasoning": "The content provides a comprehensive step-by-step guide on upgrading from TFS 2010 RC to TFS 2010 RTM, detailing the installation and configuration processes. It explicitly mentions installation steps, configuration options, and troubleshooting tips, aligning closely with the key topics of the 'Install and Configuration' category. The depth of discussion is significant, covering various aspects of the upgrade process, including system requirements, configuration best practices, and integration with SharePoint and build servers.",
     "level": "Primary"
   },
   "Transparency and Accountability": {
@@ -736,12 +739,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:05:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses upgrading Team Foundation Server, which involves technical processes related to software development practices. However, the focus is more on operational aspects rather than a comprehensive discussion on engineering excellence principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the upgrade process of TFS 2010, detailing steps and technical considerations. While it touches on aspects of software craftsmanship, such as configuration and testing, it lacks a comprehensive discussion on broader engineering excellence principles, best practices, or continuous improvement methodologies. The emphasis is more on procedural execution rather than fostering a culture of excellence in software development.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

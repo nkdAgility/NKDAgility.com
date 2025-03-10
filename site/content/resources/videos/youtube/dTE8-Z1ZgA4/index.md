@@ -26,6 +26,7 @@ duration: 49
 isShort: true
 tags:
 - Personal
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

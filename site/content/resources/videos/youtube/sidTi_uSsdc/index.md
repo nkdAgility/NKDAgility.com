@@ -35,7 +35,6 @@ resourceTypes:
 - video
 categories:
 - Leadership
-- Product Management
 
 ---
 **Discipline versus motivation?**

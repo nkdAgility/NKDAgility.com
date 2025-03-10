@@ -316,11 +316,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T18:26:53",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T13:15:54",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses technical aspects of software development, including the use of generics, Observable Collections, and INotifyPropertyChanged in WPF, which are relevant to engineering practices. However, the primary focus is on a specific implementation rather than broader methodologies or principles of technical excellence.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses technical aspects of software development, particularly focusing on WPF and the implementation of design patterns like Observable Collections and INotifyPropertyChanged. However, while it touches on technical practices, it lacks a comprehensive exploration of broader engineering methodologies such as TDD, CI/CD, or Agile integration, which are central to the category of Technical Excellence. The discussion is more about specific implementation details rather than a holistic view of technical excellence in software engineering.",
     "level": "Secondary"
   },
   "People and Process": {
@@ -1234,12 +1237,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:15:52",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses software development practices related to WPF and generics but does not primarily focus on broader engineering excellence principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses technical aspects of software development, such as using WPF and implementing design patterns like Observable Collections and INotifyPropertyChanged. However, it lacks a direct focus on broader engineering excellence principles, such as coding standards or continuous improvement practices. While it touches on some relevant technical details, it does not provide a comprehensive discussion on engineering excellence as defined in the category.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

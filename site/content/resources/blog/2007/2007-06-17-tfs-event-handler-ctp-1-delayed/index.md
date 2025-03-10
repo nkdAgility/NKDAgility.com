@@ -8,7 +8,7 @@ ResourceImportId: 381
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-06-17
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,12 +27,11 @@ aliasesArchive:
 - /blog/tfs-event-handler--ctp-1-delayed
 - /resources/blog/tfs-event-handler-ctp-1-delayed
 tags:
-- Install and Configuration
 - Miscellaneous
 - Technical Mastery
+- Install and Configuration
 - Software Development
-categories:
-- Engineering Excellence
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

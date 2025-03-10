@@ -29,8 +29,8 @@ tags:
 - Agile Project Management
 - Agile Transformation
 - People and Process
-- Organisational Agility
 - Pragmatic Thinking
+- Organisational Agility
 categories:
 - Social Technologies
 - Scrum

@@ -118,12 +118,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:01:51",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses hosting and server-side components related to TFS Automation, which touches on aspects of deployment and configuration relevant to DevOps, but it primarily focuses on specific implementation details rather than broader DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses hosting the TFS Automation Platform and touches on server-side components, which are relevant to DevOps practices. However, it lacks a direct focus on core DevOps principles such as CI/CD, automation's role in deployment, or cultural shifts. The discussion is more about technical implementation and considerations rather than a comprehensive exploration of DevOps methodologies or practices.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -577,11 +580,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T23:50:27",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-10T13:01:53",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content primarily discusses the hosting process and architecture of the TFS Automation Platform, which is related to software development practices. It touches on aspects such as server-side components, client installations, and multi-user support, which are relevant to software lifecycle management and deployment, making it a major but secondary theme.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the hosting and architecture of the TFS Automation Platform, which relates to software development practices, particularly in the context of server-side components and client-server interactions. It touches on aspects of software architecture and deployment considerations, aligning with the Software Development category. However, the discussion lacks depth in methodologies or best practices, focusing more on specific implementation concerns rather than broader software development principles.",
     "level": "Secondary"
   },
   "Agile Project Management": {

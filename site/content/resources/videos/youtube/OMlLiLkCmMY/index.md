@@ -28,9 +28,9 @@ tags:
 - Organisational Change
 - Change Management
 - Organisational Psychology
-- People and Process
 - Employee Engagement
 - Team Motivation
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -28,6 +28,7 @@ isShort: false
 tags:
 - People and Process
 - Agile Product Management
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

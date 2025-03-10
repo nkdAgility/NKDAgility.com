@@ -24,7 +24,6 @@ aliasesArchive:
 - /resources/blog/access-to-team-foundation-server
 tags:
 - Application Lifecycle Management
-- Continuous Learning
 - Miscellaneous
 - Software Development
 - Technical Mastery

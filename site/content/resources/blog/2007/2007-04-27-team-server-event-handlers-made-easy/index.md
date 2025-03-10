@@ -8,7 +8,7 @@ ResourceImportId: 412
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-04-27
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,12 +26,11 @@ aliasesArchive:
 - /team-server-event-handlers-made-easy---
 - /blog/team-server-event-handlers-made-easy---
 - /resources/blog/team-server-event-handlers-made-easy
-categories:
-- Engineering Excellence
+categories: []
 tags:
-- Practical Techniques and Tooling
 - Software Development
 - Technical Mastery
+- Practical Techniques and Tooling
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

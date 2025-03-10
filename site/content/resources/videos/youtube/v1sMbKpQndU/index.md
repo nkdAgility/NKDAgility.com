@@ -41,7 +41,7 @@ tags:
 - Agile Project Management
 - Mentoring
 - Professional Scrum
-- Pragmatic Thinking
+- Agile Leadership
 resourceTypes:
 - video
 categories:

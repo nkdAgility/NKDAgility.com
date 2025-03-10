@@ -32,17 +32,18 @@ tags:
 - Scrum Team
 - Agile Product Management
 - People and Process
-- Agile Frameworks
 - Agile Planning
 - Agile Project Management
 - Software Development
 - Value Delivery
 - Professional Scrum
+- Agile Frameworks
 resourceTypes:
 - video
 categories:
 - Scrum
 - Social Technologies
+- Product Management
 
 ---
 ## The Art of Sprint Goal Creation

@@ -24,7 +24,6 @@ aliasesArchive:
 - /resources/blog/workflow
 tags:
 - Practical Techniques and Tooling
-- Azure DevOps
 - Miscellaneous
 - Operational Practices
 - Software Development

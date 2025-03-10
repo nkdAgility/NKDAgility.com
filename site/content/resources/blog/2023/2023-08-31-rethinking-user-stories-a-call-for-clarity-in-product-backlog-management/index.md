@@ -33,11 +33,11 @@ tags:
 - Scrum Product Development
 - People and Process
 - Product Backlog
-- Transparency and Accountability
 - Agile Project Management
 - Pragmatic Thinking
 - Product Owner
 - Software Development
+- Agile Product Management
 categories:
 - Product Management
 - Scrum

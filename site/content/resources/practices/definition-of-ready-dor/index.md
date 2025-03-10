@@ -26,8 +26,8 @@ card:
 categories:
 - Scrum
 tags:
-- Agile Product Management
 - Definition of Ready
+- Agile Product Management
 - Product Backlog
 - Backlog Refinement
 - Scrum Product Development

@@ -29,11 +29,11 @@ aliasesArchive:
 tags:
 - Software Developers
 - Application Lifecycle Management
-- People and Process
 - Software Development
 - Organisational Agility
 - Product Delivery
 - Agile Strategy
+- People and Process
 - Market Adaptability
 - Business Agility
 - Pragmatic Thinking

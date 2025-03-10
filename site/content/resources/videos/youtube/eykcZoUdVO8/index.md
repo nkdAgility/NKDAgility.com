@@ -33,12 +33,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Personal
 resourceTypes:
 - video
 categories:
-- Leadership
+- Scrum
 
 ---
 ## Spotlight on Agile Influencers: The Simon Randell Effect

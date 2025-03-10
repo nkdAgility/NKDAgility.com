@@ -30,6 +30,7 @@ tags:
 - People and Process
 - Coaching
 - Technical Leadership
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

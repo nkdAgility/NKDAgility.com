@@ -32,6 +32,7 @@ sitemap:
 tags:
 - Agile Product Management
 - Product Delivery
+- Discovery and Learning
 - Agile Product Operating Model
 - Agile Project Management
 - Agile Values and Principles
@@ -39,7 +40,6 @@ tags:
 - Customer Feedback Loops
 - Decision Making
 - People and Process
-- Agile Frameworks
 resourceTypes:
 - video
 categories:

@@ -33,8 +33,8 @@ tags:
 - Scrum Product Development
 - Transparency
 - Empirical Process Control
-- Daily Scrum
 - People and Process
+- Daily Scrum
 - Scrum Team
 - Professional Scrum
 - Scrum Master

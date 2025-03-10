@@ -24,6 +24,11 @@ aliasesArchive:
 - /resources/blog/installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
 tags:
 - Install and Configuration
+- Windows
+- Modern Source Control
+- System Configuration
+- Software Development
+- Practical Techniques and Tooling
 categories: []
 preview: nakedalm-experts-visual-studio-alm-12-12.png
 

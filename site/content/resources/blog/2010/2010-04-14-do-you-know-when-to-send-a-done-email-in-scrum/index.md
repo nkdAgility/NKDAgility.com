@@ -28,7 +28,6 @@ aliasesArchive:
 - /resources/blog/do-you-know-when-to-send-a-done-email-in-scrum
 tags:
 - Scrum Team
-- People and Process
 - Professional Scrum
 - Scrum Product Development
 - Team Collaboration
@@ -37,6 +36,7 @@ tags:
 - Agile Project Management
 - Pragmatic Thinking
 - Software Development
+- People and Process
 categories:
 - Scrum
 - Social Technologies

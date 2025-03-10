@@ -23,9 +23,9 @@ aliasesArchive:
 - /constructing-a-framework-for-the-tfs-automation-platform
 - /resources/blog/constructing-a-framework-for-the-tfs-automation-platform
 tags:
+- Platform Engineering
 - Install and Configuration
 - Internal Developer Platform
-- Platform Engineering
 - Software Development
 - Practical Techniques and Tooling
 - Technical Excellence

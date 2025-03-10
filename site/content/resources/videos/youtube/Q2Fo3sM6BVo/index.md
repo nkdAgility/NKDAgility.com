@@ -30,6 +30,7 @@ tags:
 - Agile Frameworks
 - Agile Project Management
 - Software Development
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

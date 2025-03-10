@@ -30,8 +30,7 @@ aliasesArchive:
 - /resources/blog/powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services
 tags:
 - Technical Mastery
-categories:
-- DevOps
+categories: []
 preview: metro-powershell-logo-1-1.png
 
 ---

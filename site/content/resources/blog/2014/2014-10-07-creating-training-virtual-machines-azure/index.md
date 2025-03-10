@@ -27,7 +27,6 @@ aliasesArchive:
 - /blog/creating-training-virtual-machines-in-azure
 - /resources/blog/creating-training-virtual-machines-azure
 tags:
-- Install and Configuration
 - Windows
 categories:
 - DevOps

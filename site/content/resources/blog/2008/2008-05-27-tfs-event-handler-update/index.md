@@ -28,7 +28,6 @@ tags:
 - Release Management
 - Working Software
 - Application Lifecycle Management
-- Azure DevOps
 - Frequent Releases
 - Software Development
 - Troubleshooting

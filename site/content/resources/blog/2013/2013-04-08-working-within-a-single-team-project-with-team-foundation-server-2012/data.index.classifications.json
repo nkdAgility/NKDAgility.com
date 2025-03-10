@@ -121,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:49:16",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses design considerations and workflows related to Team Foundation Server (TFS), which can be relevant to DevOps practices, particularly in terms of automation and team collaboration. However, the primary focus is on TFS and project management rather than core DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the use of Team Foundation Server (TFS) in managing projects and teams, which touches on aspects of DevOps such as automation and team collaboration. However, it primarily focuses on project management and TFS-specific features rather than the broader principles and practices of DevOps like CI/CD, cultural shifts, or specific DevOps tools. While there are mentions of automation and team dynamics, the depth of discussion does not fully align with the core themes of DevOps, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -166,11 +169,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-15T19:04:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:49:20",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the organisation of teams and projects within Team Foundation Server, focusing on team dynamics, roles, and the impact of structure on collaboration and process efficiency.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the complexities of managing teams and projects within Team Foundation Server (TFS), highlighting the importance of team dynamics, roles, and workflows. It addresses how organisational structure impacts process efficiency and agility, particularly in the context of Agile methodologies. The depth of discussion on team roles, security groups, and the need for effective communication and collaboration within teams aligns well with the 'People and Process' category. However, the focus on technical aspects of TFS and its features slightly detracts from a purely people-centric discussion.",
     "level": "Secondary"
   },
   "Enterprise Agility": {

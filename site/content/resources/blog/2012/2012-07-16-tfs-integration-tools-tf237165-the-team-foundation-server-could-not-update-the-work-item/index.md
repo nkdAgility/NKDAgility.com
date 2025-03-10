@@ -28,8 +28,8 @@ aliasesArchive:
 - /resources/blog/tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item
 tags:
 - Troubleshooting
-- Install and Configuration
 - System Configuration
+- Install and Configuration
 - Software Development
 - Practical Techniques and Tooling
 categories: []

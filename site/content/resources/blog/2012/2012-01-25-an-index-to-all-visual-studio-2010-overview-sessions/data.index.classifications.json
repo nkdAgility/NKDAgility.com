@@ -118,12 +118,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:58:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Visual Studio ALM and its features, which are relevant to DevOps practices, but the primary focus is on high-level overviews rather than in-depth DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Visual Studio 2010 and its features, with only a brief mention of ALM (Application Lifecycle Management) practices. While there are elements related to software development and management, the focus is not on DevOps principles or practices. The discussion lacks depth in terms of DevOps concepts such as CI/CD, automation, or cultural shifts, which are essential for a higher confidence score in this category.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -346,11 +349,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T21:36:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:58:33",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Visual Studio ALM features and webcasts, which are directly related to the management of the application lifecycle, including planning, coding, and testing processes.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses Visual Studio ALM and its features, which directly relates to Application Lifecycle Management. It mentions various aspects of ALM, such as planning, coding, and testing, which align with the stages of the application lifecycle. However, the discussion remains high-level and lacks in-depth exploration of best practices, tools, or metrics, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Daily Scrum": {

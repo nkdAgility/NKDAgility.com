@@ -23,8 +23,8 @@ aliasesArchive:
 - /upgrading-from-tfs-2008-to-tfs-2010-overview
 - /resources/blog/upgrading-from-tfs-2008-to-tfs-2010-overview
 tags:
-- Install and Configuration
 - System Configuration
+- Install and Configuration
 - Software Development
 - Technical Mastery
 - Practical Techniques and Tooling

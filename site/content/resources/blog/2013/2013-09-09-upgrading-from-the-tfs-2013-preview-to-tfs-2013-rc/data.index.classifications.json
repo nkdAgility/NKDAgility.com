@@ -76,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T11:44:36",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-10T12:44:16",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 84.0,
-    "reasoning": "The content primarily focuses on the installation and upgrade process of Team Foundation Server 2013 RC, providing detailed step-by-step instructions, prerequisites, and best practices for configuration, which aligns well with the 'Install and Configuration' category.",
+    "final_score": 81.0,
+    "reasoning": "The content provides a detailed guide on upgrading from TFS 2013 Preview to TFS 2013 RC, including specific installation steps, prerequisites, and configuration considerations. It explicitly discusses the installation process, trial upgrades, and necessary system requirements, aligning well with the core themes of the 'Install and Configuration' category. The depth of discussion is substantial, covering various aspects of the upgrade process, which enhances its relevance to the category.",
     "level": "Primary"
   },
   "Transparency and Accountability": {
@@ -121,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:44:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses upgrading Team Foundation Server, which relates to continuous integration and delivery practices, but primarily focuses on the upgrade process rather than broader DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server (TFS) from a preview version to a release candidate. While it touches on some relevant themes such as the importance of trial upgrades and the need for backups, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. The content does not explicitly mention DevOps or its key practices like Continuous Integration or Continuous Delivery, which diminishes its alignment with the category.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

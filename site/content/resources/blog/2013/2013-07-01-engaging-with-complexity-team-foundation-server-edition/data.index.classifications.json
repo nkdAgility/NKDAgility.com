@@ -40,11 +40,14 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T18:14:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:46:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the complexities involved in a Team Foundation Server migration, including the impact of software architecture decisions, data management, and the intricacies of maintaining code quality during the process. It explores best practices and strategies for managing complexity in a software development context.",
+    "final_score": 73.0,
+    "reasoning": "The content discusses the complexities involved in a Team Foundation Server migration, highlighting issues related to code quality, data management, and system architecture. It provides detailed insights into the remediation process, including the challenges of managing large databases and the importance of maintaining data integrity. The author reflects on best practices and strategies for handling complexity, which aligns well with the core themes of the category. However, while the content is rich in practical examples, it lacks a more explicit discussion of complexity theory and its application in software development, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Discovery and Learning": {
@@ -736,12 +739,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-15T20:01:17",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-10T12:46:32",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content primarily discusses the technical complexities and processes involved in migrating Team Foundation Server and related systems, detailing best practices for managing large databases, backups, and server configurations. There is a significant focus on improving the engineering process through scripting and managing configuration and data integrity, which aligns with the themes of continuous improvement and software craftsmanship in engineering.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses a complex migration process involving Team Foundation Server, which touches on aspects of engineering excellence such as technical debt management, coding standards, and the importance of efficient processes. However, while it provides detailed insights into the migration steps and challenges, it lacks a direct focus on broader principles of software craftsmanship and quality assurance, which are central to the category of Engineering Excellence.",
+    "level": "Tertiary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

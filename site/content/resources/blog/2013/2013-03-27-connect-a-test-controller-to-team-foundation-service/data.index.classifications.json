@@ -76,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T19:07:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:49:37",
+    "ai_confidence": 85.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration of a Test Controller to connect with Team Foundation Service, providing step-by-step instructions and troubleshooting insights.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed guide on connecting a Test Controller to Team Foundation Service, including installation steps and configuration details. It explicitly mentions the installation of the Agents ISO and the configuration process, aligning well with the key topics of the category. The depth of discussion includes troubleshooting common issues encountered during the setup, which enhances its relevance to the Install and Configuration category.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -121,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:49:35",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses connecting a Test Controller to Team Foundation Service, which relates to automated deployment and testing, a key aspect of DevOps practices. However, the primary focus is on the technical steps and personal experiences rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses connecting a Test Controller to Team Foundation Service, which relates to automation and deployment in a DevOps context. However, it lacks a comprehensive exploration of DevOps principles, practices, or cultural shifts. The mention of automated deployment hints at DevOps practices, but the overall focus is more on technical setup rather than a broader discussion of DevOps concepts.",
+    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

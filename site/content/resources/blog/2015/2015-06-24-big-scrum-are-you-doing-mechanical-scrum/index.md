@@ -8,7 +8,7 @@ ResourceImportId: 11355
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-06-24
-weight: 540
+weight: 460
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -34,12 +34,13 @@ tags:
 - Agile Frameworks
 - Agile Project Management
 - Agile Transformation
-- People and Process
 - Software Developers
 - Software Development
+- Agile Product Management
 categories:
 - Scrum
 - Social Technologies
+- Engineering Excellence
 preview: clip_image001-1-1.png
 
 ---

@@ -31,7 +31,6 @@ tags:
 - Transparency
 - Application Lifecycle Management
 categories:
-- DevOps
 - Social Technologies
 preview: metro-binary-vb-128-link-1-1.png
 

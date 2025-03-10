@@ -27,11 +27,11 @@ categories:
 tags:
 - Scrum Master
 - Scrum Team
-- Team Collaboration
 - Team Performance
 - Agile Project Management
 - People and Process
 - Software Development
+- Team Collaboration
 - Self Organisation
 - Agile Frameworks
 - Professional Scrum

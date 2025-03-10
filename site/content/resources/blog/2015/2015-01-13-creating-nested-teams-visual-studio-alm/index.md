@@ -27,8 +27,8 @@ aliasesArchive:
 - /blog/creating-nested-teams-in-visual-studio-alm
 - /resources/blog/creating-nested-teams-visual-studio-alm
 tags:
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 - System Configuration
 - Application Lifecycle Management
 - Azure Boards

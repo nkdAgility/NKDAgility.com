@@ -31,12 +31,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T20:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:04:57",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions training for Product Owners and Product Managers, indicating a secondary theme related to product management, but the primary focus is on an Agile conference and related activities.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on an Agile conference and related events, with only brief mentions of product management training for product managers. While it touches on Agile principles, it lacks a deep exploration of product management strategies, methodologies, or frameworks. The discussion is more about networking and event participation rather than the strategic alignment of customer needs and business objectives, which is central to product management.",
+    "level": "Quaternary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -70,12 +73,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T20:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:04:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions Scrum classes and training for Scrum Masters, Developers, and Product Owners, indicating a focus on professional development within the Scrum framework, but it primarily discusses an event and networking opportunities.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content mentions Scrum classes and training opportunities, which aligns with the Professional Scrum category. However, the primary focus is on an event and networking rather than an in-depth exploration of Scrum principles, roles, or practices. The discussion lacks substantial detail on Scrum's core themes, resulting in a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Automated Testing": {
     "category": "Automated Testing",

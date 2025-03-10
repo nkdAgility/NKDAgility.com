@@ -8,7 +8,7 @@ ResourceImportId: 407
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-04-30
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,8 +29,7 @@ aliasesArchive:
 tags:
 - Software Development
 preview: nakedalm-logo-128-link-1-1.png
-categories:
-- Engineering Excellence
+categories: []
 
 ---
 I am half way through the MSMQ Refactor of my [TFS Event Handler](http://www.codeplex.com/TFSEventHandler) project and thing are starting to come together. I have changed it so that instead of one big solution I will have three smaller ones. This will allow me to cross reference the different services.

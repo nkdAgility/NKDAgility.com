@@ -8,7 +8,7 @@ ResourceImportId: 249
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-02-11
-weight: 775
+weight: 890
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,8 +28,7 @@ aliasesArchive:
 - /resources/blog/tfs-sticky-buddy-layout-fun
 tags:
 - Windows
-categories:
-- Engineering Excellence
+categories: []
 preview: metro-binary-vb-128-link-3-1.png
 
 ---

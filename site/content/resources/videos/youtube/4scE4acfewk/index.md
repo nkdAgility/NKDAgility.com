@@ -34,8 +34,8 @@ tags:
 - Team Collaboration
 - Team Motivation
 - Organisational Culture
-- Agile Project Management
 - Agile Leadership
+- Agile Project Management
 - Decision Making
 - Team Performance
 resourceTypes:

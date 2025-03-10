@@ -28,7 +28,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Product Management
 - Agile Project Management
 - Agile Values and Principles
 - Increment
@@ -38,6 +37,7 @@ tags:
 - Empirical Process Control
 - People and Process
 - Value Delivery
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

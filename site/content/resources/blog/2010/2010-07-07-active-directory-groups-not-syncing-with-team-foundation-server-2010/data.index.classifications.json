@@ -76,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T00:27:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:04:03",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses troubleshooting and resolving issues related to the installation and configuration of Team Foundation Server (TFS) and its integration with Active Directory, providing actionable steps and solutions.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily focuses on troubleshooting and resolving a specific issue related to the installation and configuration of Team Foundation Server (TFS) and Active Directory integration. It provides detailed steps for checking event logs, SQL queries for job definitions, and configuration changes needed to resolve the syncing issue. The discussion is technical and directly related to installation and configuration processes, aligning well with the category's key topics. However, while it is rich in detail, some parts could be seen as tangential, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -121,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:03:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to Team Foundation Server (TFS) and Active Directory integration, which are relevant to DevOps practices, particularly in the context of continuous delivery and automation. However, the primary focus is on troubleshooting specific technical problems rather than broader DevOps principles or practices.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses a technical issue related to Team Foundation Server (TFS) and Active Directory integration, which is relevant to DevOps practices. However, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. While it touches on automation and troubleshooting within a CI/CD context, the focus is more on a specific problem rather than a comprehensive exploration of DevOps as a whole.",
     "level": "Tertiary"
   },
   "Miscellaneous": {

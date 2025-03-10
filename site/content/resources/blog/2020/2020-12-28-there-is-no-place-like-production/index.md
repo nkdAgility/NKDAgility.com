@@ -32,8 +32,8 @@ tags:
 - Release Management
 - Ability to Innovate
 - Agile Product Operating Model
-- Discovery and Learning
 - Lean Product Development
+- Metrics and Learning
 categories:
 - Product Management
 preview: wizard-of-oz-ruby-slippers-2018-billboard-1548-2-2.jpg

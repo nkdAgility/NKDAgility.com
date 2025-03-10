@@ -1066,11 +1066,14 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-11T21:07:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:26:05",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses metrics related to measuring value, time to market, and the ability to innovate, which are all central to optimising flow efficiency in software delivery. It aligns well with the principles of Flow Efficiency by focusing on improving throughput and minimising bottlenecks through evidence-based management.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses various metrics related to Evidence-based Management, which includes aspects of flow efficiency such as cycle time and time-to-market metrics. It aligns well with the core themes of Flow Efficiency by focusing on optimising throughput and measuring value delivery. However, while it provides substantial detail on metrics, the primary focus is on Evidence-based Management rather than exclusively on flow efficiency principles, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "AI and Automation in Agility": {
@@ -1174,12 +1177,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:26:03",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics related to software delivery and organisational improvement, which are relevant to DevOps principles. However, the primary focus is on Evidence-based Management and Scrum practices, making DevOps a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses metrics and measurements related to software delivery and organisational value, which aligns with some DevOps principles, particularly around Continuous Delivery and the importance of metrics. However, it primarily focuses on Evidence-based Management and Scrum practices rather than the broader DevOps practices, tools, and cultural shifts. The mention of metrics like release frequency and cycle time hints at DevOps concepts, but the overall focus remains on agile methodologies and Scrum, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",

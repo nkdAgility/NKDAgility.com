@@ -211,11 +211,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T02:14:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:08:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of a data access layer using Unity, focusing on engineering practices such as dependency injection, modular architecture, and the use of interfaces, which align with the principles of technical excellence.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on implementing a data access layer using Unity, which involves technical practices such as dependency injection and factory patterns. While it does touch on some aspects of modular architecture and configuration management, it lacks a comprehensive discussion on broader engineering methodologies like TDD or CI/CD. The depth of technical detail is moderate, but it does not fully explore the implications of technical excellence in software development processes.",
     "level": "Secondary"
   },
   "Complexity Thinking": {

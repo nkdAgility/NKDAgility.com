@@ -39,9 +39,9 @@ tags:
 - Metrics and Learning
 - Agile Project Management
 - Agile Strategy
+- People and Process
 - Software Development
 - Agile Frameworks
-- Operational Practices
 resourceTypes:
 - video
 categories:

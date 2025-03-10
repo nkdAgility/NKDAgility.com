@@ -55,11 +55,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T20:36:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:20:03",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the setup and configuration of a Team Foundation Server Event Handler in .NET, including code examples and configuration details necessary for installation and integration with TFS.",
+    "final_score": 67.0,
+    "reasoning": "The content provides a detailed guide on creating a Team Foundation Server Event Handler, including specific code snippets and configuration steps necessary for installation and setup. It discusses the creation of a project, the implementation of service contracts, and the configuration of service behaviors, which are all relevant to the installation and configuration category. However, while it does touch on installation aspects, the primary focus is on coding and event handling rather than a comprehensive installation guide, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -1234,12 +1237,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:20:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the creation of a robust Team Foundation Server Event Handler in .NET, detailing technical aspects that involve software craftsmanship and implementation best practices, but it is primarily focused on a specific technical implementation rather than broader engineering excellence principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on implementing a specific technical solution related to Team Foundation Server (TFS) event handling in .NET. While it touches on aspects of software craftsmanship, such as code structure and service implementation, it lacks a broader discussion on engineering excellence principles, best practices, or continuous improvement processes. The depth of discussion is technical but does not delve into quality assurance, coding standards, or metrics for assessing engineering performance, which are key topics in the Engineering Excellence category.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

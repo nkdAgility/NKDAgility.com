@@ -28,9 +28,9 @@ aliasesArchive:
 - /resources/blog/ghost-team-foundation-build-controllers
 tags:
 - Troubleshooting
-- Azure DevOps
 - Software Development
 - Practical Techniques and Tooling
+- Azure DevOps
 preview: metro-visual-studio-2010-128-link-4-4.png
 categories:
 - DevOps

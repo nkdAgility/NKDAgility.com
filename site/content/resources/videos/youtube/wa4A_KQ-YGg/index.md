@@ -37,7 +37,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Scrum
 
 ---
 **What are immersive training courses?**

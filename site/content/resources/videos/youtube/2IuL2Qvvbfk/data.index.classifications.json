@@ -346,12 +346,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:09:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the contributions of product owners in improving product development processes at Microsoft, particularly in relation to agile methodologies and feedback loops, which are relevant to engineering practices. However, the primary focus is on the roles and contributions of individuals rather than on broader engineering excellence principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the contributions of product owners in a specific organisational context, focusing on their impact on product management and release cadences. While it touches on aspects of agility and feedback loops, which are relevant to engineering practices, it lacks a direct focus on software craftsmanship, coding standards, or continuous improvement processes. The discussion is more centred on project management and leadership rather than the core themes of engineering excellence, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1099,11 +1102,14 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-12T11:42:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:09:23",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the contributions of product owners in an Agile context, particularly focusing on their role in changing product development practices at Microsoft. It highlights the importance of feedback loops, continuous delivery, and the alignment of product management with Agile principles.",
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the role of Product Owners in an Agile context, particularly through the examples of Brian Harry and Aaron Bjork at Microsoft. It highlights their contributions to improving product delivery and feedback loops, which aligns well with Agile Product Management principles. The discussion includes specific Agile practices, such as moving towards a continuous delivery model and the importance of stakeholder engagement. However, while the content is rich in examples and insights, it lacks a structured exploration of broader Agile methodologies and practices, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Discovery and Learning": {

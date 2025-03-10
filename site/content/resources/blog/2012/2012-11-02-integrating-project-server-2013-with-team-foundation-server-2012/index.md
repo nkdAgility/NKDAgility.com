@@ -25,7 +25,6 @@ aliasesArchive:
 tags:
 - Install and Configuration
 categories:
-- DevOps
 - Social Technologies
 preview: metro-sharepoint-128-link-23-23.png
 

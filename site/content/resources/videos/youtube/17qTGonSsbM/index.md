@@ -31,9 +31,9 @@ sitemap:
 tags:
 - Organisational Agility
 - Resilience and Change
-- Product Strategy
 - Pragmatic Thinking
 - Sensemaking
+- Product Strategy
 - Decision Making
 resourceTypes:
 - video

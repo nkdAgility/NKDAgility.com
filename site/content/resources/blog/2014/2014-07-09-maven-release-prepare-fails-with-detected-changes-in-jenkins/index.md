@@ -8,7 +8,7 @@ ResourceImportId: 10579
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-07-09
-weight: 685
+weight: 720
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,15 +27,14 @@ tags:
 - Windows
 - Modern Source Control
 - Continuous Integration
-- Install and Configuration
 - Release Management
 - Pragmatic Thinking
 - Software Development
 - System Configuration
 - Technical Mastery
+- Troubleshooting
 categories:
 - DevOps
-- Engineering Excellence
 preview: naked-alm-jenkins-logo-9-9.png
 
 ---

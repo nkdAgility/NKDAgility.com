@@ -23,8 +23,8 @@ aliasesArchive:
 - /tfs-event-handler-v1-3-released
 - /resources/blog/tfs-event-handler-v1-3-released
 tags:
-- Software Development
 - Practical Techniques and Tooling
+- Software Development
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

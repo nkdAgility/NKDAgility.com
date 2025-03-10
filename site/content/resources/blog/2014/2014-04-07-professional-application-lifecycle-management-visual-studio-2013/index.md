@@ -28,8 +28,11 @@ aliasesArchive:
 - /resources/blog/professional-application-lifecycle-management-visual-studio-2013
 tags:
 - Products and Books
+- Application Lifecycle Management
+- Software Development
+- News and Reviews
+- Practical Techniques and Tooling
 categories:
-- DevOps
 - Social Technologies
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 

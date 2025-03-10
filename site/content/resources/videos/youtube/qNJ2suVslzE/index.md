@@ -26,6 +26,7 @@ duration: 259
 isShort: false
 tags:
 - Agile Product Management
+- Business Agility
 - Market Adaptability
 - Organisational Agility
 - Value Delivery
@@ -34,7 +35,6 @@ tags:
 - Agile Values and Principles
 - Agile Frameworks
 - Agile Philosophy
-- Agile Planning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

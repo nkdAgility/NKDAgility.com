@@ -31,6 +31,7 @@ tags:
 - Software Development
 - People and Process
 - Agile Product Management
+- Software Developers
 sitemap:
   filename: sitemap.xml
   priority: 0.6

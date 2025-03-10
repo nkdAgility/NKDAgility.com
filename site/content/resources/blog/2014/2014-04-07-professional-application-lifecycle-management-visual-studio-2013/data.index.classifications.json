@@ -121,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:41:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Application Lifecycle Management (ALM) and mentions aspects of software development processes, which are relevant to DevOps, but the primary focus is on the book and its features rather than on DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Application Lifecycle Management (ALM) and mentions tools and methodologies that could relate to DevOps practices. However, it primarily focuses on the book's production and features of Visual Studio 2013 rather than the core principles of DevOps, such as CI/CD, automation, or cultural shifts. While there are references to collaboration and software deployment, they are not explored in depth or as a primary focus, leading to a low confidence score in the DevOps category.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -265,12 +268,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-15T11:02:07",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-10T12:41:47",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 82.0,
-    "reasoning": "The content primarily discusses the book 'Professional Application Lifecycle Management with Visual Studio 2013', including its features, updates, and relevance to Agile methodologies, making it a clear fit for the category.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on the book 'Professional Application Lifecycle Management with Visual Studio 2013', providing insights into its creation, updates, and relevance to Agile methodologies. It discusses the book's content, including new features and methodologies, which aligns well with the category's focus on literature related to Agile and DevOps. The depth of discussion includes specific details about the book's chapters and practical applications, enhancing its relevance to the category.",
+    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",

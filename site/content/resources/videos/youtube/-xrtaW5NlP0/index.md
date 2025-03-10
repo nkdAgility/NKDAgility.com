@@ -28,11 +28,11 @@ sitemap:
 tags:
 - Flow Efficiency
 - Throughput
-- People and Process
 - Cycle Time
 - Agile Frameworks
 - Operational Practices
 - Pragmatic Thinking
+- People and Process
 - Metrics and Learning
 - Organisational Physics
 - Lean

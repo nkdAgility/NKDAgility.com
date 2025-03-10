@@ -181,11 +181,14 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-16T12:26:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:14:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses recent releases and updates related to Visual Studio, Team Foundation Server, and the .NET Framework, which aligns with industry news and updates relevant to technology.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses recent releases of Visual Studio 2008, Team Foundation Server 2008, and .NET Framework Beta 1, which aligns well with industry news. It provides insights into the improvements and features of these tools, making it relevant for practitioners in Agile and DevOps. The depth of discussion includes specific enhancements and their implications for developers, which supports a higher confidence score. However, while it is informative, it lacks a structured review format, which slightly lowers the overall score.",
     "level": "Secondary"
   },
   "Business Agility": {
@@ -631,12 +634,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:14:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses improvements and releases related to software development tools and environments, which are relevant to engineering practices, but does not center exclusively on engineering excellence or high standards in software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the release of various software tools and improvements, which indirectly relates to engineering excellence through the mention of performance enhancements and optimisations. However, it lacks a direct focus on best practices, coding standards, or continuous improvement processes that are central to the category. The discussion is more about new features and updates rather than a deep exploration of engineering practices.",
+    "level": "Quaternary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",

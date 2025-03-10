@@ -35,10 +35,10 @@ tags:
 - People and Process
 - Scrum Master
 - Scrum Team
-- Agile Frameworks
 - Agile Project Management
 - Professional Scrum
 - Software Development
+- Agile Frameworks
 - Accountability
 resourceTypes:
 - video

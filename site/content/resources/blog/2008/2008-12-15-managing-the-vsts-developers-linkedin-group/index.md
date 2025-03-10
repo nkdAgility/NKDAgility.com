@@ -29,7 +29,6 @@ aliasesArchive:
 tags:
 - Team Collaboration
 - News and Reviews
-- People and Process
 - Miscellaneous
 categories: []
 

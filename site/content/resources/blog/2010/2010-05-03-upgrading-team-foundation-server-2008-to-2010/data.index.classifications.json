@@ -76,12 +76,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T00:42:20",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-10T13:05:02",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 40,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "The content primarily focuses on the step-by-step process of upgrading Team Foundation Server from 2008 to 2010, including installation verification, database backup, restoration, and upgrade commands, which are all central to the installation and configuration category.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "The content provides a comprehensive guide on upgrading Team Foundation Server from 2008 to 2010, detailing installation verification, database backup, restoration, and upgrade processes. It includes step-by-step instructions, troubleshooting tips, and considerations for maintaining data integrity, which aligns closely with the key topics of the 'Install and Configuration' category. The depth of discussion is significant, covering various technical aspects and potential issues during the upgrade process.",
+    "level": "Secondary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -121,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:04:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the upgrade process of Team Foundation Server, which is relevant to DevOps practices, particularly in the context of Continuous Integration and Continuous Delivery. However, the primary focus is on the technical steps of the upgrade rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server (TFS) from 2008 to 2010, which is related to software development and version control. However, it lacks a direct discussion of DevOps principles, practices, or cultural shifts. While it touches on aspects of deployment and backup processes, it does not delve into broader DevOps themes such as Continuous Integration, Continuous Delivery, or team collaboration. Therefore, it only partially aligns with the DevOps category.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

@@ -40,12 +40,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T01:32:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:06:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 20,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses issues related to code quality, including specific coding practices, error handling, and the importance of code reviews, which are central to the themes of code quality and complexity in software development.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content discusses a specific coding issue related to a failing test in a build process, which touches on code quality and the importance of practices like code reviews and defensive programming. However, while it mentions some best practices, the primary focus is on troubleshooting a specific problem rather than a broader discussion of code complexity or architectural principles. The depth of discussion is moderate, providing some insights into potential mistakes and solutions, but it lacks a comprehensive exploration of complexity theory or its application in software development.",
+    "level": "Tertiary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -121,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:06:47",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of build failures and bug tracking within a development context, which relates to DevOps practices, but it primarily focuses on troubleshooting and Scrum processes rather than a comprehensive discussion of DevOps principles.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses troubleshooting a build failure in Team Foundation Build Services, which relates to CI/CD practices in DevOps. However, it primarily focuses on debugging and code review processes rather than broader DevOps principles or cultural shifts. While it touches on aspects of automation and workflow, it lacks a comprehensive exploration of DevOps tools or metrics, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Miscellaneous": {

@@ -33,11 +33,12 @@ tags:
 - Agile Project Management
 - Pragmatic Thinking
 - People and Process
-- Decision Making
 - Agile Strategy
 resourceTypes:
 - video
 categories:
+- Product Management
+- Leadership
 - Social Technologies
 
 ---

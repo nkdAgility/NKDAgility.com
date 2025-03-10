@@ -32,11 +32,11 @@ tags:
 - Agile Project Management
 - Agile Transformation
 - Mentoring
-- Product Delivery
 - Product Owner
 - Professional Scrum
 - Scrum Product Development
 - Scrum Team
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

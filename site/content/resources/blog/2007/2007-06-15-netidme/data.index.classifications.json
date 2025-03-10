@@ -1081,12 +1081,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:23:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses identity verification and services that could integrate with Windows technologies like Active Directory and the potential for single-sign-on solutions, making Windows a significant part of the topic despite it not being the primary focus.",
-    "level": "Tertiary"
+    "final_score": 34.0,
+    "reasoning": "The content mentions Windows in the context of potential integration with identity verification services and discusses related technologies like Active Directory and SharePoint. However, the primary focus is on identity verification services rather than Windows itself. The discussion lacks depth regarding Windows-specific topics such as installation, configuration, or troubleshooting, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Lean Principles": {
     "category": "Lean Principles",

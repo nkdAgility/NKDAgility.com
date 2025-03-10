@@ -27,8 +27,8 @@ isShort: true
 tags:
 - People and Process
 - Scrum Master
-- Scrum Team
 - Agile Project Management
+- Scrum Team
 - Technical Leadership
 - Agile Leadership
 sitemap:

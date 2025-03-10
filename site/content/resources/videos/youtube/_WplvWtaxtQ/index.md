@@ -28,9 +28,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Team
 - People and Process
 - Scrum Master
+- Scrum Team
 - Agile Project Management
 resourceTypes:
 - video

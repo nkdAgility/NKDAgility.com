@@ -23,8 +23,8 @@ aliasesArchive:
 - /scrum-with-team-foundation-server-2010-done
 - /resources/blog/scrum-with-team-foundation-server-2010-done
 tags:
-- Agile Project Management
 - Events and Presentations
+- Agile Project Management
 - Agile Frameworks
 - Software Development
 - Practical Techniques and Tooling

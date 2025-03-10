@@ -38,7 +38,6 @@ resourceTypes:
 - video
 categories:
 - Social Technologies
-- DevOps
 
 ---
 When it comes to enhancing entry-level capabilities in the workplace, I’ve found that immersive learning experiences truly change the game. In my experience, traditional training methods often fall short. We typically find ourselves in a two-day training class, inundated with theory that feels disconnected from the realities of our jobs. This approach can lead to what I call "single loop learning," where participants absorb content but struggle to apply it effectively in their day-to-day roles.

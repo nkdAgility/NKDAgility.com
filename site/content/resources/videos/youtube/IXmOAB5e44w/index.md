@@ -28,7 +28,6 @@ isShort: false
 tags:
 - People and Process
 - Discovery and Learning
-- Agile Project Management
 - Continuous Learning
 - Customer Retention
 - Employee Engagement

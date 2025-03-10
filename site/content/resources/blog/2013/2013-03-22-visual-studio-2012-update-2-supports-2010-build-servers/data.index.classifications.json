@@ -76,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T19:10:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:49:52",
+    "ai_confidence": 82.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration processes for connecting existing TFS 2010 Build Agents to TFS 2012, including detailed steps and considerations for upgrading and configuring build servers.",
+    "final_score": 76.0,
+    "reasoning": "The content provides a detailed discussion on the installation and configuration of Team Foundation Server (TFS) 2012 Update 2, specifically regarding its compatibility with existing TFS 2010 Build Servers. It includes step-by-step instructions for connecting existing build agents, reconfiguring build controllers, and addressing system requirements such as the need for .NET Framework 3.5. The content aligns well with the key topics of the category, focusing on practical installation and configuration processes, while also addressing potential challenges and solutions. The depth of discussion is significant, covering various scenarios and configurations, which supports a high confidence score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -121,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:49:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of build servers and Team Foundation Server (TFS), which relates to DevOps practices, but it primarily focuses on specific technical details rather than broader DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the compatibility and upgrade paths between different versions of Team Foundation Server (TFS) and build servers, which relates to DevOps practices. However, it primarily focuses on technical details of upgrading and configuration rather than broader DevOps principles such as CI/CD, automation, or cultural shifts. While it touches on aspects of build infrastructure, it lacks a comprehensive discussion on the integration of people, processes, and tools that characterise DevOps.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

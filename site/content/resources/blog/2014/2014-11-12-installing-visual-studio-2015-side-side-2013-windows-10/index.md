@@ -28,6 +28,12 @@ aliasesArchive:
 - /resources/blog/installing-visual-studio-2015-side-side-2013-windows-10
 tags:
 - Install and Configuration
+- Windows
+- Products and Books
+- Software Development
+- System Configuration
+- Troubleshooting
+- Practical Techniques and Tooling
 categories: []
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 

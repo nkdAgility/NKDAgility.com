@@ -28,11 +28,11 @@ aliasesArchive:
 - /resources/blog/delete-work-items-tfs-vso
 tags:
 - Practical Techniques and Tooling
-- Install and Configuration
 - Azure Boards
 - Azure DevOps
 - Software Development
 - Troubleshooting
+- Install and Configuration
 - Technical Mastery
 categories: []
 preview: nakedalm-experts-visual-studio-alm-1-1.png

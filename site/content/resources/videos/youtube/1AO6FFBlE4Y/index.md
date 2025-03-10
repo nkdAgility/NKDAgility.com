@@ -28,11 +28,11 @@ tags:
 - Technical Excellence
 - Value Delivery
 - Product Delivery
+- Working Software
 - Engineering Practices
 - Technical Debt
 - Operational Practices
 - Technical Mastery
-- Working Software
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml

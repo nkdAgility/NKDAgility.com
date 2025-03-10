@@ -8,7 +8,7 @@ ResourceImportId: 9446
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-04-18
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -38,7 +38,6 @@ tags:
 - Practical Techniques and Tooling
 categories:
 - DevOps
-- Engineering Excellence
 preview: puzzle-issue-problem-128-link-3-3.png
 
 ---

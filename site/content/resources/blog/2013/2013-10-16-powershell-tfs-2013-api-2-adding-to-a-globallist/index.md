@@ -31,10 +31,10 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 - Technical Mastery
-- Install and Configuration
 - Software Development
 - System Configuration
 - Technical Excellence
+- Install and Configuration
 categories:
 - Engineering Excellence
 preview: metro-powershell-logo-1-1.png

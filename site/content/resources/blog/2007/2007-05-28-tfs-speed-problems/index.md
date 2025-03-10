@@ -8,7 +8,7 @@ ResourceImportId: 395
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-05-28
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,8 +23,7 @@ aliasesArchive:
 - /tfs-speed-problems
 - /resources/blog/tfs-speed-problems
 preview: nakedalm-logo-128-link-1-1.png
-categories:
-- Engineering Excellence
+categories: []
 tags:
 - Troubleshooting
 

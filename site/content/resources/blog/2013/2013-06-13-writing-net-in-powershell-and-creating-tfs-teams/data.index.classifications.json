@@ -283,12 +283,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T18:38:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:47:56",
+    "ai_confidence": 65.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses using PowerShell to interact with TFS (Team Foundation Server), which is part of the Azure DevOps suite. It focuses on creating teams programmatically, which aligns with Azure DevOps functionalities.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content discusses using PowerShell to interact with TFS (Team Foundation Server), which is part of the Azure DevOps suite. It provides specific examples of code and methods related to creating teams in TFS, indicating a focus on Azure DevOps functionalities. However, the discussion is more technical and less about best practices or methodologies associated with Azure DevOps, which slightly lowers the alignment and depth scores.",
+    "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",

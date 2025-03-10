@@ -31,7 +31,6 @@ tags:
 - News and Reviews
 categories:
 - Engineering Excellence
-- Social Technologies
 preview: metro-event-icon-3-3.png
 
 ---

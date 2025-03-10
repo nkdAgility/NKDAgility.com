@@ -28,7 +28,6 @@ aliasesArchive:
 - /resources/blog/stuck-with-vista
 tags:
 - Windows
-- Miscellaneous
 preview: nakedalm-logo-128-link-7-1.png
 categories: []
 

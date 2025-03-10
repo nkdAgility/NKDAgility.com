@@ -31,7 +31,6 @@ aliasesArchive:
 - /blog/professional-scrum-foundations-coming-to-glasgow--scotland-in-november-2013
 - /resources/blog/professional-scrum-foundations-coming-to-glasgow-scotland-in-november-2013
 tags:
-- People and Process
 - Professional Scrum
 - Scrum Product Development
 - Software Development
@@ -39,6 +38,7 @@ tags:
 - Agile Project Management
 - Agile Transformation
 - Products and Books
+- People and Process
 - Software Developers
 - Events and Presentations
 categories:

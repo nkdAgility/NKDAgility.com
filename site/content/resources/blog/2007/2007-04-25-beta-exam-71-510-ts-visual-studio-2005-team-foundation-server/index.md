@@ -29,7 +29,6 @@ aliasesArchive:
 preview: nakedalm-logo-128-link-2-2.png
 categories: []
 tags:
-- Continuous Learning
 - Software Development
 
 ---

@@ -8,7 +8,7 @@ ResourceImportId: 9487
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-05-15
-weight: 640
+weight: 585
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,9 +28,7 @@ tags:
 - Application Lifecycle Management
 - Engineering Practices
 categories:
-- DevOps
 - Engineering Excellence
-- Product Management
 preview: nakedalm-experts-visual-studio-alm-18-18.png
 
 ---

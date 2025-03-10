@@ -34,12 +34,12 @@ tags:
 - People and Process
 - Agile Frameworks
 - Agile Project Management
-- Agile Strategy
 - Agile Transformation
 - Business Agility
 - Coaching
 - Decision Making
 - Organisational Agility
+- Practical Techniques and Tooling
 resourceTypes:
 - video
 categories:

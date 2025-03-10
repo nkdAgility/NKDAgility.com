@@ -23,8 +23,8 @@ aliasesArchive:
 - /proxy-server-settings-for-sharepoint-2007
 - /resources/blog/proxy-server-settings-for-sharepoint-2007
 tags:
-- Install and Configuration
 - System Configuration
+- Install and Configuration
 - Troubleshooting
 categories: []
 preview: metro-sharepoint-128-link-1-1.png

@@ -28,6 +28,7 @@ tags:
 - Team Collaboration
 - Collaboration Tools
 - People and Process
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

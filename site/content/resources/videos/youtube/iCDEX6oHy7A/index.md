@@ -25,14 +25,7 @@ preview: https://i.ytimg.com/vi/iCDEX6oHy7A/maxresdefault.jpg
 duration: 5071
 isShort: false
 tags:
-- Events and Presentations
-- Professional Scrum
-- Agile Frameworks
-- Agile Project Management
-- Agile Transformation
-- News and Reviews
 - People and Process
-- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

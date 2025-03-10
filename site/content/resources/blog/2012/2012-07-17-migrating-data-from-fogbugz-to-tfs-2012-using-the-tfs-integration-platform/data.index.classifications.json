@@ -76,12 +76,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T20:09:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:55:27",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 40,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily focuses on the installation and configuration of the TFS Integration Platform and the development environment needed for a custom adapter, providing detailed steps and best practices.",
-    "level": "Secondary"
+    "final_score": 81.0,
+    "reasoning": "The content provides a detailed guide on setting up a development environment and configuring a custom adapter for the TFS Integration Platform, which directly aligns with the 'Install and Configuration' category. It includes step-by-step installation instructions for necessary software, configuration details for the adapter, and troubleshooting advice, demonstrating a strong focus on practical implementation. The depth of discussion is significant, covering various aspects of the installation and configuration process, thus justifying a high confidence score.",
+    "level": "Primary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -121,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:55:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the migration of data between systems and the setup of a development environment, which are relevant to DevOps practices, but the primary focus is on technical implementation details rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating data between systems using the TFS Integration Platform, which is a tool relevant to DevOps practices. However, it lacks explicit discussions on broader DevOps principles such as CI/CD, automation, or cultural shifts. While it touches on the integration of tools and processes, it does not delve deeply into the collaborative or operational aspects that define DevOps, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

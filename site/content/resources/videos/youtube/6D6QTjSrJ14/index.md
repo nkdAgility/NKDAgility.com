@@ -35,8 +35,8 @@ tags:
 - People and Process
 - Customer Feedback Loops
 - Coaching
-- Customer Satisfaction
 - Personal
+- Customer Satisfaction
 - Value Delivery
 resourceTypes:
 - video

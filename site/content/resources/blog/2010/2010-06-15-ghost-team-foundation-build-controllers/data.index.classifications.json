@@ -121,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:04:31",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to build controllers in Team Foundation Server, which is relevant to DevOps practices, but it primarily focuses on a specific problem rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses issues related to build controllers in Team Foundation Server (TFS), which is a tool used in DevOps for managing builds and deployments. However, the focus is primarily on troubleshooting a specific problem rather than broader DevOps principles or practices. While it touches on aspects of automation and build management, it lacks a comprehensive discussion on DevOps culture, CI/CD practices, or metrics for success, which are key themes in the DevOps category.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -283,11 +286,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-16T00:34:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:04:33",
+    "ai_confidence": 68.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to build controllers in Team Foundation Server (TFS), which is a component of Azure DevOps, and provides insights into troubleshooting and management practices within that context.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses issues related to Team Foundation Server (TFS), which is part of the Azure DevOps suite. It provides specific details about troubleshooting ghost build controllers, which aligns with Azure DevOps functionalities. However, the focus is primarily on a specific problem rather than a broader discussion of Azure DevOps services or best practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Personal": {

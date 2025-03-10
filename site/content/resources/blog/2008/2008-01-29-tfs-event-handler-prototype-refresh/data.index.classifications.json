@@ -55,11 +55,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T18:53:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:17:02",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the installation process of the TFS Event Handler Prototype, including steps for uninstalling and reinstalling the application, as well as handling configuration files. It provides actionable instructions relevant to installation and configuration, making it a central theme.",
+    "final_score": 68.0,
+    "reasoning": "The content primarily discusses the installation process of the TFS Event Handler Prototype, including steps for uninstalling and reinstalling the application while preserving configuration files. It provides actionable instructions, which aligns well with the category of Install and Configuration. However, while it mentions configuration aspects, the depth of discussion on best practices or troubleshooting is limited, preventing a higher score.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -1234,12 +1237,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:16:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses bug fixes and upgrades for a prototype related to event handling in TFS, indicating a focus on improving development practices, which aligns with the pursuit of engineering excellence. However, the primary emphasis is on the specific implementation and usage of a tool rather than overarching principles or best practices in software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses bug fixes and enhancements related to a specific software prototype, which touches on aspects of software craftsmanship. However, it lacks a comprehensive focus on broader engineering excellence principles such as coding standards, CI/CD practices, or quality assurance. The mention of upgrading to a newer version of Visual Studio and .NET indicates some alignment with best practices, but the overall discussion is more about specific implementation details rather than a culture of excellence in software development.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

@@ -55,11 +55,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T18:49:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:16:53",
+    "ai_confidence": 82.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content provides detailed instructions on adding event handlers to a deployment, including steps for downloading, extracting files, and modifying configuration settings, which aligns well with installation and configuration topics.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed guide on adding event handlers to a TFS deployment, including specific steps for installation and configuration. It explicitly mentions the process of updating the deployment, downloading necessary files, and modifying configuration settings, which aligns well with the key topics of the category. The depth of discussion is significant, as it includes code snippets and instructions for both handlers, demonstrating a clear focus on practical implementation. However, while the content is primarily focused on installation and configuration, it could benefit from additional troubleshooting tips or system requirements to fully meet the category's expectations.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -1234,12 +1237,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:16:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses adding event handlers in a software development context, which touches on software craftsmanship, but primarily focuses on implementation details rather than broader engineering excellence principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the implementation of event handlers in a specific software context, which does not directly address the principles of software craftsmanship or best practices in coding standards. While it mentions updating a deployment and fixing bugs, it lacks a broader discussion on engineering excellence, such as quality assurance or continuous improvement processes. The technical details provided are more about functionality than about fostering a culture of excellence in software development.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

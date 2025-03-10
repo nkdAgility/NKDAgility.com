@@ -29,12 +29,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Product Management
 - Customer Feedback Loops
 - Product Owner
 - Scrum Product Development
 - Scrum Team
 - Sprint Review
-- Agile Product Management
 - People and Process
 - Pragmatic Thinking
 - Professional Scrum

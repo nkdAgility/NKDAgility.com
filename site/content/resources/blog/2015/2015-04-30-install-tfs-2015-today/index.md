@@ -25,8 +25,7 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - System Configuration
-categories:
-- DevOps
+categories: []
 preview: nakedalm-experts-visual-studio-alm-11-11.png
 
 ---

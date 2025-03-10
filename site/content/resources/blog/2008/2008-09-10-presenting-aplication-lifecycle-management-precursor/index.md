@@ -28,7 +28,6 @@ aliasesArchive:
 - /resources/blog/presenting-aplication-lifecycle-management-precursor
 tags:
 - Events and Presentations
-- Personal
 preview: metro-aggreko-128-link-1-1.png
 categories: []
 

@@ -34,8 +34,7 @@ aliasesArchive:
 - /resources/blog/tfs2012-2-issue-object-not-set-to-instance-of-object-with-tf400898-tf53010-tf30065
 tags:
 - Troubleshooting
-categories:
-- Kanban
+categories: []
 preview: puzzle-issue-problem-128-link-4-4.png
 
 ---

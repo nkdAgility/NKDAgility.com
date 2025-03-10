@@ -29,8 +29,8 @@ aliasesArchive:
 tags:
 - Events and Presentations
 - Software Development
-- Agile Frameworks
 - Agile Project Management
+- Agile Frameworks
 categories:
 - Social Technologies
 - Scrum

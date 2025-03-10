@@ -27,7 +27,6 @@ aliasesArchive:
 - /blog/least-opportune-time-
 - /resources/blog/least-opportune-time
 tags:
-- Products and Books
 - Miscellaneous
 - Modern Source Control
 - Personal

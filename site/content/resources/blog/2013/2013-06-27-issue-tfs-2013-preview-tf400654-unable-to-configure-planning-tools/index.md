@@ -27,15 +27,14 @@ aliasesArchive:
 - /blog/issue-[-tfs-2013-preview-]-tf400654--unable-to-configure-planning-tools
 - /resources/blog/issue-tfs-2013-preview-tf400654-unable-to-configure-planning-tools
 tags:
-- Troubleshooting
 - Install and Configuration
+- Troubleshooting
 - Azure DevOps
 - Software Development
 - System Configuration
 - Practical Techniques and Tooling
 categories:
 - Scrum
-- Social Technologies
 preview: puzzle-issue-problem-128-link-2-2.png
 
 ---

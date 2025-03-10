@@ -8,7 +8,7 @@ ResourceImportId: 39682
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2019-08-16
-weight: 550
+weight: 585
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -32,11 +32,11 @@ tags:
 - Professional Scrum
 - Scrum Product Development
 - Scrum Team
-- Events and Presentations
 - Software Development
 - Team Collaboration
 - Team Performance
 - Agile Frameworks
+- Agile Transformation
 categories:
 - Scrum
 preview: 1130646316-1-1-1.jpg

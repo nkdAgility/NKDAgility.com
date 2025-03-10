@@ -27,13 +27,13 @@ tags:
 - Agile Product Management
 - Scrum Product Development
 - Product Delivery
+- Value Delivery
 - People and Process
 - Product Owner
 - Agile Project Management
 - Hypothesis Driven Development
 - Pragmatic Thinking
 - Professional Scrum
-- Value Delivery
 categories:
 - Scrum
 preview: naked-agility-hypothesis-driven-2-2.jpg

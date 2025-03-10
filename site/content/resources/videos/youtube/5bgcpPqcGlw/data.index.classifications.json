@@ -13,11 +13,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:06:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:28:26",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses Agile practices, specifically Scrum, and how they are applied within the Azure DevOps team to enhance collaboration, transparency, and continuous improvement in site reliability engineering.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses Agile practices, specifically mentioning Scrum and its roles, events, and the importance of continuous improvement. It also touches on collaboration and team dynamics within the context of Azure DevOps, which aligns with the core themes of Social Technologies. However, the primary focus is on site reliability engineering and operational practices rather than a deep exploration of the methodologies themselves, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -133,11 +136,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-18T12:22:56",
-    "ai_confidence": 65,
+    "calculated_at": "2025-03-10T12:28:29",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 50,
     "final_score": 64.0,
-    "reasoning": "The content primarily discusses Azure DevOps and site reliability engineering but includes significant references to the Windows operating system, especially in relation to its deployment and update processes. However, this content is not centered solely on Windows; Azure DevOps and related practices take precedence.",
+    "reasoning": "The content discusses Windows in the context of Azure DevOps and its deployment practices, touching on the evolution of Windows updates and the importance of customer feedback. However, the primary focus is on site reliability engineering and DevOps practices rather than a comprehensive exploration of Windows itself. While there are relevant mentions of Windows, they are not the central theme of the discussion, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Sprint Review": {

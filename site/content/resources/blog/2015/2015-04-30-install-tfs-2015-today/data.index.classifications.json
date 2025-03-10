@@ -76,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-14T22:04:25",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-10T12:35:29",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 30,
-    "final_score": 84.0,
-    "reasoning": "The content primarily focuses on the installation and configuration process of TFS 2015, providing detailed step-by-step instructions, system requirements, and configuration options, which aligns well with the category.",
+    "final_score": 86.0,
+    "reasoning": "The content provides a comprehensive guide on installing and configuring TFS 2015, detailing step-by-step procedures, system requirements, and configuration options. It explicitly discusses installation processes, configuration best practices, and troubleshooting aspects, aligning closely with the key topics of the category. The depth of discussion is significant, covering various installation scenarios and configurations, which supports a high confidence score.",
     "level": "Primary"
   },
   "Transparency and Accountability": {
@@ -121,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:35:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation and configuration of TFS 2015, which is relevant to DevOps practices, particularly in the context of Continuous Integration and Continuous Delivery. However, the primary focus is on installation steps rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2015, which is a tool related to DevOps practices. However, it lacks a direct discussion of DevOps principles, cultural shifts, or broader practices such as CI/CD. While it touches on automation and configuration, it does not delve into the collaborative aspects or metrics of DevOps, leading to a low confidence score despite some relevant mentions.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

@@ -33,7 +33,6 @@ aliasesArchive:
 tags:
 - Events and Presentations
 - Software Development
-- Technical Mastery
 - Test Driven Development
 categories:
 - Engineering Excellence

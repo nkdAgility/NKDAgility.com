@@ -30,8 +30,8 @@ tags:
 - Events and Presentations
 categories:
 - Engineering Excellence
-- Product Management
 - DevOps
+- Social Technologies
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

@@ -31,8 +31,8 @@ tags:
 - Practical Techniques and Tooling
 - Decision Making
 - Experimentation
-- Technical Excellence
 - Technical Mastery
+- Windows
 categories: []
 preview: metro-binary-vb-128-link-11-11.png
 

@@ -31,11 +31,14 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T20:42:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:05:44",
+    "ai_confidence": 76.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the role of product management in Agile, focusing on skills and collaboration necessary for effective product delivery.",
+    "final_score": 70.0,
+    "reasoning": "The content explicitly mentions product management and discusses the role of Agile in that context, indicating a clear focus on the category. It aligns well with core themes such as collaboration and responding to change, which are essential in product management. However, while it provides a good overview, it lacks in-depth exploration of specific methodologies or frameworks, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Leadership": {
@@ -70,12 +73,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T20:42:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:05:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a Product Owner and the importance of Agile principles, which are relevant to Scrum, but it primarily focuses on product management rather than Scrum itself.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content briefly mentions the role of a Product Owner and touches on Agile principles, which are relevant to Scrum. However, it lacks a detailed exploration of Scrum roles, events, or artifacts, and does not provide in-depth discussion on Scrum principles or practices. The focus is more on general product management rather than a thorough understanding of Professional Scrum.",
+    "level": "Quaternary"
   },
   "Automated Testing": {
     "category": "Automated Testing",

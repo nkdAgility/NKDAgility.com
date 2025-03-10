@@ -121,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:02:26",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of tools like Team Foundation Server (TFS) and Visual Studio for Application Lifecycle Management (ALM), which aligns with DevOps principles. However, the primary focus is on compliance and traceability rather than core DevOps practices such as CI/CD or automation.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the use of Team Foundation Server (TFS) and Visual Studio for Application Lifecycle Management (ALM), which touches on aspects of DevOps such as traceability, builds, and task management. However, it primarily focuses on compliance and project management rather than the core principles of DevOps like CI/CD, automation, or cultural shifts. While there are mentions of builds and tasks, the depth of discussion does not fully align with the broader DevOps practices and principles.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -166,11 +169,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-15T23:57:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:02:28",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the roles of various team members in the context of using Team Foundation Server for Application Lifecycle Management, highlighting the interplay between human behaviour and structured methodologies in technology development.",
+    "final_score": 63.0,
+    "reasoning": "The content discusses the roles of various team members (e.g., Business Analysts, Programmers, Testers) in the context of using Team Foundation Server (TFS) for Application Lifecycle Management (ALM). It highlights how these roles interact with the system to ensure compliance and manage requirements, tasks, and bugs. However, while it touches on team dynamics and responsibilities, the primary focus remains on the technical capabilities of TFS rather than a deep exploration of human behaviour or process methodologies. Thus, while there is a significant connection to the 'People and Process' category, it is not the primary focus.",
     "level": "Secondary"
   },
   "Enterprise Agility": {

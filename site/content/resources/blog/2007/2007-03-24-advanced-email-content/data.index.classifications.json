@@ -370,12 +370,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T10:22:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:26:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses elements related to Windows Vista and WPF, indicating a connection to the Windows operating system, but it primarily focuses on email content rather than Windows OS functionalities.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Windows Vista and discusses aspects related to WPF and .NET, which are associated with the Windows environment. However, the primary focus is on email content and advanced features rather than installation, configuration, or troubleshooting of the Windows operating system. The discussion lacks depth in terms of Windows-specific topics, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Azure Repos": {
     "category": "Azure Repos",

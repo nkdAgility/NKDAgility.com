@@ -24,11 +24,11 @@ aliasesArchive:
 - /deciphering-the-enigma-of-story-points-across-teams
 - /resources/blog/deciphering-the-enigma-of-story-points-across-teams
 tags:
+- Value Delivery
 - Throughput
 - Flow Efficiency
 - Agile Project Management
 - Metrics and Learning
-- Value Delivery
 - Agile Product Management
 - Decision Making
 - Team Performance

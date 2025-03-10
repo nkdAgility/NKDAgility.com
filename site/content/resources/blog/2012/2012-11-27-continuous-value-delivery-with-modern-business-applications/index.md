@@ -34,8 +34,8 @@ tags:
 - Product Delivery
 - Software Development
 categories:
-- DevOps
 - Social Technologies
+- DevOps
 - Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 

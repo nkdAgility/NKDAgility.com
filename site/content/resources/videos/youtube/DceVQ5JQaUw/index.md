@@ -26,6 +26,7 @@ duration: 130
 isShort: false
 tags:
 - People and Process
+- Pragmatic Thinking
 - Organisational Change
 sitemap:
   filename: sitemap.xml

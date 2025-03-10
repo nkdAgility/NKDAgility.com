@@ -31,9 +31,9 @@ sitemap:
   priority: 0.6
 tags:
 - Strategy
+- Metrics and Learning
 - Cycle Time
 - Agile Frameworks
-- Metrics and Learning
 - People and Process
 - Operational Practices
 - Pragmatic Thinking

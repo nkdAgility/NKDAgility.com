@@ -32,8 +32,8 @@ tags:
 - People and Process
 - Agile Leadership
 - Business Agility
-- Agile Transformation
 - Organisational Agility
+- Agile Transformation
 - Organisational Change
 - Organisational Culture
 - Pragmatic Thinking
@@ -41,6 +41,7 @@ resourceTypes:
 - video
 categories:
 - Leadership
+- Social Technologies
 
 ---
 **Why do you prefer agile consulting over agile coaching?**

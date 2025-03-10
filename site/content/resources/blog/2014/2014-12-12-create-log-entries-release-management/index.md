@@ -35,11 +35,11 @@ tags:
 - Azure Pipelines
 - Pragmatic Thinking
 - Software Development
-- Technical Excellence
 - Technical Mastery
+- Troubleshooting
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 
 ---

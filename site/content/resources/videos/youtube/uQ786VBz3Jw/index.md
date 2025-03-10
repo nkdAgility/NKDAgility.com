@@ -27,13 +27,13 @@ isShort: false
 tags:
 - Professional Scrum
 - Transparency
+- Agile Frameworks
 - Agile Planning
 - Agile Planning Tools
 - Agile Product Management
 - People and Process
 - Product Owner
 - Transparency and Accountability
-- Agile Frameworks
 - Agile Project Management
 sitemap:
   filename: sitemap.xml

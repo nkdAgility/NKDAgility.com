@@ -32,12 +32,12 @@ tags:
 - Scrum Product Development
 - Scrum Team
 - Agile Planning
-- Professional Scrum
 - Scrum Master
 - Team Collaboration
 - Agile Frameworks
 - Agile Project Management
 - Software Development
+- Agile Product Management
 resourceTypes:
 - video
 categories:

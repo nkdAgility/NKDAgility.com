@@ -23,10 +23,10 @@ aliasesArchive:
 - /tfs-process-template-migration-script-updated
 - /resources/blog/tfs-process-template-migration-script-updated
 tags:
+- Install and Configuration
 - Practical Techniques and Tooling
 - System Configuration
 - Operational Practices
-- Install and Configuration
 - Software Development
 - Application Lifecycle Management
 - Azure DevOps

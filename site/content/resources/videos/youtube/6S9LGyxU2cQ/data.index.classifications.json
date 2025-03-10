@@ -22,12 +22,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T19:19:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:02:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Agile and Scrum methodologies, which are related to DevOps, but the primary focus is on training and coaching rather than DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Scrum and Agile methodologies, focusing on coaching and feedback loops within a team context. While it briefly mentions DevOps at the end, the main focus is on Scrum practices rather than the integration of development and operations, which is central to DevOps. The discussion lacks depth in DevOps principles, tools, and practices, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Product Management": {
     "category": "Product Management",
@@ -70,12 +73,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T19:19:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:03:00",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum principles, particularly the role of coaching and feedback loops in the context of Sprints and retrospectives, but it also includes broader Agile concepts and is not solely focused on Scrum.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses elements of Scrum, such as Sprints, retrospectives, and coaching, indicating a focus on Scrum practices. However, it lacks a comprehensive exploration of Scrum principles and roles, which limits its depth. The mention of Scrum is present but not the primary focus, as it also touches on broader Agile concepts and immersive learning experiences.",
+    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",

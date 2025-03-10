@@ -8,7 +8,7 @@ ResourceImportId: 10381
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-02-20
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -33,11 +33,10 @@ aliasesArchive:
 tags:
 - News and Reviews
 - Software Development
-- Install and Configuration
 - Practical Techniques and Tooling
 - Events and Presentations
-categories:
-- Engineering Excellence
+- Install and Configuration
+categories: []
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

@@ -35,8 +35,8 @@ tags:
 - Agile Project Management
 - Product Owner
 - Team Motivation
-- Employee Engagement
 - Personal
+- Employee Engagement
 - Agile Philosophy
 resourceTypes:
 - video

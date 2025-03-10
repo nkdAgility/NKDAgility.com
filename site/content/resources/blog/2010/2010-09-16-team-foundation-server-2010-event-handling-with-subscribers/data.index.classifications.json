@@ -76,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T00:13:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:03:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the installation and configuration of event handlers within Team Foundation Server 2010, including specific directory paths and assembly references necessary for setup.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed guide on how to implement event handling in Team Foundation Server (TFS) 2010, including specific instructions on where to place assemblies and how to implement the ISubscriber interface. It discusses the configuration of event subscribers, which is a key aspect of installation and configuration. The content is rich in technical details and actionable steps, aligning well with the category's focus on installation and configuration processes. However, while it is primarily focused on these aspects, there are some tangential discussions that slightly detract from a perfect alignment.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -121,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:03:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses event handling in Team Foundation Server (TFS), which relates to automation and integration practices in DevOps, but it primarily focuses on technical implementation rather than broader DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on handling events in Team Foundation Server (TFS) 2010, which is a tool used in the software development lifecycle. While it touches on aspects of automation and integration, it lacks a comprehensive discussion on DevOps principles, practices, or cultural shifts. The mention of TFS and event handling is relevant but does not delve into broader DevOps themes such as CI/CD, collaboration, or metrics, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

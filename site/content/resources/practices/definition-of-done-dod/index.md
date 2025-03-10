@@ -39,6 +39,7 @@ card:
   title: Definition of Done (DoD)
 categories:
 - Scrum
+- Social Technologies
 tags:
 - Definition of Done
 - Increment

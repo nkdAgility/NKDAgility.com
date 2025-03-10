@@ -1093,11 +1093,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-12T06:05:26",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T12:07:39",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of senior leadership engagement in agile consulting, which is relevant to product delivery methodologies and practices. However, it primarily focuses on leadership involvement rather than the end-to-end process of delivering software products.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the critical role of senior leadership in agile consulting engagements, emphasising the need for their involvement in the product delivery process. It aligns well with the category by addressing the importance of organisational change, feedback loops, and the need for cross-functional collaboration to enhance product delivery. The depth of discussion is substantial, providing examples and insights into how leadership impacts the ability to deliver usable products effectively.",
     "level": "Secondary"
   },
   "Agile Product Management": {
@@ -1183,12 +1186,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:07:36",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the importance of senior leadership engagement in the context of Agile transformations, which includes elements of DevOps practices, particularly in relation to continuous delivery and organisational change. However, the primary focus is on Agile methodologies rather than DevOps itself.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of senior leadership in agile transformations, which indirectly relates to DevOps principles, particularly in the context of continuous delivery and organisational change. However, the primary focus is on agile methodologies rather than DevOps itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",

@@ -28,8 +28,8 @@ aliasesArchive:
 - /resources/blog/agile-africa-2016
 tags:
 - Events and Presentations
-- Personal
 - News and Reviews
+- Personal
 categories:
 - Social Technologies
 preview: clip_image001-1-2-2.jpg

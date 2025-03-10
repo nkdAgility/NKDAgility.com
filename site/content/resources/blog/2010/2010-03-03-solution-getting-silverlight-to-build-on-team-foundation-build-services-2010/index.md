@@ -27,9 +27,9 @@ aliasesArchive:
 - /blog/solution--getting-silverlight-to-build-on-team-foundation-build-services-2010
 - /resources/blog/solution-getting-silverlight-to-build-on-team-foundation-build-services-2010
 tags:
+- Install and Configuration
 - Troubleshooting
 - Practical Techniques and Tooling
-- Install and Configuration
 - Software Development
 - System Configuration
 - Azure DevOps
@@ -38,9 +38,9 @@ tags:
 - Pragmatic Thinking
 - Technical Excellence
 categories:
+- DevOps
 - Engineering Excellence
 - Scrum
-- DevOps
 preview: metro-visual-studio-2010-128-link-3-3.png
 
 ---

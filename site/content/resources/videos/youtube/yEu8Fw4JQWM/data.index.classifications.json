@@ -346,12 +346,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T16:42:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:13:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses principles related to work in progress (WIP) and productivity in the context of Agile and Kanban methodologies, which are relevant to engineering practices. However, the primary focus is on project management concepts rather than direct software craftsmanship or engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the concept of limiting work in progress (WIP) and its impact on productivity, which aligns with some principles of engineering excellence, particularly in relation to efficiency and workflow management. However, the primary focus is on project management and Agile methodologies rather than on software craftsmanship or development practices. The discussion lacks depth in terms of specific engineering practices, coding standards, or quality assurance, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1264,11 +1267,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-11T22:20:12",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the principles of Kanban and the impact of multitasking on productivity, which are central to team dynamics and process improvement in Agile environments.",
+    "calculated_at": "2025-03-10T12:13:45",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 30,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the concept of 'Work in Progress' (WIP) and its impact on productivity, which directly relates to team dynamics and process efficiency. It highlights the importance of focusing on fewer tasks to enhance performance, aligning well with the core themes of the category. The discussion includes references to Scrum practices and the negative effects of context switching, indicating a strong understanding of human factors in process methodologies. However, while the content is rich in examples and analogies, it lacks a structured exploration of leadership or cultural aspects, which slightly limits its depth.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {

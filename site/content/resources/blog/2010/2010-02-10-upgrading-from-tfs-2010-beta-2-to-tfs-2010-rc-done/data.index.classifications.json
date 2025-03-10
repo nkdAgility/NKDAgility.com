@@ -76,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T01:35:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:07:08",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the step-by-step process of upgrading from TFS 2010 Beta 2 to TFS 2010 RC, including installation and configuration instructions, which aligns well with the category.",
+    "final_score": 80.0,
+    "reasoning": "The content provides a detailed step-by-step guide on upgrading from TFS 2010 Beta 2 to TFS 2010 RC, which directly aligns with the category of Install and Configuration. It explicitly discusses installation and configuration steps, including uninstalling previous versions, installing the new version, and configuring it to work with existing databases. The depth of discussion is significant, as it includes troubleshooting tips and system requirements, which are essential for effective implementation. Overall, the content is highly relevant and focused on the technical aspects of installation and configuration.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -121,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:07:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the upgrade process of Team Foundation Server, which is related to DevOps practices, but it primarily focuses on the technical steps of the upgrade rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the upgrade process of Team Foundation Server (TFS) and does not explicitly discuss DevOps principles or practices. While it touches on aspects of software deployment and configuration, it lacks a comprehensive exploration of DevOps concepts such as CI/CD, automation, or cultural shifts. The mention of TFS and its configuration is relevant to DevOps but is not the main focus, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

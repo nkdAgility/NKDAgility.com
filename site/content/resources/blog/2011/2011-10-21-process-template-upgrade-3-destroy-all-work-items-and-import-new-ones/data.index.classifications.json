@@ -76,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T21:52:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:59:32",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the step-by-step process of upgrading a process template in TFS, including installation and configuration of work item types, queries, and reports, which aligns well with the category.",
+    "final_score": 80.0,
+    "reasoning": "The content provides a detailed, step-by-step guide on upgrading a process template in a Team Foundation Server (TFS) environment, which directly aligns with installation and configuration processes. It discusses specific actions to take, such as fixing queries and reports, tearing down old process templates, and building up new ones, all of which are essential for effective configuration. The depth of discussion is significant, with clear instructions and command-line examples, indicating a strong focus on practical implementation. The content does not stray into unrelated theoretical discussions, maintaining a clear focus on the technical aspects of installation and configuration.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -121,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:59:29",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses upgrading process templates and managing work items in TFS, which relates to DevOps practices, but it primarily focuses on specific technical tasks rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses upgrading a process template in TFS, which relates to DevOps practices, particularly in the context of Continuous Integration and Continuous Delivery. However, it primarily focuses on the technical steps involved in managing work items and process templates rather than broader DevOps principles or cultural shifts. While there are mentions of tools and processes that could be associated with DevOps, the depth of discussion is more technical and procedural, lacking a comprehensive exploration of DevOps as a holistic practice.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

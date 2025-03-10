@@ -34,9 +34,9 @@ tags:
 - Flow Efficiency
 - Practical Techniques and Tooling
 - Throughput
+- Agile Frameworks
 - Cycle Time
 - Software Development
-- Agile Frameworks
 - Agile Project Management
 - Operational Practices
 - Pragmatic Thinking

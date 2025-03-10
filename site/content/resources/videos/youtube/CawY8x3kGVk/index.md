@@ -36,13 +36,13 @@ tags:
 - People and Process
 - Scrum Team
 - Agile Project Management
-- Professional Scrum
 - Software Developers
 - Technical Leadership
 - Agile Frameworks
 - Pragmatic Thinking
 - Self Organisation
 - Software Development
+- Agile Product Management
 resourceTypes:
 - video
 categories:

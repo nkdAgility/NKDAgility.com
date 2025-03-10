@@ -41,8 +41,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Leadership
+- Social Technologies
 
 ---
 Why are recessions a great time for organizations to evaluate the opportunity of agile?

@@ -2,7 +2,7 @@
 title: 'Unlocking the Power of Kanban: Transform Your Workflow with Data-Driven Insights'
 description: Unlock the power of Kanban! Discover how to optimise workflows, enhance delivery speed, and engage stakeholders with data-driven insights.
 date: 2023-08-23T07:00:10Z
-weight: 760
+weight: 705
 ResourceId: RSPw8pZ9NT8
 ResourceType: videos
 ResourceImport: true

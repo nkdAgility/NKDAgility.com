@@ -1105,11 +1105,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T10:29:11",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T13:09:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 30,
-    "final_score": 66.0,
-    "reasoning": "Content discusses issues related to the installation and upgrade of TFS 2010 on Windows servers, which is a major topic around Windows management. However, it primarily focuses on the TFS and SQL collation errors, making Windows a secondary theme.",
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the installation and upgrade process of Team Foundation Server (TFS) 2010, which is closely related to the Windows operating system environment. It explicitly mentions issues encountered during the upgrade, including SQL Server collation conflicts, which are relevant to Windows server management. The discussion aligns well with the core themes of installation, troubleshooting, and configuration within the Windows ecosystem. However, while it provides substantial detail on the specific problem, it does not cover broader Windows topics such as performance optimisation or security features, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Deployment Strategies": {

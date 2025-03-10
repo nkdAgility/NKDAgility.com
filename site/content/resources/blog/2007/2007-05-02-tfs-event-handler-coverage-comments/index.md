@@ -27,7 +27,6 @@ aliasesArchive:
 - /blog/tfs-event-handler--coverage-&-comments
 - /resources/blog/tfs-event-handler-coverage-comments
 tags:
-- Customer Feedback Loops
 - Software Development
 - Troubleshooting
 categories: []

@@ -27,8 +27,8 @@ duration: 48
 isShort: true
 tags:
 - Software Development
-- Engineering Practices
 - Working Software
+- Engineering Practices
 - Value Delivery
 sitemap:
   filename: sitemap.xml

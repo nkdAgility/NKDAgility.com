@@ -32,9 +32,9 @@ sitemap:
 tags:
 - Agile Project Management
 - Metrics and Learning
-- People and Process
 - Agile Philosophy
 - Psychological Safety
+- People and Process
 - Pragmatic Thinking
 - Software Development
 - Agile Product Management

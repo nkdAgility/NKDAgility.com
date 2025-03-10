@@ -32,7 +32,6 @@ tags:
 - Practical Techniques and Tooling
 - Working Software
 - Frequent Releases
-- Release Management
 - Software Development
 - System Configuration
 - Technical Mastery

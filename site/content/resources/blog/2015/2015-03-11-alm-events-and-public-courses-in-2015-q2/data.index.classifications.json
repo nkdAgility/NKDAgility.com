@@ -340,11 +340,14 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-14T22:29:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:35:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses upcoming public courses and events related to Agile and DevOps, which aligns with industry news and updates.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on announcing upcoming public courses and events related to Agile and DevOps, which aligns with the category of News and Reviews. However, while it provides specific dates and details about the courses, it lacks a deeper analysis or review of the events or their relevance to current trends in the industry. The direct mentions of Agile and DevOps practices are present but not the main focus, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Application Lifecycle Management": {
@@ -1366,12 +1369,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:09:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:35:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions a Professional Scrum Master course and discusses Scrum in the context of upcoming training events, indicating that Scrum is a significant theme, but the primary focus is on scheduling and promoting courses rather than in-depth discussion of Scrum principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions a Professional Scrum Master course, which aligns with the category, but the primary focus is on scheduling and promoting various training events rather than a detailed discussion of Scrum or Agile methodologies. The depth of discussion on the core themes of Social Technologies is limited, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

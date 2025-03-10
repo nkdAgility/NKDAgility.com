@@ -29,8 +29,8 @@ aliasesArchive:
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 tags:
-- Windows
 - Install and Configuration
+- Windows
 - Practical Techniques and Tooling
 - Software Development
 - System Configuration

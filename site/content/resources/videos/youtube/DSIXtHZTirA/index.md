@@ -29,12 +29,12 @@ tags:
 - Pragmatic Thinking
 - Technical Excellence
 - Continuous Delivery
-- People and Process
 - Working Software
 - Deployment Frequency
 - Deployment Strategies
 - Engineering Practices
 - Software Developers
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

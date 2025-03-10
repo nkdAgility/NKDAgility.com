@@ -24,7 +24,6 @@ aliasesArchive:
 - /resources/blog/what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
 tags:
 - Troubleshooting
-- Install and Configuration
 - Modern Source Control
 - System Configuration
 - Working Software
@@ -33,6 +32,7 @@ tags:
 - Azure DevOps
 - Pragmatic Thinking
 - Release Management
+- Software Development
 categories:
 - DevOps
 preview: metro-binary-vb-128-link-4-4.png

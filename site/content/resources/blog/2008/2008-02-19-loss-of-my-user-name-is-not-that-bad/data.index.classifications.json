@@ -946,12 +946,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T18:58:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:16:07",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the use of Active Directory in .NET applications, detailing specific classes and methods for managing user information and access control, which aligns with best practices and technical methods in software craftsmanship.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses the use of the 'System.DirectoryServices.AccountManagement' assembly in .NET for accessing Active Directory, which aligns with best practices in software design and architecture. It provides specific code examples and explains various identity types, demonstrating a good level of detail. However, it lacks a broader discussion on principles of clean code, testing, or continuous integration, which limits its depth in the context of Technical Mastery.",
+    "level": "Tertiary"
   },
   "Remote Working": {
     "category": "Remote Working",

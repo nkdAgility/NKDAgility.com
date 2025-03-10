@@ -8,7 +8,7 @@ ResourceImportId: 3796
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-09-26
-weight: 550
+weight: 630
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,7 +28,6 @@ tags:
 - News and Reviews
 categories:
 - DevOps
-- Engineering Excellence
 - Social Technologies
 preview: metro-nwc-128-link-3-3.png
 

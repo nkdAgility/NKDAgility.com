@@ -22,11 +22,14 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-14T23:18:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:36:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration of a Build vNext Agent, which is a component of an Internal Developer Platform (IDP) aimed at enhancing developer productivity and optimising the application lifecycle.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on configuring a Build vNext Agent, which is a component of an Internal Developer Platform (IDP). It discusses the new build system's modularity and self-service capabilities, aligning well with the principles of Platform Engineering. The depth of discussion includes detailed steps for setup and configuration, showcasing automation and enhancing developer productivity. However, it lacks broader discussions on the integration of DevOps practices and case studies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
@@ -736,11 +739,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-14T23:20:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:36:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration of a Build vNext Agent, which is directly related to continuous integration practices and improving software development processes. It highlights the new build system's modularity and efficiency, aligning with the principles of engineering excellence.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on configuring a Build vNext Agent, which is a technical task related to CI/CD practices. While it discusses aspects of the new build system and its advantages, it lacks a broader discussion on engineering excellence principles, such as software craftsmanship or quality assurance. The depth of discussion is more about the practical steps rather than promoting high standards in software development practices.",
     "level": "Secondary"
   },
   "Revenue per Employee": {

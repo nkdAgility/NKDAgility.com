@@ -16,6 +16,7 @@ aliases:
 - /resources/pGqagcI_q5y
 tags:
 - Transparency and Accountability
+- People and Process
 - News and Reviews
 
 ---

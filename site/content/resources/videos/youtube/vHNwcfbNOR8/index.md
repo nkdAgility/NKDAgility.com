@@ -30,8 +30,8 @@ sitemap:
 tags:
 - Mentoring
 - Continuous Learning
-- People and Process
 - Coaching
+- People and Process
 - Team Collaboration
 - Personal
 - Discovery and Learning

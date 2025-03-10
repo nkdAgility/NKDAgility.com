@@ -55,11 +55,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T20:03:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:18:59",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the installation and configuration of TFS (Team Foundation Server) for project management, including customization and integration with SharePoint, which aligns well with the category.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the installation of TFS and mentions the need for customization and integration with SharePoint, which aligns with the category's focus on installation and configuration. However, the discussion lacks detailed step-by-step instructions or best practices, which affects the depth of the content. The primary focus is on the author's experience and thoughts rather than a structured guide, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -307,12 +310,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:18:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implementation of TFS (Team Foundation Server) for project management, which relates to DevOps practices, but it primarily focuses on project management and customization rather than core DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the deployment of TFS (Team Foundation Server) and its use in project management, which is tangentially related to DevOps practices. However, it lacks a direct focus on core DevOps principles such as CI/CD, automation, or cultural shifts. The mention of TFS and project tracking does not sufficiently align with the broader themes of DevOps, and the depth of discussion is limited to specific implementation details without addressing the integration of development and operations or the collaborative aspects of DevOps.",
+    "level": "Quaternary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",

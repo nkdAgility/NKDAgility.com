@@ -76,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T00:12:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:03:09",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the installation and upgrade process of TFS 2005 to TFS 2010, including troubleshooting specific errors encountered during the upgrade, which aligns with the category of Install and Configuration.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses an upgrade process for TFS 2005 to TFS 2010, detailing an error encountered during the installation and providing a troubleshooting step (using 'dbcc checkdb') to resolve database corruption. This aligns with the category of Install and Configuration as it focuses on a specific installation issue and offers actionable insights. However, while it does mention installation and configuration, the depth of discussion on broader configuration best practices is limited, hence the score reflects a strong but not complete alignment.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {

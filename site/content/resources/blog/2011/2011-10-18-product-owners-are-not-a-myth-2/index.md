@@ -30,9 +30,9 @@ tags:
 - Agile Product Management
 - Product Owner
 - Accountability
+- People and Process
 - Scrum Product Development
 - Agile Project Management
-- People and Process
 - Product Backlog
 - Scrum Team
 - Product Delivery

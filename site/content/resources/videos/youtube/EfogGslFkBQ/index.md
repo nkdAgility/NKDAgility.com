@@ -33,10 +33,10 @@ tags:
 - Estimation
 - Throughput
 - Flow Efficiency
-- Metrics and Learning
 - Agile Project Management
 - Cycle Time
 - Software Developers
+- Metrics and Learning
 - Pragmatic Thinking
 - Software Development
 - Agile Product Management

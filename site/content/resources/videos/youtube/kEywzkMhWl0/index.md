@@ -34,7 +34,6 @@ sitemap:
 tags:
 - Agile Project Management
 - People and Process
-- Scrum Master
 - Scrum Team
 - Agile Frameworks
 - Agile Leadership
@@ -42,6 +41,7 @@ tags:
 - Agile Transformation
 - Professional Scrum
 - Team Performance
+- Scrum Master
 resourceTypes:
 - video
 categories:

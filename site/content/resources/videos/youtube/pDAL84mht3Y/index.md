@@ -25,10 +25,10 @@ preview: https://i.ytimg.com/vi/pDAL84mht3Y/maxresdefault.jpg
 duration: 47
 isShort: true
 tags:
-- People and Process
 - Agile Philosophy
 - Business Agility
 - Organisational Agility
+- People and Process
 - Agile Values and Principles
 sitemap:
   filename: sitemap.xml

@@ -20,6 +20,7 @@ aliasesArchive:
 - /resources/newsletters/newsletter-2022/
 categories:
 - Scrum
+- Social Technologies
 tags:
 - People and Process
 - Business Agility

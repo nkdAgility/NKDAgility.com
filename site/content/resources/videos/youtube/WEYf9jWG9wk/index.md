@@ -33,10 +33,10 @@ tags:
 - Experimentation
 - Value Delivery
 - Pragmatic Thinking
+- Product Discovery
 - Business Agility
 - Lean Product Development
 - Organisational Agility
-- Product Discovery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

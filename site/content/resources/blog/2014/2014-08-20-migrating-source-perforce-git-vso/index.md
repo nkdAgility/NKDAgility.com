@@ -8,7 +8,7 @@ ResourceImportId: 10677
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-08-20
-weight: 775
+weight: 675
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,6 +30,7 @@ tags:
 - Software Development
 categories:
 - DevOps
+- Engineering Excellence
 preview: naked-alm-git-1-1.png
 
 ---

@@ -29,10 +29,10 @@ tags:
 - Agile Planning Tools
 - Agile Project Management
 - Events and Presentations
-- Practical Techniques and Tooling
 - Product Delivery
 - Agile Frameworks
 - Agile Planning
+- Practical Techniques and Tooling
 categories:
 - Social Technologies
 - Scrum

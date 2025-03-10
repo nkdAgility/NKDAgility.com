@@ -38,7 +38,6 @@ resourceTypes:
 - video
 categories:
 - DevOps
-- Social Technologies
 
 ---
 **What is Your Peeve in DevOps**

@@ -136,12 +136,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T14:36:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T11:49:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily promotes Scrum training courses and discounts, which is a secondary theme to the broader context of Agile methodologies. While it mentions the importance of Scrum in the industry, it lacks a focus on news or reviews related to Agile or DevOps.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily promotes Scrum training courses offered by NKDAgility, focusing on the benefits of mastering Scrum rather than providing news or reviews about Agile methodologies or DevOps practices. While it mentions the importance of Scrum in the current environment, it lacks detailed analysis or commentary on industry trends, tools, or literature. The promotional nature of the content and the absence of critical evaluation or insights into the Agile landscape limit its alignment with the 'News and Reviews' category.",
+    "level": "Quaternary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -679,11 +682,14 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T15:00:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T11:49:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum training which is relevant to Product Management, particularly for roles such as Product Owners and Scrum Masters, but the primary focus is on promoting training courses rather than deeper aspects of product management strategy.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on promoting Scrum training courses, which are relevant to product management but do not delve deeply into strategic aspects of product management itself. While it mentions roles like Product Owner and Scrum Master, the discussion lacks depth in strategic alignment, methodologies, or frameworks that guide product managers. The emphasis is more on training and personal development rather than on the strategic management of products.",
     "level": "Tertiary"
   },
   "Backlog Refinement": {

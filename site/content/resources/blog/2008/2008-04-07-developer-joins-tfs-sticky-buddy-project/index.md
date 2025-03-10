@@ -26,7 +26,6 @@ tags:
 - News and Reviews
 - People and Process
 - Software Development
-- Team Collaboration
 categories: []
 
 ---

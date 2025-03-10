@@ -27,8 +27,8 @@ aliasesArchive:
 - /blog/tfs-vs--subversion-fact-check
 - /resources/blog/tfs-vs-subversion-fact-check
 tags:
-- Modern Source Control
 - Software Development
+- Modern Source Control
 - Troubleshooting
 - Install and Configuration
 categories: []

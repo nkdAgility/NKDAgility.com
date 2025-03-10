@@ -35,8 +35,8 @@ tags:
 - Product Delivery
 - Scrum Team
 - Software Development
-- Transparency and Accountability
 - Agile Frameworks
+- Agile Philosophy
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-5-5.png

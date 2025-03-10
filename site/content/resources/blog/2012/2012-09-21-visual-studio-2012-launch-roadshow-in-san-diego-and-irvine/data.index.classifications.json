@@ -337,11 +337,14 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-14T17:11:03",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T12:53:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the launch events for Visual Studio 2012 and highlights sessions related to Agile development, making it a significant but secondary theme in the context of industry news and updates.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the launch events for Visual Studio 2012, which is relevant to industry news. It mentions specific locations and dates, indicating a focus on current events. However, while it touches on Agile development practices, the depth of discussion on Agile methodologies and tools is limited. The content primarily serves as an announcement rather than a comprehensive review or analysis, which affects its overall alignment with the category.",
     "level": "Secondary"
   },
   "Application Lifecycle Management": {
@@ -1357,12 +1360,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:50:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:52:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Agile practices and the need for improved software quality, indicating a secondary theme related to Agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Agile practices in the context of a session titled 'Revolution: The Agile Developer', but it does not delve into the core principles or frameworks of Agile, Scrum, or Kanban. The focus is primarily on a launch event and general development practices rather than a detailed discussion on social technologies or methodologies that enhance collaboration and continuous improvement.",
+    "level": "Quaternary"
   },
   "Leadership": {
     "category": "Leadership",

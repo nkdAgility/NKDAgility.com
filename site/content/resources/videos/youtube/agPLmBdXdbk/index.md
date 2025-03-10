@@ -35,12 +35,11 @@ tags:
 - Agile Strategy
 - Agile Transformation
 - Change Management
-- Organisational Change
+- People and Process
 resourceTypes:
 - video
 categories:
 - Social Technologies
-- Leadership
 
 ---
 **Must have trait in an Agile Consultant**

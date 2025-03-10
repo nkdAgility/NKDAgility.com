@@ -76,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T18:31:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:47:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses troubleshooting an installation issue related to detaching a Team Project Collection in Team Foundation Server, which falls under the category of installation and configuration. It provides actionable insights and steps to resolve a specific error encountered during the configuration process.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on troubleshooting an installation issue related to Team Foundation Server (TFS), specifically addressing a failure during the detachment of a project collection. It provides actionable insights, such as checking event logs and running specific SQL queries to identify orphaned identities, which aligns well with the installation and configuration category. The depth of discussion includes detailed steps and recommendations for resolving the issue, indicating a strong focus on practical solutions. However, while it is primarily about troubleshooting, it does not cover broader installation procedures or configuration best practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {

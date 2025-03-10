@@ -33,7 +33,7 @@ tags:
 - Sensemaking
 - Sociotechnical Systems
 - Resilience and Change
-- Business Agility
+- Miscellaneous
 sitemap:
   filename: sitemap.xml
   priority: 0.6

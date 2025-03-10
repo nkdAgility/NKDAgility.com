@@ -33,9 +33,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Value Delivery
 - Practical Techniques and Tooling
 - Metrics and Learning
-- Value Delivery
 - Team Performance
 - Agile Frameworks
 - Agile Project Management

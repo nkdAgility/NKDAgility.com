@@ -24,9 +24,9 @@ preview: https://i.ytimg.com/vi/79M9edUp_5c/maxresdefault.jpg
 duration: 46
 isShort: true
 tags:
-- People and Process
 - Asynchronous Development
 - Team Collaboration
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

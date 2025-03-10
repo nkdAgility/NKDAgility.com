@@ -30,6 +30,7 @@ tags:
 - Software Developers
 - People and Process
 - Software Development
+- Agile Planning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -55,11 +55,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T18:45:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:16:39",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the process of configuring Service Principal Names (SPNs) for SQL Server, which is a key aspect of installation and configuration. It provides actionable insights on connecting to SQL Server and mentions the need to move SPNs when relocating databases, aligning well with the category's focus.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the process of adding Service Principal Names (SPNs) to Active Directory for SQL Server connectivity, which aligns with installation and configuration tasks. It provides specific commands and mentions troubleshooting steps related to connecting to SQL Server, indicating a focus on practical implementation. However, the depth of discussion is somewhat limited, as it does not cover broader configuration best practices or system requirements in detail.",
     "level": "Secondary"
   },
   "Decision Theory": {

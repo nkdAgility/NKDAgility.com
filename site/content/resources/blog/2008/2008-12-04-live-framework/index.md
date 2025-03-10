@@ -26,7 +26,6 @@ tags:
 - Collaboration Tools
 - System Configuration
 - Practical Techniques and Tooling
-- Azure DevOps
 - Software Development
 - Technical Mastery
 preview: metro-cloud-azure-link-2-2.png

@@ -199,12 +199,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:16:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:25:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses an event related to .NET Framework 3.0, providing insights into the session and the speaker's expertise, which aligns with the theme of industry events and updates. However, it primarily focuses on personal experiences rather than broader industry news or reviews.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on a personal experience at a developer event, discussing specific technologies like .NET Framework 3.0 and Windows Workflow Foundation. While it provides insights into the session and the speaker's expertise, it lacks broader industry news or reviews that would typically characterise the 'News and Reviews' category. The discussion is more anecdotal and does not delve into trends or evaluations relevant to Agile or DevOps, which diminishes its alignment with the category's core themes.",
+    "level": "Quaternary"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",

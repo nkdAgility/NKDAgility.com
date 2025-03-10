@@ -24,8 +24,7 @@ aliasesArchive:
 - /resources/blog/upgrading-to-team-foundation-server-2013
 tags:
 - Install and Configuration
-categories:
-- DevOps
+categories: []
 
 ---
 With the release of Team Foundation Server 2013 I need to upgrade all of my servers. I have a few customer installs getting prepped and I wanted to get a look see.

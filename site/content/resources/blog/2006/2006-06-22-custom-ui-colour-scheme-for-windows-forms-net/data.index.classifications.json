@@ -82,12 +82,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T11:15:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:28:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content provides a guide on customising UI elements in a .NET application, which relates to configuration, but it is primarily focused on implementation details rather than a broader installation or configuration process.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content provides a code snippet for customising the UI colour scheme in Windows Forms .NET, which relates to configuration aspects. However, it lacks a comprehensive discussion on installation procedures or broader configuration best practices. The focus is primarily on a specific implementation detail rather than a step-by-step guide or troubleshooting advice, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -325,11 +328,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-17T11:15:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-10T13:28:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on customising UI elements in .NET and does not discuss Scrum principles, roles, events, or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on customising UI elements in .NET and does not mention Scrum or any related concepts. There is no discussion of Scrum roles, events, or principles, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {

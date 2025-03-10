@@ -1306,11 +1306,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-12T15:08:08",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-10T11:34:19",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 20,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses the use of feature flags as a key practice in continuous delivery, detailing how they facilitate the deployment of new features while ensuring quality and gathering user feedback. This aligns closely with methodologies and practices involved in the end-to-end process of delivering usable software products to customers.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the practice of using feature flags as a key strategy for continuous delivery, which is a core aspect of product delivery methodologies. It provides detailed insights into how feature flags facilitate iterative development, testing, and deployment, aligning well with the category's focus on delivering usable software products. The depth of discussion on telemetry, user feedback, and the gradual rollout of features demonstrates a strong understanding of the product delivery process, making it a primary focus rather than a secondary mention.",
     "level": "Secondary"
   },
   "Discovery and Learning": {

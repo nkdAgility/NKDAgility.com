@@ -23,8 +23,8 @@ aliasesArchive:
 - /creating-a-custom-activity-for-team-foundation-build
 - /resources/blog/creating-a-custom-activity-for-team-foundation-build
 tags:
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 - Software Development
 - Azure DevOps
 - Azure Pipelines

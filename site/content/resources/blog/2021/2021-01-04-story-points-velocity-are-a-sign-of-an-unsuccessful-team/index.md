@@ -8,7 +8,7 @@ ResourceImportId: 44532
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2021-01-04
-weight: 550
+weight: 495
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -37,7 +37,7 @@ tags:
 - Cycle Time
 - Scrum Product Development
 - Scrum Team
-- Value Delivery
+- Agile Frameworks
 categories:
 - Scrum
 preview: image-9-14-14.png

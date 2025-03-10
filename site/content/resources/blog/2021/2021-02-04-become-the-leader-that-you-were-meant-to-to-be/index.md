@@ -28,15 +28,13 @@ tags:
 - Agile Leadership
 - Scrum Master
 - Products and Books
+- Professional Scrum
 - Agile Project Management
 - Scrum Team
-- Professional Scrum
 - Team Motivation
 - Technical Leadership
 categories:
 - Leadership
-- Social Technologies
-- Scrum
 preview: image-2-2.png
 
 ---

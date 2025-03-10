@@ -27,9 +27,9 @@ aliasesArchive:
 - /blog/branch-policies-for-tfvc
 - /resources/blog/branch-policies-tfvc
 tags:
-- Azure Repos
 - Technical Mastery
 - Practical Techniques and Tooling
+- Azure Repos
 - Modern Source Control
 - Azure DevOps
 - Operational Practices

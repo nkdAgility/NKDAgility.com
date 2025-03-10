@@ -33,9 +33,9 @@ tags:
 - Agile Transformation
 - Change Management
 - Organisational Change
-- Organisational Agility
 - Pragmatic Thinking
 - Business Agility
+- Organisational Agility
 - Sociotechnical Systems
 resourceTypes:
 - video

@@ -46,7 +46,7 @@ resourceTypes:
 categories:
 - Leadership
 - Social Technologies
-- Product Management
+- DevOps
 
 ---
 ## Why Senior Leadership is Non-Negotiable in an Agile Consulting Journey

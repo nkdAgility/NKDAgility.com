@@ -28,13 +28,12 @@ tags:
 - Software Development
 - Working Software
 - News and Reviews
-- People and Process
 - Practical Techniques and Tooling
 - Product Delivery
 - Products and Books
 - Release Management
+- Software Developers
 categories:
-- DevOps
 - Engineering Excellence
 preview: nakedalm-logo-128-link-1-1.png
 

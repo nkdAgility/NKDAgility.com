@@ -8,7 +8,7 @@ ResourceImportId: 38334
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2018-02-26
-weight: 550
+weight: 585
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -32,11 +32,11 @@ tags:
 - Agile Project Management
 - Metrics and Learning
 - Agile Frameworks
-- Events and Presentations
 - Flow Efficiency
 - News and Reviews
 - Operational Practices
 - Products and Books
+- Software Developers
 categories:
 - Social Technologies
 - Scrum

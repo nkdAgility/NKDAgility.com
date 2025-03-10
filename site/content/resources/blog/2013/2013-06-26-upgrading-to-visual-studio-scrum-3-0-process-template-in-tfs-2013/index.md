@@ -23,9 +23,9 @@ aliasesArchive:
 - /upgrading-to-visual-studio-scrum-3-0-process-template-in-tfs-2013
 - /resources/blog/upgrading-to-visual-studio-scrum-3-0-process-template-in-tfs-2013
 tags:
+- Install and Configuration
 - Practical Techniques and Tooling
 - Agile Project Management
-- Install and Configuration
 - Agile Frameworks
 - Products and Books
 - System Configuration

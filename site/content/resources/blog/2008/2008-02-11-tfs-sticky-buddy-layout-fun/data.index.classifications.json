@@ -1081,11 +1081,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T19:06:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:16:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses development using Windows Forms and WPF, which are specific to the Windows operating system. It talks about layout issues, application development, and personal experiences with these Windows technologies, which align closely with the category's focus.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the author's experience with Windows Forms and WPF (Windows Presentation Foundation), which are both integral parts of the Windows operating system's development environment. There are direct mentions of Windows Forms and WPF, indicating a strong focus on Windows-related development. The content aligns well with the category's themes, particularly in terms of configuration and troubleshooting layout issues within a Windows application. The depth of discussion is significant, as the author shares personal experiences, challenges faced, and insights gained while working on the application, which adds to the overall relevance to the Windows category.",
     "level": "Secondary"
   },
   "Lean Principles": {
@@ -1234,12 +1237,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:16:11",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content talks about experiences with software layout and development tools, mentioning Windows Forms and WPF, which contribute to discussions about software craftsmanship and improvement. However, it focuses more on personal experience and struggles rather than establishing best practices or broader engineering excellence principles.",
-    "level": "Tertiary"
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on personal experiences and challenges faced while developing a user interface using Windows Forms and WPF. While it touches on aspects of software development, such as layout issues and the transition between technologies, it lacks a structured discussion on engineering excellence principles, best practices, or continuous improvement. The mention of learning curves and personal reflections does not sufficiently align with the core themes of engineering excellence, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

@@ -24,8 +24,8 @@ aliasesArchive:
 - /resources/blog/visual-studio-team-system-2008-team-foundation-server-power-tools
 tags:
 - News and Reviews
-- Practical Techniques and Tooling
 - Products and Books
+- Practical Techniques and Tooling
 - Release Management
 - Application Lifecycle Management
 - Frequent Releases

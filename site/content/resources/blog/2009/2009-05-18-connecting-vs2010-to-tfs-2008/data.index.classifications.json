@@ -283,12 +283,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:09:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses connecting Visual Studio 2010 to Team Foundation Server 2008, which is related to Azure DevOps services, but it primarily focuses on the connection process rather than broader Azure DevOps functionalities or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses connecting Visual Studio 2010 to Team Foundation Server (TFS) 2008, which is part of the Azure DevOps suite. However, it primarily focuses on the connection process rather than the broader functionalities or best practices associated with Azure DevOps. While TFS is mentioned, the discussion lacks depth in terms of CI/CD practices, agile project management, or integration with other tools, which are key topics for the Azure DevOps category.",
+    "level": "Quaternary"
   },
   "Personal": {
     "category": "Personal",

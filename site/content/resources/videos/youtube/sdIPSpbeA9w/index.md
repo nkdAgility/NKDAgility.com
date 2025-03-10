@@ -25,11 +25,11 @@ preview: https://i9.ytimg.com/vi/sdIPSpbeA9w/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 613
 isShort: false
 tags:
+- Test Automation
 - Practical Techniques and Tooling
 - Automated Testing
 - Software Development
 - Technical Excellence
-- Test Automation
 - Pragmatic Thinking
 - Engineering Practices
 - Operational Practices

@@ -76,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T10:19:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:40:50",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 38,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content provides a detailed step-by-step guide on migrating TFS process templates, including installation and configuration instructions, which aligns well with the category's focus.",
+    "final_score": 80.0,
+    "reasoning": "The content provides a detailed step-by-step guide on migrating a TFS process template, which directly aligns with installation and configuration processes. It includes specific instructions, warnings, and code snippets that facilitate the effective implementation of the migration, demonstrating a strong focus on practical application. The discussion is primarily technical, addressing configuration best practices and troubleshooting, which are core themes of the category. Overall, the content is highly relevant and offers actionable insights, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -121,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:40:46",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a migration script for TFS process templates, which relates to automation and tooling in the context of software development. However, it primarily focuses on the specifics of process templates and does not deeply engage with broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses a TFS process template migration, which is related to software development practices but primarily focuses on project management and template customisation rather than core DevOps principles. While it touches on automation and tools, it lacks a comprehensive exploration of DevOps practices such as CI/CD, collaboration between teams, or cultural shifts necessary for DevOps implementation.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

@@ -124,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:51:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, which touches on aspects of DevOps such as collaboration between development and operations tools. However, the primary focus is on project management tools rather than core DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the integration of Project Server 2013 with Team Foundation Server 2012, which is more aligned with project management and software development practices rather than the core principles of DevOps. While it touches on aspects of collaboration and integration between tools, it lacks a comprehensive discussion on DevOps practices such as Continuous Integration (CI), Continuous Delivery (CD), or the cultural shifts necessary for successful DevOps implementation. The depth of discussion on related tools is present, but it does not delve into metrics or performance indicators that are crucial for measuring DevOps success.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -583,11 +586,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-14T15:25:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:51:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the integration of Project Server 2013 with Team Foundation Server 2012, which involves software installation, configuration, and the management of software development processes. It touches on methodologies relevant to software development, such as project management and agile practices.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on the integration of Project Server 2013 with Team Foundation Server 2012, which is a specific software development practice. It discusses installation, configuration, and integration processes, aligning well with software development methodologies and practices. The depth of discussion includes detailed steps and commands, demonstrating a strong understanding of the software development lifecycle and tools involved. However, the content also includes personal opinions and experiences that slightly detract from its primary focus on software development.",
     "level": "Secondary"
   },
   "Agile Project Management": {

@@ -76,12 +76,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T18:13:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:46:24",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 40,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content provides a detailed, step-by-step guide on how to create a Portfolio Backlog hierarchy in Team Foundation Server 2013, including installation and configuration procedures, which aligns well with the category.",
-    "level": "Secondary"
+    "final_score": 85.0,
+    "reasoning": "The content provides a detailed, step-by-step guide on creating a Portfolio Backlog hierarchy in Team Foundation Server 2013, which directly aligns with the Install and Configuration category. It includes explicit instructions for exporting configurations, creating work item types, updating categories, and importing configurations, all of which are essential aspects of installation and configuration processes. The depth of discussion is significant, covering various technical details and commands necessary for the implementation, thus justifying a high confidence score.",
+    "level": "Primary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -733,12 +736,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:46:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily focuses on creating and configuring a Portfolio Backlog hierarchy in Team Foundation Server, which is a software engineering tool. While it touches on customization and process improvement, it lacks an explicit focus on principles of software craftsmanship and best practices in coding standards or testing methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on creating a Portfolio Backlog hierarchy in Team Foundation Server, which is more about project management and tool configuration rather than engineering excellence. While it touches on aspects of customisation and process improvement, it lacks a strong emphasis on software craftsmanship, coding standards, or quality assurance practices that are central to the category of Engineering Excellence.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

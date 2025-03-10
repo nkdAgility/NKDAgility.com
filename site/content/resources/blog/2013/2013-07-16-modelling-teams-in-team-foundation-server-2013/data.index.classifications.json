@@ -76,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T18:05:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:45:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the configuration and setup of Team Foundation Server 2013, including detailed procedures for managing teams, source control, and areas, which aligns well with the category of Install and Configuration.",
+    "final_score": 67.0,
+    "reasoning": "The content provides a detailed discussion on configuring Team Foundation Server (TFS) for team management, source control, and areas, which aligns well with installation and configuration practices. It includes specific steps for setting permissions, creating teams, and automating configurations, demonstrating a strong focus on actionable instructions. However, while it touches on installation aspects, the primary focus is more on organisational modelling and team dynamics rather than purely on installation and configuration processes, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -121,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:45:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of Team Foundation Server (TFS) that relate to team structure, source control, and automation, which are relevant to DevOps practices. However, the primary focus is on TFS and team modelling rather than a comprehensive discussion of DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Team Foundation Server (TFS) and its functionalities related to project management and team structuring. While it touches on automation and some aspects of collaboration, it lacks a direct focus on core DevOps principles such as Continuous Integration (CI) and Continuous Delivery (CD). The discussion is more aligned with project management and team dynamics rather than the integration of development and operations, which is central to DevOps. Therefore, the confidence score reflects a low alignment with the DevOps category.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

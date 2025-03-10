@@ -76,12 +76,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T22:22:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:00:52",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the configuration and installation of a PowerShell adapter for the TFS Integration Platform, providing detailed instructions and code examples relevant to setting up and configuring the tool.",
-    "level": "Secondary"
+    "final_score": 81.0,
+    "reasoning": "The content provides a detailed guide on configuring a PowerShell adapter for the TFS Integration Platform, which directly relates to installation and configuration processes. It includes step-by-step instructions, configuration file examples, and explanations of various settings, demonstrating a strong alignment with the key topics of the category. The depth of discussion is substantial, covering both theoretical and practical aspects of the configuration process, thus justifying a high confidence score.",
+    "level": "Primary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -121,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:00:48",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of TFS with Perforce using PowerShell, which relates to automation and tools in the context of DevOps practices. However, it primarily focuses on the technical implementation rather than broader DevOps principles or cultural shifts.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the configuration of a PowerShell adapter for the TFS Integration Platform, which relates to automation and integration in software delivery. It touches on aspects of continuous integration and deployment, but lacks a broader discussion on DevOps principles, cultural shifts, or metrics. While it provides technical details, it does not fully explore the collaborative and process-oriented aspects of DevOps.",
     "level": "Tertiary"
   },
   "Miscellaneous": {

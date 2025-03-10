@@ -31,11 +31,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Market Adaptability
 - Software Developers
 - Software Development
 - Technical Mastery
 - Pragmatic Thinking
+- Market Adaptability
 - Product Delivery
 - Value Delivery
 - Engineering Practices

@@ -29,6 +29,7 @@ sitemap:
   priority: 0.6
 tags:
 - Complexity Thinking
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories: []

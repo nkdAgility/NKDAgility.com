@@ -10,11 +10,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-16T12:14:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:13:47",
+    "ai_confidence": 68.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the use of the Heat ITSM product for managing support calls and its integration with Team Foundation Server, which aligns with the category's focus on tools and software relevant to Agile and DevOps practices.",
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses the Heat ITSM product and its integration with Team Foundation Server (TFS), which aligns with the category's focus on tools and software that facilitate Agile practices. There are direct mentions of the product and its functionalities, indicating a clear focus on a specific software product. The discussion includes practical applications and development efforts related to the product, providing a moderate level of detail. However, it lacks a broader analysis or review of the product in the context of Agile methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -631,12 +634,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:13:44",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses software development practices such as tracking support calls and creating work items, along with refactoring and automation in system integration, which aligns with engineering excellence themes but is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the integration of Heat ITSM with TFS and mentions refactoring, which aligns with engineering practices. However, it primarily focuses on specific tools and implementations rather than broader principles of engineering excellence or best practices in software craftsmanship.",
+    "level": "Quaternary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",

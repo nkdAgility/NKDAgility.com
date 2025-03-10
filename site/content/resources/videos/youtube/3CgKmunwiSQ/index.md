@@ -28,9 +28,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Decision Making
 - Evidence Based Leadership
 - Metrics and Learning
-- Decision Making
 - Evidence Based Management
 - People and Process
 - Decision Theory

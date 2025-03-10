@@ -76,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T00:08:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:38:06",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the configuration of a build server and the installation of necessary components for a successful build process, which aligns with the key topics of installation and configuration.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the challenges and solutions related to configuring a build server for a project, which aligns well with the Install and Configuration category. It provides specific details about the installation of components, troubleshooting build errors, and the importance of maintaining consistent versions of dependencies. The discussion is focused on practical steps and insights that are relevant to setting up and configuring a CI build environment, thus meeting the criteria for this category. However, while it is detailed, some parts of the content veer into anecdotal experiences rather than strictly actionable instructions, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -736,12 +739,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:38:03",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges and solutions related to configuring a build server, which touches on best practices in CI/CD and the importance of maintaining consistent environments for successful builds. However, it primarily focuses on specific technical issues rather than broader engineering excellence principles.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses challenges faced during the configuration of a build server and highlights the importance of continuous integration (CI) in improving software development processes. However, while it touches on aspects of engineering excellence, such as the need for proper tooling and the management of dependencies, it lacks a comprehensive exploration of best practices or principles of software craftsmanship. The focus is more on troubleshooting specific issues rather than promoting high standards in software development or continuous improvement.",
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

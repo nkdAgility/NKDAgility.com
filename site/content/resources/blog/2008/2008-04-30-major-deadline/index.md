@@ -8,7 +8,7 @@ ResourceImportId: 233
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-04-30
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,8 +28,7 @@ tags:
 - Pragmatic Thinking
 - Digital Transformation
 - Technical Mastery
-categories:
-- Engineering Excellence
+categories: []
 preview: metro-sharepoint-128-link-5-5.png
 
 ---

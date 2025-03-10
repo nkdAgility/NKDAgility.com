@@ -38,7 +38,7 @@ tags:
 - Agile Strategy
 - Agile Transformation
 - Scrum Product Development
-- Value Delivery
+- Working Software
 resourceTypes:
 - video
 categories:

@@ -76,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T18:21:56",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-10T12:47:12",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 84.0,
-    "reasoning": "The content primarily focuses on the installation and upgrade process of Team Foundation Server 2013, providing detailed step-by-step instructions, recommendations for backups, and configuration best practices.",
+    "final_score": 81.0,
+    "reasoning": "The content provides a detailed guide on upgrading to Team Foundation Server 2013, including step-by-step instructions, recommendations for backups, and configuration details. It explicitly discusses installation procedures, system requirements, and troubleshooting aspects, aligning well with the core themes of the category. The depth of discussion is significant, covering various stages of the upgrade process and potential issues, which supports a high confidence score.",
     "level": "Primary"
   },
   "Transparency and Accountability": {
@@ -121,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:47:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses upgrading Team Foundation Server, which is related to DevOps practices, but primarily focuses on installation and configuration rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the upgrade process of Team Foundation Server 2013, which is a tool used in software development and project management. While it touches on aspects of deployment and configuration, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. The mention of backups and server upgrades is relevant but does not delve into the collaborative and continuous delivery aspects central to DevOps.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

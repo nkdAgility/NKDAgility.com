@@ -121,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:36:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses managing Azure virtual machines, which relates to DevOps practices, but primarily focuses on the use of a mobile application rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses managing Azure virtual machines, which relates to operational aspects of DevOps, but it lacks a focus on broader DevOps principles such as CI/CD, automation, or cultural shifts. While it mentions tools and processes for managing VMs, it does not delve into the integration of development and operations or the collaborative practices that define DevOps.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -265,11 +268,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-14T23:02:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:36:20",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the Mobile Azure Manager app, providing a review of its features and practical applications for managing Azure virtual machines, which aligns with the category's focus on tools and software relevant to Agile and DevOps practices.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on the Mobile Azure Manager app, providing a detailed review of its features and functionalities. It discusses how the app aids in managing Azure virtual machines, which aligns with the category's focus on tools that facilitate Agile practices and DevOps integration. However, while the app is relevant, the discussion lacks depth in terms of broader Agile or DevOps methodologies and does not reference any literature or books, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Value Delivery": {

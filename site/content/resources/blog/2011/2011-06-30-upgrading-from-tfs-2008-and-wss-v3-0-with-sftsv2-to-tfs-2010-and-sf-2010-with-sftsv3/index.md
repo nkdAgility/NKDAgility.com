@@ -8,7 +8,7 @@ ResourceImportId: 3279
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-06-30
-weight: 640
+weight: 720
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,7 +29,6 @@ tags:
 - Troubleshooting
 categories:
 - Scrum
-- Engineering Excellence
 - Social Technologies
 preview: metro-visual-studio-2005-128-link-33-33.png
 

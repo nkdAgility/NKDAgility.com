@@ -121,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:56:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses data migration and tractability in the context of software development and application lifecycle management, which are relevant to DevOps practices, but it primarily focuses on migration strategies rather than core DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses data migration and the challenges associated with maintaining traceability and history in software systems, particularly in the context of Team Foundation Server. While it touches on aspects relevant to DevOps, such as the importance of traceability in software development and the implications for application lifecycle management, it lacks a direct focus on core DevOps principles like CI/CD, automation, or cultural shifts. The discussion is more centred on data management and compliance rather than the integration of development and operations practices.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -283,11 +286,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T20:36:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:56:38",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses data migration issues related to Team Foundation Server, which is part of Azure DevOps, and addresses the implications for maintaining history and compliance in the context of Azure DevOps functionalities.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses data migration issues specifically related to Team Foundation Server (TFS), which is part of Azure DevOps. However, it primarily focuses on the challenges and considerations of data migration rather than providing a comprehensive overview of Azure DevOps functionalities or best practices. While it mentions TFS and touches on aspects of traceability and compliance, it lacks a broader discussion on Azure DevOps services or methodologies, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Personal": {

@@ -25,8 +25,8 @@ preview: https://i.ytimg.com/vi/pP8AnHBZEXc/maxresdefault.jpg
 duration: 1906
 isShort: false
 tags:
-- Software Developers
 - Events and Presentations
+- Software Developers
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -35,6 +35,7 @@ resourceTypes:
 - video
 categories:
 - Scrum
+- Social Technologies
 
 ---
 Hello, I’m Martin Hinshelwood, and today I want to share my insights on the Professional Scrum Foundations (PSF) class and the PSM I assessment. As someone deeply entrenched in the world of Agile and DevOps, I’ve had the privilege of teaching this class numerous times, and I can confidently say it’s one of my favourites. 

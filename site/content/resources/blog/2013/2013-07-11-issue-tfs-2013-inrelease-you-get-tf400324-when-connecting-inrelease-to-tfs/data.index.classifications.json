@@ -76,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T18:06:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:46:08",
+    "ai_confidence": 85.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses troubleshooting and solutions related to connecting InRelease to TFS, including specific installation and configuration steps, as well as providing a PowerShell script for configuration. This aligns well with the category's focus on installation and configuration processes.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on troubleshooting and providing solutions for connecting InRelease to TFS 2013, which directly relates to installation and configuration issues. It discusses specific steps to resolve the TF400324 error, including the correct URL format and a PowerShell script for setting the default collection. The depth of discussion is substantial, with detailed solutions and warnings about unsupported states, indicating a strong alignment with the category's focus on actionable installation and configuration guidance.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -121,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:46:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses connecting InRelease to TFS, which relates to deployment and integration practices, but primarily focuses on troubleshooting specific errors rather than broader DevOps principles.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific issue related to Team Foundation Server (TFS) and provides solutions, including a PowerShell script for configuration. While it touches on aspects of DevOps, such as automation and tools, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. The focus is primarily on troubleshooting and specific technical solutions rather than the integration of development and operations or continuous delivery practices.",
     "level": "Tertiary"
   },
   "Miscellaneous": {

@@ -55,11 +55,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T21:04:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:21:12",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses troubleshooting an installation error related to Team Foundation Server, including specific steps taken to resolve configuration issues, which aligns well with the category of Install and Configuration.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on the installation and configuration issues encountered while deploying Team Foundation Server, specifically addressing error codes and troubleshooting steps. It provides a detailed account of the error encountered, the context of the installation, and specific actions taken to resolve the issue, which aligns well with the key topics of the category. The discussion is rich in technical detail, making it a strong fit for the 'Install and Configuration' category.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -307,11 +310,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:13:33",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-10T13:21:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses an error related to the deployment of Team Foundation Server, which is a tool used in DevOps practices, but the primary focus is on troubleshooting a specific issue rather than broader DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific error encountered while deploying Team Foundation Server, which is related to DevOps practices. However, it primarily focuses on troubleshooting a technical issue rather than broader DevOps principles or practices. While there are mentions of deployment and configuration, the discussion lacks depth in terms of DevOps culture, automation, or metrics, leading to a low confidence score.",
     "level": "Quaternary"
   },
   "Technical Excellence": {

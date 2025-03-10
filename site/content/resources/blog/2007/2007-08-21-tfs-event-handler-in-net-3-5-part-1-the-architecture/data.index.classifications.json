@@ -1,11 +1,14 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T20:46:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:20:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the architecture and design aspects of a software application, including diagrams and deployment strategies, which are central to managing the application lifecycle.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the architecture and design of a software application using Team Foundation Server, which relates to the application lifecycle. However, it primarily focuses on the technical implementation details rather than the broader methodologies and practices of Application Lifecycle Management. While it touches on aspects like deployment diagrams and system architecture, it lacks comprehensive coverage of lifecycle stages, governance, or metrics, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Flow Efficiency": {
@@ -1234,12 +1237,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-16T21:42:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:20:27",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses architectural decisions, design practices, and implementation strategies related to building a software system using Team Foundation Server and .NET, which aligns with principles of software craftsmanship and continuous improvement in engineering processes.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the architecture of a TFS Event Handler in .NET, touching on aspects of software design and system diagrams, which align with engineering practices. However, it lacks a strong focus on broader engineering excellence principles such as coding standards, quality assurance, or continuous improvement processes. The discussion is more technical and specific to a project rather than a comprehensive exploration of engineering excellence.",
+    "level": "Tertiary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

@@ -28,6 +28,7 @@ duration: 498
 isShort: false
 tags:
 - People and Process
+- Agile Philosophy
 - Agile Planning
 - Agile Values and Principles
 - Increment
@@ -36,7 +37,6 @@ tags:
 - Empirical Process Control
 - Working Software
 - Agile Frameworks
-- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

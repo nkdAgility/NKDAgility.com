@@ -30,6 +30,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Market Adaptability
 - Agile Leadership
 - People and Process
 - Agile Philosophy
@@ -38,7 +39,6 @@ tags:
 - Agile Transformation
 - Business Agility
 - Change Management
-- Market Adaptability
 - Organisational Change
 resourceTypes:
 - video

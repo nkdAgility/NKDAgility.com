@@ -8,7 +8,7 @@ ResourceImportId: 377
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-06-19
-weight: 775
+weight: 810
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,7 +25,6 @@ aliasesArchive:
 tags:
 - Software Development
 - Technical Mastery
-- Technical Excellence
 categories:
 - Engineering Excellence
 preview: metro-merilllynch-128-link-3-3.png

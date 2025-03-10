@@ -24,9 +24,9 @@ aliasesArchive:
 - /resources/blog/tfs-stick-buddy-v0-4-0-ctp2-released
 tags:
 - News and Reviews
-- Practical Techniques and Tooling
 - Products and Books
 - Frequent Releases
+- Practical Techniques and Tooling
 - Windows
 - Software Development
 - Working Software

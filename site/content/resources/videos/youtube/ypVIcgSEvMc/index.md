@@ -27,12 +27,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Customer Retention
 - Discovery and Learning
-- Continuous Learning
-- Coaching
-- Employee Engagement
-- Mentoring
 resourceTypes:
 - video
 categories: []

@@ -38,15 +38,15 @@ tags:
 - Pragmatic Thinking
 - Agile Product Management
 - Decision Theory
+- Market Adaptability
 - Scrum Product Development
 - Accountability
-- Agile Strategy
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Product Management
 - Scrum
+- Social Technologies
 
 ---
 ## The Role of the Product Owner: Navigating the Agile Seas 🌊 

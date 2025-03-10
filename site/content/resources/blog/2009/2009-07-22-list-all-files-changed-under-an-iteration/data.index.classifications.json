@@ -121,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:08:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses querying work items and changesets in TFS, which relates to version control and potentially CI/CD practices, but it is primarily focused on a specific coding task rather than broader DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a specific coding task related to querying work items and changesets in TFS, which is a tool often used in DevOps environments. However, it lacks explicit discussions on DevOps principles, practices, or cultural shifts. While it touches on version control and automation through API calls, it does not delve into broader DevOps concepts such as CI/CD, collaboration, or metrics. The depth of the discussion is limited to a technical implementation without exploring the implications or benefits in a DevOps context.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -283,11 +286,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-16T02:18:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:08:44",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the use of TFS (Team Foundation Server), which is a component of Azure DevOps, and provides a code example related to querying work items and changesets, aligning with Azure DevOps functionalities.",
+    "final_score": 65.0,
+    "reasoning": "The content explicitly discusses using API calls to TFS (Team Foundation Server), which is a component of Azure DevOps, to retrieve work items and changesets. This aligns well with Azure DevOps functionalities, particularly in the context of version control and work item management. The depth of the discussion is significant, as it includes code snippets and a detailed explanation of the process. However, it lacks broader context on Azure DevOps services and best practices, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Personal": {

@@ -28,9 +28,9 @@ aliasesArchive:
 - /resources/blog/project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
 tags:
 - Pragmatic Thinking
-- Software Development
 - Troubleshooting
 - Practical Techniques and Tooling
+- Software Development
 - Install and Configuration
 categories:
 - Scrum

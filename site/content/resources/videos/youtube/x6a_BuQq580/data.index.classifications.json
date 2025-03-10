@@ -1240,12 +1240,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T12:03:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T11:36:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of migration to cloud services and the technical considerations involved, which relate to engineering practices. However, it primarily focuses on the migration process rather than broader technical excellence principles or methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses cloud migration and the technical aspects involved, such as data transfer and the use of Microsoft's tools. However, it primarily focuses on the practicalities and challenges of migration rather than on engineering practices or methodologies that enhance agility in software development. While there are mentions of technical tools and processes, the discussion lacks depth in areas like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
+    "level": "Quaternary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",

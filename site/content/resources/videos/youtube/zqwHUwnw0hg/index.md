@@ -34,7 +34,6 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 What will you learn on the professional scrum master course?

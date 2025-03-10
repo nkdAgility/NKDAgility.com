@@ -8,7 +8,7 @@ ResourceImportId: 10662
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-08-06
-weight: 455
+weight: 445
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,9 +28,9 @@ aliasesArchive:
 - /blog/avoid-bug-task-anti-pattern-azure-devops/
 - /resources/blog/
 tags:
+- Practical Techniques and Tooling
 - People and Process
 - Azure DevOps
-- Practical Techniques and Tooling
 - Product Delivery
 - Product Owner
 - Software Development

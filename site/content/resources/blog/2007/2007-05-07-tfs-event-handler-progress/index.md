@@ -8,7 +8,7 @@ ResourceImportId: 402
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-05-07
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,9 +24,7 @@ aliasesArchive:
 - /resources/blog/tfs-event-handler-progress
 tags:
 - Software Development
-- Troubleshooting
-categories:
-- Engineering Excellence
+categories: []
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

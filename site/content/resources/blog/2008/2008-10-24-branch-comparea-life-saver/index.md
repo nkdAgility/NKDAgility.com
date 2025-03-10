@@ -27,7 +27,6 @@ aliasesArchive:
 - /blog/branch-compare…a-life-saver
 - /resources/blog/branch-comparea-life-saver
 tags:
-- Modern Source Control
 - Practical Techniques and Tooling
 preview: nakedalm-logo-128-link-1-1.png
 categories: []

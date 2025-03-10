@@ -39,8 +39,8 @@ tags:
 - Agile Transformation
 - Change Management
 - People and Process
-- Products and Books
 - Scrum Product Development
+- Team Collaboration
 resourceTypes:
 - video
 categories:

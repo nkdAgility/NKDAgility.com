@@ -8,7 +8,7 @@ ResourceImportId: 10226
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-11-11
-weight: 455
+weight: 445
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -39,12 +39,12 @@ tags:
 - Product Delivery
 - Operational Practices
 - Pragmatic Thinking
-- Technical Excellence
 - Agile Project Management
+- Deployment Strategies
 categories:
 - Social Technologies
-- DevOps
 - Engineering Excellence
+- DevOps
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

@@ -30,8 +30,8 @@ tags:
 - Technical Mastery
 - Engineering Practices
 - Technical Excellence
-- Operational Practices
 - Pragmatic Thinking
+- Operational Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6

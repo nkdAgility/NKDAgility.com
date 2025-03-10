@@ -26,10 +26,10 @@ tags:
 - People and Process
 - Transparency
 - Events and Presentations
-- Transparency and Accountability
 - Pragmatic Thinking
 - Team Collaboration
 - Remote Working
+- Transparency and Accountability
 - Sociotechnical Systems
 - Team Performance
 - Collaboration Tools

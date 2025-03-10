@@ -8,7 +8,7 @@ ResourceImportId: 8803
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-09-22
-weight: 630
+weight: 665
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,12 +27,12 @@ tags:
 - Application Lifecycle Management
 - Automated Testing
 - Internal Developer Platform
-- Platform Engineering
 - Product Delivery
 - Software Development
 - Operational Practices
 - Software Developers
 - Technical Excellence
+- Technical Mastery
 categories:
 - DevOps
 - Engineering Excellence

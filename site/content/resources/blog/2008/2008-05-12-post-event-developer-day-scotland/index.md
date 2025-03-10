@@ -8,7 +8,7 @@ ResourceImportId: 229
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-05-12
-weight: 775
+weight: 675
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,16 +27,15 @@ aliasesArchive:
 - /blog/post-event--developer-day-scotland---
 - /resources/blog/post-event-developer-day-scotland
 categories:
-- DevOps
 - Engineering Excellence
 preview: nakedalm-logo-128-link-1-1.png
 tags:
 - Events and Presentations
-- News and Reviews
 - Software Development
 - Technical Excellence
 - Engineering Practices
 - Personal
+- News and Reviews
 
 ---
 What a fantastic day... Thanks to [Colin Mackay](http://blog.colinmackay.net/) for the fantastic job he did organising this event and I hope that there will be more events like this in Glasgow in the future...

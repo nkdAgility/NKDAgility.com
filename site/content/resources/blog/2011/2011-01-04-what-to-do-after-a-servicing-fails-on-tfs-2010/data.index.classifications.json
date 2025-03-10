@@ -76,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T00:05:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:02:50",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration challenges faced during an upgrade of TFS 2010, including troubleshooting steps and commands used to recover the system, which aligns well with the category.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the installation and configuration challenges faced during an upgrade of TFS 2010, detailing specific hotfixes, commands, and troubleshooting steps. It provides actionable insights into the installation process, including the use of commands like 'TFSConfig Recover' and the implications of schema versions. The depth of discussion is significant, as it covers the entire upgrade process, issues encountered, and potential solutions, aligning well with the key topics of the category.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -121,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-10T13:02:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses a specific issue related to TFS (Team Foundation Server) and its upgrade process, which touches on aspects of software deployment and management. However, it primarily focuses on troubleshooting and specific technical problems rather than broader DevOps principles, practices, or cultural shifts.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific issue related to TFS (Team Foundation Server) and its upgrade process, which touches on aspects of deployment and operational challenges. However, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. While it mentions troubleshooting and recovery processes, it does not delve into automation, CI/CD, or collaboration between teams, which are core to the DevOps category.",
     "level": "Quaternary"
   },
   "Miscellaneous": {

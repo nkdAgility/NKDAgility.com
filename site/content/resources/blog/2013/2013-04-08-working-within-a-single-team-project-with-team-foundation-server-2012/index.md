@@ -23,7 +23,6 @@ aliasesArchive:
 - /working-within-a-single-team-project-with-team-foundation-server-2012
 - /resources/blog/working-within-a-single-team-project-with-team-foundation-server-2012
 tags:
-- People and Process
 - Application Lifecycle Management
 - Software Developers
 - Software Development
@@ -33,9 +32,9 @@ tags:
 - Pragmatic Thinking
 - Practical Techniques and Tooling
 - Agile Planning
+- Working Software
 categories:
 - Scrum
-- DevOps
 - Social Technologies
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 

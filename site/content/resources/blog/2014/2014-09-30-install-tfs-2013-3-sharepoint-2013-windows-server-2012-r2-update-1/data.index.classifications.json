@@ -76,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T09:04:00",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-10T12:39:23",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 30,
-    "final_score": 84.0,
-    "reasoning": "The content provides a detailed walkthrough of the installation and configuration process for TFS 2013.3 with SharePoint 2013 on Windows Server 2012 R2, including specific steps, troubleshooting advice, and configuration best practices.",
+    "final_score": 86.0,
+    "reasoning": "The content provides a detailed walkthrough of the installation and configuration process for TFS 2013.3 with SharePoint on Windows Server 2012 R2. It explicitly discusses installation steps, configuration options, and troubleshooting issues encountered during the setup. The author shares practical insights and recommendations, aligning closely with the key topics of the category. The depth of discussion is significant, covering various aspects of the installation process, including system requirements, configuration best practices, and integration considerations, which further supports a high confidence score.",
     "level": "Primary"
   },
   "Transparency and Accountability": {
@@ -121,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:39:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation and configuration of TFS, which is relevant to DevOps practices, but primarily focuses on technical installation details rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS and SharePoint, which are tools used in software development and operations. However, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. While it touches on aspects of deployment and configuration, it does not delve into continuous integration, continuous delivery, or the collaborative nature of DevOps, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

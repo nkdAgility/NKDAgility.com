@@ -24,7 +24,6 @@ preview: https://i.ytimg.com/vi/Fm24oKNN--w/maxresdefault.jpg
 duration: 279
 isShort: false
 tags:
-- Organisational Change
 - People and Process
 - Organisational Agility
 - Agile Frameworks

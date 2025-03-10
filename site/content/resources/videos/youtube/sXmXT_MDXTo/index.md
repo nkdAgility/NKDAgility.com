@@ -37,8 +37,8 @@ tags:
 - Deployment Strategies
 - Operational Practices
 - Product Delivery
-- Technical Excellence
 - Technical Mastery
+- Value Delivery
 resourceTypes:
 - video
 categories:

@@ -23,9 +23,9 @@ aliasesArchive:
 - /the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
 - /resources/blog/the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
 tags:
+- Products and Books
 - Install and Configuration
 - Practical Techniques and Tooling
-- Products and Books
 - System Configuration
 - Technical Mastery
 categories: []

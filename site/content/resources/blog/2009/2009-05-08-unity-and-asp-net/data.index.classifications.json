@@ -211,11 +211,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T02:48:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:09:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of Dependency Injection in ASP.NET, which is a key engineering practice that enhances code quality and maintainability, aligning well with the principles of Technical Excellence.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the implementation of Dependency Injection in ASP.NET, which aligns with the principles of modular architecture and emergent design. However, while it touches on the benefits of Dependency Injection, such as flexibility and the ability to change functionality without recompiling, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. The focus is primarily on a specific technical implementation rather than a comprehensive exploration of technical excellence as defined in the category.",
     "level": "Secondary"
   },
   "Complexity Thinking": {

@@ -26,7 +26,6 @@ tags:
 - Deployment Strategies
 - Install and Configuration
 - System Configuration
-- Technical Mastery
 categories: []
 preview: metro-sharepoint-128-link-1-1.png
 

@@ -35,6 +35,7 @@ tags:
 - Agile Project Management
 - Coaching
 - Self Organisation
+- Pragmatic Thinking
 resourceTypes:
 - video
 layout: video

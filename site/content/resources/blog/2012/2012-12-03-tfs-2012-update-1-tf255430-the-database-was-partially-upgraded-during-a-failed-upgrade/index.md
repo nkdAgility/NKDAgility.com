@@ -34,13 +34,12 @@ tags:
 - System Configuration
 - Operational Practices
 - Practical Techniques and Tooling
-- Azure DevOps
 - Release Management
 - Software Development
 - Technical Mastery
 - Troubleshooting
-categories:
-- DevOps
+- Pragmatic Thinking
+categories: []
 preview: metro-problem-icon-2-2.png
 
 ---

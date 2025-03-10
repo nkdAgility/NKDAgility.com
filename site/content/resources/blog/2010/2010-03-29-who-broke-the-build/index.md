@@ -8,7 +8,7 @@ ResourceImportId: 59
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-29
-weight: 415
+weight: 405
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,7 +28,6 @@ aliasesArchive:
 - /resources/blog/who-broke-the-build
 tags:
 - Windows
-- Code and Complexity
 - Install and Configuration
 - Application Lifecycle Management
 - Modern Source Control
@@ -37,6 +36,7 @@ tags:
 - Accountability
 - Azure DevOps
 - Azure Pipelines
+- Continuous Delivery
 preview: metro-visual-studio-2010-128-link-10-10.png
 categories:
 - Engineering Excellence

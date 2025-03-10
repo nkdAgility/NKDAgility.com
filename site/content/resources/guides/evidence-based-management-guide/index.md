@@ -42,6 +42,7 @@ tags:
 - Evidence Based Leadership
 - Experimentation
 - Metrics and Learning
+- Agile Product Management
 
 ---
 # The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty

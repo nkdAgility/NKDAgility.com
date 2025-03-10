@@ -25,6 +25,7 @@ preview: https://i.ytimg.com/vi/gc8Pq_5CepY/maxresdefault.jpg
 duration: 1686
 isShort: false
 tags:
+- Events and Presentations
 - Software Developers
 sitemap:
   filename: sitemap.xml

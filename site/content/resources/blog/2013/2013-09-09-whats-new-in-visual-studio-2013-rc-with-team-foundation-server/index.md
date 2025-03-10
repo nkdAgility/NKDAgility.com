@@ -32,11 +32,10 @@ tags:
 - Application Lifecycle Management
 - Collaboration Tools
 - News and Reviews
-- Azure DevOps
 - Agile Planning Tools
 - Practical Techniques and Tooling
+- Azure DevOps
 categories:
-- DevOps
 - Social Technologies
 preview: nakedalm-experts-visual-studio-alm-13-13.png
 

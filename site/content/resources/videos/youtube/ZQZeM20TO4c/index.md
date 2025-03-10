@@ -32,14 +32,15 @@ tags:
 - Agile Leadership
 - Organisational Agility
 - People and Process
+- Business Agility
 - Organisational Change
 - Agile Philosophy
 - Agile Transformation
-- Business Agility
 resourceTypes:
 - video
 categories:
 - Leadership
+- Social Technologies
 
 ---
 Product of Conventional Practices

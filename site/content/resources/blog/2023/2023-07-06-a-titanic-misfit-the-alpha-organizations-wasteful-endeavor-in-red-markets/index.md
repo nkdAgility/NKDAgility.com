@@ -30,10 +30,10 @@ aliasesArchive:
 tags:
 - Beta Codex
 - Business Agility
-- Complexity Thinking
 - Lean Thinking
 - Organisational Agility
 - Organisational Physics
+- Complexity Thinking
 - Enterprise Agility
 - Lean
 - Organisational Change

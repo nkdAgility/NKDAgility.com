@@ -24,8 +24,8 @@ preview: https://i.ytimg.com/vi/3YBrq-cle_w/maxresdefault.jpg
 duration: 132
 isShort: false
 tags:
-- People and Process
 - Scrum Master
+- People and Process
 - Scrum Team
 - Professional Scrum
 - Technical Leadership

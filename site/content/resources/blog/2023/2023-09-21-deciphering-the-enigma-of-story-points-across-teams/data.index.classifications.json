@@ -1213,20 +1213,26 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:00:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses flow metrics such as throughput and cycle time, which are relevant to Kanban principles, but the primary focus is on Story Points and their role in Agile frameworks, particularly Scrum.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses metrics like throughput and cycle time, which are relevant to Kanban, but primarily focuses on Story Points and their subjective nature within Agile frameworks, particularly Scrum. While there are mentions of flow and value, the overall emphasis is not on Kanban principles or practices, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-11T18:11:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:00:18",
+    "ai_confidence": 87.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the relationship between Story Points and value delivery, emphasising the importance of throughput and value metrics in Agile frameworks. It aligns well with the principles of iterative development and techniques for measuring customer value.",
+    "final_score": 80.0,
+    "reasoning": "The content discusses the importance of value delivery in Agile frameworks, particularly in relation to Story Points and throughput. It highlights the subjective nature of Story Points while emphasising the need for objective metrics that align with value delivery. The discussion on evidence-based management practices and the four primary value areas further strengthens its alignment with the category. Overall, the content provides a detailed exploration of how to optimise value delivery, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Technical Excellence": {

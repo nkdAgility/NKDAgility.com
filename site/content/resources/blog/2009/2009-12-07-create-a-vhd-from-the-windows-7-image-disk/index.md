@@ -23,8 +23,8 @@ aliasesArchive:
 - /create-a-vhd-from-the-windows-7-image-disk
 - /resources/blog/create-a-vhd-from-the-windows-7-image-disk
 tags:
-- Windows
 - Install and Configuration
+- Windows
 - System Configuration
 - Technical Mastery
 - Troubleshooting

@@ -34,7 +34,6 @@ resourceTypes:
 - video
 categories:
 - Leadership
-- Social Technologies
 - DevOps
 
 ---

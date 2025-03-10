@@ -33,8 +33,6 @@ card:
   title: Kanban Guide for Scrum Teams
 categories:
 - Social Technologies
-- Kanban
-- Scrum
 tags:
 - Flow Efficiency
 

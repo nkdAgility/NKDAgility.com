@@ -27,12 +27,12 @@ aliasesArchive:
 - /blog/coffee-talk--introduction-to-scrum---webcast-event-this-friday-
 - /resources/blog/coffee-talk-introduction-to-scrum-webcast-event-this-friday
 tags:
+- Events and Presentations
 - People and Process
 - Scrum Product Development
 - Agile Frameworks
 - Agile Project Management
 - Agile Transformation
-- Events and Presentations
 - Professional Scrum
 - Scrum Team
 - Software Development

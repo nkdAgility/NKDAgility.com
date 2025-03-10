@@ -33,12 +33,12 @@ tags:
 - Operational Practices
 - Practical Techniques and Tooling
 - Metrics and Learning
-- People and Process
 - Agile Frameworks
 - Agile Project Management
 - Lean Thinking
 - Pragmatic Thinking
 - Software Development
+- Throughput
 resourceTypes:
 - video
 categories:

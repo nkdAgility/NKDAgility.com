@@ -28,7 +28,6 @@ tags:
 - Scrum Product Development
 - Agile Planning
 - Agile Planning Tools
-- Agile Project Management
 - Software Development
 
 ---

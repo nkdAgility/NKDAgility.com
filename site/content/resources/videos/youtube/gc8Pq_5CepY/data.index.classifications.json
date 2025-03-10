@@ -13,12 +13,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:04:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:28:19",
+    "ai_confidence": 85.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Agility and Scrum, indicating a focus on Agile practices, but it is primarily an invitation for questions rather than a detailed discussion on the frameworks.",
-    "level": "Tertiary"
+    "final_score": 76.0,
+    "reasoning": "The content extensively discusses Scrum principles, including the definition of done, spikes, and ad hoc work, which are all integral to the Scrum framework. It provides detailed explanations of these concepts, demonstrating a strong alignment with the core themes of Social Technologies. The depth of discussion is significant, as it not only defines terms but also explores their implications in practice, making it a primary focus of the content.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -103,12 +106,15 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T12:22:54",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content invites participants to an interactive session (Ask Me Anything) related to DevOps and Agility, making it a major but secondary theme, as it primarily serves as a Q&A rather than a structured event or presentation.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-10T12:28:23",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content primarily revolves around a live event where the speaker answers questions related to Scrum, Agile, and DevOps. It explicitly mentions the event's schedule and format, indicating a clear connection to the category of 'Events and Presentations.' However, while it discusses the event and its context, the depth of discussion on specific presentations or structured learning experiences is somewhat limited, focusing more on the Q&A format rather than formal presentations or workshops. Therefore, while it aligns well with the category, it does not delve deeply into the structured learning aspect typically expected in this classification.",
+    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",

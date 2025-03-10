@@ -13,12 +13,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:08:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:28:46",
+    "ai_confidence": 78.0,
+    "ai_mentions": 65.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Agility and references a Professional Scrum Trainer, indicating a focus on Agile practices, but it is primarily an invitation for questions on various topics, making the category a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses various Agile practices, particularly focusing on story points, team sizes, and emergent architecture, which are central to the Social Technologies category. It provides a detailed examination of the limitations of story points and the importance of team dynamics in Agile methodologies. The mention of Scrum roles and the emphasis on adapting to change align well with the core themes of the category. However, the content also includes promotional elements and less structured discussions, which slightly detracts from its overall focus.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -103,11 +106,14 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T12:23:08",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content describes an 'Ask Me Anything' session with a professional trainer, which is an interactive event relevant to Agile and DevOps discussions.",
+    "calculated_at": "2025-03-10T12:28:48",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 20,
+    "final_score": 63.0,
+    "reasoning": "The content includes references to office hours, a professional scrum master class, and a mention of facilitating a class in Atlanta, which indicates a connection to events and presentations. However, the primary focus is on discussing Agile concepts and personal opinions rather than detailing specific events or structured learning experiences. The depth of discussion on events is limited, and while there are mentions of classes and consultations, they are not the main focus of the content.",
     "level": "Secondary"
   },
   "Product Validation": {

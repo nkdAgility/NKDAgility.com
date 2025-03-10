@@ -121,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:37:05",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of release management and logging in the context of deployment scripts, which are relevant to DevOps practices, but it primarily focuses on personal experiences and specific technical issues rather than broader DevOps principles.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the creation of log entries in Release Management, which is relevant to DevOps practices, particularly in the context of deployment and release pipelines. However, it lacks explicit mentions of broader DevOps principles such as CI/CD, automation, or cultural shifts. While it touches on the importance of logging in deployment processes, the discussion is more focused on specific technical issues rather than a comprehensive exploration of DevOps as a whole.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -211,11 +214,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-14T23:30:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:37:08",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical challenges and solutions related to creating log entries in Release Management, which aligns with engineering practices and methodologies that enhance software development processes.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses specific technical challenges related to creating log entries in Release Management, which touches on aspects of Continuous Integration and Continuous Delivery (CI/CD) practices. However, while it provides some insights into scripting and logging, the overall focus is more on personal experiences and troubleshooting rather than a comprehensive exploration of engineering practices or methodologies that enhance agility in software development. The discussion lacks depth in terms of broader principles of technical excellence, such as TDD or modular architecture, which diminishes its alignment with the category.",
     "level": "Secondary"
   },
   "Complexity Thinking": {

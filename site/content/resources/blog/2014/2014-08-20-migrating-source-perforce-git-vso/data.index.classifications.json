@@ -76,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T09:06:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:39:30",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 38,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily focuses on the step-by-step process of migrating source code from Perforce to Git on VSO, detailing installation and configuration steps, best practices, and troubleshooting tips relevant to the migration process.",
+    "final_score": 80.0,
+    "reasoning": "The content provides a detailed guide on migrating from Perforce to Git on VSO, which directly aligns with installation and configuration processes. It includes step-by-step instructions, discusses best practices, and addresses potential issues during the migration. The focus is primarily on practical implementation, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -736,12 +739,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:39:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the technical process of migrating from Perforce to Git and various best practices related to version control and build processes, which are relevant to engineering practices. However, while it touches on some engineering excellence themes, it primarily focuses on migration specifics and cloud service benefits rather than a comprehensive discussion on engineering excellence as a whole.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the migration from Perforce to Git, touching on aspects of software craftsmanship, such as repository management and build processes. It mentions best practices like keeping repositories small and avoiding binaries, which align with engineering excellence principles. However, the primary focus is on the migration process rather than a broader discussion of engineering excellence, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

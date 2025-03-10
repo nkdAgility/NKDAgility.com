@@ -76,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T11:37:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:43:53",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration of PowerShell scripts to interact with the TFS 2013 API, including assembly imports and connecting to TFS services, which aligns well with the category.",
+    "final_score": 76.0,
+    "reasoning": "The content provides a detailed guide on using PowerShell to interact with the TFS 2013 API, which includes installation steps for necessary assemblies and configuration of TFS services. It explicitly discusses the process of connecting to TFS collections and configuring various services, aligning well with the core themes of installation and configuration. The depth of discussion is significant, with multiple code examples and explanations of their purpose, indicating a strong focus on actionable instructions for setup and configuration.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -121,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:43:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses using PowerShell to interact with the TFS API, which is relevant to DevOps practices, particularly in automation and integration of tools. However, it primarily focuses on scripting and API usage rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS 2013 API, which is more aligned with software development and scripting rather than the broader principles of DevOps. While it touches on aspects of version control and project management, it lacks a comprehensive discussion on DevOps practices, automation, or cultural shifts necessary for DevOps implementation. The mention of TFS and its services does not sufficiently connect to the core themes of DevOps, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
