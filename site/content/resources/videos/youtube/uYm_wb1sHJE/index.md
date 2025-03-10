@@ -44,8 +44,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Scrum
 - Social Technologies
+- Scrum
 - Product Management
 
 ---

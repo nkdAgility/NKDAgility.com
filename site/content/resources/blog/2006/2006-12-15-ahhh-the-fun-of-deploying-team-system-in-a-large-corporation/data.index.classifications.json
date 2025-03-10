@@ -10,11 +10,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T10:08:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:27:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the installation and deployment of Team Foundation Server (TFS) within a corporate environment, including specific steps and references to guides that facilitate the installation process.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the installation and deployment of Team Foundation Server (TFS) within a corporate environment, which directly aligns with the category of Install and Configuration. It mentions specific steps and resources for installation, such as creating databases on another server and referencing the TFS Administration Guide. However, while it provides some actionable insights, the depth of technical detail is somewhat limited, focusing more on personal experience and challenges rather than a comprehensive guide. Therefore, while the content is relevant, it lacks extensive depth in the discussion of installation procedures.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -346,12 +349,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T10:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:27:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses deploying Team Foundation Server (TFS), which relates to DevOps practices, but it primarily focuses on specific deployment challenges rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses deploying Team Foundation Server (TFS), which is related to DevOps practices, particularly in the context of Continuous Integration and Continuous Delivery. However, it lacks a broader discussion on DevOps principles, cultural shifts, or automation. The focus is primarily on a specific deployment issue rather than a comprehensive exploration of DevOps as a whole.",
+    "level": "Quaternary"
   },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",

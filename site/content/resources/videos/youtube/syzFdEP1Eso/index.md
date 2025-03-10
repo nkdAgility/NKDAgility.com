@@ -31,9 +31,9 @@ sitemap:
   priority: 0.6
 tags:
 - Definition of Done
-- Software Development
 - Agile Project Management
 - Pragmatic Thinking
+- Software Development
 - Agile Frameworks
 - Professional Scrum
 resourceTypes:

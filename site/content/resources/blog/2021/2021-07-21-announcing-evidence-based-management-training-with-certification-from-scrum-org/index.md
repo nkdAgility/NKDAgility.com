@@ -41,8 +41,8 @@ tags:
 - News and Reviews
 categories:
 - Leadership
+- Social Technologies
 - Scrum
-- Product Management
 preview: images/Professional-Agile-Leadership-Evidence-Based-Management-6-6.jpg
 
 ---

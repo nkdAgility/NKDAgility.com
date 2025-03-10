@@ -29,7 +29,6 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Troubleshooting
-- System Configuration
 categories: []
 preview: metro-android-1-1.png
 

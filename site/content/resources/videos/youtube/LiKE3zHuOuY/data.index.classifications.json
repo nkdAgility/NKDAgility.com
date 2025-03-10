@@ -13,12 +13,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T22:08:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:08:56",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the integration of Scrum and DevOps, highlighting aspects of process improvement and efficiency, which are relevant to engineering excellence, but the primary focus is on Scrum rather than engineering practices.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content mentions engineering excellence directly, indicating its importance in the context of DevOps. However, the discussion is primarily focused on the relationship between Scrum and DevOps rather than providing a comprehensive exploration of engineering excellence principles, practices, or metrics. The depth of discussion is limited, lacking detailed insights into best practices or continuous improvement strategies.",
+    "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
@@ -124,12 +127,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T22:08:24",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of Scrum within a DevOps environment, highlighting its principles and practices, which aligns closely with the Agile Frameworks category.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-10T12:08:59",
+    "ai_confidence": 55.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 50.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 50.0,
+    "reasoning": "The content discusses Scrum within the context of DevOps, indicating a direct mention of an Agile framework. However, it primarily focuses on the integration of DevOps rather than a comprehensive exploration of Scrum itself or its principles. The alignment with Agile frameworks is present but not deeply explored, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

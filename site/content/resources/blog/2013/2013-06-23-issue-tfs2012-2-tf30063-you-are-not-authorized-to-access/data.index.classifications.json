@@ -1102,11 +1102,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T22:08:33",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T12:47:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses an issue related to Team Foundation Server (TFS), which is a Microsoft product that operates within the Windows environment. While the primary focus is on the TFS error situation, it is closely linked to Windows server issues and updates, making it a significant secondary theme related to Windows.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses an issue related to Team Foundation Server (TFS) 2012.2, which is a software application that runs on Windows. While it does mention a specific error and provides a solution involving an update to TFS 2012.3, the primary focus is on TFS rather than the Windows operating system itself. The content does not delve deeply into Windows installation, configuration, or troubleshooting, but it does touch on permissions and server functionality, which are relevant to Windows environments. Overall, the content aligns with the Windows category but does not provide extensive detail or direct discussion on Windows itself.",
     "level": "Secondary"
   },
   "Deployment Strategies": {

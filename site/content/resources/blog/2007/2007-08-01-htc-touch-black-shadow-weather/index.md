@@ -31,6 +31,9 @@ aliasesArchive:
 categories: []
 tags:
 - Troubleshooting
+- Windows
+- Install and Configuration
+- System Configuration
 
 ---
 black-shadow-weather

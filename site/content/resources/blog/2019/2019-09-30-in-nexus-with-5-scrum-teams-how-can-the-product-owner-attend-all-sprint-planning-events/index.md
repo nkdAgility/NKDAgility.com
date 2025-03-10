@@ -40,7 +40,7 @@ tags:
 - Scaling Scrum
 - Scrum Team
 - Agile Planning
-- Events and Presentations
+- Large Scale Agility
 categories:
 - Scrum
 preview: 146713119-1-1.jpg

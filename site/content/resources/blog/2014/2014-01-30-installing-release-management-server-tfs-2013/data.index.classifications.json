@@ -76,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T11:13:16",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-10T12:42:36",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 32,
     "non_ai_confidence": 30,
-    "final_score": 84.0,
-    "reasoning": "The content primarily focuses on the installation and configuration of the Release Management Server for TFS 2013, providing step-by-step instructions and insights into the process.",
+    "final_score": 81.0,
+    "reasoning": "The content provides a detailed step-by-step guide on installing and configuring the Release Management Server for TFS 2013. It explicitly discusses the installation process, including downloading components, running the installer, and launching the configuration tool. The author also addresses configuration aspects, such as setting defaults and managing permissions, which aligns well with the core themes of the category. The depth of discussion is significant, covering both installation and initial configuration, while also hinting at potential improvements for future versions. Overall, the content is highly relevant to the 'Install and Configuration' category.",
     "level": "Primary"
   },
   "Transparency and Accountability": {
@@ -736,12 +739,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:42:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation process of the Release Management Server for Team Foundation Server, which relates to software development practices. However, it primarily focuses on installation details rather than broader best practices or principles of engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation process of the Release Management Server for TFS 2013, which is more of a technical guide than a discussion on engineering excellence. While it touches on aspects of software development tools, it lacks a strong emphasis on best practices, quality assurance, or continuous improvement in engineering processes. The discussion is practical and procedural, with limited depth on the principles of software craftsmanship or metrics for assessing engineering performance.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

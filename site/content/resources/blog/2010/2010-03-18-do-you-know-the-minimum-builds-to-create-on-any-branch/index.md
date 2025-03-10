@@ -8,7 +8,7 @@ ResourceImportId: 60
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-18
-weight: 640
+weight: 650
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -39,8 +39,8 @@ tags:
 - Software Development
 preview: metro-visual-studio-2010-128-link-6-6.png
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 
 ---
 ![BuildIcon_Large](images/Doyouknowtheminimumbuildstocreate_CABD-BuildIcon_Large_-1-1.png)

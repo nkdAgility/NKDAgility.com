@@ -35,6 +35,7 @@ resourceTypes:
 - video
 categories:
 - Leadership
+- Social Technologies
 
 ---
 ## Power of Passion

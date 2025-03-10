@@ -28,9 +28,6 @@ aliasesArchive:
 - /resources/blog/can-i-run-two-versions-of-microsoft-project-side-by-side
 tags:
 - Windows
-- System Configuration
-- Troubleshooting
-- Install and Configuration
 preview: nakedalm-logo-128-link-5-5.png
 categories: []
 

@@ -29,8 +29,8 @@ aliasesArchive:
 tags:
 - Portfolio Management
 - Agile Planning Tools
-- Software Development
 - Practical Techniques and Tooling
+- Software Development
 categories:
 - Social Technologies
 preview: nakedalm-experts-visual-studio-alm-2-2.png

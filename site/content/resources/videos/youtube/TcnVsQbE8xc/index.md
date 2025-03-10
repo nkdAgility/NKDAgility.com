@@ -33,8 +33,8 @@ tags:
 - Agile Frameworks
 - Agile Project Management
 - Software Development
-- Scrum Team
 - Professional Scrum
+- Scrum Team
 - Team Performance
 resourceTypes:
 - video

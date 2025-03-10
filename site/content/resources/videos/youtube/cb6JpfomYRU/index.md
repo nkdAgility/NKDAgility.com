@@ -31,10 +31,10 @@ tags:
 - Scrum Master
 - Continuous Learning
 - Practical Techniques and Tooling
-- Professional Scrum
 - Scrum Team
 - Agile Frameworks
 - Agile Project Management
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

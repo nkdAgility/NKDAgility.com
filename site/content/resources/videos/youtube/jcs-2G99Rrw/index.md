@@ -29,10 +29,10 @@ tags:
 - Software Development
 - Product Delivery
 - One Engineering System (1ES)
-- Azure Boards
 - Pragmatic Thinking
 - Software Developers
 - Troubleshooting
+- Azure Boards
 sitemap:
   filename: sitemap.xml
   priority: 0.6

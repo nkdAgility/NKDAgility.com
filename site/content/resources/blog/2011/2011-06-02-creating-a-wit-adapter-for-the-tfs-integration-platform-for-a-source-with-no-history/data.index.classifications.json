@@ -40,11 +40,14 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T23:02:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:01:30",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the development of a TFS Integration Platform Adapter, focusing on code quality, complexity in handling data migrations, and the challenges faced in ensuring proper functionality and maintainability of the code. It includes detailed code snippets and addresses issues related to code complexity, such as managing data mappings and handling exceptions, which are central themes in the context of software development and complexity.",
+    "final_score": 67.0,
+    "reasoning": "The content provides a detailed discussion on the complexities involved in creating a TFS Integration Platform Adapter, including code snippets and configuration details. It addresses issues related to code quality, such as handling exceptions and managing data formats, which are central to the interplay between code and complexity. The depth of the discussion on debugging and refactoring practices further aligns with the category's focus on best practices in software development.",
     "level": "Secondary"
   },
   "Discovery and Learning": {
@@ -121,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:01:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the development of a TFS Integration Platform Adapter, which involves aspects of continuous integration and delivery, but it is heavily focused on specific implementation details rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the development of a TFS Integration Platform Adapter, which is related to DevOps practices, particularly in the context of Continuous Integration and Continuous Delivery. However, it lacks a comprehensive exploration of DevOps principles, cultural shifts, or metrics for success, focusing instead on technical implementation details and specific coding challenges.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

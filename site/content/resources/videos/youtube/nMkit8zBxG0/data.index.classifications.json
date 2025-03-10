@@ -1216,12 +1216,15 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:11:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content primarily discusses Sprint planning, a Scrum concept, but includes significant references to Kanban principles and practices, suggesting a connection between the two methodologies. However, the main focus remains on Scrum, making Kanban a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 34.0,
+    "reasoning": "The content primarily discusses Sprint planning, a key aspect of the Scrum framework, with only brief mentions of Kanban. While it touches on the relationship between Kanban and Scrum, the focus remains on Scrum practices, which detracts from its alignment with Kanban principles. The discussion lacks depth regarding Kanban-specific practices such as visualisation of work or limiting WIP, leading to a low confidence score for the Kanban category.",
+    "level": "Quaternary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -1261,11 +1264,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-12T04:03:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:12:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses Sprint planning, which involves team collaboration, communication, and decision-making processes within Agile and Scrum methodologies. It highlights the importance of understanding team dynamics and the human factors involved in planning and executing sprints.",
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses Sprint planning, which is a key process in Agile methodologies. It highlights the importance of team collaboration, understanding goals, and adapting to changes, all of which are central to the 'People and Process' category. The discussion includes how teams communicate and make decisions collectively, reflecting on human factors in the planning process. However, while it touches on these themes, the focus remains heavily on the mechanics of Sprint planning rather than a broader exploration of team dynamics or leadership roles, which slightly limits its depth in the category.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {

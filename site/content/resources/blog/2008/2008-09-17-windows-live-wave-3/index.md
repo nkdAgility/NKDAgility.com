@@ -23,7 +23,6 @@ aliasesArchive:
 - /windows-live-wave-3
 - /resources/blog/windows-live-wave-3
 tags:
-- Install and Configuration
 - Windows
 categories: []
 preview: nakedalm-logo-128-link-1-1.png

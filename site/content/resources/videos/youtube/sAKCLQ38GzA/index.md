@@ -36,14 +36,14 @@ tags:
 - Product Strategy
 - Strategic Goals
 - Agile Strategy
-- Organisational Physics
 - Organisational Psychology
+- Organisational Physics
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Product Management
 - Leadership
+- Social Technologies
 
 ---
 **The Power of Purpose: How 'Start with Why' Drives Agile Success** 

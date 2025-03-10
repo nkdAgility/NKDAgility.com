@@ -26,7 +26,6 @@ tags:
 - Operational Practices
 - Software Development
 - System Configuration
-- Technical Mastery
 - Windows
 - Working Software
 categories: []

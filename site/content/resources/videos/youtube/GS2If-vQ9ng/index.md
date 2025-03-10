@@ -34,7 +34,6 @@ tags:
 - Organisational Agility
 - Organisational Change
 - Pragmatic Thinking
-- Product Delivery
 - Software Development
 resourceTypes:
 - video

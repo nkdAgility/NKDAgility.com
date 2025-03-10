@@ -76,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-14T23:38:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:37:22",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 38,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the process of creating and configuring a standard environment for Release Management in Azure, including step-by-step instructions and considerations for setting up various components.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed step-by-step guide on creating and configuring a standard environment for Release Management in Azure. It explicitly discusses the installation of various components, such as Visual Studio Online, Release Management, and the setup of a Virtual Machine. The author shares specific configuration steps, including creating a Resource Group and a storage account, which aligns well with the core themes of the category. The depth of discussion is significant, as it covers multiple aspects of the installation and configuration process, including troubleshooting and best practices. Overall, the content is highly relevant to the 'Install and Configuration' category.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -736,12 +739,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:37:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the setup of a standard environment for release management, which touches on best practices in deployment and automation. However, it primarily focuses on the specifics of Azure and Visual Studio rather than broader engineering excellence principles.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the creation of a standard environment for release management in Azure, which touches on aspects of continuous integration and deployment practices. However, while it mentions tools and processes related to software development, it lacks a deep exploration of engineering excellence principles, such as coding standards or quality assurance practices. The focus is more on practical setup rather than promoting high standards in software craftsmanship.",
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

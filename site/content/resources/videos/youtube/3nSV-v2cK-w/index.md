@@ -32,6 +32,7 @@ tags:
 - Agile Philosophy
 - Organisational Agility
 - Software Development
+- Team Performance
 - Business Agility
 sitemap:
   filename: sitemap.xml

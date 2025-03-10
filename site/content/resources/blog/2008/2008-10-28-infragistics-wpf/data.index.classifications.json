@@ -1219,12 +1219,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T12:25:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:12:10",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a specific issue the author is experiencing with the Infragistics WPF controls, particularly related to data binding and template application. It includes a description of the problem and potential discrepancies, indicating a focus on troubleshooting technical issues regarding UI components.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content discusses a specific issue related to the Infragistics WPF controls, particularly regarding the binding and template usage in the Ribbon components. While it does not explicitly label the discussion as 'troubleshooting', it focuses on identifying a problem (the template being ignored) and hints at a resolution (removing the x:Key). The content aligns with the core themes of troubleshooting by addressing a technical issue and providing a partial solution, but lacks depth in exploring systematic problem-solving techniques or tools. Therefore, the confidence score reflects a moderate alignment with the troubleshooting category.",
+    "level": "Tertiary"
   },
   "Scrum Master": {
     "category": "Scrum Master",

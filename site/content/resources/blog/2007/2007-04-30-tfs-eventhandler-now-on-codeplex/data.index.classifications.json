@@ -55,12 +55,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:13:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:25:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions the setup and installation complexities of the EventHandler, indicating a secondary theme related to installation and configuration, but it primarily focuses on the development and refactoring process.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content mentions the installation process briefly, specifically in the context of moving to a Windows Service and the complications faced during setup. However, it lacks detailed step-by-step instructions or best practices for installation and configuration, which are crucial for a higher confidence score. The focus is more on the development and refactoring of the EventHandler rather than providing actionable insights on installation or configuration.",
+    "level": "Quaternary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -1045,12 +1048,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T10:22:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:25:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a software project involving refactoring and moving to more reliable systems, which relates to continuous improvement and technical debt management, but it mainly focuses on project specifics rather than broader engineering practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions refactoring and moving to a more reliable system, which aligns with the principles of software craftsmanship and technical debt management. However, it lacks a detailed discussion on best practices, coding standards, or quality assurance, making it a secondary focus rather than a primary one.",
+    "level": "Quaternary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",

@@ -121,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:38:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition from one version control system to another, highlighting workflow differences and the benefits of using Git, which are relevant to DevOps practices. However, it primarily focuses on version control rather than broader DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses issues related to version control systems, specifically the transition from StarTeam to Git. While it touches on aspects of workflow and conflict resolution, it lacks a direct focus on broader DevOps principles such as Continuous Integration, automation, or cultural shifts. The discussion is more technical and specific to version control rather than encompassing the collaborative and process-oriented nature of DevOps.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -580,11 +583,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T00:21:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:38:28",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 27.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses version control systems, specifically the transition from StarTeam to Git, and the implications of uncommitted changes in Git, which are central to software development practices.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the challenges and differences encountered when transitioning from a server-based version control system to Git, which is a key aspect of software development practices. It explicitly mentions version control systems and their workflows, aligning well with the core themes of the Software Development category. The depth of discussion is moderate, providing insights into the implications of uncommitted changes in Git and how it contrasts with other systems, but it could benefit from more detailed exploration of best practices or methodologies related to version control.",
     "level": "Secondary"
   },
   "Agile Project Management": {

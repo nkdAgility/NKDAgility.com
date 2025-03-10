@@ -8,7 +8,7 @@ ResourceImportId: 56
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-04-08
-weight: 550
+weight: 450
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -31,6 +31,7 @@ aliasesArchive:
 categories:
 - Scrum
 - Social Technologies
+- Engineering Excellence
 tags:
 - Practical Techniques and Tooling
 - Scrum Product Development

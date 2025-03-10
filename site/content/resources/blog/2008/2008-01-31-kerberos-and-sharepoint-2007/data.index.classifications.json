@@ -55,11 +55,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T18:51:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:16:37",
+    "ai_confidence": 82.0,
+    "ai_mentions": 16,
+    "ai_alignment": 32,
+    "ai_depth": 36,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the installation and configuration of Kerberos authentication for SharePoint 2007, detailing specific steps and requirements for setting up Service Principal Names (SPNs) in Active Directory.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed discussion on the installation and configuration of Kerberos authentication with SharePoint 2007, including specific commands and procedures that need to be followed. It explicitly mentions the need for Domain Admin privileges and outlines the steps required to set up Service Principal Names (SPNs) for various URLs and ports, which aligns well with the key topics of installation and configuration. The depth of the discussion is significant, as it includes practical examples and considerations for a production environment, demonstrating a clear focus on the technical aspects of the category.",
     "level": "Secondary"
   },
   "Decision Theory": {

@@ -22,11 +22,14 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-15T22:23:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:00:57",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the construction of a framework for the TFS Automation Platform, focusing on enhancing developer productivity and providing architectural guidance, which aligns with the principles of Platform Engineering.",
+    "final_score": 75.0,
+    "reasoning": "The content focuses on constructing a framework for the TFS Automation Platform, which aligns closely with the principles of Platform Engineering. It discusses the design and development of an internal platform aimed at enhancing developer productivity through automation and self-service capabilities. The mention of components like the Store, Admin, and Client indicates a structured approach to building an Internal Developer Platform (IDP). The content provides a good level of detail about the architecture and tools being used, demonstrating a clear understanding of the platform's goals and the developer experience. However, while it is comprehensive, it could benefit from deeper exploration of automation practices and integration with broader DevOps methodologies.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
@@ -121,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:00:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the construction of a framework for the TFS Automation Platform, which involves aspects of automation and deployment processes. However, it primarily focuses on the architectural guidance and development methods rather than a comprehensive discussion of DevOps principles or practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the construction of a framework for the TFS Automation Platform, which implies a focus on automation and tooling, key aspects of DevOps. However, it lacks explicit mentions of DevOps principles, practices, or cultural shifts. The discussion is primarily technical and centred around specific technologies and implementation details, which does not fully align with the broader DevOps themes of collaboration and continuous delivery. While there are elements of automation and deployment mentioned, the depth of discussion on DevOps practices is limited.",
     "level": "Tertiary"
   },
   "Miscellaneous": {

@@ -76,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T08:58:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:38:50",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses a specific bug in Visual Studio's Git integration and provides actionable steps for resolving merge conflicts, which aligns with installation and configuration issues related to Git and Visual Studio. It also includes recommendations for workflow changes that enhance the configuration of Git usage within a team context.",
+    "final_score": 67.0,
+    "reasoning": "The content primarily discusses a specific bug in Visual Studio's Git integration and provides detailed steps for resolving merge conflicts, which aligns well with installation and configuration issues. It includes actionable instructions for changing workflows and addresses a specific installation version that resolves the bug. However, while it does touch on configuration aspects, the focus is more on troubleshooting and workflow adjustments rather than a comprehensive guide on installation or configuration best practices.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -121,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:38:44",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Git workflows and branching strategies, which are relevant to DevOps practices, but the primary focus is on a specific bug in Visual Studio and its resolution rather than broader DevOps principles.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Git workflows and the challenges faced during integration, which aligns with DevOps principles. It mentions branching strategies and the importance of managing merge conflicts, which are relevant to Continuous Integration (CI) practices. However, the focus is primarily on a specific issue with Visual Studio and Git rather than a broader discussion of DevOps principles, tools, or cultural shifts, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Miscellaneous": {

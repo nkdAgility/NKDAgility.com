@@ -38,7 +38,7 @@ tags:
 - Agile Leadership
 - Agile Strategy
 - Agile Transformation
-- People and Process
+- Business Agility
 categories:
 - Social Technologies
 - Scrum

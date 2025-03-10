@@ -29,10 +29,10 @@ tags:
 - People and Process
 - Practical Techniques and Tooling
 - Products and Books
-- Team Collaboration
 - Team Performance
 - Agile Frameworks
 - Azure DevOps
+- Product Delivery
 categories:
 - Social Technologies
 - Scrum

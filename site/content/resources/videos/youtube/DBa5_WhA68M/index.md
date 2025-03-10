@@ -29,8 +29,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Product Owner
+- People and Process
 - Agile Product Management
 - Products and Books
 resourceTypes:

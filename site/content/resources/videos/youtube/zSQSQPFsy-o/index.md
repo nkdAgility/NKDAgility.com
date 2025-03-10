@@ -30,7 +30,6 @@ sitemap:
 tags:
 - Agile Project Management
 - Empirical Process Control
-- People and Process
 - Scrum Product Development
 - Transparency
 - Sprint Review
@@ -38,6 +37,7 @@ tags:
 - Agile Philosophy
 - Agile Transformation
 - Professional Scrum
+- Software Development
 resourceTypes:
 - video
 categories:

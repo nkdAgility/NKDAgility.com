@@ -36,8 +36,8 @@ tags:
 - Pragmatic Thinking
 - Strategy
 - Enterprise Agility
-- Resilience and Change
 - Discovery and Learning
+- Resilience and Change
 categories:
 - Leadership
 preview: naked-agility-technically-agile-Blog-EmbraceUniqueness-1-1-1.jpg

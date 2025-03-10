@@ -35,17 +35,16 @@ tags:
 - Pragmatic Thinking
 - Complexity Thinking
 - Discovery and Learning
+- Market Adaptability
 - Business Agility
 - Agile Philosophy
 - Empirical Process Control
-- Market Adaptability
 - Organisational Agility
 - Personal
 resourceTypes:
 - video
 categories:
 - DevOps
-- Social Technologies
 
 ---
 ## The Reality of the Assessment Phase in a Consulting Engagement

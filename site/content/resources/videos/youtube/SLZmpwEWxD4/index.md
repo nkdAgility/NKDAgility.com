@@ -31,8 +31,8 @@ sitemap:
   priority: 0.6
 tags:
 - Practical Techniques and Tooling
-- Strategy
 - Operational Practices
+- Strategy
 - Team Collaboration
 - Agile Frameworks
 - Agile Project Management

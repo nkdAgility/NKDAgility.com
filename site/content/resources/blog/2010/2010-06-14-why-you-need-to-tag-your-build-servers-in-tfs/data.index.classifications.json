@@ -76,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T00:34:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:04:38",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration of build servers in TFS, including tagging agents and managing build definitions, which aligns well with the category.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of build servers in TFS, discussing the importance of tagging build agents and the implications of having multiple build servers. It provides actionable insights on how to manage build agents effectively, which aligns well with the category's focus on installation and configuration processes. The discussion includes specific steps and considerations for setting up the environment, which adds depth to the content. However, while it is detailed, it does not cover troubleshooting or security aspects, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -736,11 +739,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-16T00:54:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:04:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practices related to build servers and the process of managing them, which aligns with principles of software craftsmanship and development practices.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the management of build servers and the use of tagging to improve the efficiency of build processes, which aligns with best practices in software development. However, while it touches on aspects of engineering excellence, such as maintaining clean build environments and reducing complexity, it lacks a broader discussion on principles of software craftsmanship or quality assurance. The focus is primarily on practical implementation rather than a comprehensive exploration of engineering excellence.",
     "level": "Secondary"
   },
   "Revenue per Employee": {

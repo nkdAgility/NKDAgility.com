@@ -24,7 +24,6 @@ aliasesArchive:
 - /resources/blog/finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
 tags:
 - Troubleshooting
-- Code and Complexity
 - Scrum Product Development
 - Software Developers
 - Software Development
@@ -33,6 +32,7 @@ tags:
 - Azure DevOps
 - Pragmatic Thinking
 - Product Backlog
+- Technical Excellence
 preview: metro-visual-studio-2010-128-link-8-8.png
 categories:
 - Scrum

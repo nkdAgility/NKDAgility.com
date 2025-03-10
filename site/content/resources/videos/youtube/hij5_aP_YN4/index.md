@@ -30,8 +30,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Coaching
+- People and Process
 - Mentoring
 - Discovery and Learning
 resourceTypes:

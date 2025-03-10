@@ -1093,11 +1093,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-18T12:23:44",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on the process of moving and configuring an Active Directory domain, which is a central aspect of system configuration.",
+    "calculated_at": "2025-03-10T12:42:57",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content provides a detailed step-by-step guide on migrating a domain controller, which is a critical aspect of system configuration. It discusses specific tasks such as setting up a new domain controller, configuring IP addresses, promoting servers, and managing Active Directory roles. The focus is primarily on practical configuration processes, aligning well with the key topics of system configuration, including best practices for software installation and configuration, hardware setup, and troubleshooting configuration issues. The depth of discussion is substantial, covering various technical steps and considerations, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Product Discovery": {

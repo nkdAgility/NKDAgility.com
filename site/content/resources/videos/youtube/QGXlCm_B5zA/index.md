@@ -26,10 +26,10 @@ preview: https://i.ytimg.com/vi/QGXlCm_B5zA/maxresdefault.jpg
 duration: 280
 isShort: false
 tags:
+- Scrum Master
 - People and Process
 - Agile Project Management
 - Software Development
-- Scrum Master
 sitemap:
   filename: sitemap.xml
   priority: 0.6

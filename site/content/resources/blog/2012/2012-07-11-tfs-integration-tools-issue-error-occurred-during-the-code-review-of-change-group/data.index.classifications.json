@@ -121,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:55:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the TFS Integration Platform and its checks related to code review, which are relevant to DevOps practices, but the primary focus is on troubleshooting an error rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific error related to the TFS Integration Platform, which is a tool that can be part of a DevOps workflow. However, it primarily focuses on a technical issue rather than broader DevOps principles or practices. While it touches on aspects of code review and error handling, it lacks a comprehensive discussion on DevOps concepts such as CI/CD, automation, or cultural shifts. The mention of TFS tools indicates some relevance, but the overall focus is too narrow to align strongly with the DevOps category.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -580,11 +583,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T21:57:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:55:56",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses an issue related to code review checks in TFS Integration Tools, which directly pertains to practices in software development and version control.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses an error related to code review processes within the TFS Integration Tools, which is relevant to software development practices. It mentions checks performed during the code review, aligning with version control and collaborative development themes. However, the discussion lacks depth and broader context on methodologies or best practices, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Agile Project Management": {

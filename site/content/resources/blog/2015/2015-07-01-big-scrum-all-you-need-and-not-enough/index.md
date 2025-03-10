@@ -8,7 +8,7 @@ ResourceImportId: 11361
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-07-01
-weight: 535
+weight: 460
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,8 +27,8 @@ aliasesArchive:
 - /blog/big-scrum--all-you-need-and-not-enough
 - /resources/blog/big-scrum-all-you-need-and-not-enough
 tags:
-- Large Scale Agility
 - Events and Presentations
+- Large Scale Agility
 - People and Process
 - Professional Scrum
 - Scaling Agility
@@ -40,6 +40,7 @@ tags:
 categories:
 - Scrum
 - Social Technologies
+- Engineering Excellence
 preview: clip_image003-3-3.png
 
 ---

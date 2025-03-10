@@ -34,7 +34,6 @@ tags:
 - Agile Values and Principles
 - Customer Satisfaction
 - Transparency and Accountability
-- Accountability
 - Agile Philosophy
 - Miscellaneous
 - Personal

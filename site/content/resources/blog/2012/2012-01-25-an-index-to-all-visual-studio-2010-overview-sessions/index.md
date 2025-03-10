@@ -27,12 +27,11 @@ aliasesArchive:
 - /blog/visual-studio-2010-overview-webcasts
 - /resources/blog/an-index-to-all-visual-studio-2010-overview-sessions
 tags:
-- Application Lifecycle Management
 - Software Development
+- Application Lifecycle Management
 - Events and Presentations
 preview: metro-visual-studio-2010-128-link-1-1.png
-categories:
-- DevOps
+categories: []
 
 ---
 [![VisualStudioALMLogo](images/VisualStudioALMLogo_thumb-2-2.png "VisualStudioALMLogo")](http://blog.hinshelwood.com/files/2012/01/VisualStudioALMLogo.png)

@@ -30,9 +30,9 @@ resourceTypes:
 slug: unlocking-the-power-of-double-loop-learning-transform-your-scrum-master-journey-with-immersive-training
 layout: video
 tags:
+- Discovery and Learning
 - Agile Project Management
 - Continuous Learning
-- Discovery and Learning
 - People and Process
 - Professional Scrum
 - Scrum Master

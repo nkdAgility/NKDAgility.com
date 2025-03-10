@@ -32,7 +32,6 @@ tags:
 - Discovery and Learning
 - Frequent Releases
 - Software Development
-- Technical Mastery
 - Working Software
 categories: []
 preview: metro-xbox-360-link-1-1.png

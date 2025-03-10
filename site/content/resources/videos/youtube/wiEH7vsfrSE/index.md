@@ -30,6 +30,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Market Adaptability
 - Resilience and Change
 - Enterprise Agility
 - Business Agility
@@ -38,7 +39,6 @@ tags:
 - People and Process
 - Strategic Goals
 - Agile Strategy
-- Market Adaptability
 - Operational Practices
 resourceTypes:
 - video

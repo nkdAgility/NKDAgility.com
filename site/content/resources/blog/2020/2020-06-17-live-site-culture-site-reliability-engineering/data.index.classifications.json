@@ -100,12 +100,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-14T20:52:15",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T12:28:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the relationship between organisational practices (agility, DevOps, Continuous Delivery) and the need for team dynamics and responsibilities in a rapidly changing business environment, indicating a significant sociotechnical focus, though it's primarily about operational practices.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the shift towards DevOps practices and the need for collaboration and agility in software delivery, which aligns with sociotechnical systems. However, it primarily focuses on technical practices and examples from Microsoft without deeply exploring the interplay between social and technical aspects or organisational structures. The mention of collaboration and the Combined Engineering model indicates some alignment, but the depth of discussion on sociotechnical interactions is moderate.",
+    "level": "Tertiary"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -736,11 +739,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-14T20:52:17",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T12:28:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses Continuous Delivery, rapid deployment practices, and the importance of maintaining high quality while delivering features, which are relevant to engineering excellence. However, it primarily focuses on DevOps and site reliability engineering rather than explicitly detailing software craftsmanship and development practices.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the shift towards DevOps practices and Continuous Delivery, which are key aspects of engineering excellence. It highlights the need for high-quality deliverables and the importance of collaboration and continuous improvement in engineering processes. However, while it touches on these themes, it does not delve deeply into specific best practices or metrics for assessing engineering performance, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Revenue per Employee": {

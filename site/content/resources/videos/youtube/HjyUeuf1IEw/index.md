@@ -25,6 +25,7 @@ preview: https://i.ytimg.com/vi/HjyUeuf1IEw/maxresdefault.jpg
 duration: 1331
 isShort: false
 tags:
+- Events and Presentations
 - Software Developers
 sitemap:
   filename: sitemap.xml
@@ -33,6 +34,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Social Technologies
 - Scrum
 
 ---

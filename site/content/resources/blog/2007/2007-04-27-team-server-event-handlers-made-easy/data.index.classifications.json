@@ -208,11 +208,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T08:29:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:25:35",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implementation of event handlers for Team Foundation Server, detailing practical coding techniques and tooling for deployment, which aligns with the category focus.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the implementation of event handlers for Team Foundation Server, which aligns with practical tooling in Agile and DevOps contexts. It provides a specific example of how to create and deploy event handlers, demonstrating a practical technique. However, while it touches on the use of tools and methodologies, the discussion lacks depth in terms of broader Agile or DevOps practices and does not provide extensive detail on metrics or best practices for tool integration.",
     "level": "Secondary"
   },
   "Application Lifecycle Management": {
@@ -1045,12 +1048,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T10:22:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:25:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses event handlers in the context of Team Foundation Server, which relates to software development and coding practices; however, it primarily focuses on deployment processes rather than broader engineering excellence principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the implementation of event handlers in Team Foundation Server, which is more focused on a specific technical solution rather than broader engineering excellence principles. While it touches on aspects of software craftsmanship, such as coding practices and system design, it lacks a comprehensive discussion on best practices, quality assurance, or continuous improvement in engineering processes. The mention of creating a Visual Studio project template hints at a desire for better development practices, but it does not delve into the principles or metrics of engineering excellence.",
+    "level": "Quaternary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",

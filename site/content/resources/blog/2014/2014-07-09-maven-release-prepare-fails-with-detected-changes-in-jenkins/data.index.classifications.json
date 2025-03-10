@@ -76,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T09:14:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:40:17",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the installation and configuration issues related to Jenkins and TFS, including specific steps to create a .tfignore file to resolve build failures, which aligns well with the category's focus on actionable installation and configuration guidance.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed discussion on configuring Jenkins to work with TFS, including specific steps to create a .tfignore file to resolve issues during the Maven release process. It addresses installation-related challenges, offers troubleshooting insights, and discusses configuration best practices, aligning well with the core themes of the category. The depth of the discussion is substantial, with practical examples and commands provided, making it a strong fit for the 'Install and Configuration' category.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -736,12 +739,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-15T17:51:16",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T12:40:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses technical troubleshooting and best practices related to Jenkins, TFS, and Maven, which implies an involvement in software development processes. However, it primarily focuses on specific technical problems rather than broader discussions of engineering excellence or software craftsmanship principles.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses a technical issue related to Jenkins and TFS integration, focusing on a specific problem with Maven release processes. While it touches on aspects of software development practices, such as handling detected changes and using .tfignore files, it lacks a broader discussion on engineering excellence principles, best practices, or continuous improvement. The primary focus is on troubleshooting rather than promoting high standards in software craftsmanship.",
+    "level": "Tertiary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

@@ -27,8 +27,8 @@ tags:
 - Evidence Based Management
 - Metrics and Learning
 categories:
-- Engineering Excellence
 - Product Management
+- Engineering Excellence
 - Social Technologies
 preview: nakedalm-agility-index-24-24.png
 

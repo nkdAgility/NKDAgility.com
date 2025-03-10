@@ -34,8 +34,8 @@ tags:
 - System Configuration
 - Azure DevOps
 - Operational Practices
-- Pragmatic Thinking
 - Application Lifecycle Management
+- Pragmatic Thinking
 - Technical Excellence
 categories:
 - DevOps

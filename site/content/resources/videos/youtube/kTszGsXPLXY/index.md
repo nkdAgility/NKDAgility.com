@@ -34,11 +34,11 @@ sitemap:
 tags:
 - Practical Techniques and Tooling
 - Cycle Time
-- Agile Frameworks
 - Agile Project Management
 - Metrics and Learning
 - Operational Practices
 - People and Process
+- Agile Frameworks
 - Flow Efficiency
 - Pragmatic Thinking
 - Software Development

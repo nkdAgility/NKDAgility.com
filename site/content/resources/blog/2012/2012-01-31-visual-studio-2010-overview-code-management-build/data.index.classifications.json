@@ -121,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:58:10",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses branching, merging, and build processes within the context of Visual Studio 2010, which are relevant to DevOps practices, but the primary focus is on specific tools rather than broader DevOps principles.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses branching, merging, and build processes within Visual Studio 2010, which are relevant to DevOps practices. However, it lacks a broader discussion on the principles of DevOps, such as CI/CD, automation, and cultural shifts. While it touches on integration and quality delivery, it does not provide in-depth insights into DevOps methodologies or tools beyond Visual Studio, limiting its overall alignment with the category.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -148,11 +151,14 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T21:22:36",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T12:58:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses a series of webcasts related to Visual Studio 2010, which aligns with the category of events and presentations. However, the primary focus is on technical details of code management and build processes rather than the events themselves.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses a specific session on Branching and Merging as part of a series of webcasts related to Visual Studio 2010. It includes links to live sessions and mentions the context of these webcasts, which aligns with the category of Events and Presentations. However, the primary focus is on technical details rather than the event itself, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Flow Efficiency": {

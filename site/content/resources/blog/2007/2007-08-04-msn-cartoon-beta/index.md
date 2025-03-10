@@ -27,7 +27,6 @@ aliasesArchive:
 - /blog/msn-cartoon-(beta)
 - /resources/blog/msn-cartoon-beta
 tags:
-- Install and Configuration
 - Miscellaneous
 categories: []
 preview: nakedalm-logo-128-link-25-25.png

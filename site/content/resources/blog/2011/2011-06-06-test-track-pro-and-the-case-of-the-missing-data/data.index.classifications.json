@@ -40,11 +40,14 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T22:42:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:01:00",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses issues related to querying data in a software system, focusing on code quality, performance, and the complexities involved in managing data retrieval effectively. It highlights the impact of query design on system performance and maintainability, which aligns well with the themes of code quality and complexity.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses a specific coding issue related to querying data and the implications of using different time filters in a database context. It directly addresses code quality by highlighting performance issues and the importance of accurate data retrieval, which aligns with the principles of software code quality. However, while it touches on complexity in terms of managing data queries and the high water mark concept, it lacks a broader discussion on complexity theory or best practices in software development. The depth of the discussion is moderate, focusing on a specific problem rather than exploring wider implications or strategies for managing complexity in codebases.",
     "level": "Secondary"
   },
   "Discovery and Learning": {

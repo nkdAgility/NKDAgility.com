@@ -29,11 +29,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Discovery and Learning
 - Pragmatic Thinking
 - Azure DevOps
 - Complexity Thinking
 - Continuous Learning
-- Discovery and Learning
 - Metrics and Learning
 - People and Process
 - Ability to Innovate

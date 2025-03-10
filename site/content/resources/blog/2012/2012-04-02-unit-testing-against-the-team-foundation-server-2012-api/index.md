@@ -23,6 +23,7 @@ aliasesArchive:
 - /unit-testing-against-the-team-foundation-server-2012-api
 - /resources/blog/unit-testing-against-the-team-foundation-server-2012-api
 tags:
+- Technical Excellence
 - Practical Techniques and Tooling
 - Test Driven Development
 - Automated Testing
@@ -32,7 +33,6 @@ tags:
 - Azure DevOps
 - Engineering Practices
 - Pragmatic Thinking
-- Software Developers
 categories:
 - Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-3-3.png

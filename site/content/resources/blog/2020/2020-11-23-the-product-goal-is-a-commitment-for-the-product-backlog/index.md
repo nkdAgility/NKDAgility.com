@@ -23,11 +23,11 @@ aliasesArchive:
 - /the-product-goal-is-a-commitment-for-the-product-backlog
 - /resources/blog/the-product-goal-is-a-commitment-for-the-product-backlog
 tags:
+- Agile Product Management
 - Product Delivery
 - Product Backlog
 - Scrum Product Development
 - Scrum Team
-- Agile Product Management
 - Product Owner
 - Professional Scrum
 - Agile Frameworks

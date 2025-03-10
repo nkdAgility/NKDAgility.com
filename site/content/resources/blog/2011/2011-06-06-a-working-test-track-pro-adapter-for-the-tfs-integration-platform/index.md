@@ -24,7 +24,6 @@ aliasesArchive:
 - /resources/blog/a-working-test-track-pro-adapter-for-the-tfs-integration-platform
 tags:
 - Practical Techniques and Tooling
-- Install and Configuration
 - Working Software
 - Application Lifecycle Management
 - Azure DevOps
@@ -33,9 +32,9 @@ tags:
 - Software Development
 - System Configuration
 - Technical Excellence
+- Technical Mastery
 categories:
 - Engineering Excellence
-- DevOps
 
 ---
 [![ALMRangersLogo_Tiny](images/ALMRangersLogo_Tiny_thumb-1-1.png "ALMRangersLogo_Tiny")](http://blog.hinshelwood.com/files/2011/06/ALMRangersLogo_Tiny.png)

@@ -36,9 +36,9 @@ tags:
 - Hypothesis Driven Development
 - Pragmatic Thinking
 - Product Validation
-- Value Delivery
 - Continuous Learning
 - Agile Product Management
+- Value Delivery
 resourceTypes:
 - video
 categories:

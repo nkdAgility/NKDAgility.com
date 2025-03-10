@@ -24,10 +24,10 @@ aliasesArchive:
 - /resources/blog/visual-studio-team-test-quick-reference-guide-1-0
 tags:
 - Pragmatic Thinking
-- Products and Books
 - Practical Techniques and Tooling
 - Software Development
 - Troubleshooting
+- Products and Books
 - Technical Mastery
 preview: nakedalm-logo-128-link-1-1.png
 categories:

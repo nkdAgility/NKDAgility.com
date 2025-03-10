@@ -13,12 +13,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:15:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:30:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Agile practices and Scrum classes, indicating a secondary theme related to social technologies, but the primary focus is on Azure DevOps migration tools.",
-    "level": "Tertiary"
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on Azure DevOps migration tools and technical details related to migration processes, with no explicit discussion of Scrum, Kanban, Lean, or Agile practices. While it may touch on aspects of team collaboration indirectly through the context of migration, it lacks a direct connection to the core themes of Social Technologies as defined in the classification criteria.",
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -574,12 +577,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-18T11:35:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:30:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily focuses on Azure DevOps migration tools, which are related to engineering practices in a software development context. However, it lacks an in-depth discussion on technical excellence principles such as TDD, CI/CD, modular architecture, or agile methodologies. Therefore, it is a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the Azure DevOps migration tools, detailing their functionality and usage. While it touches on aspects of technical practices, such as migration processes and tool configurations, it lacks a direct discussion on broader engineering methodologies like TDD, CI/CD, or modular architecture. The depth of technical detail is moderate, but it does not sufficiently align with the core themes of Technical Excellence, which emphasises agile engineering practices and methodologies. Therefore, the confidence score reflects a limited but present relevance to the category.",
+    "level": "Quaternary"
   },
   "Organisational Change": {
     "category": "Organisational Change",

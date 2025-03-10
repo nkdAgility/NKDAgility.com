@@ -8,7 +8,7 @@ ResourceImportId: 3487
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-21
-weight: 640
+weight: 700
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,16 +28,17 @@ aliasesArchive:
 - /resources/blog/tfs-event-handler-in-net-3-5-part-1-the-architecture
 tags:
 - Code and Complexity
-- Application Lifecycle Management
 - Practical Techniques and Tooling
 - System Configuration
 - Azure DevOps
 - Software Development
 - Technical Excellence
 - Technical Mastery
+- Application Lifecycle Management
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Engineering Excellence
+- DevOps
 
 ---
 I have decided to have a little go at creating a Team Foundation Server Event Handler in .NET 3.5 that is resilient and scaleable. I will be using as many of the features of Team Suit as I can, but bear with me as there are a few things that are new to me. I am going to create everything under source control in CodePlex.

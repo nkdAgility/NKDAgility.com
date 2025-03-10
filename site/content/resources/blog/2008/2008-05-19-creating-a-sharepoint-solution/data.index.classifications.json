@@ -577,11 +577,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T19:26:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:14:52",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the development of a SharePoint application, including aspects of software development practices such as Test Driven Development and deployment considerations. It focuses on building software, which aligns well with the Software Development category.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the development of a SharePoint application, which directly relates to software development practices. It mentions specific technologies (.NET, SQL Server) and concepts like Test Driven Development, indicating a focus on software engineering. However, the discussion is more about personal experience and project motivation rather than a deep exploration of methodologies or best practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {
@@ -1234,12 +1237,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:14:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the development of a software application and mentions Test Driven Development, which aligns partially with engineering practices. However, it focuses more on the project and specific technologies rather than a broader discussion on engineering excellence or best practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the development of a SharePoint application, which touches on aspects of software craftsmanship and development practices. However, it primarily focuses on the author's personal project and learning experience rather than explicitly promoting high standards in engineering processes or best practices. While there is a mention of Test Driven Development, the overall discussion lacks depth in engineering excellence principles and does not provide a comprehensive exploration of the category's key topics.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

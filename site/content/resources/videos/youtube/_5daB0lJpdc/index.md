@@ -30,6 +30,7 @@ sitemap:
 tags:
 - People and Process
 - Pragmatic Thinking
+- Scrum Master
 resourceTypes:
 - video
 layout: video

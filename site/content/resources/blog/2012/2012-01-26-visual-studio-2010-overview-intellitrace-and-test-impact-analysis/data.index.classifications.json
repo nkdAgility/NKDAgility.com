@@ -121,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:58:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automated testing and regression testing, which are relevant to DevOps practices, but the primary focus is on Visual Studio features rather than a comprehensive discussion of DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses automated testing and regression testing, which are relevant to DevOps practices, particularly in the context of Continuous Integration and Continuous Delivery. However, it primarily focuses on specific tools (IntelliTrace and Test Impact Analysis) without a broader discussion on DevOps principles, cultural shifts, or the integration of development and operations teams. The depth of discussion is limited to tool functionalities rather than a comprehensive exploration of DevOps as a whole.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -148,11 +151,14 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T21:23:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:58:23",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a series of webcasts related to Visual Studio ALM, which aligns with the category of events and presentations, particularly in the context of software engineering.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses a series of webcasts related to Visual Studio ALM, which aligns with the category of Events and Presentations. However, while it mentions the webcasts, the primary focus is on the features of IntelliTrace and Test Impact Analysis rather than the events themselves. The depth of discussion on the events is limited, focusing more on the tools and their applications in Agile environments.",
     "level": "Secondary"
   },
   "Flow Efficiency": {

@@ -574,12 +574,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-18T11:35:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:43:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content describes the process of configuring release management using Team Foundation Server (TFS), which relates to Continuous Integration and Continuous Delivery (CI/CD) practices. However, it primarily focuses on specific configuration steps rather than broader engineering methodologies or principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on configuring release management in Team Foundation Server (TFS), which is a technical task. However, it lacks explicit discussions on broader engineering practices or methodologies that enhance agility, such as CI/CD or TDD. While it touches on aspects of technical setup, it does not delve into the principles or techniques that would align it closely with the category of Technical Excellence. The discussion is more operational and procedural rather than strategic or methodological.",
+    "level": "Quaternary"
   },
   "Organisational Change": {
     "category": "Organisational Change",

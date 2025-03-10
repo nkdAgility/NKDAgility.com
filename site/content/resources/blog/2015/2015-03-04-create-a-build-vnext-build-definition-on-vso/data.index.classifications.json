@@ -22,11 +22,14 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-14T22:33:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:36:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a build system (Build vNext) within Team Foundation Server (TFS) and Visual Studio Online (VSO), which aligns with the principles of Platform Engineering by focusing on enhancing developer productivity through automated workflows and self-service capabilities.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on creating a build definition using the vNext build system in TFS and VSO, which aligns with the principles of Platform Engineering by discussing internal developer platforms and automation in the application lifecycle. It provides detailed instructions and insights into the build process, including task configuration and CI triggers, which enhance developer productivity. However, while it touches on relevant topics, it lacks a broader discussion on the overarching principles of Platform Engineering and does not explicitly mention Internal Developer Platforms (IDPs) or their components, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
@@ -736,11 +739,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-14T22:36:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:36:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a Build vNext build definition, which is closely related to best practices in continuous integration and delivery (CI/CD) processes. It highlights the importance of build automation, task management, and configuration options that enhance software development efficiency, aligning well with the principles of engineering excellence.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on creating a build definition using the vNext build system, which relates to CI/CD practices. It discusses various build tasks and configurations, indicating a level of detail about engineering processes. However, while it touches on aspects of software craftsmanship and automation, it lacks a broader discussion on best practices or principles of engineering excellence, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Revenue per Employee": {

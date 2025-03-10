@@ -28,14 +28,13 @@ tags:
 - Modern Source Control
 - System Configuration
 - Software Development
-- Azure DevOps
 - Operational Practices
 - Pragmatic Thinking
+- Azure DevOps
 - Agile Frameworks
 - Agile Project Management
 preview: metro-visual-studio-2010-128-link-8-8.png
 categories:
-- DevOps
 - Social Technologies
 
 ---

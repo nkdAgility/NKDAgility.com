@@ -25,6 +25,7 @@ preview: https://i.ytimg.com/vi/U69JMzIZXro/maxresdefault.jpg
 duration: 1219
 isShort: false
 tags:
+- System Configuration
 - Windows
 sitemap:
   filename: sitemap.xml

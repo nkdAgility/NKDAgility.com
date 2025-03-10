@@ -24,8 +24,8 @@ aliasesArchive:
 - /resources/blog/installing-visual-studio-2010-team-suit-beta-1
 tags:
 - Install and Configuration
-- Products and Books
 - System Configuration
+- Products and Books
 preview: metro-visual-studio-2010-128-link-9-9.png
 categories: []
 

@@ -30,15 +30,14 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Agile Values and Principles
 - Agile Philosophy
 - Team Motivation
+- Agile Values and Principles
 - Team Collaboration
 - Personal
 resourceTypes:
 - video
 categories:
-- Leadership
 - Social Technologies
 
 ---

@@ -8,7 +8,7 @@ ResourceImportId: 205
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-08-27
-weight: 775
+weight: 890
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,10 +24,8 @@ aliasesArchive:
 - /resources/blog/calling-an-object-method-in-a-data-trigger
 tags:
 - Software Development
-- Technical Mastery
 - Troubleshooting
-categories:
-- Engineering Excellence
+categories: []
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

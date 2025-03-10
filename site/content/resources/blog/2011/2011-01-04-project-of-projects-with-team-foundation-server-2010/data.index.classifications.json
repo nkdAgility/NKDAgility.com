@@ -283,11 +283,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-16T00:07:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:02:56",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the use of Team Foundation Server (TFS), which is a component of Azure DevOps, focusing on project organisation, areas, iterations, source code management, work item queries, and builds.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses Team Foundation Server (TFS), which is a component of Azure DevOps, and provides detailed insights into structuring projects, areas, iterations, source code, work item queries, and builds. It aligns well with Azure DevOps functionalities and best practices, demonstrating a strong understanding of project management within the Azure DevOps ecosystem. However, it lacks explicit mention of Azure DevOps as a suite, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -733,11 +736,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:02:53",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses organization and management of projects within Team Foundation Server, touching on aspects of software development and best practices, making it a secondary theme of engineering excellence.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the organisation of projects and source code management within Team Foundation Server 2010, which touches on aspects of software craftsmanship and best practices. However, it primarily focuses on project setup and management rather than deeper engineering excellence principles such as coding standards, testing methodologies, or CI/CD practices. The discussion lacks depth in terms of continuous improvement and quality assurance, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Revenue per Employee": {

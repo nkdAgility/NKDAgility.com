@@ -29,9 +29,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Business Agility
 - Market Adaptability
 - Agile Strategy
-- Business Agility
 - Strategy
 - Agile Values and Principles
 - Enterprise Agility

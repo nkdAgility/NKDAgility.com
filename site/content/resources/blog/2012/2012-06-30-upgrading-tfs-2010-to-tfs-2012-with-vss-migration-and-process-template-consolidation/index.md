@@ -23,8 +23,8 @@ aliasesArchive:
 - /upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation
 - /resources/blog/upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation
 tags:
-- Install and Configuration
 - System Configuration
+- Install and Configuration
 categories:
 - Scrum
 

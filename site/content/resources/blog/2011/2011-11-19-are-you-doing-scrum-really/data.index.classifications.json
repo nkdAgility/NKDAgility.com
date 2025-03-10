@@ -148,11 +148,14 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T21:47:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:59:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a talk from the ALM Summit, focusing on insights from a presentation about recent changes in Scrum, which aligns well with the category.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses a specific talk from the ALM Summit, which aligns with the category of Events and Presentations. However, while it mentions the event, the primary focus is on the content of the talk rather than the event itself. The discussion of Scrum changes is relevant but does not delve deeply into the event's broader context or other presentations. Therefore, while there is a connection to the category, it is not the main focus, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Flow Efficiency": {
@@ -733,12 +736,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:59:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of Scrum which relate to software development practices, and while it is primarily about Scrum methodology, it includes elements of continuous improvement and practices that align with principles of effective software engineering.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum, a project management framework, rather than focusing on engineering excellence in software craftsmanship or development practices. While it touches on aspects like automated testing and the importance of a measurable checklist, these points are secondary to the main discussion about Scrum's adaptability and its core principles. The content lacks a strong emphasis on best practices in coding standards, quality assurance, or continuous improvement, which are central to the category of Engineering Excellence.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

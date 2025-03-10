@@ -8,7 +8,7 @@ ResourceImportId: 11491
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2016-05-10
-weight: 775
+weight: 720
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,9 +27,9 @@ aliasesArchive:
 - /blog/open-source-with-vsts-or-tfs-and-github-for-better-devops
 - /resources/blog/open-source-vsts-tfs-github-better-devops
 tags:
+- Install and Configuration
 - Practical Techniques and Tooling
 - Continuous Integration
-- Install and Configuration
 - System Configuration
 - Azure DevOps
 - Modern Source Control

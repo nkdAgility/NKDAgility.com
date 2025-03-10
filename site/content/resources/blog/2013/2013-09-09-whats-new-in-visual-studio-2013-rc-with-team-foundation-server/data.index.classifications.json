@@ -121,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:44:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses features of Visual Studio 2013 and TFS 2013, including aspects of continuous delivery and team collaboration, which are relevant to DevOps practices. However, the primary focus is on the software tools rather than a comprehensive discussion of DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses features of Visual Studio 2013 and TFS 2013, touching on aspects of Agile methodologies and some tools that support DevOps practices, such as build management and continuous delivery. However, it lacks a focused discussion on the principles and cultural shifts of DevOps, making it more of a product overview than a dedicated exploration of DevOps concepts.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -283,11 +286,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T11:43:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:44:10",
+    "ai_confidence": 68.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses features and enhancements related to Team Foundation Server (TFS) 2013, which is part of the Azure DevOps suite, focusing on its functionalities and improvements in project management and collaboration tools.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses features and enhancements related to Team Foundation Server (TFS) 2013, which is part of the Azure DevOps suite. It provides a detailed overview of various functionalities, such as Team Explorer enhancements, Agile Portfolio Management, and Test Plans, aligning well with Azure DevOps themes. However, the focus is primarily on TFS rather than Azure DevOps as a whole, which slightly reduces the confidence score.",
     "level": "Secondary"
   },
   "Personal": {

@@ -26,7 +26,6 @@ categories: []
 preview: nakedalm-logo-128-link-1-1.png
 tags:
 - Windows
-- Miscellaneous
 
 ---
 Up until now the only avenue for your average Vista user for support was to trawl the MSDN Forums, Technet Forums and the Support site for some elusive piece of information that is buried among all that technical BS that we teckies like to call help.

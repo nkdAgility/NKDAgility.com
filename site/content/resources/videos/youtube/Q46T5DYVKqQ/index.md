@@ -37,8 +37,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Product Management
+- Social Technologies
 
 ---
 Empiricism is an interesting beast, isn’t it? At its core, empiricism is the idea that all knowledge stems from observable data. This principle is the foundation of science, and it has found a comfortable home within the agile way of working, as well as in various other business methodologies. 

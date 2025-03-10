@@ -31,9 +31,9 @@ tags:
 - Agile Project Management
 - People and Process
 - Software Development
-- Transparency
 - Flow Efficiency
 - Pragmatic Thinking
+- Transparency
 sitemap:
   filename: sitemap.xml
   priority: 0.6

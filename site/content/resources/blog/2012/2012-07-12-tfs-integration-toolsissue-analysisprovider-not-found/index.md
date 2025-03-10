@@ -28,11 +28,11 @@ aliasesArchive:
 - /resources/blog/tfs-integration-toolsissue-analysisprovider-not-found
 tags:
 - Troubleshooting
-- Install and Configuration
 - Pragmatic Thinking
 - Software Development
 - System Configuration
 - Technical Mastery
+- Install and Configuration
 - Practical Techniques and Tooling
 - Windows
 categories: []

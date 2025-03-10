@@ -211,11 +211,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T01:59:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:08:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of a WPF behaviour for scaling controls, which involves technical practices such as dependency properties and MVVM architecture. It focuses on engineering methodologies that enhance the adaptability and maintainability of the software, aligning well with the principles of Technical Excellence.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on a specific implementation of WPF (Windows Presentation Foundation) and discusses the use of attached properties and dependency properties in a technical context. While it does touch on aspects of modular architecture and the use of design patterns like MVVM, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. The technical details provided are substantial, but they do not fully align with the core themes of Technical Excellence, which requires a more comprehensive exploration of practices like TDD, CI/CD, or Agile methodologies.",
     "level": "Secondary"
   },
   "Complexity Thinking": {

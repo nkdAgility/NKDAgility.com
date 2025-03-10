@@ -29,6 +29,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Organisational Culture
+- Agile Leadership
+- Organisational Change
+- Personal
+- Change Management
+- Employee Engagement
+- Organisational Physics
+- Organisational Psychology
+- Team Collaboration
 resourceTypes:
 - video
 categories:

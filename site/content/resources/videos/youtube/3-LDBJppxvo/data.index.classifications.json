@@ -100,11 +100,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T13:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T11:44:11",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivering working software and gathering feedback, which aligns with evidence-based practices in Agile. However, it primarily focuses on Agile principles rather than explicitly addressing Evidence-Based Management as a central theme.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of delivering working software and gathering feedback, which aligns with the principles of Evidence-Based Management by emphasising empirical validation of assumptions. However, it lacks direct references to EBM concepts or metrics, and the discussion is more focused on Agile practices rather than a comprehensive exploration of EBM principles.",
     "level": "Tertiary"
   },
   "Personal": {
@@ -730,11 +733,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T13:56:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T11:44:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile practices and their importance in delivering working software, which relates to software development processes and the need for feedback loops, but does not delve deeply into engineering practices or standards.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of delivering working software and gathering user feedback, which aligns with agile principles and indirectly relates to engineering excellence. However, it lacks explicit mentions of software craftsmanship, coding standards, or CI/CD practices, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Product Strategy": {

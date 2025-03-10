@@ -211,11 +211,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T19:26:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:53:16",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the integration of Team Foundation Server (TFS) with various tools and methodologies for managing requirements, which aligns with technical practices that enhance software development processes. It touches on aspects of agile project management and the importance of traceability and integration in achieving technical excellence.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses requirement management within the context of Team Foundation Server (TFS) and mentions tools that integrate with TFS to enhance the requirements gathering process. While it touches on aspects of Agile methodologies and the importance of capturing requirements effectively, it lacks a focused discussion on core technical excellence practices such as TDD, CI/CD, or modular architecture. The primary focus is on tools and their functionalities rather than on engineering practices that enhance agility and technical quality.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -733,12 +736,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:53:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses tools and solutions for requirements management within the software development lifecycle, touching on aspects of engineering processes and practices. However, the focus is more on project management and integration tools rather than the principles of software craftsmanship and specific best practices in coding or engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses requirement management and tools related to Team Foundation Server (TFS), which touches on aspects of software development practices. However, it primarily focuses on the challenges of managing requirements rather than promoting high standards in software craftsmanship or continuous improvement of engineering processes. While there are mentions of integration and tools that could enhance development efficiency, the overall emphasis is more on the tools and their functionalities rather than on engineering excellence principles or best practices.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

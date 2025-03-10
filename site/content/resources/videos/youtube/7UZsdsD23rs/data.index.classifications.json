@@ -346,12 +346,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T16:42:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:01:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the principles of empiricism and its importance in Agile practices, which relates to continuous improvement and feedback loops in software development. However, the primary focus is on Agile methodologies rather than engineering excellence specifically.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses empiricism in the context of Agile and Scrum, focusing on the importance of inspecting and adapting processes. However, it primarily centres on Agile methodologies rather than directly addressing engineering excellence or software craftsmanship. While it touches on aspects of continuous improvement and feedback loops, it lacks a detailed exploration of coding standards, quality assurance, or best practices in software development, which are core to the category of Engineering Excellence.",
+    "level": "Quaternary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1108,11 +1111,14 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-12T10:25:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:02:00",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the principles of empiricism in Agile, focusing on the importance of inspection and adaptation, which are central to the processes of discovery and learning within product development.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the concept of empiricism in Agile, focusing on the importance of inspecting and adapting based on data and feedback loops. It aligns well with the core themes of the 'Discovery and Learning' category, particularly in terms of fostering a culture of continuous learning and adapting to new information. The discussion on various inspect and adapt loops, such as daily stand-ups and sprint reviews, highlights the significance of learning from both successes and failures. However, while it touches on these themes, the primary focus remains on Agile processes rather than a broader exploration of discovery and learning methodologies, which slightly limits its depth in this specific category.",
     "level": "Secondary"
   },
   "Systems Thinking": {

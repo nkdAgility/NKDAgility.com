@@ -172,11 +172,14 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-16T21:11:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:21:32",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the internal adoption of Team Foundation Server at Microsoft, providing insights into its usage and future developments, which aligns with industry news and updates relevant to technology.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the internal adoption of Team Foundation Server (TFS) at Microsoft, which aligns with industry news regarding DevOps tools. It provides specific details about the number of instances and users, indicating a depth of discussion. However, while it mentions the product's updates and future versions, it lacks broader commentary on trends or evaluations that would enhance its relevance to the category.",
     "level": "Secondary"
   },
   "Product Delivery": {
@@ -1234,12 +1237,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:21:28",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the adoption of Team Foundation Server (TFS) internally at Microsoft, which relates to engineering practices and tools that promote software development excellence, but it focuses more on the organizational aspects rather than specific engineering methodologies or craftsmanship principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the adoption of Team Foundation Server (TFS) at Microsoft, which relates to engineering practices and tools that can enhance software development processes. However, it primarily focuses on the internal use and perception of TFS rather than delving into broader principles of software craftsmanship, coding standards, or continuous improvement practices. While there are mentions of internal usage and product development, the discussion lacks depth in exploring how these practices contribute to engineering excellence.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

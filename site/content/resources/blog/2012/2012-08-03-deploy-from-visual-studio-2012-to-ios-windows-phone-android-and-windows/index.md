@@ -39,8 +39,8 @@ tags:
 - Working Software
 - Product Delivery
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 
 ---

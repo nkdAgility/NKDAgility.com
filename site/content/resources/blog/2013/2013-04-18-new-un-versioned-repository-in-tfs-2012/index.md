@@ -24,10 +24,10 @@ aliasesArchive:
 - /resources/blog/new-un-versioned-repository-in-tfs-2012
 tags:
 - Modern Source Control
-- Install and Configuration
 - Software Development
 - System Configuration
 - Troubleshooting
+- Install and Configuration
 - Practical Techniques and Tooling
 - Operational Practices
 categories:

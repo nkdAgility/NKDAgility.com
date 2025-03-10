@@ -1102,12 +1102,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:07:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses internet speed and its impact on downloading software, specifically mentioning Project 2010 from Microsoft, which relates to the Windows environment. However, the primary focus is on internet speed rather than Windows specifically.",
-    "level": "Tertiary"
+    "final_score": 34.0,
+    "reasoning": "The content briefly mentions Windows in the context of downloading Project 2010, but it primarily focuses on internet connection speeds and personal experiences with cable internet. The discussion does not delve into installation, configuration, troubleshooting, or any other core themes related to the Windows operating system. Therefore, while there is a mention of Windows, it is not a primary focus, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",

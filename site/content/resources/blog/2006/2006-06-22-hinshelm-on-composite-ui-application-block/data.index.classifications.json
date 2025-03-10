@@ -64,12 +64,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T11:16:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:28:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content primarily discusses the implementation of a UI adapter in a specific framework, which involves code quality and design decisions. However, it does not deeply explore the complexities or principles of software development processes, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on implementing a specific feature in a software framework, detailing code examples and implementation strategies. While it touches on aspects of code quality and maintainability through the discussion of factory patterns and inheritance, it lacks a broader exploration of complexity theory or its implications on software architecture. The discussion is more technical and practical rather than theoretical, which limits its alignment with the core themes of the 'Code and Complexity' category.",
+    "level": "Quaternary"
   },
   "DevOps": {
     "category": "DevOps",
@@ -325,11 +328,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-17T11:17:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-10T13:28:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical implementation details related to the Composite UI Application Block and does not address Scrum principles, roles, events, or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical implementation details related to the Composite UI Application Block and does not mention Scrum principles, roles, events, or any related concepts. There is minimal conceptual alignment with Scrum, as it does not discuss team dynamics, iterative processes, or continuous improvement, which are core to the Scrum framework.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {

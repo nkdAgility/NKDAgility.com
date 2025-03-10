@@ -22,11 +22,14 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-14T23:42:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:37:29",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the creation of a Release Management pipeline, which is a key aspect of internal developer platforms (IDPs) aimed at enhancing developer productivity and automating workflows in the application lifecycle.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline, which is a key aspect of platform engineering. It discusses the configuration of internal developer platforms, automation in the application lifecycle, and enhancing developer productivity through the use of tools like Team Foundation Server and Azure. The depth of discussion is significant, covering various stages of the pipeline, deployment strategies, and the integration of DevOps practices. While there are some mentions of general development practices, the core focus remains on platform engineering principles.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
@@ -736,11 +739,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-14T23:45:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:37:25",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the creation of a Release Management pipeline, which involves best practices in CI/CD, automation, and technical debt management. It focuses on engineering processes and quality assurance, making it a clear fit for the Engineering Excellence category.",
+    "final_score": 74.0,
+    "reasoning": "The content provides a detailed walkthrough of creating a Release Management pipeline, which directly relates to best practices in CI/CD, automation, and deployment strategies. It discusses the importance of automated builds, testing, and deployment processes, aligning well with the principles of software craftsmanship and quality assurance. The depth of discussion is significant, covering various aspects of the pipeline setup, including environment configuration, parameter management, and feedback loops, which are crucial for maintaining engineering excellence. Overall, the content is primarily focused on engineering practices, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Revenue per Employee": {

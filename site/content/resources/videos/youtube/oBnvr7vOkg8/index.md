@@ -28,9 +28,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Software Development
 - People and Process
 - Pragmatic Thinking
+- Software Development
 - Personal
 - Agile Transformation
 resourceTypes:

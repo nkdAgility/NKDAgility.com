@@ -31,11 +31,11 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Pragmatic Thinking
-- Software Development
 - System Configuration
 - Troubleshooting
 - Windows
 - Practical Techniques and Tooling
+- Software Development
 categories: []
 preview: metro-problem-icon-6-6.png
 

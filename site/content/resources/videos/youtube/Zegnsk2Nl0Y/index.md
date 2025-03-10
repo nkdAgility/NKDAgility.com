@@ -26,6 +26,7 @@ duration: 44
 isShort: true
 tags:
 - Practical Techniques and Tooling
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

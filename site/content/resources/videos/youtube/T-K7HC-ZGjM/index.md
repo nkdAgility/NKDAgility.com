@@ -28,7 +28,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Scrum Product Development
 - Professional Scrum
 - Agile Frameworks
@@ -38,6 +37,7 @@ tags:
 - Software Developers
 - Software Development
 - Agile Product Management
+- Product Delivery
 resourceTypes:
 - video
 categories:

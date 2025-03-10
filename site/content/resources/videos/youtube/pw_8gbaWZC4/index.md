@@ -26,6 +26,7 @@ duration: 294
 isShort: false
 tags:
 - Metrics and Learning
+- Strategy
 - Transparency
 - Agile Frameworks
 - Agile Project Management
@@ -33,7 +34,6 @@ tags:
 - Pragmatic Thinking
 - Flow Efficiency
 - Practical Techniques and Tooling
-- Strategy
 - Value Delivery
 sitemap:
   filename: sitemap.xml

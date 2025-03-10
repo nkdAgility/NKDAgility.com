@@ -33,10 +33,10 @@ tags:
 - Scrum Master
 - Agile Project Management
 - Agile Leadership
-- Agile Frameworks
 - Scrum Team
 - Technical Leadership
 - Mentoring
+- Agile Frameworks
 resourceTypes:
 - video
 layout: video

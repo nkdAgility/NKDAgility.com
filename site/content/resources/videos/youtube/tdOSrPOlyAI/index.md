@@ -25,9 +25,9 @@ preview: https://i9.ytimg.com/vi/tdOSrPOlyAI/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 127
 isShort: false
 tags:
+- Technical Mastery
 - Software Development
 - Engineering Practices
-- Technical Mastery
 - Technical Excellence
 - Pragmatic Thinking
 - People and Process

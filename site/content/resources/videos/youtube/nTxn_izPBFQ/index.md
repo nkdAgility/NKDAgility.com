@@ -31,9 +31,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Product Owner
 - Agile Project Management
-- People and Process
 - Agile Product Management
 - Agile Leadership
 - Agile Product Operating Model
@@ -43,9 +43,9 @@ tags:
 resourceTypes:
 - video
 categories:
-- Leadership
 - Product Management
 - Scrum
+- Leadership
 
 ---
 **How good is the APSPO course in helping leaders determine product direction and Why?**

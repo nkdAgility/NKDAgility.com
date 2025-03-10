@@ -76,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T00:22:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:03:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses practical guidance for Visual Studio 2010 Database projects, including build and deployment automation, which aligns with installation and configuration processes.",
+    "final_score": 72.0,
+    "reasoning": "The content provides practical guidance on using Visual Studio 2010 Database projects, including topics such as build and deployment automation, configuration management, and hands-on labs. It explicitly mentions installation and configuration aspects, particularly in the context of database projects and integration with deployment tools like WiX. The depth of discussion is substantial, covering various scenarios and providing actionable insights, which aligns well with the category's focus. However, it does not delve deeply into troubleshooting or security aspects, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -121,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:03:37",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses build and deployment automation, which is a significant aspect of DevOps, but it primarily focuses on Visual Studio Database projects and related guidance.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses build and deployment automation, which aligns with DevOps principles. However, it lacks a broader discussion on cultural shifts, collaboration, or metrics, which are crucial for a comprehensive DevOps focus.",
     "level": "Tertiary"
   },
   "Miscellaneous": {

@@ -1228,11 +1228,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-12T01:05:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T11:51:02",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of vision, value, and validation in product management, emphasising the need to deliver value and align product development with customer needs, which aligns closely with the principles of value delivery.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses the importance of vision, value, and validation in product management, which aligns closely with the principles of value delivery. It highlights the need for understanding customer value and ensuring that product development aligns with that vision. The depth of discussion is significant, as it explores the transition from project management to product management and the implications for delivering value. However, while it touches on key topics, it does not delve deeply into methodologies or practices like CI/CD or value stream mapping, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Technical Excellence": {
@@ -1366,12 +1369,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T14:46:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T11:50:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition from project management to product management, emphasising the importance of vision, value, and validation, which are relevant to Agile practices. However, it does not primarily focus on specific frameworks like Scrum or Kanban.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the transition from project management to product management, emphasising the importance of vision, value, and validation. While it touches on Agile principles and the role of a Product Owner, it lacks direct references to specific frameworks like Scrum or Kanban. The alignment with core themes of Social Technologies is present, particularly in the context of collaboration and value delivery, but the depth of discussion on these methodologies is limited.",
+    "level": "Secondary"
   },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",

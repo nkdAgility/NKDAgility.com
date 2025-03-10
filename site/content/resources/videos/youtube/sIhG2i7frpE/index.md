@@ -33,6 +33,7 @@ tags:
 - Discovery and Learning
 - Practical Techniques and Tooling
 - Lean Principles
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -25,7 +25,6 @@ duration: 254
 isShort: false
 tags:
 - Operational Practices
-- Lean Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

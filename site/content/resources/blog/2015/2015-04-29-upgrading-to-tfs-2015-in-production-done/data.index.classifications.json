@@ -76,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-14T22:13:00",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-10T12:35:35",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 38,
     "non_ai_confidence": 30,
-    "final_score": 84.0,
-    "reasoning": "The content primarily discusses the upgrade process of TFS 2015, including detailed steps for installation, configuration, and troubleshooting, which aligns closely with the category of Install and Configuration.",
+    "final_score": 81.0,
+    "reasoning": "The content provides a detailed account of upgrading a production system to TFS 2015, including specific installation steps, configuration requirements, and troubleshooting advice. It explicitly discusses the installation process, necessary preparations, and potential issues that may arise during the upgrade, aligning closely with the key topics of the 'Install and Configuration' category. The depth of discussion is substantial, covering various aspects of the upgrade process, including database settings, permissions, and configuration checks, which further supports a high confidence score.",
     "level": "Primary"
   },
   "Transparency and Accountability": {
@@ -121,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:35:32",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the upgrade process of TFS 2015, which is relevant to DevOps practices, particularly in terms of deployment and system management. However, it primarily focuses on the technical aspects of the upgrade rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading TFS 2015, which is a tool used in DevOps practices. However, it lacks a broader discussion on DevOps principles, cultural shifts, or metrics for success. While it mentions aspects of deployment and configuration, it does not delve into the collaborative or process-oriented elements that are central to DevOps. Therefore, while there is some relevance, it does not fully align with the core themes of the DevOps category.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

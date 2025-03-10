@@ -1102,11 +1102,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T00:01:44",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T12:55:30",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 50,
-    "final_score": 68.0,
-    "reasoning": "The content primarily discusses an issue related to the installation of Office 2013 affecting Visual Studio 2012, which includes references to Windows operating system considerations. While the primary focus is on the conflict between the applications, the context is relevant to Windows since it mentions installation procedures and compatibility on Windows environments.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily discusses an issue related to the installation of Office 2013 and its impact on Visual Studio 2012, both of which are applications that run on the Windows operating system. It explicitly mentions Windows 8 and provides detailed troubleshooting steps, including patch management and workarounds, which align well with the core themes of the Windows category. The depth of discussion is significant, as it addresses a specific error and offers solutions, demonstrating a strong focus on managing the Windows environment. However, the content is somewhat limited to a specific scenario and does not cover broader aspects of Windows, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Deployment Strategies": {

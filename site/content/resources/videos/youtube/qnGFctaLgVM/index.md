@@ -27,9 +27,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Product Owner
 - Agile Product Management
-- People and Process
 - Coaching
 - Miscellaneous
 - Personal

@@ -24,7 +24,6 @@ aliasesArchive:
 - /resources/blog/sharepoint-planning
 tags:
 - Deployment Strategies
-- System Configuration
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

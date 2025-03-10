@@ -1189,12 +1189,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T16:42:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:32:24",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions VSTS Sync Migration Tools, which are related to Azure DevOps, but it primarily focuses on an overview of the tools rather than in-depth discussions on Azure DevOps functionalities or practices.",
-    "level": "Tertiary"
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on the VSTS sync migration tools, which are directly related to Azure DevOps (formerly known as VSTS). It discusses the migration process from TFS to VSTS, detailing the tools and methodologies involved, which aligns well with Azure DevOps functionalities. The depth of discussion is significant, covering various aspects of the migration process, including installation, configuration, and execution of the tools. While it does touch on broader DevOps concepts, the primary focus remains on Azure DevOps tools and practices, justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Products and Books": {
     "category": "Products and Books",

@@ -30,8 +30,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Values and Principles
 - People and Process
+- Agile Values and Principles
 - Agile Frameworks
 - Agile Philosophy
 - Agile Product Operating Model

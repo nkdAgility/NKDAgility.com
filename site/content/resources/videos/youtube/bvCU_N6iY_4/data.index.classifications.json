@@ -40,12 +40,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-18T10:52:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:24:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum-related topics, which are relevant to product management, but the primary focus is on a community event rather than strategic product management discussions.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions a discussion format that could relate to product management, but it lacks explicit references to product management principles or methodologies. The focus is more on the format of the discussion rather than the strategic aspects of product management, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
@@ -511,12 +514,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T11:14:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content includes questions relevant to Scrum practices, particularly on topics like timeboxes, delivery goals, and team structure, which are significant to the role of a Scrum Master.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-10T12:24:40",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions a discussion format that could relate to Agile practices, but it lacks explicit references to the Scrum Master role or its responsibilities. The focus is more on general business agility rather than specific Scrum Master duties, making it only tangentially relevant.",
+    "level": "Quaternary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",

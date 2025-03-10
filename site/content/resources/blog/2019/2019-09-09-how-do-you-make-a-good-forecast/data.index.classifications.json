@@ -31,11 +31,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T18:14:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:31:23",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the use of metrics and empirical data to improve predictability in Agile project management, aligning closely with the principles of Evidence-Based Management.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses forecasting within an Agile context, touching on metrics and their impact on predictability, which aligns with Evidence-Based Management principles. It mentions empirical metrics like Cycle Time and Throughput, which are relevant to EBM. However, while it provides insights into metrics and their application, it lacks a comprehensive exploration of EBM principles and practices, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Code and Complexity": {
@@ -733,12 +736,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:31:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics and practices related to forecasting in agile projects, which touches on engineering processes and the importance of predictability in software development. However, the primary focus is on Scrum and project management rather than engineering excellence itself.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses forecasting within an agile project context, focusing on metrics and their impact on predictability. While it touches on some aspects of engineering practices, such as metrics and team dynamics, it does not explicitly promote high standards in software craftsmanship or development practices. The discussion is more aligned with project management and agile methodologies rather than the core themes of engineering excellence, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

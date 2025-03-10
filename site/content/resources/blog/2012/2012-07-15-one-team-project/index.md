@@ -8,7 +8,7 @@ ResourceImportId: 6160
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-07-15
-weight: 545
+weight: 625
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -36,7 +36,7 @@ tags:
 - Practical Techniques and Tooling
 - Pragmatic Thinking
 - Azure Boards
-- Large Scale Agility
+- People and Process
 categories:
 - Social Technologies
 - Scrum

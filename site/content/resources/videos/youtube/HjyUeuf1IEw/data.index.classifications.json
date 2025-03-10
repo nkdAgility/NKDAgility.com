@@ -13,12 +13,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:07:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:28:40",
+    "ai_confidence": 78.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Agility and references a Professional Scrum Trainer, indicating a focus on Agile practices, but it is primarily an invitation for a Q&A session rather than a detailed discussion on the frameworks.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses various aspects of Agile methodologies, particularly Scrum and Kanban, including roles, events, and the concept of continuous forecasting. It provides a detailed account of training sessions, tools used for collaboration (like Microsoft Teams and Mural), and the importance of adapting plans dynamically during sprints. The focus on training and enhancing team dynamics aligns well with the core themes of Social Technologies, although some parts are more anecdotal and less focused on the frameworks themselves.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -103,12 +106,15 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T11:35:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses an Ask Me Anything session, which is an interactive event allowing attendees to engage with an expert on topics related to DevOps and Agility, making it a significant theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-10T12:28:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses a training program and mentions specific classes and schedules, indicating a focus on events. However, while it touches on the delivery of training sessions and the use of tools for virtual classes, it lacks detailed insights into the broader context of Agile and DevOps events or presentations. The discussion is somewhat informal and personal, which detracts from its alignment with the structured nature of formal events and presentations.",
+    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",

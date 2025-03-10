@@ -31,7 +31,6 @@ tags:
 - News and Reviews
 - People and Process
 - Practical Techniques and Tooling
-- Team Collaboration
 - Agile Frameworks
 - Agile Project Management
 - Agile Transformation

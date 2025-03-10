@@ -8,7 +8,7 @@ ResourceImportId: 9170
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-12-05
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,8 +24,7 @@ aliasesArchive:
 - /resources/blog/quality-centre-to-team-foundation-server-in-one-complex-step
 tags:
 - Products and Books
-categories:
-- Engineering Excellence
+categories: []
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 
 ---

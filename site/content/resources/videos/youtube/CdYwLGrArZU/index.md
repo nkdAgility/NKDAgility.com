@@ -32,6 +32,7 @@ tags:
 - People and Process
 - Agile Product Management
 - Product Owner
+- Professional Scrum
 - Agile Project Management
 - Personal
 - Pragmatic Thinking

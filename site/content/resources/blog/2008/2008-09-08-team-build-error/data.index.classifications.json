@@ -73,12 +73,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:13:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:13:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to build processes and tools, which are relevant to DevOps practices, but the primary focus is on troubleshooting specific errors rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a build error related to MS Build and Team Foundation Server (TFS), which are tools relevant to DevOps practices. However, the focus is primarily on troubleshooting a specific issue rather than on broader DevOps principles or practices. While there are mentions of build processes and tools, the discussion lacks depth in terms of DevOps concepts such as CI/CD, automation, or cultural shifts. Therefore, it aligns with the category but does not provide a comprehensive exploration of DevOps.",
+    "level": "Quaternary"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -685,11 +688,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T12:36:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:13:10",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses an error related to MS Build, which is part of the Windows development environment. It focuses on troubleshooting a specific issue encountered while building solutions related to Visual Studio, indicating a significant relevance to the Windows operating system and its associated software.",
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses an error encountered during a build process related to Microsoft Build (MSBuild) and Visual Studio, which are integral to the Windows development environment. It explicitly mentions Windows-related technologies, such as SQL Server and Team Foundation Server (TFS), and addresses troubleshooting steps for a specific error message. The depth of discussion includes detailed error messages and potential solutions, indicating a strong focus on Windows. However, while the content is relevant, it does not cover broader aspects of Windows installation, configuration, or security, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {

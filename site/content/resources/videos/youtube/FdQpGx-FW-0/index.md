@@ -33,11 +33,11 @@ sitemap:
 tags:
 - People and Process
 - Transparency
+- Business Agility
 - Agile Values and Principles
 - Agile Frameworks
 - Agile Leadership
 - Agile Project Management
-- Business Agility
 - Organisational Agility
 - Agile Philosophy
 - Agile Strategy

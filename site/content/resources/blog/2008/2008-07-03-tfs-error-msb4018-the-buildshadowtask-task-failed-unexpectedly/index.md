@@ -8,7 +8,7 @@ ResourceImportId: 219
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-07-03
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,13 +28,12 @@ aliasesArchive:
 - /resources/blog/tfs-error-msb4018-the-buildshadowtask-task-failed-unexpectedly
 tags:
 - Windows
-- Practical Techniques and Tooling
 - Software Development
 - Troubleshooting
 - Technical Mastery
+- Practical Techniques and Tooling
 preview: metro-visual-studio-2005-128-link-1-1.png
-categories:
-- Engineering Excellence
+categories: []
 
 ---
 There seams to be a problem in MSBuild when you add an “Accessor” as part of a Unit Test project.

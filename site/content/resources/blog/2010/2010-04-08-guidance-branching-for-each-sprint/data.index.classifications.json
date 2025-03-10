@@ -211,11 +211,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T01:09:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:05:59",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses branching strategies in version control within the context of Scrum, highlighting the importance of a good branching strategy for project success, which aligns with technical excellence principles.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses branching strategies in version control, which is a technical practice relevant to software development. It highlights the importance of a good branching strategy for project success, aligning with the principles of modular architecture and emergent design. However, the focus on Scrum and team dynamics detracts from a purely technical excellence discussion, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -733,12 +736,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:05:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses branching strategies in the context of Scrum development, which relates to best practices in software development processes. However, it is primarily focused on a specific operational technique rather than broadly addressing principles of engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses branching strategies in version control, which is a crucial aspect of software development practices. It highlights the importance of a good branching strategy for maintaining project integrity and facilitating collaboration among teams, aligning well with the principles of software craftsmanship. The depth of discussion includes specific examples and personal experiences, providing valuable insights into best practices. However, the primary focus is on branching rather than a broader discussion of engineering excellence, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

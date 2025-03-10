@@ -27,10 +27,9 @@ aliasesArchive:
 - /blog/managing-your-azure-vm's-with-your-phone
 - /resources/blog/managing-azure-vms-phone
 tags:
-- Products and Books
 - Practical Techniques and Tooling
-categories:
-- DevOps
+- Products and Books
+categories: []
 preview: nakedalm-windows-logo-7-7.png
 
 ---

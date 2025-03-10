@@ -30,6 +30,7 @@ tags:
 - Agile Product Management
 - Accountability
 - Agile Project Management
+- Product Delivery
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml

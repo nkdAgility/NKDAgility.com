@@ -30,10 +30,10 @@ sitemap:
 tags:
 - Azure DevOps
 - Practical Techniques and Tooling
+- Software Development
 - Install and Configuration
 - Troubleshooting
 - Pragmatic Thinking
-- Software Development
 - System Configuration
 - Technical Mastery
 resourceTypes:

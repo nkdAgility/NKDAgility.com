@@ -29,11 +29,9 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Sociotechnical Systems
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 What is Taylorism and how did it influence project management?

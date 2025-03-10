@@ -1183,12 +1183,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T16:42:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T11:59:45",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Scrum and its role in revealing organisational problems, which indirectly relates to DevOps principles such as continuous delivery and the need for cultural shifts. However, the primary focus is on Scrum rather than DevOps itself.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses Scrum and its role in revealing organisational problems, which indirectly relates to DevOps principles, particularly in the context of continuous delivery and the need for cultural shifts. However, the primary focus is on Scrum rather than DevOps itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1249,11 +1252,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-11T22:08:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T11:59:48",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the principles of Scrum and its role in revealing organisational problems that inhibit agility. It highlights the importance of leadership, continuous delivery, and the need for cultural shifts to enhance responsiveness and adaptability within organisations.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses Scrum as a framework that reveals organisational problems rather than solving them, which aligns with the principles of agility. It highlights the importance of feedback loops and continuous delivery, which are key aspects of organisational agility. However, while it touches on leadership and organisational rules, the depth of discussion on broader agility strategies and cultural shifts is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Personal": {

@@ -30,13 +30,13 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Business Agility
 - Evidence Based Leadership
 - Evidence Based Management
 - Agile Product Operating Model
 - Decision Making
 - Value Delivery
 - Agile Leadership
-- Business Agility
 - Change Management
 - Product Owner
 resourceTypes:

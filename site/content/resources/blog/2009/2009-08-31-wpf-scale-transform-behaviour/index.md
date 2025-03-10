@@ -24,10 +24,10 @@ aliasesArchive:
 - /resources/blog/wpf-scale-transform-behaviour
 tags:
 - Software Development
-- Technical Excellence
 - Technical Mastery
 - Practical Techniques and Tooling
 - Windows
+- Technical Excellence
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

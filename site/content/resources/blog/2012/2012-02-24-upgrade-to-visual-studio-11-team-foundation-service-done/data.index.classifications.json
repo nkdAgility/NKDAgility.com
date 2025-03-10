@@ -76,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T20:58:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:57:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the transition to Visual Studio 11 Team Foundation Service, including installation and configuration aspects such as source control bindings and work item management, making it a major theme.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Visual Studio 11 Team Foundation Service, detailing the transition to cloud solutions, source control setup, and work item tracking. It provides actionable insights and steps taken during the installation process, which aligns well with the category. However, while it discusses installation and configuration, it lacks a comprehensive step-by-step guide and detailed troubleshooting advice, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -121,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:57:39",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition to a cloud-based version of Team Foundation Server, which relates to source control and work item tracking, but it primarily focuses on the features and user experience rather than the broader principles and practices of DevOps.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the transition to cloud-based services and the use of Team Foundation Server (TFS), which relates to DevOps practices such as source control and automated builds. However, it lacks a comprehensive exploration of DevOps principles, cultural shifts, or metrics, making it more of a practical guide rather than a deep discussion on DevOps as a whole.",
     "level": "Tertiary"
   },
   "Miscellaneous": {

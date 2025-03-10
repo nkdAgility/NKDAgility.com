@@ -76,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T00:08:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:02:59",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the process of configuring TFS to start work item IDs at a predefined number, including code examples and API usage, which aligns with installation and configuration practices.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of work items in TFS 2010, detailing a specific requirement to set work item IDs at a predefined number. It discusses the use of the TFS API, provides code snippets for creating and deleting work items, and outlines the steps necessary to achieve the desired configuration. The depth of discussion includes practical examples and troubleshooting considerations, aligning well with the key topics of the category. However, while it is detailed, it does not cover broader installation procedures or system requirements, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {

@@ -27,9 +27,9 @@ aliasesArchive:
 - /blog/what-is-the-roll-of-the-project-manager-in-scrum-
 - /resources/blog/what-is-the-roll-of-the-project-manager-in-scrum
 tags:
-- People and Process
 - Agile Project Management
 - Scrum Product Development
+- People and Process
 - Professional Scrum
 - Scrum Team
 - Agile Frameworks

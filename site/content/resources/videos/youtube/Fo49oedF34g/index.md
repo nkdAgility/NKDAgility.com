@@ -32,7 +32,6 @@ tags:
 - Agile Project Management
 - Agile Transformation
 - Pragmatic Thinking
-- Product Delivery
 - Software Development
 - Team Collaboration
 sitemap:

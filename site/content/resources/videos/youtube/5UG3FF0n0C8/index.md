@@ -33,7 +33,6 @@ layout: video
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - DevOps
 
 ---

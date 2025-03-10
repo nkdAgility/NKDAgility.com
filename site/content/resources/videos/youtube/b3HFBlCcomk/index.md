@@ -29,6 +29,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Organisational Agility
 - Agile Product Operating Model
 - Agile Project Management
 - Agile Values and Principles
@@ -37,7 +38,6 @@ tags:
 - Agile Philosophy
 - Agile Strategy
 - Agile Transformation
-- Organisational Agility
 - Agile Product Management
 resourceTypes:
 - video

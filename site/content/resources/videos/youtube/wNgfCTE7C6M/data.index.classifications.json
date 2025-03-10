@@ -40,12 +40,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-18T08:18:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:17:00",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the PSU course's role in improving product development decisions, which relates to product management, but primarily focuses on Scrum and Agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the hypothesis-driven approach to product development, emphasising the importance of aligning product features with customer needs and business value. It highlights the role of collaboration between design and engineering teams, which is crucial for effective product management. The discussion includes methods for validating hypotheses and integrating feedback into the product development process, aligning well with key topics in product management. The depth of the discussion is significant, covering both strategic and practical aspects of product management, thus justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
@@ -583,11 +586,14 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-18T10:22:06",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "While the content mentions agile and Scrum training, it primarily focuses on the PSU course for product development rather than discussing organisational change as a central theme.",
+    "calculated_at": "2025-03-10T12:17:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses a hypothesis-driven approach to product development and the importance of collaboration between design and engineering teams. While it touches on aspects of organisational change, such as team dynamics and continuous delivery, it primarily focuses on product development practices rather than the broader strategies and methodologies of organisational change. The mention of integrating teams and improving decision-making processes aligns somewhat with the category, but the depth of discussion remains more centred on operational practices rather than transformative organisational strategies.",
     "level": "Quaternary"
   },
   "Scaled Agile": {

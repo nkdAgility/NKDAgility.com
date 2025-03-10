@@ -34,7 +34,7 @@ tags:
 - Azure DevOps
 - Collaboration Tools
 - Miscellaneous
-- Pragmatic Thinking
+- Sociotechnical Systems
 
 ---
 Remote access for Team Server is about disparate teams. This means that you can use those cheep contractors in eastern Europe without needing to give them a small project because of the difficulties in integrating their work.

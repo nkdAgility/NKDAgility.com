@@ -40,9 +40,9 @@ tags:
 resourceTypes:
 - video
 categories:
+- Leadership
 - Social Technologies
 - Product Management
-- Leadership
 
 ---
 **One thing a client can do to ensure a successful Agile consulting engagement**

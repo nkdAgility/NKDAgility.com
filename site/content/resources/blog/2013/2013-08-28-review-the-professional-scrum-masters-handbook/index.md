@@ -28,6 +28,13 @@ aliasesArchive:
 - /resources/blog/review-the-professional-scrum-masters-handbook
 tags:
 - Products and Books
+- Agile Project Management
+- Scrum Master
+- News and Reviews
+- Software Development
+- Agile Frameworks
+- Pragmatic Thinking
+- People and Process
 categories:
 - Scrum
 - Social Technologies

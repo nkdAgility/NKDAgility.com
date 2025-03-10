@@ -29,6 +29,7 @@ tags:
 - People and Process
 - Products and Books
 - Agile Project Management
+- Agile Frameworks
 sitemap:
   filename: sitemap.xml
   priority: 0.6

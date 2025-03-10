@@ -35,7 +35,6 @@ resourceTypes:
 - video
 layout: video
 categories:
-- Engineering Excellence
 - Social Technologies
 
 ---

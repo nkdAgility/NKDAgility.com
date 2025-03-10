@@ -35,8 +35,8 @@ tags:
 - Agile Project Management
 - People and Process
 - Agile Frameworks
-- Value Delivery
 - Product Delivery
+- Value Delivery
 - Agile Product Management
 - Agile Leadership
 - Scrum Product Development

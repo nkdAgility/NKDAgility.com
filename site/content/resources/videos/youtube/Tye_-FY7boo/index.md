@@ -30,10 +30,10 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Product Management
+- Value Delivery
 - People and Process
 - Product Owner
 - Product Validation
-- Value Delivery
 - Agile Product Operating Model
 - Product Discovery
 - Product Strategy
@@ -43,6 +43,7 @@ resourceTypes:
 - video
 categories:
 - Product Management
+- Social Technologies
 - Scrum
 
 ---

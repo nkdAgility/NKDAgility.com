@@ -29,7 +29,6 @@ aliasesArchive:
 tags:
 - Windows
 - Software Development
-- Events and Presentations
 - News and Reviews
 - Practical Techniques and Tooling
 - Products and Books

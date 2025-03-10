@@ -26,6 +26,7 @@ duration: 50
 isShort: true
 tags:
 - Transparency
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

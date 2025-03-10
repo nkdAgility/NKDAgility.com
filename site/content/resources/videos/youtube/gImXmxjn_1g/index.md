@@ -29,6 +29,7 @@ duration: 376
 isShort: false
 tags:
 - Pragmatic Thinking
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

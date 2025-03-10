@@ -27,8 +27,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Backlog
 - Scrum Product Development
+- Product Backlog
 resourceTypes:
 - video
 layout: video

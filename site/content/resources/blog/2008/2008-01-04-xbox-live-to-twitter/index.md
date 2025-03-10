@@ -24,6 +24,8 @@ aliasesArchive:
 - /resources/blog/xbox-live-to-twitter
 tags:
 - Troubleshooting
+- Software Development
+- Technical Mastery
 categories: []
 preview: metro-xbox-360-link-1-1.png
 

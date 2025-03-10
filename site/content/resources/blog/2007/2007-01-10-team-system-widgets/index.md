@@ -23,8 +23,8 @@ aliasesArchive:
 - /team-system-widgets
 - /resources/blog/team-system-widgets
 tags:
-- Products and Books
 - Practical Techniques and Tooling
+- Products and Books
 - Application Lifecycle Management
 - Miscellaneous
 - Software Development

@@ -30,9 +30,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Agile Leadership
 - Metrics and Learning
-- People and Process
 - Decision Making
 - Evidence Based Leadership
 - Organisational Agility

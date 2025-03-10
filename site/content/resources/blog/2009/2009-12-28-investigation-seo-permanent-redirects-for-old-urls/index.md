@@ -28,13 +28,13 @@ aliasesArchive:
 - /resources/blog/investigation-seo-permanent-redirects-for-old-urls
 tags:
 - Windows
-- Install and Configuration
 - System Configuration
 - Software Development
 - Technical Mastery
 - Troubleshooting
 - Practical Techniques and Tooling
 - Pragmatic Thinking
+- Install and Configuration
 categories: []
 preview: metro-sharepoint-128-link-4-4.png
 

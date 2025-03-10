@@ -211,12 +211,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T02:10:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:08:18",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of drag and drop functionality within the MVVM pattern, focusing on technical practices and methodologies that enhance code quality and maintainability.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content primarily focuses on implementing drag and drop functionality within the MVVM pattern in WPF, which relates to technical practices in software development. It discusses encapsulation of logic, customisation of behaviour, and the importance of adhering to design principles, which aligns with the core themes of technical excellence. However, while it touches on relevant technical practices, it lacks a broader discussion on methodologies like TDD or CI/CD, which limits its depth and overall alignment with the category.",
+    "level": "Tertiary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",

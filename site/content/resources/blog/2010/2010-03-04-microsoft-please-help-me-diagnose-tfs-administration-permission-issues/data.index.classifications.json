@@ -1102,11 +1102,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T02:22:48",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-10T13:06:53",
+    "ai_confidence": 78.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses a specific issue related to TFS (Team Foundation Server) which is used on Windows environments, and addresses permissions problems that pertain to the administration of TFS and user privileges, which are relevant to Windows' user account management and configuration. However, it primarily focuses on TFS administration rather than Windows itself.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses a specific issue related to permissions in TFS (Team Foundation Server), which operates within the Windows environment. It explicitly mentions the need for administrative privileges and the use of the TfsConfig tool, both of which are relevant to Windows system management. The discussion aligns well with troubleshooting common issues and user account management, key topics in the Windows category. The depth of the discussion is substantial, as it details the steps taken to diagnose the problem and the eventual resolution. However, it does not cover broader aspects of Windows installation or configuration, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Deployment Strategies": {

@@ -25,7 +25,6 @@ aliasesArchive:
 tags:
 - News and Reviews
 - Software Development
-- Technical Mastery
 categories: []
 preview: metro-visual-studio-2010-128-link-1-1.png
 

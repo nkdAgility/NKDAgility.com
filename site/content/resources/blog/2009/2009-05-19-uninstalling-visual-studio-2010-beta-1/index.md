@@ -23,9 +23,9 @@ aliasesArchive:
 - /uninstalling-visual-studio-2010-beta-1
 - /resources/blog/uninstalling-visual-studio-2010-beta-1
 tags:
-- Miscellaneous
 - Troubleshooting
 - Windows
+- Miscellaneous
 categories: []
 preview: metro-visual-studio-2010-128-link-1-1.png
 

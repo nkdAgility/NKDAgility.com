@@ -8,7 +8,7 @@ ResourceImportId: 10923
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-12-04
-weight: 770
+weight: 670
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,18 +27,19 @@ aliasesArchive:
 - /blog/create-a-standard-environment-for-release-management-in-azure
 - /resources/blog/create-standard-environment-release-management-azure
 tags:
+- Install and Configuration
 - Practical Techniques and Tooling
 - Application Lifecycle Management
 - Release Management
 - Azure DevOps
 - Deployment Strategies
 - Events and Presentations
-- Install and Configuration
 - Technical Excellence
 - Technical Mastery
 - Operational Practices
 categories:
 - DevOps
+- Engineering Excellence
 preview: nakedalm-windows-logo-16-16.png
 
 ---

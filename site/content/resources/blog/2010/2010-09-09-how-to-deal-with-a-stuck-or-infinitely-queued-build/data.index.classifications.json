@@ -31,12 +31,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T00:18:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:03:26",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses troubleshooting and optimising build processes in Team Foundation Build, which relates to Continuous Integration practices and ensuring code quality through effective build management.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses issues related to build processes in Team Foundation Build, which touches on Continuous Integration practices. However, it primarily focuses on troubleshooting specific problems rather than broader engineering methodologies or principles that enhance technical excellence. While it provides some depth in addressing stuck builds and offers practical solutions, it lacks a comprehensive exploration of the underlying technical practices that would align more closely with the category's core themes.",
+    "level": "Tertiary"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
@@ -736,12 +739,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-16T00:48:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:03:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses troubleshooting and debugging issues with builds in Team Foundation Build, which relates to best practices in software engineering processes and improving build reliability. It emphasizes the importance of timely builds and addresses engineering practices in maintaining quality deliverables.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses issues related to build processes in software development, specifically focusing on troubleshooting stuck builds in Team Foundation Build. It mentions the importance of timely build completions and provides practical steps for debugging and resolving build issues. While it touches on aspects of engineering excellence, such as the need for efficient build processes and the role of automation in development, it lacks a broader discussion on best practices, coding standards, or quality assurance principles. Therefore, while it aligns with the category, it does not delve deeply into the core themes of engineering excellence.",
+    "level": "Tertiary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

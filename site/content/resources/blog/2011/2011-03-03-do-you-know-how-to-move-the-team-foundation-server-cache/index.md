@@ -23,8 +23,8 @@ aliasesArchive:
 - /do-you-know-how-to-move-the-team-foundation-server-cache
 - /resources/blog/do-you-know-how-to-move-the-team-foundation-server-cache
 tags:
-- Windows
 - Install and Configuration
+- Windows
 - Software Development
 - System Configuration
 - Technical Mastery

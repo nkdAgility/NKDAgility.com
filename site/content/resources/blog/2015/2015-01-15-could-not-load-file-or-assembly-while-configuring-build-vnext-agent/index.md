@@ -23,8 +23,8 @@ aliasesArchive:
 - /could-not-load-file-or-assembly-while-configuring-build-vnext-agent
 - /resources/blog/could-not-load-file-or-assembly-while-configuring-build-vnext-agent
 tags:
-- Windows
 - Install and Configuration
+- Windows
 - Azure DevOps
 - Azure Pipelines
 - Software Development

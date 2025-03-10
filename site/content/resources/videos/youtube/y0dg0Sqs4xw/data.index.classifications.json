@@ -37,11 +37,14 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-11T22:35:19",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T12:21:01",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses common mistakes made by agile consultants in relation to Scrum practices, emphasising the importance of understanding Scrum principles and the unique context of each team. While it is primarily focused on agile consulting, Scrum is a significant theme throughout the discussion.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses Scrum in the context of common mistakes made by agile consultants, highlighting the importance of understanding underlying principles rather than merely following rules. While it mentions Scrum and touches on its purpose, the focus is more on the pitfalls of implementation rather than an in-depth exploration of Scrum roles, events, or artifacts. This results in a moderate confidence score, as it aligns with the category but lacks comprehensive detail.",
     "level": "Secondary"
   },
   "Organisational Physics": {
@@ -346,12 +349,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:20:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the application of Scrum and Agile methodologies, which are related to software development practices. However, the primary focus is on the mistakes made by agile consultants rather than on engineering excellence principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses agile practices and the importance of understanding underlying principles rather than merely following rules. However, it primarily focuses on agile consultancy and team dynamics rather than specific engineering excellence practices such as coding standards, CI/CD, or quality assurance. While there are mentions of agility and decision-making, the content does not delve deeply into engineering processes or craftsmanship, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Throughput": {
     "category": "Throughput",

@@ -37,10 +37,10 @@ tags:
 - Modern Source Control
 - Practical Techniques and Tooling
 - Products and Books
-- Software Developers
 - Software Development
 - Collaboration Tools
 - Miscellaneous
+- Personal
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

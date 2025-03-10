@@ -76,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T22:45:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:01:06",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the development and configuration of a Test Track Pro Adapter for the TFS Integration Platform, including code snippets and configuration details, which aligns with installation and configuration processes.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed account of creating a working adapter for the TFS Integration Platform, which includes specific code snippets and configuration details. It discusses the process of setting up the adapter, troubleshooting issues, and updating configurations, aligning well with the key topics of installation and configuration. The depth of discussion is significant, covering various aspects of the implementation process, including error handling and service registration, which are crucial for effective configuration. However, while the content is primarily focused on technical implementation, it does not explicitly outline step-by-step installation procedures, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -121,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:01:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the development of a TFS Integration Platform Adapter, which relates to the integration of tools and processes in a DevOps context, but it primarily focuses on technical implementation details rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the development of a specific adapter for the TFS Integration Platform, detailing technical aspects and debugging processes. While it touches on aspects of integration and change management, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. The mention of TFS (Team Foundation Server) and migration processes hints at DevOps-related activities, but the content does not explicitly address key DevOps topics such as CI/CD, automation, or collaboration between development and operations teams.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

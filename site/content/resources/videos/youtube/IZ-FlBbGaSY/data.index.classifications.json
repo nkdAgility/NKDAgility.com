@@ -1312,11 +1312,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-12T05:57:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T11:36:17",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses continuous integration and continuous delivery (CI/CD) practices, which are integral to the application lifecycle management process. It covers aspects of development, deployment, and the importance of maintaining a mainline branching model, aligning well with the principles of managing the software application lifecycle.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses Continuous Integration (CI) and Continuous Delivery (CD), which are integral components of Application Lifecycle Management. It explicitly mentions the importance of mainline branching and the continuous integration process, aligning well with the stages of the application lifecycle. The depth of discussion is significant, providing detailed insights into CI/CD practices and their implications for software quality and risk management. However, while it touches on ALM principles, it does not comprehensively cover all aspects of the application lifecycle, such as governance or retirement, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Value Stream Management": {
@@ -1384,11 +1387,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T13:48:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T11:36:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous integration and delivery (CI/CD) practices, which are related to Agile methodologies and can enhance collaboration and efficiency within teams. However, the primary focus is on technical implementation rather than the broader social technologies framework.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses continuous integration and continuous delivery (CI/CD) practices, which are relevant to Agile methodologies. However, it primarily focuses on technical aspects of CI/CD rather than the broader frameworks of Scrum, Kanban, or Lean. While it touches on concepts of collaboration and efficiency, it lacks a comprehensive exploration of team dynamics or the principles of Agile practices, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Internal Developer Platform": {

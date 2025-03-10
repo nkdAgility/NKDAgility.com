@@ -1186,12 +1186,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T14:35:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T11:49:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Agile practices and their relationship to risk management, with a specific example from the Azure DevOps team. While it touches on aspects relevant to DevOps, such as continuous delivery and the importance of usable working products, the primary focus is on Agile methodologies rather than DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 34.0,
+    "reasoning": "The content primarily discusses Agile practices, specifically focusing on the concept of special Sprints and their implications for risk management. While it briefly touches on the Azure DevOps team's experience, the main emphasis is on Agile methodologies rather than DevOps principles. The discussion lacks a direct focus on DevOps practices such as Continuous Integration or Continuous Delivery, automation, or the cultural shifts necessary for DevOps implementation. Therefore, while there are some relevant elements, the overall content does not align closely with the core themes of the DevOps category.",
+    "level": "Quaternary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1231,11 +1234,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-12T02:46:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T11:49:39",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of delivering usable working products in Agile practices and how special Sprints can hinder value delivery. It highlights risk management through continuous delivery and the need for alignment with customer needs, making it a central theme.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of delivering usable working products in Agile practices, which directly relates to value delivery. It critiques the concept of special Sprints and emphasises the need for continuous delivery to manage risk effectively. The discussion aligns well with the principles of iterative development and the role of cross-functional teams in delivering value. However, while it provides a detailed narrative, it lacks structured methodologies or specific techniques for measuring customer value, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Technical Excellence": {

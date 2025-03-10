@@ -23,7 +23,6 @@ aliasesArchive:
 - /how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
 - /resources/blog/how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
 tags:
-- Platform Engineering
 - Software Development
 - Azure DevOps
 - Operational Practices
@@ -34,8 +33,8 @@ tags:
 - System Configuration
 preview: metro-visual-studio-2010-128-link-4-4.png
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 
 ---
 [![Turk-Automaton](images/Turk-Automaton_thumb-5-5.gif "Turk-Automaton")](http://blog.hinshelwood.com/files/2011/06/Turk-Automaton.gif)

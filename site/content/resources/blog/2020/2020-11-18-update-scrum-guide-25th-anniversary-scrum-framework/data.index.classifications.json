@@ -1342,11 +1342,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-13T22:27:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:27:04",
+    "ai_confidence": 78.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the updates to the Scrum Guide, which is a significant resource in Agile methodologies. It provides insights into the changes made in the guide and encourages readers to obtain a copy, aligning well with the category's focus on literature relevant to Agile practices.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses the updates to the Scrum Guide, which is a significant product in the Agile methodology space. It directly references the Scrum Guide and provides detailed insights into its revisions, aligning well with the category's focus on literature and tools relevant to Agile practices. The depth of discussion is substantial, as it highlights specific changes and their implications for Scrum teams. However, while it is focused on a product, it lacks broader discussions or comparisons with other resources, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "News and Reviews": {
@@ -1369,12 +1372,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:05:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:27:01",
+    "ai_confidence": 92.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 95.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the updates to the Scrum Guide, focusing on Scrum roles, events, and principles, which are central to the category of Social Technologies.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content primarily focuses on the Scrum framework, detailing its roles, events, and artefacts, which are central to the category of Social Technologies. It discusses the self-managing nature of Scrum Teams, accountability, and the importance of the Product and Sprint Goals, all of which align closely with the core themes of value delivery, collaboration, and continuous improvement. The depth of discussion is significant, providing specific examples and links to the updated Scrum Guide, indicating a thorough engagement with the topic.",
+    "level": "Primary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

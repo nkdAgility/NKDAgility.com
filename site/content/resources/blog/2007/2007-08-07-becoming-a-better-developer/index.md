@@ -8,7 +8,7 @@ ResourceImportId: 339
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-08-07
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,10 +27,9 @@ aliasesArchive:
 - /becoming-a-better-developer
 - /resources/blog/becoming-a-better-developer
 tags:
-- Miscellaneous
 - Personal
-categories:
-- Engineering Excellence
+- Miscellaneous
+categories: []
 preview: metro-merilllynch-128-link-1-1.png
 
 ---

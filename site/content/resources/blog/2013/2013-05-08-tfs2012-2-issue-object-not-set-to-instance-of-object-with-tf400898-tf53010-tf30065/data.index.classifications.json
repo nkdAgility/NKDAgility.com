@@ -76,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T18:51:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:48:33",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses troubleshooting and solutions related to installation and configuration issues in Team Foundation Server 2012.2, including known bugs and recommended updates, which aligns well with the category.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily discusses troubleshooting specific errors encountered during the installation and configuration of Team Foundation Server 2012.2, including known bugs and recommended updates. It provides actionable insights on resolving issues, which aligns well with the category's focus on installation and configuration processes. The depth of discussion includes specific error codes, potential causes, and solutions, indicating a strong alignment with the key topics outlined in the category definition.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -202,12 +205,15 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:48:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses issues related to Team Foundation Server (TFS) and mentions Kanban in the context of work item tracking and board settings, but the primary focus is on error handling and bug fixes rather than Kanban principles or practices.",
-    "level": "Tertiary"
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses errors and issues related to Team Foundation Server (TFS) and does not focus on Kanban principles or practices. While there is a brief mention of Kanban in the context of a technical error, it lacks substantial discussion on Kanban methodologies, visualisation of work, or continuous improvement practices. The content is more aligned with troubleshooting and technical support rather than Kanban discussions.",
+    "level": "Quinary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",

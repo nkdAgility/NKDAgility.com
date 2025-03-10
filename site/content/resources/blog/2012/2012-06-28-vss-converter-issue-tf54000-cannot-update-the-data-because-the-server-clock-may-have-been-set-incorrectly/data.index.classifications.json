@@ -1099,11 +1099,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:56:12",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an issue related to Visual Studio and Team Foundation Server, which are part of the Windows ecosystem, but the primary focus is on a specific error during data migration rather than general Windows operating system topics.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific error (TF54000) related to Visual Studio Team Foundation Server (TFS) and its interaction with time synchronisation, which is relevant to Windows environments. However, it does not explicitly focus on Windows as an operating system, nor does it cover broader topics such as installation, configuration, or troubleshooting of Windows itself. The mention of Active Directory suggests a Windows context, but the primary focus is on TFS and VSS Converter, which limits the depth of discussion regarding Windows. Therefore, while there is some relevance, it does not fully align with the core themes of the Windows category.",
     "level": "Tertiary"
   },
   "Deployment Strategies": {

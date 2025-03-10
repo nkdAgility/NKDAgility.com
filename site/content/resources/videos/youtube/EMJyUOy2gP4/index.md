@@ -29,10 +29,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Metrics and Learning
 - People and Process
 - Agile Product Management
 - Product Delivery
-- Metrics and Learning
 - Scrum Master
 - Scrum Product Development
 - Scrum Team

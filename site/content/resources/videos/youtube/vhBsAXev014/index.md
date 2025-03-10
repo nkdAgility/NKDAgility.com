@@ -33,7 +33,6 @@ sitemap:
 tags:
 - Agile Strategy
 - People and Process
-- Agile Product Management
 - Agile Project Management
 - Agile Product Operating Model
 - Agile Transformation
@@ -41,12 +40,13 @@ tags:
 - Digital Transformation
 - Organisational Change
 - Organisational Culture
+- Product Owner
 resourceTypes:
 - video
 categories:
 - Product Management
-- Leadership
 - Social Technologies
+- Leadership
 
 ---
 # Steering Through the Agile Apocalypse: Navigating Chaos 🌪️

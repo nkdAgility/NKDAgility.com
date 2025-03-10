@@ -31,11 +31,14 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T18:37:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:01:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the importance of product management and the role of the product owner in Agile teams, aligning well with the strategic aspects of product management.",
+    "final_score": 67.0,
+    "reasoning": "The content explicitly mentions product management and discusses the importance of good product management in organisations. However, it lacks detailed exploration of methodologies, frameworks, or specific techniques related to product management, which limits its depth. The focus on teaching a product owner class indicates a connection to Agile practices, but the overall discussion remains somewhat superficial and does not fully engage with the core themes of the category.",
     "level": "Secondary"
   },
   "Leadership": {
@@ -124,12 +127,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T18:37:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:01:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the product owner within Agile teams, which is a significant aspect of Agile frameworks, particularly Scrum. However, it does not delve deeply into Agile principles or compare frameworks, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions the role of the product owner, which is a key aspect of Agile frameworks like Scrum. However, it lacks a comprehensive discussion on Agile principles, frameworks, or their comparative analysis. The focus is primarily on product management rather than a thorough exploration of Agile frameworks, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

@@ -24,6 +24,7 @@ aliasesArchive:
 - /resources/blog/configuring-a-powershell-adapter-for-the-tfs-integration-platform
 tags:
 - System Configuration
+- Install and Configuration
 categories:
 - DevOps
 

@@ -31,9 +31,9 @@ tags:
 - Agile Product Operating Model
 - Decision Making
 - Evidence Based Leadership
-- Evidence Based Management
 - Metrics and Learning
 - Product Delivery
+- Scrum Product Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

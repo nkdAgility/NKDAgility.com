@@ -121,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:09:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses features related to automated deployment and management of environments, which are relevant to DevOps practices, but the primary focus is on Visual Studio Team System and its components.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the features and components of Visual Studio Team System 2010, with some mention of automated deployment and lab management, which are tangentially related to DevOps. However, it lacks a focused discussion on core DevOps principles, practices, or cultural shifts, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -265,11 +268,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-16T02:46:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:09:23",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the features and availability of Visual Studio Team System 2010, which is a software product relevant to Agile and DevOps practices.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the release of Visual Studio Team System 2010 Beta 1, detailing its features and improvements, which aligns well with the category of Products and Books. It explicitly mentions the product and provides a comprehensive overview of its functionalities, which supports Agile and DevOps practices. However, while it offers a good level of detail, it lacks a deeper analysis or review of how these features specifically enhance Agile methodologies or DevOps integration, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Value Delivery": {

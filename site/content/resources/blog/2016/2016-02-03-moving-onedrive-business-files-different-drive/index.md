@@ -29,8 +29,8 @@ aliasesArchive:
 tags:
 - Windows
 - Install and Configuration
-- System Configuration
 - Troubleshooting
+- System Configuration
 categories: []
 preview: clip_image001-1-1-1.png
 

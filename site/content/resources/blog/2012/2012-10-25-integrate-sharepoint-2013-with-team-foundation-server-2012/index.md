@@ -26,7 +26,6 @@ tags:
 - Install and Configuration
 categories:
 - Scrum
-- Social Technologies
 preview: metro-sharepoint-128-link-25-25.png
 
 ---

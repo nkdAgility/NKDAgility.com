@@ -8,7 +8,7 @@ ResourceImportId: 9229
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-01-31
-weight: 710
+weight: 720
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -39,8 +39,8 @@ tags:
 - Software Development
 - Technical Mastery
 - Practical Techniques and Tooling
-- Platform Engineering
 - Product Delivery
+- Pragmatic Thinking
 categories:
 - Engineering Excellence
 - DevOps

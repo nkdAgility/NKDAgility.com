@@ -27,10 +27,10 @@ aliasesArchive:
 - /blog/move-an-azure-storage-blob-to-another-store
 - /resources/blog/move-azure-storage-blob-another-store
 tags:
-- Install and Configuration
 - Software Development
 - System Configuration
 - Technical Mastery
+- Install and Configuration
 - Practical Techniques and Tooling
 categories: []
 preview: nakedalm-windows-logo-4-4.png

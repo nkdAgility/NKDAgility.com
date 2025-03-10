@@ -8,7 +8,7 @@ ResourceImportId: 27
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-09-09
-weight: 640
+weight: 700
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,7 +26,6 @@ tags:
 - Troubleshooting
 preview: metro-SSWLogo-128-link-11-11.png
 categories:
-- Engineering Excellence
 - DevOps
 
 ---

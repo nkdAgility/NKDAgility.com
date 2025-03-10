@@ -8,7 +8,7 @@ ResourceImportId: 4049
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-11-19
-weight: 550
+weight: 630
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -35,8 +35,8 @@ tags:
 - Scrum Team
 - Software Development
 - Agile Planning
-- Events and Presentations
 - News and Reviews
+- Product Delivery
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-3-3.png

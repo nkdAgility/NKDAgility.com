@@ -31,9 +31,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Metrics and Learning
 - Agile Product Management
 - Pragmatic Thinking
+- Metrics and Learning
 - Value Delivery
 - Personal
 - Product Owner

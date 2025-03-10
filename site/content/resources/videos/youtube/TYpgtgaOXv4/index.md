@@ -31,10 +31,10 @@ sitemap:
 tags:
 - Transparency
 - Agile Project Management
-- Product Backlog
 - Agile Planning Tools
 - Agile Product Management
 - Product Owner
+- Product Backlog
 - Software Development
 - Product Delivery
 - Value Delivery

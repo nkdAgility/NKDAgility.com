@@ -32,6 +32,7 @@ sitemap:
 tags:
 - Flow Efficiency
 - Lean
+- Value Delivery
 - Agile Product Management
 - People and Process
 - Product Delivery
@@ -39,7 +40,6 @@ tags:
 - Throughput
 - Cycle Time
 - Lean Product Development
-- Lean Thinking
 resourceTypes:
 - video
 categories:

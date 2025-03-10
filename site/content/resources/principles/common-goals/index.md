@@ -30,10 +30,10 @@ tags:
 - Strategic Goals
 - Professional Scrum
 - Strategy
-- Agile Project Management
 - People and Process
 - Agile Planning
 - Agile Product Management
+- Agile Project Management
 - Product Owner
 
 ---

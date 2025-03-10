@@ -76,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T20:05:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:55:12",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the upgrade process from TFS 2008 to TFS 2010, including installation and configuration aspects, making it a major theme.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on the upgrade process from TFS 2008 to TFS 2010, discussing both the physical upgrade and the necessary configuration steps. It provides specific guidance on the upgrade process, including recommendations against in-place upgrades and insights into migrating process templates. However, while it does touch on installation and configuration, the depth of technical detail varies, and some sections are more anecdotal than instructional, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -121,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:05",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-10T12:55:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS) rather than focusing on DevOps principles, practices, or cultural shifts. While it touches on aspects of software delivery, it does not align closely with the core themes of DevOps.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server (TFS) from one version to another, which is more aligned with software version management than with the broader principles of DevOps. While it touches on aspects of configuration and process templates, it lacks a comprehensive discussion on DevOps practices such as CI/CD, automation, or cultural shifts. The mention of upgrading processes is relevant but does not delve into the collaborative and operational efficiencies that define DevOps.",
     "level": "Quaternary"
   },
   "Miscellaneous": {

@@ -19,11 +19,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T08:56:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:36:57",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content delves deeply into Application Lifecycle Management (ALM) tools, comparing Visual Studio ALM with alternatives like Git and Jenkins. It covers several key areas relevant to software craftsmanship such as requirements management, project management, quality management, and integration of tools, highlighting their importance in achieving technical excellence. While it does touch on some project management aspects, the focus remains primarily on the technical tools and best practices in software delivery.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of Application Lifecycle Management (ALM) tools, particularly Visual Studio ALM, and compares it with other tools like Git and Jenkins. It touches on various aspects of software development, such as requirements management, project management, and quality management, which are relevant to technical mastery. However, the primary focus is on tool comparison and organisational decision-making rather than deep technical principles or practices. While it does mention some key areas of software craftsmanship, the depth of discussion on best practices and methodologies is limited.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -898,12 +901,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:36:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses various aspects of Application Lifecycle Management (ALM) that relate to product management but focuses heavily on tools and technical implementations, which may detract from a primary focus on strategic product management practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses Application Lifecycle Management (ALM) tools and their functionalities, which are relevant to product management. However, it primarily focuses on technical comparisons and implementation details rather than strategic alignment of customer needs and business objectives. While it touches on aspects like requirements management and project management, it lacks a deep exploration of methodologies or frameworks that guide product managers in making informed decisions. Therefore, the confidence score reflects a moderate alignment with the category.",
+    "level": "Quaternary"
   },
   "Self Organisation": {
     "category": "Self Organisation",

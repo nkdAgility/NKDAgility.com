@@ -30,10 +30,10 @@ sitemap:
 tags:
 - People and Process
 - Agile Project Management
-- Agile Transformation
 resourceTypes:
 - video
 categories:
+- Leadership
 - Social Technologies
 
 ---

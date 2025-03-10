@@ -121,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:06:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses project management strategies within Team Foundation Server (TFS), which relates to DevOps practices, but it primarily focuses on project organisation rather than core DevOps principles like CI/CD or automation.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses project management within Team Foundation Server (TFS) and touches on aspects of process templates and project organisation, which are relevant to DevOps practices. However, it primarily focuses on TFS configurations and does not delve deeply into core DevOps principles such as CI/CD, automation, or cultural shifts. The mention of Agile methodologies and project management practices indicates some alignment, but the overall focus is more on TFS usage rather than a comprehensive discussion of DevOps.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -283,11 +286,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-16T01:28:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:06:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the use of Team Foundation Server (TFS), which is part of the Azure DevOps suite, focusing on project management strategies and best practices related to Areas and Team Projects.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the use of Team Foundation Server (TFS), which is a component of Azure DevOps, focusing on project management strategies and configurations. It provides detailed insights into using Areas and Iterations within TFS, aligning with Azure DevOps functionalities. However, it lacks explicit references to broader Azure DevOps services and methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Personal": {

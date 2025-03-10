@@ -25,11 +25,11 @@ aliasesArchive:
 tags:
 - Application Lifecycle Management
 - Software Development
-- Azure DevOps
 - Decision Making
 - Pragmatic Thinking
 - Technical Mastery
 - Practical Techniques and Tooling
+- Azure DevOps
 categories:
 - Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-2-2.png

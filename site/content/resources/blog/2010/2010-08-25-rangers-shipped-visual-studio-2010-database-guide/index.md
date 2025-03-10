@@ -24,15 +24,15 @@ aliasesArchive:
 - /resources/blog/rangers-shipped-visual-studio-2010-database-guide
 tags:
 - Practical Techniques and Tooling
-- Install and Configuration
 - Modern Source Control
 - Application Lifecycle Management
 - Products and Books
 - Technical Mastery
+- Install and Configuration
 - Software Development
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---

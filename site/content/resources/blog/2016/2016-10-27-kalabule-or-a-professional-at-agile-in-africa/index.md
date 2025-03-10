@@ -8,7 +8,7 @@ ResourceImportId: 11642
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2016-10-27
-weight: 545
+weight: 445
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,14 +25,15 @@ aliasesArchive:
 tags:
 - Agile Values and Principles
 - Scrum Values
-- Agile Philosophy
 - Events and Presentations
 - People and Process
 - Software Developers
 - Software Development
+- Agile Philosophy
 - Organisational Culture
 categories:
 - Social Technologies
+- Engineering Excellence
 - Scrum
 preview: clip_image001-2-2.png
 

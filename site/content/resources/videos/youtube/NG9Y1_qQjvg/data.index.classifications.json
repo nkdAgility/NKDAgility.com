@@ -832,12 +832,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-18T12:23:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:42:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content briefly discusses the installation and configuration of a specific software product, which is related to tools used in Agile practices, but does not delve into reviews or analyses of literature.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of release management tools, which is more of a procedural guide than a discussion or review of products or literature. While it does mention specific tools, it lacks a broader analysis or review of their effectiveness in relation to Agile or DevOps principles. The discussion is technical and practical, but does not delve into how these tools enhance understanding or implementation of Agile methodologies, which is a key aspect of the 'Products and Books' category.",
+    "level": "Quaternary"
   },
   "News and Reviews": {
     "category": "News and Reviews",

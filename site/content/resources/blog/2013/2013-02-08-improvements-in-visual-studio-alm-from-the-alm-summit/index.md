@@ -8,7 +8,7 @@ ResourceImportId: 9239
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-02-08
-weight: 770
+weight: 695
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,7 +25,6 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 - Application Lifecycle Management
-- Events and Presentations
 - Modern Source Control
 - News and Reviews
 - Software Development
@@ -33,8 +32,10 @@ tags:
 - Operational Practices
 - Technical Excellence
 - Working Software
+- Events and Presentations
 categories:
 - Kanban
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

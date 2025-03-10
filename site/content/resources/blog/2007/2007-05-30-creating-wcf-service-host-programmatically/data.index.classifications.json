@@ -55,11 +55,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T22:12:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:24:16",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content provides detailed instructions on creating a WCF Service Host programmatically, including setting up base addresses, service behaviors, and endpoints, which aligns with installation and configuration processes.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed guide on creating a WCF Service Host programmatically, which directly relates to the installation and configuration of a specific software component. It includes step-by-step instructions, code snippets, and configuration settings, demonstrating a clear focus on the technical aspects of setting up the service. The discussion aligns well with the key topics of the category, such as configuration best practices and troubleshooting common issues. The depth of the discussion is substantial, covering various aspects of the setup process, including security considerations and endpoint configuration.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -1234,12 +1237,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:24:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content provides technical details on creating a WCF Service Host programmatically, which involves principles of software development and coding practices, but does not delve deeply into engineering excellence topics like best practices or quality assurance.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical implementation of a WCF service, which does not explicitly discuss engineering excellence or best practices in software craftsmanship. While it touches on aspects of coding standards and technical implementation, it lacks a broader discussion on continuous improvement, quality assurance, or team collaboration, which are key themes of the Engineering Excellence category.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

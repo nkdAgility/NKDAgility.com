@@ -33,9 +33,9 @@ tags:
 - Discovery and Learning
 - Continuous Learning
 - Pragmatic Thinking
-- Metrics and Learning
 - Agile Philosophy
 - Operational Practices
+- Metrics and Learning
 resourceTypes:
 - video
 categories:

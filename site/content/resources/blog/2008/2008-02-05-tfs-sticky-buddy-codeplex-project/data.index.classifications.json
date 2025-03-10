@@ -1,11 +1,14 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T18:39:42",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T13:16:31",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the development of an application that integrates with Team Foundation Server (TFS) to display project statuses, which relates to application lifecycle management. However, it primarily focuses on the specific implementation rather than broader ALM methodologies or practices.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses a project related to Team Foundation Server (TFS) and its application in displaying project statuses, which aligns with some aspects of Application Lifecycle Management (ALM). However, it primarily focuses on a specific tool and its implementation rather than the broader methodologies, practices, and governance associated with ALM. The mention of 'ALM' in the tags indicates some relevance, but the overall discussion lacks depth in covering the lifecycle stages or best practices in application governance.",
     "level": "Secondary"
   },
   "Flow Efficiency": {
@@ -307,12 +310,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:13:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:16:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a tool that integrates with Team Foundation Server to display project status, which relates to DevOps practices, but the primary focus is on the tool's functionality rather than broader DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a tool related to Team Foundation Server (TFS) that aims to improve project visibility and management, which aligns with some DevOps principles. However, it primarily focuses on project management aspects rather than the broader DevOps practices such as CI/CD, automation, or cultural shifts. The mention of TFS and work items indicates a connection to development processes, but it lacks depth in discussing DevOps principles or practices.",
+    "level": "Quaternary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",

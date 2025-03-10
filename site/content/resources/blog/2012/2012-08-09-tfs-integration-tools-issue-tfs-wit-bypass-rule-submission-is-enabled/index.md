@@ -30,8 +30,7 @@ aliasesArchive:
 - /resources/blog/tfs-integration-tools-issue-tfs-wit-bypass-rule-submission-is-enabled
 tags:
 - Troubleshooting
-categories:
-- DevOps
+categories: []
 preview: metro-problem-icon-5-5.png
 
 ---

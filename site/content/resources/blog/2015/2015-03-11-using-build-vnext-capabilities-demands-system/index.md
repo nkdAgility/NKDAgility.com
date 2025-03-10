@@ -8,7 +8,7 @@ ResourceImportId: 11081
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-03-11
-weight: 770
+weight: 805
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,8 +28,8 @@ aliasesArchive:
 - /resources/blog/using-build-vnext-capabilities-demands-system
 tags:
 - Windows
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 - Azure DevOps
 - Azure Pipelines
 - System Configuration

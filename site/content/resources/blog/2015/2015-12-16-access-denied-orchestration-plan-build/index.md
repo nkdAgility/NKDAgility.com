@@ -8,7 +8,7 @@ ResourceImportId: 11411
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-12-16
-weight: 775
+weight: 695
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,6 +30,7 @@ tags:
 - Troubleshooting
 categories:
 - DevOps
+- Engineering Excellence
 preview: clip_image004-4-4.png
 
 ---

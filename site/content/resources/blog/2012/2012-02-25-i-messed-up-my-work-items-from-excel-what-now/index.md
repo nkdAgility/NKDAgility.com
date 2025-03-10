@@ -29,8 +29,8 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 - Troubleshooting
-- Azure Boards
 - Azure DevOps
+- Azure Boards
 - Pragmatic Thinking
 - Software Development
 categories: []

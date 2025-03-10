@@ -21,10 +21,8 @@ card:
   title: Scrum Framework
   content: Scrum Framework
 categories:
-- Scrum
 - Social Technologies
 tags:
-- Agile Frameworks
 - Software Development
 
 ---

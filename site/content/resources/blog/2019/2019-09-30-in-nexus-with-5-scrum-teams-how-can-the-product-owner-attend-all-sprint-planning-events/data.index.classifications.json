@@ -148,11 +148,14 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-14T18:03:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:31:00",
+    "ai_confidence": 78.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a webinar event featuring a Professional Scrum Trainer, addressing questions related to Scrum practices, which aligns with the category of Events and Presentations.",
+    "final_score": 71.0,
+    "reasoning": "The content explicitly references a webinar, which aligns with the category of Events and Presentations. It discusses a specific session where questions were answered, indicating a direct connection to a live event. The discussion also touches on Scrum practices, which are relevant to the themes of Agile and DevOps. However, while the content provides a detailed exploration of the topic, it primarily focuses on the Scrum framework rather than the event itself, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Flow Efficiency": {
@@ -1357,12 +1360,15 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T16:07:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:30:56",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the role of the Product Owner and the delegation of responsibilities within a Scrum framework, which touches on leadership aspects in managing teams and ensuring effective communication. However, the primary focus is on Scrum roles and processes rather than broader leadership strategies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of the Product Owner in a Nexus framework, touching on leadership aspects such as delegation, communication of vision, and the importance of maintaining team autonomy. However, the primary focus is on Scrum roles and practical implementation rather than broader leadership strategies or frameworks. While there are mentions of leadership in the context of the Product Owner's responsibilities, the depth of discussion on leadership principles is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Social Technologies": {
     "category": "Social Technologies",

@@ -30,9 +30,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Agile Strategy
 - Organisational Agility
-- People and Process
 - Agile Philosophy
 - Agile Transformation
 - Beta Codex

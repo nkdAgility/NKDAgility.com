@@ -25,7 +25,6 @@ aliasesArchive:
 tags:
 - News and Reviews
 - Application Lifecycle Management
-- Azure DevOps
 - Miscellaneous
 - Modern Source Control
 - Software Development

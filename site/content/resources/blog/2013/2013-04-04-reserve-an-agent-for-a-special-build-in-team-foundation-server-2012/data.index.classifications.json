@@ -22,12 +22,15 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-15T19:05:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:49:26",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the process of reserving a build agent in Team Foundation Server, which relates to internal developer platforms and enhancing developer productivity through automation in the application lifecycle.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the process of reserving a build agent in Team Foundation Server, which relates to internal developer platforms and automation in the application lifecycle. It provides specific details about custom activities and workflows that enhance developer productivity, aligning with the principles of platform engineering. However, while it touches on relevant topics, it does not comprehensively cover the broader aspects of platform engineering, such as standardisation of tools or integration of DevOps practices, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -736,12 +739,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-15T20:07:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:49:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the intricacies of managing build agents in Team Foundation Server, focusing on enhancing build processes, which aligns with engineering excellence principles. Topics such as custom activities for tagging agents and ensuring efficient build execution resonate with best practices in CI/CD and software craftsmanship.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific technical solution related to reserving agents in Team Foundation Server builds, which touches on aspects of software craftsmanship and development practices. However, it lacks a broader discussion on best practices, continuous improvement, or quality assurance principles. While it does provide some technical detail, it does not delve deeply into the overarching themes of engineering excellence, such as metrics, collaboration, or the impact on business agility.",
+    "level": "Tertiary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

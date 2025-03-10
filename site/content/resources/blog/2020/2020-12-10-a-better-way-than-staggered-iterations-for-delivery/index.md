@@ -26,12 +26,12 @@ aliasesArchive:
 tags:
 - Value Delivery
 - Technical Excellence
+- People and Process
 - Increment
 - Test First Development
 - Business Agility
 - Cycle Time
 - Empirical Process Control
-- People and Process
 - Scrum Product Development
 - Scrum Team
 categories:

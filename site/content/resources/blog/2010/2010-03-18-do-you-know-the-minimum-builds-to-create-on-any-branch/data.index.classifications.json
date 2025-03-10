@@ -214,11 +214,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T01:22:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:06:16",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of build servers and the setup of different types of builds (Gate, CI, Nightly) in a software development project, which aligns with Continuous Integration practices that enhance technical excellence.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of build servers and outlines a structured approach to setting up builds in a team project, which aligns with Continuous Integration practices. However, it lacks a broader discussion on engineering methodologies or principles that enhance agility and does not delve deeply into the technical excellence aspects such as TDD or modular architecture.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -736,11 +739,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-16T01:51:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:06:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content provides detailed guidance on setting up build processes which are crucial for ensuring quality in software development, aligning with best practices in CI/CD and emphasizing testing methodologies.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of build servers and outlines a structured approach to setting up builds in a team project, which aligns with best practices in continuous integration (CI) and quality assurance. However, while it touches on relevant topics, it lacks a broader discussion on engineering excellence principles and does not delve deeply into metrics or the impact on business agility.",
     "level": "Secondary"
   },
   "Revenue per Employee": {

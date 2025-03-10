@@ -23,8 +23,8 @@ aliasesArchive:
 - /customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
 - /resources/blog/customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
 tags:
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 - Azure Boards
 - System Configuration
 - Azure DevOps

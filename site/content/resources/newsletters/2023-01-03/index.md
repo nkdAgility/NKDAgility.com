@@ -19,8 +19,8 @@ aliasesArchive:
 - /newsletters/january-2023/
 - /resources/newsletters/january-2023/
 categories:
-- Social Technologies
 - Scrum
+- Social Technologies
 - Product Management
 tags:
 - Agile Project Management

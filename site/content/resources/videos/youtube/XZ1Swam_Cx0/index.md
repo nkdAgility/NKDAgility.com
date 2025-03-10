@@ -29,7 +29,6 @@ tags:
 - People and Process
 - Agile Frameworks
 - Agile Philosophy
-- Agile Project Management
 - Agile Transformation
 - Software Development
 - Software Developers

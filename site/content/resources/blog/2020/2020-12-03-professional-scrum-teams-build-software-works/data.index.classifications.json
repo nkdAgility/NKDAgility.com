@@ -679,12 +679,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:26:42",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of Developers and the Product Owner within the Scrum framework, touching on accountability for quality and value delivery, which are relevant to product management. However, the primary focus is on technical practices and Scrum processes rather than strategic product management discussions.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of Scrum teams in delivering quality software, which touches on aspects of product management, particularly in relation to stakeholder expectations and accountability. However, it primarily focuses on technical practices and team dynamics rather than strategic product management methodologies or frameworks. While it mentions the Product Owner's role, the overall emphasis is more on execution than on the strategic alignment of product management principles.",
+    "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -1153,11 +1156,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-13T22:09:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:26:45",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the roles and responsibilities of Scrum teams, the importance of quality in software development, and the accountability of developers and leadership in the process. It emphasises team dynamics, the need for collaboration, and the impact of organisational culture on software quality, aligning well with the 'People and Process' category.",
+    "final_score": 77.0,
+    "reasoning": "The content extensively discusses the roles and responsibilities of Scrum teams, particularly focusing on the accountability of Developers and the importance of quality in software delivery. It highlights the interplay between team dynamics, leadership decisions, and the processes involved in Agile methodologies. The depth of discussion on how teams should communicate and adapt their processes to improve quality aligns well with the category. However, while it touches on human factors and team collaboration, it could benefit from more explicit strategies for enhancing communication and feedback loops.",
     "level": "Secondary"
   },
   "Product Delivery": {

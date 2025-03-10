@@ -8,7 +8,7 @@ ResourceImportId: 378
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-06-18
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,8 +28,7 @@ tags:
 - Software Development
 - Technical Excellence
 - Technical Mastery
-categories:
-- Engineering Excellence
+categories: []
 preview: metro-binary-vb-128-link-2-2.png
 
 ---

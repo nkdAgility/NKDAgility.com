@@ -30,8 +30,8 @@ sitemap:
   priority: 0.6
 tags:
 - Discovery and Learning
-- Continuous Learning
 - Product Owner
+- Continuous Learning
 - Products and Books
 - Agile Product Management
 resourceTypes:
@@ -39,6 +39,7 @@ resourceTypes:
 categories:
 - Product Management
 - Scrum
+- Social Technologies
 
 ---
 As a new product owner, you’re likely bombarded with information, advice, and endless techniques. So, where do you start? What’s the single most important thing you should focus on to ensure your success in this challenging role? The answer is simple: **continuous learning**.

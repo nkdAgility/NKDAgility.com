@@ -1162,11 +1162,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-13T15:52:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T11:38:24",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses metrics that are essential for measuring and maximising customer value, as well as team performance in delivering value. It aligns well with the principles of iterative development and continuous delivery, making it a strong fit for the Value Delivery category.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses various metrics that directly relate to measuring and maximising customer value, such as Customer Satisfaction and Deployment Frequency. It aligns well with the principles of iterative development and the role of cross-functional teams in delivering value. The depth of discussion on metrics indicates a strong focus on value delivery, although it could benefit from more explicit connections to Agile methodologies.",
     "level": "Secondary"
   },
   "Metrics and Learning": {
@@ -1207,12 +1210,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T12:10:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T11:38:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics relevant to team performance and efficiency, including Mean Time to Repair and Deployment Frequency, which are important in a DevOps context. However, the primary focus is on general team metrics and project management rather than a comprehensive discussion of DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses various metrics that can be monitored to assess team and organisational performance, including Mean Time to Repair and Deployment Frequency, which are relevant to DevOps practices. However, the primary focus is on metrics rather than the principles and practices of DevOps itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",

@@ -8,7 +8,7 @@ ResourceImportId: 386
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-06-07
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,8 +23,7 @@ aliasesArchive:
 - /tfs-process-templates
 - /resources/blog/tfs-process-templates
 preview: nakedalm-logo-128-link-1-1.png
-categories:
-- Engineering Excellence
+categories: []
 tags:
 - Software Development
 

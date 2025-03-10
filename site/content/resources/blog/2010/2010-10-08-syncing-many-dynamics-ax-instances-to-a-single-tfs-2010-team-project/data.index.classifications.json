@@ -76,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T00:11:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:03:06",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration of Microsoft Dynamics AX 2009 to connect with TFS 2010, providing step-by-step instructions and best practices for setting up the environment.",
+    "final_score": 80.0,
+    "reasoning": "The content provides a detailed guide on configuring Microsoft Dynamics AX 2009 to connect with TFS 2010, including specific installation steps and components required. It discusses best practices for managing multiple AX instances and offers actionable insights on setting up a single Team Project for better management. The focus is primarily on installation and configuration, aligning well with the category's core themes.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -121,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:03:04",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Microsoft Dynamics AX with Team Foundation Server (TFS), which relates to version control and project management practices relevant to DevOps. However, it primarily focuses on specific configurations and setups rather than broader DevOps principles or practices.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the integration of Microsoft Dynamics AX with Team Foundation Server (TFS), which relates to version control and project management aspects of DevOps. However, it lacks a broader discussion on DevOps principles, practices, and cultural shifts. While it touches on automation and project management, it does not delve deeply into continuous integration or delivery, nor does it address collaboration between development and operations teams. The focus is more on specific technical configurations rather than the overarching DevOps philosophy.",
     "level": "Tertiary"
   },
   "Miscellaneous": {

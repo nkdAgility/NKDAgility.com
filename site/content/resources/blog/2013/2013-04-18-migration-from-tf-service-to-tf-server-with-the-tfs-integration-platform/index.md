@@ -23,8 +23,8 @@ aliasesArchive:
 - /migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
 - /resources/blog/migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
 tags:
-- Modern Source Control
 - Install and Configuration
+- Modern Source Control
 - Pragmatic Thinking
 - Software Development
 - System Configuration

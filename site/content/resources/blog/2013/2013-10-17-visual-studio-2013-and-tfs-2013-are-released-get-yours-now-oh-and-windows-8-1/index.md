@@ -32,11 +32,11 @@ aliasesArchive:
 - /resources/blog/visual-studio-2013-and-tfs-2013-are-released-get-yours-now-oh-and-windows-8-1
 tags:
 - Windows
-- Install and Configuration
 - News and Reviews
 - Products and Books
 - System Configuration
 - Software Development
+- Install and Configuration
 - Practical Techniques and Tooling
 - Application Lifecycle Management
 categories: []

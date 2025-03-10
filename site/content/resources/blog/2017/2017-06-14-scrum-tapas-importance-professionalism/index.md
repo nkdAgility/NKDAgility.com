@@ -30,6 +30,7 @@ tags:
 - Events and Presentations
 categories:
 - Scrum
+- Social Technologies
 preview: nkdagility-martin-hinshelwood-scrum-tapas-professional-1-1.png
 
 ---

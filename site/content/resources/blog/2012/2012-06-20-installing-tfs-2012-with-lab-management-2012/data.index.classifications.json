@@ -22,11 +22,14 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-15T20:25:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:56:17",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the installation and configuration of Team Foundation Server (TFS) and Lab Management, which are integral components of an Internal Developer Platform (IDP). It focuses on enhancing developer productivity through automation and standardisation of tools and processes, aligning well with the principles of platform engineering.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Team Foundation Server (TFS) and Lab Management, which are integral components of an Internal Developer Platform (IDP). It discusses the steps involved in setting up a platform that enhances developer productivity through automation and standardisation of tools. The detailed walkthrough of the installation process, including integration with System Centre Virtual Machine Manager (SCVMM), aligns well with the principles of platform engineering. However, while it provides substantial detail, it lacks broader discussions on the overarching principles of platform engineering and its impact on developer efficiency, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
@@ -736,12 +739,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:56:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation and configuration of TFS and Lab Management, focusing on technical steps and best practices for system deployment. However, it does not delve into broader engineering excellence principles such as software craftsmanship or coding practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, which is more operational than strategic. While it touches on aspects of software deployment and testing, it lacks a strong emphasis on engineering excellence principles, best practices, or continuous improvement. The discussion is more about practical steps and troubleshooting rather than promoting high standards in software craftsmanship or development processes.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

@@ -25,10 +25,10 @@ categories:
 tags:
 - Events and Presentations
 - Agile Project Management
+- Agile Product Management
 - Software Development
 - People and Process
 - Products and Books
-- Agile Product Management
 - Practical Techniques and Tooling
 - Agile Transformation
 - Pragmatic Thinking

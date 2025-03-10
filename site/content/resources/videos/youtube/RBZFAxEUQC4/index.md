@@ -32,6 +32,7 @@ sitemap:
   priority: 0.6
 tags:
 - Organisational Change
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

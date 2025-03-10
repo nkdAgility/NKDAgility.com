@@ -28,10 +28,10 @@ aliasesArchive:
 - /resources/blog/presenting-visual-studio-alm-upgrading-tfs-2010-to-tfs-2012-in-production-done
 tags:
 - Software Development
+- Events and Presentations
 - People and Process
 - Products and Books
 - Application Lifecycle Management
-- Events and Presentations
 - Value Delivery
 - Working Software
 - Azure DevOps

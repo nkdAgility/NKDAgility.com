@@ -28,9 +28,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Azure DevOps
 - One Engineering System (1ES)
 - People and Process
-- Azure DevOps
 - Digital Transformation
 - Software Developers
 - Software Development

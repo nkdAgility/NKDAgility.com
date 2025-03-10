@@ -8,7 +8,7 @@ ResourceImportId: 262
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-01-22
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,10 +30,8 @@ tags:
 - Windows
 - System Configuration
 - Software Development
-- Technical Mastery
 - Troubleshooting
-categories:
-- Engineering Excellence
+categories: []
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

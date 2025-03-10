@@ -38,12 +38,10 @@ tags:
 - Decision Making
 - Enterprise Agility
 - Organisational Change
-- Business Agility
 - Market Adaptability
 resourceTypes:
 - video
 categories:
-- DevOps
 - Leadership
 - Social Technologies
 

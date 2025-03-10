@@ -24,8 +24,8 @@ preview: https://i.ytimg.com/vi/DWL0PLkFazs/maxresdefault.jpg
 duration: 85
 isShort: false
 tags:
-- Coaching
 - Miscellaneous
+- Coaching
 sitemap:
   filename: sitemap.xml
   priority: 0.6

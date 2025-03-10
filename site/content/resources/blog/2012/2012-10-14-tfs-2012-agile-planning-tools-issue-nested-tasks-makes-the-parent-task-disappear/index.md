@@ -8,7 +8,7 @@ ResourceImportId: 8936
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-10-14
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,6 +30,7 @@ aliasesArchive:
 - /resources/blog/tfs-2012-agile-planning-tools-issue-nested-tasks-makes-the-parent-task-disappear
 tags:
 - Agile Planning Tools
+- Practical Techniques and Tooling
 - Agile Planning
 - Agile Product Operating Model
 - Agile Project Management
@@ -38,7 +39,6 @@ tags:
 - Agile Frameworks
 - Azure Boards
 - Backlog Refinement
-- Practical Techniques and Tooling
 categories:
 - Social Technologies
 - Scrum

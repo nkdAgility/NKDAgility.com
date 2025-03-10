@@ -76,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T01:34:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:07:02",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration issues encountered while setting up a Silverlight application on Team Foundation Build Services 2010, providing actionable solutions and troubleshooting steps.",
+    "final_score": 80.0,
+    "reasoning": "The content provides a detailed account of the installation and configuration challenges faced while setting up a Silverlight application on Team Foundation Build Services 2010. It explicitly discusses the installation of the Silverlight 3 SDK, the need to adjust MSBuild settings, and the installation of Visual Studio 2010 on the build server. These elements align closely with the key topics of the 'Install and Configuration' category, including step-by-step procedures and troubleshooting common issues. The depth of discussion is significant, as it covers multiple problems encountered during the setup process and offers actionable solutions, thus demonstrating a strong focus on the technical aspects of installation and configuration.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -121,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:07:00",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of Team Foundation Build Services and the challenges faced during the build process, which are relevant to DevOps practices. However, the primary focus is on troubleshooting specific build issues rather than broader DevOps principles or practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the use of Team Foundation Build Services (TFS) for automating builds, which is a relevant aspect of DevOps. However, it primarily focuses on troubleshooting specific build issues related to Silverlight rather than broader DevOps principles or practices. While there are mentions of build automation, the depth of discussion is limited to specific problems and solutions without addressing the cultural or collaborative aspects of DevOps.",
     "level": "Tertiary"
   },
   "Miscellaneous": {

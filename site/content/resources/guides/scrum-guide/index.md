@@ -69,6 +69,7 @@ tags:
 - Agile Product Management
 - Software Development
 - Agile Frameworks
+- People and Process
 
 ---
 The Scrum Guide is the rule book, or timber frame, of Scrum and is immutable of definition but not of implementation. If you have already read the Scrum Guide and are looking more for a Strategy Guide then head over to the Scrum Strategy Guide.

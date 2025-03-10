@@ -8,7 +8,7 @@ ResourceImportId: 9737
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-24
-weight: 415
+weight: 385
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,6 +23,7 @@ aliasesArchive:
 - /quality-enablement-to-achieve-predictable-delivery
 - /resources/blog/quality-enablement-to-achieve-predictable-delivery
 tags:
+- Practical Techniques and Tooling
 - Operational Practices
 - Acceptance Test Driven Development
 - Definition of Done
@@ -32,10 +33,9 @@ tags:
 - Value Delivery
 - Working Software
 - Continuous Delivery
-- Evidence Based Management
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
 - Scrum
 preview: nakedalm-experts-professional-scrum-2-2.png
 

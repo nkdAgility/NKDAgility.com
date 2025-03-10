@@ -31,8 +31,8 @@ categories:
 - Engineering Excellence
 tags:
 - Practical Techniques and Tooling
-- Strategy
 - One Engineering System (1ES)
+- Strategy
 - Software Development
 - Operational Practices
 - Team Collaboration

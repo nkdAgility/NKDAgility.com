@@ -32,7 +32,6 @@ aliasesArchive:
 tags:
 - Agile Project Management
 - Agile Frameworks
-- Scrum Master
 - Scrum Team
 - People and Process
 - Professional Scrum

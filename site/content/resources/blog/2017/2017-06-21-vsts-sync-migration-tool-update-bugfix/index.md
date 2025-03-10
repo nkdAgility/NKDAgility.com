@@ -27,12 +27,12 @@ aliasesArchive:
 - /blog/vsts-sync-migration-tool-update-and-bugfix
 - /resources/blog/vsts-sync-migration-tool-update-bugfix
 tags:
-- Install and Configuration
 - Azure DevOps
 - News and Reviews
 - Products and Books
 - Software Development
 - Practical Techniques and Tooling
+- Install and Configuration
 categories:
 - DevOps
 preview: nkdagility-martin-hinshelwood-vsts-sync-migration-1-1.png

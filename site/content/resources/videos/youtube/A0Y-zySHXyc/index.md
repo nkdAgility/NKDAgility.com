@@ -29,8 +29,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Accountability
 - People and Process
+- Accountability
 - Product Owner
 - Scrum Product Development
 - Scrum Team
@@ -44,7 +44,7 @@ resourceTypes:
 categories:
 - Scrum
 - Product Management
-- Social Technologies
+- Leadership
 
 ---
 ## Bridging the Gap Between Developers and Product Owners 🌉 

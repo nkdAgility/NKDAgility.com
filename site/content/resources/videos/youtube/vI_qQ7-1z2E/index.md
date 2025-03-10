@@ -31,16 +31,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Professional Scrum
-- Scrum Master
-- Agile Frameworks
-- Agile Project Management
-- Continuous Learning
 - People and Process
-- Coaching
-- Practical Techniques and Tooling
-- Pragmatic Thinking
-- Accountability
 resourceTypes:
 - video
 categories:

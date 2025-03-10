@@ -8,7 +8,7 @@ ResourceImportId: 186
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-10-22
-weight: 775
+weight: 810
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,16 +29,17 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Modern Source Control
-- Practical Techniques and Tooling
 - Application Lifecycle Management
 - Azure Repos
 - Operational Practices
 - Pragmatic Thinking
 - Software Development
 - Troubleshooting
+- Practical Techniques and Tooling
 - Miscellaneous
 preview: nakedalm-logo-128-link-2-1.png
 categories:
+- DevOps
 - Engineering Excellence
 
 ---

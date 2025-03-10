@@ -1138,11 +1138,14 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-13T22:18:06",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T12:26:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the interplay between agile methodologies and organisational structures, particularly in the context of release planning and predictable delivery. It highlights the cultural shifts required for effective software development and the importance of team dynamics, which aligns with sociotechnical systems principles. However, the primary focus is on agile practices rather than a comprehensive exploration of sociotechnical systems.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the interplay between agile methodologies and organisational structures, particularly in the context of release planning and predictable delivery. It highlights the cultural shifts required for effective agile adoption, which aligns with sociotechnical principles. However, while it touches on these themes, the primary focus remains on technical practices and agile processes rather than a comprehensive exploration of sociotechnical systems as a whole.",
     "level": "Secondary"
   },
   "Technical Excellence": {
@@ -1183,12 +1186,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:26:52",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 25,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the integration of agile practices with release planning, touching on aspects of predictability and quality in software development, which are relevant to DevOps. However, the primary focus is on agile methodologies and Scrum, making DevOps a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the integration of agile practices with release management, touching on the importance of quality, predictability, and continuous delivery, which are core principles of DevOps. It mentions the need for cultural shifts and collaboration, aligning with DevOps themes. However, the primary focus is on agile methodologies rather than DevOps practices specifically, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",

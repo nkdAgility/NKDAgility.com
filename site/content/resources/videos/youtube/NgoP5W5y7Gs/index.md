@@ -24,8 +24,8 @@ duration: 369
 isShort: false
 tags:
 - Software Development
-- Practical Techniques and Tooling
 - Software Developers
+- Practical Techniques and Tooling
 - Azure DevOps
 - Pragmatic Thinking
 - Technical Mastery

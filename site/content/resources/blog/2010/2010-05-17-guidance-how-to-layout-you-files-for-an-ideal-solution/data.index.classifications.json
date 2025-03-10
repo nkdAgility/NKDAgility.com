@@ -121,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:04:48",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses version control structures and automated builds, which are relevant to DevOps practices, but the primary focus is on project management and branching strategies rather than a comprehensive discussion of DevOps principles.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on structuring files and version control practices within Team Foundation Server (TFS), which is relevant to DevOps. However, it lacks explicit discussions on core DevOps principles such as Continuous Integration (CI) and Continuous Delivery (CD). While it touches on automation and branching strategies, the depth of discussion is limited, and the primary focus is more on project management and file organisation rather than the broader DevOps culture and practices.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -211,12 +214,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T00:37:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:04:51",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses best practices for structuring projects and version control in a software development context, which aligns with technical excellence principles such as maintainability, automated builds, and branching strategies.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the organisation of files and branching strategies within a version control system, which relates to technical practices that can enhance maintainability and efficiency in software development. However, it lacks a direct focus on broader engineering methodologies like TDD or CI/CD, and while it touches on best practices, it does not delve deeply into the principles of technical excellence. The primary focus is on file structure rather than the overarching engineering practices that define technical excellence.",
+    "level": "Tertiary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",

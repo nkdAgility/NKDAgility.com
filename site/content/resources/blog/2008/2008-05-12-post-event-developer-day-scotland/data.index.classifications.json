@@ -172,11 +172,14 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-16T18:11:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:15:05",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a recent event, Developer Day Scotland, including speaker presentations and insights related to Agile and DevOps practices, making it relevant to the category.",
+    "final_score": 61.0,
+    "reasoning": "The content primarily discusses a specific event, Developer Day Scotland, and provides insights into the presentations and speakers, which aligns with the category of industry events and updates. However, while it mentions relevant topics like Continuous Integration and Test Driven Development, the focus is more on personal experiences rather than a comprehensive review or analysis of the event's impact on Agile or DevOps practices. The depth of discussion on the event and its speakers is substantial, but it lacks broader industry context or trends, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Product Delivery": {
@@ -1234,12 +1237,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:15:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Continuous Integration and Test Driven Development, which are relevant to the principles of engineering excellence, but the overall focus is on the event experience rather than on engineering practices per se.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses various presentations related to software development practices, including Continuous Integration and Test Driven Development, which are relevant to engineering excellence. However, the focus is more on the event and speakers rather than a deep exploration of engineering principles or practices. The mentions of specific topics are brief and lack detailed analysis, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

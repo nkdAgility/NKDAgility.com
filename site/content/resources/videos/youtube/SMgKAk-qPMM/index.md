@@ -30,8 +30,8 @@ sitemap:
   priority: 0.6
 tags:
 - Software Development
-- Agile Frameworks
 - Agile Values and Principles
+- Agile Frameworks
 - Agile Philosophy
 - Agile Project Management
 - Agile Transformation

@@ -29,12 +29,12 @@ tags:
 - Agile Philosophy
 - Agile Project Management
 - Engineering Practices
-- Product Delivery
 - Software Developers
 - Software Development
 - Complexity Thinking
 - Pragmatic Thinking
 - People and Process
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,7 +43,7 @@ resourceTypes:
 categories:
 - Social Technologies
 - Engineering Excellence
-- Scrum
+- Leadership
 
 ---
 In my experience working with various organisations, one of the most prevalent issues I encounter is the struggle with missed deadlines and budget overruns in software projects. It’s a challenge that seems to plague many, and it often feels like you’re holding onto a bag that’s slowly melting away, spilling its contents all over the street. This unpredictability is a fundamental reality of navigating complexity in software development.

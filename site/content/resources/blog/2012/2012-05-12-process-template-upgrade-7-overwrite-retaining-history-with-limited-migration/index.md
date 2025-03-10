@@ -28,9 +28,17 @@ aliasesArchive:
 - /resources/blog/process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
 tags:
 - Install and Configuration
+- Practical Techniques and Tooling
+- System Configuration
+- Troubleshooting
+- Pragmatic Thinking
+- Agile Frameworks
+- Azure Boards
+- Azure DevOps
+- Operational Practices
+- Software Development
 categories:
 - Scrum
-- DevOps
 - Social Technologies
 
 ---

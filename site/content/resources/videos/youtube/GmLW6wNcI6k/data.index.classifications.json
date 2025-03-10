@@ -1162,11 +1162,14 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-12T06:58:26",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T12:08:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of adapting to customer needs during the assessment phase of consulting engagements, highlighting the need for flexibility and responsiveness, which aligns with market adaptability principles. However, it primarily focuses on the assessment process rather than a comprehensive strategy for market adaptability.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of adapting to customer needs dynamically, which aligns with the principles of market adaptability. It mentions the need for continuous assessment and engagement with clients, reflecting Agile and DevOps practices. However, the focus is more on the assessment phase rather than explicitly detailing strategies for market adaptability, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -1180,12 +1183,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:08:24",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses experiences in DevOps engagements and the need for adaptability in understanding customer requirements, making DevOps a significant but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the assessment phase in consulting engagements, with a specific mention of past work in DevOps. While it touches on the importance of understanding customer needs and adapting to changing requirements, the primary focus is on consulting practices rather than core DevOps principles. The mention of DevOps is brief and serves more as a context rather than a central theme, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",

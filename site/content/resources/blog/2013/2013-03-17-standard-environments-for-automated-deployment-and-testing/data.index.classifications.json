@@ -22,11 +22,14 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-15T19:17:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:50:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the creation and management of Standard Environments for automated deployment and testing, which aligns with the principles of Platform Engineering by enhancing developer productivity and optimising the application lifecycle through standardisation and automation.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the creation and management of 'Standard Environments' within Visual Studio Team Foundation Server, which aligns with the principles of Platform Engineering by focusing on automation, standardisation, and enhancing developer productivity. It provides detailed insights into setting up environments for automated deployment and testing, which are key components of Internal Developer Platforms (IDPs). The discussion includes specific tools and processes that facilitate developer workflows, indicating a strong alignment with the core themes of Platform Engineering. However, while the content is rich in detail, it does not explicitly frame these practices within the broader context of Platform Engineering, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
@@ -736,11 +739,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-15T20:17:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:50:09",
+    "ai_confidence": 87.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses automated deployment and testing practices using Visual Studio and Team Foundation Server, which aligns with the principles of software craftsmanship, CI/CD practices, and aims for continuous improvement in engineering processes.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the implementation of standard environments for automated deployment and testing, which directly relates to best practices in CI/CD and software craftsmanship. It provides detailed insights into the setup and management of environments, the importance of consistent deployment mechanisms, and the role of automation in enhancing development efficiency. The depth of discussion on deployment pipelines and the integration of testing further aligns with the principles of engineering excellence, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Revenue per Employee": {

@@ -24,7 +24,6 @@ aliasesArchive:
 - /resources/blog/identity-crisis
 tags:
 - Windows
-- Practical Techniques and Tooling
 - Digital Transformation
 - System Configuration
 categories: []

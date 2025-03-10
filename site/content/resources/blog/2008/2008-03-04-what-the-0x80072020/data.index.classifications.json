@@ -1099,11 +1099,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T18:38:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:16:00",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses a specific error encountered in .NET related to active directory access and offers a suggestion for troubleshooting the issue, which aligns with the troubleshooting category.",
+    "final_score": 70.0,
+    "reasoning": "The content explicitly discusses a specific bug related to the .NET PrincipalContext classes and provides a potential workaround for accessing Active Directory. This aligns with troubleshooting as it identifies a technical issue and suggests a solution. However, the depth of discussion is somewhat limited, focusing primarily on a single error without broader troubleshooting techniques or methodologies. The mention of security risks adds some conceptual alignment, but the overall depth could be improved.",
     "level": "Secondary"
   },
   "Entrepreneurship": {

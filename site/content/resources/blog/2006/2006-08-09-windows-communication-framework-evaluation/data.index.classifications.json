@@ -100,12 +100,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T11:11:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:28:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the evaluation of Windows Communication Foundation (WCF) and its implications for web service projects, which aligns with technology updates. However, it lacks broader industry news or reviews, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the evaluation of Windows Communication Framework (WCF) and its implications for web service projects, which aligns with technology updates. However, it lacks explicit references to industry news or reviews, focusing more on personal evaluation and recommendations. The depth of discussion is moderate, providing insights into WCF's features but not enough to classify it as a comprehensive review or news piece.",
+    "level": "Quaternary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
@@ -325,11 +328,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-17T11:11:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-10T13:28:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Windows Communication Framework (WCF) and related technologies, with no mention of Scrum principles, roles, events, or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses Windows Communication Framework (WCF) and does not mention Scrum or its principles, roles, events, or artifacts. There is no alignment with Scrum concepts, and the depth of discussion is focused on WCF technology rather than any Scrum-related topics.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
