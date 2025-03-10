@@ -82,11 +82,14 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T12:10:50",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-07T12:50:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "The content primarily focuses on the Kanban methodology, which is more about workflow management than the strategic aspects of product management. While it touches on value delivery and customer needs, it does not delve into the strategic alignment or decision-making processes central to product management.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the Kanban methodology, which is a project management framework rather than a direct discussion on product management. While it touches on concepts like value delivery and workflow optimization, it lacks explicit references to product management strategies, customer needs, or business objectives. The depth of discussion is more about Kanban practices than the strategic alignment of product management.",
     "level": "Quaternary"
   },
   "Agile Leadership": {
@@ -1234,11 +1237,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-12T13:51:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:50:28",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses Kanban as a strategy for optimizing the flow of value through processes, detailing practices that enhance value delivery and continuous improvement, which aligns closely with the principles of value delivery in Agile frameworks.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses Kanban as a strategy for optimising the flow of value, which is central to the concept of value delivery. It covers key practices such as defining workflows, managing work in progress, and continuously improving processes, all of which align closely with the principles of iterative development and customer value maximisation. The depth of discussion on how Kanban can enhance value delivery through specific practices and metrics further supports a high confidence score.",
     "level": "Secondary"
   },
   "Technical Excellence": {

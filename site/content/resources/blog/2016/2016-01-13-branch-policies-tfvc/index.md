@@ -8,7 +8,7 @@ ResourceImportId: 11424
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2016-01-13
-weight: 640
+weight: 695
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,8 +29,8 @@ aliasesArchive:
 tags:
 - Azure Repos
 - Technical Mastery
-- Modern Source Control
 - Practical Techniques and Tooling
+- Modern Source Control
 - Azure DevOps
 - Operational Practices
 - Software Development

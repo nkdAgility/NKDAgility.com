@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T11:06:03",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-07T14:26:04",
+    "ai_confidence": 92.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 95.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 50,
-    "final_score": 82.0,
-    "reasoning": "The content primarily discusses the integration of engineering and operations within the Azure DevOps team, focusing on site reliability engineering, automation, and continuous delivery practices, which are central to DevOps principles.",
+    "final_score": 88.0,
+    "reasoning": "The content extensively discusses the integration of development and operations within the Azure DevOps team, highlighting principles of DevOps such as automation, continuous delivery, and the importance of a live site culture. It provides detailed insights into how the team manages operational challenges, builds transparency with customers, and utilises telemetry for continuous improvement, all of which are core themes of DevOps. The depth of discussion on these topics, along with specific examples and practices, strongly aligns with the DevOps category.",
     "level": "Primary"
   },
   "Social Technologies": {
@@ -118,12 +121,15 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-18T12:22:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:26:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses team dynamics, ownership, and responsibility within the Azure DevOps team, touching on transparency and accountability in operations and incident management. However, it primarily focuses on site reliability and the engineering practices rather than accountability as a distinct central theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses aspects of accountability in the context of site reliability engineering and team dynamics, particularly in relation to the Azure DevOps team. However, while it touches on themes of ownership and responsibility, it primarily focuses on operational practices, transparency, and technical processes rather than a deep exploration of accountability as a core Agile principle. The discussion lacks a strong emphasis on the distinction between accountability and blame, and does not provide detailed strategies for fostering a culture of accountability within Agile frameworks.",
+    "level": "Quaternary"
   },
   "Windows": {
     "category": "Windows",

@@ -33,9 +33,9 @@ aliasesArchive:
 tags:
 - Coaching
 - Application Lifecycle Management
+- Practical Techniques and Tooling
 - People and Process
 - Software Development
-- Practical Techniques and Tooling
 - Product Delivery
 - Operational Practices
 - Pragmatic Thinking
@@ -43,8 +43,8 @@ tags:
 - Agile Project Management
 categories:
 - Social Technologies
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

@@ -32,6 +32,7 @@ tags:
 - Agile Philosophy
 - Organisational Agility
 - Software Development
+- Business Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -39,7 +40,6 @@ layout: video
 resourceTypes:
 - video
 categories:
-- Product Management
 - Social Technologies
 
 ---

@@ -8,7 +8,7 @@ ResourceImportId: 49
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-04-20
-weight: 775
+weight: 810
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -31,8 +31,8 @@ aliasesArchive:
 - /blog/silverlight-4--mvvm-and-test-driven-development
 - /resources/blog/silverlight-4-mvvm-and-test-driven-development
 tags:
-- Software Development
 - Events and Presentations
+- Software Development
 - Technical Mastery
 - Test Driven Development
 categories:

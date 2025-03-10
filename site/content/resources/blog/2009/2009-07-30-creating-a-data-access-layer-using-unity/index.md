@@ -8,7 +8,7 @@ ResourceImportId: 95
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-07-30
-weight: 730
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,12 +24,11 @@ aliasesArchive:
 - /resources/blog/creating-a-data-access-layer-using-unity
 tags:
 - Software Development
-- Practical Techniques and Tooling
 - Technical Excellence
 - Technical Mastery
+- Practical Techniques and Tooling
 - System Configuration
-categories:
-- Engineering Excellence
+categories: []
 preview: metro-binary-vb-128-link-5-5.png
 
 ---

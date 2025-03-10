@@ -34,8 +34,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Leadership
 - Social Technologies
+- Leadership
 
 ---
 ## A Tale of Expertise and Authenticity: Meet Joanna, the Agile Maestro 🚀 

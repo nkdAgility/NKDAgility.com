@@ -31,8 +31,8 @@ aliasesArchive:
 tags:
 - Windows
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

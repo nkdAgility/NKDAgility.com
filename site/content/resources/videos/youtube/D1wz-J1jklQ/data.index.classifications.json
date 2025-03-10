@@ -1195,11 +1195,14 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T15:22:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:42:57",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the relationship between frequent deployments, technical debt, and code maintainability, which aligns closely with the themes of code quality and complexity in software development.",
+    "final_score": 80.0,
+    "reasoning": "The content discusses the relationship between frequent deployments and code quality, particularly in terms of maintainability and technical debt. It explicitly mentions how smaller, more frequent deployments can lead to better code practices and a deeper understanding of user needs, which aligns well with the core themes of the category. The depth of discussion is substantial, covering various aspects of how deployment frequency impacts code quality and complexity management. However, while it touches on complexity, it does not delve deeply into complexity theory or its broader implications, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Lean": {
@@ -1384,12 +1387,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T13:47:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T12:42:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of frequent deployments and its impact on code quality, which relates to Agile practices and continuous improvement, but it primarily focuses on technical aspects rather than the frameworks of Scrum, Kanban, Lean, or Agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of frequent deployments and breaking down work into smaller chunks, which aligns with Agile principles of iterative development and continuous improvement. However, it lacks explicit references to specific frameworks like Scrum or Kanban, and while it touches on collaboration and technical debt, it does not delve deeply into the methodologies that define Social Technologies.",
+    "level": "Secondary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

@@ -39,13 +39,13 @@ tags:
 - Agile Philosophy
 - Agile Project Management
 - Agile Transformation
-- Personal
 - Pragmatic Thinking
+- Software Developers
 resourceTypes:
 - video
 categories:
-- Scrum
 - Social Technologies
+- Scrum
 
 ---
 ## The Golden Nugget of Scrum Advice I've Ever Received

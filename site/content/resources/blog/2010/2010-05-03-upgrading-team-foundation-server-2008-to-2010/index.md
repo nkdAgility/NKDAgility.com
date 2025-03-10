@@ -8,7 +8,7 @@ ResourceImportId: 45
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-05-03
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,7 +27,6 @@ tags:
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories:
 - DevOps
-- Engineering Excellence
 - Social Technologies
 
 ---

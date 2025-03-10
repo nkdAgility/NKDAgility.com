@@ -8,7 +8,7 @@ ResourceImportId: 19
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2011-01-04
-weight: 770
+weight: 850
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,8 +27,7 @@ tags:
 - Miscellaneous
 - News and Reviews
 - Continuous Learning
-categories:
-- Engineering Excellence
+categories: []
 preview: metro-event-128-link-3-3.png
 
 ---

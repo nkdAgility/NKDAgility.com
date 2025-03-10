@@ -32,14 +32,13 @@ tags:
 - Practical Techniques and Tooling
 - Application Lifecycle Management
 - Azure Repos
-- Miscellaneous
 - Operational Practices
 - Pragmatic Thinking
 - Software Development
 - Troubleshooting
+- Miscellaneous
 preview: nakedalm-logo-128-link-2-1.png
 categories:
-- DevOps
 - Engineering Excellence
 
 ---

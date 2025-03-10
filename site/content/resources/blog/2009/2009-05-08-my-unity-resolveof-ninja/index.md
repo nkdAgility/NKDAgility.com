@@ -8,7 +8,7 @@ ResourceImportId: 123
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-05-08
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,11 +27,10 @@ aliasesArchive:
 - /blog/my-unity-resolve(of-ninja)
 - /resources/blog/my-unity-resolveof-ninja
 tags:
-- Practical Techniques and Tooling
 - Software Development
 - Technical Mastery
-categories:
-- Engineering Excellence
+- Practical Techniques and Tooling
+categories: []
 preview: metro-binary-vb-128-link-4-1.png
 
 ---

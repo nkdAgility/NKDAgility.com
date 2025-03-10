@@ -32,6 +32,7 @@ tags:
 - Agile Project Management
 categories:
 - Scrum
+- Social Technologies
 preview: NKDAgility-technically-SetEffectiveSprintGoals-1-1.jpg
 
 ---

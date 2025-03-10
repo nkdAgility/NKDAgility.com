@@ -24,7 +24,6 @@ aliasesArchive:
 - /resources/blog/commit-to-visual-studio-alm-on-area51
 tags:
 - News and Reviews
-- Team Collaboration
 - Application Lifecycle Management
 - Azure DevOps
 - Miscellaneous

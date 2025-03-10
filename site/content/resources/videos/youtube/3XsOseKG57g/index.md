@@ -34,6 +34,7 @@ resourceTypes:
 layout: video
 categories:
 - Social Technologies
+- Scrum
 
 ---
 ## The Magic of the 4-Day Training Format!

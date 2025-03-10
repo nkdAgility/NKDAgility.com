@@ -82,12 +82,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T12:01:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T12:47:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 10,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses CI/CD practices and their implications for product quality and delivery, which are relevant to product management. However, the primary focus is on technical implementation details rather than strategic product management principles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses CI/CD practices and technical implementation details rather than focusing on the strategic aspects of product management. While it touches on the importance of understanding product architecture and business objectives, the emphasis is on technical execution rather than methodologies or frameworks that guide product managers. The discussion lacks depth in terms of product management strategies and does not adequately address the core themes outlined in the category definition.",
+    "level": "Quaternary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -1243,12 +1246,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T05:57:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:47:58",
+    "ai_confidence": 92.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 95.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Continuous Integration and Continuous Delivery (CI/CD) practices, emphasising their importance in enhancing software quality and reducing risks. It provides detailed insights into the correct implementation of CI/CD, mainline branching, and the significance of delivering to production, aligning closely with the principles of technical excellence.",
-    "level": "Secondary"
+    "final_score": 84.0,
+    "reasoning": "The content primarily focuses on Continuous Integration and Continuous Delivery (CI/CD) practices, discussing their importance in enhancing software quality and reducing risks. It provides a detailed explanation of CI/CD principles, including mainline branching and the distinction between continuous integration and continuous delivery. The author critiques common misconceptions and practices, emphasising the need for proper implementation of CI/CD to achieve technical excellence. The depth of discussion is substantial, covering various aspects of CI/CD and its impact on software development processes, which aligns closely with the category's focus on engineering practices that enhance agility and quality.",
+    "level": "Primary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",

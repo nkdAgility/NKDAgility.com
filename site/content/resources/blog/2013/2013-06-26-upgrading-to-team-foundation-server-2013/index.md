@@ -8,7 +8,7 @@ ResourceImportId: 9907
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-06-26
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,7 +26,6 @@ tags:
 - Install and Configuration
 categories:
 - DevOps
-- Engineering Excellence
 
 ---
 With the release of Team Foundation Server 2013 I need to upgrade all of my servers. I have a few customer installs getting prepped and I wanted to get a look see.

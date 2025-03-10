@@ -8,7 +8,7 @@ ResourceImportId: 9431
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-04-08
-weight: 545
+weight: 580
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,18 +25,18 @@ aliasesArchive:
 tags:
 - People and Process
 - Application Lifecycle Management
-- Practical Techniques and Tooling
 - Software Developers
 - Software Development
 - Team Collaboration
 - Azure DevOps
 - Operational Practices
 - Pragmatic Thinking
+- Practical Techniques and Tooling
 - Agile Planning
 categories:
 - Scrum
 - DevOps
-- Engineering Excellence
+- Social Technologies
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 
 ---

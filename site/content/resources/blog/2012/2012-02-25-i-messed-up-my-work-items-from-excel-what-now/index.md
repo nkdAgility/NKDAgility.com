@@ -27,8 +27,8 @@ aliasesArchive:
 - /blog/i-messed-up-my-work-items-from-excel--what-now-
 - /resources/blog/i-messed-up-my-work-items-from-excel-what-now
 tags:
-- Troubleshooting
 - Practical Techniques and Tooling
+- Troubleshooting
 - Azure Boards
 - Azure DevOps
 - Pragmatic Thinking

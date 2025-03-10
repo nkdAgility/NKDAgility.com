@@ -38,13 +38,13 @@ tags:
 - Professional Scrum
 - Team Collaboration
 - Agile Product Management
-- Personal
+- Transparency and Accountability
 resourceTypes:
 - video
 categories:
 - Scrum
-- Leadership
 - Product Management
+- Social Technologies
 
 ---
 ## Bridging the Gap Between Developers and Product Owners 🌉 

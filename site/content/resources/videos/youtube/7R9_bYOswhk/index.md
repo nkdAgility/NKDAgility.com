@@ -30,9 +30,9 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Agile Leadership
 - Scrum Master
 - Agile Project Management
+- Agile Leadership
 - Agile Frameworks
 - Scrum Team
 - Technical Leadership

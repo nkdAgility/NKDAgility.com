@@ -8,7 +8,7 @@ ResourceImportId: 10558
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-06-11
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,12 +23,12 @@ aliasesArchive:
 - /tfs-process-template-migration-script-updated
 - /resources/blog/tfs-process-template-migration-script-updated
 tags:
+- Practical Techniques and Tooling
 - System Configuration
 - Operational Practices
 - Install and Configuration
 - Software Development
 - Application Lifecycle Management
-- Practical Techniques and Tooling
 - Azure DevOps
 - Pragmatic Thinking
 - Technical Excellence

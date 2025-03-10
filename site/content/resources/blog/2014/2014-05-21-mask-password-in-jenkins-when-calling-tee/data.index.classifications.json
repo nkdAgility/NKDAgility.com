@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T10:35:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:49:22",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the practical application of Jenkins and a specific plugin to mask passwords, which aligns with the exploration and application of tools in DevOps practices.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed discussion on a specific Jenkins plugin for masking passwords, which directly relates to practical tooling in a DevOps context. It explains the problem, the solution found through documentation, and the steps taken to implement the solution, showcasing a clear application of a tool to enhance security practices. This aligns well with the category's focus on practical techniques and tooling, demonstrating both conceptual alignment and depth of discussion.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T10:35:19",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-07T14:49:12",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the use of Jenkins, a tool commonly associated with DevOps practices, specifically focusing on masking passwords during builds, which relates to security and automation in the CI/CD process.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific issue related to Jenkins, a tool commonly used in DevOps for Continuous Integration and Continuous Delivery. It addresses the need for security in build logs, which aligns with DevOps principles of automation and security. However, the discussion is primarily focused on a specific technical problem rather than broader DevOps practices or cultural shifts, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Miscellaneous": {

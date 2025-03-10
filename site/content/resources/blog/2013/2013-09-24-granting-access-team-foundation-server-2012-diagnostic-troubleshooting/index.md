@@ -29,8 +29,8 @@ aliasesArchive:
 tags:
 - Troubleshooting
 - Install and Configuration
-- Practical Techniques and Tooling
 - System Configuration
+- Practical Techniques and Tooling
 categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 

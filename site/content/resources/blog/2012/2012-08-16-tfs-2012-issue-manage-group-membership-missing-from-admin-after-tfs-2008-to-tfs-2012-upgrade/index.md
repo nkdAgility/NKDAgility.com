@@ -8,7 +8,7 @@ ResourceImportId: 7176
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-16
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,8 +30,7 @@ aliasesArchive:
 - /resources/blog/tfs-2012-issue-manage-group-membership-missing-from-admin-after-tfs-2008-to-tfs-2012-upgrade
 tags:
 - Troubleshooting
-categories:
-- Engineering Excellence
+categories: []
 preview: metro-problem-icon-7-7.png
 
 ---

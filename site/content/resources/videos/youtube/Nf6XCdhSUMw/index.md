@@ -24,6 +24,7 @@ preview: https://i.ytimg.com/vi/Nf6XCdhSUMw/maxresdefault.jpg
 duration: 414
 isShort: false
 tags:
+- Metrics and Learning
 - Evidence Based Management
 - Decision Making
 - Evidence Based Leadership

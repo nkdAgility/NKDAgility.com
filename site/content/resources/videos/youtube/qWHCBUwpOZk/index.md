@@ -34,11 +34,11 @@ tags:
 - Practical Techniques and Tooling
 - Metrics and Learning
 - People and Process
-- Value Delivery
 - Agile Frameworks
 - Agile Project Management
 - Lean Thinking
 - Pragmatic Thinking
+- Software Development
 resourceTypes:
 - video
 categories:

@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T00:44:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:36:38",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical integration of SharePoint 2010 with Team Foundation Server 2010, detailing specific steps, configurations, and tools involved in the process.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed, step-by-step guide on integrating SharePoint 2010 with Team Foundation Server 2010, which directly relates to practical techniques and tooling in a DevOps context. It discusses specific tools (SharePoint and TFS), installation processes, configuration steps, and the implications of these integrations for project management. The depth of discussion is significant, covering various aspects of the integration process, including installation, configuration, and user permissions, which aligns well with the category's focus on practical application. However, while the content is rich in practical details, it does not delve into broader methodologies or frameworks that support Agile or DevOps practices, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:36:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of SharePoint 2010 with Team Foundation Server 2010, which relates to DevOps practices in terms of streamlining workflows and enhancing collaboration between development and operations teams. However, the primary focus is on the technical steps for integration rather than broader DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical integration of SharePoint 2010 with Team Foundation Server 2010, which is a specific implementation detail rather than a broader discussion of DevOps principles. While it touches on aspects of collaboration between tools (TFS and SharePoint), it lacks a comprehensive exploration of DevOps practices, cultural shifts, or metrics. The discussion is more about configuration and setup rather than the overarching themes of DevOps.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

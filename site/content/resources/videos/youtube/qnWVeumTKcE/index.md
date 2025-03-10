@@ -22,8 +22,7 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/qnWVeumTKcE/maxresdefault.jpg
 duration: 622
 isShort: false
-tags:
-- Events and Presentations
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4

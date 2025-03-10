@@ -8,7 +8,7 @@ ResourceImportId: 36
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-07-02
-weight: 660
+weight: 720
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,6 +30,8 @@ tags:
 - Events and Presentations
 categories:
 - Engineering Excellence
+- Product Management
+- DevOps
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

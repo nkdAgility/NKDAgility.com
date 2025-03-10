@@ -82,12 +82,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T12:01:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T12:47:12",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses performance engineering and user experience in the context of product development, touching on methodologies for testing and gathering feedback, which are relevant to product management. However, the primary focus is on technical implementation and engineering practices rather than strategic product management principles.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses performance engineering and its impact on user satisfaction and business goals, which aligns with product management principles. However, it primarily focuses on technical implementation details and testing strategies rather than the strategic aspects of product management. While it mentions the importance of understanding customer needs and gathering feedback, these points are not the primary focus of the discussion. The depth of discussion on product management concepts is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -1243,11 +1246,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T08:18:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:47:14",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses performance engineering, automated testing, and continuous delivery practices, which are central to technical excellence in software development. It provides insights into methodologies that enhance agility and quality in engineering practices.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses performance engineering and its importance in software development, which aligns with the principles of Technical Excellence. It highlights the need for automated testing, continuous delivery, and user feedback in production, which are key aspects of agile engineering practices. However, while it touches on relevant topics, the discussion lacks a structured focus on specific methodologies like TDD or CI/CD, leading to a slightly lower confidence score.",
     "level": "Secondary"
   },
   "Organisational Agility": {

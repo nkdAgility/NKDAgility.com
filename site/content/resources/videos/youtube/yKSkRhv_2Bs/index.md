@@ -31,11 +31,12 @@ tags:
 - People and Process
 - Agile Frameworks
 - Agile Project Management
+- Professional Scrum
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Scrum
+- Social Technologies
 
 ---
 ## Unlock the Full Potential of Scrum with APS Courses

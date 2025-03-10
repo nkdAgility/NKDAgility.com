@@ -24,12 +24,12 @@ preview: https://i.ytimg.com/vi/gEJhbET3nqs/maxresdefault.jpg
 duration: 245
 isShort: false
 tags:
+- Organisational Change
 - Agile Leadership
 - Organisational Agility
 - People and Process
 - Agile Transformation
 - Business Agility
-- Organisational Change
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -37,6 +37,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Social Technologies
 - Leadership
 - Scrum
 

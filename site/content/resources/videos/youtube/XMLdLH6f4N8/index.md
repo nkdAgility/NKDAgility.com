@@ -32,8 +32,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Leadership
 - Social Technologies
+- Leadership
 
 ---
 As I reflect on my recent experiences with organisational change and the impact it has on teams, I can't help but think about the journey we’ve all been on. It’s a journey that often feels chaotic, yet it’s one that can lead to incredible transformation when approached with the right mindset and tools. 

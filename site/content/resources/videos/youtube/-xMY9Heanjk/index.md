@@ -32,11 +32,11 @@ tags:
 - Empirical Process Control
 - Agile Frameworks
 - Agile Philosophy
-- Agile Product Management
 - Agile Project Management
 - Agile Transformation
 - Customer Feedback Loops
 - Discovery and Learning
+- Evidence Based Leadership
 resourceTypes:
 - video
 layout: video

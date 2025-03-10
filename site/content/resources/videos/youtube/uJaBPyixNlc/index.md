@@ -32,12 +32,12 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Coaching
 - Pragmatic Thinking
 - Agile Project Management
 - Software Development
 - Agile Frameworks
 - Agile Transformation
+- Coaching
 - Mentoring
 resourceTypes:
 - video

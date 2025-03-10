@@ -8,7 +8,7 @@ ResourceImportId: 3769
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-08-26
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,8 +29,7 @@ aliasesArchive:
 tags:
 - Troubleshooting
 preview: image-1.png
-categories:
-- Engineering Excellence
+categories: []
 
 ---
 [![subversion](images/subversion_thumb-17-17.png "subversion")](http://blog.hinshelwood.com/files/2011/08/subversion1.png)

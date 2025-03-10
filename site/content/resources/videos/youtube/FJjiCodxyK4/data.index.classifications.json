@@ -82,12 +82,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:11:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile Consulting and its impact on leadership and team dynamics, which are relevant to product management, but the primary focus is on consulting versus coaching rather than strategic product management practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the differences between agile consulting and coaching, focusing on the role of leadership and the learning process within organisations. While it touches on Agile principles, it lacks a direct focus on product management strategies, methodologies, or frameworks. The discussion is more about the implementation of Agile practices rather than the strategic alignment of product management, which diminishes its relevance to the category.",
+    "level": "Quaternary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -1201,11 +1204,14 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-12T07:39:59",
-    "ai_confidence": 70,
-    "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the role of leadership in fostering sustainable change and self-reliance within organisations, which aligns with the principles of business agility. However, it primarily focuses on the distinction between agile consulting and coaching rather than a comprehensive exploration of business agility itself.",
+    "calculated_at": "2025-03-07T14:11:10",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the role of leadership in agile transformations and the importance of internal learning versus reliance on external coaches, which aligns with the principles of business agility. However, it primarily focuses on the distinction between agile consulting and coaching rather than a broader exploration of business agility principles, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Kanban": {

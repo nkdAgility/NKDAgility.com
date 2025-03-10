@@ -22,8 +22,7 @@ aliasesArchive:
 - /blog/i-hope-you-did-not-pay-for-microsoft-office-sharepoint-designer-2007
 - /i-hope-you-did-not-pay-for-microsoft-office-sharepoint-designer-2007
 - /resources/blog/i-hope-you-did-not-pay-for-microsoft-office-sharepoint-designer-2007
-tags:
-- News and Reviews
+tags: []
 preview: metro-sharepoint-128-link-1-1.png
 categories: []
 

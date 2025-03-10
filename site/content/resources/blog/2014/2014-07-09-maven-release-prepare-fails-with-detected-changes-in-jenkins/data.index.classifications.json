@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T09:14:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:45:42",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for integrating Jenkins with TFS, including specific tooling configurations and methodologies for handling build processes and file management.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed discussion on the integration of Jenkins with TFS, specifically addressing practical issues encountered during a migration process. It explicitly mentions tools like Jenkins and TFS, and discusses methodologies for handling build failures and file management through .tfignore files. The depth of the discussion includes specific commands, error messages, and solutions, aligning well with the core themes of practical techniques and tooling in Agile and DevOps. Overall, the content is highly relevant and focused on practical application, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T09:14:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:45:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the integration of Jenkins with TFS, focusing on build processes and automation, which are key aspects of DevOps practices.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the integration of Jenkins with TFS, which is relevant to DevOps practices, particularly in the context of Continuous Integration and Continuous Delivery. It addresses issues related to build processes and source control management, which are key aspects of DevOps. However, the discussion lacks depth in exploring broader DevOps principles, cultural shifts, or metrics, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Miscellaneous": {

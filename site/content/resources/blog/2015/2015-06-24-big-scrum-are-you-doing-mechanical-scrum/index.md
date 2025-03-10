@@ -32,11 +32,11 @@ tags:
 - Scaling Scrum
 - Scrum Values
 - Agile Frameworks
-- Agile Product Management
 - Agile Project Management
 - Agile Transformation
 - People and Process
 - Software Developers
+- Software Development
 categories:
 - Scrum
 - Social Technologies

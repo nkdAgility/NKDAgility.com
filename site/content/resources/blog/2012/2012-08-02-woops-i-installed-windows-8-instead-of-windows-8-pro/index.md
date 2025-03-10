@@ -29,8 +29,8 @@ aliasesArchive:
 tags:
 - Troubleshooting
 - Windows
-- Install and Configuration
 - System Configuration
+- Install and Configuration
 preview: nakedalm-windows-logo-7-7.png
 categories: []
 

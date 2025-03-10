@@ -1186,12 +1186,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T12:04:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T12:49:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the role of Scrum Masters and their impact on team performance, which indirectly relates to DevOps practices. However, the primary focus is on Scrum methodology rather than DevOps principles, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 34.0,
+    "reasoning": "The content discusses the role of Scrum Masters and their impact on team performance and ROI, which indirectly touches on DevOps principles like collaboration and metrics. However, the primary focus is on Scrum methodology rather than DevOps practices, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1270,11 +1273,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-12T07:58:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:49:14",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the role of Scrum Masters in enhancing team performance and ROI, focusing on team dynamics, leadership, and the importance of competencies in Agile environments.",
+    "final_score": 80.0,
+    "reasoning": "The content primarily discusses the role of Scrum Masters in enhancing team performance and ROI, which directly relates to team dynamics and collaboration in Agile environments. It emphasises the importance of competent leadership and the impact of human factors on process efficiency. The depth of discussion includes specific metrics to evaluate team effectiveness, aligning well with evidence-based approaches to managing performance. Overall, the content strongly aligns with the 'People and Process' category.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {

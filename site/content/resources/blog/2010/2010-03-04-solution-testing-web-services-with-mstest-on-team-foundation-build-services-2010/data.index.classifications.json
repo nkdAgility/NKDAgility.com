@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T01:30:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:40:20",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for testing web services using MSTest within Team Foundation Build Services, including specific attributes and configurations necessary for successful automated testing.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed exploration of practical techniques for testing web services using MSTest within Team Foundation Build Services. It discusses specific attributes and methodologies for setting up tests, including the use of the AspNetDevelopmentServer and dynamic URL redirection. The focus on practical implementation and troubleshooting aligns well with the category, demonstrating a clear application of tooling and techniques in a real-world context.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,11 +733,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-16T01:39:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:40:17",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses testing methodologies, unit testing practices, and how to properly configure and automate test environments in a software development context, which aligns with the principles of engineering excellence.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on testing methodologies and practices related to web services using MSTest, which aligns with the principles of software craftsmanship and quality assurance. It discusses specific coding practices, attributes for unit tests, and the importance of correctly configuring tests in different environments, which are relevant to engineering excellence. However, while it touches on best practices, the depth of discussion on broader engineering processes and continuous improvement is limited, preventing a higher confidence score.",
     "level": "Secondary"
   },
   "Revenue per Employee": {

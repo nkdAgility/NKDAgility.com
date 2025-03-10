@@ -25,10 +25,10 @@ aliasesArchive:
 tags:
 - Windows
 - Install and Configuration
-- Practical Techniques and Tooling
 - System Configuration
 - Technical Mastery
 - Troubleshooting
+- Practical Techniques and Tooling
 categories: []
 preview: nakedalm-logo-128-link-3-3.png
 

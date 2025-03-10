@@ -346,12 +346,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:28:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile practices and the implications of bloated backlogs and unused features, which relate to engineering processes and quality of deliverables. However, the primary focus is on Agile principles rather than a comprehensive exploration of engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile practices and the pitfalls of backlog management, which are tangentially related to engineering excellence. However, it lacks a direct focus on software craftsmanship, coding standards, or quality assurance. While it touches on the importance of managing technical debt and improving processes, it does not delve deeply into best practices or metrics for assessing engineering performance, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1225,11 +1228,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-12T11:50:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T13:28:51",
+    "ai_confidence": 78.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the concept of 'gluttony' in Agile, focusing on the importance of managing product backlogs and ensuring that only valuable features are developed and maintained. It highlights the need for teams to assess the value of their backlog items and features, aligning closely with the principles of iterative development and maximising customer value.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the concept of 'gluttony' in Agile, focusing on the pitfalls of bloated backlogs and unnecessary features that do not deliver value to customers. It aligns well with the principles of iterative development and the importance of maximising customer value by eliminating waste. The depth of discussion is significant, as it provides examples and insights into how teams can improve their value delivery by being more selective about what features to develop and maintain. However, while it touches on value delivery, it does not explicitly frame the discussion within the context of Agile methodologies or practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Technical Excellence": {

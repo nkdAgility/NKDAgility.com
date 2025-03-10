@@ -32,9 +32,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Personal
 - Transparency
 - People and Process
-- Personal
 - Transparency and Accountability
 - Agile Values and Principles
 - Scrum Values

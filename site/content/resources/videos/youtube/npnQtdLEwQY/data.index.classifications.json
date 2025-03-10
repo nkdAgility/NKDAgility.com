@@ -457,11 +457,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-12T15:38:55",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-07T12:43:38",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the implications of technical debt and poor quality on operational efficiency, highlighting the need for continuous improvement and refactoring to enhance product quality and reduce costs. While it primarily focuses on technical debt, it also touches on strategies for managing quality and operational practices, making it a significant theme.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses technical debt and its implications on quality and efficiency, which are relevant to operational practices. However, while it touches on the importance of maintaining quality and managing technical debt, it lacks a direct focus on specific operational practices or methodologies like Agile, DevOps, or Lean. The discussion is more about the consequences of technical debt rather than providing actionable strategies or techniques for operational efficiency. Therefore, while it aligns conceptually with the category, the depth and direct mentions are limited.",
     "level": "Secondary"
   },
   "Decision Making": {
@@ -1147,12 +1150,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T11:58:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T12:43:34",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses technical debt and its implications on software quality and delivery, which are relevant to DevOps practices. However, the primary focus is on technical debt rather than the broader principles and practices of DevOps, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses technical debt and its implications on software quality and delivery, which are relevant to DevOps principles. It touches on continuous delivery and the need for quality in the context of deployment, but it lacks a direct focus on DevOps practices, tools, or cultural shifts. While it provides some depth regarding the consequences of technical debt and examples of architectural decisions, it does not explicitly address the broader DevOps framework or metrics for success.",
+    "level": "Secondary"
   },
   "People and Process": {
     "category": "People and Process",

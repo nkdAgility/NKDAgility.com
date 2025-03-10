@@ -29,7 +29,6 @@ aliasesArchive:
 - /resources/blog/
 tags:
 - People and Process
-- Agile Product Management
 - Azure DevOps
 - Practical Techniques and Tooling
 - Product Delivery
@@ -38,6 +37,7 @@ tags:
 - Test First Development
 - Agile Planning
 - Agile Project Management
+- Agile Transformation
 categories:
 - DevOps
 - Engineering Excellence

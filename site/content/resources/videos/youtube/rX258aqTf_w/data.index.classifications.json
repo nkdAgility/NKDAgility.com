@@ -82,12 +82,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T16:42:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:17:13",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile consulting and its implications for internal capabilities and leadership, which are relevant to product management. However, the primary focus is on agile coaching and consulting rather than the strategic aspects of product management itself.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses agile consulting and its implications for leadership within organisations, which touches on aspects of product management, particularly in relation to aligning business needs and leadership roles. However, it primarily focuses on the role of agile coaches versus consultants rather than the strategic aspects of product management itself. The discussion lacks depth in product management methodologies and frameworks, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -1201,11 +1204,14 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-12T02:28:27",
-    "ai_confidence": 70,
-    "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the role of agile consultants and coaches in developing internal capabilities and leadership within organisations, which aligns with the principles of business agility. However, it primarily focuses on the consulting aspect rather than broader business agility strategies.",
+    "calculated_at": "2025-03-07T14:17:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses agile consulting and the need for leadership within organisations, which aligns with the principles of business agility. However, it primarily focuses on the role of consultants versus coaches rather than directly addressing broader business agility principles. The discussion lacks depth in exploring how to foster a culture of innovation or the impact of technology on business agility, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Kanban": {

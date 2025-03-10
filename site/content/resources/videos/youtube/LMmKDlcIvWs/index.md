@@ -29,9 +29,9 @@ sitemap:
   priority: 0.6
 tags:
 - Strategy
-- Metrics and Learning
 - Agile Frameworks
 - Lean Thinking
+- Metrics and Learning
 - Operational Practices
 - Pragmatic Thinking
 - Flow Efficiency

@@ -280,12 +280,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T19:45:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:17:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses an issue related to Team Foundation Server (TFS), which is part of the Azure DevOps suite, and provides insights into troubleshooting and technical details relevant to Azure DevOps functionalities.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses an issue related to Team Foundation Server (TFS), which is part of the Azure DevOps suite. However, it focuses more on a specific problem and troubleshooting steps rather than providing a comprehensive overview or best practices related to Azure DevOps as a whole. While it does mention TFS, it lacks broader discussions on Azure DevOps functionalities, methodologies, or integration with other tools, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",
@@ -730,12 +733,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:17:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical issue related to Team Foundation Server, and while it touches on troubleshooting and software quality issues, it primarily focuses on a specific problem rather than on overarching engineering excellence practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific issue related to TFS Preview and troubleshooting steps, which does not directly address the principles of software craftsmanship or best practices in engineering. While it touches on a technical problem and its resolution, it lacks a broader discussion on engineering excellence, such as coding standards, CI/CD practices, or quality assurance methodologies. The focus is more on a specific bug and its resolution rather than promoting high standards in software development.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

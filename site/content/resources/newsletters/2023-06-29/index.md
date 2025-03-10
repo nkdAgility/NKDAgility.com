@@ -29,8 +29,8 @@ tags:
 - Events and Presentations
 - Organisational Agility
 - People and Process
+- Business Agility
 - Agile Strategy
-- Pragmatic Thinking
 
 ---
 Dear NKD Agilists!

@@ -28,12 +28,12 @@ aliasesArchive:
 - /resources/blog/upgrade-tfs-2013-update-2
 tags:
 - Install and Configuration
+- Practical Techniques and Tooling
 - Release Management
 - System Configuration
 - Agile Planning Tools
 - Application Lifecycle Management
 - News and Reviews
-- Practical Techniques and Tooling
 - Products and Books
 - Azure DevOps
 - Frequent Releases

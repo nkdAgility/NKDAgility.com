@@ -27,7 +27,6 @@ aliasesArchive:
 - /blog/what's-new-in-visual-studio-2013-team-foundation-server-preview
 - /resources/blog/get-visual-studio-2013-team-foundation-server-while-its-hot
 tags:
-- Agile Product Management
 - Agile Planning Tools
 - Agile Project Management
 - Collaboration Tools
@@ -37,6 +36,7 @@ tags:
 - Team Collaboration
 - Agile Planning
 - Agile Strategy
+- Application Lifecycle Management
 categories:
 - Social Technologies
 - Scrum

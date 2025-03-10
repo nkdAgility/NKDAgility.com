@@ -28,10 +28,10 @@ aliasesArchive:
 - /resources/blog/using-build-vnext-capabilities-demands-system
 tags:
 - Windows
+- Practical Techniques and Tooling
 - Install and Configuration
 - Azure DevOps
 - Azure Pipelines
-- Practical Techniques and Tooling
 - System Configuration
 - Continuous Integration
 - Software Development

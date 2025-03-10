@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T17:13:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:15:00",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the configuration and troubleshooting of TFS Integration Tools, which aligns with practical techniques and tooling in Agile and DevOps practices.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed discussion on troubleshooting a specific issue related to TFS Integration Tools, which falls under practical techniques and tooling. It explicitly mentions configuration steps and permissions required for effective use of the tools, aligning well with the category's focus on methodologies and frameworks that enhance Agile and DevOps practices. The depth of discussion includes specific solutions and recommendations, indicating a strong practical application. However, it lacks broader context on Agile or DevOps practices, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:14:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses TFS Integration Tools, which are relevant to DevOps practices, but the primary focus is on troubleshooting a specific issue rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses TFS Integration Tools and configuration issues, which are related to DevOps practices, particularly in the context of Continuous Integration and deployment. However, it lacks a broader discussion on DevOps principles, cultural shifts, or tools beyond TFS. The focus is primarily on troubleshooting a specific issue rather than on the integration of people, processes, and tools in a DevOps context.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

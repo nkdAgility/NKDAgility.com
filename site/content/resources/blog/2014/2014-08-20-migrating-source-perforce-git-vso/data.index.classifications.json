@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T09:05:58",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-07T14:44:45",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses the practical techniques and tooling involved in migrating from Perforce to Git, including specific steps, tools, and methodologies relevant to Agile and DevOps practices.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed, step-by-step guide on migrating from Perforce to Git, which directly addresses practical techniques and tooling relevant to Agile and DevOps practices. It discusses specific tools (Git, VSO, NuGet) and methodologies (migration strategies, CI/CD setup) that enhance team performance and collaboration. The depth of discussion is significant, covering various aspects of the migration process, including repository management, build processes, and dependency handling, which aligns well with the key topics of the category.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T09:06:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:44:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the migration of source control systems and the implications of using Git, which are central to DevOps practices. It covers aspects of Continuous Integration (CI), automation in builds, and the cultural shift required for adopting new tools, aligning well with DevOps principles.",
+    "final_score": 73.0,
+    "reasoning": "The content primarily focuses on the migration of source control from Perforce to Git, which is a significant aspect of DevOps practices. It discusses the implications of moving to a node-based version control system, the importance of CI builds, and the need for automation in the build process, all of which align with DevOps principles. However, while it touches on relevant topics, it lacks a broader discussion on cultural shifts, collaboration, and specific DevOps tools beyond Git and VSO, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Miscellaneous": {

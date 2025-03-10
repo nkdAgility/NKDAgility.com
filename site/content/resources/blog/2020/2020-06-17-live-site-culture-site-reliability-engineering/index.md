@@ -28,7 +28,6 @@ aliasesArchive:
 - /resources/blog/live-site-culture-site-reliability-engineering
 categories:
 - DevOps
-- Engineering Excellence
 preview: 2020-06-17_13-06-30-1-1.jpg
 tags:
 - Business Agility
@@ -39,8 +38,8 @@ tags:
 - Enterprise Agility
 - Organisational Agility
 - Pragmatic Thinking
+- Product Delivery
 - Software Development
-- Continuous Learning
 
 ---
 As more and more organisations move towards a higher degree of agility, they inevitably also move towards DevOps practices like Continuous Delivery to facilitate shortening the feedback loops.

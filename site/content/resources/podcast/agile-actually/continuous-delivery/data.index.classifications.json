@@ -76,12 +76,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T15:31:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:19:04",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a podcast that provides insights into Agile practices, which is a major theme, but it primarily focuses on the hosts and their expertise rather than specific news or reviews.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses a podcast that focuses on Agile principles, specifically the importance of language in the Agile context. While it mentions Agile and DevOps, the primary focus is on the podcast's insights rather than providing a review or news update. The hosts' credentials add depth, but the content lacks a broader industry context or recent developments, which limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -133,12 +136,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T15:31:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:19:00",
+    "ai_confidence": 68.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and the importance of language in the Agile context, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses Agile principles and the importance of language in the Agile context, which aligns with the core themes of Social Technologies. However, it lacks detailed exploration of specific frameworks like Scrum or Kanban, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",

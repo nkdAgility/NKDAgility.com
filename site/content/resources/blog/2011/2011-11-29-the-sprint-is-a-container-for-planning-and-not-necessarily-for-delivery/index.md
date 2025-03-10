@@ -24,7 +24,6 @@ aliasesArchive:
 - /resources/blog/the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
 tags:
 - Definition of Done
-- Agile Product Management
 - Continuous Delivery
 - Product Delivery
 - Software Development
@@ -33,6 +32,7 @@ tags:
 - Agile Frameworks
 - Agile Project Management
 - Agile Transformation
+- Automated Testing
 categories:
 - DevOps
 - Engineering Excellence

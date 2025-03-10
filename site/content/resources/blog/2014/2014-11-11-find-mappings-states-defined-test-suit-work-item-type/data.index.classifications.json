@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T08:56:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:42:52",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses troubleshooting and configuration of work item types in TFS, offering practical solutions for a specific error and detailing how to correct process configurations, which aligns well with practical techniques and tooling.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses a specific issue related to the configuration of work item types in TFS, providing practical solutions to resolve the problem. It directly addresses tooling (TFS) and offers actionable steps for users to fix a configuration error, which aligns with the category's focus on practical techniques. However, while it mentions tooling and provides solutions, the depth of discussion on broader methodologies or frameworks is limited, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,12 +733,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:42:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical issue related to work item types in TFS and provides solutions focused on configuration in software development processes, indicating a major but secondary theme connected to engineering practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific technical issue related to TFS and custom process templates, which touches on aspects of software craftsmanship and quality assurance. However, it primarily focuses on troubleshooting a specific error rather than promoting broader engineering excellence principles or practices. While there are mentions of configuration and customisation, the depth of discussion does not sufficiently cover best practices or continuous improvement in engineering processes.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

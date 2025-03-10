@@ -26,9 +26,9 @@ tags:
 - Continuous Learning
 - Professional Scrum
 - Agile Project Management
-- People and Process
 - Products and Books
 - Software Development
+- People and Process
 - Practical Techniques and Tooling
 - Scrum Master
 - Agile Transformation

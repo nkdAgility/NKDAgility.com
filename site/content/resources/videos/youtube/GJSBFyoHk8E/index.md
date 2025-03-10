@@ -32,12 +32,12 @@ tags:
 - Scrum Team
 - Agile Product Management
 - People and Process
-- Professional Scrum
 - Agile Frameworks
 - Agile Planning
 - Agile Project Management
 - Software Development
 - Value Delivery
+- Professional Scrum
 resourceTypes:
 - video
 categories:

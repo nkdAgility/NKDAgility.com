@@ -8,7 +8,7 @@ ResourceImportId: 9769
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-22
-weight: 775
+weight: 810
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,8 +23,8 @@ aliasesArchive:
 - /creating-a-custom-activity-for-team-foundation-build
 - /resources/blog/creating-a-custom-activity-for-team-foundation-build
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
 - Software Development
 - Azure DevOps
 - Azure Pipelines
@@ -34,7 +34,6 @@ tags:
 - Technical Mastery
 categories:
 - DevOps
-- Engineering Excellence
 
 ---
 You can be creating a custom activity for Team Foundation Build in a few simple steps. There are always advanced steps but this will get you started.

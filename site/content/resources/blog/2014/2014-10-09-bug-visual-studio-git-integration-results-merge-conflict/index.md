@@ -8,7 +8,7 @@ ResourceImportId: 10734
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-10-09
-weight: 775
+weight: 720
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,8 +29,8 @@ aliasesArchive:
 tags:
 - Troubleshooting
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
 preview: naked-alm-git-2-2.png
 
 ---

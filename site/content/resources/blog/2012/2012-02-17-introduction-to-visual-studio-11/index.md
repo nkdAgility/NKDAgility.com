@@ -28,7 +28,6 @@ tags:
 - News and Reviews
 - Practical Techniques and Tooling
 - Products and Books
-- Team Collaboration
 - Azure DevOps
 - Software Development
 categories: []

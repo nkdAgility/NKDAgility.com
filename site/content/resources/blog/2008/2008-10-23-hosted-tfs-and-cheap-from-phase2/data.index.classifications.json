@@ -10,11 +10,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-16T11:31:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:50:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a review of a hosted TFS service, which is relevant to tools and software that facilitate Agile practices and DevOps integration.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on a review of a hosted TFS service provided by Phase2, discussing its features, pricing, and support. It aligns well with the category as it provides insights into a software product relevant to Agile and DevOps practices. The discussion includes specific details about the service's offerings, which enhances the understanding of how this product can be beneficial for users. However, while it is a detailed review, it lacks broader discussions on Agile methodologies or comparisons with other products, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -73,12 +76,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:13:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:50:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses hosted TFS, which is a tool relevant to DevOps practices, but the primary focus is on the service offering and features rather than on DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a hosted TFS service, which is related to version control and project management tools often used in DevOps. However, it lacks a direct focus on DevOps principles, practices, or cultural shifts. The mention of TFS and its features does not delve into automation, CI/CD, or the collaborative aspects of DevOps, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",

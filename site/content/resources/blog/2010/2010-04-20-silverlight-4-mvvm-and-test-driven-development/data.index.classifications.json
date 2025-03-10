@@ -145,11 +145,14 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T00:55:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:37:32",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a specific event featuring a talk by Jesse Liberty on Silverlight 4, including details about the agenda, venue, and registration, which aligns well with the category.",
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses an upcoming talk by Jesse Liberty, detailing the event's location, agenda, and speaker background, which aligns closely with the category of Events and Presentations. The focus on a specific presentation, including topics covered and logistical details, demonstrates a strong alignment with the core themes of the category. The depth of information provided about the event and the speaker further supports a high confidence score.",
     "level": "Secondary"
   },
   "Flow Efficiency": {
@@ -730,12 +733,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:37:28",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Test-Driven Development, MVVM, and refactoring, which are related to software craftsmanship and engineering practices. However, it does not focus primarily on Engineering Excellence and contains significant event-related information.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses MVVM and test-driven development, which are relevant to software craftsmanship and quality assurance. However, it primarily focuses on an event and the speaker rather than providing a detailed exploration of engineering excellence principles or practices. The mention of refactoring and dependency injection aligns with best practices, but the overall depth and direct focus on engineering excellence are limited.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

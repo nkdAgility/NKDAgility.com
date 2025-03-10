@@ -34,6 +34,7 @@ resourceTypes:
 categories:
 - Product Management
 - Scrum
+- Social Technologies
 
 ---
 ## Step Up Your Game with the PSPO-A Course

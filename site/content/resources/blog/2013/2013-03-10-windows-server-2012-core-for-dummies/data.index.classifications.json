@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T19:21:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:09:56",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for setting up and managing Windows Server 2012 Core, including command line operations and configurations, which aligns well with the category's focus on practical application of tools and methodologies.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed guide on setting up and configuring Windows Server 2012 Core, which includes practical techniques and command-line tooling. It discusses specific commands and configurations necessary for effective server management, aligning well with the category's focus on practical application of tools and methodologies. The depth of discussion is significant, covering various tasks and their command-line implementations, which enhances the overall understanding of the tooling involved. However, while it is primarily focused on practical techniques, it does not explicitly mention Agile or DevOps practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:09:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses server management and configuration, which are relevant to DevOps practices, particularly in the context of automation and deployment. However, it primarily focuses on Windows Server 2012 Core setup rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on setting up and configuring Windows Server 2012 Core, which is more aligned with system administration than DevOps practices. While it touches on aspects like remote management and firewall configuration, it lacks a strong emphasis on DevOps principles such as Continuous Integration, Continuous Delivery, or collaboration between development and operations teams. The mention of Team Foundation Server (TFS) at the end hints at a connection to DevOps, but it is not the main focus of the content.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

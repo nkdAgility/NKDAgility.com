@@ -29,18 +29,18 @@ tags:
 - Coaching
 - Agile Values and Principles
 - Resilience and Change
-- Agile Frameworks
 - Agile Leadership
 - Agile Philosophy
 - Agile Project Management
 - Agile Strategy
 - Agile Transformation
 - Change Management
+- Organisational Change
 resourceTypes:
 - video
 categories:
-- Leadership
 - Social Technologies
+- Leadership
 
 ---
 **Must have trait in an Agile Consultant**

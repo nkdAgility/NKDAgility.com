@@ -1108,11 +1108,14 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-12T15:59:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:44:19",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of data and metrics in decision-making processes, particularly in the context of hypothesis-driven engineering practices. It highlights the role of metrics in assessing progress towards goals and the iterative learning cycle, which aligns well with the principles of the 'Metrics and Learning' category.",
+    "final_score": 76.0,
+    "reasoning": "The content discusses the importance of data and metrics in decision-making, particularly through the lens of hypothesis-driven engineering. It explicitly mentions the need for measuring progress towards goals and the iterative learning process involved in product development. The example of the Azure DevOps team illustrates the application of metrics in a real-world scenario, showcasing both successes and failures in learning from experiments. The depth of discussion is significant, as it covers various aspects of metrics, including their role in resource allocation and the impact of learning on future decisions. Overall, the content aligns well with the core themes of the 'Metrics and Learning' category.",
     "level": "Secondary"
   },
   "Agile Product Management": {
@@ -1153,12 +1156,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T11:59:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T12:44:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the importance of measuring success and making data-driven decisions in product development, which aligns with DevOps principles. However, it primarily focuses on hypothesis-driven engineering practices and budget allocation rather than core DevOps practices like CI/CD or automation.",
-    "level": "Tertiary"
+    "final_score": 34.0,
+    "reasoning": "The content discusses hypothesis-driven engineering practices and touches on the allocation of resources in product development, which aligns with some DevOps principles. However, it primarily focuses on product management and decision-making rather than the core themes of DevOps such as CI/CD, automation, or collaboration between development and operations teams. The mention of Azure DevOps is relevant but not central to the discussion, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "People and Process": {
     "category": "People and Process",

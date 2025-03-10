@@ -49,12 +49,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T14:29:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:09:51",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of objective measures like cycle time and throughput over subjective metrics such as story points and velocity, which aligns with the principles of Evidence-Based Management. However, the primary focus is on critiquing specific agile practices rather than a comprehensive discussion on EBM.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content critiques the use of subjective metrics like story points and velocity, advocating for objective measures such as cycle time and throughput. While it touches on the importance of empirical data in decision-making, it does not explicitly discuss the principles of Evidence-Based Management or provide a comprehensive exploration of its practices. The focus is more on a critique of certain agile practices rather than a thorough examination of EBM as a whole.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -367,11 +370,14 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-17T14:31:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:09:45",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses cycle time and throughput, which are relevant metrics in Kanban, but the primary focus is on critiquing story points and velocity in Agile, making Kanban a secondary theme.",
+    "final_score": 58.0,
+    "reasoning": "The content briefly mentions cycle time and throughput, which are relevant metrics in Kanban, but primarily focuses on critiquing story points and velocity, which are more aligned with Scrum practices. The discussion lacks depth on Kanban principles and does not provide a comprehensive exploration of Kanban methodologies.",
     "level": "Tertiary"
   },
   "Scaling Kanban": {

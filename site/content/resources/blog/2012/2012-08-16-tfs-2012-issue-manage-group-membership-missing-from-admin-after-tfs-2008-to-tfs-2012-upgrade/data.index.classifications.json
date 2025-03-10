@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T19:45:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:17:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a practical issue related to managing group membership in TFS after an upgrade, providing specific command-line solutions and troubleshooting steps, which aligns well with the category's focus on practical techniques and tooling.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a practical solution to a specific issue encountered during a TFS upgrade, detailing command-line instructions and troubleshooting steps. It directly addresses the use of tooling (TFS Security) and methodologies for managing permissions, which aligns with the category's focus. However, while it discusses practical techniques, the depth of discussion on broader Agile or DevOps practices is limited, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,12 +733,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:16:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content provides detailed instructions on resolving permission issues in TFS after an upgrade, touching on practices related to user management and permissions which can relate to software engineering practices, but it primarily focuses on a specific technical issue rather than overarching engineering excellence principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to permissions in TFS after an upgrade, which is more focused on troubleshooting than on broader engineering excellence practices. While it touches on aspects of permissions management, it lacks a comprehensive discussion on software craftsmanship, best practices, or continuous improvement in engineering processes.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

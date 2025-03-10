@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T00:26:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:35:04",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the development and implementation of event handlers for Team Foundation Server, which aligns with practical techniques and tooling in Agile and DevOps practices.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed exploration of the TFS Event Handler, discussing specific functionalities and integration points that enhance team performance and tooling within the context of Agile and DevOps practices. It explicitly mentions the use of TFS, a tool relevant to Agile methodologies, and outlines practical applications of event handling, which aligns well with the category's focus. However, while it discusses practical techniques, it lacks broader context on Agile methodologies or case studies, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,12 +733,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:34:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses improvements and features related to the TFS Event Handler, which implies a focus on software crafting and development practices. However, the primary focus is on the TFS specific capabilities rather than broader principles of engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the reworking of an event handler for Team Foundation Server, which touches on aspects of software development practices. However, it primarily focuses on specific technical implementations rather than broader principles of engineering excellence, such as coding standards or quality assurance. While there are mentions of efficiency and integration points, the depth of discussion does not sufficiently cover the key topics outlined in the category definition.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

@@ -37,6 +37,7 @@ resourceTypes:
 categories:
 - Product Management
 - Scrum
+- Social Technologies
 
 ---
 ## Defining Roles in Agile

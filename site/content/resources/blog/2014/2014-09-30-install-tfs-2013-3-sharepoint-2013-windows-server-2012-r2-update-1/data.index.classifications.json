@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T09:03:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:44:37",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the installation and configuration process of TFS 2013.3 with SharePoint, detailing practical steps, tools, and methodologies involved in the setup, which aligns well with the category focus.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed walkthrough of the installation and configuration process for TFS 2013.3 with SharePoint on Windows Server 2012 R2. It discusses practical techniques for setting up the environment, including the importance of using a clean server, the implications of pre-installed software, and specific configuration options. The author shares insights on best practices, such as the need for proper SQL configuration and the use of advanced installation options. This aligns well with the category's focus on practical techniques and tooling, demonstrating a clear application of methodologies and frameworks that enhance DevOps practices.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,11 +733,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 40,
+    "calculated_at": "2025-03-07T14:44:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 36.0,
-    "reasoning": "The content primarily discusses the installation and configuration of TFS and related software, which includes some technical aspects of software deployment. However, it lacks a strong focus on high standards in software craftsmanship and best practices in software development. It does not significantly address principles of quality assurance or continuous improvement processes typically associated with engineering excellence.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS and SharePoint, which is more operational than strategic in terms of engineering excellence. While it touches on some best practices, such as the importance of following installation specifications and the use of readiness checks, it lacks a broader discussion on software craftsmanship, quality assurance, or continuous improvement processes. The depth of technical detail is present, but it does not sufficiently align with the core themes of engineering excellence.",
     "level": "Quaternary"
   },
   "Revenue per Employee": {

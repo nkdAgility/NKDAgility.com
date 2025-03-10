@@ -25,11 +25,7 @@ preview: https://i.ytimg.com/vi/gc8Pq_5CepY/maxresdefault.jpg
 duration: 1686
 isShort: false
 tags:
-- Professional Scrum
-- Events and Presentations
-- People and Process
 - Software Developers
-- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

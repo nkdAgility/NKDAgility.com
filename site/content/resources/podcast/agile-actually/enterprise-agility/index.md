@@ -16,6 +16,7 @@ aliases:
 - /resources/SOXXjw2lnAK
 tags:
 - Transparency
+- People and Process
 - Transparency and Accountability
 
 ---

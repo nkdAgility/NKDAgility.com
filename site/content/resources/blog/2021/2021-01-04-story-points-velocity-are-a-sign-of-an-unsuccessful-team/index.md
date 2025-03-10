@@ -37,7 +37,7 @@ tags:
 - Cycle Time
 - Scrum Product Development
 - Scrum Team
-- Transparency and Accountability
+- Value Delivery
 categories:
 - Scrum
 preview: image-9-14-14.png

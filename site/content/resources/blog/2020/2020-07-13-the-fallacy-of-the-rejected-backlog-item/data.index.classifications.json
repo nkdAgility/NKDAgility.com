@@ -181,12 +181,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:24:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of quality in software development, particularly in the context of Scrum practices and the implications of not delivering a 'DONE' increment. It touches on technical debt, accountability for quality, and the need for effective communication and collaboration within the development team, which are relevant to engineering excellence. However, the primary focus is on Scrum roles and processes rather than broader engineering practices.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of quality in software development, particularly in the context of Scrum practices. It highlights the implications of rejecting backlog items and the associated technical debt, which aligns with the principles of software craftsmanship and quality assurance. However, while it touches on engineering practices, the primary focus is on Scrum roles and processes rather than a broader discussion of engineering excellence. The depth of discussion on engineering practices is moderate, but it lacks comprehensive coverage of best practices or continuous improvement strategies.",
+    "level": "Secondary"
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -1150,11 +1153,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-13T22:34:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:24:33",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the roles and responsibilities of the Product Owner and Development Team within the Scrum framework, focusing on collaboration, accountability, and communication during the Sprint Review process. It highlights the importance of team dynamics and the human factors influencing Agile practices, making it a central theme.",
+    "final_score": 76.0,
+    "reasoning": "The content extensively discusses the roles and responsibilities of the Product Owner and Development Team within the Scrum framework, highlighting the importance of collaboration, communication, and accountability. It addresses team dynamics, the impact of leadership decisions on process outcomes, and the necessity of adapting processes based on feedback and learning. The depth of discussion on these human factors and their influence on the Scrum process aligns well with the 'People and Process' category, making it a primary focus rather than a secondary mention.",
     "level": "Secondary"
   },
   "Product Delivery": {

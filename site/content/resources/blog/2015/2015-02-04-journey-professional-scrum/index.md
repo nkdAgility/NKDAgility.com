@@ -30,13 +30,13 @@ tags:
 - People and Process
 - Scrum Product Development
 - Strategy
-- Agile Product Management
 - Agile Project Management
 - Business Agility
 - Organisational Agility
 - Organisational Change
 - Organisational Culture
 - Product Delivery
+- Professional Scrum
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-5-5.png

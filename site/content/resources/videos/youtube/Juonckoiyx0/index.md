@@ -27,13 +27,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Product Management
 - Product Delivery
 - People and Process
 - Scrum Product Development
 - Scrum Team
 - Sprint Review
 - Agile Planning
-- Agile Product Management
 - Product Owner
 - Professional Scrum
 - Scrum Master

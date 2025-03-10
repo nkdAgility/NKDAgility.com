@@ -38,8 +38,8 @@ tags:
 - Agile Transformation
 - Business Agility
 - Change Management
-- Discovery and Learning
 - Market Adaptability
+- Organisational Change
 resourceTypes:
 - video
 categories:

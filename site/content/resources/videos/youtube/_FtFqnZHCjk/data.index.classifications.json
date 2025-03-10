@@ -1168,11 +1168,14 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-12T12:54:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:59:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the evolution of product management in the context of Agile methodologies, focusing on how shorter delivery cycles enhance responsiveness to market demands and customer feedback. It highlights the importance of adapting practices to improve market positioning and customer satisfaction, aligning well with the principles of market adaptability.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses Agile product management and its evolution, focusing on how shorter delivery cycles enhance responsiveness to market needs. It highlights the importance of adapting practices to improve customer feedback integration and reduce time-to-market, which aligns well with the principles of market adaptability. However, while it touches on relevant themes, it does not delve deeply into specific strategies or methodologies like Lean or DevOps, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -1186,11 +1189,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T12:36:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T12:59:00",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the transition from traditional product management to agile product management, highlighting the importance of shorter delivery cycles and continuous delivery, which are key principles of DevOps. However, the primary focus is on product management rather than DevOps practices themselves.",
+    "final_score": 43.0,
+    "reasoning": "The content discusses Agile product management and its evolution, touching on aspects of delivery cycles and the importance of feedback, which are relevant to DevOps principles. However, it primarily focuses on product management rather than the integration of development and operations, which is central to DevOps. While there are mentions of delivery cycles and the need for quality, the discussion lacks depth in DevOps-specific practices, tools, and cultural shifts, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Azure DevOps": {

@@ -32,8 +32,8 @@ tags:
 - Continuous Learning
 - People and Process
 - Coaching
-- Personal
 - Team Collaboration
+- Personal
 - Discovery and Learning
 - Agile Leadership
 - Agile Philosophy

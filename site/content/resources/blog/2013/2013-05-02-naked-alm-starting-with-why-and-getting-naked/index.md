@@ -28,7 +28,6 @@ aliasesArchive:
 - /resources/blog/naked-alm-starting-with-why-and-getting-naked
 tags:
 - Application Lifecycle Management
-- Discovery and Learning
 - People and Process
 - Working Software
 - Agile Philosophy
@@ -37,8 +36,11 @@ tags:
 - Business Agility
 - Customer Feedback Loops
 - Product Delivery
+- Products and Books
 categories:
 - Product Management
+- DevOps
+- Engineering Excellence
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

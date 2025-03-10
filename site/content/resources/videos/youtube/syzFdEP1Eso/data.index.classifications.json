@@ -85,12 +85,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T15:44:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:21:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of 'Definition of Done' in the context of Scrum, which is a significant aspect of product management methodologies. However, it primarily focuses on the technical implementation details rather than the strategic alignment of product management principles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the concept of 'Definition of Done' within the context of Scrum, which is a project management framework rather than a direct discussion on product management. While it touches on quality assurance and customer satisfaction, it lacks a broader strategic focus on product management methodologies or frameworks. The analogy used is engaging but does not delve deeply into the strategic alignment of customer needs and business objectives, which are core to product management.",
+    "level": "Quaternary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -268,11 +271,14 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-12T01:26:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T13:21:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the concept of 'Definition of Done' within the context of Scrum, which is a specific Agile framework. It explores its importance in ensuring quality and aligns with Agile principles, making it a central topic.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the concept of 'Definition of Done' within the context of Scrum, which is an Agile framework. It provides a detailed analogy to explain the importance of quality and acceptance criteria in product delivery. However, while it touches on Agile principles, the discussion is somewhat limited to a specific aspect of Scrum without a broader exploration of Agile frameworks or their comparative analysis. The content does not delve deeply into other Agile frameworks or their implementation challenges, which affects the overall depth of discussion.",
     "level": "Secondary"
   },
   "Scaling Agility": {

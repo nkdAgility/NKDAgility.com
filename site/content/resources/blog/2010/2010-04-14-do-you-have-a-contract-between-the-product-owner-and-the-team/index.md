@@ -27,13 +27,13 @@ aliasesArchive:
 - /blog/do-you-have-a-contract-between-the-product-owner-and-the-team-
 - /resources/blog/do-you-have-a-contract-between-the-product-owner-and-the-team
 tags:
-- Agile Product Management
 - Agile Project Management
 - Product Owner
 - Scrum Product Development
 - Scrum Team
 - Agile Frameworks
 - Agile Planning
+- Agile Product Management
 - People and Process
 - Product Delivery
 - Professional Scrum

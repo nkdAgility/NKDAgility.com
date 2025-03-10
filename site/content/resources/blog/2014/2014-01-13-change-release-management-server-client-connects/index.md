@@ -30,12 +30,11 @@ tags:
 - Install and Configuration
 - Release Management
 - System Configuration
-- Practical Techniques and Tooling
 - Azure DevOps
 - Troubleshooting
+- Practical Techniques and Tooling
 - Pragmatic Thinking
-categories:
-- DevOps
+categories: []
 
 ---
 As a consultant I am onsite at a different customer every week and as I use my own laptop for most engagements I need to be able to change the Release Management Server that I connect to from the thick client.

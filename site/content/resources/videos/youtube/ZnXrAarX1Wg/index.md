@@ -31,7 +31,6 @@ tags:
 - People and Process
 - Agile Project Management
 - Agile Transformation
-- Software Development
 resourceTypes:
 - video
 categories:

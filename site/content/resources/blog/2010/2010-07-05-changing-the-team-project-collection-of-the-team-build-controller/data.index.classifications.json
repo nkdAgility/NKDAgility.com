@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T00:28:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:35:22",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the practical steps and configurations needed to manage Team Build Controllers and Project Collections in TFS 2010, which aligns with the exploration and application of tooling in Agile and DevOps practices.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed walkthrough of configuring the Team Build Controller in Team Foundation Server 2010, which directly relates to practical tooling in a DevOps context. It discusses specific steps and considerations for managing build configurations, aligning well with the category's focus on practical techniques and tooling. The depth of discussion is substantial, covering various aspects of the configuration process, but it could benefit from more explicit connections to broader Agile or DevOps methodologies.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T00:28:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:35:17",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration and management of Team Build Controllers and Team Project Collections in Team Foundation Server, which are integral to DevOps practices related to Continuous Integration and Continuous Delivery.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the configuration of Team Build Controllers and Project Collections within Team Foundation Server (TFS), which is relevant to DevOps practices, particularly in the context of Continuous Integration (CI) and Continuous Delivery (CD). It provides specific details about managing build configurations and the relationship between build controllers and project collections, indicating a good depth of discussion. However, it lacks broader discussions on cultural shifts, automation, or metrics that are also key to DevOps, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Miscellaneous": {

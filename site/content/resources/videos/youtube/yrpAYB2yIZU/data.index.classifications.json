@@ -127,12 +127,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-18T12:23:44",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content revolves around moving a domain controller, which is a specific task within the Windows Server operating system, thus aligning closely with the Windows category.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-07T14:51:28",
+    "ai_confidence": 92.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 95.0,
+    "ai_depth": 90.0,
+    "non_ai_confidence": 50,
+    "final_score": 88.0,
+    "reasoning": "The content is a detailed guide on migrating a domain controller within a Windows environment, explicitly discussing installation, configuration, and troubleshooting steps related to Active Directory. It directly addresses Windows-specific processes and settings, demonstrating a strong alignment with the key topics of the Windows category. The depth of discussion is substantial, covering various technical aspects and procedures necessary for managing Windows servers, particularly in the context of domain controller migration.",
+    "level": "Primary"
   },
   "Sprint Review": {
     "category": "Sprint Review",

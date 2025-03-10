@@ -23,7 +23,6 @@ aliasesArchive:
 - /create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
 - /resources/blog/create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
 tags:
-- Practical Techniques and Tooling
 - Software Development
 categories:
 - Social Technologies

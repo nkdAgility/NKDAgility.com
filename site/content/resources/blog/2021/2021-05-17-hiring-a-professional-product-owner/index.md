@@ -40,6 +40,7 @@ aliasesArchive:
 - /resources/blog/hiring-a-professional-product-owner
 tags:
 - Product Owner
+- Agile Product Management
 categories:
 - Scrum
 preview: image-3-3.png

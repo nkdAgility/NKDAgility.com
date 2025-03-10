@@ -27,6 +27,7 @@ isShort: false
 tags:
 - Product Delivery
 - Pragmatic Thinking
+- Technical Excellence
 - Continuous Delivery
 - People and Process
 - Working Software
@@ -34,7 +35,6 @@ tags:
 - Deployment Strategies
 - Engineering Practices
 - Software Developers
-- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

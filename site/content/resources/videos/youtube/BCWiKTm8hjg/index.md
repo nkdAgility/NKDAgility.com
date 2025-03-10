@@ -32,8 +32,8 @@ tags:
 - People and Process
 - Agile Values and Principles
 - Agile Philosophy
-- Team Collaboration
 - Team Motivation
+- Team Collaboration
 - Personal
 resourceTypes:
 - video

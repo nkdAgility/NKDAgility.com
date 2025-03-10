@@ -25,6 +25,7 @@ preview: https://i.ytimg.com/vi/Q2Fo3sM6BVo/maxresdefault.jpg
 duration: 891
 isShort: false
 tags:
+- Software Developers
 - Professional Scrum
 - Agile Frameworks
 - Agile Project Management
@@ -37,6 +38,7 @@ resourceTypes:
 - video
 categories:
 - Scrum
+- Social Technologies
 
 ---
 Scrum is a lightweight framework that empowers teams and organisations to generate value through adaptive solutions for complex problems. Over my 12 years as a professional Scrum trainer, I’ve seen firsthand how this framework can transform the way we work. Today, I want to share an overview of Scrum, breaking down its core components: five values, three accountabilities, three artifacts, and five events. 

@@ -70,12 +70,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T13:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:00:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of delivering working software and gathering feedback, which are relevant to the application lifecycle, but primarily focuses on Agile principles rather than the full scope of Application Lifecycle Management.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Agile principles and the importance of delivering working software iteratively, which is more aligned with Agile methodologies than with Application Lifecycle Management (ALM) as defined. While it touches on aspects of user feedback and validation, it lacks explicit discussion of the full application lifecycle stages, governance, tools, or metrics that are central to ALM. Therefore, the confidence score reflects a low alignment with the core themes of ALM.",
+    "level": "Quaternary"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -679,12 +682,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T13:56:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:00:45",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content primarily discusses the importance of delivering working software and gathering feedback in an Agile context, which relates to product management, but does not deeply engage with broader strategic aspects of product management.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of delivering working software iteratively and gathering feedback, which aligns with the core themes of product management, particularly in Agile methodologies. However, it lacks a deeper exploration of strategic alignment with business objectives or detailed techniques for prioritising customer feedback, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",

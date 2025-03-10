@@ -38,9 +38,9 @@ tags:
 - Scrum Team
 - Software Development
 - Value Delivery
-- Agile Product Management
 - Events and Presentations
 - People and Process
+- Team Collaboration
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-6-6.png

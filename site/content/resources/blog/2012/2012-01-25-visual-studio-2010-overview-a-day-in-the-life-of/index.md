@@ -8,7 +8,7 @@ ResourceImportId: 4142
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-01-25
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -35,15 +35,15 @@ aliasesArchive:
 tags:
 - Agile Planning
 - Events and Presentations
-- Practical Techniques and Tooling
 - Application Lifecycle Management
 - Software Development
+- Practical Techniques and Tooling
 - Product Delivery
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories:
 - Scrum
 - DevOps
-- Engineering Excellence
+- Social Technologies
 
 ---
 This session shows the Day in the Life of a project using TFS from the context of a Developer, Tester, and Program Manager. The purpose of this session is to give a clear picture of how someone in the role of the Developer, the Tester and Program Manager would use TFS in his/her role.

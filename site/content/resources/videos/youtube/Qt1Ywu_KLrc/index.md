@@ -24,8 +24,8 @@ preview: https://i.ytimg.com/vi/Qt1Ywu_KLrc/maxresdefault.jpg
 duration: 2020
 isShort: false
 tags:
-- Azure DevOps
 - Practical Techniques and Tooling
+- Azure DevOps
 - Install and Configuration
 sitemap:
   filename: sitemap.xml

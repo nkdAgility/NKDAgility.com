@@ -1153,11 +1153,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T21:31:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:20:01",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content clearly addresses a specific technical issue (TF54000 error during VSS import) and provides a diagnosis of its cause as well as a workaround, making troubleshooting the central topic.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses a specific error (TF54000) encountered during a VSS import, detailing the issue and its root cause related to server clock synchronisation. It provides a clear workaround, which aligns well with troubleshooting methodologies. The depth of discussion includes the identification of the problem, its implications, and a practical solution, demonstrating a strong focus on diagnosing and resolving a technical issue.",
     "level": "Secondary"
   },
   "Experimentation": {

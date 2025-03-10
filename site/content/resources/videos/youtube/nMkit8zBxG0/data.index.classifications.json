@@ -82,12 +82,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:57:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses Sprint planning within the context of Scrum and Kanban methodologies, which are project management frameworks. While it touches on aspects of product management, such as aligning work with customer needs and product goals, the focus is more on the planning process rather than the strategic alignment of product management as defined in the category.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the mechanics of Sprint planning within Agile and Scrum frameworks, which is a specific aspect of product management. However, it lacks a broader discussion on strategic alignment with customer needs or business objectives, which are crucial elements of product management. While it touches on the importance of understanding goals and stakeholder communication, it does not delve deeply into methodologies or frameworks that guide product managers in making informed decisions. Therefore, while it is relevant, it does not fully meet the criteria for a strong alignment with the category.",
+    "level": "Quaternary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -1093,11 +1096,14 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-12T04:03:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T13:57:44",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses Sprint planning within the context of Agile methodologies, particularly Scrum, and touches on the importance of aligning work with customer needs and product goals.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on Sprint planning, a key aspect of Agile methodologies, particularly within Scrum. It discusses the purpose and importance of Sprint planning, how it integrates with both Scrum and Kanban, and the implications for product management. The depth of discussion is significant, covering various elements such as stakeholder engagement, prioritisation of tasks, and the balance between planned work and emergent needs. While it does not explicitly mention the role of the Product Owner or metrics, it aligns well with Agile principles and practices aimed at maximising product value.",
     "level": "Secondary"
   },
   "Discovery and Learning": {

@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T00:20:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:43:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses practical issues and techniques related to using Git, particularly in the context of transitioning from a server-based version control system to a distributed one, which aligns with the exploration and application of tools and methodologies in Agile and DevOps practices.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses practical issues encountered when transitioning from a server-based version control system to Git, highlighting specific challenges and workflows. It mentions the importance of managing uncommitted changes and the benefits of Git's approach to version control. However, while it touches on practical techniques, the discussion lacks depth in exploring methodologies or frameworks that enhance Agile and DevOps practices, which limits its alignment with the category.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,12 +733,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:43:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition from server-based version control systems to distributed version control systems, highlighting the importance of managing uncommitted changes and the benefits of Git's workflow. While it touches on aspects of software craftsmanship and development practices, it primarily focuses on version control rather than broader engineering excellence principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses challenges and workflows related to version control systems, specifically the transition from a server-based system to Git. While it touches on aspects of software development practices, such as handling uncommitted changes and conflict resolution, it lacks a direct focus on broader engineering excellence principles like coding standards, quality assurance, or continuous improvement. The discussion is more about practical issues in version control rather than promoting high standards in software craftsmanship.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

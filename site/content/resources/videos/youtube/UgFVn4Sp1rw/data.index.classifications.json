@@ -1147,12 +1147,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T11:57:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T12:43:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics and monitoring related to product development and cost management, which are relevant to DevOps practices. However, the primary focus is on Scrum and product management rather than core DevOps principles like CI/CD or automation.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on product development costs and financial management within teams, with a significant emphasis on Scrum practices. While it touches on aspects of team dynamics and decision-making that could relate to DevOps, it lacks a direct discussion of DevOps principles, practices, or tools. The mention of metrics and time to market aligns somewhat with DevOps themes, but the overall focus remains on cost management rather than the integration of development and operations or continuous delivery.",
+    "level": "Quaternary"
   },
   "People and Process": {
     "category": "People and Process",
@@ -1234,11 +1237,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T15:31:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:43:30",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the measurement and monitoring of costs in the context of Agile practices, specifically within Scrum. It explores practical techniques for understanding cost per sprint, team dynamics, and the importance of metrics in decision-making, which aligns well with the category's focus on practical application of methodologies and tools in Agile and DevOps.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the cost management of product development, particularly in the context of Agile practices like Scrum. It mentions sprints and the importance of understanding costs per sprint, which aligns with practical techniques in Agile. However, while it touches on metrics and team dynamics, it lacks a detailed exploration of specific tools or methodologies, which limits its depth in the category. Overall, it provides a reasonable discussion on the topic but does not fully meet the criteria for a primary focus on practical techniques and tooling.",
     "level": "Secondary"
   },
   "Kanban": {

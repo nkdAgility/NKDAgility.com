@@ -730,12 +730,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:31:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses hosting a platform with a focus on server-side components and functionality, which relates to software architecture and could relate to best practices in software development. However, it primarily seems to focus on application hosting rather than on high standards of engineering practices or principles of software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the hosting of the TFS Automation Platform and touches on server-side components and functionality, which are relevant to engineering practices. However, it lacks a direct focus on engineering excellence principles, such as coding standards or quality assurance. The discussion is more about hosting logistics and potential issues rather than promoting high standards in software craftsmanship or continuous improvement in engineering processes.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1045,11 +1048,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T23:50:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:31:37",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the hosting, configuration, and server-side components of the TFS Automation Platform, which aligns closely with the principles and practices of system configuration.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the hosting and configuration of the TFS Automation Platform, touching on server-side components and the implications of client-only installations. While it does mention configuration aspects, the focus is more on the challenges and considerations rather than best practices or detailed methodologies. The discussion lacks depth in terms of specific configuration management tools or strategies, which affects the overall alignment with the category.",
     "level": "Secondary"
   },
   "Product Strategy": {

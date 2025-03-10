@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T11:44:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:55:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical steps and considerations involved in upgrading Team Foundation Server, including prerequisites, installation processes, and best practices for trial upgrades, which aligns well with the category's focus on practical techniques and tooling.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed account of upgrading from TFS 2013 Preview to TFS 2013 RC, which includes practical techniques for performing the upgrade, prerequisites, and best practices. It discusses specific tooling (TFS) and methodologies related to the upgrade process, aligning well with the category's focus on practical application. However, while it is rich in detail, it lacks broader discussions on Agile or DevOps practices, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,12 +733,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:55:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical practices related to upgrading software and managing environments, but primarily focuses on the specific process of upgrading Team Foundation Server rather than broad engineering excellence principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server, which includes some aspects of software craftsmanship and quality assurance, such as the importance of trial upgrades and ensuring backups. However, it lacks a broader discussion on engineering excellence principles, best practices, or continuous improvement processes. The mention of streamlining processes and minimising issues during upgrades hints at a commitment to quality, but the overall depth and alignment with the core themes of engineering excellence are limited.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

@@ -8,7 +8,7 @@ ResourceImportId: 9900
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-05-10
-weight: 865
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,8 +23,8 @@ aliasesArchive:
 - /configure-test-plans-for-web-access-in-tfs-2012-2
 - /resources/blog/configure-test-plans-for-web-access-in-tfs-2012-2
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
 - System Configuration
 - Application Lifecycle Management
 - Azure DevOps

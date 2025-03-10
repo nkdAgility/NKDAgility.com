@@ -10,12 +10,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T22:19:27",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-07T15:29:38",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 82.0,
-    "reasoning": "The content primarily discusses the practical techniques and tooling involved in upgrading Team Foundation Server and SharePoint, including specific commands, processes, and methodologies related to Scrum for Team System. It provides detailed steps and best practices for implementing these upgrades, which aligns closely with the category's focus.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed, step-by-step guide on upgrading from TFS 2008 to TFS 2010, including specific tools, commands, and methodologies used in the process. It discusses practical techniques for managing the upgrade of applications and team projects, particularly focusing on the Scrum for Team System templates. The depth of discussion is significant, with clear instructions and code snippets that illustrate the practical application of tooling in a real-world scenario, aligning well with the category's focus on enhancing Agile and DevOps practices.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -118,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T22:19:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:29:32",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server and SharePoint, which involves automation, integration of tools, and practices relevant to DevOps principles. It also touches on aspects of continuous delivery and the importance of collaboration between development and operations teams.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on the upgrade process of Team Foundation Server (TFS) and SharePoint, which are tools commonly used in DevOps practices. It discusses specific steps, commands, and considerations for upgrading these systems, which aligns with the principles of automation and continuous delivery in DevOps. However, while it touches on aspects of collaboration and process improvement, it lacks a broader discussion on cultural shifts, metrics, or case studies that are also key to the DevOps category. Therefore, the confidence score reflects a moderate alignment with the DevOps category.",
+    "level": "Tertiary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

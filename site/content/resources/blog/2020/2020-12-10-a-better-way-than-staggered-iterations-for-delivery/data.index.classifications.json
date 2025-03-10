@@ -679,12 +679,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:22:46",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile methodologies and the implications of staggered iterations on delivery, which are relevant to product management. However, the primary focus is on technical implementation details rather than strategic product management practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the implications of staggered iterations on software delivery, which is relevant to product management, particularly in the context of Agile methodologies. It addresses the need for cross-functional teams and the importance of delivering working software iteratively, aligning with key product management themes. However, the focus is more on technical implementation and Agile practices rather than strategic product management discussions, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -1141,11 +1144,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-13T22:01:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:22:50",
+    "ai_confidence": 85.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses engineering practices and methodologies that enhance agility in software delivery, including cross-functional teams, test-first approaches, and the importance of delivering working software in each iteration.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the drawbacks of staggered iterations in software delivery and advocates for practices that enhance agility, such as cross-functional teams, asynchronous development, and test-first approaches. While it does not explicitly mention 'Technical Excellence,' it aligns well with the core themes of the category by focusing on engineering practices that improve software quality and delivery efficiency. The depth of discussion is substantial, providing specific solutions and methodologies, but it lacks a direct focus on established technical excellence principles like TDD or CI/CD.",
     "level": "Secondary"
   },
   "People and Process": {

@@ -35,12 +35,12 @@ tags:
 - Agile Philosophy
 - Change Management
 - Decision Making
-- Transparency and Accountability
 - Beta Codex
 - Organisational Agility
 - Organisational Change
 - Organisational Culture
 - Organisational Physics
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

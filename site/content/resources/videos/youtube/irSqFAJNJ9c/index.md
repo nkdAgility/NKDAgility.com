@@ -28,10 +28,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Transparency
 - Agile Project Management
 - Scrum Product Development
-- People and Process
 - Product Owner
 - Scrum Team
 - Agile Frameworks

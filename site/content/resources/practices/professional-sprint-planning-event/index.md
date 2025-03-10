@@ -46,9 +46,9 @@ tags:
 - Scrum Team
 - Agile Planning
 - Professional Scrum
-- Team Collaboration
 - Agile Frameworks
 - Agile Project Management
+- Software Development
 
 ---
 We will endevour to explain not just the purpose of [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) but the additional practices and understanding that are required to make it effective. We will also look at how to market the outcome and help teams to communicate their intentions and plans to stakeholders so that they can support the team in their work.

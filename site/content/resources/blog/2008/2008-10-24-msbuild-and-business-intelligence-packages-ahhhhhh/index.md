@@ -36,9 +36,9 @@ tags:
 - Test Automation
 - Software Development
 - System Configuration
-- Technical Excellence
 - Technical Mastery
 - Troubleshooting
+- Technical Excellence
 - Application Lifecycle Management
 - Engineering Practices
 preview: nakedalm-logo-128-link-1-1.png

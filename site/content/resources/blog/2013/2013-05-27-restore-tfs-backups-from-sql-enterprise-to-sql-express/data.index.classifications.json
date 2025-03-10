@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T18:38:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:04:37",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for restoring TFS backups from SQL Enterprise to SQL Express, including specific SQL commands and troubleshooting steps, which aligns well with the category.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed discussion on restoring TFS backups from SQL Enterprise to SQL Express, including specific SQL commands and troubleshooting steps. It directly addresses practical techniques for managing SQL Server editions and their features, which aligns with the category's focus on tooling and methodologies. However, while it discusses practical techniques, it lacks broader context on Agile or DevOps practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,12 +733,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:04:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical details regarding database management, specifically addressing issues with SQL Server editions and features. While this is relevant to engineering practice, the primary focus is not on broader engineering excellence principles but rather on a specific technical issue, hence it is a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses technical issues related to restoring TFS backups and SQL Server editions, which does not directly address the principles of software craftsmanship or best practices in coding standards. While it touches on aspects of technical debt and the implications of using enterprise features, it lacks a broader discussion on engineering excellence or continuous improvement in software development practices.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

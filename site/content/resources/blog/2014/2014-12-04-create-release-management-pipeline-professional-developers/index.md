@@ -31,7 +31,6 @@ tags:
 - Azure DevOps
 - Azure Pipelines
 - Release Management
-- Practical Techniques and Tooling
 - Product Delivery
 - Software Development
 categories:

@@ -343,11 +343,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T07:09:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:49:27",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the role of Scrum Masters within the context of Agile software development, highlighting the importance of competence and understanding of software engineering practices. It addresses methodologies, accountability, and the need for knowledge in software development to effectively support teams.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the role of Scrum Masters within the context of software development, highlighting the importance of competence, understanding of software engineering practices, and the impact of Agile methodologies. It provides detailed insights into the responsibilities of Scrum Masters, their accountability to teams and Product Owners, and the necessity of understanding modern engineering practices and DevOps principles. The depth of discussion on these topics aligns closely with the core themes of software development, particularly in relation to Agile frameworks and practices.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -1186,12 +1189,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T12:04:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T12:49:24",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the role of Scrum Masters in software engineering teams and mentions DevOps principles and practices as part of the necessary understanding for effective Scrum Masters. However, the primary focus is on the competence crisis in Scrum Master roles rather than a comprehensive exploration of DevOps itself.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the role of Scrum Masters and their need to understand DevOps principles and practices, which aligns with the DevOps category. However, the primary focus is on the competence crisis within Scrum roles rather than a comprehensive exploration of DevOps itself. While there are mentions of DevOps and its relevance to software engineering practices, the depth of discussion primarily revolves around Scrum and Agile methodologies, which are not strictly within the DevOps category. Therefore, the confidence score reflects a moderate alignment with the DevOps category.",
+    "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",

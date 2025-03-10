@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T11:37:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:55:01",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for using PowerShell to interact with the TFS 2013 API, including specific functions and methods that enhance tooling for Agile and DevOps practices.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed exploration of using PowerShell to interact with the TFS 2013 API, which directly aligns with practical techniques and tooling in Agile and DevOps contexts. It discusses specific PowerShell commands and functions, demonstrating how to implement these tools effectively. The depth of discussion is significant, with multiple code examples and explanations of their purposes, showcasing a strong understanding of the tooling involved. The content is primarily focused on practical application rather than theoretical concepts, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,12 +733,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:52:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mainly focuses on using PowerShell to interact with the TFS 2013 API, which is more related to scripting and automation in software development rather than discussing high standards of software craftsmanship or engineering practices. However, it does touch upon engineering concepts such as integrating processes and managing services, making it a significant but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS 2013 API, which is more about practical implementation than discussing engineering excellence or best practices in software craftsmanship. While it touches on aspects of software development, such as connecting to services and using APIs, it lacks a strong emphasis on principles of quality assurance, coding standards, or continuous improvement processes that define engineering excellence. The depth of technical detail is present, but it does not align closely with the core themes of the category.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

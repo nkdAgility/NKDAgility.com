@@ -29,7 +29,6 @@ aliasesArchive:
 tags:
 - Windows
 categories:
-- DevOps
 - Social Technologies
 preview: nakedalm-windows-logo-12-12.png
 

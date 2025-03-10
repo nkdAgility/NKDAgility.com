@@ -30,10 +30,10 @@ tags:
 - Agile Planning Tools
 - Agile Planning
 - Agile Project Management
-- Practical Techniques and Tooling
 - Software Developers
 - Software Development
 - Azure DevOps
+- Practical Techniques and Tooling
 - Pragmatic Thinking
 - Azure Boards
 - Large Scale Agility

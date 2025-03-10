@@ -118,12 +118,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T20:52:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:25:41",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses DevOps practices, particularly Continuous Delivery, and emphasizes the cultural shifts and practices required to achieve high deployment velocity and customer responsiveness, making it very relevant to the DevOps category.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content explicitly discusses DevOps practices, particularly Continuous Delivery, and highlights the need for agility in software delivery. It aligns well with core themes of DevOps, such as collaboration, rapid deployment, and the integration of development and operations. The depth of discussion is significant, providing examples like Microsoft's deployment frequency and the Combined Engineering model, which illustrates practical applications of DevOps principles.",
+    "level": "Primary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -235,11 +238,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-14T20:52:15",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-07T14:25:44",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses DevOps practices and Continuous Delivery, which are central to improving product delivery speed and quality, but it also touches on broader themes of agility and business velocity, making it a secondary theme rather than the primary focus.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the shift towards DevOps practices and Continuous Delivery, which are integral to modern product delivery methodologies. It highlights the importance of shortening feedback loops and the need for rapid deployment, aligning well with the core themes of product delivery. However, while it provides substantial insights into these practices, it lacks detailed exploration of specific methodologies or metrics, which slightly limits the depth of discussion.",
     "level": "Secondary"
   },
   "Beta Codex": {

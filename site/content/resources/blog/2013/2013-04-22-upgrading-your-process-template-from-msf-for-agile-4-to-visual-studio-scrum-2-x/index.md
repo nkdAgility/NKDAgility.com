@@ -8,7 +8,7 @@ ResourceImportId: 9456
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-04-22
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,9 +23,9 @@ aliasesArchive:
 - /upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x
 - /resources/blog/upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x
 tags:
+- Practical Techniques and Tooling
 - Agile Project Management
 - Install and Configuration
-- Practical Techniques and Tooling
 - System Configuration
 - Azure Boards
 - Azure DevOps

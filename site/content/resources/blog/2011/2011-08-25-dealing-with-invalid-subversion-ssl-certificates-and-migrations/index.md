@@ -28,9 +28,9 @@ aliasesArchive:
 - /resources/blog/dealing-with-invalid-subversion-ssl-certificates-and-migrations
 tags:
 - Install and Configuration
-- Practical Techniques and Tooling
 - Software Development
 - Troubleshooting
+- Practical Techniques and Tooling
 categories: []
 
 ---

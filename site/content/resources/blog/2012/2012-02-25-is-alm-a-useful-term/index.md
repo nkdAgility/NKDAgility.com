@@ -8,7 +8,7 @@ ResourceImportId: 4576
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-02-25
-weight: 450
+weight: 415
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -31,10 +31,10 @@ tags:
 - Application Lifecycle Management
 - People and Process
 - Software Development
-- Market Adaptability
 - Organisational Agility
 - Product Delivery
 - Agile Strategy
+- Market Adaptability
 - Business Agility
 - Pragmatic Thinking
 categories:

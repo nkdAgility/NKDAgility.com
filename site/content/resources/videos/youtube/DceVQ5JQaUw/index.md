@@ -26,6 +26,7 @@ duration: 130
 isShort: false
 tags:
 - People and Process
+- Organisational Change
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -34,7 +35,6 @@ resourceTypes:
 - video
 categories:
 - Social Technologies
-- Scrum
 
 ---
 In my journey as an agile consultant, I've often encountered a recurring theme that can make or break the effectiveness of our work: the willingness of clients to engage in meaningful dialogue. The most destructive thing a client can do is to shut down that dialogue. When clients restrict consultants from engaging, speaking, and interacting with their teams, they inadvertently stifle the very change they seek.

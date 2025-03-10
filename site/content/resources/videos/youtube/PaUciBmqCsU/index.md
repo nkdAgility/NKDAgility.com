@@ -32,11 +32,11 @@ sitemap:
   priority: 0.6
 tags:
 - Value Delivery
+- Flow Efficiency
 - Strategy
 - Transparency
 - Transparency and Accountability
 - Empirical Process Control
-- Flow Efficiency
 - Practical Techniques and Tooling
 - Agile Frameworks
 - Agile Project Management

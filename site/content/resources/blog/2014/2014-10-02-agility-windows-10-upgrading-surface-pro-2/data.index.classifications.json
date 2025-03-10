@@ -73,11 +73,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T09:02:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:44:32",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation process of Windows 10 Technical Preview, including step-by-step instructions, system requirements, and troubleshooting considerations, which aligns well with the Install and Configuration category.",
+    "final_score": 67.0,
+    "reasoning": "The content provides a detailed narrative about upgrading to Windows 10, including specific installation steps, system requirements, and troubleshooting advice. It discusses the process of downloading the Technical Preview, preparing installation media, and executing the installation, which aligns well with the 'Install and Configuration' category. However, the content also includes broader discussions about Agile practices and cultural shifts within Microsoft, which detracts slightly from its primary focus on installation. Overall, the content is primarily focused on installation procedures, but the additional context reduces the confidence score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:44:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition to continuous delivery at Microsoft, which aligns with DevOps principles, but the primary focus is on Windows 10 and personal experiences rather than a comprehensive exploration of DevOps practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the transition of Windows to a continuous delivery model, which aligns with DevOps principles. However, the primary focus is on personal experiences with Windows 10 and the Technical Preview, rather than a comprehensive exploration of DevOps practices, tools, or cultural shifts. While there are mentions of agility and continuous delivery, the depth of discussion on DevOps-specific topics is limited.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

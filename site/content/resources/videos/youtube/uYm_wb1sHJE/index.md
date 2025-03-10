@@ -31,13 +31,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Product Management
 - Events and Presentations
 - Sprint Review
 - Agile Project Management
 - People and Process
 - Scrum Product Development
 - Agile Frameworks
+- Agile Product Management
 - Pragmatic Thinking
 - Professional Scrum
 - Scrum Master
@@ -46,6 +46,7 @@ resourceTypes:
 categories:
 - Scrum
 - Social Technologies
+- Product Management
 
 ---
 ## 🚀 Demystifying the Sprint Review Workshop 

@@ -35,6 +35,8 @@ resourceTypes:
 - video
 categories:
 - Social Technologies
+- DevOps
+- Engineering Excellence
 
 ---
 ## Scrum in a DevOps World: A Game Changer!

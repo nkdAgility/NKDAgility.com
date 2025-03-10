@@ -8,7 +8,7 @@ ResourceImportId: 3460
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-06-04
-weight: 860
+weight: 850
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,13 +26,13 @@ tags:
 - Troubleshooting
 - Install and Configuration
 - Modern Source Control
-- Practical Techniques and Tooling
 - System Configuration
 - Working Software
 - Application Lifecycle Management
 - Azure Boards
 - Azure DevOps
 - Pragmatic Thinking
+- Release Management
 categories:
 - DevOps
 preview: metro-binary-vb-128-link-4-4.png

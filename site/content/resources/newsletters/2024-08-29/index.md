@@ -19,8 +19,8 @@ aliasesArchive:
 - /resources/newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
 categories:
 - Product Management
-- Social Technologies
 - Scrum
+- Social Technologies
 tags:
 - Discovery and Learning
 

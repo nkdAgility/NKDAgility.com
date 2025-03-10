@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T21:48:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:26:27",
+    "ai_confidence": 85.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for creating backups in Team Foundation Server 2010, detailing specific steps, required permissions, and troubleshooting errors, which aligns well with the category's focus on the application of tools and methodologies.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed, practical guide on creating backups in Team Foundation Server (TFS) using Power Tools, which directly relates to tooling in a DevOps context. It discusses specific steps, required permissions, and common errors encountered during the backup process, demonstrating a clear application of practical techniques. The depth of discussion is significant, as it includes troubleshooting and error resolution, which are essential for effective tool usage. Overall, the content aligns well with the category's focus on practical techniques and tooling.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-07T15:26:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content primarily focuses on creating backups in Team Foundation Server and troubleshooting related SQL Server issues, which are more aligned with system administration rather than core DevOps practices. While it touches on aspects of deployment and permissions, it does not discuss broader DevOps principles, practices, or cultural shifts.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of backing up Team Foundation Server (TFS) and troubleshooting related issues. While it touches on some operational concerns, such as permissions and service accounts, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. The mention of TFS and SQL Server does not directly align with the core themes of DevOps, which emphasise collaboration, continuous delivery, and automation. Therefore, the content is only tangentially related to DevOps.",
     "level": "Quaternary"
   },
   "Miscellaneous": {

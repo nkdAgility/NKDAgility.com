@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T00:04:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:43:00",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical application of configuring Active Directory Federated Services (ADFS) for seamless integration with Visual Studio Online (VSO) and Azure, which aligns with the exploration and application of tools and methodologies in Agile and DevOps practices.",
+    "final_score": 66.0,
+    "reasoning": "The content provides a detailed guide on configuring Active Directory Federated Services (ADFS) to enable seamless Single-Sign-On (SSO) for Visual Studio Online (VSO) accounts. It discusses practical steps, tools, and methodologies for integrating corporate identities with existing accounts, which aligns well with the category's focus on practical techniques and tooling. The content includes specific instructions, warnings, and notes that enhance understanding and implementation, demonstrating a strong depth of discussion. However, while it mentions tools and techniques, it does not extensively cover broader Agile or DevOps practices, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:42:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Active Directory with Visual Studio Online and Azure, which relates to DevOps practices, particularly in terms of user management and authentication in a cloud environment. However, the primary focus is on account management rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the integration of Active Directory with Visual Studio Online (VSO) and Azure, which touches on aspects of DevOps such as identity management and seamless integration. However, it lacks a broader discussion on DevOps principles, practices, or cultural shifts, making it more of a technical guide rather than a comprehensive exploration of DevOps as a category.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

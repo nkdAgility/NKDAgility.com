@@ -28,13 +28,13 @@ tags:
 - Agile Product Management
 - Market Adaptability
 - Organisational Agility
+- Value Delivery
 - Agile Product Operating Model
 - People and Process
 - Agile Values and Principles
 - Agile Frameworks
 - Agile Philosophy
 - Agile Planning
-- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

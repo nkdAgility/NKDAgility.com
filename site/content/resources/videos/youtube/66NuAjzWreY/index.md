@@ -28,6 +28,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Metrics and Learning
 - Evidence Based Management
 - Decision Making
 - Evidence Based Leadership
@@ -36,6 +37,7 @@ resourceTypes:
 layout: video
 categories:
 - Product Management
+- Social Technologies
 
 ---
 ## **What is Evidence-Based Management?**

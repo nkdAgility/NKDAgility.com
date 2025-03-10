@@ -19,11 +19,14 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-16T11:33:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:50:44",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to source control and branching strategies without directly referencing Agile, Scrum, DevOps, or Lean principles.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses a specific issue related to source control and branching strategies, which does not directly reference Agile, Scrum, DevOps, or Lean principles. While it touches on the challenges faced in a team environment, it lacks a structured discussion of recognised methodologies or actionable insights. The mention of TFS as an ALM tool indicates a broader context but does not align with specific frameworks, thus fitting the Miscellaneous category. However, the depth of discussion on the technical issue and the steps taken to resolve it provides some level of detail, contributing to a moderate confidence score.",
     "level": "Secondary"
   },
   "Organisational Psychology": {
@@ -73,12 +76,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:13:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:50:37",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses source control management and branching strategies, which are relevant to DevOps practices, but the primary focus is on personal experiences and challenges rather than a comprehensive discussion of DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses issues related to source control and branching strategies, which are relevant to DevOps practices. However, it primarily focuses on a specific incident rather than broader DevOps principles or practices. While there are mentions of tools like TFS and some aspects of version control, the discussion lacks depth in terms of automation, CI/CD, or cultural shifts necessary for DevOps. Therefore, it aligns with the category but does not provide a comprehensive exploration of DevOps concepts.",
+    "level": "Quaternary"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",

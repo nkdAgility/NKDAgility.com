@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T16:34:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:13:52",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical steps and techniques for integrating SharePoint 2013 with Team Foundation Server 2012, including installation, configuration, and best practices, which aligns well with the category.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed guide on integrating SharePoint 2013 with Team Foundation Server 2012, which directly relates to practical techniques and tooling in a DevOps context. It discusses specific steps, tools, and configurations necessary for successful integration, aligning well with the key topics of the category. The depth of discussion is substantial, covering installation, configuration, and troubleshooting, which enhances its relevance to the category.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:13:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of SharePoint 2013 with Team Foundation Server 2012, which relates to DevOps practices, particularly in the context of collaboration between development and operations tools. However, the primary focus is on installation and configuration rather than broader DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the integration of SharePoint 2013 with Team Foundation Server 2012, which is more aligned with software installation and configuration rather than the broader principles of DevOps. While it touches on aspects of collaboration between tools (TFS and SharePoint), it lacks a comprehensive discussion on DevOps practices such as CI/CD, automation, or cultural shifts. The depth of discussion is limited to technical steps without exploring the implications or benefits of these integrations in a DevOps context.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

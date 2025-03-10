@@ -8,7 +8,7 @@ ResourceImportId: 23
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-10-08
-weight: 660
+weight: 700
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,9 +23,9 @@ aliasesArchive:
 - /syncing-many-dynamics-ax-instances-to-a-single-tfs-2010-team-project
 - /resources/blog/syncing-many-dynamics-ax-instances-to-a-single-tfs-2010-team-project
 tags:
+- Practical Techniques and Tooling
 - Install and Configuration
 - Modern Source Control
-- Practical Techniques and Tooling
 - System Configuration
 - Application Lifecycle Management
 - Azure DevOps
@@ -35,6 +35,7 @@ tags:
 - Technical Excellence
 categories:
 - Engineering Excellence
+- DevOps
 
 ---
 ![](images/c51bf204-d93f-4485-9873-88fd0e8f4659.png)I have been working with a customer who had been frustrated with the need to have new Team Project for every instance of AX that they use. In fact with 3 instances per customer and lots of customers it can very quickly get complicated and I wanted to see if there was a solution for them.  

@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T09:11:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:45:35",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the pick-n-mix branching anti-pattern and proposes practical solutions such as feature branching and binary promotion, which are relevant to Agile and DevOps practices.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed exploration of the pick-n-mix branching anti-pattern and its implications on source control, which directly relates to practical techniques in software development. It discusses specific methodologies for improving branching strategies, such as moving to a Feature branching model, and highlights the importance of planning and engineering practices. The depth of discussion includes potential pitfalls and solutions, making it highly relevant to the category of Practical Techniques and Tooling.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T09:12:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:45:28",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 36,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses branching strategies in source control, which is a key aspect of DevOps practices, particularly in relation to Continuous Integration and Continuous Delivery. It addresses the implications of poor branching models on software delivery and quality assurance, aligning well with DevOps principles.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses the pick-n-mix branching anti-pattern in detail, highlighting its implications on source control, deployment processes, and overall software delivery. It aligns well with DevOps principles by addressing the need for better planning, feature branching, and the importance of continuous delivery. The depth of discussion on branching models and their impact on collaboration and efficiency in software delivery further supports its relevance to the DevOps category.",
     "level": "Secondary"
   },
   "Miscellaneous": {

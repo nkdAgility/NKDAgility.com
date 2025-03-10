@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T01:58:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:42:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implementation of a WPF behaviour for scaling controls, which involves practical techniques and tooling related to MVVM and WPF frameworks.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed exploration of a specific WPF behaviour for scaling UI elements, which directly relates to practical techniques in software development. It discusses the implementation of a GlobalScaleTransformBehaviour, including code snippets and explanations of how to use attached properties and dependency properties in WPF. This aligns well with the category's focus on methodologies and frameworks that enhance development practices. The depth of discussion is substantial, covering both the code and its application, although it does not explicitly mention Agile or DevOps practices, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Platform Engineering": {

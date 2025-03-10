@@ -32,8 +32,8 @@ sitemap:
 tags:
 - Flow Efficiency
 - Practical Techniques and Tooling
-- Strategy
 - Operational Practices
+- Strategy
 - Agile Frameworks
 - Agile Project Management
 - Lean Thinking

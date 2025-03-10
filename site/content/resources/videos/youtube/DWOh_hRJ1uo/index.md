@@ -31,11 +31,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Personal
 - Scrum Master
 - Agile Frameworks
 - Agile Project Management
 - People and Process
+- Personal
 - Continuous Learning
 - Pragmatic Thinking
 - Professional Scrum

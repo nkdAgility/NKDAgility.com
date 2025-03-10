@@ -38,6 +38,7 @@ resourceTypes:
 categories:
 - Product Management
 - Scrum
+- Social Technologies
 
 ---
 ## The Order of Product Backlogs

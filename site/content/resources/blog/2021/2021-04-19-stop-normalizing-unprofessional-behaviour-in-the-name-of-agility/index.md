@@ -31,9 +31,9 @@ tags:
 - Agile Philosophy
 - Agile Project Management
 - Agile Transformation
-- Organisational Agility
 - Software Developers
 - Software Development
+- Team Performance
 categories:
 - Scrum
 - Social Technologies

@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T19:22:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:10:03",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical application of the ChangeServerId command in TFS, detailing its importance in managing GUIDs during server upgrades and providing specific commands and troubleshooting steps.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the practical application of the ChangeServerId command in TFS, which is a specific tool related to DevOps practices. It provides insights into the implications of GUIDs in TFS environments and offers a solution to a common problem encountered during server upgrades. However, while it touches on practical techniques, the discussion lacks depth in exploring broader Agile or DevOps methodologies and does not cover a range of tools or frameworks, which limits its alignment with the category.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-07T15:09:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses the ChangeServerId command in the context of TFS (Team Foundation Server) and its implications for server management, but it primarily focuses on specific technical issues rather than broader DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the ChangeServerId command in the context of managing TFS (Team Foundation Server) environments, which is relevant to DevOps practices. However, it primarily focuses on specific technical issues related to GUIDs and server configurations rather than broader DevOps principles such as CI/CD, automation, or team collaboration. While it touches on aspects of deployment and environment management, it lacks a comprehensive exploration of DevOps concepts, resulting in a low confidence score.",
     "level": "Quaternary"
   },
   "Miscellaneous": {

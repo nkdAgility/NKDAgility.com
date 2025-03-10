@@ -31,14 +31,13 @@ tags:
 - Beta Codex
 - Business Agility
 - Complexity Thinking
-- Lean
 - Lean Thinking
 - Organisational Agility
 - Organisational Physics
 - Enterprise Agility
+- Lean
 - Organisational Change
-categories:
-- Social Technologies
+categories: []
 preview: image-1.jpg
 
 ---

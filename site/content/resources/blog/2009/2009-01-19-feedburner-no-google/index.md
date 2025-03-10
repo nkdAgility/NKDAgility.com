@@ -33,7 +33,6 @@ aliasesArchive:
 categories: []
 preview: nakedalm-logo-128-link-2-2.png
 tags:
-- Install and Configuration
 - Troubleshooting
 
 ---

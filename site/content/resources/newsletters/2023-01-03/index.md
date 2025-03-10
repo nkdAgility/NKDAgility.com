@@ -21,6 +21,7 @@ aliasesArchive:
 categories:
 - Social Technologies
 - Scrum
+- Product Management
 tags:
 - Agile Project Management
 - Events and Presentations

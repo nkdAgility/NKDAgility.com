@@ -28,12 +28,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T22:31:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:53:34",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of an advanced product owner and touches on various aspects of product management, but it primarily focuses on the broader responsibilities rather than specific methodologies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of an advanced product owner, touching on various aspects of product management such as marketing, finance, and leadership. While it does not explicitly mention methodologies like Agile or Scrum, it aligns with the core themes of product management by highlighting the strategic responsibilities of a product owner. However, the discussion lacks depth in terms of specific frameworks or techniques, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -64,12 +67,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T22:31:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:53:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the advanced product owner, which is a significant aspect of Scrum, but it also diverges into areas like marketing, contracts, and finance, making Scrum a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions the role of the product owner, which is a key aspect of Scrum, but it does not delve into the core principles, practices, or frameworks of Professional Scrum. The discussion is more focused on the broader responsibilities of a product owner rather than the specific Scrum practices or values, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Automated Testing": {
     "category": "Automated Testing",

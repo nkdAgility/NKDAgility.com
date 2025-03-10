@@ -40,7 +40,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Product Management
 
 ---
 **One limitation of reading a book vs attending a course**

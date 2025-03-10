@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T18:06:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:59:11",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical solutions and techniques for resolving a specific issue with Team Foundation Server (TFS), including the use of PowerShell scripts and best practices for connecting to TFS, which aligns well with the category.",
+    "final_score": 75.0,
+    "reasoning": "The content provides practical solutions for connecting InRelease to TFS, including specific PowerShell scripts and detailed instructions. It discusses methodologies for troubleshooting and offers insights into tool usage, aligning well with the category's focus on practical techniques and tooling. However, while it mentions tools and solutions, the depth of discussion on broader Agile or DevOps practices is limited, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,12 +733,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:59:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses solutions related to connecting InRelease with TFS, which touches on coding practices, technical solutions, and efficiency but does not focus primarily on the principles of software craftsmanship or broader engineering excellence topics.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific issue with Team Foundation Server (TFS) and provides solutions, which is more aligned with technical support than with broader engineering excellence practices. While it does mention aspects of software craftsmanship, such as the importance of following documentation and avoiding unsupported changes, it lacks a comprehensive discussion on best practices, continuous improvement, or quality assurance principles that are central to the category of Engineering Excellence.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

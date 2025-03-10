@@ -8,7 +8,7 @@ ResourceImportId: 3652
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-06-23
-weight: 775
+weight: 810
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,7 +26,6 @@ tags:
 - System Configuration
 categories:
 - DevOps
-- Engineering Excellence
 
 ---
 ![](images/image_thumb-1-1.png)

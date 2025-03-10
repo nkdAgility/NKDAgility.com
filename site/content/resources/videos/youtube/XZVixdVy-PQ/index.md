@@ -37,9 +37,9 @@ tags:
 - Agile Product Operating Model
 - Agile Strategy
 - Agile Transformation
-- Organisational Agility
 - Software Development
 - Pragmatic Thinking
+- Organisational Agility
 resourceTypes:
 - video
 categories:

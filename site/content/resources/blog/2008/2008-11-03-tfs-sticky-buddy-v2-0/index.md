@@ -28,7 +28,6 @@ tags:
 - Application Lifecycle Management
 - Software Development
 - Technical Excellence
-- Technical Mastery
 preview: nakedalm-logo-128-link-2-1.png
 categories: []
 

@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T20:53:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:22:37",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical steps and techniques involved in upgrading Team Foundation Server, including specific tools, installation processes, and configuration details, which aligns well with the category focus.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed, step-by-step guide on upgrading from TFS 2010 to Visual Studio 2012 Team Foundation Server, which directly relates to practical techniques and tooling in a DevOps context. It discusses specific tools (TFS, SQL Server) and methodologies (installation and upgrade processes), demonstrating a clear alignment with the category's focus. The depth of discussion is significant, covering various aspects of the upgrade process, including prerequisites, installation steps, and troubleshooting, which enhances its practical applicability.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:22:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server, which is a tool used in DevOps practices. However, it lacks a broader discussion on DevOps principles, practices, or cultural shifts, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical steps involved in upgrading Team Foundation Server (TFS) from an older version to a newer one. While it touches on aspects of software deployment and configuration, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. The mention of TFS and its installation process is relevant to DevOps tools, but the content does not explore the integration of people, processes, or the continuous delivery of value, which are core to the DevOps category.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

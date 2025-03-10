@@ -145,11 +145,14 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T22:17:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:29:18",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a specific event, a free webcast session focused on Scrum and Kanban, featuring industry experts and encouraging participation.",
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses a free webcast event focused on the differences between Scrum and Kanban, which aligns directly with the category of Events and Presentations. It mentions the session details, the speakers involved, and encourages participation, indicating a strong emphasis on a live event. The discussion of Scrum and Kanban, while relevant, serves primarily to contextualise the event rather than detracting from its focus. The depth of information provided about the event, including the speakers and the nature of the discussion, further supports a high confidence score.",
     "level": "Secondary"
   },
   "Flow Efficiency": {
@@ -199,12 +202,15 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:29:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 25.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Kanban in the context of comparing it to Scrum, making it a secondary theme rather than the primary focus.",
-    "level": "Tertiary"
+    "final_score": 34.0,
+    "reasoning": "The content primarily focuses on comparing Scrum and Kanban, which means Kanban is mentioned but not as a primary focus. While it does touch on some Kanban principles, such as the reduction of work in progress and visual signals, the overall discussion is more about the differences between the two methodologies rather than an in-depth exploration of Kanban itself. Therefore, the confidence score reflects a low alignment with the Kanban category.",
+    "level": "Quaternary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
