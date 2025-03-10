@@ -8,7 +8,6 @@ date: 2023-11-23
 weight: 1000
 categories:
 - Social Technologies
-- DevOps
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast
@@ -17,6 +16,7 @@ aliases:
 - /resources/pGqagcI_q5y
 tags:
 - Transparency and Accountability
+- News and Reviews
 
 ---
 ![](https://nkdagility.com/wp-content/uploads/2023/10/37154808-1680362242684-ab5e16c6c3e31-jpg.webp)

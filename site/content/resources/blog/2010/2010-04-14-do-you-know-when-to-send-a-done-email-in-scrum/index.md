@@ -34,9 +34,9 @@ tags:
 - Team Collaboration
 - Team Performance
 - Agile Frameworks
-- Agile Product Management
 - Agile Project Management
 - Pragmatic Thinking
+- Software Development
 categories:
 - Scrum
 - Social Technologies

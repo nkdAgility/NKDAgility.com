@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T20:39:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:21:27",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for upgrading process templates in Team Foundation Server, including specific commands and methodologies for managing work items, which aligns well with the category focus on tooling and practical application.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed, step-by-step guide on upgrading process templates in Team Foundation Server (TFS), which directly relates to practical techniques and tooling in Agile and DevOps. It discusses specific commands, methodologies for maintaining data integrity during upgrades, and best practices for testing in a non-production environment. The focus on practical application, including the use of specific tools and commands, aligns well with the category's core themes, demonstrating a high level of depth and direct relevance.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,12 +733,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:21:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses upgrading process templates in Team Foundation Server (TFS), which involves elements of software engineering and can touch on best practices in software development. However, it primarily focuses on TFS process management and template updates, rather than a broader framework of engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on upgrading process templates in Team Foundation Server (TFS) and provides detailed instructions on how to manage work items during this upgrade. While it touches on aspects of software development practices, such as the importance of testing in a non-production environment and the need for careful management of work item types, it lacks a broader discussion on engineering excellence principles, best practices, or continuous improvement. The content is more procedural and technical rather than a discussion on fostering a culture of excellence in software craftsmanship.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

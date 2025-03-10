@@ -27,15 +27,14 @@ tags:
 - System Configuration
 - Internal Developer Platform
 - Platform Engineering
-- Practical Techniques and Tooling
 - Software Development
 - Technical Excellence
 - Technical Mastery
 - Azure DevOps
 - Operational Practices
+- Practical Techniques and Tooling
 preview: metro-visual-studio-2010-128-link-2-2.png
 categories:
-- DevOps
 - Engineering Excellence
 
 ---

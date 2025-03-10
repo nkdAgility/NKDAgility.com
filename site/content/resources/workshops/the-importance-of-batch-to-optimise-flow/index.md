@@ -30,7 +30,6 @@ categories:
 tags:
 - Flow Efficiency
 - People and Process
-- Events and Presentations
 - Scrum Product Development
 - Team Performance
 - Value Delivery
@@ -38,6 +37,7 @@ tags:
 - Agile Project Management
 - Lean Principles
 - Lean Product Development
+- Lean Thinking
 
 ---
 ## Duration

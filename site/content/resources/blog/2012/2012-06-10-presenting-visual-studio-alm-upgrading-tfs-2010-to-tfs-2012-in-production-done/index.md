@@ -8,7 +8,7 @@ ResourceImportId: 5432
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-06-10
-weight: 460
+weight: 450
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -32,11 +32,11 @@ tags:
 - Products and Books
 - Application Lifecycle Management
 - Events and Presentations
-- Practical Techniques and Tooling
 - Value Delivery
 - Working Software
 - Azure DevOps
 - Product Delivery
+- Practical Techniques and Tooling
 categories:
 - Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-8-8.png

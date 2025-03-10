@@ -1,11 +1,14 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T11:14:42",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-07T14:27:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 50,
-    "final_score": 68.0,
-    "reasoning": "The content discusses aspects of DevOps, particularly in relation to software delivery and the integration of development and operations. However, the primary focus is on Agile methodologies and remote working, making DevOps a significant but secondary theme.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses various aspects of Agile methodologies, particularly Scrum, and touches on DevOps principles, such as the importance of continuous delivery and feedback loops. However, the primary focus is on remote work and Agile practices rather than a deep exploration of DevOps itself. While there are relevant mentions of DevOps concepts, they are not the main focus of the discussion, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Social Technologies": {
@@ -46,12 +49,15 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-18T12:23:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:27:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses remote working and team dynamics in distributed environments, but it primarily focuses on synchronous practices such as video conferencing and Scrum roles, making it a secondary theme rather than a primary discussion on asynchronous development.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses remote working and the challenges of distributed teams, which are relevant to asynchronous development. However, it primarily focuses on Scrum practices and synchronous interactions, with only brief mentions of asynchronous principles. The depth of discussion on asynchronous collaboration tools and methodologies is limited, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Product Owner": {
     "category": "Product Owner",

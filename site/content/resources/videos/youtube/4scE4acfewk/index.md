@@ -43,6 +43,7 @@ resourceTypes:
 layout: video
 categories:
 - Social Technologies
+- Leadership
 - Product Management
 
 ---

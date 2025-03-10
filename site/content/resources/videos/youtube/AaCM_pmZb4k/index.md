@@ -38,14 +38,14 @@ tags:
 - Decision Making
 - Enterprise Agility
 - Organisational Change
-- Market Adaptability
 - Business Agility
+- Market Adaptability
 resourceTypes:
 - video
 categories:
 - DevOps
-- Product Management
 - Leadership
+- Social Technologies
 
 ---
 ## Hierarchies of Competence Vs Control: Insights & Relevance

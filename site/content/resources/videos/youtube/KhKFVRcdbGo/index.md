@@ -31,12 +31,13 @@ resourceTypes:
 - video
 categories:
 - Engineering Excellence
+- Leadership
 tags:
-- Value Delivery
 - Metrics and Learning
 - Operational Practices
 - Transparency
 - People and Process
+- Value Delivery
 - Systems Thinking
 - Technical Leadership
 - Business Agility

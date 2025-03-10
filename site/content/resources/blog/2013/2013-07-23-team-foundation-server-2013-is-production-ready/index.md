@@ -8,7 +8,7 @@ ResourceImportId: 9917
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-23
-weight: 455
+weight: 445
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,12 +23,12 @@ aliasesArchive:
 - /team-foundation-server-2013-is-production-ready
 - /resources/blog/team-foundation-server-2013-is-production-ready
 tags:
-- Products and Books
 - Technical Debt
 - News and Reviews
 - Software Development
 - Agile Project Management
 - Application Lifecycle Management
+- Products and Books
 - Working Software
 - Agile Frameworks
 - Agile Strategy

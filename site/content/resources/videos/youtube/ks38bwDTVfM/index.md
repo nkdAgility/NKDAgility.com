@@ -27,6 +27,7 @@ preview: https://i.ytimg.com/vi/ks38bwDTVfM/maxresdefault.jpg
 duration: 344
 isShort: false
 tags:
+- Agile Project Management
 - Pragmatic Thinking
 - Scrum Product Development
 - Software Developers
@@ -36,7 +37,6 @@ tags:
 - Product Backlog
 - Scrum Team
 - Agile Planning
-- Agile Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -30,8 +30,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Market Adaptability
+- People and Process
 - Operational Practices
 - Software Developers
 - Software Development

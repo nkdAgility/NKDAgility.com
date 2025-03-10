@@ -676,12 +676,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:24:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses organisational culture and the transition to agile methodologies, which are relevant to product management, but the primary focus is on cultural change rather than specific product management strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses organisational culture and the need for the right people in agile environments, which touches on product management indirectly. However, it lacks explicit discussions on product management methodologies, frameworks, or strategic alignment of customer needs and business objectives, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -1075,11 +1078,14 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-14T08:54:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:24:59",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the need for organisational change and adaptability, particularly in the context of hiring practices and cultural shifts necessary for agile transformation. It highlights the importance of leadership in guiding these changes and provides examples of successful organisational evolution, making resilience and change a central theme.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the need for organisations to adapt and evolve, particularly in the context of hiring practices and cultural change. It highlights the importance of leadership in guiding these changes, referencing Microsoft as a case study of successful organisational evolution. However, while it touches on resilience and change, the primary focus is on the cultural aspects and the resistance to change (the 'Luddites'), which may not fully encapsulate the broader strategies and methodologies for organisational resilience.",
     "level": "Secondary"
   },
   "Azure DevOps": {

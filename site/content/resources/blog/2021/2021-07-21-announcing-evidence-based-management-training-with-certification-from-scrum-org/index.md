@@ -34,11 +34,11 @@ tags:
 - Ability to Innovate
 - Agile Leadership
 - Agile Project Management
-- Events and Presentations
 - Metrics and Learning
 - People and Process
 - Agile Frameworks
 - Agile Strategy
+- News and Reviews
 categories:
 - Leadership
 - Scrum

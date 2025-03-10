@@ -31,13 +31,13 @@ aliasesArchive:
 - /blog/not-just-happy--but-ecstatic
 - /resources/blog/not-just-happy-but-ecstatic
 tags:
-- Practical Techniques and Tooling
 - Pragmatic Thinking
 - Product Delivery
 - Operational Practices
 - Personal
 - Release Management
 - Technical Mastery
+- Practical Techniques and Tooling
 categories:
 - DevOps
 

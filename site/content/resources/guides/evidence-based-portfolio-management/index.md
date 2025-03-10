@@ -30,9 +30,9 @@ tags:
 - Agile Strategy
 - Agile Transformation
 - Evidence Based Management
-- Organisational Agility
 - Organisational Change
 - Enterprise Agility
+- Organisational Agility
 - Agile Values and Principles
 
 ---

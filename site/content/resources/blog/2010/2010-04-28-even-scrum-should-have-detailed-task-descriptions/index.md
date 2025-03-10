@@ -27,12 +27,12 @@ tags:
 - Professional Scrum
 - Scrum Product Development
 - Agile Frameworks
-- Agile Product Management
 - Agile Project Management
 - Software Development
 - Definition of Ready
 - Team Collaboration
 - Pragmatic Thinking
+- Software Developers
 categories:
 - Scrum
 - Social Technologies

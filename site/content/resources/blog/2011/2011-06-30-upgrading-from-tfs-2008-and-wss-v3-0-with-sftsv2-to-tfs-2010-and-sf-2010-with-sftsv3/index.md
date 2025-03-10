@@ -25,13 +25,12 @@ aliasesArchive:
 tags:
 - System Configuration
 - Install and Configuration
-- Practical Techniques and Tooling
 - Software Development
 - Troubleshooting
 categories:
 - Scrum
-- DevOps
 - Engineering Excellence
+- Social Technologies
 preview: metro-visual-studio-2005-128-link-33-33.png
 
 ---

@@ -29,10 +29,10 @@ tags:
 - Software Developers
 - Software Development
 - Events and Presentations
-- Market Adaptability
 - News and Reviews
 - Organisational Agility
 - Digital Transformation
+- Market Adaptability
 categories:
 - DevOps
 preview: metro-new-normal-icon-28-28.png

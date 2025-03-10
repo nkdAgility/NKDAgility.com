@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T18:21:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:00:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical steps and techniques involved in upgrading to Team Foundation Server 2013, including backup strategies, installation processes, and configuration details, which align with the category's focus on practical application of tools.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed walkthrough of upgrading to Team Foundation Server 2013, which includes practical techniques such as taking backups, using virtual machines, and configuring the server. It discusses specific tooling (TFS 2013) and methodologies related to server upgrades, aligning well with the category's focus on practical application. However, while it covers practical aspects, it lacks broader discussions on Agile or DevOps practices, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,12 +733,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:00:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the upgrade process of Team Foundation Server 2013, which involves technical aspects related to software development practices, including backups, configuration, and database upgrades. However, the primary focus is on the upgrade logistics rather than directly promoting continuous improvement or high standards in software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the upgrade process of Team Foundation Server 2013, which includes practical steps and personal experiences. While it touches on aspects of software development, such as the importance of backups and the upgrade process, it lacks a broader discussion on engineering excellence principles, best practices, or continuous improvement in engineering processes. The content does not delve into coding standards, quality assurance, or metrics for assessing engineering performance, which are key topics in the Engineering Excellence category.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

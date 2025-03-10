@@ -34,12 +34,12 @@ tags:
 - Throughput
 - Flow Efficiency
 - Metrics and Learning
-- People and Process
 - Agile Project Management
 - Cycle Time
 - Software Developers
 - Pragmatic Thinking
 - Software Development
+- Agile Product Management
 resourceTypes:
 - video
 categories:

@@ -35,8 +35,8 @@ tags:
 - Scrum Team
 - Software Development
 - Agile Planning
-- Agile Product Management
 - Events and Presentations
+- News and Reviews
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-3-3.png

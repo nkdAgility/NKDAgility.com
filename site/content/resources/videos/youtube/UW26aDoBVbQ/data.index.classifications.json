@@ -31,11 +31,14 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T17:47:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T13:31:51",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of product ownership within the context of lean product delivery, which aligns closely with strategic aspects of product management.",
+    "final_score": 62.0,
+    "reasoning": "The content briefly mentions product ownership and lean product delivery, which are relevant to product management. However, it lacks detailed discussion on methodologies, frameworks, or strategic alignment with customer needs and business objectives. The focus is more on the importance of product ownership rather than providing in-depth insights or techniques related to product management.",
     "level": "Secondary"
   },
   "Leadership": {
@@ -70,12 +73,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T17:47:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:31:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the role of product ownership, which is a key aspect of Scrum, but primarily focuses on lean product delivery rather than Scrum principles and practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions product ownership, which is a Scrum role, but lacks a detailed exploration of Scrum principles, practices, or the Scrum framework itself. The focus on lean product delivery deviates from core Scrum discussions, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "Automated Testing": {
     "category": "Automated Testing",

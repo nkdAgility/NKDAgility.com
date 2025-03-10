@@ -29,10 +29,9 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Modern Source Control
-- Practical Techniques and Tooling
 - Software Development
-categories:
-- DevOps
+- Practical Techniques and Tooling
+categories: []
 preview: clip_image001-1-1.png
 
 ---

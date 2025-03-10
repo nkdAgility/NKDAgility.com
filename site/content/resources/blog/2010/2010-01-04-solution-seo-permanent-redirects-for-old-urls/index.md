@@ -8,7 +8,7 @@ ResourceImportId: 73
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-01-04
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,8 +28,7 @@ aliasesArchive:
 - /resources/blog/solution-seo-permanent-redirects-for-old-urls
 tags:
 - Software Development
-categories:
-- Engineering Excellence
+categories: []
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

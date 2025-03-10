@@ -23,12 +23,12 @@ aliasesArchive:
 - /the-high-of-release
 - /resources/blog/the-high-of-release
 tags:
+- Practical Techniques and Tooling
 - Events and Presentations
 - Product Delivery
 - Application Lifecycle Management
 - Azure DevOps
 - Azure Pipelines
-- Practical Techniques and Tooling
 - Release Management
 - News and Reviews
 - Software Developers

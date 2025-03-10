@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T19:11:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:09:09",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for managing user identities during a domain migration using Team Foundation Server, detailing specific workflows and commands that enhance the migration process.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed guide on performing a batched domain migration using Visual Studio 2012 Team Foundation Server (TFS), which directly relates to practical techniques and tooling in a DevOps context. It discusses specific steps, potential pitfalls, and workflows for managing user identities during the migration process, aligning well with the key topics of the category. The depth of discussion is significant, as it includes a step-by-step approach and considerations for avoiding duplicate identities, which enhances the practical application of the techniques described.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:09:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the migration of users in Team Foundation Server (TFS), which relates to operational processes and management of identities in a DevOps context, but it primarily focuses on the technical aspects of domain migration rather than broader DevOps principles or practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific technical process related to migrating users in Team Foundation Server (TFS), which is relevant to DevOps practices, particularly in the context of managing identities and workflows. However, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. The focus is primarily on a technical migration process rather than the integration of people, processes, and tools that characterise DevOps. While it touches on operational aspects, it does not delve into automation, CI/CD, or collaboration, which are core to the DevOps category.",
     "level": "Tertiary"
   },
   "Miscellaneous": {

@@ -23,8 +23,8 @@ aliasesArchive:
 - /import-excel-data-into-tfs-with-history
 - /resources/blog/import-excel-data-into-tfs-with-history
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
 - Azure DevOps
 - Pragmatic Thinking
 - Technical Mastery

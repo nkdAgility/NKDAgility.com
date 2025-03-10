@@ -38,6 +38,7 @@ resourceTypes:
 - video
 categories:
 - Scrum
+- Social Technologies
 
 ---
 ## Product Owner's Misstep

@@ -30,6 +30,7 @@ tags:
 - Agile Frameworks
 - Agile Project Management
 - Agile Transformation
+- Software Developers
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml

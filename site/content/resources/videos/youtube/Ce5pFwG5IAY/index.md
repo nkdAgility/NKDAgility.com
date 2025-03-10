@@ -33,6 +33,7 @@ resourceTypes:
 - video
 categories:
 - Scrum
+- Social Technologies
 
 ---
 **Scrum Masters: Unlocking the Power of Liberating Structures 🚀** 

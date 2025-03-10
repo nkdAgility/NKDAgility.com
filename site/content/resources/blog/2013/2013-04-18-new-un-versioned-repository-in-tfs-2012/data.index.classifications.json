@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T19:01:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:08:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implementation and benefits of using an un-versioned repository in TFS 2012, detailing practical techniques for managing build outputs and version control, which aligns with the category focus.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the introduction of an un-versioned repository in TFS 2012, detailing its practical application for storing build drops and the benefits of this approach. It provides specific instructions on how to implement this feature, which aligns well with the category's focus on practical techniques and tooling. However, while it covers a specific tool (TFS) and its functionality, the depth of discussion on broader Agile or DevOps methodologies is limited, which slightly reduces the overall confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,12 +733,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:08:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of an un-versioned repository in TFS 2012, touching on aspects of version control management, build processes, and the implications of choosing different storage strategies. While it focuses on a specific technical implementation, it does relate to software engineering practices, but is not primarily about broader engineering excellence concepts.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the introduction of an un-versioned repository in TFS 2012, which relates to software development practices, particularly in managing build outputs and version control. However, it primarily focuses on a specific feature rather than broader principles of engineering excellence, such as coding standards or continuous improvement. While it touches on aspects of technical debt management and the impact of version control on efficiency, the discussion lacks depth and does not comprehensively cover the key topics outlined in the category definition.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

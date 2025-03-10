@@ -33,7 +33,6 @@ resourceTypes:
 - video
 categories:
 - Leadership
-- Scrum
 
 ---
 # Overcoming the Culture of Contempt in Agile Teams

@@ -8,7 +8,7 @@ ResourceImportId: 10732
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-10-16
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,12 +28,11 @@ aliasesArchive:
 - /resources/blog/uncommitted-changes-messing-sync-git-visual-studio
 tags:
 - Modern Source Control
-- Practical Techniques and Tooling
 - Software Development
 - Troubleshooting
+- Practical Techniques and Tooling
 categories:
 - DevOps
-- Engineering Excellence
 preview: naked-alm-git-2-2.png
 
 ---

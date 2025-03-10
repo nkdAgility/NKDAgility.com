@@ -28,16 +28,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Coaching
 - People and Process
-- Team Performance
-- Agile Frameworks
-- Agile Project Management
-- Agile Transformation
-- Empirical Process Control
-- Software Development
-- Pragmatic Thinking
-- Discovery and Learning
 resourceTypes:
 - video
 categories:

@@ -8,7 +8,7 @@ ResourceImportId: 4223
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-01-25
-weight: 550
+weight: 495
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,15 +24,15 @@ aliasesArchive:
 - /resources/blog/an-adoption-strategy-for-testing-with-visual-studio-2010
 tags:
 - Events and Presentations
-- Practical Techniques and Tooling
 - Products and Books
 - Software Development
+- Practical Techniques and Tooling
 - People and Process
 - Software Developers
 - Team Collaboration
 categories:
-- Scrum
 - Engineering Excellence
+- Scrum
 - Social Technologies
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 

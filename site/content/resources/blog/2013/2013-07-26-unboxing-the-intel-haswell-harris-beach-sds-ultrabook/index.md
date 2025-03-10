@@ -28,8 +28,8 @@ aliasesArchive:
 - /resources/blog/unboxing-the-intel-haswell-harris-beach-sds-ultrabook
 tags:
 - Windows
-- Products and Books
 - News and Reviews
+- Products and Books
 categories: []
 preview: Web-Intel-Metro-icon-4-4.png
 

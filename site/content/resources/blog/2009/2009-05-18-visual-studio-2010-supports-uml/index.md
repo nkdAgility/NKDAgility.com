@@ -24,7 +24,6 @@ aliasesArchive:
 - /resources/blog/visual-studio-2010-supports-uml
 tags:
 - News and Reviews
-- Products and Books
 - Software Development
 - Technical Mastery
 categories: []

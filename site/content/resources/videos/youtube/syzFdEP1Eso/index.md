@@ -32,9 +32,9 @@ sitemap:
 tags:
 - Definition of Done
 - Software Development
-- Agile Frameworks
 - Agile Project Management
 - Pragmatic Thinking
+- Agile Frameworks
 - Professional Scrum
 resourceTypes:
 - video

@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T19:31:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:15:45",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content provides detailed instructions on managing service accounts for Team Foundation Server, which aligns with practical techniques and tooling in a DevOps context.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed guide on managing service accounts for Team Foundation Server (TFS), which directly relates to practical techniques and tooling in a DevOps context. It discusses specific actions to take, such as changing service accounts and passwords, and references relevant tools and resources. The focus on actionable steps and the mention of specific accounts and configurations align well with the category's emphasis on practical application. However, while it is informative, it lacks broader discussions on methodologies or frameworks that enhance Agile and DevOps practices, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:15:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses managing service accounts for Team Foundation Server (TFS), which is relevant to DevOps practices, particularly in the context of Continuous Integration and Continuous Delivery. However, the primary focus is on account management rather than broader DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on managing service accounts for Team Foundation Server (TFS) and does not explicitly discuss DevOps principles or practices. While it touches on aspects of system administration that could relate to DevOps, such as service account management, it lacks a broader discussion on collaboration, automation, or continuous delivery. The content is more operational in nature and does not delve into the cultural or process-oriented aspects of DevOps.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

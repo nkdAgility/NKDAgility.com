@@ -21,11 +21,9 @@ aliasesArchive:
 categories:
 - Scrum
 - Product Management
-- Social Technologies
 tags:
 - Agile Product Management
 - Discovery and Learning
-- Professional Scrum
 - Scrum Team
 - Agile Frameworks
 - Agile Project Management
@@ -33,6 +31,7 @@ tags:
 - Events and Presentations
 - News and Reviews
 - People and Process
+- Product Owner
 
 ---
 Greetings,

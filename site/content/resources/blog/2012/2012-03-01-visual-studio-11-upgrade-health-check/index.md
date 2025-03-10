@@ -35,6 +35,7 @@ tags:
 - Azure DevOps
 categories:
 - Social Technologies
+- Scrum
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

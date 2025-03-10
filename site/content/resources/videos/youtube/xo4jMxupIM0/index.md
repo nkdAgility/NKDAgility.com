@@ -36,10 +36,10 @@ tags:
 - People and Process
 - Professional Scrum
 - Scrum Master
-- Events and Presentations
 - Pragmatic Thinking
 - Team Collaboration
 - Agile Frameworks
+- Coaching
 categories:
 - Scrum
 - Social Technologies

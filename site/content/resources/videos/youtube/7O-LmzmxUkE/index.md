@@ -36,10 +36,10 @@ tags:
 - Daily Scrum
 - People and Process
 - Scrum Team
-- Transparency and Accountability
 - Professional Scrum
 - Scrum Master
 - Software Developers
+- Team Collaboration
 resourceTypes:
 - video
 layout: video

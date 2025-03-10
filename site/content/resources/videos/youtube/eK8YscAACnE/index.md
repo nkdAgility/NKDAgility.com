@@ -29,6 +29,7 @@ tags:
 - Throughput
 - Flow Efficiency
 - Metrics and Learning
+- Evidence Based Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

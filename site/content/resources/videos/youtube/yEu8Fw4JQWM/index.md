@@ -28,11 +28,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Flow Efficiency
 - Agile Frameworks
 - Agile Project Management
 - Agile Transformation
 - People and Process
-- Flow Efficiency
 - Lean Thinking
 - Operational Practices
 - Pragmatic Thinking

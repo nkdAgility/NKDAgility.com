@@ -31,12 +31,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T17:17:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:30:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the complexities of work in a Scrum context, which relates to product management, but it primarily critiques the use of Lego as a training tool rather than focusing on strategic product management principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on the complexity of work in a Scrum context but does not delve into product management methodologies or frameworks. It critiques the use of Lego as a training tool, which is more about the training method than product management itself. The discussion lacks depth and does not provide substantial insights into product management principles or practices.",
+    "level": "Quaternary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -97,11 +100,14 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T17:18:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:30:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses complexity in the context of software development, particularly the challenges of integrating independently built software components. However, the primary focus is on the use of Lego as a metaphor for Scrum training rather than a deep exploration of code quality or complexity theory.",
+    "final_score": 57.0,
+    "reasoning": "The content briefly touches on the concept of complexity in software development, particularly in relation to the challenges of integrating independently built software components. However, it lacks a detailed exploration of code quality principles, best practices, or the application of complexity theory in a structured manner. The primary focus is on the metaphor of Lego, which detracts from a deeper discussion on code and complexity.",
     "level": "Tertiary"
   },
   "Scaling Kanban": {

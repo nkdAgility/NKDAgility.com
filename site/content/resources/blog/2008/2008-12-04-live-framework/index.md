@@ -25,7 +25,6 @@ aliasesArchive:
 tags:
 - Collaboration Tools
 - System Configuration
-- Team Collaboration
 - Practical Techniques and Tooling
 - Azure DevOps
 - Software Development

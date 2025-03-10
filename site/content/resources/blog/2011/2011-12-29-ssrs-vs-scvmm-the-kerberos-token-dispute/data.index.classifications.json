@@ -73,11 +73,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T21:41:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:25:42",
+    "ai_confidence": 85.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the installation and configuration of TFS and Lab Management, detailing specific issues encountered during the setup process and providing actionable insights for resolving them.",
+    "final_score": 80.0,
+    "reasoning": "The content provides a detailed account of the installation and configuration processes for TFS and Lab Management, including specific hardware setups, server configurations, and troubleshooting steps for common issues like SPN errors. It directly addresses installation challenges and configuration best practices, aligning well with the key topics of the category. The depth of discussion is significant, as it covers multiple problems encountered during the setup and offers solutions, demonstrating a strong focus on the technical aspects of installation and configuration.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:25:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation and configuration of TFS and SCVMM, which are relevant to DevOps practices, but the primary focus is on troubleshooting specific issues rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses technical issues related to TFS and SCVMM, which are tools relevant to DevOps practices. However, it primarily focuses on specific problems encountered during installation and configuration rather than broader DevOps principles or practices. While there are mentions of automation and configuration management, the depth of discussion does not sufficiently cover the core themes of DevOps, such as CI/CD, cultural shifts, or metrics for success.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

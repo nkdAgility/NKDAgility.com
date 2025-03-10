@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T02:13:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:43:04",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implementation of a data access layer using Unity, which involves practical techniques and tooling related to dependency injection and configuration management. It provides specific examples and code snippets that illustrate the application of these techniques.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed exploration of using Unity as a dependency injection and mapping framework, which directly aligns with practical techniques and tooling in software development. It discusses specific implementations, configurations, and best practices for using Unity, demonstrating a clear application of a tool within a practical context. The depth of discussion includes code examples and explanations of design patterns, which enhances its relevance to the category. However, while it is focused on a specific tool, it lacks broader discussions on Agile or DevOps methodologies, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,12 +733,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:23",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-07T15:42:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content discusses creating a Data Access layer using Unity, including aspects of dependency injection and interface design, which align with best practices in software craftsmanship. However, the primary focus is on implementation specifics rather than broader discussions on engineering excellence, such as coding standards or continuous integration practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on implementing a data access layer using Unity, which involves technical details about coding practices and design patterns. However, it lacks explicit discussions on broader engineering excellence principles such as quality assurance, coding standards, or continuous improvement processes. While it touches on some aspects of software craftsmanship, the depth of discussion is more about specific implementation rather than promoting high standards in software development practices.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

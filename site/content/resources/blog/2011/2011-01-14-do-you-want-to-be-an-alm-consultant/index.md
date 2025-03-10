@@ -8,7 +8,7 @@ ResourceImportId: 17
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2011-01-14
-weight: 540
+weight: 485
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -31,9 +31,9 @@ tags:
 - Software Development
 - People and Process
 categories:
+- Engineering Excellence
 - Leadership
 - Scrum
-- Engineering Excellence
 preview: metro-visual-studio-2010-128-link-3-3.png
 
 ---

@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T23:51:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:42:26",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses practical steps for configuring Azure virtual machines and networks, which aligns with the exploration and application of tools and methodologies in a DevOps context.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed, step-by-step guide on moving an Azure VM to a virtual network, which directly relates to practical tooling in cloud environments. It discusses specific actions, configurations, and considerations, aligning well with the category's focus on practical techniques. The depth of discussion is substantial, covering the necessary steps and potential pitfalls, although it could benefit from more explicit references to Agile or DevOps methodologies. Overall, it effectively demonstrates the application of a specific tool (Azure) in a practical context.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:42:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses configuring Azure virtual machines and networks, which relates to DevOps practices, but it primarily focuses on specific technical steps rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical steps for moving an Azure VM to a virtual network, which is a specific operational task rather than a broader discussion on DevOps principles or practices. While it touches on aspects of cloud infrastructure management, it lacks explicit mentions of DevOps concepts such as CI/CD, automation, or cultural shifts. The depth of discussion is moderate, providing detailed steps but not addressing the collaborative or process-oriented aspects of DevOps.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

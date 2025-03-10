@@ -35,8 +35,8 @@ tags:
 - Scrum Product Development
 - Scrum Team
 - Agile Frameworks
-- Agile Product Management
 - Agile Project Management
+- Agile Transformation
 categories:
 - Scrum
 preview: 1061204442-1-1.jpg

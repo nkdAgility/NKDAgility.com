@@ -226,11 +226,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-14T16:29:53",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-07T15:12:49",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "Content focuses primarily on configuring Team Foundation Server (TFS) for software development, covering aspects like team structuring, backlog management, and the integration of custom fields. It discusses practices relevant to Software Development Life Cycle (SDLC), particularly in a team-based Agile context.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed discussion on configuring Team Foundation Server (TFS) to use a 'team field' instead of areas, which directly relates to software development practices. It covers specific steps, methodologies, and considerations for implementing this change, aligning well with the Software Development category. The mention of continuous delivery and TDD further strengthens its relevance, showcasing a deep understanding of software engineering processes.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -379,12 +382,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:12:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses configuration and process-related aspects of Team Foundation Server (TFS), which can relate to engineering practices, but it primarily focuses on team management and project structure rather than directly on engineering excellence, coding standards, or software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the configuration of Team Foundation Server (TFS) and the use of a 'team field' without areas, which is more focused on project management and tool usage rather than core engineering excellence practices. While it touches on aspects of team organisation and process configuration, it lacks a strong emphasis on software craftsmanship, coding standards, or quality assurance principles that are central to the category of Engineering Excellence.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

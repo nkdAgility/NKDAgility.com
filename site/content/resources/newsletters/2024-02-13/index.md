@@ -25,8 +25,8 @@ categories:
 tags:
 - Events and Presentations
 - Agile Project Management
-- People and Process
 - Software Development
+- People and Process
 - Products and Books
 - Agile Product Management
 - Practical Techniques and Tooling

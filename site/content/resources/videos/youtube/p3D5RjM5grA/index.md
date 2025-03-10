@@ -26,6 +26,7 @@ duration: 2961
 isShort: false
 tags:
 - Events and Presentations
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -33,6 +34,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Social Technologies
 - Scrum
 
 ---

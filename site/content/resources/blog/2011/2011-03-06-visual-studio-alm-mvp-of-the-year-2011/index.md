@@ -8,7 +8,7 @@ ResourceImportId: 9
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-03-06
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,8 +24,16 @@ aliasesArchive:
 - /resources/blog/visual-studio-alm-mvp-of-the-year-2011
 tags:
 - Personal
-categories:
-- Engineering Excellence
+- Continuous Learning
+- People and Process
+- Discovery and Learning
+- News and Reviews
+- Practical Techniques and Tooling
+- Products and Books
+- Strategic Goals
+- Team Collaboration
+- Transparency and Accountability
+categories: []
 preview: metro-award-link-2-2.png
 
 ---

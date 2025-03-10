@@ -23,8 +23,8 @@ aliasesArchive:
 - /online-is-the-new-co-located
 - /resources/blog/online-is-the-new-co-located
 tags:
-- Transparency
 - People and Process
+- Transparency
 - Events and Presentations
 - Transparency and Accountability
 - Pragmatic Thinking

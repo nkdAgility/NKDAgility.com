@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T11:43:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:55:12",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses new features and enhancements in Visual Studio 2013 and TFS 2013, focusing on practical applications of tooling that support Agile and DevOps practices.",
+    "final_score": 66.0,
+    "reasoning": "The content provides a detailed overview of new features in Visual Studio 2013 and TFS 2013, focusing on practical enhancements that improve team collaboration and Agile practices. It discusses specific tools and functionalities, such as Team Explorer enhancements, Agile Portfolio Management, and test case management, which align well with the category's focus on practical techniques and tooling. However, while it covers many relevant topics, the discussion occasionally veers into general observations rather than strictly practical applications, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,12 +733,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:55:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses features and enhancements in Visual Studio 2013 and TFS 2013 that can influence development practices, particularly in areas like continuous integration and testing methodologies. However, the primary focus is on product features rather than direct engineering practices or excellence.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses new features in Visual Studio 2013 and TFS 2013, focusing on enhancements and usability improvements rather than explicitly addressing engineering excellence principles or practices. While there are mentions of development processes and tools that could contribute to engineering excellence, the discussion lacks depth in terms of best practices, continuous improvement, or metrics for assessing engineering performance. The content is more product-focused than process-oriented, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

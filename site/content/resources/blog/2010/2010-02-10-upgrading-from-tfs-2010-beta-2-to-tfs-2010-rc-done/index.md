@@ -8,7 +8,7 @@ ResourceImportId: 70
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-02-10
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,18 +25,17 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - System Configuration
-- Practical Techniques and Tooling
 - Software Development
 - Application Lifecycle Management
 - Pragmatic Thinking
 - Technical Mastery
 - Troubleshooting
+- Practical Techniques and Tooling
 - Deployment Strategies
 - Release Management
 preview: metro-visual-studio-2010-128-link-3-3.png
 categories:
 - DevOps
-- Engineering Excellence
 
 ---
 Visual Studio Team Foundation Server 2010 RC was released yesterday on MSDN. I am happy to report that today we successfully completed upgrading our production TFS 2010 Beta 2 server, to the new TFS 2010 RC. wow.

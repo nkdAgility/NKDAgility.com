@@ -33,12 +33,12 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Application Lifecycle Management
-- Practical Techniques and Tooling
 - System Configuration
 - Azure DevOps
 - Frequent Releases
 - Software Development
 - Technical Mastery
+- Practical Techniques and Tooling
 - Platform Engineering
 - Product Delivery
 categories:

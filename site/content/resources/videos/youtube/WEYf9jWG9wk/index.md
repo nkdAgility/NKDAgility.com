@@ -31,8 +31,8 @@ tags:
 - Hypothesis Driven Development
 - Continuous Learning
 - Experimentation
-- Pragmatic Thinking
 - Value Delivery
+- Pragmatic Thinking
 - Business Agility
 - Lean Product Development
 - Organisational Agility

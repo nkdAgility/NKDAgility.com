@@ -33,12 +33,10 @@ tags:
 - People and Process
 - Coaching
 - Mentoring
-- Personal
 - Discovery and Learning
 resourceTypes:
 - video
 categories:
-- Leadership
 - Social Technologies
 
 ---

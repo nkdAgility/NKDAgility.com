@@ -28,7 +28,6 @@ isShort: true
 tags:
 - Software Development
 - Engineering Practices
-- Technical Mastery
 - Working Software
 - Value Delivery
 sitemap:

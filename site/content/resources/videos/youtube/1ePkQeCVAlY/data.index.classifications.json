@@ -82,12 +82,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T16:42:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:11:38",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses concepts of resource efficiency and flow efficiency, which are relevant to product management, particularly in the context of optimising workflows and understanding team dynamics. However, it primarily focuses on operational efficiency rather than strategic product management practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the concepts of resource efficiency and flow efficiency, which are relevant to product management, particularly in the context of optimising workflows and understanding team dynamics. However, it lacks direct mentions of product management frameworks or methodologies, and the discussion is more focused on operational efficiency rather than strategic alignment with customer needs or business objectives. While it touches on the importance of team morale and holistic views of work processes, it does not delve deeply into product management practices or frameworks, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -1066,11 +1069,14 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-12T12:05:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:11:42",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 32,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the differences between resource efficiency and flow efficiency, focusing on the holistic view of work flow and the implications of optimising flow over resources. It addresses key principles of flow efficiency and its impact on team dynamics and delivery, making it a central theme.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses the differences between resource efficiency and flow efficiency, making direct mentions of flow efficiency throughout. It aligns well with the core themes of the category by emphasising the holistic view of work flow and the importance of optimising the entire system rather than individual resources. The depth of discussion is substantial, providing examples and insights into how flow efficiency impacts team dynamics and overall delivery. However, while it is focused on flow efficiency, it also touches on resource efficiency, which slightly detracts from its primary focus.",
     "level": "Secondary"
   },
   "AI and Automation in Agility": {

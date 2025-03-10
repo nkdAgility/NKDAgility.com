@@ -28,10 +28,10 @@ aliasesArchive:
 - /blog/the-7-deadly-sins-of-agile--a-grecian-odyssey-through-modern-software-development
 - /resources/blog/the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
 tags:
+- Software Development
 - People and Process
 - Agile Philosophy
 - Agile Project Management
-- Software Development
 - Agile Strategy
 - Agile Values and Principles
 - Agile Transformation

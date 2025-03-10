@@ -8,7 +8,7 @@ ResourceImportId: 10151
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-10-16
-weight: 775
+weight: 810
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,9 +29,9 @@ aliasesArchive:
 - /blog/powershell-tfs-2013-api--2---adding-to-a-globallist
 - /resources/blog/powershell-tfs-2013-api-2-adding-to-a-globallist
 tags:
+- Practical Techniques and Tooling
 - Technical Mastery
 - Install and Configuration
-- Practical Techniques and Tooling
 - Software Development
 - System Configuration
 - Technical Excellence

@@ -32,8 +32,8 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Complexity Thinking
 - Pragmatic Thinking
+- Complexity Thinking
 - Discovery and Learning
 - Business Agility
 - Agile Philosophy

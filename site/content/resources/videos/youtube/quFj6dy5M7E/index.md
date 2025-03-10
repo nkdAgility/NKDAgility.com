@@ -33,6 +33,7 @@ resourceTypes:
 - video
 categories:
 - Product Management
+- DevOps
 - Social Technologies
 
 ---

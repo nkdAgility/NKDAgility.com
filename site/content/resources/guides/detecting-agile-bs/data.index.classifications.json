@@ -442,12 +442,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T12:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T12:51:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile principles and practices, which are relevant to product management, but it primarily focuses on identifying and critiquing the misuse of Agile methodologies rather than providing strategic insights or frameworks for product management.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile principles and practices, which are relevant to product management, particularly in the context of gathering user feedback and aligning development with user needs. However, it primarily focuses on identifying the authenticity of Agile practices rather than providing a comprehensive discussion on product management strategies or frameworks. While it touches on stakeholder engagement and user interaction, it lacks depth in exploring methodologies or metrics specific to product management.",
+    "level": "Secondary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -1165,11 +1168,14 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-13T15:47:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:51:44",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses the importance of continuous feedback, user interaction, and metrics in Agile development, which aligns well with the principles of evidence-based decision-making and iterative learning cycles.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses various aspects of Agile development, including the importance of user feedback, continuous improvement, and the role of metrics in assessing project success. It explicitly mentions the need for continuous feedback loops and poses questions aimed at evaluating the effectiveness of Agile practices, which aligns well with the core themes of the 'Metrics and Learning' category. However, while it touches on metrics and learning, the primary focus is more on identifying Agile practices rather than a deep exploration of metrics and learning methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Organisational Agility": {

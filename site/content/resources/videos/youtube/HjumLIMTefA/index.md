@@ -33,8 +33,8 @@ tags:
 - Continuous Learning
 - Discovery and Learning
 - Change Management
-- People and Process
 - Organisational Agility
+- People and Process
 - Resilience and Change
 - Organisational Change
 resourceTypes:

@@ -1,12 +1,15 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T11:07:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:26:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions DevOps as one of the topics for discussion, but it is not the primary focus, as it also includes Agility and Scrum-related topics.",
-    "level": "Tertiary"
+    "final_score": 34.0,
+    "reasoning": "The content briefly mentions DevOps in the context of training and consulting but primarily focuses on Agile practices, specifically Scrum and Kanban. While there are elements of collaboration and continuous improvement, the discussion lacks depth in DevOps principles, practices, and tools. The content does not provide substantial insights into DevOps metrics, automation, or cultural shifts, which are critical for a strong alignment with the DevOps category.",
+    "level": "Quaternary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
@@ -451,12 +454,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-18T11:35:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions topics related to DevOps and Agility, which are relevant to software developers, but it is framed as a general Q&A session without a focused discussion on these methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-07T14:26:23",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses Agile training and concepts relevant to software developers, such as continuous forecasting and Scrum practices. However, it primarily focuses on training logistics and personal anecdotes rather than in-depth exploration of Agile methodologies or DevOps principles. While it touches on relevant topics, the depth of discussion is more about the training process than the role of developers in these frameworks.",
+    "level": "Secondary"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",

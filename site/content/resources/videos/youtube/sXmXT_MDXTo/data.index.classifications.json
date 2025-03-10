@@ -1231,11 +1231,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-12T01:29:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:56:37",
+    "ai_confidence": 78.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the principles and practices of DevOps that enhance value delivery, including continuous delivery, quality maintenance, and aligning product development with customer needs. It highlights the importance of understanding current practices to improve future outcomes, which aligns well with the key topics of the Value Delivery category.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses various aspects of DevOps practices, focusing on how bespoke solutions can enhance delivery and quality. It highlights the importance of understanding current practices, optimising processes, and ensuring high-quality delivery, which aligns well with the principles of value delivery. However, while it touches on value delivery concepts, it does not explicitly frame them within the context of Agile or Scrum methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Technical Excellence": {
@@ -1366,12 +1369,15 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T13:53:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T12:56:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the role of leadership in navigating DevOps practices and organisational challenges, but it primarily focuses on technical implementation details and specific practices rather than leadership as a central theme.",
-    "level": "Tertiary"
+    "final_score": 34.0,
+    "reasoning": "The content discusses various aspects of DevOps and organisational practices but lacks a primary focus on leadership. While it touches on the role of leadership in fostering a culture of continuous delivery and addresses some leadership-related challenges, these discussions are secondary to the technical aspects of DevOps implementation. The depth of discussion on leadership is limited, primarily mentioning it in the context of compliance and team dynamics without providing substantial strategies or frameworks for effective leadership.",
+    "level": "Quaternary"
   },
   "Social Technologies": {
     "category": "Social Technologies",

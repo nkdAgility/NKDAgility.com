@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T00:33:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:35:53",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for managing build controllers in Team Foundation Server, including specific steps for identifying and resolving issues with ghost build controllers, which aligns well with the category focus.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses a specific issue related to Team Foundation Server (TFS) and provides practical techniques for identifying and resolving ghost build controllers. It includes direct mentions of TFS and the steps taken to manage build statuses, which aligns with the category's focus on practical tooling. However, while it offers some depth in terms of the problem-solving process, it lacks broader discussions on methodologies or frameworks that enhance Agile and DevOps practices, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,12 +733,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:35:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical issue related to Team Foundation Server and managing build controllers, which is relevant to software development processes, particularly in relation to build management practices. However, it does not deeply engage with broader topics of engineering excellence such as software craftsmanship, CI/CD practices, or quality assurance, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific technical issue related to Team Foundation Server (TFS) and ghost build controllers, which touches on aspects of software engineering. However, it primarily focuses on troubleshooting and specific actions taken rather than broader principles of engineering excellence, such as coding standards, quality assurance, or continuous improvement practices. While there are mentions of database management and build processes, the depth of discussion does not sufficiently align with the core themes of engineering excellence, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

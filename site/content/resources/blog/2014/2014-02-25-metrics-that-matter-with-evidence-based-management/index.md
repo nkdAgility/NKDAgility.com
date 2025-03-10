@@ -8,7 +8,7 @@ ResourceImportId: 10367
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-02-25
-weight: 405
+weight: 375
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,8 +27,8 @@ tags:
 - Evidence Based Management
 - Metrics and Learning
 categories:
-- Product Management
 - Engineering Excellence
+- Product Management
 - Social Technologies
 preview: nakedalm-agility-index-24-24.png
 

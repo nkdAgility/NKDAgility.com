@@ -38,7 +38,6 @@ tags:
 - Agile Project Management
 - Software Development
 - Personal
-- Professional Scrum
 resourceTypes:
 - video
 categories:

@@ -8,7 +8,7 @@ ResourceImportId: 6117
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-07-11
-weight: 775
+weight: 810
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,12 +27,11 @@ aliasesArchive:
 - /blog/tfs-integration-tools-–-issue--error-occurred-during-the-code-review-of-change-group
 - /resources/blog/tfs-integration-tools-issue-error-occurred-during-the-code-review-of-change-group
 tags:
-- Practical Techniques and Tooling
 - Software Development
 - Troubleshooting
+- Practical Techniques and Tooling
 categories:
 - DevOps
-- Engineering Excellence
 preview: metro-problem-icon-2-2.png
 
 ---

@@ -31,12 +31,12 @@ aliasesArchive:
 tags:
 - Windows
 - Install and Configuration
-- Practical Techniques and Tooling
 - System Configuration
 - Azure DevOps
 - Pragmatic Thinking
 - Software Development
 - Troubleshooting
+- Practical Techniques and Tooling
 - Technical Mastery
 categories:
 - DevOps

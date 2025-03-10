@@ -26,6 +26,7 @@ preview: https://i.ytimg.com/vi/sKYVNHcf1jg/maxresdefault.jpg
 duration: 280
 isShort: false
 tags:
+- Organisational Change
 - Coaching
 - Agile Frameworks
 - Agile Leadership
@@ -35,7 +36,6 @@ tags:
 - Agile Transformation
 - Business Agility
 - Organisational Agility
-- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

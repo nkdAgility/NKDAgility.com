@@ -39,7 +39,6 @@ resourceTypes:
 - video
 categories:
 - Leadership
-- Social Technologies
 
 ---
 ## Spotlight on Agile Influencers: The Simon Randell Effect

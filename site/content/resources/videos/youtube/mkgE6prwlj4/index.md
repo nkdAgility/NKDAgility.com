@@ -32,13 +32,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
 - Pragmatic Thinking
+- Agile Frameworks
 resourceTypes:
 - video
 categories:
-- DevOps
-- Engineering Excellence
 - Social Technologies
 
 ---

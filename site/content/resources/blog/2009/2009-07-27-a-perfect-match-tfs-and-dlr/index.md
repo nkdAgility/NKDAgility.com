@@ -8,7 +8,7 @@ ResourceImportId: 96
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-07-27
-weight: 775
+weight: 810
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,8 +23,8 @@ aliasesArchive:
 - /a-perfect-match-tfs-and-dlr
 - /resources/blog/a-perfect-match-tfs-and-dlr
 tags:
-- Practical Techniques and Tooling
 - Software Development
+- Practical Techniques and Tooling
 categories:
 - Engineering Excellence
 preview: metro-visual-studio-2010-128-link-3-3.png

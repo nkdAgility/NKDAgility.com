@@ -33,10 +33,10 @@ tags:
 - Scrum Team
 - Software Development
 - Agile Planning
-- Agile Product Management
 - Agile Project Management
 - Metrics and Learning
 - People and Process
+- Professional Scrum
 categories:
 - Scrum
 preview: nakedalm-logo-128-link-1-1.png

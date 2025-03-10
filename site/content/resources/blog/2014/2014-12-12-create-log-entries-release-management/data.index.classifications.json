@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T23:30:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:39:21",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for creating log entries in Release Management, including specific PowerShell commands and troubleshooting methods, which aligns well with the category focus.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses practical techniques for creating log entries in Release Management, specifically focusing on PowerShell commands and their outputs. It provides a detailed exploration of the challenges faced during the implementation of a release pipeline, which aligns with the category's focus on tooling and methodologies. However, while it mentions specific tools and techniques, the overall discussion is somewhat anecdotal and lacks a broader context of Agile or DevOps practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,11 +733,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:39:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to logging and output in deployment scripts, which touches on best practices in coding and quality assurance. However, it primarily focuses on a specific problem rather than a broader discussion on engineering excellence.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses specific technical challenges related to logging in Release Management, which touches on aspects of software craftsmanship and quality assurance. However, it lacks a broader discussion on best practices, continuous improvement, or engineering processes. The focus is primarily on a personal experience rather than a comprehensive exploration of engineering excellence principles.",
     "level": "Tertiary"
   },
   "Revenue per Employee": {

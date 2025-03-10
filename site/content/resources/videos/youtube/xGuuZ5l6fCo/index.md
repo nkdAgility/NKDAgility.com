@@ -31,6 +31,15 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Product Management
+- Product Delivery
+- Agile Product Operating Model
+- Agile Project Management
+- Agile Values and Principles
+- Business Agility
+- Customer Feedback Loops
+- Decision Making
+- People and Process
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

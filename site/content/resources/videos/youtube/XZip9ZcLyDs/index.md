@@ -32,14 +32,14 @@ tags:
 - Agile Frameworks
 - Agile Project Management
 - People and Process
-- Agile Leadership
 - Scrum Team
+- Agile Leadership
 resourceTypes:
 - video
 categories:
 - Leadership
-- Social Technologies
 - Scrum
+- Social Technologies
 
 ---
 **Why is becoming a Scrum Master a great career option?**

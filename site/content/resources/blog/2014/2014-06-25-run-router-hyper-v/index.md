@@ -29,11 +29,11 @@ aliasesArchive:
 tags:
 - Windows
 - Install and Configuration
-- Practical Techniques and Tooling
 - Pragmatic Thinking
 - System Configuration
 - Technical Mastery
 - Troubleshooting
+- Practical Techniques and Tooling
 categories: []
 preview: naked-alm-hyper-v-17-17.png
 

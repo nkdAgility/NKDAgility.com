@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T21:04:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:35:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for migrating a repository from Codeplex to GitHub, including specific tools like Git-TF and Chocolatey, as well as detailed steps for implementation.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed account of the practical steps taken to migrate a repository from Codeplex to GitHub, including specific tools like Git-TF and Chocolatey. It discusses methodologies for using these tools effectively, which aligns well with the category's focus on practical techniques and tooling. The depth of discussion is significant, as it covers multiple attempts and provides insights into the challenges faced and solutions found. However, while it is primarily focused on practical application, it does not delve deeply into broader Agile or DevOps methodologies, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:34:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the migration of a repository from Codeplex to GitHub, which involves version control and tools relevant to DevOps practices. However, the primary focus is on the migration process rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating a repository from Codeplex to GitHub, which is more aligned with version control and repository management than with the broader principles of DevOps. While it touches on tools like Git and Git-TF, it lacks a discussion on CI/CD practices, automation, or cultural shifts necessary for DevOps. The depth of discussion is moderate, but it does not sufficiently cover the core themes of DevOps, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

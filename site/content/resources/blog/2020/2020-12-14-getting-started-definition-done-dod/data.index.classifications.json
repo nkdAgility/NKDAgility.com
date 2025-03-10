@@ -679,12 +679,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:22:39",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Definition of Done (DoD) in the context of Scrum, which is a significant aspect of product management. However, it primarily focuses on technical implementation details and Scrum practices rather than the strategic alignment of customer needs and business objectives.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) within the context of Scrum, which is relevant to product management. It touches on the importance of quality and collaboration among the Scrum team, aligning with product management principles. However, the focus is primarily on technical implementation details and Scrum practices rather than broader strategic product management themes, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -1150,11 +1153,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-13T21:56:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:22:42",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 36,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the Definition of Done (DoD) in the context of Scrum, focusing on team collaboration, the roles of developers and product owners, and the importance of quality in the software development process. It highlights the need for team dynamics and communication in defining and adhering to the DoD, making it a central theme.",
+    "final_score": 76.0,
+    "reasoning": "The content extensively discusses the Definition of Done (DoD) within the context of Scrum, highlighting the importance of team collaboration, communication, and the human factors involved in defining quality standards. It addresses how developers and the Scrum team must work together to establish a shared understanding of what 'done' means, which directly aligns with the category's focus on people and processes. The depth of discussion is significant, providing detailed strategies for creating and evolving the DoD, which reflects a strong understanding of team dynamics and process improvement.",
     "level": "Secondary"
   },
   "Product Delivery": {

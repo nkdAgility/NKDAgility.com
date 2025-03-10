@@ -19,11 +19,10 @@ aliasesArchive:
 - /newsletters/naked-agility-training-schedule-2021-q4-2022-q1
 - /resources/newsletters/naked-agility-training-schedule-2021-q4-2022-q1
 categories:
-- Scrum
-- Kanban
 - Social Technologies
 tags:
 - Events and Presentations
+- Coaching
 - People and Process
 
 ---

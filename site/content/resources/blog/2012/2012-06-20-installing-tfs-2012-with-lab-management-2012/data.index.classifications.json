@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T20:25:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:20:09",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the installation and configuration of TFS 2012 and Lab Management 2012, detailing practical steps, tools, and methodologies involved in the deployment process.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed walkthrough of installing and configuring TFS 2012 and Lab Management 2012, which directly relates to practical techniques and tooling in Agile and DevOps practices. It discusses specific tools (TFS, SQL Server, SCVMM) and methodologies (installation steps, configuration processes) that enhance team performance and delivery outcomes. The depth of discussion is significant, with step-by-step instructions and troubleshooting tips, demonstrating a strong alignment with the category's focus on practical application.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T20:25:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:20:05",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the installation and configuration of TFS 2012 and Lab Management, which are integral to DevOps practices, particularly in Continuous Integration and Continuous Delivery. It details the steps involved in setting up a DevOps environment, including automation and integration of various tools, which aligns well with DevOps principles.",
+    "final_score": 73.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, which are integral to DevOps practices. It discusses automation in deployment, integration of tools, and the importance of collaboration between development and operations teams. However, while it touches on key DevOps principles, it lacks a broader discussion on cultural shifts and metrics for measuring success, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Miscellaneous": {

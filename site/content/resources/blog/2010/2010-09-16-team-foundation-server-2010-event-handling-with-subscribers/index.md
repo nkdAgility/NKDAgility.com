@@ -8,7 +8,7 @@ ResourceImportId: 25
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-09-16
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,8 +23,8 @@ aliasesArchive:
 - /team-foundation-server-2010-event-handling-with-subscribers
 - /resources/blog/team-foundation-server-2010-event-handling-with-subscribers
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
 - Azure DevOps
 - Pragmatic Thinking
 - Software Developers
@@ -34,7 +34,6 @@ tags:
 - Technical Mastery
 categories:
 - DevOps
-- Engineering Excellence
 preview: metro-binary-vb-128-link-4-4.png
 
 ---

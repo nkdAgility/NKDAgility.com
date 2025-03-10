@@ -10,11 +10,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-16T10:59:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:48:36",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the features and improvements of the Visual Studio Team System Database Edition, which is a software product relevant to Agile and DevOps practices.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily focuses on the release of a specific software product, 'Data Dude', detailing its features, improvements, and architecture. It discusses the product's capabilities and how it integrates with SQL Server, which aligns well with the category's focus on tools and software that facilitate Agile practices and DevOps integration. The depth of discussion is significant, providing detailed insights into the product's functionalities and extensibility, thus supporting a high confidence score.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -631,12 +634,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:48:30",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of a new software product and its architectural features, highlighting improvements in scalability, extensibility, and deployment practices. However, the primary focus is on the product itself rather than on overarching engineering principles or practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the release of a software tool with a focus on its architecture, extensibility, and deployment processes. While it touches on aspects of software craftsmanship, such as the separation of build and deploy, and the extensibility of tools, it lacks a comprehensive discussion on best practices, quality assurance, or continuous improvement in engineering processes. The primary focus is on the product features rather than a broader discourse on engineering excellence.",
+    "level": "Quaternary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",

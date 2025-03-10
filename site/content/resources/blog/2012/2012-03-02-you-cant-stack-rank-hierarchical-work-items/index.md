@@ -30,16 +30,17 @@ tags:
 - Scrum Product Development
 - Product Backlog
 - Software Development
-- Agile Product Management
 - Practical Techniques and Tooling
 - Professional Scrum
 - Software Developers
 - Agile Frameworks
 - Agile Planning
 - Agile Project Management
+- Azure Boards
 categories:
 - Social Technologies
 - Scrum
+- Product Management
 preview: nakedalm-experts-visual-studio-alm-14-14.png
 
 ---

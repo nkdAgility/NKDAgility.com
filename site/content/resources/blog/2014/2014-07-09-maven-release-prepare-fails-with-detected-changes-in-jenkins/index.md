@@ -23,11 +23,11 @@ aliasesArchive:
 - /maven-release-prepare-fails-with-detected-changes-in-jenkins
 - /resources/blog/maven-release-prepare-fails-with-detected-changes-in-jenkins
 tags:
+- Practical Techniques and Tooling
 - Windows
 - Modern Source Control
 - Continuous Integration
 - Install and Configuration
-- Practical Techniques and Tooling
 - Release Management
 - Pragmatic Thinking
 - Software Development

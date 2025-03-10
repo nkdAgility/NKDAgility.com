@@ -8,7 +8,7 @@ ResourceImportId: 7402
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-22
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,8 +30,7 @@ aliasesArchive:
 - /resources/blog/tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
 tags:
 - Software Development
-categories:
-- Engineering Excellence
+categories: []
 preview: metro-problem-icon-12-12.png
 
 ---

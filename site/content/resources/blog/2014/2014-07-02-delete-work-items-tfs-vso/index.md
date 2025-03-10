@@ -27,8 +27,8 @@ aliasesArchive:
 - /blog/how-to-delete-work-items-from-tfs-or-vso
 - /resources/blog/delete-work-items-tfs-vso
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
 - Azure Boards
 - Azure DevOps
 - Software Development

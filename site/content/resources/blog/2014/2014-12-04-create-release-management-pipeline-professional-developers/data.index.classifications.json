@@ -10,12 +10,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T23:42:31",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-07T14:41:53",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 82.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a Release Management pipeline, detailing practical steps, tools, and methodologies relevant to Agile and DevOps practices.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed walkthrough of creating a Release Management pipeline using Team Foundation Server (TFS) and Azure, which directly aligns with the category's focus on practical techniques and tooling. It discusses specific tools (TFS, Azure, Git) and methodologies (Continuous Deployment, automated builds) extensively, demonstrating their application in a real-world scenario. The depth of discussion is significant, covering various aspects of the setup, configuration, and deployment processes, which enhances understanding of Agile and DevOps practices.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T23:43:03",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-07T14:41:50",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 82.0,
-    "reasoning": "The content primarily discusses the creation of a Release Management pipeline, which is a core aspect of DevOps practices, including automation, CI/CD, and deployment processes. It also touches on the integration of tools and environments, which aligns well with DevOps principles.",
+    "final_score": 83.0,
+    "reasoning": "The content provides a comprehensive guide on creating a Release Management pipeline, which is a core aspect of DevOps practices. It discusses automation, continuous integration, and deployment processes, aligning well with DevOps principles. The depth of detail regarding the configuration of environments, build definitions, and deployment scripts indicates a strong focus on DevOps methodologies. Additionally, the content addresses the cultural aspects of collaboration within development teams, further reinforcing its relevance to the DevOps category.",
     "level": "Primary"
   },
   "Miscellaneous": {

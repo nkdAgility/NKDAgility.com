@@ -346,12 +346,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T16:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:14:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile methodologies and their impact on team dynamics and product development, which are relevant to engineering practices. However, the primary focus is on agile as a framework rather than specific engineering excellence principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of agility in responding to market demands, which indirectly relates to engineering excellence through the lens of organisational capability and responsiveness. However, it primarily focuses on agile methodologies and organisational practices rather than specific engineering standards, practices, or processes. The discussion lacks depth in terms of software craftsmanship and does not explicitly mention key topics such as coding standards, CI/CD, or quality assurance.",
+    "level": "Quaternary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1042,11 +1045,14 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-12T03:55:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:14:24",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses how organisations can leverage agile methodologies to adapt and thrive during challenging times, such as recessions. It highlights the importance of organisational change, leadership involvement, and the need for a culture of adaptability, which aligns closely with the principles of resilience and change.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of agility in responding to market changes, particularly during challenging times like recessions. It highlights the need for organisations to invest in their people and adapt quickly to customer demands, which aligns with the core themes of resilience and change. However, while it touches on these concepts, the discussion lacks depth and specific strategies for fostering organisational resilience, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Install and Configuration": {

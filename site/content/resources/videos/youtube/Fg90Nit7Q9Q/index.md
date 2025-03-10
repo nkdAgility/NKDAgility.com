@@ -34,6 +34,7 @@ tags:
 - Pragmatic Thinking
 - People and Process
 - Value Delivery
+- Professional Scrum
 resourceTypes:
 - video
 categories:

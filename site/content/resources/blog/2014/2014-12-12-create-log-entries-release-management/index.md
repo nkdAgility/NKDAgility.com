@@ -8,7 +8,7 @@ ResourceImportId: 10975
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-12-12
-weight: 775
+weight: 720
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,16 +30,16 @@ tags:
 - Windows
 - Application Lifecycle Management
 - Release Management
-- Practical Techniques and Tooling
 - System Configuration
 - Azure DevOps
 - Azure Pipelines
 - Pragmatic Thinking
 - Software Development
 - Technical Excellence
+- Technical Mastery
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 
 ---

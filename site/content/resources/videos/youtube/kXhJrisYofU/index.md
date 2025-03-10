@@ -26,7 +26,6 @@ duration: 496
 isShort: false
 tags:
 - Organisational Agility
-- Agile Product Management
 - Agile Product Operating Model
 - Agile Project Management
 - Market Adaptability
@@ -35,6 +34,7 @@ tags:
 - People and Process
 - Resilience and Change
 - Agile Frameworks
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

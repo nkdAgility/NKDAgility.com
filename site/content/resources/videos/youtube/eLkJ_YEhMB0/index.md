@@ -29,9 +29,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Agile Project Management
 - Daily Scrum
-- People and Process
 - Scrum Team
 - Agile Frameworks
 - Agile Philosophy

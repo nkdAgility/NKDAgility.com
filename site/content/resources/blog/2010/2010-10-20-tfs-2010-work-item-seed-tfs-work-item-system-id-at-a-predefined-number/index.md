@@ -8,7 +8,7 @@ ResourceImportId: 21
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-10-20
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,8 +27,8 @@ aliasesArchive:
 - /blog/tfs-2010-work-item-seed--tfs-work-item-system-id-at-a-predefined-number
 - /resources/blog/tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
 - System Configuration
 - Azure DevOps
 - Software Development
@@ -37,8 +37,7 @@ tags:
 - Troubleshooting
 - Pragmatic Thinking
 - Windows
-categories:
-- Engineering Excellence
+categories: []
 preview: metro-binary-vb-128-link-5-5.png
 
 ---

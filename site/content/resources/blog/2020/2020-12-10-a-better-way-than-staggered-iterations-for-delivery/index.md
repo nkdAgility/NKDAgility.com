@@ -25,6 +25,7 @@ aliasesArchive:
 - /resources/blog/a-better-way-than-staggered-iterations-for-delivery
 tags:
 - Value Delivery
+- Technical Excellence
 - Increment
 - Test First Development
 - Business Agility
@@ -33,7 +34,6 @@ tags:
 - People and Process
 - Scrum Product Development
 - Scrum Team
-- Software Developers
 categories:
 - Scrum
 preview: staggered-iterations-for-delivery1-2-2.png

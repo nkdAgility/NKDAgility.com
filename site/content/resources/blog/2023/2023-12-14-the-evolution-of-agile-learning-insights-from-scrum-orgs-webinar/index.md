@@ -34,9 +34,9 @@ tags:
 - Continuous Learning
 - People and Process
 - Agile Frameworks
-- Products and Books
 - Pragmatic Thinking
 - Coaching
+- Products and Books
 - Agile Transformation
 categories:
 - Social Technologies

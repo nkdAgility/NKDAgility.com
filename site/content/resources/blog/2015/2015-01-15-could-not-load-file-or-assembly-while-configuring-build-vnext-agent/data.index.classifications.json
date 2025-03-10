@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T23:14:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:38:38",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses troubleshooting and configuration techniques for the Build vNext Agent, which is a practical application of tooling in a DevOps context.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses a specific issue encountered while configuring the Build vNext Agent, which is a practical tooling aspect related to DevOps. It provides a solution involving command-line instructions to disable strong naming, which aligns with practical techniques for resolving tooling issues. However, while it mentions a specific tool (Build vNext Agent) and a related error, the overall depth of discussion on methodologies or broader tooling practices is limited, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:38:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to the Build vNext Agent, which is part of the DevOps toolchain, but primarily focuses on a specific error rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific issue related to the Build vNext Agent, which is a tool used in DevOps for continuous integration and delivery. It mentions troubleshooting steps and potential fixes, indicating a focus on automation and deployment processes. However, it lacks broader discussions on DevOps principles, cultural shifts, or metrics, which limits its depth and alignment with the category.",
+    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

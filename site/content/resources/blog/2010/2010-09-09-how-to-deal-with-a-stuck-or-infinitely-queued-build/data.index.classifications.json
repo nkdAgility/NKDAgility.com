@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T00:16:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:34:26",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for troubleshooting and resolving issues with Team Foundation Build, including specific steps to debug and manage stuck builds, which aligns well with the category focus.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed discussion on troubleshooting a specific issue with Team Foundation Build, which is a practical tool in the DevOps space. It explicitly mentions techniques for diagnosing and resolving stuck builds, including steps to restart services and manage build queues. This aligns well with the category's focus on practical techniques and tooling, as it offers actionable insights and methodologies for improving build processes. The depth of discussion is significant, covering various scenarios and solutions, which enhances its relevance to the category.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T00:19:13",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:34:22",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to build processes in Team Foundation Build, which is a key aspect of DevOps practices, particularly in Continuous Integration and Continuous Delivery.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses issues related to build processes in Team Foundation Build, which is a key aspect of DevOps practices. It addresses the challenges of managing builds, including stuck builds and the need for timely completions, which aligns with the principles of Continuous Integration (CI) and Continuous Delivery (CD). The discussion includes practical steps for debugging and resolving build issues, demonstrating a depth of knowledge relevant to DevOps. However, while it touches on automation and build management, it lacks broader discussions on cultural shifts, collaboration, or tools beyond the specific context of Team Foundation Build, which slightly limits its overall alignment with the full scope of DevOps.",
     "level": "Secondary"
   },
   "Miscellaneous": {

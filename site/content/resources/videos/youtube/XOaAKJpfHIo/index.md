@@ -33,8 +33,8 @@ tags:
 - Software Development
 - Value Delivery
 - Software Developers
-- Market Adaptability
 - Pragmatic Thinking
+- Market Adaptability
 - Working Software
 - Agile Philosophy
 - Agile Project Management

@@ -23,10 +23,10 @@ aliasesArchive:
 - /learning-more-about-visual-studio-2008
 - /resources/blog/learning-more-about-visual-studio-2008
 tags:
+- Products and Books
 - Discovery and Learning
 - Continuous Learning
 - News and Reviews
-- Products and Books
 - Software Development
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []

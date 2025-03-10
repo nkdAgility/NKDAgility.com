@@ -36,7 +36,7 @@ tags:
 - Software Development
 - Team Performance
 - Technical Mastery
-- Agile Product Management
+- People and Process
 categories:
 - Scrum
 preview: 1029723898-1-1.jpg

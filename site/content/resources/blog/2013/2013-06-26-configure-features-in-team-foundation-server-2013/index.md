@@ -24,12 +24,11 @@ aliasesArchive:
 - /resources/blog/configure-features-in-team-foundation-server-2013
 tags:
 - Install and Configuration
-- Practical Techniques and Tooling
 - System Configuration
 - Azure DevOps
 - Software Development
-categories:
-- Social Technologies
+- Practical Techniques and Tooling
+categories: []
 
 ---
 So you have upgraded to Team Foundation Server 2013 but you still don’t have some of the features that you upgraded for. There is a wizard for that but it is not supper discoverable that allows you to configure features in Team Foundation Server 2013.

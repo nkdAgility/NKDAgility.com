@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T22:04:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:28:45",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for resolving conflicts during the migration from Subversion to TFS, including specific tools and methodologies used in the process.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed discussion on the practical challenges and techniques involved in migrating from Subversion to TFS, specifically addressing conflict resolution during the migration process. It mentions specific tools and methodologies, such as the 'Migration Support' tool and the 'Session Viewer', which are directly relevant to the category. The depth of discussion includes practical steps for resolving conflicts and considerations for tool settings, aligning well with the core themes of practical techniques and tooling in Agile and DevOps. However, while it is focused on practical application, it does not extensively cover broader Agile or DevOps methodologies, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,12 +733,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:28:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to migration conflict resolution, a technical aspect of software engineering that touches on best practices and handling of software artifacts, though it does not primarily focus on broader engineering processes or quality assurance practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the technical challenges and solutions related to migrating from Subversion to TFS, focusing on conflict resolution during the migration process. While it touches on aspects of software development, such as handling conflicts and the importance of migration tools, it lacks a broader discussion on engineering excellence principles, best practices, or continuous improvement in software craftsmanship. The mention of conflicts and resolution strategies is relevant but does not delve deeply into the overarching themes of engineering excellence, such as coding standards or quality assurance.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

@@ -23,8 +23,8 @@ aliasesArchive:
 - /creating-a-work-item-with-defaults-in-team-foundation-server
 - /resources/blog/creating-a-work-item-with-defaults-in-team-foundation-server
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
 - Azure Boards
 - Azure DevOps
 - Software Development

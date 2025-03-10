@@ -370,12 +370,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T16:42:32",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions DevOps and Agility, which are relevant to software developers, but it is primarily an invitation for a Q&A session rather than a focused discussion on these topics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-07T14:27:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the roles of product owners and project managers within the context of Agile and Scrum methodologies, which are relevant to software developers. However, while it touches on Agile principles and practices, it lacks a focused discussion on software developers' specific roles, best practices, or tools that enhance their productivity and collaboration. The depth of discussion on the impact of Agile on developers is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -1135,11 +1138,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T16:42:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:27:00",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions DevOps as a topic of discussion, but it is not the primary focus, as it also includes Agility and is centred around a Q&A format.",
+    "final_score": 43.0,
+    "reasoning": "The content primarily discusses Agile methodologies, particularly Scrum, and the roles of Product Owners and Project Managers. While it briefly mentions DevOps in the context of automation and continuous delivery, the focus remains on Agile practices rather than a comprehensive exploration of DevOps principles. The discussion lacks depth in DevOps-specific topics such as CI/CD, automation tools, or cultural shifts necessary for DevOps implementation, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "People and Process": {

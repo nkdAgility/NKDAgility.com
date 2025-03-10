@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T00:11:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:33:53",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for configuring Dynamics AX with TFS, including installation steps, project management strategies, and advantages/disadvantages of different configurations, which aligns well with the category.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed exploration of practical techniques for integrating Microsoft Dynamics AX with Team Foundation Server (TFS), including specific tools and methodologies. It discusses installation requirements, configuration options, and best practices for managing multiple AX instances within TFS, which aligns closely with the category's focus on practical application of tools and methodologies in Agile and DevOps practices. The depth of discussion is significant, covering advantages and disadvantages of different approaches, thus demonstrating a strong alignment with the key topics outlined in the category.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,12 +733,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-16T00:54:16",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-07T15:33:50",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses best practices in managing code within Team Foundation Server (TFS) for Dynamics AX instances, emphasizing principles of software craftsmanship and improving engineering processes. However, the primary focus is on specific implementation details rather than a broader discussion of engineering excellence.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the management of Dynamics AX instances with TFS, touching on aspects of software development practices such as project structure, branching, and merging. While it does not explicitly mention engineering excellence, it aligns with best practices in coding standards and CI/CD by promoting a single Team Project approach for better management. However, the depth of discussion on engineering excellence principles is moderate, focusing more on practical implementation than on broader craftsmanship or quality assurance principles.",
+    "level": "Tertiary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

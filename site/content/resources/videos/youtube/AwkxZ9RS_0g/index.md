@@ -35,6 +35,7 @@ tags:
 resourceTypes:
 - video
 categories:
+- DevOps
 - Social Technologies
 
 ---

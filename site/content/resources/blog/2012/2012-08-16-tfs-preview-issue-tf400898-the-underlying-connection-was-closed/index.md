@@ -8,7 +8,7 @@ ResourceImportId: 7161
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-16
-weight: 770
+weight: 850
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -32,7 +32,6 @@ tags:
 - Troubleshooting
 categories:
 - DevOps
-- Engineering Excellence
 preview: metro-problem-icon-4-4.png
 
 ---

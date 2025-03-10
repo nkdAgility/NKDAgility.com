@@ -34,8 +34,8 @@ tags:
 - Continuous Delivery
 - Evidence Based Management
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 - Scrum
 preview: nakedalm-experts-professional-scrum-2-2.png
 

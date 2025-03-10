@@ -31,17 +31,17 @@ tags:
 - Transparency
 - Product Delivery
 - Scrum Product Development
-- Agile Product Management
 - People and Process
 - Product Backlog
 - Transparency and Accountability
 - Agile Project Management
 - Pragmatic Thinking
 - Product Owner
+- Software Development
 categories:
 - Product Management
-- Social Technologies
 - Scrum
+- Social Technologies
 preview: naked-agility-technically-rethinkinguserstories-1-1-1.jpg
 
 ---

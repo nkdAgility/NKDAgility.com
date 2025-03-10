@@ -27,10 +27,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Customer Retention
 - Discovery and Learning
 - Continuous Learning
 - Coaching
-- Customer Retention
 - Employee Engagement
 - Mentoring
 resourceTypes:

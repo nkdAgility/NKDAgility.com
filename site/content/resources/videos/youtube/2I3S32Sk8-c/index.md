@@ -32,12 +32,12 @@ tags:
 - People and Process
 - Scrum Product Development
 - Scrum Team
-- Transparency and Accountability
 - Professional Scrum
 - Scrum Master
 - Team Collaboration
 - Team Performance
 - Agile Frameworks
+- Agile Project Management
 resourceTypes:
 - video
 layout: video

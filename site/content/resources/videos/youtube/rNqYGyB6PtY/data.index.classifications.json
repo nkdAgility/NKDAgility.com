@@ -82,12 +82,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T16:42:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:24:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a product owner in managing team performance, which is a relevant aspect of product management. However, it primarily focuses on personal experiences and opinions regarding team competence rather than strategic product management methodologies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the challenges faced by a product owner regarding team competency, which is tangentially related to product management. However, it primarily focuses on personal opinions and anecdotes rather than strategic frameworks or methodologies central to product management. While it touches on the importance of team effectiveness, it lacks depth in discussing how these issues align with broader product management principles or methodologies.",
+    "level": "Quaternary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -553,11 +556,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T02:41:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T13:24:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical problem-solving strategies for dealing with team incompetence within an Agile and DevOps context, emphasising real-world applications and decision-making processes based on experience.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the challenges of dealing with an incompetent team within an Agile context, highlighting practical problem-solving strategies and the importance of training and adaptability. However, while it touches on real-world applications and experiences, the focus is more on personal anecdotes and opinions rather than structured pragmatic approaches or detailed methodologies. The discussion lacks depth in terms of specific Agile or DevOps principles, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {

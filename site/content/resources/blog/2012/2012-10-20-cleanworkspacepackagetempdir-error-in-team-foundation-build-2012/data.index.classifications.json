@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T16:42:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:14:06",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical issues and solutions related to Team Foundation Build 2012, including specific tooling and methodologies for resolving build errors, which aligns well with the category.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed exploration of a specific issue encountered in Team Foundation Build 2012, including practical workarounds and solutions related to Continuous Integration. It discusses the implications of using certain build targets and offers actionable advice on how to resolve the error, which aligns well with the category's focus on practical techniques and tooling. The depth of discussion regarding the build process and the specific tools involved further supports a high confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T16:43:13",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:14:03",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to Continuous Integration (CI) in the context of Team Foundation Build, which is a key aspect of DevOps practices.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific issue related to Team Foundation Build and Continuous Integration, which are relevant to DevOps practices. However, it primarily focuses on a technical problem and its resolution rather than broader DevOps principles, cultural shifts, or tools. While it touches on CI, it lacks depth in discussing the overall DevOps framework or practices, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

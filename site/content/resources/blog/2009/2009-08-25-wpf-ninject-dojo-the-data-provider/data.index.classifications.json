@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T01:59:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:42:21",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implementation of dependency injection using Ninject in a WPF application, which aligns with practical techniques and tooling in software development.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed exploration of using Ninject for dependency injection in a WPF application, which aligns well with practical techniques and tooling in software development. It discusses the implementation of a custom DataSourceProvider and the integration of Ninject, showcasing a specific tool and methodology. The depth of discussion includes code examples and explanations of how to achieve the desired functionality, demonstrating a strong focus on practical application. However, while it is primarily focused on tooling, it does not cover broader Agile or DevOps practices, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,12 +733,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:42:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses dependency injection and the implementation of a custom DataSourceProvider for WPF, which are relevant to software engineering practices, but the focus is primarily on specific implementation details rather than broader engineering excellence themes.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the implementation of dependency injection using Ninject in a WPF application, which touches on best practices in software development. However, it lacks a broader discussion on engineering excellence principles, such as quality assurance or continuous improvement. The focus is primarily on a specific technical implementation rather than a comprehensive exploration of engineering excellence.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

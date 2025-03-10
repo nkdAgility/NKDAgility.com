@@ -31,12 +31,12 @@ tags:
 - Professional Scrum
 - Scrum Master
 - Agile Project Management
-- Events and Presentations
 - Organisational Change
 - Agile Frameworks
 - Agile Transformation
 - Pragmatic Thinking
 - Software Development
+- Events and Presentations
 categories:
 - Scrum
 - Social Technologies

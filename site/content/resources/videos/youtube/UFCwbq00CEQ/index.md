@@ -25,8 +25,8 @@ preview: https://i.ytimg.com/vi/UFCwbq00CEQ/maxresdefault.jpg
 duration: 40
 isShort: true
 tags:
-- People and Process
 - Team Motivation
+- People and Process
 - Agile Philosophy
 sitemap:
   filename: sitemap.xml
@@ -35,7 +35,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Product Management
 - Social Technologies
 
 ---

@@ -23,8 +23,8 @@ aliasesArchive:
 - /project-of-projects-with-team-foundation-server-2010
 - /resources/blog/project-of-projects-with-team-foundation-server-2010
 tags:
-- Application Lifecycle Management
 - Practical Techniques and Tooling
+- Application Lifecycle Management
 - Software Development
 - Azure DevOps
 - Operational Practices

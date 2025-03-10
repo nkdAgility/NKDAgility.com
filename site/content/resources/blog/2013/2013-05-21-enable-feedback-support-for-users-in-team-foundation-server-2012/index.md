@@ -25,10 +25,10 @@ aliasesArchive:
 tags:
 - Application Lifecycle Management
 - Install and Configuration
-- Practical Techniques and Tooling
 - Azure DevOps
 - Software Development
 - System Configuration
+- Practical Techniques and Tooling
 categories: []
 
 ---

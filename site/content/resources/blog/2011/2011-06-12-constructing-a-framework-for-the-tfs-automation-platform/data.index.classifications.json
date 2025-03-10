@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T22:23:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:29:57",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the construction of a framework for the TFS Automation Platform, detailing specific tools and methodologies being employed, such as WIX, Silverlight, and Visual Studio. It focuses on practical implementation aspects and guidance for developers, aligning well with the category's emphasis on practical techniques and tooling.",
+    "final_score": 72.0,
+    "reasoning": "The content provides a detailed exploration of constructing a framework for the TFS Automation Platform, discussing specific tools (WIX, Silverlight, Visual Studio) and methodologies for building automations. It aligns well with the category by focusing on practical techniques and tooling, including the architectural guidance for developers and the structured approach to building the platform. The depth of discussion is substantial, covering various components of the platform and their functionalities, although it could benefit from more explicit references to Agile or DevOps methodologies.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -730,12 +733,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:29:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the construction of a framework for the TFS Automation Platform, which involves architectural guidance and development practices. However, it primarily focuses on the implementation details rather than broader principles of engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the construction of a framework for the TFS Automation Platform, which includes architectural guidance and development practices. While it touches on aspects of software craftsmanship, such as the importance of a structured approach and the developer experience, it lacks a comprehensive exploration of best practices, quality assurance, or continuous improvement processes. The focus is more on the implementation of a specific project rather than a broader discussion on engineering excellence.",
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

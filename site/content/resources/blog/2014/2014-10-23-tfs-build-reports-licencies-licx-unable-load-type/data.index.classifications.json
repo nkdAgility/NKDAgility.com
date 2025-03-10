@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T00:08:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:43:06",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical challenges and techniques involved in configuring a build server and resolving build errors, which aligns with the exploration and application of tooling in a DevOps context.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses practical issues encountered while configuring a build server and highlights specific tools and components involved in the process, such as TFS, Git, and various libraries. It provides insights into the challenges of setting up a CI build and the importance of maintaining consistent versions of components, which aligns with the category's focus on practical techniques and tooling. However, while it touches on relevant topics, the depth of discussion on methodologies or frameworks is limited, and it lacks a structured exploration of best practices or case studies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T00:08:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:43:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the challenges and processes involved in configuring a build server, which is a key aspect of Continuous Integration (CI) in DevOps. It highlights the importance of automation in builds and the need for collaboration among team members to resolve build issues, aligning well with DevOps principles.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses issues related to configuring a build server and the challenges faced during the build process, which aligns with DevOps principles, particularly Continuous Integration (CI). However, while it touches on automation and the need for a CI build, it lacks a broader discussion on DevOps practices, cultural shifts, or tools beyond the specific context of the build server. The focus is primarily on troubleshooting specific errors rather than a comprehensive exploration of DevOps as a whole.",
     "level": "Secondary"
   },
   "Miscellaneous": {

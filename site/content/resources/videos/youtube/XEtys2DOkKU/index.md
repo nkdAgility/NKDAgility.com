@@ -27,6 +27,7 @@ isShort: true
 tags:
 - Practical Techniques and Tooling
 - Troubleshooting
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -8,7 +8,7 @@ ResourceImportId: 82
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-10-25
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,12 +27,10 @@ aliasesArchive:
 - /blog/a-change-for-the-better--2---aggreko-to-ssw
 - /resources/blog/a-change-for-the-better-2
 tags:
-- Miscellaneous
 - Personal
 - People and Process
 categories:
 - DevOps
-- Engineering Excellence
 - Leadership
 preview: metro-SSWLogo-128-link-3-1.png
 

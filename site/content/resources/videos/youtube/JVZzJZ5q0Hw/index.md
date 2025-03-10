@@ -31,6 +31,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Product Management
 - Agile Planning
 - Scrum Product Development
 - Product Delivery
@@ -38,7 +39,6 @@ tags:
 - People and Process
 - Product Backlog
 - Agile Planning Tools
-- Agile Product Management
 - Scrum Team
 - Team Performance
 resourceTypes:

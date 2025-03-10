@@ -32,8 +32,7 @@ tags:
 - Miscellaneous
 resourceTypes:
 - video
-categories:
-- Leadership
+categories: []
 
 ---
 ## The Thin Line: Dogma vs Empiricism in Consulting Engagements

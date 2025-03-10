@@ -25,8 +25,8 @@ aliasesArchive:
 tags:
 - Troubleshooting
 - Install and Configuration
-- Practical Techniques and Tooling
 - Windows
+- Practical Techniques and Tooling
 categories: []
 preview: metro-cloud-azure-link-4-4.png
 

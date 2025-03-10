@@ -29,11 +29,11 @@ tags:
 - People and Process
 - Software Development
 - Hypothesis Driven Development
-- Metrics and Learning
 - Product Delivery
 - Product Strategy
 - Value Delivery
 - Agile Philosophy
+- Agile Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

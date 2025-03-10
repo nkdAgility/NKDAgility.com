@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T23:15:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:30:55",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the integration and implementation of automation techniques within the TFS Automation Platform, detailing installation, configuration, and action processing, which aligns with practical techniques and tooling in Agile and DevOps.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed exploration of the TFS Automation Platform, including installation, configuration, and action types, which are practical techniques for implementing tooling in a DevOps context. It discusses specific methodologies for integrating with TFS elements and outlines the architecture necessary for automation, aligning well with the core themes of the category. The depth of discussion is substantial, covering various aspects of the automation process, which enhances the overall confidence in its classification.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T23:15:47",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-07T15:30:50",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the integration of automation within the TFS Automation Platform, which aligns with DevOps principles of continuous delivery and automation. However, it primarily focuses on specific implementation details rather than broader DevOps practices.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the TFS Automation Platform, which relates to automation in DevOps practices. It touches on installation, configuration, and processing of automations, which aligns with DevOps principles. However, it lacks a broader discussion on cultural shifts, collaboration, or specific DevOps metrics, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Miscellaneous": {

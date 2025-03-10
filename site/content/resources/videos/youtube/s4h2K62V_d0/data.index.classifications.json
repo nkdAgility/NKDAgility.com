@@ -82,12 +82,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T12:02:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T12:48:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of integrating quality assurance and engineering practices within product development, which aligns with product management principles. However, the primary focus is on technical practices and methodologies rather than strategic product management discussions.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on software engineering practices, particularly around quality assurance and Agile methodologies, rather than the strategic aspects of product management. While it touches on concepts like team dynamics and the importance of building quality into products, it lacks a direct discussion on product management frameworks, customer feedback prioritisation, or alignment with business strategy, which are core to the category. The depth of discussion on engineering practices is significant, but it does not sufficiently address the strategic alignment of product management.",
+    "level": "Quaternary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -1243,11 +1246,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T02:11:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:48:26",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses engineering practices such as shifting quality assurance left, test-driven development, and pair programming, all of which are central to enhancing technical excellence in software development.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the concept of 'shift left' in quality assurance, emphasising the importance of integrating testing and support into the development process. It aligns closely with key topics of Technical Excellence, such as Test-Driven Development (TDD), Continuous Integration and Continuous Delivery (CI/CD), and the need for modular architecture. The depth of discussion is significant, providing detailed insights into how these practices enhance engineering quality and team effectiveness. The content also touches on the integration of Agile methodologies with technical practices, reinforcing its relevance to the category.",
     "level": "Secondary"
   },
   "Organisational Agility": {
