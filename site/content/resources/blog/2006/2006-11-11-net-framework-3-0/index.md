@@ -8,7 +8,7 @@ ResourceImportId: 462
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2006-11-11
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,8 +29,7 @@ aliasesArchive:
 tags:
 - Technical Mastery
 preview: metro-binary-vb-128-link-1-1.png
-categories:
-- Engineering Excellence
+categories: []
 
 ---
 At last .NET Framework 3.0 is live! I have been desperate to use it in work ever since I got a book on Indigo as I can see so many applications for it that would increase developer productivity and consistency.

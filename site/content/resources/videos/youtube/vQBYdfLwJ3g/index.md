@@ -43,8 +43,8 @@ resourceTypes:
 - video
 categories:
 - Product Management
+- Leadership
 - Social Technologies
-- Scrum
 
 ---
 As I reflect on the immersive learning experience of the Product Owner (PO) role, I can't help but feel that it’s a perfect fit for the eight-week programme. Why? Because there’s a significant disconnect between how we teach the breadth of what a product owner is and does, and what people are actually trying to achieve in their organisations. 

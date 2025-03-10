@@ -27,8 +27,8 @@ aliasesArchive:
 - /blog/wpf-ninject-dojo--the-data-provider
 - /resources/blog/wpf-ninject-dojo-the-data-provider
 tags:
-- Software Development
 - Technical Mastery
+- Software Development
 - Practical Techniques and Tooling
 - Technical Excellence
 categories: []

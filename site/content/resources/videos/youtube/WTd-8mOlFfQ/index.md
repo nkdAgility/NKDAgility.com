@@ -38,6 +38,7 @@ tags:
 - Scrum Team
 - People and Process
 - Agile Project Management
+- Team Performance
 resourceTypes:
 - video
 categories:

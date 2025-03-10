@@ -33,10 +33,10 @@ tags:
 - Release Management
 - Azure DevOps
 - Deployment Strategies
-- Events and Presentations
 - Technical Excellence
 - Technical Mastery
 - Operational Practices
+- Pragmatic Thinking
 categories:
 - DevOps
 - Engineering Excellence

@@ -217,11 +217,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T01:33:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:04:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses debugging a build failure in a software development context, highlighting practices such as code review, defensive programming, and the importance of proper file path management, which align with technical excellence principles.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses troubleshooting a build failure and suggests improvements in coding practices, such as avoiding hardcoded paths and advocating for code reviews. However, while it touches on some aspects of technical excellence, such as defensive programming and the importance of code quality, it primarily focuses on a specific issue rather than a broader discussion of engineering practices or methodologies that enhance agility in software development. The depth of discussion is limited to a single scenario, which restricts its overall alignment with the category.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -1363,11 +1366,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:00:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:04:48",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Scrum practices, including backlog management and team dynamics in relation to bug tracking and resolution.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the process of handling a failing build in a software project, which includes creating a bug in the backlog and references Scrum practices such as backlog management and team dynamics. While it does not explicitly mention Scrum or Agile frameworks in detail, it aligns well with the core themes of collaboration, continuous improvement, and adaptation to change. The depth of discussion on how to manage the bug and the implications for team dynamics contributes to a strong alignment with the category.",
     "level": "Secondary"
   },
   "Leadership": {

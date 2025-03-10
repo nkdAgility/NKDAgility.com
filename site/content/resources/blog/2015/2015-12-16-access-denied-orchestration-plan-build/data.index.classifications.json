@@ -217,11 +217,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-14T21:51:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:40:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a technical issue related to build permissions in a CI/CD environment, detailing troubleshooting steps and best practices for configuring build definitions, which aligns with the principles of technical excellence.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to build permissions in TFS, which is relevant to Continuous Integration practices. However, while it touches on the importance of permissions and configuration in build systems, it lacks a broader discussion on engineering methodologies or principles that enhance agility and technical excellence. The focus is more on troubleshooting rather than on the overarching themes of technical excellence, such as TDD or CI/CD practices. Therefore, while it is relevant, it does not fully align with the category's core themes.",
     "level": "Secondary"
   },
   "Complexity Thinking": {

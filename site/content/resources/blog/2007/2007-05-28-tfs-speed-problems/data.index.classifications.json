@@ -307,21 +307,27 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-10T15:20:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses issues related to Team Foundation Server performance, which is relevant to DevOps tools, but it primarily focuses on troubleshooting and server specifications rather than broader DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses issues related to Team Foundation Server (TFS) performance, which is relevant to DevOps practices, particularly in the context of Continuous Integration and Continuous Delivery. However, it lacks a broader discussion on DevOps principles, cultural shifts, or tools that support DevOps practices. The focus is primarily on troubleshooting server speed issues rather than on the integration of people, processes, and tools in a DevOps context.",
     "level": "Quaternary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:20:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses performance issues related to Team Foundation Server and suggests technical checks (ping and server specifications) to improve responsiveness, which aligns with technical practices but is not primarily focused on broader engineering methodologies or principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses issues related to the performance of Team Foundation Server and offers troubleshooting tips, which touches on technical aspects. However, it lacks a direct focus on engineering practices or methodologies that enhance agility in software development. The discussion is primarily about server performance and network issues rather than principles like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
+    "level": "Quaternary"
   },
   "People and Process": {
     "category": "People and Process",

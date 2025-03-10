@@ -31,7 +31,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Product Operating Model
 - Customer Feedback Loops
 - Discovery and Learning
 - Product Delivery
@@ -41,6 +40,7 @@ tags:
 - Agile Philosophy
 - Agile Planning
 - Agile Project Management
+- Business Agility
 resourceTypes:
 - video
 categories:

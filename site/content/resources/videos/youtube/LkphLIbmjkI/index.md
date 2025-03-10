@@ -37,7 +37,7 @@ tags:
 - Mentoring
 - Software Developers
 - Practical Techniques and Tooling
-- Continuous Learning
+- Team Collaboration
 resourceTypes:
 - video
 categories:

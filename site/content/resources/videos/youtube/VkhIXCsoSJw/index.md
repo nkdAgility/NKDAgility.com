@@ -32,9 +32,9 @@ tags:
 - Operational Practices
 - Pragmatic Thinking
 - Automated Testing
-- Code and Complexity
 - Cycle Time
 - Flow Efficiency
+- Market Adaptability
 resourceTypes:
 - video
 sitemap:

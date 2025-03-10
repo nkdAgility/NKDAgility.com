@@ -26,7 +26,6 @@ tags:
 - Troubleshooting
 - Install and Configuration
 - System Configuration
-- Technical Mastery
 - Practical Techniques and Tooling
 categories: []
 preview: metro-office-128-link-3-3.png

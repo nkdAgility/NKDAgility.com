@@ -26,7 +26,6 @@ tags:
 - Application Lifecycle Management
 - Miscellaneous
 - Software Development
-- Technical Mastery
 - Troubleshooting
 categories: []
 

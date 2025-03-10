@@ -36,7 +36,7 @@ tags:
 - Organisational Change
 - Organisational Culture
 - People and Process
-- Resilience and Change
+- Scaling Agility
 categories:
 - Scrum
 - Social Technologies

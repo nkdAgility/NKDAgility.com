@@ -35,10 +35,10 @@ tags:
 - Organisational Culture
 - Organisational Agility
 - Personal
+- Sociotechnical Systems
 - Continuous Learning
 - Organisational Change
 - Coaching
-- Mentoring
 resourceTypes:
 - video
 layout: video

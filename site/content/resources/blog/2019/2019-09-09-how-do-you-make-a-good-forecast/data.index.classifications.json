@@ -106,11 +106,14 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-14T18:14:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:36:50",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the interplay between organisational structures, such as budget cycles and team dynamics, and technical practices like forecasting and metrics in an agile context, highlighting the importance of aligning these elements for effective software delivery.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the interplay between organisational structures and agile methodologies, particularly in the context of budgeting and team dynamics. It highlights the transition from project-based to product-based budgeting, which reflects sociotechnical principles. However, while it touches on these themes, the primary focus remains on forecasting and metrics rather than a comprehensive exploration of sociotechnical systems. The depth of discussion on the integration of social and technical aspects is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Resilience and Change": {
@@ -124,12 +127,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:36:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the transition from a project-based budget to a product-based budget, which aligns with DevOps principles of agility and collaboration. However, the primary focus is on Scrum practices and forecasting rather than DevOps itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Scrum practices and forecasting within Agile project management, with only a brief mention of transitioning from a project-based to a product-based budget, which aligns with DevOps principles. However, the focus remains on Scrum methodologies rather than core DevOps practices such as CI/CD, automation, or collaboration between development and operations teams.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

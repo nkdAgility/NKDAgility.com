@@ -30,8 +30,8 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Leadership
-- Organisational Agility
 - People and Process
+- Organisational Agility
 - Business Agility
 - Organisational Change
 - Agile Philosophy

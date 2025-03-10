@@ -31,14 +31,15 @@ tags:
 - Modern Source Control
 - Software Developers
 - Application Lifecycle Management
-- Product Delivery
 - Release Management
 - Agile Project Management
 - Pragmatic Thinking
 - Technical Mastery
 - Practical Techniques and Tooling
+- Product Delivery
 categories:
 - Scrum
+- Social Technologies
 preview: metro-visual-studio-2010-128-link-11-11.png
 
 ---

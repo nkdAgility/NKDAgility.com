@@ -34,7 +34,6 @@ tags:
 - Ability to Innovate
 - Business Agility
 - Organisational Physics
-- People and Process
 - Sociotechnical Systems
 - Digital Transformation
 - Miscellaneous

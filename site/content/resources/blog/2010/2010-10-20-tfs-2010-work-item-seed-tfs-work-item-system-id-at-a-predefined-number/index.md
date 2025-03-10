@@ -31,7 +31,6 @@ tags:
 - System Configuration
 - Azure DevOps
 - Software Development
-- Technical Excellence
 - Technical Mastery
 - Troubleshooting
 - Install and Configuration

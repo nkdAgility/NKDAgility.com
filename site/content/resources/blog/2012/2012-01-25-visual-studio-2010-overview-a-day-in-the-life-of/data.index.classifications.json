@@ -244,11 +244,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-15T21:34:55",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T14:58:01",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses planning a release, sprint planning, and building shippable units of work, which are relevant to product delivery. However, it also includes a significant focus on the roles of developers, testers, and program managers, which may detract from the primary theme.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses various roles in a project (Developer, Tester, Program Manager) and mentions planning a release and sprint, which are relevant to product delivery. However, the discussion lacks depth in methodologies and practices, focusing more on the roles rather than the integration of processes. The content does not explicitly mention Agile methodologies or CI/CD practices, which are key topics in the category.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -1363,11 +1366,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:54:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:57:58",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses planning a sprint and product backlog management, which are relevant to Agile practices, but the primary focus is on Visual Studio ALM and its usage rather than a deep exploration of social technologies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses aspects of project management and development processes, including planning sprints and managing a product backlog, which are relevant to Agile methodologies. However, it lacks a detailed exploration of the core principles of Scrum, Kanban, Lean, or Agile practices. The mention of TFS (Team Foundation Server) and its use in planning and executing tasks indicates some alignment with social technologies, but the overall focus is more on tools and processes rather than the methodologies themselves.",
     "level": "Tertiary"
   },
   "Leadership": {

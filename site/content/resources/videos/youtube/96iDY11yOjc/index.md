@@ -35,15 +35,13 @@ tags:
 - Employee Engagement
 - Pragmatic Thinking
 - Software Developers
-- Personal
 - Coaching
+- Personal
 - Mentoring
 - Software Development
 resourceTypes:
 - video
 categories:
-- Engineering Excellence
-- Leadership
 - Social Technologies
 
 ---

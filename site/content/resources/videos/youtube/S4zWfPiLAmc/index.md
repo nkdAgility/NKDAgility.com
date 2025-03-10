@@ -37,12 +37,12 @@ tags:
 - Transparency
 - Cycle Time
 - Empirical Process Control
-- Evidence Based Leadership
 - Evidence Based Management
 - Agile Project Management
 - Decision Making
 - Operational Practices
 - Pragmatic Thinking
+- Software Development
 resourceTypes:
 - video
 categories:

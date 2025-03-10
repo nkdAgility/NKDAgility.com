@@ -79,11 +79,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-14T23:42:42",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-10T14:42:14",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 40,
     "non_ai_confidence": 30,
-    "final_score": 84.0,
-    "reasoning": "The content primarily focuses on the step-by-step installation and configuration of a Release Management pipeline, including detailed instructions on setting up environments, configuring builds, and deploying applications. It provides actionable insights and procedures relevant to Agile and DevOps practices.",
+    "final_score": 81.0,
+    "reasoning": "The content provides a comprehensive guide on creating a Release Management pipeline, detailing installation and configuration steps for various tools and environments. It explicitly discusses the setup of Team Foundation Server (TFS), Azure environments, and the configuration of build definitions and deployment scripts. The depth of discussion is significant, with step-by-step instructions and troubleshooting tips, aligning well with the key topics of the 'Install and Configuration' category.",
     "level": "Primary"
   },
   "Transparency and Accountability": {
@@ -1255,11 +1258,14 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-10T14:42:10",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 29.0,
-    "reasoning": "The content primarily focuses on technical implementation details of creating a Release Management pipeline, with only brief mentions of stakeholder feedback and team collaboration, which are not central themes.",
+    "final_score": 24.0,
+    "reasoning": "The content primarily focuses on technical implementation details of a Release Management pipeline, with minimal direct discussion of product management principles. While it briefly touches on stakeholder feedback and the role of the Product Owner, these aspects are secondary to the technical execution of the pipeline. The depth of discussion is largely technical, lacking a strategic focus on product management methodologies or frameworks.",
     "level": "Quaternary"
   },
   "Self Organisation": {

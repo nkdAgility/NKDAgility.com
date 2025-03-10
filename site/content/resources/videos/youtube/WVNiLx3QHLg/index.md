@@ -31,6 +31,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Pragmatic Thinking
 - Decision Making
 - Agile Leadership
 - Decision Theory
@@ -40,7 +41,6 @@ tags:
 - Business Agility
 - Employee Engagement
 - Organisational Culture
-- Organisational Physics
 resourceTypes:
 - video
 categories:

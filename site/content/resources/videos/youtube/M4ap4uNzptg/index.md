@@ -30,6 +30,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Business Agility
 - Market Adaptability
 - Agile Leadership
 - People and Process
@@ -37,7 +38,6 @@ tags:
 - Agile Project Management
 - Agile Strategy
 - Agile Transformation
-- Business Agility
 - Change Management
 - Organisational Change
 resourceTypes:

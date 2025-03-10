@@ -217,11 +217,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T19:11:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:51:09",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical process of migrating users between domains while maintaining identity integrity in Team Foundation Server (TFS), which aligns with engineering practices and methodologies that enhance software delivery processes.",
+    "final_score": 61.0,
+    "reasoning": "The content primarily discusses the technical process of migrating users between domains using Team Foundation Server (TFS). While it provides specific steps and considerations for managing identities during this migration, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. The focus is more on operational details rather than principles of technical excellence such as TDD, CI/CD, or modular architecture. Therefore, while it touches on technical aspects, it does not fully align with the core themes of the 'Technical Excellence' category.",
     "level": "Secondary"
   },
   "Complexity Thinking": {

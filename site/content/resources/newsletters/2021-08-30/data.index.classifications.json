@@ -313,12 +313,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-18T13:07:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:30:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content primarily focuses on training programs and virtual workshops, it briefly mentions Agile concepts and methodologies such as Scrum and Kanban, which aligns with Agile Planning themes. However, the main discussion is about training logistics rather than Agile Planning itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses training and workshops related to Agile methodologies, including Scrum and Kanban, which are relevant to Agile Planning. However, it primarily focuses on the delivery of training rather than the planning aspects themselves. While there are mentions of adapting to feedback and optimising delivery, the core principles of Agile Planning are not deeply explored, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
@@ -1303,12 +1306,15 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-18T13:07:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:30:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "Kanban is mentioned as a topic in the context of a workshop, but the primary focus of the content is on training schedules and methods, rather than Kanban principles and practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions a workshop on Kanban, but the primary focus is on training techniques and virtual delivery methods. While there is a mention of Kanban, it is not explored in depth, and the overall discussion does not align closely with the core principles of Kanban methodology. The content lacks substantial detail on Kanban practices, metrics, or continuous improvement, which are essential for a higher confidence score.",
+    "level": "Quaternary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",

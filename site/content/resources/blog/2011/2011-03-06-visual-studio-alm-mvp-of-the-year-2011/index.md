@@ -23,8 +23,8 @@ aliasesArchive:
 - /visual-studio-alm-mvp-of-the-year-2011
 - /resources/blog/visual-studio-alm-mvp-of-the-year-2011
 tags:
-- Personal
 - Continuous Learning
+- Personal
 - People and Process
 - Discovery and Learning
 - News and Reviews

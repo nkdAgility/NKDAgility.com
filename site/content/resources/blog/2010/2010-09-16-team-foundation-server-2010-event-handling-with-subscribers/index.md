@@ -30,8 +30,8 @@ tags:
 - Software Developers
 - Software Development
 - System Configuration
-- Technical Excellence
 - Technical Mastery
+- Technical Excellence
 categories: []
 preview: metro-binary-vb-128-link-4-4.png
 

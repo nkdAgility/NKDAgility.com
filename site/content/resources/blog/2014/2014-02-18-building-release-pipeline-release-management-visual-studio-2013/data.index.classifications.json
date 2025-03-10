@@ -163,11 +163,14 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-15T11:10:15",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T14:45:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of a release pipeline and continuous delivery, which are related to optimising work throughput. However, it primarily focuses on the tools and processes rather than directly addressing flow efficiency principles or metrics.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the concept of a release pipeline and its importance in optimising the flow of work from development to production, which aligns with the principles of Flow Efficiency. It mentions continuous release and the need for feedback loops, which are crucial for identifying bottlenecks and improving throughput. However, while it touches on relevant metrics and concepts, the depth of discussion on specific flow efficiency techniques and metrics is somewhat limited, preventing a higher confidence score.",
     "level": "Secondary"
   },
   "People and Process": {
@@ -1372,12 +1375,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:13:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:45:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses concepts related to Agile practices and continuous delivery, which are relevant to the Social Technologies category, but the primary focus is on release management and tooling rather than the frameworks themselves.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses aspects of continuous delivery and the importance of feedback in the development process, which aligns with Agile principles. However, it primarily focuses on technical aspects of release management and does not delve deeply into the frameworks of Scrum, Kanban, Lean, or Agile practices. The mention of Agile thinkers and the need for business agility indicates some relevance, but the overall focus is more on tools and processes rather than the social technologies that facilitate collaboration and continuous improvement.",
+    "level": "Quaternary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

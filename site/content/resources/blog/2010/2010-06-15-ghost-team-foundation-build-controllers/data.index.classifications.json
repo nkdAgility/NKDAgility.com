@@ -1165,11 +1165,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T01:18:05",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-10T15:02:56",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses the identification and resolution of a specific issue in Team Foundation Server related to ghost build controllers. It outlines techniques for diagnosing the problem, provides insights on potential causes, and suggests resolutions, which aligns well with the troubleshooting category.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses the issue of ghost build controllers in Team Foundation Server, detailing the troubleshooting process to identify and resolve the problem. It provides specific techniques for diagnosing the issue, such as checking the 'tbl_BuildQueue' table and evaluating various identifiers to confirm the ghost build's status. The depth of the discussion is significant, as it outlines both the problem and the recommended solution, emphasising the importance of not directly deleting database entries. Overall, the content aligns closely with the core themes of troubleshooting, demonstrating a clear focus on identifying and resolving a technical issue.",
     "level": "Secondary"
   },
   "Experimentation": {

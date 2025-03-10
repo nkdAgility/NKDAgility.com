@@ -217,11 +217,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T21:22:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:57:53",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses branching, merging, and build strategies within the context of Visual Studio 2010, which are key engineering practices that enhance software development processes.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses branching and merging strategies, as well as build configuration within Visual Studio 2010, which are relevant to technical excellence in software development. However, while it touches on important practices, the discussion lacks depth and does not fully explore the principles of TDD, CI/CD, or modular architecture. The focus is primarily on tools rather than methodologies, which slightly diminishes its alignment with the category.",
     "level": "Secondary"
   },
   "Complexity Thinking": {

@@ -29,12 +29,12 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - System Configuration
-- Azure DevOps
 - Pragmatic Thinking
 - Software Development
 - Technical Mastery
 - Troubleshooting
 - Practical Techniques and Tooling
+- Azure DevOps
 - Working Software
 - Technical Excellence
 categories: []

@@ -31,6 +31,7 @@ tags:
 - Agile Transformation
 - Empirical Process Control
 - Software Development
+- Pragmatic Thinking
 - Software Developers
 sitemap:
   filename: sitemap.xml

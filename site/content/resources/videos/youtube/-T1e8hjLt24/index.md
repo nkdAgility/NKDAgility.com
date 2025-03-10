@@ -25,8 +25,6 @@ preview: https://i.ytimg.com/vi/-T1e8hjLt24/maxresdefault.jpg
 duration: 58
 isShort: true
 tags:
-- Miscellaneous
-- Continuous Learning
 - Discovery and Learning
 sitemap:
   filename: sitemap.xml

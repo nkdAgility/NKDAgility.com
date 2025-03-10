@@ -32,11 +32,11 @@ tags:
 - Windows
 - Install and Configuration
 - System Configuration
-- Azure DevOps
 - Pragmatic Thinking
 - Software Development
 - Troubleshooting
 - Practical Techniques and Tooling
+- Azure DevOps
 - Technical Mastery
 categories:
 - DevOps

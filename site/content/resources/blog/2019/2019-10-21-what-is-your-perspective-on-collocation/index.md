@@ -27,11 +27,11 @@ aliasesArchive:
 - /blog/what-is-your-perspective-on-collocation-
 - /resources/blog/what-is-your-perspective-on-collocation
 tags:
+- Events and Presentations
 - Organisational Culture
 - Scrum Team
 - Agile Frameworks
 - Agile Project Management
-- Events and Presentations
 - People and Process
 - Software Development
 - Team Collaboration

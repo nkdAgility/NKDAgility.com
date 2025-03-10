@@ -31,9 +31,9 @@ tags:
 - Scrum Team
 - Software Development
 - Team Performance
-- Agile Frameworks
 - Agile Project Management
 - Pragmatic Thinking
+- Technical Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6

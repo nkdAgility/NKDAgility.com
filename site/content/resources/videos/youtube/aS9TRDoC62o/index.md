@@ -36,8 +36,8 @@ tags:
 - Technical Mastery
 - Pragmatic Thinking
 - Market Adaptability
-- Product Delivery
 - Value Delivery
+- Product Delivery
 - Engineering Practices
 - Technical Excellence
 - Operational Practices
@@ -46,6 +46,7 @@ resourceTypes:
 categories:
 - DevOps
 - Engineering Excellence
+- Social Technologies
 
 ---
 ## Why Agile Alone Isn't Enough Without DevOps Consulting 

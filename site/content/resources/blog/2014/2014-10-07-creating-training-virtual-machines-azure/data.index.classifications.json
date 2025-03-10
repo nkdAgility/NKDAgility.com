@@ -289,12 +289,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T09:00:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:43:12",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the creation and management of virtual machines in Azure, which is a key aspect of Azure DevOps services, particularly in relation to CI/CD and project management. It provides detailed steps and commands relevant to Azure, indicating a strong focus on Azure DevOps functionalities.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content primarily discusses creating and managing virtual machines in Azure, which is related to Azure services but does not specifically address Azure DevOps functionalities or practices. While it mentions Azure and some related tools, it lacks a focus on CI/CD, collaboration, or Agile project management within Azure DevOps, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",

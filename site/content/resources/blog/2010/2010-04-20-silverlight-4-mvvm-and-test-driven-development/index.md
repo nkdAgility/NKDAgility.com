@@ -33,7 +33,6 @@ aliasesArchive:
 tags:
 - Events and Presentations
 - Software Development
-- Test Driven Development
 categories:
 - Engineering Excellence
 preview: metro-visual-studio-2010-128-link-2-2.png

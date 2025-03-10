@@ -40,8 +40,8 @@ tags:
 - Technical Leadership
 - Agile Frameworks
 - Pragmatic Thinking
-- Self Organisation
 - Software Development
+- Self Organisation
 - Agile Product Management
 resourceTypes:
 - video

@@ -30,6 +30,7 @@ tags:
 - Software Development
 - Azure DevOps
 - Azure Pipelines
+- Install and Configuration
 categories:
 - DevOps
 - Engineering Excellence

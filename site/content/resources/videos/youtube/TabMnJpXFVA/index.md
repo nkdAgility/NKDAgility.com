@@ -27,6 +27,7 @@ duration: 287
 isShort: false
 tags:
 - People and Process
+- Pragmatic Thinking
 - Agile Frameworks
 - Agile Project Management
 - Agile Transformation

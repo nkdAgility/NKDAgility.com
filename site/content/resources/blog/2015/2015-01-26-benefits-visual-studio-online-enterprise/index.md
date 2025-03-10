@@ -36,7 +36,7 @@ tags:
 - Software Development
 - Organisational Agility
 - Digital Transformation
-- Frequent Releases
+- Enterprise Agility
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-6-6.png

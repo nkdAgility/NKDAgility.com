@@ -217,11 +217,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T09:06:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:43:24",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical process of migrating from Perforce to Git, including best practices for repository management, CI/CD setup, and the benefits of adopting Git's node-based version control system, which aligns well with the principles of technical excellence.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating from Perforce to Git, discussing specific practices such as repository management, CI/CD setup, and the importance of modular architecture. While it does touch on some aspects of technical excellence, such as the benefits of Git's branching and merging capabilities, the discussion lacks depth in exploring broader engineering methodologies or principles that enhance agility in software development. The content is more of a practical guide than a comprehensive discussion on technical excellence.",
     "level": "Secondary"
   },
   "Complexity Thinking": {

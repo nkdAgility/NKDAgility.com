@@ -23,16 +23,7 @@ aliasesArchive:
 - /anatomy-of-an-automation-for-the-tfs-automation-platform
 - /resources/blog/anatomy-of-an-automation-for-the-tfs-automation-platform
 tags:
-- Software Development
 - Install and Configuration
-- Practical Techniques and Tooling
-- System Configuration
-- Internal Developer Platform
-- Azure DevOps
-- Operational Practices
-- Technical Excellence
-- Technical Mastery
-- Windows
 categories:
 - DevOps
 

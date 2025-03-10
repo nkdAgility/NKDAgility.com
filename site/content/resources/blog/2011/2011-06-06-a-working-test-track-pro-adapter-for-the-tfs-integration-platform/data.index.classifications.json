@@ -217,11 +217,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T22:45:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:00:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the development and debugging of a TFS Integration Platform Adapter, focusing on technical practices such as code refactoring, handling conflicts, and implementing change actions, which align with the principles of technical excellence.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the development of a TFS Integration Platform Adapter, detailing the technical challenges and solutions encountered during the process. While it does touch on aspects of technical excellence, such as debugging and code refactoring, it lacks a comprehensive discussion on broader engineering practices like TDD, CI/CD, or modular architecture. The depth of technical detail is present, but it does not fully align with the core themes of the category, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Complexity Thinking": {

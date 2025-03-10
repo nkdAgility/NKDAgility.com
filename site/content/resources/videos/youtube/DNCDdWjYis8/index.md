@@ -39,6 +39,7 @@ tags:
 - Agile Project Management
 - Scrum Team
 - People and Process
+- Team Collaboration
 - Professional Scrum
 - Software Development
 - Pragmatic Thinking

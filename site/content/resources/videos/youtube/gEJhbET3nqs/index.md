@@ -29,6 +29,7 @@ tags:
 - Pragmatic Thinking
 - Organisational Agility
 - People and Process
+- Team Collaboration
 - Agile Transformation
 - Business Agility
 sitemap:

@@ -29,7 +29,6 @@ aliasesArchive:
 tags:
 - Scrum Team
 - News and Reviews
-- People and Process
 - Practical Techniques and Tooling
 - Agile Frameworks
 - Agile Project Management

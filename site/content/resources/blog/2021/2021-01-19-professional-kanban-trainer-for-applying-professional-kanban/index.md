@@ -24,8 +24,8 @@ aliasesArchive:
 - /professional-kanban-trainer-for-applying-professional-kanban
 - /resources/blog/professional-kanban-trainer-for-applying-professional-kanban
 tags:
-- Agile Project Management
 - Software Development
+- Agile Project Management
 - Practical Techniques and Tooling
 - Products and Books
 - Agile Frameworks

@@ -286,12 +286,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T18:28:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:49:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses configuring features in Team Foundation Server 2013, which is part of the Azure DevOps suite. It provides insights into specific functionalities and processes related to Azure DevOps, making it a central topic.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses configuring features in Team Foundation Server 2013, which is part of the Azure DevOps suite. It provides specific details about the configuration process, including the use of wizards and the implications of upgrading from previous versions. However, while it mentions Azure DevOps indirectly through TFS, it lacks a broader discussion on Azure DevOps services or methodologies, which affects its overall alignment and depth of discussion.",
+    "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",

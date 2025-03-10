@@ -32,8 +32,8 @@ sitemap:
 tags:
 - Definition of Done
 - Agile Project Management
-- Pragmatic Thinking
 - Software Development
+- Pragmatic Thinking
 - Agile Frameworks
 - Professional Scrum
 resourceTypes:

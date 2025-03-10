@@ -217,12 +217,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T01:05:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:03:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the upgrade process of TFS 2010, detailing technical steps, configurations, and best practices, which aligns with engineering practices that enhance software delivery processes.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on the upgrade process of TFS 2010, detailing steps and considerations for installation and configuration. While it touches on aspects of technical practices, such as the importance of backups and server configurations, it lacks a deeper exploration of methodologies like TDD, CI/CD, or modular architecture. The discussion is more operational than strategic, which diminishes its alignment with the core themes of Technical Excellence.",
+    "level": "Tertiary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",

@@ -27,9 +27,9 @@ aliasesArchive:
 - /blog/configure-a-build-vnext-agent
 - /resources/blog/configure-a-build-vnext-agent-on-vso
 tags:
-- Install and Configuration
 - System Configuration
 - Azure Pipelines
+- Install and Configuration
 - Software Development
 categories:
 - DevOps

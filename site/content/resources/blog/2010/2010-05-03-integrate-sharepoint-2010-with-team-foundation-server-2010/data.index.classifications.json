@@ -289,12 +289,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-16T00:45:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:03:10",
+    "ai_confidence": 62.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 50.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the integration of SharePoint 2010 with Team Foundation Server 2010, which is a component of Azure DevOps. It provides detailed instructions and configurations related to TFS, aligning with Azure DevOps functionalities.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses the integration of SharePoint 2010 with Team Foundation Server 2010, which is a part of the Azure DevOps suite. However, it focuses more on the technical steps for integration rather than broader Azure DevOps functionalities or best practices. While it does mention TFS, which is relevant to Azure DevOps, the discussion lacks depth in terms of CI/CD practices, agile project management, or collaboration methodologies that are central to Azure DevOps. Therefore, while it is relevant, it does not fully align with the core themes of the Azure DevOps category.",
+    "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",

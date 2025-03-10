@@ -38,7 +38,7 @@ tags:
 - Agile Leadership
 - Agile Strategy
 - Agile Transformation
-- Business Agility
+- Operational Practices
 categories:
 - Social Technologies
 - Scrum

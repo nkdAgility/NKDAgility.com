@@ -346,11 +346,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:16:11",
+    "ai_confidence": 65.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content references a book that aided in the preparation of a presentation, indicating a secondary theme related to literature on software development.",
+    "final_score": 60.0,
+    "reasoning": "The content includes a mention of the book 'Pro WCF: Practical Microsoft SOA Implementation', which aligns with the category of discussing literature relevant to software development. However, the primary focus of the content is on the author's personal experience with a presentation rather than a detailed review or analysis of the book or its methodologies. The discussion lacks depth regarding how the book enhances understanding of Agile or DevOps principles, which affects the overall confidence score.",
     "level": "Tertiary"
   },
   "Product Management": {

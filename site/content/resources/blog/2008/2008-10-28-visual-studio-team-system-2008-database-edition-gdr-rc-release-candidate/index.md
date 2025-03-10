@@ -28,7 +28,6 @@ aliasesArchive:
 - /resources/blog/visual-studio-team-system-2008-database-edition-gdr-rc-release-candidate
 tags:
 - Install and Configuration
-- Release Management
 - News and Reviews
 categories: []
 

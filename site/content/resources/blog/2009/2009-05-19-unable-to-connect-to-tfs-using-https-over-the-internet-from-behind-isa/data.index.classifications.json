@@ -1102,12 +1102,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:07:07",
+    "ai_confidence": 68.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses issues related to connecting to TFS and proxy authentication, which engages with Windows Communication Foundation and Visual Studio, indicating a focus on Windows-related development and troubleshooting, but it is not primarily about the Windows operating system itself.",
-    "level": "Tertiary"
+    "final_score": 64.0,
+    "reasoning": "The content discusses a specific issue related to connecting to TFS (Team Foundation Server) using HTTPS, which is relevant to Windows users, particularly those using Visual Studio 2010. It mentions proxy authentication issues and a workaround, which aligns with troubleshooting common problems in the Windows environment. However, while it touches on Windows-related topics, it does not delve deeply into installation, configuration, or broader Windows system management, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",

@@ -26,6 +26,7 @@ duration: 200
 isShort: false
 tags:
 - Software Developers
+- Scrum Master
 - Software Development
 sitemap:
   filename: sitemap.xml

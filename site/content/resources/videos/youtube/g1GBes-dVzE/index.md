@@ -32,6 +32,7 @@ tags:
 - Coaching
 - People and Process
 - Pragmatic Thinking
+- Team Performance
 resourceTypes:
 - video
 categories:

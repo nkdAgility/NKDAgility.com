@@ -8,7 +8,7 @@ ResourceImportId: 363
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-23
-weight: 775
+weight: 720
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,7 +27,6 @@ categories:
 preview: metro-binary-vb-128-link-1-1.png
 tags:
 - Deployment Strategies
-- Install and Configuration
 - Practical Techniques and Tooling
 - Release Management
 - System Configuration
@@ -35,6 +34,7 @@ tags:
 - Pragmatic Thinking
 - Product Delivery
 - Software Development
+- Install and Configuration
 - Application Lifecycle Management
 
 ---

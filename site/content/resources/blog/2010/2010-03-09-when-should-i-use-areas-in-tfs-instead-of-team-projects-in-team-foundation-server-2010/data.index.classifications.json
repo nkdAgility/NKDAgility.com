@@ -352,11 +352,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T01:28:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:04:40",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the management of projects within Team Foundation Server (TFS), focusing on the use of Areas and Team Projects, which are integral to Application Lifecycle Management. It addresses best practices, implications for project configuration, and the benefits of a streamlined approach to managing multiple projects, aligning closely with ALM principles.",
+    "final_score": 77.0,
+    "reasoning": "The content primarily discusses the use of Team Foundation Server (TFS) for managing projects, which aligns closely with Application Lifecycle Management (ALM) principles. It covers aspects such as project configuration, the use of areas and iterations for project management, and the implications of these configurations on the application lifecycle. The depth of discussion is significant, providing detailed pros and cons, as well as practical examples of how to implement these strategies. The content also references best practices and community insights, further reinforcing its relevance to ALM.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -1363,12 +1366,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:00:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:04:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses project management strategies and methodologies related to Team Foundation Server (TFS), which includes elements of Agile practices and collaboration, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses project management in TFS and mentions Agile practices, but it lacks a focused discussion on Scrum, Kanban, Lean, or Agile methodologies. While it touches on collaboration and project structuring, it does not delve deeply into the core principles of Social Technologies, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "Leadership": {
     "category": "Leadership",

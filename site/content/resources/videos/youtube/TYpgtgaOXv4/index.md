@@ -29,7 +29,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Transparency
 - Agile Project Management
 - Agile Planning Tools
 - Agile Product Management
@@ -37,6 +36,7 @@ tags:
 - Product Backlog
 - Software Development
 - Product Delivery
+- Transparency
 - Value Delivery
 - Agile Planning
 resourceTypes:

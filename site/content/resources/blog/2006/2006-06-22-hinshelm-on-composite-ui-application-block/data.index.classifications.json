@@ -166,12 +166,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T11:16:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:23:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of a UI adapter within the Composite UI Application Block, focusing on engineering practices related to code quality and extensibility. It provides detailed code examples and discusses design choices that enhance the maintainability and adaptability of the application, aligning well with the principles of technical excellence.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on implementing a technical solution within the Composite UI Application Block (CAB), specifically regarding the ToolStripPanel UI Adapter. It discusses the technical details of code implementation, including inheritance and factory patterns, which align with the principles of modular architecture and emergent design. However, while it provides a good level of detail on the implementation, it lacks broader discussions on methodologies like TDD or CI/CD practices, which are central to the category of Technical Excellence. Therefore, while it is relevant, it does not fully encompass the category's scope.",
+    "level": "Tertiary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -961,12 +964,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T16:38:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:23:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical implementation details about enhancing the ToolStripPanel UI Adapter within the Composite UI Application Block (CAB), which reflects principles of software craftsmanship and development practices. It focuses on the technical aspects of code adaptation, inheritance, and improved functionality, aligning well with engineering excellence principles.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on implementing a specific feature in a software framework, detailing code and technical solutions. While it touches on aspects of software craftsmanship, such as extending functionality and code reuse, it lacks a broader discussion on engineering excellence principles, best practices, or continuous improvement processes. The depth of discussion is limited to a specific implementation without addressing overarching themes of quality assurance or team collaboration.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

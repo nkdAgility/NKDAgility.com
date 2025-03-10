@@ -29,7 +29,6 @@ sitemap:
   priority: 0.6
 tags:
 - Software Development
-- Agile Frameworks
 - Agile Project Management
 - Pragmatic Thinking
 - People and Process
@@ -37,9 +36,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Product Management
 - Leadership
-- Social Technologies
 
 ---
 How does scrum help leadership teams pick the most valuable work to focus on?

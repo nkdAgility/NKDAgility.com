@@ -25,15 +25,7 @@ preview: https://i.ytimg.com/vi/Fo49oedF34g/maxresdefault.jpg
 duration: 268
 isShort: false
 tags:
-- Agile Frameworks
-- Coaching
-- Organisational Agility
 - People and Process
-- Agile Project Management
-- Agile Transformation
-- Pragmatic Thinking
-- Software Development
-- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.4

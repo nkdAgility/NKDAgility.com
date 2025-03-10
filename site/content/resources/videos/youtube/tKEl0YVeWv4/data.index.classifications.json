@@ -28,11 +28,14 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-12T15:13:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:51:23",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of automation in enabling faster and more reliable deployments, which directly relates to the optimisation of deployment frequency. It highlights the importance of automated deployments and testing in achieving rapid iterations and continuous improvement, aligning well with the key topics of the category.",
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses the role of automation in software development, particularly in relation to deployment processes. It highlights how automation can enhance deployment frequency by enabling faster and more reliable releases, which aligns well with Agile and DevOps principles. The examples provided, such as the Knight Capital Group and Facebook's deployment strategies, illustrate the importance of frequent deployments and the risks associated with manual processes. However, while the content is rich in detail about automation, it does not explicitly focus on deployment frequency as a primary topic, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Throughput": {

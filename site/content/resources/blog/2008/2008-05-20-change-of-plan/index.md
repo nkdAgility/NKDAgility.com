@@ -23,8 +23,8 @@ aliasesArchive:
 - /change-of-plan
 - /resources/blog/change-of-plan
 tags:
-- Code and Complexity
 - Pragmatic Thinking
+- Code and Complexity
 - Software Development
 - Technical Mastery
 - Troubleshooting

@@ -184,11 +184,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-16T21:43:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:18:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses methodologies and practices related to software development and delivery, including the roles of factory and product teams, the importance of reducing development lifecycles, and the integration of web services, which are all relevant to product delivery.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the future of software development with a focus on methodologies like software factories and web services, which are relevant to product delivery. It mentions the roles of different teams in the product delivery process, such as the factory team and product team, and highlights the importance of reducing time to market and improving client satisfaction. However, while it touches on key aspects of product delivery, it lacks detailed exploration of specific methodologies like Agile or CI/CD practices, which limits its depth of discussion.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -1240,11 +1243,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:18:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses software factories and their role in improving software development processes, which aligns with some aspects of engineering excellence, but it primarily focuses on development methodologies rather than adhering strictly to established principles of software craftsmanship.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the future of software development with a focus on software factories and web services, which are relevant to engineering practices. However, it lacks explicit mentions of engineering excellence principles, best practices, or quality assurance. The discussion is more about organisational structure and development models rather than a deep dive into engineering craftsmanship or continuous improvement processes.",
     "level": "Tertiary"
   },
   "Revenue per Employee": {

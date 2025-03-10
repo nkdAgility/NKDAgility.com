@@ -1051,11 +1051,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T20:50:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:53:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses permission issues related to TFS (Team Foundation Server) and SharePoint, which are part of system configuration. It details troubleshooting steps and permission tracing, aligning with configuration management and optimization strategies.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses a specific issue related to permissions in TFS and SharePoint, which falls under system configuration. It explicitly mentions permission settings and the implications of 'deny' permissions, aligning well with the category's focus on configuration management and troubleshooting. The depth of discussion includes practical insights into permission tracing and the impact of configuration on system access, providing a detailed examination of a configuration issue. However, while it is focused on a specific problem, it does not cover broader best practices or strategies for system optimisation, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {

@@ -27,13 +27,12 @@ tags:
 - Application Lifecycle Management
 - Practical Techniques and Tooling
 - Modern Source Control
-- Azure DevOps
 - Operational Practices
 - Install and Configuration
+- Azure DevOps
 - System Configuration
 - Software Developers
-categories:
-- Social Technologies
+categories: []
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

@@ -35,8 +35,8 @@ tags:
 - Scrum Master
 - Scrum Team
 - Agile Project Management
-- Software Development
 - Personal
+- Software Development
 resourceTypes:
 - video
 categories:

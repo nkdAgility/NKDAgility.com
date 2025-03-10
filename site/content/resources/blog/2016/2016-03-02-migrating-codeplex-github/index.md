@@ -27,8 +27,8 @@ aliasesArchive:
 - /blog/migrating-from-codeplex-to-github
 - /resources/blog/migrating-codeplex-github
 tags:
-- Modern Source Control
 - Software Development
+- Modern Source Control
 - Install and Configuration
 - Practical Techniques and Tooling
 categories: []

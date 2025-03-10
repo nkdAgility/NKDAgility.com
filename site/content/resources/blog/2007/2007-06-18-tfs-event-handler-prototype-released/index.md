@@ -34,7 +34,6 @@ tags:
 - Frequent Releases
 - Software Development
 - System Configuration
-- Technical Mastery
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

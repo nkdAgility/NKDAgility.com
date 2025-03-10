@@ -28,12 +28,12 @@ aliasesArchive:
 - /resources/blog/maven-release-perform-tries-get-workspace-sub-folder-tfs
 tags:
 - Software Development
-- System Configuration
 - Pragmatic Thinking
 - Technical Mastery
 - Troubleshooting
 - Practical Techniques and Tooling
 - Install and Configuration
+- System Configuration
 - Release Management
 - Operational Practices
 categories:

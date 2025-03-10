@@ -25,7 +25,6 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - System Configuration
-- Technical Mastery
 - Troubleshooting
 - Windows
 - Practical Techniques and Tooling

@@ -31,7 +31,6 @@ sitemap:
   priority: 0.6
 tags:
 - Enterprise Agility
-- Business Agility
 - People and Process
 - Systems Thinking
 - Agile Frameworks
@@ -40,9 +39,11 @@ tags:
 - Agile Strategy
 - Agile Transformation
 - Change Management
+- Metrics and Learning
 resourceTypes:
 - video
 categories:
+- Social Technologies
 - Product Management
 - Leadership
 

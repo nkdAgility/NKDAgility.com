@@ -30,7 +30,6 @@ tags:
 - Miscellaneous
 - Modern Source Control
 - Personal
-- Release Management
 - Software Development
 - Troubleshooting
 categories: []

@@ -27,6 +27,7 @@ aliasesArchive:
 - /blog/do-you-know-about-the-visual-studio-alm-rangers-guidance-
 - /resources/blog/do-you-know-about-the-visual-studio-alm-rangers-guidance
 tags:
+- Products and Books
 - Application Lifecycle Management
 preview: metro-visual-studio-2010-128-link-3-3.png
 categories: []

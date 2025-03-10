@@ -33,11 +33,11 @@ tags:
 - Agile Project Management
 - Product Owner
 - Professional Scrum
-- Value Delivery
 - Agile Frameworks
 - Pragmatic Thinking
 - Software Development
 - Team Collaboration
+- Agile Product Management
 resourceTypes:
 - video
 categories:

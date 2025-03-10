@@ -30,10 +30,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Business Agility
 - Market Adaptability
 - Resilience and Change
 - Enterprise Agility
-- Business Agility
 - Organisational Agility
 - Organisational Culture
 - People and Process

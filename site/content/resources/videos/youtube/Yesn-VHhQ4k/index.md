@@ -30,7 +30,6 @@ sitemap:
 tags:
 - Agile Values and Principles
 - Empirical Process Control
-- People and Process
 - Organisational Agility
 - Scrum Values
 - Agile Frameworks
@@ -38,6 +37,7 @@ tags:
 - Agile Project Management
 - Agile Strategy
 - Agile Transformation
+- People and Process
 resourceTypes:
 - video
 categories:

@@ -32,7 +32,6 @@ sitemap:
 tags:
 - Discovery and Learning
 - Personal
-- Coaching
 resourceTypes:
 - video
 categories:

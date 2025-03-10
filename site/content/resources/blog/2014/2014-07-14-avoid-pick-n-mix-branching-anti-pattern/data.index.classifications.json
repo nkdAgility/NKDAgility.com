@@ -163,11 +163,14 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-15T09:12:17",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T14:43:50",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the pick-n-mix branching anti-pattern and its impact on code quality and release processes, which relates to flow efficiency by highlighting the need for better planning and management of work in progress to enhance throughput and reduce bottlenecks.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the pick-n-mix branching anti-pattern and its negative impact on code quality, release stability, and team trust, which are all relevant to flow efficiency. It highlights the importance of optimising the branching model to enhance throughput and reduce bottlenecks in the development process. The discussion includes specific strategies for improving flow, such as transitioning to a feature branching model and implementing feature flippers, which directly align with flow efficiency principles. However, while the content is rich in detail and provides actionable insights, it does not explicitly measure flow efficiency metrics or discuss visual management tools, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "People and Process": {
@@ -1255,12 +1258,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:43:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content addresses issues related to source control and branching models, which are relevant to product development practices. However, it primarily focuses on technical implementation details and challenges rather than strategic aspects of product management.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses technical issues related to source control and branching strategies, which are more aligned with software engineering practices than with product management. While it touches on the implications of these practices for business trust and delivery, it lacks a direct focus on product management methodologies, customer needs, or strategic alignment. The depth of discussion on branching models is significant, but it does not sufficiently connect to the core themes of product management.",
+    "level": "Quaternary"
   },
   "Self Organisation": {
     "category": "Self Organisation",

@@ -36,7 +36,7 @@ tags:
 - Continuous Integration
 - Operational Practices
 - Pragmatic Thinking
-- Technical Excellence
+- Technical Mastery
 categories:
 - DevOps
 - Engineering Excellence

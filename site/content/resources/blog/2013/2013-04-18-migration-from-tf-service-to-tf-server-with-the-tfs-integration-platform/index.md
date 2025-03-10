@@ -25,11 +25,11 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Modern Source Control
-- Pragmatic Thinking
 - Software Development
 - System Configuration
 - Troubleshooting
 - Practical Techniques and Tooling
+- Pragmatic Thinking
 - Technical Mastery
 categories:
 - DevOps

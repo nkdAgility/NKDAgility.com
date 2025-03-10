@@ -34,7 +34,6 @@ tags:
 - Modern Source Control
 - Software Development
 - System Configuration
-- Technical Mastery
 - Troubleshooting
 categories: []
 preview: metro-problem-icon-4-4.png

@@ -30,6 +30,7 @@ aliasesArchive:
 - /resources/blog/engaging-with-complexity-team-foundation-server-edition
 tags:
 - Windows
+- Install and Configuration
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-2-2.png

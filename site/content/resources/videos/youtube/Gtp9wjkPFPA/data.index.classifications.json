@@ -25,12 +25,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T22:19:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:18:53",
+    "ai_confidence": 62.0,
+    "ai_mentions": 50.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the integration of DevOps and Agile, highlighting their relationship and perspectives, making DevOps a major theme, but it does not delve deeply into specific DevOps practices or principles.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the integration of DevOps and Agile, which is relevant to the DevOps category. However, it primarily focuses on the conceptual relationship between the two methodologies rather than providing in-depth insights into DevOps practices, tools, or metrics. While it mentions continuous delivery, it lacks detailed exploration of DevOps principles or specific practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Product Management": {
     "category": "Product Management",
@@ -265,11 +268,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T22:20:44",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T14:18:56",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the interplay between Agile and DevOps, highlighting the importance of leadership and process in relation to people, which aligns with the category's focus. However, it does not delve deeply into specific team dynamics or methodologies, making it a secondary theme.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the integration of DevOps and Agile, touching on leadership and process as key elements, which aligns with the category. However, it lacks detailed exploration of team dynamics or specific methodologies, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Test Driven Development": {

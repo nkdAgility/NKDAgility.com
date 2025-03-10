@@ -27,7 +27,6 @@ tags:
 - News and Reviews
 - Practical Techniques and Tooling
 - Products and Books
-- Azure DevOps
 - Software Development
 - Events and Presentations
 categories: []

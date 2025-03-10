@@ -34,10 +34,10 @@ tags:
 - Agile Project Management
 - Agile Leadership
 - Business Agility
-- Market Adaptability
 - Agile Frameworks
 - Agile Philosophy
 - Agile Strategy
+- Agile Transformation
 resourceTypes:
 - video
 categories:

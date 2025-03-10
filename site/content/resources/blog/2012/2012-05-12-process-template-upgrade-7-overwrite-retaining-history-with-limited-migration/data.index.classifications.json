@@ -289,11 +289,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T20:39:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:56:19",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses upgrading process templates in Team Foundation Server (TFS), which is a component of Azure DevOps, and includes specific instructions and commands related to work item types and configurations within the Azure DevOps ecosystem.",
+    "final_score": 74.0,
+    "reasoning": "The content provides a detailed guide on upgrading process templates in Team Foundation Server (TFS), which is a component of Azure DevOps. It explicitly discusses work item types, commands, and configurations relevant to Azure DevOps, demonstrating a strong focus on its functionalities. The depth of the discussion is significant, covering multiple steps and considerations for the upgrade process, which aligns well with the category's emphasis on best practices and methodologies associated with Azure DevOps.",
     "level": "Secondary"
   },
   "Personal": {
@@ -1363,12 +1366,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:52:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:56:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses upgrading process templates in Team Foundation Server (TFS) and mentions Agile work item types, which are related to Agile practices. However, the primary focus is on technical instructions rather than a comprehensive discussion of Agile methodologies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses upgrading process templates in Team Foundation Server (TFS) and includes references to Agile work item types, which are part of the Agile methodology. However, the primary focus is on technical instructions for migration rather than on the collaborative and adaptive frameworks of Scrum, Kanban, Lean, or Agile practices. While there are mentions of Agile concepts, they are not the main focus, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Leadership": {
     "category": "Leadership",

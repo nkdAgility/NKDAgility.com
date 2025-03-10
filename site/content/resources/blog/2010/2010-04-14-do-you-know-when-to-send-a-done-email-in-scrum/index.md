@@ -32,11 +32,11 @@ tags:
 - Scrum Product Development
 - Team Collaboration
 - Team Performance
-- Agile Frameworks
 - Agile Project Management
 - Pragmatic Thinking
 - Software Development
 - People and Process
+- Agile Frameworks
 categories:
 - Scrum
 - Social Technologies

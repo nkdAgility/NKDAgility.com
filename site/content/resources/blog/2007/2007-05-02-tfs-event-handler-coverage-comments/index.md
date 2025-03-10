@@ -28,7 +28,6 @@ aliasesArchive:
 - /resources/blog/tfs-event-handler-coverage-comments
 tags:
 - Software Development
-- Troubleshooting
 categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 

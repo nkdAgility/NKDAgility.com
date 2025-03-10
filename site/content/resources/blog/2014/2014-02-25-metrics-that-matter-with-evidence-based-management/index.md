@@ -23,8 +23,8 @@ aliasesArchive:
 - /metrics-that-matter-with-evidence-based-management
 - /resources/blog/metrics-that-matter-with-evidence-based-management
 tags:
-- Evidence Based Leadership
 - Evidence Based Management
+- Evidence Based Leadership
 - Metrics and Learning
 categories:
 - Product Management

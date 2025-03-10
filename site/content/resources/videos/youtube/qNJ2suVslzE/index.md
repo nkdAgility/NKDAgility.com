@@ -29,12 +29,12 @@ tags:
 - Business Agility
 - Market Adaptability
 - Organisational Agility
+- Product Delivery
 - Value Delivery
 - Agile Product Operating Model
 - People and Process
 - Agile Values and Principles
 - Agile Frameworks
-- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

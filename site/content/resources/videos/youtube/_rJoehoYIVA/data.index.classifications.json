@@ -1246,12 +1246,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T12:30:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:59:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Azure DevOps migrations and the technical challenges involved, which relates to engineering practices. However, it primarily focuses on the reasons for migration rather than specific technical methodologies or practices that enhance agility in software development.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses Azure DevOps migrations, which touches on technical practices but lacks a strong focus on engineering methodologies that enhance agility or quality. While it mentions the importance of moving to a supported environment, it does not delve into specific practices like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
+    "level": "Quaternary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",

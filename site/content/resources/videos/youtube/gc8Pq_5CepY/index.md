@@ -26,6 +26,7 @@ duration: 1686
 isShort: false
 tags:
 - Events and Presentations
+- People and Process
 - Software Developers
 sitemap:
   filename: sitemap.xml

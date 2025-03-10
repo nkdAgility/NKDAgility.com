@@ -33,11 +33,11 @@ tags:
 - Agile Leadership
 - Organisational Change
 - Personal
+- Sociotechnical Systems
 - Change Management
 - Employee Engagement
 - Organisational Physics
 - Organisational Psychology
-- Team Collaboration
 resourceTypes:
 - video
 categories:

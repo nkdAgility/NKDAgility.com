@@ -31,9 +31,9 @@ tags:
 - System Configuration
 - Pragmatic Thinking
 - Software Development
-- Technical Mastery
 - Troubleshooting
 - Windows
+- Technical Mastery
 categories: []
 
 ---

@@ -32,9 +32,9 @@ tags:
 - Discovery and Learning
 - Lean Startup
 - Pragmatic Thinking
-- Product Delivery
 - Product Discovery
 - Product Strategy
+- Product Validation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

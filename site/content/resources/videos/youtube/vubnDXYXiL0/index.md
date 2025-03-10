@@ -31,13 +31,13 @@ tags:
 - Scaling Scrum
 - Large Scale Agility
 - Scaled Agile
-- Scaling Agility
 - Agile Project Management
 - People and Process
 - Practical Techniques and Tooling
 - Pragmatic Thinking
 - Professional Scrum
 - Software Development
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

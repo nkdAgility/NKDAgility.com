@@ -38,7 +38,7 @@ tags:
 - Product Validation
 - Continuous Learning
 - Agile Product Management
-- Value Delivery
+- Organisational Agility
 resourceTypes:
 - video
 categories:

@@ -31,8 +31,8 @@ tags:
 - Software Development
 - Operational Practices
 - Software Developers
-- Technical Excellence
 - Technical Mastery
+- Azure DevOps
 categories:
 - DevOps
 - Engineering Excellence

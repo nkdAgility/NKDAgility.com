@@ -30,7 +30,6 @@ sitemap:
 tags:
 - Scrum Product Development
 - Agile Planning
-- Professional Scrum
 - Agile Project Management
 - Software Development
 resourceTypes:

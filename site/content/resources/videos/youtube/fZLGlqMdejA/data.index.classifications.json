@@ -1117,11 +1117,14 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-12T07:21:08",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T14:10:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of thinking time and experimentation in Agile practices, highlighting the need for space to learn and innovate. However, the primary focus is on the critique of resource utilisation rather than a comprehensive exploration of discovery and learning methodologies.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of allowing time for thinking and experimentation in Agile practices, which aligns with the principles of discovery and learning. It highlights the need for teams to have space to innovate and learn from their experiences, particularly in the context of value delivery rather than mere resource utilisation. However, the primary focus is on critiquing resource utilisation in Agile rather than a comprehensive exploration of discovery and learning methodologies, which limits the overall depth of discussion.",
     "level": "Secondary"
   },
   "Systems Thinking": {
@@ -1189,12 +1192,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:10:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "While the content primarily discusses Agile principles and the fallacy of resource utilisation, it briefly touches on value delivery and mentions DevOps at the end. However, the main focus is on Agile practices rather than DevOps itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Agile principles, particularly focusing on resource utilisation and value delivery, which are more aligned with Agile methodologies than DevOps practices. While there is a brief mention of DevOps at the end, it is not a primary focus of the discussion. The content lacks detailed exploration of DevOps principles, practices, or tools, resulting in a low confidence score for alignment with the DevOps category.",
+    "level": "Quaternary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",

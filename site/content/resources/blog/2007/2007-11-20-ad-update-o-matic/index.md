@@ -26,7 +26,6 @@ tags:
 - Operational Practices
 - Software Development
 - System Configuration
-- Windows
 - Working Software
 categories: []
 preview: metro-sharepoint-128-link-1-1.png

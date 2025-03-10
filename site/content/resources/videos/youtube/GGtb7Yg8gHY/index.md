@@ -28,6 +28,7 @@ tags:
 - Agile Project Management
 - Team Performance
 - People and Process
+- Scrum Master
 sitemap:
   filename: sitemap.xml
   priority: 0.6

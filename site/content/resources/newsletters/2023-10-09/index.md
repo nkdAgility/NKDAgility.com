@@ -21,11 +21,11 @@ aliasesArchive:
 categories:
 - Scrum
 tags:
+- Professional Scrum
 - Agile Frameworks
 - Agile Product Management
 - Agile Project Management
 - Product Backlog
-- Professional Scrum
 - Scrum Product Development
 - Agile Planning
 - Agile Planning Tools

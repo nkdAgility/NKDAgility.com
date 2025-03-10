@@ -31,10 +31,10 @@ tags:
 - Scrum Product Development
 - People and Process
 - Professional Scrum
-- Scrum Team
 - Agile Frameworks
 - Agile Transformation
 - Software Development
+- Scrum Team
 - Transparency
 - Agile Product Management
 categories:

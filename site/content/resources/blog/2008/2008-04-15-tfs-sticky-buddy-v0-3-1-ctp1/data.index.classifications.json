@@ -1084,12 +1084,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:12:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content is primarily about a digital dashboard project built using Windows Presentation Foundation (WPF), which relates to Windows development, but it's not a comprehensive discussion about the Windows operating system itself.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses a project built using Windows Presentation Foundation (WPF), which is a technology specific to the Windows environment. However, the focus is primarily on the Team Foundation Server Sticky Buddy application rather than on Windows itself. While there are mentions of Windows-related technologies, the depth of discussion on Windows installation, configuration, or troubleshooting is minimal, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Lean Principles": {
     "category": "Lean Principles",

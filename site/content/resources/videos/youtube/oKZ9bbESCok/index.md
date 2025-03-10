@@ -30,8 +30,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Project Management
 - Metrics and Learning
+- Agile Project Management
 - Agile Philosophy
 - Psychological Safety
 - People and Process

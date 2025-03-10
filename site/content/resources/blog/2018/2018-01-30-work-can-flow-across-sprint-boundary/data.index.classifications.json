@@ -160,11 +160,14 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-14T18:42:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:37:24",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the concept of allowing work to flow across Sprint boundaries, which directly relates to optimising throughput and reducing bottlenecks in the Scrum framework. It emphasises the importance of flow in relation to Continuous Delivery and provides insights into practices that enhance flow efficiency.",
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses the concept of allowing work to flow across Sprint boundaries, which directly relates to flow efficiency. It mentions the importance of reducing batch sizes and improving throughput, aligning well with the core themes of flow efficiency in Lean and Agile methodologies. The depth of discussion is significant, covering various practices that support continuous delivery and flow, such as feature flags, refactoring, and test-driven development. Overall, the content is focused on optimising work throughput and minimising bottlenecks, justifying a high confidence score.",
     "level": "Secondary"
   },
   "People and Process": {
@@ -205,11 +208,14 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:37:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the integration of Kanban principles within the Scrum framework, particularly regarding the flow of work across Sprint boundaries. However, the primary focus remains on Scrum practices, making Kanban a secondary theme.",
+    "final_score": 41.0,
+    "reasoning": "The content primarily discusses Scrum and its principles, with Kanban mentioned as a complementary approach. While it references the Kanban Guide and discusses concepts like flow, the focus remains on Scrum practices. The mention of Kanban is not central to the discussion, and the depth of Kanban-related content is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Technical Excellence": {

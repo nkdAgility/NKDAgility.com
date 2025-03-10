@@ -31,8 +31,8 @@ tags:
 - System Configuration
 - Troubleshooting
 - Install and Configuration
-- Practical Techniques and Tooling
 - Pragmatic Thinking
+- Practical Techniques and Tooling
 categories: []
 
 ---

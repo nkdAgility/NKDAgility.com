@@ -24,7 +24,16 @@ preview: https://i.ytimg.com/vi/wLJAMvwR6qI/maxresdefault.jpg
 duration: 302
 isShort: false
 tags:
+- Discovery and Learning
 - Hypothesis Driven Development
+- Experimentation
+- Evidence Based Leadership
+- Evidence Based Management
+- Ability to Innovate
+- Continuous Learning
+- Decision Making
+- Product Discovery
+- Product Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

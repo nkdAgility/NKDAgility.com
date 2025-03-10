@@ -280,11 +280,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-14T20:52:15",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T14:34:40",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the need for agility and continuous delivery as essential components for delivering value to customers, emphasizing shorter feedback loops, operational needs, and the importance of delivering features that delight customers. However, it also includes a significant focus on technical practices and team structures, which could be considered secondary to the primary topic of value delivery.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of Continuous Delivery and the need for rapid feedback loops, which aligns with the principles of iterative development and customer-centric delivery. However, while it touches on value delivery concepts, it lacks detailed exploration of specific strategies or methodologies that enhance customer satisfaction and business agility. The focus is more on operational practices rather than a comprehensive discussion of value delivery principles.",
     "level": "Secondary"
   },
   "Azure DevOps": {
@@ -1255,11 +1258,14 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T09:08:39",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-10T14:34:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "While the content touches on some aspects related to product delivery and agility, it primarily focuses on DevOps practices, organizational agility, and site reliability engineering rather than strategic product management discussions.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses the shift towards agility and DevOps practices, which are relevant to product management, but it primarily focuses on operational aspects and technical implementation rather than strategic alignment of customer needs and business objectives. While there are mentions of customer-centric realities and the need for rapid deployment, the discussion lacks depth in product management methodologies and frameworks, leading to a lower confidence score.",
     "level": "Quaternary"
   },
   "Self Organisation": {

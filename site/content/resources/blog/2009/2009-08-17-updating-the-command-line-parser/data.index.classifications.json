@@ -376,12 +376,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T02:51:09",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-10T15:06:06",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "The content primarily focuses on the implementation and improvement of a command line parser in VB.NET, detailing technical aspects of software engineering such as class design, command handling, error management, and code organization, which are all relevant to high-quality software development practices.",
-    "level": "Primary"
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the technical implementation of a command line parser in VB.NET, showcasing specific coding practices and architectural decisions. While it does not explicitly mention 'Technical Mastery', it aligns well with the principles of software craftsmanship through its detailed explanation of code structure, command handling, and error management. However, the discussion lacks broader context on best practices or methodologies that would elevate it to a higher confidence score.",
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",

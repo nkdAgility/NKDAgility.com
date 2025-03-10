@@ -34,9 +34,9 @@ tags:
 - Scrum Team
 - Software Development
 categories:
+- Social Technologies
 - Engineering Excellence
 - Scrum
-- Social Technologies
 preview: nakedalm-experts-professional-scrum-3-3.png
 
 ---

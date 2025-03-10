@@ -23,7 +23,10 @@ card:
 categories:
 - Social Technologies
 tags:
-- Software Development
+- Professional Scrum
+- Agile Planning
+- Agile Project Management
+- Agile Transformation
 
 ---
 Description of Scrum Framework.

@@ -42,7 +42,7 @@ tags:
 - Strategy
 - Self Organisation
 - Sociotechnical Systems
-- Team Motivation
+- Software Development
 resourceTypes:
 - video
 categories:

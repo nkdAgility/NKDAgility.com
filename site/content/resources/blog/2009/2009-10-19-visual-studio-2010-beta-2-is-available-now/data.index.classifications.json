@@ -1105,12 +1105,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:05:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Visual Studio 2010 and mentions its compatibility with Windows operating systems, making Windows a significant aspect, though the primary focus is on Visual Studio itself.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content primarily discusses Visual Studio 2010, which is a software application that runs on the Windows operating system. There are direct mentions of Windows 7 and Vista, indicating some relevance to the Windows category. However, the focus is more on the features and editions of Visual Studio rather than on Windows itself, such as installation or troubleshooting. While there is some alignment with the Windows category, the depth of discussion regarding Windows-specific topics is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",

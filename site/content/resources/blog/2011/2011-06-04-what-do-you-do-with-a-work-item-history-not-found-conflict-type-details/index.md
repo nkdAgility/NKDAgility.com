@@ -29,10 +29,10 @@ tags:
 - Working Software
 - Application Lifecycle Management
 - Azure Boards
-- Azure DevOps
 - Pragmatic Thinking
 - Release Management
 - Software Development
+- Practical Techniques and Tooling
 categories:
 - DevOps
 preview: metro-binary-vb-128-link-4-4.png

@@ -79,11 +79,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T19:24:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:51:40",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration of extensions for Team Foundation Server, detailing the processes and challenges involved in deploying and managing these extensions, which aligns well with the category.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the installation and configuration of extensions for Team Foundation Server (TFS), detailing specific integration points and the challenges associated with deploying and managing these extensions. It provides actionable insights into the setup process, including the creation of packages and the use of MyGet for hosting. The depth of discussion on installation procedures and configuration best practices aligns well with the category, although some sections veer into broader project management themes, which slightly detracts from the overall focus.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -124,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:51:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automation and deployment processes related to Team Foundation Server, which aligns with DevOps principles, but it primarily focuses on specific tools and extensions rather than broader DevOps practices.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the automation of deployment processes and the integration of extensions for Team Foundation Server (TFS), which aligns with DevOps principles. However, it lacks a broader discussion on cultural shifts, collaboration, or specific DevOps metrics, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Miscellaneous": {

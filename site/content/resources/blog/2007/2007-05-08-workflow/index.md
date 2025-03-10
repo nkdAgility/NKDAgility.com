@@ -27,7 +27,6 @@ tags:
 - Miscellaneous
 - Operational Practices
 - Software Development
-- Technical Mastery
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

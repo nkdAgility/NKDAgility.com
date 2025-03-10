@@ -37,8 +37,8 @@ tags:
 - Scrum Team
 - Agile Project Management
 - Professional Scrum
-- Software Development
 - Agile Frameworks
+- Software Development
 - Accountability
 resourceTypes:
 - video

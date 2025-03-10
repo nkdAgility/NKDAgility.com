@@ -24,9 +24,9 @@ preview: https://i.ytimg.com/vi/ZcMcVL7mNGU/maxresdefault.jpg
 duration: 256
 isShort: false
 tags:
+- People and Process
 - Agile Product Management
 - Agile Product Operating Model
-- People and Process
 - Software Development
 - Hypothesis Driven Development
 - Product Delivery

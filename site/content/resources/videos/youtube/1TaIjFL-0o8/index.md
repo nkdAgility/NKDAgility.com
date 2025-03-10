@@ -32,8 +32,8 @@ tags:
 - Professional Scrum
 - Scrum Team
 - Software Development
+- Pragmatic Thinking
 - Sociotechnical Systems
-- Agile Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -30,8 +30,8 @@ tags:
 - Product Validation
 - Frequent Releases
 - Product Delivery
-- Software Development
 - Working Software
+- Software Development
 - Agile Product Management
 - Discovery and Learning
 - Continuous Delivery

@@ -241,11 +241,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-14T16:47:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:52:47",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the use of Agile methodologies, specifically focusing on the planning and management of Product Backlog Items and tasks within the context of TFS 2012, which aligns closely with product delivery practices.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the use of nested Product Backlog Items (PBIs) and tasks within the context of Agile planning tools, which directly relates to product delivery methodologies. It provides practical insights into planning and managing work items, aligning well with the core themes of product delivery. The depth of discussion includes specific examples and solutions, enhancing its relevance to the category. However, while it is focused on Agile practices, it does not cover broader aspects of product delivery such as deployment or testing, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -1363,11 +1366,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:49:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:52:44",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Agile practices, specifically the handling of Product Backlog Items and Tasks within the context of Agile Planning Tools, which aligns with the principles of Scrum and Agile methodologies.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses Agile practices, specifically the handling of Product Backlog Items (PBIs) and tasks within the context of Team Foundation Server (TFS). It directly mentions Agile concepts and provides insights into the implications of nested tasks on Agile planning tools, which aligns well with the core themes of value delivery and continuous improvement. The depth of discussion is moderate, focusing on practical issues and solutions related to Agile methodologies, thus justifying a relatively high confidence score.",
     "level": "Secondary"
   },
   "Leadership": {

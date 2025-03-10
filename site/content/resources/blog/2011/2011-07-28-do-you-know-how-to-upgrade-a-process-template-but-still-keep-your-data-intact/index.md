@@ -29,7 +29,6 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Azure DevOps
 - Operational Practices
 - Pragmatic Thinking
 - Software Development

@@ -30,7 +30,6 @@ aliasesArchive:
 - /blog/xbox--live-to-twitter-update-(v0-2-3)
 tags:
 - Discovery and Learning
-- Frequent Releases
 - Software Development
 - Working Software
 categories: []

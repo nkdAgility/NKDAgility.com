@@ -103,11 +103,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T20:46:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:16:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the architecture and implementation of a Team Foundation Server Event Handler using .NET 3.5, focusing on practical techniques and tooling related to software architecture and development processes.",
+    "final_score": 66.0,
+    "reasoning": "The content provides a detailed exploration of creating a Team Foundation Server Event Handler using .NET 3.5, which involves practical tooling and methodologies relevant to Agile and DevOps practices. It discusses specific tools (e.g., Team Foundation Server, Visual Studio) and methodologies (e.g., architectural diagrams, service configuration) that enhance team performance and delivery outcomes. The depth of discussion is significant, covering various diagrams and their purposes in system architecture, which aligns well with the category's focus on practical techniques and tooling.",
     "level": "Secondary"
   },
   "Value Delivery": {
@@ -310,12 +313,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:13:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:16:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the architecture and implementation of a Team Foundation Server Event Handler, which relates to DevOps practices, particularly in terms of automation and deployment processes. However, it primarily focuses on architectural design rather than broader DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the architecture and implementation of a Team Foundation Server Event Handler, which touches on aspects of deployment and system design. However, it lacks explicit discussions on DevOps principles, practices, or cultural shifts. While there are mentions of tools and diagrams that could relate to DevOps, the primary focus is on architectural design rather than the integration of development and operations or continuous delivery.",
+    "level": "Quaternary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",

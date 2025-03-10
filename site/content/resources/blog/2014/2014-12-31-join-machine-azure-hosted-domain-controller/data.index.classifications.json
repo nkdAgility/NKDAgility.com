@@ -1105,11 +1105,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T09:56:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:41:48",
+    "ai_confidence": 82.0,
+    "ai_mentions": 16,
+    "ai_alignment": 32,
+    "ai_depth": 36,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content focuses on the process of joining a machine to an Azure-hosted domain controller, detailing specific steps that involve the Windows operating system, such as connecting via Remote Desktop and modifying system settings related to domain affiliation. This is primarily about managing Windows systems within an Azure environment.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on the process of joining a machine to a domain within a Windows environment, which is a key aspect of Windows management. It discusses specific steps related to configuration settings, such as ensuring the machine is in the correct virtual network and configuring DNS settings, which aligns well with the core themes of installation and configuration. The depth of discussion is substantial, providing detailed instructions and considerations for users, thus reinforcing its relevance to the Windows category.",
     "level": "Secondary"
   },
   "Deployment Strategies": {

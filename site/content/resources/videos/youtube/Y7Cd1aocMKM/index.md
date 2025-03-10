@@ -30,7 +30,6 @@ sitemap:
 tags:
 - People and Process
 - Remote Working
-- Agile Frameworks
 - Agile Project Management
 - Team Collaboration
 - Practical Techniques and Tooling

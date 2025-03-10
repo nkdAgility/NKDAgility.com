@@ -29,10 +29,10 @@ tags:
 - Agile Project Management
 - Application Lifecycle Management
 - Products and Books
+- Product Delivery
 - Working Software
 - Agile Frameworks
 - Agile Strategy
-- Organisational Agility
 categories:
 - Engineering Excellence
 

@@ -217,12 +217,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T18:58:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:50:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a specific technical issue related to Team Foundation Server builds, including error handling and the integration of custom assemblies, which aligns with engineering practices that enhance software development processes.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses a specific error related to Team Foundation Server builds, focusing on troubleshooting and solutions. While it touches on aspects of build processes, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. The mention of loading custom assemblies hints at a technical solution but does not delve into principles like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
+    "level": "Tertiary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",

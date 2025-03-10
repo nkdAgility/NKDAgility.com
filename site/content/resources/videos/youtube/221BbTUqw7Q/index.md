@@ -33,10 +33,10 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Agile Frameworks
 - Agile Project Management
 - Software Development
 - Professional Scrum
+- Agile Frameworks
 - Empirical Process Control
 - Pragmatic Thinking
 - Agile Product Management

@@ -30,9 +30,9 @@ tags:
 - Engineering Practices
 - Technical Excellence
 - Pragmatic Thinking
+- Technical Debt
 - People and Process
 - Value Delivery
-- Technical Debt
 - Technical Leadership
 sitemap:
   filename: sitemap.xml

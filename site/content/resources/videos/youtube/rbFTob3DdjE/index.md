@@ -26,8 +26,8 @@ duration: 39
 isShort: true
 tags:
 - Team Collaboration
-- Collaboration Tools
 - People and Process
+- Collaboration Tools
 - Team Performance
 sitemap:
   filename: sitemap.xml

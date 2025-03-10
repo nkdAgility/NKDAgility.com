@@ -23,7 +23,9 @@ aliasesArchive:
 - /updating-the-command-line-parser
 - /resources/blog/updating-the-command-line-parser
 tags:
+- Software Development
 - Technical Mastery
+- Practical Techniques and Tooling
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-2-1.png

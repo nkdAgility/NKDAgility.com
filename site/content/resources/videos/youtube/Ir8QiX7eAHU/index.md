@@ -36,10 +36,10 @@ tags:
 - Strategy
 - Agile Frameworks
 - Agile Project Management
-- Lean Thinking
 - Pragmatic Thinking
 - Software Development
 - Throughput
+- Lean Thinking
 resourceTypes:
 - video
 categories:

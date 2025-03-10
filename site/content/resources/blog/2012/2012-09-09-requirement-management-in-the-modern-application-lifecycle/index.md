@@ -32,11 +32,11 @@ tags:
 - Agile Project Management
 - Application Lifecycle Management
 - Agile Planning
-- Product Delivery
 - Products and Books
 - Software Development
 - Azure DevOps
 - Pragmatic Thinking
+- Product Delivery
 categories:
 - Product Management
 preview: metro-requirements-icon-14-14.png

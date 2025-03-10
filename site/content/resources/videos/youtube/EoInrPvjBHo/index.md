@@ -33,8 +33,8 @@ tags:
 - People and Process
 - Agile Product Operating Model
 - Agile Project Management
-- Product Owner
 - Team Motivation
+- Product Owner
 - Personal
 - Employee Engagement
 - Agile Philosophy

@@ -33,7 +33,7 @@ tags:
 categories:
 - Social Technologies
 - Engineering Excellence
-- Leadership
+- Scrum
 preview: metro-visual-studio-2010-128-link-3-3.png
 
 ---

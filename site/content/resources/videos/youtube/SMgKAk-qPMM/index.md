@@ -37,8 +37,8 @@ tags:
 - Agile Transformation
 - Pragmatic Thinking
 - Agile Product Management
-- Agile Planning
 - Software Developers
+- Agile Planning
 resourceTypes:
 - video
 categories:

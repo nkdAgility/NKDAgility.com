@@ -1048,11 +1048,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T02:22:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:04:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses troubleshooting permission issues related to TFS Administration, which aligns with the practical aspects of system configuration, particularly in configuring user permissions and system settings.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses troubleshooting a permission issue related to TFS (Team Foundation Server) administration, which falls under system configuration. It explicitly mentions the use of the TfsConfig tool and the importance of having the correct permissions set up for effective system administration. The discussion aligns with key topics such as troubleshooting common configuration issues and the role of permissions in system setup. However, while it provides a detailed account of the troubleshooting process, it lacks broader discussions on best practices or optimisation strategies, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Product Strategy": {

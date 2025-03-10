@@ -33,7 +33,7 @@ tags:
 - News and Reviews
 - Practical Techniques and Tooling
 categories:
-- Social Technologies
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

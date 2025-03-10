@@ -26,6 +26,7 @@ preview: https://i.ytimg.com/vi/LI6G1awAUyU/maxresdefault.jpg
 duration: 370
 isShort: false
 tags:
+- Software Development
 - Software Developers
 - People and Process
 sitemap:

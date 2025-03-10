@@ -217,11 +217,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T00:14:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:01:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of event handling in Team Foundation Server 2010, focusing on technical practices such as writing event subscribers and using interfaces to enhance the functionality of TFS. It aligns with the principles of technical excellence by detailing engineering practices that improve software development processes.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on implementing event handling in Team Foundation Server (TFS) 2010, which involves technical practices related to software development. It discusses the use of the ISubscriber interface and the implementation of event handlers, showcasing a specific technical solution. However, while it touches on aspects of modular architecture and the integration of technical practices, it lacks a broader discussion on methodologies like TDD or CI/CD, which are central to the category of Technical Excellence. The depth of discussion is also limited to a specific implementation without exploring the implications or best practices in a wider context.",
     "level": "Secondary"
   },
   "Complexity Thinking": {

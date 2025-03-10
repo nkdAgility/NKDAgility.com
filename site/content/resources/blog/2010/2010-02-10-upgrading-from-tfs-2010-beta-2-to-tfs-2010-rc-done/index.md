@@ -26,7 +26,6 @@ tags:
 - Install and Configuration
 - System Configuration
 - Software Development
-- Application Lifecycle Management
 - Pragmatic Thinking
 - Technical Mastery
 - Troubleshooting

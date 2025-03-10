@@ -25,10 +25,10 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 - Azure DevOps
-- Application Lifecycle Management
 - Software Development
 - Operational Practices
 - Pragmatic Thinking
+- Application Lifecycle Management
 categories:
 - Engineering Excellence
 - DevOps

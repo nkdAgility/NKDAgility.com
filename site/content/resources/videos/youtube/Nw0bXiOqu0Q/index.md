@@ -29,7 +29,6 @@ sitemap:
   priority: 0.6
 tags:
 - Organisational Agility
-- Agile Product Management
 - Agile Project Management
 - Empirical Process Control
 - People and Process
@@ -38,10 +37,10 @@ tags:
 - Change Management
 - Continuous Learning
 - Discovery and Learning
+- Hypothesis Driven Development
 resourceTypes:
 - video
 categories:
-- Leadership
 - Social Technologies
 
 ---

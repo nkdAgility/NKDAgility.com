@@ -30,10 +30,10 @@ tags:
 - Install and Configuration
 - Release Management
 - System Configuration
-- Azure DevOps
 - Troubleshooting
 - Practical Techniques and Tooling
 - Pragmatic Thinking
+- Azure DevOps
 categories: []
 
 ---

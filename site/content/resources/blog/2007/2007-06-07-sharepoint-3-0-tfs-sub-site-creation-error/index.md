@@ -27,7 +27,6 @@ aliasesArchive:
 - /blog/sharepoint-3-0-tfs-sub-site-creation-error-
 - /resources/blog/sharepoint-3-0-tfs-sub-site-creation-error
 tags:
-- System Configuration
 - Troubleshooting
 - Install and Configuration
 - Software Development

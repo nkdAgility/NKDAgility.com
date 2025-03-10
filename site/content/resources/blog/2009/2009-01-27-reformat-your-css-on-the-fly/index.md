@@ -23,10 +23,10 @@ aliasesArchive:
 - /reformat-your-css-on-the-fly
 - /resources/blog/reformat-your-css-on-the-fly
 tags:
-- Install and Configuration
 - Software Development
 - Technical Mastery
 - Troubleshooting
+- Install and Configuration
 - Practical Techniques and Tooling
 categories: []
 preview: metro-binary-vb-128-link-2-1.png

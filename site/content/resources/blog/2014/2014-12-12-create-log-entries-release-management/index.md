@@ -31,12 +31,12 @@ tags:
 - Application Lifecycle Management
 - Release Management
 - System Configuration
-- Azure DevOps
 - Azure Pipelines
 - Pragmatic Thinking
 - Software Development
 - Technical Mastery
 - Troubleshooting
+- Practical Techniques and Tooling
 categories:
 - DevOps
 - Engineering Excellence

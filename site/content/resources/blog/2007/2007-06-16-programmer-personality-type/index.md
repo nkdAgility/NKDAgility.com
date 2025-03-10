@@ -25,11 +25,11 @@ aliasesArchive:
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 tags:
+- Team Collaboration
 - Personal
 - People and Process
 - Team Performance
 - Miscellaneous
-- Team Collaboration
 - Team Motivation
 
 ---

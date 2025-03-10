@@ -1162,12 +1162,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T02:28:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:06:30",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a specific technical issue with ASP.NET controls and provides a resolution through a code-based solution. It details the problem with timers and DropDownLists, outlines a method for finding controls, and even updates the original problem-solving approach with a new solution, directly relating to troubleshooting in a software context.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content discusses a specific issue related to ASP.NET controls and provides a code solution to address the problem of timers interfering with dropdown lists. While it does not explicitly label the discussion as 'troubleshooting', it aligns with the category by identifying a technical issue and proposing a method to resolve it. The depth of the discussion includes code examples and a personal update on the resolution, which adds to the overall context of troubleshooting. However, the primary focus is on the implementation rather than a systematic troubleshooting methodology, which slightly lowers the confidence score.",
+    "level": "Tertiary"
   },
   "Experimentation": {
     "category": "Experimentation",

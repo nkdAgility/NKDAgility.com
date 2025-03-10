@@ -1105,11 +1105,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T00:54:02",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-10T14:56:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 50,
-    "final_score": 72.0,
-    "reasoning": "Content discusses the TFS Field Annotator application, its functionality, prerequisites like Visual Studio, and provides Windows-specific troubleshooting steps; although the primary focus is on the application itself, Windows usage is a significant theme.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the TFS Field Annotator, which is a tool that operates within the Windows environment, specifically mentioning compatibility with Windows 8 and installation prerequisites like Visual Studio and .NET. It provides detailed instructions on troubleshooting issues related to launching the application on Windows, which aligns well with the category's focus on troubleshooting and configuration. However, while it does touch on Windows-related aspects, the main focus is on the TFS tool itself rather than a broader discussion of Windows as an operating system, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Deployment Strategies": {

@@ -33,7 +33,6 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Values and Principles
-- Scrum Master
 - Agile Frameworks
 - Agile Philosophy
 - Agile Project Management
@@ -42,6 +41,7 @@ tags:
 - Team Performance
 - Agile Product Management
 - Pragmatic Thinking
+- Software Development
 resourceTypes:
 - video
 categories:

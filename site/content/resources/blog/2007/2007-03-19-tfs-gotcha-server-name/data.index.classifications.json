@@ -85,12 +85,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:32:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:21:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical issues related to installing TFS in a network environment, which touches on engineering practices but is primarily focused on troubleshooting rather than broader technical excellence principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific technical issue related to installing TFS in a network environment, which touches on aspects of technical excellence such as configuration and troubleshooting. However, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. The focus is primarily on a practical solution rather than on principles like TDD, CI/CD, or modular architecture, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",

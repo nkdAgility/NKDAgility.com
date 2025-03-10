@@ -33,7 +33,6 @@ tags:
 resourceTypes:
 - video
 categories:
-- Leadership
 - DevOps
 
 ---

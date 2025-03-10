@@ -27,9 +27,9 @@ aliasesArchive:
 - /blog/tfs-event-handler--ctp-1-delayed
 - /resources/blog/tfs-event-handler-ctp-1-delayed
 tags:
-- Miscellaneous
 - Technical Mastery
 - Install and Configuration
+- Miscellaneous
 - Software Development
 categories: []
 preview: nakedalm-logo-128-link-1-1.png

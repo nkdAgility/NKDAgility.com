@@ -29,8 +29,8 @@ aliasesArchive:
 tags:
 - Events and Presentations
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 - Social Technologies
 preview: metro-sharepoint-128-link-1-1.png
 

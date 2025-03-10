@@ -28,8 +28,8 @@ aliasesArchive:
 - /resources/blog/waffling-on-sharepoint
 tags:
 - Miscellaneous
-- Digital Transformation
 - Pragmatic Thinking
+- Digital Transformation
 categories: []
 preview: metro-sharepoint-128-link-1-1.png
 

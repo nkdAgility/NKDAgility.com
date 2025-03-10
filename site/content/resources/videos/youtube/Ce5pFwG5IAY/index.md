@@ -29,6 +29,7 @@ sitemap:
 tags:
 - People and Process
 - Scrum Master
+- Team Performance
 resourceTypes:
 - video
 categories:

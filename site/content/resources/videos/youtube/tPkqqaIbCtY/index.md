@@ -34,7 +34,6 @@ tags:
 - Customer Feedback Loops
 - Customer Retention
 - Customer Satisfaction
-- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

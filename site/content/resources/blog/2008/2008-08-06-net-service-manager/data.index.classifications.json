@@ -436,12 +436,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:11:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses creating a Service Manager for wrapping local and remote services, which relates to software craftsmanship and engineering practices, but focuses more on a specific implementation than on broader principles of technical excellence.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the creation and availability of a .NET Service Manager, which is a technical implementation. However, it lacks explicit discussions on best practices, principles of clean code, or methodologies that contribute to software craftsmanship. While it touches on the technical aspect of service management, it does not delve into the broader themes of software engineering excellence or provide in-depth analysis, resulting in a low confidence score for alignment with the 'Technical Mastery' category.",
+    "level": "Quaternary"
   },
   "Accountability": {
     "category": "Accountability",

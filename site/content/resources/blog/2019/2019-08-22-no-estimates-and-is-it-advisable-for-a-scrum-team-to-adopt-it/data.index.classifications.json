@@ -160,11 +160,14 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-14T18:24:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:37:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the optimisation of flow within a Scrum Team, focusing on metrics such as Cycle Time, Throughput, and WIP, which are central to the concept of Flow Efficiency.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of optimising flow within a Scrum Team, particularly through the use of metrics like Cycle Time, Throughput, WIP, and Work Item Aging. It aligns well with the principles of Flow Efficiency by emphasising continuous improvement and the need to streamline processes. The depth of discussion is significant, as it explores the transition from estimation to focusing on flow metrics, which is central to enhancing throughput. However, while it touches on flow efficiency, the primary focus is on the No Estimates approach, which slightly detracts from a pure flow efficiency discussion.",
     "level": "Secondary"
   },
   "People and Process": {
@@ -205,12 +208,15 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:37:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses metrics relevant to Kanban, such as WIP and Cycle Time, but primarily focuses on Scrum practices and the No Estimates approach.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Scrum and estimation practices, with only brief mentions of Kanban principles such as WIP and flow metrics. While it touches on some Kanban concepts, the focus remains on Scrum methodologies, which detracts from its alignment with the Kanban category.",
+    "level": "Quaternary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",

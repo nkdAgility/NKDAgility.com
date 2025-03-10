@@ -33,13 +33,13 @@ tags:
 - People and Process
 - Agile Strategy
 - Organisational Agility
+- Sociotechnical Systems
 - Agile Philosophy
 - Agile Transformation
 - Beta Codex
 - Organisational Change
 - Organisational Culture
 - Organisational Physics
-- Scaling Agility
 resourceTypes:
 - video
 layout: video

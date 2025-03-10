@@ -25,9 +25,9 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
+- Azure DevOps
 - System Configuration
 - Application Lifecycle Management
-- Azure DevOps
 - Software Development
 - Troubleshooting
 - Pragmatic Thinking

@@ -24,6 +24,14 @@ aliasesArchive:
 - /resources/blog/developer-day-scotland
 tags:
 - Events and Presentations
+- News and Reviews
+- Software Development
+- Code and Complexity
+- Technical Excellence
+- Technical Mastery
+- Engineering Practices
+- Practical Techniques and Tooling
+- Technical Debt
 categories:
 - Engineering Excellence
 preview: metro-event-128-link-1-1.png

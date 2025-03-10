@@ -25,8 +25,8 @@ aliasesArchive:
 tags:
 - Events and Presentations
 - Miscellaneous
-- News and Reviews
 - Continuous Learning
+- News and Reviews
 categories: []
 preview: metro-event-128-link-3-3.png
 

@@ -232,11 +232,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T08:56:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:41:45",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 38,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses Application Lifecycle Management (ALM) tools and practices, emphasizing their importance in software development processes and decision-making when selecting development tools.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses Application Lifecycle Management (ALM) tools, particularly Visual Studio ALM, and compares it with other tools like Git and Jenkins. It addresses key aspects of software development such as requirements management, project management, change management, and quality management, which are all integral to the software development lifecycle. The depth of discussion is significant, providing detailed insights into the functionalities and considerations when choosing ALM tools, thus aligning well with the core themes of software development practices.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1129,11 +1132,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:41:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses ALM tools and their integration, which relates to DevOps practices and tools, but primarily focuses on application lifecycle management rather than core DevOps principles.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Application Lifecycle Management (ALM) and the comparison of tools like Visual Studio ALM, Git, and Jenkins. While it touches on aspects relevant to DevOps, such as build management and release management, the primary focus is on tool comparison and project management rather than the broader principles and practices of DevOps. The discussion lacks depth in DevOps-specific practices like Continuous Integration and Continuous Delivery, and does not address cultural shifts or collaboration between teams, which are key elements of the DevOps category.",
     "level": "Tertiary"
   },
   "Miscellaneous": {

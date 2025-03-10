@@ -34,10 +34,10 @@ sitemap:
 tags:
 - People and Process
 - Personal
-- Transparency
 - Transparency and Accountability
 - Agile Values and Principles
 - Scrum Values
+- Transparency
 resourceTypes:
 - video
 categories:

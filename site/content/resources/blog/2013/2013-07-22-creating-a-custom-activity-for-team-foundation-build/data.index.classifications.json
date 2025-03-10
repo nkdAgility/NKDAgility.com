@@ -217,11 +217,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T18:03:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:48:09",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the creation of custom activities for Team Foundation Build, which involves engineering practices related to build automation and workflow design, aligning well with the principles of Technical Excellence.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on creating a custom activity for Team Foundation Build, which relates to engineering practices in software development. It discusses specific technical steps and considerations, such as creating a class library, inheriting from 'CodeActivity', and managing build activities. However, while it touches on aspects of technical excellence, such as customisation and workflow design, it lacks a broader discussion on methodologies like TDD or CI/CD, which are central to the category. The depth of discussion is limited to practical implementation without exploring the underlying principles of technical excellence.",
     "level": "Secondary"
   },
   "Complexity Thinking": {

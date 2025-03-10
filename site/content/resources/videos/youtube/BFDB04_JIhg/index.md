@@ -34,9 +34,9 @@ tags:
 - Practical Techniques and Tooling
 - Operational Practices
 - Lean Thinking
-- Lean
 - Transparency and Accountability
 - Metrics and Learning
+- Lean
 resourceTypes:
 - video
 categories:

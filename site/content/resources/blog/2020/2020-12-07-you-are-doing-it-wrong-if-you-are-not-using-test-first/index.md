@@ -30,8 +30,8 @@ tags:
 - Engineering Practices
 categories:
 - Engineering Excellence
+- Social Technologies
 - DevOps
-- Scrum
 preview: nkdAgility-PSD-Krakow-0-1-1.jpg
 
 ---

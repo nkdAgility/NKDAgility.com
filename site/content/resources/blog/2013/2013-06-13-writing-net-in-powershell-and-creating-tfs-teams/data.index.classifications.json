@@ -376,12 +376,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T19:34:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:49:44",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses programming techniques in PowerShell related to creating Teams in TFS, showcasing aspects of software craftsmanship and coding practices, particularly with .NET integration.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content primarily focuses on using PowerShell to interact with .NET and TFS, which aligns with technical mastery in terms of software craftsmanship and engineering practices. It discusses specific coding techniques, the use of namespaces, and error handling, which are relevant to improving code quality and maintainability. However, while it touches on technical aspects, it lacks a broader discussion on best practices or principles of clean code, which limits its depth in the context of technical mastery.",
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",

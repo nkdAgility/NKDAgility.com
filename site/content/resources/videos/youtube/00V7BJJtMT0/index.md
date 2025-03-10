@@ -30,6 +30,7 @@ tags:
 - Software Developers
 - Software Development
 - People and Process
+- Pragmatic Thinking
 resourceTypes:
 - video
 layout: video

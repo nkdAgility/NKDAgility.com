@@ -26,9 +26,9 @@ preview: https://i.ytimg.com/vi/wjYFdWaWfOA/maxresdefault.jpg
 duration: 299
 isShort: false
 tags:
+- Scrum Master
 - Agile Product Management
 - Agile Project Management
-- Scrum Master
 - Scrum Team
 - Agile Frameworks
 - People and Process

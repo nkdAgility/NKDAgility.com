@@ -30,9 +30,9 @@ tags:
 - Products and Books
 - Install and Configuration
 - News and Reviews
-- Practical Techniques and Tooling
 - Software Development
 - Technical Mastery
+- Practical Techniques and Tooling
 - Technical Excellence
 - Deployment Strategies
 - Release Management

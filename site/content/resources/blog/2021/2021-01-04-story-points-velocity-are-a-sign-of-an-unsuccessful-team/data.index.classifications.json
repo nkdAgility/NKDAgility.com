@@ -1210,12 +1210,15 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:32:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Kanban principles in the context of Scrum, particularly around metrics like cycle time and the use of a Service Level Expectation, but the primary focus is on critiquing Scrum practices rather than Kanban itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Scrum and critiques the use of Story Points and Velocity within that framework. While it briefly mentions Kanban principles, such as cycle time and metrics, the focus remains on Scrum practices, which detracts from its alignment with Kanban. The discussion lacks depth in Kanban-specific practices and does not provide substantial insights into Kanban's core themes.",
+    "level": "Quaternary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -1258,11 +1261,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-11T21:04:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:32:27",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the misconceptions surrounding Scrum practices, particularly focusing on the human factors involved in team dynamics, the importance of shared understanding, and the need for effective communication and adaptation within teams. It critiques the reliance on metrics like Story Points and Velocity, emphasising the role of team maturity and confidence in delivering value, which aligns closely with the themes of people and process.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses the misconceptions surrounding Story Points and Velocity in Scrum, highlighting the human factors involved in team dynamics and the need for effective communication and understanding within teams. It critiques traditional practices and emphasises the importance of adapting processes to enhance team performance, which aligns well with the core themes of the 'People and Process' category. The depth of discussion on how these practices affect team maturity and confidence in delivery further supports a high confidence score.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {

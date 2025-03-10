@@ -30,8 +30,8 @@ tags:
 - Azure Pipelines
 - Continuous Integration
 - Operational Practices
-- Technical Excellence
 - Technical Mastery
+- Technical Excellence
 categories:
 - DevOps
 

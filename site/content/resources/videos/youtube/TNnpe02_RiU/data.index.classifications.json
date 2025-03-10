@@ -25,12 +25,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-18T08:06:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:22:50",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous delivery and empowerment of developers, which are relevant to engineering practices, but the primary focus is on addressing misconceptions and pet peeves in DevOps rather than a deep exploration of engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on the concept of continuous delivery, which is a relevant aspect of engineering excellence. However, it lacks a detailed discussion on best practices, coding standards, or other core themes of the category. The focus is more on a personal opinion rather than a structured exploration of engineering practices, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -514,12 +517,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T10:21:42",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses agile and scrum training, hinting at the role of a Scrum Master, but is primarily focused on DevOps topics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-10T14:22:52",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses frustrations related to DevOps and does not mention the Scrum Master role or its responsibilities. There is no alignment with Scrum principles or practices, and the discussion lacks depth regarding any Scrum-related topics.",
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",

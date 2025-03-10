@@ -23,12 +23,12 @@ aliasesArchive:
 - /heat-itsm
 - /resources/blog/heat-itsm
 tags:
-- Practical Techniques and Tooling
 - Software Development
+- Practical Techniques and Tooling
 - Technical Mastery
 - Products and Books
 categories:
-- DevOps
+- Engineering Excellence
 preview: metro-visual-studio-2005-128-link-4-4.png
 
 ---

@@ -97,11 +97,14 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-15T21:42:57",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T14:58:23",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses Continuous Delivery and its importance in delivering software rapidly, which aligns with market adaptability principles. However, the primary focus is on Scrum practices rather than a broader discussion on market adaptability strategies.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses Scrum and Continuous Delivery, highlighting their roles in enhancing responsiveness to market demands. It addresses the importance of deploying software regularly and the need for organisations to minimise technical debt, which aligns with the principles of Agile and DevOps. However, while it touches on these topics, the primary focus is more on Scrum practices rather than a broader discussion on market adaptability strategies, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {
@@ -1255,12 +1258,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:58:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum and Continuous Delivery, which are related to product management methodologies, but the primary focus is on technical implementation details rather than the strategic aspects of product management.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses Scrum and Continuous Delivery, which are methodologies relevant to product management. However, it primarily focuses on technical implementation details and personal opinions about Scrum rather than the strategic aspects of product management. While there are mentions of product delivery and quality, the discussion lacks depth in aligning with broader product management strategies and frameworks.",
+    "level": "Quaternary"
   },
   "Self Organisation": {
     "category": "Self Organisation",

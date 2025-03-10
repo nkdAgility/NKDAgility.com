@@ -30,6 +30,7 @@ sitemap:
 tags:
 - People and Process
 - Agile Philosophy
+- Pragmatic Thinking
 - Software Developers
 resourceTypes:
 - video

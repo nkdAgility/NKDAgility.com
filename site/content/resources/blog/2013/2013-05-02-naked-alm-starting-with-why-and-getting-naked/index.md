@@ -32,11 +32,11 @@ tags:
 - Agile Philosophy
 - Agile Strategy
 - Agile Transformation
-- Business Agility
 - Customer Feedback Loops
 - Product Delivery
 - Products and Books
 - Deployment Frequency
+- Frequent Releases
 categories:
 - Product Management
 - DevOps

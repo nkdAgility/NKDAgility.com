@@ -33,10 +33,10 @@ sitemap:
 tags:
 - Value Delivery
 - Organisational Agility
+- Market Adaptability
 - Agile Philosophy
 - Business Agility
 - Deployment Frequency
-- Market Adaptability
 - Operational Practices
 - Pragmatic Thinking
 - Product Delivery

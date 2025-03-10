@@ -43,8 +43,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Engineering Excellence
+- Social Technologies
 - Leadership
 
 ---

@@ -28,6 +28,7 @@ aliasesArchive:
 - /resources/blog/does-your-company-culture-resemble-survivor
 tags:
 - Agile Transformation
+- Sociotechnical Systems
 - Agile Leadership
 - Agile Values and Principles
 - People and Process
@@ -36,7 +37,6 @@ tags:
 - Software Development
 - Team Collaboration
 - Agile Philosophy
-- Agile Strategy
 categories:
 - Leadership
 - Social Technologies

@@ -712,12 +712,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T12:26:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:10:33",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses a bug encountered during SQL development, which relates directly to software development practices and database management.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses a specific bug related to SQL views, which is a technical aspect of software development. However, while it mentions a bug and provides SQL code, it lacks a broader discussion on methodologies, best practices, or frameworks that guide software development. The focus is primarily on a specific issue rather than the development lifecycle or practices, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",

@@ -29,8 +29,8 @@ aliasesArchive:
 tags:
 - Windows
 - Install and Configuration
-- Practical Techniques and Tooling
 - Azure DevOps
+- Practical Techniques and Tooling
 - Azure Pipelines
 - System Configuration
 - Continuous Integration

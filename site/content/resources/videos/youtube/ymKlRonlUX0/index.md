@@ -36,8 +36,8 @@ tags:
 - Agile Philosophy
 - Pragmatic Thinking
 - People and Process
-- Software Developers
 - Agile Product Management
+- Software Developers
 - Agile Transformation
 resourceTypes:
 - video

@@ -37,10 +37,10 @@ tags:
 - Scrum Master
 - Scrum Team
 - Team Performance
-- Agile Frameworks
 - Agile Project Management
 - Mentoring
 - Professional Scrum
+- Agile Frameworks
 - Agile Leadership
 resourceTypes:
 - video

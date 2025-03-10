@@ -33,10 +33,10 @@ tags:
 - Scrum Values
 - Agile Frameworks
 - Agile Project Management
-- Agile Transformation
 - Software Developers
 - Software Development
 - Agile Product Management
+- Agile Transformation
 categories:
 - Scrum
 - Social Technologies

@@ -376,12 +376,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T17:51:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:43:01",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical process of moving an Azure storage blob using PowerShell, which aligns with software engineering practices and technical mastery in cloud storage management.",
-    "level": "Secondary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on a specific technical task involving Azure storage and PowerShell scripting. While it does touch on aspects of software craftsmanship, such as the need for authentication and the complexity of the process, it lacks a broader discussion on best practices, principles, or methodologies that define technical mastery. The mention of refactoring is relevant but not explored in depth, and the overall discussion is more about executing a task rather than mastering technical principles.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",

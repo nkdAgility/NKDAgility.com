@@ -27,10 +27,10 @@ isShort: true
 tags:
 - Organisational Change
 - Change Management
-- Organisational Psychology
 - Employee Engagement
 - Team Motivation
 - People and Process
+- Organisational Psychology
 sitemap:
   filename: sitemap.xml
   priority: 0.6

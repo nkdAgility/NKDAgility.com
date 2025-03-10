@@ -289,11 +289,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T18:06:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:48:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses Team Foundation Server (TFS), which is a component of Azure DevOps, focusing on team modelling, project management, and source control within the context of TFS functionalities.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses Team Foundation Server (TFS), which is a predecessor to Azure DevOps, and focuses on its functionalities related to team modelling, project management, and source control. While it does not explicitly mention Azure DevOps, it aligns closely with the core themes of Azure DevOps, such as project management and team collaboration. The depth of discussion is significant, providing detailed insights into TFS features and their application, which are relevant to Azure DevOps users. However, the lack of direct references to Azure DevOps and the focus on TFS slightly reduce the overall confidence score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -1372,12 +1375,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:16:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:48:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses team structures and management within Team Foundation Server, which relates to collaboration and team dynamics, but it primarily focuses on technical implementation rather than the core principles of Scrum, Kanban, Lean, or Agile practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS) and its functionalities, including team structures and project management. While it touches on aspects of team dynamics and project organisation, it lacks a direct focus on the core methodologies of Scrum, Kanban, Lean, or Agile practices. The mention of teams and roles is present, but the discussion does not delve into the principles or practices of these frameworks, resulting in a low confidence score for alignment with the Social Technologies category.",
+    "level": "Quaternary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

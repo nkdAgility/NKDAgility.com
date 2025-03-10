@@ -1105,11 +1105,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T19:47:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:48:22",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content is primarily focused on troubleshooting an installation issue related to InRelease within the context of Team Foundation Server 2013, which is used in a Windows environment. It discusses the need for elevated privileges and how to achieve that in Windows, making Windows a central theme.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses an installation issue related to InRelease 3 within the context of Team Foundation Server 2013, which is a Windows-based application. It explicitly mentions the need for elevated privileges, a concept closely tied to Windows user account control. The discussion aligns well with the Windows category as it addresses installation procedures and troubleshooting specific to the Windows environment. The depth of the discussion is significant, providing detailed steps to resolve the issue, including command-line instructions. Overall, the content is focused on Windows, making it highly relevant to the category.",
     "level": "Secondary"
   },
   "Deployment Strategies": {

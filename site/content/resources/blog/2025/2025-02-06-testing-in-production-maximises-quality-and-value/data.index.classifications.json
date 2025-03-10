@@ -328,11 +328,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-11T14:24:50",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-10T13:50:52",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses modern software engineering practices, particularly audience-based deployment, which aligns with principles of Continuous Integration and Continuous Delivery (CI/CD). It emphasizes the importance of real-time feedback, automation, and progressive delivery, which are central to high-quality software engineering practices.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses modern software engineering practices, particularly focusing on audience-based deployment, which aligns with principles of Continuous Integration and Continuous Delivery (CI/CD). It highlights the importance of real-time feedback, progressive rollouts, and automation, all of which are core to Agile engineering practices. The depth of discussion is significant, providing detailed strategies and examples from Microsoft’s transformation, which enhances its relevance to the category. However, while it touches on key topics like automation and feedback loops, it does not delve deeply into concepts like Test-Driven Development or Clean Code, which slightly lowers the overall alignment score.",
     "level": "Secondary"
   },
   "Portfolio Management": {

@@ -25,6 +25,7 @@ preview: https://i9.ytimg.com/vi/kXhJrisYofU/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 496
 isShort: false
 tags:
+- Value Delivery
 - Organisational Agility
 - Agile Product Operating Model
 - Agile Project Management
@@ -34,7 +35,6 @@ tags:
 - Resilience and Change
 - Agile Frameworks
 - Agile Philosophy
-- Agile Planning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

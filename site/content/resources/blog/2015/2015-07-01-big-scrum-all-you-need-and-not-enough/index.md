@@ -29,7 +29,6 @@ aliasesArchive:
 tags:
 - Events and Presentations
 - Large Scale Agility
-- People and Process
 - Professional Scrum
 - Scaling Agility
 - Scaling Scrum
@@ -37,6 +36,7 @@ tags:
 - Organisational Agility
 - Scaled Agile
 - Scrum Product Development
+- Software Developers
 categories:
 - Scrum
 - Social Technologies

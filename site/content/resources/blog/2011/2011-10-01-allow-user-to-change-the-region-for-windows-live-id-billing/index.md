@@ -25,7 +25,6 @@ aliasesArchive:
 tags:
 - Windows
 - Personal
-- Customer Feedback Loops
 categories: []
 preview: metro-xbox-360-link-2-2.png
 

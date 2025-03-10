@@ -30,13 +30,13 @@ tags:
 - Windows
 - Install and Configuration
 - System Configuration
-- Azure DevOps
 - Azure Pipelines
 - Continuous Integration
 - Pragmatic Thinking
 - Software Development
 - Troubleshooting
 - Practical Techniques and Tooling
+- Azure DevOps
 categories:
 - DevOps
 preview: puzzle-issue-problem-128-link-7-7.png

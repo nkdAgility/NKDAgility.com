@@ -37,10 +37,10 @@ tags:
 - Scrum Product Development
 - Product Delivery
 - Backlog Refinement
-- Product Backlog
 - Agile Planning Tools
 - Scrum Team
 - Team Performance
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

@@ -25,7 +25,6 @@ duration: 85
 isShort: false
 tags:
 - Miscellaneous
-- Coaching
 sitemap:
   filename: sitemap.xml
   priority: 0.6

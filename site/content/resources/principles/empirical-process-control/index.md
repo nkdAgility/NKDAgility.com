@@ -26,9 +26,9 @@ categories:
 - Social Technologies
 tags:
 - Empirical Process Control
+- Agile Project Management
 - Software Development
 - Transparency
-- Agile Project Management
 - Agile Frameworks
 - Professional Scrum
 

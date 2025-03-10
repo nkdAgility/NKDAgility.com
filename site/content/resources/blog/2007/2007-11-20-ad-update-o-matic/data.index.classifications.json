@@ -1084,12 +1084,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:14:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an application related to updating Active Directory, which is primarily used in Windows environments. However, the focus is more on the application development and testing rather than on Windows-specific aspects.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses an application related to Active Directory, which is a component of Windows Server environments. However, it does not explicitly focus on Windows as an operating system, nor does it cover installation, configuration, or troubleshooting of Windows itself. The primary focus is on the application and its interaction with Active Directory rather than the Windows OS, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Lean Principles": {
     "category": "Lean Principles",

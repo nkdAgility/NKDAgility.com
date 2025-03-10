@@ -34,6 +34,7 @@ tags:
 - Scrum Team
 - Agile Project Management
 - Personal
+- Sprint Review
 resourceTypes:
 - video
 categories:

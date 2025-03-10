@@ -30,10 +30,10 @@ tags:
 - Agile Frameworks
 - Agile Philosophy
 - Agile Transformation
-- People and Process
 - Product Delivery
 - Scrum Product Development
 - Software Developers
+- Empirical Process Control
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -29,8 +29,7 @@ aliasesArchive:
 tags:
 - People and Process
 - Personal
-categories:
-- Leadership
+categories: []
 preview: metro-SSWLogo-128-link-3-1.png
 
 ---

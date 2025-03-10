@@ -124,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:48:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses customising work item types and configurations in Team Foundation Server, which relates to DevOps practices, but primarily focuses on project management and Agile methodologies rather than core DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on creating a Portfolio Backlog hierarchy in Team Foundation Server, which is more aligned with project management and Agile practices rather than DevOps principles. While it touches on aspects of configuration and process management, it lacks explicit discussions on DevOps practices such as CI/CD, automation, or cultural shifts. The depth of discussion is limited to technical steps without broader context on how these practices integrate into a DevOps framework.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -214,11 +217,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T18:13:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:48:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical process of creating a Portfolio Backlog hierarchy in Team Foundation Server, detailing engineering practices related to custom work item types, configuration management, and the use of XML for system customisation, which aligns with the principles of technical excellence.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the technical steps required to create a Portfolio Backlog hierarchy in Team Foundation Server 2013. While it does provide detailed instructions and code snippets, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. The mention of customising work item types and categories aligns somewhat with modular architecture and CI/CD practices, but the depth of discussion is limited to procedural steps rather than exploring the principles behind these practices. Overall, the content is more instructional than analytical, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Complexity Thinking": {

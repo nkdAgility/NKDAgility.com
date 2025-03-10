@@ -26,10 +26,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Agile Project Management
 - Agile Strategy
 - Agile Transformation
-- People and Process
 - Miscellaneous
 - Organisational Agility
 - Organisational Change

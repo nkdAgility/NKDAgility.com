@@ -39,8 +39,8 @@ tags:
 - Troubleshooting
 - Practical Techniques and Tooling
 - Technical Excellence
-- Application Lifecycle Management
 - Engineering Practices
+- Operational Practices
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - DevOps

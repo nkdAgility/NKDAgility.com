@@ -154,12 +154,15 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T11:09:04",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T14:45:20",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses an upcoming TFS Upgrade Weekend event hosted by Microsoft, which aligns with the category of events and presentations. However, the primary focus is on the features of TFS Update 2 RC rather than the event itself.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses an upcoming TFS Upgrade Weekend event hosted by Microsoft, which aligns with the category of Events and Presentations. It explicitly mentions the event dates and the opportunity for attendees to receive expert assistance, indicating a direct mention of an event. However, the primary focus of the content is on the features of TFS 2013 Update 2 RC rather than the event itself, which affects the depth of discussion regarding the event. Overall, while the event is a significant aspect, the content leans more towards product features, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",

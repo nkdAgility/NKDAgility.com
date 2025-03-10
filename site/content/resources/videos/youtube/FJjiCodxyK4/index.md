@@ -28,8 +28,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Change Management
 - People and Process
+- Change Management
 - Agile Leadership
 - Business Agility
 - Organisational Agility

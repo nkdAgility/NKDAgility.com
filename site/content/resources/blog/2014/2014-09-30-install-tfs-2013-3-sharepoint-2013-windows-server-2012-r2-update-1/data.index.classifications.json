@@ -289,12 +289,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T09:04:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:43:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 55.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the installation and configuration of TFS (Team Foundation Server), which is a key component of Azure DevOps, detailing specific steps and considerations relevant to Azure DevOps functionalities.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses the installation and configuration of TFS (Team Foundation Server), which is part of the Azure DevOps suite. It provides detailed insights into the installation process, configuration challenges, and best practices related to TFS. However, it lacks broader discussions on Azure DevOps services, CI/CD pipelines, or agile project management practices, which are key topics in the Azure DevOps category. The focus is more on technical installation rather than the overarching methodologies or integrations associated with Azure DevOps.",
+    "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",

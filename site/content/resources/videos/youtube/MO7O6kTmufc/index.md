@@ -30,6 +30,7 @@ tags:
 - Decision Making
 - Evidence Based Leadership
 - Pragmatic Thinking
+- Value Delivery
 - Agile Product Management
 sitemap:
   filename: sitemap.xml

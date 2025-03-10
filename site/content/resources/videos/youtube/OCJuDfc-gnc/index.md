@@ -26,6 +26,7 @@ duration: 592
 isShort: false
 tags:
 - Events and Presentations
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

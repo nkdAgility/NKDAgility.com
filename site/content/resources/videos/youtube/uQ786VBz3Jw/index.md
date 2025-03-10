@@ -28,13 +28,13 @@ tags:
 - Professional Scrum
 - Transparency
 - Agile Frameworks
+- Team Performance
 - Agile Planning
 - Agile Planning Tools
 - Agile Product Management
 - People and Process
 - Product Owner
 - Transparency and Accountability
-- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

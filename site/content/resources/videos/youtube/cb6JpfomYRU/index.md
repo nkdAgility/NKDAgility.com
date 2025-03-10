@@ -32,9 +32,9 @@ tags:
 - Continuous Learning
 - Practical Techniques and Tooling
 - Scrum Team
-- Agile Frameworks
 - Agile Project Management
 - Agile Transformation
+- Mentoring
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -26,7 +26,6 @@ tags:
 - Practical Techniques and Tooling
 - Software Development
 - Troubleshooting
-- Working Software
 categories: []
 preview: metro-sharepoint-128-link-2-2.png
 

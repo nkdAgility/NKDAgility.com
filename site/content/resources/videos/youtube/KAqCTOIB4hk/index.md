@@ -31,9 +31,9 @@ sitemap:
   priority: 0.6
 tags:
 - Discovery and Learning
+- People and Process
 - Metrics and Learning
 - Change Management
-- People and Process
 - Ability to Innovate
 - Continuous Learning
 - Evidence Based Management

@@ -37,10 +37,10 @@ tags:
 - Agile Frameworks
 - Agile Project Management
 - Agile Transformation
-- Products and Books
 - People and Process
 - Software Developers
 - Events and Presentations
+- Products and Books
 categories:
 - Scrum
 preview: PSF_Badges-2-2.png

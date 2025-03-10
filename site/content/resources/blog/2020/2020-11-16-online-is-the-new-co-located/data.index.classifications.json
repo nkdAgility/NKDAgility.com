@@ -1327,12 +1327,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-13T22:30:47",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T14:33:43",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content includes personal anecdotes and reflections on the author's experiences with online participation and co-location, particularly in the context of Agile practices. However, it also contains significant technical discussions about video conferencing and communication, which detracts from its primary focus on personal insights.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content includes personal anecdotes and reflections, particularly the author's experience with their grandfather and family video conferences, which aligns with the Personal category. However, the primary focus is on the technical aspects of co-location and video conferencing rather than personal insights related to Agile methodologies. While there are personal elements, they are not the main focus, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -1375,11 +1378,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:05:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:33:37",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the importance of visual presence in online events, which aligns with Agile practices of collaboration and communication within teams.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of co-location in the context of Agile practices, particularly in virtual environments. It explicitly mentions the need for visual presence during online events, which aligns with the core themes of collaboration and communication in Agile methodologies. The depth of discussion is significant, providing examples and a redefinition of co-location that incorporates modern technology, thus enhancing the relevance to Social Technologies.",
     "level": "Secondary"
   },
   "Internal Developer Platform": {

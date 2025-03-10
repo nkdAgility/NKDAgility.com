@@ -172,11 +172,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-15T18:55:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:50:30",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the interplay between development teams, configuration management, and operations in the context of release management, highlighting the importance of collaboration, automation, and effective processes.",
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of professional development teams in creating quality outputs and highlights the roles of various teams (Engineering, Configuration Management, DevOps, Operations) in the release management process. It addresses the human factors involved in deployment, the need for effective communication and collaboration among teams, and the risks associated with manual tasks. While it does touch on technical aspects of release management tools, the primary focus remains on the interplay between people and processes, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Enterprise Agility": {
@@ -1255,11 +1258,14 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-10T14:50:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "While the content mentions best practices related to deployment and quality assurance, it primarily focuses on technical aspects of release management using Team Foundation Server 2012, which does not align closely with the strategic discussions typical of product management.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on technical aspects of release management using Team Foundation Server 2012, discussing deployment processes, automation, and tools like NuGet and Octopus. While it touches on the importance of quality output and the role of development teams, it lacks a direct focus on strategic product management principles, methodologies, or frameworks. The discussion does not sufficiently align with the core themes of product management, such as customer needs, business objectives, or stakeholder alignment.",
     "level": "Quaternary"
   },
   "Self Organisation": {

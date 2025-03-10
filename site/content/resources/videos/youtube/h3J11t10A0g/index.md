@@ -31,18 +31,18 @@ tags:
 - Engineering Practices
 - Software Developers
 - Software Development
-- Complexity Thinking
 - Pragmatic Thinking
 - People and Process
 - Product Delivery
+- Complexity Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Engineering Excellence
+- Social Technologies
 - Leadership
 
 ---

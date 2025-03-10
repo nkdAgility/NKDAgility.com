@@ -25,12 +25,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T19:03:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:13:49",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the Kanban strategy and its application in optimising workflows, which is relevant to DevOps principles. However, the primary focus is on Kanban and Agile methodologies rather than DevOps itself.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses Kanban and its application in optimising workflows, which is relevant to DevOps principles. It mentions the integration of processes and the flow of value, aligning with DevOps themes. However, the primary focus is on Kanban rather than DevOps itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Product Management": {
     "category": "Product Management",
@@ -112,12 +115,15 @@
   },
   "Scaling Kanban": {
     "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T19:03:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:13:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Kanban principles and their application in various processes, including large organisations, but it also heavily references other methodologies like Scrum and DevOps, making Kanban a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses Kanban principles and their application in various contexts, including team-level improvements and monitoring flow. However, it lacks a focused exploration of scaling Kanban specifically in large organisations, which is the primary focus of the category. While it touches on aspects of flow and value delivery, it does not provide in-depth strategies or case studies related to scaling Kanban across multiple teams or departments.",
+    "level": "Quaternary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",

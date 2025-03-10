@@ -29,9 +29,9 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - News and Reviews
-- Products and Books
 - Software Development
 - System Configuration
+- Products and Books
 - Practical Techniques and Tooling
 - Release Management
 - Technical Mastery

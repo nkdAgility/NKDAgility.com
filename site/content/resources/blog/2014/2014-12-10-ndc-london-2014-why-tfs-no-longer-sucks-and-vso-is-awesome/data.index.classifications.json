@@ -154,12 +154,15 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-14T23:34:46",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-10T14:42:04",
+    "ai_confidence": 85.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 82.0,
-    "reasoning": "The content primarily discusses a talk given at NDC London 2014, detailing the presentation's focus on TFS and VSO, along with insights from the speaker's experience during the event.",
-    "level": "Primary"
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses a talk given at NDC London 2014, detailing the preparation, execution, and challenges faced during the presentation. It aligns well with the category as it focuses on a specific event, includes insights into the presentation's content, and references the speaker's experiences and demonstrations related to TFS and VSO. The depth of discussion is significant, providing detailed notes and reflections on the demo, which enhances its relevance to the category.",
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -739,11 +742,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:42:01",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of software development practices, including release management and deployment processes, but primarily focuses on a specific event and personal experiences rather than a comprehensive discussion on engineering excellence.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the use of TFS and VSO in a demo context, touching on aspects of software development practices such as bug workflows and automated deployments. However, it primarily focuses on the demonstration of tools rather than a deep exploration of engineering excellence principles, best practices, or continuous improvement in engineering processes. While there are mentions of release management and deployment strategies, the overall discussion lacks the depth and focus on engineering excellence required for a higher confidence score.",
     "level": "Tertiary"
   },
   "Revenue per Employee": {

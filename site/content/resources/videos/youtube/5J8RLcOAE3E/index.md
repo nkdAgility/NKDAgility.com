@@ -26,6 +26,7 @@ preview: https://i.ytimg.com/vi/5J8RLcOAE3E/maxresdefault.jpg
 duration: 891
 isShort: false
 tags:
+- Complexity Thinking
 - Pragmatic Thinking
 - Code and Complexity
 - People and Process
@@ -35,7 +36,6 @@ tags:
 - Software Developers
 - Technical Excellence
 - Working Software
-- Complexity Thinking
 resourceTypes:
 - video
 sitemap:

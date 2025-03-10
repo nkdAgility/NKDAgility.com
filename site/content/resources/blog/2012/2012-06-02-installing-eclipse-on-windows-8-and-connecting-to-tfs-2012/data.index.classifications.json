@@ -1105,12 +1105,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T21:31:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:56:03",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily focuses on installing and configuring Eclipse on the Windows 8 operating system, discussing steps that are specifically related to the Windows environment, such as installing the Java Developer Kit and managing application shortcuts.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Eclipse on Windows 8, which directly aligns with the Windows category. It discusses specific steps for installing the Java Developer Kit and Eclipse, as well as integrating with TFS, all within the context of the Windows operating system. The depth of discussion is substantial, providing detailed instructions and insights into the process, which enhances its relevance to the Windows category. While it briefly touches on Java and TFS, these are presented as part of the Windows environment, maintaining a strong focus on Windows-related tasks.",
+    "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",

@@ -43,12 +43,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-18T08:20:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:24:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a Scrum Master and Agile processes, which are relevant to product management, but the primary focus is on personal opinions and experiences rather than strategic product management practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the role of a Scrum Master and the dynamics within a Scrum team, which are more focused on Agile practices rather than the strategic aspects of product management. While it touches on the importance of team dynamics and decision-making, it lacks a direct focus on product management methodologies, frameworks, or metrics that drive product success. The discussion is more about coaching and facilitation within Agile rather than aligning customer needs with business objectives.",
+    "level": "Quaternary"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
@@ -514,11 +517,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:24:17",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the challenges faced by Scrum Masters and their role in facilitating team dynamics and decision-making in an Agile context.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the challenges faced by Scrum Masters and their role in facilitating team dynamics. It explicitly mentions the Scrum Master multiple times, focusing on their responsibilities and the importance of their relationship with the team. The discussion aligns well with key topics such as coaching, conflict resolution, and the importance of a democratic process in Scrum. However, while it provides a good level of detail, it does not delve deeply into specific Scrum ceremonies or metrics, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {

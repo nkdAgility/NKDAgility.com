@@ -29,8 +29,8 @@ aliasesArchive:
 tags:
 - Events and Presentations
 - Software Development
-- Agile Project Management
 - Agile Frameworks
+- Agile Project Management
 categories:
 - Social Technologies
 preview: metro-event-128-link-1-1.png
