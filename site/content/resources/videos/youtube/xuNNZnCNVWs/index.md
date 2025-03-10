@@ -9,17 +9,21 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: xuNNZnCNVWs
 url: /resources/videos/:slug
-slug: 1-critical-skill-for-a-scrum-master-and-why-xuNNZnCNVWs
+slug: empowering-agile-teams-the-transformative-power-of-teaching-the-why-xuNNZnCNVWs
 layout: video
 aliases:
 - /resources/xuNNZnCNVWs
-- /resources/videos/1-critical-skill-for-a-scrum-master-and-why-xuNNZnCNVWs
+- /resources/videos/empowering-agile-teams-the-transformative-power-of-teaching-the-why-xuNNZnCNVWs
+- /resources/videos/empowering-agile-teams-the-transformative-power-of-teaching-the-why
+- /resources/videos/1-critical-skill-for-a-scrum-master-and-why
 aliasesArchive:
 - /resources/videos/-critical-skill-for-a-scrum-master-and-why
 - /resources/videos/1-critical-skill-for-a-scrum-master-and-why
 - /resources/videos/1-critical-skill-for-a-scrum-master-and-why-
 - /resources/1-critical-skill-for-a-scrum-master-and-why-
 - 1-critical-skill-for-a-scrum-master-and-why-xuNNZnCNVWs
+- /resources/videos/empowering-agile-teams-the-transformative-power-of-teaching-the-why
+- empowering-agile-teams-the-transformative-power-of-teaching-the-why-xuNNZnCNVWs
 preview: https://i.ytimg.com/vi/xuNNZnCNVWs/maxresdefault.jpg
 duration: 45
 isShort: true

@@ -10,10 +10,11 @@ ResourceImportSource: Youtube
 videoId: gImXmxjn_1g
 source: youtube
 url: /resources/videos/:slug
-slug: what-are-3-top-tips-for-a-new-agile-consultant
+slug: essential-skills-every-agile-consultant-needs-mastering-domain-knowledge-active-listening-and-honest-communication
 layout: video
 aliases:
 - /resources/gImXmxjn_1g
+- /resources/videos/essential-skills-every-agile-consultant-needs-mastering-domain-knowledge-active-listening-and-honest-communication
 - /resources/videos/what-are-3-top-tips-for-a-new-agile-consultant
 aliasesArchive:
 - /resources/videos/what-are-top-tips-for-a-new-agile-consultant
@@ -21,6 +22,8 @@ aliasesArchive:
 - /resources/videos/what-are-3-top-tips-for-a-new-agile-consultant-
 - /resources/what-are-3-top-tips-for-a-new-agile-consultant-
 - what-are-3-top-tips-for-a-new-agile-consultant
+- /resources/videos/essential-skills-every-agile-consultant-needs-mastering-domain-knowledge-active-listening-and-honest-communication
+- essential-skills-every-agile-consultant-needs-mastering-domain-knowledge-active-listening-and-honest-communication
 preview: https://i.ytimg.com/vi/gImXmxjn_1g/maxresdefault.jpg
 duration: 376
 isShort: false

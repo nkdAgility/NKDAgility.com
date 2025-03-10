@@ -9,16 +9,19 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: QGXlCm_B5zA
 url: /resources/videos/:slug
-slug: what-will-you-learn-on-the-psm-ii-course
+slug: transform-your-scrum-master-journey-key-insights-from-the-advanced-psm-course
 layout: video
 aliases:
 - /resources/QGXlCm_B5zA
+- /resources/videos/transform-your-scrum-master-journey-key-insights-from-the-advanced-psm-course
 - /resources/videos/what-will-you-learn-on-the-psm-ii-course
 aliasesArchive:
 - /resources/videos/what-will-you-learn-on-the-psm-ii-course
 - /resources/videos/what-will-you-learn-on-the-psm-ii-course-
 - /resources/what-will-you-learn-on-the-psm-ii-course-
 - what-will-you-learn-on-the-psm-ii-course
+- /resources/videos/transform-your-scrum-master-journey-key-insights-from-the-advanced-psm-course
+- transform-your-scrum-master-journey-key-insights-from-the-advanced-psm-course
 preview: https://i.ytimg.com/vi/QGXlCm_B5zA/maxresdefault.jpg
 duration: 280
 isShort: false

@@ -9,16 +9,19 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: LI6G1awAUyU
 url: /resources/videos/:slug
-slug: what-are-the-most-common-challenges-you-are-contracted-to-solve-in-a-devops-consulting-gig
+slug: unlocking-rapid-delivery-overcoming-common-devops-challenges-for-agile-success
 layout: video
 aliases:
 - /resources/LI6G1awAUyU
+- /resources/videos/unlocking-rapid-delivery-overcoming-common-devops-challenges-for-agile-success
 - /resources/videos/what-are-the-most-common-challenges-you-are-contracted-to-solve-in-a-devops-consulting-gig
 aliasesArchive:
 - /resources/videos/what-are-the-most-common-challenges-you-are-contracted-to-solve-in-a-devops-consulting-gig
 - /resources/videos/what-are-the-most-common-challenges-you-are-contracted-to-solve-in-a-devops-consulting-gig-
 - /resources/what-are-the-most-common-challenges-you-are-contracted-to-solve-in-a-devops-consulting-gig-
 - what-are-the-most-common-challenges-you-are-contracted-to-solve-in-a-devops-consulting-gig
+- /resources/videos/unlocking-rapid-delivery-overcoming-common-devops-challenges-for-agile-success
+- unlocking-rapid-delivery-overcoming-common-devops-challenges-for-agile-success
 preview: https://i.ytimg.com/vi/LI6G1awAUyU/maxresdefault.jpg
 duration: 370
 isShort: false

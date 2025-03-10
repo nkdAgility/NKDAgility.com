@@ -9,16 +9,19 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: wNgfCTE7C6M
 url: /resources/videos/:slug
-slug: how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions
+slug: unlocking-effective-product-development-how-a-hypothesis-driven-approach-transforms-user-experience
 layout: video
 aliases:
 - /resources/wNgfCTE7C6M
+- /resources/videos/unlocking-effective-product-development-how-a-hypothesis-driven-approach-transforms-user-experience
 - /resources/videos/how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions
 aliasesArchive:
 - /resources/videos/how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions
 - /resources/videos/how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions-
 - /resources/how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions-
 - how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions
+- /resources/videos/unlocking-effective-product-development-how-a-hypothesis-driven-approach-transforms-user-experience
+- unlocking-effective-product-development-how-a-hypothesis-driven-approach-transforms-user-experience
 preview: https://i.ytimg.com/vi/wNgfCTE7C6M/maxresdefault.jpg
 duration: 371
 isShort: false

@@ -20,6 +20,7 @@ Turn this YouTube srt transcript into readable Markdown using only the original 
 - Ensure correct capitalisation and punctuation.
 - Ensure the text is readable with paragraphs and line breaks.
 - Output only the cleaned transcript content. 
+- correct only what are obvious mistakes in the original transcript.
 
 ~~~
 $captionsText
