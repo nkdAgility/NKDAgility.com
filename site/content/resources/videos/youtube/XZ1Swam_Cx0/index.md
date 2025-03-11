@@ -27,9 +27,9 @@ duration: 59
 isShort: true
 tags:
 - People and Process
+- Software Development
 - Agile Frameworks
 - Agile Philosophy
-- Software Development
 - Software Developers
 sitemap:
   filename: sitemap.xml

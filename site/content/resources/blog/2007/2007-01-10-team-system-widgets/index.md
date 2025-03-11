@@ -23,10 +23,7 @@ aliasesArchive:
 - /team-system-widgets
 - /resources/blog/team-system-widgets
 tags:
-- Practical Techniques and Tooling
 - Products and Books
-- Miscellaneous
-- Software Development
 categories: []
 
 ---

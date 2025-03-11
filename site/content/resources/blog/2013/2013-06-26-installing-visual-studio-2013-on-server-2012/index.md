@@ -24,8 +24,8 @@ aliasesArchive:
 - /resources/blog/installing-visual-studio-2013-on-server-2012
 tags:
 - Install and Configuration
-- System Configuration
 - Windows
+- System Configuration
 - Software Development
 categories: []
 

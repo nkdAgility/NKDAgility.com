@@ -30,6 +30,7 @@ sitemap:
   priority: 0.6
 tags:
 - Product Delivery
+- Working Software
 - Agile Project Management
 - Agile Frameworks
 - Agile Philosophy
@@ -37,7 +38,6 @@ tags:
 - Agile Strategy
 - Agile Transformation
 - Scrum Product Development
-- Working Software
 - Agile Product Management
 resourceTypes:
 - video

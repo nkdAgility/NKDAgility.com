@@ -30,7 +30,6 @@ preview: nakedalm-logo-128-link-1-1.png
 categories: []
 tags:
 - News and Reviews
-- Release Management
 - Software Development
 
 ---

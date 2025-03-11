@@ -220,11 +220,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-14T23:39:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:32:10",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the setup and configuration of a release management environment in Azure, which involves technical practices such as automated deployment, use of Visual Studio Online, and Application Insights for analytics. These topics align closely with the principles of Continuous Integration and Continuous Delivery (CI/CD) and modular architecture, making it a significant discussion on technical excellence.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the creation of a standard environment for release management in Azure, touching on aspects of Continuous Integration and Continuous Delivery (CI/CD) through automated deployments and the use of Visual Studio Online. However, while it mentions relevant tools and practices, the focus is more on the setup process rather than a deep exploration of engineering methodologies or principles that enhance agility. The discussion lacks a thorough examination of how these practices contribute to technical excellence, which diminishes the overall depth of the content in relation to the category.",
     "level": "Secondary"
   },
   "Complexity Thinking": {

@@ -34,6 +34,7 @@ tags:
 - Software Development
 - Agile Project Management
 - Pragmatic Thinking
+- Software Developers
 resourceTypes:
 - video
 categories:

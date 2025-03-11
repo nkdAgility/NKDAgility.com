@@ -29,12 +29,13 @@ tags:
 - Agile Project Management
 - Application Lifecycle Management
 - Products and Books
+- Organisational Agility
 - Product Delivery
 - Working Software
 - Agile Frameworks
-- Agile Strategy
 categories:
 - Engineering Excellence
+- Social Technologies
 
 ---
 Did you know that Team Foundation Server 2013 is production ready?

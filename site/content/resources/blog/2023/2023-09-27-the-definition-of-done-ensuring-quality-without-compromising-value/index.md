@@ -31,8 +31,8 @@ tags:
 - Transparency
 - Professional Scrum
 - Definition of Done
-- Scrum Product Development
 - Working Software
+- Scrum Product Development
 - Agile Project Management
 - Product Delivery
 - Software Development

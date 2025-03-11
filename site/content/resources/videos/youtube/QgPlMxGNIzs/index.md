@@ -33,11 +33,11 @@ tags:
 - Agile Frameworks
 - Agile Leadership
 - Agile Project Management
+- Organisational Agility
 - People and Process
 - Agile Philosophy
 - Agile Strategy
 - Agile Transformation
-- Organisational Agility
 - Software Development
 resourceTypes:
 - video

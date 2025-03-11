@@ -295,12 +295,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-16T18:50:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:59:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 55.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of event handlers related to Team Foundation Server (TFS), which is a component of Azure DevOps, and provides specific instructions on how to configure them.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses event handlers related to Team Foundation Server (TFS), which is part of the Azure DevOps suite. It provides specific details on how to implement these handlers, aligning with Azure DevOps functionalities. However, it lacks broader discussions on Azure DevOps services and methodologies, which limits its conceptual alignment. The depth of technical detail is moderate, focusing on implementation rather than strategic practices or integrations.",
+    "level": "Tertiary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",

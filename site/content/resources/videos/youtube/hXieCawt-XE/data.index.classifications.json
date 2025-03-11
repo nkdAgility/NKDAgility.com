@@ -364,11 +364,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T06:35:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T17:57:49",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of a Kanban system, focusing on defining workflows, managing work in progress (WIP), and optimising the flow of work, which are all central to understanding and improving throughput in Agile environments.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the concept of a pull-based system in Kanban, which directly relates to throughput by emphasising the importance of limiting work in progress (WIP) and optimising workflows. It provides examples of how work can get stuck in wait states and the implications of these bottlenecks on overall throughput. However, while it touches on these themes, the primary focus is on Kanban practices rather than a comprehensive exploration of throughput as a standalone metric. The depth of discussion on throughput-related strategies is present but not exhaustive, leading to a high confidence score but not a perfect one.",
     "level": "Secondary"
   },
   "Azure Pipelines": {

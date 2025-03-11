@@ -27,9 +27,9 @@ tags:
 - Internal Developer Platform
 - Software Development
 - Practical Techniques and Tooling
-- Technical Excellence
 - Technical Mastery
 - Install and Configuration
+- Technical Excellence
 - Pragmatic Thinking
 - Software Developers
 - System Configuration

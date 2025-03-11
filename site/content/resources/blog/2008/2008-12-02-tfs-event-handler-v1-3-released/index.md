@@ -24,6 +24,7 @@ aliasesArchive:
 - /resources/blog/tfs-event-handler-v1-3-released
 tags:
 - Practical Techniques and Tooling
+- Products and Books
 - Software Development
 preview: nakedalm-logo-128-link-1-1.png
 categories: []

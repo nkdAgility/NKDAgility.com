@@ -30,9 +30,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Values and Principles
 - People and Process
 - Transparency and Accountability
-- Agile Values and Principles
 - Customer Satisfaction
 - Agile Philosophy
 - Miscellaneous

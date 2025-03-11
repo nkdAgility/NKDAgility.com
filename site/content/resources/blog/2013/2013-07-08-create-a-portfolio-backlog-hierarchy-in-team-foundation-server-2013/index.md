@@ -26,7 +26,9 @@ tags:
 - Install and Configuration
 - Software Development
 categories:
+- Product Management
 - Social Technologies
+- Scrum
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

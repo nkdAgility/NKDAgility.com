@@ -32,12 +32,12 @@ tags:
 - Increment
 - Transparency
 - Agile Project Management
-- Metrics and Learning
 - Agile Planning
 - Cycle Time
 - Scrum Product Development
 - Scrum Team
 - Agile Frameworks
+- Agile Product Management
 categories:
 - Scrum
 preview: image-9-14-14.png

@@ -33,6 +33,7 @@ tags:
 - Product Owner
 - Scrum Product Development
 - Agile Project Management
+- Product Delivery
 resourceTypes:
 - video
 categories:

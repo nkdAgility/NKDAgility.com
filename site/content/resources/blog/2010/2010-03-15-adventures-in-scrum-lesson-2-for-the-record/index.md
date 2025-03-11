@@ -31,12 +31,12 @@ tags:
 - Scrum Product Development
 - Scrum Team
 - Agile Planning
-- Product Delivery
 - Professional Scrum
 - Scrum Master
 - Software Developers
 - Software Development
 - Team Collaboration
+- Agile Frameworks
 categories:
 - Scrum
 preview: metro-SSWLogo-128-link-1-1.png

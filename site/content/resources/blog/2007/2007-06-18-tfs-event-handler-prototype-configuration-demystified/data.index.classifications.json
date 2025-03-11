@@ -295,11 +295,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-16T21:52:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T19:04:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration of a TFS Event Handler, which is directly related to Azure DevOps services, specifically Team Foundation Server (TFS). It provides detailed technical information about setting up event handlers and server configurations within the context of Azure DevOps, aligning well with the category's focus.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the configuration of a TFS Event Handler, which is directly related to Azure DevOps (formerly known as Team Foundation Server). It provides detailed technical information about setting up event handlers, configuring service options, and managing team server settings, all of which are relevant to Azure DevOps functionalities. However, while it is focused on TFS, it lacks broader discussions on Azure DevOps services or methodologies, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Value Stream Management": {

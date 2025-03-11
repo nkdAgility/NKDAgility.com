@@ -29,6 +29,7 @@ tags:
 - People and Process
 - Products and Books
 - Agile Project Management
+- Professional Scrum
 - Agile Frameworks
 sitemap:
   filename: sitemap.xml

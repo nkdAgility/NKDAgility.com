@@ -31,6 +31,7 @@ tags:
 - Agile Frameworks
 - Agile Project Management
 - Software Development
+- Team Collaboration
 - Coaching
 sitemap:
   filename: sitemap.xml

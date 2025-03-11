@@ -38,8 +38,8 @@ tags:
 - Market Adaptability
 - Value Delivery
 - Product Delivery
-- Engineering Practices
 - Technical Excellence
+- Engineering Practices
 - Operational Practices
 resourceTypes:
 - video

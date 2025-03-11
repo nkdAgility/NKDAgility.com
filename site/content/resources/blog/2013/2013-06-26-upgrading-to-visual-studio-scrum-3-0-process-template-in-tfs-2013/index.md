@@ -28,11 +28,11 @@ tags:
 - Agile Project Management
 - Agile Frameworks
 - System Configuration
-- Azure DevOps
 - Operational Practices
 - Pragmatic Thinking
 - Software Developers
 - Software Development
+- Products and Books
 categories:
 - Scrum
 - Social Technologies

@@ -25,6 +25,7 @@ preview: https://i.ytimg.com/vi/vI2LBfMkPuk/maxresdefault.jpg
 duration: 200
 isShort: false
 tags:
+- Pragmatic Thinking
 - Software Developers
 - Scrum Master
 - Software Development

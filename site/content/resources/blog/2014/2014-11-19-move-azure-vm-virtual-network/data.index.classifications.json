@@ -1165,11 +1165,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-14T23:54:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:32:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the process of resolving an issue related to moving an Azure VM to a virtual network, detailing the steps required to delete and recreate the VM correctly.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the troubleshooting process of moving an Azure VM to a virtual network, detailing the steps required to resolve the issue of a VM not being in a virtual network. It explicitly discusses the problem encountered and provides a systematic approach to resolving it, which aligns well with the core themes of troubleshooting. The depth of discussion includes specific actions to take, such as deleting the VM and creating a new one, which adds to the overall confidence in the classification.",
     "level": "Secondary"
   },
   "Experimentation": {

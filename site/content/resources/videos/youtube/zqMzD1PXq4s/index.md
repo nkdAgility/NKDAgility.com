@@ -25,6 +25,7 @@ preview: https://i9.ytimg.com/vi/zqMzD1PXq4s/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 413
 isShort: false
 tags:
+- Pragmatic Thinking
 - Technical Excellence
 - Technical Leadership
 - Engineering Practices
@@ -33,7 +34,6 @@ tags:
 - Technical Mastery
 - Operational Practices
 - People and Process
-- Pragmatic Thinking
 - Code and Complexity
 sitemap:
   filename: sitemap.xml

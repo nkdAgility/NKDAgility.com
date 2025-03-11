@@ -30,11 +30,11 @@ tags:
 - Practical Techniques and Tooling
 - Application Lifecycle Management
 - Azure DevOps
-- Business Agility
 - Products and Books
 - Release Management
 - Software Development
 - Organisational Agility
+- Business Agility
 - Digital Transformation
 - Enterprise Agility
 categories:

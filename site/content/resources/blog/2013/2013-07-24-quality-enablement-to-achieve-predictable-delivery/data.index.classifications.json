@@ -109,11 +109,14 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-15T18:00:31",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T18:37:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the interplay between organisational practices and software delivery quality, highlighting the impact of team dynamics and organisational structures on predictability in delivery. However, it primarily focuses on technical practices and quality measures, making the sociotechnical aspect a secondary theme.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the interplay between quality enablement and predictable delivery, highlighting how organisational structures and practices impact software delivery outcomes. It addresses the importance of defining quality metrics, such as the Definition of Done and Acceptance Criteria, which are crucial for aligning technical practices with business goals. The discussion on team pressures and the need for clear communication reflects the social aspects of sociotechnical systems. However, while the content touches on these themes, it primarily focuses on technical practices without a deeper exploration of the broader sociotechnical interactions, which slightly limits its alignment with the category.",
     "level": "Secondary"
   },
   "Resilience and Change": {
@@ -1378,12 +1381,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:15:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:37:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses quality enablement and its impact on predictable delivery, touching on Agile concepts like Definition of Done and Acceptance Criteria, which are relevant to Scrum and Agile practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses quality enablement in software delivery, touching on concepts like Definition of Done and Acceptance Criteria, which are relevant to Agile practices. However, it lacks a direct focus on the broader frameworks of Scrum, Kanban, or Lean, and does not delve deeply into collaborative team dynamics or continuous improvement principles. The primary emphasis is on quality and predictability rather than the social technologies themselves.",
+    "level": "Secondary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

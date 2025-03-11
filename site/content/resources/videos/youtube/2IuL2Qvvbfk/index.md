@@ -29,7 +29,6 @@ sitemap:
 tags:
 - Agile Leadership
 - Agile Project Management
-- Azure DevOps
 - People and Process
 - Product Owner
 - Agile Product Management
@@ -37,13 +36,14 @@ tags:
 - Pragmatic Thinking
 - Technical Leadership
 - Value Delivery
+- Azure DevOps
 resourceTypes:
 - video
 layout: video
 categories:
 - Leadership
 - Product Management
-- Social Technologies
+- DevOps
 
 ---
 When discussing the impactful role of Product Owners in Agile development, we often cite examples of those who've significantly turned the tide in their organisations. I'm talking about not just fulfilling roles but altering the very fabric of product management - these are the MVPs who redefine the game. 🌟 

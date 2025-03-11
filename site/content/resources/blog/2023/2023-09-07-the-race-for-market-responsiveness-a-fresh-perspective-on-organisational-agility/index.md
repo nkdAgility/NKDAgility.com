@@ -28,8 +28,8 @@ aliasesArchive:
 - /blog/the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
 - /resources/blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
 tags:
-- Business Agility
 - Organisational Agility
+- Business Agility
 - Enterprise Agility
 - Market Adaptability
 - Resilience and Change

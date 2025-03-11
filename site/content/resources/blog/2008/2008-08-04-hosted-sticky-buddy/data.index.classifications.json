@@ -1321,12 +1321,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:57:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions the requirement to have .NET 3.5 and Team Explorer 2008 installed, which relates to system configuration, but the focus is more on the hosted version and deployment logistics rather than in-depth system configuration practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions the need for specific software installations (.NET 3.5 and Team Explorer 2008) which relates to system configuration. However, it lacks a detailed discussion on configuration practices, optimisation strategies, or troubleshooting, making it a secondary focus rather than a primary one.",
+    "level": "Quaternary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",

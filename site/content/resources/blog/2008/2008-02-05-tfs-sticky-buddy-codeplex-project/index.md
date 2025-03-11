@@ -25,10 +25,10 @@ aliasesArchive:
 tags:
 - Software Development
 - Team Collaboration
-- Collaboration Tools
 - Operational Practices
 - Transparency
 - Practical Techniques and Tooling
+- Collaboration Tools
 - Application Lifecycle Management
 categories:
 - Social Technologies

@@ -31,16 +31,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Organisational Agility
-- Organisational Change
-- Scrum Team
-- Agile Frameworks
-- Agile Project Management
-- Agile Transformation
-- Change Management
 - People and Process
-- Scrum Product Development
-- Team Collaboration
 resourceTypes:
 - video
 categories:

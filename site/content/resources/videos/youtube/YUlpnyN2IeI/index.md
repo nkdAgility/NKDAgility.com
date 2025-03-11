@@ -32,6 +32,7 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Software Development
 - Agile Frameworks
 - Agile Values and Principles
 - Empirical Process Control
@@ -40,7 +41,6 @@ tags:
 - Agile Project Management
 - Agile Transformation
 - Pragmatic Thinking
-- Software Developers
 resourceTypes:
 - video
 categories:

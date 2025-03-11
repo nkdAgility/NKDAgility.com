@@ -35,8 +35,8 @@ tags:
 - Software Development
 - Professional Scrum
 - Scrum Master
-- Agile Project Management
 - Practical Techniques and Tooling
+- Agile Project Management
 - Software Developers
 categories:
 - Social Technologies

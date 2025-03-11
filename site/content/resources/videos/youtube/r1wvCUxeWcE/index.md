@@ -28,12 +28,12 @@ tags:
 - Operational Practices
 - Practical Techniques and Tooling
 - Software Development
-- Lean Principles
 - Pragmatic Thinking
 - Agile Frameworks
 - Agile Project Management
 - Lean Thinking
 - Flow Efficiency
+- Lean Principles
 sitemap:
   filename: sitemap.xml
   priority: 0.6

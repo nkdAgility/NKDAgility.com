@@ -36,11 +36,11 @@ tags:
 - Change Management
 - Decision Making
 - Beta Codex
-- Organisational Agility
 - Organisational Change
 - Organisational Culture
 - Organisational Physics
 - Pragmatic Thinking
+- Sociotechnical Systems
 resourceTypes:
 - video
 categories:

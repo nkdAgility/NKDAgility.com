@@ -27,12 +27,12 @@ tags:
 - Modern Source Control
 - System Configuration
 - Working Software
-- Application Lifecycle Management
 - Azure Boards
 - Pragmatic Thinking
 - Release Management
 - Software Development
 - Practical Techniques and Tooling
+- Azure DevOps
 categories:
 - DevOps
 preview: metro-binary-vb-128-link-4-4.png

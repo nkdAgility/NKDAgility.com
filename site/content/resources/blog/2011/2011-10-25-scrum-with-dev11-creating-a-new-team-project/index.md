@@ -29,7 +29,6 @@ aliasesArchive:
 tags:
 - Software Development
 - Practical Techniques and Tooling
-- Agile Frameworks
 categories:
 - Scrum
 - Social Technologies

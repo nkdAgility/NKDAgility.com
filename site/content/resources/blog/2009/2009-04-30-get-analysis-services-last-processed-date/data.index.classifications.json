@@ -1105,12 +1105,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:54:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content primarily discusses a code snippet related to accessing a cube in SQL Server Analysis Services, which interacts with Windows Identity. However, the main focus is on analysis services rather than Windows OS itself, making Windows a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content includes a code snippet that references 'WindowsIdentity', which is a class in the .NET framework that interacts with Windows security. This indicates a direct mention of Windows-related functionality. However, the primary focus of the content is on retrieving data from an Analysis Services cube, which is more about .NET programming than Windows OS management. While there is some alignment with Windows concepts, the depth of discussion primarily revolves around coding practices rather than Windows-specific topics like installation, configuration, or troubleshooting. Therefore, the confidence score reflects a moderate relevance to the Windows category.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",

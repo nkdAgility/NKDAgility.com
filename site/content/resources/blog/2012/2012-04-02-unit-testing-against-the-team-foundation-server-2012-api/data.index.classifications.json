@@ -382,11 +382,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T20:41:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:44:51",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses unit testing, test-driven development (TDD), and the challenges of authentication in automated testing scenarios, which are central to software craftsmanship and engineering practices.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on unit testing and the challenges associated with authentication in the context of using the Team Foundation Server (TFS) API. It discusses best practices in Test Driven Development (TDD) and provides detailed examples of code implementations that enhance software quality and maintainability. The author addresses the importance of creating abstractions for testing purposes, which aligns well with the principles of clean code and software craftsmanship. The depth of discussion is significant, as it includes specific code snippets and solutions to common problems, demonstrating a strong understanding of technical practices. Overall, the content is well-aligned with the category of Technical Mastery.",
     "level": "Secondary"
   },
   "Product Discovery": {

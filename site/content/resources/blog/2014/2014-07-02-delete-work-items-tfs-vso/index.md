@@ -32,7 +32,6 @@ tags:
 - Software Development
 - Troubleshooting
 - Install and Configuration
-- Technical Mastery
 - Azure DevOps
 categories: []
 preview: nakedalm-experts-visual-studio-alm-1-1.png

@@ -32,9 +32,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Software Development
 - People and Process
 - Agile Project Management
-- Software Development
 - Professional Scrum
 - Agile Frameworks
 - Empirical Process Control

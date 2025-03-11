@@ -55,12 +55,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:13:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:05:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions setting up the TFS Event Handler and discusses issues related to connecting to the Team Foundation Server, indicating a focus on installation and configuration, but it is not the primary topic.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions the intention to set up the TFS Event Handler and discusses challenges faced in connecting to the Team Foundation Server. However, it lacks detailed installation procedures, configuration best practices, or troubleshooting steps, which are essential for a higher confidence score in the 'Install and Configuration' category.",
+    "level": "Quaternary"
   },
   "Decision Theory": {
     "category": "Decision Theory",

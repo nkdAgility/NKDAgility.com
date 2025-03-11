@@ -379,11 +379,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-13T18:02:13",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T17:57:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the concept of Lead Time in the context of Azure DevOps, including how it is measured and its significance in managing work items. It explains the relationship between Lead Time and work item states, making it a central theme.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses Lead Time in the context of Azure DevOps, specifically how it is measured from the initiation of a work item to its completion. It provides a clear definition of Lead Time and distinguishes it from Cycle Time, which aligns with the core themes of the category. However, the discussion is primarily focused on the implementation of a Caman strategy and the use of Azure DevOps tools, with Lead Time being a secondary topic rather than the primary focus. The depth of discussion on Lead Time is limited, as it does not explore techniques for measurement, strategies for reduction, or case studies, which affects the overall confidence score.",
     "level": "Secondary"
   },
   "Customer Feedback Loops": {

@@ -41,7 +41,6 @@ tags:
 - Agile Leadership
 - Scrum Product Development
 - Technical Leadership
-- Sociotechnical Systems
 categories:
 - Leadership
 - Social Technologies

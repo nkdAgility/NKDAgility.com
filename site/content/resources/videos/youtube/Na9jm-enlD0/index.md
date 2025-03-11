@@ -30,12 +30,12 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Entrepreneurship
 - Decision Theory
 - Decision Making
 - Product Owner
 - Agile Project Management
 - Team Collaboration
-- Entrepreneurship
 - Pragmatic Thinking
 - Products and Books
 - Sensemaking

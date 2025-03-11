@@ -25,7 +25,6 @@ tags:
 - Miscellaneous
 - Discovery and Learning
 - People and Process
-- Pragmatic Thinking
 
 ---
 Processes, practices and tools necessary will emerge as we do the work and help others do it

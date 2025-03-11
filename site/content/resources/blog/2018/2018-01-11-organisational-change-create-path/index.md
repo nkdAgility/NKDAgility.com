@@ -29,8 +29,8 @@ aliasesArchive:
 tags:
 - Organisational Change
 categories:
-- Scrum
 - Leadership
+- Scrum
 - Social Technologies
 preview: nkdagility-create-your-own-path-to-agility-3-3.jpg
 

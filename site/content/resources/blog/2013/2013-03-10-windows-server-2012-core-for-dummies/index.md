@@ -23,6 +23,7 @@ aliasesArchive:
 - /windows-server-2012-core-for-dummies
 - /resources/blog/windows-server-2012-core-for-dummies
 tags:
+- Windows
 - Install and Configuration
 categories: []
 preview: metro-server-instances-7-7.png

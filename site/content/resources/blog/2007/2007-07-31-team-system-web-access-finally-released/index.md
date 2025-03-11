@@ -23,8 +23,8 @@ aliasesArchive:
 - /team-system-web-access-finally-released
 - /resources/blog/team-system-web-access-finally-released
 tags:
-- Products and Books
 - News and Reviews
+- Products and Books
 preview: metro-visual-studio-2005-128-link-3-3.png
 categories: []
 

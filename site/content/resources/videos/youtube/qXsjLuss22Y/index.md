@@ -36,6 +36,7 @@ tags:
 - Agile Product Management
 - Agile Project Management
 - Strategy
+- Product Delivery
 resourceTypes:
 - video
 categories:

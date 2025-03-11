@@ -28,8 +28,8 @@ aliasesArchive:
 - /resources/blog/use-corporate-identities-existing-vso-accounts
 tags:
 - Install and Configuration
-- Windows
 - System Configuration
+- Windows
 - Azure DevOps
 - Practical Techniques and Tooling
 - Troubleshooting

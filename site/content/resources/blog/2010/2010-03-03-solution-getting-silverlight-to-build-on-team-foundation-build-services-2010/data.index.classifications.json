@@ -292,12 +292,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-16T01:34:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:52:25",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues and solutions related to Team Foundation Build Services 2010, which is a component of Azure DevOps, focusing on build processes and configurations.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content primarily discusses issues related to Team Foundation Build Services (TFS), which is part of the Azure DevOps suite. It provides specific problems encountered while building a Silverlight application using TFS, including installation issues and configuration settings. While it does not explicitly mention Azure DevOps, it aligns closely with the functionalities of TFS, which is a core component of Azure DevOps. The depth of discussion is moderate, detailing specific problems and solutions, but it lacks broader context on Azure DevOps practices or methodologies.",
+    "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",

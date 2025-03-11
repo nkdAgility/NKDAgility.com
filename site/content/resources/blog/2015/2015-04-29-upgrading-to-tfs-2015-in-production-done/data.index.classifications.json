@@ -355,12 +355,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-14T22:13:51",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T18:31:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content primarily discusses the upgrade process of TFS 2015, which is a tool used in application lifecycle management. While it touches on aspects of deployment and maintenance, it does not comprehensively cover the broader methodologies or practices of ALM.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading TFS 2015, which is a specific tool within the application lifecycle. While it touches on aspects of application management, such as backups and configuration, it lacks a comprehensive discussion on the broader methodologies, practices, and governance associated with Application Lifecycle Management. The mention of upgrade processes and configurations is relevant but does not delve into the lifecycle stages or best practices in a detailed manner.",
+    "level": "Tertiary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",

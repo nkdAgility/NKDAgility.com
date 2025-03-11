@@ -25,8 +25,8 @@ preview: https://i.ytimg.com/vi/gWTCvlUzSZo/maxresdefault.jpg
 duration: 45
 isShort: true
 tags:
-- Scrum Master
 - People and Process
+- Scrum Master
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -292,11 +292,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T18:58:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:39:47",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses an error related to Team Foundation Server (TFS), which is part of the Azure DevOps suite, and provides a solution that involves configuring build controllers and custom assemblies, aligning with Azure DevOps functionalities.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses a specific error related to Team Foundation Server (TFS), which is part of the Azure DevOps suite. It provides a detailed analysis of the error message, its causes, and a solution involving the configuration of build controllers in TFS. The mention of TFS and its integration with custom assemblies aligns well with Azure DevOps functionalities. However, while it is focused on a specific issue within TFS, it does not cover broader Azure DevOps practices or methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Personal": {

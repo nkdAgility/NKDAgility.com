@@ -649,12 +649,15 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-15T19:20:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:38:48",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the creation of work items in Team Foundation Server (TFS), which is relevant to Azure Boards as TFS is part of the Azure DevOps suite. It specifically addresses customization of work items and templates, which aligns with Azure Boards functionalities.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses creating a work item in Team Foundation Server (TFS), which is related to Azure Boards, but it primarily focuses on the technical implementation of a specific feature rather than exploring the broader functionalities and best practices of Azure Boards in Agile project management. While it mentions work items and customisation, it lacks depth in discussing Agile methodologies or the integration of Azure Boards with other services.",
+    "level": "Tertiary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",

@@ -31,7 +31,6 @@ tags:
 - News and Reviews
 - Practical Techniques and Tooling
 - Agile Frameworks
-- Agile Project Management
 - Agile Transformation
 - Software Development
 categories:

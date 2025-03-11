@@ -32,13 +32,13 @@ tags:
 - People and Process
 - Agile Project Management
 - Scrum Team
-- Agile Frameworks
 - Agile Philosophy
 - Agile Transformation
 - Pragmatic Thinking
 - Scrum Master
 - Scrum Product Development
 - Team Collaboration
+- Team Performance
 resourceTypes:
 - video
 categories:

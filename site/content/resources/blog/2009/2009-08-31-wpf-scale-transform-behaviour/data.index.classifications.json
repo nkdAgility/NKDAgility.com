@@ -1108,11 +1108,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T02:46:52",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T18:53:11",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 30,
-    "final_score": 66.0,
-    "reasoning": "The content primarily discusses WPF and a specific behavior related to scaling UI elements in a WPF application. While WPF is tied to the Windows environment, the main focus here is on WPF programming techniques rather than Windows OS management or features.",
+    "final_score": 77.0,
+    "reasoning": "The content primarily discusses WPF (Windows Presentation Foundation) and its implementation within the Windows operating system environment. It includes detailed code examples and explanations of how to manipulate UI elements in a Windows application, which aligns well with the key topics of installation, configuration, and customisation of Windows applications. The focus on Windows-specific technologies and controls, such as Infragistics and XAML, further supports its relevance to the Windows category. However, while the content is rich in technical detail, it does not explicitly address broader Windows OS topics like installation or troubleshooting, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Deployment Strategies": {

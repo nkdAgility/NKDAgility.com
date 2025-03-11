@@ -36,11 +36,11 @@ tags:
 - People and Process
 - Agile Philosophy
 - Agile Project Management
-- Market Adaptability
 - Value Delivery
 - Agile Product Management
 - Business Agility
 - Organisational Agility
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

@@ -26,9 +26,9 @@ categories: []
 preview: nakedalm-logo-128-link-1-1.png
 tags:
 - Team Collaboration
+- Team Performance
 - Personal
 - People and Process
-- Team Performance
 - Miscellaneous
 - Team Motivation
 

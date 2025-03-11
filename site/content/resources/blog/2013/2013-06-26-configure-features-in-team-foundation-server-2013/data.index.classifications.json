@@ -1054,11 +1054,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T19:12:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:38:31",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses configuring features in Team Foundation Server 2013, outlining steps and processes related to system setup, which aligns closely with key topics under system configuration.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on configuring features in Team Foundation Server 2013, which directly relates to system configuration. It discusses the process of using a wizard to enable features, the importance of configuration for functionality, and the need for specific settings based on the version of TFS being upgraded from. The depth of discussion includes practical steps and considerations for configuration, aligning well with the key topics of system optimisation and configuration management. However, while it is detailed, it does not cover broader aspects of system configuration such as security considerations or automation, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {

@@ -31,11 +31,11 @@ tags:
 - Practical Techniques and Tooling
 - Technical Mastery
 - Operational Practices
-- Pragmatic Thinking
 - Software Development
 - System Configuration
 - Troubleshooting
 - Azure DevOps
+- Pragmatic Thinking
 categories: []
 preview: puzzle-issue-problem-128-link-5-5.png
 

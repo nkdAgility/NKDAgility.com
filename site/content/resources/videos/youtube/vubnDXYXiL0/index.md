@@ -29,6 +29,7 @@ sitemap:
   priority: 0.6
 tags:
 - Scaling Scrum
+- Software Development
 - Large Scale Agility
 - Scaled Agile
 - Agile Project Management
@@ -36,7 +37,6 @@ tags:
 - Practical Techniques and Tooling
 - Pragmatic Thinking
 - Professional Scrum
-- Software Development
 - Agile Frameworks
 resourceTypes:
 - video

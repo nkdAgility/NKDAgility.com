@@ -37,7 +37,7 @@ tags:
 - Agile Transformation
 - Beta Codex
 - Sociotechnical Systems
-- Business Agility
+- Change Management
 resourceTypes:
 - video
 categories:

@@ -27,12 +27,12 @@ tags:
 - Practical Techniques and Tooling
 - Operational Practices
 - System Configuration
-- Application Lifecycle Management
 - Release Management
 - Software Development
 - Technical Mastery
 - Troubleshooting
 - Windows
+- Application Lifecycle Management
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories:
 - Scrum

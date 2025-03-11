@@ -35,10 +35,10 @@ tags:
 - Agile Leadership
 - Agile Project Management
 - Metrics and Learning
-- People and Process
 - Agile Frameworks
 - Agile Strategy
 - News and Reviews
+- Strategic Goals
 categories:
 - Leadership
 - Social Technologies

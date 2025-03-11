@@ -23,8 +23,8 @@ aliasesArchive:
 - /kalabule-or-a-professional-at-agile-in-africa
 - /resources/blog/kalabule-or-a-professional-at-agile-in-africa
 tags:
-- Agile Values and Principles
 - Scrum Values
+- Agile Values and Principles
 - Events and Presentations
 - People and Process
 - Software Developers

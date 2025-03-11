@@ -33,12 +33,12 @@ tags:
 - Discovery and Learning
 - Agile Leadership
 - Organisational Culture
+- Coaching
 - Organisational Agility
 - Personal
 - Sociotechnical Systems
 - Continuous Learning
 - Organisational Change
-- Coaching
 resourceTypes:
 - video
 layout: video

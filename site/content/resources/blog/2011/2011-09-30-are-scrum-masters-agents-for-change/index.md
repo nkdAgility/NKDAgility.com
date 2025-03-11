@@ -32,11 +32,11 @@ tags:
 - Scrum Master
 - Organisational Change
 - Agile Frameworks
-- Agile Transformation
 - People and Process
 - Pragmatic Thinking
 - Software Development
 - Events and Presentations
+- Agile Transformation
 categories:
 - Scrum
 - Social Technologies

@@ -31,6 +31,7 @@ sitemap:
 tags:
 - Metrics and Learning
 - People and Process
+- Evidence Based Leadership
 - Agile Product Management
 - Product Delivery
 - Scrum Master
@@ -38,7 +39,6 @@ tags:
 - Scrum Team
 - Value Delivery
 - Ability to Innovate
-- Decision Making
 resourceTypes:
 - video
 categories:

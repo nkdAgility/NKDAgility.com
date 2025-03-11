@@ -1060,11 +1060,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T20:30:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:36:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses using PowerShell to configure and interact with the TFS 2013 API, which involves setting up connections, managing services, and accessing configuration options. While it does touch on programming aspects, the core focus is on the practicalities of system configuration related to TFS.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on using PowerShell to configure and interact with the TFS 2013 API, which aligns well with system configuration practices. It discusses importing assemblies, connecting to TFS collections, and accessing various services, all of which are essential for configuring a system to work with TFS. The depth of discussion is significant, providing detailed code examples and explanations of how to set up and manage TFS configurations. However, while it is focused on configuration, it does not delve into broader system optimisation or security considerations, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {

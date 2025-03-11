@@ -30,7 +30,6 @@ tags:
 - Miscellaneous
 - Discovery and Learning
 - Continuous Learning
-- Customer Retention
 - Employee Engagement
 - Software Development
 - Team Collaboration

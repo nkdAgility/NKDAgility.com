@@ -29,6 +29,7 @@ tags:
 - Install and Configuration
 - Practical Techniques and Tooling
 - System Configuration
+- Windows
 sitemap:
   filename: sitemap.xml
   priority: 0.6

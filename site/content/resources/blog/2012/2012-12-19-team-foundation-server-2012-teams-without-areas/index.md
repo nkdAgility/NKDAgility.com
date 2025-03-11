@@ -32,9 +32,9 @@ tags:
 - Install and Configuration
 - Azure Boards
 - Azure DevOps
-- Operational Practices
 - Application Lifecycle Management
 - System Configuration
+- Operational Practices
 - Pragmatic Thinking
 - Technical Excellence
 categories:

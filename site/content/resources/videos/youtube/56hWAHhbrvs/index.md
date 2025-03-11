@@ -39,7 +39,7 @@ tags:
 - Beta Codex
 - Organisational Change
 - Organisational Culture
-- Organisational Physics
+- Scaling Agility
 resourceTypes:
 - video
 layout: video

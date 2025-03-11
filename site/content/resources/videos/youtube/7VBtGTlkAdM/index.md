@@ -31,6 +31,7 @@ tags:
 - Agile Values and Principles
 - Agile Philosophy
 - Pragmatic Thinking
+- People and Process
 resourceTypes:
 - video
 layout: video

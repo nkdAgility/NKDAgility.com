@@ -32,6 +32,7 @@ tags:
 - Scrum Master
 - Scrum Team
 - Agile Project Management
+- Pragmatic Thinking
 resourceTypes:
 - video
 layout: video

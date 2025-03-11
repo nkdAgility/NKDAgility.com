@@ -30,11 +30,11 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Agile Values and Principles
 - Software Development
 - Agile Philosophy
 - Agile Strategy
 - Agile Transformation
+- Agile Values and Principles
 - Software Developers
 - Pragmatic Thinking
 - Complexity Thinking

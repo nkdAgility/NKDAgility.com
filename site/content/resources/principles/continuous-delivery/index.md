@@ -26,13 +26,13 @@ categories:
 - Engineering Excellence
 tags:
 - Value Delivery
-- Customer Feedback Loops
 - Product Validation
 - Frequent Releases
 - Product Delivery
 - Working Software
 - Software Development
 - Agile Product Management
+- Customer Feedback Loops
 - Discovery and Learning
 - Continuous Delivery
 

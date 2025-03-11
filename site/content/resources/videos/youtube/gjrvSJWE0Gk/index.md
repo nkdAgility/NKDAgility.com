@@ -29,8 +29,8 @@ sitemap:
   priority: 0.6
 tags:
 - Metrics and Learning
-- Forecasting
 - Operational Practices
+- Forecasting
 - Practical Techniques and Tooling
 - Value Delivery
 - Pragmatic Thinking

@@ -33,6 +33,7 @@ sitemap:
 tags:
 - People and Process
 - Organisational Change
+- Agile Strategy
 - Pragmatic Thinking
 resourceTypes:
 - video

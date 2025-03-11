@@ -35,8 +35,8 @@ tags:
 - Agile Transformation
 - Software Development
 - Scrum Team
-- Transparency
 - Agile Product Management
+- Transparency
 categories:
 - Scrum
 - Social Technologies

@@ -34,17 +34,17 @@ tags:
 - Coaching
 - Application Lifecycle Management
 - Practical Techniques and Tooling
-- People and Process
 - Software Development
 - Operational Practices
 - Pragmatic Thinking
 - Product Delivery
 - Agile Project Management
+- People and Process
 - Deployment Strategies
 categories:
-- Social Technologies
 - Engineering Excellence
 - DevOps
+- Social Technologies
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

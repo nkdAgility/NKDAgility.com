@@ -35,10 +35,10 @@ sitemap:
 tags:
 - Value Delivery
 - Practical Techniques and Tooling
-- Metrics and Learning
 - Team Performance
 - Agile Frameworks
 - Agile Project Management
+- Metrics and Learning
 - Operational Practices
 - Pragmatic Thinking
 - Product Delivery

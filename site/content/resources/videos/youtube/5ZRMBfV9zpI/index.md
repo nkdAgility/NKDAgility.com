@@ -25,10 +25,10 @@ duration: 74
 isShort: false
 tags:
 - Scrum Master
+- Events and Presentations
 - Professional Scrum
 - Agile Frameworks
 - Agile Project Management
-- Events and Presentations
 - Software Development
 - People and Process
 sitemap:

@@ -32,10 +32,10 @@ tags:
 - Install and Configuration
 - Software Development
 - System Configuration
-- Technical Mastery
 - Troubleshooting
 - Practical Techniques and Tooling
 - Pragmatic Thinking
+- Technical Mastery
 categories: []
 preview: metro-sharepoint-128-link-2-2.png
 

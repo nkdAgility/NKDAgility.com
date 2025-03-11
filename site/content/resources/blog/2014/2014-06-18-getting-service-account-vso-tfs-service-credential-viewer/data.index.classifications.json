@@ -1114,11 +1114,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T10:22:28",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T18:34:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 50,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the TFS Service Credential Viewer and its use within the context of Visual Studio Online (VSO) and Team Foundation Server (TFS), which are related to development on the Windows platform. It includes troubleshooting steps specific to Windows 8, indicating that Windows is a significant but secondary theme present in the overall focus on VSO and TFS.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses the TFS Service Credential Viewer and its use with Visual Studio Online (VSO), which is relevant to Windows users, particularly in the context of Windows 8 troubleshooting. However, while it mentions Windows and provides some troubleshooting steps specific to Windows 8, the focus is more on the TFS tool and its integration rather than a comprehensive discussion of Windows itself. The content does not delve deeply into broader Windows topics such as installation, configuration, or security features, which limits its alignment with the category.",
     "level": "Secondary"
   },
   "Deployment Strategies": {

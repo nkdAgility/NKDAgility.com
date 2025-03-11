@@ -25,7 +25,6 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 - Automated Testing
-- Azure DevOps
 - Azure Pipelines
 - Continuous Integration
 - Engineering Practices
@@ -33,6 +32,7 @@ tags:
 - Software Development
 - Technical Mastery
 - Troubleshooting
+- Technical Excellence
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Engineering Excellence

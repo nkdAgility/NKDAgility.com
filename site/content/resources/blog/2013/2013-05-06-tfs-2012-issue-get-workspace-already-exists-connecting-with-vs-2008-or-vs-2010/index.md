@@ -28,7 +28,6 @@ aliasesArchive:
 - /resources/blog/tfs-2012-issue-get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010
 tags:
 - Install and Configuration
-- Modern Source Control
 - Software Development
 - Troubleshooting
 - Practical Techniques and Tooling

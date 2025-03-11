@@ -35,10 +35,10 @@ tags:
 - Operational Practices
 - Release Management
 - Software Development
-- Technical Mastery
 - Troubleshooting
 - Practical Techniques and Tooling
 - Pragmatic Thinking
+- Azure DevOps
 categories: []
 preview: metro-problem-icon-2-2.png
 

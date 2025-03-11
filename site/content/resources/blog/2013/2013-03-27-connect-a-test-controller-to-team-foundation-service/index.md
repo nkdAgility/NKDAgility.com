@@ -26,9 +26,9 @@ tags:
 - Install and Configuration
 - System Configuration
 - Technical Mastery
-- Software Development
 - Troubleshooting
 - Practical Techniques and Tooling
+- Software Development
 - Azure DevOps
 categories:
 - DevOps

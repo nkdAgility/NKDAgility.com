@@ -442,12 +442,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T11:10:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:55:04",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on solving a technical problem related to CSS handling in .NET, showcasing software engineering practices and the implementation of a specific HttpHandler, aligning with the principles of software craftsmanship.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses a specific technical solution for handling CSS in a .NET environment, which aligns with best practices in software design and architecture. It provides a detailed explanation of implementing an HttpHandler to manage CSS requests, demonstrating a focus on improving code quality and maintainability. However, while it touches on technical aspects, it lacks broader discussions on principles of clean code or software craftsmanship, which limits its overall alignment with the category.",
+    "level": "Tertiary"
   },
   "Accountability": {
     "category": "Accountability",

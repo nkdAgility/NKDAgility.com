@@ -30,6 +30,10 @@ aliasesArchive:
 - /resources/blog/project-server-2013-issue-tf294012-cannot-access-the-following-enterprise-project
 tags:
 - Troubleshooting
+- Install and Configuration
+- Practical Techniques and Tooling
+- Pragmatic Thinking
+- System Configuration
 categories: []
 preview: metro-problem-icon-8-8.png
 

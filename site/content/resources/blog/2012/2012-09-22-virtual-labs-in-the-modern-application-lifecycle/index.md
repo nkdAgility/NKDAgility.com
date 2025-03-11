@@ -27,12 +27,12 @@ tags:
 - Application Lifecycle Management
 - Automated Testing
 - Internal Developer Platform
-- Product Delivery
 - Software Development
 - Operational Practices
 - Software Developers
 - Technical Mastery
 - Azure DevOps
+- Digital Transformation
 categories:
 - DevOps
 - Engineering Excellence

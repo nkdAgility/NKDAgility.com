@@ -33,12 +33,13 @@ sitemap:
 tags:
 - People and Process
 - Coaching
+- Pragmatic Thinking
 - Personal
 - Continuous Learning
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
+- Leadership
 - DevOps
 
 ---

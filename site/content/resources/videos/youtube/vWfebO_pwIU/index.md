@@ -26,7 +26,6 @@ preview: https://i.ytimg.com/vi/vWfebO_pwIU/maxresdefault.jpg
 duration: 291
 isShort: false
 tags:
-- Professional Scrum
 - People and Process
 - Scrum Master
 - Agile Project Management

@@ -31,10 +31,10 @@ sitemap:
 tags:
 - People and Process
 - Agile Philosophy
+- Agile Values and Principles
 - Agile Leadership
 - Organisational Culture
 - Team Collaboration
-- Agile Values and Principles
 - Personal
 - Team Motivation
 - Team Performance

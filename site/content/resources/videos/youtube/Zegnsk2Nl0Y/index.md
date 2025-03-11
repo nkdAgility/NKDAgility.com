@@ -25,6 +25,7 @@ preview: https://i.ytimg.com/vi/Zegnsk2Nl0Y/maxresdefault.jpg
 duration: 44
 isShort: true
 tags:
+- Azure DevOps
 - Practical Techniques and Tooling
 - Team Collaboration
 sitemap:

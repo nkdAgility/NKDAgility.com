@@ -31,9 +31,9 @@ slug: unlocking-the-power-of-double-loop-learning-transform-your-scrum-master-jo
 layout: video
 tags:
 - Discovery and Learning
+- People and Process
 - Agile Project Management
 - Continuous Learning
-- People and Process
 - Professional Scrum
 - Scrum Master
 - Pragmatic Thinking

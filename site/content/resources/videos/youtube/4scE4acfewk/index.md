@@ -33,8 +33,8 @@ tags:
 - Agile Philosophy
 - Team Collaboration
 - Team Motivation
-- Organisational Culture
 - Agile Leadership
+- Organisational Culture
 - Decision Making
 - Agile Project Management
 - Team Performance

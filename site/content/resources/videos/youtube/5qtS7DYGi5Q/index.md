@@ -35,6 +35,7 @@ tags:
 - Value Delivery
 - Decision Making
 - Pragmatic Thinking
+- People and Process
 resourceTypes:
 - video
 layout: video

@@ -28,6 +28,7 @@ aliasesArchive:
 - /resources/blog/professional-organisational-change-ghana-police-service
 tags:
 - Organisational Change
+- People and Process
 categories:
 - Leadership
 - Scrum

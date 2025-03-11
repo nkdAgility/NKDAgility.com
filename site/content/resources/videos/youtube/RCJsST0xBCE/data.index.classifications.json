@@ -106,12 +106,15 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T11:35:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:27:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions upcoming professional Scrum classes, which indicates a connection to events, but the primary focus is on a tutorial for Azure DevOps migration tools.",
-    "level": "Tertiary"
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the technical aspects of Azure DevOps migration tools and does not discuss any events, presentations, or related topics. There are no mentions of talks, conferences, or workshops, and the discussion is entirely centred on the functionality and usage of the migration tools, lacking any connection to the category of Events and Presentations.",
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",

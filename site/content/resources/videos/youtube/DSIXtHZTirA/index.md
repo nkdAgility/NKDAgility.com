@@ -26,10 +26,10 @@ duration: 704
 isShort: false
 tags:
 - Product Delivery
+- Working Software
 - Pragmatic Thinking
 - Technical Excellence
 - Continuous Delivery
-- Working Software
 - Deployment Frequency
 - Deployment Strategies
 - Engineering Practices

@@ -20,10 +20,8 @@ card:
     content: More info
   title: Scrum Framework
   content: Scrum Framework
-categories:
-- Social Technologies
+categories: []
 tags:
-- Professional Scrum
 - Agile Planning
 - Agile Project Management
 - Agile Transformation

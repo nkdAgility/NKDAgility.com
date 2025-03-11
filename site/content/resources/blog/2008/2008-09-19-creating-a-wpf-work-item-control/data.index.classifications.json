@@ -289,11 +289,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-16T11:45:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:56:55",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the creation of a custom work item control for Azure DevOps (formerly known as TFS), detailing the implementation and integration of WPF controls within the Azure DevOps environment.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on creating a custom work item control for Azure DevOps (formerly known as TFS), which directly relates to Azure DevOps functionalities. It discusses specific implementations and code examples that are relevant to Azure DevOps services, particularly in the context of work item tracking. The depth of technical detail provided, including code snippets and explanations of the control's functionality, indicates a strong alignment with the category. However, while it is highly relevant, it does not cover broader Azure DevOps topics such as CI/CD pipelines or project management practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {

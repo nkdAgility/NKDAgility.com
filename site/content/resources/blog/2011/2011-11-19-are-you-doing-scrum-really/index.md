@@ -36,9 +36,10 @@ tags:
 - Agile Planning
 - News and Reviews
 - People and Process
-- Product Delivery
+- Professional Scrum
 categories:
 - Scrum
+- Social Technologies
 preview: nakedalm-experts-professional-scrum-3-3.png
 
 ---

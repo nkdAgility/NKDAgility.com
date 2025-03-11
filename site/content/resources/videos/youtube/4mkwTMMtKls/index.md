@@ -32,6 +32,7 @@ sitemap:
 tags:
 - People and Process
 - Personal
+- Pragmatic Thinking
 - Agile Philosophy
 resourceTypes:
 - video

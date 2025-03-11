@@ -23,6 +23,8 @@ aliasesArchive:
 - /visual-studio-2010-supports-uml
 - /resources/blog/visual-studio-2010-supports-uml
 tags:
+- News and Reviews
+- Products and Books
 - Software Development
 categories: []
 preview: metro-visual-studio-2010-128-link-1-1.png

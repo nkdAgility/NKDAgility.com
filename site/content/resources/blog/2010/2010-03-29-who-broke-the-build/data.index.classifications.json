@@ -220,11 +220,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T01:20:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:51:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of maintaining a passing build, the implications of broken builds, and the practices surrounding build management, which align closely with technical excellence in software development.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of maintaining a passing build, which aligns with principles of Continuous Integration and quality assurance in software development. It mentions the need for developers to write tests and highlights the consequences of broken builds, which touches on technical excellence. However, the discussion lacks depth in exploring methodologies like TDD or CI/CD practices in detail, and it primarily focuses on the operational aspects of build management rather than broader engineering practices.",
     "level": "Secondary"
   },
   "Complexity Thinking": {

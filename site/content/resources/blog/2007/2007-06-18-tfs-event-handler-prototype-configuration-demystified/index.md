@@ -26,10 +26,10 @@ tags:
 - Install and Configuration
 - Windows
 - System Configuration
-- Azure DevOps
 - Software Development
 - Technical Mastery
 - Practical Techniques and Tooling
+- Azure DevOps
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

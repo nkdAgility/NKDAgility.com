@@ -37,8 +37,8 @@ tags:
 - Agile Frameworks
 - Agile Planning
 - Agile Planning Tools
-- Professional Scrum
 - Software Development
+- Products and Books
 resourceTypes:
 - video
 categories:

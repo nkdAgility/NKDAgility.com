@@ -28,13 +28,13 @@ tags:
 - Transparency
 - Agile Planning
 - Agile Product Management
-- People and Process
 - Scrum Product Development
 - Agile Frameworks
 - Agile Project Management
 - Agile Transformation
 - Complexity Thinking
 - Professional Scrum
+- Transparency and Accountability
 sitemap:
   filename: sitemap.xml
   priority: 0.6

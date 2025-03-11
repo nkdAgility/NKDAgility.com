@@ -23,9 +23,9 @@ aliasesArchive:
 - /upgrading-from-tfs-2008-to-tfs-2010-overview
 - /resources/blog/upgrading-from-tfs-2008-to-tfs-2010-overview
 tags:
+- Software Development
 - System Configuration
 - Install and Configuration
-- Software Development
 - Practical Techniques and Tooling
 - Troubleshooting
 categories: []

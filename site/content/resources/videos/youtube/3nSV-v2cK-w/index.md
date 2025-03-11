@@ -27,11 +27,11 @@ isShort: false
 tags:
 - Team Collaboration
 - Agile Values and Principles
-- People and Process
 - Team Motivation
 - Agile Philosophy
 - Organisational Agility
 - Software Development
+- People and Process
 - Team Performance
 - Business Agility
 - Product Delivery

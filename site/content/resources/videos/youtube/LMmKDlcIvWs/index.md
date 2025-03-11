@@ -29,7 +29,6 @@ sitemap:
   priority: 0.6
 tags:
 - Strategy
-- Lean Thinking
 - Metrics and Learning
 - Operational Practices
 - Pragmatic Thinking
@@ -38,6 +37,7 @@ tags:
 - Agile Frameworks
 - Lean Principles
 - Lean
+- Lean Thinking
 resourceTypes:
 - video
 categories:

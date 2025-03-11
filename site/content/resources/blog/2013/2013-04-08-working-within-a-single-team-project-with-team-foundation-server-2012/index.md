@@ -23,7 +23,6 @@ aliasesArchive:
 - /working-within-a-single-team-project-with-team-foundation-server-2012
 - /resources/blog/working-within-a-single-team-project-with-team-foundation-server-2012
 tags:
-- Application Lifecycle Management
 - Software Developers
 - Software Development
 - Team Collaboration
@@ -33,6 +32,7 @@ tags:
 - Agile Planning
 - Working Software
 - People and Process
+- Application Lifecycle Management
 categories:
 - Social Technologies
 preview: nakedalm-experts-visual-studio-alm-5-5.png

@@ -30,7 +30,6 @@ tags:
 - News and Reviews
 - Modern Source Control
 - Software Development
-- Application Lifecycle Management
 - Collaboration Tools
 - Agile Planning Tools
 - Practical Techniques and Tooling

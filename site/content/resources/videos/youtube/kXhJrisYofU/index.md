@@ -32,9 +32,9 @@ tags:
 - Market Adaptability
 - Agile Values and Principles
 - Change Management
-- Resilience and Change
 - Agile Frameworks
 - Agile Philosophy
+- Agile Planning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

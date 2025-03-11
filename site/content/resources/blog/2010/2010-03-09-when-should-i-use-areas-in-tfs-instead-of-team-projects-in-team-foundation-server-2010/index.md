@@ -25,9 +25,9 @@ aliasesArchive:
 tags:
 - Application Lifecycle Management
 - Practical Techniques and Tooling
+- Software Development
 - Modern Source Control
 - System Configuration
-- Software Development
 - Operational Practices
 - Pragmatic Thinking
 - Azure DevOps

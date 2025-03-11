@@ -24,8 +24,8 @@ aliasesArchive:
 - /resources/blog/installing-visual-studio-2008-team-foundation-server-sp1
 tags:
 - Install and Configuration
-- Software Development
 - System Configuration
+- Software Development
 - Troubleshooting
 - Windows
 - Practical Techniques and Tooling

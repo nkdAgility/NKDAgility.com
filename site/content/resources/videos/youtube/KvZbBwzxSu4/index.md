@@ -36,9 +36,9 @@ tags:
 - Evidence Based Management
 - Agile Product Operating Model
 - Decision Making
+- Organisational Agility
 - Agile Leadership
 - Change Management
-- Product Owner
 resourceTypes:
 - video
 categories:

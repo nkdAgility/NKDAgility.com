@@ -26,6 +26,7 @@ duration: 1162
 isShort: false
 tags:
 - Events and Presentations
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

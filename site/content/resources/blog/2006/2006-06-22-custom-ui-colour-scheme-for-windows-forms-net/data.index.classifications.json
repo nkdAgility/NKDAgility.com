@@ -538,11 +538,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T16:38:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T19:08:03",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses customizing UI elements within Windows Forms, which is directly related to the Windows operating system and .NET framework for Windows applications.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on customising the UI of Windows Forms in a .NET environment, which directly relates to the Windows operating system. It discusses specific implementation details, such as inheriting from ProfessionalColorTable and overriding properties, which aligns well with the configuration and customisation aspects of Windows. The depth of the discussion is significant, providing code examples and practical guidance, which enhances its relevance to the Windows category. However, while it is focused on Windows Forms, it does not cover broader topics like installation or troubleshooting, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {

@@ -29,10 +29,10 @@ tags:
 - Software Development
 - Application Lifecycle Management
 - Working Software
-- Azure DevOps
 - Pragmatic Thinking
 - Product Backlog
 - Technical Mastery
+- Practical Techniques and Tooling
 preview: metro-visual-studio-2010-128-link-8-8.png
 categories:
 - Scrum

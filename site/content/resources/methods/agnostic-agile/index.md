@@ -24,8 +24,7 @@ card:
   title: Agnostic Agile
   content: Agnostic Agile
 categories: []
-tags:
-- Software Development
+tags: []
 
 ---
 Description of Agnostic Agile.

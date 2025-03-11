@@ -247,11 +247,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-15T20:27:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:44:33",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the deployment and upgrade of TFS (Team Foundation Server) and its capabilities, which are directly related to product delivery methodologies, including Agile practices and continuous value delivery.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the deployment of TFS 2010 to TFS 2012, which is directly related to product delivery. It covers aspects such as Agile methodologies, process improvement, and continuous value delivery, aligning well with the core themes of the category. The depth of discussion is substantial, providing insights into the planning and execution of the upgrade process, as well as the importance of Agile practices in enhancing product delivery. However, while it touches on key topics, it does not delve deeply into metrics or CI/CD practices, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -1369,12 +1372,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:52:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:44:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile methodologies and their benefits in the context of using Visual Studio Team Foundation Server, making Agile a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses Agile methodologies and their advantages, particularly in the context of using TFS (Team Foundation Server) for software development. It mentions Agile as a better approach to building software and touches on process improvement and continuous value delivery, which align with the core themes of Social Technologies. However, the focus is more on the technical aspects of TFS and Visual Studio rather than a deep exploration of the frameworks themselves, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",

@@ -33,9 +33,9 @@ categories:
 - Social Technologies
 - Engineering Excellence
 tags:
+- Software Developers
 - Practical Techniques and Tooling
 - Scrum Product Development
-- Software Developers
 - Software Development
 - Modern Source Control
 - Operational Practices

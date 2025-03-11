@@ -32,9 +32,9 @@ tags:
 - Organisational Physics
 - Sociotechnical Systems
 - Systems Thinking
-- Change Management
 - Organisational Change
 - Pragmatic Thinking
+- Change Management
 resourceTypes:
 - video
 categories:

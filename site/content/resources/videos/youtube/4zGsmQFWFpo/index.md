@@ -33,11 +33,11 @@ tags:
 - Continuous Learning
 - Organisational Change
 - Organisational Culture
+- Sociotechnical Systems
 - Technical Leadership
 - Pragmatic Thinking
 - Team Performance
 - Discovery and Learning
-- Sociotechnical Systems
 resourceTypes:
 - video
 layout: video

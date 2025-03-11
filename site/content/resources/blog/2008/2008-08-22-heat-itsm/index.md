@@ -25,7 +25,6 @@ aliasesArchive:
 tags:
 - Software Development
 - Practical Techniques and Tooling
-- Technical Mastery
 - Products and Books
 categories:
 - Engineering Excellence

@@ -23,7 +23,6 @@ aliasesArchive:
 - /scott-guthrie-in-glasgow
 - /resources/blog/scott-guthrie-in-glasgow
 tags:
-- Software Development
 - Events and Presentations
 - News and Reviews
 categories: []

@@ -34,11 +34,11 @@ tags:
 - Agile Leadership
 - Agile Product Operating Model
 - Agile Values and Principles
-- Value Delivery
 - Agile Frameworks
 - Agile Philosophy
 - Agile Project Management
 - Agile Strategy
+- Agile Transformation
 resourceTypes:
 - video
 layout: video

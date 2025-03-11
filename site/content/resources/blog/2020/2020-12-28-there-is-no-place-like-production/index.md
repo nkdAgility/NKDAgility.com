@@ -27,13 +27,13 @@ tags:
 - Increment
 - Agile Product Management
 - Product Delivery
-- Business Agility
 - Product Validation
 - Release Management
 - Ability to Innovate
 - Agile Product Operating Model
 - Lean Product Development
 - Metrics and Learning
+- Product Discovery
 categories:
 - Product Management
 - Social Technologies

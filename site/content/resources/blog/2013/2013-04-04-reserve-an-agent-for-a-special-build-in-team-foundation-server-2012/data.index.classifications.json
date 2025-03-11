@@ -220,11 +220,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T19:06:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:39:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical practices related to reserving build agents in Team Foundation Server, including custom activities and workflows that enhance the build process, which aligns with the principles of technical excellence.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on a specific technical implementation related to reserving agents in Team Foundation Server (TFS) builds. While it discusses a technical solution and provides code examples, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. The mention of custom activities and build processes aligns somewhat with technical excellence, but the depth of discussion is limited to a specific case without exploring wider principles like TDD, CI/CD, or modular architecture.",
     "level": "Secondary"
   },
   "Complexity Thinking": {

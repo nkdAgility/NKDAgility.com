@@ -23,9 +23,9 @@ aliasesArchive:
 - /project-of-projects-with-team-foundation-server-2010
 - /resources/blog/project-of-projects-with-team-foundation-server-2010
 tags:
+- Software Development
 - Practical Techniques and Tooling
 - Azure DevOps
-- Software Development
 - Operational Practices
 - Pragmatic Thinking
 - Application Lifecycle Management

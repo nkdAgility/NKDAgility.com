@@ -664,12 +664,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:57:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes code and technical discussion that relate to software development, specifically with an emphasis on handling HTTP requests in ASP.NET development. However, it does not explicitly address Agile or DevOps methodologies, which diminishes its alignment with the primary classification. It focuses more on a specific technical implementation rather than broader discussions on software development practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a technical implementation of a URL redirect handler in ASP.NET, which is relevant to software development. However, it lacks explicit discussions on Agile methodologies, DevOps practices, or the broader role of software developers in these contexts. While it provides some depth in the technical implementation, it does not align closely with the key themes of the category, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "AI": {
     "category": "AI",

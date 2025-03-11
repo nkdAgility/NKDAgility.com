@@ -1105,11 +1105,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:04",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-10T18:42:46",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content primarily discusses an issue related to SharePoint 2010 and Team Foundation Server (TFS), with only a minor mention of Windows in the context of deployment. The focus is not on Windows operating system topics such as installation, configuration, or troubleshooting of Windows itself.",
+    "final_score": 38.0,
+    "reasoning": "The content discusses an issue related to Team Foundation Server (TFS) and SharePoint, which are both products that can operate within a Windows environment. However, the primary focus is on troubleshooting a specific error message (TF250052) rather than on Windows itself. While there are mentions of Windows-related software, the content does not delve deeply into Windows installation, configuration, or management, which are key themes of the category. Therefore, the confidence score reflects a moderate alignment with the Windows category, but it is not the primary focus.",
     "level": "Quaternary"
   },
   "Deployment Strategies": {

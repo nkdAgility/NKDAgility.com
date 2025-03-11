@@ -30,7 +30,6 @@ tags:
 - Windows
 - Install and Configuration
 - System Configuration
-- Technical Mastery
 - Troubleshooting
 - Practical Techniques and Tooling
 categories: []

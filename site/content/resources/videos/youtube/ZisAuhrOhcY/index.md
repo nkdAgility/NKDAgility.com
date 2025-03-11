@@ -32,8 +32,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Strategy
 - Transparency
+- Strategy
 - Flow Efficiency
 - Practical Techniques and Tooling
 - Agile Project Management

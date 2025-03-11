@@ -31,10 +31,10 @@ tags:
 - Install and Configuration
 - Azure DevOps
 - Practical Techniques and Tooling
+- Software Development
 - Azure Pipelines
 - System Configuration
 - Continuous Integration
-- Software Development
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-7-7.png

@@ -33,10 +33,10 @@ tags:
 - Software Development
 - Agile Planning
 - Agile Project Management
-- Metrics and Learning
 - Professional Scrum
 - Software Developers
 - Team Performance
+- Agile Frameworks
 categories:
 - Scrum
 preview: nakedalm-logo-128-link-1-1.png

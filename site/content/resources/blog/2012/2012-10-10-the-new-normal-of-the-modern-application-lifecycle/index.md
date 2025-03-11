@@ -24,11 +24,11 @@ aliasesArchive:
 - /resources/blog/the-new-normal-of-the-modern-application-lifecycle
 tags:
 - Application Lifecycle Management
+- Events and Presentations
 - People and Process
 - Business Agility
 - Software Developers
 - Software Development
-- Events and Presentations
 - News and Reviews
 - Organisational Agility
 - Digital Transformation

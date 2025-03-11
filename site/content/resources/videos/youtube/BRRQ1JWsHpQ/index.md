@@ -26,6 +26,7 @@ preview: https://i.ytimg.com/vi/BRRQ1JWsHpQ/maxresdefault.jpg
 duration: 418
 isShort: false
 tags:
+- Pragmatic Thinking
 - People and Process
 - Software Developers
 - Team Collaboration

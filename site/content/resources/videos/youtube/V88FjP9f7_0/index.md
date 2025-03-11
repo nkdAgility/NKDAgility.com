@@ -32,6 +32,7 @@ tags:
 - Agile Philosophy
 - Agile Project Management
 - Agile Frameworks
+- People and Process
 - Pragmatic Thinking
 - Software Developers
 resourceTypes:

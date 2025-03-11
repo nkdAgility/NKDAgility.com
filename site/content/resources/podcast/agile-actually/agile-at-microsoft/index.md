@@ -16,6 +16,7 @@ aliases:
 - /resources/U_pzYjx6qk6
 tags:
 - Transparency
+- People and Process
 - Transparency and Accountability
 
 ---

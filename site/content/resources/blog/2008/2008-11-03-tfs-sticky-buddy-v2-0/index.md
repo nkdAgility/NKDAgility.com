@@ -24,7 +24,6 @@ aliasesArchive:
 - /resources/blog/tfs-sticky-buddy-v2-0
 tags:
 - Technical Excellence
-- Working Software
 - Application Lifecycle Management
 - Software Development
 preview: nakedalm-logo-128-link-2-1.png

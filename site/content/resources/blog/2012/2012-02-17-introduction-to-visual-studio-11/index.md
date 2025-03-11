@@ -23,10 +23,10 @@ aliasesArchive:
 - /introduction-to-visual-studio-11
 - /resources/blog/introduction-to-visual-studio-11
 tags:
+- Products and Books
 - Install and Configuration
 - News and Reviews
 - Practical Techniques and Tooling
-- Products and Books
 - Software Development
 - Events and Presentations
 categories: []

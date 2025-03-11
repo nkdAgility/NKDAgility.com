@@ -29,7 +29,6 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Product Management
-- Product Backlog
 - Product Owner
 - Scrum Product Development
 - Professional Scrum
@@ -38,6 +37,7 @@ tags:
 - Software Developers
 - Agile Frameworks
 - Agile Planning
+- Agile Project Management
 resourceTypes:
 - video
 categories:

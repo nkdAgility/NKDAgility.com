@@ -23,9 +23,9 @@ aliasesArchive:
 - /an-adoption-strategy-for-testing-with-visual-studio-2010
 - /resources/blog/an-adoption-strategy-for-testing-with-visual-studio-2010
 tags:
-- Products and Books
 - Software Development
 - Practical Techniques and Tooling
+- Products and Books
 - Events and Presentations
 - People and Process
 - Software Developers

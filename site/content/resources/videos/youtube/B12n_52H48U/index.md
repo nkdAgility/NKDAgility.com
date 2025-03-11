@@ -33,11 +33,11 @@ sitemap:
 tags:
 - Product Owner
 - Decision Making
-- People and Process
 - Agile Project Management
 - Pragmatic Thinking
 - Agile Product Management
 - Decision Theory
+- People and Process
 - Market Adaptability
 - Organisational Agility
 - Scrum Product Development

@@ -29,7 +29,6 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 - Modern Source Control
-- Application Lifecycle Management
 - Products and Books
 - Software Development
 - Miscellaneous

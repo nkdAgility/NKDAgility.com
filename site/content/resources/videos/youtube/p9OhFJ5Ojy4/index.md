@@ -25,13 +25,7 @@ preview: https://i.ytimg.com/vi/p9OhFJ5Ojy4/hqdefault.jpg
 duration: 2977
 isShort: false
 tags:
-- Events and Presentations
-- Organisational Change
-- Pragmatic Thinking
-- Agile Philosophy
-- Organisational Agility
-- Change Management
-- Business Agility
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

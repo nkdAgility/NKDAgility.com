@@ -25,9 +25,9 @@ aliasesArchive:
 tags:
 - People and Process
 - Transparency
-- Events and Presentations
 - Pragmatic Thinking
 - Team Collaboration
+- Events and Presentations
 - Remote Working
 - Transparency and Accountability
 - Sociotechnical Systems

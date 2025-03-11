@@ -30,8 +30,8 @@ tags:
 - Practical Techniques and Tooling
 - Troubleshooting
 - Azure DevOps
-- Pragmatic Thinking
 - Software Development
+- Pragmatic Thinking
 - Azure Boards
 categories: []
 preview: metro-visual-studio-2010-128-link-4-4.png

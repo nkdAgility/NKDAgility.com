@@ -346,12 +346,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:13:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:02:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses a specific software product (Tafiti) and its features, which aligns with the category, but lacks a broader analysis or review context related to Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on a specific product, Tafiti, and provides a personal review of its features and usability, particularly from the perspective of a dyslexic user. While it discusses a product, it lacks a broader context related to Agile methodologies or DevOps practices, which are central to the 'Products and Books' category. The discussion is detailed regarding the product's functionality, but it does not connect to the key topics outlined in the category definition.",
+    "level": "Quaternary"
   },
   "Product Management": {
     "category": "Product Management",

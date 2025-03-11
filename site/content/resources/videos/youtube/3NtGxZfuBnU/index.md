@@ -29,6 +29,7 @@ sitemap:
 tags:
 - People and Process
 - Agile Philosophy
+- Pragmatic Thinking
 - Organisational Change
 resourceTypes:
 - video

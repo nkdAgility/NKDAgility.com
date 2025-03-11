@@ -27,6 +27,7 @@ isShort: false
 tags:
 - People and Process
 - Transparency and Accountability
+- Value Delivery
 - Decision Making
 - Business Agility
 - Change Management
@@ -34,7 +35,6 @@ tags:
 - Discovery and Learning
 - Organisational Culture
 - Pragmatic Thinking
-- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

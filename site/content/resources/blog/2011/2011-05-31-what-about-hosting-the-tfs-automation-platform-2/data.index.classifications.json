@@ -211,11 +211,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:48:33",
+    "ai_confidence": 55.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the architecture and functionality of the Tfs Automation Platform, touching on server-side components and their importance for resilience and multi-user support, which are relevant to technical practices. However, the primary focus is on hosting and configuration rather than core engineering methodologies.",
+    "final_score": 50.0,
+    "reasoning": "The content discusses the hosting of the TFS Automation Platform and touches on server-side components, which relates to technical architecture. However, it lacks a direct focus on engineering practices like TDD or CI/CD. While it does mention the importance of server functionality and user support, it does not delve deeply into methodologies that enhance agility or technical excellence, making it a secondary rather than primary focus.",
     "level": "Tertiary"
   },
   "Complexity Thinking": {

@@ -31,8 +31,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Product Owner
+- People and Process
 - Agile Project Management
 - Agile Product Management
 - Agile Product Operating Model

@@ -37,12 +37,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T21:28:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:12:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Scrum in product delivery and the importance of aligning business value with engineering practices, making product management a significant theme, though not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the transformation of a Scrum team and the importance of aligning product delivery with business value, which relates to product management. However, it primarily focuses on Scrum practices and team dynamics rather than broader product management strategies. The mention of the Product Owner's role and the need for understanding business value indicates some alignment with product management, but the depth of discussion is more centred on Agile methodologies than on strategic product management frameworks.",
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -127,12 +130,15 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-17T21:28:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:12:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of validating business value and closing the feedback loop, which aligns with hypothesis-driven development principles, but the primary focus is on Scrum and team empowerment.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum and continuous delivery without a clear focus on hypothesis formulation or experimentation. While it touches on the importance of feedback and learning, it lacks detailed exploration of hypothesis-driven development principles, such as formulating hypotheses or conducting experiments to validate them.",
+    "level": "Quaternary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",

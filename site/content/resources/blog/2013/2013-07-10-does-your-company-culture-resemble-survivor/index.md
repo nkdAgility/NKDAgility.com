@@ -32,11 +32,11 @@ tags:
 - Agile Leadership
 - Agile Values and Principles
 - People and Process
-- Resilience and Change
 - Software Developers
 - Software Development
 - Team Collaboration
 - Agile Philosophy
+- Agile Strategy
 categories:
 - Leadership
 - Social Technologies

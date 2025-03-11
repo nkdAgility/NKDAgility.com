@@ -33,7 +33,6 @@ tags:
 - Miscellaneous
 - Practical Techniques and Tooling
 - Application Lifecycle Management
-- Software Development
 
 ---
 what-would-you-like-to-see-

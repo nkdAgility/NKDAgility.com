@@ -35,8 +35,8 @@ tags:
 - Agile Transformation
 categories:
 - DevOps
-- Engineering Excellence
 - Social Technologies
+- Engineering Excellence
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

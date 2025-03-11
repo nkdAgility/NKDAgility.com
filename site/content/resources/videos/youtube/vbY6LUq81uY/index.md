@@ -26,10 +26,10 @@ duration: 437
 isShort: false
 tags:
 - Entrepreneurship
+- Discovery and Learning
 - MVP
 - Ability to Innovate
 - Lean Product Development
-- Discovery and Learning
 - Lean Startup
 - Pragmatic Thinking
 - Product Discovery

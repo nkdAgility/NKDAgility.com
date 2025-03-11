@@ -35,9 +35,9 @@ tags:
 - Agile Frameworks
 - Agile Project Management
 - Lean Principles
-- Lean Product Development
 - Lean Thinking
 - Operational Practices
+- Pragmatic Thinking
 
 ---
 ## Duration

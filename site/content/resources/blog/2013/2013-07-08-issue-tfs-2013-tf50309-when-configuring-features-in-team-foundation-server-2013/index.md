@@ -32,9 +32,9 @@ tags:
 - Install and Configuration
 - Troubleshooting
 - System Configuration
-- Pragmatic Thinking
 - Software Development
 - Practical Techniques and Tooling
+- Pragmatic Thinking
 categories: []
 preview: puzzle-issue-problem-128-link-5-5.png
 

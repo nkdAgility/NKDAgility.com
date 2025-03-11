@@ -25,6 +25,7 @@ aliasesArchive:
 tags:
 - Software Development
 - Troubleshooting
+- Windows
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

@@ -625,11 +625,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-16T00:03:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:40:17",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily focuses on using Git-Tf for migrating source code and preserving history between Team Foundation Server and Git repositories, highlighting version control practices and specific commands related to Git.",
+    "final_score": 67.0,
+    "reasoning": "The content primarily discusses the migration of source code using Git-Tf, which is a tool that integrates Git with Team Foundation Server (TFS). It explicitly mentions Git commands and the process of cloning repositories, which aligns well with modern source control practices. The discussion includes practical examples of using Git for version control, demonstrating a clear focus on version control systems. However, while it provides a good level of detail on the migration process, it lacks a broader discussion on best practices or methodologies in version control, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Empirical Process Control": {

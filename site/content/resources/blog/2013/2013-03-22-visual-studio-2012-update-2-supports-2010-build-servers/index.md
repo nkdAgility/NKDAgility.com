@@ -25,9 +25,9 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - System Configuration
-- Software Development
 - Windows
 - Practical Techniques and Tooling
+- Software Development
 - Troubleshooting
 categories: []
 preview: nakedalm-experts-visual-studio-alm-11-11.png

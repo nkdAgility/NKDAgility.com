@@ -23,7 +23,7 @@ aliasesArchive:
 - /messenger-united
 - /resources/blog/messenger-united
 tags:
-- News and Reviews
+- Windows
 preview: nakedalm-logo-128-link-3-3.png
 categories: []
 

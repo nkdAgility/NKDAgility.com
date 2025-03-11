@@ -24,6 +24,7 @@ preview: https://i.ytimg.com/vi/RnMOINwjO84/maxresdefault.jpg
 duration: 971
 isShort: false
 tags:
+- Business Agility
 - Complexity Thinking
 - Discovery and Learning
 - Enterprise Agility
@@ -33,7 +34,6 @@ tags:
 - Decision Theory
 - People and Process
 - Ability to Innovate
-- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -28,7 +28,6 @@ aliasesArchive:
 - /resources/blog/branch-madness
 tags:
 - Modern Source Control
-- Application Lifecycle Management
 - Azure Repos
 - Operational Practices
 - Pragmatic Thinking
@@ -36,6 +35,7 @@ tags:
 - Troubleshooting
 - Practical Techniques and Tooling
 - Install and Configuration
+- Application Lifecycle Management
 - Miscellaneous
 preview: nakedalm-logo-128-link-2-1.png
 categories:

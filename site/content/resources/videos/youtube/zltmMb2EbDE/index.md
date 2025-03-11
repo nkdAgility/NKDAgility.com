@@ -31,11 +31,11 @@ sitemap:
   priority: 0.6
 tags:
 - Metrics and Learning
+- Software Development
 - Flow Efficiency
 - Practical Techniques and Tooling
 - Throughput
 - Agile Frameworks
-- Software Development
 - Agile Project Management
 - Operational Practices
 - Pragmatic Thinking

@@ -30,11 +30,11 @@ tags:
 - Discovery and Learning
 - People and Process
 - Product Owner
-- Agile Frameworks
 - Agile Project Management
 - Continuous Learning
 - Events and Presentations
 - Organisational Agility
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

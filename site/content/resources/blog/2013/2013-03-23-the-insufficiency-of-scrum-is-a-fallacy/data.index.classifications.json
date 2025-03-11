@@ -244,11 +244,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-15T19:09:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:40:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses Agile methodologies, Scrum practices, and the importance of engineering practices in the context of product delivery, making it a central theme.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses Agile methodologies, specifically Scrum, and highlights the importance of engineering practices in product delivery. It addresses the need for effective retrospectives, managing technical debt, and ensuring working software, which are all relevant to the product delivery process. However, while it touches on key aspects of product delivery, the focus is more on critiquing Scrum rather than providing a comprehensive overview of product delivery methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -1378,11 +1381,14 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-18T11:48:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:40:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Scrum Master and the importance of effective leadership in Agile practices, making leadership a significant theme, but it primarily focuses on Scrum and engineering practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the role of the Scrum Master and the importance of effective leadership in Agile practices, particularly in guiding teams and preventing failures. However, the primary focus is on technical practices and the shortcomings of Scrum rather than on leadership strategies or frameworks. While there are mentions of accountability and team dynamics, the depth of discussion on leadership is limited, making it a secondary theme rather than a primary focus.",
     "level": "Tertiary"
   },
   "Internal Developer Platform": {

@@ -31,6 +31,7 @@ sitemap:
 tags:
 - Discovery and Learning
 - Pragmatic Thinking
+- Practical Techniques and Tooling
 - Azure DevOps
 - Continuous Learning
 - Metrics and Learning
@@ -38,7 +39,6 @@ tags:
 - Ability to Innovate
 - Change Management
 - Engineering Practices
-- Frequent Releases
 resourceTypes:
 - video
 categories:

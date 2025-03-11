@@ -27,10 +27,10 @@ aliasesArchive:
 - /blog/removing-acl's-for-dead-ad-accounts
 - /resources/blog/removing-acls-for-dead-ad-accounts
 tags:
-- System Configuration
 - Windows
 - Software Development
 - Troubleshooting
+- System Configuration
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

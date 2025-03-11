@@ -36,7 +36,7 @@ tags:
 - Agile Planning
 - Agile Project Management
 - Azure Boards
-- Azure DevOps
+- Pragmatic Thinking
 categories:
 - Scrum
 - Social Technologies

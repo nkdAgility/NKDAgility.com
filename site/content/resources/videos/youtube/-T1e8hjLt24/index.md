@@ -26,6 +26,7 @@ duration: 58
 isShort: true
 tags:
 - Discovery and Learning
+- Continuous Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

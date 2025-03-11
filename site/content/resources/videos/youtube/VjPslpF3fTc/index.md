@@ -31,6 +31,7 @@ sitemap:
 tags:
 - Discovery and Learning
 - Continuous Learning
+- Miscellaneous
 - People and Process
 resourceTypes:
 - video

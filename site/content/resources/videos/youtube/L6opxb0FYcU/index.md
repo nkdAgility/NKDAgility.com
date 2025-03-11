@@ -40,8 +40,8 @@ tags:
 - People and Process
 - Team Performance
 - Agile Product Management
-- Pragmatic Thinking
 - Software Development
+- Personal
 resourceTypes:
 - video
 categories:

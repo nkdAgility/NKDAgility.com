@@ -24,8 +24,8 @@ aliasesArchive:
 - /resources/blog/tfs-event-handler-prototype-feedback
 tags:
 - Customer Feedback Loops
-- Product Validation
 - Install and Configuration
+- Product Validation
 - Practical Techniques and Tooling
 - System Configuration
 - Customer Satisfaction

@@ -217,11 +217,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T01:42:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:52:33",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical practices related to URL redirection, including the use of SQL for dynamic URL rewriting, which aligns with principles of modular architecture and emergent design. It also touches on performance considerations and best practices in coding, making it relevant to technical excellence.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses technical solutions for implementing SEO permanent redirects, which involves engineering practices related to URL rewriting and database interactions. However, while it touches on technical aspects, it lacks a strong focus on broader engineering methodologies like TDD, CI/CD, or modular architecture, which are central to the 'Technical Excellence' category. The depth of discussion is primarily on specific implementations rather than overarching principles of technical excellence.",
     "level": "Secondary"
   },
   "Complexity Thinking": {

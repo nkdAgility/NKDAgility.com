@@ -28,7 +28,6 @@ aliasesArchive:
 - /resources/blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released
 tags:
 - Products and Books
-- Install and Configuration
 - News and Reviews
 - Software Development
 - Technical Mastery
@@ -36,6 +35,7 @@ tags:
 - Technical Excellence
 - Deployment Strategies
 - Release Management
+- Install and Configuration
 categories:
 - DevOps
 - Engineering Excellence

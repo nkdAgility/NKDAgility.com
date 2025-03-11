@@ -27,11 +27,11 @@ aliasesArchive:
 - /blog/upgrading-your-process-template-in-team-foundation-server
 - /resources/blog/do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact
 tags:
+- Software Development
 - Install and Configuration
 - Practical Techniques and Tooling
 - Operational Practices
 - Pragmatic Thinking
-- Software Development
 - System Configuration
 - Troubleshooting
 - Technical Mastery

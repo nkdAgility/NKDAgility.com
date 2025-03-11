@@ -32,10 +32,10 @@ tags:
 - Discovery and Learning
 - People and Process
 - Continuous Learning
-- Employee Engagement
 - Pragmatic Thinking
 - Software Developers
 - Coaching
+- Employee Engagement
 - Personal
 - Mentoring
 - Software Development

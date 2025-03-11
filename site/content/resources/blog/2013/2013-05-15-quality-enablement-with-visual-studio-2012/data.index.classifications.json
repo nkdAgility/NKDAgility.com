@@ -220,11 +220,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T18:45:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:39:17",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practices and methodologies related to quality enablement in software development, including continuous testing, automated deployment, and the importance of actionable requirements, which align closely with the principles of Technical Excellence.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the importance of quality enablement in software development, focusing on continuous testing, delivery, and the integration of tools like Visual Studio 2012 to enhance quality. It aligns well with key topics such as Continuous Integration and Continuous Delivery (CI/CD), Test-Driven Development (TDD), and the need for actionable requirements, which are all central to the concept of Technical Excellence. The depth of discussion is significant, providing detailed insights into practices that improve software quality and delivery processes.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -1378,12 +1381,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:17:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:39:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous delivery and quality enablement practices that align with Agile methodologies, but it primarily focuses on software quality and tools rather than the frameworks of Scrum, Kanban, Lean, or Agile as central themes.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses quality enablement and continuous delivery in software development, which touches on Agile principles and practices. However, it lacks a direct focus on specific frameworks like Scrum or Kanban, and does not delve deeply into collaboration or team dynamics as outlined in the Social Technologies category. The mention of Agile concepts is present but not central, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

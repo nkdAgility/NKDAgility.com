@@ -1210,12 +1210,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:53:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily focuses on a specific coding solution related to ASP.NET, which is relevant to software developers. However, it does not discuss Agile or DevOps frameworks, making the topic a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a specific technical problem related to ASP.NET controls and provides a code solution. While it does touch on aspects of software development, such as code efficiency and control management, it lacks direct references to Agile or DevOps methodologies. The discussion is more about a coding challenge than the role of software developers within Agile or DevOps frameworks, leading to a lower confidence score in alignment with the category.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

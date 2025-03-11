@@ -33,10 +33,10 @@ tags:
 - Release Management
 - Azure DevOps
 - Deployment Strategies
-- Technical Excellence
 - Technical Mastery
 - Operational Practices
 - Pragmatic Thinking
+- Product Delivery
 categories:
 - DevOps
 - Engineering Excellence

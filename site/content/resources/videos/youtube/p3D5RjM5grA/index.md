@@ -28,6 +28,7 @@ tags:
 - Events and Presentations
 - Team Collaboration
 - Pragmatic Thinking
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

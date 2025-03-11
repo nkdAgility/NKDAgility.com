@@ -30,16 +30,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Flow Efficiency
-- Lean
-- Value Delivery
-- Agile Product Management
 - People and Process
-- Product Delivery
-- Strategy
-- Throughput
-- Cycle Time
-- Lean Product Development
 resourceTypes:
 - video
 categories:

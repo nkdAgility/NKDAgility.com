@@ -30,8 +30,8 @@ tags:
 - Azure Boards
 - Operational Practices
 - Pragmatic Thinking
-- Software Developers
 - Software Development
+- Software Developers
 - Azure DevOps
 categories:
 - Social Technologies

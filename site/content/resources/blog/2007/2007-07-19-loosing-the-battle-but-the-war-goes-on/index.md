@@ -31,12 +31,12 @@ aliasesArchive:
 - /blog/loosing-the-battle--but-the-war-goes-on
 - /resources/blog/loosing-the-battle-but-the-war-goes-on
 tags:
+- Products and Books
 - People and Process
 - Release Management
 - Application Lifecycle Management
 - Modern Source Control
 - Practical Techniques and Tooling
-- Products and Books
 - Software Development
 - Collaboration Tools
 - Miscellaneous

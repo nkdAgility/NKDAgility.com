@@ -38,7 +38,7 @@ tags:
 - Agile Strategy
 - Agile Transformation
 - Agile Product Management
-- Decision Making
+- Empirical Process Control
 resourceTypes:
 - video
 categories:

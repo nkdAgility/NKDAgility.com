@@ -40,8 +40,8 @@ tags:
 - Agile Project Management
 - Mentoring
 - Professional Scrum
+- Team Collaboration
 - Agile Frameworks
-- Agile Leadership
 resourceTypes:
 - video
 categories:

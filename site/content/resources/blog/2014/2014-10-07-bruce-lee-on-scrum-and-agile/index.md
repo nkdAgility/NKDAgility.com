@@ -26,9 +26,9 @@ tags:
 - Agile Philosophy
 - Agile Values and Principles
 - Agile Frameworks
-- Agile Transformation
 - People and Process
 - Pragmatic Thinking
+- Agile Transformation
 - Organisational Agility
 - Agile Project Management
 categories:

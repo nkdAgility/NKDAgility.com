@@ -25,10 +25,10 @@ preview: https://i.ytimg.com/vi/6L2r8YrehWc/maxresdefault.jpg
 duration: 237
 isShort: false
 tags:
+- People and Process
 - Accountability
 - Professional Scrum
 - Team Performance
-- People and Process
 - Scrum Master
 - Scrum Team
 - Agile Product Management

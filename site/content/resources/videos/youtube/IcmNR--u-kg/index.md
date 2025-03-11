@@ -26,9 +26,9 @@ preview: https://i.ytimg.com/vi/IcmNR--u-kg/maxresdefault.jpg
 duration: 154
 isShort: false
 tags:
-- People and Process
 - Discovery and Learning
 - Continuous Learning
+- People and Process
 - Coaching
 - Pragmatic Thinking
 sitemap:

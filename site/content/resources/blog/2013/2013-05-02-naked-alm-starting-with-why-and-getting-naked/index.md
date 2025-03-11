@@ -33,13 +33,11 @@ tags:
 - Agile Strategy
 - Agile Transformation
 - Customer Feedback Loops
-- Product Delivery
 - Products and Books
 - Deployment Frequency
 - Frequent Releases
+- Organisational Agility
 categories:
-- Product Management
-- DevOps
 - Leadership
 preview: nakedalm-logo-128-link-1-1.png
 

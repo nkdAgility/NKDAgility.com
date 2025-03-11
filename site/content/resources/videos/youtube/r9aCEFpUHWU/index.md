@@ -25,11 +25,11 @@ duration: 466
 isShort: false
 tags:
 - People and Process
+- Software Development
 - Professional Scrum
 - Scrum Master
 - Scrum Product Development
 - Scrum Team
-- Software Development
 - Team Performance
 - Agile Project Management
 - Pragmatic Thinking

@@ -25,7 +25,6 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Azure DevOps
 - Software Development
 - System Configuration
 - Technical Mastery

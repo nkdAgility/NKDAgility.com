@@ -30,7 +30,6 @@ tags:
 - Remote Working
 - Application Lifecycle Management
 - Azure Boards
-- Azure DevOps
 - Collaboration Tools
 - Miscellaneous
 - Sociotechnical Systems

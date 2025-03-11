@@ -30,8 +30,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Definition of Done
 - Agile Project Management
+- Definition of Done
 - Software Development
 - Pragmatic Thinking
 - Agile Frameworks

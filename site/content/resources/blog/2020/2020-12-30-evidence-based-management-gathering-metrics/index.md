@@ -29,6 +29,7 @@ aliasesArchive:
 - /resources/blog/evidence-based-management-gathering-metrics
 tags:
 - Evidence Based Management
+- Agile Product Management
 categories:
 - Product Management
 - Scrum

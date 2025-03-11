@@ -298,12 +298,15 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T12:01:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T17:50:01",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of quality in software engineering and introduces the concept of 'shift left', which relates to integrating quality assurance earlier in the development cycle. While it touches on principles relevant to Continuous Integration, it does not primarily focus on CI practices or tools.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content briefly mentions the concept of 'shift left', which relates to integrating quality assurance earlier in the development cycle, a principle that can be associated with Continuous Integration. However, it does not explicitly discuss CI practices, tools, or the integration of code changes into a shared repository. The focus is more on quality assurance rather than CI itself, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Lean Principles": {
     "category": "Lean Principles",

@@ -27,8 +27,8 @@ tags:
 - Application Lifecycle Management
 - Decision Making
 - Pragmatic Thinking
-- Technical Mastery
 - Practical Techniques and Tooling
+- Technical Mastery
 - Azure DevOps
 categories:
 - Engineering Excellence

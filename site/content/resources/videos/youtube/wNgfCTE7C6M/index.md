@@ -29,6 +29,7 @@ tags:
 - Pragmatic Thinking
 - People and Process
 - Agile Project Management
+- Team Collaboration
 - Software Developers
 - Agile Product Management
 - Agile Frameworks

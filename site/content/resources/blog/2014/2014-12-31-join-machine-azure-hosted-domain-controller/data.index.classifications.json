@@ -1051,11 +1051,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T09:56:46",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-10T18:31:55",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses the process of joining a machine to an Azure hosted domain controller, detailing system configuration steps and requirements, including networking and domain settings.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses the process of joining a machine to an Azure-hosted domain controller, which is a direct aspect of system configuration. It covers essential steps such as ensuring the machine is within the correct virtual network, configuring DNS settings, and using Remote Desktop to connect to the server. The discussion aligns well with the core themes of system configuration, particularly in terms of best practices for software installation and configuration, as well as hardware setup and integration. The depth of the discussion is substantial, providing detailed instructions and considerations for successfully joining a machine to a domain, which enhances its relevance to the category.",
     "level": "Secondary"
   },
   "Product Strategy": {

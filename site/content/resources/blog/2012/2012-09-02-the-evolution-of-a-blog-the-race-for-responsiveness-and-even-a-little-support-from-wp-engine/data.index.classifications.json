@@ -211,12 +211,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:42:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the technical aspects of moving a blog to a different hosting provider and the impact on performance, which relates to technical excellence. However, the primary focus is on personal experiences and hosting choices rather than engineering practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the author's experience with various hosting providers and the impact on website performance, which touches on aspects of technical excellence such as site speed and plugin management. However, it lacks a focused discussion on engineering practices or methodologies like TDD, CI/CD, or modular architecture. The primary focus is on personal experiences rather than structured technical principles, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",

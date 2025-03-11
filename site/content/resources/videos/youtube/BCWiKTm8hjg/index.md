@@ -30,8 +30,8 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Agile Philosophy
 - Agile Values and Principles
+- Agile Philosophy
 - Team Collaboration
 - Team Motivation
 - Personal

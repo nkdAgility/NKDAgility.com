@@ -1108,11 +1108,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T10:29:03",
-    "ai_confidence": 95,
+    "calculated_at": "2025-03-10T18:52:42",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 50,
-    "final_score": 90.0,
-    "reasoning": "The content primarily discusses the creation of a Virtual Hard Disk (VHD) from the Windows Server 2008 R2 image, including detailed steps on installation and setup, making it highly relevant to the Windows operating system.",
+    "final_score": 88.0,
+    "reasoning": "The content is primarily focused on creating a Virtual Hard Disk (VHD) from a Windows Server 2008 R2 image, which directly relates to installation and configuration aspects of the Windows operating system. It provides detailed steps for downloading necessary tools, installing the Windows Automated Installation Kit (AIK), and executing commands to create the VHD. The discussion is rich in detail, covering specific commands and troubleshooting a mistake made during the process, which enhances its relevance to the Windows category. The content does not stray into non-Windows topics, maintaining a strong alignment with the key themes outlined in the category description.",
     "level": "Primary"
   },
   "Deployment Strategies": {

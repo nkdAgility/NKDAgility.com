@@ -34,11 +34,12 @@ tags:
 - Value Delivery
 - Working Software
 - Azure DevOps
-- Product Delivery
 - Practical Techniques and Tooling
+- Product Delivery
 - Pragmatic Thinking
 categories:
 - Engineering Excellence
+- Social Technologies
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 
 ---

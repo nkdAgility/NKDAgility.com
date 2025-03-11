@@ -841,12 +841,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:13:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:56:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical implementation related to synchronizing lists, which relates to coding practices but lacks a strong focus on Agile methodologies, clean code, or other core engineering practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a specific coding implementation for synchronising lists in .NET, which does not directly address the core themes of Engineering Practices such as clean code, TDD, or CI/CD. While it does touch on aspects of coding practices, it lacks a broader discussion on methodologies or principles that enhance software engineering quality. The mention of locking objects for thread safety is relevant but does not constitute a comprehensive exploration of engineering practices.",
+    "level": "Quaternary"
   },
   "Sprint Review": {
     "category": "Sprint Review",

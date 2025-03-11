@@ -29,15 +29,6 @@ sitemap:
   priority: 0.6
 tags:
 - Transparency
-- People and Process
-- Scrum Product Development
-- Scrum Team
-- Scrum Master
-- Team Collaboration
-- Team Performance
-- Agile Frameworks
-- Agile Project Management
-- Agile Transformation
 resourceTypes:
 - video
 layout: video

@@ -39,9 +39,9 @@ tags:
 - Operational Practices
 - People and Process
 - Agile Frameworks
+- Software Development
 - Flow Efficiency
 - Pragmatic Thinking
-- Software Development
 resourceTypes:
 - video
 categories:

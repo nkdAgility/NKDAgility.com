@@ -30,10 +30,10 @@ tags:
 - Agile Values and Principles
 - Agile Leadership
 - Agile Philosophy
-- Coaching
 - Employee Engagement
 - Organisational Culture
 - Self Organisation
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

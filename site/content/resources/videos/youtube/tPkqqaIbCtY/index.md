@@ -27,7 +27,6 @@ isShort: true
 tags:
 - Miscellaneous
 - People and Process
-- Discovery and Learning
 - Product Discovery
 - Product Strategy
 - Product Validation

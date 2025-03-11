@@ -30,11 +30,11 @@ aliasesArchive:
 tags:
 - Agile Product Management
 - Scrum Product Development
+- People and Process
 - Practical Techniques and Tooling
 - Product Delivery
 - Agile Project Management
 - Backlog Refinement
-- People and Process
 - Scrum Team
 - Professional Scrum
 - Team Collaboration

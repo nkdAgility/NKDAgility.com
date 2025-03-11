@@ -31,8 +31,8 @@ tags:
 - Product Delivery
 - One Engineering System (1ES)
 - Pragmatic Thinking
-- Troubleshooting
 - Azure Boards
+- Troubleshooting
 sitemap:
   filename: sitemap.xml
   priority: 0.6

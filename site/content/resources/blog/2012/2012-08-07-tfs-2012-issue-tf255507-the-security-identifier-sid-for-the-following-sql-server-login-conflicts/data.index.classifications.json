@@ -1108,11 +1108,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T21:30:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:43:11",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses an issue related to the installation and configuration of Team Foundation Server 2012 on a Windows environment, specifically addressing an error that involves Windows security identifiers and SQL Server logins, which is relevant to the Windows operating system.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses an issue related to the installation and configuration of Team Foundation Server (TFS) 2012 on a Windows environment, specifically addressing a security identifier (SID) conflict with SQL Server. It provides detailed troubleshooting steps and solutions that are directly relevant to Windows users. The mention of Windows in the context of server names and SQL Server indicates a strong alignment with the Windows category, as it focuses on installation and configuration issues specific to the Windows operating system. The depth of discussion is significant, as it includes error messages, log file information, and specific commands to resolve the issue, which are all pertinent to managing a Windows environment.",
     "level": "Secondary"
   },
   "Deployment Strategies": {

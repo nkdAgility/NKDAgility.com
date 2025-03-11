@@ -30,7 +30,6 @@ tags:
 - Troubleshooting
 - Practical Techniques and Tooling
 - Pragmatic Thinking
-- Technical Mastery
 categories:
 - DevOps
 

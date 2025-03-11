@@ -29,9 +29,9 @@ aliasesArchive:
 tags:
 - News and Reviews
 - Products and Books
+- Software Development
 - Agile Project Management
 - Scrum Master
-- Software Development
 - Agile Frameworks
 - Pragmatic Thinking
 - People and Process

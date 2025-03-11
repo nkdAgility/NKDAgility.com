@@ -28,7 +28,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Software Development
 - Agile Project Management
 - Pragmatic Thinking
 - People and Process

@@ -26,7 +26,6 @@ tags:
 - Pragmatic Thinking
 - Code and Complexity
 - Software Development
-- Technical Mastery
 - Troubleshooting
 - Working Software
 categories: []

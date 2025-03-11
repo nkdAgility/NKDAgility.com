@@ -28,14 +28,15 @@ tags:
 - Modern Source Control
 - News and Reviews
 - Software Development
-- Azure DevOps
 - Operational Practices
 - Working Software
 - Events and Presentations
+- Azure DevOps
 - Technical Excellence
 categories:
 - Kanban
 - Engineering Excellence
+- Social Technologies
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

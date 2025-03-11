@@ -28,10 +28,6 @@ aliasesArchive:
 - /resources/blog/least-opportune-time
 tags:
 - Miscellaneous
-- Modern Source Control
-- Personal
-- Software Development
-- Troubleshooting
 categories: []
 preview: metro-visual-studio-2005-128-link-4-4.png
 

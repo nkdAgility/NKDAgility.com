@@ -41,8 +41,8 @@ resourceTypes:
 - video
 layout: video
 categories:
-- Scrum
 - Social Technologies
+- Scrum
 
 ---
 What is the hardest part of working with a brand-new scrum team?

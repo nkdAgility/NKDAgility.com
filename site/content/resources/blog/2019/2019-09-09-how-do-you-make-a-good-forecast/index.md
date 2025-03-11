@@ -27,6 +27,7 @@ aliasesArchive:
 - /blog/how-do-you-make-a-good-forecast-
 - /resources/blog/how-do-you-make-a-good-forecast
 tags:
+- Events and Presentations
 - People and Process
 - Throughput
 - Agile Product Operating Model
@@ -36,7 +37,6 @@ tags:
 - Professional Scrum
 - Scrum Product Development
 - Agile Frameworks
-- Agile Planning
 categories:
 - Scrum
 - Social Technologies
