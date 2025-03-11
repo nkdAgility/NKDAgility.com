@@ -2,7 +2,7 @@
 title: 'Navigating Complexity: Why Agile Practices Are Essential for Modern Product Development'
 description: Discover how Agile practices can transform your product development in a complex world. Learn to adapt, mitigate risks, and deliver value incrementally.
 date: 2022-10-07T10:41:41Z
-weight: 540
+weight: 580
 ResourceId: phv_2Bv2PrA
 ResourceType: videos
 ResourceImport: true
@@ -26,6 +26,7 @@ duration: 1755
 isShort: false
 tags:
 - Agile Philosophy
+- Continuous Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -33,6 +34,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Social Technologies
 - Scrum
 
 ---

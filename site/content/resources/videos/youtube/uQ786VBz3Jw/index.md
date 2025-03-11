@@ -25,16 +25,16 @@ preview: https://i.ytimg.com/vi/uQ786VBz3Jw/maxresdefault.jpg
 duration: 246
 isShort: false
 tags:
+- People and Process
+- Agile Project Management
+- Product Delivery
+- Professional Scrum
 - Transparency
+- Agile Frameworks
+- Team Performance
 - Agile Planning
 - Agile Planning Tools
 - Agile Product Management
-- People and Process
-- Product Owner
-- Transparency and Accountability
-- Agile Frameworks
-- Agile Project Management
-- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

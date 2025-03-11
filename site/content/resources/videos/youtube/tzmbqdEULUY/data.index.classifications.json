@@ -280,12 +280,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T12:03:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T17:50:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges of collaboration during downtime in a DevOps migration context, highlighting the importance of communication and planning among engineers. However, the primary focus is on the migration process itself rather than on team collaboration techniques or dynamics.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the impact of downtime on engineers' ability to collaborate during a data migration, which touches on team dynamics and communication. However, it primarily focuses on technical aspects of data migration rather than exploring techniques for improving team collaboration or fostering a culture of trust. While there are mentions of collaboration challenges, they are not the primary focus of the discussion, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -466,11 +469,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T12:03:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T11:36:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of downtime during a data migration on software engineers and mentions tools like Git and Azure DevOps, which are relevant to software development practices. However, the primary focus is on the migration process rather than Agile or DevOps methodologies specifically.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses data migration and its impact on software engineers, touching on collaboration and the use of Git as a source control system. However, it lacks a direct focus on Agile or DevOps methodologies, which are central to the category. While it mentions the importance of planning and dry runs, it does not delve into best practices or principles of Agile or DevOps, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Test First Development": {
@@ -556,11 +562,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T20:25:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:33:25",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical strategies for managing downtime during a DevOps migration, emphasising planning, dry runs, and real-world applications of collaboration tools like Git. It aligns well with pragmatic problem-solving in complex environments.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses practical strategies for minimising downtime during data migration, which aligns with pragmatic thinking in Agile and DevOps contexts. It highlights the importance of planning, dry runs, and real-world applications of collaboration tools like Git. However, while it touches on relevant themes, the discussion lacks depth in exploring broader Agile or Scrum principles, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -754,11 +763,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-12T20:26:25",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-07T12:48:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses strategies for minimising downtime during a data migration, which relates to operational efficiency and planning. However, it primarily focuses on a specific migration case rather than broader operational practices.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses strategies for minimising downtime during data migration, which aligns with operational efficiency. It mentions planning, dry runs, and the use of Git for collaboration, indicating a focus on practical application. However, the discussion is primarily centred on a specific case study rather than broader operational practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
@@ -898,20 +910,26 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T12:03:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:13:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of planning and executing a data migration with minimal downtime, which touches on technical practices and principles related to software engineering. However, the primary focus is on the migration process rather than broader software craftsmanship or engineering excellence.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses data migration and minimising downtime, which touches on technical practices but lacks a strong focus on software craftsmanship or engineering excellence. While it mentions planning and dry runs, it does not delve deeply into best practices or principles of clean code, testing, or DevOps integration, which are central to the 'Technical Mastery' category.",
     "level": "Tertiary"
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T12:03:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T00:17:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of planning and executing a data migration, which relates to release management, but it primarily focuses on the migration process rather than broader release management strategies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses aspects of data migration, which is related to release management, particularly in terms of planning and minimising downtime. However, it primarily focuses on the technicalities of data migration rather than the broader strategies and practices of release management. While it mentions planning and dry runs, it lacks a comprehensive discussion on release processes, coordination, and risk management, which are core themes of the category.",
     "level": "Tertiary"
   },
   "Test Driven Development": {
@@ -1240,11 +1258,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T12:03:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:54:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of migration planning and minimising downtime, which relates to engineering practices. However, it primarily focuses on operational aspects rather than core technical methodologies or principles.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses data migration and the importance of planning and dry runs, which are relevant to technical practices. However, it lacks a strong focus on broader engineering methodologies or principles that enhance agility in software development. While TDD and CI/CD are not explicitly mentioned, the mention of Git and collaboration during downtime hints at some technical practices. Overall, the content is more operational than deeply technical, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Organisational Agility": {
@@ -1267,11 +1288,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T12:03:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T09:49:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the impact of downtime on engineers' collaboration and the importance of planning and dry runs, which relates to team dynamics and process improvement.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the impact of data migration on engineers' productivity and collaboration, which touches on human factors in a technical process. However, it primarily focuses on the technical aspects of data migration and downtime rather than deeply exploring team dynamics, leadership, or structured methodologies. While there are mentions of engineers and their work during downtime, the discussion lacks depth in terms of process improvement or team collaboration strategies.",
     "level": "Tertiary"
   },
   "Sociotechnical Systems": {

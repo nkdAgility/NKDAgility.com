@@ -8,7 +8,7 @@ ResourceImportId: 9468
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-04-24
-weight: 385
+weight: 400
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,7 +25,6 @@ aliasesArchive:
 tags:
 - Release Management
 - Software Development
-- Product Delivery
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-8-8.png

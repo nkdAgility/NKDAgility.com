@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T18:14:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:59:38",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques and tooling related to Team Foundation Server (TFS) migrations, including specific methodologies, scripts, and best practices for managing complex data transitions and server upgrades.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed account of a complex Team Foundation Server migration, discussing specific tools, methodologies, and best practices throughout the process. It explicitly mentions TFS and related tools, outlines practical steps for implementation, and includes checklists and scripts that enhance the understanding of Agile and DevOps practices. The depth of discussion is significant, covering various stages of the migration process and the challenges faced, which aligns well with the category's focus on practical techniques and tooling.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -37,11 +40,14 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T18:14:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:46:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the complexities involved in a Team Foundation Server migration, including the impact of software architecture decisions, data management, and the intricacies of maintaining code quality during the process. It explores best practices and strategies for managing complexity in a software development context.",
+    "final_score": 73.0,
+    "reasoning": "The content discusses the complexities involved in a Team Foundation Server migration, highlighting issues related to code quality, data management, and system architecture. It provides detailed insights into the remediation process, including the challenges of managing large databases and the importance of maintaining data integrity. The author reflects on best practices and strategies for handling complexity, which aligns well with the core themes of the category. However, while the content is rich in practical examples, it lacks a more explicit discussion of complexity theory and its application in software development, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Discovery and Learning": {
@@ -73,12 +79,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T18:14:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:48:48",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 40,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the installation and configuration processes related to Team Foundation Server, including step-by-step procedures, best practices, and troubleshooting during the migration and upgrade phases.",
-    "level": "Secondary"
+    "final_score": 81.0,
+    "reasoning": "The content provides a detailed account of the installation and configuration processes for Team Foundation Server (TFS), including step-by-step instructions, best practices, and troubleshooting tips. It explicitly discusses various installation steps, server specifications, and configuration challenges faced during a complex migration. The depth of discussion is significant, covering multiple steps and considerations, which aligns well with the category's focus on actionable instructions for installation and configuration.",
+    "level": "Primary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -118,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T18:15:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:59:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the complexities and processes involved in migrating Team Foundation Server (TFS), which aligns with DevOps principles such as Continuous Integration and Continuous Delivery. It addresses automation, collaboration between teams, and the use of tools, making it a significant focus of the discussion.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a complex migration process involving Team Foundation Server (TFS), which is relevant to DevOps practices, particularly in terms of automation, collaboration between teams, and the use of tools for continuous integration and delivery. However, while it touches on aspects of DevOps, such as the importance of backups and server configurations, it primarily focuses on the technical details of the migration process rather than broader DevOps principles or cultural shifts. Therefore, while there is a significant connection to DevOps, it is not the primary focus of the content.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -208,20 +220,26 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T18:16:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:38:04",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical complexities and methodologies involved in a Team Foundation Server migration, including backup processes, server configurations, and scripting for automation, which align with the principles of technical excellence.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses a complex Team Foundation Server migration, detailing technical challenges and solutions, which aligns with the principles of Technical Excellence. It mentions specific practices like backups, server upgrades, and scripting for automation, indicating a focus on engineering methodologies. However, while it provides some depth, the primary focus is on the migration process rather than a broader discussion of technical excellence principles, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-15T18:16:13",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:28:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the complexities involved in a large-scale Team Foundation Server migration, highlighting non-linear dynamics, emergent behaviours, and the need for adaptive management strategies in a complex system.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the complexities involved in a Team Foundation Server migration, highlighting issues such as data management, server configurations, and the challenges of working with corporate IT. While it touches on aspects of complexity, such as the need to manage uncertainties and the non-linear dynamics of the migration process, it lacks a deeper exploration of complexity science principles or frameworks like the Cynefin Framework. The focus is more on practical challenges rather than theoretical insights, which limits its alignment with the core themes of Complexity Thinking.",
     "level": "Secondary"
   },
   "Organisational Psychology": {
@@ -280,11 +298,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T18:16:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:53:47",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the complexities and processes involved in migrating Team Foundation Server (TFS), which is a key component of Azure DevOps. It details specific steps, best practices, and technical considerations related to TFS, aligning well with Azure DevOps functionalities.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on Team Foundation Server (TFS), which is a key component of Azure DevOps. It discusses the complexities involved in migrating TFS, detailing specific steps and technical processes related to TFS upgrades, backups, and configurations. The depth of discussion is significant, providing detailed insights into the migration process and best practices. While it does not explicitly mention Azure DevOps frequently, the core themes and functionalities align closely with Azure DevOps principles, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -730,12 +751,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-15T20:01:17",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-10T12:46:32",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content primarily discusses the technical complexities and processes involved in migrating Team Foundation Server and related systems, detailing best practices for managing large databases, backups, and server configurations. There is a significant focus on improving the engineering process through scripting and managing configuration and data integrity, which aligns with the themes of continuous improvement and software craftsmanship in engineering.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses a complex migration process involving Team Foundation Server, which touches on aspects of engineering excellence such as technical debt management, coding standards, and the importance of efficient processes. However, while it provides detailed insights into the migration steps and challenges, it lacks a direct focus on broader principles of software craftsmanship and quality assurance, which are central to the category of Engineering Excellence.",
+    "level": "Tertiary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

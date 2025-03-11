@@ -181,12 +181,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:46:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content provides an update on the TFS Event Handler project, which aligns with industry news, but lacks broader context or analysis related to Agile or DevOps.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content provides an update on the TFS Event Handler project, which could be seen as a news item. However, it lacks a broader context regarding Agile or DevOps practices, and it does not offer a review or analysis of the tool's impact on the industry. The focus is primarily on bug fixes and updates rather than insights or evaluations that would guide practitioners.",
+    "level": "Quaternary"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -280,12 +283,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:14:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an update to the TFS Event Handler, which is related to Azure DevOps, but does not primarily focus on Azure DevOps functionalities or best practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content mentions TFS (Team Foundation Server), which is a predecessor to Azure DevOps, but it does not explicitly discuss Azure DevOps itself or its functionalities. The focus is primarily on an update to the TFS Event Handler, which does not align with the core themes of Azure DevOps. The depth of discussion is minimal, providing only a brief overview of bug fixes without delving into CI/CD practices, integration, or project management methodologies associated with Azure DevOps.",
+    "level": "Quaternary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -361,12 +367,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:11:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses an update to the TFS Event Handler, which implies aspects of release management, such as bug fixes and the process of handling releases. However, it lacks a detailed focus on the broader strategies and practices of release management.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content mentions an update to the TFS Event Handler and discusses bug fixes and a new release, which are relevant to release management. However, it lacks a detailed discussion on release strategies, planning, or coordination with stakeholders, which are key aspects of the category. The focus is more on the update itself rather than the broader context of release management.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -388,12 +397,15 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:57:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an update to the TFS Event Handler and mentions bug fixes and new releases, indicating a focus on the release aspect. However, it does not delve deeply into principles or practices of frequent releases.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content mentions an update to the TFS Event Handler, indicating a release, but lacks a detailed discussion on the principles of frequent releases, continuous delivery, or related strategies. It primarily focuses on bug fixes and the current state of the release without exploring broader themes or practices associated with frequent releases.",
+    "level": "Quaternary"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
@@ -892,11 +904,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:12:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions updates to a specific software project, addressing bugs and usability issues, which relates to aspects of working software, but it is primarily focused on an event handler project rather than broadly relevant concepts of working software.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses an update to the TFS Event Handler, mentioning bug fixes and a new release, which indicates a focus on delivering functional software. However, it lacks detailed discussion on the characteristics of working software, best practices, or customer feedback mechanisms, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Test Automation": {

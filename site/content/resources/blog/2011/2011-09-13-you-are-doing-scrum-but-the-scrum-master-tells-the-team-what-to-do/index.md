@@ -8,7 +8,7 @@ ResourceImportId: 3778
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-09-13
-weight: 410
+weight: 355
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,6 +30,7 @@ tags:
 - Scrum Team
 categories:
 - Scrum
+- Social Technologies
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

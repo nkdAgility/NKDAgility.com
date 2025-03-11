@@ -26,20 +26,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Coaching
-- Agile Values and Principles
-- Resilience and Change
-- Agile Frameworks
-- Agile Leadership
-- Agile Philosophy
-- Agile Project Management
-- Agile Strategy
-- Agile Transformation
-- Change Management
+- People and Process
 resourceTypes:
 - video
 categories:
-- Leadership
 - Social Technologies
 
 ---

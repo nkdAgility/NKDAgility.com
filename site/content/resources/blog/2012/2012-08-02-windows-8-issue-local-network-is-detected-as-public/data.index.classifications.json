@@ -10,12 +10,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T20:02:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:18:03",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses practical techniques for configuring network settings in Windows 8, specifically in relation to Hyper-V and virtual switches.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content provides a practical workaround for a specific issue related to Hyper-V and Windows 8 networking. It includes step-by-step instructions, which aligns with the category's focus on practical techniques. However, it lacks broader discussions on Agile or DevOps methodologies, tools, or frameworks, limiting its overall alignment with the category.",
+    "level": "Tertiary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T20:02:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:55:06",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content provides a step-by-step workaround for configuring network settings in Windows 8 when using Hyper-V, which aligns with installation and configuration processes.",
+    "final_score": 76.0,
+    "reasoning": "The content provides a detailed guide on configuring network settings in Windows 8 when using Hyper-V, which directly aligns with installation and configuration processes. It includes step-by-step instructions for changing network classifications, which is a core aspect of the category. The discussion is focused on practical solutions and troubleshooting, demonstrating a strong alignment with the key topics outlined for the category.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -370,12 +376,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:58:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses a technical issue related to configuring Hyper-V and Windows 8 networking, which involves technical practices and problem-solving. However, it lacks a broader focus on software craftsmanship or engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to Windows 8 and Hyper-V networking configurations. While it provides a workaround and some technical details, it lacks a broader discussion on software craftsmanship, best practices, or principles of clean code. The focus is more on troubleshooting rather than on methodologies or practices that contribute to high-quality software development.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1045,11 +1054,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T21:31:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:43:38",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the configuration of network settings in Windows 8 while using Hyper-V, focusing on addressing issues related to network identification and manual configuration through Group Policy. This is directly relevant to system configuration.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on configuring network settings in Windows 8, specifically regarding Hyper-V and how to manage network classifications. It discusses the implications of network types (public vs. private) and provides a detailed workaround for changing these settings, which aligns well with the core themes of system configuration. The mention of specific steps to adjust settings indicates a depth of discussion that is relevant to the category. Overall, the content is highly relevant to system configuration, with a strong emphasis on practical configuration techniques.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1099,12 +1111,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T21:31:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:54:50",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses an issue related to Windows 8, specifically about network settings and configuration in Windows, making it highly relevant to the Windows operating system category.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content primarily focuses on a specific issue related to Windows 8, discussing how the operating system classifies networks and providing a workaround for users. It directly mentions Windows 8 multiple times and aligns well with the key topics of troubleshooting and configuration settings. The depth of discussion is substantial, offering detailed steps for resolving the issue, which further supports a high confidence score.",
+    "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1153,11 +1168,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T21:31:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:34:01",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses identifying and resolving a specific networking issue related to Windows 8 and Hyper-V, providing a workaround and steps to adjust settings, which aligns well with troubleshooting methodologies.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses a specific issue related to Windows 8 and Hyper-V, detailing how the operating system misclassifies network types and providing a workaround to resolve the issue. This aligns closely with the core themes of troubleshooting, as it identifies a technical problem and offers a systematic approach to diagnose and rectify it. The depth of discussion is substantial, with clear steps outlined for users to follow, enhancing the practical application of the troubleshooting process.",
     "level": "Secondary"
   },
   "Experimentation": {

@@ -10,11 +10,14 @@
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-02-12T02:11:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T17:50:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the importance of experimentation in Agile practices, particularly in the context of shifting quality assurance left in the development cycle. It highlights the role of testing, validation, and learning from experiments to improve product features and team effectiveness, making experimentation a primary theme throughout the discussion.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the concept of 'shifting left' in quality assurance and touches on the importance of testing and validation within Agile practices. It mentions experimentation in the context of validating features and user feedback, particularly through the lens of continuous delivery and iterative development. However, while it references experimentation, it does not delve deeply into hypothesis-driven methodologies or specific techniques like A/B testing. The primary focus is more on quality assurance and engineering practices rather than a systematic exploration of experimentation itself.",
     "level": "Secondary"
   },
   "Entrepreneurship": {
@@ -82,12 +85,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T12:02:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T12:48:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of integrating quality assurance and engineering practices within product development, which aligns with product management principles. However, the primary focus is on technical practices and methodologies rather than strategic product management discussions.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on software engineering practices, particularly around quality assurance and Agile methodologies, rather than the strategic aspects of product management. While it touches on concepts like team dynamics and the importance of building quality into products, it lacks a direct discussion on product management frameworks, customer feedback prioritisation, or alignment with business strategy, which are core to the category. The depth of discussion on engineering practices is significant, but it does not sufficiently address the strategic alignment of product management.",
+    "level": "Quaternary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -127,11 +133,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-12T02:12:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T00:17:42",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses practices and methodologies that enhance software quality and functionality, such as shift left, test-driven development, and pair programming, which are central to delivering working software. It also touches on the importance of engineering excellence and customer feedback, aligning well with the key topics of the category.",
+    "final_score": 80.0,
+    "reasoning": "The content discusses the importance of quality assurance and engineering practices in software development, particularly the concept of 'shift left' which aligns with the principles of working software. It highlights the need for teams to take ownership of their code and support it in production, which is crucial for delivering functional software. The depth of discussion on practices like test-driven development and pair programming indicates a strong focus on ensuring software quality and functionality. However, while it touches on key aspects of working software, it does not explicitly define or categorise working software within Agile or Scrum frameworks, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Decision Making": {
@@ -316,11 +325,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-12T02:12:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T09:49:15",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses engineering practices such as shifting quality assurance left, test-driven development, pair programming, and the importance of clean code and architecture. It aligns well with the principles of Agile development and emphasizes methodologies that enhance software quality and team effectiveness.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the concept of 'shift left' in quality assurance, which aligns closely with the principles of clean code, test-driven development (TDD), and the importance of integrating testing and support into the engineering process. It highlights the need for engineering teams to take ownership of their code, including testing and maintenance, which is a core tenet of Agile practices. The discussion on pair programming and TDD further reinforces the focus on high-quality engineering practices. The depth of the discussion is significant, providing detailed insights into how these practices can enhance productivity and product quality, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Portfolio Management": {
@@ -334,11 +346,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T02:12:53",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-11T11:12:50",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 38,
+    "ai_depth": 36,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "Content primarily discusses quality assurance practices in software engineering, specifically focusing on the concept of 'shift left', test-driven development, and the importance of integrating quality into the development process. It aligns closely with key topics in software development methodologies and practices.",
+    "final_score": 85.0,
+    "reasoning": "The content extensively discusses the concept of 'shift left' in quality assurance, which is a critical aspect of modern software development practices. It elaborates on the importance of integrating testing and support into the development process, aligning closely with best practices in coding and software design. The discussion includes references to Agile methodologies, test-driven development, and the need for collaboration within engineering teams, all of which are core themes of the Software Development category. The depth of the discussion is significant, providing detailed insights into how these practices can lead to better software quality and efficiency, thus justifying a high confidence score.",
     "level": "Primary"
   },
   "Engineering Excellence": {
@@ -1231,29 +1246,38 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-12T02:11:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:33:12",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses strategies for improving quality assurance through practices like shift left, test-driven development, and pair programming, which are all aimed at enhancing value delivery in software engineering. It highlights the importance of iterative development and aligning engineering practices with customer needs, making it a central theme.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the concept of 'shift left' in quality assurance, which aligns with the principles of iterative development and continuous delivery. It highlights the importance of integrating quality practices early in the development cycle and the role of cross-functional teams in supporting and maintaining the product. However, while it touches on value delivery, the primary focus is on technical practices and methodologies rather than explicitly discussing strategies for maximising customer value or aligning product development with customer needs.",
     "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T02:11:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:48:26",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses engineering practices such as shifting quality assurance left, test-driven development, and pair programming, all of which are central to enhancing technical excellence in software development.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the concept of 'shift left' in quality assurance, emphasising the importance of integrating testing and support into the development process. It aligns closely with key topics of Technical Excellence, such as Test-Driven Development (TDD), Continuous Integration and Continuous Delivery (CI/CD), and the need for modular architecture. The depth of discussion is significant, providing detailed insights into how these practices enhance engineering quality and team effectiveness. The content also touches on the integration of Agile methodologies with technical practices, reinforcing its relevance to the category.",
     "level": "Secondary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-12T02:11:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T11:36:33",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses modern software engineering practices, particularly the concept of 'shift left' in quality assurance, which aligns with agile methodologies. It explores how these practices enhance organisational adaptability and responsiveness, emphasising the importance of team-based approaches and continuous improvement, which are central to organisational agility.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses modern software engineering practices, particularly the concept of 'shift left' in quality assurance, which indirectly relates to organisational agility by promoting adaptability and responsiveness in development processes. However, it primarily focuses on technical practices rather than the broader organisational strategies and cultural shifts that define agility. While there are mentions of agile practices and team dynamics, the depth of discussion does not fully explore the key topics outlined in the category, such as leadership roles or continuous improvement strategies.",
     "level": "Secondary"
   },
   "Personal": {
@@ -1267,11 +1291,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-12T02:11:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:53:52",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the role of engineering teams in quality assurance, the importance of collaboration, and the integration of various skills within teams, which aligns well with the themes of team dynamics and process improvement in technology development.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of team dynamics and collaboration in the context of quality assurance and engineering practices. It highlights how shifting responsibilities to the engineering team enhances their involvement in the entire development process, which aligns with the category's focus on human behaviour and structured methodologies. However, while it touches on these themes, the primary focus remains on technical practices and methodologies rather than a deep exploration of the interplay between people and processes.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {
@@ -1375,11 +1402,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T13:49:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T11:36:30",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile practices and modern software engineering, which are related to the themes of collaboration and continuous improvement within teams, but it primarily focuses on quality assurance and engineering processes rather than the frameworks themselves.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses modern software engineering practices, including concepts like 'shift left' and test-driven development, which are relevant to Agile methodologies. However, it lacks explicit references to specific frameworks like Scrum or Kanban, and while it touches on collaboration and team dynamics, it does not delve deeply into the core principles of Social Technologies. The focus is more on engineering practices rather than the frameworks that facilitate collaboration and continuous improvement.",
     "level": "Tertiary"
   },
   "Internal Developer Platform": {

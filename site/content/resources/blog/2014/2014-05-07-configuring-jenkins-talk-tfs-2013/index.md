@@ -8,7 +8,7 @@ ResourceImportId: 10526
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-05-07
-weight: 775
+weight: 720
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,13 +30,12 @@ tags:
 - Install and Configuration
 - Practical Techniques and Tooling
 - System Configuration
-- Continuous Integration
 - Software Development
-- Technical Excellence
 - Technical Mastery
-- Operational Practices
+- Continuous Integration
 - Modern Source Control
 - Pragmatic Thinking
+- Technical Excellence
 categories:
 - DevOps
 preview: naked-alm-jenkins-logo-9-9.png

@@ -8,7 +8,7 @@ ResourceImportId: 8617
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-09-02
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,12 +30,10 @@ aliasesArchive:
 - /the-evolution-of-a-blog--the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
 - /blog/the-evolution-of-a-blog--the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
 - /resources/blog/the-evolution-of-a-blog-the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
-categories:
-- Engineering Excellence
+categories: []
 preview: nakedalm-logo-128-link-9-9.png
 tags:
 - Install and Configuration
-- Personal
 - Troubleshooting
 
 ---

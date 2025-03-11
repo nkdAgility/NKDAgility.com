@@ -28,7 +28,7 @@ aliasesArchive:
 - /resources/blog/tfs-event-handler-in-net-3-5
 tags:
 - Software Development
-- Technical Mastery
+- Practical Techniques and Tooling
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

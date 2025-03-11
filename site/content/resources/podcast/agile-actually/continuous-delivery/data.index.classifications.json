@@ -76,12 +76,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T15:31:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:19:04",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a podcast that provides insights into Agile practices, which is a major theme, but it primarily focuses on the hosts and their expertise rather than specific news or reviews.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses a podcast that focuses on Agile principles, specifically the importance of language in the Agile context. While it mentions Agile and DevOps, the primary focus is on the podcast's insights rather than providing a review or news update. The hosts' credentials add depth, but the content lacks a broader industry context or recent developments, which limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -112,12 +115,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T15:31:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T11:53:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of language and communication in the Agile context, which relates to team dynamics and collaboration, but it primarily focuses on the podcast hosts and their expertise.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of language and communication in Agile environments, which aligns with the category's focus on team dynamics and collaboration. However, it lacks detailed exploration of specific processes or methodologies, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
@@ -133,12 +139,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T15:31:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:19:00",
+    "ai_confidence": 68.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and the importance of language in the Agile context, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses Agile principles and the importance of language in the Agile context, which aligns with the core themes of Social Technologies. However, it lacks detailed exploration of specific frameworks like Scrum or Kanban, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -664,11 +673,14 @@
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T23:35:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:01:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the importance of transparency in communication, particularly in the context of Agile, emphasizing precision and accurate language, which aligns well with the principles of transparency and accountability.",
+    "final_score": 66.0,
+    "reasoning": "The content explicitly mentions transparency and discusses its importance in communication, which aligns with the category's focus. However, the depth of discussion is limited, primarily revolving around the significance of language rather than providing comprehensive insights into accountability or team dynamics.",
     "level": "Secondary"
   },
   "Hypothesis Driven Development": {
@@ -1096,11 +1108,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T23:35:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:07:35",
+    "ai_confidence": 62.0,
+    "ai_mentions": 50.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content touches on agile principles and the roles of agile coaches, which are relevant to the discussion of software developers but does not focus primarily on software developers themselves.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Agile principles and the importance of language in the Agile context, which aligns with the role of software developers. However, it lacks specific details on practices like CI/CD or TDD, and the focus is more on the hosts' credentials and general Agile coaching rather than on software developers' roles directly.",
     "level": "Tertiary"
   },
   "Evidence Based Management": {
@@ -1213,11 +1228,14 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T23:35:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:24:57",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of transparency in the Agile world, which relates to empirical process control; however, it is not the primary focus and mostly centers on language and context.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the importance of transparency in Agile, which is a key aspect of empirical process control. However, it lacks detailed exploration of inspection and adaptation, and does not provide substantial depth or direct mentions of empirical process control principles. The focus is more on language and communication rather than the core practices of empirical process control.",
     "level": "Tertiary"
   },
   "Decision Theory": {
@@ -1231,11 +1249,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T23:35:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:03:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content touches on Agile principles and the importance of language in the Agile context, but it primarily focuses on the podcast format and the hosts rather than providing practical problem-solving strategies or deep discussions on Agile practices.",
+    "final_score": 56.0,
+    "reasoning": "The content briefly touches on Agile principles and the importance of language in the Agile context, which aligns with pragmatic thinking. However, it lacks detailed discussions on practical problem-solving strategies or real-world applications of Agile and DevOps principles, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Azure Pipelines": {

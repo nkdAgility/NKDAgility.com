@@ -25,16 +25,16 @@ preview: https://i.ytimg.com/vi/xJsuDbsFzlw/maxresdefault.jpg
 duration: 198
 isShort: false
 tags:
+- Agile Project Management
 - Coaching
 - Agile Planning Tools
+- People and Process
 - Agile Planning
-- Agile Frameworks
 - Agile Product Management
-- Agile Project Management
 - Agile Transformation
 - Events and Presentations
-- People and Process
 - Pragmatic Thinking
+- Scrum Master
 sitemap:
   filename: sitemap.xml
   priority: 0.6

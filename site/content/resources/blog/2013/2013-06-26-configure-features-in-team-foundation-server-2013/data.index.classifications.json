@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T18:28:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:00:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the configuration of features in Team Foundation Server 2013, which is a practical application of tooling relevant to Agile and DevOps practices.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed walkthrough of configuring features in Team Foundation Server 2013, which directly relates to practical tooling in Agile and DevOps contexts. It discusses specific features, the configuration process, and the use of a wizard, aligning well with the category's focus on practical techniques and tooling. However, while it is rich in practical application, it lacks broader discussions on methodologies or frameworks, which slightly lowers the depth of discussion score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T18:28:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:47:23",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the configuration of features in Team Foundation Server 2013, providing step-by-step instructions and insights on the installation and configuration process.",
+    "final_score": 80.0,
+    "reasoning": "The content provides a detailed guide on configuring features in Team Foundation Server 2013, which directly aligns with the category of Install and Configuration. It discusses the steps involved in using a wizard to enable features, highlights the importance of configuration for functionality, and addresses potential issues that may arise during the process. The content is rich in actionable instructions and insights, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -280,12 +286,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T18:28:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:49:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses configuring features in Team Foundation Server 2013, which is part of the Azure DevOps suite. It provides insights into specific functionalities and processes related to Azure DevOps, making it a central topic.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses configuring features in Team Foundation Server 2013, which is part of the Azure DevOps suite. It provides specific details about the configuration process, including the use of wizards and the implications of upgrading from previous versions. However, while it mentions Azure DevOps indirectly through TFS, it lacks a broader discussion on Azure DevOps services or methodologies, which affects its overall alignment and depth of discussion.",
+    "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",
@@ -577,11 +586,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T19:12:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:28:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses configuring features in Team Foundation Server 2013, which is relevant to the software development process and tools. It addresses specific software setup activities, aligning closely with software development practices.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the configuration of features in Team Foundation Server 2013, which is directly related to software development practices, particularly in the context of project management and Agile methodologies. It mentions specific features, processes, and tools relevant to software development, such as the process template and the configuration wizard. However, while it provides practical guidance, the depth of discussion on broader software development methodologies or best practices is somewhat limited, focusing more on specific functionalities rather than overarching principles.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1045,11 +1057,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T19:12:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:38:31",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses configuring features in Team Foundation Server 2013, outlining steps and processes related to system setup, which aligns closely with key topics under system configuration.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on configuring features in Team Foundation Server 2013, which directly relates to system configuration. It discusses the process of using a wizard to enable features, the importance of configuration for functionality, and the need for specific settings based on the version of TFS being upgraded from. The depth of discussion includes practical steps and considerations for configuration, aligning well with the key topics of system optimisation and configuration management. However, while it is detailed, it does not cover broader aspects of system configuration such as security considerations or automation, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1198,12 +1213,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:54:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses configuring Team Foundation Server 2013 features, which indirectly relates to software development practices. However, it does not focus on Agile or DevOps methodologies, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses configuring features in Team Foundation Server 2013, which is relevant to software developers, particularly in the context of Agile methodologies. However, it lacks a direct focus on Agile or DevOps principles and does not delve into best practices or collaborative strategies. The mention of process templates and features is somewhat aligned with the role of developers, but the overall discussion is more technical and procedural rather than strategic or methodological.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1360,12 +1378,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:16:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:59:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses configuring features in Team Foundation Server 2013, which is related to Agile practices and Scrum process templates, but the primary focus is on the technical aspects of TFS rather than the methodologies themselves.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions the Visual Studio Scrum process template, which relates to Scrum practices, but the primary focus is on configuring features in Team Foundation Server 2013. While there are references to team administration and features that could imply collaboration, the overall discussion does not delve deeply into the core themes of Scrum, Kanban, Lean, or Agile methodologies. Therefore, the confidence score reflects a low alignment with the category.",
+    "level": "Quaternary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

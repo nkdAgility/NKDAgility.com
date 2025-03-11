@@ -32,6 +32,10 @@ tags:
 - Agile Philosophy
 - Agile Project Management
 - Agile Frameworks
+- Agile Strategy
+- People and Process
+- Pragmatic Thinking
+- Software Developers
 resourceTypes:
 - video
 categories:

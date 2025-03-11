@@ -2,7 +2,7 @@
 title: 'Transform Your Scrum Team in 90 Days: Strategies for Continuous Delivery and Empowerment'
 description: Transform your Scrum team's delivery in just 90 days! Discover strategies for continuous delivery, value clarity, and empowering champions for lasting success.
 date: 2023-06-27T07:00:06Z
-weight: 405
+weight: 350
 ResourceId: 4kqM1U7y1ZM
 ResourceType: videos
 ResourceImport: true
@@ -45,6 +45,7 @@ resourceTypes:
 categories:
 - Scrum
 - Social Technologies
+- Leadership
 
 ---
 When I embark on the journey of working with a new Scrum team, I often find myself reflecting on what I hope to achieve within the first 90 days. In my experience, this timeframe is typically sufficient to make significant strides, but it’s essential to consider the context in which the team operates. 

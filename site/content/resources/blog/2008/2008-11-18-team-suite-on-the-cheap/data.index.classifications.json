@@ -10,11 +10,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-16T11:07:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:49:00",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a specific software product, Visual Studio Team System 2008 Team Suite, including its features and a promotional discount, which aligns with the category's focus on tools and software relevant to Agile practices.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses a specific software product, Visual Studio Team System 2008 Team Suite, and its pricing, which aligns with the category of Products and Books. It provides a promotional perspective on the product, highlighting its benefits for development teams and collaboration, which is relevant to Agile practices. However, it lacks in-depth analysis or reviews of the product's methodologies or frameworks, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -343,11 +346,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:13:16",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-11T12:10:32",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content mentions tools that can enhance collaboration during the application lifecycle, but it primarily focuses on a promotional offer rather than discussing methodologies or practices related to product delivery.",
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions the Visual Studio Team System and its benefits for development teams, which relates to product delivery. However, it lacks a detailed discussion on methodologies, practices, or strategies that are central to the category. The focus is more on a promotional aspect rather than a comprehensive exploration of product delivery principles.",
     "level": "Quaternary"
   },
   "Organisational Physics": {
@@ -658,12 +664,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:11:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an offer related to Visual Studio Team System, which can enhance collaboration and productivity for development teams, making it a relevant but secondary theme for software developers.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a promotional offer for Visual Studio Team System 2008, which is a tool for software development. However, it lacks a direct focus on Agile or DevOps methodologies, and does not delve into best practices or the role of developers in these contexts. While it mentions collaboration and tools, it does not provide substantial detail or discussion on how these tools enhance productivity or align with modern engineering practices.",
+    "level": "Quaternary"
   },
   "AI": {
     "category": "AI",
@@ -1153,20 +1162,26 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T09:13:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:55:57",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions tools that could enhance collaboration within teams, although it primarily focuses on a promotional offer for a software product.",
-    "level": "Tertiary"
+    "final_score": 24.0,
+    "reasoning": "The content briefly mentions tools that could enhance team collaboration, but it primarily focuses on a promotional offer for Visual Studio Team System rather than discussing strategies or methodologies for improving team performance. The mention of collaboration is vague and lacks depth, failing to align with the core themes of the category.",
+    "level": "Quaternary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T09:13:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:44:49",
+    "ai_confidence": 55.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content mentions collaboration and tools within the context of Visual Studio Team System, but the primary focus is on promotional content for an upgrade rather than a detailed discussion about specific collaboration tools or best practices in Agile environments.",
+    "final_score": 50.0,
+    "reasoning": "The content discusses Visual Studio Team System and its benefits for collaboration within development teams, which aligns with the category. However, it lacks detailed exploration of specific collaboration features or practices, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Forecasting": {
@@ -1243,11 +1258,14 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:13:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:09:19",
+    "ai_confidence": 55.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a visual studio tool that could enhance team collaboration but primarily focuses on the upgrade promotion rather than in-depth collaboration techniques or strategies.",
+    "final_score": 50.0,
+    "reasoning": "The content discusses the benefits of upgrading to a full suite of tools that can enhance team collaboration during the application lifecycle. While it does mention collaboration, the focus is primarily on the promotional aspect of the software rather than on techniques or strategies for improving team dynamics or communication. Therefore, it aligns with the category but lacks depth and direct discussion on the core themes.",
     "level": "Tertiary"
   },
   "Strategy": {

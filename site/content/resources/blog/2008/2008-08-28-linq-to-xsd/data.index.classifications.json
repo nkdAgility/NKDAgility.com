@@ -10,11 +10,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:13:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:57:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 25.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific tool, LINQ to XSD, and its functionality, which aligns with the category's focus on tools and software relevant to Agile and DevOps practices.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses a specific software product, LINQ to XSD, and provides insights into its functionality and installation process. While it does not delve deeply into Agile or DevOps methodologies, it aligns with the category by focusing on a tool that can enhance development practices. The mention of project definitions and build actions indicates a practical application of the product, contributing to a moderate depth of discussion.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -145,11 +148,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T12:06:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:13:26",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 35,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration of LINQ to XSD, including specific steps for adding features to a project and necessary adjustments in project definition files.",
+    "final_score": 70.0,
+    "reasoning": "The content provides a detailed discussion on the installation and configuration of LINQ to XSD, including specific steps for setting up the tool and modifying project files. It explicitly mentions installation procedures and configuration details, which aligns well with the category's focus. However, while it covers practical aspects, it lacks broader context on integration or troubleshooting, which slightly limits its depth.",
     "level": "Secondary"
   },
   "Organisational Agility": {
@@ -433,12 +439,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:45:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses features and usage of LINQ to XSD in the context of C# development, which relates to software craftsmanship. However, the primary focus seems more on a specific tool rather than a broad discussion on principles or practices of software development excellence.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses LINQ to XSD and provides some technical details about its usage in C#. However, it primarily focuses on personal opinions and basic usage instructions rather than delving into best practices, principles of clean code, or broader software craftsmanship concepts. While there are mentions of project definitions and build actions, the overall discussion lacks depth in technical mastery and does not align closely with the core themes of the category.",
+    "level": "Quaternary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -712,12 +721,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T18:01:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:10:46",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the usage and setup of LINQ to XSD within a C# project, which is relevant to software development practices.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses LINQ to XSD, which is a specific technology related to software development, particularly in the context of C# and project setup. However, the discussion is primarily anecdotal and lacks depth in terms of methodologies or best practices. While it mentions project definitions and build actions, it does not delve into broader software development concepts or frameworks, resulting in a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -1315,12 +1327,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:11:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses installation and configuration steps for 'LINQ to XSD', including editing project definition files and dependencies related to C# projects. While it is primarily about LINQ to XSD, the focus on project setup implies a secondary theme of system configuration.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the installation and configuration of LINQ to XSD, which relates to system configuration. However, it primarily focuses on specific project setup in C# rather than broader system configuration principles. The mention of project definitions and build actions indicates some alignment with configuration practices, but the depth of discussion is limited to a specific tool without exploring wider system optimisation or management strategies.",
+    "level": "Quaternary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",

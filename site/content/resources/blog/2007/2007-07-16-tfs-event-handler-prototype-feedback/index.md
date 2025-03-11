@@ -24,7 +24,13 @@ aliasesArchive:
 - /resources/blog/tfs-event-handler-prototype-feedback
 tags:
 - Customer Feedback Loops
+- Install and Configuration
 - Product Validation
+- Practical Techniques and Tooling
+- Customer Satisfaction
+- Software Development
+- Troubleshooting
+- System Configuration
 categories: []
 preview: metro-merilllynch-128-link-1-1.png
 

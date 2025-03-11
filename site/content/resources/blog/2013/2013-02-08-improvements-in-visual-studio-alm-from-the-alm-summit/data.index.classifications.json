@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T19:23:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:10:10",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses improvements in Visual Studio ALM, focusing on practical features and tools such as Git integration, test management, and Kanban swim lanes, which enhance Agile and DevOps practices.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed overview of new features in Visual Studio ALM that enhance Agile and DevOps practices, such as DVCS support for Git, web-based test management, and Kanban swim lanes. It explicitly discusses practical tools and methodologies, aligning well with the category's focus. The depth of discussion on specific features and their implications for team performance and collaboration further supports a high confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:51:32",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses improvements in Visual Studio ALM that relate to version control, test management, and process management, which are relevant to DevOps practices. However, the primary focus is on specific features rather than a comprehensive discussion of DevOps principles or practices.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses improvements in Visual Studio ALM, touching on aspects like version control with Git, test management, and Kanban, which are relevant to DevOps practices. However, it lacks a focused discussion on the principles of DevOps, such as CI/CD or cultural shifts, and does not provide in-depth analysis or metrics related to DevOps success. Therefore, while there are relevant mentions, the overall depth and alignment with the core themes of DevOps are limited.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -145,11 +151,14 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T19:23:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:50:46",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses improvements announced at the ALM Summit event, including a keynote speech and various features related to Visual Studio ALM, making it a central topic.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses improvements announced at the ALM Summit, including a keynote speech by Brian Harry, which directly ties to the category of Events and Presentations. However, while it mentions the event and provides some details about the features introduced, the primary focus is on the features themselves rather than the event's broader context or discussions. The depth of discussion on the event is moderate, as it highlights specific improvements but lacks extensive insights or reflections on the event's overall impact or community engagement.",
     "level": "Secondary"
   },
   "Flow Efficiency": {
@@ -199,20 +208,26 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-15T19:24:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:10:07",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content discusses Kanban swim lanes and their implementation in Visual Studio ALM, making Kanban a primary topic in the context of the improvements being highlighted.",
+    "final_score": 65.0,
+    "reasoning": "The content includes a section specifically discussing 'Kanban swim lanes', which directly mentions Kanban and its implementation in Visual Studio ALM. This indicates a clear focus on Kanban principles, particularly in relation to visualising work processes. However, the overall content primarily revolves around improvements in Visual Studio ALM and does not deeply explore Kanban's core themes such as flow management or continuous improvement practices. The discussion on Kanban is present but not the primary focus, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T19:24:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:51:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses improvements in Visual Studio ALM that enhance engineering practices, such as the introduction of DVCS, test management features, and Kanban swim lanes, which align with the principles of technical excellence.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses various improvements in Visual Studio ALM, including features related to Git, test management, and Kanban, which align with technical practices that enhance software development processes. However, while it touches on relevant topics like test management and version control, the discussion lacks depth in exploring the principles and methodologies of Technical Excellence, focusing more on feature announcements rather than a comprehensive analysis of engineering practices.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -280,11 +295,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T19:24:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:40:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses improvements in Visual Studio ALM, which is closely related to Azure DevOps services, particularly in the context of CI/CD, test management, and version control. It highlights specific features and functionalities that align with Azure DevOps, making it a major theme.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses various improvements in Visual Studio ALM, which is closely related to Azure DevOps, particularly in terms of features like Git integration, test management, and Kanban boards. It explicitly mentions Team Foundation Server (TFS), which is part of the Azure DevOps suite. However, while it provides a good overview of new features, it lacks a deeper exploration of best practices or methodologies specific to Azure DevOps, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -334,20 +352,26 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-15T19:24:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:31:02",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses new features and improvements in Visual Studio ALM announced at the ALM Summit, which aligns with industry updates relevant to Agile and DevOps practices.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed overview of new features and improvements in Visual Studio ALM announced at the ALM Summit, which aligns well with the category of News and Reviews. It discusses specific updates related to Agile and DevOps practices, such as the introduction of DVCS, quality enablement improvements, and Kanban swim lanes. The depth of discussion is significant, as it not only lists features but also explains their implications for users, thus providing valuable insights for practitioners. The primary focus is on industry news and updates, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T19:24:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:56:04",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses improvements in Visual Studio ALM, highlighting features that enhance the application lifecycle management process, such as version control, test management, and work item tracking.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on improvements in Visual Studio ALM, discussing various features and tools that enhance the application lifecycle management process. It explicitly mentions ALM and covers key aspects such as test management, version control, and process improvement, which are integral to managing the application lifecycle. The depth of discussion is substantial, providing detailed insights into specific features and their implications for application governance and efficiency. Overall, the content aligns well with the core themes of Application Lifecycle Management.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -730,12 +754,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:50:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses improvements in Visual Studio ALM that enhance software development practices, such as test management and version control. However, it primarily focuses on specific features rather than overarching principles or practices of engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses improvements in Visual Studio ALM, highlighting features that enhance software development practices, such as DVCS support, quality enablement improvements, and Kanban swim lanes. While it touches on aspects of engineering excellence, such as test management and version control, the primary focus is on specific tool features rather than broader engineering principles or practices. The depth of discussion on engineering excellence is limited, as it does not delve into best practices or continuous improvement strategies in a comprehensive manner.",
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1351,12 +1378,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:48:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:40:38",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Kanban principles and features related to Agile practices within Visual Studio ALM, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses various improvements in Visual Studio ALM, including features related to Kanban and test management, which align with the principles of Agile methodologies. However, the primary focus is on specific software features rather than a comprehensive discussion of social technologies or frameworks like Scrum or Lean. The mention of Kanban swim lanes indicates some relevance, but the overall depth and direct engagement with the core themes of social technologies are limited.",
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",

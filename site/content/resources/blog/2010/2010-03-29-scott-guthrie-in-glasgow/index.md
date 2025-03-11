@@ -23,10 +23,8 @@ aliasesArchive:
 - /scott-guthrie-in-glasgow
 - /resources/blog/scott-guthrie-in-glasgow
 tags:
-- News and Reviews
 - Events and Presentations
-- Software Development
-- Technical Mastery
+- News and Reviews
 categories: []
 preview: metro-visual-studio-2010-128-link-2-1.png
 

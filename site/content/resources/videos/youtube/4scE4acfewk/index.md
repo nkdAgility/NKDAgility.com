@@ -28,21 +28,22 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Agile Values and Principles
+- People and Process
 - Agile Philosophy
-- Team Collaboration
 - Team Motivation
-- Organisational Culture
-- Agile Project Management
 - Agile Leadership
+- Team Collaboration
+- Organisational Culture
 - Decision Making
+- Agile Project Management
 - Team Performance
 resourceTypes:
 - video
 layout: video
 categories:
 - Social Technologies
+- Leadership
 - Product Management
 
 ---

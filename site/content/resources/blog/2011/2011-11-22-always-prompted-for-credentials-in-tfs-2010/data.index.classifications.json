@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T21:45:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:26:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content provides practical steps for resolving a specific issue related to TFS and Active Directory, detailing a workaround and configuration changes that enhance user experience with tooling.",
+    "final_score": 66.0,
+    "reasoning": "The content provides a practical solution to a specific issue related to TFS and Active Directory, detailing steps to configure Internet Explorer for seamless authentication. While it does mention a tool (Internet Explorer) and a workaround, the focus is more on troubleshooting rather than a broader exploration of Agile or DevOps methodologies or tools. The discussion lacks depth in terms of methodologies or frameworks that enhance team performance or collaboration, which is a key aspect of the category.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T21:46:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:59:09",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content provides a step-by-step guide on resolving a specific configuration issue related to TFS and Active Directory, which aligns with the category's focus on installation and configuration processes.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed guide on resolving a specific issue related to TFS 2010 installation and configuration, particularly focusing on user authentication and Active Directory settings. It includes step-by-step instructions for configuring Internet Explorer to ensure seamless authentication, which aligns well with the category's focus on actionable installation and configuration insights. The discussion is primarily technical, addressing a common configuration issue, and offers practical solutions, thus demonstrating a strong alignment with the key topics outlined in the category.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -775,12 +781,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:02:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content provides practical advice and troubleshooting steps for resolving a specific issue related to TFS and Active Directory, which aligns with pragmatic problem-solving in a real-world context, but does not deeply engage with Agile, Scrum, or DevOps frameworks.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses a practical issue related to TFS and Active Directory, providing a workaround for a common problem. However, while it offers a solution, it lacks a broader discussion on Agile, Scrum, or DevOps principles, which are central to the category of Pragmatic Thinking. The focus is primarily on a specific technical issue rather than on the application of pragmatic problem-solving strategies in complex environments.",
+    "level": "Quaternary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1045,11 +1054,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T22:11:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:46:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses system configuration issues related to TFS 2010 and Active Directory, including steps for adjusting settings in Internet Explorer to resolve authentication prompts, which aligns with the category.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the configuration of TFS (Team Foundation Server) in relation to Active Directory settings, which directly pertains to system configuration. It provides specific steps for configuring Internet Explorer to ensure proper authentication without repeated credential prompts, aligning well with best practices for system setup and configuration. The depth of discussion includes troubleshooting and practical steps, which enhances its relevance to the category. However, while it is focused on configuration, it does not delve deeply into broader system optimisation strategies or configuration management tools, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1099,11 +1111,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T22:11:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:58:34",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to Internet Explorer settings and Active Directory authentication, which are relevant to managing a Windows environment, specifically in relation to TFS 2010. It provides practical steps for configuring Internet Explorer to resolve credential prompting, aligning closely with Windows administration topics.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses a specific issue related to Windows Internet Explorer and Active Directory authentication within a Windows environment. It provides detailed steps for configuring Internet Explorer settings to resolve a common problem faced by users in a Windows network. The direct mentions of Windows-related components, such as Internet Explorer and Active Directory, indicate a strong focus on the Windows operating system. Additionally, the depth of discussion regarding troubleshooting and configuration aligns well with the key topics outlined for the Windows category.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
@@ -1153,11 +1168,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T22:11:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:36:51",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses how to resolve an issue related to being prompted for credentials in TFS 2010, providing specific steps and insights on the underlying causes and solutions.",
+    "final_score": 78.0,
+    "reasoning": "The content directly addresses a specific issue related to TFS 2010 where users are prompted for credentials, which is a clear troubleshooting scenario. It provides a detailed explanation of the problem, identifies the root cause related to Active Directory settings, and offers a practical workaround. The steps outlined for resolving the issue demonstrate a strong alignment with troubleshooting methodologies, including the identification of the problem and actionable solutions. The depth of discussion is significant, as it not only explains the issue but also provides a step-by-step guide for users to follow, enhancing the practical application of troubleshooting techniques.",
     "level": "Secondary"
   },
   "Experimentation": {

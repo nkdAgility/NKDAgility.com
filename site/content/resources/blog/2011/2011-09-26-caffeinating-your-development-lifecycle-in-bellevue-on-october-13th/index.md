@@ -8,7 +8,7 @@ ResourceImportId: 3796
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-09-26
-weight: 550
+weight: 630
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,10 +24,10 @@ aliasesArchive:
 - /resources/blog/caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
 tags:
 - Events and Presentations
+- News and Reviews
+- Application Lifecycle Management
 categories:
-- Product Management
-- DevOps
-- Engineering Excellence
+- Social Technologies
 preview: metro-nwc-128-link-3-3.png
 
 ---

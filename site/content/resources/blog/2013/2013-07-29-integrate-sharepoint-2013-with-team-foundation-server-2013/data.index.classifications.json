@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T17:57:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:58:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the integration of SharePoint 2013 with Team Foundation Server 2013, detailing practical steps, configurations, and methodologies relevant to tooling in Agile and DevOps practices.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed guide on integrating SharePoint 2013 with Team Foundation Server 2013, which directly relates to practical techniques and tooling in the context of Agile and DevOps practices. It discusses specific steps, configurations, and considerations for using these tools together, demonstrating a clear application of methodologies. The depth of the discussion is substantial, covering installation, configuration, and troubleshooting, which aligns well with the category's focus on practical application. However, while it is primarily focused on tooling, it lacks broader discussions on Agile methodologies or metrics, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,12 +76,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T17:58:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:45:15",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily focuses on the step-by-step installation and configuration of SharePoint 2013 with Team Foundation Server 2013, detailing specific procedures, troubleshooting tips, and best practices.",
-    "level": "Secondary"
+    "final_score": 81.0,
+    "reasoning": "The content provides a detailed step-by-step guide on integrating SharePoint 2013 with Team Foundation Server 2013, which directly aligns with the 'Install and Configuration' category. It includes explicit installation procedures, configuration steps, and troubleshooting tips, demonstrating a strong focus on practical implementation. The depth of discussion is significant, covering various aspects of the installation and configuration process, including prerequisites, configuration of extensions, and integration specifics. Overall, the content is highly relevant and actionable for users looking to set up these tools.",
+    "level": "Primary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -280,12 +286,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T17:58:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:47:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 55.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the integration of SharePoint 2013 with Team Foundation Server 2013, which is a component of Azure DevOps. It provides detailed steps and considerations for this integration, aligning with Azure DevOps functionalities.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses the integration of SharePoint 2013 with Team Foundation Server (TFS) 2013, which is part of the Azure DevOps suite. It provides detailed steps for configuration and integration, indicating a strong focus on TFS functionalities. However, it lacks broader discussions on Azure DevOps services and methodologies, which affects its overall alignment with the category. The depth of technical detail is significant, but the content does not fully encompass the wider Azure DevOps ecosystem.",
+    "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",
@@ -343,11 +352,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T17:58:51",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T18:37:07",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the integration of SharePoint with Team Foundation Server (TFS), which is relevant to Application Lifecycle Management (ALM) as it touches on aspects of managing software applications, particularly in the context of collaboration and document management. However, the primary focus is on the technical integration process rather than a comprehensive discussion of ALM methodologies or practices.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the integration of SharePoint with Team Foundation Server (TFS), which is relevant to Application Lifecycle Management (ALM) as it touches on aspects of application deployment and maintenance. However, while it mentions ALM consultants and the importance of support, the primary focus is on technical integration steps rather than a comprehensive discussion of the application lifecycle stages or governance practices. The depth of discussion on ALM principles is moderate, but it lacks a broader context of application lifecycle management methodologies and best practices.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -577,11 +589,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T21:30:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:27:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the integration of SharePoint with Team Foundation Server (TFS), which is relevant to software development processes and practices, particularly in the context of Application Lifecycle Management (ALM) and collaboration tools used in software project management.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on integrating SharePoint with Team Foundation Server (TFS), which is a relevant topic within the software development domain. It discusses specific steps and configurations, aligning well with best practices in software development and version control systems. The depth of discussion is substantial, providing detailed instructions and considerations for integration, which is crucial for software engineering outcomes. However, the content leans heavily on a specific tool integration rather than broader software development methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1099,11 +1114,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T21:30:36",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-11T11:53:03",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 30,
-    "final_score": 70.0,
-    "reasoning": "The content discusses the installation and configuration of SharePoint Server 2013 on Windows Server 2012, which falls within the Windows category's focus on installation and configuration settings. However, the primary theme revolves around SharePoint integration rather than Windows itself.",
+    "final_score": 68.0,
+    "reasoning": "The content primarily discusses the integration of SharePoint 2013 with Team Foundation Server 2013, which involves installation and configuration steps that are relevant to the Windows operating system. While it does mention Windows Server and installation procedures, the focus is more on SharePoint and TFS rather than on Windows itself. The content does not delve deeply into Windows-specific troubleshooting, updates, or performance optimisation, which are key themes of the Windows category. Therefore, while there is some relevance, it does not fully align with the primary focus of the Windows category.",
     "level": "Secondary"
   },
   "Deployment Strategies": {

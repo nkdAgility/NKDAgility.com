@@ -31,8 +31,8 @@ aliasesArchive:
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 tags:
-- Install and Configuration
 - Troubleshooting
+- Install and Configuration
 - System Configuration
 
 ---

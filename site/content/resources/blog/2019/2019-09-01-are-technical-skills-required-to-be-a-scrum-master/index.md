@@ -8,7 +8,7 @@ ResourceImportId: 39894
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2019-09-01
-weight: 405
+weight: 330
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,18 +27,19 @@ aliasesArchive:
 - /blog/are-technical-skills-required-to-be-a-scrum-master-
 - /resources/blog/are-technical-skills-required-to-be-a-scrum-master
 tags:
+- People and Process
 - Coaching
 - Scrum Product Development
-- Events and Presentations
 - Professional Scrum
 - Scrum Master
 - Scrum Team
 - Software Development
 - Team Performance
 - Technical Mastery
-- Agile Product Management
+- Technical Leadership
 categories:
 - Scrum
+- Social Technologies
 preview: 1029723898-1-1.jpg
 
 ---

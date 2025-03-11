@@ -24,8 +24,6 @@ aliasesArchive:
 - /resources/blog/tfs-event-handler-ctp-2-released
 tags:
 - Install and Configuration
-- Software Development
-- System Configuration
 categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 

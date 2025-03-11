@@ -27,14 +27,13 @@ aliasesArchive:
 - /blog/use-corporate-identities-with-existing-vso-accounts
 - /resources/blog/use-corporate-identities-existing-vso-accounts
 tags:
-- Windows
 - Install and Configuration
+- System Configuration
+- Windows
 - Azure DevOps
 - Practical Techniques and Tooling
-- System Configuration
 - Troubleshooting
-categories:
-- DevOps
+categories: []
 preview: nakedalm-experts-visual-studio-alm-11-11.png
 
 ---

@@ -8,7 +8,7 @@ ResourceImportId: 69
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-03
-weight: 640
+weight: 720
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,18 +27,19 @@ aliasesArchive:
 - /blog/solution--getting-silverlight-to-build-on-team-foundation-build-services-2010
 - /resources/blog/solution-getting-silverlight-to-build-on-team-foundation-build-services-2010
 tags:
-- Troubleshooting
 - Install and Configuration
+- Troubleshooting
 - Practical Techniques and Tooling
 - Software Development
 - System Configuration
-- Azure DevOps
 - Continuous Integration
 - Operational Practices
 - Pragmatic Thinking
 - Technical Excellence
 categories:
+- DevOps
 - Engineering Excellence
+- Scrum
 preview: metro-visual-studio-2010-128-link-3-3.png
 
 ---

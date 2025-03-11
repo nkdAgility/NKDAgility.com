@@ -55,11 +55,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T22:12:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:24:16",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content provides detailed instructions on creating a WCF Service Host programmatically, including setting up base addresses, service behaviors, and endpoints, which aligns with installation and configuration processes.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed guide on creating a WCF Service Host programmatically, which directly relates to the installation and configuration of a specific software component. It includes step-by-step instructions, code snippets, and configuration settings, demonstrating a clear focus on the technical aspects of setting up the service. The discussion aligns well with the key topics of the category, such as configuration best practices and troubleshooting common issues. The depth of the discussion is substantial, covering various aspects of the setup process, including security considerations and endpoint configuration.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -100,12 +103,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T22:12:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:19:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content provides a detailed, practical guide on creating a WCF Service Host programmatically, including specific code examples and configurations, which aligns with the exploration and application of tooling in a development context.",
-    "level": "Secondary"
+    "final_score": 30.0,
+    "reasoning": "The content provides a detailed technical guide on creating a WCF service host programmatically, which aligns with practical techniques and tooling. However, it lacks explicit references to Agile or DevOps methodologies, and while it discusses specific coding practices and configurations, it does not delve into broader tool selection or integration strategies. The focus is primarily on implementation rather than on the exploration of methodologies or frameworks that enhance team performance or collaboration.",
+    "level": "Quaternary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -316,11 +322,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T22:12:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T19:05:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical implementation of creating a WCF Service Host, which involves engineering practices related to service architecture, security, and configuration. It aligns well with the principles of technical excellence in software development.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the technical implementation of a WCF service, detailing specific code snippets and configurations. While it does not explicitly mention concepts like TDD, CI/CD, or modular architecture, it aligns with the principles of technical excellence through its emphasis on code quality and service behaviour configurations. However, the discussion lacks depth in exploring broader engineering practices or methodologies that enhance agility, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "People and Process": {
@@ -370,11 +379,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T08:18:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:52:30",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical aspects of configuring a Windows Communication Foundation (WCF) service, including setting up service hosts, configuring endpoints, and specifying bindings, which directly relate to system configuration practices.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the technical aspects of configuring a WCF service, including setting up base addresses, service hosts, behaviors, endpoints, and bindings. It provides detailed code examples and discusses specific configuration settings, which aligns well with the core themes of system configuration. However, while it is rich in detail, it does not explicitly discuss broader system optimisation strategies or configuration management tools, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
@@ -577,11 +589,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T08:18:59",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T12:17:30",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses the technical implementation of creating a WCF Service Host programmatically, which is a key aspect of software development practices and methodologies.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed guide on creating a WCF Service Host programmatically, which directly relates to software development practices. It discusses specific coding techniques, service configuration, and security considerations, aligning well with best practices in software design and development methodologies. The depth of the discussion is significant, as it includes code snippets and explanations of various components involved in the process, demonstrating a thorough understanding of the subject matter.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {
@@ -1234,12 +1249,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:24:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content provides technical details on creating a WCF Service Host programmatically, which involves principles of software development and coding practices, but does not delve deeply into engineering excellence topics like best practices or quality assurance.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical implementation of a WCF service, which does not explicitly discuss engineering excellence or best practices in software craftsmanship. While it touches on aspects of coding standards and technical implementation, it lacks a broader discussion on continuous improvement, quality assurance, or team collaboration, which are key themes of the Engineering Excellence category.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

@@ -8,7 +8,7 @@ ResourceImportId: 91
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-08-17
-weight: 775
+weight: 810
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,7 +23,9 @@ aliasesArchive:
 - /updating-the-command-line-parser
 - /resources/blog/updating-the-command-line-parser
 tags:
+- Software Development
 - Technical Mastery
+- Practical Techniques and Tooling
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-2-1.png

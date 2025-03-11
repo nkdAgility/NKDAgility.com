@@ -25,13 +25,9 @@ preview: https://i.ytimg.com/vi/isdope3qkx4/hqdefault.jpg
 duration: 2351
 isShort: false
 tags:
-- Azure DevOps
-- Events and Presentations
-- News and Reviews
 - People and Process
-- Agile Project Management
+- Events and Presentations
 - Software Developers
-- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -39,7 +35,9 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Social Technologies
 - Scrum
+- DevOps
 
 ---
 Hello, I’m Martin Hinshelwood, and today I want to share some insights from my recent experiences in the world of Agile and DevOps. Over the past few weeks, I’ve been engaging in live sessions, and it’s been fascinating to see how many of you are actively inspecting and adapting your practices. This is a testament to the Agile mindset, and I’m excited to continue these discussions regularly.

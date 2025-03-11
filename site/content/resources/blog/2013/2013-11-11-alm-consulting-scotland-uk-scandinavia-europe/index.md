@@ -8,7 +8,7 @@ ResourceImportId: 10226
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-11-11
-weight: 455
+weight: 445
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -31,20 +31,20 @@ aliasesArchive:
 - /blog/alm-consulting-in-scotland--uk--scandinavia-&amp;-europe
 - /resources/blog/alm-consulting-scotland-uk-scandinavia-europe
 tags:
-- Coaching
 - Application Lifecycle Management
-- People and Process
-- Software Development
+- Coaching
 - Practical Techniques and Tooling
-- Product Delivery
+- Software Development
 - Operational Practices
 - Pragmatic Thinking
-- Technical Excellence
+- Product Delivery
 - Agile Project Management
+- People and Process
+- Software Developers
 categories:
-- Social Technologies
 - Engineering Excellence
 - DevOps
+- Social Technologies
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

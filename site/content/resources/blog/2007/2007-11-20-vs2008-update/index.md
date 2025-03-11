@@ -24,6 +24,7 @@ aliasesArchive:
 - /resources/blog/vs2008-update
 tags:
 - Events and Presentations
+- News and Reviews
 categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 

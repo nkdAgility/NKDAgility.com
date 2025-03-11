@@ -262,11 +262,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T12:45:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:14:37",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content provides specific instructions on modifying a configuration file to enable a .NET application to work with a proxy server, which aligns with installation and configuration processes.",
+    "final_score": 72.0,
+    "reasoning": "The content provides specific instructions on modifying a configuration file to enable a .NET application to work with a proxy server, which aligns with the installation and configuration theme. However, while it does mention installation indirectly, the primary focus is on a specific use case rather than a comprehensive guide. The depth of discussion is moderate, as it includes a code snippet but lacks broader context or troubleshooting advice.",
     "level": "Secondary"
   },
   "Business Agility": {
@@ -433,12 +436,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:46:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses modifying a configuration file for .NET applications to work with proxy servers, which aligns with technical practices but primarily focuses on a specific application scenario rather than broader principles of software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content provides a specific technical solution for configuring a .NET application to work with proxy servers, which aligns with the principles of software craftsmanship. However, it lacks broader discussions on best practices, code quality, or architectural principles, making it a secondary focus rather than a primary exploration of technical mastery.",
+    "level": "Quaternary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -685,11 +691,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:12:13",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content mainly discusses configuring a .NET application to work behind a proxy server, which is a technical topic related to Windows environments, but does not focus primarily on the Windows operating system itself.",
+    "final_score": 41.0,
+    "reasoning": "The content discusses a specific configuration related to a .NET application that may run on Windows, but it does not explicitly focus on Windows as an operating system. While it mentions a configuration file and proxy settings, the primary focus is on syncing contacts with Outlook and does not delve into broader Windows topics such as installation, troubleshooting, or system updates. Therefore, the confidence score reflects a moderate alignment with the Windows category.",
     "level": "Tertiary"
   },
   "Product Strategy": {
@@ -1216,11 +1225,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T18:01:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:57:57",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content provides a specific solution for configuring a .NET application to work with proxy servers, which aligns with diagnosing and resolving a technical issue.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific issue related to syncing applications behind a proxy server, which aligns with troubleshooting technical problems. It provides a direct solution by modifying a configuration file, indicating a practical approach to resolving the issue. However, the discussion lacks depth and broader context on troubleshooting methodologies, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Scrum Master": {
@@ -1315,11 +1327,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T18:01:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:11:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration of a .NET application's proxy settings, which aligns closely with system configuration practices.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses configuring a .NET application to work with a proxy server, which directly relates to system configuration. It provides specific instructions on modifying a configuration file, demonstrating a practical approach to system setup. However, the overall focus is somewhat limited to a specific use case rather than a broader exploration of system configuration principles, which affects the depth and alignment scores.",
     "level": "Secondary"
   },
   "Scaling Agility": {

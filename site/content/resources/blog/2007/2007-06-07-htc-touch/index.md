@@ -24,7 +24,6 @@ aliasesArchive:
 - /resources/blog/htc-touch
 tags:
 - Products and Books
-- News and Reviews
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

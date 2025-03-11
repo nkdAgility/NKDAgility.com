@@ -1,20 +1,26 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-14T18:41:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:30:32",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses Scrum roles, the importance of the Sprint Goal, and techniques for managing work across Sprints, which are central to Agile Product Management.",
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses Scrum practices, particularly the flow of work across Sprint boundaries, which is a key aspect of Agile Product Management. It addresses the role of the Sprint Goal, the importance of maintaining transparency, and the need for continuous delivery, all of which align closely with Agile principles. The depth of discussion is significant, providing detailed insights into Scrum events and practices that enhance product value. However, while it focuses on Scrum, it does not explicitly cover broader Agile Product Management strategies or stakeholder engagement, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T18:41:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:32:06",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques related to Scrum and Kanban, including Continuous Delivery and specific practices like Feature Flags, Refactoring, and Test Driven Development, which enhance Agile methodologies.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses practical techniques for managing workflow across Sprint boundaries, specifically referencing Scrum and Kanban methodologies. It provides insights into Continuous Delivery (CD) and various engineering practices such as Feature Flags, Refactoring, and Test Driven Development (TDD), which are essential tools and techniques in Agile and DevOps. The depth of discussion is substantial, with clear examples and updates on resources for further learning, aligning well with the category's focus on practical application and tooling.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:28:54",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Continuous Delivery (CD) and its relationship with Scrum, indicating a major theme related to DevOps practices, but primarily focuses on Scrum methodology.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses Scrum practices and the flow of work across Sprint boundaries, which are more aligned with Agile methodologies than with DevOps principles. While Continuous Delivery (CD) is mentioned, it is not the main focus, and the discussion lacks depth on DevOps practices, tools, or cultural shifts. The content does not sufficiently address the integration of development and operations teams or the broader DevOps framework.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -154,20 +163,26 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-14T18:42:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:37:24",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the concept of allowing work to flow across Sprint boundaries, which directly relates to optimising throughput and reducing bottlenecks in the Scrum framework. It emphasises the importance of flow in relation to Continuous Delivery and provides insights into practices that enhance flow efficiency.",
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses the concept of allowing work to flow across Sprint boundaries, which directly relates to flow efficiency. It mentions the importance of reducing batch sizes and improving throughput, aligning well with the core themes of flow efficiency in Lean and Agile methodologies. The depth of discussion is significant, covering various practices that support continuous delivery and flow, such as feature flags, refactoring, and test-driven development. Overall, the content is focused on optimising work throughput and minimising bottlenecks, justifying a high confidence score.",
     "level": "Secondary"
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-14T18:42:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:28:57",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses Scrum practices, team dynamics, and the implications of allowing work to flow across Sprint boundaries, which are central to team collaboration and process methodologies.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses Scrum practices and the flow of work across Sprint boundaries, which directly relates to team dynamics and collaboration. It highlights the importance of maintaining transparency and achieving Sprint Goals, reflecting on how human behaviour impacts process efficiency. The depth of discussion on Scrum roles, Continuous Delivery, and the need for effective communication within teams further supports its alignment with the 'People and Process' category.",
     "level": "Secondary"
   },
   "Enterprise Agility": {
@@ -199,11 +214,14 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:37:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the integration of Kanban principles within the Scrum framework, particularly regarding the flow of work across Sprint boundaries. However, the primary focus remains on Scrum practices, making Kanban a secondary theme.",
+    "final_score": 41.0,
+    "reasoning": "The content primarily discusses Scrum and its principles, with Kanban mentioned as a complementary approach. While it references the Kanban Guide and discusses concepts like flow, the focus remains on Scrum practices. The mention of Kanban is not central to the discussion, and the depth of Kanban-related content is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Technical Excellence": {
@@ -235,11 +253,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-14T18:42:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:20:48",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses Scrum practices, including the flow of work across Sprint boundaries, Continuous Delivery, and the importance of maintaining a Definition of Done, all of which are central to effective product delivery methodologies.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily discusses Scrum practices and methodologies, particularly focusing on the flow of work across Sprint boundaries, which is a critical aspect of product delivery. It explicitly mentions Continuous Delivery (CD) and the importance of maintaining a Definition of Done, aligning well with the core themes of product delivery. The depth of discussion is substantial, covering various practices that enhance delivery efficiency, such as Feature Flags, Refactoring, and Test Driven Development (TDD). Overall, the content is highly relevant to the category, providing practical insights into improving product delivery processes.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -271,11 +292,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-14T18:42:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:46:24",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the flow of work across Sprint boundaries and its implications for value delivery in Scrum, emphasising Continuous Delivery and practices that enhance customer value.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the flow of work across Sprint boundaries, emphasising the importance of maintaining the Sprint Goal and delivering value through Continuous Delivery (CD) practices. It aligns well with the principles of iterative development and incremental delivery, as well as the role of cross-functional teams in delivering value. The depth of discussion on techniques like Feature Flags, Refactoring, and Test Driven Development (TDD) further supports its relevance to value delivery. However, while it touches on value delivery, the primary focus is on Scrum practices, which slightly detracts from its alignment with the broader category.",
     "level": "Secondary"
   },
   "Azure DevOps": {
@@ -730,12 +754,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:32:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses practices such as Continuous Delivery, Refactoring, and Test Driven Development, which are relevant to engineering excellence. However, the primary focus is on Scrum and Kanban methodologies rather than a direct emphasis on engineering craftsmanship or quality assurance.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses various engineering practices such as Continuous Delivery (CD), refactoring, and Test Driven Development (TDD), which are aligned with the principles of software craftsmanship and quality assurance. However, the primary focus is on Scrum and its methodologies rather than a broader discussion on engineering excellence. While it touches on important engineering practices, the depth of discussion is more about Scrum processes than a comprehensive exploration of engineering excellence.",
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1243,12 +1270,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:30:29",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum practices and the flow of work across Sprint boundaries, which are relevant to product management methodologies, but the primary focus is on technical implementation details rather than strategic product management.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily discusses Scrum practices and methodologies, which are relevant to product management but focuses heavily on technical implementation details rather than strategic alignment of customer needs and business objectives. While it touches on aspects like Sprint Goals and the importance of transparency, it lacks a broader discussion on product management frameworks and decision-making processes that drive product success.",
+    "level": "Quaternary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -1360,11 +1390,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:07:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:20:44",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Scrum practices, including roles, events, and the concept of flow across Sprint boundaries, which aligns closely with the category of Social Technologies.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the Scrum framework, including roles, events, and the concept of flow across Sprint boundaries. It provides detailed insights into how Scrum can be adapted with Kanban principles, emphasising continuous delivery and transparency, which are core themes of Social Technologies. The depth of discussion on Scrum practices and their implications for team dynamics and value delivery further supports a high confidence score.",
     "level": "Secondary"
   },
   "Internal Developer Platform": {

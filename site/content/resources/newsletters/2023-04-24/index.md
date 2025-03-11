@@ -5,7 +5,7 @@ ResourceId: 6h1D_YPjPuU
 ResourceImport: true
 ResourceType: newsletters
 date: 2023-04-24
-weight: 550
+weight: 585
 author: MrHinsh
 resourceTypes: newsletter
 layout: newsletter
@@ -28,6 +28,7 @@ tags:
 - Agile Project Management
 - Agile Transformation
 - Software Development
+- Coaching
 
 ---
 The world is spinning faster than ever, with more players than ever.

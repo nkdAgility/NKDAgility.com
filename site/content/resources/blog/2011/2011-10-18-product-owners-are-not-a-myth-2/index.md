@@ -27,16 +27,16 @@ aliasesArchive:
 - /blog/product-owners-are-not-a-myth
 - /resources/blog/product-owners-are-not-a-myth-2
 tags:
-- Product Owner
-- Accountability
-- Scrum Product Development
 - Agile Product Management
-- Agile Project Management
+- Product Owner
 - People and Process
+- Scrum Product Development
+- Agile Project Management
 - Product Backlog
 - Scrum Team
-- Product Delivery
 - Professional Scrum
+- Software Development
+- Agile Frameworks
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-1-1.png

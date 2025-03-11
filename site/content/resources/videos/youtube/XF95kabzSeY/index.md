@@ -26,7 +26,11 @@ preview: https://i.ytimg.com/vi/XF95kabzSeY/maxresdefault.jpg
 duration: 67
 isShort: false
 tags:
+- Product Owner
 - People and Process
+- Agile Product Management
+- Product Delivery
+- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -34,6 +38,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Product Management
 - Scrum
 - Social Technologies
 

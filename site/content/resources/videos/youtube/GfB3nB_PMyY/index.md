@@ -31,6 +31,7 @@ sitemap:
   priority: 0.6
 tags:
 - Discovery and Learning
+- Pragmatic Thinking
 - People and Process
 resourceTypes:
 - video

@@ -64,11 +64,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-17T10:22:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-10T13:27:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses .NET Framework 3.0 and its features, with no mention of Scrum principles, roles, or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the .NET Framework and its features, with no direct mentions of Scrum principles, roles, or practices. While there is a brief mention of productivity, it does not align with the core themes of Scrum or provide any depth on Scrum-related topics.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -91,12 +94,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T10:22:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:27:57",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the benefits of using .NET Framework 3.0 and WCF, highlighting improvements in code quality and developer productivity, which are relevant to technical excellence. However, it does not delve deeply into specific engineering practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content mentions the .NET Framework 3.0 and its impact on developer productivity, which aligns with the principles of technical excellence. However, it lacks a detailed discussion on specific engineering practices or methodologies such as TDD or CI/CD. The focus is more on personal experience and benefits rather than a structured exploration of technical excellence concepts.",
+    "level": "Quaternary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -136,12 +142,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T10:23:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:23:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses improvements in code quality and functionality due to the use of WCF in .NET Framework 3.0, indicating a secondary theme related to code quality and complexity.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content briefly mentions improvements in code quality and developer productivity due to the use of .NET Framework 3.0 and WCF, but it lacks a detailed discussion on the complexities of software development or the principles of code quality. The focus is more on the excitement of using a new framework rather than exploring the interplay between code and complexity.",
+    "level": "Quaternary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -208,20 +217,26 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T10:23:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:07:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the release of .NET Framework 3.0 and its impact on developer productivity, which aligns with industry updates. However, it primarily focuses on personal experiences and technical details rather than broader industry news or reviews.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content mentions the release of .NET Framework 3.0, which aligns with industry news, but it primarily focuses on personal experiences and opinions regarding its use rather than providing a comprehensive review or analysis. While there is some discussion of productivity improvements, it lacks depth in evaluating the framework's impact on Agile or DevOps practices.",
+    "level": "Quaternary"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T10:23:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:54:33",
+    "ai_confidence": 55.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the application of .NET Framework 3.0 and WCF, highlighting improvements in developer productivity and code quality, which aligns with practical techniques and tooling, but it is not the primary focus.",
+    "final_score": 50.0,
+    "reasoning": "The content discusses the practical application of .NET Framework 3.0 and WCF, highlighting improvements in developer productivity and code quality. While it mentions specific tools and their benefits, the discussion lacks depth in methodologies or frameworks related to Agile or DevOps practices, which are central to the category. The focus is more on the tool itself rather than its integration into broader Agile or DevOps contexts.",
     "level": "Tertiary"
   },
   "Application Lifecycle Management": {
@@ -325,11 +340,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T10:23:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:19:17",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions a book on Indigo and discusses the applications of .NET Framework 3.0, indicating a secondary theme related to products and tools, but the primary focus is on the framework itself.",
+    "final_score": 57.0,
+    "reasoning": "The content mentions a book on Indigo, which relates to the category, but the primary focus is on the .NET Framework 3.0 and its applications rather than a detailed discussion of products or literature. While there is some alignment with the themes of productivity and software tools, the depth of discussion is limited, focusing more on personal experience rather than a comprehensive review or analysis.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -1054,12 +1072,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T11:09:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:23:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses improvements in developer productivity and coding practices through the use of the .NET Framework 3.0 and WCF, which are relevant to software craftsmanship, but the primary focus is on the framework itself rather than broader engineering excellence themes.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions improvements in developer productivity and code cleanliness due to the use of .NET Framework 3.0 and WCF, which aligns with the principles of software craftsmanship. However, it lacks a detailed discussion on best practices, continuous improvement, or specific engineering processes, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",

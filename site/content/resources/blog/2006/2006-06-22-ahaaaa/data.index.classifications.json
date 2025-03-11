@@ -325,11 +325,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-17T11:19:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-10T13:28:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum principles, practices, or frameworks; it is primarily about a personal issue with posting code.",
+    "final_score": 4.0,
+    "reasoning": "The content does not mention Scrum or any related concepts, roles, events, or principles. It appears to be a personal reflection on posting issues rather than a discussion on Scrum.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
@@ -1009,12 +1012,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T16:38:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:28:35",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content briefly mentions a problem with posting code, indicating troubleshooting efforts, but it does not provide systematic methodologies or solutions related to technical issues.",
-    "level": "Tertiary"
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions a problem related to posting code, which aligns with troubleshooting. However, it lacks detailed discussion on diagnosing or resolving the issue, and does not provide methodologies or insights typical of the troubleshooting category.",
+    "level": "Quaternary"
   },
   "Azure Boards": {
     "category": "Azure Boards",

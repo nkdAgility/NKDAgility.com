@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T23:55:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:42:36",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical steps and techniques for configuring a Domain Controller in Azure, including the use of specific tools and methodologies related to Azure and Active Directory.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed walkthrough of configuring a Domain Controller in Azure, which directly relates to practical techniques and tooling in a DevOps context. It discusses specific tools (Azure, Active Directory) and methodologies (creating VMs, configuring cloud services) that enhance team performance and delivery outcomes. The depth of discussion includes step-by-step instructions, considerations for resource selection, and practical advice on configuration, aligning well with the key topics of the category.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-14T23:55:51",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-10T12:37:51",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 30,
-    "final_score": 84.0,
-    "reasoning": "The content provides a detailed, step-by-step guide on configuring a Domain Controller in Azure, including installation procedures, configuration best practices, and troubleshooting tips, which aligns closely with the 'Install and Configuration' category.",
+    "final_score": 81.0,
+    "reasoning": "The content provides a detailed, step-by-step guide on configuring a Domain Controller in Azure, which directly aligns with the 'Install and Configuration' category. It discusses installation procedures, configuration best practices, and troubleshooting aspects, such as the need for a static IP for DNS. The depth of discussion is significant, covering various stages of the installation and configuration process, including the use of PowerShell commands and considerations for resource allocation. Overall, the content is highly relevant and focused on the technical aspects of installation and configuration.",
     "level": "Primary"
   },
   "Transparency and Accountability": {
@@ -118,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:37:48",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses configuring a domain controller in Azure, which relates to deployment and infrastructure management, key aspects of DevOps. However, it primarily focuses on the technical setup rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses configuring a Domain Controller in Azure, which relates to DevOps practices, particularly in the context of Continuous Delivery and infrastructure management. It mentions automation through PowerShell and the importance of cloud infrastructure, aligning with DevOps principles. However, it lacks a broader discussion on cultural shifts, collaboration, or specific DevOps metrics, which limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -145,11 +154,14 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-14T23:56:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:42:28",
+    "ai_confidence": 75.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a presentation at NDC London, detailing the speaker's plans and preparations for a demo related to Azure and Release Management, which aligns with the category's focus on events and presentations.",
+    "final_score": 68.0,
+    "reasoning": "The content explicitly mentions a speaking engagement at NDC London, which aligns with the category of events and presentations. However, the primary focus of the content is on technical details regarding configuring a domain controller in Azure, which detracts from the depth of discussion on the event itself. While it does provide some context about the presentation, the majority of the content is technical and instructional rather than focused on sharing insights or experiences from the event.",
     "level": "Secondary"
   },
   "Flow Efficiency": {
@@ -370,11 +382,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-14T23:56:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:32:28",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the technical process of configuring a Domain Controller in Azure, including best practices for virtual machine setup, Active Directory installation, and management. It aligns well with the principles of software craftsmanship and engineering practices.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed walkthrough of configuring a Domain Controller in Azure, which aligns closely with best practices in software architecture and engineering. It discusses the technical aspects of setting up Active Directory, including the installation of required components and the promotion of the server to a domain controller. The depth of discussion is significant, covering various technical considerations and configurations, which demonstrates a strong focus on technical mastery. However, while it is primarily technical, some sections could be seen as tangentially related to broader project management or operational concerns, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -577,11 +592,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-14T23:57:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:23:38",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration of a Domain Controller in Azure, which involves software deployment and management practices relevant to software development and infrastructure management.",
+    "final_score": 74.0,
+    "reasoning": "The content provides a detailed walkthrough of configuring a Domain Controller in Azure, which directly relates to software development practices, particularly in the context of cloud infrastructure and deployment. It discusses specific steps, tools, and considerations relevant to software engineering, such as the installation of Active Directory and the use of Azure for deployment. The content aligns well with key topics in software development, including system design and deployment practices, and offers substantial detail on the processes involved, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -730,12 +748,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:42:31",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the configuration of a domain controller in Azure, which involves technical practices related to software craftsmanship and deployment. However, the primary focus is on the setup process rather than broader engineering excellence principles or best practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on configuring a domain controller in Azure, which is a technical task related to software infrastructure. While it touches on aspects of software craftsmanship, such as installation and configuration best practices, it lacks a broader discussion on engineering excellence principles, continuous improvement, or quality assurance. The depth of discussion is moderate, but it does not fully align with the core themes of engineering excellence, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1045,11 +1066,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-14T23:58:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:49:09",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 38,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the process of configuring a Domain Controller in Azure, including installation and setup of Active Directory, which aligns closely with system configuration practices.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on the practical steps involved in configuring a Domain Controller (DC) in Azure, which aligns closely with the System Configuration category. It discusses best practices for setting up virtual machines, installing Active Directory, and managing configurations, demonstrating a clear understanding of system optimisation and configuration management. The depth of detail provided, including specific commands and configuration options, further supports its relevance to the category. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {

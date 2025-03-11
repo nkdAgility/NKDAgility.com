@@ -8,7 +8,7 @@ ResourceImportId: 32
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-07-07
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,7 +27,6 @@ tags:
 preview: metro-SSWLogo-128-link-7-7.png
 categories:
 - DevOps
-- Engineering Excellence
 
 ---
 ![](images/symbol-error.png)For a little while now I had been investigating an odd occurrence in Team Foundation Server. Users added to Active Directory groups have not been filtering back into the Team Foundation Server groups cache. The meant that we had to add users directly to Team Foundation Server in order to give them permission. While this was not ideal, it did not really inconvenience us that much, but we are now trying to streamline our security and need it fixed.

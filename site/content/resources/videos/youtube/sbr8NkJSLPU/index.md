@@ -24,16 +24,16 @@ preview: https://i.ytimg.com/vi/sbr8NkJSLPU/maxresdefault.jpg
 duration: 218
 isShort: false
 tags:
-- Practical Techniques and Tooling
 - Operational Practices
-- Team Collaboration
+- Practical Techniques and Tooling
 - Agile Frameworks
 - Agile Project Management
 - People and Process
 - Software Development
-- Transparency
 - Flow Efficiency
+- Team Collaboration
 - Pragmatic Thinking
+- Transparency
 sitemap:
   filename: sitemap.xml
   priority: 0.6

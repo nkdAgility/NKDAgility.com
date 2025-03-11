@@ -29,11 +29,19 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Employee Engagement
+- Organisational Culture
+- Agile Leadership
+- Organisational Change
+- Personal
+- Sociotechnical Systems
+- Change Management
+- Team Collaboration
+- Team Motivation
 resourceTypes:
 - video
 categories:
 - Leadership
-- Scrum
 
 ---
 # Overcoming the Culture of Contempt in Agile Teams

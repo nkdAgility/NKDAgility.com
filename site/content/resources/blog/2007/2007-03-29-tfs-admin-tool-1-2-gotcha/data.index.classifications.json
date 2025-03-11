@@ -10,11 +10,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:20:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:25:55",
+    "ai_confidence": 45.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30,
+    "ai_depth": 10,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific issue related to user permissions in the TFS Admin Tool, which is relevant to configuration. However, it does not provide a comprehensive guide or step-by-step instructions, making it a secondary theme rather than the primary focus.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses a specific issue encountered while using the TFS Admin Tool, which relates to user permissions during configuration. While it touches on a configuration problem, it lacks detailed installation procedures or broader configuration best practices. The focus is more on a specific troubleshooting scenario rather than a comprehensive guide, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Decision Theory": {
@@ -91,12 +94,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:20:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:21:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an issue related to the TFS admin tool, which is part of Azure DevOps, but the primary focus is on a specific problem rather than a broader discussion of Azure DevOps functionalities or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific issue related to the TFS admin tool, which is part of the Azure DevOps suite. However, it does not provide a comprehensive overview or detailed insights into Azure DevOps functionalities or best practices. The mention of TFS (Team Foundation Server) indicates a connection to Azure DevOps, but the focus is primarily on a minor technical issue rather than broader discussions on CI/CD, project management, or collaboration practices within Azure DevOps.",
+    "level": "Quaternary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -208,21 +214,27 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:21:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:06:29",
+    "ai_confidence": 55.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific issue related to the TFS admin tool and its permissions, which is relevant to practical tooling in Agile and DevOps contexts, but it does not provide a broader exploration of techniques or methodologies.",
+    "final_score": 50.0,
+    "reasoning": "The content discusses a specific issue encountered with the TFS admin tool, which relates to practical tooling in a DevOps context. However, it lacks a broader exploration of methodologies or frameworks, and the depth of discussion is limited to a single problem without detailed insights or best practices. Therefore, while it touches on practical tooling, it does not fully align with the category's core themes.",
     "level": "Tertiary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:21:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:53:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific issue related to user permissions in a tool used for application lifecycle management, but it does not comprehensively cover the broader aspects of ALM.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions ALM in the tags but does not explicitly discuss the methodologies, practices, or tools related to Application Lifecycle Management. The focus is primarily on a specific issue with the TFS admin tool, which does not provide a comprehensive view of the application lifecycle stages or best practices. While it touches on a problem related to user permissions, it lacks depth in discussing governance, compliance, or integration with ALM principles.",
+    "level": "Quaternary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -451,12 +463,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:52:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:18:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific issue related to user permissions in the TFS admin tool, which touches on configuration but is primarily focused on a troubleshooting scenario rather than broader system configuration methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific issue related to user permissions in the TFS Admin Tool, which touches on system configuration. However, it lacks a comprehensive exploration of configuration methodologies or best practices. The mention of a problem and its fix is relevant but does not delve deeply into broader configuration strategies or principles.",
+    "level": "Quaternary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",

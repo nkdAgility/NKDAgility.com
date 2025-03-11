@@ -289,12 +289,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:52:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Server, which is part of Azure DevOps, but primarily focuses on speed issues rather than broader Azure DevOps functionalities or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses issues related to Team Foundation Server (TFS), which is part of the Azure DevOps suite. However, the focus is primarily on performance problems and troubleshooting rather than on broader Azure DevOps functionalities or best practices. While TFS is mentioned, the discussion lacks depth in terms of CI/CD, agile practices, or integration with other tools, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -307,21 +310,27 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-10T15:20:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses issues related to Team Foundation Server performance, which is relevant to DevOps tools, but it primarily focuses on troubleshooting and server specifications rather than broader DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses issues related to Team Foundation Server (TFS) performance, which is relevant to DevOps practices, particularly in the context of Continuous Integration and Continuous Delivery. However, it lacks a broader discussion on DevOps principles, cultural shifts, or tools that support DevOps practices. The focus is primarily on troubleshooting server speed issues rather than on the integration of people, processes, and tools in a DevOps context.",
     "level": "Quaternary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:20:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses performance issues related to Team Foundation Server and suggests technical checks (ping and server specifications) to improve responsiveness, which aligns with technical practices but is not primarily focused on broader engineering methodologies or principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses issues related to the performance of Team Foundation Server and offers troubleshooting tips, which touches on technical aspects. However, it lacks a direct focus on engineering practices or methodologies that enhance agility in software development. The discussion is primarily about server performance and network issues rather than principles like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
+    "level": "Quaternary"
   },
   "People and Process": {
     "category": "People and Process",
@@ -946,12 +955,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:17:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses performance issues related to Team Foundation Server, touching on server specifications and network-related diagnostics, which are relevant to software craftsmanship and technical practices. However, the focus is more on troubleshooting rather than on high-level software engineering principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses performance issues related to Team Foundation Server, which touches on technical aspects such as server specifications and network performance. However, it lacks a focus on broader software craftsmanship principles, best practices, or methodologies that contribute to high-quality software development. The discussion is primarily about troubleshooting and does not delve into deeper technical mastery concepts.",
+    "level": "Quaternary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1099,11 +1111,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T08:19:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:24:32",
+    "ai_confidence": 85.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses how to diagnose and resolve speed issues with Team Foundation Server, providing techniques like ping tests and recommendations to check server specifications and network conditions.",
+    "final_score": 76.0,
+    "reasoning": "The content explicitly discusses troubleshooting issues related to the speed of Team Foundation Server, providing specific techniques such as ping tests and server specifications to diagnose and resolve performance problems. It aligns well with the core themes of the category by focusing on identifying and addressing technical issues, and it offers a detailed approach to troubleshooting, which enhances its depth of discussion.",
     "level": "Secondary"
   },
   "Entrepreneurship": {
@@ -1216,12 +1231,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:05:23",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content offers practical advice on troubleshooting speed issues with Team Foundation Server, discussing real-world applications and solutions, but it primarily focuses on specific problems rather than broader pragmatic thinking in Agile or DevOps contexts.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses practical troubleshooting steps for speed issues with Team Foundation Server, which aligns with pragmatic problem-solving in a real-world context. However, it lacks a broader discussion on Agile or Scrum principles and does not delve deeply into the complexities of project management or decision-making processes.",
+    "level": "Secondary"
   },
   "Release Management": {
     "category": "Release Management",
@@ -1234,12 +1252,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:24:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content addresses performance issues related to Team Foundation Server, which touches on aspects of system specifications and network performance relevant to software development practices but does not primarily focus on engineering excellence principles or methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses performance issues related to Team Foundation Server, which touches on aspects of engineering processes and server specifications. However, it lacks a direct focus on software craftsmanship, best practices, or continuous improvement in engineering processes. The discussion is more about troubleshooting and infrastructure rather than promoting high standards in software development.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

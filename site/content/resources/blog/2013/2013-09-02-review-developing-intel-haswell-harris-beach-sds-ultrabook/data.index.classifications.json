@@ -208,11 +208,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-11T10:27:08",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content primarily focuses on a personal review of a laptop and its performance with Windows 8 and development tools, rather than discussing engineering practices or methodologies that enhance agility in software development.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on a personal review of a laptop and its performance with Windows 8.1, rather than discussing engineering practices or methodologies that enhance software development. While there are mentions of development tools like Visual Studio and some technical aspects related to the laptop's capabilities, the discussion lacks depth in terms of technical excellence principles such as TDD, CI/CD, or modular architecture. The content does not provide a structured analysis of how these technical aspects contribute to agile practices or project success.",
     "level": "Quaternary"
   },
   "Complexity Thinking": {
@@ -262,11 +265,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-15T11:50:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:55:31",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily focuses on a review of the Intel Haswell Harris Beach SDS Ultrabook, discussing its performance, usability for developers, and specific features relevant to software development, which aligns with the category's focus on products.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on a detailed review of the Intel Haswell Harris Beach SDS Ultrabook, discussing its performance, usability, and specific features relevant to developers. It aligns well with the category as it provides insights into a product that is pertinent to software development, particularly for Windows applications. The review includes practical advice and personal experiences, which enhances the depth of discussion. However, it lacks broader discussions on Agile methodologies or DevOps practices, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Value Delivery": {
@@ -334,11 +340,14 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-15T11:51:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:44:30",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily focuses on a review of the Intel Haswell Harris Beach SDS Ultrabook, discussing its performance, usability, and specific features relevant to developers, which aligns well with the category of reviews in technology.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on a review of the Intel Haswell Harris Beach SDS Ultrabook, discussing its performance, usability, and specific features relevant to developers. While it does provide insights into the device's capabilities and issues encountered, it lacks broader industry context or updates on Agile and DevOps practices. The review is detailed and informative, but it does not engage with the key topics outlined for the category, such as Agile methodologies or DevOps tools, which limits its alignment with the 'News and Reviews' classification.",
     "level": "Secondary"
   },
   "Application Lifecycle Management": {
@@ -370,12 +379,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:52:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the performance of a laptop for software development, including specific technical challenges and experiences with Windows 8.1 and Visual Studio, which are relevant to software craftsmanship. However, the primary focus is on the review of the laptop rather than on broader engineering practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a personal review of a laptop and its performance with Windows 8 and development tools, rather than discussing best practices or principles of software craftsmanship. While it mentions the use of Visual Studio and some technical aspects of development, these are secondary to the overall narrative of the review. The discussion lacks depth in technical methodologies or engineering practices, which are essential for a higher confidence score in the 'Technical Mastery' category.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1099,12 +1111,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T11:53:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:47:12",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the experience of using a laptop with Windows 8 and 8.1, including installation issues, driver compatibility, and development for Windows applications, making Windows the central theme.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content primarily focuses on the experience of using a specific laptop with Windows 8 and 8.1, discussing installation issues, driver compatibility, and performance with development tools like Visual Studio. It provides detailed insights into troubleshooting and optimising the Windows environment for app development, which aligns well with the key topics of the Windows category. The depth of discussion is significant, covering various aspects of using Windows on the device, including specific problems encountered and solutions found. Overall, the content is highly relevant to the Windows category.",
+    "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1198,12 +1213,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:36:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the experience of using a laptop for software development, including performance with Visual Studio and the development of Windows apps, but it primarily focuses on the hardware review rather than Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on a personal review of a laptop and its performance for software development, specifically for Windows 8 and 8.1 applications. While it mentions the experience of a developer using the laptop and discusses some technical aspects related to software development, it lacks a direct exploration of Agile or DevOps methodologies. The discussion is more about hardware and software compatibility rather than the role of software developers within Agile or DevOps frameworks. Therefore, it only partially aligns with the category's core themes.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

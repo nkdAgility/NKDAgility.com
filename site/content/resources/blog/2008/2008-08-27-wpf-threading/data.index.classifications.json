@@ -433,12 +433,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:10:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses multi-threading within the context of WPF, highlighting the importance of technical solutions and best practices in software development, but it primarily focuses on personal experiences and external resources.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions a specific technical issue related to multi-threading in WPF and references an external article that provides a solution. However, it lacks a detailed discussion on best practices, principles, or methodologies that contribute to software craftsmanship. The focus is more on personal experience and finding a solution rather than a comprehensive exploration of technical mastery.",
+    "level": "Quaternary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -712,12 +715,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:57:21",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific issue related to multi-threading in WPF, which is relevant to software development, but it is more of a personal experience and problem-solving narrative rather than a deep exploration of methodologies or practices in software development.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses a specific problem related to multi-threading in WPF, which is a software development topic. However, it primarily focuses on a personal experience and a solution found in an external blog rather than providing in-depth discussion on software development methodologies or best practices. The mention of multi-threading aligns with software development concepts, but the overall depth and focus on personal experience limit the confidence score.",
+    "level": "Quaternary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -1216,11 +1222,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T18:01:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:13:40",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses a specific problem with multi-threading in WPF and describes the process of finding a solution, which aligns well with troubleshooting techniques.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses a specific problem related to multi-threading with ObservableCollection in WPF, which aligns with troubleshooting. However, it primarily focuses on the author's experience and the solution found in an external blog rather than providing in-depth methodologies or techniques for diagnosing and resolving issues. The mention of seeking a solution indicates a troubleshooting context, but the overall depth and detail are limited.",
     "level": "Secondary"
   },
   "Scrum Master": {

@@ -8,7 +8,7 @@ ResourceImportId: 127
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-05-01
-weight: 640
+weight: 720
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,16 +23,16 @@ aliasesArchive:
 - /fail-a-build-if-tests-fail
 - /resources/blog/fail-a-build-if-tests-fail
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
 - Automated Testing
-- Azure DevOps
-- Azure Pipelines
 - Continuous Integration
 - Engineering Practices
-- Operational Practices
 - Software Development
+- Technical Mastery
+- Troubleshooting
 - Technical Excellence
+- Install and Configuration
+- Azure Pipelines
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Engineering Excellence

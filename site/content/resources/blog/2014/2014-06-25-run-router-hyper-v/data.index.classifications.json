@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T09:20:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:45:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for running a router on Hyper-V, including detailed steps for creating a VHD, configuring a VM, and integrating router firmware, which aligns with the exploration and application of tooling in a technical context.",
+    "final_score": 66.0,
+    "reasoning": "The content provides a detailed guide on setting up a router using Hyper-V, which directly relates to practical techniques and tooling in a technical context. It discusses specific tools (e.g., physdiskwrite, DD-WRT) and methodologies for implementing a virtual router, aligning well with the category's focus. The depth of discussion is significant, covering step-by-step instructions and considerations for configuration, which enhances its relevance to the category. However, while it is primarily focused on practical application, it does not explicitly mention Agile or DevOps practices, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T09:20:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:40:37",
+    "ai_confidence": 82.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the step-by-step process of setting up a virtual router on Hyper-V, including creating a VHD, configuring a VM, and addressing specific network settings, which aligns well with installation and configuration topics.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed step-by-step guide on how to set up a router using Hyper-V, which directly aligns with the 'Install and Configuration' category. It discusses the installation of a virtual hard disk (VHD) and the configuration of a virtual machine (VM) to host router firmware, which are key aspects of installation and configuration processes. The content also includes troubleshooting tips and considerations for network settings, enhancing its relevance to the category. The primary focus is on practical, actionable instructions, fulfilling the category's requirements effectively.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -370,12 +376,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T10:18:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:33:59",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a technical solution involving running router firmware on Hyper-V, covering aspects of software and network configuration, which aligns well with software craftsmanship and methodologies pertinent to high-quality technical practices.",
-    "level": "Secondary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on a practical implementation of running a router on Hyper-V, which involves technical details and specific steps. However, it lacks a broader discussion on software craftsmanship principles, best practices, or methodologies that contribute to high-quality software development. While it does touch on technical aspects, such as VM configuration and network settings, it does not delve deeply into the principles of clean code, testing, or architectural best practices that are central to the 'Technical Mastery' category.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -775,12 +784,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T10:18:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:44:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses practical problem-solving strategies for running a router on Hyper-V in complex networking environments, demonstrating real-world applications of network management issues, and exploring various technical solutions to enhance efficiency and adaptability.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses practical problem-solving techniques for running a router on Hyper-V, which aligns with pragmatic thinking. However, it primarily focuses on technical setup rather than broader Agile or Scrum principles, resulting in a lower confidence score.",
+    "level": "Quaternary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1045,11 +1057,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T10:18:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:50:29",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses processes and methodologies involved in configuring a router VM on Hyper-V, including the creation of a VHD, setting up virtual machines, and adjusting network settings for optimal performance and reliability.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on configuring a router within a Hyper-V environment, detailing the steps for creating a virtual hard disk (VHD) and setting up a virtual machine (VM) to host router firmware. It discusses specific configuration settings, such as network adapter types and virtual switches, which are crucial for system performance and reliability. The depth of discussion is substantial, providing detailed instructions and warnings about potential issues, which aligns well with the key topics of system configuration. However, while the content is rich in practical configuration details, it occasionally veers into personal anecdotes and broader discussions about network limitations, which slightly detracts from its strict alignment with the category.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1099,11 +1114,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T10:18:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:24:56",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the process of running a router in a virtual machine using Hyper-V, which is related to Windows, including the creation of a VHD and specific settings in Windows 8. It focuses on the technical setup within the Windows operating system context.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses running a router on Hyper-V, which is a Windows feature. It includes specific instructions for creating a VHD and configuring a VM, both of which are relevant to Windows. However, while it mentions Windows and provides some technical details, the focus is more on the router setup and networking challenges rather than a comprehensive exploration of Windows itself. Therefore, while it aligns with the category, it does not delve deeply into Windows-specific topics like installation, configuration, or troubleshooting in a broader sense.",
     "level": "Secondary"
   },
   "Deployment Strategies": {

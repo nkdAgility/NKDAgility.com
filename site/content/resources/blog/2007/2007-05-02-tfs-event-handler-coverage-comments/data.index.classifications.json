@@ -523,12 +523,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:52:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:05:53",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to TFS Event Handler development, security of uploaded assemblies, and referenced assemblies, indicating a focus on specific software development concerns. However, it is more of a discussion on specific implementation details rather than a broad emphasis on software development methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses specific issues related to the TFS Event Handler project, including security concerns and referenced assemblies. While it touches on aspects of software development, such as internal team capabilities and assembly management, it lacks a comprehensive exploration of methodologies or best practices. The primary focus is on addressing feedback and issues rather than on broader software development principles.",
+    "level": "Quaternary"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -658,21 +661,27 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-17T09:52:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:25:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 25.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses feedback received on a project and invites further input from users, but does not extensively explore the mechanisms of integrating that feedback into product development.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content includes some positive feedback from users, which is a relevant aspect of customer feedback loops. However, it primarily focuses on addressing specific technical issues rather than exploring mechanisms for integrating feedback into product development. The discussion lacks depth on how feedback is collected, analysed, or acted upon, which are key themes of the category.",
+    "level": "Quaternary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:52:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:20:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content addresses specific issues related to a project and discusses potential security problems and assembly references, indicating a concern with troubleshooting aspects within the context of TFS Event Handler.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions issues related to security and referenced assemblies, which aligns with troubleshooting. However, it lacks detailed methodologies or techniques for diagnosing and resolving these issues, making it more of a discussion rather than a focused troubleshooting guide.",
+    "level": "Quaternary"
   },
   "Scrum Team": {
     "category": "Scrum Team",

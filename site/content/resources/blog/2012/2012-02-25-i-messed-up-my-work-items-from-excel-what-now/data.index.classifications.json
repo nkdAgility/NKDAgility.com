@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T20:57:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:22:51",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for managing work items in TFS, including specific solutions for reverting changes and using queries effectively, which aligns well with the category's focus on tooling and methodologies.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed exploration of practical techniques for managing work items in TFS after erroneous bulk edits in Excel. It discusses specific methodologies for querying and restoring data, which aligns closely with the category's focus on practical tooling and techniques. The depth of the discussion includes step-by-step solutions and considerations for future prevention, demonstrating a strong alignment with the key topics outlined in the category.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -280,11 +283,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T20:58:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:57:32",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to work items in TFS (Team Foundation Server), which is part of Azure DevOps, and provides solutions for managing and reverting changes to work items. It focuses on practical guidance for users of Azure DevOps tools.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses issues related to work items in Azure DevOps (TFS), providing detailed guidance on how to revert changes made to work items and manage data integrity. It explicitly mentions Azure DevOps concepts such as work items, queries, and the TFS system, aligning well with the key topics of the category. The depth of discussion is significant, offering multiple solutions and detailed steps, which enhances its relevance to Azure DevOps. Overall, the content is focused on practical issues and solutions within the Azure DevOps framework.",
     "level": "Secondary"
   },
   "Personal": {
@@ -577,11 +583,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T21:31:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:45:30",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily focuses on resolving issues related to work items in TFS, which is part of the software development process. It discusses workflows, queries, and best practices for managing work items, indicating a clear connection to software development methodologies.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses issues related to managing work items in TFS (Team Foundation Server), which is a critical aspect of software development and project management. It provides detailed guidance on how to revert changes made to work items, which aligns with best practices in version control and collaborative development. The mention of TFS, work item queries, and the implications of bulk editing in Excel directly relate to software development practices. The depth of discussion is significant, as it includes specific solutions and methodologies for addressing the problem, demonstrating a strong alignment with the Software Development category.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -640,11 +649,14 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-15T21:31:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:57:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the management of work items in Azure DevOps (TFS) and provides solutions for issues related to editing work items in bulk, which is relevant to the functionalities of Azure Boards.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses issues related to work items in Azure Boards, including the challenges of bulk editing and reverting changes. It provides detailed solutions and insights into managing work items, which aligns well with the functionalities of Azure Boards. However, while it touches on relevant topics, it lacks a broader discussion on best practices or integration with other Azure DevOps services, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Collaboration Tools": {
@@ -775,11 +787,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T21:31:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:35:45",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content provides practical problem-solving strategies for a specific situation in TFS related to bulk editing in Excel, which aligns with pragmatic thinking in the context of Agile and DevOps. It discusses adaptive strategies for data correction and lessons to avoid future issues, demonstrating the application of real-world problem-solving techniques.",
+    "final_score": 74.0,
+    "reasoning": "The content provides practical solutions to a real-world problem involving TFS and Excel, demonstrating pragmatic thinking in navigating complex issues. It discusses specific strategies for identifying and correcting errors in work items, which aligns with the core themes of pragmatic problem-solving in Agile contexts. However, while it offers detailed guidance, the primary focus is on a specific incident rather than broader Agile or Scrum principles, which slightly limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -1153,12 +1168,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T21:31:47",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T12:00:45",
+    "ai_confidence": 92.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 95.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily addresses the issue of erroneous bulk changes in work items using Excel and provides detailed troubleshooting steps and solutions to revert those changes. It discusses specific problems encountered, the impact on data integrity, and systematic approaches to diagnose and resolve the issues, which aligns closely with the troubleshooting category.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content focuses extensively on troubleshooting issues related to erroneous changes made to work items in TFS after editing in Excel. It discusses specific problems encountered, such as misalignment of data and the inability to revert changes, which directly aligns with the identification and resolution of technical issues. The author provides detailed solutions and methodologies for diagnosing and fixing these problems, demonstrating a strong conceptual alignment with the troubleshooting category. The depth of discussion is significant, as it includes multiple problems, solutions, and practical steps to mitigate the issues, thus justifying a high confidence score.",
+    "level": "Primary"
   },
   "Experimentation": {
     "category": "Experimentation",

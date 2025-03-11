@@ -31,22 +31,22 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Project Management
+- Pragmatic Thinking
 - Product Owner
 - Agile Product Management
 - Decision Making
-- People and Process
-- Agile Project Management
-- Pragmatic Thinking
 - Decision Theory
+- People and Process
+- Market Adaptability
+- Organisational Agility
 - Scrum Product Development
-- Accountability
-- Agile Strategy
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Product Management
 - Scrum
+- Social Technologies
 
 ---
 ## The Role of the Product Owner: Navigating the Agile Seas 🌊 

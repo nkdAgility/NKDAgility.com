@@ -34,11 +34,11 @@ tags:
 - Discovery and Learning
 - Continuous Learning
 - People and Process
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
-- Product Management
-- Social Technologies
+- Scrum
 
 ---
 **What are immersive training courses?**

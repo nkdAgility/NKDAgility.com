@@ -27,10 +27,10 @@ aliasesArchive:
 - /blog/installing-the-2007-microsoft-office-servers-service-pack-1-(sp1)----again---
 - /resources/blog/installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again
 tags:
+- Troubleshooting
 - Windows
 - Install and Configuration
 - System Configuration
-- Troubleshooting
 categories: []
 preview: metro-office-128-link-1-1.png
 

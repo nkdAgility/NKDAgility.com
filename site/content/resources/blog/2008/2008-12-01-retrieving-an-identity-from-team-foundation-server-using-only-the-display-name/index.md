@@ -8,7 +8,7 @@ ResourceImportId: 159
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-12-01
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,17 +23,16 @@ aliasesArchive:
 - /retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
 - /resources/blog/retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
-- Azure DevOps
-- Pragmatic Thinking
+- Windows
 - Software Development
 - System Configuration
-- Technical Mastery
 - Troubleshooting
-- Windows
-categories:
-- Engineering Excellence
+- Azure DevOps
+- Install and Configuration
+- Pragmatic Thinking
+- Technical Mastery
+categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

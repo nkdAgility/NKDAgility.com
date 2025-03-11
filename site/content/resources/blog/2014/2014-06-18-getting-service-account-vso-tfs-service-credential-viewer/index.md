@@ -8,7 +8,7 @@ ResourceImportId: 10596
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-06-18
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,16 +27,15 @@ aliasesArchive:
 - /blog/getting-a-service-account-for-vso-with-tfs-service-credential-viewer
 - /resources/blog/getting-service-account-vso-tfs-service-credential-viewer
 tags:
-- Troubleshooting
 - Install and Configuration
+- Troubleshooting
+- Windows
+- Software Development
 - Azure DevOps
 - Practical Techniques and Tooling
-- Software Development
-- Windows
 - System Configuration
 categories:
 - DevOps
-- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

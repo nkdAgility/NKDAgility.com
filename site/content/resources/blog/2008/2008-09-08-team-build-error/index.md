@@ -23,12 +23,11 @@ aliasesArchive:
 - /team-build-error
 - /resources/blog/team-build-error
 tags:
+- Troubleshooting
 - Windows
 - Software Development
-- Troubleshooting
 preview: metro-visual-studio-2005-128-link-3-1.png
-categories:
-- DevOps
+categories: []
 
 ---
 I received a confusing error from MS Build on Friday. I assumed that it was a GDR version issue for the top level message:

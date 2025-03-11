@@ -30,12 +30,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Market Adaptability
-- Operational Practices
-- Software Developers
 - Software Development
 - Pragmatic Thinking
+- Market Adaptability
+- Software Developers
+- People and Process
+- Operational Practices
 - Product Delivery
 - Resilience and Change
 - Complexity Thinking

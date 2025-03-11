@@ -343,12 +343,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:13:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:20:37",
+    "ai_confidence": 68.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses studying for a specific certification exam and mentions resources, including books, related to the exam preparation, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses studying for a specific certification exam related to Microsoft .NET Framework, which aligns with the category of 'Products and Books' as it references a book used for preparation. The mention of multiple exams and the self-study approach indicates a focus on resources that support learning, which is relevant to Agile and DevOps principles. However, the discussion is more personal and lacks a detailed analysis or review of the books or tools, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Product Management": {
     "category": "Product Management",
@@ -577,12 +580,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:17:57",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses studying for a developer certification in Microsoft .NET, which relates to software development, but the primary focus is on personal experiences and motivations rather than software development practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the author's journey towards obtaining Microsoft certifications related to .NET development, which is relevant to software development. However, the focus is primarily on personal experiences and motivations rather than on methodologies, practices, or frameworks that guide the software development lifecycle. While it mentions specific exams and the .NET framework, it lacks in-depth discussion of software engineering principles or practices, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -703,11 +709,14 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T09:13:40",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-10T13:25:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content focuses on obtaining certifications and self-study, but does not emphasize principles of continuous learning in a team or environment, nor does it cover growth mindset or knowledge sharing.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the author's personal journey towards obtaining Microsoft certifications through self-study. While it touches on the concept of continuous learning by discussing the author's training budget and the need to study for exams, it lacks a strong emphasis on the principles of a growth mindset, knowledge sharing, or team improvement. The discussion is more about individual learning rather than fostering a culture of continuous learning within a team or organisation.",
     "level": "Quaternary"
   },
   "Organisational Change": {
@@ -946,12 +955,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:05:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the process of studying for technical certification exams related to .NET development, highlighting the author's background in software development. However, the primary focus is on the certification process rather than detailed software craftsmanship or excellence in engineering practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the author's personal journey towards obtaining Microsoft certifications, which is more about individual career development than technical mastery. While it mentions specific exams related to .NET development, it lacks a detailed discussion on best practices, principles of clean code, or methodologies that contribute to high-quality software development. The alignment with the core themes of the category is minimal, and the depth of discussion does not provide substantial insights into software craftsmanship or engineering excellence.",
+    "level": "Quaternary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1081,12 +1093,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:53:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content references Microsoft exams and .NET development, which are related to the Windows environment. However, the primary focus is on certification and personal experience rather than detailed discussions specifically about installing, configuring, or troubleshooting Windows itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the author's journey towards obtaining Microsoft certification, specifically focusing on .NET development and related exams. While it mentions Windows in the context of Windows-Based Client Development, the overall focus is on certification and personal experiences rather than on Windows operating system management, installation, or troubleshooting. Therefore, the direct mentions are minimal, and the depth of discussion regarding Windows is limited.",
+    "level": "Quaternary"
   },
   "Lean Principles": {
     "category": "Lean Principles",

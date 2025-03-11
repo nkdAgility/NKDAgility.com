@@ -33,6 +33,7 @@ tags:
 - Agile Frameworks
 - Agile Project Management
 - Software Development
+- Pragmatic Thinking
 - Professional Scrum
 - Scaled Agile
 resourceTypes:

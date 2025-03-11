@@ -26,7 +26,6 @@ preview: https://i9.ytimg.com/vi/YVrGU0oZmc0/maxresdefault.jpg?sqp=CKDMmrwG&rs=A
 duration: 557
 isShort: false
 tags:
-- Continuous Delivery
 - Software Development
 resourceTypes:
 - video

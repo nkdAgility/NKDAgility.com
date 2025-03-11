@@ -31,19 +31,18 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Metrics and Learning
 - Agile Product Management
-- Personal
 - Pragmatic Thinking
+- Metrics and Learning
 - Value Delivery
-- Product Owner
-- Decision Making
-- Evidence Based Leadership
-- Experimentation
 - Hypothesis Driven Development
+- Personal
+- Product Owner
+- Evidence Based Leadership
 resourceTypes:
 - video
 categories:
+- Social Technologies
 - Product Management
 
 ---

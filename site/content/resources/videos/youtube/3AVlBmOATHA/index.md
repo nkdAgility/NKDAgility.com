@@ -27,23 +27,23 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Leadership
 - People and Process
 - Agile Strategy
 - Agile Transformation
-- Business Agility
 - Change Management
 - Organisational Change
-- Organisational Agility
+- Agile Leadership
 - Pragmatic Thinking
-- Sociotechnical Systems
+- Business Agility
+- Organisational Agility
+- Enterprise Agility
 resourceTypes:
 - video
 layout: video
 categories:
 - Leadership
-- Social Technologies
 - Product Management
+- Social Technologies
 
 ---
 How would you help organizations pitch the opportunity of agile internally?

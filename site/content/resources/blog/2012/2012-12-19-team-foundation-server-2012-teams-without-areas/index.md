@@ -8,7 +8,7 @@ ResourceImportId: 9188
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-12-19
-weight: 640
+weight: 720
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,20 +27,18 @@ aliasesArchive:
 - /blog/teams-without-areas-using-a-team-field-in-tfs
 - /resources/blog/team-foundation-server-2012-teams-without-areas
 tags:
-- Practical Techniques and Tooling
 - Software Development
+- Practical Techniques and Tooling
 - Install and Configuration
+- Azure DevOps
+- Application Lifecycle Management
 - Azure Boards
 - System Configuration
-- Azure DevOps
 - Operational Practices
 - Pragmatic Thinking
-- Application Lifecycle Management
 - Technical Excellence
 categories:
 - DevOps
-- Engineering Excellence
-- Social Technologies
 preview: nakedalm-experts-visual-studio-alm-16-16.png
 
 ---

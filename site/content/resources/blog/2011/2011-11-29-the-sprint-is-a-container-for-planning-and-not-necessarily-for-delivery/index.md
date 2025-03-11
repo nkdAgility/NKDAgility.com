@@ -8,7 +8,7 @@ ResourceImportId: 4092
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-11-29
-weight: 275
+weight: 265
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,20 +23,20 @@ aliasesArchive:
 - /the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
 - /resources/blog/the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
 tags:
-- Definition of Done
-- Agile Product Management
-- Continuous Delivery
 - Product Delivery
+- Definition of Done
+- Practical Techniques and Tooling
+- Technical Excellence
+- Continuous Delivery
 - Software Development
 - Technical Debt
 - Value Delivery
 - Agile Frameworks
 - Agile Project Management
-- Agile Transformation
 categories:
 - DevOps
-- Engineering Excellence
 - Social Technologies
+- Engineering Excellence
 preview: nakedalm-logo-128-link-2-2.png
 
 ---

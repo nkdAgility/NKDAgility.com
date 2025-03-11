@@ -8,7 +8,7 @@ ResourceImportId: 393
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-05-30
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,15 +23,13 @@ aliasesArchive:
 - /creating-wcf-service-host-programmatically
 - /resources/blog/creating-wcf-service-host-programmatically
 tags:
-- Windows
 - Software Development
+- Windows
 - Install and Configuration
-- Practical Techniques and Tooling
+- Technical Mastery
 - System Configuration
 - Technical Excellence
-- Technical Mastery
-categories:
-- Engineering Excellence
+categories: []
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

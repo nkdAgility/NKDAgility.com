@@ -30,20 +30,20 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Values and Principles
+- People and Process
 - Agile Frameworks
 - Agile Leadership
 - Agile Project Management
-- Business Agility
-- People and Process
+- Organisational Agility
 - Agile Philosophy
 - Agile Strategy
 - Agile Transformation
-- Market Adaptability
+- Software Development
 resourceTypes:
 - video
 categories:
-- Leadership
 - Social Technologies
+- Leadership
 
 ---
 How do you think Agile is evolving since its inception in 2001?

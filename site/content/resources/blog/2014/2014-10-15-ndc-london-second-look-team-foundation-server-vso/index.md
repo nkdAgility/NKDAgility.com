@@ -8,7 +8,7 @@ ResourceImportId: 10811
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-10-15
-weight: 435
+weight: 470
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -32,7 +32,6 @@ aliasesArchive:
 - /resources/blog/ndc-london-second-look-team-foundation-server-vso
 tags:
 - Application Lifecycle Management
-- Events and Presentations
 categories:
 - DevOps
 - Engineering Excellence

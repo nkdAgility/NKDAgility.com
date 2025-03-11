@@ -118,11 +118,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T12:51:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:14:46",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses practical techniques and tooling for developing solutions for SharePoint, including specific tools and installation instructions.",
+    "final_score": 62.0,
+    "reasoning": "The content provides specific instructions for setting up a development environment for SharePoint, which aligns with practical techniques and tooling. However, it lacks broader discussions on methodologies or frameworks related to Agile or DevOps, and the depth of the discussion is limited to installation steps without exploring integration or best practices.",
     "level": "Secondary"
   },
   "Personal": {
@@ -325,11 +328,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T18:02:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:11:53",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration steps necessary for developing solutions for SharePoint, including specific tools and instructions.",
+    "final_score": 72.0,
+    "reasoning": "The content provides specific installation instructions for VSeWSS 1.1 and references additional resources for setting up SharePoint development environments. It discusses the necessary steps to configure the development environment, which aligns with the core themes of the category. However, the depth of discussion is somewhat limited, focusing primarily on installation without extensive troubleshooting or configuration best practices.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
@@ -568,20 +574,26 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:46:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses development for SharePoint, implying a software development context but lacks focus on Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of developing solutions for SharePoint, specifically using Visual Studio 2008. While it does mention the role of developers in the context of SharePoint, it lacks a direct discussion on Agile or DevOps methodologies, which are central to the category. The content provides some detail on setup and installation processes but does not delve into best practices, team dynamics, or collaboration strategies that are essential to the Software Developers category.",
+    "level": "Quaternary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T18:41:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:58:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the development process for SharePoint solutions, including setup instructions and necessary tools, which are central to software development.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the practical steps required to set up a development environment for SharePoint, which is a specific aspect of software development. While it does not delve deeply into methodologies or best practices, it does provide relevant technical information that aligns with the software development process. The mention of specific tools and instructions indicates a moderate level of detail, but the overall discussion lacks broader context on software engineering principles.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {
@@ -946,12 +958,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:12:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily focuses on the specific steps and requirements for developing solutions for SharePoint, which includes technical details and installation instructions, but it is more about specific tools rather than overarching practices of software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical setup required for developing SharePoint solutions, which includes specific tools and installation instructions. While it does touch on technical aspects, such as the need for VSeWSS and workflow DLLs, it lacks a broader discussion on software craftsmanship principles, best practices, or methodologies that contribute to high-quality software development. The depth of discussion is moderate, providing practical steps but not delving into the underlying principles of technical mastery.",
+    "level": "Quaternary"
   },
   "Remote Working": {
     "category": "Remote Working",

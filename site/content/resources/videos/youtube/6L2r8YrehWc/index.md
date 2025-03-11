@@ -25,16 +25,16 @@ preview: https://i.ytimg.com/vi/6L2r8YrehWc/maxresdefault.jpg
 duration: 237
 isShort: false
 tags:
+- People and Process
+- Agile Project Management
 - Accountability
 - Professional Scrum
-- People and Process
+- Team Performance
 - Scrum Master
 - Scrum Team
 - Agile Product Management
 - Pragmatic Thinking
 - Team Collaboration
-- Team Performance
-- Technical Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6

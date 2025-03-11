@@ -172,12 +172,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:16:08",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses updates and issues related to Team Foundation Server (TFS), including upcoming changes in Orcas and Rosario, which are relevant to industry news. However, the primary focus is on personal experiences and discussions rather than a comprehensive review or analysis.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the Hosted Team Foundation Server and its limitations, which aligns with industry updates. However, it lacks a comprehensive review or analysis of the tool and does not delve deeply into Agile or DevOps methodologies. The mention of changes in future versions (Orcas and Rosario) indicates some relevance to industry news, but the overall focus is more on personal experience and specific issues rather than broader trends or evaluations.",
+    "level": "Secondary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
@@ -289,11 +292,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:17:33",
+    "ai_confidence": 62.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 55.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS), which is a component of Azure DevOps, but the primary focus is on the limitations and issues of hosted TFS rather than on Azure DevOps functionalities or best practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Hosted Team Foundation Server (TFS), which is a part of the Azure DevOps suite. It mentions issues related to project partitioning and the need for separate instances, which aligns with Azure DevOps functionalities. However, the discussion is more focused on TFS as a standalone product rather than on Azure DevOps as a whole, leading to a moderate confidence score. The depth of the discussion is reasonable, but it lacks comprehensive insights into broader Azure DevOps practices or methodologies.",
     "level": "Tertiary"
   },
   "Value Stream Management": {
@@ -343,11 +349,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:03:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 55.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Hosted Team Foundation Server (TFS) and its limitations, which relates to software products in the context of Agile and DevOps practices. However, it primarily focuses on the issues and discussions surrounding TFS rather than providing a review or analysis of a specific product or literature.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the Hosted Team Foundation Server (TFS) and its implications for project management, which aligns with the category of Products and Books. It mentions specific tools and their limitations, providing insights into their practical applications. However, the discussion lacks a detailed review or analysis of literature related to Agile or DevOps methodologies, which slightly lowers the confidence score.",
     "level": "Tertiary"
   },
   "Product Management": {
@@ -568,12 +577,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:21:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS) in the context of hosted environments and its implications for software development practices, but does not primarily focus on Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS) and its implications for project management in a hosted environment, which is relevant to software developers. However, it lacks a direct focus on Agile or DevOps methodologies, and the discussion is more about the technical limitations of TFS rather than best practices or principles that enhance developer productivity or collaboration. The mention of changes in future versions of TFS hints at potential improvements but does not delve into how these relate to Agile or DevOps practices.",
+    "level": "Quaternary"
   },
   "Software Development": {
     "category": "Software Development",
@@ -838,12 +850,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:51:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS), which is a version control system, but primarily focuses on its limitations in a hosted environment rather than best practices or methodologies of modern source control.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS), which is a version control system, but the focus is primarily on its limitations in a hosted environment rather than on best practices or methodologies related to modern source control. While TFS is mentioned, the discussion lacks depth in terms of version control strategies, code management, or collaboration workflows, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Increment": {
     "category": "Increment",

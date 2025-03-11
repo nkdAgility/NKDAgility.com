@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T00:08:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:43:06",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical challenges and techniques involved in configuring a build server and resolving build errors, which aligns with the exploration and application of tooling in a DevOps context.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses practical issues encountered while configuring a build server and highlights specific tools and components involved in the process, such as TFS, Git, and various libraries. It provides insights into the challenges of setting up a CI build and the importance of maintaining consistent versions of components, which aligns with the category's focus on practical techniques and tooling. However, while it touches on relevant topics, the depth of discussion on methodologies or frameworks is limited, and it lacks a structured exploration of best practices or case studies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T00:08:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:38:06",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the configuration of a build server and the installation of necessary components for a successful build process, which aligns with the key topics of installation and configuration.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the challenges and solutions related to configuring a build server for a project, which aligns well with the Install and Configuration category. It provides specific details about the installation of components, troubleshooting build errors, and the importance of maintaining consistent versions of dependencies. The discussion is focused on practical steps and insights that are relevant to setting up and configuring a CI build environment, thus meeting the criteria for this category. However, while it is detailed, some parts of the content veer into anecdotal experiences rather than strictly actionable instructions, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T00:08:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:43:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the challenges and processes involved in configuring a build server, which is a key aspect of Continuous Integration (CI) in DevOps. It highlights the importance of automation in builds and the need for collaboration among team members to resolve build issues, aligning well with DevOps principles.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses issues related to configuring a build server and the challenges faced during the build process, which aligns with DevOps principles, particularly Continuous Integration (CI). However, while it touches on automation and the need for a CI build, it lacks a broader discussion on DevOps practices, cultural shifts, or tools beyond the specific context of the build server. The focus is primarily on troubleshooting specific errors rather than a comprehensive exploration of DevOps as a whole.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -208,11 +217,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T00:08:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:42:40",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses challenges and solutions related to configuring a build server, which aligns with Continuous Integration practices. It highlights the importance of automated builds and the technical issues encountered, making it a significant focus of the discussion.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses challenges faced during the configuration of a CI build server, which aligns with the principles of Continuous Integration and Continuous Delivery (CI/CD). However, the focus is primarily on specific issues encountered rather than a broader discussion of engineering practices or methodologies that enhance agility. While it touches on the importance of automated builds and the need for proper component management, it lacks depth in exploring how these practices contribute to technical excellence. The mention of CI builds is present but not the primary focus, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -478,11 +490,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T00:09:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:32:46",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the challenges and solutions related to configuring a build server, which aligns with operational practices in improving build processes and efficiency in a development environment.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses challenges faced during the configuration of a build server and the importance of having a continuous integration (CI) build, which aligns with operational practices. However, while it touches on the need for process improvement and mentions automation, it lacks detailed strategies or techniques for optimising operations. The focus is more on specific issues encountered rather than broader operational practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Scrum Team": {
@@ -577,11 +592,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T00:09:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:23:49",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to configuring a build server, resolving build errors, and the challenges of maintaining a consistent development environment, which are all central themes in software development practices.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed discussion on the challenges of configuring a build server in a software development context, specifically addressing issues related to CI/CD practices. It mentions specific tools and components, highlights the importance of version control, and discusses the implications of build errors, which are all core themes of software development. The depth of the discussion is significant, as it includes practical experiences and solutions related to build processes, making it highly relevant to the category.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -730,12 +748,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:38:03",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges and solutions related to configuring a build server, which touches on best practices in CI/CD and the importance of maintaining consistent environments for successful builds. However, it primarily focuses on specific technical issues rather than broader engineering excellence principles.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses challenges faced during the configuration of a build server and highlights the importance of continuous integration (CI) in improving software development processes. However, while it touches on aspects of engineering excellence, such as the need for proper tooling and the management of dependencies, it lacks a comprehensive exploration of best practices or principles of software craftsmanship. The focus is more on troubleshooting specific issues rather than promoting high standards in software development or continuous improvement.",
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -775,11 +796,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T00:10:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:49:22",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses practical problem-solving strategies related to configuring a build server and resolving build errors in a complex project environment, which aligns with the themes of adaptability and real-world application in Agile and DevOps contexts.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses practical problem-solving strategies in the context of configuring a build server and resolving specific build errors, which aligns well with the themes of Pragmatic Thinking. It provides real-world examples of challenges faced during the transition from StarTeam to TFS, highlighting the importance of adaptability and experience in navigating complex environments. The depth of discussion is significant, as it details specific issues encountered and solutions implemented, demonstrating a clear application of pragmatic approaches in a DevOps context.",
     "level": "Secondary"
   },
   "Backlog Refinement": {

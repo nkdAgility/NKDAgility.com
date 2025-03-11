@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T02:31:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:44:23",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the practical technique of connecting Visual Studio 2008 to TFS 2010, detailing specific steps and configurations, which aligns with the category focus on tooling and methodologies.",
+    "final_score": 62.0,
+    "reasoning": "The content provides practical instructions on connecting Visual Studio 2008 to TFS 2010, which aligns with the category's focus on practical techniques and tooling. However, while it discusses a specific tool (TFS) and its connection process, it lacks broader discussions on methodologies or frameworks that enhance Agile and DevOps practices. The depth of discussion is limited to a specific use case without exploring best practices or integration strategies.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T02:31:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:09:00",
+    "ai_confidence": 82.0,
+    "ai_mentions": 16,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the installation and configuration process for connecting Visual Studio 2008 to TFS 2010, providing specific URLs and instructions, which aligns well with the category.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a clear guide on connecting Visual Studio 2008 to TFS 2010, which directly relates to installation and configuration processes. It includes specific URLs and connection details, demonstrating a strong focus on practical steps for setup. The mention of Service Pack 1 as a prerequisite further emphasises the installation aspect. While it does touch on backward compatibility and some limitations with older versions, the primary focus remains on the technical instructions for configuration, aligning well with the key topics of the category.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -280,12 +286,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:08:35",
+    "ai_confidence": 42.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses connecting Visual Studio 2008 to TFS 2010, which is related to Azure DevOps services, but the primary focus is on the connection process rather than Azure DevOps functionalities or best practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses connecting Visual Studio 2008 to TFS 2010, which is related to Azure DevOps services, specifically Team Foundation Server (TFS). However, it lacks a broader discussion on Azure DevOps functionalities, methodologies, or best practices. The focus is primarily on a technical connection rather than the overall suite of Azure DevOps tools or practices, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Personal": {
     "category": "Personal",
@@ -577,11 +586,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T03:05:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:53:57",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses connecting Visual Studio 2008 to Team Foundation Server (TFS) 2010, which is relevant to software development practices and tools, particularly in the context of version control and integration.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses connecting Visual Studio 2008 to TFS 2010, which is relevant to software development practices, particularly in the context of version control and integration with development tools. However, while it mentions specific tools and provides some technical details, it lacks a broader discussion on methodologies or best practices in software development. The focus is primarily on a specific technical task rather than encompassing the wider themes of software development processes.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1045,12 +1057,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T03:05:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:06:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content provides detailed instructions on how to connect Visual Studio 2008 to TFS 2010, which involves specific configuration steps and considerations. It discusses the setup of the connection, the URL format, and mentions service packs, making system configuration the primary topic.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses connecting Visual Studio 2008 to TFS 2010, which involves specific configuration steps and considerations. It provides explicit instructions on how to set up the connection, including the URL format and the importance of having the correct service pack installed. However, while it touches on configuration aspects, it lacks a broader discussion on system optimisation, monitoring, or troubleshooting, which are key themes in the System Configuration category. Therefore, while it is relevant, it does not fully meet the depth required for a higher confidence score.",
+    "level": "Tertiary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1198,12 +1213,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:43:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses connecting Visual Studio to TFS, which is relevant to software developers, particularly in the context of using tools that may align with Agile and DevOps practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses connecting Visual Studio 2008 to TFS 2010, which is a technical topic relevant to software developers. However, it lacks a direct focus on Agile or DevOps methodologies, which are central to the category. While it mentions tools and some technical details, it does not delve into best practices, team dynamics, or the broader implications of these tools within Agile or DevOps contexts. Therefore, the confidence score reflects a moderate relevance to the category.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

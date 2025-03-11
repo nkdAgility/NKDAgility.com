@@ -29,14 +29,14 @@ aliasesArchive:
 tags:
 - Forecasting
 - Transparency
+- People and Process
 - Scrum Product Development
 - Agile Planning
-- Agile Product Management
 - Agile Values and Principles
-- Product Delivery
 - Scrum Team
 - Software Development
-- Transparency and Accountability
+- Agile Frameworks
+- Agile Philosophy
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-5-5.png

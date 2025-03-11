@@ -38,6 +38,7 @@ tags:
 - Operational Practices
 - Software Development
 - Throughput
+- Practical Techniques and Tooling
 resourceTypes:
 - video
 categories:

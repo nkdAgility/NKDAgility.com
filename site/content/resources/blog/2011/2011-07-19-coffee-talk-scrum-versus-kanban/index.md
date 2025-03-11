@@ -27,10 +27,11 @@ aliasesArchive:
 - /blog/coffee-talk--scrum-versus-kanban
 - /resources/blog/coffee-talk-scrum-versus-kanban
 tags:
+- Events and Presentations
 - Software Development
 - Agile Frameworks
 - Agile Project Management
-- Events and Presentations
+- Software Developers
 categories:
 - Social Technologies
 preview: metro-event-128-link-1-1.png

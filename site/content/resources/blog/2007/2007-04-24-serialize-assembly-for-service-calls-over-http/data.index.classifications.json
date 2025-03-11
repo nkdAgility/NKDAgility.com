@@ -523,11 +523,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:52:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T19:06:12",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses a technical issue related to serialization in .NET, which is a relevant topic within software development practices.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific technical challenge related to serializing a .NET assembly for web service calls, which is a software development issue. It directly mentions .NET and involves concepts of serialization and web services, aligning with software engineering practices. However, the discussion lacks depth in terms of broader methodologies or frameworks, focusing instead on a specific problem without extensive exploration of related best practices or principles.",
     "level": "Secondary"
   },
   "Test First Development": {
@@ -667,11 +670,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:52:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:21:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily focuses on troubleshooting an issue with serializing and deserializing .NET assemblies in a WCF service context, making troubleshooting the central theme.",
+    "final_score": 70.0,
+    "reasoning": "The content explicitly discusses a technical issue related to serializing and deserializing a .NET assembly, which aligns with troubleshooting software problems. The author is seeking a solution to a specific problem, indicating a focus on diagnosing and resolving an issue. However, while the content is relevant, it lacks extensive detail on troubleshooting methodologies or tools, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Scrum Team": {
@@ -703,12 +709,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:52:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:25:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content focuses on a technical problem related to serialization in .NET and discusses methods for achieving it, which aligns with the principles of software craftsmanship and engineering practices.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a technical problem related to serialization in .NET, which touches on software craftsmanship. However, it lacks a broader discussion on best practices, principles, or methodologies that contribute to high-quality software development. The mention of specific classes and methods indicates some technical knowledge, but the depth of discussion is limited to a specific issue without exploring wider implications or solutions in software engineering.",
+    "level": "Quaternary"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",

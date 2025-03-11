@@ -27,14 +27,14 @@ isShort: false
 tags:
 - Automated Testing
 - Software Development
-- Technical Excellence
 - Test Automation
 - Practical Techniques and Tooling
 - Pragmatic Thinking
+- Technical Excellence
 - Engineering Practices
 - Operational Practices
 - Technical Mastery
-- Value Delivery
+- Azure DevOps
 sitemap:
   filename: sitemap.xml
   priority: 0.6

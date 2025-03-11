@@ -27,14 +27,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Scrum Master
 - Scrum Team
-- Team Performance
 - Agile Frameworks
 - Agile Project Management
 - Coaching
+- People and Process
 - Self Organisation
+- Team Performance
+- Pragmatic Thinking
 resourceTypes:
 - video
 layout: video

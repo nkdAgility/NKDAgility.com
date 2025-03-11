@@ -37,12 +37,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:46:17",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implementation of a URL redirect handler in ASP.NET, which relates to engineering practices in software development. However, it primarily focuses on a specific coding solution rather than broader principles of technical excellence.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on a specific implementation of URL redirection in ASP.NET, which is a technical topic. However, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. While it does touch on aspects of code quality and functionality, it does not delve into concepts like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence. Therefore, while there is some relevance, the overall depth and alignment with the category are limited.",
+    "level": "Quaternary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -172,12 +175,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:11:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content primarily discusses a specific implementation of URL redirection in ASP.NET, which relates to code quality and maintainability. However, it does not deeply explore the complexities of software development processes or the broader implications of complexity theory.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on a specific implementation of URL redirection in ASP.NET, which involves coding practices. However, it lacks a broader discussion on the principles of code quality, complexity management, or best practices in software development. While it does mention aspects of code functionality and structure, it does not delve into the complexities of software architecture or the relationship between code quality and complexity, which are central to the category. Therefore, the confidence score reflects a moderate alignment with the category, primarily due to the technical nature of the code presented.",
+    "level": "Quaternary"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -433,12 +439,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T12:40:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:14:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the implementation of a custom HTTP handler in ASP.NET, detailing code practices and considerations that relate to software craftsmanship and web development best practices.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on a technical implementation of URL redirection in ASP.NET, showcasing coding practices and the use of IHttpHandler. It discusses specific methods and classes, which aligns with software craftsmanship. However, it lacks a broader discussion on best practices, principles, or methodologies that contribute to high-quality software development, limiting its depth in the context of Technical Mastery.",
+    "level": "Tertiary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -631,12 +640,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:14:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the creation of a specific HTTP handler in .NET, which touches on software craftsmanship and coding standards, but largely focuses on implementation details rather than broader principles of engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a technical implementation of URL redirection in ASP.NET, which does not directly address the principles of software craftsmanship or best practices in coding standards. While it includes some technical details, it lacks a broader discussion on engineering excellence, such as quality assurance, CI/CD practices, or metrics for assessing engineering performance.",
+    "level": "Quaternary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -658,12 +670,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:57:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes code and technical discussion that relate to software development, specifically with an emphasis on handling HTTP requests in ASP.NET development. However, it does not explicitly address Agile or DevOps methodologies, which diminishes its alignment with the primary classification. It focuses more on a specific technical implementation rather than broader discussions on software development practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a technical implementation of a URL redirect handler in ASP.NET, which is relevant to software development. However, it lacks explicit discussions on Agile methodologies, DevOps practices, or the broader role of software developers in these contexts. While it provides some depth in the technical implementation, it does not align closely with the key themes of the category, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "AI": {
     "category": "AI",
@@ -712,11 +727,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T12:40:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:11:26",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 27.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of a custom HTTP handler in ASP.NET, which is a specific software development practice, detailing code structures and functionalities related to web development.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the implementation of a URL redirection handler in ASP.NET, which is a specific software development task. It includes code examples and explanations of how the handler works, aligning well with software development practices. However, while it provides a practical example, it lacks broader discussions on methodologies or frameworks, which slightly lowers the depth of discussion. Overall, the content is focused on a software development topic, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Agile Frameworks": {

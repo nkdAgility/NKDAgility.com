@@ -8,7 +8,7 @@ ResourceImportId: 3717
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-07-28
-weight: 770
+weight: 850
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,17 +27,15 @@ aliasesArchive:
 - /blog/upgrading-your-process-template-in-team-foundation-server
 - /resources/blog/do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact
 tags:
+- Software Development
 - Install and Configuration
 - Practical Techniques and Tooling
-- Azure DevOps
 - Operational Practices
-- Pragmatic Thinking
-- Software Development
 - System Configuration
+- Pragmatic Thinking
 - Troubleshooting
 - Technical Mastery
-categories:
-- Engineering Excellence
+categories: []
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 
 ---

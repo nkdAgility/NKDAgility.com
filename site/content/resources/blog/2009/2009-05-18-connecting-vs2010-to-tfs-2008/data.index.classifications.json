@@ -73,11 +73,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T02:41:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:45:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the process of connecting Visual Studio 2010 to Team Foundation Server 2008, which involves installation and configuration aspects relevant to Agile and DevOps tools.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on the process of connecting Visual Studio 2010 to Team Foundation Server 2008, which falls under installation and configuration. It discusses the preinstalled nature of Team Explorer and provides insights into the connection process, indicating a clear focus on practical steps. However, the depth of technical detail is somewhat limited, and while it mentions relevant tools, it does not delve deeply into configuration best practices or troubleshooting, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -280,12 +283,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:09:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses connecting Visual Studio 2010 to Team Foundation Server 2008, which is related to Azure DevOps services, but it primarily focuses on the connection process rather than broader Azure DevOps functionalities or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses connecting Visual Studio 2010 to Team Foundation Server (TFS) 2008, which is part of the Azure DevOps suite. However, it primarily focuses on the connection process rather than the broader functionalities or best practices associated with Azure DevOps. While TFS is mentioned, the discussion lacks depth in terms of CI/CD practices, agile project management, or integration with other tools, which are key topics for the Azure DevOps category.",
+    "level": "Quaternary"
   },
   "Personal": {
     "category": "Personal",
@@ -370,12 +376,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:07:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses connecting Visual Studio 2010 to Team Foundation Server 2008, which involves technical practices related to software development tools. However, the discussion is primarily focused on the connection process rather than broader software craftsmanship principles or best practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on connecting Visual Studio 2010 to Team Foundation Server 2008, which is more of a procedural guide rather than a discussion on software craftsmanship or engineering practices. While it touches on technical aspects, it lacks depth in discussing best practices, principles of clean code, or methodologies that contribute to high-quality software development. The mention of Team Foundation Server does not align closely with the core themes of Technical Mastery, and the overall discussion is more about setup than mastery of technical principles.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -577,11 +586,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:09:01",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses connecting Visual Studio 2010 to Team Foundation Server 2008, which relates to version control systems and collaborative development practices, making it a major but secondary theme within the broader context of software development.",
+    "final_score": 60.0,
+    "reasoning": "The content primarily discusses connecting Visual Studio 2010 to Team Foundation Server 2008, which is relevant to version control and collaborative development practices. However, while it touches on a specific aspect of software development, it lacks a broader discussion of methodologies or best practices. The depth of technical detail is limited, focusing more on the connection process rather than the implications or methodologies behind it.",
     "level": "Tertiary"
   },
   "Agile Project Management": {
@@ -613,12 +625,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:43:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses connecting Visual Studio 2010 to Team Foundation Server 2008, which involves source control aspects. However, it does not delve deeply into modern source control practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses connecting Visual Studio 2010 to Team Foundation Server 2008, which is a specific implementation of a version control system. However, it lacks a broader discussion on modern source control practices, methodologies, or strategies. While it mentions TFS, it does not delve into key topics such as branching strategies, code review processes, or collaboration workflows, which are essential for a higher confidence score in this category.",
+    "level": "Quaternary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -1045,12 +1060,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:54:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses connecting Visual Studio 2010 to Team Foundation Server 2008, which involves aspects of system configuration. However, it primarily focuses on the connection process rather than broader principles of system configuration.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses connecting Visual Studio 2010 to Team Foundation Server 2008, which is more about integration and usage rather than the technical aspects of system configuration. While it mentions installation aspects, it lacks depth in discussing configuration management, optimisation strategies, or troubleshooting, which are key themes of the category. The focus is more on user experience and interface rather than the underlying configuration processes.",
+    "level": "Quaternary"
   },
   "Product Strategy": {
     "category": "Product Strategy",

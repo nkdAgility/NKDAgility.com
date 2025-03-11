@@ -26,15 +26,15 @@ duration: 259
 isShort: false
 tags:
 - Agile Product Management
+- Business Agility
 - Market Adaptability
 - Organisational Agility
+- Product Delivery
+- Value Delivery
+- Pragmatic Thinking
 - Agile Product Operating Model
+- People and Process
 - Agile Values and Principles
-- Agile Frameworks
-- Agile Philosophy
-- Agile Planning
-- Agile Project Management
-- Agile Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

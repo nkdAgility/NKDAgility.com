@@ -30,14 +30,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Agile Values and Principles
-- Customer Satisfaction
-- Transparency and Accountability
-- Accountability
-- Agile Philosophy
-- Miscellaneous
+- People and Process
 - Personal
+- Transparency and Accountability
+- Miscellaneous
+- Customer Satisfaction
+- Agile Philosophy
 - Pragmatic Thinking
 resourceTypes:
 - video

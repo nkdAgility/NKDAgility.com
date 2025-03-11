@@ -30,12 +30,13 @@ sitemap:
 tags:
 - People and Process
 - Agile Philosophy
+- Pragmatic Thinking
+- Software Developers
+- Team Performance
 resourceTypes:
 - video
 layout: video
 categories:
-- Engineering Excellence
-- Product Management
 - Social Technologies
 
 ---

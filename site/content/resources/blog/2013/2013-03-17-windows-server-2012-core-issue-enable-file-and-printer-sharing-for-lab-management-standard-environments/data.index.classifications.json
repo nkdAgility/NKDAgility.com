@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T19:13:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:09:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses practical solutions and techniques for enabling file and printer sharing in Visual Studio Lab Management environments, which aligns with the exploration and application of tooling.",
+    "final_score": 71.0,
+    "reasoning": "The content provides practical solutions for enabling file and printer sharing in Visual Studio Lab Management environments, which aligns with the category's focus on practical techniques and tooling. It discusses specific steps and commands, demonstrating a clear application of tooling. However, it lacks broader discussions on Agile or DevOps methodologies, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T19:14:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:50:07",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 40,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content provides detailed step-by-step instructions for enabling File and Printer Sharing in Windows environments, which is a clear focus on installation and configuration processes.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed guide on enabling File and Printer Sharing for Visual Studio Lab Management environments, which directly relates to installation and configuration processes. It explicitly discusses the steps required to configure firewall settings on Windows 8 and Windows Server 2012, aligning well with the key topics of the category. The depth of discussion is significant, as it includes specific instructions and troubleshooting insights, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -775,12 +781,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:55:44",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content provides practical solutions for enabling file and printer sharing in specific environments, which aligns with pragmatic problem-solving in a technical context, but it primarily focuses on technical instructions rather than broader Agile or DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on a technical issue related to enabling file and printer sharing in specific environments, which is a practical problem-solving scenario. However, it lacks a broader discussion on Agile, Scrum, or DevOps principles, and does not delve into the complexities of project management or decision-making processes. While it provides a solution to a specific problem, it does not align closely with the core themes of Pragmatic Thinking, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1045,11 +1054,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T19:17:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:51:15",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration of file and printer sharing settings in Windows environments, which is a key aspect of system configuration for enabling communication between servers in Lab Management.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses enabling file and printer sharing as a critical step in configuring environments for Visual Studio Lab Management, which directly aligns with system configuration practices. It provides detailed steps for both Windows 8 and Windows Server 2012, demonstrating a clear understanding of configuration management and troubleshooting. The depth of discussion is significant, covering specific actions required to ensure system integration and performance, thus fitting well within the category's focus.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1099,11 +1111,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T19:17:10",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-10T18:40:20",
+    "ai_confidence": 92.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 95.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 50,
-    "final_score": 86.0,
-    "reasoning": "The content primarily discusses enabling File and Printer Sharing on Windows operating systems, specifically Windows 8 and Windows Server 2012, which aligns closely with the key topics of installation, configuration, and troubleshooting within the Windows environment.",
+    "final_score": 88.0,
+    "reasoning": "The content primarily focuses on enabling File and Printer Sharing in Windows environments, specifically detailing steps for Windows 8 and Windows Server 2012. It discusses installation and configuration aspects relevant to the Windows operating system, aligning closely with the key topics outlined in the Windows category. The depth of discussion is substantial, providing specific instructions and troubleshooting insights, which further supports a high confidence score.",
     "level": "Primary"
   },
   "Deployment Strategies": {
@@ -1153,11 +1168,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T19:17:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:30:42",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the identification and resolution of issues related to enabling file and printer sharing in Visual Studio Lab Management environments, providing specific solutions and steps to troubleshoot the problem.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses a specific troubleshooting issue related to enabling file and printer sharing in Visual Studio Lab Management environments. It identifies potential causes for the problem, provides detailed steps for diagnosing and resolving the issue, and includes practical solutions for both Windows 8 and Windows Server 2012. This aligns closely with the core themes of the Troubleshooting category, demonstrating a clear focus on identifying and resolving technical issues.",
     "level": "Secondary"
   },
   "Experimentation": {

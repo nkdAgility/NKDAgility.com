@@ -27,10 +27,11 @@ isShort: true
 tags:
 - Agile Project Management
 - Employee Engagement
-- People and Process
 - Team Motivation
 - Software Development
+- People and Process
 - Agile Product Management
+- Software Developers
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -40,6 +41,7 @@ resourceTypes:
 categories:
 - Social Technologies
 - Scrum
+- Product Management
 
 ---
 In my journey through the world of Agile and Scrum, I've often encountered what I like to call the "seven signs of the agile apocalypse." One of the most alarming signs is famine. Now, you might be wondering how famine relates to Agile practices, but let me explain. In our context, this famine manifests as a significant lack of feedback and engagement—particularly with stakeholders and, crucially, with your product owner.

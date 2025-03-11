@@ -8,7 +8,7 @@ ResourceImportId: 378
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-06-18
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,12 +24,9 @@ aliasesArchive:
 - /resources/blog/creating-your-own-event-handler
 tags:
 - Practical Techniques and Tooling
-- Azure DevOps
 - Software Development
-- Technical Excellence
-- Technical Mastery
-categories:
-- Engineering Excellence
+- Azure DevOps
+categories: []
 preview: metro-binary-vb-128-link-2-2.png
 
 ---

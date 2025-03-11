@@ -73,11 +73,14 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:18:13",
+    "ai_confidence": 67.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a personal experience related to the TFS Event Handler and its popularity, which does not directly reference Agile, Scrum, DevOps, or Lean principles, but is more anecdotal in nature.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses a personal experience related to the TFS Event Handler and its popularity, which does not directly reference Agile, Scrum, DevOps, or Lean principles. While it touches on a tool (TFS) that may be used in Agile environments, it lacks a clear connection to established methodologies or actionable insights, aligning it more with the Miscellaneous category.",
     "level": "Tertiary"
   },
   "Resilience and Change": {
@@ -172,12 +175,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:14:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions an update related to the TFS Event Handler and its popularity, which aligns with industry news, but it primarily focuses on personal reflection rather than a comprehensive review or analysis.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions an update related to the TFS Event Handler and its popularity, which aligns with industry news. However, it lacks a detailed review or analysis of the tool, and the discussion is more personal and anecdotal rather than providing substantial insights or evaluations relevant to Agile or DevOps practices.",
+    "level": "Quaternary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
@@ -280,12 +286,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:48:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content includes a personal reflection on the author's experience with the TFS Event Handler and their feelings of pride regarding its popularity, but it primarily focuses on the tool rather than broader themes of Agile or Scrum.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions a personal experience related to the TFS Event Handler, but it lacks depth and detailed reflection on Agile methodologies. While it touches on personal pride, it does not provide substantial insights or challenges faced in Agile contexts.",
+    "level": "Quaternary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -577,12 +586,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:00:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content references TFS (Team Foundation Server) and its event handler, which relates to software development practices, but the main focus is on personal sentiment and popularity rather than software engineering methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions TFS (Team Foundation Server) and an event handler related to it, which is relevant to software development. However, the discussion lacks depth and does not explore methodologies, best practices, or detailed technical aspects of software development. The focus is more on personal sentiment and popularity rather than on software engineering practices.",
+    "level": "Quaternary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",

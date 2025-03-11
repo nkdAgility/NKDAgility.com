@@ -346,12 +346,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T16:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:14:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile methodologies and their impact on team dynamics and product development, which are relevant to engineering practices. However, the primary focus is on agile as a framework rather than specific engineering excellence principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of agility in responding to market demands, which indirectly relates to engineering excellence through the lens of organisational capability and responsiveness. However, it primarily focuses on agile methodologies and organisational practices rather than specific engineering standards, practices, or processes. The discussion lacks depth in terms of software craftsmanship and does not explicitly mention key topics such as coding standards, CI/CD, or quality assurance.",
+    "level": "Quaternary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1042,11 +1045,14 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-12T03:55:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:14:24",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses how organisations can leverage agile methodologies to adapt and thrive during challenging times, such as recessions. It highlights the importance of organisational change, leadership involvement, and the need for a culture of adaptability, which aligns closely with the principles of resilience and change.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of agility in responding to market changes, particularly during challenging times like recessions. It highlights the need for organisations to invest in their people and adapt quickly to customer demands, which aligns with the core themes of resilience and change. However, while it touches on these concepts, the discussion lacks depth and specific strategies for fostering organisational resilience, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Install and Configuration": {
@@ -1087,30 +1093,39 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-12T03:55:52",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Agile methodologies and their role in product delivery, including iterative development, customer value creation, and the importance of cross-functional teams, which are all central to the product delivery process.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-10T12:21:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of agility in responding to market demands, which aligns with the core themes of product delivery. However, it primarily focuses on the broader implications of agility during recessions rather than specific methodologies or practices related to the end-to-end process of delivering software products. While it mentions the need for organisations to adapt and deliver value to customers, it lacks detailed discussion on planning, testing, deployment, or metrics, which are crucial for a higher confidence score in the Product Delivery category.",
+    "level": "Tertiary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-12T03:55:53",
-    "ai_confidence": 80,
-    "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the application of Agile principles in product management, including the importance of customer value, empirical process control, and the role of teams in adapting to market needs, which aligns closely with Agile Product Management practices.",
+    "calculated_at": "2025-03-10T14:27:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of agility in responding to market demands, particularly during challenging economic times. It touches on the need for organisations to empower their teams to make decisions quickly, which aligns with Agile principles. However, it lacks specific references to Agile methodologies, roles, or practices, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-12T03:55:55",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the role of Agile in fostering a culture of continuous improvement, experimentation, and learning within organisations, particularly during challenging times. It emphasises the importance of adapting to market conditions, capturing customer feedback, and using empirical processes to inform decision-making, which aligns closely with the key topics of the Discovery and Learning category.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-10T18:21:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of agility in responding to market changes, which aligns with the themes of continuous learning and adapting to new information. However, it primarily focuses on the context of organisational behaviour during recessions rather than explicitly exploring methodologies for discovery and learning. The discussion lacks depth in terms of specific techniques or frameworks that foster innovation, resulting in a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1123,12 +1138,15 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-12T03:55:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:16:57",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the application of Agile methodologies in complex environments, highlighting the importance of adaptability, empirical process control, and the need for organisations to respond to uncertainty and complexity. It references concepts related to complexity thinking, such as non-linear dynamics and the role of leadership in adaptive environments, making it a central theme.",
-    "level": "Secondary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of agility in responding to market changes, which aligns with complexity thinking principles. However, it lacks direct references to complexity science or frameworks like the Cynefin Framework. The discussion is somewhat superficial and does not delve deeply into the non-linear dynamics or emergent behaviours characteristic of complex adaptive systems.",
+    "level": "Quaternary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -1159,11 +1177,14 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-12T03:56:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:41:54",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses how Agile methodologies can enhance an organisation's ability to adapt and respond to market changes, particularly during recessions. It emphasises the importance of continuous feedback loops, cross-functional teams, and empirical process control, all of which are central to market adaptability.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the importance of agility in responding to market changes, particularly during recessions. It highlights the need for organisations to invest in their people and capabilities to enhance responsiveness to market demands. The discussion aligns well with the core themes of market adaptability, focusing on Agile methodologies and the necessity of empowering teams to make swift decisions. However, while the content is rich in ideas, it lacks structured depth in specific Agile practices and methodologies, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -1321,21 +1342,27 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T08:35:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:21:38",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Agile methodologies, their principles, and their application in organisational contexts, aligning closely with the category of Social Technologies.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the concept of agility in the context of responding to market demands, which aligns with the core themes of Social Technologies. However, it lacks specific references to frameworks like Scrum or Kanban, and the depth of discussion on Agile principles is limited. The focus is more on the general idea of agility rather than detailed methodologies, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-18T08:35:54",
-    "ai_confidence": 70,
-    "non_ai_confidence": 50,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the role of leadership in fostering agility and responsiveness within organisations, particularly during challenging times. It highlights the importance of empowering teams and decentralising decision-making, which aligns with leadership practices in Agile contexts. However, the primary focus is on Agile methodologies rather than leadership itself.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-10T14:27:19",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of investing in people and organisational capabilities during challenging times, which aligns with leadership principles in fostering agility and responsiveness. However, it lacks explicit references to leadership practices or frameworks, and the discussion is somewhat general, focusing more on agile concepts than on leadership itself.",
+    "level": "Tertiary"
   },
   "Beta Codex": {
     "category": "Beta Codex",

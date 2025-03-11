@@ -23,8 +23,8 @@ aliasesArchive:
 - /error-creating-listener-in-team-build
 - /resources/blog/error-creating-listener-in-team-build
 tags:
-- Install and Configuration
 - Troubleshooting
+- Install and Configuration
 - Windows
 preview: nakedalm-logo-128-link-1-1.png
 categories: []

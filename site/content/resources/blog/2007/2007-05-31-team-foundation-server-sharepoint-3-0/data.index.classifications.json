@@ -55,11 +55,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T22:08:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:24:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration of SharePoint 3.0 alongside Team Foundation Server, including specific XML configuration details and the user's experience with the setup process.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the installation of SharePoint 3.0 and the configuration of Team Foundation Server in relation to it. There are explicit mentions of installation procedures and configuration details, such as the XML snippets for service interfaces. However, the depth of discussion is somewhat limited as it focuses more on the author's experience and questions rather than providing comprehensive, step-by-step instructions or troubleshooting advice. Overall, while it aligns with the category, it lacks the thoroughness expected for a high confidence score.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -370,11 +373,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T08:18:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:19:50",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the installation and configuration of SharePoint 3.0 alongside Team Foundation Server, focusing on system setup and integration, which aligns well with the category on System Configuration.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the installation and configuration of SharePoint 3.0 on a Team Foundation Server, which aligns with system configuration principles. It includes specific technical details about configuration settings and URLs, indicating a focus on practical configuration tasks. However, the discussion is somewhat exploratory and lacks comprehensive depth on best practices or optimisation strategies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
@@ -946,12 +952,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:05:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses technical implementation details related to configuring SharePoint and Team Foundation Server, which are relevant to software engineering practices. However, it primarily focuses on setup and project management aspects, which are secondary to technical mastery.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the installation and configuration of SharePoint 3.0 alongside Team Foundation Server, which touches on technical aspects but lacks a strong focus on broader software craftsmanship principles. While there are mentions of best practices and documentation, the discussion is more about implementation specifics rather than overarching methodologies or principles of software engineering excellence.",
+    "level": "Quaternary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1081,12 +1090,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:52:26",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 55.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the installation and configuration of SharePoint Services in relation to Team Foundation Server, which involves the Windows environment, but it predominantly focuses on SharePoint and Team Foundation Server rather than Windows itself.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the installation and configuration of SharePoint 3.0 on a Team Foundation Server, which is relevant to the Windows operating system environment. However, while it mentions Windows indirectly through SharePoint and Team Server, it does not focus explicitly on Windows itself. The discussion includes technical details about configuration settings and potential troubleshooting, aligning with some key topics of the Windows category. The depth of the discussion is moderate, providing specific examples and code snippets, but it lacks a broader context on Windows as a standalone topic.",
+    "level": "Secondary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1099,11 +1111,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:17:24",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to setting up and configuring SharePoint alongside Team Foundation Server and includes inquiries about the feasibility of achieving certain configurations, indicating troubleshooting concerns. However, the primary focus seems to be more on configuration rather than direct troubleshooting methods.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the installation and configuration of SharePoint 3.0 alongside Team Foundation Server, indicating a troubleshooting context. However, it primarily focuses on the setup process and seeks advice on achieving specific configurations rather than detailing systematic problem-solving techniques or methodologies. The questions posed suggest a troubleshooting intent, but the depth of discussion on actual troubleshooting techniques is limited.",
     "level": "Tertiary"
   },
   "Entrepreneurship": {

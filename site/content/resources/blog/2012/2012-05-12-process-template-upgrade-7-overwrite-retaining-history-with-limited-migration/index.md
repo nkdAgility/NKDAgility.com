@@ -8,7 +8,7 @@ ResourceImportId: 5277
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-05-12
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,10 +28,17 @@ aliasesArchive:
 - /resources/blog/process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
 tags:
 - Install and Configuration
+- Practical Techniques and Tooling
+- Software Development
+- System Configuration
+- Troubleshooting
+- Azure DevOps
+- Agile Frameworks
+- Azure Boards
+- Operational Practices
+- Pragmatic Thinking
 categories:
 - Scrum
-- DevOps
-- Engineering Excellence
 
 ---
 A little while ago I was looking into the best options for [upgrading a process template but still keep your data intact](http://blog.hinshelwood.com/do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact/), but there is still a little bit of ambiguity on how that is achieved. Although the original list had only #6 options lets look at the #7 option…

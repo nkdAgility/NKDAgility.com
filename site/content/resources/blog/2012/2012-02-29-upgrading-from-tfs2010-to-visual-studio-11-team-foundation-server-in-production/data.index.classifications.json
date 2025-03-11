@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T20:53:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:22:37",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical steps and techniques involved in upgrading Team Foundation Server, including specific tools, installation processes, and configuration details, which aligns well with the category focus.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed, step-by-step guide on upgrading from TFS 2010 to Visual Studio 2012 Team Foundation Server, which directly relates to practical techniques and tooling in a DevOps context. It discusses specific tools (TFS, SQL Server) and methodologies (installation and upgrade processes), demonstrating a clear alignment with the category's focus. The depth of discussion is significant, covering various aspects of the upgrade process, including prerequisites, installation steps, and troubleshooting, which enhances its practical applicability.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T20:53:49",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-10T12:57:22",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 30,
-    "final_score": 84.0,
-    "reasoning": "The content provides a detailed, step-by-step guide on upgrading from TFS 2010 to Visual Studio 2012 Team Foundation Server, including installation procedures, configuration steps, and troubleshooting tips, which aligns closely with the 'Install and Configuration' category.",
+    "final_score": 86.0,
+    "reasoning": "The content provides a comprehensive, step-by-step guide on upgrading from TFS 2010 to Visual Studio 2012 Team Foundation Server, which directly aligns with the 'Install and Configuration' category. It includes explicit mentions of installation procedures, prerequisites, and configuration steps, demonstrating a clear focus on the technical aspects of installation and configuration. The depth of discussion is significant, covering various stages of the upgrade process, including troubleshooting and best practices, which enhances its relevance to the category.",
     "level": "Primary"
   },
   "Transparency and Accountability": {
@@ -118,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:22:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server, which is a tool used in DevOps practices. However, it lacks a broader discussion on DevOps principles, practices, or cultural shifts, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical steps involved in upgrading Team Foundation Server (TFS) from an older version to a newer one. While it touches on aspects of software deployment and configuration, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. The mention of TFS and its installation process is relevant to DevOps tools, but the content does not explore the integration of people, processes, or the continuous delivery of value, which are core to the DevOps category.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -280,11 +289,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T20:54:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:57:06",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the upgrade process from TFS 2010 to Visual Studio 11 Team Foundation Server, which is a part of the Azure DevOps suite. It provides detailed steps and considerations relevant to Azure DevOps functionalities.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the upgrade process from TFS 2010 to Visual Studio 11 Team Foundation Server, which is a part of Azure DevOps. It includes specific steps, requirements, and considerations for the upgrade, demonstrating a clear focus on Azure DevOps functionalities. However, while it provides detailed procedural information, it lacks broader discussions on best practices or methodologies associated with Azure DevOps, which slightly lowers the depth of discussion score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -343,11 +355,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T20:54:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:45:23",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server, which is a critical aspect of managing the application lifecycle, including deployment and maintenance stages.",
+    "final_score": 61.0,
+    "reasoning": "The content primarily focuses on the upgrade process of Team Foundation Server (TFS), which is a tool used in the application lifecycle management space. It discusses specific steps involved in upgrading software, which aligns with the deployment and maintenance stages of the application lifecycle. However, it lacks broader discussions on governance, compliance, or integration of methodologies like Agile and DevOps, which are key themes in Application Lifecycle Management. The depth of discussion is moderate, providing detailed steps but not exploring the strategic aspects of ALM.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -370,12 +385,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T21:39:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:00:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical process of upgrading Team Foundation Server, focusing on specific installation steps, requirements, and best practices related to software installation and configuration, which aligns well with the principles of software craftsmanship and engineering practices.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server, detailing specific steps, requirements, and considerations. While it does not explicitly discuss broader principles of software craftsmanship or architecture, it aligns with technical mastery through its emphasis on best practices for installation and configuration. The depth of discussion is moderate, providing practical insights but lacking in theoretical exploration of software engineering principles.",
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -946,11 +964,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-15T21:39:56",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T10:35:39",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the process of upgrading Team Foundation Server, which involves planning and managing a software release. However, the focus is more on the installation and upgrade steps rather than broader release management strategies or coordination between teams.",
+    "final_score": 61.0,
+    "reasoning": "The content primarily focuses on the upgrade process of Team Foundation Server, which is a specific aspect of release management. It discusses the steps involved in upgrading software, which aligns with release management practices. However, it lacks a broader discussion on release strategies, risk management, or coordination with stakeholders, which are key topics in release management. The depth of discussion is moderate, providing detailed steps but not exploring the strategic implications of the release.",
     "level": "Secondary"
   },
   "Product Owner": {

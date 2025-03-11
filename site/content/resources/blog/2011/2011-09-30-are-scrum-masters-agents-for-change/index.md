@@ -27,16 +27,16 @@ aliasesArchive:
 - /blog/are-scrum-masters-agents-for-change-
 - /resources/blog/are-scrum-masters-agents-for-change
 tags:
-- People and Process
-- Professional Scrum
-- Scrum Master
 - Agile Project Management
-- Events and Presentations
+- Software Development
+- Scrum Master
 - Organisational Change
 - Agile Frameworks
-- Agile Transformation
+- People and Process
 - Pragmatic Thinking
-- Software Development
+- Professional Scrum
+- Events and Presentations
+- Agile Transformation
 categories:
 - Scrum
 - Social Technologies

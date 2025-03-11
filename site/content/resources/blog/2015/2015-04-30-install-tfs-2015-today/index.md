@@ -8,7 +8,7 @@ ResourceImportId: 11286
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-04-30
-weight: 860
+weight: 850
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,9 +24,8 @@ aliasesArchive:
 - /resources/blog/install-tfs-2015-today
 tags:
 - Install and Configuration
-- System Configuration
-categories:
-- DevOps
+- Windows
+categories: []
 preview: nakedalm-experts-visual-studio-alm-11-11.png
 
 ---

@@ -334,11 +334,14 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:09:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:07:42",
+    "ai_confidence": 45.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the release of Windows 7 and provides links to impressions and insights, indicating a review aspect, but it primarily focuses on the availability of the release candidate rather than broader industry news or trends.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily discusses the release of Windows 7, which is a technology update, but it lacks a detailed review or analysis of its impact on Agile or DevOps practices. While it mentions the availability of the Release Candidate and provides links for further information, it does not delve into industry trends or provide insights that would guide practitioners in decision-making. The discussion is more focused on the release itself rather than a comprehensive review or news analysis.",
     "level": "Tertiary"
   },
   "Application Lifecycle Management": {
@@ -946,11 +949,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:09:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:09:53",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses the availability of the Windows 7 Release Candidate, which is related to the release management process, but it lacks a deeper discussion on release strategies or practices.",
+    "final_score": 60.0,
+    "reasoning": "The content primarily discusses the availability of the Windows 7 Release Candidate, which is a specific instance of a software release. While it mentions the release and provides some context about its availability, it lacks a detailed exploration of release management practices, strategies, or processes. The focus is more on the announcement rather than the management aspects of the release, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Product Owner": {
@@ -1099,11 +1105,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T10:29:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:45:56",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily focuses on the Windows 7 Release Candidate, discussing its availability, installation, and resources related to Windows 7, making it a central topic of discussion.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on the Windows 7 Release Candidate, discussing its availability and providing links for further information. It directly mentions Windows multiple times and aligns well with the category's key topics, particularly regarding installation and updates. The depth of discussion is significant as it hints at personal experiences with installation and provides resources for users. Overall, the content is highly relevant to the Windows category.",
     "level": "Secondary"
   },
   "Deployment Strategies": {

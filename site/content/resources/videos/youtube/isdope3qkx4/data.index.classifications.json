@@ -1,21 +1,27 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T11:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:27:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions DevOps as a topic of discussion, but it is not the primary focus, as it also includes Agility and is framed around a Q&A format.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content briefly mentions DevOps in the context of agile training and tools, but the primary focus is on Agile methodologies and team management rather than the core principles of DevOps. While there are references to tools like GitHub and Azure DevOps, the discussion lacks depth in DevOps practices, automation, and cultural shifts necessary for successful implementation. Overall, the content does not align closely with the key topics of the DevOps category.",
+    "level": "Secondary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:13:32",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Agility and references a Professional Scrum Trainer, indicating a secondary theme related to Scrum and Agile practices, but it is not the primary focus.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-10T12:29:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses Agile practices, specifically mentioning Scrum and Kanban, and addresses the challenges of managing distributed teams. It provides insights into tools that facilitate Agile methodologies, which aligns with the core themes of Social Technologies. However, the discussion lacks depth in exploring the principles and practices of these frameworks, focusing more on tools rather than the methodologies themselves.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -73,12 +79,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-18T11:22:44",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-11T11:45:14",
+    "ai_confidence": 45.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 29.0,
-    "reasoning": "The content mentions a Professional Scrum Trainer and invites questions on topics related to Agility, but it does not primarily focus on Scrum or its principles.",
-    "level": "Quaternary"
+    "final_score": 42.0,
+    "reasoning": "The content discusses various tools and strategies for managing distributed teams, with some references to Scrum principles, particularly around co-location and the Scrum Guide. However, the focus is more on practical tools rather than an in-depth exploration of Scrum roles, events, or artifacts, which limits its alignment with the Professional Scrum category.",
+    "level": "Tertiary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -100,12 +109,15 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T11:22:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content includes an interactive session (Ask Me Anything) that relates to Agile and DevOps, though it is more focused on the opportunity for questions rather than a formal presentation or event structure.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-10T12:29:32",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses live videos and sessions, indicating a focus on events. It mentions a schedule for office hours and webcasts, which aligns with the category. However, the depth of discussion on specific events or presentations is limited, and the content primarily revolves around tools and strategies rather than formal presentations or structured learning experiences.",
+    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -433,11 +445,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-18T11:22:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:35:23",
+    "ai_confidence": 65.0,
+    "ai_mentions": 25.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions Azure DevOps in the context of a professional Scrum Trainer but does not focus primarily on Azure DevOps functionalities or practices.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses Azure DevOps in detail, particularly its functionalities and tools, such as boards and work item tracking. However, it also includes significant discussion on general Agile practices and other tools like GitHub and Microsoft Planner, which detracts from its primary focus on Azure DevOps. While Azure DevOps is a key topic, the content's breadth and inclusion of other platforms reduce its overall alignment with the category.",
     "level": "Tertiary"
   },
   "Technical Mastery": {
@@ -451,12 +466,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-18T11:22:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:27:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content allows for discussions on topics related to DevOps and Agility, which are relevant to software developers, but A.M.A format indicates that it's more about answering questions than offering a focused discussion on these methodologies.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses Agile methodologies and tools relevant to software development, such as GitHub and Azure DevOps, which are integral to the role of software developers. However, the discussion lacks depth in exploring best practices or the impact of Agile on team dynamics, focusing more on tool functionalities than on developer roles or methodologies. While it mentions Agile and DevOps, it does not delve deeply into how these frameworks enhance productivity or collaboration among developers.",
+    "level": "Secondary"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
@@ -604,12 +622,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-18T11:22:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content invites questions on topics related to DevOps and agility, it does not focus sufficiently on the human factors or processes involved in these methodologies, making it a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-10T18:27:03",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 30,
+    "final_score": 68.0,
+    "reasoning": "The content discusses team dynamics and collaboration in a distributed Agile environment, touching on the importance of communication and adapting processes to maintain effectiveness. It mentions Scrum principles and tools that facilitate team management, indicating a focus on human behaviour in technology development. However, the depth of discussion on these topics is somewhat limited, as it primarily revolves around tool usage rather than a comprehensive exploration of team dynamics or leadership roles.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",

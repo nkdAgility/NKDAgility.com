@@ -8,7 +8,7 @@ ResourceImportId: 11355
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-06-24
-weight: 540
+weight: 460
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,19 +27,20 @@ aliasesArchive:
 - /blog/big-scrum--are-you-doing-mechanical-scrum
 - /resources/blog/big-scrum-are-you-doing-mechanical-scrum
 tags:
+- Software Development
+- Agile Project Management
 - Agile Values and Principles
 - Professional Scrum
 - Scaling Scrum
 - Scrum Values
 - Agile Frameworks
-- Agile Product Management
-- Agile Project Management
-- Agile Transformation
-- People and Process
 - Software Developers
+- Agile Product Management
+- Agile Transformation
 categories:
 - Scrum
 - Social Technologies
+- Engineering Excellence
 preview: clip_image001-1-1.png
 
 ---

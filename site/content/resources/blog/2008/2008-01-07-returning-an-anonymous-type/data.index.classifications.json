@@ -568,20 +568,26 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:26",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-10T15:13:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "The content mostly discusses coding practices in VB.NET, which is not directly related to Software Developers' roles in Agile or DevOps contexts.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses a specific programming feature in VB.NET related to returning anonymous types, which is a technical aspect of software development. However, it does not engage with the broader themes of Agile methodologies, DevOps practices, or the role of software developers in those contexts. While it provides some depth on the technical implementation, it lacks direct mentions of Agile or DevOps principles, resulting in a low confidence score for alignment with the category.",
     "level": "Quaternary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T19:31:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:17:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses VB.NET and the use of anonymous types in the context of software coding and development practices.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses returning an anonymous type in VB.NET, which is a specific coding practice relevant to software development. It provides a code example and touches on aspects of coding and type handling, aligning with best practices in software design. However, the discussion lacks depth in broader software development methodologies or frameworks, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {
@@ -946,12 +952,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:00:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of anonymous types in VB.NET, which relates to software design and coding practices, but it is primarily focused on a specific coding feature rather than broader engineering principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the use of anonymous types in VB.NET, which touches on software design and coding practices. However, it lacks a broader discussion on principles of clean code, software craftsmanship, or methodologies that contribute to high-quality software development. The focus is primarily on a specific coding feature rather than a comprehensive exploration of technical mastery.",
+    "level": "Quaternary"
   },
   "Remote Working": {
     "category": "Remote Working",

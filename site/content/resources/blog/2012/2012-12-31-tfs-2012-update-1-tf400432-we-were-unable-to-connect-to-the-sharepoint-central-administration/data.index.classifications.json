@@ -19,12 +19,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:56:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical issue related to the configuration of Team Foundation Server and its interaction with SharePoint, which involves engineering practices, but it primarily focuses on troubleshooting rather than broader principles of software craftsmanship or architecture.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific error related to Team Foundation Server and SharePoint integration, which is more focused on troubleshooting than on broader software craftsmanship principles. While it does touch on configuration and problem-solving, it lacks a comprehensive exploration of best practices, clean code principles, or methodologies that contribute to high-quality software development. The discussion is technical but does not delve into the core themes of Technical Mastery.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -226,11 +229,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-14T16:29:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:50:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses a specific error related to Team Foundation Server, which is a tool used in software development for source control and project management, and provides a solution involving configuration steps relevant to software development practices.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific error related to Team Foundation Server (TFS) and its integration with SharePoint, which is relevant to software development practices, particularly in the context of version control and project management tools. However, while it provides a solution to a technical issue, it lacks broader discussions on methodologies or best practices in software development, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -694,11 +700,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-14T16:29:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:12:44",
+    "ai_confidence": 85.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content focuses primarily on troubleshooting a specific configuration issue between Team Foundation Server and SharePoint, detailing the required configuration steps and adjustments needed to resolve the error.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses a specific error related to the configuration of Team Foundation Server (TFS) and its connection to SharePoint, which is a direct mention of system configuration. It aligns well with the core themes of the category, as it addresses troubleshooting configuration issues and provides a solution for correcting a misconfiguration. The depth of discussion is substantial, detailing the error, its implications, and the steps to resolve it, thus providing practical insights into system configuration processes. Overall, the content is focused on the technical aspects of configuring systems, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -802,11 +811,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-14T16:29:51",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-10T14:51:44",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 50,
-    "final_score": 86.0,
-    "reasoning": "The content primarily discusses a specific error encountered during the upgrade of Team Foundation Server, including steps to diagnose and resolve the issue related to connectivity with SharePoint Central Administration.",
+    "final_score": 83.0,
+    "reasoning": "The content explicitly discusses a specific error (TF400432) encountered during the upgrade of Team Foundation Server and provides a detailed analysis of the issue, including potential causes and solutions. It aligns well with the core themes of troubleshooting by identifying a technical problem, explaining the context, and offering actionable solutions. The depth of discussion is high, as it includes specific steps to resolve the issue and insights into the configuration changes needed, demonstrating a thorough understanding of the troubleshooting process.",
     "level": "Primary"
   },
   "Experimentation": {
@@ -1009,11 +1021,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T17:35:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:31:07",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content discusses specific troubleshooting techniques and solutions related to configuring Team Foundation Server and SharePoint, which fall under practical application of tooling.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses a specific error related to Team Foundation Server (TFS) and provides a practical solution for resolving the issue by updating configuration settings. While it does mention a tool (TFS) and offers a practical technique for troubleshooting, the focus is primarily on a specific error rather than a broader exploration of Agile or DevOps methodologies or tools. The depth of discussion is limited to a single issue, which affects the overall confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -1072,11 +1087,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-14T17:35:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:40:51",
+    "ai_confidence": 85.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses troubleshooting and configuration steps related to the installation and upgrade of Team Foundation Server (TFS) and its connectivity with SharePoint, which aligns with installation and configuration topics.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed discussion on troubleshooting a specific error encountered during the upgrade of Team Foundation Server, which directly relates to installation and configuration processes. It explicitly mentions the error code TF400432 and outlines steps to resolve the issue, including configuration adjustments needed for SharePoint integration. The depth of the discussion is significant, as it not only identifies the problem but also offers two potential solutions, demonstrating a clear focus on practical installation and configuration guidance.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {

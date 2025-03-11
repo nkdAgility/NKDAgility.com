@@ -22,8 +22,7 @@ aliasesArchive:
 - /blog/advanced-email-content
 - /advanced-email-content
 - /resources/blog/advanced-email-content
-tags:
-- Windows
+tags: []
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

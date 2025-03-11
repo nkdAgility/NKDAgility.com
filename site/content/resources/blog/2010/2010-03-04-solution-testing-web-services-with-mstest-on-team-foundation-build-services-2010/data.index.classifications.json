@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T01:30:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:40:20",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for testing web services using MSTest within Team Foundation Build Services, including specific attributes and configurations necessary for successful automated testing.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed exploration of practical techniques for testing web services using MSTest within Team Foundation Build Services. It discusses specific attributes and methodologies for setting up tests, including the use of the AspNetDevelopmentServer and dynamic URL redirection. The focus on practical implementation and troubleshooting aligns well with the category, demonstrating a clear application of tooling and techniques in a real-world context.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T01:30:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:06:58",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration of testing web services using MSTest and Team Foundation Build Services, providing actionable instructions and troubleshooting tips.",
+    "final_score": 72.0,
+    "reasoning": "The content provides a detailed guide on configuring MSTest for testing web services, including specific attributes and methods required for proper setup. It discusses the installation of the ASP.NET Development Server and how to configure it for different environments, which aligns well with the category's focus on installation and configuration processes. The depth of discussion is significant, covering various scenarios and troubleshooting tips, although it could benefit from a clearer structure in terms of step-by-step instructions.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:06:55",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automated builds and testing in a continuous integration context, which aligns with DevOps practices, but it primarily focuses on unit testing and specific technical implementations rather than broader DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses automated builds and testing in a CI/CD context, which aligns with DevOps principles. However, it primarily focuses on specific technical implementations rather than broader DevOps practices, limiting its depth and overall relevance to the category.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -208,11 +217,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T01:30:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:04:58",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses testing methodologies, specifically around unit testing and integration testing in a web service context, which aligns with engineering practices that enhance code quality and reliability.",
+    "final_score": 74.0,
+    "reasoning": "The content provides a detailed discussion on testing web services using MSTest, which directly relates to engineering practices that enhance code quality and reliability. It covers specific attributes and methodologies for setting up unit tests in a web service context, demonstrating a clear understanding of Test-Driven Development (TDD) principles. The depth of the discussion is significant, as it addresses common pitfalls and solutions in automated testing, aligning well with the core themes of Technical Excellence. Overall, the content is primarily focused on technical practices, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -370,11 +382,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T01:39:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:41:43",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical aspects of testing web services using MSTest within a development environment, focusing on best practices, methodologies, and code examples that enhance software quality and engineering practices.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed discussion on testing web services using MSTest, focusing on best practices for unit testing, integration testing, and the use of attributes to ensure tests run correctly in different environments. It aligns well with the principles of clean code and software craftsmanship, particularly in the context of improving code quality and maintainability through effective testing strategies. The depth of the discussion is significant, as it covers specific coding examples, troubleshooting, and the integration of testing within a build server context, which are all critical aspects of technical mastery in software engineering.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -478,12 +493,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-16T01:39:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:07:09",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on testing strategies and methodologies within the context of using MSTest and Team Foundation Build Services. It discusses practical solutions to operational issues in the testing process, which aligns with the enhancement of operational efficiency in Agile and DevOps contexts.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses practical techniques for testing web services using MSTest, which aligns with operational practices in terms of improving testing efficiency and integration within a build environment. However, it primarily focuses on specific implementation details rather than broader operational strategies or methodologies, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -541,11 +559,14 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-16T01:39:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:52:22",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the implementation of automated tests using MSTest, including unit tests and integration tests, specifically for web services, and addresses issues related to running tests in a build environment.",
+    "final_score": 80.0,
+    "reasoning": "The content provides a detailed discussion on automated testing, specifically focusing on unit tests and integration tests using MSTest. It explains the setup required for automated tests in a build environment, including the use of attributes like HostType and UrlToTest, which are essential for running tests against web services. The depth of the discussion is significant, covering practical examples and troubleshooting tips, which aligns well with the principles and practices of automated testing in software development.",
     "level": "Secondary"
   },
   "Team Performance": {
@@ -730,11 +751,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-16T01:39:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:40:17",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses testing methodologies, unit testing practices, and how to properly configure and automate test environments in a software development context, which aligns with the principles of engineering excellence.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on testing methodologies and practices related to web services using MSTest, which aligns with the principles of software craftsmanship and quality assurance. It discusses specific coding practices, attributes for unit tests, and the importance of correctly configuring tests in different environments, which are relevant to engineering excellence. However, while it touches on best practices, the depth of discussion on broader engineering processes and continuous improvement is limited, preventing a higher confidence score.",
     "level": "Secondary"
   },
   "Revenue per Employee": {

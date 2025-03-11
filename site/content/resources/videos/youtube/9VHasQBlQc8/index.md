@@ -31,17 +31,18 @@ sitemap:
 tags:
 - People and Process
 - Agile Philosophy
-- Organisational Culture
-- Agile Leadership
 - Agile Values and Principles
-- Personal
-- Team Collaboration
+- Agile Leadership
+- Organisational Culture
 - Team Motivation
+- Team Collaboration
 - Team Performance
+- Personal
 resourceTypes:
 - video
 categories:
 - Leadership
+- Social Technologies
 
 ---
 In order for organizations to succeed, they must cultivate trust. Trust doesn't happen overnight; it's built on the foundation of patience. Patience with people, processes, and, most importantly, patience with outcomes that may not always align with expectations.

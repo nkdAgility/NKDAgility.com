@@ -280,12 +280,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:50:38",
+    "ai_confidence": 35.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses TFS (Team Foundation Server), which is part of the Azure DevOps suite, but primarily focuses on a specific issue related to permissions rather than broader Azure DevOps functionalities or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses a specific issue related to TFS (Team Foundation Server), which is part of the Azure DevOps suite. However, the focus is primarily on a user permission issue rather than broader Azure DevOps functionalities or best practices. While it mentions TFS and some configuration details, it lacks a comprehensive exploration of Azure DevOps services or methodologies, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Personal": {
     "category": "Personal",
@@ -577,11 +580,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T10:32:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:49:07",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily focuses on a specific issue related to Team Foundation Server (TFS) in the context of software development processes and permissions, which is relevant to version control and collaborative development practices.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses a specific issue related to permissions in TFS (Team Foundation Server), which is a tool used in software development. It touches on aspects of configuration and security measures relevant to software projects. However, while it mentions TFS and its implications for development practices, the discussion lacks depth in terms of broader software development methodologies or best practices. The focus is more on a specific problem rather than a comprehensive exploration of software development principles.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -775,12 +781,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T10:32:09",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T12:40:56",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "Content discusses practical problem-solving in a specific context (TFS permissions) and shows adaptability in addressing user issues, making it relevant to pragmatic thinking, but it's primarily focused on a specific technical issue rather than broader Agile or Scrum principles.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses a practical problem encountered in TFS regarding permissions and label creation, which aligns with pragmatic thinking in a real-world context. It provides a solution based on experience and addresses the complexities of security measures in project management. However, while it touches on Agile principles indirectly, it lacks a deeper exploration of Agile or Scrum methodologies, which limits its overall alignment with the category.",
+    "level": "Tertiary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1045,11 +1054,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T10:32:09",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T14:44:20",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses configuration settings within TFS regarding permissions and access control as part of system management, which relates to system configuration. However, the primary focus is on the access control specifics rather than a broader discussion of system configuration methodologies or practices.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses specific configuration issues related to TFS (Team Foundation Server) and the permissions required for users to create labels. It directly addresses the configuration of user permissions and the implications of security measures in a team project context. While it does not delve deeply into broader system configuration practices, it does provide a practical example of troubleshooting a configuration issue and offers a solution that aligns with the principles of system configuration. The discussion is primarily focused on the technical aspects of configuring user access and permissions, which is relevant to the category.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1153,11 +1165,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T10:32:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:34:09",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses a specific access issue related to label permissions in TFS, detailing the troubleshooting process undertaken to resolve the problem, including debugging efforts and insights gained from collaboration. It centers around diagnosing and fixing a technical issue, making troubleshooting a clear, primary topic.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses a specific issue related to permissions in TFS, which aligns with troubleshooting. It mentions the error message and the steps taken to resolve the issue, indicating a focus on diagnosing and solving a technical problem. However, while it provides some detail, the discussion lacks depth in systematic problem-solving techniques and broader troubleshooting strategies, which affects the overall confidence score.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -1198,12 +1213,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:25:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses team project configuration and permission issues in TFS, which is indirectly related to the role of software developers and their environments in Agile contexts, but the primary focus is not on Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses a specific issue related to permissions in TFS, which is relevant to software developers. However, it lacks a direct focus on Agile or DevOps methodologies, and the discussion is more about troubleshooting a technical problem rather than exploring best practices or principles within those frameworks. While it touches on developer roles and security measures, it does not delve into the broader themes of collaboration, productivity, or modern engineering practices that are central to the category.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

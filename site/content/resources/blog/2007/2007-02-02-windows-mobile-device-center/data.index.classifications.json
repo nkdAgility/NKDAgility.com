@@ -10,12 +10,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:44:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:26:46",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation process of the Windows Mobile Device Center, including the transition from beta to the release version, which aligns with the category's focus on installation procedures.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the release and installation of Windows Mobile Device Center (WMDC), which aligns with the installation aspect of the category. However, it lacks detailed step-by-step instructions or configuration best practices, resulting in a moderate confidence score. The mention of the installation process is present but not deeply explored, and the overall focus is more on the announcement rather than a comprehensive guide.",
+    "level": "Tertiary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -211,12 +214,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:44:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:22:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the release of Windows Mobile Device Center, which is an update relevant to technology, but it primarily focuses on personal experiences and opinions rather than broader industry news or reviews.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the release of the Windows Mobile Device Center (WMDC) and provides a personal account of the transition from beta to the final version. While it mentions a specific update, it lacks broader industry context or analysis related to Agile, DevOps, or technology trends. The focus is primarily on a specific product rather than a comprehensive review or news piece that informs about wider implications in the field.",
+    "level": "Quaternary"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
@@ -382,11 +388,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T11:09:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:53:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the Windows Mobile Device Center, its release, and its installation on Windows Vista, making it central to the topic of the Windows operating system.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the Windows Mobile Device Center (WMDC), which is directly related to the Windows operating system, specifically its interaction with mobile devices. There are explicit mentions of Windows and Vista, indicating a focus on installation and updates. The discussion aligns well with the category's themes, particularly regarding installation procedures and troubleshooting. However, the depth of discussion is somewhat limited to the WMDC and does not cover broader aspects of Windows, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Azure Repos": {
@@ -463,11 +472,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T11:09:04",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-10T19:07:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content mentions the installation process of Windows Mobile Device Center but primarily focuses on the release and usability aspects rather than detailed system configuration best practices or methodologies.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the release and installation of Windows Mobile Device Center (WMDC), which relates to system configuration in terms of software installation. However, it lacks depth in discussing broader configuration practices, optimisation strategies, or troubleshooting. The focus is primarily on the release and user experience rather than detailed configuration methodologies.",
     "level": "Quaternary"
   },
   "Acceptance Test Driven Development": {

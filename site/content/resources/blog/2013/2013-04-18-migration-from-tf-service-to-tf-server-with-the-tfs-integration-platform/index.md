@@ -8,7 +8,7 @@ ResourceImportId: 9443
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-04-18
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,17 +23,15 @@ aliasesArchive:
 - /migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
 - /resources/blog/migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
 tags:
-- Modern Source Control
 - Install and Configuration
-- Practical Techniques and Tooling
-- Pragmatic Thinking
 - Software Development
-- System Configuration
 - Troubleshooting
-- Technical Mastery
+- Practical Techniques and Tooling
+- System Configuration
+- Pragmatic Thinking
+- Modern Source Control
 categories:
 - DevOps
-- Engineering Excellence
 
 ---
 Are you worried that you will not be able to migrate from [http://tfs.visualstudio.com](http://tfs.visualstudio.com) when they start charging for it and you don’t want to pay? Fear not as we have the technology to migration from TF Service to TF Server with the TFS Integration Platform.

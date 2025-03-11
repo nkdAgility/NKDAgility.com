@@ -10,12 +10,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:13:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:10:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses an update to a specific software product, TFS Sticky Buddy, which is relevant to Agile practices, but the primary focus is on the update details rather than a comprehensive review or analysis.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses an update to a specific software product, TFS Sticky Buddy, including details about issues fixed in the update. While it does mention a product relevant to Agile practices, the discussion lacks depth and does not provide a review, analysis, or broader context about Agile methodologies or DevOps practices. The focus is more on the technical aspects of the update rather than on how it enhances understanding or implementation of Agile principles.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -181,12 +184,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:13:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:57:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content provides an update on the TFS Sticky Buddy, which relates to software tools in the Agile and DevOps space, but lacks broader industry context or analysis.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content provides an update on the TFS Sticky Buddy tool, which could be seen as relevant to technology updates. However, it lacks a broader discussion on Agile or DevOps practices, and the details are primarily focused on specific issues rather than industry trends or reviews. The mention of version updates is relevant but does not constitute a comprehensive review or analysis, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -298,12 +304,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:45:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions ALM and discusses an update related to a tool, but the primary focus is on specific issues and fixes rather than a comprehensive discussion of Application Lifecycle Management principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions ALM in the tags but does not discuss the application lifecycle stages, governance, or tools in detail. The focus is primarily on a specific update to a tool rather than on broader ALM practices.",
+    "level": "Quaternary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1216,11 +1225,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T12:36:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:13:18",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses updates that address specific issues and errors related to the TFS Sticky Buddy application, which aligns with troubleshooting by identifying and proposing solutions to software problems.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses specific problems that have been fixed in the TFS Sticky Buddy update, which aligns with troubleshooting by addressing issues users may encounter. However, the discussion is limited to listing problems and does not provide in-depth methodologies or strategies for diagnosing or resolving these issues. The mention of a proxy issue hints at troubleshooting but lacks detailed exploration, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Scrum Master": {

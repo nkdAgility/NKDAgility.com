@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T11:35:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:52:25",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical application of PowerShell with the TFS 2013 API to automate the addition of entries to a Global List, which aligns with the exploration and application of tools and methodologies in Agile and DevOps practices.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed exploration of using PowerShell with the TFS 2013 API to automate the addition of entries to a global list. It explicitly discusses practical techniques, such as scripting and API usage, which are central to the category of Practical Techniques and Tooling. The depth of the discussion is significant, as it includes code snippets and a step-by-step explanation of the process, demonstrating a clear application of tooling in a real-world scenario. The content aligns well with the key topics of the category, particularly in terms of methodologies for implementing Agile practices through tooling.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T11:35:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:43:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the process of using the TFS 2013 API with PowerShell to add entries to a Global List, which involves installation and configuration steps, including exporting and importing XML data. It provides actionable instructions and code examples relevant to the installation and configuration of TFS tools.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed guide on using PowerShell to interact with the TFS 2013 API, specifically focusing on adding entries to a Global List. It includes step-by-step instructions, code snippets, and explanations of the process, which aligns well with the category of Install and Configuration. The primary focus is on the technical aspects of installation and configuration, making it a strong fit for the category. However, while it is comprehensive, it could benefit from more explicit troubleshooting tips or system requirements to enhance its depth further.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -208,11 +214,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T11:35:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:46:32",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the use of PowerShell with the TFS 2013 API to automate the addition of entries to a global list, showcasing engineering practices that enhance efficiency and code reusability.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on a technical implementation using PowerShell to interact with the TFS 2013 API, which demonstrates a specific engineering practice. However, while it discusses the technical process in detail, it lacks broader discussions on methodologies like TDD, CI/CD, or modular architecture that are central to the category of Technical Excellence. The content is more about a specific coding task rather than a comprehensive exploration of engineering practices that enhance agility in software development.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -370,11 +379,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T17:51:26",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-10T18:36:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses technical implementation details regarding the TFS 2013 API and PowerShell scripting practices, showcasing techniques for improving code quality and reusability, which align with software craftsmanship principles.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on a specific technical implementation using PowerShell and the TFS 2013 API, which demonstrates a level of technical mastery in scripting and API interaction. However, while it discusses practical coding techniques and reusable functions, it lacks broader discussions on software design principles, clean code practices, or methodologies that contribute to high-quality software development. The depth of discussion is limited to a single use case without exploring the implications or best practices in software craftsmanship.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -577,11 +589,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T17:51:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:52:14",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses using PowerShell with the TFS 2013 API, which is relevant to software development practices, specifically in the context of software development tools and automation techniques.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on using the TFS 2013 API with PowerShell to manipulate global lists, which is a specific software development task. It discusses coding practices, such as creating reusable functions and handling XML data, which aligns with best practices in software development. However, while it provides a detailed explanation of the code and its functionality, it lacks broader discussions on methodologies or frameworks that guide the software development lifecycle, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -730,12 +745,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:52:21",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses using PowerShell to automate interactions with the TFS API, which is relevant to engineering processes and coding standards. However, it primarily focuses on a specific technical procedure rather than encompassing broader principles of engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on a technical implementation using PowerShell and the TFS 2013 API, which does not explicitly discuss engineering excellence or best practices in software craftsmanship. While it touches on automation and reusable functions, which are relevant to engineering processes, the overall emphasis is on a specific coding task rather than a broader discussion of engineering excellence principles. Therefore, the confidence score reflects a moderate alignment with the category, but it lacks depth and direct mentions of engineering excellence.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1045,11 +1063,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T17:51:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:26:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses configuring a system by using PowerShell to interact with the TFS 2013 API for managing global lists, which aligns with the processes involved in system configuration.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS 2013 API for configuring global lists, which aligns well with system configuration practices. It discusses specific methods for exporting, editing, and importing configurations, demonstrating a clear understanding of configuration management. The depth of the discussion is substantial, providing detailed code examples and explanations of the process. However, while it is relevant to system configuration, it does not cover broader topics such as optimisation strategies or security considerations, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {

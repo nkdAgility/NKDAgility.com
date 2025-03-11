@@ -28,12 +28,10 @@ aliasesArchive:
 - /resources/blog/tfs-integration-toolsissue-analysisprovider-not-found
 tags:
 - Troubleshooting
+- Software Development
 - Install and Configuration
 - Practical Techniques and Tooling
-- Pragmatic Thinking
-- Software Development
 - System Configuration
-- Technical Mastery
 - Windows
 categories: []
 preview: metro-problem-icon-3-3.png

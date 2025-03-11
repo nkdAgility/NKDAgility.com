@@ -8,7 +8,7 @@ ResourceImportId: 6160
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-07-15
-weight: 545
+weight: 625
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,15 +28,15 @@ aliasesArchive:
 - /resources/blog/one-team-project
 tags:
 - Agile Planning Tools
-- Agile Planning
-- Agile Project Management
-- Practical Techniques and Tooling
 - Software Developers
 - Software Development
-- Azure DevOps
+- Agile Project Management
+- Practical Techniques and Tooling
 - Pragmatic Thinking
 - Azure Boards
-- Large Scale Agility
+- Agile Planning
+- People and Process
+- Product Delivery
 categories:
 - Social Technologies
 - Scrum

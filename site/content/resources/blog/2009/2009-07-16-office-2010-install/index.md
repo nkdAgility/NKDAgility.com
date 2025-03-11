@@ -25,7 +25,6 @@ aliasesArchive:
 tags:
 - Windows
 - Install and Configuration
-- System Configuration
 preview: metro-office-128-link-7-1.png
 categories: []
 

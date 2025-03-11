@@ -19,11 +19,14 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-16T11:33:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:50:44",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to source control and branching strategies without directly referencing Agile, Scrum, DevOps, or Lean principles.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses a specific issue related to source control and branching strategies, which does not directly reference Agile, Scrum, DevOps, or Lean principles. While it touches on the challenges faced in a team environment, it lacks a structured discussion of recognised methodologies or actionable insights. The mention of TFS as an ALM tool indicates a broader context but does not align with specific frameworks, thus fitting the Miscellaneous category. However, the depth of discussion on the technical issue and the steps taken to resolve it provides some level of detail, contributing to a moderate confidence score.",
     "level": "Secondary"
   },
   "Organisational Psychology": {
@@ -73,12 +76,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:13:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:50:37",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses source control management and branching strategies, which are relevant to DevOps practices, but the primary focus is on personal experiences and challenges rather than a comprehensive discussion of DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses issues related to source control and branching strategies, which are relevant to DevOps practices. However, it primarily focuses on a specific incident rather than broader DevOps principles or practices. While there are mentions of tools like TFS and some aspects of version control, the discussion lacks depth in terms of automation, CI/CD, or cultural shifts necessary for DevOps. Therefore, it aligns with the category but does not provide a comprehensive exploration of DevOps concepts.",
+    "level": "Quaternary"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -118,11 +124,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T11:33:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:12:40",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical steps taken to resolve issues with source control and branching in TFS, which aligns with the exploration and application of tooling in Agile and DevOps practices.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses practical steps taken to resolve issues with source control in TFS, which aligns with the category's focus on tooling and methodologies. However, while it provides a detailed account of the problem and the resolution process, it lacks a broader discussion on Agile or DevOps practices and does not explicitly mention key tools or frameworks beyond TFS. The depth of discussion is moderate, focusing on a specific incident rather than a comprehensive exploration of techniques or best practices.",
     "level": "Secondary"
   },
   "Value Stream Management": {
@@ -145,11 +154,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T11:33:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:10:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content provides a detailed step-by-step guide on resolving a specific issue related to source control management, which aligns with installation and configuration processes.",
+    "final_score": 66.0,
+    "reasoning": "The content provides a detailed account of troubleshooting and resolving issues related to branching in source control, specifically within TFS. It includes a step-by-step guide on the actions taken to rectify the situation, which aligns well with the installation and configuration category. However, while it discusses practical steps, it does not explicitly focus on installation or configuration processes for tools or platforms, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Organisational Agility": {
@@ -298,11 +310,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T11:33:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:56:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the use of TFS as an ALM tool, the challenges faced in managing branches, and the steps taken to resolve issues related to application lifecycle management.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the use of TFS as an ALM tool and touches on the challenges faced during branch management, which relates to the application lifecycle. However, the primary focus is on specific issues with source control and branching rather than a comprehensive discussion of ALM methodologies or practices. While there are mentions of ALM and some alignment with lifecycle management concepts, the depth of discussion is limited to a specific incident rather than a broader exploration of the application lifecycle.",
     "level": "Secondary"
   },
   "Systems Thinking": {
@@ -631,12 +646,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:12:38",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to source control, branching strategies, and the management of features in software development, which are relevant to engineering practices. However, it is largely centered on a specific anecdote rather than a broader discussion on engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses issues related to source control and branching strategies, which are relevant to software development practices. However, it primarily focuses on a specific incident rather than promoting broader principles of engineering excellence or best practices. While there are mentions of problem-solving and lessons learned, the depth of discussion on engineering excellence concepts such as quality assurance, coding standards, or CI/CD practices is limited.",
+    "level": "Quaternary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -712,11 +730,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T11:56:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:11:12",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to source control management in software development, particularly the challenges and processes involved in managing branches within a version control system.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses the challenges and processes involved in using TFS as an ALM tool, specifically focusing on source control and branching strategies. It provides a detailed account of a specific issue encountered with branch management, which aligns well with software development practices. The mention of merging branches and the steps taken to resolve the issue demonstrates a clear understanding of version control systems, a key topic in software development. The depth of discussion is substantial, as it outlines specific actions taken to rectify the situation, indicating a practical application of software development methodologies.",
     "level": "Secondary"
   },
   "Agile Frameworks": {
@@ -1045,11 +1066,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-16T11:56:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:45:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses issues related to source control branching and merging strategies, with a focus on resolving specific problems encountered in a version control system.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses specific issues related to source control, particularly the complexities of branching and merging in a version control system. It provides a detailed account of a problematic scenario involving multiple branches and the steps taken to resolve it, which aligns well with the core themes of Modern Source Control. However, while it does mention source control practices, the focus on the broader context of ALM (Application Lifecycle Management) and the challenges faced by the team slightly detracts from a purely focused discussion on version control methodologies. Therefore, the confidence score reflects a strong alignment with the category but acknowledges the presence of secondary topics.",
     "level": "Secondary"
   },
   "Acceptance Test Driven Development": {

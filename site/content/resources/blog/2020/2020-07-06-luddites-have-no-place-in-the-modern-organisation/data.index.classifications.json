@@ -676,12 +676,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:24:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses organisational culture and the transition to agile methodologies, which are relevant to product management, but the primary focus is on cultural change rather than specific product management strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses organisational culture and the need for the right people in agile environments, which touches on product management indirectly. However, it lacks explicit discussions on product management methodologies, frameworks, or strategic alignment of customer needs and business objectives, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -1075,11 +1078,14 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-14T08:54:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:24:59",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the need for organisational change and adaptability, particularly in the context of hiring practices and cultural shifts necessary for agile transformation. It highlights the importance of leadership in guiding these changes and provides examples of successful organisational evolution, making resilience and change a central theme.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the need for organisations to adapt and evolve, particularly in the context of hiring practices and cultural change. It highlights the importance of leadership in guiding these changes, referencing Microsoft as a case study of successful organisational evolution. However, while it touches on resilience and change, the primary focus is on the cultural aspects and the resistance to change (the 'Luddites'), which may not fully encapsulate the broader strategies and methodologies for organisational resilience.",
     "level": "Secondary"
   },
   "Azure DevOps": {
@@ -1129,11 +1135,14 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-14T08:54:41",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-10T12:27:46",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the relationship between organisational culture and technology adoption, particularly in the context of Agile methodologies and team dynamics. It highlights the importance of hiring practices and cultural change in facilitating effective teamwork and adapting to modern business needs, making it a major theme, though not the sole focus.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of organisational culture and the need for the right people in the context of transitioning to agile methodologies, which aligns well with the sociotechnical systems category. It highlights the interplay between social aspects (culture, hiring practices) and technical practices (agile delivery teams), demonstrating a clear understanding of how these elements influence organisational effectiveness. The depth of discussion is substantial, with references to leadership changes at Microsoft as a case study, but it could benefit from more explicit theoretical frameworks or models related to sociotechnical systems.",
     "level": "Secondary"
   },
   "Technical Excellence": {
@@ -1147,11 +1156,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-14T08:54:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:34:19",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of hiring the right people and the impact of organisational culture on agility and process evolution, which aligns closely with the themes of team dynamics, leadership, and the human factors influencing processes.",
+    "final_score": 76.0,
+    "reasoning": "The content discusses the importance of hiring the right people and the impact of organisational culture on processes, which aligns well with the category. It highlights the interplay between human behaviour and structured methodologies, particularly in the context of Agile leadership and team dynamics. The depth of discussion on leadership and cultural change further supports its relevance to the category.",
     "level": "Secondary"
   },
   "Product Delivery": {
@@ -1183,11 +1195,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-14T08:54:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:26:03",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the cultural shifts and leadership roles necessary for fostering organisational agility, particularly through the lens of hiring practices and the transition from traditional structures to agile methodologies.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the importance of hiring the right people to foster an agile culture, emphasising the need for cultural change to enhance organisational agility. It mentions the transition from traditional hierarchical structures to cross-functional teams, aligning well with the core themes of the category. The depth of discussion includes references to leadership's role in this transformation, as well as the impact of organisational culture on agility. The use of Microsoft as a case study further supports the content's relevance to organisational agility.",
     "level": "Secondary"
   },
   "Lean": {
@@ -1246,20 +1261,26 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-14T08:55:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:19:35",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the importance of adapting organisational culture and structure to enhance agility and responsiveness to market changes, with a focus on Agile methodologies and the evolution of companies like Microsoft.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of hiring the right people and fostering a culture that supports agility, which aligns with the principles of market adaptability. It mentions the transition from traditional models to cross-functional teams, highlighting the need for organisations to adapt quickly to changes. The reference to Microsoft as a case study further strengthens the discussion on adaptability. However, while it touches on Agile methodologies and cultural change, it lacks a detailed exploration of specific strategies or practices that enhance market adaptability, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-14T08:55:10",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T11:44:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of adapting organisational culture and hiring practices to foster innovation and agility, which aligns with the themes of continuous learning and evolution in product development. However, the primary focus is on organisational change rather than explicit methodologies for discovery and learning.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of adapting organisational culture and hiring practices to foster a more agile and innovative environment, which aligns with the themes of continuous learning and adaptation. However, it primarily focuses on the cultural aspects of change rather than specific methodologies or processes for discovery and learning, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Agile Product Management": {
@@ -1354,20 +1375,26 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T16:05:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:27:42",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the role of leadership in fostering organisational change and agility, highlighting the importance of hiring practices and cultural transformation in leadership contexts.",
+    "final_score": 79.0,
+    "reasoning": "The content discusses the importance of leadership in fostering organisational change and agility, particularly through the lens of hiring practices and cultural transformation. It explicitly mentions leadership roles and quotes a prominent leader, Satya Nadella, to illustrate effective leadership in a modern context. The depth of discussion includes strategies for overcoming resistance to change and the necessity of adaptive leadership, aligning well with the core themes of the category. However, while leadership is a primary focus, some sections could be interpreted as tangentially related to broader organisational practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:05:19",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T14:34:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the transition from traditional organisational models to agile practices, highlighting the importance of hiring the right people and adapting to change, which aligns with Agile principles and continuous improvement.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the transition from traditional organisational models to agile practices, highlighting the importance of hiring the right people to foster a culture conducive to change. It mentions agile evolution and references leadership styles that align with Agile principles, but it lacks detailed exploration of specific frameworks like Scrum or Kanban. The focus is more on cultural change and resistance to new technologies rather than on the methodologies themselves.",
     "level": "Secondary"
   },
   "Internal Developer Platform": {

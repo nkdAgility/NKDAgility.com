@@ -25,16 +25,16 @@ preview: https://i9.ytimg.com/vi/zqMzD1PXq4s/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 413
 isShort: false
 tags:
+- Technical Mastery
+- Operational Practices
+- Pragmatic Thinking
 - Technical Excellence
+- Software Development
 - Technical Leadership
 - Engineering Practices
-- Software Development
 - Technical Debt
-- Technical Mastery
-- Value Delivery
-- Operational Practices
 - People and Process
-- Pragmatic Thinking
+- Code and Complexity
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,6 +43,7 @@ resourceTypes:
 categories:
 - Engineering Excellence
 - DevOps
+- Leadership
 
 ---
 Chaos costs money. In my experience working with various organisations, I've seen firsthand how they struggle to manage the chaos that often surrounds the delivery of usable, working products to their customers. The result? Substandard work, a barrage of bugs hitting production, and a frustrating cycle of rework because things simply don’t meet the minimum standards we expect. It’s a familiar tale, and one that I’ve encountered time and again.

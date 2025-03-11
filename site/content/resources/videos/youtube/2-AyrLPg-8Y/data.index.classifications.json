@@ -52,11 +52,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T15:03:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:16:56",
+    "ai_confidence": 45.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions evidence-based management in the context of leadership and Agile, but it does not provide substantial discussion or insights into the principles, practices, or empirical evidence that define the category.",
+    "final_score": 42.0,
+    "reasoning": "The content explicitly mentions 'evidence-based management' and discusses its relevance to leadership within an Agile context, indicating a direct mention. However, it lacks depth and detail on the principles, practices, or empirical evidence that underpin Evidence-Based Management, resulting in a moderate alignment with the core themes. The discussion is somewhat superficial, focusing more on the skills of leaders rather than on the application of empirical evidence in decision-making processes.",
     "level": "Tertiary"
   },
   "Personal": {
@@ -106,12 +109,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T15:04:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T11:52:48",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily focuses on leadership and evidence-based management within an Agile context, highlighting the interplay between human behaviour and structured methodologies.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content briefly mentions leadership and evidence-based management, which are relevant to the category. However, it lacks detailed discussion on team dynamics, collaboration, or specific processes, resulting in a moderate confidence score. The focus is primarily on enhancing leadership skills rather than a comprehensive exploration of people and processes in Agile.",
+    "level": "Tertiary"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -142,12 +148,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T15:04:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:07:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions evidence-based management, which is relevant to value delivery, but it primarily focuses on leadership skills rather than directly discussing value delivery strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions evidence-based management, which is relevant to value delivery, but lacks detailed discussion on how it specifically enhances value delivery in Agile contexts. The focus is more on leadership skills rather than on strategies or methodologies for delivering value to customers.",
+    "level": "Quaternary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -169,12 +178,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T15:04:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:02:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions evidence-based management, which is relevant to Agile principles, but it does not primarily focus on Agile Product Management practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content briefly mentions evidence-based management, which is relevant to Agile principles, but lacks a direct focus on Agile Product Management practices. It does not discuss key topics such as the role of the Product Owner, backlog prioritisation, or stakeholder engagement in detail.",
+    "level": "Quaternary"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -196,12 +208,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T15:04:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:01:14",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses leadership skills in the context of Agile, which is a major theme related to organisational agility, but it does not delve deeply into broader agile practices or frameworks.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content briefly mentions leadership in the context of Agile, which aligns with the category's focus on cultivating a culture of agility. However, it lacks detailed discussion on specific strategies or practices that enhance organisational agility, resulting in a moderate confidence score.",
+    "level": "Quaternary"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -223,12 +238,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T15:04:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:16:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Agile and the context of leadership within Agile practices, indicating a secondary theme related to social technologies, but does not primarily focus on the frameworks or methodologies outlined in the category.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Agile (AG) but lacks detailed discussion on specific frameworks like Scrum or Kanban. While it aligns conceptually with the idea of enhancing leadership skills within Agile contexts, it does not provide substantial depth or direct references to the core principles of Social Technologies.",
+    "level": "Quaternary"
   },
   "Lean": {
     "category": "Lean",
@@ -259,12 +277,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T15:04:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:24:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses leadership skills in the context of Agile, which is a major theme related to business agility, but it does not primarily focus on the broader principles or practices of business agility itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions leadership in the context of Agile but lacks a comprehensive discussion on business agility principles or practices. It does not explore the core themes of business agility in detail, focusing instead on evidence-based management without connecting it to broader organisational agility.",
+    "level": "Quaternary"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
@@ -376,12 +397,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T15:27:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T11:52:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions evidence-based management, which is relevant to product management, but it primarily focuses on leadership skills in an Agile context rather than the strategic aspects of product management itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions evidence-based management, which is relevant to product management, but lacks a detailed discussion on its application within product management frameworks. The focus is more on leadership skills in an Agile context rather than the strategic aspects of product management.",
+    "level": "Quaternary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",

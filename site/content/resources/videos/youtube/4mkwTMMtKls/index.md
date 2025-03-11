@@ -32,12 +32,12 @@ sitemap:
 tags:
 - People and Process
 - Personal
+- Pragmatic Thinking
 - Agile Philosophy
 resourceTypes:
 - video
 layout: video
 categories:
-- Leadership
 - Social Technologies
 
 ---

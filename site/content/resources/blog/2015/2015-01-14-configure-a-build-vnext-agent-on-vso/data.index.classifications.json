@@ -10,20 +10,26 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T23:18:04",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-07T14:38:47",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 82.0,
-    "reasoning": "The content primarily discusses the configuration and implementation of the vNext Build Agent in Visual Studio Online, detailing practical steps, prerequisites, and methodologies for setting up a build system, which aligns closely with the category's focus on practical techniques and tooling.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed guide on configuring a Build vNext Agent, which directly relates to practical tooling in DevOps. It discusses specific tools (TFS, VSO, Azure) and methodologies (agent configuration, VM setup) that enhance team performance and delivery outcomes. The depth of discussion includes step-by-step instructions, prerequisites, and insights into the new build system's features, aligning well with the category's focus on practical techniques and tooling.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-14T23:18:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:36:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration of a Build vNext Agent, which is a component of an Internal Developer Platform (IDP) aimed at enhancing developer productivity and optimising the application lifecycle.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on configuring a Build vNext Agent, which is a component of an Internal Developer Platform (IDP). It discusses the new build system's modularity and self-service capabilities, aligning well with the principles of Platform Engineering. The depth of discussion includes detailed steps for setup and configuration, showcasing automation and enhancing developer productivity. However, it lacks broader discussions on the integration of DevOps practices and case studies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
@@ -73,11 +79,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-14T23:18:15",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-10T14:41:32",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 34,
     "non_ai_confidence": 30,
-    "final_score": 84.0,
-    "reasoning": "The content provides a detailed, step-by-step guide on configuring a Build vNext Agent, including prerequisites, installation procedures, and troubleshooting tips, which aligns closely with the 'Install and Configuration' category.",
+    "final_score": 81.0,
+    "reasoning": "The content provides a detailed guide on configuring a Build vNext Agent, including step-by-step instructions, prerequisites, and troubleshooting tips. It explicitly discusses installation procedures and configuration best practices, aligning well with the core themes of the category. The depth of discussion is significant, covering various aspects of the setup process, including system requirements and the use of PowerShell for installation. Overall, the content is highly relevant to the 'Install and Configuration' category.",
     "level": "Primary"
   },
   "Transparency and Accountability": {
@@ -118,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T23:18:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:38:41",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration of a Build vNext Agent, which is a key aspect of Continuous Integration (CI) and Continuous Delivery (CD) practices in DevOps. It details the setup process, tools involved, and the benefits of the new build system, aligning well with DevOps principles.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on configuring a Build vNext Agent, which is a key aspect of DevOps practices, particularly in Continuous Integration and Continuous Delivery. It discusses the new build system, its modularity, and the management of build agents, all of which are central to DevOps principles. The depth of discussion includes specific steps for setup, prerequisites, and the benefits of the new system, indicating a thorough exploration of the topic. The content aligns well with the core themes of DevOps, such as automation and collaboration between development and operations, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -208,11 +220,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-14T23:18:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:31:47",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the configuration of a new build system (vNext) for TFS and VSO, which relates to Continuous Integration practices and the technical setup of build agents, aligning well with the principles of Technical Excellence.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on configuring a Build vNext Agent, which is a technical task related to Continuous Integration practices. It discusses the modular nature of the new build system and the benefits of the pool model over the previous collection/controller model, aligning with the principles of technical excellence. However, while it touches on relevant topics, the depth of discussion is more procedural than conceptual, lacking a broader exploration of how these practices enhance agility or team collaboration.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -280,11 +295,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-14T23:18:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:22:49",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses configuring a Build vNext Agent within Visual Studio Online (VSO), which is a key aspect of Azure DevOps services. It provides detailed instructions and insights into the build system, making Azure DevOps the central theme.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed guide on configuring a Build vNext Agent within Visual Studio Online (VSO), which is a core aspect of Azure DevOps. It discusses the new build system, its features, and the process of setting up a build agent, demonstrating a strong alignment with Azure DevOps functionalities. The depth of discussion is significant, covering prerequisites, installation steps, and configuration details, which are all relevant to Azure DevOps practices. Overall, the content is focused on Azure DevOps, making it highly relevant to the category.",
     "level": "Secondary"
   },
   "Personal": {
@@ -370,11 +388,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-14T23:19:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:48:35",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the configuration and management of a Build vNext Agent, which involves technical practices related to software engineering, deployment, and system architecture. It focuses on the methodologies and tools that contribute to high-quality software development.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed guide on configuring a Build vNext Agent, which aligns well with technical mastery in software engineering practices. It discusses the new build system's architecture, the process of setting up a build agent, and the importance of using PowerShell for deployment, all of which are relevant to software craftsmanship and engineering excellence. However, while it touches on best practices and methodologies, it lacks a broader discussion on principles of clean code or testing practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -730,11 +751,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-14T23:20:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:36:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration of a Build vNext Agent, which is directly related to continuous integration practices and improving software development processes. It highlights the new build system's modularity and efficiency, aligning with the principles of engineering excellence.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on configuring a Build vNext Agent, which is a technical task related to CI/CD practices. While it discusses aspects of the new build system and its advantages, it lacks a broader discussion on engineering excellence principles, such as software craftsmanship or quality assurance. The depth of discussion is more about the practical steps rather than promoting high standards in software development practices.",
     "level": "Secondary"
   },
   "Revenue per Employee": {

@@ -202,11 +202,14 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-11T20:47:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:18:24",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content discusses the importance of transparency in the context of technical debt and Agile practices, particularly in relation to the transition to 3-week Sprints at Microsoft. It highlights how transparency can alleviate fears and improve accountability within teams, making it a central theme of the discussion.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of transparency in the context of technical debt and its impact on business decisions. It highlights the need for clear communication and understanding of technical risks, which aligns with the core themes of transparency. However, the primary focus is on technical debt rather than transparency itself, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Definition of Done": {
@@ -337,20 +340,26 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-11T20:49:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:43:48",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the implications of technical debt in software development, including its impact on product quality and delivery processes, and references Agile methodologies like Scrum.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses technical debt in software development, highlighting its risks and implications for product quality and business outcomes. It mentions the transition to Agile practices, specifically Scrum, as a response to technical debt, which aligns with key topics in software development. However, the focus on business implications and the metaphorical language detracts from a purely technical discussion, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-11T20:49:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:21:24",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implications of technical debt on software quality and delivery, emphasising the importance of high standards in software craftsmanship and the need for continuous improvement in engineering processes.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses the concept of technical debt extensively, highlighting its risks and implications for software quality and business performance. It aligns with the principles of software craftsmanship and quality assurance, as well as the importance of continuous improvement in engineering practices. However, while it touches on these themes, it does not delve deeply into specific best practices or methodologies, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Throughput": {
@@ -1078,11 +1087,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-11T20:39:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:21:27",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the implications of technical debt on product delivery, including the importance of understanding and managing technical debt to ensure quality and timely delivery of software products. It also touches on methodologies like Scrum and the need for iterative development, which are central to effective product delivery.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the implications of technical debt on product delivery, emphasising the importance of understanding and managing it to ensure quality and timely delivery of software products. It aligns well with the category by addressing methodologies like Scrum and the need for iterative development and feedback loops. However, while it provides substantial insights, it does not delve deeply into all aspects of product delivery, such as deployment strategies or cross-functional team roles, which slightly limits its depth.",
     "level": "Secondary"
   },
   "Agile Product Management": {
@@ -1123,11 +1135,14 @@
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-11T20:39:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:25:37",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses the importance of transparency in understanding technical debt and its implications for business accountability. It highlights the need for clear communication and the consequences of neglecting transparency, making it a primary focus of the discussion.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of transparency in understanding technical debt and its implications for business, particularly in the context of Agile methodologies. It highlights the need for clear communication and accountability in managing technical debt, which aligns with the core themes of the category. However, while transparency is mentioned, the primary focus is more on the risks of technical debt rather than a comprehensive exploration of transparency and accountability practices within Agile teams.",
     "level": "Secondary"
   },
   "Practical Techniques and Tooling": {
@@ -1168,11 +1183,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:25:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses technical debt and its implications on product delivery, touching on the need for automation and the shift to Agile practices like Scrum, which are relevant to DevOps principles. However, the primary focus is on technical debt rather than DevOps as a central theme.",
+    "final_score": 43.0,
+    "reasoning": "The content discusses technical debt and its implications on software delivery, which indirectly relates to DevOps principles such as Continuous Delivery and the importance of automation. However, it primarily focuses on the risks associated with technical debt rather than the integration of people, processes, and tools in a DevOps context. While there are mentions of improving delivery processes and cultural shifts, the overall emphasis is not on DevOps practices themselves.",
     "level": "Tertiary"
   },
   "Azure DevOps": {
@@ -1213,11 +1231,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-11T20:39:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:32:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the impact of technical debt on product delivery and business value, emphasising the importance of understanding and managing technical debt to ensure high-quality delivery and customer satisfaction. It also highlights the shift to Agile methodologies, specifically Scrum, to improve value delivery through shorter feedback loops and continuous delivery practices.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the implications of technical debt on product delivery and business value, highlighting the importance of understanding and managing technical debt to ensure quality and timely delivery. It mentions the shift to Agile practices, specifically Scrum, to improve value delivery and customer satisfaction. However, while it touches on value delivery, the primary focus is on technical debt rather than a comprehensive exploration of value delivery strategies and methodologies.",
     "level": "Secondary"
   },
   "Technical Excellence": {
@@ -1249,11 +1270,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-11T20:40:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:24:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the impact of technical debt on product delivery and the organisational changes made at Microsoft to improve processes, highlighting the importance of team dynamics, leadership, and culture in addressing these challenges.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the impact of technical debt on product delivery and the importance of understanding it from a business perspective. It touches on team dynamics, leadership, and the need for a culture of quality, which aligns with the category. However, the primary focus is on technical debt rather than the interplay of people and processes, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {
@@ -1357,21 +1381,27 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T16:04:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:32:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the role of leadership in addressing technical debt and fostering a culture of quality, making leadership a significant theme, though not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the implications of technical debt on business and product delivery, touching on leadership's role in addressing these issues. However, it primarily focuses on technical debt rather than leadership practices. While there are mentions of leaders making changes and fostering an environment for better delivery, the overall emphasis is on technical aspects and the consequences of technical debt rather than on leadership strategies or frameworks.",
+    "level": "Quaternary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:04:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:24:25",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the implications of technical debt on product delivery and business, while also detailing the transition to Scrum practices at Microsoft, highlighting the importance of collaboration and continuous improvement.",
-    "level": "Secondary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses technical debt and its implications on product delivery, which indirectly relates to Agile practices, particularly through the mention of Scrum and the shift to 3-week Sprints. However, the primary focus is on the risks associated with technical debt rather than a detailed exploration of social technologies or frameworks like Scrum, Kanban, Lean, or Agile. The discussion lacks depth in terms of specific methodologies and their principles, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

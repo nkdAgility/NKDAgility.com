@@ -32,6 +32,8 @@ tags:
 - Code and Complexity
 - Software Developers
 - Test Driven Development
+- People and Process
+- Practical Techniques and Tooling
 sitemap:
   filename: sitemap.xml
   priority: 0.6

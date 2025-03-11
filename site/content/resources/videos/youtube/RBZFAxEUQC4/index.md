@@ -31,7 +31,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Organisational Change
+- Agile Strategy
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

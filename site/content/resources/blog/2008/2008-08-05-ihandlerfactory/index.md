@@ -8,7 +8,7 @@ ResourceImportId: 214
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-08-05
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,9 +24,7 @@ aliasesArchive:
 - /resources/blog/ihandlerfactory
 tags:
 - Software Development
-- Technical Mastery
-categories:
-- Engineering Excellence
+categories: []
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

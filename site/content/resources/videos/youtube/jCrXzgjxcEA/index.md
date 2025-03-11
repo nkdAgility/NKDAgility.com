@@ -27,13 +27,13 @@ tags:
 - Azure DevOps
 - Practical Techniques and Tooling
 - Software Development
-- Agile Planning Tools
 - Agile Project Management
 - Azure Boards
-- Cycle Time
-- Lead Time
-- Software Developers
 - Agile Frameworks
+- Operational Practices
+- Pragmatic Thinking
+- Agile Planning Tools
+- Cycle Time
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -41,9 +41,9 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- DevOps
 - Kanban
-- Scrum
+- Social Technologies
 
 ---
 Creating an effective Caman strategy is no small feat, especially in our current hybrid work environment. As we navigate this new landscape, the need for digital tools to share our visualisations has never been more critical. One such tool that I find invaluable is Azure DevOps. Today, I want to share my insights on how to leverage Azure DevOps to visualise your work as part of a Caman strategy.

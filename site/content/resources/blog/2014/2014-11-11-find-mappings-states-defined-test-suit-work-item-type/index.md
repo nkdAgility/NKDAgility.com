@@ -8,7 +8,7 @@ ResourceImportId: 10899
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-11-11
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,16 +29,14 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - System Configuration
+- Software Development
+- Troubleshooting
 - Practical Techniques and Tooling
 - Azure DevOps
 - Pragmatic Thinking
-- Software Development
-- Technical Excellence
-- Technical Mastery
-- Troubleshooting
 - Working Software
-categories:
-- Engineering Excellence
+- Technical Excellence
+categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

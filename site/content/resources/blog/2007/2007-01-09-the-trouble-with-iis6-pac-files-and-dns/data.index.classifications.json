@@ -10,11 +10,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:56:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:27:14",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses specific issues related to configuring IIS and DNS settings, which are relevant to installation and configuration processes, but the primary focus is on personal experiences and troubleshooting rather than a structured guide.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses specific issues related to IIS 6.0 and .pac files, which are relevant to installation and configuration. However, the primary focus is on personal experiences and troubleshooting rather than providing structured, actionable installation or configuration guidance. While there are mentions of MIME types and DNS configuration, the depth of discussion lacks comprehensive detail and structured instructions typical of the category.",
     "level": "Tertiary"
   },
   "Decision Theory": {
@@ -382,12 +385,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T10:22:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:22:28",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses IIS (Internet Information Services) which is a Microsoft web server product that runs on Windows, indicating a major theme related to the Windows environment. However, the primary focus is on proxy servers and specific issues with .pac files, suggesting that Windows is a secondary topic.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses IIS (Internet Information Services), which is a Windows feature, and references its version (IIS 6.0). However, the primary focus is on proxy servers and .pac files, with only a brief mention of Windows-related topics. The discussion lacks depth in terms of Windows-specific installation, configuration, or troubleshooting, making it more peripheral to the Windows category.",
+    "level": "Secondary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -463,12 +469,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T10:22:30",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-11T12:19:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content primarily discusses issues related to IIS configuration and DNS settings, which are relevant to system configuration. However, it also includes personal anecdotes and some theoretical considerations, making system configuration a major but secondary theme.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses specific issues related to IIS and proxy servers, including MIME types and DNS configuration. While it touches on system configuration aspects, such as resolving domains and serving files, the overall focus is more anecdotal and lacks depth in exploring broader system configuration methodologies or best practices. The primary discussion revolves around personal experiences rather than structured guidance on system configuration.",
+    "level": "Tertiary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -715,12 +724,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T10:22:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:54:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses experiences and solutions related to technical issues with IIS and proxy servers, touching on concepts that involve software development and maintenance, but primarily focuses on specific practical problems rather than broader engineering principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses specific technical issues related to IIS and proxy servers, which touches on aspects of software craftsmanship and problem-solving. However, it lacks a broader discussion on best practices, principles of clean code, or methodologies that contribute to high-quality software development. The focus is more on troubleshooting rather than a deep exploration of technical mastery principles.",
+    "level": "Quaternary"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
@@ -1093,12 +1105,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T10:22:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:07:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content addresses practical problem-solving related to IIS and proxy servers, showcasing experience-based solutions. However, overall focus is not strongly aligned with Agile, Scrum, or DevOps frameworks.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses practical problem-solving related to IIS and proxy servers, showcasing real-world application of technical knowledge. However, it lacks a strong focus on Agile, Scrum, or DevOps frameworks, which are central to the category of Pragmatic Thinking. The discussion is more anecdotal and does not delve deeply into structured problem-solving strategies or methodologies, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Market Share": {
     "category": "Market Share",

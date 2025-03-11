@@ -28,12 +28,7 @@ aliasesArchive:
 - /resources/blog/do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn
 tags:
 - Windows
-- Software Developers
 - Software Development
-- Events and Presentations
-- News and Reviews
-- Practical Techniques and Tooling
-- Products and Books
 categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 

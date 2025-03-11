@@ -55,11 +55,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T21:04:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:21:12",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses troubleshooting an installation error related to Team Foundation Server, including specific steps taken to resolve configuration issues, which aligns well with the category of Install and Configuration.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on the installation and configuration issues encountered while deploying Team Foundation Server, specifically addressing error codes and troubleshooting steps. It provides a detailed account of the error encountered, the context of the installation, and specific actions taken to resolve the issue, which aligns well with the key topics of the category. The discussion is rich in technical detail, making it a strong fit for the 'Install and Configuration' category.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -307,11 +310,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:13:33",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-10T13:21:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses an error related to the deployment of Team Foundation Server, which is a tool used in DevOps practices, but the primary focus is on troubleshooting a specific issue rather than broader DevOps principles or practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific error encountered while deploying Team Foundation Server, which is related to DevOps practices. However, it primarily focuses on troubleshooting a technical issue rather than broader DevOps principles or practices. While there are mentions of deployment and configuration, the discussion lacks depth in terms of DevOps culture, automation, or metrics, leading to a low confidence score.",
     "level": "Quaternary"
   },
   "Technical Excellence": {
@@ -370,11 +376,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T21:42:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:50:48",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses troubleshooting configuration-related issues encountered during the installation of Team Foundation Server, specifically addressing errors related to system setup and configuration in a QA environment.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses the installation and configuration of Team Foundation Server, detailing specific errors encountered during the setup process. It explicitly mentions configuration issues related to IIS and ASP.NET, which are central to system configuration. The depth of discussion includes troubleshooting steps and the impact of specific configurations on system performance, aligning well with the key topics of the category. However, while the content is focused on configuration, it does not explore broader methodologies or best practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
@@ -1081,11 +1090,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T21:42:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T19:03:08",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content discusses an error related to the installation and configuration of Team Foundation Server, which operates within the Windows environment and involves troubleshooting specific to Windows services and IIS configurations.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily discusses an error encountered during the installation of Team Foundation Server, which is a Microsoft product that operates within the Windows environment. It explicitly mentions Windows components such as Internet Information Services (IIS) and ASP.NET, indicating a strong focus on Windows-related troubleshooting. The depth of discussion includes specific error codes and troubleshooting steps, aligning well with the key topics of installation and configuration within the Windows category. Overall, the content is highly relevant to Windows, with a strong emphasis on resolving issues specific to the Windows operating system.",
     "level": "Secondary"
   },
   "Lean Principles": {
@@ -1099,11 +1111,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T21:42:40",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-11T12:15:58",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 50,
-    "final_score": 86.0,
-    "reasoning": "The content primarily discusses a specific error encountered during the deployment of Team Foundation Server, including diagnostic steps and the resolution of the error 28936 and associated 404 status. It focuses on identifying technical problems and providing solutions, which directly aligns with the scope of troubleshooting.",
+    "final_score": 83.0,
+    "reasoning": "The content explicitly discusses a specific error encountered during the deployment of Team Foundation Server, detailing the error codes and the troubleshooting steps taken to resolve the issue. It aligns well with the core themes of troubleshooting by providing insights into diagnosing a technical problem and implementing a solution. The depth of discussion includes specific actions taken, such as checking permissions and reinstalling components, which further supports its classification in the troubleshooting category.",
     "level": "Primary"
   },
   "Entrepreneurship": {
@@ -1216,11 +1231,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-16T21:42:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:17:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses practical problem-solving related to an error encountered during the deployment of Team Foundation Server, highlighting steps taken to troubleshoot and resolve the issue, which aligns with pragmatic thinking in a real-world context.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific technical issue encountered during the deployment of Team Foundation Server, detailing practical troubleshooting steps taken to resolve the error. While it does not explicitly mention Agile, Scrum, or DevOps frameworks, it demonstrates pragmatic thinking through real-world problem-solving and adaptability in a complex environment. The depth of discussion is moderate, focusing on a specific case rather than broader strategies or principles.",
     "level": "Secondary"
   },
   "Release Management": {

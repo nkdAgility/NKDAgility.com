@@ -24,8 +24,6 @@ aliasesArchive:
 - /resources/blog/infragistics-wpf
 tags:
 - Software Development
-- Technical Mastery
-- Troubleshooting
 categories: []
 
 ---

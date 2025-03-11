@@ -29,7 +29,6 @@ tags:
 - Events and Presentations
 - People and Process
 - Software Developers
-- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

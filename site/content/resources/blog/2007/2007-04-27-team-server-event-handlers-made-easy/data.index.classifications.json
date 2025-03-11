@@ -10,12 +10,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:13:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:53:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses deploying event handlers for Team Foundation Server, which involves aspects of installation and configuration, but it is primarily focused on coding and implementation rather than providing clear, actionable installation instructions.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the deployment of event handlers for Team Foundation Server, which relates to configuration aspects. However, it lacks explicit step-by-step installation procedures or detailed configuration best practices. The focus is more on coding and implementation rather than clear, actionable instructions for installation and configuration, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -82,21 +85,27 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:20:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implementation of event handlers in Team Foundation Server, which relates to engineering practices, but it primarily focuses on a specific coding solution rather than broader technical excellence principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the implementation of event handlers in Team Foundation Server, which touches on technical aspects of software development. However, it lacks a direct focus on broader engineering practices or methodologies that enhance agility, such as TDD, CI/CD, or modular architecture. While it provides some technical detail, it does not delve deeply into the principles of technical excellence or how they contribute to project success, resulting in a lower confidence score.",
+    "level": "Quaternary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:13:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:06:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS), which is part of the Azure DevOps suite, but primarily focuses on event handlers rather than broader Azure DevOps functionalities.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses event handlers for Team Foundation Server (TFS), which is part of the Azure DevOps suite. However, it primarily focuses on technical implementation details rather than broader Azure DevOps functionalities or best practices. While TFS is mentioned, the discussion lacks depth in terms of CI/CD, agile project management, or integration with other Azure DevOps tools, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -127,12 +136,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:13:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:18:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the implementation of event handlers in Team Foundation Server, which relates to coding practices. However, it primarily focuses on a specific technical implementation rather than a broader discussion on code quality or complexity theory.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the implementation of event handlers in Team Foundation Server, focusing on code structure and functionality. While it touches on aspects of code quality through the use of classes and methods, it lacks a deeper exploration of complexity theory or its implications on software architecture and design. The discussion is more practical and implementation-oriented rather than theoretical, which diminishes its alignment with the core themes of the 'Code and Complexity' category.",
+    "level": "Quaternary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -208,11 +220,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T08:29:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:25:35",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implementation of event handlers for Team Foundation Server, detailing practical coding techniques and tooling for deployment, which aligns with the category focus.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the implementation of event handlers for Team Foundation Server, which aligns with practical tooling in Agile and DevOps contexts. It provides a specific example of how to create and deploy event handlers, demonstrating a practical technique. However, while it touches on the use of tools and methodologies, the discussion lacks depth in terms of broader Agile or DevOps practices and does not provide extensive detail on metrics or best practices for tool integration.",
     "level": "Secondary"
   },
   "Application Lifecycle Management": {
@@ -1045,12 +1060,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T10:22:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:25:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses event handlers in the context of Team Foundation Server, which relates to software development and coding practices; however, it primarily focuses on deployment processes rather than broader engineering excellence principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the implementation of event handlers in Team Foundation Server, which is more focused on a specific technical solution rather than broader engineering excellence principles. While it touches on aspects of software craftsmanship, such as coding practices and system design, it lacks a comprehensive discussion on best practices, quality assurance, or continuous improvement in engineering processes. The mention of creating a Visual Studio project template hints at a desire for better development practices, but it does not delve into the principles or metrics of engineering excellence.",
+    "level": "Quaternary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",

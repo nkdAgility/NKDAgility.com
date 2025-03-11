@@ -27,18 +27,18 @@ card:
 categories:
 - Product Management
 - Engineering Excellence
-- Scrum
+- DevOps
 tags:
 - Metrics and Learning
 - Transparency
+- Flow Efficiency
 - Product Delivery
 - Throughput
-- Flow Efficiency
+- Value Delivery
 - Agile Product Operating Model
 - Cycle Time
 - Operational Practices
 - Team Performance
-- Value Delivery
 
 ---
 In order to understand how your team is doing we need to have metrics that we can monitor across all of [Company]. There are two focuses of this work, first is the Product/Project/Organisation focus and second is the Team focus.

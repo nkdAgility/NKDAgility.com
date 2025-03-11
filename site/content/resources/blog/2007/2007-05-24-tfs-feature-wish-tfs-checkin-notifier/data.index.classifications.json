@@ -73,11 +73,14 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-16T22:15:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:24:44",
+    "ai_confidence": 72.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses a feature wish for a tool related to source control without directly referencing Agile, Scrum, DevOps, or Lean principles, making it a primary topic in the Miscellaneous category.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific feature wish for a tool related to source control, which does not directly reference Agile, Scrum, DevOps, or Lean methodologies. While it touches on a common issue in software development, it lacks a structured discussion of recognised frameworks or actionable insights. The focus is primarily on a personal opinion regarding a tool enhancement, aligning it more with the Miscellaneous category.",
     "level": "Secondary"
   },
   "Resilience and Change": {
@@ -559,21 +562,27 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T09:13:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:52:53",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a feature wish for a collaboration aspect of TFS related to file access and notifications, highlighting communication needs among team members, but it lacks a broader discussion of collaboration tools themselves.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses a specific feature wish for a Team Foundation Server (TFS) add-in that aims to improve collaboration by notifying users about file access. While it touches on the need for better communication and coordination among team members, it lacks a broader discussion on various collaboration tools or their integration with Agile methodologies. The focus is primarily on a single feature rather than a comprehensive overview or best practices, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:20:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a feature related to source control and potential tooling for developers, linking to team interaction, but does not deeply explore Agile or DevOps practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific feature wish related to source control in the context of Team Foundation Server (TFS), which is relevant to software developers. However, it does not explicitly mention Agile or DevOps methodologies, nor does it explore best practices or principles associated with these frameworks. The discussion is more focused on a specific tool and its functionality rather than the broader role of software developers within Agile or DevOps contexts. Therefore, while there is some relevance, the overall alignment and depth of discussion are limited.",
+    "level": "Quaternary"
   },
   "Software Development": {
     "category": "Software Development",
@@ -838,11 +847,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:13:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:17:46",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a feature related to source control and access to checked-out files, which is relevant to version control practices. However, it is more of a suggestion rather than a thorough discussion on methodologies or best practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific feature related to source control, particularly in the context of Team Foundation Server (TFS). While it mentions the challenges of file access in source control, it does not delve deeply into broader best practices or methodologies associated with modern source control systems. The focus is more on a specific user experience rather than comprehensive strategies or practices, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Increment": {
@@ -910,12 +922,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:13:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:05:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a tool aimed at improving access to shared resources within a team context, which relates to collaboration, but it primarily focuses on a specific technical issue regarding file access rather than broader team dynamics or practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly touches on the challenges of collaboration in a source control context, specifically regarding file access among team members. However, it lacks a comprehensive discussion on team dynamics, shared ownership, or strategies for improving communication and collaboration. The focus is more on a specific tool suggestion rather than a broader exploration of team collaboration principles within Agile or DevOps frameworks.",
+    "level": "Quaternary"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",

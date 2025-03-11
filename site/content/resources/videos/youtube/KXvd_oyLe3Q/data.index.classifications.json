@@ -82,12 +82,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T12:18:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T12:56:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges and improvements in product development processes, particularly in relation to DevOps, which is a significant aspect of product management. However, the primary focus is on technical implementation and operational challenges rather than strategic product management methodologies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the challenges and processes involved in managing a complex product within a large organisation, touching on aspects of customer needs and technical capabilities. However, it primarily focuses on DevOps practices and technical implementation details rather than the strategic alignment of product management. While there are mentions of improving processes and outcomes, the depth of discussion on product management methodologies and frameworks is limited, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -1093,11 +1096,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-12T04:57:13",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:56:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the challenges and methodologies related to DevOps and its impact on product delivery, including continuous delivery, build systems, and the importance of effective processes in delivering software products.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the challenges and solutions related to product delivery within a large organisation, particularly through the lens of DevOps practices. It explicitly mentions the need for continuous delivery, the importance of aligning teams, and the impact of automation on delivery efficiency. The depth of discussion includes specific examples of how DevOps transformed the delivery process, showcasing metrics and outcomes that align with the category's focus. However, while it touches on product delivery, the primary emphasis is on DevOps philosophy and practices, which may slightly detract from a strict focus on product delivery methodologies.",
     "level": "Secondary"
   },
   "Agile Product Management": {
@@ -1111,11 +1117,14 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-12T04:57:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T11:41:15",
+    "ai_confidence": 87.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the processes and methodologies related to DevOps, focusing on continuous learning, experimentation, and the importance of adapting to new insights to improve organizational effectiveness. It highlights the significance of learning from past experiences and failures, as well as the role of automation and simplification in enhancing team performance.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the processes of learning and adaptation within a large organisation facing complex challenges in product development. It highlights the importance of understanding problems through retrospection, the role of a dedicated DevOps team in facilitating continuous delivery, and the necessity of simplifying processes to enhance effectiveness. The narrative illustrates how learning from past experiences and failures can lead to significant improvements in team performance and product quality. Additionally, it emphasises the need for upskilling and the cultural shift required to embrace DevOps principles, aligning closely with the core themes of the 'Discovery and Learning' category.",
     "level": "Secondary"
   },
   "Systems Thinking": {
@@ -1129,11 +1138,14 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-12T04:57:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:57:50",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the complexities involved in managing a large-scale DevOps implementation within an organisation, highlighting non-linear dynamics, emergent behaviours, and the challenges of aligning multiple teams and systems. It reflects on the implications of complexity theory in organisational behaviour and decision-making, particularly in the context of improving processes and reducing waste.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the complexities involved in managing a large-scale DevOps implementation within an organisation, highlighting the non-linear dynamics and emergent behaviours that arise from having multiple teams and systems. It touches on the challenges of aligning different source control systems and the need for simplification, which aligns with complexity thinking. However, while it references complexity in the context of DevOps, it does not explicitly engage with complexity science theories or frameworks, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -1147,11 +1159,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T04:57:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T17:54:12",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the application of DevOps practices and tooling, including the challenges of managing multiple source control systems, the importance of automation in build processes, and the outcomes of implementing effective DevOps strategies. It provides insights into practical techniques for improving team performance and delivery outcomes, aligning well with the category's focus.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed exploration of practical DevOps techniques and tooling, particularly focusing on the challenges faced by a large organisation and the solutions implemented to improve their processes. It discusses the establishment of a dedicated DevOps team, the complexities of managing multiple source control systems, and the importance of automation in achieving continuous delivery. The narrative includes specific examples of tooling (e.g., Azure DevOps) and methodologies (e.g., continuous integration) that align closely with the category's core themes. The depth of discussion is significant, as it covers both the technical and organisational aspects of implementing these practices, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Events and Presentations": {
@@ -1165,11 +1180,14 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-12T04:57:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T00:21:26",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of DevOps practices to enhance organisational effectiveness and responsiveness to market demands, illustrating how these practices can lead to improved delivery times and customer satisfaction.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the implementation of DevOps practices and their impact on organisational effectiveness, which aligns with the principles of market adaptability. It highlights the need for continuous improvement, automation, and the reduction of complexity to enhance responsiveness to market demands. However, while it touches on relevant themes, the primary focus is more on the challenges and solutions within a specific case rather than a broader discussion on market adaptability strategies. Therefore, the confidence score reflects a moderate alignment with the category.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -1195,11 +1213,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-12T04:57:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T09:53:00",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the implementation and benefits of DevOps practices, specifically highlighting the Azure DevOps team's improvements in feature delivery and automation. It provides insights into Azure DevOps functionalities and methodologies, making it a central theme.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses Azure DevOps in the context of a case study, highlighting its impact on organisational effectiveness and continuous delivery. While Azure DevOps is mentioned explicitly, the primary focus is on general DevOps practices and challenges faced by organisations, rather than a detailed exploration of Azure DevOps functionalities or best practices. The depth of discussion on Azure DevOps is limited, as it primarily serves as an example rather than the main subject.",
     "level": "Secondary"
   },
   "Products and Books": {
@@ -1231,11 +1252,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-12T04:57:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:16:06",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the transformation of organizational effectiveness through DevOps, focusing on continuous delivery, automation, and the alignment of product development with customer needs. It highlights the importance of reducing complexity, improving processes, and delivering value to customers, which are central themes in value delivery practices.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses the challenges and solutions related to delivering value through DevOps practices, including continuous delivery, automation, and the importance of aligning teams. It highlights the iterative nature of improving processes and the impact of DevOps on feature delivery rates, which aligns well with the core themes of value delivery. However, while it touches on these topics, the discussion is somewhat anecdotal and lacks a structured exploration of methodologies or strategies, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Technical Excellence": {
@@ -1366,21 +1390,27 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T13:53:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T11:41:10",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges faced by a large organisation in implementing DevOps and the importance of leadership in guiding teams through complex transformations. While it primarily focuses on technical aspects and processes, it touches on leadership's role in fostering collaboration and addressing organisational challenges.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the role of leadership in navigating complex transformations within a large organisation, particularly in the context of DevOps. It highlights the importance of leaders in fostering collaboration, addressing challenges, and driving cultural change. However, while leadership is a significant theme, the content primarily focuses on technical implementation details and specific challenges faced by teams, which detracts from a more direct discussion of leadership practices. The depth of discussion on leadership concepts is present but not exhaustive, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T13:53:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:57:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of DevOps and organisational effectiveness, touching on themes of collaboration and continuous improvement, which are relevant to Agile practices. However, it primarily focuses on DevOps rather than the specific frameworks of Scrum, Kanban, Lean, or Agile.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses DevOps practices and their impact on organisational effectiveness, which indirectly relates to Agile methodologies and continuous improvement. However, it lacks explicit references to Scrum, Kanban, or Lean frameworks, and the focus is more on DevOps rather than the core themes of Social Technologies. While there are mentions of collaboration and efficiency, the depth of discussion on specific methodologies is limited.",
+    "level": "Quaternary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

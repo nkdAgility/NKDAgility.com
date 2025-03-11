@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T11:44:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:55:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical steps and considerations involved in upgrading Team Foundation Server, including prerequisites, installation processes, and best practices for trial upgrades, which aligns well with the category's focus on practical techniques and tooling.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed account of upgrading from TFS 2013 Preview to TFS 2013 RC, which includes practical techniques for performing the upgrade, prerequisites, and best practices. It discusses specific tooling (TFS) and methodologies related to the upgrade process, aligning well with the category's focus on practical application. However, while it is rich in detail, it lacks broader discussions on Agile or DevOps practices, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T11:44:36",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-10T12:44:16",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 84.0,
-    "reasoning": "The content primarily focuses on the installation and upgrade process of Team Foundation Server 2013 RC, providing detailed step-by-step instructions, prerequisites, and best practices for configuration, which aligns well with the 'Install and Configuration' category.",
+    "final_score": 81.0,
+    "reasoning": "The content provides a detailed guide on upgrading from TFS 2013 Preview to TFS 2013 RC, including specific installation steps, prerequisites, and configuration considerations. It explicitly discusses the installation process, trial upgrades, and necessary system requirements, aligning well with the core themes of the 'Install and Configuration' category. The depth of discussion is substantial, covering various aspects of the upgrade process, which enhances its relevance to the category.",
     "level": "Primary"
   },
   "Transparency and Accountability": {
@@ -118,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:44:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses upgrading Team Foundation Server, which relates to continuous integration and delivery practices, but primarily focuses on the upgrade process rather than broader DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server (TFS) from a preview version to a release candidate. While it touches on some relevant themes such as the importance of trial upgrades and the need for backups, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. The content does not explicitly mention DevOps or its key practices like Continuous Integration or Continuous Delivery, which diminishes its alignment with the category.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -280,11 +289,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T11:45:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:46:58",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS), which is a component of Azure DevOps, detailing specific steps, prerequisites, and best practices related to TFS upgrades.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the upgrade process from TFS 2013 Preview to TFS 2013 RC, which is directly related to Azure DevOps as TFS (Team Foundation Server) is a part of the Azure DevOps suite. The discussion includes specific details about the upgrade process, prerequisites, and best practices, aligning well with the functionalities and methodologies associated with Azure DevOps. However, while it is focused on TFS, it lacks broader discussions on other Azure DevOps services or integration practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -370,12 +382,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T17:51:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:26:56",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the process of upgrading Team Foundation Server (TFS) including best practices, prerequisites, and technical details related to software upgrade processes, aligning well with topics of software craftsmanship and engineering practices.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server (TFS) from a preview version to a release candidate. It discusses best practices for performing upgrades, the importance of trial upgrades, and prerequisites for installation, which align with the principles of software craftsmanship and engineering practices. However, while it provides detailed procedural information, it lacks broader discussions on software design principles, code quality, or methodologies that would enhance its alignment with the 'Technical Mastery' category.",
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -577,11 +592,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T17:51:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:52:31",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses upgrading Team Foundation Server (TFS), which is integral to software development processes and practices, specifically related to continuous integration and deployment in a team environment.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed account of upgrading Team Foundation Server (TFS), which is a critical aspect of software development practices. It discusses the upgrade process, prerequisites, and best practices, aligning well with the Software Development category. The mention of trial upgrades, system requirements, and the importance of backups demonstrates a strong focus on methodologies and practices that ensure efficient software engineering outcomes.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -730,12 +748,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:55:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical practices related to upgrading software and managing environments, but primarily focuses on the specific process of upgrading Team Foundation Server rather than broad engineering excellence principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server, which includes some aspects of software craftsmanship and quality assurance, such as the importance of trial upgrades and ensuring backups. However, it lacks a broader discussion on engineering excellence principles, best practices, or continuous improvement processes. The mention of streamlining processes and minimising issues during upgrades hints at a commitment to quality, but the overall depth and alignment with the core themes of engineering excellence are limited.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -775,11 +796,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T17:51:35",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T18:36:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content includes practical problem-solving strategies for upgrading Team Foundation Server, discussing real-world applications of upgrades and improvements, as well as navigating complexities linked to data management in an Agile environment.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses practical steps and experiences related to upgrading Team Foundation Server, which aligns with pragmatic thinking in a technical context. It provides real-world applications of problem-solving strategies, such as conducting trial upgrades and ensuring backups, which are essential in complex environments. However, while it touches on relevant themes, the focus is more on the upgrade process rather than a broader discussion of Agile or Scrum principles, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {

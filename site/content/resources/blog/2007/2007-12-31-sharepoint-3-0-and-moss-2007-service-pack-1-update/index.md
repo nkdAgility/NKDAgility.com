@@ -23,11 +23,11 @@ aliasesArchive:
 - /sharepoint-3-0-and-moss-2007-service-pack-1-update
 - /resources/blog/sharepoint-3-0-and-moss-2007-service-pack-1-update
 tags:
-- Windows
 - Install and Configuration
-- Practical Techniques and Tooling
-- System Configuration
 - Troubleshooting
+- System Configuration
+- Windows
+- Practical Techniques and Tooling
 categories: []
 preview: metro-sharepoint-128-link-1-1.png
 

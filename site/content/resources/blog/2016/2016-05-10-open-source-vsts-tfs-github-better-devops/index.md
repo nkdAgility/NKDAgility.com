@@ -8,7 +8,7 @@ ResourceImportId: 11491
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2016-05-10
-weight: 775
+weight: 720
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,16 +27,16 @@ aliasesArchive:
 - /blog/open-source-with-vsts-or-tfs-and-github-for-better-devops
 - /resources/blog/open-source-vsts-tfs-github-better-devops
 tags:
-- Continuous Integration
 - Install and Configuration
 - Practical Techniques and Tooling
-- System Configuration
 - Azure DevOps
-- Modern Source Control
-- Operational Practices
-- Software Developers
 - Software Development
+- Continuous Integration
+- System Configuration
+- Modern Source Control
+- Software Developers
 - Azure Pipelines
+- Pragmatic Thinking
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-14-14.png

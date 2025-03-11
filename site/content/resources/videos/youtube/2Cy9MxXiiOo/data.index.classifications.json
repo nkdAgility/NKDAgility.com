@@ -1,11 +1,14 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T23:08:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T13:56:41",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the concept of a Sprint goal within the Scrum framework, highlighting its tactical nature and relevance to product goals and stakeholder feedback.",
+    "final_score": 70.0,
+    "reasoning": "The content explicitly discusses the concept of a Sprint goal, which is a key element of the Scrum framework. This direct mention contributes positively to the confidence score. Additionally, the content aligns with the core themes of Social Technologies by addressing tactical goals that facilitate collaboration and feedback during the Sprint review. However, the depth of discussion is somewhat limited, focusing primarily on the definition and purpose of a Sprint goal without delving into broader Scrum practices or methodologies.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -28,11 +31,14 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T23:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:10:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of a Sprint goal, which is related to product management in the context of Agile methodologies. However, it primarily focuses on tactical aspects rather than strategic alignment or broader product management themes.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the concept of a Sprint goal, which is a tactical aspect of Agile and Scrum frameworks. While it touches on the role of stakeholders and feedback, it lacks a broader discussion on strategic alignment, customer needs, or business objectives, which are central to product management. The focus is more on the tactical execution rather than the strategic implications of product management.",
     "level": "Tertiary"
   },
   "Leadership": {
@@ -64,12 +70,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T23:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:56:44",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of a Sprint goal, which is a key element of the Scrum framework, but it does not provide a comprehensive exploration of Scrum principles or practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the concept of a Sprint goal, which is a key element of the Scrum framework. However, it does not explicitly mention other Scrum roles, events, or principles, leading to a lower score in direct mentions. The discussion aligns conceptually with Scrum's focus on tactical goals within the framework, but lacks depth in exploring broader Scrum principles or practices.",
+    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -118,11 +127,14 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T23:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:10:55",
+    "ai_confidence": 65.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of a Sprint goal, which is a key element of the Scrum framework, indicating that Agile frameworks are a major theme, but the focus is primarily on the specific aspect of Sprint goals rather than a broader exploration of Agile frameworks.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the concept of a Sprint goal, which is a key element of the Scrum framework, thus directly mentioning an Agile framework. It aligns with the core themes of Agile frameworks by focusing on tactical goals that contribute to product vision and stakeholder feedback. However, the discussion lacks depth in exploring broader Agile principles or comparative analysis with other frameworks, which slightly lowers the overall confidence score.",
     "level": "Tertiary"
   },
   "Revenue per Employee": {
@@ -181,11 +193,14 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-17T23:09:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:19:55",
+    "ai_confidence": 55.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the Sprint goal and its relevance to stakeholder feedback during the Sprint Review, making it a major but secondary theme.",
+    "final_score": 52.0,
+    "reasoning": "The content briefly mentions the Sprint Review in the context of stakeholder feedback but primarily focuses on defining the Sprint goal. While it touches on the importance of stakeholder input during the review, it does not delve into the specifics of the Sprint Review process or its broader implications within the Scrum framework.",
     "level": "Tertiary"
   },
   "Azure Pipelines": {
@@ -199,12 +214,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T23:09:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:15:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of a Sprint goal, which is relevant to Agile practices and team dynamics, but it primarily focuses on the tactical aspect rather than broader team performance strategies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly discusses the concept of a Sprint goal, which is a tactical element of Agile methodology. However, it does not delve into team dynamics, collaboration, or performance metrics, which are central to the 'Team Performance' category. The mention of stakeholder feedback is relevant but does not provide sufficient depth or alignment with the broader themes of team effectiveness and collaboration.",
+    "level": "Quaternary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -226,11 +244,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T23:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:12:56",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of a Sprint goal, which is related to Agile methodologies and product delivery, but it primarily focuses on the tactical aspect rather than the broader end-to-end process of delivering software products.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the concept of a Sprint goal, which is a tactical element of Agile methodologies relevant to product delivery. However, it lacks broader discussions on the end-to-end process of delivering software products, such as planning, testing, and deployment. While it aligns with Agile principles, it does not provide in-depth coverage of the overall product delivery framework.",
     "level": "Tertiary"
   },
   "AI": {
@@ -253,11 +274,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T23:09:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:35:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of a Sprint goal within the context of Agile methodologies, which relates to team dynamics and collaboration. However, it primarily focuses on the tactical aspect of the goal rather than the broader interplay of people and processes.",
+    "final_score": 57.0,
+    "reasoning": "The content briefly discusses the concept of a Sprint goal, which is a tactical element of Agile methodology. However, it lacks a deeper exploration of team dynamics, collaboration, or the human factors involved in achieving the Sprint goal. While it touches on stakeholder feedback, it does not delve into the broader implications for team processes or leadership roles, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Test Driven Development": {

@@ -8,7 +8,7 @@ ResourceImportId: 11115
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-02-04
-weight: 540
+weight: 465
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,15 +28,6 @@ aliasesArchive:
 - /resources/blog/journey-professional-scrum
 tags:
 - People and Process
-- Scrum Product Development
-- Strategy
-- Agile Product Management
-- Agile Project Management
-- Business Agility
-- Organisational Agility
-- Organisational Change
-- Organisational Culture
-- Product Delivery
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-5-5.png

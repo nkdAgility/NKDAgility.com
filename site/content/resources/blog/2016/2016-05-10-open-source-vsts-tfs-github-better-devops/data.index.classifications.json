@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T21:00:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:34:55",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the practical application of synchronising code between VSTS and GitHub, detailing specific commands, configurations, and automation processes that enhance DevOps practices.",
+    "final_score": 80.0,
+    "reasoning": "The content provides a detailed exploration of synchronising code between VSTS (now Azure DevOps) and GitHub, which directly relates to practical tooling in DevOps. It discusses specific commands, build definitions, and automation processes, aligning well with the category's focus on practical techniques and tooling. The depth of discussion includes various synchronisation methods and configuration options, demonstrating a strong understanding of the tools involved. Overall, the content is highly relevant and offers actionable insights for implementing these techniques.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-14T21:00:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:34:15",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily focuses on the installation and configuration of VSTS and GitHub for synchronising code, providing detailed steps and options for setup, which aligns well with the category.",
+    "final_score": 80.0,
+    "reasoning": "The content provides a detailed guide on synchronising code between VSTS and GitHub, which directly relates to installation and configuration processes. It discusses specific configuration options, automated builds, and command-line tasks necessary for achieving the desired integration. The depth of discussion includes step-by-step instructions and troubleshooting considerations, aligning well with the key topics of the category. The primary focus is on practical implementation rather than theoretical discussions, which supports a high confidence score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T21:00:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:34:51",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the integration of VSTS (now Azure DevOps) and GitHub for synchronising code, which aligns with DevOps principles such as Continuous Integration (CI) and automation. It focuses on the tools and processes that facilitate DevOps practices, making it a major theme.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content explicitly discusses the integration of VSTS (now Azure DevOps) and GitHub for synchronising code, which is a core aspect of DevOps practices. It covers automation through CI/CD pipelines, the role of version control systems, and the importance of collaboration between development and operations teams. The depth of discussion includes specific commands and configurations for achieving this synchronisation, demonstrating a practical application of DevOps principles. Overall, the content aligns well with the key topics of the DevOps category.",
+    "level": "Primary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -280,11 +289,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-14T21:01:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:39:53",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the integration and synchronisation of VSTS (now Azure DevOps) with GitHub, focusing on CI/CD practices and automation within Azure DevOps, which aligns well with the category.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily discusses the integration and synchronisation of VSTS (now Azure DevOps) with GitHub, focusing on CI/CD practices and automation within Azure DevOps. It provides detailed instructions on setting up builds and managing repositories, which aligns closely with Azure DevOps functionalities. The depth of discussion is significant, covering various scenarios and configurations, thus demonstrating a strong alignment with the category.",
     "level": "Secondary"
   },
   "Personal": {
@@ -388,11 +400,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T21:01:45",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T18:30:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses automation in the context of synchronising code between VSTS and GitHub, which aligns with Continuous Delivery principles. However, the primary focus is on the integration and synchronisation process rather than the broader methodologies and practices of Continuous Delivery.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses synchronisation between VSTS and GitHub, which relates to Continuous Delivery practices, particularly in automating code integration and deployment. However, it primarily focuses on the specifics of synchronisation rather than broader Continuous Delivery principles, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Strategic Goals": {
@@ -478,11 +493,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-14T21:02:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:21:44",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses techniques for synchronising code between VSTS and GitHub, which aligns with operational efficiency and the practical application of DevOps principles.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses the practical implementation of synchronising code between VSTS and GitHub, which directly relates to operational efficiency in a DevOps context. It provides detailed steps for automation, configuration options, and continuous integration, aligning well with the core themes of operational practices. The depth of discussion is substantial, covering various scenarios and technical details, although it could benefit from more explicit references to broader operational strategies.",
     "level": "Secondary"
   },
   "Scrum Team": {
@@ -577,11 +595,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-14T21:02:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:47:19",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the integration of VSTS/TFS with GitHub for DevOps practices, focusing on automation, continuous integration, and synchronisation of code, which are central themes in software development.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the integration of VSTS (now Azure DevOps) and GitHub for synchronising code, which is a key aspect of DevOps practices in software development. It covers specific methodologies for continuous integration and deployment (CI/CD), automation of builds, and version control, all of which are central to the Software Development category. The depth of detail provided, including command examples and configuration options, further supports its strong alignment with software engineering practices.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -730,11 +751,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:34:12",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automation and continuous integration practices related to synchronising code between VSTS and GitHub, which aligns with engineering excellence principles. However, the primary focus is on the integration process rather than broader engineering practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the integration of VSTS and GitHub for DevOps practices, which touches on automation and CI/CD. However, it primarily focuses on synchronisation and tooling rather than broader principles of software craftsmanship, quality assurance, or best practices in coding standards. While there are mentions of automation and CI, the depth of discussion on engineering excellence principles is limited.",
     "level": "Tertiary"
   },
   "Revenue per Employee": {
@@ -1360,12 +1384,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:39:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of VSTS and GitHub in the context of DevOps and Agile practices, indicating a major but secondary theme related to collaboration and continuous improvement.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Agile practices and discusses the use of VSTS in a DevOps context, but it primarily focuses on synchronisation between VSTS and GitHub rather than on the core principles of Scrum, Kanban, Lean, or Agile methodologies. While there is some alignment with the themes of collaboration and continuous improvement, the depth of discussion on Social Technologies is limited, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

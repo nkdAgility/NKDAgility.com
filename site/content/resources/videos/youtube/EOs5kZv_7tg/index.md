@@ -31,10 +31,12 @@ sitemap:
 tags:
 - People and Process
 - Agile Leadership
+- Agile Strategy
 resourceTypes:
 - video
 categories:
 - Leadership
+- Social Technologies
 
 ---
 ## Power of Passion

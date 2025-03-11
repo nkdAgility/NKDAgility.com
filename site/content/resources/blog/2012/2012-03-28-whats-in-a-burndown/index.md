@@ -8,7 +8,7 @@ ResourceImportId: 5002
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-03-28
-weight: 550
+weight: 585
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,16 +27,16 @@ aliasesArchive:
 - /blog/what's-in-a-burndown-
 - /resources/blog/whats-in-a-burndown
 tags:
-- Scrum Product Development
-- Practical Techniques and Tooling
+- Software Developers
 - Product Delivery
+- Scrum Product Development
 - Scrum Team
 - Software Development
 - Agile Planning
-- Agile Product Management
 - Agile Project Management
-- Metrics and Learning
-- People and Process
+- Professional Scrum
+- Team Performance
+- Agile Frameworks
 categories:
 - Scrum
 preview: nakedalm-logo-128-link-1-1.png

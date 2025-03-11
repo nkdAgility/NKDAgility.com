@@ -24,7 +24,6 @@ aliasesArchive:
 - /resources/blog/mobile-device-center
 tags:
 - Windows
-- Customer Satisfaction
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

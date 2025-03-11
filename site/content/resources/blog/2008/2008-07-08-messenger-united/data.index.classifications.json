@@ -10,12 +10,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:14:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 25.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses an application and its integration with other services, which aligns with the category's focus on tools and software relevant to Agile and DevOps practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions an application related to Microsoft's Connected Systems initiative, but it lacks a detailed discussion or analysis of the product. While it touches on integration with third-party services, it does not provide insights into Agile methodologies or DevOps practices, which are central to the category. The focus is more on the application itself rather than its relevance to Agile or DevOps principles.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -181,12 +184,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:57:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses an application related to Microsoft's Connected Systems initiative, which aligns with industry updates, but lacks a comprehensive review or analysis of Agile or DevOps practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions an application related to Microsoft's Connected Systems initiative, which aligns with technology updates. However, it lacks a detailed discussion on Agile or DevOps practices, and the focus is more on the application itself rather than providing a comprehensive review or analysis of industry trends. The overall depth of discussion is limited, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -685,12 +691,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:11:34",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an application related to Microsoft's Connected Systems initiative, which indicates a focus on Windows-related technologies, but the primary topic is more about the application and its integration rather than a comprehensive discussion of Windows itself.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content mentions Microsoft's Connected Systems initiative, which relates to Windows, but it primarily focuses on an application and its integration with third-party services rather than discussing Windows installation, configuration, or troubleshooting. The mention of Microsoft suggests a connection to Windows, but the overall focus is not on the Windows operating system itself.",
+    "level": "Quaternary"
   },
   "Product Strategy": {
     "category": "Product Strategy",

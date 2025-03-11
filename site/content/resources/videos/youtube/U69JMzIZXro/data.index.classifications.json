@@ -127,12 +127,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-18T12:23:46",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation of TFS 2013, which relates to Windows as it involves installation procedures often performed in a Windows environment, but it does not primarily focus on Windows operating system itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-07T14:51:35",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Team Foundation Server (TFS) on a Windows environment, detailing the steps involved in setting up SQL Server and TFS, which are both integral to Windows systems. It discusses specific Windows features, such as service accounts and Active Directory integration, and addresses potential issues related to Windows Server configurations. The depth of discussion is substantial, covering various aspects of the installation process, including prerequisites, configurations, and troubleshooting steps, which aligns well with the key topics outlined for the Windows category.",
+    "level": "Primary"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -289,12 +292,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T12:23:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:35:30",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses installation of TFS, which is related to software development practices, but does not dive into methodologies or best practices.",
-    "level": "Tertiary"
+    "final_score": 74.0,
+    "reasoning": "The content provides a detailed step-by-step guide on installing Team Foundation Server (TFS), which is a critical tool in the software development lifecycle. It discusses various aspects of the installation process, including SQL Server setup, service accounts, and configuration, which are all relevant to software development practices. The mention of creating a team project and using Git as the version control system further aligns with core themes of collaborative development and version control. Overall, the content is focused on practical software development techniques, justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1090,12 +1096,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-18T12:23:46",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2013, which aligns well with the key topic of best practices for software installation and configuration.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-10T12:43:00",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
+    "non_ai_confidence": 20,
+    "final_score": 85.0,
+    "reasoning": "The content provides a detailed, step-by-step guide on installing and configuring Team Foundation Server (TFS) on a single server, which directly aligns with the category of System Configuration. It discusses best practices for software installation, hardware setup, and configuration management, including specific configurations for SQL Server and TFS. The depth of discussion is significant, covering various aspects of the installation process, including service accounts, firewall considerations, and system checks. The content remains focused on practical configuration tasks, making it highly relevant to the category.",
+    "level": "Primary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1342,12 +1351,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T12:23:46",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily focuses on the installation of TFS 2013, providing insights into the setup process and configuration as a standard single server, which aligns directly with the Install and Configuration category.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-10T14:45:49",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 38,
+    "ai_depth": 40,
+    "non_ai_confidence": 30,
+    "final_score": 86.0,
+    "reasoning": "The content provides a comprehensive, step-by-step guide on installing and configuring TFS (Team Foundation Server) on a single server. It explicitly discusses the installation of SQL Server, the necessary configurations, and the prerequisites for a successful TFS setup. The detailed instructions on service accounts, feature installations, and configuration checks demonstrate a strong alignment with the key topics of the 'Install and Configuration' category. The depth of discussion is significant, covering various aspects of the installation process, including troubleshooting potential issues and ensuring compatibility with system requirements. Overall, the content is highly relevant and focused on the technical aspects of installation and configuration.",
+    "level": "Primary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",

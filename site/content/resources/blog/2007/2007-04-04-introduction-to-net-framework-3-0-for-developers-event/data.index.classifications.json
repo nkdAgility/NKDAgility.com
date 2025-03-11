@@ -199,12 +199,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:16:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:25:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses an event related to .NET Framework 3.0, providing insights into the session and the speaker's expertise, which aligns with the theme of industry events and updates. However, it primarily focuses on personal experiences rather than broader industry news or reviews.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on a personal experience at a developer event, discussing specific technologies like .NET Framework 3.0 and Windows Workflow Foundation. While it provides insights into the session and the speaker's expertise, it lacks broader industry news or reviews that would typically characterise the 'News and Reviews' category. The discussion is more anecdotal and does not delve into trends or evaluations relevant to Agile or DevOps, which diminishes its alignment with the category's core themes.",
+    "level": "Quaternary"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
@@ -253,11 +256,14 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T09:16:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:21:09",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a specific event where a presentation on .NET Framework 3.0 was given, including insights and experiences from the session.",
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses a specific event, a session led by Mike Taulty on .NET Framework 3.0, which aligns directly with the category of Events and Presentations. The author shares personal insights and experiences from attending the event, indicating a strong engagement with the presentation's content. The discussion includes details about the topics covered, such as CardSpace and Windows Workflow Foundation, which are relevant to software engineering. The depth of the discussion is significant, as it reflects on the value gained from the session and the interaction with the speaker. Overall, the content is well-aligned with the category, focusing on a specific event and providing detailed reflections on the presentation.",
     "level": "Secondary"
   },
   "Agile Product Management": {
@@ -298,12 +304,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:17:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:06:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses learning from a session on .NET Framework 3.0, highlighting areas of knowledge gained and the importance of understanding new technologies, which aligns with the theme of continuous learning.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on a specific event related to .NET Framework 3.0 and the insights gained from it. While there are mentions of learning and understanding new concepts, such as CardSpace and Windows Workflow Foundation, the discussion lacks a broader exploration of methodologies or processes that foster innovation and continuous learning. The content does not delve into techniques for fostering a culture of innovation or the significance of learning from failures and successes, which are key themes in the 'Discovery and Learning' category.",
+    "level": "Quaternary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -505,12 +514,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T09:52:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:18:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses attending a learning event about .NET Framework, which includes elements of knowledge sharing and learning from an expert. However, the primary focus is on the specifics of the session rather than the broader principles of Continuous Learning within a team context.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions attending a session and learning about .NET Framework, which aligns with the concept of continuous learning. However, it primarily focuses on specific technologies and personal experiences rather than discussing broader principles of continuous learning, such as growth mindset or knowledge sharing within teams.",
+    "level": "Quaternary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -928,12 +940,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:52:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:53:29",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a developer event focused on .NET Framework, which relates to the software development practices but lacks a primary focus on Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses a specific event related to .NET development, which is relevant to software developers. However, it lacks a direct focus on Agile or DevOps methodologies, and the discussion is more about personal experiences and specific technologies rather than broader practices or principles that enhance productivity and collaboration in software development.",
+    "level": "Quaternary"
   },
   "Lean Principles": {
     "category": "Lean Principles",

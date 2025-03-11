@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T09:19:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:45:47",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a practical technique for deleting work items in TFS/VSO, including code examples and a methodology for managing work items effectively.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a practical guide on deleting work items from TFS or VSO, including specific command-line instructions and a code example. It directly addresses a common task within Agile tooling, demonstrating the application of a specific technique. The discussion aligns well with the category's focus on practical techniques and tooling, particularly in the context of Agile and DevOps practices. The depth of the discussion is significant, as it includes both a warning about potential data loss and a personal anecdote that adds context to the practical advice given.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T09:19:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:40:25",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the process of deleting work items from TFS or VSO, including command line instructions and a code example for automating the deletion process, which aligns with installation and configuration tasks.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed guide on deleting work items from TFS or VSO, including specific command-line instructions and a code example. It directly addresses the installation and configuration of a process related to work item management, which aligns well with the category's focus. The mention of potential risks and the need for caution during execution further supports its relevance to installation and configuration practices. However, while it is primarily focused on a specific task, it lacks broader context on system requirements or integration with other tools, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -280,11 +286,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T09:19:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:44:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the deletion of work items in TFS (Team Foundation Server), which is a component of Azure DevOps, and provides a code example related to this functionality.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the deletion of work items in TFS (Team Foundation Server), which is a component of Azure DevOps. It provides a detailed explanation of a command-line method to delete work items, including code snippets and practical advice. While it does not explicitly mention Azure DevOps frequently, the focus on TFS and work item management aligns well with Azure DevOps functionalities. The depth of the discussion is significant, as it includes code examples and warnings about potential data loss, indicating a thorough understanding of the topic. However, the lack of broader context regarding Azure DevOps services and methodologies slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -370,12 +379,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T09:57:10",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-10T18:33:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content primarily focuses on a technical approach to deleting work items in TFS/VSO, providing specific coding examples and methodologies. However, the overall discussion leans towards practical implementation rather than overarching principles of software craftsmanship or engineering excellence.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a specific technical task related to deleting work items in TFS/VSO, which is a practical coding solution rather than a discussion on broader software craftsmanship principles. While it includes code snippets and some technical details, it lacks a comprehensive exploration of best practices, clean code principles, or methodologies that contribute to high-quality software development. The mention of potential risks and the need for caution does touch on aspects of code quality, but overall, the content does not align closely with the core themes of Technical Mastery.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -640,12 +652,15 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-15T09:57:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:24:53",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical aspects of managing work items in TFS (Team Foundation Server) and how to delete them, which is relevant to Azure Boards as it deals directly with work item management.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content primarily discusses the deletion of work items in TFS (Team Foundation Server) and VSO (Visual Studio Online), which are related to Azure Boards. However, it lacks a comprehensive exploration of Azure Boards' functionalities, best practices, or Agile project management principles. While it mentions work items, the focus is on a specific technical task rather than the broader context of managing Agile projects or enhancing team collaboration.",
+    "level": "Tertiary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -1153,11 +1168,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T09:57:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:50:25",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a method for deleting work items in TFS/VSO, including troubleshooting potential issues that arise during the deletion process and providing practical code examples for handling work item deletion effectively.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses a specific issue related to deleting work items in TFS/VSO, which aligns with troubleshooting as it addresses a common problem users face. It provides a solution through code and warns about potential pitfalls, indicating a focus on problem resolution. However, while it mentions troubleshooting aspects, it lacks a broader discussion on methodologies or tools typically associated with systematic troubleshooting, which affects the overall depth and alignment scores.",
     "level": "Secondary"
   },
   "Experimentation": {

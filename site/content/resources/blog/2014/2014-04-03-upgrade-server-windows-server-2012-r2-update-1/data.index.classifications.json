@@ -73,11 +73,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T11:03:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:50:27",
+    "ai_confidence": 85.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the step-by-step installation and updating process for Windows Server 2012 R2, including specific updates and their installation order, which aligns well with the category of Install and Configuration.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed step-by-step guide on updating Windows Server 2012 R2, including specific updates, their order, and installation times. It directly addresses the installation and configuration of software, aligning well with the category's focus. The depth of discussion is high, as it includes practical insights and troubleshooting tips related to the update process, making it a strong fit for the 'Install and Configuration' category.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -280,12 +283,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:34:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS), which is part of Azure DevOps, but the primary focus is on updating Windows Server rather than Azure DevOps functionalities.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Team Foundation Server (TFS), which is part of Azure DevOps, but the primary focus is on updating Windows Server and the installation process of updates. There is minimal discussion on Azure DevOps functionalities or best practices, and the content does not delve into CI/CD, project management, or integration topics relevant to Azure DevOps.",
+    "level": "Quaternary"
   },
   "Personal": {
     "category": "Personal",
@@ -370,12 +376,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:51:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily focuses on the technical process of upgrading and updating Windows Server, which touches on software maintenance and system management, making it a major theme, but it does not deeply engage with broader software craftsmanship principles or best practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the process of updating Windows Server systems, which is more operational than a discussion on software craftsmanship or engineering practices. While it does touch on technical aspects, such as the order of updates and installation times, it lacks a deeper exploration of best practices, principles of clean code, or methodologies that contribute to high-quality software development. The discussion is practical and procedural, rather than theoretical or strategic, which diminishes its alignment with the 'Technical Mastery' category.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -946,12 +955,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:25:31",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the update process of Windows Server and related updates, which aligns with software release practices, but it focuses more on the technical steps and manual processes rather than a comprehensive discussion on release management strategies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the installation of updates for Windows Server 2012 R2, which relates to the release of software updates. However, it lacks a comprehensive focus on release management strategies, such as planning, scheduling, or risk management. While it mentions the release of updates and the process of applying them, it does not delve into the broader context of release management practices or metrics, resulting in a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -1045,11 +1057,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T11:19:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:44:53",
+    "ai_confidence": 82.0,
+    "ai_mentions": 16,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the process of upgrading and configuring Windows Server 2012 R2, including specific update procedures, installation order, and considerations during the update process, which aligns closely with system configuration topics.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on the process of updating and configuring Windows Server 2012 R2, which aligns closely with system configuration practices. It discusses specific updates, their installation order, and the implications of these updates on system performance and reliability. The depth of detail regarding the update process, including time taken for installations and the need for restarts, further supports its relevance to the category. Overall, the content is a practical guide to system configuration, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1099,11 +1114,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T11:19:37",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-10T12:41:50",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 50,
-    "final_score": 86.0,
-    "reasoning": "The content is primarily focused on upgrading and updating Windows Server 2012 R2, including installation and update procedures, making it central to the Windows category.",
+    "final_score": 88.0,
+    "reasoning": "The content primarily focuses on the installation and updating procedures for Windows Server 2012 R2, detailing specific updates, their installation order, and the impact on various systems. It discusses troubleshooting aspects related to the update process and provides insights into managing Windows environments, which aligns closely with the key topics of the Windows category. The depth of discussion is substantial, covering both the technical steps and personal experiences, thus justifying a high confidence score.",
     "level": "Primary"
   },
   "Deployment Strategies": {

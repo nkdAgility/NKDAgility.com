@@ -25,7 +25,10 @@ preview: https://i.ytimg.com/vi/jCqRHt8LLgw/maxresdefault.jpg
 duration: 1756
 isShort: false
 tags:
+- Agile Project Management
+- People and Process
 - Events and Presentations
+- Software Developers
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -34,6 +37,7 @@ resourceTypes:
 - video
 categories:
 - Scrum
+- Social Technologies
 
 ---
 Welcome back to my blog! Today, I want to share some insights from my recent office hours, where I tackled a few pressing questions about agile practices, particularly around story points, team sizes, and emergent architecture. These topics are crucial for anyone looking to enhance their understanding of agile methodologies and improve their team's performance.

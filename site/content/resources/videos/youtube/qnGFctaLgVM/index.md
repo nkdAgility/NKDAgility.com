@@ -27,18 +27,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Owner
 - Agile Product Management
 - People and Process
-- Coaching
 - Miscellaneous
 - Personal
+- Product Owner
 - Pragmatic Thinking
-- Professional Scrum
 resourceTypes:
 - video
-categories:
-- Product Management
+categories: []
 
 ---
 ## Why Russell is the Go-To PSPO Trainer for NKD Agility 🏆 

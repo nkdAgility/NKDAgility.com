@@ -24,11 +24,11 @@ preview: https://i.ytimg.com/vi/5ZRMBfV9zpI/maxresdefault.jpg
 duration: 74
 isShort: false
 tags:
-- Professional Scrum
 - Scrum Master
+- Events and Presentations
+- Professional Scrum
 - Agile Frameworks
 - Agile Project Management
-- Events and Presentations
 - Software Development
 - People and Process
 sitemap:

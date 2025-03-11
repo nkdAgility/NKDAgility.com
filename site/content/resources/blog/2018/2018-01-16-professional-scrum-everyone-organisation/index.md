@@ -8,7 +8,7 @@ ResourceImportId: 38287
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2018-01-16
-weight: 410
+weight: 445
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -28,18 +28,10 @@ aliasesArchive:
 - /blog/professional-scrum-is-for-everyone-in-your-organisation
 - /resources/blog/professional-scrum-everyone-organisation
 tags:
-- People and Process
-- Transparency
 - Agile Product Management
-- Agile Product Operating Model
-- Agile Project Management
-- Business Agility
-- Change Management
-- Events and Presentations
-- Organisational Agility
-- Organisational Change
 categories:
 - Scrum
+- Social Technologies
 preview: nkdagility-professional-scrum-is-for-everyone-1-2-2.jpg
 
 ---

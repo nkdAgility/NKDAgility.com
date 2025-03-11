@@ -1,12 +1,15 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T11:23:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:51:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses configuring release management in Team Foundation Server, which is related to DevOps practices, but it primarily focuses on the technical steps rather than broader DevOps principles or cultural aspects.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on configuring release management within Team Foundation Server (TFS), which is a tool relevant to DevOps practices. However, it lacks explicit discussions on broader DevOps principles, such as Continuous Integration or Continuous Delivery, and does not address cultural shifts or collaboration aspects. The depth of discussion is limited to technical setup without exploring the implications or benefits of these practices in a DevOps context.",
+    "level": "Quaternary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
@@ -424,20 +427,26 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-18T11:35:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:51:58",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily focuses on configuring release management within a Team Foundation Server (TFS), which is a key aspect of the release management process. It discusses server setup, verification, and management, making it central to the topic of release management.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on configuring release management within Team Foundation Server (TFS), which directly relates to the practices of release management. It discusses specific actions taken to set up connections and troubleshoot issues, indicating a practical application of release management strategies. However, while it mentions relevant tools and processes, the depth of discussion is somewhat limited to configuration steps without broader context on release planning, scheduling, or risk management, which are key themes in release management.",
     "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-18T11:35:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:35:44",
+    "ai_confidence": 65.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses configuring release management within Team Foundation Server (TFS), which is a part of Azure DevOps, but does not explicitly cover broader Azure DevOps functionalities.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses configuring release management with Team Foundation Server (TFS), which is part of the Azure DevOps suite. It directly mentions TFS and its functionalities, indicating a focus on Azure DevOps tools. However, the discussion is primarily technical and lacks broader context on Azure DevOps methodologies or best practices, which affects the depth and alignment scores.",
     "level": "Tertiary"
   },
   "Technical Mastery": {
@@ -451,12 +460,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-18T11:35:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:51:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses configuration and management of Team Foundation Server (TFS), relevant to software development practices and potentially Agile or DevOps contexts, but lacks a strong focus on the broader role of software developers.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on configuring release management in Team Foundation Server (TFS), which is a technical task relevant to software development. However, it lacks explicit discussions on Agile or DevOps methodologies, which are central to the category. While it touches on aspects of software development, such as server configuration and troubleshooting, it does not delve into best practices, team dynamics, or collaboration strategies that are crucial for the role of software developers in Agile and DevOps contexts.",
+    "level": "Quaternary"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
@@ -568,12 +580,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-18T11:35:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:43:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content describes the process of configuring release management using Team Foundation Server (TFS), which relates to Continuous Integration and Continuous Delivery (CI/CD) practices. However, it primarily focuses on specific configuration steps rather than broader engineering methodologies or principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on configuring release management in Team Foundation Server (TFS), which is a technical task. However, it lacks explicit discussions on broader engineering practices or methodologies that enhance agility, such as CI/CD or TDD. While it touches on aspects of technical setup, it does not delve into the principles or techniques that would align it closely with the category of Technical Excellence. The discussion is more operational and procedural rather than strategic or methodological.",
+    "level": "Quaternary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -1180,12 +1195,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T11:35:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:46:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily focuses on configuring release management within Team Foundation Server, demonstrating practical problem-solving strategies and troubleshooting steps, which align with themes of pragmatic thinking in real-world scenarios, though it is not the central topic.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical steps for configuring release management in TFS, with minimal discussion on pragmatic problem-solving strategies or real-world applications of Agile or DevOps principles. While it does touch on troubleshooting and practical steps, it lacks a broader context of adaptability or critical thinking in complex environments, which are key aspects of pragmatic thinking.",
+    "level": "Quaternary"
   },
   "Cycle Time": {
     "category": "Cycle Time",

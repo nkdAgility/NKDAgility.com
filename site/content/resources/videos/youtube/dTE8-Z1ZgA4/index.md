@@ -25,6 +25,7 @@ preview: https://i.ytimg.com/vi/dTE8-Z1ZgA4/maxresdefault.jpg
 duration: 49
 isShort: true
 tags:
+- People and Process
 - Personal
 sitemap:
   filename: sitemap.xml

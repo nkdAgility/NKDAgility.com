@@ -685,12 +685,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:13:23",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Internet Explorer 8, which is a part of the Windows operating system. However, it primarily focuses on the compatibility view feature rather than broader aspects of Windows such as installation, configuration, or troubleshooting.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses a specific feature of Internet Explorer 8, which is a browser that runs on the Windows operating system. However, the focus is primarily on the compatibility view feature rather than broader aspects of Windows such as installation, configuration, or troubleshooting. While it does mention a Windows-related application, the depth of discussion is limited and does not explore the Windows environment comprehensively.",
+    "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1216,12 +1219,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:10:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an issue related to browser compatibility in IE8, which involves diagnosing and fixing rendering problems, making it a relevant but secondary theme rather than the primary focus.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on a specific issue related to viewing pages correctly in IE8 and mentions a workaround (restarting the browser to enable compatibility mode). However, it lacks a detailed discussion on diagnosing or resolving broader technical issues, and does not provide methodologies or tools for troubleshooting. The focus is more on a specific feature rather than a comprehensive troubleshooting approach.",
+    "level": "Quaternary"
   },
   "Scrum Master": {
     "category": "Scrum Master",

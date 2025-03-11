@@ -31,7 +31,7 @@ tags:
 - Practical Techniques and Tooling
 - Software Development
 - System Configuration
-- Technical Mastery
+- Pragmatic Thinking
 categories: []
 preview: nakedalm-windows-logo-4-4.png
 

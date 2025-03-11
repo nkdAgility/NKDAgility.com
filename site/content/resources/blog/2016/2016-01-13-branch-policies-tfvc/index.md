@@ -8,7 +8,7 @@ ResourceImportId: 11424
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2016-01-13
-weight: 640
+weight: 695
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,15 +27,14 @@ aliasesArchive:
 - /blog/branch-policies-for-tfvc
 - /resources/blog/branch-policies-tfvc
 tags:
-- Azure Repos
-- Technical Mastery
 - Modern Source Control
 - Practical Techniques and Tooling
+- Azure Repos
 - Azure DevOps
-- Operational Practices
 - Software Development
 - Technical Excellence
 - Pragmatic Thinking
+- Technical Mastery
 categories:
 - Engineering Excellence
 preview: image-2-2-2.png

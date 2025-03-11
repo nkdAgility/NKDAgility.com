@@ -26,11 +26,12 @@ duration: 50
 isShort: true
 tags:
 - Agile Strategy
-- People and Process
 - Strategic Goals
 - Sociotechnical Systems
 - Strategy
+- People and Process
 - Team Motivation
+- Pragmatic Thinking
 - Team Performance
 sitemap:
   filename: sitemap.xml

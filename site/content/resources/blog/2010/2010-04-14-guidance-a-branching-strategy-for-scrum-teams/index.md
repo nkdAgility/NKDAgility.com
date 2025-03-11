@@ -8,7 +8,7 @@ ResourceImportId: 50
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-04-14
-weight: 405
+weight: 440
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,8 +30,8 @@ tags:
 - Software Development
 categories:
 - Scrum
-- Engineering Excellence
 - Social Technologies
+- Engineering Excellence
 preview: metro-visual-studio-2010-128-link-18-18.png
 
 ---

@@ -10,12 +10,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:11:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific product, the TFS Sticky Buddy, and its deployment requirements, making it a major theme, but lacks in-depth analysis or review typical of the category.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions a specific product, the 'TFS Sticky Buddy', which aligns with the category of discussing tools relevant to Agile methodologies. However, it lacks a detailed review or analysis of the product's effectiveness in promoting Agile principles, and there is no discussion of literature or broader Agile concepts. The focus is primarily on the technical aspects of deployment rather than on the product's role in Agile practices.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -118,12 +121,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:11:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions a hosted version of a tool (TFS Sticky Buddy) and its deployment method, which relates to practical tooling, but lacks a broader discussion on methodologies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions a hosted version of a tool (TFS Sticky Buddy) and its deployment method (ClickOnce), which aligns with the category. However, it lacks detailed discussion on methodologies, frameworks, or best practices related to Agile and DevOps. The focus is primarily on the tool itself rather than its practical application or integration within Agile or DevOps practices.",
+    "level": "Quaternary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -145,11 +151,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T12:31:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:14:18",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the installation requirements for the hosted version of TFS Sticky Buddy, including the need for .NET 3.5 and Team Explorer 2008, which aligns with the category of Install and Configuration.",
+    "final_score": 62.0,
+    "reasoning": "The content mentions the need for specific software prerequisites (.NET 3.5 and Team Explorer 2008) for deploying the hosted version of TFS Sticky Buddy, which aligns with installation requirements. However, it lacks detailed step-by-step instructions or in-depth discussion on configuration, limiting its overall depth and alignment with the category.",
     "level": "Secondary"
   },
   "Organisational Agility": {
@@ -712,11 +721,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:46:20",
+    "ai_confidence": 55.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a hosted version of a tool related to TFS (Team Foundation Server), which is relevant to software development practices, although it does not delve deeply into methodologies or frameworks.",
+    "final_score": 50.0,
+    "reasoning": "The content mentions a hosted version of a tool related to software development (TFS Sticky Buddy) and discusses deployment using ClickOnce, which aligns with software deployment practices. However, it lacks detailed discussion on methodologies or best practices, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Frameworks": {
@@ -1315,12 +1327,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:57:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions the requirement to have .NET 3.5 and Team Explorer 2008 installed, which relates to system configuration, but the focus is more on the hosted version and deployment logistics rather than in-depth system configuration practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions the need for specific software installations (.NET 3.5 and Team Explorer 2008) which relates to system configuration. However, it lacks a detailed discussion on configuration practices, optimisation strategies, or troubleshooting, making it a secondary focus rather than a primary one.",
+    "level": "Quaternary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",

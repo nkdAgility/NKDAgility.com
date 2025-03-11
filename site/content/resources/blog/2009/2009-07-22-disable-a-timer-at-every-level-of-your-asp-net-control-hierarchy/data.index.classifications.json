@@ -208,12 +208,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:42:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical solution involving ASP.NET controls and provides code examples, but it primarily focuses on a specific problem rather than broader engineering practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a specific coding problem and solution related to ASP.NET controls, which does touch on technical practices. However, it lacks a broader discussion on engineering methodologies or principles that enhance agility in software development. While it provides a code example and some insights into handling timers and controls, it does not delve into concepts like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence. The mention of seeking improvements indicates some alignment, but the overall depth and focus are limited.",
+    "level": "Quaternary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -370,12 +373,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T02:28:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:43:30",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a technical problem related to ASP.NET controls and includes specific code examples, focusing on best practices for managing timers in a web environment, which aligns well with the principles of software craftsmanship and code quality.",
-    "level": "Secondary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses a specific technical problem related to ASP.NET controls and provides a code solution, which aligns with software craftsmanship. However, it lacks a broader discussion on best practices, principles, or methodologies that contribute to high-quality software development. The focus is primarily on a coding issue rather than a comprehensive exploration of technical mastery.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -577,11 +583,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T02:28:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:08:38",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a specific code solution related to ASP.NET controls, including methods for timer handling and control searching, which are directly relevant to software development practices.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses a specific coding problem related to ASP.NET, including a code snippet that provides a solution. It directly addresses a software development issue and offers a practical coding solution, which aligns with the Software Development category. However, while it provides a decent level of detail, it lacks broader discussions on methodologies or best practices, which limits its depth of discussion. The mention of potential inefficiencies in the code hints at a desire for improvement, but it does not delve into systematic approaches or frameworks that guide software development.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -730,12 +739,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:43:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a coding solution and includes suggestions for improving code efficiency, which aligns with software craftsmanship, making engineering excellence a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a specific coding problem and solution related to ASP.NET controls, which does not directly address broader themes of engineering excellence such as software craftsmanship, best practices, or continuous improvement. While it does touch on coding practices, the discussion lacks depth and does not promote high standards or a culture of excellence in software development.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -775,12 +787,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:09:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:08:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses a practical problem-solving approach to handling timers in ASP.NET controls and provides code solutions, which aligns with pragmatic thinking in a programming context.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a practical coding problem and provides a solution, which aligns with pragmatic thinking. However, it lacks a broader discussion on Agile, Scrum, or DevOps principles, and the focus is primarily on a specific coding issue rather than a comprehensive exploration of pragmatic strategies in complex environments.",
+    "level": "Quaternary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1153,12 +1168,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T02:28:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:06:30",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a specific technical issue with ASP.NET controls and provides a resolution through a code-based solution. It details the problem with timers and DropDownLists, outlines a method for finding controls, and even updates the original problem-solving approach with a new solution, directly relating to troubleshooting in a software context.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content discusses a specific issue related to ASP.NET controls and provides a code solution to address the problem of timers interfering with dropdown lists. While it does not explicitly label the discussion as 'troubleshooting', it aligns with the category by identifying a technical issue and proposing a method to resolve it. The depth of the discussion includes code examples and a personal update on the resolution, which adds to the overall context of troubleshooting. However, the primary focus is on the implementation rather than a systematic troubleshooting methodology, which slightly lowers the confidence score.",
+    "level": "Tertiary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1198,12 +1216,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:53:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily focuses on a specific coding solution related to ASP.NET, which is relevant to software developers. However, it does not discuss Agile or DevOps frameworks, making the topic a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a specific technical problem related to ASP.NET controls and provides a code solution. While it does touch on aspects of software development, such as code efficiency and control management, it lacks direct references to Agile or DevOps methodologies. The discussion is more about a coding challenge than the role of software developers within Agile or DevOps frameworks, leading to a lower confidence score in alignment with the category.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

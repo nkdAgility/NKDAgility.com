@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T18:49:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:06:21",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the configuration of Test Plans in TFS 2012.2, detailing practical techniques and workarounds for effective tool usage, which aligns well with the category focus.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed exploration of configuring Test Plans in TFS 2012.2, which directly relates to practical tooling in Agile and DevOps environments. It discusses specific configurations, workarounds, and implications for team performance, aligning well with the core themes of the category. The depth of discussion is substantial, covering various scenarios and configurations, which enhances its relevance to the category.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T18:49:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:48:28",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the configuration of Test Plans in TFS 2012.2, providing detailed instructions and workarounds for specific configuration issues, which aligns well with the Install and Configuration category.",
+    "final_score": 80.0,
+    "reasoning": "The content provides detailed instructions on configuring Test Plans in TFS 2012.2, including specific steps and considerations for setup. It discusses the importance of matching area paths and team configurations, which are critical for proper installation and configuration. The depth of discussion is significant, covering various scenarios and workarounds, indicating a strong alignment with the category's focus on actionable installation and configuration guidance.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -280,11 +286,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T18:50:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:50:09",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses configuring Test Plans within TFS (Team Foundation Server), which is part of the Azure DevOps suite. It provides specific details on how to manage Test Plans, including area paths and team configurations, aligning well with Azure DevOps functionalities.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on configuring Test Plans within TFS (Team Foundation Server), which is a component of Azure DevOps. It discusses specific configurations, challenges, and workarounds related to Test Plans, aligning well with Azure DevOps functionalities. The depth of discussion is significant, providing detailed insights into the configuration process and its implications for team workflows. However, while it is closely related to Azure DevOps, the mention of TFS may slightly detract from the direct focus on Azure DevOps as a whole, hence the high but not perfect confidence score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -343,12 +352,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T18:50:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:39:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses configuring Test Plans within TFS, which is a tool used in the application lifecycle management process. It addresses aspects of application governance, configuration management, and the integration of teams within the application lifecycle, making it a central theme.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on configuring Test Plans within TFS 2012.2, which is a specific aspect of application lifecycle management. While it discusses the management of test plans and their configurations, it lacks a broader discussion on the entire application lifecycle, governance, or integration of methodologies like Agile or DevOps. The depth of discussion is limited to technical configurations rather than strategic management practices, resulting in a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -370,12 +382,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T19:44:32",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T10:29:45",
+    "ai_confidence": 42.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses configuring Test Plans in TFS 2012.2, which touches on technical aspects of software management and quality assurance, but it primarily focuses on practical configuration issues rather than broader principles of software craftsmanship or architecture.",
-    "level": "Secondary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on configuring Test Plans in TFS 2012.2, which involves technical details and specific configurations relevant to software testing practices. While it discusses some technical aspects, such as area paths and team configurations, it lacks a broader discussion on software craftsmanship principles, clean code, or architectural best practices. The depth of discussion is moderate, providing practical insights but not delving into overarching methodologies or principles of software engineering excellence.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -730,11 +745,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-07T15:06:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "While the content discusses configuring Test Plans in TFS, it largely focuses on specific configurations and workarounds rather than broader principles of software craftsmanship, coding standards, or development practices. The emphasis is on operational details rather than engineering excellence.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on configuring test plans in TFS 2012.2, which is more about specific tool usage rather than broader engineering excellence principles. While it touches on aspects of software development practices, such as configuration and team management, it lacks a strong emphasis on best practices, quality assurance, or continuous improvement that are central to the category of Engineering Excellence.",
     "level": "Quaternary"
   },
   "Revenue per Employee": {
@@ -775,12 +793,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T19:44:33",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T11:54:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses practical configurations and workarounds for managing Test Plans in TFS within a team context, aligning with real-world applications and problem-solving strategies in Agile environments.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses practical configurations and workarounds for managing Test Plans in TFS 2012.2, which aligns with pragmatic problem-solving in a real-world context. However, it lacks a broader discussion on Agile or Scrum principles and does not provide in-depth strategies for navigating complexity or uncertainty, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",

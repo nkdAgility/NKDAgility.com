@@ -298,12 +298,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-18T11:35:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:38:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of finding the right trainer for an organization and hints at qualities like optimism, which are relevant to coaching, but it is not primarily focused on coaching as a central theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions the importance of perspective and connection in a team context, which aligns with coaching principles. However, it lacks explicit discussions on coaching techniques, team dynamics, or the role of a coach, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -604,12 +607,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-18T11:35:46",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content mentions the importance of finding the right fit for trainers in an organization, which relates to human factors in team dynamics and collaboration.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-07T14:31:55",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content briefly touches on the importance of individual perspectives and team dynamics, particularly through the mention of Martin's unique perspective and connection with builders. However, it lacks explicit discussions on structured methodologies or detailed exploration of team collaboration, leadership, or process improvement, which are central to the 'People and Process' category.",
+    "level": "Quaternary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -919,11 +925,14 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-18T11:35:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:33:01",
+    "ai_confidence": 67.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of choosing the right trainer and creating optimism, which is relevant to broader business contexts but does not specifically reference Agile, Scrum, DevOps, or Lean frameworks. This makes it a major theme but not central to recognized Agile practices.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses personal experiences and perspectives related to health and innovation in a tech context, which aligns with the Miscellaneous category. However, it lacks direct references to Agile, Scrum, DevOps, or Lean principles. The discussion is somewhat detailed but remains anecdotal and does not provide actionable insights or connect to established frameworks.",
     "level": "Tertiary"
   },
   "Scrum Team": {

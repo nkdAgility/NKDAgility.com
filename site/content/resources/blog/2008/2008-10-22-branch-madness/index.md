@@ -8,7 +8,7 @@ ResourceImportId: 186
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-10-22
-weight: 775
+weight: 810
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,16 +27,16 @@ aliasesArchive:
 - /blog/branch-madness-
 - /resources/blog/branch-madness
 tags:
-- Install and Configuration
-- Modern Source Control
-- Practical Techniques and Tooling
-- Application Lifecycle Management
+- Software Development
 - Azure Repos
-- Miscellaneous
 - Operational Practices
 - Pragmatic Thinking
-- Software Development
 - Troubleshooting
+- Practical Techniques and Tooling
+- Install and Configuration
+- Modern Source Control
+- Application Lifecycle Management
+- Miscellaneous
 preview: nakedalm-logo-128-link-2-1.png
 categories:
 - DevOps

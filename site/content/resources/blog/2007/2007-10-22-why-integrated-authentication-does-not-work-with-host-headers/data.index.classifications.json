@@ -55,12 +55,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:14:36",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses a specific issue related to the configuration of Integrated Authentication on Team Foundation Server, which falls under installation and configuration topics. However, the primary focus is on troubleshooting a specific error rather than providing a comprehensive guide or step-by-step instructions.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses a specific issue related to Integrated Authentication and its interaction with host headers in a Team Foundation Server (TFS) environment. While it does touch on a technical problem that could be relevant to installation and configuration, the primary focus is on troubleshooting a specific error rather than providing a comprehensive guide or detailed installation/configuration instructions. The mention of a fix and the context of server setup indicates some alignment with the category, but the depth of discussion is limited to a single issue rather than broader installation or configuration practices.",
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -325,12 +328,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:01:21",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content includes a brief mention of collaboration with a team member to solve a technical issue, highlighting human interaction in a technical context, but the primary focus is on a technical problem and its resolution.",
-    "level": "Tertiary"
+    "final_score": 24.0,
+    "reasoning": "The content briefly mentions a collaboration with a team member to resolve a technical issue, which touches on human interaction. However, the primary focus is on a technical problem related to Integrated Authentication and does not delve into team dynamics, leadership, or process methodologies. The discussion lacks depth and does not align closely with the core themes of the 'People and Process' category.",
+    "level": "Quaternary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -946,12 +952,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:49:24",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific technical issue related to Integrated Authentication on TFS and IIS, along with troubleshooting and solutions, which can be considered a technical mastery topic but is more focused on a particular problem rather than broader principles of software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses a specific technical issue related to Integrated Authentication and its interaction with IIS and Windows Server configurations. While it touches on a technical problem and provides a solution, it lacks a broader discussion on software craftsmanship, best practices, or methodologies that contribute to high-quality software development. The focus is primarily on troubleshooting a specific error rather than exploring principles of clean code, architecture, or engineering practices.",
+    "level": "Quaternary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1081,12 +1090,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T20:41:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:18:50",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses a specific issue related to Windows Server 2003 SP1 and Windows XP SP2, including error messages and Integrated Authentication configurations, which are central topics related to the Windows operating system.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content primarily discusses a specific issue related to Integrated Authentication on Windows Server 2003 and Windows XP, which directly aligns with the Windows operating system. It provides a detailed explanation of the problem, including error codes and the context of the issue, demonstrating a strong understanding of Windows functionalities. The mention of service packs and security features further solidifies its relevance to the Windows category. Overall, the content is focused and provides substantial detail, justifying a high confidence score.",
+    "level": "Primary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1099,11 +1111,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T20:41:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:15:11",
+    "ai_confidence": 85.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the identification and resolution of a specific technical issue related to Integrated Authentication and error 401.1 in a TFS environment, including troubleshooting steps and a solution from Microsoft.",
+    "final_score": 76.0,
+    "reasoning": "The content explicitly discusses a specific technical issue (error 401.1) related to Integrated Authentication on IIS, which aligns directly with troubleshooting. It provides a detailed account of the problem, the context in which it occurs, and the resolution found through collaboration with a colleague. The discussion includes practical insights into diagnosing the issue and references a Microsoft support article that addresses the problem, demonstrating a clear focus on identifying and resolving a technical issue. The depth of the discussion is substantial, as it not only describes the problem but also reflects on past experiences with similar issues, enhancing the troubleshooting narrative.",
     "level": "Secondary"
   },
   "Entrepreneurship": {

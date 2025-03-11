@@ -55,11 +55,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T18:36:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:16:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content provides information on setting up the TFS Sticky Buddy application, including system requirements and initial setup instructions, which aligns with the category focus on installation and configuration.",
+    "final_score": 66.0,
+    "reasoning": "The content provides a brief overview of the installation process for the TFS Sticky Buddy application, including system requirements and a mention of setting up a Team Foundation Server. However, it lacks detailed step-by-step instructions and troubleshooting guidance, which are crucial for a higher confidence score in the Install and Configuration category.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -289,12 +292,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:13:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:59:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a proof of concept related to Team Foundation Server (TFS), which is part of the Azure DevOps suite, but the primary focus is on the specific application and its usage rather than broader Azure DevOps functionalities.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a proof of concept related to Team Foundation Server (TFS), which is part of the Azure DevOps suite. However, it lacks a detailed exploration of Azure DevOps functionalities, best practices, or methodologies. While TFS is mentioned, the discussion does not delve into CI/CD practices or integration with other Azure DevOps tools, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -343,11 +349,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:13:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:47:34",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific software product (TFS Sticky Buddy) and its features, which aligns with the category, but it lacks a broader analysis or review of Agile methodologies or DevOps practices.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily discusses a specific software product, the TFS Sticky Buddy, and provides details about its release and usage. However, it lacks in-depth analysis or reviews that would typically align with the category's focus on literature and methodologies related to Agile and DevOps. While it mentions system requirements and usage instructions, it does not engage in broader discussions about Agile principles or provide insights into how this product enhances Agile practices.",
     "level": "Tertiary"
   },
   "Product Management": {
@@ -946,12 +955,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:13:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a proof of concept release for a digital dashboard project using Windows Forms, which is relevant to software engineering but does not deeply engage with broader principles or practices of technical mastery.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the release of a proof of concept for a specific software project, with limited discussion on broader technical mastery principles. While it mentions system requirements and provides a brief overview of usage, it lacks in-depth exploration of software craftsmanship, best practices, or methodologies that contribute to high-quality software development.",
+    "level": "Quaternary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1225,12 +1237,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-16T18:45:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:13:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the release of a specific proof of concept for a software project, detailing its usage and associated requirements, which aligns well with the release management category.",
-    "level": "Secondary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses a specific software release (TFS Sticky Buddy POC) and provides details about its availability and usage. However, it lacks a comprehensive discussion on release management strategies, practices, or metrics. While it mentions the release itself, it does not delve into the planning, scheduling, or coordination aspects that are central to release management.",
+    "level": "Quaternary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",

@@ -23,12 +23,9 @@ aliasesArchive:
 - /change-of-plan
 - /resources/blog/change-of-plan
 tags:
-- Code and Complexity
 - Pragmatic Thinking
 - Software Development
-- Technical Mastery
 - Troubleshooting
-- Working Software
 categories: []
 preview: metro-sharepoint-128-link-1-1.png
 

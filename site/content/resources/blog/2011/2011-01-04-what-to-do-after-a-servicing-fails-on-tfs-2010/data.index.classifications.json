@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T00:05:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:33:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for troubleshooting and resolving issues with TFS 2010, including specific commands and hotfixes, which aligns well with the category's focus on practical application of tools and methodologies.",
+    "final_score": 66.0,
+    "reasoning": "The content provides a detailed account of troubleshooting and resolving issues related to TFS 2010, including specific commands and hotfixes. It discusses practical techniques for managing a large TFS deployment and highlights the importance of careful tool usage, which aligns well with the category's focus on practical application of tooling. However, while it does mention specific tools and methodologies, the discussion is somewhat anecdotal and lacks broader insights into Agile or DevOps practices, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T00:05:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:02:50",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration challenges faced during an upgrade of TFS 2010, including troubleshooting steps and commands used to recover the system, which aligns well with the category.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the installation and configuration challenges faced during an upgrade of TFS 2010, detailing specific hotfixes, commands, and troubleshooting steps. It provides actionable insights into the installation process, including the use of commands like 'TFSConfig Recover' and the implications of schema versions. The depth of discussion is significant, as it covers the entire upgrade process, issues encountered, and potential solutions, aligning well with the key topics of the category.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-10T13:02:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses a specific issue related to TFS (Team Foundation Server) and its upgrade process, which touches on aspects of software deployment and management. However, it primarily focuses on troubleshooting and specific technical problems rather than broader DevOps principles, practices, or cultural shifts.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific issue related to TFS (Team Foundation Server) and its upgrade process, which touches on aspects of deployment and operational challenges. However, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. While it mentions troubleshooting and recovery processes, it does not delve into automation, CI/CD, or collaboration between teams, which are core to the DevOps category.",
     "level": "Quaternary"
   },
   "Miscellaneous": {
@@ -280,11 +289,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-16T00:06:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:01:33",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues and solutions related to Team Foundation Server (TFS), which is a component of Azure DevOps, focusing on upgrade challenges and recovery processes.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses issues related to Team Foundation Server (TFS), which is a component of Azure DevOps. It provides a detailed account of a specific upgrade scenario, including troubleshooting steps and commands relevant to TFS. While it does not explicitly cover broader Azure DevOps functionalities, it aligns well with the category by focusing on a specific service within Azure DevOps and offering insights into best practices and problem-solving approaches. The depth of discussion is significant, detailing the challenges faced during the upgrade process and the solutions attempted.",
     "level": "Secondary"
   },
   "Personal": {
@@ -370,11 +382,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T00:57:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:49:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a complex technical issue involving TFS 2010 server upgrades, hotfixes, and database management, highlighting technical troubleshooting methods and the implications of software maintenance and schema management.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific technical issue related to TFS 2010 and the challenges faced during an upgrade, which touches on aspects of software craftsmanship and problem-solving. However, it primarily focuses on a specific case study rather than broader principles of software design, architecture, or best practices. While it does provide some insights into troubleshooting and technical decision-making, it lacks a comprehensive exploration of the methodologies or principles that define technical mastery.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -730,12 +745,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-07T15:33:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content discusses a technical issue regarding TFS (Team Foundation Server) upgrade and troubleshooting, which touches on aspects of software development practices. While it primarily focuses on a specific case and problem resolution, it does implicate best practices in handling software upgrades and managing system configurations, aligning it somewhat with engineering excellence themes.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific technical issue related to TFS 2010 and the challenges faced during an upgrade, which touches on aspects of software craftsmanship and problem-solving. However, it lacks a broader discussion on best practices, continuous improvement, or engineering processes that are central to the category of Engineering Excellence. The focus is primarily on a specific incident rather than a comprehensive exploration of engineering excellence principles.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -775,11 +793,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-16T00:57:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:39:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content provides a detailed account of troubleshooting and problem-solving in a complex TFS upgrade scenario, illustrating practical strategies and the importance of real-world application, which aligns well with pragmatic thinking.",
+    "final_score": 70.0,
+    "reasoning": "The content provides a detailed account of a real-world problem encountered during a TFS upgrade, showcasing practical problem-solving strategies and the application of experience-based decision-making. It discusses specific issues faced, the steps taken to resolve them, and the eventual decision to abandon the repaired database due to potential future problems. This aligns well with the core themes of pragmatic thinking, particularly in the context of navigating complexity and uncertainty in project management. The depth of discussion is significant, as it includes technical details and considerations that reflect a pragmatic approach to problem-solving.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -1099,11 +1120,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T00:57:51",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T12:04:29",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the upgrade and troubleshooting of TFS 2010, which is a product that runs on Windows. While it is primarily about TFS, it intersects with Windows environment management and issues that might arise during installation and servicing in a Windows context.",
+    "final_score": 77.0,
+    "reasoning": "The content primarily discusses issues related to Team Foundation Server (TFS) 2010, which operates within the Windows environment. It includes specific references to hotfixes and patches that are relevant to Windows, as well as troubleshooting steps that are directly applicable to Windows users. The depth of discussion is significant, detailing the upgrade process, problems encountered, and solutions attempted, which aligns well with the core themes of the Windows category. However, while the content is focused on Windows, it is somewhat specific to TFS and may not cover broader Windows operating system topics extensively.",
     "level": "Secondary"
   },
   "Deployment Strategies": {

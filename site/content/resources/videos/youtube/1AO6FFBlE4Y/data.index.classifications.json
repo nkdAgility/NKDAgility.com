@@ -82,12 +82,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T12:48:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of poor quality code on productivity and brand reputation, which relates to product management. However, the primary focus is on technical implementation and engineering practices rather than strategic product management methodologies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the implications of poor quality code on productivity and brand reputation, which are relevant to product management. However, it primarily focuses on technical aspects and engineering practices rather than strategic product management methodologies or frameworks. While it touches on the importance of delivering value to customers, it lacks a direct focus on product management principles, making it a secondary discussion rather than a primary one.",
+    "level": "Quaternary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -127,11 +130,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-12T12:11:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T11:36:40",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the impact of poor quality code on productivity, brand reputation, and the ability to deliver features, which aligns closely with the principles of working software. It highlights the importance of maintaining high-quality software and the benefits of iterative development and addressing technical debt, making it a central theme.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the implications of poor quality code and its impact on productivity, brand reputation, and the ability to deliver features, which aligns with the importance of working software. It highlights the need for high-quality, functional software and the benefits of addressing technical debt, which are core themes of the category. However, while it touches on these aspects, the primary focus is on the costs associated with poor quality rather than a direct discussion of working software itself, leading to a high confidence score but not a perfect one.",
     "level": "Secondary"
   },
   "Decision Making": {
@@ -316,11 +322,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-12T12:11:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:53:59",
+    "ai_confidence": 87.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the impact of poor engineering practices on productivity, brand reputation, and the importance of high-quality code. It highlights principles such as refactoring, the cost of technical debt, and the benefits of improving engineering practices, which align closely with the key topics of the Engineering Practices category.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the implications of poor quality code and the importance of engineering practices, such as refactoring, automation, and the impact of branching strategies on productivity. It highlights the benefits of improving engineering practices, including increased productivity and brand reputation, which aligns closely with the core themes of clean code and continuous improvement in Agile methodologies. The depth of discussion is significant, providing detailed examples and outcomes from real-world scenarios, thus reinforcing its relevance to the category.",
     "level": "Secondary"
   },
   "Portfolio Management": {
@@ -334,11 +343,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T12:11:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T17:50:25",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the impacts of poor quality code on software development processes, including productivity, technical debt, and engineering practices, which are central themes in software development.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the implications of poor quality code on productivity, brand reputation, and engineering practices, which are all critical aspects of software development. It highlights specific methodologies and practices, such as the importance of maintaining a single version of a product, the impact of branching strategies, and the need for continuous improvement in engineering excellence. The depth of the discussion is significant, providing detailed examples and case studies, particularly around the Azure DevOps team's experience, which illustrates the benefits of addressing technical debt and improving code quality. Overall, the content aligns closely with the core themes of software development, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -463,11 +475,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-12T12:12:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T00:17:48",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the impact of poor quality code on productivity, brand reputation, and engineering practices, which are central to the role of software developers. It explores how developers can improve their practices to enhance productivity and quality of software delivery, aligning well with Agile and modern engineering methodologies.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the implications of poor quality code and its impact on productivity, team dynamics, and brand reputation, which are relevant to software developers. However, it lacks a direct focus on Agile or DevOps methodologies, and while it touches on engineering practices, it does not delve deeply into specific Agile or DevOps principles. The discussion is more about the consequences of poor practices rather than how developers can leverage Agile or DevOps to improve their work.",
     "level": "Secondary"
   },
   "Test First Development": {
@@ -553,11 +568,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T12:12:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T09:49:22",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical problem-solving strategies related to poor quality code and its impacts on productivity, brand reputation, and engineering practices, aligning well with the themes of pragmatic thinking in Agile and DevOps contexts.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the practical implications of poor quality code and its impact on productivity, brand reputation, and overall project management. It provides real-world examples, such as the case of CrowdStrike and the Azure DevOps team, illustrating how addressing technical debt and improving engineering practices can lead to significant productivity gains and better outcomes. The focus on practical problem-solving strategies and the integration of lessons learned from experience aligns well with the core themes of Pragmatic Thinking. However, while the content is rich in examples and insights, it does not explicitly mention Agile, Scrum, or DevOps frameworks, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -706,11 +724,14 @@
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-12T12:12:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:12:58",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the implications of poor quality code and the long-term costs associated with technical debt, including lost productivity and missed opportunities. It highlights the importance of addressing technical debt to improve team velocity and product quality, making it a central theme throughout the discussion.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the implications of poor quality code, which directly relates to technical debt. It highlights the costs associated with maintaining multiple versions of a product, the cognitive load on engineers, and the long-term impacts of past design decisions. The narrative includes specific examples of how addressing technical debt can lead to improved productivity and brand reputation, aligning well with the core themes of the category. The depth of discussion is significant, providing detailed insights into the consequences of neglecting technical debt and the benefits of remediation strategies.",
     "level": "Secondary"
   },
   "Scrum Values": {
@@ -1231,20 +1252,26 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-12T12:10:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:33:15",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 27.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the impact of poor quality code on productivity, brand reputation, and the ability to deliver features, which aligns with the principles of iterative development and maximising customer value. It highlights the importance of engineering excellence and continuous improvement in delivering value to customers.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the impact of poor quality code on productivity, brand reputation, and customer satisfaction, which aligns with the principles of value delivery. It highlights the importance of addressing technical debt and improving engineering practices to enhance value delivery. However, while it touches on relevant themes, the primary focus is more on the consequences of poor quality rather than specific strategies or methodologies for value delivery within Agile or DevOps frameworks.",
     "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T12:10:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:48:38",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 27.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the impact of poor quality code on productivity, brand reputation, and the importance of engineering practices that enhance code quality and delivery efficiency. It highlights specific practices such as reducing technical debt, improving testing processes, and the benefits of maintaining a single version of a product, which align closely with the principles of Technical Excellence.",
+    "final_score": 79.0,
+    "reasoning": "The content discusses the implications of poor quality code and the importance of engineering practices that enhance productivity and quality. It mentions specific practices like reducing branching strategies and the impact of technical debt on productivity and brand reputation. However, while it touches on relevant themes such as the need for high-quality code and the consequences of neglecting engineering practices, it lacks a focused discussion on specific methodologies like TDD or CI/CD. The depth of technical discussion is moderate, primarily highlighting the consequences rather than providing detailed methodologies or practices.",
     "level": "Secondary"
   },
   "Organisational Agility": {

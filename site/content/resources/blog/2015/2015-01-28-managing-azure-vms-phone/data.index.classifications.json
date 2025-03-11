@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T23:01:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:38:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the use of the Mobile Azure Manager app for managing Azure virtual machines, which aligns with practical techniques and tooling in the context of cloud services and DevOps practices.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the use of the Mobile Azure Manager app to manage Azure virtual machines, which directly relates to practical tooling in a DevOps context. It provides specific examples of how the app enhances the management of VMs, including features like starting and stopping machines, and discusses the author's personal experience with the tool. While it does not delve deeply into methodologies or frameworks, it effectively illustrates a practical application of a tool that supports Agile and DevOps practices, thus aligning well with the category.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:36:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses managing Azure virtual machines, which relates to DevOps practices, but primarily focuses on the use of a mobile application rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses managing Azure virtual machines, which relates to operational aspects of DevOps, but it lacks a focus on broader DevOps principles such as CI/CD, automation, or cultural shifts. While it mentions tools and processes for managing VMs, it does not delve into the integration of development and operations or the collaborative practices that define DevOps.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -145,12 +151,15 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:48:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses training courses and experiences related to managing Azure VMs, which suggests a connection to events, but the primary focus is on the application and its features rather than on formal presentations or structured learning experiences.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the use of a mobile application for managing Azure virtual machines, with a brief mention of training sessions conducted. While it references teaching and training, it lacks a direct focus on formal events or presentations related to Agile, DevOps, or software engineering. The discussion is more about personal experiences and practical applications rather than insights or knowledge sharing from structured events, which diminishes its alignment with the category.",
+    "level": "Quaternary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -208,11 +217,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-10T18:31:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content primarily discusses the use of a mobile application for managing Azure virtual machines, which is more focused on operational aspects rather than engineering practices or methodologies that enhance agility in software development.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on managing Azure virtual machines through a mobile application, which is more about operational efficiency than technical excellence in engineering practices. While it briefly mentions PowerShell scripts and the management of VMs, it lacks in-depth discussion on methodologies like TDD, CI/CD, or modular architecture. The alignment with the core themes of technical excellence is weak, as the content does not delve into principles that enhance agility or high-quality engineering practices.",
     "level": "Quaternary"
   },
   "Complexity Thinking": {
@@ -262,11 +274,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-14T23:02:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:36:20",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the Mobile Azure Manager app, providing a review of its features and practical applications for managing Azure virtual machines, which aligns with the category's focus on tools and software relevant to Agile and DevOps practices.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on the Mobile Azure Manager app, providing a detailed review of its features and functionalities. It discusses how the app aids in managing Azure virtual machines, which aligns with the category's focus on tools that facilitate Agile practices and DevOps integration. However, while the app is relevant, the discussion lacks depth in terms of broader Agile or DevOps methodologies and does not reference any literature or books, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Value Delivery": {
@@ -730,12 +745,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-07T14:38:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content primarily discusses the use of a mobile application for managing Azure virtual machines, which is more focused on operational efficiency rather than engineering excellence or software craftsmanship principles.",
-    "level": "Quaternary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on managing Azure virtual machines through a mobile application, which is more about operational efficiency than engineering excellence. While it touches on aspects of automation and cloud management, it lacks a direct discussion on software craftsmanship, coding standards, or continuous improvement practices. The mention of PowerShell scripts and managing VMs hints at technical practices but does not delve into best practices or principles of software engineering, resulting in a low confidence score.",
+    "level": "Quinary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -775,11 +793,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:22:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical problem-solving strategies for managing Azure VMs, which aligns with pragmatic thinking in a real-world context, but it is primarily focused on the use of a specific application rather than broader Agile or DevOps principles.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses practical solutions for managing Azure VMs, which aligns with pragmatic thinking in a technical context. However, it lacks a strong focus on Agile, Scrum, or DevOps frameworks, and does not delve deeply into problem-solving strategies or case studies. The mention of using a mobile app for efficiency is relevant but does not fully explore the complexities of project management or decision-making processes.",
     "level": "Tertiary"
   },
   "Backlog Refinement": {
@@ -1198,11 +1219,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-10T14:41:19",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content primarily discusses managing Azure virtual machines and the use of a mobile application for this purpose, which is not directly related to the role of software developers in Agile or DevOps contexts.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses managing Azure virtual machines through a mobile application, which is more focused on cloud management rather than the role of software developers in Agile or DevOps contexts. While there are mentions of training and tools related to software development, the discussion lacks depth in Agile methodologies, DevOps principles, or modern engineering practices. The content does not explicitly address the core themes of the category, leading to a low confidence score.",
     "level": "Quaternary"
   },
   "Coaching": {

@@ -25,10 +25,8 @@ preview: https://i.ytimg.com/vi/-T1e8hjLt24/maxresdefault.jpg
 duration: 58
 isShort: true
 tags:
-- Continuous Learning
 - Discovery and Learning
-- Products and Books
-- Miscellaneous
+- Continuous Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -172,11 +172,14 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-16T20:39:25",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T13:20:14",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses Microsoft's plans for a hosted TFS model and provides insights into user needs and potential improvements, making it relevant to industry updates and evaluations.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses Microsoft's plans for a hosted version of TFS, which aligns with industry news regarding DevOps tools. It provides insights into user needs and expectations, reflecting on the current state of TFS and its marketability. However, while it touches on relevant topics, the discussion lacks depth and does not provide a comprehensive review or analysis of the tools mentioned.",
     "level": "Secondary"
   },
   "Product Delivery": {
@@ -289,12 +292,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:50:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS), which is a component of Azure DevOps, but the primary focus is on user feedback and marketing aspects rather than specific functionalities or practices of Azure DevOps.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS), which is a component of Azure DevOps, but it primarily focuses on user experiences and opinions rather than providing insights into Azure DevOps functionalities or best practices. While TFS is mentioned, the discussion lacks depth in terms of CI/CD practices, integration, or agile methodologies specific to Azure DevOps.",
+    "level": "Quaternary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -343,11 +349,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:15:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the hosted option for TFS and its implications for users, which relates to a product but does not primarily focus on reviews or analyses of products or literature.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the hosted option for Team Foundation Server (TFS) and expresses excitement about its potential benefits for companies. However, it primarily focuses on a specific product (TFS) without providing a detailed review or analysis of literature or methodologies related to Agile or DevOps. The discussion is more about the product's features and marketability rather than a comprehensive exploration of Agile principles or related literature, which limits its alignment with the category.",
     "level": "Tertiary"
   },
   "Product Management": {
@@ -568,12 +577,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:16:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS), which is relevant to software development practices and tools that developers might use, but the focus is on Microsoft and features, making it a secondary theme rather than a primary discussion on the role of software developers in Agile or DevOps.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS) and its implications for software development, which is relevant to software developers. However, it lacks a direct focus on Agile or DevOps methodologies, and the discussion is more about TFS features and marketability rather than best practices or developer roles within Agile frameworks. The depth of discussion is limited to TFS without exploring broader themes of collaboration or productivity enhancement in software development.",
+    "level": "Quaternary"
   },
   "Software Development": {
     "category": "Software Development",
@@ -1216,12 +1228,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:02:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical concerns and ideas related to Team Foundation Server (TFS), which hints at applying real-world context in software project management. However, it is not primarily focused on pragmatic problem-solving strategies in Agile or Scrum environments.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the need for practical features in TFS to enhance its marketability, which aligns with pragmatic thinking in terms of applying real-world needs to software development. However, it lacks a direct focus on Agile, Scrum, or DevOps frameworks, and the discussion is more about user feedback and feature requests rather than specific problem-solving strategies or case studies. The depth of discussion is moderate, as it outlines specific requirements but does not delve deeply into how these could be implemented or their implications in a broader context.",
+    "level": "Quaternary"
   },
   "Release Management": {
     "category": "Release Management",

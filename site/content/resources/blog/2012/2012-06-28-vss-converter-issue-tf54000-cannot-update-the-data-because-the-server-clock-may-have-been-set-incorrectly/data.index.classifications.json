@@ -73,11 +73,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:55:48",
+    "ai_confidence": 55.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses an issue related to the installation and configuration process of VSS Converter and Team Foundation Server, but it primarily focuses on a specific error rather than providing a comprehensive guide or instructions.",
+    "final_score": 50.0,
+    "reasoning": "The content discusses a specific error encountered during the installation or migration process of VSS Converter and provides a workaround. While it does not offer a comprehensive guide on installation or configuration, it addresses a technical issue related to the configuration of server time settings during a migration, which aligns with the category's focus. However, the depth of discussion is limited to a specific error and workaround, lacking broader installation or configuration insights.",
     "level": "Tertiary"
   },
   "Transparency and Accountability": {
@@ -577,12 +580,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:34:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific error related to VSS (Visual SourceSafe) and Team Foundation Server during a software data migration process, which is related to software development practices, but is more focused on troubleshooting rather than broader software development methodologies or principles.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific error encountered during a software migration process involving Visual Studio Team Foundation Server (TFS). While it does not explicitly mention broader software development methodologies or practices, it aligns with the category by addressing a technical issue related to software development tools and processes. The depth of discussion is moderate, providing a workaround for the error, but lacks extensive detail on software development practices or methodologies.",
+    "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -1045,12 +1051,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:44:24",
+    "ai_confidence": 45.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific issue related to a system operation (TF54000 error) that can be related to system configuration and time synchronization, indicating a significant but secondary theme of configuration management during a migration process.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses a specific error related to system configuration during a migration process, particularly focusing on time synchronisation issues that can affect data updates. While it does touch on a configuration-related problem, the discussion is more about troubleshooting a specific error rather than a comprehensive exploration of system configuration practices or methodologies. Therefore, it has some relevance but lacks depth and broader alignment with the category's key topics.",
+    "level": "Quaternary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1099,11 +1108,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:56:12",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an issue related to Visual Studio and Team Foundation Server, which are part of the Windows ecosystem, but the primary focus is on a specific error during data migration rather than general Windows operating system topics.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific error (TF54000) related to Visual Studio Team Foundation Server (TFS) and its interaction with time synchronisation, which is relevant to Windows environments. However, it does not explicitly focus on Windows as an operating system, nor does it cover broader topics such as installation, configuration, or troubleshooting of Windows itself. The mention of Active Directory suggests a Windows context, but the primary focus is on TFS and VSS Converter, which limits the depth of discussion regarding Windows. Therefore, while there is some relevance, it does not fully align with the core themes of the Windows category.",
     "level": "Tertiary"
   },
   "Deployment Strategies": {
@@ -1153,11 +1165,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T21:31:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:20:01",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content clearly addresses a specific technical issue (TF54000 error during VSS import) and provides a diagnosis of its cause as well as a workaround, making troubleshooting the central topic.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses a specific error (TF54000) encountered during a VSS import, detailing the issue and its root cause related to server clock synchronisation. It provides a clear workaround, which aligns well with troubleshooting methodologies. The depth of discussion includes the identification of the problem, its implications, and a practical solution, demonstrating a strong focus on diagnosing and resolving a technical issue.",
     "level": "Secondary"
   },
   "Experimentation": {

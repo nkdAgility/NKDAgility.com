@@ -73,11 +73,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T02:29:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:44:20",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the installation and upgrade process of TFS 2010, including specific errors encountered during the configuration related to SQL collation, which aligns with the key topics of installation and configuration.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on the installation and upgrade process of TFS 2010, detailing specific errors encountered during the upgrade due to SQL collation mismatches. It provides a clear account of the installation challenges faced, which aligns well with the category's focus on installation and configuration. The mention of specific error messages and the proposed solution of reinstalling everything indicates a depth of discussion that is relevant to troubleshooting installation issues. Overall, the content is highly relevant to the category, with a strong emphasis on practical installation and configuration challenges.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:44:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to upgrading Team Foundation Server (TFS), which is a tool used in DevOps practices, but the primary focus is on technical errors and solutions rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses an upgrade process related to Team Foundation Server (TFS) and SQL Server, which are tools often used in DevOps environments. However, it primarily focuses on a specific technical issue (collation mismatch) rather than broader DevOps principles or practices. While there are mentions of TFS, the discussion lacks depth in terms of DevOps concepts such as CI/CD, automation, or cultural shifts, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -577,11 +583,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T10:29:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:43:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to upgrading Team Foundation Server (TFS) and SQL collation conflicts, which are relevant to software development practices and operations.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific issue related to upgrading Team Foundation Server (TFS) and SQL collation, which is relevant to software development practices, particularly in the context of version control and deployment. However, while it touches on a technical problem and solution, it lacks broader discussions on methodologies or best practices in software development, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1045,11 +1054,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T10:29:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:06:54",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses installation and configuration issues related to TFS 2010 and SQL Server, particularly focusing on a collation conflict during the upgrade process. It addresses specific configuration challenges and potential solutions, making it highly relevant to the topic of system configuration.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the installation and upgrade process of TFS 2010, including specific issues related to SQL collation mismatches, which directly pertains to system configuration. It provides detailed error messages and troubleshooting steps, demonstrating a clear focus on configuration challenges and solutions. The depth of discussion is significant, as it outlines the problems encountered during the upgrade and suggests a solution involving reinstallation and collation adjustments, aligning well with the key topics of system optimisation and troubleshooting. Overall, the content is highly relevant to the category, with a strong emphasis on practical configuration issues.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1099,11 +1111,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T10:29:11",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T13:09:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 30,
-    "final_score": 66.0,
-    "reasoning": "Content discusses issues related to the installation and upgrade of TFS 2010 on Windows servers, which is a major topic around Windows management. However, it primarily focuses on the TFS and SQL collation errors, making Windows a secondary theme.",
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the installation and upgrade process of Team Foundation Server (TFS) 2010, which is closely related to the Windows operating system environment. It explicitly mentions issues encountered during the upgrade, including SQL Server collation conflicts, which are relevant to Windows server management. The discussion aligns well with the core themes of installation, troubleshooting, and configuration within the Windows ecosystem. However, while it provides substantial detail on the specific problem, it does not cover broader Windows topics such as performance optimisation or security features, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
@@ -1153,11 +1168,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T10:29:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:53:59",
+    "ai_confidence": 85.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses an issue related to collation conflict when upgrading TFS, providing specific error messages and a proposed solution, focusing on diagnosing and resolving a technical issue.",
+    "final_score": 76.0,
+    "reasoning": "The content explicitly discusses a specific issue encountered during the upgrade of TFS, detailing the error messages related to SQL collation conflicts. This aligns well with the troubleshooting category as it identifies a technical problem and suggests a resolution (reinstalling and changing collation). The depth of discussion includes specific error codes and the context of the issue, demonstrating a clear focus on diagnosing and resolving a technical problem.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -1198,11 +1216,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:24",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-11T12:08:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses an issue related to upgrading TFS, but it primarily focuses on a technical error regarding SQL collation that doesn't directly engage with the role of software developers in Agile or DevOps contexts.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses a technical issue related to upgrading Team Foundation Server (TFS) and SQL collation conflicts, which is relevant to software developers. However, it lacks explicit discussion of Agile or DevOps methodologies, and the focus is primarily on a specific technical problem rather than broader practices or principles that enhance productivity or collaboration in software development.",
     "level": "Quaternary"
   },
   "Coaching": {

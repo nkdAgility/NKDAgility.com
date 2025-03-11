@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T01:58:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:42:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implementation of a WPF behaviour for scaling controls, which involves practical techniques and tooling related to MVVM and WPF frameworks.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed exploration of a specific WPF behaviour for scaling UI elements, which directly relates to practical techniques in software development. It discusses the implementation of a GlobalScaleTransformBehaviour, including code snippets and explanations of how to use attached properties and dependency properties in WPF. This aligns well with the category's focus on methodologies and frameworks that enhance development practices. The depth of discussion is substantial, covering both the code and its application, although it does not explicitly mention Agile or DevOps practices, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -37,12 +40,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:09:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:08:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses a specific implementation of WPF (Windows Presentation Foundation) and the use of attached properties for scaling UI elements, which relates to code quality and complexity in terms of maintainability and design patterns like MVVM. However, it does not deeply explore broader principles of software code quality or complexity theory.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on a specific implementation of WPF (Windows Presentation Foundation) and the use of attached properties for scaling UI elements. While it does touch on aspects of code quality through the use of dependency properties and MVVM (Model-View-ViewModel) patterns, it lacks a broader discussion on the complexities of software development processes or the principles of software code quality. The depth of technical detail is significant, but it does not sufficiently explore the interplay between code quality and complexity, which is central to the 'Code and Complexity' category.",
+    "level": "Quaternary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -208,11 +214,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T01:59:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:08:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of a WPF behaviour for scaling controls, which involves technical practices such as dependency properties and MVVM architecture. It focuses on engineering methodologies that enhance the adaptability and maintainability of the software, aligning well with the principles of Technical Excellence.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on a specific implementation of WPF (Windows Presentation Foundation) and discusses the use of attached properties and dependency properties in a technical context. While it does touch on aspects of modular architecture and the use of design patterns like MVVM, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. The technical details provided are substantial, but they do not fully align with the core themes of Technical Excellence, which requires a more comprehensive exploration of practices like TDD, CI/CD, or Agile methodologies.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -370,11 +379,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T02:46:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:05:57",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses software craftsmanship related to WPF, detailing the implementation of a scale transform behavior through the use of attached properties and dependency properties. It focuses on software design, clean code principles, and reusable components within the MVVM pattern, indicating a strong alignment with the principles of technical mastery.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on a specific implementation of WPF (Windows Presentation Foundation) and discusses the use of attached properties and dependency properties in a technical context. While it does touch on aspects of software craftsmanship, such as clean code principles and the use of MVVM (Model-View-ViewModel) architecture, the discussion lacks depth in broader software engineering practices and methodologies. The technical details provided are substantial, but they do not fully encompass the wider scope of 'Technical Mastery' as defined, which includes best practices and principles beyond just implementation.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -577,11 +589,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T02:46:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:42:30",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses WPF, including specific coding practices and techniques related to UI development in a software project, aligning well with software development topics.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed discussion on implementing a WPF behaviour for scaling UI elements, which directly relates to software development practices, particularly in the context of UI design and MVVM architecture. It includes code examples, explanations of dependency properties, and practical applications of the discussed concepts, demonstrating a strong alignment with software development methodologies and best practices.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1099,11 +1114,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T02:46:52",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T18:53:11",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 30,
-    "final_score": 66.0,
-    "reasoning": "The content primarily discusses WPF and a specific behavior related to scaling UI elements in a WPF application. While WPF is tied to the Windows environment, the main focus here is on WPF programming techniques rather than Windows OS management or features.",
+    "final_score": 77.0,
+    "reasoning": "The content primarily discusses WPF (Windows Presentation Foundation) and its implementation within the Windows operating system environment. It includes detailed code examples and explanations of how to manipulate UI elements in a Windows application, which aligns well with the key topics of installation, configuration, and customisation of Windows applications. The focus on Windows-specific technologies and controls, such as Infragistics and XAML, further supports its relevance to the Windows category. However, while the content is rich in technical detail, it does not explicitly address broader Windows OS topics like installation or troubleshooting, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Deployment Strategies": {

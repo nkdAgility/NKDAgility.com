@@ -20,19 +20,17 @@ aliasesArchive:
 - /resources/newsletters/september-2023-nkdagility-empower-your-learning-journey-with-our-referral-programme/
 categories:
 - Scrum
-- Product Management
-- Social Technologies
 tags:
 - Agile Product Management
 - Discovery and Learning
-- Professional Scrum
 - Scrum Team
-- Agile Frameworks
-- Agile Project Management
 - Continuous Learning
-- Events and Presentations
 - News and Reviews
-- People and Process
+- Product Owner
+- Products and Books
+- Customer Retention
+- Customer Satisfaction
+- Software Developers
 
 ---
 Greetings,

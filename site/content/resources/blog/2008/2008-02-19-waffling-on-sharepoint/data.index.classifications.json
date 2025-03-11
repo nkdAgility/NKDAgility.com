@@ -73,12 +73,15 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-16T18:32:29",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T13:16:04",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the challenges of writing documentation for SharePoint without technical content, which aligns with the Miscellaneous category as it does not reference specific Agile, Scrum, DevOps, or Lean frameworks.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the challenges of writing documentation for SharePoint without delving into specific Agile, Scrum, DevOps, or Lean methodologies. While it touches on the importance of documentation and the capabilities of SharePoint, it does not reference any established frameworks or practices, aligning it with the Miscellaneous category. The discussion is somewhat detailed but lacks actionable insights or a strong connection to recognised theories.",
+    "level": "Tertiary"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -721,12 +724,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T09:13:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:59:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses SharePoint's capabilities for business processes and system implementation, indicating a focus on how digital tools can be used to improve operations, which aligns with digital transformation as a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions SharePoint's capabilities and the importance of documentation, but it lacks a direct focus on digital transformation strategies or the integration of digital technologies to enhance business agility. While it touches on the potential of SharePoint, it does not delve into how such tools can transform business processes or culture, nor does it discuss metrics or challenges related to digital transformation.",
+    "level": "Quaternary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -1216,11 +1222,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:13:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:12:53",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical challenges in documenting technical processes for a non-technical audience, touching on practical problem-solving in the context of system implementation. However, it is not primarily focused on Agile, Scrum, or DevOps principles.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the challenges of writing documentation for SharePoint from a practical perspective, highlighting the need to focus on what the business values rather than technical details. While it touches on practical problem-solving in a technical context, it lacks a strong emphasis on Agile, Scrum, or DevOps frameworks, and does not provide in-depth strategies or case studies related to pragmatic thinking.",
     "level": "Tertiary"
   },
   "Release Management": {

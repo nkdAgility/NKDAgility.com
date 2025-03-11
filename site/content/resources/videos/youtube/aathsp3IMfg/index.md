@@ -32,11 +32,9 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Frameworks
-- People and Process
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 ## Empowering Teams with the APS Approach: Elevating Your Scrum Journey

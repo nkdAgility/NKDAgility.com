@@ -25,16 +25,16 @@ preview: https://i9.ytimg.com/vi/kXhJrisYofU/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 496
 isShort: false
 tags:
-- Agile Product Management
+- Business Agility
+- Value Delivery
+- Organisational Agility
 - Agile Product Operating Model
 - Agile Project Management
 - Market Adaptability
 - Agile Values and Principles
 - Change Management
-- People and Process
-- Resilience and Change
+- Enterprise Agility
 - Agile Frameworks
-- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

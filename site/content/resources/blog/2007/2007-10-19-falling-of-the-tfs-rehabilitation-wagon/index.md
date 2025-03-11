@@ -27,10 +27,9 @@ aliasesArchive:
 - /falling-of-the-tfs-rehabilitation-wagon
 - /resources/blog/falling-of-the-tfs-rehabilitation-wagon
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
-categories:
-- DevOps
+- Install and Configuration
+categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

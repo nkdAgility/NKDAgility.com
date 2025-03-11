@@ -30,11 +30,7 @@ aliasesArchive:
 - /resources/blog/sharepoint-content-request-what-would-you-like-to-see
 categories: []
 tags:
-- Practical Techniques and Tooling
-- Products and Books
-- Application Lifecycle Management
 - Miscellaneous
-- Software Development
 
 ---
 what-would-you-like-to-see-

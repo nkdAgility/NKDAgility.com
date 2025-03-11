@@ -21,16 +21,16 @@ aliasesArchive:
 categories:
 - Scrum
 tags:
+- Professional Scrum
+- Agile Frameworks
 - Agile Product Management
 - Agile Project Management
 - Product Backlog
-- Professional Scrum
 - Scrum Product Development
-- Agile Frameworks
 - Agile Planning
 - Agile Planning Tools
 - Product Owner
-- Software Development
+- Product Delivery
 
 ---
 Dive deep into the world of **Scrum's Product Backlog Management** with our meticulously crafted course. Master the nuances of understanding your product's core, engaging with stakeholders, and making data-driven decisions. Elevate your Scrum journey with insights from seasoned Professional Scrum Trainers. 🚀

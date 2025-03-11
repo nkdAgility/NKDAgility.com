@@ -30,14 +30,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Product Development
-- Transparency
-- Empirical Process Control
-- Daily Scrum
-- People and Process
-- Scrum Team
-- Transparency and Accountability
 - Professional Scrum
+- Scrum Product Development
+- Daily Scrum
+- Empirical Process Control
+- People and Process
+- Transparency
+- Agile Frameworks
+- Scrum Team
 - Scrum Master
 - Software Developers
 resourceTypes:

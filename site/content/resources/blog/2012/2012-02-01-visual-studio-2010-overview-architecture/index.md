@@ -8,7 +8,7 @@ ResourceImportId: 4191
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-02-01
-weight: 775
+weight: 810
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,6 +30,7 @@ aliasesArchive:
 - /resources/blog/visual-studio-2010-overview-architecture
 tags:
 - Software Development
+- Events and Presentations
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories:
 - Engineering Excellence

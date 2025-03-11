@@ -33,9 +33,9 @@ tags:
 - Continuous Learning
 - Discovery and Learning
 - Change Management
+- Resilience and Change
 - People and Process
 - Organisational Agility
-- Resilience and Change
 - Organisational Change
 resourceTypes:
 - video

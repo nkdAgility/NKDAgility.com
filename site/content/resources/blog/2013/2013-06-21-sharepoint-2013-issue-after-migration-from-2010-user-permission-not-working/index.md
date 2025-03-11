@@ -8,7 +8,7 @@ ResourceImportId: 9906
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-06-21
-weight: 820
+weight: 890
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,8 +30,13 @@ aliasesArchive:
 - /resources/blog/sharepoint-2013-issue-after-migration-from-2010-user-permission-not-working
 tags:
 - Troubleshooting
-categories:
-- Engineering Excellence
+- Install and Configuration
+- System Configuration
+- Software Development
+- Practical Techniques and Tooling
+- Technical Mastery
+- Technical Excellence
+categories: []
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

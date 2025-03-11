@@ -25,15 +25,15 @@ duration: 324
 isShort: false
 tags:
 - Agile Planning
-- Agile Product Management
 - Agile Project Management
 - Agile Frameworks
 - Agile Philosophy
 - Agile Transformation
-- People and Process
 - Product Delivery
 - Scrum Product Development
 - Software Developers
+- Agile Product Management
+- Empirical Process Control
 sitemap:
   filename: sitemap.xml
   priority: 0.6

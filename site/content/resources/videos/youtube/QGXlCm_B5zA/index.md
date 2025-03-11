@@ -26,10 +26,12 @@ preview: https://i.ytimg.com/vi/QGXlCm_B5zA/maxresdefault.jpg
 duration: 280
 isShort: false
 tags:
+- Scrum Master
 - People and Process
 - Agile Project Management
 - Software Development
-- Scrum Master
+- Team Performance
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -37,8 +39,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Scrum
 - Social Technologies
+- Scrum
 
 ---
 When I reflect on my journey as a Scrum Master, I often find myself revisiting the question: what will you truly learn on the Professional Scrum Master (PSM) course? This is a question I get asked frequently, and I believe there are two main insights that emerge from the Advanced PSM course that can significantly reshape your understanding and practice of Scrum.

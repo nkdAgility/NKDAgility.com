@@ -8,7 +8,7 @@ ResourceImportId: 191
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-09-19
-weight: 640
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,8 +24,7 @@ aliasesArchive:
 - /resources/blog/creating-a-wpf-work-item-control
 tags:
 - Software Development
-categories:
-- Engineering Excellence
+categories: []
 preview: metro-visual-studio-2005-128-link-6-6.png
 
 ---

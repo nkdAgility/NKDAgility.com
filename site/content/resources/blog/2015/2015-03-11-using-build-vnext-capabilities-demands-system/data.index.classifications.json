@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T22:25:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:37:27",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical application of the Build vNext capabilities and demands system in VSO, detailing how to configure build agents and definitions, which aligns well with the category's focus on tooling and methodologies.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed exploration of the Build vNext capabilities and demands system, which is a specific tool within the DevOps ecosystem. It discusses practical implementation aspects, such as configuring build agents and defining capabilities and demands, aligning well with the category's focus on practical techniques and tooling. The depth of discussion is significant, covering both the functionality and the implications of using this system, thus demonstrating a strong alignment with the key topics outlined in the category.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-14T22:25:13",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:35:49",
+    "ai_confidence": 82.0,
+    "ai_mentions": 16,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration of the Build vNext system, including step-by-step instructions for setting up build agents and defining capabilities and demands, which aligns well with the category.",
+    "final_score": 76.0,
+    "reasoning": "The content provides a detailed guide on the installation and configuration of the Build vNext capabilities and demands system within Team Foundation Server (TFS) 2015. It explicitly discusses the steps to download TFS, configure build agents, and set up capabilities and demands, which are essential for effective installation and configuration. The depth of discussion includes troubleshooting issues with agents and the implications of system capabilities, aligning well with the key topics of the category. Overall, the content is focused on practical, actionable instructions relevant to the installation and configuration of a specific tool.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T22:25:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:37:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the Build vNext system, which is a tool related to Continuous Integration and Continuous Delivery practices in DevOps. It focuses on the capabilities and demands system for build agents, which aligns with DevOps principles of automation and streamlining workflows.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the Build vNext capabilities and demands system, which is a feature related to Continuous Integration (CI) and Continuous Delivery (CD) practices in DevOps. It provides a detailed explanation of how build agents can be configured and how capabilities and demands work within the context of a build system. This aligns well with the principles of DevOps, particularly in terms of automation and streamlining workflows. However, while it touches on relevant topics, it lacks broader discussions on cultural shifts, metrics, or case studies that would further enhance its alignment with the DevOps category.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -280,11 +289,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-14T22:25:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:41:00",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the Build vNext capabilities and demands system within Azure DevOps, detailing its features, configuration, and improvements over previous systems.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses the Build vNext capabilities within Azure DevOps (formerly VSO), detailing its features, configuration, and improvements over previous systems. It explicitly mentions Azure DevOps services and provides a thorough explanation of how to implement and utilise the Build vNext system, aligning well with the key topics of Azure DevOps. The depth of discussion is significant, covering practical aspects and user experiences, which enhances its relevance to the category.",
     "level": "Secondary"
   },
   "Personal": {
@@ -577,11 +589,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-14T22:26:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:31:20",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the Build vNext system, its capabilities, and how it integrates into the software development process, particularly in relation to build definitions and agent configurations.",
+    "final_score": 74.0,
+    "reasoning": "The content provides a detailed discussion on the Build vNext capabilities and demands system, which is a specific aspect of software development related to build systems and CI/CD practices. It explicitly mentions the build system's features, configuration, and the implications for software development processes. The depth of discussion is significant, covering practical examples and configurations, aligning well with the core themes of software development methodologies and practices.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -730,12 +745,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:35:46",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Build vNext capabilities and demands system, which relates to software development practices and continuous integration. However, it primarily focuses on specific features of the build system rather than broader principles of engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the Build vNext capabilities and demands system, which relates to software development practices, particularly in the context of build systems and automation. However, it lacks a direct focus on broader engineering excellence principles such as coding standards, quality assurance, or continuous improvement. While it touches on aspects of automation and configuration management, it does not delve deeply into best practices or metrics for assessing engineering performance, which are key themes of the category. Therefore, while there is some relevance, it does not fully align with the core themes of Engineering Excellence.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -874,11 +892,14 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-14T22:27:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:22:28",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the Build vNext capabilities and demands system, which is a feature related to Continuous Integration practices in Microsoft’s build system. It focuses on how to configure build agents and definitions, which are essential aspects of CI workflows.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the Build vNext capabilities and demands system, which is a feature related to Continuous Integration. It provides a detailed explanation of how to configure build agents and manage capabilities, which aligns with CI practices. However, it lacks broader discussions on CI principles, best practices, or the role of automated testing, which limits its depth and alignment with the category. Overall, while it is relevant to CI, it does not fully explore the category's key themes.",
     "level": "Secondary"
   },
   "Market Share": {
@@ -973,11 +994,14 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-14T22:28:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:48:13",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the Build vNext capabilities and demands system within Azure DevOps, focusing on the configuration and management of build agents and definitions, which are central to Azure Pipelines.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed discussion on the Build vNext capabilities and demands system within Azure DevOps, specifically focusing on the configuration and management of build definitions. It explicitly mentions the Build vNext system, its features, and how to configure capabilities and demands, which are central to Azure Pipelines. The depth of the discussion is significant, covering practical aspects of using the system, including tagging agents and setting demands for builds. Overall, the content aligns closely with the key topics of Azure Pipelines, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {

@@ -10,21 +10,27 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T19:05:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:08:46",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for reserving a build agent in Team Foundation Server, including custom activities and workflows, which aligns well with the category's focus on tooling and methodologies in Agile and DevOps practices.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed exploration of reserving an agent in Team Foundation Server (TFS) 2012, which directly relates to practical tooling in a DevOps context. It discusses specific activities, custom code implementations, and the challenges faced in managing build agents, aligning well with the category's focus on practical techniques and tooling. The depth of discussion is significant, covering multiple aspects of the process, including tagging agents and managing build workflows, which enhances the understanding of the tooling involved. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-15T19:05:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:49:26",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the process of reserving a build agent in Team Foundation Server, which relates to internal developer platforms and enhancing developer productivity through automation in the application lifecycle.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the process of reserving a build agent in Team Foundation Server, which relates to internal developer platforms and automation in the application lifecycle. It provides specific details about custom activities and workflows that enhance developer productivity, aligning with the principles of platform engineering. However, while it touches on relevant topics, it does not comprehensively cover the broader aspects of platform engineering, such as standardisation of tools or integration of DevOps practices, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -73,12 +79,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T19:05:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:50:50",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the process of reserving an agent in Team Foundation Server, including specific steps and custom activities for configuration, which aligns well with installation and configuration practices.",
-    "level": "Secondary"
+    "final_score": 81.0,
+    "reasoning": "The content provides a detailed guide on reserving an agent in Team Foundation Server, which directly relates to the installation and configuration of build processes. It discusses specific steps, custom activities, and configurations necessary for effective use of the build server, aligning well with the key topics of the category. The depth of discussion is substantial, covering various aspects of the process, including troubleshooting and best practices, which enhances its relevance to the category.",
+    "level": "Primary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -118,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T19:06:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:08:43",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the process of reserving a build agent in Team Foundation Server, which is a key aspect of Continuous Integration and Continuous Delivery practices in DevOps. It addresses automation, configuration management, and the challenges associated with build processes, aligning well with DevOps principles.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on the process of reserving a build agent in Team Foundation Server (TFS), which is a crucial aspect of DevOps practices. It discusses automation in build processes, the need for configuration management, and the implications of build failures on deployment. The content aligns well with DevOps principles, particularly in terms of continuous integration and delivery, as it addresses the challenges and solutions related to build automation. The depth of discussion is significant, providing detailed steps and code examples, which enhances its relevance to the DevOps category.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -208,11 +220,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T19:06:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:39:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical practices related to reserving build agents in Team Foundation Server, including custom activities and workflows that enhance the build process, which aligns with the principles of technical excellence.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on a specific technical implementation related to reserving agents in Team Foundation Server (TFS) builds. While it discusses a technical solution and provides code examples, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. The mention of custom activities and build processes aligns somewhat with technical excellence, but the depth of discussion is limited to a specific case without exploring wider principles like TDD, CI/CD, or modular architecture.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -280,11 +295,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T19:06:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:30:22",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the process of reserving an agent in Team Foundation Server (TFS), which is a component of Azure DevOps, and includes technical details and custom activities related to build workflows in TFS.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the process of reserving an agent in Team Foundation Server (TFS), which is a component of Azure DevOps. It provides detailed technical insights into custom activities and workflows related to build processes, aligning well with Azure DevOps functionalities. The mention of TFS indicates a focus on Azure DevOps services, and the depth of discussion regarding build agent management and custom activities demonstrates a strong alignment with the category's core themes. However, the content is somewhat dated, referencing TFS 2012, which may limit its relevance to current Azure DevOps practices.",
     "level": "Secondary"
   },
   "Personal": {
@@ -343,12 +361,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T19:06:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:55:24",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the management of build agents within Team Foundation Server, which is a critical aspect of the application lifecycle, particularly in the deployment and maintenance stages. It addresses the challenges and solutions related to build processes, which are integral to application lifecycle management.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content discusses reserving a build agent in Team Foundation Server, which relates to the deployment and maintenance stages of the application lifecycle. However, it lacks a comprehensive exploration of ALM methodologies, practices, or tools, and does not address broader governance, compliance, or risk management strategies. The focus is primarily on a specific technical implementation rather than the overall management of the application lifecycle.",
+    "level": "Tertiary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -730,12 +751,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-15T20:07:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:49:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the intricacies of managing build agents in Team Foundation Server, focusing on enhancing build processes, which aligns with engineering excellence principles. Topics such as custom activities for tagging agents and ensuring efficient build execution resonate with best practices in CI/CD and software craftsmanship.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific technical solution related to reserving agents in Team Foundation Server builds, which touches on aspects of software craftsmanship and development practices. However, it lacks a broader discussion on best practices, continuous improvement, or quality assurance principles. While it does provide some technical detail, it does not delve deeply into the overarching themes of engineering excellence, such as metrics, collaboration, or the impact on business agility.",
+    "level": "Tertiary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

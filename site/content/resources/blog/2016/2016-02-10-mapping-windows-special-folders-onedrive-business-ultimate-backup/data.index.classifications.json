@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T21:08:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:35:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses practical techniques for mapping Windows Special Folders to OneDrive, focusing on the application of tools for data backup and accessibility.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a practical guide on how to map Windows Special Folders to OneDrive for Business, which directly relates to the use of tools and methodologies for data backup and accessibility. It discusses specific tools (OneDrive, Windows OS) and offers a step-by-step approach, aligning well with the category's focus on practical techniques. However, while it is detailed, it lacks broader discussions on Agile or DevOps practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-14T21:09:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:34:28",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the process of mapping Windows Special Folders to OneDrive for Business, providing step-by-step instructions and configuration details, which aligns well with the category of Install and Configuration.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed guide on mapping Windows Special Folders to OneDrive, which directly relates to installation and configuration processes. It discusses specific steps to configure folder locations, which aligns well with the category's focus on actionable instructions. The depth of discussion includes practical advice and potential issues, enhancing its relevance. However, while it is primarily focused on configuration, it lacks broader context on system requirements or troubleshooting, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -109,12 +115,15 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-11T11:47:25",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 29.0,
-    "reasoning": "The content discusses data backup strategies and the use of cloud storage for file safety, which relates to resilience in terms of data protection. However, it primarily focuses on technical implementations rather than organisational resilience or change management.",
-    "level": "Quaternary"
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of backing up data and using cloud storage solutions like OneDrive to prevent data loss, which aligns with the theme of resilience. However, it primarily focuses on technical implementations of file storage rather than organisational resilience or change management strategies. While it touches on the need for adaptability in data management, it lacks depth in discussing broader organisational change practices or leadership roles in guiding such changes.",
+    "level": "Tertiary"
   },
   "DevOps": {
     "category": "DevOps",
@@ -775,12 +784,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:21:50",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical strategies for backing up files using OneDrive, which aligns with pragmatic problem-solving in a real-world context. However, it primarily focuses on file management rather than broader Agile or DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses practical strategies for backing up files using OneDrive, which aligns with pragmatic thinking in terms of applying real-world solutions to data management challenges. However, it lacks a direct focus on Agile, Scrum, or DevOps frameworks, and while it touches on problem-solving, it does not delve deeply into the complexities of project management or decision-making processes typical of the category.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1045,11 +1057,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-14T21:13:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:40:00",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the configuration of Windows Special Folders to sync with OneDrive, which aligns with system configuration practices and methodologies.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the process of mapping Windows Special Folders to OneDrive, which involves configuring system settings for optimal data backup and accessibility. While it touches on aspects of system configuration, such as folder properties and integration with cloud services, the focus is more on personal data management and backup strategies rather than in-depth technical configuration practices. The discussion lacks depth in configuration management tools or optimisation strategies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1099,12 +1114,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-14T21:13:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:30:31",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the integration of Windows Special Folders with OneDrive, detailing procedures and settings specific to the Windows operating system.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content primarily focuses on the Windows operating system, specifically discussing the mapping of Windows Special Folders to OneDrive for Business. It provides detailed instructions on how to configure these folders within the Windows environment, which aligns closely with the key topics of installation, configuration, and user account management. The depth of discussion is significant, as it includes practical steps and personal experiences related to using Windows features. Overall, the content is highly relevant to the Windows category.",
+    "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",

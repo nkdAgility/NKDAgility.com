@@ -2,7 +2,7 @@
 title: 'Navigating the Judgment Trap: How to Foster a Healthy Agile Environment'
 description: Discover how to break free from the "judgment trap" in Agile. Learn to foster collaboration, innovation, and a healthier team environment today!
 date: 2023-11-09T06:45:04Z
-weight: 550
+weight: 585
 ResourceId: uRqsRNq-XRY
 ResourceType: videos
 ResourceImport: true
@@ -36,8 +36,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Social Technologies
 - Leadership
-- Engineering Excellence
 - Product Management
 
 ---

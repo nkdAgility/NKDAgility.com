@@ -24,8 +24,7 @@ aliasesArchive:
 - /resources/blog/how-to-rename-a-team-project-in-tfs-2015
 tags:
 - Install and Configuration
-- Practical Techniques and Tooling
-- Azure DevOps
+- Windows
 - Software Development
 categories: []
 preview: clip_image0041-4-4.png

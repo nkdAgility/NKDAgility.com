@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T21:51:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:36:24",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses troubleshooting and configuring build permissions in TFS, which directly relates to practical techniques and tooling in a DevOps context.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed account of troubleshooting a specific issue related to build permissions in TFS, which aligns with practical techniques and tooling. It discusses the configuration of build agents, permissions, and the use of Visual Studio to resolve issues, demonstrating a clear application of tooling in a real-world scenario. However, while it touches on relevant tools and methodologies, the focus is primarily on a specific problem rather than a broader exploration of Agile or DevOps practices.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-14T21:51:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:34:58",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 32,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration of a Build Agent within TFS, detailing specific permissions and settings required for successful builds, which aligns well with the category.",
+    "final_score": 80.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of a Build Agent within a TFS environment, detailing specific permissions and settings required for successful builds. It discusses troubleshooting steps and configuration best practices, aligning well with the key topics of the category. The depth of discussion is substantial, providing actionable insights and step-by-step guidance, which enhances its relevance to the Install and Configuration category.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T21:51:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:36:21",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to setting up a build agent and permissions in a CI/CD environment, which are central to DevOps practices.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses issues related to setting up a Build Agent and permissions within a build system, which are core aspects of DevOps practices. It explicitly mentions the use of Team Foundation Server (TFS) and the importance of permissions for build services, aligning well with the principles of Continuous Integration and Continuous Delivery. The depth of discussion regarding troubleshooting and configuration details further supports its relevance to DevOps, demonstrating a clear understanding of the tools and processes involved.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -208,11 +217,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-14T21:51:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:40:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a technical issue related to build permissions in a CI/CD environment, detailing troubleshooting steps and best practices for configuring build definitions, which aligns with the principles of technical excellence.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to build permissions in TFS, which is relevant to Continuous Integration practices. However, while it touches on the importance of permissions and configuration in build systems, it lacks a broader discussion on engineering methodologies or principles that enhance agility and technical excellence. The focus is more on troubleshooting rather than on the overarching themes of technical excellence, such as TDD or CI/CD practices. Therefore, while it is relevant, it does not fully align with the category's core themes.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -280,11 +292,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-14T21:52:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:30:47",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to setting up a Build Agent in Azure DevOps (TFS), including permissions and error handling, which aligns closely with Azure DevOps functionalities.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed account of a specific issue encountered while setting up a Build Agent in Azure DevOps (formerly TFS). It discusses permissions related to the Project Build Service and Project Collection Build Service, which are integral to Azure DevOps' build system. The mention of specific error messages and troubleshooting steps indicates a strong focus on Azure DevOps functionalities. The content aligns well with the key topics of Azure DevOps, particularly in the context of CI/CD and team workflows, while also providing practical insights into resolving common issues. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -370,11 +385,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-14T21:52:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:22:03",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses troubleshooting and configuring build permissions in a TFS environment, which relates to best practices in software engineering and the role of continuous integration in software development.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to permissions in a build system, which aligns with the category of Technical Mastery. It provides insights into troubleshooting and resolving a common problem in software engineering practices, particularly in the context of build systems and permissions management. However, while it touches on important aspects of software craftsmanship, such as the need for proper configuration and understanding of build definitions, it lacks a broader discussion on best practices or methodologies that would elevate it to a higher confidence score.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -478,11 +496,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-14T21:52:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:47:44",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses troubleshooting and configuring build permissions within a TFS build system, which relates to operational efficiency and best practices in a DevOps context.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific issue related to permissions in a build system, which is relevant to operational practices in a DevOps context. It provides practical steps to resolve a common problem encountered during build configuration, aligning with the themes of process optimisation and continuous improvement. However, while it touches on operational efficiency, the focus is more on troubleshooting rather than broader operational strategies or metrics, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Scrum Team": {
@@ -730,12 +751,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:34:55",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses troubleshooting a build system issue, which relates to best practices in CI/CD and permissions management, but it primarily focuses on a specific technical problem rather than broader engineering excellence principles.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses a specific technical issue related to build permissions in a CI/CD context, which aligns with engineering practices. However, it lacks a broader discussion on engineering excellence principles, best practices, or continuous improvement, focusing instead on troubleshooting a specific problem.",
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

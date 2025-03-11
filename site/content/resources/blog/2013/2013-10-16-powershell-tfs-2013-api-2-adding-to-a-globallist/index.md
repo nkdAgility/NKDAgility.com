@@ -8,7 +8,7 @@ ResourceImportId: 10151
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-10-16
-weight: 775
+weight: 810
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,12 +29,12 @@ aliasesArchive:
 - /blog/powershell-tfs-2013-api--2---adding-to-a-globallist
 - /resources/blog/powershell-tfs-2013-api-2-adding-to-a-globallist
 tags:
-- Technical Mastery
-- Install and Configuration
 - Practical Techniques and Tooling
 - Software Development
+- Install and Configuration
 - System Configuration
 - Technical Excellence
+- Technical Mastery
 categories:
 - Engineering Excellence
 preview: metro-powershell-logo-1-1.png

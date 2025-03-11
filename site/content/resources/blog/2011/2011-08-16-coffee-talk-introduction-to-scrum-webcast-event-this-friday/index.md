@@ -27,16 +27,16 @@ aliasesArchive:
 - /blog/coffee-talk--introduction-to-scrum---webcast-event-this-friday-
 - /resources/blog/coffee-talk-introduction-to-scrum-webcast-event-this-friday
 tags:
-- People and Process
+- Events and Presentations
 - Scrum Product Development
 - Agile Frameworks
-- Agile Product Management
 - Agile Project Management
-- Agile Transformation
-- Events and Presentations
+- People and Process
 - Professional Scrum
 - Scrum Team
 - Software Development
+- Agile Product Management
+- Agile Transformation
 categories:
 - Scrum
 preview: metro-event-128-link-2-2.png

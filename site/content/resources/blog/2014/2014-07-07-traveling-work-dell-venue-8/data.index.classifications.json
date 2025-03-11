@@ -262,11 +262,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-15T09:16:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:45:45",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the Dell Venue 8 tablet, including its features, performance, and the author's experience with it, which aligns with the category of product discussions.",
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on the author's personal experience with the Dell Venue 8 tablet, discussing its features and performance. While it does mention a product, the discussion lacks depth in terms of reviews or analyses that would typically align with the category. The content is more of a personal narrative rather than a structured review or analysis of a product relevant to Agile or DevOps methodologies.",
     "level": "Secondary"
   },
   "Value Delivery": {
@@ -289,12 +292,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:50:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content shares personal experiences and reflections on travelling for work and the impact of technology on the author's workflow, but it primarily focuses on technical aspects of devices rather than personal insights related to Agile, Scrum, or DevOps.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the author's personal experiences and reflections regarding their travel and the use of technology, specifically the Dell Venue 8. While it does touch on personal insights related to their workflow and preferences, it lacks a strong connection to Agile, Scrum, or DevOps methodologies. The discussion is more about personal anecdotes and practical challenges faced during travel rather than insights into Agile practices or transformations.",
+    "level": "Quaternary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -334,12 +340,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:43:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses personal experiences with the Dell Venue 8 tablet, including its performance and usability, which aligns with product reviews. However, it lacks broader industry news or updates related to Agile, DevOps, or technology trends.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the author's personal experience with the Dell Venue 8 tablet, detailing its features and performance. While it does provide some insights into the device's usability and comparisons with other products, it lacks broader industry news or reviews that would align it more closely with the 'News and Reviews' category. The discussion is more anecdotal and personal rather than an analysis of trends or tools in Agile or DevOps, which diminishes its relevance to the specified category.",
+    "level": "Quaternary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -577,12 +586,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:24:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of Visual Studio and Azure, which are relevant to software development, but the primary focus is on personal experiences with travel and device usage.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses personal experiences with travel and the use of various devices, including the Dell Venue 8 and Surface tablets. While there are brief mentions of using Visual Studio and OneNote, the overall focus is on personal workflow and device usability rather than on software development methodologies, practices, or frameworks. The discussion lacks depth in software engineering topics and does not align with the core themes of the Software Development category.",
+    "level": "Quinary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -1099,11 +1111,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T09:18:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:40:21",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the use of Windows on the Dell Venue 8, including installation, configuration, and personal experiences with Windows applications and devices.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the author's experience with Windows devices, specifically the Dell Venue 8 and Surface tablets, which are running Windows operating systems. There are direct mentions of Windows 8.1 and WinRT, indicating a focus on the Windows environment. However, the primary focus of the content is on personal experiences and travel logistics rather than in-depth discussions on installation, configuration, or troubleshooting of Windows itself. While there is some alignment with the category's themes, the depth of technical discussion is limited, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
@@ -1153,12 +1168,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:33:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses potential issues with the Dell Venue 8, such as the unexpected 32-bit version of Windows on 64-bit hardware and driver problems with the Acer Ionia W520. However, these topics are secondary to the overall narrative about travel and device usage.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on personal experiences with travel and device usage rather than troubleshooting specific technical issues. While there are brief mentions of potential problems with the Dell Venue 8 and the Acer Ionia W520, these are not explored in depth or as part of a systematic troubleshooting process. The discussion lacks detailed methodologies or strategies for diagnosing and resolving issues, which are essential for a strong alignment with the Troubleshooting category.",
+    "level": "Quaternary"
   },
   "Experimentation": {
     "category": "Experimentation",

@@ -29,7 +29,9 @@ tags:
 - Metrics and Learning
 - Decision Making
 - Experimentation
+- Evidence Based Management
 - Pragmatic Thinking
+- Hypothesis Driven Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

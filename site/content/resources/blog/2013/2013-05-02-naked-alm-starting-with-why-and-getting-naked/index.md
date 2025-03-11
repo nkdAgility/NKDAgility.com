@@ -8,7 +8,7 @@ ResourceImportId: 9499
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-05-02
-weight: 545
+weight: 580
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,17 +28,17 @@ aliasesArchive:
 - /resources/blog/naked-alm-starting-with-why-and-getting-naked
 tags:
 - Application Lifecycle Management
-- Discovery and Learning
-- People and Process
 - Working Software
 - Agile Philosophy
 - Agile Strategy
 - Agile Transformation
-- Business Agility
 - Customer Feedback Loops
-- Product Delivery
+- Deployment Frequency
+- Frequent Releases
+- Organisational Agility
+- People and Process
 categories:
-- Product Management
+- Leadership
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

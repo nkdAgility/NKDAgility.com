@@ -10,20 +10,26 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T20:25:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:20:09",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the installation and configuration of TFS 2012 and Lab Management 2012, detailing practical steps, tools, and methodologies involved in the deployment process.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed walkthrough of installing and configuring TFS 2012 and Lab Management 2012, which directly relates to practical techniques and tooling in Agile and DevOps practices. It discusses specific tools (TFS, SQL Server, SCVMM) and methodologies (installation steps, configuration processes) that enhance team performance and delivery outcomes. The depth of discussion is significant, with step-by-step instructions and troubleshooting tips, demonstrating a strong alignment with the category's focus on practical application.",
     "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-15T20:25:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:56:17",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the installation and configuration of Team Foundation Server (TFS) and Lab Management, which are integral components of an Internal Developer Platform (IDP). It focuses on enhancing developer productivity through automation and standardisation of tools and processes, aligning well with the principles of platform engineering.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Team Foundation Server (TFS) and Lab Management, which are integral components of an Internal Developer Platform (IDP). It discusses the steps involved in setting up a platform that enhances developer productivity through automation and standardisation of tools. The detailed walkthrough of the installation process, including integration with System Centre Virtual Machine Manager (SCVMM), aligns well with the principles of platform engineering. However, while it provides substantial detail, it lacks broader discussions on the overarching principles of platform engineering and its impact on developer efficiency, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
@@ -73,11 +79,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T20:25:51",
-    "ai_confidence": 95,
+    "calculated_at": "2025-03-10T14:55:51",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 38,
+    "ai_depth": 36,
     "non_ai_confidence": 30,
-    "final_score": 88.0,
-    "reasoning": "The content provides a detailed, step-by-step guide on installing and configuring TFS 2012 and Lab Management 2012, including specific procedures, troubleshooting tips, and best practices, which aligns closely with the 'Install and Configuration' category.",
+    "final_score": 86.0,
+    "reasoning": "The content provides a comprehensive, step-by-step guide on installing and configuring TFS 2012 and Lab Management 2012, detailing specific tasks, time estimates, and troubleshooting tips. It explicitly discusses installation procedures, configuration best practices, and integration of tools, aligning closely with the key topics of the 'Install and Configuration' category. The depth of discussion is significant, with detailed descriptions of each installation step and the challenges faced, demonstrating a strong focus on practical implementation.",
     "level": "Primary"
   },
   "Transparency and Accountability": {
@@ -118,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T20:25:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:20:05",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the installation and configuration of TFS 2012 and Lab Management, which are integral to DevOps practices, particularly in Continuous Integration and Continuous Delivery. It details the steps involved in setting up a DevOps environment, including automation and integration of various tools, which aligns well with DevOps principles.",
+    "final_score": 73.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, which are integral to DevOps practices. It discusses automation in deployment, integration of tools, and the importance of collaboration between development and operations teams. However, while it touches on key DevOps principles, it lacks a broader discussion on cultural shifts and metrics for measuring success, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -280,11 +292,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T20:26:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:44:28",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the installation and configuration of Team Foundation Server (TFS) 2012, which is a key component of Azure DevOps, along with Lab Management. It provides detailed steps and insights into the deployment process, aligning with Azure DevOps functionalities.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Team Foundation Server (TFS) 2012, which is a key component of Azure DevOps. It discusses various aspects of TFS, including integration with Lab Management and System Centre Virtual Machine Manager (SCVMM), which are relevant to Azure DevOps functionalities. The depth of discussion is significant, providing detailed steps and considerations for deployment, which aligns well with the category's focus on best practices and methodologies associated with Azure DevOps. However, the content does not explicitly mention Azure DevOps itself, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -370,11 +385,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T21:31:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:59:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on the technical steps and challenges involved in installing and configuring TFS 2012 and Lab Management 2012, which aligns with principles of software craftsmanship and engineering practices.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, which involves technical processes and practices. However, while it discusses specific technical tasks, it lacks a broader discussion on best practices, principles of clean code, or methodologies that contribute to software craftsmanship. The depth of discussion is more procedural than conceptual, which limits its alignment with the category of Technical Mastery.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -541,12 +559,15 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-15T21:31:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:34:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration of TFS 2012 and Lab Management, focusing on automated build and testing with mentions of automated test agents, which aligns with the category of Automated Testing.",
-    "level": "Secondary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses the installation and configuration of TFS 2012 and Lab Management, which includes some aspects of automated testing, particularly in the context of testing automated builds and environments. However, the primary focus is on the installation process rather than a thorough exploration of automated testing principles, practices, or methodologies. While there are mentions of testing and automated builds, the depth of discussion on automated testing concepts is limited, and the content does not align closely with the key topics outlined for the category.",
+    "level": "Quaternary"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -730,12 +751,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:56:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation and configuration of TFS and Lab Management, focusing on technical steps and best practices for system deployment. However, it does not delve into broader engineering excellence principles such as software craftsmanship or coding practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, which is more operational than strategic. While it touches on aspects of software deployment and testing, it lacks a strong emphasis on engineering excellence principles, best practices, or continuous improvement. The discussion is more about practical steps and troubleshooting rather than promoting high standards in software craftsmanship or development processes.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

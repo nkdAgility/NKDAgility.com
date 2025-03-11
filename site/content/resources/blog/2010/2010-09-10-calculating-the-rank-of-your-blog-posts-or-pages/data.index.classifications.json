@@ -190,12 +190,15 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:04:50",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the calculation of a ranking algorithm based on various metrics, which aligns with the theme of using data for decision-making. However, the primary focus is on the implementation details rather than a broader discussion on metrics and learning principles.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the calculation of a ranking algorithm based on various metrics such as Facebook Likes, Tweets, and Google Page Rank. It explicitly mentions the use of data to evaluate and rank blog posts, which aligns with the core themes of metrics and learning. However, while it provides a decent level of detail about the implementation and potential improvements, it lacks a broader discussion on continuous improvement methodologies or feedback loops, which are also key aspects of the category. Therefore, the confidence score reflects a moderate alignment with the category.",
+    "level": "Secondary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -208,12 +211,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:03:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a proof-of-concept for ranking blog posts based on various metrics, touching on aspects of extensibility and modular design, but it primarily focuses on the implementation details rather than broader engineering practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a proof-of-concept for ranking blog posts based on various metrics, which does not directly address engineering practices or methodologies that enhance agility in software development. While it touches on some technical aspects, such as the implementation of a WPF application and dynamic loading of components, it lacks a focus on core themes like TDD, CI/CD, or modular architecture. The discussion is more exploratory and lacks depth in technical excellence principles.",
+    "level": "Quaternary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -370,12 +376,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:01:57",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a proof-of-concept for a ranking algorithm and the technical implementation details in WPF and web services, but it primarily focuses on a specific application rather than broader software engineering practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses a proof-of-concept for ranking blog posts based on various metrics, which touches on software design and implementation. However, it lacks a strong focus on best practices, clean code principles, or methodologies that contribute to high-quality software development. While it mentions extensibility and some technical aspects, the overall discussion is more exploratory and lacks depth in the core themes of technical mastery.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -577,12 +586,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T00:48:24",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-07T15:34:17",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "Content primarily discusses a proof-of-concept software application that calculates blog post rankings using external data sources and modular programming techniques, which falls under software development practices.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses a proof-of-concept for ranking blog posts based on various metrics, which involves software development concepts such as creating a WPF application and using web services. However, the primary focus is on the ranking algorithm and data collection rather than on software development methodologies or best practices. While it touches on coding and implementation, it lacks depth in discussing software engineering principles or frameworks, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -793,12 +805,15 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:39:37",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content explores an innovative approach to ranking blog posts using empirical data, which aligns with the theme of innovation. However, it primarily focuses on the technical implementation details rather than a broader discussion of innovation capabilities or strategies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses an innovative approach to ranking blog posts based on empirical data, which aligns with the concept of innovation. However, it lacks a structured discussion on frameworks, metrics, or Evidence-Based Management principles, which are crucial for a higher confidence score in the Ability to Innovate category.",
+    "level": "Quaternary"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
@@ -1099,12 +1114,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:49:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses a concept related to ranking blog posts and implementing a WPF application. While it does feature a Windows Presentation Foundation (WPF) application, the overall focus is more on the algorithm and the web service aspect, making Windows a significant but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses a proof-of-concept for ranking blog posts using various data sources and mentions implementation details of a WPF application. While it briefly references Windows Presentation Foundation (WPF), which is a Windows technology, the overall focus is on the algorithm and data collection rather than on Windows-specific installation, configuration, or troubleshooting. Therefore, the content does not align well with the Windows category.",
+    "level": "Quinary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",

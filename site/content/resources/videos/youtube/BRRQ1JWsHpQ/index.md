@@ -26,14 +26,17 @@ preview: https://i.ytimg.com/vi/BRRQ1JWsHpQ/maxresdefault.jpg
 duration: 418
 isShort: false
 tags:
-- People and Process
 - Team Collaboration
+- Pragmatic Thinking
+- People and Process
+- Software Developers
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
 categories:
+- Social Technologies
 - Scrum
 
 ---

@@ -26,8 +26,10 @@ duration: 42
 isShort: true
 tags:
 - Agile Project Management
-- People and Process
 - Team Performance
+- People and Process
+- Scrum Master
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -36,6 +38,7 @@ resourceTypes:
 - video
 categories:
 - Scrum
+- Social Technologies
 
 ---
 In my journey through the world of Agile, I've often encountered various signs that indicate a team is veering off course. One of the most alarming of these signs is what I like to call "war"—a manifestation of team conflict that can derail even the most promising projects. 

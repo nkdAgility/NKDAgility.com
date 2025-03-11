@@ -29,9 +29,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Agile Product Management
 - Product Owner
+- People and Process
+- Professional Scrum
 - Agile Project Management
 - Personal
 - Pragmatic Thinking
@@ -39,6 +40,7 @@ resourceTypes:
 - video
 categories:
 - Scrum
+- Social Technologies
 - Product Management
 
 ---

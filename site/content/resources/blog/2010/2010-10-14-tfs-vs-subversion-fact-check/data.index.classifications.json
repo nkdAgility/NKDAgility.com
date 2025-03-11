@@ -73,11 +73,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T00:10:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:33:46",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration aspects of TFS, including improvements in installation processes and configuration recommendations, making it a major theme.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses various aspects of TFS and Subversion, including installation and configuration issues, particularly in the context of TFS 2010. It provides insights into the installation process and configuration best practices, which aligns with the category. However, the primary focus is on comparing the two systems rather than providing a structured guide or detailed instructions, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -208,12 +211,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:39:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses specific technical aspects and comparisons between TFS and Subversion, touching on version control practices and the implications for software development. However, it primarily focuses on user experiences and misconceptions rather than broader engineering methodologies or practices that enhance agility.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on comparing TFS and Subversion, discussing specific features and user experiences rather than delving into broader engineering practices or methodologies that enhance technical excellence. While it touches on aspects of version control and some technical features, it lacks a comprehensive exploration of principles like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
+    "level": "Quaternary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -280,12 +286,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:04:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses TFS (Team Foundation Server), which is a component of Azure DevOps, but focuses more on comparisons with Subversion rather than on Azure DevOps functionalities or best practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses TFS (Team Foundation Server) in comparison to Subversion, which is a part of the Azure DevOps suite. However, it does not explicitly mention Azure DevOps or its broader functionalities, focusing instead on specific features and user experiences related to TFS. While there are relevant points about TFS's capabilities, the discussion lacks depth in terms of Azure DevOps as a whole, and it does not cover key topics such as CI/CD pipelines or Agile project management practices within Azure DevOps.",
+    "level": "Quaternary"
   },
   "Personal": {
     "category": "Personal",
@@ -577,11 +586,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T00:46:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:49:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the differences and issues related to TFS and Subversion, focusing on source control practices and integrated development environments, which are central to software development.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses the comparison between TFS and Subversion, focusing on version control practices, which is a key aspect of software development. It addresses specific issues and misconceptions related to TFS, providing detailed insights into its functionalities and how they relate to software engineering practices. The depth of discussion on version control systems and the challenges faced by developers transitioning between these tools indicates a strong alignment with the Software Development category.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -613,11 +625,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-16T00:46:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:03:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses various features and user experiences related to TFS and Subversion, which are both version control systems. It focuses on weaknesses and strengths in the context of modern source control practices, such as branching, checking out files, and code management.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the differences and issues between TFS and Subversion, which are both version control systems. It touches on specific features, weaknesses, and user experiences related to source control practices. However, while it does mention aspects of version control, the focus is more on a comparative analysis rather than a deep exploration of best practices or methodologies in modern source control. Therefore, while it aligns with the category, it does not do so with significant depth or breadth.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
@@ -730,12 +745,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:33:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of source control and version management practices which relate to engineering processes, but the primary focus is on comparing TFS and Subversion rather than promoting broader engineering excellence principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the comparison between TFS and Subversion, focusing on specific features and user experiences rather than broader engineering excellence principles. While it touches on aspects of software craftsmanship, such as version control practices and user experience, it lacks a comprehensive exploration of best practices, quality assurance, or continuous improvement in engineering processes.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1153,12 +1171,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T00:46:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:01:45",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses various issues and problems faced by users transitioning from SVN to TFS, providing insights into troubleshooting those specific weaknesses in TFS, such as branch confusion, checking out files, reverting changes, and installation difficulties.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses various issues and misconceptions related to TFS and SVN, focusing on specific problems users encounter when transitioning between these systems. It provides insights into troubleshooting these issues, such as branch confusion, checking out files, and reverting changes. However, while it addresses troubleshooting aspects, the primary focus is more on comparison and clarification rather than systematic problem-solving techniques or methodologies, which slightly lowers the confidence score.",
+    "level": "Tertiary"
   },
   "Experimentation": {
     "category": "Experimentation",

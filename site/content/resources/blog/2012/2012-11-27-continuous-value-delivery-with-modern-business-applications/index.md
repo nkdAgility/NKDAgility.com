@@ -8,7 +8,7 @@ ResourceImportId: 9149
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-11-27
-weight: 410
+weight: 420
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,15 +24,15 @@ aliasesArchive:
 - /resources/blog/continuous-value-delivery-with-modern-business-applications
 tags:
 - Continuous Delivery
-- Software Developers
 - Value Delivery
 - Working Software
 - Business Agility
 - Deployment Frequency
-- Deployment Strategies
 - News and Reviews
-- Operational Practices
 - Product Delivery
+- Software Development
+- Technical Excellence
+- Agile Project Management
 categories:
 - DevOps
 - Engineering Excellence

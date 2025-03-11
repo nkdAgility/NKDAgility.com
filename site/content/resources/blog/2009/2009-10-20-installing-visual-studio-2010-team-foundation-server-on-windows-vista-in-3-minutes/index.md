@@ -23,8 +23,8 @@ aliasesArchive:
 - /installing-visual-studio-2010-team-foundation-server-on-windows-vista-in-3-minutes
 - /resources/blog/installing-visual-studio-2010-team-foundation-server-on-windows-vista-in-3-minutes
 tags:
-- Windows
 - Install and Configuration
+- Windows
 - Practical Techniques and Tooling
 - System Configuration
 preview: metro-visual-studio-2010-128-link-7-7.png

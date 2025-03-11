@@ -8,7 +8,7 @@ ResourceImportId: 17
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2011-01-14
-weight: 540
+weight: 485
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,13 +27,14 @@ aliasesArchive:
 - /blog/do-you-want-to-be-an-alm-consultant-
 - /resources/blog/do-you-want-to-be-an-alm-consultant
 tags:
-- Application Lifecycle Management
 - Software Development
+- Application Lifecycle Management
 - People and Process
+- Software Developers
 categories:
-- Leadership
-- Scrum
+- Social Technologies
 - Engineering Excellence
+- Scrum
 preview: metro-visual-studio-2010-128-link-3-3.png
 
 ---

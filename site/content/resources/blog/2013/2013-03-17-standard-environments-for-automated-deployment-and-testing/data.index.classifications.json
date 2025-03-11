@@ -10,20 +10,26 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T19:17:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:09:23",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implementation of Standard Environments in Visual Studio Team Foundation Server for automated deployment and testing, which aligns with practical techniques and tooling in Agile and DevOps practices.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed exploration of 'Standard Environments' in Visual Studio Team Foundation Server, focusing on automated deployment and testing, which directly aligns with practical techniques and tooling in Agile and DevOps. It discusses specific tools (e.g., TFS, Nuget, PowerShell) and methodologies for implementing continuous delivery, showcasing best practices and providing a step-by-step guide for setting up environments. The depth of discussion is significant, covering various aspects of deployment pipelines and environment management, thus strongly supporting the category's focus.",
     "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-15T19:17:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:50:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the creation and management of Standard Environments for automated deployment and testing, which aligns with the principles of Platform Engineering by enhancing developer productivity and optimising the application lifecycle through standardisation and automation.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the creation and management of 'Standard Environments' within Visual Studio Team Foundation Server, which aligns with the principles of Platform Engineering by focusing on automation, standardisation, and enhancing developer productivity. It provides detailed insights into setting up environments for automated deployment and testing, which are key components of Internal Developer Platforms (IDPs). The discussion includes specific tools and processes that facilitate developer workflows, indicating a strong alignment with the core themes of Platform Engineering. However, while the content is rich in detail, it does not explicitly frame these practices within the broader context of Platform Engineering, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
@@ -73,11 +79,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T19:18:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:51:18",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the setup and configuration of Standard Environments in Visual Studio 2012 Team Foundation Server, including detailed steps for creating and deploying to these environments, which aligns well with the Install and Configuration category.",
+    "final_score": 80.0,
+    "reasoning": "The content provides a detailed guide on setting up and configuring 'Standard Environments' in Visual Studio 2012 Team Foundation Server, which directly aligns with the category of Install and Configuration. It includes step-by-step instructions for creating and deploying to these environments, discusses best practices, and addresses potential issues, demonstrating a strong focus on actionable installation and configuration processes. The depth of discussion is significant, covering various aspects of the setup, including the use of Nuget and PowerShell scripts for deployment, which enhances the overall alignment with the category.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T19:18:09",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-07T15:09:21",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 82.0,
-    "reasoning": "The content primarily discusses the implementation of automated deployment and testing environments, which aligns closely with DevOps principles such as Continuous Delivery (CD) and the role of automation in streamlining workflows. It also touches on the need for standardisation in deployment processes, which is a key aspect of DevOps practices.",
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses the implementation of automated deployment and testing environments, which are core aspects of DevOps practices. It highlights the importance of standard environments, continuous delivery, and the use of tools like NuGet and PowerShell scripts for deployment automation. The discussion aligns well with DevOps principles, particularly in terms of automation, collaboration between teams, and the establishment of a deployment pipeline. The depth of detail provided about setting up environments and the deployment process further supports a high confidence score in the DevOps category.",
     "level": "Primary"
   },
   "Miscellaneous": {
@@ -208,11 +220,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T19:18:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:40:24",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of automated deployment and testing environments, which aligns with Continuous Integration and Continuous Delivery (CI/CD) practices. It also touches on the importance of standardisation in deployment processes, which is a key aspect of technical excellence.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed discussion on the implementation of Standard Environments in Visual Studio Team Foundation Server, focusing on automated deployment and testing, which aligns closely with Continuous Integration and Continuous Delivery (CI/CD) practices. It explicitly mentions the importance of standardisation in deployment processes and the use of tools like NuGet for consistent packaging, which are key aspects of technical excellence. The depth of the discussion is significant, covering setup, configuration, and the benefits of automated testing within a deployment pipeline, thus demonstrating a strong alignment with the principles of technical excellence.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -235,11 +250,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-15T19:18:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:30:46",
+    "ai_confidence": 82.0,
+    "ai_mentions": 16,
+    "ai_alignment": 32,
+    "ai_depth": 34,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the methodologies and practices involved in automated deployment and testing, which are central to the product delivery process. It covers aspects such as standard environments, deployment pipelines, and the integration of testing within the deployment process, aligning well with the key topics of product delivery.",
+    "final_score": 76.0,
+    "reasoning": "The content extensively discusses the methodologies and practices related to automated deployment and testing within the context of software product delivery. It covers the setup of standard environments, the importance of consistent deployment mechanisms, and the integration of testing within the deployment pipeline, all of which are core aspects of product delivery. The depth of discussion on deployment strategies and the use of tools like Nuget and PowerShell scripts further solidifies its relevance to the category.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -280,11 +298,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T19:18:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:55:47",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implementation of automated deployment and testing within Visual Studio Team Foundation Server, which is a component of Azure DevOps. It covers the setup of Standard Environments, deployment pipelines, and integration with tools like NuGet, aligning closely with Azure DevOps functionalities.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses the implementation of automated deployment and testing within Visual Studio Team Foundation Server (TFS), which is a component of Azure DevOps. It provides detailed insights into creating and managing Standard Environments, which directly relates to CI/CD practices in Azure DevOps. The mention of deployment pipelines, automated testing, and integration with tools like NuGet aligns well with Azure DevOps functionalities. However, while the content is rich in detail, it does not explicitly cover all Azure DevOps services or best practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -730,11 +751,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-15T20:17:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:50:09",
+    "ai_confidence": 87.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses automated deployment and testing practices using Visual Studio and Team Foundation Server, which aligns with the principles of software craftsmanship, CI/CD practices, and aims for continuous improvement in engineering processes.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the implementation of standard environments for automated deployment and testing, which directly relates to best practices in CI/CD and software craftsmanship. It provides detailed insights into the setup and management of environments, the importance of consistent deployment mechanisms, and the role of automation in enhancing development efficiency. The depth of discussion on deployment pipelines and the integration of testing further aligns with the principles of engineering excellence, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Revenue per Employee": {

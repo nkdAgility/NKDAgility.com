@@ -577,11 +577,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T18:38:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:12:50",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a bug encountered in .NET related to Active Directory interactions, which falls under software development practices, particularly in coding and handling security risks during development.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific bug related to the .NET framework and its interaction with Active Directory, which is relevant to software development practices. It mentions a coding solution and raises concerns about security in the context of software design. However, the discussion lacks depth in terms of broader software development methodologies or best practices, focusing instead on a specific technical issue.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {
@@ -946,12 +949,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:58:59",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific technical error in .NET related to accessing Active Directory, suggesting some technical challenges and security concerns, but it lacks a broader discussion on software craftsmanship or best practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses a specific bug related to the .NET framework and its implications for security and user credentials management. While it touches on a technical issue, it lacks a broader discussion on software craftsmanship principles, best practices, or methodologies that contribute to high-quality software development. The focus is primarily on a specific problem rather than on overarching technical mastery concepts.",
+    "level": "Quaternary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1081,11 +1087,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:47:23",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific error related to .NET and Active Directory access in a Windows environment, indicating its relevance to Windows. However, the primary focus is more on .NET and Active Directory functionality rather than direct Windows operating system topics.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses a specific error related to the .NET framework and Active Directory, which are both relevant to Windows environments. However, it does not explicitly focus on Windows as a primary topic, nor does it cover broader aspects of Windows installation, configuration, or troubleshooting in detail. The mention of a specific error code and the context of using ASP.NET in a Windows environment indicates some alignment, but the depth of discussion is primarily technical and specific to a programming issue rather than a comprehensive exploration of Windows itself.",
     "level": "Tertiary"
   },
   "Lean Principles": {
@@ -1099,11 +1108,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T18:38:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:16:00",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses a specific error encountered in .NET related to active directory access and offers a suggestion for troubleshooting the issue, which aligns with the troubleshooting category.",
+    "final_score": 70.0,
+    "reasoning": "The content explicitly discusses a specific bug related to the .NET PrincipalContext classes and provides a potential workaround for accessing Active Directory. This aligns with troubleshooting as it identifies a technical issue and suggests a solution. However, the depth of discussion is somewhat limited, focusing primarily on a single error without broader troubleshooting techniques or methodologies. The mention of security risks adds some conceptual alignment, but the overall depth could be improved.",
     "level": "Secondary"
   },
   "Entrepreneurship": {

@@ -34,15 +34,15 @@ tags:
 - Ability to Innovate
 - Agile Leadership
 - Agile Project Management
-- Events and Presentations
-- Metrics and Learning
-- People and Process
 - Agile Frameworks
 - Agile Strategy
+- Strategic Goals
+- Decision Making
+- Empirical Process Control
 categories:
 - Leadership
+- Social Technologies
 - Scrum
-- Product Management
 preview: images/Professional-Agile-Leadership-Evidence-Based-Management-6-6.jpg
 
 ---

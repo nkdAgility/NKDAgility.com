@@ -55,11 +55,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:13:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:04:17",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content includes questions about installation and configuration experiences, indicating a secondary theme related to the category, but it primarily focuses on soliciting feedback rather than providing clear, actionable instructions.",
+    "final_score": 60.0,
+    "reasoning": "The content mentions installation and configuration questions related to the TFS Event Handler, indicating a focus on user experiences with these processes. However, it lacks detailed instructions or best practices, which diminishes its depth and alignment with the category's core themes.",
     "level": "Tertiary"
   },
   "Decision Theory": {
@@ -361,20 +364,26 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T08:18:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:22:47",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content is primarily focused on soliciting user feedback regarding the TFS Event Handler, which aligns with the principles of product validation by exploring user engagement and validating integration capabilities through user responses.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content primarily seeks user feedback on the TFS Event Handler prototype, which aligns with the concept of validating product ideas through user engagement. However, it lacks depth in discussing methodologies or practices related to product validation, focusing instead on specific questions about installation and functionality. While it does mention soliciting feedback, it does not explore broader themes such as user testing techniques or market fit strategies.",
+    "level": "Tertiary"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:51:46",
+    "ai_confidence": 45.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the installation and configuration of the TFS Event Handler, soliciting feedback specifically on configuration instructions and the success of the setup process, indicating that configuration is a significant theme.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the TFS Event Handler and solicits feedback on installation and configuration, which aligns with system configuration. However, it lacks depth in exploring methodologies or best practices, focusing more on user experiences and feedback rather than detailed technical discussions.",
     "level": "Tertiary"
   },
   "Ability to Innovate": {
@@ -1036,12 +1045,15 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-17T08:18:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:18:54",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily solicits feedback on a specific tool and includes questions designed to gather customer insights on its usability and effectiveness, aligning well with the theme of customer feedback loops.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content explicitly seeks feedback on the TFS Event Handler, which aligns with the concept of customer feedback loops. However, it lacks depth in discussing mechanisms for integrating this feedback into a broader product development process. The focus is primarily on soliciting user experiences rather than exploring systematic feedback integration practices.",
+    "level": "Tertiary"
   },
   "Strategy": {
     "category": "Strategy",
@@ -1180,12 +1192,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:13:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:16:42",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses soliciting feedback on a specific software tool (TFS Event Handler), which implies an interest in its operational effectiveness and user experience. However, it lacks a broader discussion on working software principles, quality assurance, or development practices, making it a secondary theme rather than primary.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content primarily seeks feedback on a specific software tool, the TFS Event Handler, which indicates a focus on user experience and functionality. However, it lacks a comprehensive discussion on the characteristics of working software or best practices for ensuring software quality. The questions posed do touch on aspects of user satisfaction and operational success, but the overall depth and alignment with the core themes of working software are limited.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",

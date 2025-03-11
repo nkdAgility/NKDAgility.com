@@ -262,12 +262,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-15T19:37:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:15:59",
+    "ai_confidence": 65.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 50.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the availability of a book on Kindle, which aligns with the category's focus on literature related to Agile methodologies and tools.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content explicitly mentions a book available on Kindle, which aligns with the category of 'Products and Books'. However, it lacks a detailed review or analysis of the book's content or its relevance to Agile methodologies or DevOps practices. The mention of the Kindle format indicates a product discussion, but the overall depth of discussion is limited to a promotional aspect rather than a comprehensive evaluation.",
+    "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -334,12 +337,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:09:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:53:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions the availability of a book related to Agile and DevOps, which aligns with the category as a secondary theme, but lacks detailed discussion or review.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions the availability of a book on Kindle, which aligns with the category of news and reviews. However, it lacks detailed discussion or analysis of the book's content, relevance to Agile or DevOps, or any insights that would guide practitioners. The primary focus is on the availability of the book rather than a review or industry news.",
+    "level": "Quaternary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",

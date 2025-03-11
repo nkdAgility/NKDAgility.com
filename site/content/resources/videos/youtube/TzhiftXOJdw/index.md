@@ -29,20 +29,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Organisational Agility
 - People and Process
+- Business Agility
+- Market Adaptability
+- Sociotechnical Systems
 - Agile Philosophy
 - Agile Strategy
 - Agile Transformation
-- Business Agility
 - Change Management
-- Market Adaptability
-- Organisational Agility
 - Organisational Change
-- Beta Codex
 resourceTypes:
 - video
 categories:
 - Social Technologies
+- Leadership
 
 ---
 ## The Agile Imperative: How Traditional Organisations Can Embrace Change 

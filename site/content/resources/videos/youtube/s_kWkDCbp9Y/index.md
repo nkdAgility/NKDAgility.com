@@ -31,8 +31,8 @@ sitemap:
 tags:
 - People and Process
 - Coaching
-- Mentoring
 - Pragmatic Thinking
+- Agile Project Management
 resourceTypes:
 - video
 categories:

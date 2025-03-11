@@ -8,7 +8,7 @@ ResourceImportId: 10041
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-09-09
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,9 +24,7 @@ aliasesArchive:
 - /resources/blog/upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
 tags:
 - Install and Configuration
-categories:
-- DevOps
-- Engineering Excellence
+categories: []
 
 ---
 With the [TFS 2013 RC](http://nkdagility.com/whats-new-in-visual-studio-2013-rc-with-team-foundation-server/) being made available I need to upgrade one of my main customers from the TFS 2013 Preview.

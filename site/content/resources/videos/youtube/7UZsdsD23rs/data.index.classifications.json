@@ -82,12 +82,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T16:42:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:37:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile principles and the importance of feedback loops, which are relevant to product management, but the primary focus is on Scrum processes rather than strategic product management topics.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the concept of empiricism within Agile and Scrum frameworks, highlighting the importance of inspect and adapt processes. While it touches on aspects relevant to product management, such as stakeholder engagement and adapting to market needs, it primarily focuses on Agile methodologies rather than the broader strategic alignment of product management. The discussion lacks depth in terms of specific product management techniques or frameworks, which limits its overall alignment with the category.",
+    "level": "Secondary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -343,12 +346,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T16:42:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:01:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the principles of empiricism and its importance in Agile practices, which relates to continuous improvement and feedback loops in software development. However, the primary focus is on Agile methodologies rather than engineering excellence specifically.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses empiricism in the context of Agile and Scrum, focusing on the importance of inspecting and adapting processes. However, it primarily centres on Agile methodologies rather than directly addressing engineering excellence or software craftsmanship. While it touches on aspects of continuous improvement and feedback loops, it lacks a detailed exploration of coding standards, quality assurance, or best practices in software development, which are core to the category of Engineering Excellence.",
+    "level": "Quaternary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1093,20 +1099,26 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-12T10:25:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T13:37:38",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the principles of empiricism in Agile, particularly in relation to Scrum roles and processes, which are central to Agile Product Management.",
+    "final_score": 76.0,
+    "reasoning": "The content extensively discusses the concept of empiricism within Agile, particularly in relation to Scrum practices. It highlights the importance of inspect and adapt loops, which are central to Agile methodologies. The discussion includes the role of stakeholders in the feedback process and the need for continuous adaptation based on market demands, aligning well with Agile Product Management principles. However, while it touches on key aspects, it does not delve deeply into specific product management techniques or the role of the Product Owner, which slightly limits its depth.",
     "level": "Secondary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-12T10:25:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:02:00",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the principles of empiricism in Agile, focusing on the importance of inspection and adaptation, which are central to the processes of discovery and learning within product development.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the concept of empiricism in Agile, focusing on the importance of inspecting and adapting based on data and feedback loops. It aligns well with the core themes of the 'Discovery and Learning' category, particularly in terms of fostering a culture of continuous learning and adapting to new information. The discussion on various inspect and adapt loops, such as daily stand-ups and sprint reviews, highlights the significance of learning from both successes and failures. However, while it touches on these themes, the primary focus remains on Agile processes rather than a broader exploration of discovery and learning methodologies, which slightly limits its depth in this specific category.",
     "level": "Secondary"
   },
   "Systems Thinking": {
@@ -1129,11 +1141,14 @@
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-12T10:25:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:13:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of transparency in the context of empiricism within Agile methodologies, highlighting how transparency facilitates inspection and adaptation, which are crucial for accountability in team processes.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the concept of empiricism in Agile, highlighting the importance of transparency in data inspection and adaptation processes. It mentions transparency explicitly and connects it to Agile practices like Scrum, which aligns with the category's focus. However, while it touches on accountability through the inspect and adapt loops, the depth of discussion on accountability and the mechanisms for fostering it is limited. Overall, the content is relevant but not exhaustive in addressing the principles of transparency and accountability.",
     "level": "Secondary"
   },
   "Practical Techniques and Tooling": {
@@ -1156,11 +1171,14 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-12T10:26:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:09:17",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of empiricism and feedback loops in Agile methodologies, which are essential for organisations to adapt to market changes and customer needs effectively.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the concept of empiricism within Agile methodologies, focusing on the importance of inspect and adapt loops, which are crucial for organisations to respond to market changes. It highlights how these practices enable teams to adjust their strategies based on feedback and data, aligning well with the principles of market adaptability. The depth of discussion is significant, covering multiple aspects of Agile processes and their relevance to market responsiveness, although it could benefit from more explicit examples or case studies.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -1201,11 +1219,14 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-12T10:26:11",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T10:07:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the principles of empiricism and its critical role in Agile methodologies, particularly in relation to inspect and adapt processes. While it primarily focuses on Scrum practices, it also touches on the importance of adapting to market changes and customer needs, which aligns with the theme of business agility. However, the emphasis on Scrum roles and events slightly detracts from a primary focus on broader business agility principles.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the concept of empiricism within Agile, focusing on inspect and adapt processes, which are crucial for organisations to respond to changing market needs. However, while it touches on the importance of adapting to customer and market changes, it primarily centres on Scrum practices rather than broader business agility principles. The discussion lacks depth in exploring leadership roles, cultural aspects, or specific strategies for fostering business agility, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Kanban": {
@@ -1219,11 +1240,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-12T10:26:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:30:39",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the principles of empiricism in Agile, focusing on inspect and adapt processes that are central to delivering value iteratively and continuously to customers. It highlights the importance of feedback loops and adapting to customer needs, which aligns well with the key topics of value delivery.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the concept of empiricism in Agile, focusing on the importance of inspect and adapt processes, which are central to delivering value iteratively. It highlights how feedback loops, such as Sprint reviews and retrospectives, contribute to aligning product development with customer needs and maximising value. The depth of discussion on these practices indicates a strong alignment with the principles of value delivery, although it does not explicitly mention value delivery strategies or methodologies in a structured manner.",
     "level": "Secondary"
   },
   "Technical Excellence": {
@@ -1327,11 +1351,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T18:51:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:13:27",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the principles of empiricism within Agile methodologies, specifically highlighting the inspect and adapt loops in Scrum, which aligns closely with the category of Social Technologies.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the concept of empiricism within the Agile framework, highlighting its importance in Scrum through various inspect and adapt loops. It directly mentions Scrum practices, such as the Sprint backlog and Sprint reviews, demonstrating a strong alignment with the core themes of Social Technologies. The depth of discussion is significant, providing detailed insights into how these practices facilitate value delivery and continuous improvement within teams.",
     "level": "Secondary"
   },
   "Agile Product Operating Model": {

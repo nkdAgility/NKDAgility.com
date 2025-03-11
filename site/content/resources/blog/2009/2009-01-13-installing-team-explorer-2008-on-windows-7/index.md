@@ -25,8 +25,6 @@ aliasesArchive:
 tags:
 - Windows
 - Install and Configuration
-- System Configuration
-- Troubleshooting
 categories: []
 
 ---

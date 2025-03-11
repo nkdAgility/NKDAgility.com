@@ -127,11 +127,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-12T09:15:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:53:37",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of automated testing in delivering high-quality software, which aligns with the principles of working software. It emphasises the need for functional software that meets user requirements and the role of testing in ensuring software quality, making it a central theme.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the importance of automated testing in delivering high-quality software, which aligns well with the principles of working software. It highlights the role of automated testing in reducing human error, ensuring fast feedback, and maintaining software quality, all of which are crucial for meeting customer needs. The depth of discussion on test strategies and the emphasis on continuous delivery further support its relevance to the category. However, while it touches on key aspects of working software, it does not explicitly frame these discussions within Agile or Scrum contexts, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Decision Making": {
@@ -316,11 +319,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-12T09:15:56",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-10T17:50:11",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses the importance of automated testing, TDD, and the need for efficient test infrastructure, which are all central themes in engineering practices. It emphasizes clean code principles, automation, and strategies for improving software quality, aligning closely with the key topics outlined in the category description.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the importance of automated testing, TDD, and the need for fast-running unit tests, which are core principles of Engineering Practices. It provides detailed insights into how automation can enhance software quality and reduce human error, aligning well with the category's focus. The depth of discussion on test infrastructure and the shift from end-to-end tests to unit tests further supports its relevance. Overall, the content is a strong fit for the category.",
     "level": "Secondary"
   },
   "Portfolio Management": {
@@ -334,12 +340,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T09:15:59",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-11T00:17:29",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 82.0,
-    "reasoning": "Content primarily discusses automated testing, its importance in software engineering, and methodologies like TDD, which are central to software development practices.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses automated testing, its importance in software engineering, and its role in improving software quality and efficiency. It aligns well with key topics such as Test-Driven Development (TDD), Continuous Integration and Continuous Deployment (CI/CD), and best practices in coding. The depth of discussion on test infrastructure and the need for fast-running unit tests further solidifies its relevance to software development practices.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -382,11 +391,14 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-12T09:16:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T09:49:04",
+    "ai_confidence": 87.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 88.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of automated testing in software engineering, its benefits, and strategies for implementation, making it a central theme.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the importance of automated testing in software engineering, highlighting its role in reducing human error, providing fast feedback, and improving software quality. It covers various aspects such as the need for unit tests, the impact of test infrastructure, and the shift from long-running tests to faster ones. The discussion aligns well with the core themes of automated testing, including methodologies, best practices, and the significance of automation in the development process. The depth of the discussion is substantial, providing detailed insights into the implementation and benefits of automated testing, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {
@@ -463,11 +475,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-12T09:16:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:12:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses automated testing, TDD, and the importance of fast-running tests within the context of modern software engineering practices, which aligns closely with the role of software developers in Agile and DevOps methodologies.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses automated testing and its importance in software engineering, which aligns with modern engineering practices relevant to software developers. It touches on concepts like Test-Driven Development (TDD) and the integration of DevOps principles, indicating a connection to Agile methodologies. However, the focus is more on the technical aspects of testing rather than explicitly discussing the role of software developers within Agile and DevOps frameworks. The depth of discussion on Agile and DevOps is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Test First Development": {
@@ -1195,11 +1210,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-12T09:14:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:33:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses automated testing within the context of Azure DevOps, including specific features like test impact analysis and the transition to faster unit tests. It aligns well with Azure DevOps functionalities and best practices, making it a central theme.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses automated testing and its importance in software engineering, with specific references to Azure DevOps features like test impact analysis. However, the primary focus is on general testing strategies and practices rather than a comprehensive exploration of Azure DevOps as a whole. While Azure DevOps is mentioned, it is not the central theme of the discussion, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Products and Books": {
@@ -1231,20 +1249,26 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-12T09:14:37",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-07T12:48:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of automated testing in delivering high-quality software and reducing human error, which aligns with value delivery principles. However, the primary focus is on technical implementation details rather than a direct discussion of value delivery strategies or methodologies.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of automated testing in delivering high-quality software, which aligns with the principles of iterative development and continuous delivery. However, while it touches on value delivery, the primary focus is on technical implementation details and personal experiences rather than explicitly discussing strategies for maximising customer value or aligning product development with customer needs.",
     "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T09:14:38",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-10T11:36:22",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses automated testing, its importance in software engineering, and how it contributes to technical excellence through practices like TDD and efficient test infrastructure. It aligns well with the principles of high-quality engineering practices and methodologies that enhance agility in software development.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses automated testing, its importance in software engineering, and its role in enhancing code quality and reliability, which aligns closely with the principles of Technical Excellence. It provides detailed insights into Test-Driven Development (TDD), the need for fast-running unit tests, and the impact of test infrastructure on software delivery. The discussion is rich in technical detail and directly addresses engineering practices that improve agility and quality in software development, fulfilling the criteria for this category.",
     "level": "Secondary"
   },
   "Organisational Agility": {

@@ -24,10 +24,10 @@ aliasesArchive:
 - /resources/blog/application-lifecycle-management-with-office-2013-on-windows-8
 tags:
 - Windows
-- Install and Configuration
-- Practical Techniques and Tooling
 - Products and Books
 - Application Lifecycle Management
+- Install and Configuration
+- Practical Techniques and Tooling
 categories: []
 preview: metro-office-128-link-5-5.png
 

@@ -127,12 +127,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-18T12:23:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:35:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation and configuration of a management suite related to Visual Studio 2013, which is used within the Windows operating environment, making Windows a significant theme.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of release management tools, which are typically used in a Windows environment. There are direct mentions of installation processes and configuration settings, aligning well with the key topics of the Windows category. However, while it discusses specific steps and configurations, it lacks broader discussions on troubleshooting, updates, or performance optimisation, which slightly lowers the depth of discussion. Overall, the content is relevant and detailed enough to warrant a high confidence score.",
+    "level": "Secondary"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -424,11 +427,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-18T12:23:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:45:38",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content is primarily focused on the installation and configuration of a release management suite, directly relating to the practices and tools used in release management.",
+    "final_score": 80.0,
+    "reasoning": "The content provides a detailed step-by-step guide on setting up release management tools, including the server, client, and deployment agent. It explicitly discusses the installation and configuration processes, which are central to release management practices. The content aligns well with key topics such as version control, coordination of tools, and the setup of a release management environment. The depth of discussion is significant, covering various aspects of the installation process, which enhances its relevance to the category.",
     "level": "Secondary"
   },
   "Azure DevOps": {
@@ -568,12 +574,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-18T12:23:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:51:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content focuses on the installation and configuration of a release management suite which is related to engineering practices, but it does not deeply engage with methodologies or principles that enhance technical excellence in software development.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of release management tools, which is a technical task. However, it lacks explicit discussions on broader engineering practices or methodologies that enhance agility, such as TDD, CI/CD, or modular architecture. While it does touch on aspects of deployment and configuration, it does not delve into the principles or techniques that would elevate it to a discussion of technical excellence. The depth of the discussion is moderate, providing a step-by-step guide but not exploring the implications or best practices associated with these technical tasks.",
+    "level": "Quaternary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -829,12 +838,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-18T12:23:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:42:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content briefly discusses the installation and configuration of a specific software product, which is related to tools used in Agile practices, but does not delve into reviews or analyses of literature.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of release management tools, which is more of a procedural guide than a discussion or review of products or literature. While it does mention specific tools, it lacks a broader analysis or review of their effectiveness in relation to Agile or DevOps principles. The discussion is technical and practical, but does not delve into how these tools enhance understanding or implementation of Agile methodologies, which is a key aspect of the 'Products and Books' category.",
+    "level": "Quaternary"
   },
   "News and Reviews": {
     "category": "News and Reviews",

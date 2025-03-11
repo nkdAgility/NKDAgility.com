@@ -30,6 +30,7 @@ tags:
 - Coaching
 - Discovery and Learning
 - Agile Frameworks
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

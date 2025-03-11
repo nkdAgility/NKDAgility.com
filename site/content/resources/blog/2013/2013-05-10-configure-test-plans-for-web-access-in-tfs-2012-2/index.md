@@ -8,7 +8,7 @@ ResourceImportId: 9900
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-05-10
-weight: 865
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,13 +25,10 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
-- System Configuration
-- Application Lifecycle Management
 - Azure DevOps
+- System Configuration
 - Software Development
 - Troubleshooting
-- Pragmatic Thinking
-- Technical Mastery
 categories: []
 
 ---

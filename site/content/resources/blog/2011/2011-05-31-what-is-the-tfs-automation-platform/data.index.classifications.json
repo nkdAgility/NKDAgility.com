@@ -10,20 +10,26 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T23:16:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:31:28",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the TFS Automation Platform, detailing its architecture, features, and practical applications for automating tasks within TFS, which aligns well with the exploration and application of tools and methodologies in Agile and DevOps practices.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed overview of the TFS Automation Platform, focusing on practical automation techniques and tooling within the context of Team Foundation Server (TFS). It discusses specific automation scenarios, architecture, and the integration of various components, which aligns well with the category's emphasis on practical application of tools and methodologies. The depth of discussion on automations and their implementation demonstrates a strong alignment with the key topics outlined in the category, particularly in relation to Agile and DevOps practices. However, while the content is rich in detail, it could benefit from more explicit connections to broader Agile and DevOps frameworks to enhance its relevance further.",
     "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-15T23:16:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:01:48",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the TFS Automation Platform, which is focused on creating automations to improve developer productivity and streamline processes within Team Foundation Server (TFS). It outlines the architecture, features, and goals of the platform, aligning closely with the principles of Platform Engineering.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the TFS Automation Platform, which aligns with the principles of Platform Engineering by focusing on automation solutions that enhance developer productivity within the context of Team Foundation Server (TFS). It explicitly mentions the development of internal automation tools, which are key components of Internal Developer Platforms (IDPs). The depth of discussion includes various aspects of the platform's architecture, features, and use cases, demonstrating a strong alignment with the core themes of Platform Engineering. However, while it is relevant, it does not fully encapsulate all aspects of Platform Engineering, leading to a slightly lower confidence score.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
@@ -73,11 +79,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T23:16:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:00:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the TFS Automation Platform, including installation procedures, configuration of automations, and integration with TFS, which aligns well with the Install and Configuration category.",
+    "final_score": 68.0,
+    "reasoning": "The content discusses the TFS Automation Platform, focusing on its installation and configuration aspects, such as the deployment of automation packages, the setup of the core services, and the user interface for managing automations. It provides detailed scenarios that illustrate the installation process and configuration steps, aligning well with the key topics of the 'Install and Configuration' category. However, while it does touch on installation and configuration, the primary focus is on the platform's architecture and functionality, which slightly detracts from a purely installation-centric discussion.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,12 +127,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T23:16:52",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-07T15:31:18",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses automation within the context of Team Foundation Server (TFS), which aligns with DevOps principles, particularly in relation to Continuous Integration and Continuous Delivery. However, the primary focus is on the TFS Automation Platform rather than broader DevOps practices.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the TFS Automation Platform, which relates to automation in DevOps practices, particularly in the context of Team Foundation Server (TFS). It mentions automation solutions and the integration of various components, which aligns with DevOps principles. However, the focus is primarily on the technical implementation of the platform rather than broader DevOps concepts such as CI/CD, cultural shifts, or collaboration between teams. Therefore, while there is a significant connection to DevOps, it does not fully encompass the category's core themes.",
+    "level": "Tertiary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -208,11 +220,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T23:17:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:48:29",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the TFS Automation Platform, focusing on its architecture, automation capabilities, and integration with TFS features, which aligns with engineering practices that enhance software development processes.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the TFS Automation Platform, which includes aspects of automation and integration within the software development lifecycle. However, while it touches on automation and the development of a platform for managing iterations, it lacks a strong focus on the core principles of Technical Excellence such as TDD, CI/CD, or modular architecture. The discussion is more about the project scope and architecture rather than deep engineering practices that enhance agility and quality in software development.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -280,12 +295,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T23:17:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:38:29",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the TFS Automation Platform, which is closely related to Azure DevOps services, particularly Team Foundation Server (TFS). It covers automation solutions within TFS, which aligns with Azure DevOps functionalities.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the TFS Automation Platform, which is a component of Azure DevOps (formerly known as Team Foundation Server). It provides insights into automation within TFS, which aligns with Azure DevOps functionalities. However, the focus is primarily on the automation aspect rather than a comprehensive overview of Azure DevOps services or best practices. While it mentions TFS features and automation scenarios, it lacks broader discussions on CI/CD, project management, or integration with other Azure DevOps tools, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",
@@ -370,11 +388,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T23:53:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:03:35",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the TFS Automation Platform's architecture, design principles, and methodologies for automating processes within Team Foundation Server, which are central to technical excellence in software engineering.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the TFS Automation Platform, focusing on its architecture, features, and the development of automation solutions. It aligns with the category of Technical Mastery by detailing best practices in software design, principles of clean code, and the role of automation in improving software quality. However, while it provides substantial detail on the technical aspects, it lacks a broader discussion on methodologies or principles that contribute to high-quality software development, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -730,12 +751,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-15T23:53:12",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T13:01:45",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the development and automation of software processes within the TFS Automation Platform, which relates to best practices in software craftsmanship and technical implementation. However, the focus is more on the specific project details rather than broader engineering excellence principles.",
-    "level": "Secondary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the TFS Automation Platform, focusing on automation solutions and their architecture. While it touches on aspects of software development, such as automation and integration, it lacks a direct emphasis on engineering excellence principles like coding standards, quality assurance, or continuous improvement practices. The discussion is more about the technical implementation of automation rather than promoting high standards in software craftsmanship or development practices.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

@@ -8,7 +8,7 @@ ResourceImportId: 8885
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-10-10
-weight: 545
+weight: 470
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,15 +24,15 @@ aliasesArchive:
 - /resources/blog/the-new-normal-of-the-modern-application-lifecycle
 tags:
 - Application Lifecycle Management
-- People and Process
-- Business Agility
+- Events and Presentations
 - Software Developers
 - Software Development
-- Events and Presentations
-- Market Adaptability
 - News and Reviews
 - Organisational Agility
+- People and Process
+- Business Agility
 - Digital Transformation
+- Resilience and Change
 categories:
 - DevOps
 preview: metro-new-normal-icon-28-28.png

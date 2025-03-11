@@ -1090,12 +1090,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-18T13:07:36",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions configuring emails for an application to send through Office 365, which relates to system configuration, but it is not the primary focus. The content lacks depth in system configuration topics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-07T14:51:54",
+    "ai_confidence": 85.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses the configuration of an SMTP server within a release management system, which is a direct application of system configuration principles. It provides detailed steps on how to set up the mail server, including specific settings and options, aligning well with the core themes of best practices for software installation and configuration. The depth of discussion is substantial, as it covers the necessary details for configuring the system, including where to find account details and settings. Overall, the content is highly relevant to the category of System Configuration.",
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1342,12 +1345,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T13:07:36",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content involves configuring emails for an application using Office 365, which relates to configuration processes, but it lacks detailed, actionable instructions and is more focused on a specific scenario rather than providing comprehensive guidance.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-10T14:46:04",
+    "ai_confidence": 85.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 90.0,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed, step-by-step guide on configuring the release management system to send emails using Office 365 SMTP. It explicitly discusses the installation and configuration process, including specific settings and options within the software. The content aligns well with the core themes of the category, focusing on practical instructions for setting up a tool relevant to DevOps practices. The depth of discussion is high, as it includes specific server details and navigation steps, making it actionable for users looking to implement this configuration.",
+    "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",

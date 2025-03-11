@@ -55,11 +55,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T22:10:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:24:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the process of setting up TFS with SharePoint, including specific steps taken and considerations for integration, which aligns well with installation and configuration topics.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS with SharePoint, detailing specific steps taken to set up project portals. It discusses the integration process, testing features, and considerations for permissions, which aligns well with the key topics of the category. However, while it provides a good level of detail, it lacks comprehensive troubleshooting or best practices, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -100,11 +103,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T22:10:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:19:53",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical setup and integration of TFS with SharePoint, which aligns with the exploration and application of tools and methodologies in Agile and DevOps practices.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the practical setup of TFS with SharePoint, which aligns with the category's focus on tooling and methodologies. It provides specific details about the integration process and testing, demonstrating a practical application of techniques. However, while it mentions tools and some practical steps, it lacks a comprehensive exploration of methodologies or frameworks, which limits its depth and overall alignment with the category.",
     "level": "Secondary"
   },
   "Value Delivery": {
@@ -316,12 +322,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:17:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the integration of TFS with SharePoint, which relates to engineering practices, but the primary focus is on implementation details rather than broader technical excellence principles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the integration of TFS with SharePoint, which touches on technical practices but lacks a strong focus on the principles of Technical Excellence. While it mentions testing and project management aspects, it does not delve deeply into methodologies like TDD or CI/CD, nor does it explore modular architecture or emergent design principles. The discussion is more operational and practical rather than a thorough examination of engineering practices that enhance agility and quality.",
+    "level": "Quaternary"
   },
   "People and Process": {
     "category": "People and Process",
@@ -370,11 +379,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T08:18:56",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T19:05:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses the setup and integration of TFS with SharePoint, including aspects of creating sites and managing permissions, aligning with system configuration themes.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the process of setting up TFS (Team Foundation Server) in conjunction with SharePoint, which directly relates to system configuration. It includes specific actions taken to configure the server and create project portals, indicating a focus on practical configuration tasks. However, while it touches on relevant topics like integration and permissions, the depth of technical detail is somewhat limited, and it lacks a comprehensive exploration of broader system configuration principles. Therefore, while it aligns with the category, it does not do so extensively.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
@@ -568,11 +580,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-11T10:52:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content mentions the integration of TFS and SharePoint, which is related to software development tools, but it does not primarily focus on software development practices or the role of software developers in Agile or DevOps contexts.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the integration of TFS with SharePoint, which is relevant to software development practices. However, it lacks a direct focus on Agile or DevOps methodologies, and the discussion is more technical than thematic. While it mentions project management tools, it does not delve into best practices or the role of developers in Agile contexts.",
     "level": "Quaternary"
   },
   "Software Development": {

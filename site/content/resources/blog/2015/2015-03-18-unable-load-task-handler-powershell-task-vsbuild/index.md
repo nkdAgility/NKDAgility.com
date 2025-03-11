@@ -8,7 +8,7 @@ ResourceImportId: 11097
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-03-18
-weight: 770
+weight: 850
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,14 +29,13 @@ aliasesArchive:
 tags:
 - Windows
 - Install and Configuration
-- Practical Techniques and Tooling
-- System Configuration
-- Azure DevOps
-- Azure Pipelines
-- Continuous Integration
-- Pragmatic Thinking
 - Software Development
+- System Configuration
+- Azure Pipelines
 - Troubleshooting
+- Practical Techniques and Tooling
+- Azure DevOps
+- Pragmatic Thinking
 categories:
 - DevOps
 preview: puzzle-issue-problem-128-link-7-7.png

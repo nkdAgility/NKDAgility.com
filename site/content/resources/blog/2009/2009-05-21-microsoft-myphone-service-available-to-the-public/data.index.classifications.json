@@ -73,12 +73,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:09:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:09:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content includes a brief mention of setting up the MyPhone service, but the primary focus is on the service's features and personal opinions rather than detailed installation or configuration instructions.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions setting up the phone by directing users to a specific URL, which aligns with installation. However, the primary focus is on the service's features and personal opinions rather than detailed installation or configuration processes. The discussion lacks depth and does not cover best practices, troubleshooting, or system requirements, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -334,11 +337,14 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:09:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:06:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the launch of Microsoft's MyPhone service, which is relevant to technology updates, but it primarily focuses on personal experiences and opinions rather than a broader industry analysis or review.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the launch of Microsoft's MyPhone service, which aligns with industry news. However, it lacks depth in analysis and does not provide a comprehensive review or insights into Agile or DevOps practices. The focus is primarily on the service's features rather than its impact on the industry or related methodologies.",
     "level": "Tertiary"
   },
   "Application Lifecycle Management": {
@@ -1099,11 +1105,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:24",
-    "ai_confidence": 40,
+    "calculated_at": "2025-03-07T15:44:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 30,
-    "final_score": 39.0,
-    "reasoning": "The content discusses the Microsoft MyPhone service, which is related to Windows Mobile but does not primarily focus on the Windows operating system itself. Instead, it centers around syncing mobile devices with web services, which is a secondary topic within the broader Windows ecosystem.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the Microsoft MyPhone service, which is related to Windows Mobile but does not focus on the Windows operating system itself. While there are mentions of Microsoft and some integration with Windows services, the primary focus is on the MyPhone service and its functionalities rather than on Windows installation, configuration, or troubleshooting. The discussion lacks depth in terms of Windows-specific topics, leading to a lower confidence score.",
     "level": "Quaternary"
   },
   "Deployment Strategies": {

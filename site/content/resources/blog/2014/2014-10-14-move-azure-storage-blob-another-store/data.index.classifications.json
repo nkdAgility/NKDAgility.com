@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T00:24:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:43:55",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical technique of moving Azure storage blobs using PowerShell, detailing the steps and code required for implementation.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a practical example of using PowerShell to move Azure storage blobs, which aligns with the category's focus on practical techniques and tooling. It discusses specific commands and the challenges faced during the process, demonstrating a hands-on approach to using Azure tools. However, while it mentions the use of PowerShell and Azure, the discussion lacks broader context on Agile or DevOps methodologies, which slightly lowers the alignment and depth scores.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T00:24:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:38:41",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the process of moving an Azure storage blob, including specific PowerShell commands and authentication steps, which aligns with installation and configuration tasks.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed step-by-step guide on moving an Azure storage blob, which directly relates to installation and configuration processes. It discusses the use of PowerShell commands for authentication and blob copying, aligning well with the category's focus on actionable instructions. The depth of discussion is significant, as it includes specific code snippets and explanations of the process, although it could benefit from more context on system requirements or troubleshooting tips.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -370,12 +376,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T17:51:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:43:01",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical process of moving an Azure storage blob using PowerShell, which aligns with software engineering practices and technical mastery in cloud storage management.",
-    "level": "Secondary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on a specific technical task involving Azure storage and PowerShell scripting. While it does touch on aspects of software craftsmanship, such as the need for authentication and the complexity of the process, it lacks a broader discussion on best practices, principles, or methodologies that define technical mastery. The mention of refactoring is relevant but not explored in depth, and the overall discussion is more about executing a task rather than mastering technical principles.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -577,11 +586,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T17:51:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:24:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses moving Azure storage blobs and utilizing PowerShell scripts, which relates directly to software development practices and methodologies, particularly in the context of cloud development and automation.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses moving Azure storage blobs and includes PowerShell scripts, which are relevant to software development practices, particularly in the context of cloud computing and automation. However, the focus is more on a specific task rather than broader software development methodologies or principles. While it does touch on coding and scripting, it lacks depth in discussing software development life cycles or best practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -775,12 +787,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:49:37",
+    "ai_confidence": 68.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical problem-solving techniques related to moving Azure storage blobs, showcasing real-world applications and challenges faced in a complex environment. However, it does not explicitly reference Agile, Scrum, or DevOps frameworks.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses a practical problem related to moving Azure storage blobs, which aligns with pragmatic thinking in a technical context. It highlights real-world challenges faced during the process and provides a detailed PowerShell solution, demonstrating practical problem-solving strategies. However, while it touches on adaptability and experience, it lacks a broader discussion on Agile, Scrum, or DevOps frameworks, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1045,11 +1060,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T17:51:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:33:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the process of moving Azure storage blobs, including the use of PowerShell for configuring and managing Azure storage accounts, which directly relates to system configuration practices.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the process of moving an Azure storage blob, which involves specific configuration steps and PowerShell commands. It directly addresses the technical aspects of system configuration, such as setting up storage accounts and managing virtual hard disks (VHDs). The discussion includes practical details about authentication and the use of PowerShell for configuration tasks, aligning well with the core themes of system configuration. However, while it provides a good level of detail, it does not delve deeply into broader configuration management strategies or optimisation techniques, which slightly limits the depth score.",
     "level": "Secondary"
   },
   "Product Strategy": {

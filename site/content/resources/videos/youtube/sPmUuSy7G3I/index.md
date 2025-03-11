@@ -27,10 +27,10 @@ duration: 312
 isShort: false
 tags:
 - People and Process
+- Pragmatic Thinking
 - Scrum Team
 - Agile Project Management
 - Scrum Product Development
-- Team Collaboration
 - Team Performance
 - Agile Frameworks
 - Agile Planning
@@ -45,6 +45,7 @@ resourceTypes:
 categories:
 - Scrum
 - Social Technologies
+- Product Management
 
 ---
 When it comes to effective planning and prioritisation within a Scrum team, the question often arises: how do we navigate this complex landscape? It’s a challenge that many teams face, and I can assure you, it’s not a one-size-fits-all solution. The intricacies of planning and prioritisation hinge significantly on the specific business context and its overarching goals.

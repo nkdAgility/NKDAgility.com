@@ -211,11 +211,14 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-11T14:34:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:42:16",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the concept of a 'Done Increment' in Scrum, emphasising the importance of delivery as a measure of progress, which directly relates to the Definition of Done.",
+    "final_score": 73.0,
+    "reasoning": "The content discusses the concept of 'Done' in relation to delivery within Scrum, highlighting the importance of the Definition of Done as it pertains to delivering value. However, while it mentions the Definition of Done, the primary focus is on the delivery aspect rather than a comprehensive exploration of the DoD itself. The discussion is relevant but does not delve deeply into the criteria or best practices for establishing a Definition of Done, which limits its alignment with the category.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -283,12 +286,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-11T14:35:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T11:34:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the importance of delivery within Scrum teams, emphasising collaboration and communication among team members to ensure that increments are not just completed but delivered. It highlights the need for cross-functional teams and the removal of silos, which aligns with the principles of team collaboration in Agile frameworks.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of delivery within Scrum teams, which indirectly relates to team collaboration by emphasising the need for cross-functional teams and the removal of silos. However, the primary focus is on delivery metrics rather than explicit team dynamics or collaboration techniques, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -358,11 +364,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-11T14:35:30",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-10T13:51:05",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 36,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses the importance of delivery in Scrum as a measure of progress, which directly relates to throughput by emphasising the completion and delivery of work items. It explores the implications of delivery on team performance and the flow of work, aligning well with the key topics of throughput.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on the concept of delivery as a measure of progress in Scrum, which directly relates to throughput by emphasising the importance of delivering value efficiently. It discusses the distinction between 'Done' and 'Delivered', highlighting the significance of actual delivery in measuring team performance and value creation. The depth of discussion includes strategies for ensuring delivery, which aligns with throughput improvement techniques. However, while it touches on throughput concepts, it does not explicitly measure throughput or provide detailed metrics, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Azure Pipelines": {
@@ -538,11 +547,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-11T14:36:08",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-10T17:48:00",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses the importance of delivery in Scrum, which directly relates to Lead Time as it emphasises the time taken from work completion to customer delivery. It explores the implications of delivery on value and market responsiveness, aligning well with the key topics of Lead Time.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of delivery in Scrum and how it relates to value creation, which indirectly touches on the concept of Lead Time. However, it does not explicitly define or measure Lead Time, nor does it provide detailed strategies for optimising it. The focus is more on delivery as a measure of progress rather than the time taken from initiation to delivery.",
     "level": "Secondary"
   },
   "Scaled Agile": {
@@ -583,11 +595,14 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-11T14:36:49",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T00:15:20",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses the importance of delivery in Scrum, aligning with Agile principles and strategies for continuous value delivery, which are central to Agile Strategy.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the importance of delivery within the Scrum framework, which is a key aspect of Agile methodologies. It highlights the need for Scrum Teams to focus on delivering value to users rather than merely completing tasks. While it touches on Agile principles, the discussion is more centred on technical practices and the execution of Scrum rather than a broader strategic alignment with Agile methodologies. Therefore, while it aligns with some core themes of Agile Strategy, it lacks depth in strategic planning and organisational vision, leading to a high confidence score but not a perfect one.",
     "level": "Secondary"
   },
   "Continuous Delivery": {
@@ -772,11 +787,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T14:37:48",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T09:47:06",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "Content primarily discusses the role of Scrum Teams in delivering value, emphasising the responsibilities of Scrum Masters in ensuring effective delivery and adherence to Scrum principles.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of delivery within the Scrum framework, which is relevant to the Scrum Master's role in ensuring that teams deliver value. However, it lacks direct mentions of the Scrum Master role and does not delve deeply into specific responsibilities or practices of Scrum Masters. The focus is more on delivery metrics rather than the facilitation and coaching aspects of a Scrum Master.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -799,11 +817,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-11T14:37:53",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T11:10:35",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "Content primarily discusses the importance of delivery in Scrum, aligning with technical leadership principles by emphasising the role of leaders in guiding teams towards effective delivery practices and fostering a culture of continuous improvement.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of delivery in Scrum and how it relates to modern software engineering practices, particularly in the context of DevOps. While it touches on aspects of technical leadership, such as guiding teams towards effective delivery and the implications of their work, it lacks a direct focus on mentoring, coaching, or the broader principles of technical leadership. The discussion is primarily centred on delivery metrics rather than the leadership strategies that would enhance team dynamics or agile practices.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -1174,11 +1195,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-07T12:35:28",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 82.0,
-    "reasoning": "The content primarily discusses the importance of delivery in Scrum, linking it to modern DevOps practices and continuous delivery. It emphasizes automation, CI/CD pipelines, and the cultural shifts necessary for effective delivery, which are central themes in DevOps.",
+    "final_score": 83.0,
+    "reasoning": "The content discusses the importance of delivery in Scrum, explicitly linking it to modern DevOps practices and continuous delivery. It highlights the need for automation, CI/CD pipelines, and the cultural shifts necessary for effective delivery, which are core themes of DevOps. The depth of discussion on how Scrum teams can ensure delivery aligns well with DevOps principles, making it a strong fit for the category.",
     "level": "Primary"
   },
   "Azure DevOps": {
@@ -1231,20 +1255,26 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-11T14:33:41",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-07T12:30:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses the importance of delivery in Scrum, linking it to modern software engineering practices such as CI/CD, which are central to technical excellence. It emphasizes the need for teams to focus on delivering value and adapting to user feedback, aligning well with the principles of technical excellence.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of delivery in Scrum and how it relates to modern software engineering practices, particularly in the context of CI/CD. However, while it touches on technical practices, the primary focus is on Scrum philosophy and team dynamics rather than deep technical methodologies or engineering practices that enhance agility. The discussion on automation and CI/CD is relevant but not sufficiently detailed to fully align with the category of Technical Excellence.",
     "level": "Secondary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-11T14:33:44",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-07T12:35:32",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses the importance of delivery in Scrum, emphasising the need for organisations to adapt their practices to ensure value delivery and responsiveness to user feedback, which aligns closely with the principles of organisational agility.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of delivery in Scrum and how it relates to organisational responsiveness and adaptability. It highlights the need for teams to focus on delivering value to users, which aligns with the principles of agility. However, while it touches on agility concepts, the primary focus is on Scrum practices rather than broader organisational agility strategies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -1285,11 +1315,14 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-11T14:33:53",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-07T12:40:17",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses the importance of delivery as a measure of progress in Scrum, emphasising the need for feedback and learning from real user interactions, which aligns closely with evidence-based decision-making and continuous improvement principles.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of delivery as a measure of progress in Scrum, which aligns with the concept of metrics in Agile practices. However, while it touches on feedback and the need for continuous improvement, it lacks detailed exploration of specific metrics, data analysis techniques, or feedback loops. The focus is primarily on delivery rather than a broader discussion of metrics and learning, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Application Lifecycle Management": {
@@ -1375,11 +1408,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T13:47:02",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-07T12:40:14",
+    "ai_confidence": 92.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 95.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 82.0,
-    "reasoning": "Content primarily discusses the Scrum framework, focusing on the importance of delivery as a measure of progress, which aligns closely with the principles and practices of Scrum.",
+    "final_score": 84.0,
+    "reasoning": "The content extensively discusses the Scrum framework, focusing on the importance of delivery as a measure of progress, which aligns closely with the core themes of Social Technologies. It provides detailed insights into Scrum roles, the distinction between 'Done' and 'Delivered', and practical strategies for ensuring delivery, demonstrating a deep understanding of Agile practices. The emphasis on collaboration, continuous improvement, and adapting to change further solidifies its relevance to the category.",
     "level": "Primary"
   },
   "Internal Developer Platform": {

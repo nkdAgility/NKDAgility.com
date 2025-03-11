@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T17:00:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:14:37",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses automated testing as a practical technique within the modern application lifecycle, detailing various tools and methodologies for implementation, which aligns well with the category.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses automated testing within the context of a modern application lifecycle, highlighting specific tools and methodologies such as unit testing, UI testing, and integration with Visual Studio and Team Foundation Server. It provides practical insights into the implementation of these techniques, making it highly relevant to the category of Practical Techniques and Tooling. The depth of discussion on various testing types and their integration into development processes further supports a high confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T17:01:14",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-07T15:14:33",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses automated testing within the context of a modern application lifecycle, which is a significant aspect of DevOps practices. However, it primarily focuses on testing rather than the broader principles of DevOps, making it a major but secondary theme.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses automated testing, which is a crucial aspect of DevOps practices, particularly in the context of Continuous Integration and Continuous Delivery. However, while it touches on the importance of automation and integration within the software development lifecycle, it lacks a broader discussion on the cultural shifts, collaboration, and specific DevOps tools that are essential for a comprehensive understanding of the DevOps category. The focus is primarily on testing rather than the holistic integration of development and operations.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -208,12 +214,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-14T17:01:31",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-10T12:52:44",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 82.0,
-    "reasoning": "The content primarily discusses automated testing, its importance in modern application lifecycles, and various testing methodologies, which are central to enhancing software quality and delivery processes.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses automated testing, a key engineering practice that enhances software quality and delivery speed. It directly addresses the importance of automated testing in modern application lifecycles, aligning well with the principles of Technical Excellence. The depth of discussion includes various types of tests (unit, integration, UI), their integration with tools like Visual Studio and Team Foundation Server, and the implications of technical debt, showcasing a thorough understanding of the topic. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -235,11 +244,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-14T17:01:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:52:55",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of automated testing within the software delivery lifecycle, emphasising its importance in ensuring quality and efficiency in product delivery.",
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses the role of automated testing within the software delivery lifecycle, highlighting its importance in ensuring quality and efficiency in product delivery. It aligns well with key topics such as the integration of testing in the development process, the impact of automation on delivery speed, and the necessity of maintaining quality standards. The depth of discussion on various testing methodologies and their implications for product delivery further supports a high confidence score.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -262,11 +274,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-14T17:01:39",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T18:41:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses various tools and solutions for automated testing, which aligns with the category's focus on products relevant to Agile and DevOps practices. However, the primary focus is on the concept of automated testing rather than specific product reviews or analyses.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses automated testing tools and methodologies relevant to software development, which aligns with the category's focus on products and tools that facilitate Agile practices. However, it lacks in-depth reviews or analyses of specific books or products, and the primary focus is on the concept of automated testing rather than a detailed exploration of specific products or literature.",
     "level": "Secondary"
   },
   "Value Delivery": {
@@ -280,11 +295,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-14T17:01:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:32:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses automated testing within the context of a modern application lifecycle, with a significant focus on integration with Visual Studio and Team Foundation Server, which are part of Azure DevOps services.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses automated testing within the context of a modern application lifecycle, with specific references to integration with Visual Studio and Team Foundation Server, which are part of Azure DevOps. However, the primary focus is on automated testing practices rather than Azure DevOps itself. While there are mentions of Azure DevOps tools, the overall discussion does not deeply explore Azure DevOps functionalities or best practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -343,11 +361,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-14T17:01:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:57:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the role of automated testing within the context of the application lifecycle, highlighting its importance in ensuring quality and efficiency throughout the development and deployment stages.",
+    "final_score": 73.0,
+    "reasoning": "The content discusses automated testing within the context of a modern application lifecycle, highlighting its importance in delivering quality software efficiently. It touches on various testing types and their integration into the development process, which aligns with the application lifecycle stages. However, while it mentions aspects of application lifecycle management, it primarily focuses on automated testing rather than providing a comprehensive view of the entire lifecycle or governance practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -730,11 +751,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-14T17:03:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:52:36",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses automated testing as a critical practice in software development, emphasising its role in maintaining quality and reducing technical debt, which aligns closely with the principles of engineering excellence.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses automated testing within the context of modern application lifecycles, highlighting its critical role in ensuring software quality and efficiency. It directly addresses best practices in testing methodologies, the importance of automation, and the management of technical debt, all of which align closely with the principles of engineering excellence. The depth of discussion is significant, providing detailed insights into various types of automated tests and their integration into development processes, thus reinforcing the focus on high standards in software craftsmanship.",
     "level": "Secondary"
   },
   "Revenue per Employee": {

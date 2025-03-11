@@ -1,20 +1,26 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-16T01:06:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:38:30",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses Scrum methodologies and their application within Team Foundation Server, focusing on product backlog management and user stories, which are central to Agile Product Management.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content discusses Scrum in the context of Team Foundation Server, mentioning aspects like user stories, project planning, and product backlogs. However, it lacks a comprehensive exploration of Agile Product Management principles and does not delve deeply into the role of the Product Owner or stakeholder engagement, which are crucial for the category.",
+    "level": "Tertiary"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T01:06:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:05:54",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the application of Scrum methodologies using Team Foundation Server (TFS) and Visual Studio ALM, focusing on practical techniques for project planning, requirement gathering, and tracking progress.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the application of Scrum within the context of Team Foundation Server (TFS) 2010, which directly relates to practical techniques and tooling in Agile practices. It provides specific insights into how TFS can be used to implement Scrum methodologies, including project planning, backlog management, and tracking progress. The mention of tools like Visual Studio ALM and TFS, along with references to user stories and sprint planning, indicates a strong alignment with the category's focus. However, while the content is rich in practical application, it does not delve deeply into metrics or case studies, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -145,11 +151,14 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T01:06:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:04:00",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a specific presentation on 'Scrum for TFS2010', including details about the events where the presentation will take place, making it a clear focus of the content.",
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses a presentation on 'Scrum for TFS2010', including specific events where the session will be held. It aligns well with the category as it focuses on a structured learning experience related to Agile methodologies, specifically Scrum. The depth of discussion includes details about the session's content, objectives, and the tools involved, which enhances its relevance to the category.",
     "level": "Secondary"
   },
   "Agile Product Operating Model": {
@@ -208,20 +217,26 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-16T01:09:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:51:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Scrum methodologies and their application within Team Foundation Server, focusing on planning, project management, and the software development lifecycle, which are central to product delivery.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses Scrum methodologies and their application within Team Foundation Server (TFS), which aligns well with product delivery practices. It covers aspects such as gathering requirements, planning projects, managing product backlogs, and tracking progress, all of which are crucial for effective product delivery. However, while it provides a good overview of Scrum's role in product delivery, it lacks in-depth exploration of broader product delivery methodologies and practices, which slightly limits its overall depth.",
     "level": "Secondary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T01:09:09",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T10:41:01",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses Visual Studio ALM and Team Foundation Server in the context of Scrum, which relates to application lifecycle management practices. However, the primary focus is on Scrum methodologies rather than a comprehensive discussion of the entire application lifecycle.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses Visual Studio ALM and Team Foundation Server (TFS) in the context of Scrum, which is related to application lifecycle management. However, the primary focus is on Scrum practices rather than a comprehensive exploration of the application lifecycle stages or governance. While it mentions tools and some aspects of project planning and tracking, it lacks depth in discussing the entire lifecycle or best practices for application governance.",
     "level": "Secondary"
   },
   "Value Delivery": {
@@ -1198,11 +1213,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-16T01:51:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:06:26",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the role of Scrum within the context of Visual Studio ALM and Team Foundation Server, which is relevant to software developers utilizing Agile methodologies.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses Scrum in the context of Team Foundation Server (TFS) and Visual Studio ALM, which are tools relevant to software developers. It aligns well with the category by focusing on Agile methodologies and how they can be implemented in software development. The depth of discussion includes specific practices like gathering requirements with user stories and planning sprints, which are crucial for developers. However, while it mentions Scrum and its application, it does not delve deeply into the broader implications of Agile and DevOps principles, slightly limiting its overall depth.",
     "level": "Secondary"
   },
   "Coaching": {
@@ -1243,12 +1261,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:38:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum methodologies, project planning, and tools like TFS in the context of software development, which are relevant to product management but primarily focuses on technical implementation details and Scrum practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Scrum and its implementation with Team Foundation Server, which is more aligned with project management and technical implementation rather than the strategic aspects of product management. While it touches on gathering requirements and planning projects, it lacks a comprehensive discussion on aligning customer needs with business objectives or the methodologies that guide product managers in making informed decisions.",
+    "level": "Quaternary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -1351,11 +1372,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:00:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:05:50",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Scrum practices and their implementation with Team Foundation Server, focusing on roles, project planning, and collaboration.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the Scrum framework, detailing its application within Team Foundation Server (TFS) and Visual Studio ALM. It discusses specific Scrum practices such as user stories, project planning, and sprint management, which are core to the Social Technologies category. The depth of discussion is substantial, providing insights into how Scrum can enhance software development processes, thus aligning well with the themes of value delivery and continuous improvement.",
     "level": "Secondary"
   },
   "Leadership": {

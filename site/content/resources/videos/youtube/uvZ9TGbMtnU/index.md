@@ -25,14 +25,15 @@ preview: https://i.ytimg.com/vi/uvZ9TGbMtnU/maxresdefault.jpg
 duration: 41
 isShort: true
 tags:
-- Agile Product Management
 - Agile Project Management
 - Agile Transformation
-- Product Delivery
 - Working Software
 - Pragmatic Thinking
 - Software Development
+- Agile Product Management
+- Product Delivery
 - Agile Planning
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

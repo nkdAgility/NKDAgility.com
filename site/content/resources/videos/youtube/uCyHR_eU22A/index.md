@@ -28,16 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Backlog
+- Agile Product Management
 - Product Owner
 - Scrum Product Development
-- Agile Product Management
-- People and Process
-- Professional Scrum
 - Scrum Master
 - Scrum Team
 - Software Developers
 - Agile Frameworks
+- Agile Planning
+- Agile Project Management
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

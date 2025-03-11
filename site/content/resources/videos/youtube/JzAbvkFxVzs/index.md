@@ -29,16 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Master
-- Agile Frameworks
-- Agile Philosophy
-- Agile Project Management
 - Pragmatic Thinking
-- People and Process
+- Scrum Master
 - Software Development
+- Agile Philosophy
+- People and Process
+- Agile Project Management
 - Agile Values and Principles
-- Personal
+- Agile Frameworks
 - Scrum Values
+- Personal
 resourceTypes:
 - video
 categories:

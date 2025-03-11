@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T22:04:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:28:45",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for resolving conflicts during the migration from Subversion to TFS, including specific tools and methodologies used in the process.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed discussion on the practical challenges and techniques involved in migrating from Subversion to TFS, specifically addressing conflict resolution during the migration process. It mentions specific tools and methodologies, such as the 'Migration Support' tool and the 'Session Viewer', which are directly relevant to the category. The depth of discussion includes practical steps for resolving conflicts and considerations for tool settings, aligning well with the core themes of practical techniques and tooling in Agile and DevOps. However, while it is focused on practical application, it does not extensively cover broader Agile or DevOps methodologies, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T22:05:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:00:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration challenges faced during the migration from Subversion to Team Foundation Server, including specific conflicts and resolutions related to the migration process.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on the installation and configuration challenges encountered during the migration from Subversion to TFS, detailing specific conflicts and resolutions. It discusses the case sensitivity issue, the use of migration support tools, and provides actionable steps to resolve conflicts, which aligns well with the category's focus on installation and configuration processes. The depth of discussion is substantial, as it includes troubleshooting steps and recommendations for handling conflicts, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -613,11 +619,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-16T02:06:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:37:33",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses migration from Subversion to Team Foundation Server, focusing on resolving conflicts that arise during this process, which is a key aspect of modern source control practices.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the challenges and strategies involved in migrating from Subversion to Team Foundation Server, focusing on conflict resolution during the migration process. It explicitly mentions issues related to case sensitivity and how these can lead to conflicts, which is a key aspect of version control practices. The depth of discussion includes specific examples of conflicts encountered, potential resolutions, and tools that can assist in the migration process. While it does not cover broader topics like branching strategies or code review processes, it aligns well with the core themes of conflict resolution and effective code management in modern source control.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
@@ -730,12 +739,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:28:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to migration conflict resolution, a technical aspect of software engineering that touches on best practices and handling of software artifacts, though it does not primarily focus on broader engineering processes or quality assurance practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the technical challenges and solutions related to migrating from Subversion to TFS, focusing on conflict resolution during the migration process. While it touches on aspects of software development, such as handling conflicts and the importance of migration tools, it lacks a broader discussion on engineering excellence principles, best practices, or continuous improvement in software craftsmanship. The mention of conflicts and resolution strategies is relevant but does not delve deeply into the overarching themes of engineering excellence, such as coding standards or quality assurance.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -775,11 +787,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-16T02:06:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:59:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses practical problem-solving strategies in the context of migrating a Subversion repository to Team Foundation Server, including resolving conflicts that arise from case sensitivity. It emphasizes real-world applications and hands-on techniques for managing complex issues during migration, which aligns well with the category of Pragmatic Thinking.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses practical problem-solving strategies related to migrating from Subversion to TFS, highlighting specific conflicts and resolutions encountered during the process. It provides real-world examples of issues faced during migration, which aligns with the core themes of pragmatic thinking. However, while it touches on practical applications, the depth of discussion on broader Agile or DevOps principles is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -1045,12 +1060,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T02:06:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:47:33",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses challenges and solutions related to migrating system configurations from Subversion to TFS, including conflict resolution and settings adjustments, which are central to system configuration practices. It addresses specific configuration issues and provides a methodical approach to resolving them.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content primarily discusses the challenges and solutions related to migrating a Subversion repository to Team Foundation Server, which involves system configuration aspects such as handling conflicts, settings adjustments, and the use of migration tools. While it does not explicitly cover broader system configuration best practices, it delves into specific configuration issues and resolutions, aligning with the category's focus. However, the depth of discussion on general configuration management principles is somewhat limited, hence the moderate confidence score.",
+    "level": "Tertiary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1153,12 +1171,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T02:06:40",
-    "ai_confidence": 95,
+    "calculated_at": "2025-03-11T12:02:40",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 86.0,
-    "reasoning": "The content primarily discusses resolving conflicts encountered during the migration from Subversion to TFS, specifically addressing technical issues related to case sensitivity and how to utilize tools to resolve such conflicts. It provides detailed methodologies for diagnosing and resolving these issues, making troubleshooting the central theme.",
-    "level": "Primary"
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on troubleshooting issues encountered during the migration from Subversion to TFS, specifically addressing conflicts arising from case sensitivity. It provides detailed insights into diagnosing the problem, methods for resolving conflicts, and practical steps to mitigate issues, which aligns well with the core themes of the Troubleshooting category. The depth of discussion is substantial, as it includes specific examples, tools, and recommendations for resolution, demonstrating a thorough understanding of the troubleshooting process.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",

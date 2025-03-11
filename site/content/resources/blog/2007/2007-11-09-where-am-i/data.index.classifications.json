@@ -316,12 +316,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:14:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of LINQ in a .NET application, which relates to technical practices in software development. However, it primarily focuses on the application functionality rather than broader engineering methodologies or practices that enhance agility.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the use of LINQ in a specific application, which touches on technical practices but lacks a broader focus on engineering methodologies or principles that enhance agility in software development. While there are mentions of database interactions and some technical details, the discussion does not delve into key topics like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
+    "level": "Quaternary"
   },
   "People and Process": {
     "category": "People and Process",
@@ -568,20 +571,26 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:49:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses a specific software project that utilizes LINQ and WCF, which can be relevant to software developers. However, the focus is more on the implementation details and technical aspects of the application rather than Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a specific project involving LINQ and .NET, detailing its functionality and implementation. While it touches on technical aspects relevant to software development, it lacks explicit discussions on Agile methodologies, DevOps principles, or broader engineering practices. The mention of LINQ and database interactions is relevant to developers, but the content does not explore the role of developers within Agile or DevOps frameworks, nor does it provide depth on collaboration or productivity strategies. Therefore, it aligns only marginally with the category.",
+    "level": "Quaternary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T20:19:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T19:01:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content discusses the development of a LINQ application, detailing its functionality, database interactions, and LINQ to SQL usage, which are central to software development practices.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the development of a specific application using LINQ and .NET, which aligns with software development practices. It provides insights into the application architecture, database interactions, and the use of LINQ for querying, which are relevant to coding and software design. However, while it touches on these topics, the discussion lacks depth in methodologies or broader software development principles, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {
@@ -946,12 +955,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T20:19:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:18:44",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of LINQ in a .NET application, highlighting specific coding practices and technical details. It focuses on software craftsmanship and engineering practices related to database interaction and the use of LINQ, which aligns well with the category of Technical Mastery.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the use of LINQ in a .NET application, showcasing a practical implementation of software development techniques. While it does not explicitly mention best practices or principles of software craftsmanship, it does provide insights into code quality and the use of a specific technology (LINQ) to enhance functionality. The depth of discussion around LINQ and its impact on the application indicates a moderate level of technical mastery, but the overall focus is more on the project description rather than a thorough exploration of technical excellence.",
+    "level": "Tertiary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1081,11 +1093,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T20:19:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:15:04",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses a Windows application being developed with LINQ and .NET, which interacts with Windows Communication Foundation and Active Directory. It addresses specific Windows-related functionalities and user experiences.",
+    "final_score": 73.0,
+    "reasoning": "The content discusses a project that involves a Windows Communication Foundation (WCF) service and Active Directory, which are both integral to the Windows environment. However, while it mentions Windows-related technologies, the primary focus is on the development of a specific application rather than a comprehensive discussion of Windows installation, configuration, or troubleshooting. The content does not delve deeply into Windows-specific issues or provide extensive guidance on managing the Windows environment, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Lean Principles": {
@@ -1234,12 +1249,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:18:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of LINQ and .NET for a software project, showcasing aspects of coding and database interactions, which aligns with software craftsmanship. However, it primarily focuses on a specific project rather than broader engineering excellence practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a specific project involving LINQ and .NET, detailing its functionality and implementation. While it touches on aspects of software development, such as the use of LINQ for database updates, it lacks a broader discussion on engineering excellence principles, best practices, or continuous improvement processes. The mention of LINQ and SQL generation does not sufficiently align with the core themes of engineering excellence, which emphasise high standards in software craftsmanship and development practices.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

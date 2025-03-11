@@ -27,14 +27,7 @@ aliasesArchive:
 - /blog/least-opportune-time-
 - /resources/blog/least-opportune-time
 tags:
-- Products and Books
 - Miscellaneous
-- Modern Source Control
-- Personal
-- Release Management
-- Software Developers
-- Software Development
-- Troubleshooting
 categories: []
 preview: metro-visual-studio-2005-128-link-4-4.png
 

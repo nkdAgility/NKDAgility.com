@@ -55,11 +55,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T19:57:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:18:47",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration of proxy server settings for SharePoint 2007, providing specific XML examples and parameters relevant to installation and configuration processes.",
+    "final_score": 70.0,
+    "reasoning": "The content provides specific configuration settings for a proxy server in SharePoint 2007, which directly relates to the installation and configuration category. It includes code snippets that detail how to set up the proxy, demonstrating a clear focus on actionable instructions. The discussion aligns well with the core themes of the category, particularly in providing configuration best practices. However, while the content is detailed, it lacks broader context on installation procedures or troubleshooting, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -370,11 +373,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T20:09:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:15:08",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical aspects of configuring proxy server settings for SharePoint 2007, which aligns directly with system configuration topics.",
+    "final_score": 74.0,
+    "reasoning": "The content explicitly discusses the configuration of proxy settings for SharePoint 2007, which is a direct application of system configuration principles. It provides specific examples of XML configuration snippets, detailing how to set up the proxy server, including parameters like 'useDefaultCredentials' and 'bypasslist'. This aligns well with the core themes of system configuration, such as best practices for software installation and configuration, and troubleshooting common configuration issues. The depth of discussion is significant, as it not only presents the configuration code but also explains its implications for authentication. Overall, the content is highly relevant to the category, with a strong focus on practical configuration details.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
@@ -577,12 +583,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:14:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses configuration specifics for a SharePoint system, which is a software product, but it primarily focuses on proxy settings rather than broader software development methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses proxy server settings specifically for SharePoint 2007, which is a technical aspect of software configuration. However, it lacks a broader discussion on software development methodologies, practices, or frameworks. The focus is primarily on a specific implementation detail rather than the software development lifecycle or best practices, leading to a low confidence score in alignment with the Software Development category.",
+    "level": "Quaternary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -946,12 +955,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:49:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical configurations for proxy settings within SharePoint, which relates to software engineering practices, but it mainly focuses on specific implementation rather than broader principles or methodologies of technical mastery.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on specific technical configurations for SharePoint 2007, which does not align with the broader principles of software craftsmanship or engineering excellence. While it provides some technical details, it lacks a discussion on best practices, code quality, or methodologies that contribute to high-quality software development. The mention of proxy settings is too narrow and does not encompass the key topics outlined in the 'Technical Mastery' category.",
+    "level": "Quaternary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1099,11 +1111,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T20:09:42",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T19:01:19",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content provides specific examples of configuring proxy settings for SharePoint 2007, which involves diagnosing and resolving connectivity issues related to proxy servers. However, it primarily focuses on configuration rather than a broader troubleshooting methodology.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses specific proxy server settings for SharePoint 2007, which implies a troubleshooting context by addressing a missing piece of information necessary for proper configuration. However, it lacks a comprehensive exploration of troubleshooting techniques or methodologies, focusing instead on a specific configuration detail. The mention of 'double-hop authentication' suggests an ongoing issue but does not delve into resolution strategies or broader troubleshooting practices.",
     "level": "Secondary"
   },
   "Entrepreneurship": {

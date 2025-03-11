@@ -109,11 +109,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T16:53:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:46:49",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 42.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical strategies for managing technical debt within Agile and DevOps contexts, emphasising real-world applications and the importance of adaptability in decision-making processes.",
+    "final_score": 79.0,
+    "reasoning": "The content discusses technical debt in detail, providing real-world examples, particularly from the Azure DevOps team, which illustrates practical problem-solving in a complex environment. It aligns well with the themes of adaptability and critical thinking, emphasising the importance of addressing technical debt to enhance product delivery. However, while it touches on Agile principles, the primary focus is on technical debt rather than a broader discussion of Agile or Scrum methodologies.",
     "level": "Secondary"
   },
   "Employee Engagement": {
@@ -262,12 +265,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T16:54:04",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T11:35:56",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the impact of technical debt on the ability to deliver features and the transition to a continuous delivery model, making Continuous Delivery a major theme. However, the primary focus is on technical debt management rather than Continuous Delivery principles and practices.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content discusses technical debt and its implications on software delivery, mentioning a transition to a continuous delivery model. However, the primary focus is on technical debt rather than the principles and practices of Continuous Delivery itself. While there are references to continuous delivery and its impact on feature delivery, the depth of discussion on Continuous Delivery principles is limited, making it a secondary theme rather than a primary focus.",
+    "level": "Tertiary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -370,11 +376,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-12T16:54:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:53:01",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the concept of technical debt and its implications for software development practices, particularly in the context of Agile methodologies and continuous delivery. It highlights the importance of managing technical debt to enhance productivity and the quality of software delivery, which aligns well with the category's focus on software developers within Agile and DevOps frameworks.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses technical debt in the context of software development, particularly how it affects teams transitioning to Agile and DevOps methodologies. It provides examples of how the Azure DevOps team managed their technical debt while shifting to continuous delivery, which aligns with the category's focus on modern engineering practices. However, while it touches on relevant themes, the primary focus is on technical debt rather than a broader exploration of the role of software developers within Agile and DevOps frameworks.",
     "level": "Secondary"
   },
   "Scaled Agile": {
@@ -388,11 +397,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T16:54:26",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses technical debt management, its implications on software quality, and the impact of development methodologies on technical debt, which are central themes in software development practices.",
+    "calculated_at": "2025-03-10T17:49:44",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content provides a comprehensive discussion on technical debt, a critical aspect of software development. It explicitly defines technical debt, discusses its implications, and provides real-world examples, particularly referencing the Azure DevOps team's experience. The depth of the discussion is significant, covering both known and unknown technical debt, and the importance of managing it effectively within the software development lifecycle. The content aligns well with key topics in software development, such as best practices in coding, continuous delivery, and the impact of architectural decisions on software quality.",
     "level": "Secondary"
   },
   "Azure Repos": {
@@ -451,11 +463,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-12T16:54:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T00:17:00",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the management and implications of technical debt within the context of Agile and DevOps practices, highlighting strategies for improving operational efficiency and delivery through the prioritisation of technical debt repayment.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses technical debt and its implications on operational efficiency, particularly in the context of Agile and DevOps practices. It highlights the importance of managing and paying back technical debt to improve delivery speed and product quality, which aligns with the core themes of operational practices. However, while it touches on relevant concepts, the primary focus is on technical debt rather than broader operational strategies, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Decision Making": {
@@ -712,11 +727,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-12T17:15:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T09:48:39",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the concept of technical debt, its implications, and the importance of managing and paying it back to improve software quality and delivery. It aligns well with the principles of software craftsmanship and engineering practices.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a thorough exploration of technical debt, discussing its implications, management strategies, and the importance of addressing it within software development. It aligns closely with the principles of software craftsmanship and engineering excellence, detailing how technical debt can impact product delivery and quality. The depth of discussion is significant, with real-world examples illustrating the consequences of neglecting technical debt and the benefits of prioritising its management. Overall, the content is highly relevant to the category of Technical Mastery.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -805,11 +823,14 @@
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-12T17:16:00",
-    "ai_confidence": 95,
+    "calculated_at": "2025-03-11T11:12:08",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 38,
+    "ai_depth": 36,
     "non_ai_confidence": 20,
-    "final_score": 88.0,
-    "reasoning": "The content primarily discusses the concept of technical debt, its implications, and the importance of managing and paying it back. It provides definitions, examples, and strategies related to technical debt, making it the central theme of the discussion.",
+    "final_score": 85.0,
+    "reasoning": "The content provides a comprehensive discussion on technical debt, including its definition, types (intentional vs. unintentional), and real-world examples illustrating its impact on development velocity and product quality. It delves into strategies for managing and prioritising technical debt, particularly through the lens of the Azure DevOps team's experience. The depth of discussion is significant, with detailed explanations and case studies that highlight the consequences of neglecting technical debt and the benefits of addressing it. Overall, the content aligns closely with the key topics outlined in the Technical Debt category.",
     "level": "Primary"
   },
   "Scaling Scrum": {
@@ -868,12 +889,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T12:00:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the implications of technical debt on product delivery and value, which relates to product management. However, it primarily focuses on technical aspects and examples rather than strategic product management methodologies or frameworks.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-07T12:46:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses technical debt and its implications for development teams, which is more aligned with software engineering than product management. While it touches on the importance of managing technical debt for delivering value and features, it lacks a direct focus on product management strategies, methodologies, or frameworks. The discussion does not explicitly mention product management roles or techniques for aligning customer needs with business objectives, which are central to the category. Therefore, while there are relevant points, they are not the primary focus of the content.",
+    "level": "Quaternary"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -1204,11 +1228,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-12T16:52:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:32:40",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the management of technical debt and its impact on the ability to deliver value in a product, particularly in the context of Agile and continuous delivery practices. It highlights how addressing technical debt can enhance the delivery of features and overall product quality, aligning well with the principles of iterative development and maximising customer value.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses technical debt and its impact on value delivery, particularly in the context of the Azure DevOps team's transition to continuous delivery. It highlights how managing technical debt can enhance the ability to deliver features and value to customers. However, while it touches on value delivery, the primary focus is on technical debt rather than a broader discussion of value delivery strategies and methodologies. The depth of discussion on value delivery principles is moderate, but it lacks comprehensive exploration of key topics such as customer feedback alignment and iterative development.",
     "level": "Secondary"
   },
   "Miscellaneous": {

@@ -130,11 +130,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-12T05:06:02",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T00:22:38",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the importance of delivering high-quality software and the implications of user acceptance testing, which aligns with the principles of working software. However, it also delves into broader discussions about Agile practices and organisational processes, making it a secondary theme rather than the primary focus.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of delivering high-quality software and the implications of bureaucratic processes on agile practices. It highlights the need for continuous delivery and the role of user acceptance testing (UAT) in assessing software quality. However, while it touches on key aspects of working software, such as quality and delivery, it does not provide in-depth exploration of best practices or metrics for assessing software effectiveness, which limits its depth of discussion.",
     "level": "Secondary"
   },
   "Decision Making": {
@@ -265,11 +268,14 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-12T05:06:25",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T09:53:57",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the challenges and practices related to achieving true agility within organisations, referencing Agile principles and the importance of continuous delivery. While it touches on Agile concepts, it primarily focuses on the shortcomings and bureaucratic processes rather than a detailed exploration of specific Agile frameworks.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the challenges and practices related to Agile methodologies, particularly in the context of continuous delivery and quality assurance. It touches on the principles of Agile, such as the importance of high-quality outputs and the minimisation of bureaucratic processes, which aligns with Agile values. However, it does not provide a detailed exploration of specific Agile frameworks or a comparative analysis, which limits its depth. The mention of Agile is present but not the primary focus, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Scaling Agility": {
@@ -337,11 +343,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T05:06:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:17:08",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses Agile methodologies, continuous delivery, and quality assurance practices in software development, making it a clear fit for the Software Development category.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses Agile methodologies, continuous delivery, and quality assurance practices in software development. It critically evaluates the effectiveness of Agile practices in organisations, particularly in relation to compliance and quality standards. The depth of discussion on Agile principles and the importance of high-quality software aligns well with the core themes of the Software Development category.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -1183,12 +1192,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T12:29:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T12:57:56",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges of continuous delivery and the importance of quality in software delivery, which are relevant to DevOps principles. However, the primary focus is on Agile practices and self-reflection rather than a direct discussion of DevOps as a central theme.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses aspects of continuous delivery and the importance of quality in software delivery, which aligns with DevOps principles. However, it primarily focuses on Agile methodologies and the challenges of achieving true agility, rather than on DevOps practices or tools. The mention of continuous delivery is brief and secondary to the overall discussion about Agile, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1231,11 +1243,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-12T05:05:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:57:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of continuous delivery, quality assurance, and the elimination of bureaucratic processes in Agile environments, which aligns closely with the principles of value delivery.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of continuous delivery and the minimisation of bureaucratic processes in Agile environments, which aligns well with the principles of iterative development and customer value delivery. It highlights the need for high-quality products to reduce the necessity for user acceptance testing, thus directly addressing customer satisfaction and value management. However, while it touches on these themes, it does not delve deeply into specific methodologies or practices, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Technical Excellence": {
@@ -1249,11 +1264,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-12T05:05:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T11:42:20",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the challenges and practices related to achieving true agility within organisations, including the importance of quality, continuous delivery, and self-reflection on processes. It aligns well with the principles of organisational agility and explores how to enhance adaptability and responsiveness.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the challenges of achieving true agility within organisations, particularly in relation to bureaucratic processes and the importance of quality in product delivery. It directly addresses the need for organisations to reflect on their practices and adapt to become more agile, aligning well with the core themes of organisational agility. The depth of discussion is substantial, as it explores specific practices and the implications of maintaining traditional bureaucratic structures. However, while it touches on key aspects of agility, it does not provide extensive strategies or frameworks for enhancing agility, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -1267,20 +1285,26 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-12T05:05:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:58:52",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the interplay between Agile methodologies, team dynamics, and the challenges faced by organisations in achieving true agility. It emphasises the importance of leadership, quality assurance, and the human factors involved in process improvement, making it a central theme.",
+    "final_score": 76.0,
+    "reasoning": "The content discusses the challenges of implementing Agile methodologies within organisations, focusing on the interplay between human behaviour and structured processes. It highlights the importance of leadership, team dynamics, and the need for continuous improvement in quality to enhance productivity. The mention of user acceptance testing and its value to customers further aligns with the category's emphasis on communication and feedback loops. Overall, the content provides a detailed examination of how teams can adapt their processes to achieve true agility, making it a strong fit for the 'People and Process' category.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-12T05:05:34",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T17:55:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the interplay between organisational processes and agile practices, highlighting the impact of team dynamics and organisational culture on software delivery. It addresses how bureaucratic elements can affect agile methodologies and the importance of quality in product delivery, which aligns with sociotechnical systems principles.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the challenges of integrating agile practices within organisational structures, particularly in relation to bureaucratic processes and quality assurance. It touches on the interplay between team dynamics and software delivery, which aligns with sociotechnical systems. However, while it mentions organisational practices and the need for self-reflection, it lacks a deeper exploration of the theoretical frameworks or case studies that would strengthen its alignment with the category.",
     "level": "Secondary"
   },
   "News and Reviews": {
@@ -1366,20 +1390,26 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T13:54:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T11:42:17",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses leadership in the context of organisational agility and the challenges faced in fostering an agile environment, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses leadership in the context of organisational agility and the challenges faced in fostering an agile environment. It touches on the role of leaders in promoting quality and continuous delivery, which aligns with the core themes of leadership in Agile. However, the primary focus is more on the processes and challenges rather than on leadership practices themselves, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T13:54:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:58:49",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Agile practices, including the importance of continuous delivery, quality assurance, and self-reflection on Agile processes, aligning closely with the themes of value delivery and collaboration.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses Agile practices and the challenges of implementing them effectively within organisations, particularly in relation to quality and bureaucratic processes. It touches on key Agile concepts such as continuous delivery and the importance of high-quality outputs, which align with the core themes of Social Technologies. However, while Agile is a significant focus, the discussion lacks detailed exploration of specific frameworks like Scrum or Kanban, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Internal Developer Platform": {

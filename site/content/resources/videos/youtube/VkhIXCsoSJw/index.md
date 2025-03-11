@@ -25,16 +25,16 @@ preview: https://i.ytimg.com/vi/VkhIXCsoSJw/maxresdefault.jpg
 duration: 529
 isShort: false
 tags:
-- Continuous Delivery
 - Practical Techniques and Tooling
+- Product Delivery
 - Technical Excellence
+- Continuous Delivery
 - Azure DevOps
 - Operational Practices
 - Pragmatic Thinking
-- AI and Automation in Agility
 - Automated Testing
-- Code and Complexity
 - Cycle Time
+- Flow Efficiency
 resourceTypes:
 - video
 sitemap:

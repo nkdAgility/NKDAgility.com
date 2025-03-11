@@ -28,6 +28,13 @@ aliasesArchive:
 - /resources/blog/installing-release-management-client-visual-studio-2013
 tags:
 - Install and Configuration
+- Practical Techniques and Tooling
+- Release Management
+- Software Development
+- System Configuration
+- Azure DevOps
+- Application Lifecycle Management
+- Troubleshooting
 categories:
 - DevOps
 

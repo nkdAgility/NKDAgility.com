@@ -73,11 +73,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T21:41:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:25:42",
+    "ai_confidence": 85.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the installation and configuration of TFS and Lab Management, detailing specific issues encountered during the setup process and providing actionable insights for resolving them.",
+    "final_score": 80.0,
+    "reasoning": "The content provides a detailed account of the installation and configuration processes for TFS and Lab Management, including specific hardware setups, server configurations, and troubleshooting steps for common issues like SPN errors. It directly addresses installation challenges and configuration best practices, aligning well with the key topics of the category. The depth of discussion is significant, as it covers multiple problems encountered during the setup and offers solutions, demonstrating a strong focus on the technical aspects of installation and configuration.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:25:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation and configuration of TFS and SCVMM, which are relevant to DevOps practices, but the primary focus is on troubleshooting specific issues rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses technical issues related to TFS and SCVMM, which are tools relevant to DevOps practices. However, it primarily focuses on specific problems encountered during installation and configuration rather than broader DevOps principles or practices. While there are mentions of automation and configuration management, the depth of discussion does not sufficiently cover the core themes of DevOps, such as CI/CD, cultural shifts, or metrics for success.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -280,12 +286,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T21:42:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:58:55",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the installation and configuration of TFS (Team Foundation Server) and its integration with other services like SCVMM and Reporting Services, which are part of the Azure DevOps ecosystem.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses TFS (Team Foundation Server), which is part of Azure DevOps, but it primarily focuses on specific technical issues related to installation and configuration rather than providing a comprehensive overview or best practices associated with Azure DevOps as a whole. While there are mentions of TFS and its components, the depth of discussion is more about troubleshooting and specific configurations rather than broader Azure DevOps functionalities or methodologies.",
+    "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",
@@ -370,11 +379,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T22:41:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:58:17",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content thoroughly discusses technical issues related to configuring TFS, SCVMM, and Reporting Services, including best practices and lessons learned during the installation process. It emphasizes technical details and problem-solving related to software architecture and configuration, which aligns closely with the Technical Mastery category.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses specific technical issues related to the installation and configuration of TFS and SCVMM, including authentication problems with Reporting Services and Kerberos. While it touches on technical aspects, such as service accounts and SPNs, the focus is more on troubleshooting and personal experiences rather than a comprehensive exploration of best practices or principles of software craftsmanship. Therefore, while there is some alignment with the category, it lacks depth and a primary focus on technical mastery.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -775,11 +787,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T22:41:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:46:30",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical problem-solving encountered during the installation and configuration of TFS and SCVMM, including troubleshooting authentication issues with Kerberos, which aligns well with pragmatic thinking in complex environments. It emphasizes real-world applications and practical solutions, fitting the category's focus.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses practical problem-solving experiences related to TFS and SCVMM installations, highlighting real-world issues and solutions encountered during the setup process. It provides specific examples of challenges faced, such as Kerberos authentication issues and SPN configurations, which align with pragmatic thinking in complex environments. However, while it touches on practical applications, the focus is more on technical troubleshooting rather than broader Agile or Scrum methodologies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -1045,11 +1060,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T22:41:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:01:49",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the setup and troubleshooting of system configurations, specifically related to TFS, SCVMM, and Active Directory configuration for reporting services. It provides detailed insights into the hardware and software setup, configuration problems encountered, and resolutions, which align well with the category of System Configuration.",
+    "final_score": 80.0,
+    "reasoning": "The content primarily focuses on the configuration and setup of various systems, specifically TFS and SCVMM, detailing the hardware specifications, installation processes, and troubleshooting steps related to system configuration issues. It discusses best practices for configuring services, the importance of SPNs in Active Directory, and the implications of service account permissions, which are all key aspects of system configuration. The depth of discussion is substantial, providing detailed insights into specific problems encountered during configuration and their resolutions, thus aligning well with the category's core themes.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1099,11 +1117,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T22:41:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:36:42",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to the installation and configuration of TFS (Team Foundation Server) and SCVMM (System Center Virtual Machine Manager) in a Windows environment, including Active Directory, Kerberos authentication, and Reporting Services, which are all relevant to managing Windows systems.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses issues related to the installation and configuration of TFS (Team Foundation Server) and SCVMM (System Centre Virtual Machine Manager) within a Windows environment. It includes specific troubleshooting steps for common problems encountered during setup, such as Kerberos authentication issues and SPN (Service Principal Name) configuration, which are directly relevant to Windows server management. The depth of discussion is significant, as it provides detailed insights into the configuration and operational challenges faced in a Windows context, thus aligning well with the key topics outlined for the Windows category.",
     "level": "Secondary"
   },
   "Deployment Strategies": {

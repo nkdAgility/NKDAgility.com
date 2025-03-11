@@ -8,7 +8,7 @@ ResourceImportId: 8981
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-10-26
-weight: 550
+weight: 585
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -32,6 +32,7 @@ aliasesArchive:
 - /resources/blog/professional-scrum-foundations-in-alameda-california
 tags:
 - Agile Project Management
+- People and Process
 categories:
 - Scrum
 - Social Technologies

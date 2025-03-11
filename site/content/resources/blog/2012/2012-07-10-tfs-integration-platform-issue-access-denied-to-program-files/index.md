@@ -27,14 +27,13 @@ aliasesArchive:
 - /blog/tfs-integration-tools-–-issue--access-denied-to-program-files
 - /resources/blog/tfs-integration-platform-issue-access-denied-to-program-files
 tags:
+- Troubleshooting
 - Windows
 - Install and Configuration
 - Practical Techniques and Tooling
 - Software Development
 - System Configuration
-- Troubleshooting
-categories:
-- DevOps
+categories: []
 preview: metro-problem-icon-1-1.png
 
 ---

@@ -27,16 +27,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Delivery
 - People and Process
+- Agile Product Management
+- Product Delivery
+- Professional Scrum
 - Scrum Product Development
 - Scrum Team
 - Sprint Review
+- Transparency
 - Agile Planning
-- Agile Product Management
 - Product Owner
-- Professional Scrum
-- Scrum Master
 resourceTypes:
 - video
 categories:

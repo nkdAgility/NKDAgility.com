@@ -67,11 +67,14 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T15:28:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T13:17:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of the product owner in managing the product backlog and budget, which aligns closely with key topics in product management.",
+    "final_score": 66.0,
+    "reasoning": "The content explicitly discusses the role of the product owner, which is a key aspect of product management. It touches on accountability and budget control, aligning with the strategic aspects of product management. However, it lacks depth in discussing methodologies or frameworks and does not provide extensive detail on prioritisation techniques or stakeholder alignment.",
     "level": "Secondary"
   },
   "News and Reviews": {
@@ -133,12 +136,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T15:28:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T11:53:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the role of the Product Owner within the Scrum framework, highlighting accountability and backlog management, which are key aspects of Agile practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner within the Scrum framework, highlighting accountability and the management of the product backlog. While it directly mentions the Product Owner's responsibilities, it lacks a broader discussion of Scrum events or principles. The alignment with core themes of value delivery and collaboration is present but not deeply explored, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -664,11 +670,14 @@
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T23:35:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:07:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses accountability from the perspective of the product owner's role, highlighting their responsibility in managing the product backlog and budget. While related to accountability, it primarily focuses on the product owner's control rather than broader themes of transparency and communication within Agile teams.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the accountability of the product owner in managing the product backlog and budget, which aligns with the principles of accountability. However, it lacks a broader discussion on transparency and does not delve into techniques for enhancing accountability or the importance of open communication. The focus is primarily on the role of the product owner rather than a comprehensive exploration of transparency and accountability within Agile teams.",
     "level": "Tertiary"
   },
   "Hypothesis Driven Development": {
@@ -1132,12 +1141,15 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T23:35:22",
-    "ai_confidence": 65,
+    "calculated_at": "2025-03-10T11:53:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 60.0,
-    "reasoning": "The content discusses the role of the Product Owner in managing the product backlog, emphasizing the accountability of the Product Owner in ordering the backlog and making delivery decisions. However, it lacks broader discussion on the Product Backlog itself or techniques for backlog refinement, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content explicitly discusses the role of the product owner in managing the product backlog, which is a direct mention of the category. It aligns well with the core themes of the Product Backlog, particularly in terms of prioritisation and accountability. The depth of discussion is significant, as it elaborates on the responsibilities of the product owner in relation to the backlog, although it could benefit from more detail on techniques for backlog refinement and prioritisation.",
+    "level": "Secondary"
   },
   "System Configuration": {
     "category": "System Configuration",
@@ -1222,20 +1234,26 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T23:35:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:02:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses prioritization and decision-making responsibilities of a product owner, which relates to order and value in uncertain environments, but the focus is primarily on Scrum roles rather than decision theory as a central theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on decision-making in the context of a product owner's role, specifically regarding budget control and prioritisation of the product backlog. However, it lacks a comprehensive discussion on decision theory principles such as heuristics, biases, or frameworks. The focus is more on the responsibilities of a product owner rather than a deep exploration of decision-making processes in uncertain environments.",
+    "level": "Quaternary"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T23:35:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:17:58",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role and responsibilities of a product owner in managing the backlog and budget, which relates to practical problem-solving within the Agile framework.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the role of the product owner in managing the product backlog and budget, which aligns with practical problem-solving strategies in Agile contexts. However, it lacks explicit references to broader Agile principles or detailed techniques for navigating complexity, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Azure Pipelines": {
@@ -1267,12 +1285,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T23:35:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:24:41",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the role and accountability of the Product Owner in managing the product backlog, which is a key aspect of Scrum, but it doesn't delve deeply into broader Scrum principles or practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner, which is a key aspect of the Scrum framework. It discusses accountability and the management of the product backlog, aligning with Scrum principles. However, it lacks a broader exploration of Scrum events, artifacts, and values, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
@@ -1285,12 +1306,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T23:35:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:01:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the product owner, which is a key part of Agile practices. However, it primarily focuses on operational aspects rather than strategic alignment or implementation of Agile methodologies at scale.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the role of the product owner in managing the product backlog and budget, which is a tactical aspect of Agile practices. While it touches on accountability and value delivery, it lacks a broader discussion on strategic alignment, implementation at scale, or adaptability in business environments, which are key themes of Agile Strategy.",
+    "level": "Quaternary"
   },
   "Working Agreements": {
     "category": "Working Agreements",

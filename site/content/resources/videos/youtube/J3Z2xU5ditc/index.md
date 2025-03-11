@@ -26,7 +26,6 @@ preview: https://i.ytimg.com/vi/J3Z2xU5ditc/maxresdefault.jpg
 duration: 436
 isShort: false
 tags:
-- Agile Planning
 - Agile Project Management
 sitemap:
   filename: sitemap.xml

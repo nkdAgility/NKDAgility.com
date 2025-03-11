@@ -100,12 +100,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T11:11:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:28:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the evaluation of Windows Communication Foundation (WCF) and its implications for web service projects, which aligns with technology updates. However, it lacks broader industry news or reviews, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the evaluation of Windows Communication Framework (WCF) and its implications for web service projects, which aligns with technology updates. However, it lacks explicit references to industry news or reviews, focusing more on personal evaluation and recommendations. The depth of discussion is moderate, providing insights into WCF's features but not enough to classify it as a comprehensive review or news piece.",
+    "level": "Quaternary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
@@ -163,12 +166,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T11:11:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:23:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the evaluation of WCF and its features, which relates to technical practices in software development, but it is primarily focused on the author's personal evaluation rather than a broader discussion on engineering methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the evaluation of Windows Communication Foundation (WCF) and its features, which relates to technical excellence in terms of software development practices. However, it lacks explicit discussions on methodologies like TDD, CI/CD, or modular architecture. The focus is more on the technology itself rather than the engineering practices that enhance agility and quality in software development. While there is some depth in discussing WCF's benefits, it does not sufficiently align with the core themes of technical excellence.",
+    "level": "Quaternary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -325,11 +331,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-17T11:11:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-10T13:28:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Windows Communication Framework (WCF) and related technologies, with no mention of Scrum principles, roles, events, or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses Windows Communication Framework (WCF) and does not mention Scrum or its principles, roles, events, or artifacts. There is no alignment with Scrum concepts, and the depth of discussion is focused on WCF technology rather than any Scrum-related topics.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
@@ -424,12 +433,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T16:38:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:54:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses evaluating WCF (Windows Communication Foundation), highlighting its features and potential for web service projects, which relates to the delivery of functional software. However, the focus is more on the evaluation process rather than on working software characteristics or practices specifically.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the evaluation of Windows Communication Framework (WCF) and its potential benefits for web service projects, which aligns with the concept of working software. However, it lacks explicit discussions on Agile or Scrum principles, and the focus is more on the technology itself rather than on delivering functional software that meets user needs. The depth of discussion is moderate, providing some insights into the features and advantages of WCF, but it does not delve deeply into best practices or customer feedback mechanisms.",
+    "level": "Quaternary"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -532,12 +544,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T16:38:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:19:20",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content primarily discusses Windows Communication Foundation (WCF), which is related to the Windows operating system and its .NET Framework components. While WCF is significant in Windows development, the broader focus on evaluating WCF suggests that Windows is a major but secondary theme in this discussion.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses Windows Communication Foundation (WCF), which is related to the Windows environment, but it primarily focuses on the evaluation of WCF as a technology rather than on Windows itself. While there are mentions of Windows Vista and the .NET Framework, the discussion does not delve deeply into installation, configuration, or troubleshooting of the Windows operating system. The content is more about software development and its implications rather than providing insights on managing or utilising the Windows OS.",
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -856,11 +871,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T16:38:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:07:53",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the evaluation of Windows Communication Foundation (WCF) and its features, which are related to software architecture and development practices. However, it primarily focuses on the specifics of WCF rather than general principles of technical mastery.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the evaluation of Windows Communication Foundation (WCF) and its implications for software development, which aligns with the principles of software craftsmanship and architecture. However, the discussion lacks depth in terms of best practices, methodologies, or detailed technical principles. While it mentions the potential benefits of WCF, it does not delve into specific techniques for improving code quality or maintainability, nor does it address testing or DevOps principles. Therefore, while there is some alignment with the category, the overall depth and explicit focus on technical mastery are limited.",
     "level": "Tertiary"
   },
   "Working Agreements": {
@@ -955,12 +973,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T16:38:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:23:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the evaluation of WCF (Windows Communication Framework) and its attributes related to software development practices, suggesting a recommendation for using it in future web service projects. While it touches on software craftsmanship, it's more focused on an evaluation of a specific technology rather than broader engineering principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the evaluation of Windows Communication Foundation (WCF) and its features, which touches on aspects of software craftsmanship and development practices. However, it lacks a direct focus on engineering excellence principles, such as coding standards, testing methodologies, or continuous improvement processes. The discussion is primarily about the technology itself rather than the broader context of engineering excellence, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

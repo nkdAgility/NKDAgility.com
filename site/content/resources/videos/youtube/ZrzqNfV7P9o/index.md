@@ -31,6 +31,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
+- Team Collaboration
 - Pragmatic Thinking
 resourceTypes:
 - video

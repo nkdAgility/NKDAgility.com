@@ -145,11 +145,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T12:28:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:13:55",
+    "ai_confidence": 82.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the installation process of Visual Studio 2008 SP1, including the use of the Service Pack Preparation Tool and necessary downloads, which aligns well with the category of Install and Configuration.",
+    "final_score": 75.0,
+    "reasoning": "The content provides explicit instructions on updating Visual Studio 2008 to SP1, including the use of the Service Pack Preparation Tool and necessary downloads. It discusses the installation process in detail, which aligns well with the category of Install and Configuration. The mention of potential issues and the need for specific files further supports its relevance. However, while the content is focused on installation, it lacks broader discussions on configuration best practices or troubleshooting, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Organisational Agility": {
@@ -361,12 +364,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:46:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the update process of Visual Studio 2008 SP1 and the necessary steps, which relates to release management, but the primary focus is on installation and preparation rather than broader release management strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the installation process of Visual Studio 2008 SP1 and mentions the Service Pack Preparation Tool, which relates to software release processes. However, it lacks a comprehensive discussion on broader release management strategies, such as planning, scheduling, or risk management. The focus is primarily on installation steps rather than the overall release management framework.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -433,12 +439,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:11:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses updating Visual Studio 2008 and provides technical instructions, which aligns with software engineering practices, but it primarily focuses on installation rather than broader technical mastery principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2008 SP1 and related tools, which does not delve into broader principles of software craftsmanship or engineering practices. While it mentions technical tools, it lacks a discussion on best practices, code quality, or methodologies that contribute to technical mastery.",
+    "level": "Quaternary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -1216,11 +1225,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T12:40:50",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T18:57:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily addresses steps related to preparing for the installation of Visual Studio 2008 SP1, which includes resolving potential issues from previously installed versions. However, it could be interpreted as part of an installation process rather than a clear focused discussion on troubleshooting technical problems.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the installation process of Visual Studio 2008 SP1 and highlights the importance of using the Service Pack Preparation Tool to avoid issues during installation. While it does touch on troubleshooting aspects, such as the need to remove the beta version before installation, the primary focus is on installation instructions rather than a comprehensive troubleshooting methodology. The content lacks detailed techniques or strategies for diagnosing and resolving broader technical issues, which limits its alignment with the core themes of the Troubleshooting category.",
     "level": "Secondary"
   },
   "Scrum Master": {
@@ -1315,11 +1327,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T12:40:50",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T15:11:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses the process of updating Visual Studio 2008 SP1, focusing on the installation steps and the necessary preparation tools, which aligns with system configuration methodologies.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the process of updating Visual Studio 2008 SP1, which involves specific steps and tools for configuration. It mentions the Visual Studio 2008 Service Pack Preparation Tool and the necessity of having installation files, indicating a focus on system setup. However, while it aligns with the category's themes, the depth of discussion is somewhat limited to a specific software update rather than broader system configuration practices.",
     "level": "Secondary"
   },
   "Scaling Agility": {

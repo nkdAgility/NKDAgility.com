@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T23:26:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:39:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for migrating TFS to Visual Studio Online, including various scenarios and tools associated with the migration process.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses TFS migrations and mentions various scenarios and tools related to the migration process, which aligns with practical techniques and tooling. However, while it provides some insights into the migration options and tools, the depth of discussion is limited, focusing more on the narrative of the migration process rather than detailed methodologies or frameworks. The mention of tools is present but not extensively explored, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -280,11 +283,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:23:03",
+    "ai_confidence": 62.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 50.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses TFS migrations to Visual Studio Online, which is related to Azure DevOps, but the primary focus is on migration scenarios rather than Azure DevOps functionalities or best practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses TFS migrations to Visual Studio Online, which is related to Azure DevOps, but it does not explicitly mention Azure DevOps itself. The focus is primarily on migration scenarios rather than the broader functionalities or best practices of Azure DevOps. While it touches on relevant topics, the depth of discussion is more about migration processes than Azure DevOps tools and methodologies.",
     "level": "Tertiary"
   },
   "Personal": {
@@ -370,12 +376,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:48:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses TFS migrations and scenarios related to software development practices, but it primarily focuses on migration processes rather than broader principles of software craftsmanship or engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses TFS migrations, which touches on technical aspects of software engineering, but it primarily focuses on migration scenarios rather than best practices or principles of software craftsmanship. While there are mentions of technical challenges and tools, the depth of discussion does not fully align with the core themes of Technical Mastery, such as clean code or architectural principles.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -577,11 +586,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-14T23:28:25",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T12:37:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses TFS migrations, which relates to software development practices, particularly in the context of version control and project management. However, it primarily focuses on migration scenarios rather than broader software development methodologies or practices.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses TFS migrations, which is a specific aspect of software development related to version control and project management. It mentions scenarios for migration and tools, aligning with best practices in software development. However, the discussion lacks depth in methodologies or frameworks, focusing more on practical scenarios than on broader software development principles.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -775,12 +787,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:31:59",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical scenarios and strategies related to TFS migrations, which aligns with pragmatic problem-solving in a real-world context, but it is primarily focused on migration processes rather than broader Agile or Scrum principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses TFS migrations, which involves practical problem-solving in a real-world context. However, it lacks a strong focus on Agile, Scrum, or DevOps principles, and does not delve deeply into pragmatic thinking techniques. While it mentions scenarios and tools related to migration, the discussion is more about the process than about applying pragmatic thinking strategies in complex environments.",
+    "level": "Quaternary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1225,12 +1240,15 @@
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:41:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the accumulation of 'technical cruft' during TFS migrations, indicating a secondary theme related to technical debt, but the primary focus is on migration scenarios rather than technical debt management.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly touches on the concept of 'paying back the technical cruft that has built up over the years' during the discussion of TFS migrations. However, the primary focus is on migration scenarios and tools rather than a detailed exploration of technical debt management or its implications. The mention of technical cruft is relevant but not sufficiently developed to warrant a higher confidence score.",
+    "level": "Quaternary"
   },
   "Sprint Review": {
     "category": "Sprint Review",

@@ -64,12 +64,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T11:16:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:28:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content primarily discusses the implementation of a UI adapter in a specific framework, which involves code quality and design decisions. However, it does not deeply explore the complexities or principles of software development processes, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on implementing a specific feature in a software framework, detailing code examples and implementation strategies. While it touches on aspects of code quality and maintainability through the discussion of factory patterns and inheritance, it lacks a broader exploration of complexity theory or its implications on software architecture. The discussion is more technical and practical rather than theoretical, which limits its alignment with the core themes of the 'Code and Complexity' category.",
+    "level": "Quaternary"
   },
   "DevOps": {
     "category": "DevOps",
@@ -163,12 +166,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T11:16:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:23:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of a UI adapter within the Composite UI Application Block, focusing on engineering practices related to code quality and extensibility. It provides detailed code examples and discusses design choices that enhance the maintainability and adaptability of the application, aligning well with the principles of technical excellence.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on implementing a technical solution within the Composite UI Application Block (CAB), specifically regarding the ToolStripPanel UI Adapter. It discusses the technical details of code implementation, including inheritance and factory patterns, which align with the principles of modular architecture and emergent design. However, while it provides a good level of detail on the implementation, it lacks broader discussions on methodologies like TDD or CI/CD practices, which are central to the category of Technical Excellence. Therefore, while it is relevant, it does not fully encompass the category's scope.",
+    "level": "Tertiary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -244,11 +250,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T11:17:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T19:07:59",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implementation of a specific UI adapter within the Composite UI Application Block, detailing practical coding techniques and methodologies relevant to tooling in software development.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed technical discussion on implementing a specific UI adapter for the Composite UI Application Block (CAB), which aligns with practical techniques in software development. It includes code examples and discusses methodologies for extending functionality without altering existing code, which is relevant to tooling. However, it lacks broader context on Agile or DevOps practices, limiting its alignment with the category's core themes.",
     "level": "Secondary"
   },
   "Product Delivery": {
@@ -325,11 +334,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-17T11:17:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-10T13:28:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical implementation details related to the Composite UI Application Block and does not address Scrum principles, roles, events, or practices.",
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on technical implementation details related to the Composite UI Application Block and does not mention Scrum principles, roles, events, or any related concepts. There is minimal conceptual alignment with Scrum, as it does not discuss team dynamics, iterative processes, or continuous improvement, which are core to the Scrum framework.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
@@ -838,12 +850,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T16:38:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:54:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical problem-solving techniques related to the Composite UI Application Block and how to implement a ToolStripPanel UI Adapter. It provides specific code implementations and discusses real-world application of adapting existing components to enhance functionality.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a technical implementation of a UI adapter within the Composite UI Application Block (CAB). While it does touch on practical problem-solving by discussing two approaches to extend functionality, it lacks a broader discussion on Agile, Scrum, or DevOps principles. The depth of the technical details is significant, but the overall alignment with the core themes of pragmatic thinking is limited, as it does not address adaptability or real-world applications in a project management context.",
+    "level": "Quaternary"
   },
   "MVP": {
     "category": "MVP",
@@ -856,11 +871,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T16:38:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:19:23",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses code implementation and adaptation techniques within a specific software framework (CAB) and includes best practices for creating UI adapters, which aligns closely with software craftsmanship and engineering practices.",
+    "final_score": 70.0,
+    "reasoning": "The content provides a detailed discussion on implementing a specific technical solution within the Composite UI Application Block (CAB), focusing on extending functionality through code. It explicitly mentions best practices in software design, such as inheritance and factory patterns, which align with the principles of clean code and software craftsmanship. The depth of the discussion is significant, as it includes code examples and explanations of the implementation process, demonstrating a strong grasp of technical concepts. However, it lacks broader discussions on topics like testing, continuous integration, or technical debt management, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Working Agreements": {
@@ -955,12 +973,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T16:38:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:23:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical implementation details about enhancing the ToolStripPanel UI Adapter within the Composite UI Application Block (CAB), which reflects principles of software craftsmanship and development practices. It focuses on the technical aspects of code adaptation, inheritance, and improved functionality, aligning well with engineering excellence principles.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on implementing a specific feature in a software framework, detailing code and technical solutions. While it touches on aspects of software craftsmanship, such as extending functionality and code reuse, it lacks a broader discussion on engineering excellence principles, best practices, or continuous improvement processes. The depth of discussion is limited to a specific implementation without addressing overarching themes of quality assurance or team collaboration.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

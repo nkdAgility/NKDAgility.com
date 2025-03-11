@@ -8,7 +8,7 @@ ResourceImportId: 392
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-05-30
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,10 +28,8 @@ aliasesArchive:
 - /resources/blog/tfs-gotcha-exception-handling
 tags:
 - Software Development
-- Technical Mastery
 - Troubleshooting
-categories:
-- Engineering Excellence
+categories: []
 
 ---
 When coding against team foundation server you must be aware that some of the exceptions thrown by [Team Foundation Server](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") are not Serilisable! I think that this was an oversite by Microsoft, but it is there none the less.

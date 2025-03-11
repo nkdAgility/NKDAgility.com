@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T20:16:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:19:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the TFS Integration Tools and provides practical insights into troubleshooting and resolving specific errors encountered during code reviews, which aligns with the exploration and application of tooling in Agile and DevOps practices.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses a specific issue related to the TFS Integration Tools, which falls under the category of tooling. It provides a practical workaround for an error encountered during code review, demonstrating a direct application of a tool in a real-world scenario. The mention of checks and the 'Auto Resolve' feature indicates a focus on practical techniques for resolving issues, aligning well with the core themes of the category. However, while it provides useful insights, the depth of discussion could be enhanced with more comprehensive exploration of methodologies or broader implications for Agile and DevOps practices.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:55:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the TFS Integration Platform and its checks related to code review, which are relevant to DevOps practices, but the primary focus is on troubleshooting an error rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific error related to the TFS Integration Platform, which is a tool that can be part of a DevOps workflow. However, it primarily focuses on a technical issue rather than broader DevOps principles or practices. While it touches on aspects of code review and error handling, it lacks a comprehensive discussion on DevOps concepts such as CI/CD, automation, or cultural shifts. The mention of TFS tools indicates some relevance, but the overall focus is too narrow to align strongly with the DevOps category.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -208,12 +214,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:59:19",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses error handling and checks within the TFS Integration Platform, which relates to engineering practices, but it primarily focuses on a specific issue rather than broader technical excellence principles.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses a specific error related to the TFS Integration Platform and mentions checks that ensure code quality during the migration process. However, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. While it touches on aspects of code review and error handling, it does not delve deeply into concepts like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
+    "level": "Quaternary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -577,11 +586,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T21:57:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:55:56",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses an issue related to code review checks in TFS Integration Tools, which directly pertains to practices in software development and version control.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses an error related to code review processes within the TFS Integration Tools, which is relevant to software development practices. It mentions checks performed during the code review, aligning with version control and collaborative development themes. However, the discussion lacks depth and broader context on methodologies or best practices, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -730,12 +742,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:19:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to code review and error handling in the context of TFS Integration Tools, which touches on quality assurance and coding practices but does not primarily focus on broader themes of engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses a specific error encountered during a code review process within the TFS Integration Platform, which relates to quality assurance and coding standards. However, it lacks a broader discussion on engineering excellence principles, best practices, or continuous improvement strategies. The focus is primarily on troubleshooting a specific issue rather than promoting high standards in software craftsmanship or development practices.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -874,12 +889,15 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:34:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the TFS Integration Platform and issues related to code checks and reviews during code integration, which are relevant to Continuous Integration practices. However, the focus is more on troubleshooting specific errors rather than the broader principles or best practices of CI.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses an error related to the TFS Integration Platform, which is a tool that can be associated with Continuous Integration practices. However, the focus is primarily on a specific error during code review rather than a broader discussion of CI principles, best practices, or tools. While it mentions checks and error handling, it lacks depth in exploring CI concepts or strategies, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -1153,11 +1171,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T21:57:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:55:30",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses a specific error encountered during the code review process within TFS Integration Tools and provides a workaround to resolve the issue, focusing on diagnosing and fixing a technical problem, which aligns with the troubleshooting category.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses an error encountered during the TFS Integration process, detailing the checks performed and the conditions under which the error occurs. It provides a clear workaround for resolving the issue, aligning well with the core themes of troubleshooting. The depth of discussion includes specific technical details about the error and potential solutions, demonstrating a strong focus on diagnosing and resolving a technical issue.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -1198,12 +1219,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:44:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses error handling in the context of TFS Integration Tools and code review processes, which relates to developer practices, but does not delve into Agile or DevOps methodologies significantly.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific error related to the TFS Integration Platform and code review processes, which are relevant to software development. However, it lacks a broader discussion on Agile or DevOps methodologies, best practices, or the role of developers in these contexts. The focus is primarily on troubleshooting a technical issue rather than exploring the themes outlined in the category description.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

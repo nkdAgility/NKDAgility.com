@@ -8,7 +8,7 @@ ResourceImportId: 9703
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-01
-weight: 660
+weight: 700
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,9 +30,9 @@ aliasesArchive:
 - /resources/blog/engaging-with-complexity-team-foundation-server-edition
 tags:
 - Windows
+- Install and Configuration
 categories:
 - DevOps
-- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

@@ -30,20 +30,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Discovery and Learning
 - Metrics and Learning
-- Change Management
-- People and Process
-- Ability to Innovate
-- Continuous Learning
-- Evidence Based Management
-- Pragmatic Thinking
-- Value Delivery
-- Agile Product Management
 resourceTypes:
 - video
 categories:
 - Product Management
+- Social Technologies
 
 ---
 In today's fast-paced business environment, continuous learning is not just a luxury—it's a necessity. But how do we move beyond traditional learning methods to something that truly makes an impact? Enter **immersive learning**, a game-changing approach designed to not only impart knowledge but also drive real-world application and transformation within organizations.

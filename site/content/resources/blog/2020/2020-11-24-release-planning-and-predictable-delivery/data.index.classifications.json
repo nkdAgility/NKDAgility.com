@@ -679,11 +679,14 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-13T22:21:16",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-07T14:23:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the relationship between agile methodologies and release planning, touching on the role of product management in ensuring quality and predictability in software delivery. While it primarily focuses on agile practices, it also addresses strategic aspects relevant to product management, such as stakeholder engagement and the importance of quality in product development.",
+    "final_score": 72.0,
+    "reasoning": "The content extensively discusses the relationship between agile methodologies and release planning, which is a core aspect of product management. It addresses the strategic alignment of software development with business objectives, emphasising the importance of quality and predictability in product delivery. The depth of discussion on agile practices, stakeholder engagement, and the necessity of a clear product vision aligns well with product management principles. However, while it touches on relevant themes, it does not delve deeply into specific product management frameworks or metrics, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Continuous Integration": {
@@ -1042,11 +1045,14 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-13T22:17:50",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-07T14:23:47",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the challenges of integrating agile practices with release management and highlights the need for organisational change to embrace agility. It touches on the cultural shift required for agility, the role of leadership, and the importance of collaboration across teams, which aligns with the principles of Enterprise Agility. However, the primary focus remains on team-level practices and software development processes, making it a secondary theme.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the challenges of integrating agile practices with release management, highlighting the need for organisational change and leadership involvement. It touches on the cultural shift required for agility and the importance of continuous improvement, which aligns with enterprise agility principles. However, the primary focus remains on team-level practices and specific methodologies rather than a comprehensive organisational perspective, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Kanban": {
@@ -1132,11 +1138,14 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-13T22:18:06",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T12:26:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the interplay between agile methodologies and organisational structures, particularly in the context of release planning and predictable delivery. It highlights the cultural shifts required for effective software development and the importance of team dynamics, which aligns with sociotechnical systems principles. However, the primary focus is on agile practices rather than a comprehensive exploration of sociotechnical systems.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the interplay between agile methodologies and organisational structures, particularly in the context of release planning and predictable delivery. It highlights the cultural shifts required for effective agile adoption, which aligns with sociotechnical principles. However, while it touches on these themes, the primary focus remains on technical practices and agile processes rather than a comprehensive exploration of sociotechnical systems as a whole.",
     "level": "Secondary"
   },
   "Technical Excellence": {
@@ -1150,21 +1159,27 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-13T22:18:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:33:28",
+    "ai_confidence": 82.0,
+    "ai_mentions": 16,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the interplay between agile methodologies, team dynamics, and the importance of leadership in fostering effective processes for release planning and predictable delivery. It addresses how organisational culture and structure impact agility and the role of teams in managing unpredictability in software development.",
+    "final_score": 76.0,
+    "reasoning": "The content extensively discusses the interplay between agile methodologies and organisational processes, highlighting the importance of leadership, team dynamics, and cultural shifts necessary for effective release planning and predictable delivery. It addresses how teams can improve their collaboration and communication, particularly in the context of Scrum and Agile practices. The depth of discussion on managing technical debt and the need for a culture shift further supports its alignment with the 'People and Process' category.",
     "level": "Secondary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-13T22:18:12",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-10T18:25:28",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "The content primarily discusses release planning, predictable delivery, and the integration of agile methodologies in the context of product delivery. It addresses key aspects such as the importance of working software, quality assurance, and the role of cross-functional teams, making it highly relevant to the category.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the challenges and methodologies related to release planning and predictable delivery within an agile framework. It directly addresses the integration of agile practices with release management, emphasising the importance of quality, iterative development, and the role of cross-functional teams. The depth of discussion includes practical strategies for improving predictability and quality in software delivery, aligning closely with the core themes of product delivery. Overall, the content provides a comprehensive exploration of the subject, justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -1177,20 +1192,26 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:26:52",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 25,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the integration of agile practices with release planning, touching on aspects of predictability and quality in software development, which are relevant to DevOps. However, the primary focus is on agile methodologies and Scrum, making DevOps a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the integration of agile practices with release management, touching on the importance of quality, predictability, and continuous delivery, which are core principles of DevOps. It mentions the need for cultural shifts and collaboration, aligning with DevOps themes. However, the primary focus is on agile methodologies rather than DevOps practices specifically, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-13T22:18:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:19:08",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the integration of agile methodologies into organisational practices, focusing on the cultural and structural shifts necessary for effective release planning and predictable delivery. It addresses the challenges organisations face in embracing agility and highlights the importance of leadership, continuous improvement, and the alignment of processes with agile principles.",
+    "final_score": 76.0,
+    "reasoning": "The content discusses the challenges of integrating agile methodologies with release management, highlighting the need for a cultural shift within organisations to embrace agility. It addresses the importance of leadership in making decisions about quality and the necessity of transparency for effective adaptation. The text also explores the unpredictability of software development and suggests strategies for improving predictability and quality, which aligns well with the principles of organisational agility. However, while it covers many relevant aspects, it primarily focuses on software development practices rather than broader organisational strategies, which slightly limits its depth of discussion on agility as a whole.",
     "level": "Secondary"
   },
   "Lean": {
@@ -1231,11 +1252,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-13T22:18:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:44:32",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for release planning and predictable delivery within Agile frameworks, including specific methodologies, practices, and tools that enhance team performance and collaboration.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses practical techniques for release planning and predictable delivery within Agile frameworks, specifically referencing Scrum roles and practices. It provides insights into methodologies for improving predictability in software development, such as backlog refinement, Definition of Done, and continuous quality practices. While it does touch on Agile philosophy, the primary focus is on actionable techniques and tooling that enhance team performance and delivery outcomes.",
     "level": "Secondary"
   },
   "Agile Product Operating Model": {
@@ -1357,20 +1381,26 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T16:04:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:33:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the role of executive leadership in decision-making regarding quality and release management, indicating a significant theme of leadership in the context of Agile practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of leadership in the context of agile release planning and the importance of quality in software development. It highlights the need for executive leadership to make decisions regarding quality and the cultural shifts required for effective agile practices. However, while leadership is a significant theme, the primary focus is on technical processes and practices rather than on leadership strategies or frameworks, which slightly diminishes its alignment with the leadership category.",
+    "level": "Secondary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:05:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:25:25",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Agile practices, Scrum roles, and the importance of continuous improvement in software development, aligning closely with the principles of Social Technologies.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses Agile methodologies, particularly Scrum, and their implications for release planning and predictable delivery. It directly references Scrum roles, events, and principles, demonstrating a strong alignment with the core themes of Social Technologies. The depth of discussion is significant, covering various aspects of Agile practices, continuous improvement, and the cultural shifts required for effective implementation. Overall, the content is highly relevant to the category.",
     "level": "Secondary"
   },
   "Internal Developer Platform": {

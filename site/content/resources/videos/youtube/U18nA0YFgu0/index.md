@@ -39,8 +39,8 @@ tags:
 - Transparency and Accountability
 - Personal
 - Pragmatic Thinking
-- Sociotechnical Systems
 - Software Developers
+- Software Development
 resourceTypes:
 - video
 categories:

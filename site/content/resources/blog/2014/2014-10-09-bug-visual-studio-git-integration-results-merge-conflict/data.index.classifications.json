@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T08:58:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:44:00",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for using Git within a team environment, including workflows for managing branches and resolving merge conflicts, which aligns well with the category.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed discussion on practical techniques for using Git within a Visual Studio environment, specifically addressing a bug and offering a structured workflow for managing branches and merge conflicts. It directly mentions Git and outlines methodologies for resolving issues, which aligns well with the category's focus on practical application of tools and techniques. The depth of the discussion is significant, as it includes step-by-step instructions and insights into the challenges faced by a team transitioning to Git, demonstrating a clear understanding of Agile and DevOps practices.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T08:58:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:38:50",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses a specific bug in Visual Studio's Git integration and provides actionable steps for resolving merge conflicts, which aligns with installation and configuration issues related to Git and Visual Studio. It also includes recommendations for workflow changes that enhance the configuration of Git usage within a team context.",
+    "final_score": 67.0,
+    "reasoning": "The content primarily discusses a specific bug in Visual Studio's Git integration and provides detailed steps for resolving merge conflicts, which aligns well with installation and configuration issues. It includes actionable instructions for changing workflows and addresses a specific installation version that resolves the bug. However, while it does touch on configuration aspects, the focus is more on troubleshooting and workflow adjustments rather than a comprehensive guide on installation or configuration best practices.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:38:44",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Git workflows and branching strategies, which are relevant to DevOps practices, but the primary focus is on a specific bug in Visual Studio and its resolution rather than broader DevOps principles.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Git workflows and the challenges faced during integration, which aligns with DevOps principles. It mentions branching strategies and the importance of managing merge conflicts, which are relevant to Continuous Integration (CI) practices. However, the focus is primarily on a specific issue with Visual Studio and Git rather than a broader discussion of DevOps principles, tools, or cultural shifts, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -370,12 +379,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T09:56:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:33:09",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical solutions to a technical issue in Git and the workflow improvements regarding version control, which aligns with best practices in software development.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses a specific technical issue related to Git integration in Visual Studio, including workflows and solutions for managing merge conflicts. While it touches on best practices for branching and merging, it lacks a broader discussion on software craftsmanship principles or methodologies. The focus is primarily on troubleshooting and practical solutions rather than a deep exploration of technical mastery concepts.",
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -478,11 +490,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T09:56:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:43:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses workflow optimization in a Git context, focusing on strategies for managing branches and merges effectively, which aligns with enhancing operational efficiency in a development environment.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific issue related to Git integration and proposes a new workflow to mitigate merge conflicts, which aligns with operational practices. However, while it touches on workflow management and process optimisation, the focus is more on troubleshooting a specific problem rather than a comprehensive discussion of operational efficiency techniques. The depth of discussion is limited to a particular scenario, which affects the overall confidence score.",
     "level": "Secondary"
   },
   "Scrum Team": {
@@ -730,11 +745,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:43:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to Git workflows and proposes a structured approach to managing branching and merging, which aligns with best practices in software development. However, it is largely focused on specific technical issues rather than a broader discussion on engineering excellence principles.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific technical issue related to Git integration in Visual Studio, which touches on aspects of software development practices. However, it primarily focuses on troubleshooting a bug and workflow adjustments rather than promoting high standards in software craftsmanship or continuous improvement. While there are mentions of branching strategies and workflow changes, the depth of discussion on engineering excellence principles is limited, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Revenue per Employee": {
@@ -1198,11 +1216,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-15T09:56:52",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T10:24:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content primarily discusses the challenges faced by developers when using Git within a software development context, specifically relating to merge conflicts and workflow management. While it is relevant to software development, it is more focused on version control issues than on broader Agile or DevOps practices.",
+    "final_score": 67.0,
+    "reasoning": "The content primarily discusses a specific issue related to Git integration in Visual Studio, which is relevant to software developers. It provides detailed insights into the challenges faced by developers when transitioning from a centralized version control system to Git, including practical solutions and workflow adjustments. While it does not explicitly mention Agile or DevOps methodologies, the focus on improving developer workflows and collaboration aligns with the core themes of the category. The depth of discussion on Git practices and the impact on developer productivity further supports a strong alignment with the category, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Coaching": {
@@ -1279,11 +1300,14 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-15T09:56:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:49:39",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses Git integration issues related to Visual Studio and specifically mentions workflows, branching, and merges, which are central aspects of Azure Repos. While it touches on general Git functionalities, it does so within the context of Azure Repos' utilization in a development workflow.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses a specific issue related to Git integration within Visual Studio, which is relevant to Azure Repos as it involves source control management. However, the primary focus is on troubleshooting a bug and outlining a workflow rather than exploring Azure Repos' functionalities or best practices in depth. While it touches on branching strategies and the use of Git, it lacks a comprehensive discussion on Azure Repos itself, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Forecasting": {

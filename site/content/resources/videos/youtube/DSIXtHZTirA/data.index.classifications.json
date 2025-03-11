@@ -10,11 +10,14 @@
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-02-12T08:18:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:53:21",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of performance engineering and testing in production, focusing on hypothesis-driven approaches to validate features and gather user feedback. It details techniques such as audience-based rollouts and feature flags, which align closely with experimentation in Agile workflows.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses various aspects of performance engineering and the importance of testing in production, which aligns with the principles of experimentation in Agile workflows. It highlights the need for hypothesis-driven approaches, such as using feature flags and collecting user feedback to validate assumptions about new features. The depth of discussion on techniques like audience-based deployment and telemetry collection indicates a strong focus on experimentation. However, while experimentation is a significant theme, the content also delves into broader performance engineering concepts, which slightly dilutes its primary focus on experimentation.",
     "level": "Secondary"
   },
   "Entrepreneurship": {
@@ -82,12 +85,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T12:01:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T12:47:12",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses performance engineering and user experience in the context of product development, touching on methodologies for testing and gathering feedback, which are relevant to product management. However, the primary focus is on technical implementation and engineering practices rather than strategic product management principles.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses performance engineering and its impact on user satisfaction and business goals, which aligns with product management principles. However, it primarily focuses on technical implementation details and testing strategies rather than the strategic aspects of product management. While it mentions the importance of understanding customer needs and gathering feedback, these points are not the primary focus of the discussion. The depth of discussion on product management concepts is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -127,11 +133,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-12T08:19:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T17:49:58",
+    "ai_confidence": 87.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of performance engineering, user experience, and continuous delivery in the context of developing high-quality, functional software that meets customer needs. It aligns well with the principles of working software by emphasising iterative development, customer feedback, and the delivery of usable products.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the importance of performance engineering, user experience, and the iterative process of delivering software that meets customer needs. It highlights best practices for ensuring software quality and functionality, particularly through real user feedback and testing in production. The depth of discussion on continuous delivery and audience-based rollouts aligns closely with the core themes of working software, demonstrating a strong focus on delivering functional, high-quality software that meets user expectations.",
     "level": "Secondary"
   },
   "Decision Making": {
@@ -181,11 +190,14 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-12T08:19:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T00:17:16",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of integrating customer feedback into the product development process, particularly through performance engineering and audience-based feature rollouts. It highlights methods for collecting feedback, such as soliciting user input during private previews and analysing telemetry data, which aligns closely with the key topics of customer feedback loops.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of integrating customer feedback into the product development process, particularly through the use of feature flags and telemetry to gather insights from users. It highlights the iterative nature of development and the need for real user feedback to improve product performance and user experience. While it does not explicitly label these practices as 'customer feedback loops,' the core themes of collecting, analysing, and acting on customer feedback are prevalent throughout the discussion. The depth of the examples provided, particularly the case study of Azure DevOps, further supports the alignment with the category.",
     "level": "Secondary"
   },
   "Azure Repos": {
@@ -289,11 +301,14 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-12T08:19:33",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T09:48:53",
+    "ai_confidence": 78.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of performance engineering and user experience, which are closely related to customer satisfaction. It highlights how understanding user needs and gathering feedback can enhance the overall experience, making customer satisfaction a significant theme. However, the primary focus is on technical implementation and processes rather than a direct exploration of customer satisfaction principles.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of performance engineering and its direct impact on user satisfaction, which aligns well with the principles of customer satisfaction. It highlights the need for understanding customer needs through feedback and telemetry, and it describes a process for enhancing user experience through iterative testing and deployment. However, while customer satisfaction is a significant theme, the primary focus is more on technical implementation and performance rather than a holistic view of customer satisfaction strategies. Therefore, the confidence score reflects a strong alignment with the category but acknowledges that it is not the sole focus.",
     "level": "Secondary"
   },
   "Lean Thinking": {
@@ -316,11 +331,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-12T08:19:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:12:22",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses performance engineering, automated testing, and continuous delivery, which are central to Agile engineering practices. It emphasises the importance of testing in production, automation, and user feedback, aligning well with the principles of high-quality software engineering.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses performance engineering and the importance of getting software into production quickly, which aligns with Agile principles. It mentions automated testing and audience-based deployment, reflecting aspects of CI/CD. However, the primary focus is on performance rather than core engineering practices like clean code or TDD, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Portfolio Management": {
@@ -1231,20 +1249,26 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-12T08:18:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:32:49",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses strategies for performance engineering, continuous delivery, and user feedback mechanisms, all of which are central to delivering value to customers in a software development context.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses performance engineering and its impact on user satisfaction, which aligns with the principles of iterative development and continuous delivery. It highlights the importance of getting feedback from real users and adapting features based on their needs, which is a key aspect of value delivery. The depth of discussion on testing in production and audience-based rollouts further supports its relevance to the category. However, while it touches on value delivery, it does not explicitly frame the entire narrative within the context of Agile or DevOps methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T08:18:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:47:14",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses performance engineering, automated testing, and continuous delivery practices, which are central to technical excellence in software development. It provides insights into methodologies that enhance agility and quality in engineering practices.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses performance engineering and its importance in software development, which aligns with the principles of Technical Excellence. It highlights the need for automated testing, continuous delivery, and user feedback in production, which are key aspects of agile engineering practices. However, while it touches on relevant topics, the discussion lacks a structured focus on specific methodologies like TDD or CI/CD, leading to a slightly lower confidence score.",
     "level": "Secondary"
   },
   "Organisational Agility": {
@@ -1267,11 +1291,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-12T08:18:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T11:36:10",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the interplay between team dynamics, user feedback, and structured methodologies in software development, particularly in the context of performance engineering and continuous delivery. It highlights the importance of collaboration, communication, and the human factors involved in testing and deploying software, aligning well with the key topics of the category.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of performance engineering and user feedback in software development, highlighting the need for collaboration and communication within teams. It touches on the role of user involvement in testing and the iterative process of feature deployment, which aligns with the category's focus on team dynamics and process improvement. However, while it mentions human factors, the primary focus is more on technical aspects of performance engineering rather than a deep exploration of people and process methodologies.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {

@@ -2,7 +2,7 @@
 title: 5 tools that Scrum Masters love. Part 1
 description: "Discover the top 5 tools that Scrum Masters love in this engaging short! Boost your team's agility and performance with expert insights from NKD Agility. #Scrum #Agile"
 date: 2023-09-14T07:00:08Z
-weight: 775
+weight: 855
 ResourceId: Ce5pFwG5IAY
 ResourceType: videos
 ResourceImport: true
@@ -27,12 +27,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Scrum Master
+- People and Process
+- Team Performance
 resourceTypes:
 - video
 categories:
 - Scrum
+- Social Technologies
 
 ---
 **Scrum Masters: Unlocking the Power of Liberating Structures 🚀** 

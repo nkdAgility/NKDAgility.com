@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T00:42:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:36:47",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical steps and techniques involved in upgrading Team Foundation Server from 2008 to 2010, including backup procedures, database restoration, and verification processes, which align with the category's focus on practical application of tooling.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed, step-by-step guide on upgrading Team Foundation Server (TFS) from 2008 to 2010, which directly relates to practical techniques and tooling in the context of Agile and DevOps practices. It discusses specific tools (TFS, SQL Server) and methodologies (backup, restore, upgrade processes) that enhance team performance and delivery outcomes. The depth of discussion is significant, covering various aspects of the upgrade process, including verification, backup strategies, and post-upgrade testing, which aligns well with the key topics of the category.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,12 +76,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T00:42:20",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-10T13:05:02",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 40,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "The content primarily focuses on the step-by-step process of upgrading Team Foundation Server from 2008 to 2010, including installation verification, database backup, restoration, and upgrade commands, which are all central to the installation and configuration category.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "The content provides a comprehensive guide on upgrading Team Foundation Server from 2008 to 2010, detailing installation verification, database backup, restoration, and upgrade processes. It includes step-by-step instructions, troubleshooting tips, and considerations for maintaining data integrity, which aligns closely with the key topics of the 'Install and Configuration' category. The depth of discussion is significant, covering various technical aspects and potential issues during the upgrade process.",
+    "level": "Secondary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -118,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:04:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the upgrade process of Team Foundation Server, which is relevant to DevOps practices, particularly in the context of Continuous Integration and Continuous Delivery. However, the primary focus is on the technical steps of the upgrade rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server (TFS) from 2008 to 2010, which is related to software development and version control. However, it lacks a direct discussion of DevOps principles, practices, or cultural shifts. While it touches on aspects of deployment and backup processes, it does not delve into broader DevOps themes such as Continuous Integration, Continuous Delivery, or team collaboration. Therefore, it only partially aligns with the DevOps category.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -280,11 +289,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-16T00:43:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:03:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the upgrade process from Team Foundation Server 2008 to 2010, which is a key aspect of Azure DevOps services, particularly in relation to version control and project management functionalities.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the upgrade process from Team Foundation Server (TFS) 2008 to TFS 2010, which is a part of the Azure DevOps suite. It provides detailed steps and considerations for the upgrade, including database backups, restoring databases, and verifying installations. While it does not explicitly mention Azure DevOps, it focuses on TFS, which is integral to Azure DevOps. The depth of discussion is significant, covering technical details and practical advice, thus aligning well with the category's core themes.",
     "level": "Secondary"
   },
   "Personal": {
@@ -343,11 +355,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T00:43:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:51:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server, which is a key aspect of managing the application lifecycle, including deployment and maintenance stages.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the upgrade process of Team Foundation Server (TFS) from 2008 to 2010, which is a specific aspect of Application Lifecycle Management (ALM). It discusses stages such as deployment and maintenance, and touches on best practices for backups and database management during the upgrade. However, while it mentions ALM and provides some relevant details, it lacks a comprehensive exploration of the broader methodologies, tools, and governance practices typically associated with ALM. The discussion is more technical and procedural rather than strategic or holistic, which limits its depth in the context of ALM.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -370,11 +385,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T01:18:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:40:33",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the technical processes involved in upgrading Team Foundation Server, including best practices, verification of installations, database management, and project migration, which align with principles of software craftsmanship and engineering excellence.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server from 2008 to 2010, detailing specific steps, commands, and considerations for a successful migration. It discusses best practices for database backup and restoration, as well as the importance of maintaining project history and integrity during the upgrade. While it does not explicitly mention broader software craftsmanship principles, the depth of technical detail and the focus on engineering practices related to TFS upgrades align well with the category of Technical Mastery.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -478,12 +496,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-16T01:18:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:05:58",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses strategies and practices related to upgrading Team Foundation Server, which involves operational tasks relevant to maintaining and optimizing workflows within Agile and Lean environments.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on the technical steps involved in upgrading Team Foundation Server, which includes operational tasks such as backing up databases and restoring them. While it touches on aspects of operational practices, such as ensuring minimal disruption during the upgrade and verifying installations, it lacks a broader discussion on strategies for enhancing operational efficiency or continuous improvement within Agile or DevOps frameworks. The depth of discussion is more procedural than strategic, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -730,12 +751,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:36:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the upgrade process of Team Foundation Server, which involves aspects related to software development practices such as backups, verification of installation, and management of changes during the upgrade. However, the main focus is on the upgrade procedure itself rather than on broader topics of engineering excellence, coding standards, or best practices in software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server, which includes some aspects of software craftsmanship and quality assurance, such as verifying installations and backing up databases. However, it lacks a broader discussion on best practices, continuous improvement, or metrics for assessing engineering performance. The depth of discussion is limited to procedural steps rather than a comprehensive exploration of engineering excellence principles.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1351,12 +1375,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:59:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:03:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the upgrade process of Team Foundation Server, which includes references to Agile practices and Scrum templates, indicating a secondary theme related to social technologies.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server from 2008 to 2010, with minimal references to Agile methodologies or frameworks like Scrum, Kanban, or Lean. While there is a mention of Scrum in the context of process templates, it is not a central theme of the discussion. The content lacks depth in exploring collaboration, continuous improvement, or team dynamics, which are key aspects of Social Technologies.",
+    "level": "Quinary"
   },
   "Leadership": {
     "category": "Leadership",

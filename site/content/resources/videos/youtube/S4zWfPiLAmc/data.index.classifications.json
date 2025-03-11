@@ -64,11 +64,14 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-12T02:08:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:02:05",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of using empirical data to inform decision-making in Kanban implementation, highlighting the pitfalls of relying on vanity metrics and advocating for a data-driven approach to optimise processes.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of data in Kanban implementation, criticising the use of vanity metrics and advocating for the collection of specific, actionable data. It aligns well with the principles of Evidence-Based Leadership by emphasising data-driven decision-making and the need for transparency and inspection. However, while it touches on leadership implications, it primarily focuses on technical aspects of Kanban rather than broader leadership strategies, which slightly limits its depth in the context of leadership practices.",
     "level": "Secondary"
   },
   "Employee Engagement": {
@@ -82,11 +85,14 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T13:14:20",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-07T13:03:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content primarily discusses the pitfalls of using vanity metrics in Kanban implementation, which is more focused on technical implementation details rather than strategic product management principles.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the pitfalls of using vanity metrics in Kanban implementation, which is tangentially related to product management. While it touches on the importance of data and metrics, it lacks a direct focus on strategic product management principles, such as aligning customer needs with business objectives or discussing frameworks like Agile or Scrum in depth. The discussion is more about technical implementation and metrics rather than the strategic aspects of product management.",
     "level": "Quaternary"
   },
   "Agile Leadership": {
@@ -136,11 +142,14 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-12T02:08:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T17:57:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of using data and metrics for effective decision-making in Kanban implementation, aligning well with evidence-based decision-making principles.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of data in decision-making processes, particularly in the context of Kanban implementation. It critiques the use of vanity metrics and emphasises the need for actionable data to optimise processes. However, while it touches on decision-making, it primarily focuses on the pitfalls of poor metric selection rather than providing a structured approach to decision-making itself. The discussion lacks depth in terms of frameworks or methodologies for decision-making, which limits its alignment with the category.",
     "level": "Secondary"
   },
   "Self Organisation": {
@@ -199,11 +208,14 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-12T02:08:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T09:56:48",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the importance of data visibility and actionable metrics in Kanban, emphasising the role of transparency in optimising processes and improving team performance.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the importance of data visibility in Kanban, emphasising that without proper metrics, teams cannot achieve transparency. It critiques the use of vanity metrics and highlights the need for actionable data to foster transparency, inspection, and adaptation. The discussion is detailed, providing specific metrics that enhance visibility and accountability, aligning well with the core themes of the Transparency category.",
     "level": "Secondary"
   },
   "Definition of Done": {
@@ -307,11 +319,14 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-12T02:09:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:19:41",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of measuring Cycle Time and how to effectively collect and use data related to it, while also critiquing the use of vanity metrics.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of data in measuring Cycle Time, explicitly mentioning how to calculate it using start and end dates. It aligns well with the core themes of Cycle Time, particularly in the context of Agile and DevOps, by emphasising the need for accurate metrics to optimise workflow. However, while it provides a good level of detail, the primary focus is somewhat diluted by the critique of vanity metrics and the broader discussion on Kanban strategy, which slightly detracts from a concentrated exploration of Cycle Time itself.",
     "level": "Secondary"
   },
   "Engineering Practices": {
@@ -1231,11 +1246,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-12T02:07:55",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-07T13:03:57",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of using relevant metrics to optimise value delivery in Kanban, highlighting the need for data transparency and actionable insights, which aligns with value delivery principles.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of using relevant metrics to optimise value delivery in a Kanban strategy, which aligns with the principles of measuring and maximising customer value. However, the focus is primarily on critiquing vanity metrics rather than providing a comprehensive discussion on value delivery methodologies. While it touches on data transparency and process improvement, it lacks depth in exploring broader value delivery strategies and frameworks.",
     "level": "Secondary"
   },
   "Technical Excellence": {
@@ -1294,11 +1312,14 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-12T02:08:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T11:46:08",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 32,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of using relevant metrics in Kanban implementation, criticising vanity metrics and emphasising the need for actionable data to improve processes.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses the importance of data in Kanban implementation, criticising the use of vanity metrics and advocating for actionable metrics. It aligns well with the core themes of the category, focusing on evidence-based decision-making and the significance of performance data. The depth of discussion is substantial, providing specific metrics and their implications for process improvement, which supports a high confidence score.",
     "level": "Secondary"
   },
   "Application Lifecycle Management": {
@@ -1375,11 +1396,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T13:57:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T11:46:05",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Kanban principles, specifically the importance of data and metrics in optimising Kanban strategies, which aligns with the category's focus on value delivery and continuous improvement.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses Kanban principles and critiques the misuse of metrics, which aligns with the core themes of Social Technologies. However, the focus is primarily on the pitfalls of implementation rather than a comprehensive exploration of Kanban or related frameworks. The depth of discussion is limited, as it mainly highlights issues without providing extensive insights into the methodologies themselves.",
     "level": "Secondary"
   },
   "Internal Developer Platform": {

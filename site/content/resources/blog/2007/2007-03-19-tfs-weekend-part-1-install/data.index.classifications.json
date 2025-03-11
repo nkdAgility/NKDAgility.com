@@ -10,11 +10,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:33:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:26:23",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation process of TFS, including personal experiences and challenges faced during the setup, which aligns well with the category's focus on installation procedures.",
+    "final_score": 63.0,
+    "reasoning": "The content primarily focuses on the installation of TFS, detailing personal experiences and challenges faced during the process. While it does mention specific issues related to installation, such as permission problems, the overall discussion lacks structured, actionable instructions or best practices that are typically expected in the 'Install and Configuration' category. The narrative style and personal anecdotes detract from the depth and clarity required for a comprehensive guide, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -91,12 +94,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:34:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:21:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses TFS (Team Foundation Server), which is part of the Azure DevOps suite, but the focus is more on personal experiences and installation issues rather than Azure DevOps functionalities or best practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the installation of TFS (Team Foundation Server), which is a component of Azure DevOps. However, it lacks a detailed exploration of Azure DevOps functionalities, best practices, or methodologies. The focus is more on personal experiences and challenges faced during installation rather than on the broader context of Azure DevOps as a suite of tools. Therefore, while there are mentions of TFS, the overall alignment with the Azure DevOps category is limited.",
+    "level": "Quaternary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -208,21 +214,27 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:34:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:06:49",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the installation of TFS, which is a practical tool relevant to Agile and DevOps practices, but it primarily focuses on personal experiences rather than a structured exploration of techniques or methodologies.",
+    "final_score": 57.0,
+    "reasoning": "The content provides a personal account of installing TFS, which is a tool relevant to Agile and DevOps practices. However, it lacks a structured discussion on methodologies or frameworks, focusing instead on anecdotal experiences. While it mentions practical aspects of installation, it does not delve into broader implications or best practices, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:34:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:53:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation of TFS, which is related to application lifecycle management, but it primarily focuses on personal experiences and challenges rather than the broader methodologies or practices of ALM.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions TFS (Team Foundation Server), which is a tool related to Application Lifecycle Management, but it primarily focuses on the installation experience rather than discussing the broader aspects of ALM. There is a lack of depth in exploring the stages of the application lifecycle or best practices, and the discussion does not align closely with the core themes of governance, compliance, or metrics. Overall, while there is a connection to ALM through the mention of TFS, the content does not provide substantial insights into the management of software applications.",
+    "level": "Quaternary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -289,12 +301,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:34:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:18:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content shares a personal experience related to installing TFS and reflects on the challenges faced, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content provides a personal anecdote about assisting a friend with TFS installation, which aligns with the Personal category. However, it primarily focuses on technical aspects of TFS rather than personal reflections or insights related to Agile, Scrum, or DevOps methodologies. The mention of personal experience is present but not the primary focus, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",

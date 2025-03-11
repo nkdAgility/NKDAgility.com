@@ -31,18 +31,18 @@ tags:
 - Lean Principles
 - Lean Thinking
 - Value Delivery
+- Product Delivery
 - Decision Making
 - Discovery and Learning
 - Product Discovery
-- Product Owner
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Product Management
+- Social Technologies
 
 ---
 Over the past 18 months, I've noticed a significant uptick in interest and inquiries surrounding lean product development, particularly in the context of product ownership. This shift is not just a passing trend; it reflects a deeper desire within our industry to refine our decision-making processes regarding what we build. 

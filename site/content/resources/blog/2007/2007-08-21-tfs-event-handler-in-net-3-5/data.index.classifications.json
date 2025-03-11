@@ -100,12 +100,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:13:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:15:27",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the creation of a TFS Event Handler in .NET 3.5, which involves practical application of tooling, but it is primarily focused on the specific implementation rather than broader Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the creation of a Team Foundation Server Event Handler, which directly relates to tooling in a practical context. It mentions specific features of Team Foundation Server and outlines a series of articles that delve into the implementation details. However, while it touches on practical techniques, it lacks a broader discussion on methodologies or frameworks that enhance Agile and DevOps practices, which slightly limits its alignment and depth.",
+    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -316,12 +319,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:50:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the creation of a TFS Event Handler in .NET 3.5, which touches on technical practices and methodologies, but it is primarily focused on the implementation details rather than broader engineering practices that enhance agility.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the creation of a TFS Event Handler in .NET 3.5, which touches on technical aspects such as resilience and scalability. However, it lacks explicit discussions on key topics like TDD, CI/CD, or modular architecture that are central to the category of Technical Excellence. The focus is more on implementation details rather than broader engineering practices or methodologies that enhance agility in software development.",
+    "level": "Quaternary"
   },
   "People and Process": {
     "category": "People and Process",
@@ -568,20 +574,26 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:02:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses creating a Team Foundation Server Event Handler in .NET, which relates to software development practices, though it doesn't directly address Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on creating a Team Foundation Server Event Handler in .NET 3.5, which is a technical implementation rather than a discussion on the role of software developers within Agile or DevOps frameworks. While it mentions development practices, it lacks explicit references to Agile methodologies, DevOps principles, or the broader context of software development roles. The depth of discussion is limited to technical implementation details without exploring the collaborative or productivity aspects of software development.",
+    "level": "Quaternary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T21:53:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:16:41",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily focuses on creating a TFS Event Handler in .NET 3.5, detailing architectural and handling aspects which align with software development practices.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses creating a Team Foundation Server Event Handler in .NET 3.5, which directly relates to software development practices. It mentions specific technologies and frameworks, indicating a focus on software engineering. However, while it touches on relevant topics, the depth of discussion is limited to a high-level overview without delving into methodologies or best practices in detail.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {
@@ -946,12 +958,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T21:53:35",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-10T13:20:35",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content primarily discusses the creation of a TFS Event Handler in .NET 3.5, focusing on architectural considerations and the use of software features. However, it does not delve deeply into broader best practices or principles of software engineering, making the topic a major but secondary theme.",
-    "level": "Secondary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the creation of a TFS Event Handler in .NET 3.5, which touches on software architecture and design principles. However, it lacks a detailed exploration of best practices, clean code principles, or methodologies that contribute to software craftsmanship. The focus is primarily on implementation rather than broader technical mastery concepts.",
+    "level": "Quaternary"
   },
   "Remote Working": {
     "category": "Remote Working",

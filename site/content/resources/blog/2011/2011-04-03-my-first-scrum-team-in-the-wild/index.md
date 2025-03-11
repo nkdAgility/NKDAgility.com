@@ -8,7 +8,7 @@ ResourceImportId: 9892
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-04-03
-weight: 550
+weight: 585
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,10 +24,11 @@ aliasesArchive:
 - /resources/blog/my-first-scrum-team-in-the-wild
 tags:
 - Agile Project Management
-- Agile Product Management
 - Agile Planning
 - Agile Frameworks
 - Software Development
+- Agile Product Management
+- People and Process
 categories:
 - Scrum
 - Social Technologies

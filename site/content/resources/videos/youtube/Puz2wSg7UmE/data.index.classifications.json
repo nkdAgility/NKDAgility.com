@@ -52,11 +52,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T14:07:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T13:07:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the application of evidence-based management metrics to evaluate organisational capability and innovation, aligning closely with the principles of Evidence-Based Management.",
+    "final_score": 71.0,
+    "reasoning": "The content explicitly mentions 'evidence-based management' and discusses metrics related to organisational capability and innovation, which aligns with the principles of EBM. However, while it touches on relevant topics, the depth of discussion on EBM principles and practices is somewhat limited, focusing more on specific metrics rather than a comprehensive exploration of EBM as a whole.",
     "level": "Secondary"
   },
   "Personal": {
@@ -79,11 +82,14 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T14:07:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T11:48:02",
+    "ai_confidence": 55.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 50.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses metrics related to technical debt and innovation in the context of software development, indicating a secondary theme of complexity management.",
+    "final_score": 50.0,
+    "reasoning": "The content briefly touches on technical debt and the relationship between innovation and complexity, which aligns with the category. However, the primary focus is on organisational capability and metrics for innovation rather than a deep exploration of code quality or complexity theory. The discussion lacks detailed insights into best practices or principles of software development, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Transparency and Accountability": {
@@ -97,21 +103,27 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T14:08:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:03:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses organisational capability and innovation, which are relevant to market adaptability, but it does not primarily focus on Agile, DevOps, or Lean methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses organisational capability and innovation metrics, which are tangentially related to market adaptability. However, it lacks explicit references to Agile, DevOps, or Lean methodologies, and does not provide a detailed exploration of strategies for responding to market shifts. The focus is more on measuring innovation rather than adapting to market changes.",
+    "level": "Quaternary"
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T14:08:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T17:59:38",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses organisational capability and metrics related to innovation, which touches on the interplay between human behaviour and structured methodologies, but it primarily focuses on metrics rather than team dynamics or processes.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses organisational capability and metrics related to innovation, which touches on the interplay between human behaviour and structured methodologies. However, it lacks direct mentions of team dynamics, leadership, or specific processes like Agile or Scrum. The focus is more on metrics than on the human factors influencing those processes, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -142,21 +154,27 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T14:08:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T09:58:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses measuring organisational capability to improve value through innovation, aligning with key topics of value delivery.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses measuring an organisation's ability to improve value, which aligns with the core themes of value delivery. It mentions evidence-based management and metrics related to innovation, which are relevant to assessing value delivery effectiveness. However, the discussion lacks depth in exploring specific strategies or methodologies for continuous delivery of value, resulting in a moderately high confidence score.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T14:08:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:21:13",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses organisational capability and innovation, which are relevant to sociotechnical systems, but it primarily focuses on metrics and technical aspects without a strong emphasis on the interplay between social and technical elements.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses organisational capability and innovation, which are relevant to sociotechnical systems. However, it primarily focuses on metrics and technical aspects without a strong emphasis on the interplay between social and technical elements. The mention of organisational effectiveness is present but lacks depth in exploring the relationship between organisational culture and technology adoption.",
+    "level": "Quaternary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -676,12 +694,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T14:40:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:07:38",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses metrics related to organizational capability to innovate, which is a secondary consideration in product management. It mentions evidence-based management and the importance of measuring innovation, aligning with product management themes but not primarily focused on them.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the measurement of organisational capability and innovation, which aligns with product management principles, particularly in the context of Evidence-Based Management. However, while it touches on relevant metrics, it lacks a comprehensive exploration of product management methodologies or frameworks, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",

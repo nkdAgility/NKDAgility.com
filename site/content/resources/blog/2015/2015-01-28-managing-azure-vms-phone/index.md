@@ -8,7 +8,7 @@ ResourceImportId: 11152
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-01-28
-weight: 865
+weight: 945
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,8 +29,7 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 - Products and Books
-categories:
-- DevOps
+categories: []
 preview: nakedalm-windows-logo-7-7.png
 
 ---

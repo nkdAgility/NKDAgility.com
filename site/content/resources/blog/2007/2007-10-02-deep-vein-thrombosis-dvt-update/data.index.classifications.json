@@ -73,11 +73,14 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-16T20:20:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:19:29",
+    "ai_confidence": 85.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses personal experiences and updates related to deep vein thrombosis (DVT) and a petition, without direct reference to Agile, Scrum, DevOps, or Lean principles.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily discusses a personal narrative regarding deep vein thrombosis (DVT) and the efforts of a family to raise awareness and change health protocols. While it does not directly reference Agile, Scrum, DevOps, Lean, or Evidence-Based Management, it fits within the Miscellaneous category as it provides a personal account and general discussion on a health-related topic without actionable insights or connections to established frameworks. The direct mention of the category is minimal, but the overall theme aligns with the broader context of personal experiences and reflections.",
     "level": "Secondary"
   },
   "Resilience and Change": {
@@ -226,12 +229,15 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T09:13:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:01:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a meeting at the Scottish Parliament regarding a petition, which involves a presentation and public discussion, making it a significant but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses a meeting at the Scottish Parliament regarding a petition for changes in DVT management, which could be considered an event. However, it primarily focuses on personal experiences and updates rather than structured presentations or discussions typical of the category. While there are mentions of a presentation and media coverage, the overall emphasis is on personal anecdotes and the petition's progress rather than formal events or presentations in Agile, DevOps, or software engineering.",
+    "level": "Quaternary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -280,12 +286,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-16T20:21:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:15:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content shares personal reflections and experiences related to the impact of deep vein thrombosis (DVT) on the author's life and their friend's family, highlighting individual contributions to a petition and the emotional context surrounding the issue.",
-    "level": "Secondary"
+    "final_score": 59.0,
+    "reasoning": "The content primarily focuses on a personal experience related to the death of a friend and the subsequent actions taken by the family to raise awareness about deep vein thrombosis (DVT). It includes personal reflections and updates on the petition, which aligns with the Personal category's emphasis on individual experiences and insights. However, while it touches on personal anecdotes, the content does not delve deeply into Agile, Scrum, or DevOps themes, which slightly lowers the confidence score.",
+    "level": "Tertiary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",

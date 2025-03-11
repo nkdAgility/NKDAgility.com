@@ -29,11 +29,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Estimation
-- Agile Project Management
 - People and Process
-- Pragmatic Thinking
+- Estimation
 - Software Development
+- Agile Project Management
+- Pragmatic Thinking
+- Software Developers
 resourceTypes:
 - video
 categories:

@@ -55,11 +55,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T18:47:13",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-10T13:16:44",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 84.0,
-    "reasoning": "The content provides a detailed step-by-step guide on installing Microsoft Office SharePoint Server (MOSS) 2007, including prerequisites, installation procedures, and configuration steps, which aligns closely with the category's focus on installation and configuration processes.",
+    "final_score": 81.0,
+    "reasoning": "The content provides a detailed step-by-step guide on installing Microsoft Office SharePoint Server (MOSS) and its prerequisites, including SQL Server and .NET Framework. It discusses specific installation procedures, configuration steps, and considerations for updates and service packs, which align closely with the key topics of the 'Install and Configuration' category. The depth of discussion is substantial, covering various aspects of the installation process, troubleshooting, and best practices, thus justifying a high confidence score.",
     "level": "Primary"
   },
   "Decision Theory": {
@@ -100,12 +103,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T18:47:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:13:24",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical steps and techniques involved in installing Microsoft Office SharePoint Server (MOSS) and related tools, which aligns with the category's focus on practical application of tooling.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content provides a detailed walkthrough of installing Microsoft Office SharePoint Server (MOSS) and related components, which aligns with practical techniques and tooling. It discusses specific tools (MOSS, SQL Server) and methodologies (installation steps, pre-requisites) relevant to the category. However, the focus is primarily on the installation process rather than broader Agile or DevOps practices, which limits its depth and alignment with the category's core themes.",
+    "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -370,11 +376,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T19:00:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:13:20",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration process of Microsoft Office SharePoint Server (MOSS) and the necessary steps for setting up related software and hardware, which aligns closely with system configuration practices.",
+    "final_score": 80.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Microsoft Office SharePoint Server (MOSS) 2007, detailing the steps taken to set up the server, including prerequisites like .NET 3.5 and SQL Server installation. It discusses specific configuration tasks, such as managing instances and handling service packs, which align closely with the core themes of system configuration. The depth of discussion is substantial, providing insights into the installation process and potential issues, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
@@ -946,12 +955,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T19:00:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:59:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the installation process of Microsoft Office SharePoint Server (MOSS) including technical prerequisites, configuration, and specific steps involved, which aligns closely with the principles of software craftsmanship and engineering practices.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation process of Microsoft Office SharePoint Server (MOSS) and related components, which is a technical task. However, it lacks a broader discussion on software craftsmanship principles, best practices, or methodologies that contribute to high-quality software development. While it does touch on technical aspects such as prerequisites and installation steps, it does not delve into deeper topics like code quality, testing, or architectural considerations, which are essential for the 'Technical Mastery' category.",
+    "level": "Quaternary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1081,11 +1093,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T19:00:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:47:53",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the installation process of Microsoft Office SharePoint Server (MOSS) on a Windows environment, including the installation of prerequisites like .NET and SQL Server, which directly relates to the Windows operating system's requirements and configurations.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Microsoft Office SharePoint Server (MOSS) on a Windows environment, which aligns closely with the Windows category. It discusses the installation of .NET 3.5 and SQL Server, both of which are integral to the Windows operating system. The depth of discussion is significant, detailing specific steps and considerations during the installation process, including updates and service packs relevant to Windows. The content does not stray into non-Windows topics, maintaining a strong focus on Windows-related procedures.",
     "level": "Secondary"
   },
   "Lean Principles": {

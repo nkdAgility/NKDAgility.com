@@ -55,11 +55,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:13:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:13:33",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses setting up SharePoint, which relates to installation and configuration, but it primarily focuses on deployment architecture rather than providing clear, actionable installation instructions.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses setting up SharePoint, which aligns with the installation and configuration category. However, it lacks detailed step-by-step instructions or specific configuration best practices. The mention of a blog post for architectural insights indicates some relevance, but the primary focus is more on planning rather than actionable installation guidance.",
     "level": "Tertiary"
   },
   "Decision Theory": {
@@ -370,11 +373,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:59:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the setup and architecture of SharePoint, which relates to system configuration, but it is primarily focused on deployment challenges rather than the specific processes and methodologies of configuration.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses setting up SharePoint, which directly relates to system configuration. It mentions the challenges of structuring a deployment for a global user base, indicating a focus on configuration strategies. However, while it touches on the architecture of SharePoint deployments, it lacks detailed exploration of best practices or specific configuration management techniques, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Ability to Innovate": {
@@ -577,11 +583,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:25",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-11T12:13:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses SharePoint deployment and architecture, which are related to software systems, but it is primarily focused on setting up SharePoint rather than software development practices or methodologies.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses setting up SharePoint, which is related to software deployment and architecture. However, it lacks a strong focus on software development methodologies or practices. The mention of architecture is relevant but does not delve into software engineering principles or frameworks, resulting in a low confidence score.",
     "level": "Quaternary"
   },
   "Site Reliability Engineering": {
@@ -946,12 +955,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:16:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses SharePoint deployment architecture, which is related to software design and technical practices but focuses more on deployment logistics than on broader software craftsmanship principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the architecture of a SharePoint deployment, which aligns with the principles of software craftsmanship and architecture. However, it primarily focuses on a specific implementation task rather than broader best practices or methodologies in software engineering. The mention of an external post indicates some depth but lacks a comprehensive exploration of technical mastery principles.",
+    "level": "Quaternary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1126,12 +1138,15 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T09:13:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:48:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses structuring a deployment of SharePoint across multiple continents, which relates to deployment strategies, but it is also focused on the architecture and planning aspects rather than specific methodologies or techniques for deployment.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses setting up SharePoint for a global deployment, which touches on deployment strategies but lacks explicit mention of specific methodologies like Blue-Green Deployments or Canary Releases. While it hints at the challenges of structuring a deployment across multiple regions, it does not provide detailed insights or actionable strategies related to deployment practices.",
+    "level": "Quaternary"
   },
   "Test Automation": {
     "category": "Test Automation",

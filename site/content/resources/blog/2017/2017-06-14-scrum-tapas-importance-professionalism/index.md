@@ -8,7 +8,7 @@ ResourceImportId: 11942
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2017-06-14
-weight: 770
+weight: 805
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,8 +28,10 @@ aliasesArchive:
 - /resources/blog/scrum-tapas-importance-professionalism
 tags:
 - Events and Presentations
+- People and Process
 categories:
 - Scrum
+- Social Technologies
 preview: nkdagility-martin-hinshelwood-scrum-tapas-professional-1-1.png
 
 ---

@@ -8,7 +8,7 @@ ResourceImportId: 258
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-01-31
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -25,12 +25,9 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Azure DevOps
 - Software Development
 - System Configuration
-- Technical Mastery
-categories:
-- Engineering Excellence
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

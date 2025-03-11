@@ -25,8 +25,8 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - System Configuration
-- Technical Mastery
 - Troubleshooting
+- Windows
 categories: []
 preview: nakedalm-logo-128-link-6-6.png
 

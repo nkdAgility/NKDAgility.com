@@ -8,7 +8,7 @@ ResourceImportId: 9951
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-08-19
-weight: 550
+weight: 630
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -31,14 +31,14 @@ aliasesArchive:
 tags:
 - Coaching
 - Mentoring
-- Application Lifecycle Management
 - Agile Planning
 - Agile Project Management
 - Agile Frameworks
 - Agile Leadership
 - Agile Strategy
 - Agile Transformation
-- People and Process
+- Application Lifecycle Management
+- Operational Practices
 categories:
 - Social Technologies
 - Scrum

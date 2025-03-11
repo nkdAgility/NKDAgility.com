@@ -8,7 +8,7 @@ ResourceImportId: 121
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-05-18
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,14 +23,11 @@ aliasesArchive:
 - /visual-studio-team-system-2010-beta-1-ships
 - /resources/blog/visual-studio-team-system-2010-beta-1-ships
 tags:
+- Software Development
 - News and Reviews
 - Practical Techniques and Tooling
 - Products and Books
-- Software Development
-- Technical Mastery
-categories:
-- DevOps
-- Engineering Excellence
+categories: []
 
 ---
 [Visual Studio 2010 Team Suit Beta 1](http://www.microsoft.com/visualstudio/en-gb/products/2010/default.mspx) and [Visual Studio 2010 Team Foundation Server Beta 1](http://www.microsoft.com/visualstudio/en-gb/products/2010/default.mspx) will be available to download from MSDN today at 5pm (GMT) and to the general public on Wednesday.

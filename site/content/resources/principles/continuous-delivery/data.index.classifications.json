@@ -262,11 +262,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-13T09:37:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T11:38:51",
+    "ai_confidence": 68.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the concept of continuous delivery in relation to user feedback and delivering value, aligning well with the principles of Continuous Delivery.",
+    "final_score": 63.0,
+    "reasoning": "The content explicitly mentions 'continuous delivery' and discusses the importance of delivering valuable products to users, which aligns with the principles of Continuous Delivery. However, it lacks a comprehensive exploration of the methodologies, practices, and automation aspects that are crucial to the category, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Working Agreements": {
@@ -388,11 +391,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-13T09:38:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:55:54",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses continuous delivery, which is a key practice in software development, focusing on delivering valuable products and gathering user feedback in iterations.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses continuous delivery, which is a key practice in software development, particularly in the context of gathering user feedback. While it does not explicitly mention methodologies like Agile or CI/CD, it aligns well with the core themes of delivering software iteratively and ensuring value through user engagement. However, the depth of discussion is limited, focusing primarily on the feedback loop rather than broader software development practices.",
     "level": "Secondary"
   },
   "Azure Repos": {
@@ -415,11 +421,14 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-13T09:38:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T17:52:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of closing the feedback loop by getting the product in front of users and gathering their feedback, which aligns well with the category's focus on integrating customer feedback into the product development process.",
+    "final_score": 66.0,
+    "reasoning": "The content explicitly mentions the importance of closing the feedback loop and gathering feedback from users, which directly relates to customer feedback loops. However, while it touches on the concept of continuous delivery and user involvement, it lacks a comprehensive exploration of techniques, strategies, or tools for integrating feedback into the product development process. The discussion is somewhat superficial, focusing more on the necessity of user feedback rather than detailing methods for collecting and acting on that feedback.",
     "level": "Secondary"
   },
   "Agile Strategy": {
@@ -469,11 +478,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-13T09:38:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T00:19:35",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of continuous delivery and gathering user feedback, which are central to the concept of working software in Agile methodologies.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of continuous delivery and gathering user feedback, which are key aspects of working software. However, it lacks explicit definitions or detailed exploration of working software characteristics, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Sprint Review": {
@@ -640,11 +652,14 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-13T09:39:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T09:51:05",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the principles of continuous delivery and the importance of delivering valuable products to users iteratively, which aligns closely with the category of Frequent Releases.",
+    "final_score": 68.0,
+    "reasoning": "The content explicitly mentions 'continuous delivery' and discusses the importance of delivering valuable products to users iteratively, which aligns with the principles of Frequent Releases. However, it lacks detailed exploration of techniques, metrics, or best practices related to frequent releases, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Agile Philosophy": {
@@ -916,11 +931,14 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-13T09:39:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:14:24",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of user feedback in validating product value, which aligns closely with the key topics of Product Validation, particularly in relation to customer feedback loops and continuous delivery.",
+    "final_score": 71.0,
+    "reasoning": "The content explicitly mentions the importance of getting the product in front of users and gathering feedback, which aligns with the core themes of product validation. However, it lacks detailed discussion on specific methodologies or practices related to user testing, market fit, or prototyping, which limits its depth. Overall, while it touches on key aspects of product validation, it does not provide comprehensive coverage of the topic.",
     "level": "Secondary"
   },
   "Scaling Kanban": {
@@ -1144,12 +1162,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T12:11:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T12:51:00",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous delivery, which is a key principle of DevOps, but it primarily focuses on the importance of user feedback rather than the broader practices and tools associated with DevOps.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the concept of continuous delivery, which is a key principle of DevOps. However, it lacks explicit mentions of broader DevOps practices, tools, or cultural shifts. The focus is primarily on user feedback rather than the integration of development and operations, which limits the depth of the discussion. Overall, while it aligns with some core themes, it does not provide a comprehensive exploration of DevOps.",
+    "level": "Secondary"
   },
   "People and Process": {
     "category": "People and Process",
@@ -1303,11 +1324,14 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-13T09:37:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:51:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of closing the feedback loop and gathering user feedback, which aligns closely with the principles of discovery and learning in product development.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of closing the feedback loop and gathering user feedback, which aligns with the core themes of discovery and learning. However, it primarily focuses on continuous delivery rather than exploring broader methodologies or processes that foster innovation and learning. The mention of user feedback is significant but not deeply explored, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -1375,12 +1399,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T13:51:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T11:38:47",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of continuous delivery and user feedback, which aligns with Agile principles of value delivery and customer collaboration, but does not primarily focus on specific frameworks like Scrum or Kanban.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content briefly mentions the importance of user feedback in the context of continuous delivery, which aligns with Agile principles of customer collaboration and iterative development. However, it lacks detailed discussion on specific frameworks like Scrum or Kanban, and does not delve deeply into the methodologies or practices that facilitate collaboration and continuous improvement.",
+    "level": "Quaternary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

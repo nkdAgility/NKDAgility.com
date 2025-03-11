@@ -31,20 +31,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Planning
-- Scrum Product Development
-- Product Delivery
-- Backlog Refinement
 - People and Process
-- Product Backlog
-- Agile Planning Tools
 - Agile Product Management
-- Scrum Team
-- Team Performance
+- Agile Planning
+- Professional Scrum
+- Scrum Product Development
+- Software Development
+- Product Delivery
+- Agile Frameworks
+- Backlog Refinement
+- Agile Planning Tools
 resourceTypes:
 - video
 categories:
 - Scrum
+- Social Technologies
 
 ---
 ## What's a Sprint Goal and Why Does It Matter?

@@ -8,7 +8,7 @@ ResourceImportId: 38300
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2018-01-30
-weight: 545
+weight: 445
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -32,6 +32,7 @@ tags:
 categories:
 - Social Technologies
 - Scrum
+- Engineering Excellence
 preview: nkdagility-cross-sprint-boundary-2-1.png
 
 ---

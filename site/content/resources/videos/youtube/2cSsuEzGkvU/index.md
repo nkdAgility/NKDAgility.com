@@ -24,8 +24,8 @@ preview: https://i.ytimg.com/vi/2cSsuEzGkvU/maxresdefault.jpg
 duration: 53
 isShort: true
 tags:
-- Agile Values and Principles
 - People and Process
+- Agile Values and Principles
 - Team Collaboration
 - Team Motivation
 - Personal

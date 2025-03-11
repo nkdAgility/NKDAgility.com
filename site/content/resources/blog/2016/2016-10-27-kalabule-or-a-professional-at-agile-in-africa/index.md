@@ -8,7 +8,7 @@ ResourceImportId: 11642
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2016-10-27
-weight: 545
+weight: 445
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,17 +23,18 @@ aliasesArchive:
 - /kalabule-or-a-professional-at-agile-in-africa
 - /resources/blog/kalabule-or-a-professional-at-agile-in-africa
 tags:
-- Agile Values and Principles
 - Scrum Values
-- Agile Philosophy
+- Agile Values and Principles
 - Events and Presentations
 - People and Process
-- Software Developers
+- Agile Philosophy
 - Software Development
+- Software Developers
 - Organisational Culture
 categories:
 - Social Technologies
-- Scrum
+- Engineering Excellence
+- Leadership
 preview: clip_image001-2-2.png
 
 ---

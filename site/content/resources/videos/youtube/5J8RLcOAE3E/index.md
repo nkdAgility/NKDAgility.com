@@ -26,16 +26,16 @@ preview: https://i.ytimg.com/vi/5J8RLcOAE3E/maxresdefault.jpg
 duration: 891
 isShort: false
 tags:
+- Complexity Thinking
 - Pragmatic Thinking
-- People and Process
+- Software Development
 - Code and Complexity
 - Continuous Delivery
-- Engineering Practices
+- People and Process
 - Product Delivery
-- Resilience and Change
 - Software Developers
+- Engineering Practices
 - Technical Excellence
-- Working Software
 resourceTypes:
 - video
 sitemap:

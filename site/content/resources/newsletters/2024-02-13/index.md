@@ -23,14 +23,14 @@ categories:
 - Scrum
 - Product Management
 tags:
-- Events and Presentations
 - Agile Project Management
-- People and Process
+- Events and Presentations
 - Software Development
-- Products and Books
 - Agile Product Management
-- Practical Techniques and Tooling
+- People and Process
+- Products and Books
 - Agile Transformation
+- Practical Techniques and Tooling
 - Pragmatic Thinking
 
 ---

@@ -29,11 +29,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Agile Project Management
 - Agile Frameworks
 - Software Development
-- Complexity Thinking
 resourceTypes:
 - video
 categories:

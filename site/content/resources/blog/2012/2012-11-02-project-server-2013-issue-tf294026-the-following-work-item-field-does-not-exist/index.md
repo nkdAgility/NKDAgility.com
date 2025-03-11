@@ -27,13 +27,12 @@ aliasesArchive:
 - /blog/project-server-2013-issue-–-tf294026--the-following-work-item-field-does-not-exist
 - /resources/blog/project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
 tags:
-- Install and Configuration
-- Pragmatic Thinking
-- Software Development
 - Troubleshooting
 - Practical Techniques and Tooling
+- Software Development
+- Install and Configuration
+- Pragmatic Thinking
 categories:
-- Social Technologies
 - Scrum
 preview: metro-problem-icon-3-3.png
 

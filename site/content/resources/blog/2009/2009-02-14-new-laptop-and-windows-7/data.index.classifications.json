@@ -10,20 +10,26 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:09:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:08:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 25.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific laptop purchase and provides a brief review of its performance, which aligns with the category's focus on product discussions.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the purchase of a laptop and provides a brief review of its performance with Windows 7. However, it lacks a focus on Agile methodologies, DevOps practices, or relevant literature, which are essential for the 'Products and Books' category. The discussion is primarily personal and anecdotal, with limited depth on how the product relates to Agile or DevOps principles.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-16T10:29:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:46:59",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses personal experiences and opinions regarding the purchase of a laptop and the use of Windows 7, without direct reference to Agile, Scrum, DevOps, or Lean principles.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses personal experiences related to purchasing a laptop and using Windows 7, which does not directly reference Agile, Scrum, DevOps, Lean, or Evidence-Based Management frameworks. While it touches on technology, it lacks a clear connection to established methodologies, making it suitable for the Miscellaneous category. The depth of discussion about personal preferences and experiences is significant, contributing to a high confidence score.",
     "level": "Secondary"
   },
   "Organisational Psychology": {
@@ -262,12 +268,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:09:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:55:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content shares personal experiences related to purchasing a new laptop and the impact of that decision on household dynamics, but it primarily focuses on technical specifications and product recommendations.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the author's personal experience with purchasing a new laptop and their family's preferences, which aligns with the Personal category. However, it lacks a direct connection to Agile, Scrum, or DevOps methodologies, and the reflections are more about consumer technology than personal insights related to the specified themes.",
+    "level": "Quaternary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -685,11 +694,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T11:10:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:10:17",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the installation and performance of Windows 7 on a new laptop, which aligns closely with the topics of Windows installation and configuration.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses the purchase and experience of using a new laptop with Windows 7, which aligns with the Windows category. It mentions the operating system explicitly and provides some insights into its performance compared to Vista. However, the discussion is more anecdotal and lacks in-depth technical details about installation, configuration, or troubleshooting, which are key themes of the category. The focus is on personal experience rather than comprehensive guidance or management of the Windows environment.",
     "level": "Secondary"
   },
   "Product Strategy": {

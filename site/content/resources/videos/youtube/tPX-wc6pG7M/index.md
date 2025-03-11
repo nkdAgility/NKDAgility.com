@@ -24,16 +24,7 @@ preview: https://i.ytimg.com/vi/tPX-wc6pG7M/maxresdefault.jpg
 duration: 129
 isShort: false
 tags:
-- Agile Values and Principles
 - People and Process
-- Agile Leadership
-- Agile Philosophy
-- Agile Strategy
-- Agile Transformation
-- Employee Engagement
-- Organisational Agility
-- Organisational Change
-- Organisational Culture
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -43,6 +34,7 @@ resourceTypes:
 categories:
 - Leadership
 - Social Technologies
+- Product Management
 
 ---
 In my journey through the world of agile and organisational effectiveness, I've often found myself pondering a critical question: If even large organisations struggle to deliver value and determine which products to build, what hope do smaller organisations have? With tighter budgets and fewer hands on deck, the challenge can seem insurmountable. However, I firmly believe that the issue isn't about scale; it's about engagement.

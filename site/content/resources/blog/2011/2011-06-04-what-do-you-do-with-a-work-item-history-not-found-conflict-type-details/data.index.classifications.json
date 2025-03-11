@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T22:48:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:30:30",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the technical aspects of migrating work items in TFS, including the use of specific tools and methods to handle conflicts and revisions, which aligns with practical techniques and tooling in Agile and DevOps.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses a specific technical issue related to migrating work items in TFS, which involves practical tooling and techniques. It provides insights into the challenges faced during the migration process, including handling revision numbers and conflict types. However, while it touches on practical tooling, it lacks a comprehensive exploration of methodologies or frameworks that enhance Agile and DevOps practices, which limits its alignment with the category.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T22:48:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:01:17",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 35,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses issues related to the migration of work items in TFS, including the configuration of migration tools and the handling of specific errors during the migration process. It provides insights into the setup and operational aspects of the TFS Integration Platform, which aligns with installation and configuration topics.",
+    "final_score": 68.0,
+    "reasoning": "The content primarily discusses the installation and configuration of a migration tool for TFS (Team Foundation Server), detailing specific issues encountered during the migration process, including error messages and troubleshooting steps. It provides insights into the configuration of work item revisions and the handling of migration logs, which are relevant to the installation and configuration category. However, while it does touch on installation and configuration, the depth of actionable instructions is somewhat limited, focusing more on specific problems rather than a comprehensive guide.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:01:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to work item migration in TFS, which is relevant to DevOps practices, particularly in the context of Continuous Integration and Continuous Delivery. However, the primary focus is on specific technical problems rather than broader DevOps principles or practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses issues related to the migration of work items in TFS (Team Foundation Server), which is a tool commonly used in DevOps practices. It touches on aspects of continuous integration and delivery, particularly in the context of managing work item histories and revisions. However, while it mentions technical details relevant to DevOps, it lacks a broader discussion on DevOps principles, cultural shifts, or metrics for success, which limits its depth of discussion in the category.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -280,11 +289,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T22:49:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:00:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to work item migration within the TFS Integration Platform, which is a part of Azure DevOps. It includes specific references to work item tracking, migration processes, and error handling in the context of Azure DevOps services.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses issues related to work item migration within the context of Azure DevOps (specifically TFS, which is part of Azure DevOps). It provides detailed logs and insights into the migration process, including error handling and configuration, which are relevant to Azure DevOps functionalities. The depth of discussion is significant, as it includes specific examples and technical details about the migration process, making it a strong fit for the Azure DevOps category.",
     "level": "Secondary"
   },
   "Personal": {
@@ -343,11 +355,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T22:50:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:48:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the migration of work items within a system, which is a key aspect of managing the application lifecycle, particularly in the context of deployment and maintenance. It addresses issues related to work item history, change management, and the integration of tools, which are all relevant to Application Lifecycle Management.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses issues related to the migration of work items within a TFS (Team Foundation Server) environment, which is a key aspect of Application Lifecycle Management (ALM). It addresses the challenges faced during the migration process, including handling work item revisions and conflicts, which are integral to the maintenance and management of software applications. The content provides specific details about the migration process, including logs and error messages, indicating a focus on the operational aspects of ALM. However, while it touches on relevant topics, it lacks a broader discussion on methodologies, best practices, or tools that are typically associated with ALM, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -577,11 +592,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T23:10:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:38:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues and processes related to migrating work items in Team Foundation Server (TFS), including error handling, creating revisions, and managing change actions, which are all central aspects of software development practices and methodologies.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses issues related to the migration of work items in TFS (Team Foundation Server), which is a crucial aspect of software development practices, particularly in the context of version control and project management. It provides detailed insights into the challenges faced during the migration process, including handling revision numbers and conflict types, which are relevant to the software development lifecycle. The depth of discussion includes specific technical details, logs, and SQL queries, indicating a strong focus on software engineering practices. Overall, the content aligns well with the Software Development category, particularly in the areas of version control and project management methodologies.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -613,11 +631,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-15T23:10:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:03:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses migration issues related to work item history in TFS (Team Foundation Server), which falls within the realm of source control practices, particularly while handling changes and revisions in a source control system.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses issues related to migrating work items in TFS (Team Foundation Server), which is a version control system. It addresses specific problems encountered during the migration process, including handling revision numbers and conflict types, which are relevant to source control practices. However, while it touches on aspects of version control, such as change groups and migration instructions, it lacks a broader discussion on methodologies or best practices in modern source control, which limits its depth of discussion. Overall, the content is focused on a specific technical issue within the context of source control, justifying a moderate confidence score.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
@@ -730,11 +751,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-07T15:30:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "The content primarily revolves around a technical issue relating to the migration of work items in TFS (Team Foundation Server) and the challenges faced during this process. While it touches on the need for consistent revision IDs, which is relevant to software engineering practices, it lacks a broader discussion on engineering excellence principles, quality assurance standards, or continuous improvement processes central to the category of Engineering Excellence. Thus, it does not strongly align with the category.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses a technical issue related to TFS migration and does not explicitly address principles of software craftsmanship or best practices in engineering. While it touches on aspects of continuous integration and the handling of work items, it lacks a focused discussion on engineering excellence or improvement practices. The depth of discussion is limited to troubleshooting a specific problem rather than promoting high standards in software development.",
     "level": "Quaternary"
   },
   "Revenue per Employee": {

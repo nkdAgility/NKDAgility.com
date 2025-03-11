@@ -24,14 +24,6 @@ aliasesArchive:
 - /resources/blog/hosted-team-foundation-server
 tags:
 - News and Reviews
-- Practical Techniques and Tooling
-- Products and Books
-- Software Development
-- Application Lifecycle Management
-- Azure DevOps
-- Modern Source Control
-- Software Developers
-- Troubleshooting
 categories: []
 
 ---

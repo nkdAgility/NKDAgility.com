@@ -8,7 +8,7 @@ ResourceImportId: 3361
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-06-01
-weight: 775
+weight: 720
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,16 +23,7 @@ aliasesArchive:
 - /anatomy-of-an-automation-for-the-tfs-automation-platform
 - /resources/blog/anatomy-of-an-automation-for-the-tfs-automation-platform
 tags:
-- Software Development
 - Install and Configuration
-- System Configuration
-- Internal Developer Platform
-- Platform Engineering
-- Practical Techniques and Tooling
-- Azure DevOps
-- Operational Practices
-- Technical Excellence
-- Technical Mastery
 categories:
 - DevOps
 

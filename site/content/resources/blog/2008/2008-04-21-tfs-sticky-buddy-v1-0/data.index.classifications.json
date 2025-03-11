@@ -100,11 +100,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T18:20:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:15:30",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the TFS Sticky Buddy application, which is a tool for managing TFS Work Items, and provides practical usage instructions and system requirements, aligning well with the category's focus on tooling.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the TFS Sticky Buddy application, which is a tool designed to enhance the use of Team Foundation Server (TFS) by providing a graphical view of work items. It includes practical details on how to use the application, including system requirements and usage instructions. However, while it mentions a specific tool and its functionalities, it lacks a broader discussion on methodologies or frameworks that support Agile or DevOps practices. The focus is primarily on the tool itself rather than on practical techniques or best practices for integrating it within Agile or DevOps contexts.",
     "level": "Secondary"
   },
   "Value Delivery": {
@@ -289,12 +292,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:13:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:47:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the TFS Sticky Buddy application, which is related to Team Foundation Server (TFS), a component of Azure DevOps. However, the primary focus is on the application itself rather than Azure DevOps functionalities or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the TFS Sticky Buddy application, which is related to Team Foundation Server (TFS), a component of Azure DevOps. However, it lacks a direct focus on Azure DevOps as a suite of tools and does not delve into CI/CD practices, agile methodologies, or best practices associated with Azure DevOps. The discussion is more technical and specific to the application rather than the broader functionalities of Azure DevOps.",
+    "level": "Quaternary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -343,11 +349,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-16T18:21:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:12:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the TFS Sticky Buddy application, detailing its features, usage, and system requirements, which aligns with the category of tools and software pertinent to Agile methodologies and DevOps practices.",
+    "final_score": 66.0,
+    "reasoning": "The content provides a detailed description of the TFS Sticky Buddy application, including its features, usage, and system requirements. It explicitly discusses a software product relevant to Agile methodologies, particularly in the context of Team Foundation Server (TFS). The mention of editing templates and navigating work items aligns with the core themes of tools that facilitate Agile practices. However, while the content is focused on a specific product, it lacks broader discussions or analyses that would enhance its alignment with the category, such as comparisons with other tools or insights into Agile principles.",
     "level": "Secondary"
   },
   "Product Management": {
@@ -577,11 +586,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T19:05:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:58:38",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily describes the TFS Sticky Buddy application, which is a development tool related to Team Foundation Server, relevant to software development processes, particularly in agile environments.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the TFS Sticky Buddy application, which is a software tool related to Team Foundation Server (TFS) and its work item management. It mentions the use of VB.NET and WPF, which are relevant to software development. However, while it touches on aspects of the software development lifecycle (like work item management), it lacks a deeper exploration of methodologies or best practices in software development. The focus is more on the application itself rather than broader software engineering principles.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {
@@ -1225,12 +1237,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:13:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:12:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the first full release of an application, providing some context around versioning and updating, but it primarily focuses on the features of the application rather than the comprehensive strategies or practices involved in release management.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content mentions a 'full release' of the TFS Sticky Buddy application, which aligns with the concept of release management. However, it lacks detailed discussion on release planning, scheduling, or coordination between teams, which are key aspects of the category. The focus is more on the application features and usage rather than the strategies and practices of release management.",
+    "level": "Quaternary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",

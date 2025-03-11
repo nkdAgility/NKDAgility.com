@@ -27,6 +27,7 @@ isShort: true
 tags:
 - People and Process
 - Psychological Safety
+- Transparency and Accountability
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -34,7 +35,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Product Management
 - Social Technologies
 
 ---

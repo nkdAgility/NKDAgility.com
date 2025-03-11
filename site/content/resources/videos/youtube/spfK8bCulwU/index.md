@@ -28,7 +28,10 @@ isShort: false
 tags:
 - Agile Product Management
 - Product Owner
+- Scrum Product Development
+- Entrepreneurship
 - Agile Project Management
+- Professional Scrum
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -36,6 +39,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Product Management
 - Social Technologies
 - Scrum
 

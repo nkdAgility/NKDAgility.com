@@ -3,7 +3,7 @@
 
 $batchesInProgress = $null;
 $batchesInProgressMax = 40;
-$watermarkAgeLimit = 20;
+$watermarkAgeLimit = (New-TimeSpan -Start (Get-Date "2025-02-18T09:00:00") -End (Get-Date)).Days
 $watermarkScoreLimit = 20
 $watermarkCount = 1
 

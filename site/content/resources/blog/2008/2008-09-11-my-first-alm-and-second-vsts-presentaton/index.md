@@ -29,7 +29,7 @@ aliasesArchive:
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 tags:
-- Events and Presentations
+- Miscellaneous
 - Personal
 
 ---

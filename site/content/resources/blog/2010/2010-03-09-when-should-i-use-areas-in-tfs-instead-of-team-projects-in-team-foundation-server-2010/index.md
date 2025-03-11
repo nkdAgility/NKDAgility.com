@@ -8,7 +8,7 @@ ResourceImportId: 64
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-09
-weight: 770
+weight: 805
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,20 +24,19 @@ aliasesArchive:
 - /resources/blog/when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010
 tags:
 - Application Lifecycle Management
-- Modern Source Control
-- System Configuration
 - Practical Techniques and Tooling
 - Software Development
-- Azure DevOps
 - Operational Practices
+- System Configuration
 - Pragmatic Thinking
+- Modern Source Control
+- Azure DevOps
 - Agile Frameworks
 - Agile Project Management
 preview: metro-visual-studio-2010-128-link-8-8.png
 categories:
-- DevOps
 - Engineering Excellence
-- Social Technologies
+- Scrum
 
 ---
 Well, it depends… If you are a small company that creates a finite number of internal projects then you will find it easier to create a single project for each of your products and have TFS do the heavy lifting with reporting, SharePoint sites and Version Control.

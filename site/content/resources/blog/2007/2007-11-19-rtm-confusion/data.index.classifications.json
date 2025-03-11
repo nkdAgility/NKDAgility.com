@@ -55,11 +55,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:14:27",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses confusion regarding the installation and availability of Visual Studio 2008 components, which relates to installation and configuration, but it is primarily focused on the author's personal experience and questions rather than providing clear, actionable instructions.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily expresses confusion regarding the availability of specific software components related to Visual Studio 2008, particularly Team Explorer and Team Suite. While it touches on installation-related issues, such as the need for Team Foundation Server and the .NET 3.5 redistributable, it lacks detailed installation procedures or configuration best practices. The discussion is more about seeking clarification than providing actionable instructions, which diminishes its alignment with the category's core themes.",
     "level": "Tertiary"
   },
   "Decision Theory": {
@@ -73,11 +76,14 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-16T19:54:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:18:38",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses confusion regarding the availability of Visual Studio 2008 components, which does not directly reference Agile, Scrum, DevOps, Lean, or Evidence-Based Management principles.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses confusion regarding the availability of Visual Studio 2008 components, specifically Team Explorer and Team Suite. While it does not directly reference Agile, Scrum, DevOps, or Lean methodologies, it touches on tools and technologies related to software development. The discussion lacks a clear connection to established Agile frameworks, making it suitable for the Miscellaneous category. However, the depth of the inquiry and the mention of specific tools provide a moderate level of alignment with the broader context of business agility.",
     "level": "Secondary"
   },
   "Resilience and Change": {
@@ -343,11 +349,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:15:01",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Visual Studio 2008 and its components, which are software products relevant to Agile and DevOps practices, but the primary focus is on user confusion rather than a review or analysis of the products.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily discusses confusion regarding the availability of Visual Studio 2008 products, specifically Team Explorer and Team Suite. While it mentions specific software products and includes links to various downloads, the discussion lacks depth in terms of reviews or analyses of these products. The focus is more on troubleshooting and seeking information rather than providing insights or recommendations related to Agile methodologies or DevOps practices.",
     "level": "Tertiary"
   },
   "Product Management": {
@@ -838,12 +847,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:49:15",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses issues related to finding and integrating Team Explorer with Visual Studio 2008 and Team Foundation Server, which are relevant to source control practices, but the primary focus is on confusion regarding downloads and installation, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 24.0,
+    "reasoning": "The content primarily discusses confusion regarding the availability of Visual Studio 2008 components, specifically Team Explorer and Team Foundation Server. While it touches on source control indirectly by mentioning Team Foundation Server, it does not delve into any modern source control practices, methodologies, or strategies. The focus is more on installation issues rather than version control principles or collaboration workflows.",
+    "level": "Quaternary"
   },
   "Increment": {
     "category": "Increment",
@@ -1081,11 +1093,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:01:12",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Visual Studio 2008 release, which is generally used for developing applications on Windows, but the primary focus is on Visual Studio itself rather than the Windows operating system specifically.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses Visual Studio 2008 and related components, which are part of the Windows ecosystem. However, it does not explicitly focus on Windows installation, configuration, or troubleshooting. The mention of Team Explorer and Team Foundation Server indicates a connection to Windows development tools, but the discussion lacks depth regarding Windows-specific features or issues. Overall, while there is some relevance to the Windows category, it is not the primary focus of the content.",
     "level": "Tertiary"
   },
   "Lean Principles": {

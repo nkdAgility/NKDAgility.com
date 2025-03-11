@@ -29,12 +29,10 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Sociotechnical Systems
+- Pragmatic Thinking
 resourceTypes:
 - video
-categories:
-- Product Management
-- Social Technologies
+categories: []
 
 ---
 What is Taylorism and how did it influence project management?

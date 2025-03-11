@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T00:26:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:35:04",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the development and implementation of event handlers for Team Foundation Server, which aligns with practical techniques and tooling in Agile and DevOps practices.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed exploration of the TFS Event Handler, discussing specific functionalities and integration points that enhance team performance and tooling within the context of Agile and DevOps practices. It explicitly mentions the use of TFS, a tool relevant to Agile methodologies, and outlines practical applications of event handling, which aligns well with the category's focus. However, while it discusses practical techniques, it lacks broader context on Agile methodologies or case studies, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:03:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the TFS Event Handler, which relates to version control and build notifications, key components in a DevOps environment. However, it primarily focuses on specific implementations rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the TFS Event Handler and its functionalities, which are relevant to DevOps practices, particularly in the context of Continuous Integration and Continuous Delivery. However, the focus is primarily on the technical implementation of event handlers rather than broader DevOps principles, cultural shifts, or tools. While it touches on automation and integration points, it lacks a comprehensive exploration of DevOps as a holistic practice, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -208,11 +214,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:05:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the reworking of TFS Event Handlers, which relates to engineering practices and methodologies in software development, but it primarily focuses on specific implementation details rather than broader principles of technical excellence.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the reworking of the TFS Event Handler, which touches on technical aspects of software development, such as event handling and integration points. However, it lacks a strong focus on broader engineering practices or methodologies that enhance agility, such as TDD or CI/CD. The discussion is primarily about specific features and implementations rather than a comprehensive exploration of technical excellence principles.",
     "level": "Tertiary"
   },
   "Complexity Thinking": {
@@ -280,12 +289,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-16T00:26:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:03:55",
+    "ai_confidence": 67.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the TFS Event Handler, which is a component of Team Foundation Server, a part of Azure DevOps. It focuses on event handling and notifications within TFS, aligning with Azure DevOps functionalities.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content primarily discusses the TFS Event Handler, which is a component of Azure DevOps (formerly known as Team Foundation Server). It provides specific details about event handling, notifications, and integration points within TFS, aligning with Azure DevOps functionalities. However, while it mentions TFS, it does not delve deeply into broader Azure DevOps practices or methodologies, which slightly lowers the alignment score. The depth of discussion is substantial, focusing on specific features and their implications, but it lacks a comprehensive overview of Azure DevOps as a whole.",
+    "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",
@@ -577,11 +589,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T01:11:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:02:31",
+    "ai_confidence": 82.0,
+    "ai_mentions": 16,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the development and customization of Event Handlers for Team Foundation Server (TFS), which directly relates to software development practices and methodologies, particularly in version control and notifications within software projects.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the development of event handlers for Team Foundation Server (TFS), which is a tool used in software development for version control and project management. It explicitly mentions TFS, event handling, and integration points, aligning well with software development practices. The depth of discussion includes specific features and notifications related to version control, build processes, and work item tracking, indicating a strong focus on software engineering outcomes. Overall, the content is highly relevant to the Software Development category.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -730,12 +745,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:34:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses improvements and features related to the TFS Event Handler, which implies a focus on software crafting and development practices. However, the primary focus is on the TFS specific capabilities rather than broader principles of engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the reworking of an event handler for Team Foundation Server, which touches on aspects of software development practices. However, it primarily focuses on specific technical implementations rather than broader principles of engineering excellence, such as coding standards or quality assurance. While there are mentions of efficiency and integration points, the depth of discussion does not sufficiently cover the key topics outlined in the category definition.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -874,12 +892,15 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:39:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses TFS and event handling, which are related to CI practices, but it mainly focuses on specific event handlers and their implementations without a clear emphasis on Continuous Integration principles or practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the TFS Event Handler and its integration capabilities, which are relevant to Continuous Integration practices. However, it primarily focuses on specific event handling and notifications rather than the broader principles and best practices of CI. While there are mentions of build notifications and integration points, the depth of discussion does not fully align with the core themes of Continuous Integration, such as automated testing or CI tools. Therefore, the confidence score reflects a moderate relevance to the CI category.",
+    "level": "Quaternary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -1198,12 +1219,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:50:21",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the development of event handlers for Team Foundation Server, which is relevant to software developers. However, the specifics about Scrum environments and general functionality take precedence over explicit Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the TFS Event Handler, which is relevant to software developers, particularly in the context of version control and notifications. However, it lacks a direct focus on Agile or DevOps methodologies, which are central to the category. While it touches on aspects of software development, such as event handling and integration points, it does not delve deeply into best practices or the impact of Agile on team dynamics. The mention of Scrum at the end hints at a connection to Agile, but overall, the content is more technical and less about the role of developers within Agile or DevOps frameworks.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1351,12 +1375,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:58:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:02:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the TFS Event Handler and its integration with Team Foundation Server, which indirectly relates to Agile practices, particularly in the context of Scrum. However, the primary focus is on technical implementation rather than the core principles of Scrum or Agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the TFS Event Handler and its functionalities, which are related to software development processes. While it briefly mentions Scrum in the context of email handlers, the primary focus is on technical implementation rather than on the frameworks of Scrum, Kanban, Lean, or Agile practices. The alignment with the core themes of Social Technologies is limited, as it does not delve into collaboration, continuous improvement, or value delivery in a structured manner.",
+    "level": "Quaternary"
   },
   "Leadership": {
     "category": "Leadership",

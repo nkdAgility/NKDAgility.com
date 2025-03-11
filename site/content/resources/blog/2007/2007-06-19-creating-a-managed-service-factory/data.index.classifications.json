@@ -307,21 +307,27 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:13:37",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-10T15:19:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses creating a service factory and accessing services, but it does not primarily focus on DevOps principles, practices, or tools. It lacks a clear connection to DevOps themes such as CI/CD, automation, or collaboration between development and operations.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses creating a managed service factory and accessing services, which touches on aspects of service management and potentially automation. However, it lacks explicit references to DevOps principles, practices, or cultural shifts. The focus is more on technical implementation rather than the broader DevOps context, resulting in a low confidence score.",
     "level": "Quaternary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T21:50:31",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T13:23:19",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses a technical solution for creating a managed service factory, which involves engineering practices related to service architecture and implementation. However, it lacks a strong focus on broader engineering methodologies or principles that enhance agility in software development.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the creation of a managed service factory, which involves technical concepts such as service architecture and implementation details. However, it lacks explicit references to established engineering practices like TDD or CI/CD, which are central to the category of Technical Excellence. While it does touch on modular architecture and the potential for load balancing, the overall focus is more on a specific implementation rather than broader engineering methodologies. Therefore, while there is a reasonable alignment with the category, the depth and direct mentions are not strong enough to warrant a higher confidence score.",
+    "level": "Tertiary"
   },
   "People and Process": {
     "category": "People and Process",
@@ -568,20 +574,26 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:51:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses creating a service management solution and provides code examples, which are relevant to software development practices, but it does not explicitly focus on Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the creation of a service factory and technical implementation details, which are relevant to software development. However, it lacks explicit references to Agile or DevOps methodologies, and does not explore the role of software developers within those frameworks. While it provides some depth in technical discussion, it does not align closely with the core themes of the category, resulting in a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T08:18:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T19:04:32",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implementation of a service factory architecture, detailing techniques and methodologies related to software development, with a focus on handling services across different locations and managing client-server interactions.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the creation of a managed service factory, which is a software design pattern relevant to software development. It provides a detailed explanation of how to implement a service manager that can handle both local and remote services, aligning with best practices in software architecture. The mention of interfaces and service contracts indicates a focus on coding practices. However, while the content is rich in technical detail, it lacks explicit references to broader software development methodologies or frameworks, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {
@@ -946,11 +958,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T08:18:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:19:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a technical solution for creating a managed service factory, detailing software design patterns and implementation approaches which align well with principles of software craftsmanship and engineering practices.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the creation of a managed service factory, which involves software design and architecture principles. It touches on the implementation of interfaces and service management, aligning with technical mastery concepts. However, the discussion lacks depth in best practices and methodologies, focusing more on a specific implementation rather than broader engineering principles.",
     "level": "Secondary"
   },
   "Remote Working": {
@@ -1216,11 +1231,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:13:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:16:53",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses practical implementation of a managed service factory and shows application of concepts in a real-world scenario, but lacks a strong focus on Agile, Scrum, or DevOps frameworks.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses a practical solution for accessing services in a managed service factory, which aligns with pragmatic thinking in terms of applying real-world problem-solving techniques. It provides a detailed explanation of the implementation, showcasing adaptability and practical application of concepts. However, while it touches on relevant themes, it lacks explicit references to Agile, Scrum, or DevOps frameworks, which slightly lowers the confidence score.",
     "level": "Tertiary"
   },
   "Release Management": {
@@ -1234,12 +1252,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:23:16",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the creation of a service factory and the implementation details of accessing and managing services, which falls into engineering practices related to software development. However, the focus is more on specific implementations and less on broader principles or best practices directly tied to engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the creation of a managed service factory, which touches on software development practices and architectural design. However, it lacks explicit mentions of engineering excellence principles, such as coding standards or quality assurance. While it aligns conceptually with the idea of improving software architecture and potentially enhancing development efficiency, the depth of discussion on best practices and continuous improvement is limited. Overall, it provides a practical solution but does not deeply engage with the broader themes of engineering excellence.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

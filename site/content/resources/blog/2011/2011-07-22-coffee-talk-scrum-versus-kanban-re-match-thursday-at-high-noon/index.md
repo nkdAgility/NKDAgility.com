@@ -27,10 +27,11 @@ aliasesArchive:
 - /blog/coffee-talk--scrum-versus-kanban-(re-match)-----thursday-at-high-noon-
 - /resources/blog/coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon
 tags:
+- Events and Presentations
 - Software Development
 - Agile Frameworks
 - Agile Project Management
-- Events and Presentations
+- Software Developers
 categories:
 - Social Technologies
 - Scrum

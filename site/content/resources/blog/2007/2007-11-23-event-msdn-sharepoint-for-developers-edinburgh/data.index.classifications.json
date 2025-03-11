@@ -172,11 +172,14 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-16T19:45:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:18:23",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses an event related to SharePoint, providing insights and evaluations of presentations, which aligns with the category of industry news and reviews.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses a specific event related to SharePoint, providing insights and evaluations of the presentations. While it does mention the event and offers some reviews of the speakers and their topics, the focus is more on personal experiences rather than broader industry news or trends. The depth of discussion on the event is moderate, but it lacks a wider context that would typically characterise industry news or reviews.",
     "level": "Secondary"
   },
   "Product Delivery": {
@@ -226,11 +229,14 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T19:46:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:14:44",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses a specific event, including details about presentations and insights gained from speakers at the MSDN event on SharePoint for Developers.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses a specific event (MSDN event in Edinburgh) and provides detailed insights into presentations by speakers Martin Parry and David Gristwood. It aligns well with the category as it covers key topics presented at the event, including SharePoint services and workflow, which are relevant to software engineering. The depth of discussion is substantial, with specific points highlighted from the presentations, showcasing the informative nature of the event.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -316,12 +322,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:14:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical aspects of SharePoint and Visual Studio, but the primary focus is on event experiences and speaker presentations rather than engineering practices or methodologies that enhance agility in software development.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a personal experience at a SharePoint event, discussing various features and tools related to SharePoint and Visual Studio. While it touches on some technical aspects, such as SharePoint Designer and workflow projects, it lacks a direct focus on engineering practices or methodologies that enhance agility in software development. The discussion is more about the tools and their functionalities rather than the principles of Technical Excellence, which diminishes its relevance to the category.",
+    "level": "Quaternary"
   },
   "People and Process": {
     "category": "People and Process",
@@ -568,12 +577,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:00:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of software development related to SharePoint, which is relevant to developers, but it does not specifically address Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses a SharePoint event and provides insights into specific tools and features relevant to developers, such as SharePoint Designer and Visual Studio 2008. However, it lacks a direct focus on Agile or DevOps methodologies, which are central to the category. The discussion is more about specific technologies rather than the broader role of software developers within Agile and DevOps frameworks.",
+    "level": "Quaternary"
   },
   "Software Development": {
     "category": "Software Development",
@@ -703,12 +715,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:49:03",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses insights and learnings from a SharePoint event, highlighting informative presentations and new tools, which suggests a focus on knowledge sharing and learning, though it is primarily about the event itself.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses insights gained from attending a SharePoint event, highlighting specific learnings and the value of knowledge sharing. However, it lacks a strong focus on the principles of Continuous Learning, such as growth mindset or team improvement practices. While it mentions learning and insights, it does not delve deeply into the broader implications of Continuous Learning in Agile or DevOps contexts.",
+    "level": "Quaternary"
   },
   "Organisational Change": {
     "category": "Organisational Change",

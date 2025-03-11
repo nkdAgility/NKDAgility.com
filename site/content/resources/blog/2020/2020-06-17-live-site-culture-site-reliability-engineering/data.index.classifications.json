@@ -46,11 +46,14 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-14T20:52:15",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T18:26:21",
+    "ai_confidence": 72.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of shortening feedback loops and adapting practices in the context of Agile and DevOps, which aligns with continuous learning and adaptation. However, the primary focus is on detailed practices and operational needs rather than explicitly on methodologies for fostering innovation.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of shortening feedback loops and adapting to rapid business changes, which aligns with the core themes of continuous learning and innovation. It highlights the need for organisations to evolve their practices to remain competitive, reflecting a strong conceptual alignment with the category. However, while it touches on these themes, the depth of discussion is somewhat limited, focusing more on operational practices rather than detailed methodologies for fostering a culture of discovery and learning.",
     "level": "Secondary"
   },
   "AI and Automation in Agility": {
@@ -100,12 +103,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-14T20:52:15",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T12:28:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the relationship between organisational practices (agility, DevOps, Continuous Delivery) and the need for team dynamics and responsibilities in a rapidly changing business environment, indicating a significant sociotechnical focus, though it's primarily about operational practices.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the shift towards DevOps practices and the need for collaboration and agility in software delivery, which aligns with sociotechnical systems. However, it primarily focuses on technical practices and examples from Microsoft without deeply exploring the interplay between social and technical aspects or organisational structures. The mention of collaboration and the Combined Engineering model indicates some alignment, but the depth of discussion on sociotechnical interactions is moderate.",
+    "level": "Tertiary"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -118,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T20:52:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:25:41",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses DevOps practices, particularly Continuous Delivery, and emphasizes the cultural shifts and practices required to achieve high deployment velocity and customer responsiveness, making it very relevant to the DevOps category.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content explicitly discusses DevOps practices, particularly Continuous Delivery, and highlights the need for agility in software delivery. It aligns well with core themes of DevOps, such as collaboration, rapid deployment, and the integration of development and operations. The depth of discussion is significant, providing examples like Microsoft's deployment frequency and the Combined Engineering model, which illustrates practical applications of DevOps principles.",
+    "level": "Primary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -163,11 +172,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-14T20:52:15",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T11:45:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the shift towards DevOps practices and emphasizes the importance of collaboration and human responsibility in continuous delivery and operational needs. It focuses on how teams adapt to high-velocity changes, making the human element a significant theme in the context of process improvement.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the shift towards DevOps practices and the importance of collaboration and agility in modern organisations. It highlights the need for teams to adapt their processes to remain competitive, which aligns with the core themes of the category. However, while it touches on human factors and team dynamics, the focus is more on practices and outcomes rather than an in-depth exploration of the interplay between people and structured methodologies.",
     "level": "Secondary"
   },
   "Enterprise Agility": {
@@ -235,11 +247,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-14T20:52:15",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-07T14:25:44",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses DevOps practices and Continuous Delivery, which are central to improving product delivery speed and quality, but it also touches on broader themes of agility and business velocity, making it a secondary theme rather than the primary focus.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the shift towards DevOps practices and Continuous Delivery, which are integral to modern product delivery methodologies. It highlights the importance of shortening feedback loops and the need for rapid deployment, aligning well with the core themes of product delivery. However, while it provides substantial insights into these practices, it lacks detailed exploration of specific methodologies or metrics, which slightly limits the depth of discussion.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -271,11 +286,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-14T20:52:15",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T14:34:40",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the need for agility and continuous delivery as essential components for delivering value to customers, emphasizing shorter feedback loops, operational needs, and the importance of delivering features that delight customers. However, it also includes a significant focus on technical practices and team structures, which could be considered secondary to the primary topic of value delivery.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of Continuous Delivery and the need for rapid feedback loops, which aligns with the principles of iterative development and customer-centric delivery. However, while it touches on value delivery concepts, it lacks detailed exploration of specific strategies or methodologies that enhance customer satisfaction and business agility. The focus is more on operational practices rather than a comprehensive discussion of value delivery principles.",
     "level": "Secondary"
   },
   "Azure DevOps": {
@@ -334,11 +352,14 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-14T20:52:15",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T10:19:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses evolving practices in DevOps and Agile methodologies, particularly in relation to Continuous Delivery and the operational needs of businesses. While it doesn't explicitly focus on a recent news event or review, it covers significant trends and insights relevant to practitioners in these fields.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the shift towards DevOps practices and Continuous Delivery, which aligns with industry trends. However, it lacks direct mentions of specific news or reviews, focusing more on general observations and examples from Microsoft. The depth of discussion is moderate, providing insights into the Combined Engineering model but not enough to classify it as a comprehensive review or news piece.",
     "level": "Secondary"
   },
   "Application Lifecycle Management": {
@@ -730,11 +751,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-14T20:52:17",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T12:28:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses Continuous Delivery, rapid deployment practices, and the importance of maintaining high quality while delivering features, which are relevant to engineering excellence. However, it primarily focuses on DevOps and site reliability engineering rather than explicitly detailing software craftsmanship and development practices.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the shift towards DevOps practices and Continuous Delivery, which are key aspects of engineering excellence. It highlights the need for high-quality deliverables and the importance of collaboration and continuous improvement in engineering processes. However, while it touches on these themes, it does not delve deeply into specific best practices or metrics for assessing engineering performance, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Revenue per Employee": {
@@ -1243,11 +1267,14 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T09:08:39",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-10T14:34:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "While the content touches on some aspects related to product delivery and agility, it primarily focuses on DevOps practices, organizational agility, and site reliability engineering rather than strategic product management discussions.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses the shift towards agility and DevOps practices, which are relevant to product management, but it primarily focuses on operational aspects and technical implementation rather than strategic alignment of customer needs and business objectives. While there are mentions of customer-centric realities and the need for rapid deployment, the discussion lacks depth in product management methodologies and frameworks, leading to a lower confidence score.",
     "level": "Quaternary"
   },
   "Self Organisation": {
@@ -1360,11 +1387,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:05:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:26:18",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the shift towards agility and DevOps practices, which are related to Agile methodologies and continuous improvement, but it primarily focuses on broader operational changes rather than specific frameworks like Scrum or Kanban.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the shift towards agility and DevOps practices, which are related to Agile methodologies. However, it does not explicitly mention Scrum, Kanban, or Lean frameworks. The emphasis on continuous delivery and collaboration aligns with the core themes of Social Technologies, but the depth of discussion on specific methodologies is limited.",
     "level": "Tertiary"
   },
   "Internal Developer Platform": {

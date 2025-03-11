@@ -30,21 +30,21 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Agile Values and Principles
-- Agile Frameworks
-- Agile Philosophy
-- Agile Strategy
-- Agile Transformation
-- Software Developers
 - Software Development
 - Pragmatic Thinking
+- Agile Philosophy
+- Agile Transformation
+- Agile Values and Principles
+- Complexity Thinking
 - Sociotechnical Systems
+- Agile Frameworks
+- Agile Strategy
 resourceTypes:
 - video
 categories:
 - Social Technologies
+- Leadership
 - Product Management
-- Scrum
 
 ---
 **Agile** isn't some trendy buzzword that just came out of nowhere. In fact, it's far from new. It's a concept that has roots stretching back centuries. Before the Industrial Revolution, small, local businesses—like your neighborhood cobbler—knew their customers on a personal level. They crafted products based on the unique needs and preferences of each individual. This personal connection, built on understanding and empathy, was central to how work got done.

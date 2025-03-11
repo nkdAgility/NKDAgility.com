@@ -26,8 +26,9 @@ tags:
 - Azure DevOps
 - Practical Techniques and Tooling
 - Pragmatic Thinking
-- Troubleshooting
+- Install and Configuration
 - Software Development
+- Troubleshooting
 sitemap:
   filename: sitemap.xml
   priority: 0.6

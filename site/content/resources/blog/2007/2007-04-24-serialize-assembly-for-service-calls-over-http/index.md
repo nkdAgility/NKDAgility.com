@@ -23,9 +23,8 @@ aliasesArchive:
 - /serialize-assembly-for-service-calls-over-http
 - /resources/blog/serialize-assembly-for-service-calls-over-http
 tags:
-- Software Development
-- Technical Mastery
 - Troubleshooting
+- Software Development
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

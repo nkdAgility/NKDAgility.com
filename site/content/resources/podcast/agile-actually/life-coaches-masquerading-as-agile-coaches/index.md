@@ -7,8 +7,6 @@ ResourceType: podcast
 date: 2023-04-01
 weight: 775
 categories:
-- DevOps
-- Leadership
 - Social Technologies
 author: MrHinsh
 resourceTypes: podcast

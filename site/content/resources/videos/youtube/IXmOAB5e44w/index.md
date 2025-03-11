@@ -27,14 +27,11 @@ duration: 147
 isShort: false
 tags:
 - People and Process
-- Discovery and Learning
-- Agile Project Management
-- Continuous Learning
-- Customer Retention
-- Employee Engagement
 - Miscellaneous
-- Software Development
 - Team Collaboration
+- Continuous Learning
+- Employee Engagement
+- Software Development
 - Team Motivation
 sitemap:
   filename: sitemap.xml
@@ -42,8 +39,7 @@ sitemap:
 source: youtube
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 I’m excited to share with you a new initiative that I believe will not only enhance your learning experience but also foster a sense of community within our classes. Introducing the **£20 Referral Program**—a simple yet effective way to reward you for bringing your friends and colleagues along on this journey of growth and development.

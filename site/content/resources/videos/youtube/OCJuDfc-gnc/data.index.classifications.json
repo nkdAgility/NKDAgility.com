@@ -1,21 +1,27 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T11:15:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:28:27",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions DevOps as a topic for discussion, but it is not the primary focus, as it also includes Agility and does not delve deeply into DevOps principles or practices.",
+    "final_score": 43.0,
+    "reasoning": "The content briefly mentions DevOps practices and expresses a willingness to discuss them, but the primary focus is on Scrum and agile methodologies. While there are references to metrics and scaling, which are relevant to DevOps, the overall discussion leans more towards agile practices rather than the integration of development and operations that characterises DevOps.",
     "level": "Tertiary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:15:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Agility and references a Professional Scrum Trainer, indicating a focus on Agile practices, but it is primarily an invitation to an open Q&A session rather than a detailed discussion on Social Technologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-10T12:30:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses Scrum and scaling agility, which are directly related to Social Technologies. It mentions specific practices and frameworks, such as Scrum and Nexus, indicating a focus on Agile methodologies. However, while there are mentions of metrics and virtual training, the depth of discussion on core principles and continuous improvement is somewhat limited, leading to a moderately high confidence score.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -100,11 +106,14 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content is primarily about an interactive Q&A event related to DevOps and Agility, featuring a Scrum Trainer, which aligns well with the category of Events and Presentations.",
+    "calculated_at": "2025-03-10T12:30:17",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses an upcoming meetup event focused on scaling agility, which is a direct mention of an event. It aligns well with the category as it covers topics relevant to Agile and Scrum, and the speaker shares insights on how to adapt training and presentations in a virtual format. The depth of discussion is significant, detailing the event's structure, topics to be covered, and the speaker's experiences with virtual training, which enhances the overall relevance to the category.",
     "level": "Secondary"
   },
   "Product Validation": {
@@ -289,12 +298,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:45:32",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions topics related to Agility and DevOps, which are significant themes in software development, but it is primarily an invitation to an AMA session, making these themes secondary.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses scaling agility, Scrum practices, and the transition to virtual training, which are all relevant to software development methodologies. It explicitly mentions Scrum and Nexus, aligning well with Agile frameworks. The depth of discussion includes practical considerations for running classes and metrics, indicating a strong focus on software development practices.",
+    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -451,11 +463,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:28:30",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions topics related to DevOps and Agility, which are relevant to software developers, but it does not focus specifically on any particular aspect or best practices within these frameworks.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses Agile practices, specifically Scrum, and the transition to virtual training, which aligns with the role of software developers in Agile contexts. However, it lacks a focused exploration of how these practices enhance developer productivity or collaboration, and it primarily serves as an announcement rather than a deep discussion.",
     "level": "Tertiary"
   },
   "Lean Product Development": {
@@ -604,12 +619,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content invites questions on topics related to DevOps and Agility, which can involve discussions on team dynamics and processes, but the primary focus seems to be more about an open Q&A session rather than an in-depth exploration of people and processes.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-10T14:35:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses various aspects of scaling agility, Scrum practices, and the transition to virtual training, which directly relates to team dynamics and collaboration. It highlights the importance of adapting processes to enhance productivity, particularly in the context of remote work and training. The speaker's emphasis on interaction, feedback, and the challenges of virtual classes aligns well with the core themes of the category. However, while there are substantial mentions of processes and methodologies, the depth of discussion on human factors and leadership is somewhat limited, preventing a higher confidence score.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -838,12 +856,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:27:38",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content invites questions about DevOps and Agility, making it relevant to the topics of interest in Agile and DevOps discussions, but it primarily centers on a Q&A format rather than delivering news or reviews.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses an upcoming event related to Agile and Scrum, which aligns with the category of News and Reviews. It mentions specific topics like scaling Scrum and virtual training classes, indicating relevance to current practices in Agile. However, the depth of discussion is somewhat limited, focusing more on event promotion rather than providing detailed insights or evaluations. The content does not extensively review tools or literature, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Team Motivation": {
     "category": "Team Motivation",

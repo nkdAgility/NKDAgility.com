@@ -31,8 +31,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Team Motivation
 - People and Process
+- Team Motivation
 - Scrum Master
 - Scrum Product Development
 - Scrum Team

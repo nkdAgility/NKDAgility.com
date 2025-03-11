@@ -1,12 +1,15 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:02:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions ALM and discusses a specific aspect of Visual Studio 2008 related to application architecture, but it does not primarily focus on the broader aspects of Application Lifecycle Management.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions ALM in the context of Visual Studio 2008 but does not provide substantial discussion on the application lifecycle stages, governance, or tools. The focus is more on a specific feature of the software rather than a comprehensive exploration of Application Lifecycle Management principles.",
+    "level": "Quaternary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -577,12 +580,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:16:28",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Visual Studio 2008 and applications related to architecture, indicating a connection to software development tools, but it does not primarily focus on software engineering practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content briefly mentions Visual Studio 2008 and its limitations regarding the Application diagram and Windows Communication Foundation, which are relevant to software development tools. However, the discussion lacks depth and does not explore methodologies, best practices, or detailed software engineering concepts, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -1081,12 +1087,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:32",
-    "ai_confidence": 40,
+    "calculated_at": "2025-03-10T13:20:24",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 30,
-    "final_score": 39.0,
-    "reasoning": "While there is a mention of Windows Communication Foundation in the context of Visual Studio 2008, the primary focus of the content is on Visual Studio and not primarily about the Windows operating system itself.",
-    "level": "Quaternary"
+    "final_score": 41.0,
+    "reasoning": "The content mentions Windows Communication Foundation, which is related to the Windows environment, but the primary focus is on Visual Studio 2008 and its features. While there is a connection to Windows, the discussion does not delve deeply into installation, configuration, or troubleshooting of the Windows operating system itself. Therefore, the confidence score reflects a moderate alignment with the Windows category.",
+    "level": "Tertiary"
   },
   "Lean Principles": {
     "category": "Lean Principles",

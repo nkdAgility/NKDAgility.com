@@ -37,11 +37,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T15:32:05",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-10T13:51:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses various aspects of measuring costs and value in product development, including references to cycle time and lead time, which are relevant to throughput. However, the primary focus is on cost management and P&L rather than throughput optimisation itself.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses various aspects of product development costs and the importance of understanding financial metrics, which indirectly relates to throughput through concepts like cycle time and lead time. However, the primary focus is on cost management rather than the measurement and optimisation of work completion rates. While there are mentions of time to market and the flow of work, these are not explored in depth, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Scrum Values": {
@@ -55,12 +58,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-12T15:32:08",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses cost management, value measurement, and the importance of understanding costs in relation to product development, which aligns with Lean principles. However, it primarily focuses on Scrum and project management aspects, making Lean a significant but secondary theme.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-10T17:48:45",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses product development costs and the importance of understanding financial metrics, which aligns with Lean principles of maximising value and minimising waste. However, it primarily focuses on cost management and Scrum practices rather than explicitly addressing Lean Product Development principles or techniques for waste elimination. The discussion lacks depth in Lean-specific methodologies and does not provide substantial insights into continuous improvement or customer feedback mechanisms, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -109,11 +115,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T15:32:19",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T00:16:02",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses practical problem-solving strategies related to cost management and value measurement within Agile and Scrum frameworks. It emphasises the importance of understanding costs per sprint, the role of team members in financial decision-making, and the application of evidence-based management practices, all of which align closely with the principles of pragmatic thinking.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses practical strategies for managing product development costs within the Agile and Scrum frameworks. It highlights the importance of understanding cost profiles, return on investment, and the role of team members in making informed decisions based on financial metrics. The discussion aligns well with the core themes of pragmatic thinking, particularly in navigating complexity and uncertainty in project management. The depth of the analysis, including references to evidence-based management and the need for teams to understand their financial impact, further supports a high confidence score.",
     "level": "Secondary"
   },
   "Employee Engagement": {
@@ -136,20 +145,26 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-12T15:32:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T09:47:41",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the importance of understanding costs and value in relation to innovation capabilities, including metrics for measuring the ability to innovate and the role of evidence-based management in decision-making.",
+    "final_score": 77.0,
+    "reasoning": "The content discusses the importance of understanding costs in product development, which indirectly relates to the ability to innovate by emphasising the need for teams to make informed decisions based on financial metrics. It mentions Evidence-Based Management and the need for metrics to assess market value and innovation capabilities, aligning well with the core themes of the category. The depth of discussion is substantial, covering various aspects of innovation measurement and the impact of organisational structure on innovation capabilities.",
     "level": "Secondary"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-12T15:32:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:11:13",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the strategic aspects of measuring costs and value in Agile environments, particularly within the context of Scrum. It addresses how understanding costs per sprint and the financial implications of product management can drive better decision-making and align teams towards strategic goals.",
+    "final_score": 74.0,
+    "reasoning": "The content extensively discusses the financial aspects of product development within the context of Agile and Scrum, particularly focusing on cost management, return on investment, and the importance of understanding market value. It aligns well with strategic themes such as optimising delivery processes and integrating metrics to inform decisions. The depth of discussion is significant, covering various aspects of team dynamics, market analysis, and the role of metrics in strategy formulation, which supports a high confidence score.",
     "level": "Secondary"
   },
   "Portfolio Management": {
@@ -1147,12 +1162,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T11:57:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T12:43:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics and monitoring related to product development and cost management, which are relevant to DevOps practices. However, the primary focus is on Scrum and product management rather than core DevOps principles like CI/CD or automation.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on product development costs and financial management within teams, with a significant emphasis on Scrum practices. While it touches on aspects of team dynamics and decision-making that could relate to DevOps, it lacks a direct discussion of DevOps principles, practices, or tools. The mention of metrics and time to market aligns somewhat with DevOps themes, but the overall focus remains on cost management rather than the integration of development and operations or continuous delivery.",
+    "level": "Quaternary"
   },
   "People and Process": {
     "category": "People and Process",
@@ -1204,11 +1222,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-12T15:31:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:31:29",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of understanding costs and value in the context of product development, particularly within Agile and Scrum frameworks. It emphasises measuring and maximising customer value, aligning product development with customer needs, and the role of teams in delivering value, which are all central themes of value delivery.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the importance of understanding costs in product development, which directly relates to value delivery. It highlights the need for teams to comprehend their cost profiles and return on investment, aligning with the principles of iterative development and customer value maximisation. The mention of P&L and metrics for assessing value delivery effectiveness further strengthens its relevance. However, while it touches on Agile concepts like sprints, the primary focus remains on financial aspects rather than broader value delivery strategies, which slightly limits its depth in the context of the category.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -1231,11 +1252,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T15:31:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:43:30",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the measurement and monitoring of costs in the context of Agile practices, specifically within Scrum. It explores practical techniques for understanding cost per sprint, team dynamics, and the importance of metrics in decision-making, which aligns well with the category's focus on practical application of methodologies and tools in Agile and DevOps.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the cost management of product development, particularly in the context of Agile practices like Scrum. It mentions sprints and the importance of understanding costs per sprint, which aligns with practical techniques in Agile. However, while it touches on metrics and team dynamics, it lacks a detailed exploration of specific tools or methodologies, which limits its depth in the category. Overall, it provides a reasonable discussion on the topic but does not fully meet the criteria for a primary focus on practical techniques and tooling.",
     "level": "Secondary"
   },
   "Kanban": {
@@ -1294,11 +1318,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-12T15:31:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T11:34:46",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of understanding costs in the context of product delivery, including metrics for measuring value and performance, which aligns closely with the principles of product delivery.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the financial aspects of product development, focusing on costs, return on investment, and the importance of understanding these factors for effective product delivery. While it touches on relevant themes such as sprints and team dynamics, the primary focus is on cost management rather than the broader methodologies and practices of product delivery. The discussion lacks depth in areas like Agile methodologies, testing, and deployment strategies, which are crucial for a comprehensive understanding of product delivery.",
     "level": "Secondary"
   },
   "Discovery and Learning": {
@@ -1366,20 +1393,26 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T13:47:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T11:34:43",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the importance of understanding costs and value in product development, which relates to leadership in guiding teams towards financial success and decision-making. However, the primary focus is on cost management and product metrics rather than leadership practices.",
+    "final_score": 43.0,
+    "reasoning": "The content discusses financial aspects of product development and the importance of understanding costs, which indirectly relates to leadership in terms of decision-making and team dynamics. However, it primarily focuses on cost management and metrics rather than explicitly addressing leadership practices or strategies. While there are mentions of team involvement and decision-making, the depth of discussion on leadership principles is limited.",
     "level": "Tertiary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T13:47:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:51:50",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Scrum framework, specifically focusing on sprints, cost management, and team dynamics, which are central to Agile practices.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the Scrum framework and its implications for cost management and team dynamics, which aligns with the core themes of Social Technologies. However, while it mentions Scrum and touches on team collaboration, the primary focus is on financial aspects and cost management rather than the methodologies themselves. The depth of discussion on Scrum is moderate, but it lacks comprehensive exploration of other Agile practices or broader social technologies.",
     "level": "Secondary"
   },
   "Internal Developer Platform": {

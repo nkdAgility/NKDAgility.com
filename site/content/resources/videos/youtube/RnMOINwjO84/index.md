@@ -24,16 +24,16 @@ preview: https://i.ytimg.com/vi/RnMOINwjO84/maxresdefault.jpg
 duration: 971
 isShort: false
 tags:
-- Enterprise Agility
-- Decision Making
-- Resilience and Change
-- Decision Theory
-- People and Process
-- Ability to Innovate
-- Agile Project Management
-- Agile Values and Principles
 - Business Agility
 - Complexity Thinking
+- Organisational Agility
+- Discovery and Learning
+- Enterprise Agility
+- Market Adaptability
+- Decision Making
+- People and Process
+- Resilience and Change
+- Decision Theory
 sitemap:
   filename: sitemap.xml
   priority: 0.6

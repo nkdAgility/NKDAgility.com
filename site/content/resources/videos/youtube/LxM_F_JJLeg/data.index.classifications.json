@@ -31,20 +31,26 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T17:34:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:31:24",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile and Scrum frameworks, focusing on the systemic issues affecting team dynamics and product delivery, which are relevant to product management. However, it primarily centres on cultural and measurement issues rather than strategic product management practices.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses Agile and Scrum roles, touching on the impact of measurement systems on team dynamics and product delivery. However, it lacks a focused discussion on strategic product management principles, such as aligning customer needs with business objectives or specific methodologies for product success. The emphasis is more on systemic issues rather than the strategic aspects of product management.",
+    "level": "Quaternary"
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T17:34:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T11:59:11",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of changing organisational systems and measurements to improve team dynamics, which relates to leadership practices. However, it primarily focuses on systemic issues rather than direct leadership strategies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the impact of organisational systems on team behaviour and performance, which aligns with leadership's role in fostering an environment for collaboration and innovation. However, it lacks direct mentions of leadership practices and frameworks, focusing more on systemic issues rather than specific leadership strategies.",
     "level": "Tertiary"
   },
   "Business Agility": {
@@ -61,21 +67,27 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T17:35:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T13:31:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the systemic issues within organisations and how measurement affects behaviour, aligning with complexity thinking principles. It highlights the importance of understanding systems rather than attributing problems to individual actions, which is a key aspect of complexity science.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the impact of organisational systems on individual behaviour, which aligns with complexity thinking principles. It highlights how measurement systems influence actions and outcomes, reflecting non-linear dynamics. However, while it touches on systemic issues, it lacks explicit references to complexity science frameworks like the Cynefin Framework or detailed exploration of emergent behaviours, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T17:35:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T11:59:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile coaching and Scrum roles, but primarily focuses on systemic issues rather than core Scrum principles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content touches on Agile coaching and the role of Scrum Masters and Product Owners, but it primarily focuses on systemic issues rather than the core principles and practices of Scrum. While it briefly mentions Scrum in the context of Agile, it lacks a detailed exploration of Scrum roles, events, or artifacts, which are essential for a higher confidence score in the Professional Scrum category.",
+    "level": "Quaternary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -88,12 +100,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T17:35:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:11:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of measurement systems on team dynamics and decision-making, which aligns with the principles of Evidence-Based Management, but it primarily focuses on cultural and systemic issues rather than empirical evidence or data-driven approaches.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the impact of measurement systems on team dynamics and decision-making, which aligns with the principles of Evidence-Based Management. However, it lacks explicit references to EBM concepts and does not provide empirical evidence or detailed techniques for measuring performance. The focus is more on systemic issues rather than a structured approach to EBM.",
+    "level": "Quaternary"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
@@ -124,12 +139,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T17:35:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:07:18",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile concepts and the impact of measurement on team dynamics, making Agile a significant theme, but it primarily focuses on systemic issues rather than a detailed exploration of specific Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the impact of measurement systems on team dynamics within Agile environments, touching on roles like scrum master and product owner. While it does not provide a detailed exploration of specific Agile frameworks, it aligns with Agile principles by addressing systemic issues that affect team performance. The discussion is somewhat broad and lacks depth in specific Agile methodologies, but it does engage with Agile concepts, justifying a moderate confidence score.",
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -205,11 +223,14 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T17:35:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:05:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the impact of measurement systems on team dynamics and performance, emphasising the need to change these systems to improve collaboration and effectiveness within agile teams.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the impact of measurement systems on team behaviour and dynamics, which aligns with the category's focus on enhancing team performance. It highlights how organisational measures can negatively affect team effectiveness and suggests that changing these measures can lead to improved outcomes. However, the discussion lacks specific techniques or methodologies for fostering collaboration and does not delve deeply into Agile practices or ceremonies, which limits its depth and direct relevance to the category.",
     "level": "Secondary"
   },
   "Collaboration Tools": {
@@ -232,11 +253,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T17:35:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:28:43",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile methodologies and the impact of measurement systems on team dynamics, which are relevant to product delivery, but the primary focus is on systemic issues rather than the end-to-end process of delivering software products.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the impact of measurement systems on team dynamics and product delivery, touching on Agile principles and the challenges faced in delivering products. However, it lacks a structured focus on specific methodologies or practices related to product delivery, making it more of a general commentary on organisational behaviour rather than a detailed exploration of product delivery processes.",
     "level": "Tertiary"
   },
   "AI": {

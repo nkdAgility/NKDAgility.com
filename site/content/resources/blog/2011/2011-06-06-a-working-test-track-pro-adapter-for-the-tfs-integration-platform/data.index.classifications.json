@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T22:44:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:30:16",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the development and debugging of a working adapter for the TFS Integration Platform, detailing specific coding techniques, methodologies for handling data migration, and practical implementation steps, which align with the category's focus on practical techniques and tooling.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed account of developing a Test Track Pro Adapter for the TFS Integration Platform, which directly relates to practical tooling in Agile and DevOps contexts. It discusses specific coding practices, debugging efforts, and the integration of various components, showcasing methodologies for implementing tooling effectively. The depth of technical detail, including code snippets and explanations of functionality, aligns well with the category's focus on practical techniques and tooling, while also demonstrating a clear application of these tools in a real-world scenario.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T22:45:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:01:06",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the development and configuration of a Test Track Pro Adapter for the TFS Integration Platform, including code snippets and configuration details, which aligns with installation and configuration processes.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed account of creating a working adapter for the TFS Integration Platform, which includes specific code snippets and configuration details. It discusses the process of setting up the adapter, troubleshooting issues, and updating configurations, aligning well with the key topics of installation and configuration. The depth of discussion is significant, covering various aspects of the implementation process, including error handling and service registration, which are crucial for effective configuration. However, while the content is primarily focused on technical implementation, it does not explicitly outline step-by-step installation procedures, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:01:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the development of a TFS Integration Platform Adapter, which relates to the integration of tools and processes in a DevOps context, but it primarily focuses on technical implementation details rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the development of a specific adapter for the TFS Integration Platform, detailing technical aspects and debugging processes. While it touches on aspects of integration and change management, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. The mention of TFS (Team Foundation Server) and migration processes hints at DevOps-related activities, but the content does not explicitly address key DevOps topics such as CI/CD, automation, or collaboration between development and operations teams.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -208,11 +217,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T22:45:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:00:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the development and debugging of a TFS Integration Platform Adapter, focusing on technical practices such as code refactoring, handling conflicts, and implementing change actions, which align with the principles of technical excellence.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the development of a TFS Integration Platform Adapter, detailing the technical challenges and solutions encountered during the process. While it does touch on aspects of technical excellence, such as debugging and code refactoring, it lacks a comprehensive discussion on broader engineering practices like TDD, CI/CD, or modular architecture. The depth of technical detail is present, but it does not fully align with the core themes of the category, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -280,11 +292,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T22:45:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:48:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the development and debugging of a TFS Integration Platform Adapter, which is directly related to Azure DevOps services, particularly in the context of work item tracking and migration. It includes technical details and code snippets relevant to Azure DevOps functionalities.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the development of a Test Track Pro Adapter for the TFS Integration Platform, which is directly related to Azure DevOps services, particularly TFS (Team Foundation Server). It includes technical details about the implementation, debugging, and functionality of the adapter, which aligns well with Azure DevOps' focus on integration and collaboration tools. The depth of discussion is significant, covering various aspects of the adapter's functionality and its interaction with TFS, thus providing valuable insights into Azure DevOps practices. However, while it is focused on Azure DevOps, it does not cover broader Azure DevOps methodologies or best practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -343,11 +358,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T22:46:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:38:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the development and functionality of a Test Track Pro Adapter for the TFS Integration Platform, which is closely related to managing the lifecycle of software applications, particularly in the context of integration and migration processes. It includes details about change management, conflict resolution, and the handling of work items, which are relevant to Application Lifecycle Management.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the development of a Test Track Pro Adapter for the TFS Integration Platform, which involves aspects of application lifecycle management, such as change management and integration processes. However, it lacks a comprehensive exploration of the entire application lifecycle stages and best practices, focusing more on technical implementation details rather than broader ALM methodologies.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -370,11 +388,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T23:37:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:03:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the development of a TFS Integration Platform Adapter, detailing methods, practices, and code exemplifications relevant to software engineering and technical excellence.",
+    "final_score": 70.0,
+    "reasoning": "The content provides a detailed account of developing a Test Track Pro Adapter for the TFS Integration Platform, showcasing technical challenges, debugging efforts, and code snippets. It discusses refactoring for bug fixes, which aligns with principles of clean code and software craftsmanship. The depth of technical detail, including specific code implementations and the handling of change actions, demonstrates a strong focus on software engineering practices. However, while it touches on technical mastery, it does not explicitly discuss broader best practices or methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -730,12 +751,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-15T23:37:34",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-07T15:30:10",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses a technical solution regarding the creation of a working adapter for the TFS Integration Platform, including code snippets and the resolution of bugs. This aligns with themes of software craftsmanship and development practices. However, it lacks a broader discussion of best practices in engineering, which keeps it from being a clear primary topic in Engineering Excellence.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses the development of a Test Track Pro Adapter for the TFS Integration Platform, which involves coding practices and debugging efforts. However, it lacks a strong focus on broader engineering excellence principles such as software craftsmanship, best practices, or continuous improvement. While there are mentions of refactoring and debugging, the overall discussion is more about a specific implementation rather than a comprehensive exploration of engineering excellence.",
+    "level": "Tertiary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

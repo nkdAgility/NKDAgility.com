@@ -8,7 +8,7 @@ ResourceImportId: 3596
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-06-06
-weight: 775
+weight: 720
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,14 +23,14 @@ aliasesArchive:
 - /test-track-pro-and-the-case-of-the-missing-data
 - /resources/blog/test-track-pro-and-the-case-of-the-missing-data
 tags:
-- Troubleshooting
-- Code and Complexity
-- Practical Techniques and Tooling
-- Pragmatic Thinking
 - Software Development
+- Troubleshooting
+- Pragmatic Thinking
+- Practical Techniques and Tooling
 - Technical Excellence
 - Technical Mastery
 - Operational Practices
+- Code and Complexity
 categories:
 - Engineering Excellence
 

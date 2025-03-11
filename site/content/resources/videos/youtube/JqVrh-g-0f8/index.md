@@ -33,11 +33,14 @@ tags:
 - Product Owner
 - Scrum Product Development
 - Agile Project Management
+- People and Process
+- Product Delivery
 resourceTypes:
 - video
 categories:
 - Product Management
 - Scrum
+- Social Technologies
 
 ---
 ## The Order of Product Backlogs

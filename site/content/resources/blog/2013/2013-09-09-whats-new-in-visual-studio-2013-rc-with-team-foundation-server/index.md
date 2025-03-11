@@ -8,7 +8,7 @@ ResourceImportId: 10019
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-09-09
-weight: 770
+weight: 850
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,18 +27,15 @@ aliasesArchive:
 - /blog/what's-new-in-visual-studio-2013-and-tfs-2013-rc
 - /resources/blog/whats-new-in-visual-studio-2013-rc-with-team-foundation-server
 tags:
-- Modern Source Control
 - Software Development
-- Application Lifecycle Management
-- Collaboration Tools
 - News and Reviews
+- Modern Source Control
+- Agile Planning Tools
 - Practical Techniques and Tooling
 - Azure DevOps
-- Agile Planning Tools
+- Collaboration Tools
 categories:
-- DevOps
-- Engineering Excellence
-- Social Technologies
+- Scrum
 preview: nakedalm-experts-visual-studio-alm-13-13.png
 
 ---

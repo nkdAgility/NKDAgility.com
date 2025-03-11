@@ -217,12 +217,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:13:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:12:56",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of software design and implementation, particularly in relation to WPF and generics, which are relevant to code quality and complexity. However, it primarily focuses on a specific application rather than a broader discussion on code quality principles or complexity theory.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the implementation of a WPF application and the use of generics and observable collections, which touches on aspects of code quality and complexity. However, it lacks a direct focus on the broader themes of complexity theory or best practices in software development. The discussion is more technical and specific to a particular implementation rather than exploring the interplay between code quality and complexity in a general sense.",
+    "level": "Quaternary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -316,11 +319,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T18:26:53",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T13:15:54",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses technical aspects of software development, including the use of generics, Observable Collections, and INotifyPropertyChanged in WPF, which are relevant to engineering practices. However, the primary focus is on a specific implementation rather than broader methodologies or principles of technical excellence.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses technical aspects of software development, particularly focusing on WPF and the implementation of design patterns like Observable Collections and INotifyPropertyChanged. However, while it touches on technical practices, it lacks a comprehensive exploration of broader engineering methodologies such as TDD, CI/CD, or Agile integration, which are central to the category of Technical Excellence. The discussion is more about specific implementation details rather than a holistic view of technical excellence in software engineering.",
     "level": "Secondary"
   },
   "People and Process": {
@@ -568,20 +574,26 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:47:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content involves technical aspects of software development, focusing on a specific application and coding practices. While it touches on development practices relevant to software developers, it does not explicitly discuss Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses technical aspects of software development, specifically focusing on WPF and VB.NET, which are relevant to software developers. However, it lacks explicit references to Agile or DevOps methodologies, and the discussion is more about implementation details rather than the broader context of developer roles within Agile frameworks. The depth of technical detail is present, but it does not align closely with the key themes of the category.",
+    "level": "Quaternary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T18:55:13",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:58:53",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses techniques in software development, specifically relating to WPF and the implementation of data structures such as Observable Collections and INotifyPropertyChanged, which are relevant to software design and development practices.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the development of a WPF application, focusing on the implementation of core objects and design patterns such as Observable Collections and INotifyPropertyChanged. It aligns with software development practices, particularly in the context of coding and design principles. However, while it provides some technical detail, it lacks a comprehensive exploration of broader software development methodologies or frameworks, which limits its depth of discussion.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {
@@ -946,12 +958,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T18:55:13",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:12:44",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses software design and architectural principles related to WPF, generics, and implementing observable patterns in .NET, aligning well with the category of Technical Mastery.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses technical aspects of software development, particularly focusing on WPF and the implementation of design patterns like Observable Collections and INotifyPropertyChanged. However, while it touches on software craftsmanship and design principles, it lacks a comprehensive exploration of best practices or methodologies that would elevate it to a primary focus on Technical Mastery.",
+    "level": "Tertiary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1234,12 +1249,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:15:52",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses software development practices related to WPF and generics but does not primarily focus on broader engineering excellence principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses technical aspects of software development, such as using WPF and implementing design patterns like Observable Collections and INotifyPropertyChanged. However, it lacks a direct focus on broader engineering excellence principles, such as coding standards or continuous improvement practices. While it touches on some relevant technical details, it does not provide a comprehensive discussion on engineering excellence as defined in the category.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

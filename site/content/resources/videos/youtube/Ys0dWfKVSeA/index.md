@@ -36,12 +36,12 @@ tags:
 - Agile Frameworks
 - Agile Project Management
 - Agile Transformation
-- Organisational Agility
 - Software Development
 - Team Collaboration
-- Value Delivery
 - Agile Product Management
 - Empirical Process Control
+- Pragmatic Thinking
+- Organisational Agility
 resourceTypes:
 - video
 categories:

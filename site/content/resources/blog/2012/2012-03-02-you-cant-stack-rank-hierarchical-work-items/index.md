@@ -8,7 +8,7 @@ ResourceImportId: 4773
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-03-02
-weight: 550
+weight: 495
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,16 +30,17 @@ tags:
 - Scrum Product Development
 - Product Backlog
 - Software Development
-- Agile Product Management
-- Practical Techniques and Tooling
 - Professional Scrum
-- Software Developers
 - Agile Frameworks
-- Agile Planning
 - Agile Project Management
+- Azure Boards
+- Pragmatic Thinking
+- Azure DevOps
+- Practical Techniques and Tooling
 categories:
-- Social Technologies
 - Scrum
+- Social Technologies
+- Product Management
 preview: nakedalm-experts-visual-studio-alm-14-14.png
 
 ---

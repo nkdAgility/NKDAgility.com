@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T10:32:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:49:10",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for importing data into TFS using Excel, including specific methodologies and a custom VBA function, which aligns well with the category focus.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed exploration of a practical technique for importing data into TFS using Excel, including specific methodologies and tools (Excel, TFS Integration Tools, VBA). It discusses the process step-by-step, demonstrating a clear application of tooling to enhance workflow. The mention of custom functions and the challenges faced during implementation further aligns with the category's focus on practical techniques and tooling. Overall, the content is rich in detail and directly relevant to the category.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T10:32:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:40:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the process of importing data into TFS using Excel, including step-by-step instructions and considerations for configuration, which aligns well with the category of Install and Configuration.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on the process of importing data into TFS using Excel, which aligns with installation and configuration tasks. It provides a step-by-step guide on how to set up the data import process, including the use of VBA functions and specific instructions for creating queries in TFS. The discussion includes practical insights and troubleshooting considerations, which are relevant to the category. However, while the content is detailed, it does not cover broader configuration best practices or system requirements, which slightly limits its depth in the context of the category.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -280,12 +286,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T10:32:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:44:23",
+    "ai_confidence": 67.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the process of importing data into TFS (Team Foundation Server), which is a component of Azure DevOps, and provides specific methods and functions related to this task.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content primarily discusses the process of importing data into TFS (Team Foundation Server), which is a part of Azure DevOps. It provides a detailed walkthrough of using Excel to facilitate this process, demonstrating a practical application of Azure DevOps tools. However, while it mentions TFS and its integration with Excel, the discussion lacks broader context on Azure DevOps services and methodologies, which slightly reduces its alignment with the category. The depth of technical detail regarding the implementation is substantial, but the focus remains narrow on a specific task rather than a comprehensive exploration of Azure DevOps functionalities.",
+    "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",
@@ -370,12 +379,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T10:42:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:25:07",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical process of importing data from Excel to TFS, including the use of VBA functions and considerations for data integrity, which aligns well with software engineering practices.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses a technical process of importing data into TFS using Excel and VBA, which aligns with software craftsmanship and engineering practices. However, it lacks a broader discussion on best practices or principles of clean code, focusing instead on a specific implementation. The depth of technical detail is moderate, providing a practical example but not extensively covering methodologies or principles that contribute to high-quality software development.",
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -577,11 +589,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T10:42:37",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T11:50:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses using Excel to import data into TFS, which relates to software development practices. It includes technical details about manipulating data for integration between Excel and TFS, which is relevant to software engineering, albeit more of a practical implementation aspect than a discussion of methodologies or frameworks.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the process of importing data into TFS using Excel, which is a specific software development task. It discusses practical techniques, such as using VBA for data manipulation and the steps involved in creating a history field in TFS. The mention of TFS (Team Foundation Server) and the integration of Excel with it aligns well with software development practices, particularly in the context of version control and project management. The depth of discussion includes code snippets and a detailed explanation of the process, which further supports its relevance to software development. However, while it is focused on a specific task, it does not delve deeply into broader methodologies or best practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -775,11 +790,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T10:42:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:34:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical problem-solving techniques for importing data into TFS using Excel, demonstrating real-world applications and problem-solving strategies consistent with Agile and DevOps practices.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses practical problem-solving techniques for importing data into TFS using Excel, which aligns with the category of Pragmatic Thinking. It provides a real-world application of tools and methods, demonstrating adaptability and critical thinking in navigating the complexities of data management. However, while it touches on relevant themes, the depth of discussion on broader Agile or Scrum principles is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {

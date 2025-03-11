@@ -55,12 +55,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:13:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:58:27",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific issue related to the assembly version in Visual Basic projects, which can be considered a configuration problem. However, it primarily focuses on a bug and its implications rather than providing a comprehensive guide or step-by-step instructions for installation or configuration.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses a specific issue related to the assembly version in Visual Basic projects, which can be considered a configuration problem. However, it lacks detailed step-by-step instructions or broader installation guidance, focusing instead on a specific bug and its implications. While it does touch on a configuration issue, it does not provide comprehensive insights or actionable instructions that align with the core themes of the category.",
+    "level": "Quaternary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -577,11 +580,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:46:54",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an issue with the assembly version in Visual Basic projects, which is related to software development practices, specifically around debugging and version control, but it does not delve deeply into methodologies or broader software development lifecycle concepts.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses a specific issue related to assembly versioning in Visual Basic, which is a software development topic. However, it lacks a broader discussion of methodologies or practices in software development. The mention of a bug and manual fix indicates some alignment with coding best practices, but the depth of discussion is limited to a specific problem without exploring wider implications or solutions in software engineering.",
     "level": "Tertiary"
   },
   "Site Reliability Engineering": {
@@ -946,12 +952,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:12:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific technical issue related to assembly versioning in Visual Basic projects, which is a topic within the realm of software engineering. However, it primarily focuses on a specific bug and its manual fix rather than broader principles of software craftsmanship or best practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific technical issue related to assembly versioning in Visual Basic, which touches on software craftsmanship. However, it lacks a broader discussion on best practices, principles, or methodologies that contribute to high-quality software development. The focus is primarily on a bug and its manual fix, which does not delve into deeper technical mastery concepts.",
+    "level": "Quaternary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1099,11 +1108,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T18:55:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:15:13",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily addresses a specific issue with assembly versioning in Visual Basic projects, identifying the problem as a bug and suggesting a manual fix, which aligns well with troubleshooting practices.",
+    "final_score": 74.0,
+    "reasoning": "The content explicitly discusses a specific issue related to the assembly version not updating in Visual Basic projects, which directly aligns with troubleshooting software bugs. It provides a clear identification of the problem, mentions a known bug in the Visual Basic compiler, and suggests a manual fix, demonstrating a practical approach to resolving the issue. The depth of discussion includes steps to check the problem and highlights the implications of the issue, particularly in the context of signed assemblies and SharePoint deployments. Overall, the content is focused on diagnosing and resolving a technical issue, fitting well within the troubleshooting category.",
     "level": "Secondary"
   },
   "Entrepreneurship": {

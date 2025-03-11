@@ -29,6 +29,8 @@ tags:
 - Agile Values and Principles
 - Agile Philosophy
 - Agile Transformation
+- People and Process
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -36,8 +38,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Scrum
-- Product Management
 - Social Technologies
 
 ---

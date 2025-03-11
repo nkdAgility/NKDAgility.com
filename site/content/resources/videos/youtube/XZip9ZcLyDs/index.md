@@ -28,18 +28,17 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Master
-- Agile Frameworks
-- Agile Project Management
 - People and Process
-- Agile Leadership
+- Scrum Master
+- Agile Project Management
 - Scrum Team
+- Agile Leadership
 resourceTypes:
 - video
 categories:
 - Leadership
-- Social Technologies
 - Scrum
+- Social Technologies
 
 ---
 **Why is becoming a Scrum Master a great career option?**

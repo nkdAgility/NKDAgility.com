@@ -181,11 +181,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-13T22:11:09",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-07T14:23:28",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses the importance of quality in software development, accountability of developers for delivering working software, and the need for best practices such as automation and continuous improvement. It aligns well with the principles of software craftsmanship and quality assurance, making it a strong fit for the category.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the importance of quality in software development, emphasising accountability for quality among developers and the need for automation and continuous improvement. It aligns well with the principles of software craftsmanship and best practices in coding standards, as well as CI/CD practices. The depth of discussion on technical debt and the call for rigorous attention to detail further supports its strong alignment with the category of Engineering Excellence.",
     "level": "Secondary"
   },
   "Scrum Values": {
@@ -676,12 +679,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:26:42",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of Developers and the Product Owner within the Scrum framework, touching on accountability for quality and value delivery, which are relevant to product management. However, the primary focus is on technical practices and Scrum processes rather than strategic product management discussions.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of Scrum teams in delivering quality software, which touches on aspects of product management, particularly in relation to stakeholder expectations and accountability. However, it primarily focuses on technical practices and team dynamics rather than strategic product management methodologies or frameworks. While it mentions the Product Owner's role, the overall emphasis is more on execution than on the strategic alignment of product management principles.",
+    "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -1138,29 +1144,38 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-13T22:09:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:23:31",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of quality in software development, accountability of developers, and the need for automation and DevOps practices, which are all central to technical excellence in engineering practices.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of quality in software development and the accountability of developers, which aligns with the principles of Technical Excellence. It mentions practices like automation and DevOps, which are relevant to the category. However, the primary focus is on Scrum roles and team dynamics rather than deep technical practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-13T22:09:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:26:45",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the roles and responsibilities of Scrum teams, the importance of quality in software development, and the accountability of developers and leadership in the process. It emphasises team dynamics, the need for collaboration, and the impact of organisational culture on software quality, aligning well with the 'People and Process' category.",
+    "final_score": 77.0,
+    "reasoning": "The content extensively discusses the roles and responsibilities of Scrum teams, particularly focusing on the accountability of Developers and the importance of quality in software delivery. It highlights the interplay between team dynamics, leadership decisions, and the processes involved in Agile methodologies. The depth of discussion on how teams should communicate and adapt their processes to improve quality aligns well with the category. However, while it touches on human factors and team collaboration, it could benefit from more explicit strategies for enhancing communication and feedback loops.",
     "level": "Secondary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-13T22:10:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:33:14",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of quality in software delivery, the accountability of developers, and the role of Scrum in ensuring effective product delivery. It addresses methodologies and practices relevant to the end-to-end process of delivering usable software products, aligning well with the category's focus.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the importance of quality in software delivery, the accountability of developers, and the role of Scrum in ensuring that working software is delivered. It aligns well with key topics such as the importance of iterative development, accountability in product delivery, and the need for continuous improvement. The depth of discussion on quality assurance, technical debt, and the responsibilities of cross-functional teams further supports its strong alignment with the category of Product Delivery.",
     "level": "Secondary"
   },
   "Organisational Psychology": {
@@ -1231,11 +1246,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-13T22:10:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:25:19",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of quality in software development within the context of Scrum, highlighting practical techniques such as automation, source control, and the need for continuous improvement. It also references training resources for developers, which aligns well with the category's focus on practical application of Agile and DevOps methodologies.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of quality in software development and the accountability of developers within Scrum teams, which aligns with practical techniques in Agile. It mentions automation, DevOps practices, and the need for source control, which are relevant tools and methodologies. However, the focus is more on philosophical discussions about quality and accountability rather than a detailed exploration of specific tools or methodologies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Agile Product Operating Model": {
@@ -1267,11 +1285,14 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-13T22:10:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:19:03",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the role of Scrum teams, the importance of quality in software delivery, and the accountability of Developers and the Product Owner, which are central themes in Agile Product Management.",
+    "final_score": 76.0,
+    "reasoning": "The content extensively discusses the role of Scrum teams and the importance of quality in software delivery, which aligns closely with Agile Product Management principles. It highlights the accountability of Developers and the Product Owner, emphasising the need for stakeholder engagement and continuous improvement. The depth of discussion on Scrum practices and the focus on delivering value through quality software further supports a high confidence score.",
     "level": "Secondary"
   },
   "Business Agility": {
@@ -1285,11 +1306,14 @@
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-13T22:10:23",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-11T11:44:26",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "The content discusses accountability of Developers for the quality of software and the importance of transparency in communication regarding quality decisions. It highlights the need for open discussions about expectations and the implications of cutting quality, which aligns with the principles of transparency and accountability in Agile teams.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses accountability extensively, particularly regarding the quality of software and the responsibilities of Developers and the Scrum Team. It highlights the importance of holding team members accountable for their contributions and the impact of quality on trust and reputation. While transparency is not explicitly mentioned, the emphasis on communication and the need for alignment with organisational goals suggests a strong conceptual alignment with the category. The depth of discussion is significant, covering various aspects of accountability and the consequences of failing to uphold quality standards.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -1357,20 +1381,26 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T16:04:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:33:11",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses accountability and quality in software development, touching on the role of executive leadership in decision-making regarding quality. However, the primary focus is on Scrum practices and technical aspects rather than leadership strategies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the accountability of developers and the role of executive leadership in decision-making regarding software quality. However, it primarily focuses on technical aspects of software development and Scrum practices rather than providing a comprehensive discussion on leadership strategies or frameworks. While there are mentions of leadership's role in quality decisions, the overall emphasis is on technical execution and team responsibilities, which detracts from a strong alignment with the leadership category.",
+    "level": "Secondary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:04:53",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-10T18:25:15",
+    "ai_confidence": 92.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 95.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "Content primarily discusses the Scrum framework, including roles, accountability, and the importance of quality in software delivery, which aligns closely with the principles of Social Technologies.",
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses the Scrum framework, including roles, responsibilities, and the importance of quality in software delivery. It aligns closely with the core themes of Social Technologies, particularly in terms of collaboration, accountability, and continuous improvement. The depth of discussion is significant, providing detailed insights into Scrum practices and the implications of quality in software development.",
     "level": "Primary"
   },
   "Internal Developer Platform": {

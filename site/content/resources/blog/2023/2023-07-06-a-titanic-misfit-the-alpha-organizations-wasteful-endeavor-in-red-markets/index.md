@@ -29,16 +29,15 @@ aliasesArchive:
 - /resources/blog/a-titanic-misfit-the-alpha-organizations-wasteful-endeavor-in-red-markets
 tags:
 - Beta Codex
+- Lean Thinking
 - Business Agility
 - Complexity Thinking
+- Enterprise Agility
 - Lean
-- Lean Thinking
 - Organisational Agility
 - Organisational Physics
-- Enterprise Agility
 - Organisational Change
-categories:
-- Social Technologies
+categories: []
 preview: image-1.jpg
 
 ---

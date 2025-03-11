@@ -55,12 +55,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T21:27:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:22:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation process of Visual Studio 2008 Beta 2, including troubleshooting steps and system requirements, which aligns well with the category of Install and Configuration.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2008 Beta 2, including troubleshooting steps and system requirements. It explicitly mentions the need to remove previous versions of Office to facilitate the installation, which aligns well with the category's focus on installation procedures. However, the discussion lacks depth in terms of configuration best practices and does not provide comprehensive troubleshooting guidance, which slightly lowers the confidence score.",
+    "level": "Tertiary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -73,11 +76,14 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-16T21:27:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:18:16",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the installation of Visual Studio 2008 and related hardware requirements, which does not directly reference Agile, Scrum, DevOps, or Lean principles.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the installation issues related to Visual Studio 2008 and personal experiences with hardware requirements. While it does not directly reference Agile, Scrum, DevOps, or Lean methodologies, it touches on general technology discussions and personal anecdotes about testing software. The lack of structured insights or connections to recognised frameworks supports its classification as Miscellaneous, but the technical focus on installation and hardware specifications gives it a moderate confidence score.",
     "level": "Secondary"
   },
   "Resilience and Change": {
@@ -370,12 +376,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:16:26",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily discusses installation issues related to Visual Studio 2008, there is a focus on system requirements and setup, which aligns with system configuration themes, albeit in a limited capacity.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the installation of Visual Studio 2008 and the need to remove conflicting software, which aligns with system configuration practices. However, it lacks depth in exploring broader configuration management techniques or optimisation strategies. The focus is primarily on troubleshooting installation issues rather than comprehensive system configuration methodologies.",
+    "level": "Quaternary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -1081,12 +1090,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:51:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the installation of Visual Studio 2008 Beta 2 on Windows XP, which is relevant to the Windows operating system, but also includes significant content about other software and hardware considerations.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the installation of Visual Studio 2008 Beta 2 on Windows XP, which directly relates to the Windows operating system. It mentions troubleshooting issues related to the installation process and references the Windows Installer Cleanup Utility, indicating a focus on installation and configuration. The discussion also touches on system requirements for running Windows Vista and Team Foundation Server, further aligning with the Windows category. However, while the content is relevant, it does not delve deeply into broader Windows topics such as security features or performance optimisation, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1099,11 +1111,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T21:38:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T19:03:47",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses troubleshooting issues related to the installation of Visual Studio 2008, including error resolution and system requirements.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses specific issues encountered during the installation of Visual Studio 2008 Beta 2, including the need to remove previous versions of Office and the potential failure point related to 'Microsoft Web Designer Tools'. This aligns with troubleshooting as it identifies a problem and suggests a solution (using the Windows Installer Cleanup Utility). However, the discussion lacks depth and primarily focuses on personal experiences rather than systematic troubleshooting methodologies or tools. The mention of hardware requirements and a request for laptop recommendations, while related to the context, detracts from the primary focus on troubleshooting.",
     "level": "Secondary"
   },
   "Entrepreneurship": {

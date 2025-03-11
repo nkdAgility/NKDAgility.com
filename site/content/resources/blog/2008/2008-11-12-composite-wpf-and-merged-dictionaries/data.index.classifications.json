@@ -37,11 +37,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:44:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses specific coding practices and modifications related to WPF and resource management, which are relevant to technical excellence, but the primary focus is on implementation details rather than broader engineering methodologies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses specific coding practices and modifications related to WPF and resource management, which aligns with technical excellence. However, it lacks a broader discussion on methodologies like TDD or CI/CD, and the depth of technical principles is limited to specific code examples without a comprehensive exploration of engineering practices.",
     "level": "Tertiary"
   },
   "Decision Theory": {
@@ -433,11 +436,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T11:24:02",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-07T15:49:09",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses technical aspects of WPF and managing resource dictionaries, code modifications, and error handling, which aligns well with topics of software craftsmanship and engineering practices.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses specific technical implementations and code modifications related to WPF and resource management, which aligns with the principles of software craftsmanship. However, while it provides some depth in terms of code examples and problem-solving, it lacks broader discussions on best practices, clean code principles, or methodologies that would enhance its alignment with the 'Technical Mastery' category.",
     "level": "Secondary"
   },
   "Accountability": {
@@ -685,12 +691,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:56:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content primarily discusses WPF (Windows Presentation Foundation) and issues related to resource management and theming within a Windows application context, making Windows a major theme, but it is not the sole focus.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses WPF (Windows Presentation Foundation) and resource management within a Windows application context. However, it lacks explicit mentions of the Windows operating system itself, focusing instead on coding practices and error handling in WPF. While it aligns conceptually with Windows development, it does not delve deeply into installation, configuration, or troubleshooting of the Windows OS, which are key themes of the category.",
+    "level": "Quaternary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -712,11 +721,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T11:24:02",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-10T13:11:52",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 27.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "Content primarily discusses WPF (Windows Presentation Foundation) development techniques, including handling resource dictionaries and adapting regions in the context of the software development lifecycle.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses technical aspects of WPF (Windows Presentation Foundation) and resource management in software applications, which aligns with software development practices. It provides code snippets and explanations related to adapting regions and themes, demonstrating a focus on coding best practices and problem-solving in software design. However, while it touches on relevant topics, the depth of discussion on broader software development methodologies or frameworks is limited, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Agile Frameworks": {
@@ -829,11 +841,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:13:16",
-    "ai_confidence": 40,
+    "calculated_at": "2025-03-11T12:10:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 36.0,
-    "reasoning": "The content discusses technical implementation details related to WPF and resource management, but does not focus on Agile engineering practices, methodologies, or principles such as clean code or test-driven development.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses technical implementation details related to WPF and resource management, which does not directly address the core principles of Agile engineering practices. While there are mentions of code modifications and error handling, the focus is on specific coding challenges rather than broader engineering practices like clean code, TDD, or CI/CD. The depth of discussion is moderate, but it lacks a clear connection to the key topics outlined in the Engineering Practices category.",
     "level": "Quaternary"
   },
   "Sprint Review": {
@@ -1216,11 +1231,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T11:24:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:09:28",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses troubleshooting errors encountered in a WPF application related to theme resource management, providing solutions for exceptions and issues that arise in this context.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses specific issues encountered when using WPF and provides code modifications to resolve exceptions related to resource management and region management. It directly addresses troubleshooting by identifying problems (e.g., ItemsControlHasItemsSourceException, RegionNameExistsException) and offering practical solutions. However, while it is focused on resolving technical issues, the depth of discussion on broader troubleshooting methodologies and tools is limited, which affects the overall confidence score.",
     "level": "Secondary"
   },
   "Scrum Master": {

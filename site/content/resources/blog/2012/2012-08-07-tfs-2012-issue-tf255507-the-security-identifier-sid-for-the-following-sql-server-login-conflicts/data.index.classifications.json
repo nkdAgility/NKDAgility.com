@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T19:58:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:17:46",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content provides a practical solution to a specific error encountered during the installation of TFS 2012, detailing steps to resolve the issue using SQL commands, which aligns with the exploration and application of tooling.",
+    "final_score": 66.0,
+    "reasoning": "The content provides a specific technical solution to a problem encountered during the installation of TFS 2012, which involves practical tooling (SQL Server commands). However, while it discusses a practical technique, it lacks broader context on Agile or DevOps methodologies and does not explore multiple tools or frameworks. The focus is primarily on resolving a specific issue rather than a comprehensive exploration of tooling or methodologies.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T19:58:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:54:33",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses a specific installation issue related to TFS 2012 and SQL Server, providing actionable solutions and commands to resolve the error, which aligns well with installation and configuration topics.",
+    "final_score": 80.0,
+    "reasoning": "The content provides a detailed discussion of a specific installation issue related to TFS 2012, including error messages, log file information, and step-by-step solutions for resolving the problem. It directly addresses installation and configuration challenges, making it highly relevant to the category. The depth of the discussion is significant, as it includes troubleshooting steps and SQL commands necessary for resolution, aligning well with the key topics outlined in the category description.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -370,12 +376,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T21:30:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:54:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a technical issue related to TFS 2012 and SQL Server, providing solutions that involve technical commands and system configurations, which aligns well with technical mastery practices.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily addresses a specific technical issue related to TFS 2012 and SQL Server, providing a solution to a conflict error. While it does touch on technical aspects such as SQL commands and server configurations, it lacks a broader discussion on software craftsmanship, best practices, or methodologies that would align it more closely with the 'Technical Mastery' category. The focus is more on troubleshooting rather than on principles of software engineering excellence.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1045,11 +1054,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T21:30:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:33:43",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to configuring SQL Server with TFS 2012, including resolving specific configuration errors and providing solutions that directly impact system setup.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses a specific issue related to the configuration of SQL Server in the context of TFS 2012, which directly aligns with system configuration. It provides detailed steps to resolve a configuration conflict, including SQL commands and troubleshooting steps, demonstrating a strong focus on practical configuration management. The depth of discussion is significant, as it not only identifies the problem but also offers multiple solutions and insights into the implications of server renaming, which are critical for optimal system performance and reliability.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1099,11 +1111,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T21:30:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:43:11",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses an issue related to the installation and configuration of Team Foundation Server 2012 on a Windows environment, specifically addressing an error that involves Windows security identifiers and SQL Server logins, which is relevant to the Windows operating system.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses an issue related to the installation and configuration of Team Foundation Server (TFS) 2012 on a Windows environment, specifically addressing a security identifier (SID) conflict with SQL Server. It provides detailed troubleshooting steps and solutions that are directly relevant to Windows users. The mention of Windows in the context of server names and SQL Server indicates a strong alignment with the Windows category, as it focuses on installation and configuration issues specific to the Windows operating system. The depth of discussion is significant, as it includes error messages, log file information, and specific commands to resolve the issue, which are all pertinent to managing a Windows environment.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
@@ -1153,12 +1168,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T21:30:56",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-11T11:58:30",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "The content primarily discusses a specific error related to TFS 2012 and provides detailed information on diagnosing and resolving the issue, which aligns well with the troubleshooting category.",
-    "level": "Primary"
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses a specific error (TF255507) encountered during the installation of TFS 2012, detailing the issue, its causes, and providing clear solutions. It aligns well with the core themes of troubleshooting by identifying a technical problem, offering diagnostic information, and presenting actionable solutions. The depth of discussion is high, as it includes log file excerpts, potential causes, and multiple solutions, demonstrating a thorough approach to resolving the issue.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",

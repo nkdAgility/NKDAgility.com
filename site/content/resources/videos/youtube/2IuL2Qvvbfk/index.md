@@ -2,7 +2,7 @@
 title: Biggest contribution from a Product Owner that you know of
 description: Discover the impactful role of a product owner in agile teams as Martin Hinshelwood shares a remarkable contribution that inspires product vision.
 date: 2023-06-13T11:32:18Z
-weight: 410
+weight: 490
 ResourceId: 2IuL2Qvvbfk
 ResourceType: videos
 ResourceImport: true
@@ -27,23 +27,23 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Product Management
 - Agile Leadership
 - Agile Project Management
-- Azure DevOps
 - People and Process
-- Product Delivery
 - Product Owner
+- Agile Product Management
 - Agile Strategy
 - Pragmatic Thinking
 - Technical Leadership
+- Azure DevOps
+- Deployment Frequency
 resourceTypes:
 - video
 layout: video
 categories:
 - Leadership
 - Product Management
-- Social Technologies
+- DevOps
 
 ---
 When discussing the impactful role of Product Owners in Agile development, we often cite examples of those who've significantly turned the tide in their organisations. I'm talking about not just fulfilling roles but altering the very fabric of product management - these are the MVPs who redefine the game. 🌟 

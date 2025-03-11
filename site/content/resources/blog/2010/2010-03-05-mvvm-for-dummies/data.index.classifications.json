@@ -10,12 +10,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:07:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the MVVM pattern and its implementation in WPF and Silverlight, which relates to practical techniques in software development, but it does not focus on Agile or DevOps practices specifically.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the MVVM pattern and its implementation in WPF and Silverlight, which relates to practical techniques in software development. However, it lacks a broader discussion on Agile or DevOps practices, and while it provides code examples, it does not delve into tool selection or integration within teams, which are key aspects of the category.",
+    "level": "Quaternary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -37,12 +40,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:41:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses MVVM and its implementation in WPF and Silverlight, touching on code quality principles like separation of concerns, which relates to complexity in software design.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses the MVVM pattern and its implementation in WPF and Silverlight, which relates to software architecture and design principles. However, it primarily focuses on specific coding practices and examples rather than exploring the broader implications of complexity theory or the relationship between code quality and complexity. While there are mentions of separation of concerns and design patterns, the depth of discussion on complexity and its management is limited.",
+    "level": "Quaternary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -208,11 +214,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:04:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses MVVM and related design patterns, which are relevant to engineering practices, but the primary focus is on explaining MVVM rather than broader technical excellence principles.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the MVVM pattern and its implementation in WPF and Silverlight, which relates to modular architecture and separation of concerns. However, it lacks a broader discussion on engineering practices or methodologies that enhance agility, such as TDD or CI/CD. The focus is primarily on code examples rather than a comprehensive exploration of technical excellence principles.",
     "level": "Tertiary"
   },
   "Complexity Thinking": {
@@ -370,11 +379,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T01:39:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:39:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses best practices and principles related to the MVVM (Model-View-ViewModel) design pattern in software development, focusing on clean architecture and separation of concerns in WPF and Silverlight applications.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the MVVM pattern in detail, including its principles and implementation in WPF and Silverlight. It explicitly mentions separation of concerns, which aligns with best practices in software design. The depth of discussion is significant, providing code examples that illustrate ideal and compromised implementations, thus demonstrating a strong focus on technical mastery.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -577,11 +589,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T01:39:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:06:45",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses MVVM, a software architectural pattern, along with coding practices in WPF and Silverlight, which are relevant to software development.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the MVVM (Model-View-ViewModel) design pattern, which is a key software architecture pattern in software development. It provides detailed examples in C# and VB.NET, illustrating best practices for implementing MVVM in WPF and Silverlight applications. The discussion includes concepts like separation of concerns and dependency injection, which are central to software design principles. The depth of the examples and explanations indicates a strong focus on software development practices, aligning well with the category's core themes.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -730,12 +745,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:39:54",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses MVVM, separation of concerns, and coding standards related to WPF and Silverlight, which are relevant to software engineering practices, but the primary focus is on MVVM as a pattern rather than broader engineering excellence principles.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the MVVM pattern and its implementation in WPF and Silverlight, which relates to software craftsmanship and coding standards. However, it lacks a broader discussion on engineering excellence principles, such as quality assurance or continuous improvement practices. The focus is primarily on specific coding examples rather than a comprehensive exploration of engineering excellence.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1216,12 +1234,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:52:13",
+    "ai_confidence": 42.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the MVVM pattern, which relates to the principles of clean code and separation of concerns, but it is primarily about MVVM itself rather than core Agile engineering practices.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the MVVM (Model-View-ViewModel) pattern, which is relevant to clean code and separation of concerns, aligning with the principles of Engineering Practices. However, it primarily focuses on MVVM without delving deeply into Agile methodologies or practices like TDD, CI/CD, or automation. The discussion is somewhat technical but lacks comprehensive detail on the broader engineering practices, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Technical Debt": {
     "category": "Technical Debt",

@@ -10,12 +10,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:17:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:25:49",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses a workaround related to the installation and configuration of TeamPlain, specifically addressing issues with project names and providing a JavaScript solution. However, the primary focus is on the workaround rather than a comprehensive installation or configuration guide.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses a workaround for a specific issue encountered during the use of TeamPlain, which relates to configuration challenges. However, it lacks a comprehensive step-by-step installation guide or detailed configuration best practices. The mention of JavaScript code provides some technical insight, but the overall focus is more on a specific problem rather than a broader discussion on installation and configuration processes.",
+    "level": "Quaternary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -91,12 +94,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:17:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:21:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a workaround related to project names in a team server context, which suggests a connection to Azure DevOps, but it primarily focuses on a specific technical issue rather than broader Azure DevOps functionalities.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a workaround related to project names in a TeamPlain context, which is tangentially related to Azure DevOps. However, it lacks explicit references to Azure DevOps services or methodologies, and the focus is more on a specific issue rather than a broader discussion of Azure DevOps functionalities or best practices.",
+    "level": "Quaternary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -127,12 +133,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:17:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:06:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a workaround for a coding issue related to project names, which touches on code quality and maintainability, but it is primarily focused on a specific problem rather than a broader discussion of code complexity or best practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses a specific coding workaround related to project name handling in a dropdown list, which touches on code quality and maintainability. However, it lacks a broader discussion on complexity theory or best practices in software development. The focus is primarily on a tactical solution rather than an exploration of the interplay between code quality and complexity, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -208,21 +217,27 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:18:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:53:31",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific workaround using JavaScript to address a practical issue with project names in TeamPlain, which aligns with the exploration of practical techniques and tooling.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses a specific workaround for a project management tool, which aligns with practical techniques. However, it lacks depth in exploring broader methodologies or frameworks, and the focus is primarily on a single tactical solution rather than a comprehensive discussion of tooling or Agile/DevOps practices.",
     "level": "Tertiary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:18:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:18:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a workaround related to project naming in a team server context, which is relevant to application management, but it primarily focuses on a specific coding solution rather than the broader aspects of Application Lifecycle Management.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions ALM in the tags but primarily focuses on a specific technical workaround related to project naming in a software tool. It does not discuss the broader aspects of Application Lifecycle Management, such as methodologies, governance, or lifecycle stages, which are essential for a higher confidence score.",
+    "level": "Quaternary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",

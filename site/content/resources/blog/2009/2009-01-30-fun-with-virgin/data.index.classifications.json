@@ -19,12 +19,15 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-16T10:31:50",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-07T15:47:03",
+    "ai_confidence": 72.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "The content primarily discusses a personal experience with setting up a Virgin+ box and does not reference Agile, Scrum, DevOps, Lean, or Evidence-Based Management principles.",
-    "level": "Primary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses a personal experience related to setting up a Virgin+ box and does not reference any Agile, Scrum, DevOps, or Lean principles. While it provides a detailed narrative about a technical issue and its resolution, it lacks a direct connection to established frameworks or methodologies, aligning well with the Miscellaneous category. The discussion is anecdotal and non-technical in the context of Agile practices, thus justifying a higher confidence score.",
+    "level": "Secondary"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -145,12 +148,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:13:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:08:09",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10,
+    "ai_alignment": 15,
+    "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content includes a troubleshooting guide for configuring a Virgin+ box, which is related to installation and configuration, but the primary focus is on a personal anecdote rather than a structured guide.",
-    "level": "Tertiary"
+    "final_score": 24.0,
+    "reasoning": "The content provides a brief mention of troubleshooting a Virgin+ box, which involves a reset and configuration steps. However, the primary focus is on a personal anecdote rather than a structured guide or detailed discussion on installation and configuration processes. The content lacks depth and does not align closely with the core themes of the category.",
+    "level": "Quaternary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -1216,11 +1222,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T11:10:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:10:25",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses troubleshooting a specific technical issue with a Virgin+ box and provides a detailed resolution procedure. It focuses on identifying a problem related to HDMI and SCART connections and offers a solution, aligning well with troubleshooting.",
+    "final_score": 68.0,
+    "reasoning": "The content discusses a specific troubleshooting scenario involving a Virgin+ box and the HDMI/SCART issue. It provides a clear step-by-step solution to the problem, which aligns with the core themes of troubleshooting. However, the primary focus is more on a personal anecdote rather than a systematic approach to troubleshooting, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Scrum Master": {

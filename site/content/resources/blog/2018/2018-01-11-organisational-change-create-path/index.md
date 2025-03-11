@@ -8,7 +8,7 @@ ResourceImportId: 11214
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2018-01-11
-weight: 405
+weight: 350
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,8 +29,8 @@ aliasesArchive:
 tags:
 - Organisational Change
 categories:
-- Scrum
 - Leadership
+- Scrum
 - Social Technologies
 preview: nkdagility-create-your-own-path-to-agility-3-3.jpg
 

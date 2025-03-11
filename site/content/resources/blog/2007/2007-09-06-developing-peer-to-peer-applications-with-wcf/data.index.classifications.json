@@ -226,11 +226,14 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T20:38:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:20:09",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the author's experience delivering a presentation, including details about the audience and the challenges faced during the event.",
+    "final_score": 68.0,
+    "reasoning": "The content primarily focuses on the author's experience delivering a presentation, which aligns well with the category of Events and Presentations. It includes direct mentions of the presentation itself, the audience, and the challenges faced during delivery. However, while it provides a personal narrative about the presentation experience, it lacks broader insights or discussions on Agile, DevOps, or software engineering practices that would enhance its relevance to the category. The depth of discussion is moderate, as it recounts specific experiences but does not delve into the content of the presentation or its implications for the community.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -280,12 +283,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:15:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content includes personal reflections on the experience of delivering a presentation, which aligns with the Personal category, but the primary focus is on the technical aspects of the presentation itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content includes personal reflections on the experience of delivering a presentation, which aligns with the Personal category. However, the primary focus is on the technical aspects of the presentation rather than on Agile, Scrum, or DevOps methodologies. The mention of stage fright and the comparison of different presentation experiences provides some personal insight, but it lacks depth in discussing broader themes related to Agile or team dynamics.",
+    "level": "Quaternary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -343,11 +349,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:16:11",
+    "ai_confidence": 65.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content references a book that aided in the preparation of a presentation, indicating a secondary theme related to literature on software development.",
+    "final_score": 60.0,
+    "reasoning": "The content includes a mention of the book 'Pro WCF: Practical Microsoft SOA Implementation', which aligns with the category of discussing literature relevant to software development. However, the primary focus of the content is on the author's personal experience with a presentation rather than a detailed review or analysis of the book or its methodologies. The discussion lacks depth regarding how the book enhances understanding of Agile or DevOps principles, which affects the overall confidence score.",
     "level": "Tertiary"
   },
   "Product Management": {
@@ -577,12 +586,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:50:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions developing peer-to-peer applications with WCF, which is relevant to software development. However, the focus is on personal experiences during a presentation rather than the methodologies or practices of software development.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a personal experience related to delivering a presentation on developing peer-to-peer applications with WCF. While it mentions a relevant topic in software development, the discussion lacks depth and does not delve into methodologies, best practices, or technical details that would typically characterise the Software Development category. The personal narrative and emphasis on presentation skills detract from a strong alignment with the core themes of software engineering.",
+    "level": "Quaternary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -946,12 +958,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:02:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content involves a presentation on technical topics related to developing peer-to-peer applications using WCF, but it primarily focuses on the author's experience presenting rather than detailing software craftsmanship, architecture, or best practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the author's experience delivering a presentation rather than discussing technical mastery in software craftsmanship or engineering practices. While it mentions WCF and references a book on SOA, it lacks a detailed exploration of best practices, principles, or methodologies related to software development. The discussion is more personal and anecdotal, with minimal emphasis on the technical aspects that would align with the category.",
+    "level": "Quaternary"
   },
   "Remote Working": {
     "category": "Remote Working",

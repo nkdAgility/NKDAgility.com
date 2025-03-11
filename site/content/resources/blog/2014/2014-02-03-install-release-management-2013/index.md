@@ -27,8 +27,8 @@ tags:
 - Release Management
 - Practical Techniques and Tooling
 - System Configuration
-categories:
-- DevOps
+- Products and Books
+categories: []
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

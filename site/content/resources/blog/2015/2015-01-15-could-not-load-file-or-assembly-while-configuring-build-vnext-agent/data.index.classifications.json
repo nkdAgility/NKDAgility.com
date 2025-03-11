@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T23:14:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:38:38",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses troubleshooting and configuration techniques for the Build vNext Agent, which is a practical application of tooling in a DevOps context.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses a specific issue encountered while configuring the Build vNext Agent, which is a practical tooling aspect related to DevOps. It provides a solution involving command-line instructions to disable strong naming, which aligns with practical techniques for resolving tooling issues. However, while it mentions a specific tool (Build vNext Agent) and a related error, the overall depth of discussion on methodologies or broader tooling practices is limited, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-14T23:14:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:36:38",
+    "ai_confidence": 85.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration issues related to the Build vNext Agent, including troubleshooting steps and specific commands to resolve errors during the setup process.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on troubleshooting an installation issue related to the Build vNext Agent on Windows Server 2012 R2, which directly aligns with the category of Install and Configuration. It discusses a specific error encountered during the configuration process, provides actionable steps to resolve the issue, and mentions the context of using Visual Studio 2015 Preview. The depth of discussion includes error messages, potential causes, and a workaround, demonstrating a strong focus on installation and configuration challenges. Overall, the content is highly relevant to the category, with explicit mentions of installation and configuration processes.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:38:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to the Build vNext Agent, which is part of the DevOps toolchain, but primarily focuses on a specific error rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific issue related to the Build vNext Agent, which is a tool used in DevOps for continuous integration and delivery. It mentions troubleshooting steps and potential fixes, indicating a focus on automation and deployment processes. However, it lacks broader discussions on DevOps principles, cultural shifts, or metrics, which limits its depth and alignment with the category.",
+    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -280,11 +289,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-14T23:14:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:41:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to the Build vNext Agent, which is a component of Azure DevOps, and provides specific troubleshooting steps relevant to Azure DevOps functionalities.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific issue related to the Build vNext Agent, which is a component of Azure DevOps. It provides a detailed account of an error encountered during the configuration of the agent, including technical specifics and a workaround. While it does not cover broader Azure DevOps functionalities or best practices, the focus on a specific Azure DevOps tool and the troubleshooting steps taken indicate a strong relevance to the category. The depth of discussion is significant, as it includes error messages and solutions, but it lacks broader context on Azure DevOps as a whole.",
     "level": "Secondary"
   },
   "Personal": {
@@ -577,11 +589,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-14T23:15:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:31:44",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 27.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses issues related to configuring a build agent in a software development environment, including specific error messages and solutions, which are relevant to software development practices.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses a specific issue related to configuring a build agent in a software development context, specifically mentioning Visual Studio and Team Foundation Server. It provides a detailed account of an error encountered during the setup process, which aligns with the Software Development category. The mention of strong naming and DLL version mismatches indicates a focus on coding practices and troubleshooting within the software development lifecycle. However, while it is relevant, the content lacks broader discussions on methodologies or best practices, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -973,11 +988,14 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-14T23:17:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:22:46",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to configuring the Build vNext Agent, which is a component of Azure Pipelines, and provides specific troubleshooting steps relevant to Azure DevOps services.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses issues related to the Build vNext Agent, which is a component of Azure Pipelines. It explicitly mentions the configuration of the build agent and the challenges faced during its setup, aligning well with the core themes of Azure Pipelines. The depth of discussion includes specific error messages and troubleshooting steps, indicating a good level of detail. However, it does not cover broader CI/CD practices or deployment strategies, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -1045,11 +1063,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-14T23:17:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:48:32",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration of the Build vNext Agent on Windows Server 2012 R2, including troubleshooting a specific error related to assembly loading and the necessary steps to resolve it, which aligns with system configuration practices.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses a specific issue encountered while configuring the Build vNext Agent on Windows Server 2012 R2, which directly relates to system configuration. It provides a detailed account of the error, its cause, and a workaround, demonstrating a clear focus on the practicalities of configuring a system. The mention of disabling strong naming for .NET as a solution further aligns with configuration management practices. Overall, the content is rich in detail and directly addresses a configuration issue, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {

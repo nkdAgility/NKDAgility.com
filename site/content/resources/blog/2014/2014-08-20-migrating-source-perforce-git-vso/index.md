@@ -8,7 +8,7 @@ ResourceImportId: 10677
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-08-20
-weight: 775
+weight: 675
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,9 +27,19 @@ aliasesArchive:
 - /blog/migrating-source-from-perforce-to-git-on-vso
 - /resources/blog/migrating-source-perforce-git-vso
 tags:
+- Install and Configuration
+- Modern Source Control
 - Software Development
+- Azure DevOps
+- Practical Techniques and Tooling
+- Azure Repos
+- Continuous Integration
+- Software Developers
+- Operational Practices
+- Pragmatic Thinking
 categories:
 - DevOps
+- Engineering Excellence
 preview: naked-alm-git-1-1.png
 
 ---

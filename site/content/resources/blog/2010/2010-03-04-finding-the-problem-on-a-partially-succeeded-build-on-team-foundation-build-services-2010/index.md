@@ -8,7 +8,7 @@ ResourceImportId: 66
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-04
-weight: 505
+weight: 540
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,15 +24,15 @@ aliasesArchive:
 - /resources/blog/finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
 tags:
 - Troubleshooting
-- Code and Complexity
 - Scrum Product Development
 - Software Developers
 - Software Development
-- Application Lifecycle Management
-- Practical Techniques and Tooling
-- Working Software
-- Azure DevOps
 - Pragmatic Thinking
+- Product Backlog
+- Technical Mastery
+- Practical Techniques and Tooling
+- Agile Project Management
+- Application Lifecycle Management
 preview: metro-visual-studio-2010-128-link-8-8.png
 categories:
 - Scrum

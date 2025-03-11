@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T18:51:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:06:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a known bug in Team Foundation Server 2012.2, detailing error messages, troubleshooting steps, and solutions related to the use of the tool, which aligns with practical techniques and tooling in Agile and DevOps contexts.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses specific errors encountered in Team Foundation Server (TFS) and provides insights into troubleshooting and resolving these issues, which aligns with practical techniques and tooling. However, while it mentions the use of TFS and Visual Studio, it lacks a broader exploration of methodologies or frameworks that enhance Agile and DevOps practices. The focus is primarily on error resolution rather than on the application of tools or methodologies in a team context, which limits its depth of discussion.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T18:51:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:48:33",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses troubleshooting and solutions related to installation and configuration issues in Team Foundation Server 2012.2, including known bugs and recommended updates, which aligns well with the category.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily discusses troubleshooting specific errors encountered during the installation and configuration of Team Foundation Server 2012.2, including known bugs and recommended updates. It provides actionable insights on resolving issues, which aligns well with the category's focus on installation and configuration processes. The depth of discussion includes specific error codes, potential causes, and solutions, indicating a strong alignment with the key topics outlined in the category definition.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -199,12 +205,15 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:48:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses issues related to Team Foundation Server (TFS) and mentions Kanban in the context of work item tracking and board settings, but the primary focus is on error handling and bug fixes rather than Kanban principles or practices.",
-    "level": "Tertiary"
+    "final_score": 14.0,
+    "reasoning": "The content primarily discusses errors and issues related to Team Foundation Server (TFS) and does not focus on Kanban principles or practices. While there is a brief mention of Kanban in the context of a technical error, it lacks substantial discussion on Kanban methodologies, visualisation of work, or continuous improvement practices. The content is more aligned with troubleshooting and technical support rather than Kanban discussions.",
+    "level": "Quinary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -280,11 +289,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T18:51:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:50:12",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues and solutions related to Team Foundation Server (TFS), which is part of the Azure DevOps suite, focusing on error handling and bug fixes within the context of TFS functionalities.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses issues and errors related to Team Foundation Server (TFS) 2012.2, which is part of the Azure DevOps suite. It provides specific error codes and troubleshooting steps, indicating a strong focus on Azure DevOps functionalities. The discussion aligns well with the category's themes, particularly in terms of implementation and problem-solving within Azure DevOps. However, while it is detailed, it lacks broader context on best practices or methodologies, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -730,11 +742,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 45,
+    "calculated_at": "2025-03-07T15:06:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 40.0,
-    "reasoning": "The content primarily discusses a specific technical issue related to Team Foundation Server and known bugs, without focusing on broader engineering excellence principles or practices such as software craftsmanship, coding standards, or continuous improvement processes.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to Team Foundation Server (TFS) and its known bugs, which does not directly address the principles of software craftsmanship or best practices in engineering. While it touches on aspects of troubleshooting and the importance of updates, it lacks a broader discussion on engineering excellence, such as coding standards, CI/CD practices, or quality assurance methodologies. The focus is more on problem resolution rather than promoting high standards in software development.",
     "level": "Quaternary"
   },
   "Revenue per Employee": {
@@ -946,12 +961,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-15T19:45:49",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T18:39:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses known bugs and fixes in Team Foundation Server, which relates to the release process, but it primarily focuses on specific errors and their troubleshooting rather than the broader strategies or practices of release management.",
-    "level": "Secondary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses a specific error encountered in Team Foundation Server (TFS) and its resolution, which is more focused on troubleshooting than on the broader strategies and practices of release management. While it does mention a known bug and a go-live licence, which are tangentially related to release management, the overall emphasis is on technical issues rather than the planning, scheduling, or controlling of software releases.",
+    "level": "Quaternary"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -1045,11 +1063,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T19:45:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:54:57",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses errors and known bugs related to configuration in Team Foundation Server, providing insights into system setup and necessary updates for proper configuration.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses issues related to Team Foundation Server (TFS) configuration, specifically errors encountered during the setup and operation of areas and iterations. It provides detailed insights into troubleshooting these errors, which aligns well with the category of System Configuration. The discussion includes specific error codes, their implications, and recommended actions, indicating a strong focus on configuration management and troubleshooting. However, while it does touch on configuration aspects, the depth of discussion on broader system optimisation strategies and configuration management tools is somewhat limited, which prevents a higher confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1099,11 +1120,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T19:45:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:29:49",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 36,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses issues related to Team Foundation Server 2012.2, which operates within the Windows environment and is used for development projects on Windows-based platforms. The troubleshooting and bug-fixing details provided also relate directly to the Windows operating system's integration with Visual Studio and TFS.",
+    "final_score": 77.0,
+    "reasoning": "The content primarily discusses issues related to Team Foundation Server (TFS) 2012.2, which operates within the Windows environment. It explicitly mentions Windows in the context of error messages and troubleshooting steps, indicating a strong focus on Windows-related issues. The discussion includes installation and update procedures for Visual Studio, which is closely tied to Windows. The depth of the discussion is significant, providing detailed error messages, troubleshooting steps, and references to known bugs and fixes, all of which align well with the key topics outlined for the Windows category.",
     "level": "Secondary"
   },
   "Deployment Strategies": {

@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T19:54:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:17:42",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical steps and techniques for installing and configuring SharePoint 2013, which aligns with the exploration and application of tools and methodologies in a DevOps context.",
+    "final_score": 61.0,
+    "reasoning": "The content provides practical guidance on installing and configuring SharePoint 2013, which aligns with the category's focus on practical techniques and tooling. It discusses specific steps, prerequisites, and common pitfalls during installation, demonstrating a clear application of tooling. However, while it mentions tools and techniques, the discussion lacks depth in terms of broader Agile or DevOps methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,12 +76,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T19:54:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:54:40",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily focuses on the installation and configuration of SharePoint 2013, providing detailed steps, best practices, and troubleshooting tips relevant to the setup process.",
-    "level": "Secondary"
+    "final_score": 81.0,
+    "reasoning": "The content provides a detailed guide on installing and configuring SharePoint 2013 on Windows Server 2012, which aligns closely with the category of Install and Configuration. It includes step-by-step instructions, highlights prerequisites, and discusses common pitfalls and troubleshooting tips. The primary focus is on the installation process and configuration settings, making it a strong fit for the category. However, some sections contain anecdotal commentary and personal opinions that slightly detract from the technical focus.",
+    "level": "Primary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -370,12 +376,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:58:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation and configuration of SharePoint 2013, which involves technical practices and methodologies relevant to software craftsmanship. However, the primary focus is on installation steps rather than broader principles of software engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of SharePoint 2013, which involves technical aspects of software setup. However, it lacks a deeper exploration of best practices, principles of clean code, or methodologies that contribute to software craftsmanship. While it does mention some technical details and prerequisites, the discussion does not sufficiently align with the broader themes of software engineering excellence or provide in-depth insights into improving code quality or maintainability.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1045,11 +1054,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T19:57:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:54:34",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration of SharePoint 2013, detailing best practices, prerequisites, and specific configuration steps, which aligns closely with system configuration topics.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of SharePoint 2013 on Windows Server 2012, which directly aligns with the category of System Configuration. It discusses best practices for software installation, the importance of prerequisites, and specific configuration steps, demonstrating a clear understanding of the processes involved. The depth of discussion is substantial, covering various aspects of the installation and configuration process, including troubleshooting and the use of command line tools. Overall, the content is highly relevant to the category, with a strong emphasis on practical configuration methodologies.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1099,11 +1111,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T19:57:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:43:17",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the installation and configuration of SharePoint 2013 on Windows Server 2012, which is directly related to the Windows operating system. It includes specific references to Windows Update and the importance of managing updates for a successful installation, making Windows a central theme.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of SharePoint 2013 on Windows Server 2012, which directly aligns with the Windows category. There are numerous direct mentions of Windows, including the importance of running Windows Update and specific Windows Server configurations. The discussion provides detailed steps and considerations for installation, which demonstrates a good depth of discussion. However, while the content is heavily centred on Windows, it also includes broader discussions about SharePoint that could detract slightly from its primary focus on Windows itself.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
@@ -1153,11 +1168,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T19:58:05",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T10:33:49",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 35,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses installation issues and errors encountered during the setup of SharePoint 2013, including specific troubleshooting steps and solutions, making it a major theme.",
+    "final_score": 68.0,
+    "reasoning": "The content discusses various aspects of installing SharePoint 2013, including troubleshooting installation issues, such as the 'Unspecified 1603' error and the need to rerun the installation. It provides practical advice on avoiding common mistakes, like selecting the wrong installation type, and highlights the importance of running Windows Update to prevent issues. However, while it touches on troubleshooting, the primary focus is on installation steps rather than a systematic approach to diagnosing and resolving technical issues, which slightly lowers the alignment and depth scores.",
     "level": "Secondary"
   },
   "Experimentation": {

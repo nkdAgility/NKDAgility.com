@@ -25,12 +25,12 @@ duration: 407
 isShort: false
 tags:
 - People and Process
+- Agile Project Management
 - Agile Product Management
 - Scrum Master
 - Scrum Product Development
 - Scrum Team
 - Agile Frameworks
-- Agile Project Management
 - Agile Transformation
 - Professional Scrum
 - Software Development
@@ -42,8 +42,8 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Product Management
 - Social Technologies
+- Product Management
 
 ---
 In my journey through the world of Agile and Scrum, I've encountered a recurring challenge: what to do when the Product Owner is ineffective or, dare I say, incompetent. It’s a strong word, but I’ve met many Product Owners who fit this description, either because they lack the necessary skills or because their organisation doesn’t empower them to fulfil their role effectively. The outcomes are often the same: a team struggling to deliver value and a product that misses the mark.

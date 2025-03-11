@@ -30,14 +30,14 @@ aliasesArchive:
 tags:
 - Discovery and Learning
 - Events and Presentations
-- Change Management
-- Continuous Learning
 - People and Process
-- Agile Frameworks
-- Products and Books
+- Continuous Learning
 - Pragmatic Thinking
 - Coaching
+- Agile Frameworks
+- Products and Books
 - Agile Transformation
+- Change Management
 categories:
 - Social Technologies
 - Scrum

@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T23:38:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:42:01",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical setup and configuration of a release management environment in Azure, detailing specific tools and methodologies used in the process.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed exploration of setting up a standard environment for release management using Azure and Visual Studio tools. It explicitly mentions various tools such as Visual Studio Online, Release Management, Git, and Application Insights, aligning well with the category's focus on practical techniques and tooling. The discussion includes specific methodologies for configuring environments, automating deployments, and integrating tools, demonstrating a strong alignment with the core themes of the category. The depth of the discussion is substantial, covering step-by-step processes and considerations for effective implementation, which enhances the overall confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-14T23:38:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:37:22",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 38,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the process of creating and configuring a standard environment for Release Management in Azure, including step-by-step instructions and considerations for setting up various components.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed step-by-step guide on creating and configuring a standard environment for Release Management in Azure. It explicitly discusses the installation of various components, such as Visual Studio Online, Release Management, and the setup of a Virtual Machine. The author shares specific configuration steps, including creating a Resource Group and a storage account, which aligns well with the core themes of the category. The depth of discussion is significant, as it covers multiple aspects of the installation and configuration process, including troubleshooting and best practices. Overall, the content is highly relevant to the 'Install and Configuration' category.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T23:38:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:41:56",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the creation of a standard environment for release management in Azure, which involves automation, deployment processes, and tools that are central to DevOps practices.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on creating a standard environment for release management in Azure, which aligns closely with DevOps principles such as automation, continuous delivery, and the use of tools like Visual Studio Online and Application Insights. It discusses the setup of environments, automated deployments, and the integration of various tools, which are key aspects of DevOps practices. The depth of discussion is substantial, providing detailed steps and considerations for configuring environments, although it could benefit from a more explicit discussion of cultural shifts and collaboration aspects in DevOps.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -145,11 +154,14 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-14T23:38:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:42:07",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a presentation at NDC London, detailing the speaker's preparation and the topics to be covered, which aligns with the category of Events and Presentations.",
+    "final_score": 71.0,
+    "reasoning": "The content explicitly mentions a speaking engagement at NDC London, which aligns with the category of events and presentations. However, while it discusses the preparation for the presentation, the majority of the content focuses on technical details about setting up a release management environment in Azure, which detracts from the primary focus on the event itself. The depth of discussion about the event is limited, primarily serving as a backdrop for the technical content rather than a detailed exploration of the presentation or its insights.",
     "level": "Secondary"
   },
   "Flow Efficiency": {
@@ -208,11 +220,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-14T23:39:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:32:10",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the setup and configuration of a release management environment in Azure, which involves technical practices such as automated deployment, use of Visual Studio Online, and Application Insights for analytics. These topics align closely with the principles of Continuous Integration and Continuous Delivery (CI/CD) and modular architecture, making it a significant discussion on technical excellence.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the creation of a standard environment for release management in Azure, touching on aspects of Continuous Integration and Continuous Delivery (CI/CD) through automated deployments and the use of Visual Studio Online. However, while it mentions relevant tools and practices, the focus is more on the setup process rather than a deep exploration of engineering methodologies or principles that enhance agility. The discussion lacks a thorough examination of how these practices contribute to technical excellence, which diminishes the overall depth of the content in relation to the category.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -235,11 +250,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-14T23:39:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:23:17",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the setup and management of a release management environment in Azure, which is directly related to the deployment phase of product delivery. It covers aspects of creating a standard environment, automated deployment, and the use of tools that facilitate the delivery of software products.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on creating a standard environment for release management in Azure, which directly relates to the deployment phase of product delivery. It discusses the setup of various tools and environments that facilitate the deployment of software, aligning well with the methodologies and practices involved in delivering usable software products. The mention of automated deployment, resource management, and application insights indicates a strong alignment with product delivery principles. However, while the content is detailed, it lacks a broader discussion on iterative development or cross-functional team roles, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -280,11 +298,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-14T23:39:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:48:56",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the creation of a standard environment for release management using Azure services, specifically mentioning Visual Studio Online, Release Management, and Azure configurations, which are central to Azure DevOps functionalities.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on creating a standard environment for release management using Azure, detailing specific Azure services like Visual Studio Online, Release Management, and Application Insights. It discusses the setup and configuration of these services, which aligns closely with Azure DevOps functionalities. The depth of discussion is substantial, providing insights into the practical implementation of Azure DevOps tools, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -730,12 +751,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:37:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the setup of a standard environment for release management, which touches on best practices in deployment and automation. However, it primarily focuses on the specifics of Azure and Visual Studio rather than broader engineering excellence principles.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the creation of a standard environment for release management in Azure, which touches on aspects of continuous integration and deployment practices. However, while it mentions tools and processes related to software development, it lacks a deep exploration of engineering excellence principles, such as coding standards or quality assurance practices. The focus is more on practical setup rather than promoting high standards in software craftsmanship.",
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

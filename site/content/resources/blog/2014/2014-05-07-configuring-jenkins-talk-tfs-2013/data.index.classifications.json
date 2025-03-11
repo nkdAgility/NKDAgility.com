@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T10:36:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:49:29",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical steps and techniques for configuring Jenkins to work with TFS, including installation and configuration of plugins, which aligns well with the category's focus on tooling and methodologies in Agile and DevOps practices.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed guide on configuring Jenkins to work with TFS, which directly aligns with the category's focus on practical techniques and tooling. It discusses specific tools (Jenkins and TFS), methodologies for integrating them, and includes step-by-step instructions, demonstrating a clear application of the tools in a real-world scenario. The depth of discussion is substantial, covering installation, configuration, and the implications of using these tools, which enhances the overall understanding of their practical application in Agile and DevOps contexts.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T10:36:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:41:13",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration of the Team Foundation Server plugin for Jenkins, including step-by-step instructions and best practices for setting up builds with TFS.",
+    "final_score": 80.0,
+    "reasoning": "The content provides a detailed guide on configuring Jenkins to work with TFS 2013, including step-by-step instructions for installing the necessary plugin and configuring builds. It directly addresses installation and configuration processes, aligning well with the key topics of the category. The depth of discussion is substantial, covering specific actions and considerations, which enhances its relevance to the category.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T10:36:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:49:25",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the integration of Jenkins with TFS, which is relevant to Continuous Integration (CI) practices in DevOps. It covers the configuration and automation aspects of the build process, aligning well with DevOps principles.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on configuring Jenkins to work with TFS, which is relevant to DevOps practices, particularly in the context of Continuous Integration (CI). It discusses the integration of tools (Jenkins and TFS) and touches on automation aspects, but lacks a broader discussion on DevOps principles, cultural shifts, or metrics. While it provides practical steps and details, it does not delve deeply into the overarching themes of DevOps, such as collaboration between teams or the impact of automation on deployment frequency.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -208,11 +217,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T10:36:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:44:29",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical process of configuring Jenkins to work with TFS, which involves engineering practices related to Continuous Integration and Continuous Delivery (CI/CD). It addresses the installation and configuration of plugins, the management of source code, and the implications of using TFS for builds, all of which align with the principles of technical excellence.",
+    "final_score": 61.0,
+    "reasoning": "The content primarily focuses on the technical process of configuring Jenkins to work with TFS, which aligns with the category of Technical Excellence. It discusses specific technical practices, such as the installation of plugins and the configuration of builds, which are relevant to Continuous Integration practices. However, while it touches on aspects of technical excellence, such as the importance of build management and source control, it lacks a deeper exploration of broader engineering methodologies or principles that enhance agility and quality in software development. Therefore, while it is relevant, it does not fully meet the depth and breadth expected for a high confidence score.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -478,12 +490,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T10:42:41",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-10T18:34:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the practical aspects of configuring Jenkins with TFS for build management, including workflow considerations and techniques for process optimization, which are relevant to operational practices in a DevOps context.",
-    "level": "Secondary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the practical steps for configuring Jenkins to work with TFS, which relates to operational practices in terms of integrating tools for improved workflow. However, it lacks a broader discussion on operational efficiency, continuous improvement, or metrics, which are key aspects of the category. The focus is primarily on technical setup rather than strategic operational enhancements.",
+    "level": "Quaternary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -730,11 +745,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:41:10",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses best practices related to CI/CD through the configuration of Jenkins with TFS, which is relevant to engineering processes. However, it primarily focuses on the technical setup and migration rather than overarching themes of engineering excellence and craftsmanship.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on the technical process of configuring Jenkins to work with TFS, which is a specific implementation detail rather than a broader discussion on engineering excellence. While it touches on aspects of continuous integration and the importance of build management, it lacks a comprehensive exploration of best practices, principles of software craftsmanship, or quality assurance. The discussion is more about practical steps than fostering a culture of excellence in software development.",
     "level": "Tertiary"
   },
   "Revenue per Employee": {
@@ -775,11 +793,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T10:42:41",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T11:50:49",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses practical steps for integrating Jenkins with TFS, focusing on real-world applications and problem-solving techniques relevant to the Agile and DevOps environments, while also highlighting challenges and solutions based on experiences.",
+    "final_score": 61.0,
+    "reasoning": "The content primarily focuses on the practical steps involved in configuring Jenkins to work with TFS, which aligns with pragmatic thinking in terms of applying real-world solutions to technical challenges. However, while it discusses practical problem-solving, it lacks a deeper exploration of Agile or Scrum principles and does not provide extensive insights into navigating complexity or uncertainty in project management. The discussion is more technical and procedural than strategic, which limits its alignment with the broader themes of pragmatic thinking.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -874,11 +895,14 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-15T10:42:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:25:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content focuses primarily on configuring Jenkins with Team Foundation Server (TFS) for builds, which is a direct application of Continuous Integration practices.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on configuring Jenkins to work with TFS, which is a key aspect of Continuous Integration. It discusses the integration of source code management and build processes, which are fundamental to CI practices. The mention of Jenkins, a CI tool, and the detailed steps for setting up builds and managing source code align well with CI principles. However, while it provides practical insights, it lacks a broader discussion on CI best practices or the impact of CI on team collaboration, which slightly lowers the depth of the discussion.",
     "level": "Secondary"
   },
   "Market Share": {

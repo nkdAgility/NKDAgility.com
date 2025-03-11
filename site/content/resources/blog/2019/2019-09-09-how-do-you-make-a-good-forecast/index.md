@@ -8,7 +8,7 @@ ResourceImportId: 39852
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2019-09-09
-weight: 550
+weight: 585
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,9 +27,9 @@ aliasesArchive:
 - /blog/how-do-you-make-a-good-forecast-
 - /resources/blog/how-do-you-make-a-good-forecast
 tags:
+- Events and Presentations
 - People and Process
 - Throughput
-- Agile Product Management
 - Agile Product Operating Model
 - Agile Project Management
 - Metrics and Learning
@@ -39,8 +39,8 @@ tags:
 - Agile Frameworks
 categories:
 - Scrum
-- Product Management
 - Social Technologies
+- Product Management
 preview: 993957510-1-1.jpg
 
 ---

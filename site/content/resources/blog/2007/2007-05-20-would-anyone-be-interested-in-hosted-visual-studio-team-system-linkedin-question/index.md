@@ -27,19 +27,18 @@ aliasesArchive:
 - /blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-(linkedin-question)
 - /resources/blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
 tags:
+- Azure DevOps
+- Products and Books
+- Software Developers
 - Modern Source Control
 - News and Reviews
 - Practical Techniques and Tooling
-- Products and Books
 - Software Development
 - System Configuration
 - Application Lifecycle Management
-- Azure DevOps
 - Collaboration Tools
-- Internal Developer Platform
 preview: metro-visual-studio-2005-128-link-1-1.png
-categories:
-- DevOps
+categories: []
 
 ---
 View Full Question and Answers: [Would anyone be interested in hosted Visual Studio Team System](http://www.linkedin.com/answers/technology/software-development/TCH_SFT/46649-1363184)

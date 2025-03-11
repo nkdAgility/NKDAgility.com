@@ -29,15 +29,13 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Technical Mastery
-- Azure DevOps
-- Operational Practices
-- Pragmatic Thinking
-- Software Development
 - System Configuration
+- Operational Practices
+- Software Development
 - Troubleshooting
-categories:
-- DevOps
+- Azure DevOps
+- Pragmatic Thinking
+categories: []
 preview: puzzle-issue-problem-128-link-5-5.png
 
 ---

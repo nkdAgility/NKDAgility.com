@@ -28,20 +28,26 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T16:42:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:37:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Product Owners and the concept of value, which are related to backlog management, but the primary focus is on defining value rather than the Product Backlog itself.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of value in the context of a Product Owner's role, which is relevant to the Product Backlog. However, it lacks direct mentions of the Product Backlog itself and does not delve into specific techniques for backlog management or prioritisation. The focus is more on the concept of value rather than the backlog as a dynamic list of features and enhancements.",
+    "level": "Quaternary"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-12T07:13:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:13:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner in relation to value, which is a key aspect of Professional Scrum principles.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner in relation to value, which is a key aspect of Scrum. However, it lacks explicit mentions of Scrum roles, events, or artifacts, and does not delve deeply into the Scrum framework itself. While it aligns conceptually with the importance of value in Scrum, the depth of discussion is limited to the Product Owner's perspective without broader coverage of Scrum principles.",
     "level": "Secondary"
   },
   "Organisational Physics": {
@@ -400,11 +406,14 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-12T07:14:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:21:09",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner in defining and demonstrating value, which is central to their responsibilities in Agile and Scrum frameworks.",
+    "final_score": 76.0,
+    "reasoning": "The content explicitly discusses the role of the Product Owner in defining and communicating value within an organisation, which is a core responsibility of the role. It aligns well with the key topics of stakeholder engagement and understanding customer needs. The depth of discussion is moderate, focusing on the importance of value but lacking detailed techniques or strategies for backlog management or prioritisation. Overall, the content is primarily focused on the Product Owner's responsibilities, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Change Management": {
@@ -553,12 +562,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T16:42:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:14:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of defining and communicating value within the context of a PSPO course, which relates to practical problem-solving in Agile environments. However, it primarily focuses on the concept of value rather than specific pragmatic strategies or techniques.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of defining and understanding value within an organisation, which aligns with pragmatic thinking in Agile contexts. It highlights the role of the product owner in navigating complex value definitions, demonstrating practical problem-solving. However, the discussion lacks depth in exploring specific strategies or techniques for applying these concepts in real-world scenarios, which limits its overall alignment with the category.",
+    "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -940,11 +952,14 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-12T07:15:57",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T18:16:41",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses the concept of value in the context of a PSPO course, which aligns with Agile principles of value delivery and customer collaboration. However, it focuses more on the role of Product Owners and specific practices rather than the broader Agile philosophy.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the concept of value in the context of a PSPO course, which aligns with the Agile Philosophy's emphasis on value delivery and customer collaboration. However, it does not explicitly mention the Agile Manifesto or its principles, nor does it delve deeply into the broader implications of Agile as a mindset. The focus on value is significant but somewhat limited in scope, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Modern Source Control": {
@@ -1222,11 +1237,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-12T07:12:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T13:58:51",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily focuses on the concept of value in the context of a PSPO course, discussing its importance and implications for Product Owners, which aligns closely with the principles of value delivery.",
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses the concept of value in the context of a PSPO course, highlighting its importance for product owners in defining and communicating value within their organisations. It aligns well with the core themes of value delivery, particularly in relation to understanding different types of value and the role of product owners in managing that value. The depth of discussion is significant, as it explores the challenges organisations face in recognising value and the responsibilities of product owners in this regard.",
     "level": "Secondary"
   },
   "Technical Excellence": {
@@ -1321,21 +1339,27 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T23:44:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:58:47",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the role of Product Owners in demonstrating leadership and defining value within an organisation, making leadership a significant theme, though not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the role of a product owner in defining and communicating value within an organisation, which aligns with leadership practices. It highlights the importance of leadership in understanding and expressing value, indicating a direct mention of leadership responsibilities. However, the discussion is primarily focused on the concept of value rather than broader leadership strategies or frameworks, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T23:44:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:13:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Product Owners in defining and demonstrating value, which aligns with Agile principles, but it primarily focuses on the concept of value rather than the frameworks themselves.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of value in the context of a PSPO (Professional Scrum Product Owner) course, which aligns with Agile principles and the role of a Product Owner. It explicitly mentions value delivery, a core theme of Social Technologies, and touches on leadership and communication within an organisation. However, while it connects to Agile practices, it lacks detailed exploration of specific frameworks like Scrum or Kanban, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",

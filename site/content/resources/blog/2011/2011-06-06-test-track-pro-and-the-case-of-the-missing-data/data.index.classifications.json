@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T22:42:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:30:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for querying and managing data within the Test Track Pro Adapter, including specific coding examples and methodologies for optimising data retrieval, which aligns with the category focus.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses a specific technical issue related to querying data in Test Track Pro and provides a practical solution involving the adjustment of query parameters. It mentions the use of filters and the concept of a 'High Water Mark' in data migration, which aligns with practical techniques in tooling. However, while it touches on practical application, it lacks broader discussions on methodologies or frameworks that enhance Agile and DevOps practices, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -37,11 +40,14 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T22:42:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:01:00",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses issues related to querying data in a software system, focusing on code quality, performance, and the complexities involved in managing data retrieval effectively. It highlights the impact of query design on system performance and maintainability, which aligns well with the themes of code quality and complexity.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses a specific coding issue related to querying data and the implications of using different time filters in a database context. It directly addresses code quality by highlighting performance issues and the importance of accurate data retrieval, which aligns with the principles of software code quality. However, while it touches on complexity in terms of managing data queries and the high water mark concept, it lacks a broader discussion on complexity theory or best practices in software development. The depth of the discussion is moderate, focusing on a specific problem rather than exploring wider implications or strategies for managing complexity in codebases.",
     "level": "Secondary"
   },
   "Discovery and Learning": {
@@ -208,11 +214,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T22:42:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:00:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical challenges and solutions related to querying data in a software integration context, focusing on the importance of efficient data retrieval and the implications of using high water marks in data processing, which aligns with engineering practices that enhance software development and delivery processes.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a technical issue related to querying data in a software integration context, which touches on aspects of code quality and efficiency. However, it lacks a broader discussion on engineering practices or methodologies that enhance agility, such as TDD or CI/CD. While it provides some technical detail, it does not delve deeply into the principles of technical excellence or how they apply to the overall software development process.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -370,11 +379,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T10:28:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:03:09",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical implementation details, including the use of queries for data retrieval, handling of timestamps, and managing records through the TFS Integration Platform, which are relevant to software craftsmanship and engineering practices.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a technical issue related to querying data in a software integration context, which touches on aspects of software craftsmanship and debugging practices. However, it lacks a broader discussion on best practices, principles of clean code, or methodologies that contribute to high-quality software development. The focus is primarily on a specific problem and its solution rather than a comprehensive exploration of technical mastery.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -577,11 +589,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T10:28:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:48:04",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses issues related to data querying and integration in a software development context, specifically dealing with a Test Track Pro Adapter and the TFS Integration Platform. The explanations of querying, high water marks, and data handling methodologies align directly with software development practices.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the challenges and solutions related to querying data within the context of software development, specifically focusing on the Test Track Pro Adapter and TFS Integration Platform. It provides detailed insights into the coding practices, debugging efforts, and the importance of high water marks in data migration processes. The discussion aligns well with software development methodologies and practices, particularly in the areas of data handling and system integration, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -730,11 +745,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:30:02",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical issue related to data retrieval in a software integration context, which touches on aspects of software craftsmanship and problem-solving in engineering practices. However, it primarily focuses on a specific technical problem rather than providing a broader discussion on engineering excellence concepts.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a technical issue related to querying data and the implications of using incorrect time filters, which touches on best practices in coding and debugging. However, it lacks a broader discussion on engineering excellence principles, such as software craftsmanship or continuous improvement processes. While it does provide some depth in terms of the specific problem and solution, it does not fully align with the core themes of the category.",
     "level": "Tertiary"
   },
   "Revenue per Employee": {
@@ -775,11 +793,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-16T10:28:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:38:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses a practical problem faced while developing a Test Track Pro Adapter, including real-world applications of filters in queries and strategies for effectively handling data migration in the context of TFS Integration. It emphasizes problem-solving techniques related to adapting queries to avoid the loss of data and improve efficiency.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses practical problem-solving strategies related to querying data in a software integration context, which aligns with the core themes of pragmatic thinking. It provides a detailed account of the challenges faced and the solutions implemented, demonstrating adaptability and critical thinking in a real-world scenario. The author reflects on their experience and intuition in decision-making, particularly regarding the use of time filters in queries, which is a practical application of Agile and DevOps principles. However, while the content is rich in practical examples, it does not explicitly mention Agile or Scrum frameworks, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {

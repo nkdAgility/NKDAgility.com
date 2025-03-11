@@ -8,7 +8,7 @@ ResourceImportId: 6905
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-07-31
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,14 +23,12 @@ aliasesArchive:
 - /upgrading-from-tfs-2008-to-tfs-2010-overview
 - /resources/blog/upgrading-from-tfs-2008-to-tfs-2010-overview
 tags:
-- Install and Configuration
-- Practical Techniques and Tooling
-- System Configuration
 - Software Development
-- Technical Mastery
+- Install and Configuration
+- System Configuration
+- Practical Techniques and Tooling
 - Troubleshooting
-categories:
-- Engineering Excellence
+categories: []
 preview: metro-visual-studio-2010-128-link-1-1.png
 
 ---

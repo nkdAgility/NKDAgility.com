@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T19:16:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:33:12",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the VSTS Sync Migration Tool, its features, updates, and practical applications for migrating work items, which aligns well with the category's focus on tooling and practical techniques.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the VSTS Sync Migration Tool, detailing its features, updates, and practical applications for users migrating work items in TFS and VSTS. It explicitly mentions the tool's capabilities, such as bulk updates and project migrations, aligning well with the category's focus on practical techniques and tooling. The depth of discussion includes specific features and community contributions, providing a solid overview of how the tool can enhance Agile and DevOps practices. However, while it is focused on a specific tool, it lacks broader context on methodologies or frameworks, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-14T19:16:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:33:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the VSTS Sync Migration Tool, including installation instructions, new features, and bug fixes, which aligns with the category of Install and Configuration.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the VSTS Sync Migration Tool, highlighting its features and updates, which implies a focus on installation and configuration. However, it lacks detailed step-by-step installation procedures or configuration best practices, which are crucial for a higher confidence score in this category. The mention of installation from Chocolatey is brief and does not provide comprehensive guidance, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:33:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses a tool related to migration and updates within the context of TFS and VSTS, which are relevant to DevOps practices, but the primary focus is on the tool's features rather than broader DevOps principles or practices.",
+    "final_score": 43.0,
+    "reasoning": "The content discusses the VSTS Sync Migration Tool, which is a tool relevant to DevOps practices, particularly in the context of migration and integration of work items. However, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. While it mentions automated notifications through a DevOps pipeline, the focus remains primarily on tool updates and features rather than on the integration of people, processes, and tools in a holistic DevOps context.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -262,11 +271,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-14T19:17:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:39:12",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the VSTS Sync Migration Tool, detailing its features, updates, and community contributions, which aligns with the category's focus on tools and software relevant to Agile and DevOps practices.",
+    "final_score": 68.0,
+    "reasoning": "The content primarily discusses the VSTS Sync Migration Tool, detailing its features, updates, and community contributions. It aligns well with the category as it focuses on a specific software product relevant to Agile and DevOps practices. The discussion includes practical applications of the tool, which enhances understanding of Agile methodologies. However, while it provides a good level of detail, it lacks a broader analysis or review context that would elevate its depth further.",
     "level": "Secondary"
   },
   "Value Delivery": {
@@ -280,11 +292,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-14T19:17:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:29:48",
+    "ai_confidence": 68.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the VSTS Sync Migration Tool, which is a tool related to Azure DevOps, detailing its features, updates, and community contributions, thus aligning well with Azure DevOps functionalities.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the VSTS Sync Migration Tool, which is directly related to Azure DevOps (formerly VSTS). It mentions specific features and updates relevant to users of Azure DevOps, indicating a strong direct mention. The alignment with Azure DevOps is evident as it focuses on a tool that facilitates migration and management of work items within the Azure DevOps ecosystem. However, while it provides a fair amount of detail about the tool's functionalities, it lacks broader discussions on Azure DevOps services or methodologies, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -334,11 +349,14 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-14T19:17:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:21:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses updates and new features of the VSTS Sync Migration Tool, which is relevant to DevOps practices and tools, making it a significant topic within the category.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses an update to the VSTS Sync Migration Tool, which is relevant to DevOps practices. It provides specific details about new features and bug fixes, aligning with the category's focus on industry updates. However, while it mentions the tool's functionality and community contributions, it lacks broader commentary on industry trends or evaluations that would enhance its depth in the context of Agile and DevOps news and reviews.",
     "level": "Secondary"
   },
   "Application Lifecycle Management": {
@@ -577,11 +595,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-14T19:18:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:46:56",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the VSTS Sync Migration Tool, its features, bug fixes, and contributions from the community, which are relevant to software development practices, particularly in the context of version control and migration of work items.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the VSTS Sync Migration Tool, which is a software tool relevant to software development practices, particularly in the context of migrating work items in TFS and VSTS. It mentions specific features and bug fixes, indicating a focus on improving software functionality. However, while it touches on aspects of software development, such as community contributions and automated DevOps pipelines, it lacks a deeper exploration of methodologies or best practices in software development, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Agile Project Management": {

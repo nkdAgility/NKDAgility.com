@@ -172,11 +172,14 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:14:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the release of Visual Studio 2008 and .NET 3.5, which is relevant to industry news, but lacks a broader analysis or review aspect.",
+    "final_score": 57.0,
+    "reasoning": "The content briefly mentions the release of Visual Studio 2008 and .NET 3.5, which aligns with industry news. However, it lacks detailed analysis or insights into how this release impacts Agile or DevOps practices. The discussion is more focused on personal experience rather than providing a comprehensive review or evaluation of the tools mentioned.",
     "level": "Tertiary"
   },
   "Product Delivery": {
@@ -577,12 +580,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:01:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions Visual Studio and .NET, which are relevant to software development, but it primarily discusses the release announcement without delving into methodologies or practices of software development.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions Visual Studio 2008 and .NET 3.5, which are relevant to software development, but lacks a detailed discussion on methodologies, practices, or frameworks. The focus is more on the release announcement rather than on software engineering processes.",
+    "level": "Quaternary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -1225,12 +1231,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:18:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions the release of Visual Studio 2008 and .NET 3.5, which is relevant to release management, but does not delve into strategies, planning, or practices related to managing software releases.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions the release of Visual Studio 2008 and .NET 3.5 going RTM, which is a direct reference to a software release. However, it lacks a detailed discussion on release management practices, strategies, or processes. The focus is more on the author's personal experience with the release rather than on the structured aspects of release management. Therefore, while there is a mention of a release, the overall alignment and depth of discussion do not strongly support the category.",
+    "level": "Quaternary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",

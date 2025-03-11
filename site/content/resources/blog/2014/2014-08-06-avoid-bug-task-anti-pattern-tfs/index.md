@@ -8,7 +8,7 @@ ResourceImportId: 10662
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-08-06
-weight: 455
+weight: 445
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,19 +28,20 @@ aliasesArchive:
 - /blog/avoid-bug-task-anti-pattern-azure-devops/
 - /resources/blog/
 tags:
-- People and Process
-- Agile Product Management
-- Azure DevOps
 - Practical Techniques and Tooling
-- Product Delivery
+- Azure DevOps
 - Product Owner
 - Software Development
 - Test First Development
 - Agile Planning
 - Agile Project Management
+- Agile Transformation
+- Azure Boards
+- People and Process
 categories:
 - DevOps
 - Engineering Excellence
+- Social Technologies
 preview: NKDAgility-technically-BugAsATask-5-5.jpg
 
 ---

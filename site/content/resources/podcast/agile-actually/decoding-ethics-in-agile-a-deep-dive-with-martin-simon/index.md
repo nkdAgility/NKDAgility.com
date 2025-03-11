@@ -16,6 +16,7 @@ aliases:
 - /resources/SfjZtlimOCu
 tags:
 - Transparency
+- People and Process
 - Transparency and Accountability
 
 ---

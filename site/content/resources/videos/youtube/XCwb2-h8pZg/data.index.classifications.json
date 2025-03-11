@@ -595,12 +595,15 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-18T12:23:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:45:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content briefly mentions Kanban, which is a Lean tool, but the primary focus seems to be on Team Foundation Service rather than Lean principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on TFS (Team Foundation Server) and its features for Agile project management, particularly around backlog management and Kanban boards. While it briefly mentions concepts like work in progress (WIP) limits, which are relevant to Lean practices, the overall discussion does not delve into Lean Thinking principles such as waste identification, continuous improvement, or value stream mapping. The content lacks a comprehensive exploration of Lean concepts, making it more aligned with Agile methodologies rather than Lean Thinking specifically.",
+    "level": "Quaternary"
   },
   "People and Process": {
     "category": "People and Process",
@@ -1360,11 +1363,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-18T12:23:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:55:59",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content title suggests a focus on Kanban, which is relevant to workflow management within operational practices, but no detailed discussion is provided in the excerpt.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the use of TFS preview for managing Agile projects, including the creation of team projects, backlog management, and Kanban board usage. While it mentions practical tools and features that can enhance operational efficiency, the focus is more on the functionalities of TFS rather than on broader operational practices or strategies. The discussion of Kanban and work item limits aligns with operational practices, but the overall depth and direct mentions of techniques for improving efficiency are somewhat limited.",
     "level": "Tertiary"
   },
   "Internal Developer Platform": {

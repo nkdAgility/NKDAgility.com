@@ -30,9 +30,9 @@ tags:
 - Install and Configuration
 - Practical Techniques and Tooling
 - System Configuration
+- People and Process
 preview: metro-sharepoint-128-link-15-15.png
-categories:
-- Social Technologies
+categories: []
 
 ---
 If you want to be able to use workflow on you're my site that will allow you to assign tasks to your colleagues, then you need to take a couple of thing into consideration. The most important is to give any users assigned tasks access to the tasks list that you are using for your workflow.

@@ -307,11 +307,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-10T13:19:02",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses server naming conventions in an enterprise environment, which is tangentially related to operational practices but does not primarily focus on DevOps principles, practices, or tools.",
+    "final_score": 22.0,
+    "reasoning": "The content discusses server naming conventions in an enterprise environment, which is tangentially related to DevOps practices, particularly in terms of managing infrastructure. However, it lacks explicit mentions of DevOps principles, automation, or cultural shifts. The discussion is primarily focused on naming strategies rather than the integration of development and operations or continuous delivery practices.",
     "level": "Quaternary"
   },
   "Technical Excellence": {
@@ -370,11 +373,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T21:08:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:19:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the naming conventions for servers in an enterprise environment, which directly relates to system configuration practices and is essential for managing and identifying servers effectively.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses server naming conventions in an enterprise environment, which is a crucial aspect of system configuration. It directly addresses the need for consistent and informative server names to enhance identification and management within large systems. While it does not delve deeply into technical configuration practices or tools, it aligns well with the principles of optimising system performance and reliability through effective naming strategies. The depth of discussion is moderate, providing examples and reasoning but lacking in broader configuration management techniques or security considerations.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
@@ -586,11 +592,14 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-11T12:14:43",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses server naming conventions, which are relevant to system organization, but lacks a focus on SRE principles, practices, or the integration of development and operations.",
+    "final_score": 22.0,
+    "reasoning": "The content discusses server naming conventions in an enterprise environment, which is tangentially related to SRE principles, particularly in terms of system organisation and identification. However, it lacks direct mentions of SRE concepts such as reliability, scalability, or performance optimisation. The discussion is more focused on naming strategies rather than the broader implications of reliability engineering, thus resulting in a low confidence score.",
     "level": "Quaternary"
   },
   "Product Strategy": {
@@ -946,11 +955,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:01:30",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses server naming conventions in an enterprise environment, which relates to best practices in technical environments but primarily focuses on naming strategy rather than broader software craftsmanship or engineering practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses server naming conventions in an enterprise environment, which touches on best practices for software architecture and maintainability. However, it lacks a deeper exploration of broader software craftsmanship principles, such as clean code or testing methodologies. While it provides a practical example of naming conventions, it does not delve into the underlying technical principles that would elevate it to a higher level of technical mastery.",
     "level": "Tertiary"
   },
   "Remote Working": {
@@ -1081,12 +1093,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:49:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses server naming conventions with a specific example involving Microsoft operating systems, indicating that it is related to the Windows environment but is primarily focused on naming strategies rather than Windows itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses server naming conventions in an enterprise environment, with a brief mention of a Microsoft operating system. However, it primarily focuses on naming strategies rather than installation, configuration, or troubleshooting of Windows itself. The alignment with Windows is weak, as the content does not delve into specific Windows features or management practices.",
+    "level": "Quaternary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1216,12 +1231,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-10T15:15:21",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content discusses practical naming conventions for servers in an enterprise environment, emphasizing the need for consistency and meaningful information to effectively manage a large number of servers. This aligns with pragmatic thinking in problem-solving within complex IT environments.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses practical naming conventions for servers in an enterprise environment, highlighting the challenges of managing numerous servers and the need for a systematic approach. It aligns well with pragmatic thinking by providing real-world examples and solutions that enhance clarity and efficiency in server management. The depth of discussion includes personal experiences and specific naming conventions, demonstrating a strong application of practical problem-solving strategies in a complex environment.",
+    "level": "Secondary"
   },
   "Release Management": {
     "category": "Release Management",

@@ -8,7 +8,7 @@ ResourceImportId: 11158
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-01-26
-weight: 775
+weight: 720
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,16 +27,16 @@ aliasesArchive:
 - /blog/the-benefits-of-visual-studio-online-for-the-enterprise
 - /resources/blog/benefits-visual-studio-online-enterprise
 tags:
-- Application Lifecycle Management
 - Azure DevOps
-- Business Agility
+- Practical Techniques and Tooling
 - Products and Books
+- Application Lifecycle Management
 - Release Management
 - Software Development
 - Organisational Agility
-- Practical Techniques and Tooling
+- Business Agility
 - Digital Transformation
-- Frequent Releases
+- Enterprise Agility
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-6-6.png

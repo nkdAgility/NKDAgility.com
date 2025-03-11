@@ -29,11 +29,13 @@ sitemap:
   priority: 0.6
 tags:
 - Personal
+- People and Process
 resourceTypes:
 - video
 layout: video
 categories:
 - Social Technologies
+- Scrum
 
 ---
 ## The Magic of the 4-Day Training Format!

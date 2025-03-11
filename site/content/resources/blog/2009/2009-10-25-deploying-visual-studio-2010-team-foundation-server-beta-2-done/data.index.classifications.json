@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T01:51:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:41:49",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical steps taken during the migration of TFS 2008 to TFS 2010, detailing specific techniques and tools used in the process, which aligns well with the category focus.",
+    "final_score": 66.0,
+    "reasoning": "The content provides a detailed account of a specific migration process involving Team Foundation Server (TFS), which aligns with practical techniques and tooling in the context of Agile and DevOps. It discusses the steps taken during the migration, which reflects a practical application of tooling. However, while it mentions TFS and the migration process, it lacks broader discussions on methodologies or frameworks that enhance Agile practices, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T01:52:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:07:53",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the step-by-step process of migrating from TFS 2008 to TFS 2010 Beta 2, detailing specific installation and configuration steps taken during the migration.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed account of the steps taken to migrate from TFS 2008 to TFS 2010 Beta 2, which aligns well with the category of Install and Configuration. It explicitly mentions the installation and upgrade processes, including backing up databases and restoring them, which are critical aspects of configuration. However, while the content does discuss these technical steps, it lacks a comprehensive guide or best practices that would enhance its depth. The narrative style and personal anecdotes, while engaging, detract from a purely instructional focus, leading to a slightly lower confidence score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:07:51",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the migration process of Team Foundation Server (TFS), which relates to DevOps practices, but it primarily focuses on the migration steps and team roles rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses a specific migration process related to Team Foundation Server (TFS), which is relevant to DevOps practices, particularly in the context of Continuous Integration and Continuous Delivery. However, it lacks a broader discussion on DevOps principles, cultural shifts, or tools beyond TFS. The focus is primarily on a specific project rather than the overarching themes of DevOps, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -289,12 +298,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-16T01:52:38",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T15:05:43",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content shares personal experiences and reflections on a specific project involving TFS migration, highlighting individual contributions and team dynamics, which aligns with the Personal category.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content provides a personal account of the author's experience with a TFS migration project, detailing their role and the team's dynamics. While it does touch on personal reflections and insights, the primary focus is on the technical aspects of the migration process, which detracts from its alignment with the 'Personal' category. The mention of team members and the author's contributions adds a personal touch, but the overall emphasis on technical execution limits the depth of personal insight.",
+    "level": "Tertiary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -577,11 +589,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T02:28:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:42:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the migration process of Team Foundation Server (TFS), a critical aspect of software development involving deployment and upgrade practices, which aligns closely with software development methodologies and lifecycle.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the migration process of Team Foundation Server (TFS) from version 2008 to 2010, which is a specific software development task. It includes details about the steps taken during the migration, which aligns with software development practices. However, the focus is more on the personal experience and team dynamics rather than a deep exploration of methodologies or best practices in software development. While it mentions relevant tools and processes, it lacks a broader discussion on software development principles or frameworks.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -730,12 +745,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:41:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the deployment and migration process of Team Foundation Server (TFS), but it does not clearly focus on broader engineering excellence principles or software craftsmanship. While there are elements related to best practices in the migration process, it focuses more on the migration steps rather than on engineering excellence as a central theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content provides a narrative about a specific migration project involving TFS, which touches on aspects of software development and deployment. However, it lacks a focused discussion on engineering excellence principles, best practices, or continuous improvement processes. While it mentions teamwork and preparation, these are not deeply tied to the core themes of engineering excellence, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -775,11 +793,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-16T02:28:59",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T18:52:57",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content describes a practical experience of migrating from TFS 2008 to TFS 2010, which includes real-world problem-solving steps and teamwork dynamics. However, it lacks a broader focus on Agile or DevOps principles, which makes the alignment moderate rather than primary.",
+    "final_score": 61.0,
+    "reasoning": "The content provides a practical account of a TFS migration process, detailing specific steps taken and the team's roles. While it does not explicitly discuss Agile or Scrum methodologies, it demonstrates pragmatic problem-solving in a real-world context. The mention of preparation and the ease of the migration process suggests an understanding of practical strategies, but the overall focus is more on the narrative of the migration rather than a deep exploration of pragmatic thinking principles.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -1108,12 +1129,15 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-16T02:29:00",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T12:07:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses a specific migration process and deployment steps for TFS, highlighting practical experiences in deploying software, which aligns with deployment strategies but is not the primary focus.",
-    "level": "Secondary"
+    "final_score": 30.0,
+    "reasoning": "The content provides a brief overview of a migration process for TFS but lacks a focused discussion on deployment strategies. While it mentions steps taken during the migration, it does not delve into methodologies or practices that align with the core themes of deployment strategies, such as risk management or specific deployment techniques. The discussion is more anecdotal and does not provide actionable insights into deployment methodologies.",
+    "level": "Quaternary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",

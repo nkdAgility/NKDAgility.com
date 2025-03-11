@@ -8,7 +8,7 @@ ResourceImportId: 10058
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-09-01
-weight: 415
+weight: 450
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,7 +28,6 @@ aliasesArchive:
 - /resources/blog/there-is-no-do-agile-there-is-only-be-agile
 tags:
 - Transparency
-- Agile Product Management
 - Empirical Process Control
 - People and Process
 - Agile Project Management
@@ -37,10 +36,11 @@ tags:
 - Organisational Agility
 - Organisational Change
 - Scaling Agility
+- Team Collaboration
 categories:
+- Social Technologies
 - Scrum
 - Leadership
-- Social Technologies
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T20:08:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:18:39",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical techniques and tooling involved in migrating data from FogBugz to TFS 2012 using the TFS Integration Platform, including setup, configuration, and coding practices.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed, practical guide on migrating data from FogBugz to TFS 2012 using the TFS Integration Platform. It explicitly discusses the setup of a development environment, the use of specific tools (like Visual Studio and SQL Server), and the implementation of a custom adapter, which aligns closely with the category's focus on practical techniques and tooling. The depth of discussion is significant, covering various steps, configurations, and code snippets necessary for the migration process, thus demonstrating a strong alignment with the key topics outlined in the category.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,12 +76,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T20:09:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:55:27",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 40,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily focuses on the installation and configuration of the TFS Integration Platform and the development environment needed for a custom adapter, providing detailed steps and best practices.",
-    "level": "Secondary"
+    "final_score": 81.0,
+    "reasoning": "The content provides a detailed guide on setting up a development environment and configuring a custom adapter for the TFS Integration Platform, which directly aligns with the 'Install and Configuration' category. It includes step-by-step installation instructions for necessary software, configuration details for the adapter, and troubleshooting advice, demonstrating a strong focus on practical implementation. The depth of discussion is significant, covering various aspects of the installation and configuration process, thus justifying a high confidence score.",
+    "level": "Primary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -118,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:55:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the migration of data between systems and the setup of a development environment, which are relevant to DevOps practices, but the primary focus is on technical implementation details rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating data between systems using the TFS Integration Platform, which is a tool relevant to DevOps practices. However, it lacks explicit discussions on broader DevOps principles such as CI/CD, automation, or cultural shifts. While it touches on the integration of tools and processes, it does not delve deeply into the collaborative or operational aspects that define DevOps, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -208,11 +217,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T20:09:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:55:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical process of migrating data from FogBugz to TFS 2012, including the setup of a development environment, the creation of a custom adapter, and the handling of data mapping and import processes, which aligns with engineering practices that enhance software development.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating data using the TFS Integration Platform, detailing the setup of a development environment, configuration of a custom adapter, and the coding involved in the migration process. While it does touch on some engineering practices, such as the importance of careful state mapping and the use of a custom adapter, it lacks a broader discussion on methodologies like TDD or CI/CD, which are central to the 'Technical Excellence' category. The depth of technical detail is moderate, but it does not fully explore the principles of agile engineering practices or continuous improvement, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -280,11 +292,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T20:09:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:43:53",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the migration of data to TFS 2012, which is part of the Azure DevOps suite, and provides detailed technical steps related to the TFS Integration Platform, making Azure DevOps the central theme.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the migration of data from FogBugz to TFS 2012 using the TFS Integration Platform, which is a part of Azure DevOps. It provides detailed steps and technical insights into setting up a development environment, configuring adapters, and handling data imports, all of which are relevant to Azure DevOps functionalities. However, while it is focused on TFS, it does not explicitly cover broader Azure DevOps services or methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -370,11 +385,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T21:31:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:34:13",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical practices related to migrating data using the TFS Integration Platform, including code snippets, configuration, and setup of a custom adapter, which aligns with technical mastery in software engineering.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating data from FogBugz to TFS 2012, detailing the setup of a development environment, the creation of a custom adapter, and the intricacies of data mapping and import processes. It discusses best practices in software engineering, such as the importance of maintaining clean code and the implications of state management in TFS, which aligns well with the principles of software craftsmanship. The depth of discussion is significant, providing detailed steps and code examples, which further supports its classification under Technical Mastery.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -730,12 +748,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-15T21:31:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:18:33",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical process of migrating data between software systems (FogBugz to TFS 2012), which involves engineering practices around development environments, configurations, and testing methodologies. It directly relates to software craftsmanship through the detailed approach to coding, debugging, and handling data within engineering practices.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating data between systems using the TFS Integration Platform. While it touches on some engineering practices, such as setting up a development environment and managing configurations, it lacks a broader discussion on engineering excellence principles, best practices, or continuous improvement. The depth of discussion is limited to specific implementation details rather than a comprehensive exploration of software craftsmanship or quality assurance.",
+    "level": "Tertiary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -775,11 +796,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T21:31:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:59:00",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on practical problem-solving strategies for migrating data between two systems (FogBugz and TFS) using a custom adapter, which aligns with pragmatic thinking within Agile and DevOps environments. It provides real-world examples, detailed steps, and considerations for handling complexities, making it central to the topic.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the practical aspects of migrating data from FogBugz to TFS 2012, detailing specific steps, tools, and considerations involved in the process. It discusses real-world applications of TFS Integration Platform and highlights practical problem-solving strategies, such as setting up a development environment and configuring adapters. However, while it aligns with pragmatic thinking, it lacks a broader discussion on Agile or Scrum principles, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {

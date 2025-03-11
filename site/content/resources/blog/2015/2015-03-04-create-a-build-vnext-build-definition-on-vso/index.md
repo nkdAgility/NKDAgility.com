@@ -8,7 +8,7 @@ ResourceImportId: 11047
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-03-04
-weight: 635
+weight: 670
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,10 +27,9 @@ aliasesArchive:
 - /blog/create-a-build-vnext-build-definition
 - /resources/blog/create-a-build-vnext-build-definition-on-vso
 tags:
-- Practical Techniques and Tooling
 - Software Development
-- Azure DevOps
 - Azure Pipelines
+- Install and Configuration
 categories:
 - DevOps
 - Engineering Excellence

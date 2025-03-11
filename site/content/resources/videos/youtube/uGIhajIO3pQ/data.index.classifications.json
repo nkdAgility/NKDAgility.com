@@ -334,12 +334,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T16:42:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:10:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Agile, Scrum, and DevOps, which are relevant to software development practices, but the primary focus is on promoting an event rather than discussing software development methodologies in depth.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Agile, Scrum, and DevOps, which are relevant to software development practices. However, the primary focus is on promoting an event rather than discussing methodologies or practices in detail. The discussion lacks depth and does not provide substantial insights into software development processes, making it more of a promotional piece than a technical discussion.",
+    "level": "Quaternary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -568,12 +571,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T16:42:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:12:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 25.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions Agile and Scrum, indicating a secondary theme related to Agile Project Management, but it primarily focuses on an event and personal experiences rather than in-depth discussions of Agile principles or methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions Agile and Scrum, indicating a connection to Agile Project Management. However, it primarily focuses on an event and personal experiences rather than discussing Agile principles, frameworks, or methodologies in depth. The lack of detailed exploration of Agile concepts results in a lower confidence score.",
+    "level": "Quaternary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -1165,11 +1171,14 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T16:42:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:17:03",
+    "ai_confidence": 67.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an event related to Agile but does not delve into specific Agile frameworks or methodologies, making it a major but secondary theme.",
+    "final_score": 60.0,
+    "reasoning": "The content primarily discusses an upcoming event related to Agile in Scotland, which does not delve into specific Agile frameworks or methodologies. While it mentions Agile, Scrum, and DevOps, these references are not the main focus and do not provide actionable insights or detailed discussions on these topics. The content is more about personal experiences and opinions regarding the event, aligning it with the Miscellaneous category. However, the presence of Agile-related terms and the context of the event provide some level of alignment, hence the moderate confidence score.",
     "level": "Tertiary"
   },
   "DevOps": {
@@ -1246,21 +1255,27 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T16:42:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:33:45",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes personal reflections and experiences related to Agile events and community involvement, but it primarily focuses on the event itself rather than deep personal insights or challenges faced in Agile practices.",
+    "final_score": 56.0,
+    "reasoning": "The content includes personal reflections on the speaker's connection to Scotland and their experiences with Agile events, which aligns with the Personal category. However, it primarily focuses on the upcoming Agile Scotland event and lacks in-depth personal anecdotes or insights related to Agile methodologies, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T16:42:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:07:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions Agile and Scrum, indicating a focus on community and events related to these methodologies, but it primarily discusses the event itself rather than delving deeply into team dynamics or processes.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content briefly mentions Agile and Scrum, indicating an interest in community and events related to these methodologies. However, it lacks a detailed discussion on team dynamics, leadership, or specific processes that enhance productivity. The focus is more on personal experiences and event promotion rather than a deep exploration of the interplay between people and structured methodologies.",
+    "level": "Quaternary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -1273,11 +1288,14 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-12T00:25:58",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-07T13:44:45",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content primarily discusses an upcoming Agile conference in Scotland, highlighting its significance and potential impact on the community, which aligns with industry news and events. However, it also includes personal reflections and experiences, making it a secondary theme.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the Agile Scotland 2023 event, which aligns well with the category of News and Reviews as it provides insights into an industry event relevant to Agile practices. The mention of sponsorship and the speaker lineup indicates a focus on community engagement and industry developments. However, while it touches on the significance of the event, the depth of analysis regarding its impact on Agile methodologies is somewhat limited, preventing a higher score.",
     "level": "Secondary"
   },
   "Metrics and Learning": {
@@ -1327,12 +1345,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T21:24:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:44:43",
+    "ai_confidence": 42.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Agile and Scrum, indicating a secondary theme related to social technologies, but primarily focuses on an event and personal experiences rather than in-depth discussions of the methodologies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content briefly mentions Agile and Scrum, indicating a connection to social technologies, but lacks detailed discussion on specific frameworks or methodologies. The focus is more on the event and personal experiences rather than on the principles of Scrum, Kanban, Lean, or Agile practices.",
+    "level": "Quaternary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",

@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T22:22:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:29:51",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the configuration and implementation of a PowerShell adapter for the TFS Integration Platform, detailing practical techniques and tooling for integrating TFS with Perforce. It includes specific methodologies, code examples, and configuration settings, aligning well with the category's focus on practical application of tools and techniques.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed exploration of configuring a PowerShell adapter for the TFS Integration Platform, which directly relates to practical tooling in Agile and DevOps contexts. It discusses specific methodologies for integrating TFS with Perforce, including code snippets and configuration settings, demonstrating a clear application of practical techniques. The depth of discussion includes various operational modes, PowerShell script configurations, and the overall setup process, aligning well with the key topics of the category.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,12 +76,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T22:22:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:00:52",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the configuration and installation of a PowerShell adapter for the TFS Integration Platform, providing detailed instructions and code examples relevant to setting up and configuring the tool.",
-    "level": "Secondary"
+    "final_score": 81.0,
+    "reasoning": "The content provides a detailed guide on configuring a PowerShell adapter for the TFS Integration Platform, which directly relates to installation and configuration processes. It includes step-by-step instructions, configuration file examples, and explanations of various settings, demonstrating a strong alignment with the key topics of the category. The depth of discussion is substantial, covering both theoretical and practical aspects of the configuration process, thus justifying a high confidence score.",
+    "level": "Primary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -118,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:00:48",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of TFS with Perforce using PowerShell, which relates to automation and tools in the context of DevOps practices. However, it primarily focuses on the technical implementation rather than broader DevOps principles or cultural shifts.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the configuration of a PowerShell adapter for the TFS Integration Platform, which relates to automation and integration in software delivery. It touches on aspects of continuous integration and deployment, but lacks a broader discussion on DevOps principles, cultural shifts, or metrics. While it provides technical details, it does not fully explore the collaborative and process-oriented aspects of DevOps.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -208,11 +217,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T22:23:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:00:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration and implementation of a PowerShell adapter for the TFS Integration Platform, focusing on technical practices, adaptability, and the use of PowerShell scripts to enhance the integration process, which aligns with the principles of technical excellence.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the technical implementation of a PowerShell adapter for the TFS Integration Platform, discussing specific coding practices and configurations. While it does touch on aspects of adaptability and integration, it lacks a broader discussion on engineering methodologies or principles that enhance agility in software development. The depth of technical detail is moderate, but it does not fully explore the key topics outlined in the 'Technical Excellence' category.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -370,11 +382,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T22:42:09",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-10T18:47:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses the technical implementation of a PowerShell adapter for TFS integration, focusing on best practices for configuration, code execution, and the technical nuances of working with TFS and PowerShell in a software engineering context.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the technical implementation of a PowerShell adapter for the TFS Integration Platform, discussing best practices in software design, adaptability, and the use of PowerShell for automation. It provides detailed code examples and configuration settings, aligning well with the principles of software craftsmanship and engineering practices. However, while it touches on technical excellence, it lacks a broader discussion on methodologies or principles that would elevate it further into the 'Technical Mastery' category.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -730,12 +745,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:29:44",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the configuration and implementation of a PowerShell Adapter for the TFS Integration Platform, which involves coding practices and the integration of systems—a key aspect of software engineering. While it is more technical than focused specifically on engineering excellence principles, it touches upon software craftsmanship through the discussion of adaptability and efficiency in engineering processes.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on configuring a PowerShell adapter for TFS, which involves technical implementation details rather than broader discussions on engineering excellence or best practices in software craftsmanship. While it touches on aspects of adaptability and configuration, it lacks a comprehensive exploration of coding standards, quality assurance, or continuous improvement processes that are central to the category of Engineering Excellence.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -775,11 +793,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T22:42:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:03:04",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical strategies for integrating TFS with Perforce, highlighting the use of PowerShell as a flexible tool. It focuses on real-world problem-solving techniques and configurations necessary for effective migration, making it highly relevant to pragmatic thinking in Agile contexts.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses practical problem-solving strategies for integrating TFS with Perforce using PowerShell, which aligns with pragmatic thinking. It highlights adaptability and real-world applications of DevOps principles, particularly in configuring the TFS Integration Platform. However, while it provides some depth in terms of configuration and execution, it lacks extensive case studies or evidence-based management practices, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -1045,12 +1066,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T22:42:10",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-11T10:37:56",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "The content primarily focuses on configuring a PowerShell adapter for the TFS Integration Platform, detailing the processes, methodologies, and settings involved in system setup and integration. It discusses best practices for configuration settings, the use of PowerShell scripts, and the management of migration sources, which align closely with the key topics of system configuration.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "The content primarily focuses on configuring a PowerShell adapter for the TFS Integration Platform, which directly relates to system configuration. It discusses the setup process, configuration files, and the use of PowerShell scripts to manage data migration between systems. The depth of discussion includes specific code examples, configuration settings, and practical steps for installation and execution, aligning well with the key topics of system configuration. The content does not deviate into unrelated areas, maintaining a strong focus on the technical aspects of configuring systems.",
+    "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",

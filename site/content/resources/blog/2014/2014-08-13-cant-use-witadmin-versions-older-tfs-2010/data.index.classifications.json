@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T09:07:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:44:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for using WITADMIN with TFS versions, including troubleshooting and upgrading strategies, which aligns with the exploration and application of tools in Agile and DevOps practices.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses a specific issue encountered while using WITADMIN with TFS versions, which relates to tooling in a practical context. It provides insights into the importance of using compatible software versions and mentions tools like TFS Integration Tools. However, while it touches on practical techniques, the discussion lacks depth in exploring methodologies or frameworks that enhance Agile or DevOps practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T09:07:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:39:39",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses troubleshooting and updating TFS versions, which directly relates to installation and configuration processes.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses the installation and configuration of TFS (Team Foundation Server) and the use of WITADMIN, which directly relates to the category. It provides a detailed account of troubleshooting an installation issue, including specific versions and the need for updates, which aligns well with the key topics of installation procedures and troubleshooting. The depth of discussion is significant, as it includes specific steps taken to resolve the issue and recommendations for maintaining compatibility, thus demonstrating a strong focus on the technical aspects of installation and configuration.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:39:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a migration process involving TFS and Visual Studio Online, which relates to DevOps practices, but the primary focus is on troubleshooting and version compatibility rather than broader DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a technical issue related to TFS (Team Foundation Server) and WITADMIN commands, which is more focused on specific software tools rather than the broader principles and practices of DevOps. While there are elements of migration and tool compatibility that could relate to DevOps, the discussion lacks explicit references to DevOps practices such as CI/CD, automation, or cultural shifts. The depth of the discussion is moderate, but it does not provide a comprehensive view of DevOps as a category.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -577,11 +586,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T09:57:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:24:30",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses issues related to Team Foundation Server (TFS), WITADMIN commands, and software version compatibility, which are relevant to software development practices.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses a specific issue related to using WITADMIN with TFS versions, which is relevant to software development practices, particularly in the context of version control and migration processes. It provides a detailed account of troubleshooting and upgrading software, aligning with best practices in software development. However, while it touches on relevant topics, the primary focus is on a specific problem rather than broader methodologies or frameworks, which slightly limits its overall alignment and depth.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -730,12 +742,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:44:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical aspects related to the use and compatibility of tools in software engineering, specifically around TFS and version management, which relates to best practices in maintaining quality and compatibility in engineering processes.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a technical issue related to using WITADMIN with TFS versions, which is more about troubleshooting than promoting engineering excellence. While it touches on the importance of using updated software for compatibility, it lacks a broader discussion on best practices, coding standards, or continuous improvement in engineering processes. The focus is on a specific problem rather than a comprehensive exploration of engineering excellence.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -775,11 +790,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T09:57:00",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T14:43:27",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses a real-world problem encountered during a migration project and details the practical steps taken to resolve it, which aligns with pragmatic problem-solving. However, it primarily focuses on specific technical issues related to software versions and doesn't extensively cover broader Agile or Scrum methodologies.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses a real-world problem encountered during a migration process, demonstrating practical problem-solving techniques in a complex environment. It highlights the importance of adaptability and critical thinking when faced with unexpected errors, aligning well with the core themes of Pragmatic Thinking. The author shares their experience and the steps taken to resolve the issue, providing a detailed account of the decision-making process and the rationale behind choosing specific upgrades. This depth of discussion, along with direct mentions of tools and versions relevant to Agile and DevOps practices, supports a high confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -1045,11 +1063,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T09:57:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:33:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration and updating of Team Foundation Server (TFS) versions and using WITADMIN, which falls under system configuration practices, specifically in the context of ensuring compatibility and performing upgrades for optimal performance.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific issue related to the configuration of TFS (Team Foundation Server) and the use of WITADMIN, which falls under system configuration. It mentions the need to ensure compatibility and the importance of having the latest software versions for optimal performance. However, while it touches on configuration issues and troubleshooting, the discussion is more anecdotal and lacks depth in exploring broader system configuration methodologies or best practices. Therefore, while it aligns with the category, it does not do so comprehensively.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1153,11 +1174,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T09:57:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:49:59",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a specific technical issue encountered while using WITADMIN with TFS versions, detailing the steps taken to identify and resolve the problem, thus aligning well with troubleshooting.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed account of a specific troubleshooting scenario involving WITADMIN and TFS versions. It explicitly discusses the identification of an error message, the confusion surrounding version compatibility, and the steps taken to resolve the issue by updating the server. The narrative aligns closely with the core themes of troubleshooting, including diagnosing software issues and implementing solutions. The depth of discussion is significant, as it outlines the thought process and actions taken to resolve the problem, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Experimentation": {

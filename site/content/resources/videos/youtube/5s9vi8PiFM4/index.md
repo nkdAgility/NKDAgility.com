@@ -27,9 +27,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Personal
 - People and Process
 - Agile Frameworks
-- Personal
 resourceTypes:
 - video
 layout: video

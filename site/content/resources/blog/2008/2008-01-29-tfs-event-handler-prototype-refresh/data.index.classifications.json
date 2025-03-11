@@ -55,11 +55,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T18:53:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:17:02",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the installation process of the TFS Event Handler Prototype, including steps for uninstalling and reinstalling the application, as well as handling configuration files. It provides actionable instructions relevant to installation and configuration, making it a central theme.",
+    "final_score": 68.0,
+    "reasoning": "The content primarily discusses the installation process of the TFS Event Handler Prototype, including steps for uninstalling and reinstalling the application while preserving configuration files. It provides actionable instructions, which aligns well with the category of Install and Configuration. However, while it mentions configuration aspects, the depth of discussion on best practices or troubleshooting is limited, preventing a higher score.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -316,12 +319,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:13:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses bug fixes and enhancements related to a specific software prototype, which touches on aspects of technical practices. However, it primarily focuses on the operational aspects of the TFS Event Handler rather than broader engineering methodologies or principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses bug fixes and installation instructions for a specific software prototype, which does not directly address the principles of Technical Excellence. While it mentions upgrading to a newer version of Visual Studio and .NET, it lacks a focus on methodologies like TDD, CI/CD, or modular architecture. The discussion is more operational and practical rather than theoretical or methodological, leading to a low confidence score in alignment with the category.",
+    "level": "Quaternary"
   },
   "People and Process": {
     "category": "People and Process",
@@ -568,20 +574,26 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:48:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the TFS Event Handler and its use, specifically focusing on how developers can create and implement event handlers in a team server environment, which has implications for team collaboration and productivity.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses a specific software tool (TFS Event Handler) and its bugs, along with installation instructions and potential use cases. While it touches on aspects relevant to software developers, such as fixing bugs and enhancing functionality, it lacks a direct focus on Agile or DevOps methodologies. The discussion is more technical and operational rather than exploring the broader themes of collaboration, productivity, or modern engineering practices that are central to the category.",
+    "level": "Quaternary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T19:11:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:59:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses a software development tool (TFS Event Handler), fixes in its release, and related practices, focusing on practical applications in software development.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses bug fixes and enhancements related to a specific software prototype, which aligns with software development practices. It mentions the use of Visual Studio and .NET, indicating a focus on coding and development tools. However, while it touches on aspects of software development, such as event handlers and configuration management, it lacks a deeper exploration of methodologies or best practices, which limits its overall depth and alignment with the category.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {
@@ -1099,11 +1111,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T19:11:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:13:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses fixing bugs in a software release, providing methods for uninstallation and reinstallation, which aligns with troubleshooting practices.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the identification and resolution of bugs in the TFS Event Handler Prototype, which aligns with troubleshooting. It provides specific steps for fixing issues, such as backing up config files and reinstalling the application. However, the depth of discussion on troubleshooting techniques is limited, focusing more on the release and features rather than a comprehensive troubleshooting methodology.",
     "level": "Secondary"
   },
   "Entrepreneurship": {
@@ -1234,12 +1249,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:16:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses bug fixes and upgrades for a prototype related to event handling in TFS, indicating a focus on improving development practices, which aligns with the pursuit of engineering excellence. However, the primary emphasis is on the specific implementation and usage of a tool rather than overarching principles or best practices in software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses bug fixes and enhancements related to a specific software prototype, which touches on aspects of software craftsmanship. However, it lacks a comprehensive focus on broader engineering excellence principles such as coding standards, CI/CD practices, or quality assurance. The mention of upgrading to a newer version of Visual Studio and .NET indicates some alignment with best practices, but the overall discussion is more about specific implementation details rather than a culture of excellence in software development.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

@@ -55,11 +55,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T18:49:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:16:53",
+    "ai_confidence": 82.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content provides detailed instructions on adding event handlers to a deployment, including steps for downloading, extracting files, and modifying configuration settings, which aligns well with installation and configuration topics.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed guide on adding event handlers to a TFS deployment, including specific steps for installation and configuration. It explicitly mentions the process of updating the deployment, downloading necessary files, and modifying configuration settings, which aligns well with the key topics of the category. The depth of discussion is significant, as it includes code snippets and instructions for both handlers, demonstrating a clear focus on practical implementation. However, while the content is primarily focused on installation and configuration, it could benefit from additional troubleshooting tips or system requirements to fully meet the category's expectations.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -100,11 +103,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T18:50:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:13:31",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the implementation of event handlers in a specific tool (TFS Event Handler), detailing practical steps for integration and configuration.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed description of specific event handlers related to Team Foundation Server (TFS), which directly aligns with the category's focus on practical tooling. It discusses the implementation of these handlers, including configuration steps and the benefits of their use, demonstrating a clear application of a tool within a DevOps context. The depth of the discussion is substantial, as it includes technical instructions and links to resources, which enhances its relevance to the category.",
     "level": "Secondary"
   },
   "Value Delivery": {
@@ -289,12 +295,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-16T18:50:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:59:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 55.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of event handlers related to Team Foundation Server (TFS), which is a component of Azure DevOps, and provides specific instructions on how to configure them.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses event handlers related to Team Foundation Server (TFS), which is part of the Azure DevOps suite. It provides specific details on how to implement these handlers, aligning with Azure DevOps functionalities. However, it lacks broader discussions on Azure DevOps services and methodologies, which limits its conceptual alignment. The depth of technical detail is moderate, focusing on implementation rather than strategic practices or integrations.",
+    "level": "Tertiary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -370,11 +379,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T19:35:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:13:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration of event handlers within a deployment context, detailing the specific steps needed to set up and update configurations, which aligns well with the category's focus on system configuration.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the addition of event handlers to a deployment, which directly relates to system configuration. It provides specific instructions on how to update the deployment, including file paths and configuration changes, demonstrating a clear focus on configuring a system for optimal performance. However, while it does touch on configuration aspects, the depth of discussion is somewhat limited to a specific use case without broader context on best practices or troubleshooting, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
@@ -946,12 +958,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T19:35:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:47:58",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content heavily discusses the implementation of event handlers in a software system, detailing technical aspects and configuration related to software deployment, which aligns with software craftsmanship and engineering practices.",
-    "level": "Secondary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on the implementation of event handlers in a specific software context, which touches on technical aspects of software development. However, it lacks a broader discussion on best practices, principles of clean code, or methodologies that contribute to software craftsmanship. While it provides some technical details, it does not delve deeply into the principles of software engineering excellence or the impact of these practices on code quality and maintainability.",
+    "level": "Quaternary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1234,12 +1249,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:16:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses adding event handlers in a software development context, which touches on software craftsmanship, but primarily focuses on implementation details rather than broader engineering excellence principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the implementation of event handlers in a specific software context, which does not directly address the principles of software craftsmanship or best practices in coding standards. While it mentions updating a deployment and fixing bugs, it lacks a broader discussion on engineering excellence, such as quality assurance or continuous improvement processes. The technical details provided are more about functionality than about fostering a culture of excellence in software development.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

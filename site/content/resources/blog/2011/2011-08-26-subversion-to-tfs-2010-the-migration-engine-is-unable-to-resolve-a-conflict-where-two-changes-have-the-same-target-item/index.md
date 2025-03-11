@@ -8,7 +8,7 @@ ResourceImportId: 3769
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-08-26
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,9 +28,13 @@ aliasesArchive:
 - /resources/blog/subversion-to-tfs-2010-the-migration-engine-is-unable-to-resolve-a-conflict-where-two-changes-have-the-same-target-item
 tags:
 - Troubleshooting
+- Install and Configuration
+- Software Development
+- Practical Techniques and Tooling
+- Modern Source Control
+- Pragmatic Thinking
 preview: image-1.png
-categories:
-- Engineering Excellence
+categories: []
 
 ---
 [![subversion](images/subversion_thumb-17-17.png "subversion")](http://blog.hinshelwood.com/files/2011/08/subversion1.png)

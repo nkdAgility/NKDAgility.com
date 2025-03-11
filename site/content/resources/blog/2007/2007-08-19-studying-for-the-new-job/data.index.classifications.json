@@ -343,11 +343,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-16T20:55:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:20:51",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses books related to specific technologies and certifications, which aligns with the category's focus on literature pertinent to Agile methodologies and DevOps practices.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses specific books related to technologies that the author plans to study for a new job, which aligns with the category of 'Products and Books'. The author explicitly mentions purchasing books on BizTalk and SharePoint, providing a clear focus on literature that supports their professional development. The discussion includes details about the books and their relevance to the technologies being learned, indicating a good depth of discussion. However, the primary focus is on personal preparation for a job rather than a broader analysis or review of the books, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Product Management": {
@@ -577,12 +580,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:50:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses preparations for a new job in technology, including certifications and technologies relevant to software development, but does not primarily focus on software development methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses preparing for a new job in the context of studying for certifications related to specific technologies, such as BizTalk and SharePoint. While it touches on relevant technologies in software development, it lacks a direct focus on software engineering practices, methodologies, or frameworks. The discussion is more about personal preparation and certification rather than the processes or best practices of software development.",
+    "level": "Quaternary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -703,12 +709,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T09:13:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:16:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses studying for new job-related certifications and learning resources, indicating a focus on personal development and skill acquisition. However, it does not explicitly address team dynamics or the principles of Continuous Learning within an Agile, DevOps, or Lean context.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses personal efforts to prepare for a new job by studying relevant technologies and obtaining certifications. While it touches on the theme of learning, it primarily focuses on individual knowledge acquisition rather than team improvement or a growth mindset. The discussion lacks depth in exploring how this learning contributes to a culture of continuous improvement or knowledge sharing within a team context.",
+    "level": "Quaternary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -1081,12 +1090,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:02:47",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses studying for certifications related to Windows technologies, particularly BizTalk Server and Windows SharePoint Services, which are associated with the Windows operating environment. However, the primary focus is on study materials and certifications rather than on direct Windows installation, configuration, or troubleshooting.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses various Microsoft technologies, including Windows SharePoint Services and BizTalk Server, which are related to the Windows ecosystem. However, the primary focus is on certifications and personal study plans rather than detailed discussions on Windows installation, configuration, or troubleshooting. While there are mentions of Windows-related technologies, the depth of discussion on the Windows operating system itself is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Lean Principles": {
     "category": "Lean Principles",

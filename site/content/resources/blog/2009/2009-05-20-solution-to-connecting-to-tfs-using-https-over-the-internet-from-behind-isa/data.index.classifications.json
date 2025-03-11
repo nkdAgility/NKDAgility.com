@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T02:35:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:44:37",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses a practical technique for configuring Visual Studio 2010 to connect to TFS over HTTPS, including specific registry changes and their implications.",
+    "final_score": 66.0,
+    "reasoning": "The content provides a specific solution to a technical issue related to connecting to TFS using Visual Studio, which directly involves practical tooling. It discusses registry modifications as a workaround, demonstrating a clear application of a practical technique. The mention of Visual Studio and TFS aligns with the category's focus on tools, and the depth of the discussion regarding registry keys adds to the overall confidence score. However, it lacks broader context on Agile or DevOps methodologies, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T02:35:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:09:11",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content provides a specific solution for configuring Visual Studio 2010 to connect to TFS over HTTPS, including detailed steps for modifying registry keys, which aligns with installation and configuration processes.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a specific solution for configuring Visual Studio 2010 to connect to TFS over HTTPS, which directly relates to installation and configuration processes. It includes detailed instructions on modifying registry keys, which is a technical aspect of configuration. However, while it is focused on a specific issue, it lacks broader discussions on installation or configuration best practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -370,12 +376,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T10:29:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:07:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a technical solution related to Visual Studio and TFS configuration, focusing on the specifics of registry settings, which aligns with software craftsmanship and problem-solving in software engineering.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content provides a specific technical solution related to Visual Studio and TFS configuration, which touches on software craftsmanship. However, it lacks broader discussions on best practices, principles, or methodologies that define technical mastery. The focus is primarily on a workaround rather than a comprehensive exploration of software engineering excellence.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1045,11 +1054,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T10:29:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:43:12",
+    "ai_confidence": 78.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses specific configuration settings related to Visual Studio's connection to TFS, including registry key modifications, which are technical aspects of system configuration.",
+    "final_score": 70.0,
+    "reasoning": "The content explicitly discusses a specific configuration issue related to Visual Studio 2010 and Team Foundation Server (TFS), detailing registry key modifications necessary for proper HTTPS connectivity. This aligns well with the category of System Configuration as it addresses practical steps for configuring software to resolve a connectivity issue. The depth of discussion is substantial, providing specific registry paths and values, which indicates a thorough exploration of the topic. However, while the content is focused on a configuration issue, it does not cover broader themes such as optimisation strategies or security considerations, which slightly lowers the overall alignment score.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1099,11 +1111,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T10:29:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:54:05",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses configuration changes related to Visual Studio 2010 and its interaction with Windows registry settings. This aligns closely with Windows operating system management.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses a specific issue related to Visual Studio 2010 and its interaction with Team Foundation Server (TFS) over HTTPS, which is relevant to Windows users. It mentions registry keys and configurations that are specific to Windows operating systems, indicating a focus on troubleshooting and configuration within the Windows environment. However, the discussion is more centred on Visual Studio and TFS rather than a broad exploration of Windows itself, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
@@ -1153,11 +1168,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T10:29:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:08:44",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a specific technical issue related to connecting to TFS using HTTPS and provides a concrete solution involving registry keys and configuration changes, which is central to troubleshooting.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses a specific troubleshooting issue related to connecting to TFS using HTTPS, detailing the problem and providing a clear solution involving registry key modifications. This aligns well with the core themes of the Troubleshooting category, as it focuses on diagnosing and resolving a technical issue. The depth of the discussion is substantial, offering specific instructions and references to documentation, which enhances its practical application in troubleshooting scenarios.",
     "level": "Secondary"
   },
   "Experimentation": {

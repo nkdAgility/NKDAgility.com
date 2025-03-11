@@ -2,7 +2,7 @@
 title: 'Conquering Sloth in Agile: 6 Signs Your Team Might Be Stalling'
 description: Uncover the hidden signs of sloth in Agile practices. Learn how to empower your team, deliver value, and embrace true agility in your projects!
 date: 2023-10-20T16:01:48Z
-weight: 455
+weight: 400
 ResourceId: uCFIW_lEFuc
 ResourceType: videos
 ResourceImport: true
@@ -28,6 +28,8 @@ duration: 498
 isShort: false
 tags:
 - People and Process
+- Agile Philosophy
+- Agile Planning
 - Agile Values and Principles
 - Increment
 - Agile Product Management
@@ -35,8 +37,6 @@ tags:
 - Empirical Process Control
 - Working Software
 - Agile Frameworks
-- Agile Philosophy
-- Agile Planning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

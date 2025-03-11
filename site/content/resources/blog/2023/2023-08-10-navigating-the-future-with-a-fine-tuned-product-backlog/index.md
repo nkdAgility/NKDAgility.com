@@ -24,7 +24,16 @@ aliasesArchive:
 - /navigating-the-future-with-a-fine-tuned-product-backlog
 - /resources/blog/navigating-the-future-with-a-fine-tuned-product-backlog
 tags:
+- Agile Product Management
 - Product Backlog
+- Professional Scrum
+- Product Delivery
+- Value Delivery
+- Agile Product Operating Model
+- Backlog Refinement
+- Scrum Product Development
+- Agile Planning
+- Agile Planning Tools
 categories:
 - Scrum
 preview: naked-agility-technically-NavigatingtheFuturewithaFine-TunedProductBacklog-1-1.jpg

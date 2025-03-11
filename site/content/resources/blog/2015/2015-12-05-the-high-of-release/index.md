@@ -8,7 +8,7 @@ ResourceImportId: 11398
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-12-05
-weight: 410
+weight: 445
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,16 +23,16 @@ aliasesArchive:
 - /the-high-of-release
 - /resources/blog/the-high-of-release
 tags:
+- Practical Techniques and Tooling
 - Events and Presentations
-- Product Delivery
-- Application Lifecycle Management
+- News and Reviews
 - Azure DevOps
 - Azure Pipelines
-- Practical Techniques and Tooling
 - Release Management
-- News and Reviews
 - Software Developers
 - Software Development
+- Frequent Releases
+- Operational Practices
 categories:
 - DevOps
 - Engineering Excellence

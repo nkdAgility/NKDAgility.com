@@ -23,10 +23,10 @@ aliasesArchive:
 - /removing-a-dead-solution-deployment-from-moss-2007
 - /resources/blog/removing-a-dead-solution-deployment-from-moss-2007
 tags:
+- Troubleshooting
 - Install and Configuration
 - Practical Techniques and Tooling
 - System Configuration
-- Troubleshooting
 preview: metro-sharepoint-128-link-1-1.png
 categories: []
 

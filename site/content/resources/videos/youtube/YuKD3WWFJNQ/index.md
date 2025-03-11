@@ -32,9 +32,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Agile Product Management
 - Decision Making
-- People and Process
 - Product Owner
 - Sprint Review
 - Agile Frameworks
@@ -45,8 +45,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Scrum
 - Social Technologies
+- Scrum
 - Product Management
 
 ---

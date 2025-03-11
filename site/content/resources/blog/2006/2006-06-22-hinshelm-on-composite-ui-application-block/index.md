@@ -8,7 +8,7 @@ ResourceImportId: 467
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2006-06-22
-weight: 640
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,13 +27,10 @@ aliasesArchive:
 - /blog/adding-toolstrippanel-ui-adapter-support-to-the-composite-ui-application-block
 - /resources/blog/hinshelm-on-composite-ui-application-block
 tags:
-- Practical Techniques and Tooling
-- Pragmatic Thinking
 - Software Development
-- Technical Excellence
+- Practical Techniques and Tooling
 - Technical Mastery
-categories:
-- Engineering Excellence
+categories: []
 preview: metro-binary-vb-128-link-1-1.png
 
 ---

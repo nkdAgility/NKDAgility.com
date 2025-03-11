@@ -28,21 +28,21 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Pragmatic Thinking
 - Scaling Scrum
+- Software Development
 - Large Scale Agility
-- Scaled Agile
-- Scaling Agility
-- Agile Frameworks
 - Agile Project Management
 - People and Process
 - Practical Techniques and Tooling
-- Pragmatic Thinking
-- Software Development
+- Professional Scrum
+- Scaled Agile
+- Agile Frameworks
 resourceTypes:
 - video
 categories:
-- Scrum
 - Social Technologies
+- Scrum
 
 ---
 # Tailoring Scrum to Scale: Building Your Own Framework for Success

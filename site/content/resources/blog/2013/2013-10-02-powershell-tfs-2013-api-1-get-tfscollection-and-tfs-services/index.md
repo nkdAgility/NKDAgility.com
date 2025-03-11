@@ -8,7 +8,7 @@ ResourceImportId: 10149
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-10-02
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,10 +29,13 @@ aliasesArchive:
 - /blog/powershell-tfs-2013-api--1---get-tfscollection-and-tfs-services
 - /resources/blog/powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services
 tags:
+- Software Development
+- Install and Configuration
+- Practical Techniques and Tooling
+- System Configuration
 - Technical Mastery
-categories:
-- DevOps
-- Engineering Excellence
+- Modern Source Control
+categories: []
 preview: metro-powershell-logo-1-1.png
 
 ---

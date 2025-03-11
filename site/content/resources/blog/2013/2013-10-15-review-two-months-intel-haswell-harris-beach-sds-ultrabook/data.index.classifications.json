@@ -262,11 +262,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-15T11:36:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:52:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses a review of the Intel Haswell Harris Beach SDS Ultrabook, detailing its performance, usability, and comparison with other products, which aligns with the category's focus on discussions about products.",
+    "final_score": 67.0,
+    "reasoning": "The content primarily focuses on a review of the Intel Haswell Harris Beach SDS Ultrabook, discussing its performance, usability, and specific software applications. It provides detailed insights into the product's features and how it supports the author's work, aligning well with the category's focus on product discussions. However, while it mentions tools like Visual Studio and Windows Live Writer, it lacks a broader analysis of methodologies or frameworks related to Agile or DevOps, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Value Delivery": {
@@ -334,11 +337,14 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-15T11:37:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:43:47",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily focuses on a review of the Intel Haswell Harris Beach SDS Ultrabook, discussing its performance, issues with Windows 8.1, and comparisons with other devices, which aligns well with the category of reviews related to technology.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on a review of the Intel Haswell Harris Beach SDS Ultrabook, detailing the author's experiences and insights after two months of use. It discusses specific issues with Windows 8.1, driver updates, and performance metrics, which aligns well with the review aspect of the category. However, while it provides valuable insights into the product, it lacks broader industry context or trends related to Agile or DevOps, which slightly diminishes its overall alignment with the category's core themes.",
     "level": "Secondary"
   },
   "Application Lifecycle Management": {
@@ -1045,12 +1051,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:26:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses issues related to drivers and performance optimization for the Intel Haswell Harris Beach SDS Ultrabook, which relates to system configuration, but the primary focus is on user experience and software development rather than the technical process of configuring systems.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on personal experiences with a specific laptop model and its performance, rather than discussing system configuration in detail. While there are mentions of driver issues and performance, these are more anecdotal and do not delve into best practices or methodologies for system configuration. The discussion lacks depth in terms of configuration management or optimisation strategies, which are key aspects of the category.",
+    "level": "Quaternary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1099,11 +1108,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T17:51:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:46:35",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the author's experiences with Windows 8.1, including issues with drivers, performance, and usage of Windows applications. It is a detailed review focused on using the Windows operating system on a specific laptop.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on the author's experience with Windows 8.1 on a specific laptop model, discussing installation issues, driver updates, and performance. It provides detailed insights into troubleshooting problems related to Windows, such as power management and application performance. The depth of discussion regarding Windows features and the specific challenges faced aligns well with the key topics outlined in the Windows category. While there are mentions of other software and hardware, the central theme remains on the Windows operating system, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
@@ -1180,12 +1192,15 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:52:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 8,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes a disclosure about receiving products for free in accordance with FTC guidelines, which pertains to transparency in endorsements, but the primary focus is on the review of the laptop.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content briefly mentions a disclosure of material connection, which aligns with the concept of transparency in terms of openness about sponsorship. However, the primary focus of the content is on the review of a laptop, with minimal discussion on transparency in Agile processes or team dynamics. The mention of disclosure is not elaborated upon, and the overall content does not delve into the key topics associated with transparency in Agile methodologies.",
+    "level": "Quinary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -1198,12 +1213,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:36:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content primarily discusses experiences with a laptop and its performance for development tasks, with some mentions of Visual Studio, but does not focus on Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a personal review of a laptop and its performance, with only brief mentions of software development tools like Visual Studio. It lacks a direct discussion on Agile or DevOps methodologies, and does not explore the role of software developers in those contexts. The content does not provide substantial detail on best practices or collaborative strategies relevant to software development.",
+    "level": "Quinary"
   },
   "Coaching": {
     "category": "Coaching",

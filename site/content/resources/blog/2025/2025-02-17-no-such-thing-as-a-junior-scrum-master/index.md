@@ -34,6 +34,8 @@ tags:
 - Team Performance
 categories:
 - Scrum
+- Social Technologies
+- Leadership
 preview: 2025-02-10-no-such-thing-as-a-junior-scrum-master.jpg
 marketing: []
 

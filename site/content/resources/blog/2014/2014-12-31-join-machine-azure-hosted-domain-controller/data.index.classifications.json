@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T08:56:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:37:00",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content provides specific instructions on joining a machine to an Azure hosted domain controller, which involves practical techniques and tooling related to Azure services and network configurations.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a practical guide on joining a machine to an Azure-hosted domain controller, which directly relates to the application of tooling in a cloud environment. It discusses specific steps and configurations necessary for this process, demonstrating a clear alignment with the category's focus on practical techniques and tooling. The content includes direct mentions of Azure and DNS configuration, which are relevant tools in the context of DevOps practices. However, while it offers a good level of detail, it could benefit from more comprehensive insights into best practices or case studies to fully meet the depth criteria.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T08:56:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:39:07",
+    "ai_confidence": 85.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the process of joining a machine to an Azure-hosted domain controller, detailing installation steps and configuration settings necessary to achieve this. It provides actionable instructions that align with the category's focus on installation and configuration.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed step-by-step guide on how to join a machine to an Azure-hosted domain controller, which directly aligns with the category of Install and Configuration. It discusses necessary configurations, such as ensuring the machine is within the correct virtual network and configuring the DNS server, which are essential for the installation and configuration process. The depth of discussion is significant, as it includes specific actions to take and settings to adjust, demonstrating a clear focus on practical implementation. Overall, the content is highly relevant to the category, with explicit mentions of installation and configuration processes.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -370,12 +376,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:48:44",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical steps to join a machine to an Azure hosted domain controller, indicating a focus on specific technical practices, though it lacks broader coverage of software craftsmanship principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on the practical steps to join a machine to an Azure-hosted domain controller, which is a technical task. However, it lacks a broader discussion on software craftsmanship, best practices, or principles of clean code. While it does touch on technical aspects, such as DNS configuration and virtual networks, it does not delve into methodologies or principles that contribute to high-quality software development. Therefore, while there is some alignment with the category, it is not a primary focus.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1045,11 +1054,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T09:56:46",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-10T18:31:55",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses the process of joining a machine to an Azure hosted domain controller, detailing system configuration steps and requirements, including networking and domain settings.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses the process of joining a machine to an Azure-hosted domain controller, which is a direct aspect of system configuration. It covers essential steps such as ensuring the machine is within the correct virtual network, configuring DNS settings, and using Remote Desktop to connect to the server. The discussion aligns well with the core themes of system configuration, particularly in terms of best practices for software installation and configuration, as well as hardware setup and integration. The depth of the discussion is substantial, providing detailed instructions and considerations for successfully joining a machine to a domain, which enhances its relevance to the category.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1099,11 +1111,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T09:56:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:41:48",
+    "ai_confidence": 82.0,
+    "ai_mentions": 16,
+    "ai_alignment": 32,
+    "ai_depth": 36,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content focuses on the process of joining a machine to an Azure-hosted domain controller, detailing specific steps that involve the Windows operating system, such as connecting via Remote Desktop and modifying system settings related to domain affiliation. This is primarily about managing Windows systems within an Azure environment.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on the process of joining a machine to a domain within a Windows environment, which is a key aspect of Windows management. It discusses specific steps related to configuration settings, such as ensuring the machine is in the correct virtual network and configuring DNS settings, which aligns well with the core themes of installation and configuration. The depth of discussion is substantial, providing detailed instructions and considerations for users, thus reinforcing its relevance to the Windows category.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
@@ -1153,11 +1168,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T09:56:46",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-11T10:23:00",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content primarily focuses on the steps to join a machine to an Azure hosted domain controller, which involves diagnosing issues related to network configuration and DNS server setup. However, it also includes specific procedural instructions rather than solely troubleshooting.",
+    "final_score": 65.0,
+    "reasoning": "The content provides a step-by-step guide on how to join a machine to an Azure-hosted domain controller, which involves troubleshooting potential issues related to network configuration and DNS settings. While it does not explicitly label itself as troubleshooting, it addresses common problems that may arise during the process, such as ensuring the machine is in the correct virtual network and that DNS is configured properly. The depth of discussion is moderate, focusing on practical steps rather than theoretical concepts, which aligns with the troubleshooting category. However, it lacks extensive detail on diagnosing and resolving issues, which prevents a higher confidence score.",
     "level": "Secondary"
   },
   "Experimentation": {

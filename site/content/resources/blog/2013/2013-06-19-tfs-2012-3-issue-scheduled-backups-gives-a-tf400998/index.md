@@ -31,13 +31,11 @@ aliasesArchive:
 tags:
 - Windows
 - Install and Configuration
-- Practical Techniques and Tooling
 - System Configuration
-- Azure DevOps
-- Pragmatic Thinking
 - Software Development
 - Troubleshooting
-- Technical Mastery
+- Practical Techniques and Tooling
+- Azure DevOps
 categories:
 - DevOps
 preview: puzzle-issue-problem-128-link-3-3.png

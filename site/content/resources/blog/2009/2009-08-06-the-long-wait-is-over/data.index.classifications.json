@@ -262,11 +262,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:09:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:08:21",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses the release and features of Windows 7, which aligns with the category as it reviews a software product relevant to technology, but it does not delve into Agile or DevOps methodologies.",
+    "final_score": 60.0,
+    "reasoning": "The content primarily discusses the release and features of Windows 7, which aligns with the category of products. It provides a review-like perspective on the operating system, comparing it to its predecessor, Vista, and expressing personal satisfaction with its performance. However, it lacks a deeper analysis of methodologies or frameworks related to Agile or DevOps, which limits its alignment with the core themes of the category. The discussion is focused on a specific product, but it does not delve into broader implications or recommendations that would enhance understanding of Agile or DevOps principles.",
     "level": "Tertiary"
   },
   "Value Delivery": {
@@ -334,11 +337,14 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:09:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:53:27",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the release of Windows 7, providing insights and personal evaluations of its performance compared to previous versions, which aligns with the theme of technology updates and reviews.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the release of Windows 7, providing insights into its stability and performance compared to Vista. It mentions the availability of the OS for developers and the excitement surrounding its launch, which aligns with the category of news and reviews. However, the focus is primarily on a single product rather than broader industry trends or multiple reviews, which limits the depth of discussion.",
     "level": "Tertiary"
   },
   "Application Lifecycle Management": {
@@ -946,12 +952,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:09:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:06:17",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the release of Windows 7 and mentions its availability for developers, which relates to software release management. However, the focus is more on personal experience and opinion rather than the practices and strategies involved in release management.",
-    "level": "Tertiary"
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions the release of Windows 7 and its availability for developers, but it lacks a detailed discussion on release management practices, strategies, or processes. The focus is more on personal experiences and opinions rather than structured release management concepts.",
+    "level": "Quaternary"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -1099,11 +1108,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T02:46:48",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-07T15:42:53",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 50,
-    "final_score": 86.0,
-    "reasoning": "The content primarily discusses Windows 7, including its stability in comparison to Vista and its availability for developers, making it central to the Windows operating system.",
+    "final_score": 83.0,
+    "reasoning": "The content primarily discusses Windows 7, including its beta versions, stability compared to Vista, and the excitement surrounding its release. It directly mentions Windows multiple times and focuses on aspects such as installation availability and user experience, aligning well with the key topics of the Windows category. The depth of discussion is substantial, providing insights into the operating system's performance and user sentiment, which further supports a high confidence score.",
     "level": "Primary"
   },
   "Deployment Strategies": {

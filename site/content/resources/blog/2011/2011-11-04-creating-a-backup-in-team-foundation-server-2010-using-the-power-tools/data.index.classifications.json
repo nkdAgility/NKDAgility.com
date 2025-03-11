@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T21:48:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:26:27",
+    "ai_confidence": 85.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for creating backups in Team Foundation Server 2010, detailing specific steps, required permissions, and troubleshooting errors, which aligns well with the category's focus on the application of tools and methodologies.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed, practical guide on creating backups in Team Foundation Server (TFS) using Power Tools, which directly relates to tooling in a DevOps context. It discusses specific steps, required permissions, and common errors encountered during the backup process, demonstrating a clear application of practical techniques. The depth of discussion is significant, as it includes troubleshooting and error resolution, which are essential for effective tool usage. Overall, the content aligns well with the category's focus on practical techniques and tooling.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T21:48:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:59:18",
+    "ai_confidence": 85.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration of backup procedures for Team Foundation Server, including required permissions, troubleshooting errors, and best practices for setting up a backup system.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed guide on creating backups in Team Foundation Server (TFS), which directly relates to installation and configuration processes. It includes step-by-step instructions, required permissions, and troubleshooting common issues encountered during the backup process. The explicit mention of permissions, SQL service accounts, and error handling demonstrates a strong focus on the technical aspects of installation and configuration. The depth of discussion is significant, covering various errors and their resolutions, which aligns well with the category's purpose.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-07T15:26:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content primarily focuses on creating backups in Team Foundation Server and troubleshooting related SQL Server issues, which are more aligned with system administration rather than core DevOps practices. While it touches on aspects of deployment and permissions, it does not discuss broader DevOps principles, practices, or cultural shifts.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of backing up Team Foundation Server (TFS) and troubleshooting related issues. While it touches on some operational concerns, such as permissions and service accounts, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. The mention of TFS and SQL Server does not directly align with the core themes of DevOps, which emphasise collaboration, continuous delivery, and automation. Therefore, the content is only tangentially related to DevOps.",
     "level": "Quaternary"
   },
   "Miscellaneous": {
@@ -370,12 +379,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T22:58:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:46:53",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content provides a detailed discussion on the technical aspects of creating a backup system for Team Foundation Server using Power Tools, including permissions and configuration nuances. It addresses best practices for backup procedures which aligns with the principles of software craftsmanship relevant to technical mastery.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on the practical aspects of creating backups in Team Foundation Server, detailing specific steps and troubleshooting errors. While it touches on technical issues related to permissions and SQL Server configurations, it lacks a broader discussion on software craftsmanship principles, best practices, or methodologies that contribute to high-quality software development. The depth of discussion is limited to specific errors and solutions without exploring overarching themes of technical mastery.",
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -577,11 +589,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T22:58:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:36:58",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the process of creating a backup in Team Foundation Server, including technical details, permissions, and possible errors encountered, which are relevant to software development and administration practices.",
+    "final_score": 74.0,
+    "reasoning": "The content provides a detailed discussion on creating backups in Team Foundation Server (TFS), which is a critical aspect of software development and maintenance. It explicitly mentions various technical steps, permissions, and error handling related to TFS and SQL Server, aligning well with best practices in software development. The depth of discussion includes specific errors encountered and solutions, showcasing a practical application of software engineering principles. Overall, the content is highly relevant to the Software Development category.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -775,11 +790,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T22:58:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:58:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical problem-solving related to managing Team Foundation Server backups, detailing real-world issues encountered and solutions applied, such as permission errors and service account configurations, which align with pragmatic thinking in complex environments.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses practical problem-solving strategies related to creating backups in Team Foundation Server (TFS), highlighting real-world challenges and solutions encountered during the process. It provides specific examples of errors faced and the necessary permissions required, which aligns with the pragmatic thinking approach. However, while it touches on practical applications, it lacks a broader discussion on Agile, Scrum, or DevOps frameworks, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -1099,11 +1117,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T22:58:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:02:08",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the backup procedures and administrative tasks related to Team Foundation Server (TFS) 2010, which is relevant to the Windows operating environment, including permissions, SQL Server issues, and security settings related to Windows systems.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on the backup procedures for Team Foundation Server (TFS) 2010, which operates within the Windows environment. It discusses specific permissions, error messages, and configurations relevant to Windows and SQL Server, demonstrating a strong alignment with Windows-related topics. The depth of discussion is substantial, providing detailed troubleshooting steps and insights into managing TFS backups, which are critical for Windows system administration. Overall, the content is highly relevant to the Windows category.",
     "level": "Secondary"
   },
   "Deployment Strategies": {

@@ -8,7 +8,7 @@ ResourceImportId: 10538
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-05-21
-weight: 775
+weight: 720
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,15 +23,15 @@ aliasesArchive:
 - /mask-password-in-jenkins-when-calling-tee
 - /resources/blog/mask-password-in-jenkins-when-calling-tee
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
+- Operational Practices
+- Software Development
+- Troubleshooting
 - System Configuration
 - Continuous Integration
-- Operational Practices
 - Pragmatic Thinking
-- Software Development
 - Technical Mastery
-- Troubleshooting
 categories:
 - DevOps
 preview: naked-alm-jenkins-logo-7-7.png

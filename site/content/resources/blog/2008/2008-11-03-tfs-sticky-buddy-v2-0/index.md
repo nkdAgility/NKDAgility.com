@@ -23,12 +23,8 @@ aliasesArchive:
 - /tfs-sticky-buddy-v2-0
 - /resources/blog/tfs-sticky-buddy-v2-0
 tags:
-- Code and Complexity
-- Working Software
-- Application Lifecycle Management
 - Software Development
 - Technical Excellence
-- Technical Mastery
 preview: nakedalm-logo-128-link-2-1.png
 categories: []
 

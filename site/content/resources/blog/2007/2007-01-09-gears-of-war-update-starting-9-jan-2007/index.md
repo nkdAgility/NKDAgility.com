@@ -22,9 +22,7 @@ aliasesArchive:
 - /blog/gears-of-war-update-starting-9-jan-2007
 - /gears-of-war-update-starting-9-jan-2007
 - /resources/blog/gears-of-war-update-starting-9-jan-2007
-tags:
-- Frequent Releases
-- Troubleshooting
+tags: []
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

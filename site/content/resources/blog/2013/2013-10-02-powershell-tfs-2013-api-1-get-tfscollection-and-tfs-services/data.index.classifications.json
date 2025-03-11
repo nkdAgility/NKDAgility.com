@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T11:37:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:55:01",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for using PowerShell to interact with the TFS 2013 API, including specific functions and methods that enhance tooling for Agile and DevOps practices.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed exploration of using PowerShell to interact with the TFS 2013 API, which directly aligns with practical techniques and tooling in Agile and DevOps contexts. It discusses specific PowerShell commands and functions, demonstrating how to implement these tools effectively. The depth of discussion is significant, with multiple code examples and explanations of their purposes, showcasing a strong understanding of the tooling involved. The content is primarily focused on practical application rather than theoretical concepts, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T11:37:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:43:53",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration of PowerShell scripts to interact with the TFS 2013 API, including assembly imports and connecting to TFS services, which aligns well with the category.",
+    "final_score": 76.0,
+    "reasoning": "The content provides a detailed guide on using PowerShell to interact with the TFS 2013 API, which includes installation steps for necessary assemblies and configuration of TFS services. It explicitly discusses the process of connecting to TFS collections and configuring various services, aligning well with the core themes of installation and configuration. The depth of discussion is significant, with multiple code examples and explanations of their purpose, indicating a strong focus on actionable instructions for setup and configuration.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:43:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses using PowerShell to interact with the TFS API, which is relevant to DevOps practices, particularly in automation and integration of tools. However, it primarily focuses on scripting and API usage rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS 2013 API, which is more aligned with software development and scripting rather than the broader principles of DevOps. While it touches on aspects of version control and project management, it lacks a comprehensive discussion on DevOps practices, automation, or cultural shifts necessary for DevOps implementation. The mention of TFS and its services does not sufficiently connect to the core themes of DevOps, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -370,12 +379,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T20:30:40",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-10T14:46:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "The content provides a detailed examination of using PowerShell with the TFS 2013 API, discussing methodologies, practices, and code examples that contribute to software craftsmanship and engineering excellence.",
-    "level": "Primary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS 2013 API, which aligns with technical mastery in software craftsmanship and engineering practices. It discusses best practices for importing assemblies, connecting to TFS services, and using various API functionalities, demonstrating a solid understanding of software design principles. However, while it provides detailed code examples and explanations, it lacks a broader discussion on clean code principles or testing methodologies, which slightly lowers the alignment and depth scores.",
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -577,11 +589,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T20:30:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:52:20",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 38,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses using the TFS API with PowerShell, which involves software engineering practices related to version control, connecting with services, and automation, aligning with software development methodologies.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS 2013 API, which is a software development practice. It discusses specific coding techniques, such as importing assemblies and creating functions to connect to TFS services, aligning well with best practices in coding and software design. The depth of discussion is significant, providing detailed code examples and explanations of various TFS components, which enhances its relevance to software development methodologies. Overall, the content is highly relevant to the Software Development category.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -613,11 +628,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-15T20:30:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:26:41",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses using PowerShell to interact with the TFS Version Control server and includes examples of functions for connecting to TFS services related to version control, suggesting that version control is a primary topic of discussion.",
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses using PowerShell to interact with the TFS 2013 API, which is a version control system. It includes specific references to version control services and functionalities, such as connecting to TFS Version Control and managing work items. However, while it touches on relevant topics, the depth of discussion on best practices, methodologies, or strategies for modern source control is limited, focusing more on technical implementation rather than broader principles or workflows.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
@@ -730,12 +748,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:52:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mainly focuses on using PowerShell to interact with the TFS 2013 API, which is more related to scripting and automation in software development rather than discussing high standards of software craftsmanship or engineering practices. However, it does touch upon engineering concepts such as integrating processes and managing services, making it a significant but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS 2013 API, which is more about practical implementation than discussing engineering excellence or best practices in software craftsmanship. While it touches on aspects of software development, such as connecting to services and using APIs, it lacks a strong emphasis on principles of quality assurance, coding standards, or continuous improvement processes that define engineering excellence. The depth of technical detail is present, but it does not align closely with the core themes of the category.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1045,11 +1066,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T20:30:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:36:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses using PowerShell to configure and interact with the TFS 2013 API, which involves setting up connections, managing services, and accessing configuration options. While it does touch on programming aspects, the core focus is on the practicalities of system configuration related to TFS.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on using PowerShell to configure and interact with the TFS 2013 API, which aligns well with system configuration practices. It discusses importing assemblies, connecting to TFS collections, and accessing various services, all of which are essential for configuring a system to work with TFS. The depth of discussion is significant, providing detailed code examples and explanations of how to set up and manage TFS configurations. However, while it is focused on configuration, it does not delve into broader system optimisation or security considerations, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {

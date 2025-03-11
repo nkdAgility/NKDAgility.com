@@ -127,11 +127,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-14T16:29:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:40:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses techniques for configuring TFS to improve team configuration and optimize workflow management, which aligns well with operational practices within Agile methodologies.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses practical steps for configuring Team Foundation Server (TFS) to enhance team management and workflow efficiency, which aligns with operational practices. It provides detailed instructions on implementing a 'team field' to improve project organisation and streamline processes, reflecting a focus on operational efficiency. However, while it touches on relevant topics, the depth of discussion on broader operational strategies and metrics is limited.",
     "level": "Secondary"
   },
   "Scrum Team": {
@@ -226,11 +229,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-14T16:29:53",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-07T15:12:49",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "Content focuses primarily on configuring Team Foundation Server (TFS) for software development, covering aspects like team structuring, backlog management, and the integration of custom fields. It discusses practices relevant to Software Development Life Cycle (SDLC), particularly in a team-based Agile context.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed discussion on configuring Team Foundation Server (TFS) to use a 'team field' instead of areas, which directly relates to software development practices. It covers specific steps, methodologies, and considerations for implementing this change, aligning well with the Software Development category. The mention of continuous delivery and TDD further strengthens its relevance, showcasing a deep understanding of software engineering processes.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -289,11 +295,14 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-14T16:29:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:31:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the usage of a team field in TFS (Team Foundation Server), which is closely related to Azure Boards as it involves managing work items in an Agile context. The article provides detailed steps and customization guidance, focusing on how to configure boards for team-specific workflows, which aligns well with the functionalities and best practices of Azure Boards.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the use of a 'team field' in TFS (Team Foundation Server), which is related to Azure Boards, but it primarily focuses on customisation and configuration rather than the broader functionalities and best practices of Azure Boards in Agile project management. While it touches on aspects of work item types and team settings, it lacks a comprehensive exploration of Azure Boards' role in Agile methodologies, making it a secondary focus rather than a primary discussion.",
     "level": "Secondary"
   },
   "Collaboration Tools": {
@@ -379,12 +388,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:12:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses configuration and process-related aspects of Team Foundation Server (TFS), which can relate to engineering practices, but it primarily focuses on team management and project structure rather than directly on engineering excellence, coding standards, or software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the configuration of Team Foundation Server (TFS) and the use of a 'team field' without areas, which is more focused on project management and tool usage rather than core engineering excellence practices. While it touches on aspects of team organisation and process configuration, it lacks a strong emphasis on software craftsmanship, coding standards, or quality assurance principles that are central to the category of Engineering Excellence.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -424,11 +436,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-14T16:29:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:51:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content provides practical strategies for configuring a team field in TFS, detailing specific steps and considerations that align with Agile and Scrum methodologies. It emphasizes real-world applications and problem-solving techniques relevant to project management.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses practical implementation strategies for using a team field in TFS, which aligns with pragmatic thinking in Agile contexts. It provides specific steps and considerations for configuring TFS to enhance team collaboration and efficiency, demonstrating real-world applications of Agile principles. However, while it touches on practical problem-solving, the depth of discussion on broader Agile or DevOps principles is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -694,11 +709,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-14T16:29:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:51:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the configuration of Team Foundation Server (TFS) to support teams without areas using a team field. It details steps on how to implement these configurations, which aligns with the processes and methodologies for system configuration.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on configuring Team Foundation Server (TFS) to use a 'team field' instead of areas, which directly relates to system configuration. It discusses specific steps for setting up global lists, modifying work item types, and changing configuration files, all of which are key aspects of system configuration. The depth of discussion is substantial, providing detailed instructions and warnings about best practices, which aligns well with the category's focus on configuration management and optimisation strategies.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1072,11 +1090,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T19:25:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:56:19",
+    "ai_confidence": 82.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content provides a detailed guide on configuring Team Foundation Server (TFS) to use a team field instead of an area path, including step-by-step installation-like instructions and configuration steps that directly support implementing Agile methodologies.",
+    "final_score": 76.0,
+    "reasoning": "The content provides a detailed step-by-step guide on configuring Team Foundation Server (TFS) to use a 'team field' instead of areas, which directly aligns with installation and configuration processes. It includes specific instructions, warnings, and best practices, demonstrating a strong focus on practical implementation. The content is rich in technical details and actionable insights, making it highly relevant to the category.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -1117,11 +1138,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:51:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses continuous delivery and mentions workflows related to team structure and configuration, which can be relevant to DevOps, but the primary focus is on TFS configurations rather than DevOps principles.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the configuration of Team Foundation Server (TFS) and the use of a 'team field' in relation to managing teams and products. While it touches on aspects of team collaboration and workflow management, it lacks a direct focus on core DevOps principles such as Continuous Integration (CI), Continuous Delivery (CD), or automation practices. The discussion is more centred around project management and TFS configuration rather than the broader DevOps culture and practices.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -1351,12 +1375,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:49:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:51:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of team fields in TFS, which relates to team dynamics and collaboration, but it primarily focuses on technical implementation rather than the core principles of Scrum, Kanban, Lean, or Agile practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the use of a team field in TFS, which relates to team dynamics and configuration but lacks a direct focus on Scrum, Kanban, Lean, or Agile methodologies. While it touches on aspects of team collaboration and configuration, it does not delve deeply into the principles or practices of the mentioned frameworks, resulting in a low confidence score for alignment with the Social Technologies category.",
+    "level": "Quaternary"
   },
   "Leadership": {
     "category": "Leadership",

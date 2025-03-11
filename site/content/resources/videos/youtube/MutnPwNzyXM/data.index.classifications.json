@@ -1,11 +1,14 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T21:43:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:46:44",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivering value to customers in an agile context, touching on themes related to Agile practices and the implications of contracts on value delivery.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of delivering value to clients beyond the constraints of a statement of work, which aligns with Agile principles of customer collaboration and responsiveness to change. However, it lacks direct mentions of specific frameworks like Scrum or Kanban, and while it touches on Agile concepts, it does not delve deeply into the methodologies themselves. The discussion is more about consulting practices than the frameworks of Social Technologies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Engineering Excellence": {
@@ -28,39 +31,51 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T21:43:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:07:48",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding client needs beyond contractual obligations, which relates to product management principles, but it primarily focuses on consulting practices rather than strategic product management.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of understanding client needs beyond contractual obligations, which aligns with the strategic aspects of product management. However, it primarily focuses on personal experiences and opinions rather than established methodologies or frameworks in product management. The mention of Agile and the critique of the statement of work suggest some relevance, but the depth of discussion on product management principles is limited.",
     "level": "Tertiary"
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T21:43:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:17:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivering value to customers beyond contractual obligations, which relates to leadership in fostering an environment of accountability and adaptability. However, the primary focus is on consulting practices rather than leadership strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content touches on the importance of understanding client needs and delivering value beyond contractual obligations, which aligns with leadership principles in fostering collaboration and adaptability. However, it primarily focuses on the consultant's personal experiences and opinions rather than providing a structured discussion on leadership practices or frameworks. The mention of leadership is implicit rather than explicit, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T21:43:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:46:46",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding client needs beyond contractual obligations, which aligns with the principles of business agility. However, it primarily focuses on the challenges of consulting and contract management rather than a comprehensive exploration of business agility practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of understanding client needs beyond contractual obligations, which aligns with the principles of business agility. It highlights the necessity for adaptability and delivering value rather than strictly adhering to a statement of work. However, while it touches on relevant themes, it lacks a comprehensive exploration of business agility principles and practices, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T21:43:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:07:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding client needs beyond contractual obligations, which aligns with the themes of uncertainty and adaptability in complex systems. However, it primarily focuses on consulting practices rather than complexity science itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the challenges of adhering strictly to a statement of work in consulting, which touches on the need for adaptability and understanding client needs. However, it does not explicitly reference complexity science or its principles. While there are elements of non-linear dynamics and the importance of emergent behaviours in client relationships, the discussion lacks depth in complexity theory and does not engage with key frameworks like the Cynefin Framework or Ralph Stacey's work. Overall, the content is more focused on practical consulting experiences rather than a thorough exploration of complexity thinking.",
+    "level": "Quaternary"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -118,12 +133,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T21:43:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:17:38",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of agile principles in consulting and client relationships, making Agile a significant theme, but it is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content briefly mentions 'agile' and discusses the importance of delivering value to clients, which aligns with Agile principles. However, it lacks a focused exploration of specific Agile frameworks or their comparative analysis. The discussion is more about consulting practices than a deep dive into Agile frameworks themselves.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -226,11 +244,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T21:44:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:13:32",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding client needs beyond contractual obligations, which relates to product delivery, but it primarily focuses on consulting practices rather than the end-to-end process of delivering software products.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of understanding client needs beyond the statement of work, which touches on aspects of product delivery, particularly in relation to agile methodologies and delivering value to customers. However, it lacks a direct focus on the end-to-end product delivery process, methodologies, or practices. The discussion is more about the pitfalls of rigid contracts rather than the structured practices of product delivery, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "AI": {
@@ -253,11 +274,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T21:44:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:11:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of understanding client needs beyond contractual obligations, highlighting the role of consultants in adapting to those needs, which aligns with team dynamics and collaboration in Agile environments.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of understanding client needs beyond contractual obligations, highlighting the role of consultants in adapting to those needs. It touches on team dynamics, the impact of contracts on service delivery, and the necessity for effective communication and relationship-building with clients. While it does not explicitly mention Agile or Scrum methodologies, it aligns well with the core themes of the category by focusing on human behaviour and the processes involved in consulting. The depth of discussion is substantial, providing personal insights and examples that illustrate the interplay between people and process.",
     "level": "Secondary"
   },
   "Test Driven Development": {
@@ -271,12 +295,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T21:44:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:34:11",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile principles in the context of client needs and contract management, making Agile a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of understanding client needs beyond contractual obligations, which aligns with agile principles of flexibility and delivering value. However, it lacks direct references to specific agile methodologies or frameworks like Scrum or Kanban, and the discussion is more focused on consulting practices rather than project management techniques. The mention of 'agile' is brief and not the primary focus, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",

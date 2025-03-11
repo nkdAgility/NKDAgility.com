@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T18:33:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:04:16",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for resolving user permission issues in SharePoint 2013 after migration from SharePoint 2010, including the use of PowerShell scripts and authentication mechanisms.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses a specific technical issue related to SharePoint migration and provides a practical solution using PowerShell scripting. It directly mentions the use of a PowerShell script to address authentication issues, which aligns with the category's focus on practical techniques and tooling. However, while it provides a solution, the overall discussion is more focused on troubleshooting rather than a broader exploration of methodologies or frameworks that enhance Agile and DevOps practices. Therefore, while it has a strong practical component, it lacks depth in discussing Agile or DevOps methodologies, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T18:34:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:47:46",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the installation and configuration of SharePoint 2013, specifically addressing issues related to user permissions after migration from SharePoint 2010, and provides a PowerShell script for configuring claims-based authentication.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses issues related to the installation and configuration of SharePoint 2013, particularly focusing on user authentication and migration from SharePoint 2010. It provides a detailed solution involving PowerShell scripts to configure claims-based authentication, which aligns well with the category's focus on actionable installation and configuration instructions. However, while it does mention specific steps and solutions, the depth of discussion on broader configuration best practices and troubleshooting is somewhat limited, preventing a higher confidence score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -208,11 +214,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T18:34:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:49:36",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical issues related to SharePoint migration, authentication mechanisms, and the use of PowerShell scripts to resolve these issues, which aligns with engineering practices and methodologies.",
+    "final_score": 61.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to SharePoint migration and user authentication, which is a practical problem rather than a broader discussion on engineering practices or methodologies that enhance agility in software development. While it does mention a technical solution involving PowerShell scripting, it lacks a comprehensive exploration of concepts like TDD, CI/CD, or modular architecture. The focus is more on troubleshooting and specific implementation rather than on principles of technical excellence, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -370,11 +379,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T19:27:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:38:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical issues related to SharePoint migration, focusing on authentication mechanisms and providing a PowerShell solution for upgrading applications. It emphasizes best practices in handling claims-based authentication and user profile synchronization, making it relevant to software craftsmanship and technical excellence.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to SharePoint migration and user authentication, which aligns with technical mastery in terms of addressing software craftsmanship and engineering practices. However, while it provides a solution and some technical details, it lacks a broader discussion on best practices or principles of software design and architecture, which limits its depth and overall alignment with the category.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -730,11 +742,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 40,
+    "calculated_at": "2025-03-07T15:04:12",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 36.0,
-    "reasoning": "The content discusses technical aspects of SharePoint migration and configuration, but it primarily focuses on troubleshooting and specific issues rather than on broader engineering practices or principles of software craftsmanship.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to SharePoint migration and user authentication, which does not directly address the principles of software craftsmanship or best practices in engineering processes. While it includes some technical details and a PowerShell script, it lacks a broader discussion on engineering excellence, such as coding standards, quality assurance, or continuous improvement practices. The focus is more on troubleshooting and solutions rather than promoting high standards in software development.",
     "level": "Quaternary"
   },
   "Revenue per Employee": {
@@ -1045,11 +1060,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T19:27:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:29:09",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the configuration steps needed when migrating from SharePoint 2010 to SharePoint 2013, focusing on user authentication settings and PowerShell scripts for system configuration, which are central to system performance and reliability in a specific environment.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on the configuration of SharePoint 2013, specifically addressing issues related to user permissions and authentication after a migration from SharePoint 2010. It discusses the new authentication mechanism, the need for configuration adjustments, and provides a PowerShell script for automating the configuration process. This aligns well with the key topics of system configuration, such as best practices for software installation and configuration, troubleshooting common configuration issues, and the role of automation in system configuration. The depth of discussion is substantial, providing both context and a practical solution, which supports a high confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1153,12 +1171,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T19:27:35",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-11T11:54:25",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "The content primarily focuses on diagnosing and resolving issues related to user permissions and authentication after migrating from SharePoint 2010 to 2013. It discusses specific problems encountered during the migration, the identification of these issues, and provides a solution through PowerShell scripts, fitting squarely within the troubleshooting category.",
-    "level": "Primary"
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses a specific issue related to user permissions after migrating from SharePoint 2010 to SharePoint 2013, which directly aligns with troubleshooting. It provides a detailed account of the problem, the findings, and a clear solution involving PowerShell scripts, demonstrating a strong focus on diagnosing and resolving a technical issue. The depth of discussion is substantial, covering both the problem and the solution comprehensively, which enhances its relevance to the troubleshooting category.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",

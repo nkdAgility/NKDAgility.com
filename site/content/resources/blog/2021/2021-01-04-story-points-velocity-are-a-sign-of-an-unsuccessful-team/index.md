@@ -8,7 +8,7 @@ ResourceImportId: 44532
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2021-01-04
-weight: 550
+weight: 495
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -28,16 +28,7 @@ aliasesArchive:
 - /blog/story-points-&-velocity-are-a-sign-of-an-unsuccessful-team
 - /resources/blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team
 tags:
-- Estimation
-- Increment
 - Transparency
-- Agile Project Management
-- Metrics and Learning
-- Agile Planning
-- Cycle Time
-- Scrum Product Development
-- Scrum Team
-- Transparency and Accountability
 categories:
 - Scrum
 preview: image-9-14-14.png

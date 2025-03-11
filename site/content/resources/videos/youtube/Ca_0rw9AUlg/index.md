@@ -30,15 +30,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
+- Organisational Physics
 - Systems Thinking
 - Organisational Change
-- Organisational Culture
-- People and Process
-- Change Management
-- Organisational Physics
 - Sociotechnical Systems
-- Complexity Thinking
 - Pragmatic Thinking
+- Change Management
+- Complexity Thinking
+- Organisational Culture
 resourceTypes:
 - video
 categories:

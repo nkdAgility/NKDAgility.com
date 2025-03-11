@@ -32,20 +32,21 @@ sitemap:
   priority: 0.6
 tags:
 - Flow Efficiency
+- Value Delivery
 - Agile Product Management
 - Agile Product Operating Model
 - Agile Values and Principles
+- Organisational Agility
 - People and Process
-- Product Delivery
-- Value Delivery
 - Agile Frameworks
 - Agile Philosophy
 - Agile Project Management
 resourceTypes:
 - video
 categories:
-- Scrum
 - Social Technologies
+- Scrum
+- Leadership
 
 ---
 **Overcoming Greed in Agile: A Path to Value and Efficiency** 

@@ -23,7 +23,7 @@ aliasesArchive:
 - /installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
 - /resources/blog/installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
 tags:
-- Install and Configuration
+- Windows
 categories: []
 preview: nakedalm-experts-visual-studio-alm-12-12.png
 

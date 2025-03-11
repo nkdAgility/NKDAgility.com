@@ -36,12 +36,12 @@ tags:
 - Transparency
 - Flow Efficiency
 - Practical Techniques and Tooling
-- Metrics and Learning
+- Agile Frameworks
 - Agile Project Management
 - Agile Strategy
+- People and Process
 - Software Development
-- Agile Frameworks
-- Operational Practices
+- Metrics and Learning
 resourceTypes:
 - video
 categories:

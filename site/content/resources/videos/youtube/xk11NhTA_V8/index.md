@@ -33,7 +33,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Product Management
 - Social Technologies
 
 ---

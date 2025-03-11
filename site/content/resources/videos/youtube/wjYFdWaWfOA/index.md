@@ -26,14 +26,16 @@ preview: https://i.ytimg.com/vi/wjYFdWaWfOA/maxresdefault.jpg
 duration: 299
 isShort: false
 tags:
+- Scrum Master
+- Team Performance
 - Agile Product Management
 - Agile Project Management
-- Scrum Master
 - Scrum Team
 - Agile Frameworks
 - People and Process
 - Software Development
-- Team Performance
+- Pragmatic Thinking
+- Software Developers
 sitemap:
   filename: sitemap.xml
   priority: 0.6

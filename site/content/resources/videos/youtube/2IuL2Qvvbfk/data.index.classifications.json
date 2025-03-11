@@ -82,11 +82,14 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-12T11:43:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T13:51:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the contributions of product owners in the context of product management, particularly focusing on the strategic changes they implemented at Microsoft to improve product development processes and feedback loops.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the contributions of specific product owners at Microsoft and their impact on product management practices, particularly in relation to Agile methodologies. While it mentions key aspects of product management, such as feedback loops and release cadences, the focus is more on personal anecdotes and historical context rather than a structured discussion of product management principles or frameworks. This results in a moderate confidence score, as it aligns with the category but lacks depth and explicit discussion of core product management methodologies.",
     "level": "Secondary"
   },
   "Agile Leadership": {
@@ -343,12 +346,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:09:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the contributions of product owners in improving product development processes at Microsoft, particularly in relation to agile methodologies and feedback loops, which are relevant to engineering practices. However, the primary focus is on the roles and contributions of individuals rather than on broader engineering excellence principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the contributions of product owners in a specific organisational context, focusing on their impact on product management and release cadences. While it touches on aspects of agility and feedback loops, which are relevant to engineering practices, it lacks a direct focus on software craftsmanship, coding standards, or continuous improvement processes. The discussion is more centred on project management and leadership rather than the core themes of engineering excellence, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1084,20 +1090,26 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-12T11:42:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T13:53:23",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the contributions of product owners in enhancing product delivery processes, particularly through the lens of Agile methodologies and feedback loops. It highlights the importance of iterative development and the impact of leadership on product delivery efficiency, making it a central theme.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the contributions of product owners in the context of product delivery, particularly focusing on the shift towards agile methodologies and the importance of feedback loops in product development. It highlights specific examples from Microsoft, illustrating how leadership in product management can influence delivery practices. While it does not delve deeply into all aspects of product delivery, it aligns well with key themes such as iterative development and the role of cross-functional teams, thus justifying a relatively high confidence score.",
     "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-12T11:42:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:09:23",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the contributions of product owners in an Agile context, particularly focusing on their role in changing product development practices at Microsoft. It highlights the importance of feedback loops, continuous delivery, and the alignment of product management with Agile principles.",
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses the role of Product Owners in an Agile context, particularly through the examples of Brian Harry and Aaron Bjork at Microsoft. It highlights their contributions to improving product delivery and feedback loops, which aligns well with Agile Product Management principles. The discussion includes specific Agile practices, such as moving towards a continuous delivery model and the importance of stakeholder engagement. However, while the content is rich in examples and insights, it lacks a structured exploration of broader Agile methodologies and practices, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Discovery and Learning": {
@@ -1156,11 +1168,14 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-12T11:42:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:19:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the contributions of product owners in enhancing agility and responsiveness within Microsoft, particularly through the implementation of shorter release cadences and continuous feedback loops, which are central to market adaptability.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the contributions of product owners in enhancing agility within Microsoft, particularly through the shift from a two-year release cycle to a more responsive three-week cadence. This aligns with the principles of Agile methodologies and highlights the importance of feedback loops in adapting to market demands. However, while it touches on relevant themes, the primary focus is on individual contributions rather than broader strategies for market adaptability, which limits the depth of discussion in this context.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -1186,11 +1201,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-12T11:43:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:14:44",
+    "ai_confidence": 78.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the contributions of key figures in the development of Azure DevOps and its impact on product management and agile practices within Microsoft, making Azure DevOps a central theme.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the contributions of key figures in the development of Azure DevOps, particularly focusing on the transition from Team Foundation Server to Azure DevOps and the impact of agile methodologies on product development at Microsoft. It provides a detailed narrative about the changes in release cadence and feedback loops, which are central to Azure DevOps principles. While it does touch on broader agile concepts, the primary focus remains on Azure DevOps and its evolution, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Products and Books": {
@@ -1204,11 +1222,14 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-12T11:43:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:12:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the contributions of product owners in fostering agility within Microsoft, highlighting the importance of leadership in promoting business agility and the impact of changing release cadences on organisational responsiveness.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the contributions of product owners in fostering agility within Microsoft, particularly through the leadership of Brian Harry and Aaron Bjork. It highlights the shift from a lengthy release cadence to a more agile approach, which aligns with the principles of business agility. However, the focus is primarily on individual contributions and experiences rather than a broader exploration of business agility principles, strategies, or frameworks. While there are relevant insights, the depth of discussion on the core themes of business agility is limited.",
     "level": "Secondary"
   },
   "Kanban": {
@@ -1222,11 +1243,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-12T11:43:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:35:10",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the contributions of product owners in enhancing value delivery through iterative development and feedback loops, particularly in the context of Agile and DevOps practices at Microsoft.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the contributions of product owners in enhancing value delivery through agile practices at Microsoft. It highlights the shift from a lengthy release cadence to a more agile approach, which aligns with the principles of iterative development and customer feedback. However, while it touches on value delivery, the focus is more on individual contributions and personal anecdotes rather than a structured discussion on value delivery methodologies or strategies.",
     "level": "Secondary"
   },
   "Technical Excellence": {
@@ -1321,20 +1345,26 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T22:23:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:18:59",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the contributions of product owners in leading organisational change and fostering agility within Microsoft, highlighting leadership roles and their impact on team dynamics and product development.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses the contributions of specific product owners in a leadership context, particularly how they influenced organisational change and agility at Microsoft. It highlights the role of leadership in fostering a culture of agility and continuous improvement, which aligns well with the core themes of the Leadership category. The discussion is detailed, providing insights into decision-making processes and the impact of leadership on team dynamics. However, while it is focused on leadership, it also delves into specific product management practices and tools, which slightly detracts from its alignment with the category.",
     "level": "Secondary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T22:23:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:14:41",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the role of Product Owners in Agile practices, specifically within the context of Microsoft, highlighting contributions to Agile methodologies and continuous improvement.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the contributions of product owners in the context of Agile practices, particularly highlighting the shift towards a more agile release cadence at Microsoft. While it mentions Agile and Scrum principles, the focus is more on individual contributions rather than a structured discussion of the frameworks themselves. The depth of discussion on Agile practices is moderate, but it lacks a comprehensive exploration of the methodologies outlined in the category definition.",
     "level": "Secondary"
   },
   "Agile Product Operating Model": {

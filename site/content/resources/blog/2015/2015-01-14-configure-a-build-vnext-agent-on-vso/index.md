@@ -8,7 +8,7 @@ ResourceImportId: 11021
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2015-01-14
-weight: 635
+weight: 670
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,10 +27,9 @@ aliasesArchive:
 - /blog/configure-a-build-vnext-agent
 - /resources/blog/configure-a-build-vnext-agent-on-vso
 tags:
-- Install and Configuration
 - System Configuration
-- Practical Techniques and Tooling
 - Azure Pipelines
+- Install and Configuration
 - Software Development
 categories:
 - DevOps

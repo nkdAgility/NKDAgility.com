@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T00:11:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:33:53",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for configuring Dynamics AX with TFS, including installation steps, project management strategies, and advantages/disadvantages of different configurations, which aligns well with the category.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed exploration of practical techniques for integrating Microsoft Dynamics AX with Team Foundation Server (TFS), including specific tools and methodologies. It discusses installation requirements, configuration options, and best practices for managing multiple AX instances within TFS, which aligns closely with the category's focus on practical application of tools and methodologies in Agile and DevOps practices. The depth of discussion is significant, covering advantages and disadvantages of different approaches, thus demonstrating a strong alignment with the key topics outlined in the category.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T00:11:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:03:06",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration of Microsoft Dynamics AX 2009 to connect with TFS 2010, providing step-by-step instructions and best practices for setting up the environment.",
+    "final_score": 80.0,
+    "reasoning": "The content provides a detailed guide on configuring Microsoft Dynamics AX 2009 to connect with TFS 2010, including specific installation steps and components required. It discusses best practices for managing multiple AX instances and offers actionable insights on setting up a single Team Project for better management. The focus is primarily on installation and configuration, aligning well with the category's core themes.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:03:04",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Microsoft Dynamics AX with Team Foundation Server (TFS), which relates to version control and project management practices relevant to DevOps. However, it primarily focuses on specific configurations and setups rather than broader DevOps principles or practices.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the integration of Microsoft Dynamics AX with Team Foundation Server (TFS), which relates to version control and project management aspects of DevOps. However, it lacks a broader discussion on DevOps principles, practices, and cultural shifts. While it touches on automation and project management, it does not delve deeply into continuous integration or delivery, nor does it address collaboration between development and operations teams. The focus is more on specific technical configurations rather than the overarching DevOps philosophy.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -208,11 +217,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T00:11:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:01:48",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical practices related to managing Dynamics AX instances with TFS, including configuration, project management strategies, and the implications of these practices on software development processes.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the technical setup and configuration of Dynamics AX with TFS, which relates to engineering practices. However, it primarily focuses on specific implementation details rather than broader principles of technical excellence like TDD or CI/CD. While it does touch on aspects of project management and source control, it lacks a comprehensive exploration of the methodologies that enhance agility and quality in software development.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -280,11 +292,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-16T00:11:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:49:46",
+    "ai_confidence": 68.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the integration of Microsoft Dynamics AX with Team Foundation Server (TFS), which is part of the Azure DevOps suite. It focuses on managing source code and work items within TFS, aligning with Azure DevOps functionalities.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the integration of Microsoft Dynamics AX with Team Foundation Server (TFS), which is part of the Azure DevOps suite. It provides practical guidance on managing multiple AX instances within TFS, touching on aspects of project management and version control. However, while it mentions TFS, it does not explicitly cover broader Azure DevOps functionalities or best practices, which limits its alignment with the category. The depth of discussion is moderate, focusing on specific configurations and strategies, but lacks comprehensive coverage of Azure DevOps as a whole.",
     "level": "Secondary"
   },
   "Personal": {
@@ -343,11 +358,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T00:12:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:39:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses managing multiple Dynamics AX instances with TFS, which relates to application lifecycle management practices, particularly in the context of deployment and maintenance.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses managing multiple Dynamics AX instances with TFS, which relates to application lifecycle management, particularly in deployment and maintenance stages. However, it lacks a comprehensive exploration of ALM methodologies, best practices, or tools, focusing instead on specific technical configurations. While it touches on aspects of governance and project management, it does not delve deeply into the broader principles of ALM.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -478,11 +496,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-16T00:54:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:04:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical techniques for organizing and managing source code within Team Foundation Server (TFS) for multiple Dynamics AX instances, focusing on improving operational efficiency in workflow management.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses practical solutions for managing multiple Dynamics AX instances with TFS, which aligns with operational efficiency. It provides specific strategies for project management and workflow optimisation, such as using a single Team Project for multiple AX instances. However, while it touches on operational practices, the focus is more on technical setup rather than broader operational methodologies like Agile or Lean, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Scrum Team": {
@@ -730,12 +751,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-16T00:54:16",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-07T15:33:50",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses best practices in managing code within Team Foundation Server (TFS) for Dynamics AX instances, emphasizing principles of software craftsmanship and improving engineering processes. However, the primary focus is on specific implementation details rather than a broader discussion of engineering excellence.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the management of Dynamics AX instances with TFS, touching on aspects of software development practices such as project structure, branching, and merging. While it does not explicitly mention engineering excellence, it aligns with best practices in coding standards and CI/CD by promoting a single Team Project approach for better management. However, the depth of discussion on engineering excellence principles is moderate, focusing more on practical implementation than on broader craftsmanship or quality assurance principles.",
+    "level": "Tertiary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

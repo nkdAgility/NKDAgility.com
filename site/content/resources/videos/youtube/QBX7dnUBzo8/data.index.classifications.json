@@ -1132,11 +1132,14 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-12T03:18:59",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-07T13:08:00",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the challenges organisations face in adapting to agile methodologies and the need for systemic change, which aligns with themes of complexity thinking. However, it primarily focuses on agile practices rather than a deep exploration of complexity science principles.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses systemic issues in Agile organisations, touching on the need for fundamental changes in organisational behaviour to achieve agility. It highlights the importance of feedback loops and the challenges of addressing complex problems within organisations, which aligns with complexity thinking. However, while it references some complexity-related concepts, it does not explicitly mention key frameworks or theories from complexity science, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -1168,11 +1171,14 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-12T03:19:06",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T11:48:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the need for organisations to adapt their structures and practices to enhance effectiveness and responsiveness, touching on Agile and DevOps principles. However, it primarily focuses on systemic issues rather than specific strategies for market adaptability.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the challenges organisations face in adapting to Agile methodologies and the need for systemic change to enhance market responsiveness. It touches on feedback loops and the importance of measuring effectiveness, which aligns with market adaptability principles. However, the focus is more on the difficulties and personal experiences rather than providing detailed strategies or methodologies for enhancing market adaptability, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -1186,11 +1192,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T14:13:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:07:57",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the challenges of implementing Agile methodologies and touches on the need for organisational change, which is relevant to DevOps principles. However, it primarily focuses on Agile practices rather than DevOps itself.",
+    "final_score": 41.0,
+    "reasoning": "The content discusses Agile methodologies and the challenges organisations face in implementing them, which indirectly relates to DevOps principles. However, it primarily focuses on Agile practices and organisational change rather than the core aspects of DevOps, such as CI/CD, automation, or collaboration between development and operations teams. The mention of DevOps is brief and not the primary focus, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Azure DevOps": {
@@ -1213,11 +1222,14 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-12T03:19:13",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:04:12",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the systemic issues in agile organisations and the need for fundamental changes to achieve business agility, making it a central theme.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the challenges organisations face in adopting agile practices and the need for systemic change to achieve true business agility. It touches on the importance of measuring effectiveness and adapting organisational structures, which aligns with the principles of business agility. However, the discussion lacks a structured exploration of specific strategies or case studies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Kanban": {
@@ -1249,29 +1261,38 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-12T03:19:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T17:59:51",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the systemic issues within agile organisations and the need for fundamental changes to achieve true agility, aligning closely with the principles and practices of organisational agility.",
+    "final_score": 79.0,
+    "reasoning": "The content discusses the systemic issues within agile organisations and highlights the need for cultural and structural changes to achieve true agility. It mentions the importance of measuring effectiveness and adapting organisational practices, which aligns well with the core themes of organisational agility. The depth of discussion is significant, as it reflects on real-world challenges and the necessity for continuous improvement, although it could benefit from more specific examples or frameworks.",
     "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-12T03:19:22",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T09:58:30",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content includes personal reflections and anecdotes about the author's experiences in consulting and Agile coaching, particularly regarding challenges faced in organisations. However, it also contains significant technical discussions about Agile practices and organisational structures, making it a major but secondary theme.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content includes personal reflections and anecdotes from the author's experiences in consulting and Agile coaching, particularly regarding challenges faced in organisations. It discusses a specific regret and offers insights into the difficulties of implementing Agile practices, which aligns with the Personal category. However, the focus is more on systemic issues and technical aspects rather than purely personal experiences, which slightly lowers the confidence score.",
+    "level": "Tertiary"
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-12T03:19:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:21:30",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the challenges organisations face in implementing Agile methodologies, the importance of addressing systemic issues, and the role of leadership and culture in fostering effective processes. It highlights team dynamics, the need for iterative change, and the human factors influencing Agile success, making it a central theme.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the interplay between organisational structure, team dynamics, and the challenges of implementing Agile methodologies. It highlights the importance of addressing systemic issues within organisations and the need for cultural change to facilitate effective processes. The mention of Agile coaches, reorganisation, and the need for iterative change demonstrates a strong focus on human behaviour and structured methodologies, aligning well with the category's core themes. The depth of discussion is significant, providing insights into the complexities of organisational change and the human factors that influence Agile success.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {
@@ -1339,11 +1360,14 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T14:14:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T11:48:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the challenges and responsibilities of leaders in fostering organisational change and agility, highlighting the need for courage and strategic decision-making in leadership roles.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the challenges leaders face in fostering organisational agility and the need for courage to implement systemic changes. It highlights the importance of leadership in navigating reorganisation and the impact of leadership decisions on team dynamics and organisational effectiveness. While it does touch on some technical aspects, the primary focus is on leadership's role in driving cultural change and improving business practices, aligning well with the key topics of the Leadership category.",
     "level": "Secondary"
   },
   "Agile Product Operating Model": {
@@ -1366,12 +1390,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T14:14:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:04:09",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile practices and the challenges organisations face in implementing them, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses Agile practices and the challenges organisations face in implementing them, which aligns with the core themes of Social Technologies. It mentions the need for continuous improvement and the importance of adapting organisational structures to support Agile methodologies. However, the discussion is somewhat broad and lacks specific details on Scrum, Kanban, or Lean principles, which affects the depth of the content. Overall, while Agile is a central theme, the lack of explicit references to specific frameworks and practices limits the confidence score.",
+    "level": "Secondary"
   },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",

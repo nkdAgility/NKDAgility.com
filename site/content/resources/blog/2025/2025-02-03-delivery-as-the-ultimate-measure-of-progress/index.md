@@ -5,7 +5,7 @@ ResourceId: jBIyK6NW3ZB
 ResourceType: blog
 ResourceImport: false
 date: 2025-02-03T09:00:00
-weight: 225
+weight: 255
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
@@ -38,8 +38,8 @@ tags:
 - Value Delivery
 categories:
 - Scrum
-- DevOps
 - Social Technologies
+- DevOps
 preview: 2025-02-03-delivery-as-the-ultimate-measure-of-progress.jpg
 
 ---

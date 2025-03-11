@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T18:36:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:04:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a specific issue related to the configuration of Scheduled Backups in Team Foundation Server, providing practical insights and solutions that align with tooling and methodologies in a DevOps context.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses a specific issue related to Scheduled Backups in Team Foundation Server (TFS) and provides a solution to reconfigure it after a server migration. While it mentions practical tooling (TFS) and provides a detailed log of errors and steps taken, it lacks a broader exploration of methodologies or frameworks that enhance Agile and DevOps practices. The focus is primarily on troubleshooting rather than on the application of techniques or best practices, which limits its alignment with the category.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T18:36:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:47:52",
+    "ai_confidence": 82.0,
+    "ai_mentions": 16,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses issues related to the reconfiguration of Scheduled Backups in Team Foundation Server, including troubleshooting errors and providing a solution for disabling and resetting the configuration. This aligns well with the category of Install and Configuration.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on troubleshooting and reconfiguring Scheduled Backups in Team Foundation Server (TFS) after a server migration. It provides specific error messages, logs, and a detailed solution for disabling and resetting the Scheduled Backup feature. This aligns well with the category of Install and Configuration as it discusses the technical aspects of configuring a tool (TFS) and addresses common issues encountered during the installation and configuration process. The depth of discussion is significant, as it includes step-by-step insights into the problem and solution, making it actionable for users facing similar issues.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:04:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to Team Foundation Server (TFS) and scheduled backups, which are relevant to DevOps practices, particularly in the context of Continuous Integration and Continuous Delivery. However, the primary focus is on troubleshooting specific errors rather than broader DevOps principles or practices.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses a specific issue related to Team Foundation Server (TFS) and scheduled backups, which is a technical aspect of software operations. However, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. While it touches on operational challenges, it does not delve into automation, CI/CD, or collaboration between development and operations teams, which are core themes of DevOps. Therefore, while there is some relevance, the content does not fully align with the DevOps category.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -280,11 +289,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T18:36:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:49:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses an issue related to Team Foundation Server (TFS), which is part of the Azure DevOps suite, specifically focusing on scheduled backups and error messages encountered during reconfiguration.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses issues related to Team Foundation Server (TFS), which is part of the Azure DevOps suite. It provides specific error messages and troubleshooting steps for scheduled backups, indicating a focus on Azure DevOps functionalities. However, it lacks broader discussions on Azure DevOps services or methodologies, which limits its depth and alignment with the category. The mention of TFS is direct but does not encompass the full scope of Azure DevOps, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -370,12 +382,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T19:32:21",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T10:29:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses technical issues and solutions related to Team Foundation Server (TFS) and scheduled backups, which touches on technical excellence in software engineering, specifically with issues like permissions, configurations, and error management. However, it does not delve deeply into broader principles, methodologies, or practices of software craftsmanship.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to Team Foundation Server (TFS) and its scheduled backups. While it provides detailed information about errors encountered during configuration and potential solutions, it lacks a broader discussion on software craftsmanship, best practices, or methodologies that contribute to high-quality software development. The focus is more on troubleshooting rather than on principles of clean code, architecture, or engineering excellence, which are central to the 'Technical Mastery' category.",
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -775,12 +790,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T19:32:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:39:00",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 55.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a practical issue and solution regarding the reconfiguration of Scheduled Backups in Team Foundation Server, focusing on real-world problem-solving strategies, troubleshooting, and operational steps taken in a complex environment.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses a specific technical issue related to Scheduled Backups in Team Foundation Server, providing practical insights into troubleshooting and resolving errors encountered during a server migration. While it does not explicitly mention Agile, Scrum, or DevOps frameworks, it demonstrates pragmatic problem-solving by detailing a real-world scenario and offering a solution. The depth of discussion on the issue and the practical steps taken to resolve it contribute to a moderate confidence score, as it aligns with the core themes of adaptability and real-world application, albeit in a more technical context rather than a direct Agile or Scrum framework.",
+    "level": "Tertiary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1099,11 +1117,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T19:32:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:54:32",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses an issue related to the Team Foundation Server (TFS) on Windows, including specific errors encountered during configuration and troubleshooting within a Windows environment.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily discusses an issue related to Team Foundation Server (TFS) running on a Windows environment, specifically addressing errors encountered during scheduled backups after a server migration. It includes direct mentions of Windows NT and details about the TFS administration log, which is relevant to Windows system management. The discussion aligns well with troubleshooting common issues and error messages, a key topic in the Windows category. The depth of the content is significant, providing detailed logs and a proposed solution, indicating a thorough exploration of the problem within the Windows context.",
     "level": "Secondary"
   },
   "Deployment Strategies": {

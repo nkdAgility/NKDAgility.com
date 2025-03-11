@@ -8,7 +8,7 @@ ResourceImportId: 416
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-01-30
-weight: 775
+weight: 810
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,11 +28,11 @@ tags:
 - Software Development
 - Working Software
 - News and Reviews
-- People and Process
 - Practical Techniques and Tooling
 - Product Delivery
 - Products and Books
 - Release Management
+- Software Developers
 categories:
 - DevOps
 - Engineering Excellence

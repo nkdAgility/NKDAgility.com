@@ -34,8 +34,8 @@ tags:
 - People and Process
 - Agile Frameworks
 - Agile Project Management
+- Software Developers
 - Continuous Learning
-- Agile Values and Principles
 resourceTypes:
 - video
 categories:

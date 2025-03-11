@@ -8,7 +8,7 @@ ResourceImportId: 10479
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-04-03
-weight: 775
+weight: 810
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,15 +28,15 @@ aliasesArchive:
 - /resources/blog/upgrade-tfs-2013-update-2
 tags:
 - Install and Configuration
+- Practical Techniques and Tooling
+- Azure DevOps
 - Release Management
 - System Configuration
 - Agile Planning Tools
 - Application Lifecycle Management
 - News and Reviews
-- Practical Techniques and Tooling
-- Products and Books
-- Azure DevOps
 - Frequent Releases
+- Modern Source Control
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-7-7.png

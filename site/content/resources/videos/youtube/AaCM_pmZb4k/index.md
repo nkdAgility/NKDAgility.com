@@ -32,19 +32,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Sociotechnical Systems
 - Organisational Culture
 - Organisational Physics
-- Sociotechnical Systems
-- Decision Making
 - Enterprise Agility
 - Organisational Change
 - Market Adaptability
-- Business Agility
 resourceTypes:
 - video
 categories:
-- DevOps
-- Product Management
 - Leadership
 
 ---

@@ -25,7 +25,16 @@ preview: https://i.ytimg.com/vi/Cia3d_y9akQ/maxresdefault.jpg
 duration: 639
 isShort: false
 tags:
+- Agile Project Management
+- People and Process
 - Scrum Master
+- Scrum Team
+- Agile Frameworks
+- Professional Scrum
+- Software Development
+- Scrum Product Development
+- Accountability
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

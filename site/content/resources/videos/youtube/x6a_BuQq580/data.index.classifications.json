@@ -109,11 +109,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T12:03:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T09:49:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of system migration and configuration related to cloud environments, which is a significant theme, but it primarily focuses on migration processes rather than broader system configuration practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses cloud migration, which involves system configuration aspects such as planning, data transfer, and the use of specific tools for migration. However, while it touches on configuration-related topics, the primary focus is on the migration process itself rather than the detailed methodologies of system configuration. The discussion includes some relevant points about system performance and the need for planning, but it lacks depth in exploring configuration management tools or optimisation strategies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Digital Transformation": {
@@ -460,11 +463,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T12:03:31",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-07T12:48:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses aspects of cloud migration and tools related to Azure DevOps, but it primarily focuses on migration challenges rather than the role of software developers within Agile or DevOps frameworks.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses cloud migration and the associated challenges, which is not directly related to the role of software developers within Agile or DevOps frameworks. While it touches on tools like Azure DevOps, the focus is more on migration processes rather than best practices in software development or collaboration methodologies. The discussion lacks depth in Agile or DevOps principles, resulting in a low confidence score.",
     "level": "Quaternary"
   },
   "Test First Development": {
@@ -898,12 +904,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T12:03:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T17:50:31",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of migration to Azure DevOps, touching on technical considerations and tools involved, but primarily focuses on the migration process rather than broader software craftsmanship principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses cloud migration and the technical considerations involved, such as data transfer and the use of Microsoft's tools. However, it primarily focuses on the practical aspects of migration rather than delving into broader software craftsmanship principles or best practices. While there are mentions of technical tools and processes, the discussion lacks depth in areas like software design, architecture, or code quality, which are central to the 'Technical Mastery' category.",
+    "level": "Quaternary"
   },
   "Release Management": {
     "category": "Release Management",
@@ -1051,11 +1060,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T12:03:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T00:17:54",
+    "ai_confidence": 45.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of migration to Azure DevOps, including planning and considerations for data transfer, which are relevant to installation and configuration processes. However, the primary focus is on the migration experience rather than detailed installation or configuration instructions.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses aspects of cloud migration, including tools and considerations for data transfer, which relates to installation and configuration. However, it primarily focuses on the challenges and planning of migrations rather than providing detailed installation or configuration instructions. While there are mentions of tools and processes, the depth of actionable guidance is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Code and Complexity": {
@@ -1087,12 +1099,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T12:03:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:13:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of migration planning and considerations for moving to cloud environments, which are relevant to product delivery, but the primary focus is on migration specifics rather than the broader methodologies and practices of delivering software products.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses aspects of cloud migration, which is tangentially related to product delivery, particularly in the context of planning and execution. However, it lacks a direct focus on methodologies or practices that encompass the end-to-end process of delivering software products. While it touches on planning and the importance of understanding data transfer, it does not delve into broader product delivery concepts such as Agile methodologies, iterative development, or deployment strategies.",
+    "level": "Quaternary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1192,12 +1207,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T12:03:31",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses migration to Azure DevOps and mentions Microsoft's tools for understanding migration impacts, making Azure DevOps a significant theme, but the focus is more on migration challenges rather than Azure DevOps functionalities or best practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-10T13:54:04",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses cloud migration and mentions Azure DevOps in the context of planning and executing migrations. However, it primarily focuses on the migration process and challenges rather than the specific functionalities or best practices of Azure DevOps itself. While there are relevant points about Microsoft's tools and support, the discussion lacks depth in Azure DevOps services and methodologies, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Products and Books": {
     "category": "Products and Books",
@@ -1237,12 +1255,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T12:03:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T11:36:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of migration to cloud services and the technical considerations involved, which relate to engineering practices. However, it primarily focuses on the migration process rather than broader technical excellence principles or methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses cloud migration and the technical aspects involved, such as data transfer and the use of Microsoft's tools. However, it primarily focuses on the practicalities and challenges of migration rather than on engineering practices or methodologies that enhance agility in software development. While there are mentions of technical tools and processes, the discussion lacks depth in areas like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
+    "level": "Quaternary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",

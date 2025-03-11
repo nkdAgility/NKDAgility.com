@@ -23,16 +23,16 @@ aliasesArchive:
 - /online-is-the-new-co-located
 - /resources/blog/online-is-the-new-co-located
 tags:
-- Transparency
 - People and Process
-- Events and Presentations
-- Transparency and Accountability
+- Transparency
 - Pragmatic Thinking
 - Team Collaboration
+- Events and Presentations
 - Remote Working
-- Sociotechnical Systems
+- Transparency and Accountability
 - Team Performance
 - Collaboration Tools
+- Sociotechnical Systems
 categories:
 - Social Technologies
 - Scrum

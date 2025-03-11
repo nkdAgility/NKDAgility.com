@@ -118,11 +118,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T12:42:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:14:33",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a specific error related to MSBuild and provides a practical solution for resolving it, which aligns with the exploration and application of tooling in a development context.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses a specific error related to MSBuild and provides a practical solution involving the removal of an Accessor file to resolve the issue. This aligns with the category as it focuses on a practical technique for troubleshooting a tooling problem. However, it lacks broader discussions on methodologies or frameworks, which limits its overall alignment and depth.",
     "level": "Secondary"
   },
   "Value Stream Management": {
@@ -433,12 +436,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T18:01:40",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T15:11:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses a specific technical error related to MSBuild and provides a solution involving unit testing practices, which aligns with best practices in software development. However, it primarily focuses on a technical issue rather than broader principles or methodologies of software craftsmanship.",
-    "level": "Secondary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses a specific error encountered in MSBuild related to unit testing and the use of Accessors. While it touches on a technical issue relevant to software development, it lacks a broader discussion on best practices, principles, or methodologies that contribute to technical mastery. The focus is more on troubleshooting a specific problem rather than exploring the underlying principles of software craftsmanship or engineering excellence.",
+    "level": "Quaternary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -631,12 +637,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:14:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical issue related to unit testing and builds with MSBuild, which touches on engineering practices, but the primary focus is on troubleshooting a specific error rather than broader topics of engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific error related to MSBuild and unit testing, which is a technical issue rather than a broader discussion on engineering excellence. While it touches on aspects of software craftsmanship through the mention of unit tests, it lacks a comprehensive exploration of best practices, continuous improvement, or quality assurance principles that define the category of Engineering Excellence.",
+    "level": "Quaternary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -685,11 +694,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T18:01:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:57:54",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content discusses an error related to MSBuild, which is part of the Windows environment and specifically tied to Microsoft's Visual Studio and Windows development, making the topic primarily about Windows.",
+    "final_score": 77.0,
+    "reasoning": "The content discusses a specific error related to MSBuild, which is a tool used in the Windows environment for building applications. It explicitly mentions Windows in the context of the error message and the assembly path, indicating a direct relevance to the Windows operating system. The discussion aligns well with troubleshooting common issues, a key topic in the Windows category. Additionally, the content provides a detailed explanation of the error and a potential solution, demonstrating a good depth of discussion on the topic. Overall, the content is primarily focused on Windows, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -712,11 +724,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T18:01:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:12:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses a specific error encountered during the MSBuild process related to unit testing in a software development context, providing details on a technical issue and its resolution, which aligns well with software development practices.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses a specific error encountered in MSBuild related to unit testing, which is a practice within software development. It provides a detailed explanation of the error and a potential solution, aligning with best practices in coding and software design. However, while it touches on relevant topics, the focus is primarily on troubleshooting a specific issue rather than broader software development methodologies or practices.",
     "level": "Secondary"
   },
   "Agile Frameworks": {
@@ -1216,11 +1231,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T18:01:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:46:30",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses a specific error related to MSBuild and provides a direct solution for resolving it, which aligns with troubleshooting techniques for diagnosing and fixing issues in software development.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses a specific error encountered in MSBuild, detailing the nature of the problem and providing a solution. It aligns well with the core themes of troubleshooting by identifying a technical issue, explaining the underlying cause, and offering a practical resolution. The depth of discussion includes error messages and a clear step to resolve the issue, demonstrating a thorough approach to troubleshooting.",
     "level": "Secondary"
   },
   "Scrum Master": {

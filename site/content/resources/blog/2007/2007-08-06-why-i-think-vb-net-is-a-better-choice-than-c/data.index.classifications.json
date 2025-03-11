@@ -217,12 +217,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:03:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 15,
+    "ai_depth": 20,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses code readability and personal preferences in programming languages, which relates to software code quality, but it primarily focuses on the comparison between VB.NET and C# rather than the complexities of software development processes.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses the readability and maintainability of VB.NET compared to C#, which touches on aspects of code quality. However, it lacks a deeper exploration of complexity theory, software architecture, or best practices in software development. The focus is primarily on personal preference and specific language features rather than a comprehensive analysis of code complexity.",
+    "level": "Quaternary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -280,11 +283,14 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-16T21:09:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:21:24",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 35,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses personal experiences and preferences regarding programming languages, particularly focusing on the author's reflections on dyslexia and how it influences their choice of VB.NET over C#. This aligns well with the Personal category as it shares individual insights and experiences.",
+    "final_score": 72.0,
+    "reasoning": "The content provides personal reflections on the author's preference for VB.NET over C#, including insights related to their dyslexia and how it affects their coding experience. It discusses personal experiences and preferences, aligning well with the Personal category. However, the focus is more on technical comparisons rather than broader themes of Agile, Scrum, or DevOps, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Azure DevOps": {
@@ -577,12 +583,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:50:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses personal opinions on the advantages of VB.NET over C#, which relates to software development but lacks a methodological focus or deep dive into practices, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses personal opinions on the advantages of VB.NET over C#, focusing on readability and personal preferences rather than established software development methodologies or practices. While it touches on coding practices, it lacks depth in discussing broader software development concepts or frameworks.",
+    "level": "Quaternary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -946,12 +955,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:17:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical aspects of programming languages, specifically comparing VB.NET and C# in terms of readability, accessibility, and coding practices. However, the primary focus is on personal preference and perceived advantages rather than methodologies or principles that contribute to software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses personal preferences and opinions regarding VB.NET versus C#, focusing on readability and accessibility rather than best practices, principles of clean code, or software craftsmanship. While it touches on some technical aspects, such as case sensitivity and IntelliSense, it lacks a comprehensive exploration of methodologies or practices that contribute to high-quality software development.",
+    "level": "Quaternary"
   },
   "Remote Working": {
     "category": "Remote Working",

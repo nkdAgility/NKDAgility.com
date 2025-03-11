@@ -8,7 +8,7 @@ ResourceImportId: 27
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-09-09
-weight: 640
+weight: 700
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,7 +27,6 @@ tags:
 preview: metro-SSWLogo-128-link-11-11.png
 categories:
 - DevOps
-- Engineering Excellence
 
 ---
 ![BuildIcon_Large](images/Howtodealwithastuckorinfinitelyqueuedbui_D645-BuildIcon_Large_-1-1.png)

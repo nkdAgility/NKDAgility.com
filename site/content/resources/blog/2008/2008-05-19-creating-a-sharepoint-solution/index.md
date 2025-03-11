@@ -8,7 +8,7 @@ ResourceImportId: 225
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2008-05-19
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,8 +24,7 @@ aliasesArchive:
 - /resources/blog/creating-a-sharepoint-solution
 tags:
 - Software Development
-categories:
-- Engineering Excellence
+categories: []
 preview: metro-sharepoint-128-link-1-1.png
 
 ---

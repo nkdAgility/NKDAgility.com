@@ -8,7 +8,7 @@ ResourceImportId: 39684
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2019-08-22
-weight: 550
+weight: 495
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,16 +27,16 @@ aliasesArchive:
 - /blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it-
 - /resources/blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
 tags:
+- Events and Presentations
 - Estimation
 - Throughput
-- Metrics and Learning
 - Agile Planning
 - Cycle Time
-- People and Process
 - Scrum Product Development
 - Scrum Team
 - Software Development
 - Agile Frameworks
+- Agile Project Management
 categories:
 - Scrum
 - Social Technologies

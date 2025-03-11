@@ -8,7 +8,7 @@ ResourceImportId: 9749
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-11
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,17 +27,15 @@ aliasesArchive:
 - /blog/issue-[-tfs-2013-]-you-get-tf400324-when-connecting-inrelease-to-tfs
 - /resources/blog/issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs
 tags:
-- Troubleshooting
 - Install and Configuration
+- Troubleshooting
 - Practical Techniques and Tooling
+- System Configuration
+- Software Development
 - Azure DevOps
 - Pragmatic Thinking
-- Software Development
-- System Configuration
-- Technical Mastery
 categories:
 - DevOps
-- Engineering Excellence
 preview: puzzle-issue-problem-128-link-3-3.png
 
 ---

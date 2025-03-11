@@ -8,7 +8,7 @@ ResourceImportId: 28
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-09-07
-weight: 455
+weight: 445
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,19 +27,19 @@ aliasesArchive:
 - /blog/a-change-for-the-better--3---ssw-to-northwest-cadence
 - /resources/blog/a-change-for-the-better-3
 tags:
-- Application Lifecycle Management
 - People and Process
-- Agile Project Management
 - Software Developers
+- Application Lifecycle Management
 - Continuous Learning
 - Software Development
 - Mentoring
 - Personal
+- Agile Project Management
 - Product Delivery
-- Agile Transformation
+- Practical Techniques and Tooling
 categories:
-- Social Technologies
 - Scrum
+- Social Technologies
 - Engineering Excellence
 preview: metro-nwc-128-link-2-2.png
 

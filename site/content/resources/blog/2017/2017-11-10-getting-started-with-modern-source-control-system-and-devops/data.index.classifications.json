@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T18:58:20",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-07T14:31:37",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses the selection and implementation of modern source control systems and their integration with DevOps practices, providing practical techniques and recommendations for software teams.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the selection and implementation of modern source control systems, specifically Visual Studio Team Services (VSTS), and its integration with DevOps practices. It provides practical guidelines and best practices for software teams, emphasising the importance of source control, automated release pipelines, and continuous delivery. The depth of discussion on tooling, methodologies, and the application of these practices aligns closely with the core themes of the category, making it a strong fit.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -91,11 +94,14 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-14T18:58:33",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T12:32:44",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses DevOps practices and the importance of automated release pipelines, which are relevant to market adaptability. However, the primary focus is on source control systems and specific tools rather than broader strategies for responding to market shifts.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of modern source control systems and DevOps practices, which are crucial for enhancing market adaptability. It highlights the need for continuous delivery, automated release pipelines, and the integration of tools to support agile methodologies. The emphasis on adapting practices to meet business needs and the mention of feedback loops align well with the principles of market adaptability. However, while the content touches on relevant topics, it does not delve deeply into specific strategies or case studies that exemplify successful market adaptability, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {
@@ -118,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T18:58:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:31:20",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the integration of source control systems with DevOps practices, emphasising automation, continuous delivery, and the importance of collaboration and tools in the software development lifecycle.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content explicitly discusses DevOps principles, particularly in relation to source control systems and automated release pipelines. It aligns well with core DevOps themes such as continuous delivery, automation, and the integration of tools and processes. The depth of discussion is substantial, covering best practices and the importance of collaboration and quality in software delivery, which are central to DevOps. Overall, the content is highly relevant and focused on DevOps.",
+    "level": "Primary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -208,11 +217,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-14T18:58:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:37:49",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses modern source control systems and DevOps practices, emphasising the importance of automated release pipelines, source control, and engineering excellence, which aligns closely with the principles of Technical Excellence.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses various aspects of modern source control systems and DevOps practices, which are relevant to technical excellence. It mentions the importance of source control, automated release pipelines, and practices like Test-Driven Development (TDD). However, while these topics are touched upon, the discussion lacks depth in exploring the principles and methodologies that enhance agility in software development. The focus is more on tools and practices rather than a comprehensive exploration of engineering excellence principles.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -235,11 +247,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-14T18:59:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:29:24",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of source control, automated release pipelines, and practices that enhance the delivery of software products, aligning closely with the principles of product delivery.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses various aspects of product delivery, particularly focusing on the importance of source control, automated release pipelines, and practices that enhance software delivery. It aligns well with key topics such as continuous delivery, the role of cross-functional teams, and the significance of quality assurance. However, while it provides substantial detail on these practices, it occasionally veers into broader discussions about source control systems and personal experiences, which slightly detracts from its primary focus on product delivery methodologies.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -262,20 +277,26 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-14T18:59:09",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T10:21:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the use of Visual Studio Team Services (VSTS) as a tool for managing software development processes, which aligns with the category's focus on tools that facilitate Agile practices. However, the primary focus is on source control and DevOps practices rather than a specific product review or literature analysis.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses the use of Visual Studio Team Services (VSTS) as a tool for managing software development processes, which aligns with the category's focus on tools that facilitate Agile and DevOps practices. However, while it provides some insights into the effectiveness of VSTS, it lacks detailed reviews or analyses of other products or literature, which limits its depth of discussion. The mention of Agile principles is present but not the primary focus, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-14T18:59:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:46:37",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of modern source control systems and DevOps practices in delivering value to customers, emphasising continuous delivery, automated release pipelines, and the integration of tools to enhance software development processes.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of source control and automated release pipelines, which are critical for continuous delivery of value in software development. It aligns well with Agile and DevOps principles, emphasising the need for iterative development, customer feedback, and quality assurance. However, while it touches on value delivery, the primary focus is on technical implementation details and tools rather than a comprehensive exploration of value delivery strategies.",
     "level": "Secondary"
   },
   "Azure DevOps": {
@@ -730,11 +751,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-14T19:01:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:32:42",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses best practices in software development, including source control, automated release pipelines, and the importance of engineering excellence in delivering quality software.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the importance of source control, automated release pipelines, and best practices in software development, which are all key aspects of engineering excellence. It provides detailed recommendations for modern software teams, emphasising the need for quality assurance, continuous delivery, and the integration of tools to support development processes. The author also highlights the significance of maintaining high standards in coding practices and the impact of these practices on organisational quality and efficiency, aligning closely with the core themes of the category.",
     "level": "Secondary"
   },
   "Revenue per Employee": {
@@ -1243,12 +1267,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-10T14:37:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "The content primarily discusses source control systems and DevOps practices, with only peripheral references to product management concepts such as user feedback and team collaboration.",
-    "level": "Quaternary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on source control systems and DevOps practices, with a strong emphasis on technical implementation details rather than strategic product management. While there are brief mentions of team collaboration and the importance of user feedback, these are not explored in the context of product management methodologies or frameworks. The discussion lacks depth in strategic alignment with customer needs and business objectives, which are core themes of product management.",
+    "level": "Quinary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -1360,12 +1387,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:08:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:29:20",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum practices and the importance of collaboration within software teams, but it primarily focuses on source control and DevOps rather than being solely about social technologies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses various aspects of modern source control systems and DevOps practices, with some references to Scrum and Agile methodologies. However, while it mentions Scrum and the importance of becoming a professional Scrum team, the primary focus is on source control and DevOps rather than a deep exploration of social technologies or frameworks like Scrum, Kanban, Lean, or Agile practices. The discussion lacks detailed exploration of the core themes of collaboration, continuous improvement, and value delivery that are central to the Social Technologies category.",
+    "level": "Secondary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

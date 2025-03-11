@@ -127,12 +127,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-18T12:23:44",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content revolves around moving a domain controller, which is a specific task within the Windows Server operating system, thus aligning closely with the Windows category.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-07T14:51:28",
+    "ai_confidence": 92.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 95.0,
+    "ai_depth": 90.0,
+    "non_ai_confidence": 50,
+    "final_score": 88.0,
+    "reasoning": "The content is a detailed guide on migrating a domain controller within a Windows environment, explicitly discussing installation, configuration, and troubleshooting steps related to Active Directory. It directly addresses Windows-specific processes and settings, demonstrating a strong alignment with the key topics of the Windows category. The depth of discussion is substantial, covering various technical aspects and procedures necessary for managing Windows servers, particularly in the context of domain controller migration.",
+    "level": "Primary"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -820,12 +823,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-18T12:23:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:45:46",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses moving an Active Directory domain to another server, implying a troubleshooting scenario for domain controller issues, but focuses more on the process rather than detailed troubleshooting techniques.",
-    "level": "Tertiary"
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on a specific troubleshooting scenario involving the migration of a domain controller. It discusses the identification of issues (e.g., activation failures, DNS configuration) and the steps taken to resolve them, which aligns well with the core themes of the Troubleshooting category. The depth of discussion includes detailed steps and considerations for successfully migrating Active Directory, demonstrating a practical application of troubleshooting techniques. However, while troubleshooting is a significant aspect, the content also includes procedural descriptions that may detract slightly from its primary focus on troubleshooting.",
+    "level": "Secondary"
   },
   "Products and Books": {
     "category": "Products and Books",
@@ -1090,11 +1096,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-18T12:23:44",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on the process of moving and configuring an Active Directory domain, which is a central aspect of system configuration.",
+    "calculated_at": "2025-03-10T12:42:57",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content provides a detailed step-by-step guide on migrating a domain controller, which is a critical aspect of system configuration. It discusses specific tasks such as setting up a new domain controller, configuring IP addresses, promoting servers, and managing Active Directory roles. The focus is primarily on practical configuration processes, aligning well with the key topics of system configuration, including best practices for software installation and configuration, hardware setup, and troubleshooting configuration issues. The depth of discussion is substantial, covering various technical steps and considerations, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -1342,12 +1351,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T12:23:44",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily focuses on the installation and configuration process of moving an Active Directory domain to another server, which aligns well with the category's focus.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-10T18:35:27",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 30,
+    "final_score": 81.0,
+    "reasoning": "The content provides a detailed, step-by-step guide on migrating a domain controller, which directly aligns with the category of Install and Configuration. It discusses specific installation procedures, configuration settings, and troubleshooting steps related to Active Directory. The content is rich in technical detail, covering various aspects of the migration process, including setting IP addresses, promoting a server to a domain controller, and managing operational master roles. This depth of discussion indicates a strong focus on the practical aspects of installation and configuration, justifying a high confidence score.",
+    "level": "Primary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",

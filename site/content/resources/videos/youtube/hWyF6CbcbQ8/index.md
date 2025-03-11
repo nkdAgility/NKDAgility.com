@@ -26,6 +26,7 @@ isShort: false
 tags:
 - Pragmatic Thinking
 - Software Development
+- Practical Techniques and Tooling
 sitemap:
   filename: sitemap.xml
   priority: 0.6

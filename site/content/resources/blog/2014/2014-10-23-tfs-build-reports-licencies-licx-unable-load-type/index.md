@@ -8,7 +8,7 @@ ResourceImportId: 10730
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-10-23
-weight: 775
+weight: 695
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,18 +27,19 @@ aliasesArchive:
 - /blog/tfs-build-reports-licencies-licx--unable-to-load-type
 - /resources/blog/tfs-build-reports-licencies-licx-unable-load-type
 tags:
-- Install and Configuration
-- Practical Techniques and Tooling
-- Continuous Integration
-- Operational Practices
-- Pragmatic Thinking
 - Software Development
+- Pragmatic Thinking
+- Continuous Integration
+- Install and Configuration
 - System Configuration
-- Technical Excellence
 - Troubleshooting
+- Practical Techniques and Tooling
+- Operational Practices
 - Release Management
+- Technical Excellence
 categories:
 - DevOps
+- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

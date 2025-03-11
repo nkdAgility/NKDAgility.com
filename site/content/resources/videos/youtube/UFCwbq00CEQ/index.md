@@ -25,9 +25,11 @@ preview: https://i.ytimg.com/vi/UFCwbq00CEQ/maxresdefault.jpg
 duration: 40
 isShort: true
 tags:
-- People and Process
 - Team Motivation
+- People and Process
 - Agile Philosophy
+- Agile Product Management
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -35,7 +37,6 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Product Management
 - Social Technologies
 
 ---

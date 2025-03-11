@@ -8,7 +8,7 @@ ResourceImportId: 9769
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-22
-weight: 775
+weight: 810
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,15 +26,13 @@ tags:
 - Install and Configuration
 - Practical Techniques and Tooling
 - Software Development
+- Operational Practices
+- Technical Mastery
 - Azure DevOps
 - Azure Pipelines
-- Continuous Integration
-- Operational Practices
 - Technical Excellence
-- Technical Mastery
 categories:
 - DevOps
-- Engineering Excellence
 
 ---
 You can be creating a custom activity for Team Foundation Build in a few simple steps. There are always advanced steps but this will get you started.

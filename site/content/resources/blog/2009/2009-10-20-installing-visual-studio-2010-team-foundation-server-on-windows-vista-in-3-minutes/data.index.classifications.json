@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T01:55:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:42:04",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily focuses on the installation process of Visual Studio 2010 Team Foundation Server, which is a practical technique related to tooling in Agile and DevOps practices.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a practical guide on installing Visual Studio 2010 Team Foundation Server (TFS), which aligns with the category's focus on tooling. It explicitly mentions the installation process and configuration, which are practical techniques. However, the discussion lacks depth in exploring methodologies or frameworks related to Agile or DevOps practices, and it does not provide broader insights into tool integration or best practices. Therefore, while it is relevant, it does not fully meet the criteria for a high confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T01:55:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:07:56",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2010 Team Foundation Server, detailing steps and options available during installation, which aligns well with the category of Install and Configuration.",
+    "final_score": 80.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2010 Team Foundation Server (TFS) on Windows Vista, providing specific details about the installation options and the time taken for the process. It explicitly mentions the need to configure TFS after installation, which aligns well with the category's focus on installation and configuration. The depth of discussion includes references to SQL 2008 Express and the changes in the installation process, indicating a thorough understanding of the technical aspects involved. Overall, the content is highly relevant to the category, with a strong emphasis on actionable instructions.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -280,12 +286,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:07:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation of Team Foundation Server (TFS), which is part of the Azure DevOps suite, but primarily focuses on the installation process rather than broader Azure DevOps functionalities or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the installation of Team Foundation Server (TFS) 2010, which is a component of Azure DevOps. However, it lacks a broader discussion on Azure DevOps functionalities, methodologies, or best practices. The focus is on installation steps rather than the integration or use of Azure DevOps in a CI/CD context, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Personal": {
     "category": "Personal",
@@ -1045,11 +1054,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T02:29:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:53:00",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the installation and configuration process of Visual Studio 2010 Team Foundation Server, which aligns with the aspects of system configuration. It elaborates on both the installation and the need for configuration after installation, making system configuration the central theme.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Visual Studio 2010 Team Foundation Server (TFS), which directly aligns with the category of System Configuration. It discusses the installation process, mentions the need for configuration after installation, and highlights changes in the installation process. The depth of discussion is moderate, providing some detail about the installation steps and the implications of configuration, but it lacks extensive exploration of best practices or troubleshooting strategies. Overall, the content is relevant and provides a practical perspective on system configuration, justifying a relatively high confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1099,11 +1111,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T02:29:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:05:46",
+    "ai_confidence": 82.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily revolves around the installation process of Team Foundation Server (TFS) on Windows Vista, clearly discussing aspects related to the Windows operating system, making it a central theme.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on the installation of Team Foundation Server (TFS) on Windows Vista, which is a direct mention of the Windows operating system. It discusses the installation process in detail, including the requirements and options available, aligning well with the core themes of installation procedures and configuration settings. The depth of discussion is significant, as it provides insights into the installation steps and mentions the need for configuration post-installation. Overall, the content is highly relevant to the Windows category.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
@@ -1198,12 +1213,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:42:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content focuses on installing Team Foundation Server (TFS) which is relevant to software development tools, but it does not engage deeply with Agile or DevOps methodologies, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2010 Team Foundation Server (TFS) and does not explicitly discuss the role of software developers within Agile or DevOps frameworks. While it mentions TFS, which is a tool relevant to developers, it lacks a discussion on best practices, methodologies, or the impact of Agile and DevOps on developer productivity. The content is more technical and procedural rather than thematic, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

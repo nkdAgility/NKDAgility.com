@@ -136,12 +136,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-12T01:30:29",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T00:21:49",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses various aspects of DevOps and the importance of understanding current practices to inform future decisions. It touches on evidence-based practices, the role of data in assessing organisational performance, and the need for structured decision-making in the context of software delivery. However, the primary focus is on DevOps practices rather than structured decision-making methodologies.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses various aspects of DevOps and how organisations can improve their practices through structured methodologies. It touches on the importance of understanding current states, identifying waste, and making informed decisions based on empirical evidence. The mention of compliance, quality maintenance, and the need for feedback loops indicates a focus on decision-making processes. However, while it aligns with the category, it does not delve deeply into structured decision-making frameworks or evidence-based management principles, which slightly lowers the confidence score.",
+    "level": "Tertiary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -334,11 +337,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T01:31:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T09:53:16",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses DevOps practices, methodologies, and their impact on software delivery, aligning closely with software development principles.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses DevOps practices, including the importance of understanding current capabilities, the role of tools in product release, and the need for quality assurance in software delivery. It aligns well with key topics in software development, such as CI/CD, code quality, and the integration of development and operations. The depth of discussion is significant, providing detailed examples and insights into common dysfunctions and best practices in the industry.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -463,11 +469,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-12T01:31:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:16:22",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses DevOps practices and their implications for software development, focusing on how developers can improve their processes and collaboration within Agile frameworks.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses various aspects of DevOps and its impact on software delivery, which is relevant to software developers. However, while it touches on the role of developers in the context of DevOps, it lacks a focused discussion on Agile methodologies and specific practices that enhance developer productivity. The depth of discussion is moderate, with some examples provided, but it does not delve deeply into best practices or tools that directly support developers in Agile environments.",
     "level": "Secondary"
   },
   "Test First Development": {
@@ -1231,20 +1240,26 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-12T01:29:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:56:37",
+    "ai_confidence": 78.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the principles and practices of DevOps that enhance value delivery, including continuous delivery, quality maintenance, and aligning product development with customer needs. It highlights the importance of understanding current practices to improve future outcomes, which aligns well with the key topics of the Value Delivery category.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses various aspects of DevOps practices, focusing on how bespoke solutions can enhance delivery and quality. It highlights the importance of understanding current practices, optimising processes, and ensuring high-quality delivery, which aligns well with the principles of value delivery. However, while it touches on value delivery concepts, it does not explicitly frame them within the context of Agile or Scrum methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T01:29:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T11:41:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses various engineering practices and methodologies related to DevOps, including the importance of understanding current practices, the need for quality in delivery, and the integration of technical processes to enhance performance. It addresses specific technical challenges and solutions, making it a clear focus on technical excellence.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses various aspects of DevOps practices, touching on the importance of understanding current engineering capabilities and the need for high-quality delivery. However, while it mentions some technical practices, such as automatic deployments and the importance of quality assurance, the focus is more on the challenges and observations rather than a deep exploration of specific engineering methodologies or principles that enhance agility. The discussion lacks a structured approach to the core themes of Technical Excellence, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Organisational Agility": {
@@ -1267,20 +1282,26 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-12T01:29:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:58:06",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the interplay between human behaviour and DevOps practices, focusing on team dynamics, communication, and the impact of organisational culture on process efficiency. It highlights the importance of understanding team capabilities and addressing dysfunctional behaviours, which aligns well with the key topics of the category.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses various aspects of DevOps, focusing on the interplay between human behaviour and processes. It highlights the importance of understanding team dynamics, the role of leadership in fostering effective practices, and the need for communication and feedback loops. The author provides examples of dysfunctional behaviours and opportunities for improvement, which align well with the category's focus on human factors in technology and product development. The depth of discussion is significant, covering multiple facets of how teams can improve their processes and collaboration, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-12T01:29:55",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-10T17:54:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the interplay between DevOps practices and organisational behaviours, highlighting how team dynamics, communication, and organisational culture impact software delivery. While it primarily focuses on DevOps, it addresses sociotechnical interactions, making it a significant theme.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses various aspects of DevOps, touching on the interplay between technology and organisational structures, such as team dynamics and the impact of organisational culture on technology adoption. However, while it mentions some sociotechnical principles, the primary focus remains on technical practices and tools rather than a comprehensive exploration of sociotechnical systems. The depth of discussion on the integration of social and technical aspects is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "News and Reviews": {
@@ -1366,12 +1387,15 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T13:53:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T12:56:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the role of leadership in navigating DevOps practices and organisational challenges, but it primarily focuses on technical implementation details and specific practices rather than leadership as a central theme.",
-    "level": "Tertiary"
+    "final_score": 34.0,
+    "reasoning": "The content discusses various aspects of DevOps and organisational practices but lacks a primary focus on leadership. While it touches on the role of leadership in fostering a culture of continuous delivery and addresses some leadership-related challenges, these discussions are secondary to the technical aspects of DevOps implementation. The depth of discussion on leadership is limited, primarily mentioning it in the context of compliance and team dynamics without providing substantial strategies or frameworks for effective leadership.",
+    "level": "Quaternary"
   },
   "Social Technologies": {
     "category": "Social Technologies",

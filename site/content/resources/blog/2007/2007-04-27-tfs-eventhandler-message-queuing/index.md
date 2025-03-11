@@ -8,7 +8,7 @@ ResourceImportId: 411
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-04-27
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,10 +28,8 @@ aliasesArchive:
 - /resources/blog/tfs-eventhandler-message-queuing
 tags:
 - Software Development
-- Technical Mastery
 preview: nakedalm-logo-128-link-1-1.png
-categories:
-- Engineering Excellence
+categories: []
 
 ---
 As I mentioned in my previous post I am currently building an [EventHandler](http://blog.hinshelwood.com/archive/2007/04/27/Team-Server-Event-Handlers-made-easy.aspx) infrastructure for [Team Foundation Server](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server").

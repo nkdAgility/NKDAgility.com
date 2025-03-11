@@ -8,7 +8,7 @@ ResourceImportId: 10367
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-02-25
-weight: 405
+weight: 375
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,8 +23,8 @@ aliasesArchive:
 - /metrics-that-matter-with-evidence-based-management
 - /resources/blog/metrics-that-matter-with-evidence-based-management
 tags:
-- Evidence Based Leadership
 - Evidence Based Management
+- Evidence Based Leadership
 - Metrics and Learning
 categories:
 - Product Management

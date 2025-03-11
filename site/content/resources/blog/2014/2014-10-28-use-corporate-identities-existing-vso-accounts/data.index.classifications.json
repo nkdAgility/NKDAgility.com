@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T00:04:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:43:00",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical application of configuring Active Directory Federated Services (ADFS) for seamless integration with Visual Studio Online (VSO) and Azure, which aligns with the exploration and application of tools and methodologies in Agile and DevOps practices.",
+    "final_score": 66.0,
+    "reasoning": "The content provides a detailed guide on configuring Active Directory Federated Services (ADFS) to enable seamless Single-Sign-On (SSO) for Visual Studio Online (VSO) accounts. It discusses practical steps, tools, and methodologies for integrating corporate identities with existing accounts, which aligns well with the category's focus on practical techniques and tooling. The content includes specific instructions, warnings, and notes that enhance understanding and implementation, demonstrating a strong depth of discussion. However, while it mentions tools and techniques, it does not extensively cover broader Agile or DevOps practices, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T00:04:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:38:00",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 40,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the configuration of Active Directory Federated Services (ADFS) and linking Visual Studio Online (VSO) accounts to Azure, providing detailed steps and warnings related to installation and configuration processes.",
+    "final_score": 80.0,
+    "reasoning": "The content provides a detailed guide on configuring Active Directory Federated Services (ADFS) to enable seamless Single-Sign-On (SSO) for Visual Studio Online (VSO) accounts. It includes step-by-step instructions, warnings, and notes about potential issues, which align closely with the key topics of installation and configuration. The primary focus is on the technical aspects of linking accounts and ensuring continuity during the migration process, demonstrating a strong alignment with the category's purpose.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:42:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Active Directory with Visual Studio Online and Azure, which relates to DevOps practices, particularly in terms of user management and authentication in a cloud environment. However, the primary focus is on account management rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the integration of Active Directory with Visual Studio Online (VSO) and Azure, which touches on aspects of DevOps such as identity management and seamless integration. However, it lacks a broader discussion on DevOps principles, practices, or cultural shifts, making it more of a technical guide rather than a comprehensive exploration of DevOps as a category.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -280,11 +289,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T00:04:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:42:37",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the integration of Visual Studio Online (VSO) with Azure Active Directory, detailing the steps for linking accounts and managing user identities, which aligns closely with Azure DevOps functionalities.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses the integration of Visual Studio Online (VSO) with Azure Active Directory, which is a key aspect of Azure DevOps. It provides detailed instructions on configuring accounts, linking VSO to Azure, and managing user identities, all of which are relevant to Azure DevOps functionalities. The discussion is focused on practical implementation and best practices, aligning well with the core themes of Azure DevOps. However, while it is detailed, it does not cover broader Azure DevOps services or methodologies extensively, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -1045,11 +1057,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T00:07:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:32:43",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the configuration of Active Directory and Visual Studio Online accounts, detailing the processes involved in setting up single sign-on and managing user identities, which aligns closely with system configuration practices.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on configuring Active Directory Federated Services (ADFS) to enable seamless Single-Sign-On (SSO) for Visual Studio Online (VSO) and Azure accounts. It discusses specific steps for linking accounts, managing user access, and ensuring continuity during the migration process. The detailed instructions and warnings provided indicate a strong alignment with system configuration practices, particularly in the context of software and identity management. The depth of discussion is substantial, covering various aspects of configuration management and user account integration, which are central to the category of System Configuration.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1099,11 +1114,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T00:07:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:23:46",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the integration of Active Directory with Visual Studio Online and Azure, which is relevant to Windows environments, particularly in the context of user account management and authentication. It also touches on Windows 10 in the conclusion, indicating a focus on Windows-related functionalities.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily discusses the integration of Active Directory with Visual Studio Online (VSO) and Azure, which are closely related to the Windows environment. It mentions Windows 10 and the desire for better integration with Azure Active Directory, indicating a focus on Windows functionalities. The discussion includes specific configurations and troubleshooting steps relevant to Windows users, demonstrating a strong alignment with the category's core themes. The depth of the discussion is substantial, providing detailed instructions and considerations for users managing their Windows accounts and services. Overall, the content is highly relevant to the Windows category.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
@@ -1153,11 +1171,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T00:07:28",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T11:49:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses issues related to authentication and account linking in Azure and Visual Studio Online, which involves troubleshooting steps and considerations for resolving conflicts between Microsoft IDs and OrgIDs. However, the primary focus is on configuration rather than systematic problem-solving techniques.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses issues related to authentication and account management within Azure and Visual Studio Online, which aligns with troubleshooting technical problems. It provides specific examples of issues faced, such as clashes between Microsoft IDs and OrgIDs, and offers solutions for linking accounts and maintaining continuity. However, while it touches on troubleshooting, the focus is more on configuration and setup rather than systematic problem-solving techniques or methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Experimentation": {

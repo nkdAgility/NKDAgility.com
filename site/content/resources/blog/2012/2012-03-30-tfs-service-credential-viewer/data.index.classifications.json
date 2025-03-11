@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T20:46:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:21:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the TFS Service Credential Viewer, a tool for connecting to Team Foundation Service, including installation prerequisites and troubleshooting steps, which aligns with practical techniques and tooling in Agile and DevOps.",
+    "final_score": 66.0,
+    "reasoning": "The content provides a practical guide on using the TFS Service Credential Viewer, detailing its purpose, prerequisites, and troubleshooting steps. It directly discusses a specific tool relevant to Agile and DevOps practices, aligning well with the category's focus on practical techniques and tooling. The depth of discussion is substantial, covering installation and usage, which enhances its relevance. However, it lacks broader context on Agile methodologies or frameworks, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T20:46:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:56:53",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration of the TFS Service Credential Viewer, including prerequisites, installation steps, and troubleshooting guidance.",
+    "final_score": 76.0,
+    "reasoning": "The content provides a detailed guide on installing and configuring the TFS Service Credential Viewer, including prerequisites, installation steps, and troubleshooting advice. It explicitly discusses installation procedures and configuration aspects, aligning well with the category's core themes. The depth of discussion is substantial, covering both the installation process and potential issues users may face, which enhances its relevance to the Install and Configuration category.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -262,11 +268,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-15T20:46:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:56:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the TFS Service Credential Viewer, a tool for connecting to Team Foundation Service, which aligns with the category's focus on software products that facilitate Agile practices.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on the TFS Service Credential Viewer, a tool designed to facilitate connections to the Team Foundation Service. It provides detailed instructions on installation, usage, and troubleshooting, which aligns well with the category's emphasis on discussions about tools that support Agile and DevOps practices. However, it lacks a broader discussion on Agile methodologies or literature, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Value Delivery": {
@@ -280,12 +289,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:00:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the TFS Service Credential Viewer, which is related to Team Foundation Service (TFS), a component of Azure DevOps. However, the focus is primarily on the credential management aspect rather than broader Azure DevOps functionalities.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the TFS Service Credential Viewer, which is related to Team Foundation Server (TFS), a component of Azure DevOps. However, it primarily focuses on the credential management aspect without delving into broader Azure DevOps functionalities or best practices. While it mentions TFS, it does not provide a comprehensive overview of Azure DevOps services or methodologies, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Personal": {
     "category": "Personal",
@@ -1099,11 +1111,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T22:00:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:44:55",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content discusses the installation and usage of a tool specifically for the Windows environment (TFS Service Credential Viewer) and addresses troubleshooting issues related to Windows 8, making Windows a primary topic.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the TFS Service Credential Viewer, which is a tool that operates within the Windows environment, specifically mentioning Windows 8 and its security features. However, while it touches on installation prerequisites and troubleshooting steps relevant to Windows, the primary focus is on TFS and its integration rather than a comprehensive exploration of Windows itself. Therefore, it aligns moderately with the Windows category but does not delve deeply into broader Windows topics.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
@@ -1153,11 +1168,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T22:00:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:35:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content includes specific troubleshooting steps for launching the TFS Service Credential Viewer, particularly addressing issues related to Windows 8 security settings and potential problems with missing prerequisites, making troubleshooting a primary topic.",
+    "final_score": 75.0,
+    "reasoning": "The content includes a specific section titled 'Troubleshooting' that addresses potential issues users may face when using the TFS Service Credential Viewer, such as security checks on Windows 8. This direct mention contributes positively to the confidence score. The content aligns with the core themes of troubleshooting by providing practical steps to resolve issues, which is a key aspect of the category. However, the overall depth of discussion is somewhat limited, focusing primarily on a specific scenario without broader troubleshooting strategies or methodologies. Therefore, while it is relevant, it does not fully explore the category's potential, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Experimentation": {

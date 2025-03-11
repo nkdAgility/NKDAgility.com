@@ -8,7 +8,7 @@ ResourceImportId: 6914
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-02
-weight: 545
+weight: 625
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,8 +30,6 @@ tags:
 - Personal
 categories:
 - Product Management
-- Engineering Excellence
-- Social Technologies
 
 ---
 ![image](images/image-3-3.png "image")No I am not leaving Northwest Cadence.

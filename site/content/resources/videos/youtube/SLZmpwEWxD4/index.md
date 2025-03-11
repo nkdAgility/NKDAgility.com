@@ -31,15 +31,15 @@ sitemap:
   priority: 0.6
 tags:
 - Practical Techniques and Tooling
-- Strategy
+- Software Development
 - Operational Practices
-- Team Collaboration
+- Strategy
 - Agile Frameworks
 - Agile Project Management
-- Lean Thinking
 - People and Process
 - Pragmatic Thinking
-- Software Development
+- Team Collaboration
+- Transparency
 resourceTypes:
 - video
 categories:

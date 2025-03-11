@@ -24,16 +24,16 @@ preview: https://i.ytimg.com/vi/yCyjGBNaRqI/maxresdefault.jpg
 duration: 174
 isShort: false
 tags:
-- Team Motivation
 - People and Process
-- Agile Values and Principles
-- Agile Leadership
-- Agile Philosophy
-- Coaching
 - Employee Engagement
-- Organisational Culture
+- Team Motivation
+- Agile Leadership
 - Organisational Psychology
+- Agile Values and Principles
+- Agile Philosophy
+- Organisational Culture
 - Self Organisation
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -42,6 +42,7 @@ resourceTypes:
 - video
 categories:
 - Leadership
+- Social Technologies
 - Product Management
 
 ---

@@ -316,11 +316,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:46:44",
+    "ai_confidence": 52.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Test Driven Development and discusses technical aspects of developing a SharePoint application, but the primary focus is on the author's personal project and learning experience rather than on broader engineering practices.",
+    "final_score": 47.0,
+    "reasoning": "The content briefly mentions Test-Driven Development (TDD) as part of the development process, which aligns with the category's focus on engineering practices. However, the primary focus is on the author's personal project and learning experience with SharePoint, rather than a detailed discussion of technical excellence principles. The depth of discussion on TDD is limited, and while there is some alignment with the category's themes, it does not delve into broader practices like CI/CD or modular architecture.",
     "level": "Tertiary"
   },
   "People and Process": {
@@ -568,20 +571,26 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:11:56",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content primarily focuses on developing a SharePoint application, it briefly touches on Test-Driven Development, which aligns with software development practices. However, the central theme is not primarily about Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the development of a SharePoint application, which is relevant to software developers. However, it lacks explicit references to Agile or DevOps methodologies, and while it mentions Test-Driven Development, it does not delve deeply into best practices or principles associated with Agile or DevOps. The focus is more on the personal project and learning experience rather than on collaborative practices or tools that enhance productivity in a team setting.",
+    "level": "Quaternary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T19:26:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:14:52",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the development of a SharePoint application, including aspects of software development practices such as Test Driven Development and deployment considerations. It focuses on building software, which aligns well with the Software Development category.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the development of a SharePoint application, which directly relates to software development practices. It mentions specific technologies (.NET, SQL Server) and concepts like Test Driven Development, indicating a focus on software engineering. However, the discussion is more about personal experience and project motivation rather than a deep exploration of methodologies or best practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {
@@ -703,12 +712,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T09:13:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:58:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses personal learning through a development project on SharePoint, but the primary focus is on the application itself rather than on growth mindset or team improvement.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions personal learning goals related to developing a SharePoint application, which aligns with the concept of continuous learning. However, it lacks a strong focus on team dynamics, knowledge sharing, or the principles of Agile, DevOps, or Lean methodologies. The discussion is primarily centred on individual learning and project development rather than fostering a culture of continuous improvement within a team.",
+    "level": "Quaternary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -1216,12 +1228,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:13:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:12:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a practical project involving the development of a SharePoint application, indicating a hands-on approach and the application of problem-solving techniques. However, it primarily focuses on the project details rather than explicitly addressing Agile, Scrum, or DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the development of a SharePoint application, which implies a practical approach to problem-solving and learning through experience. However, it lacks explicit references to Agile, Scrum, or DevOps frameworks, and the focus is more on the technical aspects of SharePoint rather than on pragmatic thinking in a project management context. The depth of discussion is moderate, as it outlines the author's intentions and methodologies but does not delve into specific strategies or case studies related to Agile or Lean principles.",
+    "level": "Quaternary"
   },
   "Release Management": {
     "category": "Release Management",
@@ -1234,12 +1249,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:14:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the development of a software application and mentions Test Driven Development, which aligns partially with engineering practices. However, it focuses more on the project and specific technologies rather than a broader discussion on engineering excellence or best practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the development of a SharePoint application, which touches on aspects of software craftsmanship and development practices. However, it primarily focuses on the author's personal project and learning experience rather than explicitly promoting high standards in engineering processes or best practices. While there is a mention of Test Driven Development, the overall discussion lacks depth in engineering excellence principles and does not provide a comprehensive exploration of the category's key topics.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

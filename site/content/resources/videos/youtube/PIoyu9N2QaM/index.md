@@ -33,13 +33,12 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Professional Scrum
+- Agile Project Management
 - Scrum Master
 - Scrum Team
+- Professional Scrum
 - Agile Frameworks
-- Agile Project Management
 - Software Development
-- Accountability
 resourceTypes:
 - video
 categories:

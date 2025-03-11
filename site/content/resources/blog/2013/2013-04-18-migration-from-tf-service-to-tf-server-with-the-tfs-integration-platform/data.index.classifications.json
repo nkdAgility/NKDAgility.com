@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T19:03:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:08:33",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical techniques and tooling involved in migrating from TF Service to TF Server using the TFS Integration Platform, including configuration details and user mapping.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed guide on migrating from TF Service to TF Server using the TFS Integration Platform, which directly relates to practical tooling in a DevOps context. It discusses specific configurations, user account mappings, and the challenges faced during the migration process, aligning well with the core themes of practical techniques and tooling. The depth of discussion is substantial, covering both source control and work item tracking, although it could benefit from more examples or case studies to enhance its practical application focus.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T19:03:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:49:14",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the configuration and migration process from TF Service to TF Server using the TFS Integration Platform, providing actionable instructions and insights relevant to installation and configuration.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed guide on migrating from TF Service to TF Server using the TFS Integration Platform, which directly relates to installation and configuration processes. It discusses specific steps for configuring user accounts and mapping identities, which are crucial for successful migration. The content aligns well with the key topics of the category, such as configuration best practices and troubleshooting common issues. However, while it is comprehensive, it could benefit from more explicit step-by-step instructions and troubleshooting tips to enhance its depth further.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:49:11",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the migration process between Team Foundation Service and Team Foundation Server, which relates to version control and configuration management, key aspects of DevOps practices. However, it primarily focuses on the technical details of migration rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the migration process between Team Foundation Service and Team Foundation Server, which touches on aspects of version control and user management relevant to DevOps practices. However, it lacks a broader discussion on DevOps principles, automation, or cultural shifts, making it more focused on a specific technical task rather than the overarching themes of DevOps.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -370,12 +379,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T20:05:04",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T18:39:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the technical process of migrating from TF Service to TF Server and touches upon user account mapping and configuration. However, it focuses more on the migration steps rather than underlying principles, practices, or methodologies related to software craftsmanship.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TF Service to TF Server using the TFS Integration Platform. While it discusses specific technical challenges and configurations, it lacks a broader discussion on software craftsmanship principles, best practices, or methodologies that contribute to high-quality software development. The mention of user account mapping and the technical details of the migration process are relevant but do not deeply engage with the core themes of Technical Mastery, such as clean code, testing practices, or architectural principles.",
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -613,11 +625,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-15T20:05:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:55:18",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the migration process from TF Service to TF Server, focusing on source control user mappings and configuration, which are relevant to modern source control practices.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the migration from TF Service to TF Server, which is relevant to source control practices. It mentions user identity mapping in source control and the configuration of the TFS Integration Platform, indicating a focus on version control systems. However, the discussion lacks depth in best practices and methodologies, and while it touches on source control, it does not explore broader themes like branching strategies or code review processes.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
@@ -730,12 +745,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:08:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the technical aspects of migrating from TF Service to TF Server using the TFS Integration Platform, which touches on coding and development practices. However, the focus is more on migration and system configuration rather than broader software craftsmanship or engineering excellence topics.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TF Service to TF Server, which is a specific task rather than a broader discussion on engineering excellence. While it touches on some relevant topics like user account mapping and configuration, it lacks a comprehensive exploration of best practices, quality assurance, or continuous improvement in engineering processes. The discussion is more about practical implementation than promoting high standards in software craftsmanship.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -775,11 +793,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T20:05:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:50:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses practical strategies for migrating from TF Service to TF Server using the TFS Integration Platform, detailing user account mapping, configuration, and potential challenges, which aligns with pragmatic thinking in a real-world Agile context.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses practical steps for migrating from TF Service to TF Server, which aligns with pragmatic problem-solving in a real-world context. It addresses specific challenges and solutions related to user account mapping and compliance issues, demonstrating adaptability and experience-based decision-making. However, while it touches on relevant themes, the depth of discussion on broader Agile or DevOps principles is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -1045,11 +1066,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T20:05:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:30:16",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration processes involved in migrating from TF Service to TF Server, specifically focusing on user account mapping and system setup. It provides detailed steps on configuring the TFS Integration Platform for this migration, which aligns with system configuration practices.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the configuration aspects of migrating from TF Service to TF Server, detailing specific steps and considerations for user account mapping and system integration. It discusses the configuration of the TFS Integration Platform, which is directly related to system setup and optimisation. The depth of discussion is substantial, covering both source control and work item tracking configurations, which aligns well with the key topics of system configuration. However, while the content is rich in practical details, it does not delve deeply into broader system optimisation strategies or security considerations, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {

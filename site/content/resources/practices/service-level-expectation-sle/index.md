@@ -26,6 +26,8 @@ categories:
 - Scrum
 - Social Technologies
 tags:
+- Forecasting
+- Software Development
 - Metrics and Learning
 - Cycle Time
 - Scrum Team
@@ -33,9 +35,7 @@ tags:
 - Scrum Product Development
 - Agile Frameworks
 - Agile Project Management
-- Empirical Process Control
-- Estimation
-- Forecasting
+- Transparency
 
 ---
 A service level expectation (SLE) forecasts how long it should take a given item to flow from start to finish within the Scrum Team's Workflow. The Scrum Team uses its SLE to find active flow issues and to inspect and adapt in cases of falling below those expectations.

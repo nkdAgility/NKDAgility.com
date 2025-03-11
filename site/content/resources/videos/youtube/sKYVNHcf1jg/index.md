@@ -26,16 +26,8 @@ preview: https://i.ytimg.com/vi/sKYVNHcf1jg/maxresdefault.jpg
 duration: 280
 isShort: false
 tags:
-- Coaching
-- Agile Frameworks
-- Agile Leadership
-- Agile Philosophy
-- Agile Product Management
-- Agile Project Management
-- Agile Transformation
-- Business Agility
-- Organisational Agility
 - People and Process
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

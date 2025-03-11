@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T02:48:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:45:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical application of dependency injection in ASP.NET, which aligns with the exploration and application of tools and methodologies that enhance software development practices.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the implementation of Dependency Injection in ASP.NET, which aligns with practical techniques for enhancing software development. It provides specific code examples and explains the benefits of using Dependency Injection, such as the ability to change functionality without recompiling. However, it lacks a broader discussion on Agile or DevOps methodologies and does not mention specific tools or frameworks related to Agile or DevOps practices, which limits its alignment with the category.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -208,11 +211,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T02:48:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:09:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of Dependency Injection in ASP.NET, which is a key engineering practice that enhances code quality and maintainability, aligning well with the principles of Technical Excellence.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the implementation of Dependency Injection in ASP.NET, which aligns with the principles of modular architecture and emergent design. However, while it touches on the benefits of Dependency Injection, such as flexibility and the ability to change functionality without recompiling, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. The focus is primarily on a specific technical implementation rather than a comprehensive exploration of technical excellence as defined in the category.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -370,11 +376,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T10:29:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:07:35",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of dependency injection in ASP.NET, which aligns closely with best practices in software design and architecture, specifically focusing on code quality, maintainability, and engineering excellence.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the implementation of dependency injection in ASP.NET, which aligns with best practices in software design and architecture. It provides a practical example of how to use dependency injection to enhance code maintainability and flexibility, which are key aspects of technical mastery. However, while it touches on important technical concepts, the discussion lacks depth in exploring broader principles of clean code or software craftsmanship, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -577,11 +586,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T10:29:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:54:31",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of dependency injection in ASP.NET using Unity, which is a clear software development practice. It contains specific code examples and addresses concerns related to software architecture and design principles, thus making it a major topic within the category.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the implementation of dependency injection in ASP.NET, which is a key software development practice. It provides specific code examples and explains the benefits of using dependency injection, aligning well with best practices in coding and software design. The depth of discussion is substantial, as it covers both the implementation details and the advantages of the approach, making it a strong fit for the Software Development category.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -730,12 +742,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-16T10:29:29",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-07T15:45:21",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the implementation of dependency injection in ASP.NET, touching on best practices and coding techniques, which aligns with principles of software craftsmanship. However, the focus is primarily on a specific implementation rather than a broader discussion on engineering excellence.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses the implementation of dependency injection in ASP.NET, which relates to best practices in coding standards and software craftsmanship. However, it lacks a broader discussion on engineering excellence principles, such as quality assurance or continuous improvement processes. The focus is primarily on technical implementation rather than a comprehensive exploration of engineering excellence.",
+    "level": "Tertiary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -775,12 +790,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:09:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical application of dependency injection in ASP.NET and highlights the importance of adaptability and real-world problem solving in software development, making it relevant to pragmatic thinking in a software context.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses practical implementation of dependency injection in ASP.NET, which aligns with pragmatic problem-solving in software development. However, it lacks explicit references to Agile, Scrum, or DevOps frameworks, and the discussion is primarily technical rather than focused on broader project management or team collaboration strategies.",
+    "level": "Quaternary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1198,12 +1216,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:43:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses dependency injection in the context of ASP.NET and WPF, which are frameworks used by software developers. However, it does not primarily focus on Agile or DevOps methodologies, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on technical implementation details of dependency injection in ASP.NET, which is relevant to software development. However, it lacks explicit discussions on Agile methodologies, DevOps principles, or modern engineering practices. While it touches on aspects of software development, it does not engage with the broader themes of collaboration, team dynamics, or best practices in Agile and DevOps contexts, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

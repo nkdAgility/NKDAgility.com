@@ -27,9 +27,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Coaching
+- People and Process
 - Technical Leadership
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

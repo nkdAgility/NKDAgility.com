@@ -32,20 +32,20 @@ sitemap:
   priority: 0.6
 tags:
 - Product Owner
-- Agile Project Management
 - People and Process
 - Agile Product Management
-- Agile Leadership
+- Agile Project Management
 - Agile Product Operating Model
+- Pragmatic Thinking
 - Scrum Product Development
 - Products and Books
-- Pragmatic Thinking
+- Agile Leadership
 resourceTypes:
 - video
 categories:
-- Leadership
 - Product Management
-- Social Technologies
+- Scrum
+- Leadership
 
 ---
 **How good is the APSPO course in helping leaders determine product direction and Why?**

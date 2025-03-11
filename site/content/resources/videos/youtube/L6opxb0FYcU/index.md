@@ -33,20 +33,20 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Values and Principles
-- Scrum Master
 - Agile Frameworks
 - Agile Philosophy
 - Agile Project Management
 - Agile Transformation
 - People and Process
-- Team Performance
 - Agile Product Management
-- Pragmatic Thinking
+- Software Development
+- Personal
+- Scrum Master
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Scrum
+- Social Technologies
 
 ---
 **Worst agile advice you've ever heard?**

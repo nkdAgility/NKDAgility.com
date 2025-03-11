@@ -27,8 +27,8 @@ aliasesArchive:
 - /blog/understanding-tfs-migrations-from-on-premise-to-visual-studio-online
 - /resources/blog/understanding-tfs-migrations-premise-visual-studio-online
 tags:
-- Practical Techniques and Tooling
 - Software Development
+- Practical Techniques and Tooling
 categories: []
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 

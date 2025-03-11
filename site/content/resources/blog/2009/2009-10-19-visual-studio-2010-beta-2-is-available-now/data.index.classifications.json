@@ -73,11 +73,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:09:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:53:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the availability of Visual Studio 2010 Beta 2 and mentions installation aspects, but it primarily focuses on the new features and editions rather than providing detailed installation or configuration instructions.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily discusses the availability of Visual Studio 2010 Beta 2 and its various editions, which indirectly relates to installation and configuration. However, it lacks detailed step-by-step installation procedures or configuration best practices. While it mentions Team Foundation Server Express, which could imply installation, the focus is more on the product features and availability rather than actionable installation guidance.",
     "level": "Tertiary"
   },
   "Transparency and Accountability": {
@@ -262,11 +265,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-16T01:58:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:42:10",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the features and editions of Visual Studio 2010, which is a software product relevant to Agile and DevOps practices.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the release of Visual Studio 2010 Beta 2, detailing its various editions and features. It directly mentions the product multiple times, which aligns with the category's focus on discussions about tools and software. However, while it provides a good overview of the product, it lacks in-depth analysis or reviews that would enhance understanding of Agile or DevOps principles, thus limiting its overall alignment with the category.",
     "level": "Secondary"
   },
   "Value Delivery": {
@@ -334,11 +340,14 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-16T01:58:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:08:03",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio 2010 Beta 2, detailing its features and updates, which aligns with industry news related to technology.",
+    "final_score": 61.0,
+    "reasoning": "The content primarily discusses the release of Visual Studio 2010 Beta 2, which is a significant update in the software development industry. It provides details about the new features, editions, and licensing changes, aligning well with the category of industry news. However, while it mentions updates and new tools, it lacks a deeper analysis or review of the implications of these changes on Agile or DevOps practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Application Lifecycle Management": {
@@ -577,11 +586,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:09:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:08:03",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the availability of Visual Studio 2010 and its features, which are relevant to software development tools, but does not delve into methodologies or practices central to the software development life cycle.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses the release of Visual Studio 2010 Beta 2, including its various editions and features. While it mentions tools relevant to software development, such as Team Foundation Server and Test Elements, the focus is more on the product announcement rather than in-depth discussions of software development methodologies or practices. Therefore, it has some relevance but lacks substantial depth and direct engagement with core software development themes.",
     "level": "Tertiary"
   },
   "Agile Project Management": {
@@ -838,12 +850,15 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T09:09:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:42:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content includes discussions about Test Elements and mentions testing in the context of Visual Studio, suggesting test automation relevance, but it is more focused on the release of Visual Studio 2010 and its features.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions 'Test Elements' and 'Lab management' in the context of Visual Studio 2010, which are related to testing. However, it lacks a focused discussion on test automation principles, frameworks, or practices. The primary focus is on the release of Visual Studio and its features, with only a minor reference to testing tools, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -1099,12 +1114,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:05:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Visual Studio 2010 and mentions its compatibility with Windows operating systems, making Windows a significant aspect, though the primary focus is on Visual Studio itself.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content primarily discusses Visual Studio 2010, which is a software application that runs on the Windows operating system. There are direct mentions of Windows 7 and Vista, indicating some relevance to the Windows category. However, the focus is more on the features and editions of Visual Studio rather than on Windows itself, such as installation or troubleshooting. While there is some alignment with the Windows category, the depth of discussion regarding Windows-specific topics is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",

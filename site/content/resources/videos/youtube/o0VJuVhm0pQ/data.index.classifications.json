@@ -346,12 +346,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T16:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:14:10",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Scrum in product development and its impact on customer acquisition and retention, touching on aspects of execution and innovation. However, the primary focus is on Scrum as a framework rather than on engineering excellence or software craftsmanship principles.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses Scrum and its role in product development, touching on aspects of organisational capability and the need for better engineering practices. However, it primarily focuses on business value and market strategies rather than directly addressing engineering excellence principles, coding standards, or continuous improvement in engineering processes. While there are mentions of technical debt and the need for better practices, these are not the primary focus of the discussion.",
+    "level": "Quaternary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1096,11 +1099,14 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-12T03:52:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:14:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the role of Scrum in product development, focusing on how it can help acquire and retain customers, which aligns closely with Agile Product Management principles. It addresses the importance of product backlog prioritisation, stakeholder engagement, and the need for continuous delivery, all of which are central themes in Agile Product Management.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of Scrum in product development, particularly in competitive markets, and touches on concepts like market value, organizational capability, and evidence-based management. It highlights the importance of transparency in Scrum and how it can inform business decisions, aligning well with Agile Product Management principles. However, while it provides substantial insights, it lacks a structured exploration of specific Agile practices and techniques, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Discovery and Learning": {
@@ -1159,11 +1165,14 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-12T03:52:18",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T12:21:30",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses how Scrum can facilitate competitive advantage and customer acquisition through effective product development, highlighting the importance of rapid feedback loops and the need for organisational capabilities. While it primarily focuses on Scrum, it also touches on themes relevant to market adaptability, making it a major but secondary theme.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses how Scrum can help organisations identify issues related to market responsiveness and innovation, which aligns with the principles of market adaptability. However, it primarily focuses on Scrum's role in facilitating transparency rather than providing detailed strategies or methodologies for enhancing market adaptability. The discussion touches on concepts like time to market and organisational capability, but lacks depth in exploring Agile, DevOps, or Lean methodologies specifically. Overall, while the content is relevant, it does not fully meet the criteria for a primary focus on market adaptability.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -1222,11 +1231,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-12T03:52:28",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses how Scrum can facilitate value delivery in product development, focusing on customer acquisition and retention, measuring market value, and the importance of execution and innovation in delivering value to customers.",
+    "calculated_at": "2025-03-10T14:27:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses how Scrum product development can help acquire and retain customers in competitive markets, focusing on the concepts of current and unrealised value, customer satisfaction, and the importance of organisational capability. It aligns well with the principles of iterative development and the need for continuous delivery of value. The depth of discussion is substantial, covering various aspects of value management, including the role of Scrum in facilitating transparency and the need for business decisions to maximise value. However, it also touches on some technical aspects and personal opinions, which slightly detracts from its primary focus on value delivery.",
     "level": "Secondary"
   },
   "Technical Excellence": {
@@ -1240,11 +1252,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-12T03:52:34",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses Scrum as a framework that can enhance organisational capabilities and adaptability, particularly in the context of acquiring and retaining customers. It touches on leadership roles, the importance of a collaborative culture, and the need for continuous improvement, which are all relevant to organisational agility. However, the primary focus is on Scrum practices rather than a broader exploration of organisational agility principles.",
+    "calculated_at": "2025-03-10T18:21:37",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses Scrum in the context of acquiring and retaining customers in competitive markets, touching on aspects of organisational capability and the need for innovation. However, while it mentions the importance of transparency and the role of Scrum in identifying issues, it lacks a direct focus on broader organisational agility strategies and cultural shifts. The discussion is more centred on Scrum practices rather than a comprehensive exploration of organisational agility principles.",
     "level": "Secondary"
   },
   "Personal": {
@@ -1258,20 +1273,26 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-12T03:52:37",
-    "ai_confidence": 80,
-    "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the interplay between Scrum as a framework and the human factors involved in product development, including team dynamics, leadership roles, and the importance of collaboration and communication in achieving competitive advantage.",
+    "calculated_at": "2025-03-11T10:16:51",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of Scrum in product development, focusing on how it facilitates transparency and organisational capability, which are key aspects of team dynamics and collaboration. It highlights the importance of human factors in decision-making and the need for effective communication within teams. However, while it touches on these themes, the depth of discussion on specific processes and methodologies could be more pronounced, leading to a slightly lower confidence score.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-12T03:52:39",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T11:41:48",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the interplay between Scrum as a framework and the organisational capabilities required for effective product development, highlighting the importance of team dynamics, leadership, and organisational culture in achieving competitive advantage. While it primarily focuses on Scrum, it also addresses how these social aspects influence the technical processes, making it a significant theme.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses Scrum in the context of organisational capability and market value, touching on the interplay between technology (Scrum) and business decisions. However, it primarily focuses on Scrum practices rather than a comprehensive exploration of sociotechnical systems. While it mentions the need for organisational change and transparency, it lacks a deeper analysis of how social and technical elements interact within the organisation, which is crucial for a stronger alignment with the Sociotechnical Systems category.",
     "level": "Secondary"
   },
   "News and Reviews": {
@@ -1321,21 +1342,27 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T08:35:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:21:23",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the Scrum framework, its principles, and its role in product development, customer acquisition, and retention, aligning closely with the category's focus on Agile practices.",
+    "final_score": 74.0,
+    "reasoning": "The content extensively discusses the Scrum framework, including its role in facilitating transparency and continuous improvement within organisations. It addresses key concepts such as product backlog management, time to market, and the importance of organisational capability, which align closely with the core themes of Social Technologies. The depth of discussion is significant, providing insights into how Scrum can help navigate competitive markets, although it also acknowledges the limitations of Scrum in driving business decisions. Overall, the content is highly relevant to the category.",
     "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-18T08:35:36",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the role of leaders in product development and organisational capabilities, making leadership a significant theme, but it primarily focuses on Scrum as a framework.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-10T14:27:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum product development and its role in market competitiveness, with limited focus on leadership practices. While it touches on the need for organisational capability and decision-making, it lacks a direct emphasis on leadership strategies or frameworks. The discussion is more about Scrum's operational aspects rather than the leadership qualities necessary to foster an agile environment.",
+    "level": "Quaternary"
   },
   "Beta Codex": {
     "category": "Beta Codex",

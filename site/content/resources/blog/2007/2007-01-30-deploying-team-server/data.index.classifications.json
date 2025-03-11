@@ -28,12 +28,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T09:51:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:27:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the implementation of TFS and the implications for team structure and collaboration, indicating a secondary theme related to people and process.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the implementation of TFS and the challenges associated with scaling the team, which touches on team dynamics and the need for effective processes. However, it primarily focuses on technical aspects and cost considerations rather than deeply exploring human behaviour or structured methodologies in technology and product development.",
+    "level": "Quaternary"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -94,39 +97,51 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:51:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:22:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implementation of TFS and its importance for managing a large development team, which relates to engineering practices and methodologies. However, the focus is more on the logistical and financial aspects rather than specific technical excellence practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the implementation of TFS (Team Foundation Server) and its importance for managing a large development team, which touches on aspects of technical excellence such as the need for a comprehensive solution for the development life cycle. However, it lacks a direct focus on specific engineering practices or methodologies like TDD or CI/CD, and the discussion is more about the logistical and financial implications rather than technical practices that enhance agility or quality.",
+    "level": "Quaternary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:51:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:07:12",
+    "ai_confidence": 55.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 50.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses TFS (Team Foundation Server), which is part of the Azure DevOps suite, but the focus is more on the implementation and cost considerations rather than specific Azure DevOps functionalities or practices.",
+    "final_score": 50.0,
+    "reasoning": "The content discusses TFS (Team Foundation Server), which is a component of Azure DevOps, but it does not explicitly mention Azure DevOps itself. The discussion touches on project management and the need for a comprehensive development solution, aligning somewhat with Azure DevOps principles. However, the depth of discussion is more focused on the challenges and costs associated with TFS implementation rather than on Azure DevOps functionalities or best practices.",
     "level": "Tertiary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:51:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:54:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implementation of TFS and its implications for team structure and project management, indicating a relationship between technology and organisational dynamics, but it primarily focuses on technical aspects and costs.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the implementation of TFS (Team Foundation Server) and its necessity for a large development team, touching on aspects of organisational structure and the need for effective tools. However, it primarily focuses on technical aspects and cost considerations without deeply exploring the interplay between social and technical systems or the broader implications for team dynamics and organisational culture. While there are hints at the need for collaboration and effective management of a large team, the discussion lacks a comprehensive examination of sociotechnical principles.",
+    "level": "Quaternary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T09:51:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:18:55",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the need for TFS and the importance of metrics in managing a large development team, indicating a secondary theme related to metrics and learning.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses the implementation of TFS and the associated costs, hinting at the importance of metrics in decision-making. However, it lacks a focused discussion on metrics and learning principles, with only brief mentions of metrics and no detailed exploration of data-driven decision-making or feedback mechanisms.",
+    "level": "Quaternary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -346,11 +361,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:51:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:27:00",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implementation of TFS (Team Foundation Server) and its importance in managing a large development team, which relates to DevOps principles. However, the focus is more on project management and infrastructure rather than core DevOps practices.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the implementation of TFS (Team Foundation Server) and its importance in managing a large development team, which aligns with DevOps principles of integrating tools for better collaboration and efficiency. However, the focus is more on project management and cost considerations rather than on core DevOps practices like CI/CD or automation. The discussion lacks depth in terms of specific DevOps methodologies or cultural shifts, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "One Engineering System (1ES)": {
@@ -1057,12 +1075,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T11:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:22:17",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implementation of Team Foundation Server (TFS) and its importance for effective software development, touching on aspects of engineering processes and the need for a complete solution in the development life cycle, but does not delve deeply into best practices or specific methodologies related to engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the implementation of TFS (Team Foundation Server) and its importance for managing a large development team, which touches on aspects of engineering excellence such as the need for a comprehensive solution in the development lifecycle. However, the primary focus is on project management and logistical challenges rather than on software craftsmanship or best practices in coding and quality assurance. The discussion lacks depth in terms of specific engineering practices and does not provide detailed insights into continuous improvement or metrics for assessing engineering performance.",
+    "level": "Quaternary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",

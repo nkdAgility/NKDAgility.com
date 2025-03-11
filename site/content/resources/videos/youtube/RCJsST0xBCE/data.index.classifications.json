@@ -1,21 +1,27 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T11:15:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:28:53",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily focuses on Azure DevOps migration tools, which are integral to DevOps practices, and discusses features and functionalities that enhance the continuous delivery of value.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content focuses extensively on Azure DevOps migration tools, discussing their functionalities, setup, and usage in detail. It directly addresses the integration of tools and processes, which is a core aspect of DevOps. The discussion includes automation, migration processes, and the importance of proper configuration, aligning well with DevOps principles. The depth of the content is significant, providing a comprehensive guide on using the tools effectively, which further supports its strong alignment with the DevOps category.",
+    "level": "Primary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:15:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:30:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Agile practices and Scrum classes, indicating a secondary theme related to social technologies, but the primary focus is on Azure DevOps migration tools.",
-    "level": "Tertiary"
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on Azure DevOps migration tools and technical details related to migration processes, with no explicit discussion of Scrum, Kanban, Lean, or Agile practices. While it may touch on aspects of team collaboration indirectly through the context of migration, it lacks a direct connection to the core themes of Social Technologies as defined in the classification criteria.",
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -100,12 +106,15 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T11:35:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:27:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions upcoming professional Scrum classes, which indicates a connection to events, but the primary focus is on a tutorial for Azure DevOps migration tools.",
-    "level": "Tertiary"
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the technical aspects of Azure DevOps migration tools and does not discuss any events, presentations, or related topics. There are no mentions of talks, conferences, or workshops, and the discussion is entirely centred on the functionality and usage of the migration tools, lacking any connection to the category of Events and Presentations.",
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -433,12 +442,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-18T11:35:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:45:41",
+    "ai_confidence": 92.0,
+    "ai_mentions": 95.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 93.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily focuses on Azure DevOps migration tools, discussing features and functionalities directly related to Azure DevOps, which aligns well with the category.",
-    "level": "Secondary"
+    "final_score": 85.0,
+    "reasoning": "The content is a comprehensive guide focused on Azure DevOps migration tools, detailing their functionalities, usage, and best practices. It explicitly discusses various aspects of Azure DevOps, including migration processes, tool capabilities, and integration with Azure services, aligning closely with the key topics of the Azure DevOps category. The depth of discussion is significant, providing detailed instructions and insights into the migration process, which further supports a high confidence score.",
+    "level": "Primary"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
@@ -451,11 +463,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-18T11:35:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:28:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Azure DevOps migration tools, which is relevant to software development and aligns with DevOps practices; however, it lacks a deeper exploration of the roles and practices of software developers in Agile settings.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses Azure DevOps migration tools, which are relevant to software developers, particularly in the context of DevOps practices. However, while it touches on aspects of migration and tool usage, it lacks a direct focus on Agile methodologies or broader developer roles within Agile and DevOps frameworks. The depth of discussion on specific tools and processes is substantial, but it does not fully explore the collaborative and iterative aspects of Agile development, which are central to the category's definition.",
     "level": "Tertiary"
   },
   "Lean Product Development": {
@@ -568,12 +583,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-18T11:35:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:30:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily focuses on Azure DevOps migration tools, which are related to engineering practices in a software development context. However, it lacks an in-depth discussion on technical excellence principles such as TDD, CI/CD, modular architecture, or agile methodologies. Therefore, it is a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the Azure DevOps migration tools, detailing their functionality and usage. While it touches on aspects of technical practices, such as migration processes and tool configurations, it lacks a direct discussion on broader engineering methodologies like TDD, CI/CD, or modular architecture. The depth of technical detail is moderate, but it does not sufficiently align with the core themes of Technical Excellence, which emphasises agile engineering practices and methodologies. Therefore, the confidence score reflects a limited but present relevance to the category.",
+    "level": "Quaternary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -1171,12 +1189,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T11:35:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:36:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 35,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses practical aspects of Azure DevOps migration tools, indicating a focus on real-world applications in a DevOps context, but it does not primarily center on pragmatic thinking techniques.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content provides a detailed guide on using Azure DevOps migration tools, which aligns with pragmatic thinking by focusing on practical problem-solving strategies in a real-world context. It discusses specific tools, their functionalities, and practical advice for users, demonstrating adaptability and experience-based decision-making. However, while it touches on Agile and DevOps principles, the primary focus is on tool usage rather than broader strategic discussions, which slightly limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",

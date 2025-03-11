@@ -8,7 +8,7 @@ ResourceImportId: 4138
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-02-02
-weight: 775
+weight: 720
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,8 +30,8 @@ aliasesArchive:
 - /resources/blog/visual-studio-2010-overview-reporting-process
 tags:
 - Practical Techniques and Tooling
-- Application Lifecycle Management
 - Software Development
+- Application Lifecycle Management
 - Operational Practices
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories:

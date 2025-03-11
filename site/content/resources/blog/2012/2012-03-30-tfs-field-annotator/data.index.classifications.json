@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T20:44:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:21:48",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a specific tool (TFS Field Annotator) and its practical application for managing TFS Work Items, including installation instructions and troubleshooting, which aligns with the category focus.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses a specific tool, the TFS Field Annotator, which aligns with the category's focus on practical tooling. It provides a clear overview of the tool's functionality and prerequisites, demonstrating its application in a real-world context. However, while it mentions the tool and its features, the depth of discussion is limited, lacking broader insights into methodologies or best practices for integrating such tools within Agile or DevOps frameworks.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T20:45:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:56:55",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content provides clear installation instructions and prerequisites for the TFS Field Annotator, along with troubleshooting steps, making it primarily focused on installation and configuration.",
+    "final_score": 72.0,
+    "reasoning": "The content provides a clear installation guide for the TFS Field Annotator, detailing prerequisites and steps to launch the application. It explicitly mentions required software and includes troubleshooting tips, aligning well with the core themes of installation and configuration. However, while it covers installation and some configuration aspects, it lacks extensive depth in discussing best practices or broader integration within workflows, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -262,12 +268,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:00:14",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses a specific software tool (TFS Field Annotator) that aids in managing TFS Work Items, which aligns with the category's focus on tools and software relevant to Agile and DevOps practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on the TFS Field Annotator tool, providing a description of its features and installation instructions. While it does mention a specific product, the discussion lacks depth regarding its application within Agile or DevOps methodologies. The content does not provide reviews, analyses, or broader discussions that would enhance understanding of Agile principles, which limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -280,12 +289,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:35:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses TFS (Team Foundation Server), which is part of the Azure DevOps suite, but primarily focuses on a specific tool rather than broader Azure DevOps functionalities or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a tool related to TFS (Team Foundation Server), which is part of the Azure DevOps suite. However, it lacks a direct focus on Azure DevOps functionalities, methodologies, or best practices. The mention of TFS is relevant but does not delve into broader Azure DevOps topics such as CI/CD, Agile practices, or integration with other tools. The depth of discussion is limited to the specific tool without exploring its implications within the Azure DevOps ecosystem.",
+    "level": "Quaternary"
   },
   "Personal": {
     "category": "Personal",
@@ -1099,11 +1111,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T00:54:02",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-10T14:56:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 50,
-    "final_score": 72.0,
-    "reasoning": "Content discusses the TFS Field Annotator application, its functionality, prerequisites like Visual Studio, and provides Windows-specific troubleshooting steps; although the primary focus is on the application itself, Windows usage is a significant theme.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the TFS Field Annotator, which is a tool that operates within the Windows environment, specifically mentioning compatibility with Windows 8 and installation prerequisites like Visual Studio and .NET. It provides detailed instructions on troubleshooting issues related to launching the application on Windows, which aligns well with the category's focus on troubleshooting and configuration. However, while it does touch on Windows-related aspects, the main focus is on the TFS tool itself rather than a broader discussion of Windows as an operating system, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
@@ -1153,11 +1168,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T00:54:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:44:57",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content provides clear troubleshooting steps for launching the TFS Field Annotator application, addressing a specific issue regarding security settings in Windows 8.",
+    "final_score": 75.0,
+    "reasoning": "The content includes a dedicated section on troubleshooting the TFS Field Annotator application, providing specific steps to resolve a known issue related to Windows 8 security settings. This aligns well with the category's focus on identifying and resolving technical issues. The direct mention of troubleshooting, along with detailed instructions, demonstrates a strong alignment with the core themes of the category. However, the overall focus of the content is more on the application features rather than an extensive exploration of troubleshooting methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Experimentation": {

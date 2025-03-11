@@ -26,14 +26,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Throughput
-- People and Process
 - Cycle Time
 - Flow Efficiency
-- Agile Frameworks
+- Throughput
 - Operational Practices
 - Pragmatic Thinking
+- People and Process
 - Metrics and Learning
+- Agile Frameworks
 - Organisational Physics
 - Lean
 resourceTypes:

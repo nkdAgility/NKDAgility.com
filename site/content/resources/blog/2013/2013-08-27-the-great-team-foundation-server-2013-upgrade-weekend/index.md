@@ -8,7 +8,7 @@ ResourceImportId: 9989
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-08-27
-weight: 770
+weight: 850
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,9 +27,7 @@ tags:
 - Events and Presentations
 - News and Reviews
 - Products and Books
-categories:
-- Engineering Excellence
-- DevOps
+categories: []
 
 ---
 The product team have put some more engineering resources where their mouth is and the great Team Foundation Server 2013 Upgrade Weekend will be on September 13-15.

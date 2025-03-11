@@ -8,7 +8,7 @@ ResourceImportId: 7161
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-16
-weight: 770
+weight: 850
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,9 +30,9 @@ aliasesArchive:
 - /resources/blog/tfs-preview-issue-tf400898-the-underlying-connection-was-closed
 tags:
 - Troubleshooting
-categories:
-- DevOps
-- Engineering Excellence
+- Software Development
+- Modern Source Control
+categories: []
 preview: metro-problem-icon-4-4.png
 
 ---

@@ -10,11 +10,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:41:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:26:36",
+    "ai_confidence": 85.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content provides a step-by-step guide for resolving an installation issue related to SignTool and CAPICOM, which aligns with the category's focus on installation procedures.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a clear, step-by-step guide on resolving a specific installation issue related to SignTool and CAPICOM, which directly aligns with the category of Install and Configuration. It explicitly mentions the installation of CAPICOM.dll and includes detailed instructions, demonstrating a strong focus on practical implementation. The depth of discussion is high, as it outlines specific actions to take, which enhances its relevance to the category.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -220,12 +223,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:41:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:21:56",
+    "ai_confidence": 65.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content provides a practical solution for resolving a specific error related to the use of SignTool, detailing steps to install and configure CAPICOM, which aligns with the application of tooling in a development context.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content provides a practical solution to a specific error related to the use of SignTool and CAPICOM, detailing steps for resolution. It directly mentions a tool (SignTool) and a related component (CAPICOM), aligning with the category's focus on practical techniques and tooling. However, the discussion is limited to a specific issue without broader context on Agile or DevOps methodologies, which affects the overall depth and alignment with the category's core themes.",
+    "level": "Tertiary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -382,11 +388,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T11:46:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:18:46",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "Content primarily discusses an error related to SignTool, which is a Windows utility, and includes installation steps that involve the Windows operating system's directory and commands.",
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses an error related to the SignTool and CAPICOM, which are components associated with the Windows operating system. It provides a step-by-step guide for resolving a specific issue that involves Windows system directories and commands. However, while it mentions Windows-related actions, the focus is more on a specific error and its resolution rather than a broader discussion of Windows installation, configuration, or troubleshooting. Therefore, while it aligns with the Windows category, it does not delve deeply into the core themes of the category.",
     "level": "Secondary"
   },
   "Azure Repos": {
@@ -463,11 +472,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T11:46:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:53:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content provides detailed instructions on configuring the environment for SignTool by installing the proper version of CAPICOM, including steps for file management and registry registration, which are central to system configuration.",
+    "final_score": 65.0,
+    "reasoning": "The content directly addresses a specific error related to the configuration of the SignTool and the required CAPICOM version, which falls under system configuration. It provides a step-by-step guide for resolving the issue, demonstrating practical application and depth in the configuration process. However, while it is focused on a specific configuration issue, it does not explore broader themes such as optimisation strategies or security considerations, which slightly limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
@@ -715,12 +727,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T11:46:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:06:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content provides specific instructions related to troubleshooting a software deployment issue, which touches on software technicalities; however, the primary focus is on a specific operational error rather than overarching technical principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily addresses a specific error related to the use of SignTool and CAPICOM, providing a step-by-step solution. While it touches on technical aspects, such as file management and permissions, it lacks a broader discussion on software craftsmanship, design principles, or engineering practices. The focus is more on troubleshooting rather than on the methodologies or principles that contribute to high-quality software development.",
+    "level": "Quaternary"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",

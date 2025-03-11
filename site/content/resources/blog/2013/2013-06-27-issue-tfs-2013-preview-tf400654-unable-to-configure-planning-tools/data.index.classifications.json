@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T18:18:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:59:47",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses practical techniques for configuring Planning Tools in Team Foundation Server, including specific steps for updating process templates and custom fields.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses a specific error related to configuring Planning Tools in Team Foundation Server (TFS) and provides a solution that involves practical steps for updating a process template. While it does mention tooling (TFS) and offers a solution, the focus is primarily on troubleshooting rather than a broader exploration of Agile or DevOps methodologies or frameworks. The depth of discussion is moderate, as it outlines steps to resolve a specific issue but lacks comprehensive insights into best practices or case studies that would enhance team performance or collaboration.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T18:18:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:46:58",
+    "ai_confidence": 85.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses troubleshooting and configuring the Planning Tools in Team Foundation Server 2013, providing step-by-step instructions for resolving the TF400654 error and updating the process template, which aligns with installation and configuration topics.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses a specific error related to configuring Planning Tools in Team Foundation Server 2013, which directly aligns with installation and configuration processes. It provides a detailed solution that includes step-by-step instructions for updating the process template, which is a core aspect of configuration best practices. The depth of discussion is significant, as it not only identifies the problem but also offers a comprehensive solution, including links to further resources. Overall, the content is highly relevant to the category, focusing on practical installation and configuration issues.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:59:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses configuring planning tools in Team Foundation Server, which relates to process templates and team project management, but it primarily focuses on a specific error and its resolution rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses an error related to configuring planning tools in Team Foundation Server (TFS) and provides a solution for updating process templates. While it touches on aspects of configuration and process management, it lacks a direct focus on DevOps principles such as CI/CD, automation, or cultural shifts. The mention of the Visual Studio Scrum process template indicates a connection to Agile methodologies rather than a comprehensive discussion of DevOps practices. Overall, the content is more technical and specific to TFS rather than embodying the broader themes of DevOps.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -280,11 +289,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T18:18:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:48:57",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses an error related to Team Foundation Server (TFS), which is part of the Azure DevOps suite, and provides a solution for configuring planning tools within that context.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific error related to Team Foundation Server (TFS), which is part of the Azure DevOps suite. It provides a detailed explanation of the error, its causes, and a solution involving process templates, which aligns with Azure DevOps functionalities. The mention of TFS and process templates indicates a strong focus on Azure DevOps, although it does not cover broader topics like CI/CD or agile project management practices. The depth of the discussion is substantial, providing actionable steps for resolution, which enhances the overall confidence score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -577,11 +589,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T19:01:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:53:53",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses a specific error related to configuring planning tools in Team Foundation Server, including guidance on process template customization, which is a practice in software development.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses a specific error related to configuring Planning Tools in Team Foundation Server (TFS), which is relevant to software development practices, particularly in the context of process templates and configuration management. It provides a solution that involves modifying the process template, which aligns with best practices in software development. However, while it touches on relevant topics, the discussion lacks depth in broader software development methodologies and principles, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1045,11 +1060,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T19:01:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:38:13",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the error encountered when configuring Planning Tools in TFS 2013 and provides a solution that involves manual updates to the process template, which aligns with system configuration practices.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses a specific error related to configuring Planning Tools in Team Foundation Server (TFS), which directly aligns with system configuration. It provides detailed steps for resolving the issue, including manual updates to the process template and specific actions to take, demonstrating a strong focus on configuration management. The mention of custom fields and process templates further supports its relevance to system configuration practices. Overall, the content is rich in detail and directly addresses configuration issues, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1153,11 +1171,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T19:01:54",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T10:28:33",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily focuses on diagnosing and resolving the specific error 'TF400654: Unable to configure Planning Tools' in the context of Team Foundation Server 2013 Preview. It provides clear steps for troubleshooting this issue, detailing the investigation into the root cause related to custom process templates and outlining a solution. This aligns well with the troubleshooting category.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses a specific error (TF400654) encountered in Team Foundation Server 2013 and provides a detailed solution for resolving it. It identifies the issue related to the configuration of Planning Tools and explains the necessary steps to troubleshoot and fix the problem, which aligns well with the core themes of the Troubleshooting category. The depth of discussion is substantial, as it outlines the findings and provides a clear solution, demonstrating a strong focus on diagnosing and resolving a technical issue.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -1360,12 +1381,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:16:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:46:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Visual Studio Scrum 3.0 process template, which relates to Agile practices, but the primary focus is on troubleshooting a specific error in Team Foundation Server rather than on Scrum or Agile methodologies themselves.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific error related to configuring Planning Tools in Team Foundation Server (TFS) and provides a solution involving the Visual Studio Scrum 3.0 process template. While it mentions Scrum indirectly through the reference to the process template, the primary focus is on troubleshooting a technical issue rather than on the principles or practices of Scrum, Kanban, Lean, or Agile methodologies. The depth of discussion is moderate, as it provides a step-by-step solution, but it lacks a broader context of social technologies or their impact on collaboration and continuous improvement.",
+    "level": "Quaternary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

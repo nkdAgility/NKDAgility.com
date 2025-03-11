@@ -28,12 +28,11 @@ sitemap:
   priority: 0.6
 tags:
 - Pragmatic Thinking
-- People and Process
 - Miscellaneous
+- People and Process
 resourceTypes:
 - video
-categories:
-- Leadership
+categories: []
 
 ---
 ## The Thin Line: Dogma vs Empiricism in Consulting Engagements

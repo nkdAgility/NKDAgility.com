@@ -10,20 +10,26 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T17:04:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:14:44",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the use of virtual labs and automation tools in the context of modern application development, focusing on practical techniques for integrating these tools into Agile and DevOps practices.",
+    "final_score": 76.0,
+    "reasoning": "The content provides a comprehensive exploration of virtual labs within the context of modern application development, discussing specific tools like Visual Studio 2012 and Hyper-V, and methodologies for integrating these tools into Agile and DevOps practices. It addresses practical challenges faced by development and operations teams, detailing how virtual labs can alleviate these issues. The depth of discussion on integration points and automation further solidifies its alignment with the category, making it a strong fit for 'Practical Techniques and Tooling'.",
     "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-14T17:04:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:52:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the challenges and solutions related to virtual labs in the context of modern application development, which aligns with the principles of Platform Engineering, particularly in enhancing developer productivity and optimising the application lifecycle.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the challenges and solutions related to virtual labs in the context of modern application development, which aligns with the principles of Platform Engineering. It addresses the need for internal developer platforms (IDPs) to enhance developer productivity and automate workflows. The mention of integration with tools like Visual Studio Team Foundation Server and Hyper-V indicates a focus on internal processes. However, while it touches on relevant topics, the depth of discussion on specific platform engineering principles and practices could be more pronounced.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
@@ -118,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T17:05:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:14:41",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the integration of development and operations through the use of virtual labs, automation, and continuous delivery practices, which are central to DevOps principles.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the integration of development and operations through the use of virtual labs, automation, and continuous delivery practices. It highlights the challenges faced by both Development and Operations teams in modern application lifecycles, aligning well with key DevOps principles. The depth of discussion on automation, integration points, and the need for collaboration between teams further supports a strong alignment with the DevOps category.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -208,11 +217,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-14T17:05:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:53:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the challenges and solutions related to modern application development, focusing on the integration of virtual labs, automated testing, and deployment processes, which are key aspects of technical excellence in software engineering.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the complexities of modern application development and the role of virtual labs in addressing these challenges. It explicitly mentions automation, integration points, and the need for continuous delivery, which aligns well with the principles of Technical Excellence. The depth of discussion on problems faced by development and operations teams, as well as potential solutions, indicates a strong focus on engineering practices. However, while it touches on relevant topics, it does not delve deeply into specific methodologies like TDD or CI/CD, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -235,11 +247,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-14T17:05:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:42:01",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the challenges and solutions related to delivering modern applications, including the integration of virtual labs into the application lifecycle, which aligns closely with product delivery methodologies and practices.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the challenges and solutions related to modern application delivery, particularly focusing on virtual labs, automated testing, and integration with development tools. It aligns well with key topics in product delivery, such as the importance of testing, deployment strategies, and the role of cross-functional teams. However, while it provides substantial detail, it occasionally veers into technical specifics that may not directly contribute to the broader understanding of product delivery methodologies.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -262,11 +277,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-14T17:05:58",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T10:32:21",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses various tools and platforms related to virtual labs and their integration with development processes, which aligns with the category's focus on tools and software that facilitate Agile practices and DevOps integration.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses various tools and technologies related to virtual labs and their integration with Visual Studio Team Foundation Server, which aligns with the category's focus on products that facilitate Agile and DevOps practices. However, it lacks specific reviews or analyses of books or literature, and while it mentions products, the discussion is more about their functionalities rather than a critical evaluation or recommendation. Therefore, while there is a clear connection to the category, it is not the primary focus.",
     "level": "Secondary"
   },
   "Value Delivery": {
@@ -280,11 +298,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-14T17:06:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:57:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the integration of virtual labs with Visual Studio Team Foundation Server, which is a key component of Azure DevOps, and addresses CI/CD practices and challenges faced by development and operations teams.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses various aspects of virtual labs and their integration with Visual Studio Team Foundation Server, which is part of the Azure DevOps suite. However, while it touches on relevant tools and concepts, the primary focus is on virtualisation and automation challenges rather than a comprehensive exploration of Azure DevOps functionalities or best practices. The mention of Azure is limited and does not delve deeply into Azure DevOps methodologies or services.",
     "level": "Secondary"
   },
   "Personal": {
@@ -730,11 +751,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-14T17:07:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:52:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the challenges and solutions related to modern application development, focusing on automation, integration, and the use of virtual labs to enhance development processes, which aligns with the principles of engineering excellence.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the challenges and solutions related to modern application development, particularly focusing on virtual labs and automation. While it touches on aspects of engineering excellence, such as automation maintenance and the integration of development and operations teams, it lacks a direct and explicit focus on broader principles of software craftsmanship and quality assurance. The depth of discussion on specific engineering practices is moderate, but it does not comprehensively cover the key topics outlined in the category definition.",
     "level": "Secondary"
   },
   "Revenue per Employee": {

@@ -28,6 +28,8 @@ tags:
 - Team Collaboration
 - Collaboration Tools
 - People and Process
+- Agile Project Management
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

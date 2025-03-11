@@ -82,12 +82,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the historical context of project management and its evolution, touching on aspects relevant to product management, such as the need for frameworks and methodologies in complex environments. However, the primary focus is on Taylorism and its influence on project management rather than on product management strategies or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-07T14:13:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Taylorism and its historical influence on project management rather than focusing on product management specifically. While it touches on some relevant themes, such as the evolution of management practices and the need for adaptability in modern contexts, it lacks direct references to product management methodologies, frameworks, or strategic alignment with customer needs and business objectives. The depth of discussion on project management techniques is notable, but it does not sufficiently address the core aspects of product management as defined in the category.",
+    "level": "Quaternary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -460,12 +463,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:26:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the evolution of project management practices, including Agile methodologies, which are relevant to software developers. However, the primary focus is on Taylorism and its historical context rather than directly on the role of software developers in Agile and DevOps frameworks.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Taylorism and its historical influence on project management rather than focusing on software developers or Agile and DevOps methodologies. While it briefly touches on the evolution of project management practices, it lacks direct relevance to the role of software developers and does not provide substantial insights into Agile or DevOps principles. The mention of Agile practices at the end is too vague and does not delve into how developers can leverage these methodologies.",
+    "level": "Quinary"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -550,12 +556,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the evolution of project management practices, including the limitations of Taylorism in complex environments and the need for Agile methodologies, which aligns with pragmatic thinking. However, the primary focus is on historical context rather than practical problem-solving strategies in Agile or Scrum contexts.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-11T10:16:31",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses Taylorism and its historical influence on project management, touching on the evolution of management practices and the need for adaptability in modern contexts. While it does mention Agile practices and the importance of adapting to high competition and variability, the primary focus is on historical context rather than practical problem-solving strategies or real-world applications in Agile, Scrum, or DevOps. The depth of discussion on adaptability and reducing bureaucracy is present but not extensively detailed, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -586,12 +595,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:41:18",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the evolution of project management from Taylorism to Agile methodologies, highlighting the need for adaptability and new approaches in complex environments, which aligns with Agile Strategy themes.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the historical context of Taylorism and its influence on project management, touching on the evolution towards Agile practices. While it mentions the need for adaptability and value delivery, the primary focus is on traditional management methods rather than a strategic discussion of Agile methodologies. The connection to Agile is present but not deeply explored, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -721,12 +733,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the evolution of management practices, particularly Taylorism, and its impact on project management and organisational structures. While it touches on the need for change in response to complex environments, the primary focus remains on historical management practices rather than a clear, structured discussion of organisational change methodologies or frameworks.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-10T18:21:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Taylorism and its historical influence on project management, touching on themes of hierarchy and traditional management practices. However, it primarily focuses on the historical context and evolution of project management rather than on organisational change strategies or methodologies. While there are mentions of adapting to modern demands and the need for agility, these are not the primary focus of the content, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -1255,21 +1270,27 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-11T23:24:16",
-    "ai_confidence": 80,
-    "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the historical context and implications of Taylorism on project management, focusing on the roles of managers, supervisors, and workers, which aligns with the interplay between human behaviour and structured methodologies in technology and product development.",
+    "calculated_at": "2025-03-07T14:13:23",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses Taylorism and its historical impact on project management, focusing on the human factors involved in traditional management practices. It highlights the hierarchical structures that emerged from Taylor's principles and critiques the lack of a people-focused approach in many project management methodologies. The discussion on how modern practices are evolving to incorporate more agile and adaptable methods further aligns with the category's emphasis on team dynamics and collaboration. However, while the content is rich in historical context and implications for people and processes, it could benefit from more direct examples of current team dynamics and specific strategies for improving collaboration.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-11T23:24:18",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the historical context and evolution of project management practices, particularly Taylorism, and its impact on organisational structures and team dynamics. While it primarily focuses on project management, it also touches on the interplay between social and technical aspects, especially in relation to Agile methodologies as a response to the limitations of traditional approaches. However, the primary focus remains on project management rather than a comprehensive exploration of sociotechnical systems.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-10T12:20:44",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses Taylorism and its historical influence on project management, touching on themes of hierarchy and organisational structure. However, it primarily focuses on the historical context and evolution of project management practices rather than explicitly addressing the interplay between social and technical systems in a contemporary setting. While there are mentions of organisational dynamics, the depth of discussion on sociotechnical systems is limited, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -1318,12 +1339,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T08:34:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:20:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the evolution of project management, including references to Agile methodologies, which are a significant theme, but the primary focus is on Taylorism and its historical context.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Taylorism and its historical influence on project management, touching on traditional methods and the evolution towards more adaptive practices like Lean and Agile. However, it primarily focuses on the historical context and critiques of project management rather than directly addressing the frameworks of Scrum, Kanban, Lean, or Agile in detail. While there are mentions of Lean and Agile, they are not the primary focus, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Leadership": {
     "category": "Leadership",

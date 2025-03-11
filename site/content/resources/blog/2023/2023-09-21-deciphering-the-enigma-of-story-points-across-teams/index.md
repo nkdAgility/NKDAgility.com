@@ -8,7 +8,7 @@ ResourceImportId: 49888
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2023-09-21
-weight: 545
+weight: 470
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -24,16 +24,16 @@ aliasesArchive:
 - /deciphering-the-enigma-of-story-points-across-teams
 - /resources/blog/deciphering-the-enigma-of-story-points-across-teams
 tags:
+- Metrics and Learning
+- Value Delivery
 - Throughput
 - Flow Efficiency
 - Agile Project Management
-- Metrics and Learning
-- Value Delivery
 - Agile Product Management
-- Decision Making
 - Team Performance
-- Evidence Based Leadership
 - Operational Practices
+- Practical Techniques and Tooling
+- Pragmatic Thinking
 categories:
 - Product Management
 - Social Technologies

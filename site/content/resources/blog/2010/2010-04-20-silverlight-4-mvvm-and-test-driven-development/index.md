@@ -8,7 +8,7 @@ ResourceImportId: 49
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-04-20
-weight: 775
+weight: 810
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -31,10 +31,9 @@ aliasesArchive:
 - /blog/silverlight-4--mvvm-and-test-driven-development
 - /resources/blog/silverlight-4-mvvm-and-test-driven-development
 tags:
-- Software Development
 - Events and Presentations
-- Technical Mastery
-- Test Driven Development
+- Software Development
+- Technical Excellence
 categories:
 - Engineering Excellence
 preview: metro-visual-studio-2010-128-link-2-2.png

@@ -29,10 +29,10 @@ sitemap:
   priority: 0.6
 tags:
 - Complexity Thinking
+- Pragmatic Thinking
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 ## Project Management in Intricate Environments

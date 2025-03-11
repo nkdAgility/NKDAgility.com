@@ -8,7 +8,7 @@ ResourceImportId: 363
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-07-23
-weight: 775
+weight: 720
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,16 +26,16 @@ categories:
 - DevOps
 preview: metro-binary-vb-128-link-1-1.png
 tags:
-- Application Lifecycle Management
+- Product Delivery
 - Deployment Strategies
-- Install and Configuration
-- Practical Techniques and Tooling
 - Release Management
-- System Configuration
 - Operational Practices
 - Pragmatic Thinking
-- Product Delivery
 - Software Development
+- Install and Configuration
+- System Configuration
+- Application Lifecycle Management
+- Practical Techniques and Tooling
 
 ---
 Over the past week I have been working on creating and documenting a deployment process for our new main business application. This application is very complicated and requires twenty servers per four environments. We need to track and control deployment to UAT, pre-production, production and C&R (disaster recovery site), but my company as a larger organization only requires control of production.

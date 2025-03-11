@@ -16,6 +16,8 @@ aliases:
 - /resources/SOXXjw2lnAK
 tags:
 - Transparency
+- News and Reviews
+- People and Process
 - Transparency and Accountability
 
 ---

@@ -226,12 +226,15 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T11:38:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:50:28",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content provides detailed statistics on TFS usage, which aligns with the collection and analysis of performance data, a key aspect of metrics and learning in Agile and DevOps practices.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content provides a variety of statistics related to TFS usage, which can be seen as metrics. However, it lacks a clear discussion on how these metrics are used for learning or continuous improvement. The focus is primarily on raw data without any analysis or connection to Agile or DevOps practices, resulting in a moderate confidence score.",
+    "level": "Tertiary"
   },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",
@@ -280,11 +283,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:13:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:09:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content provides statistics related to TFS (Team Foundation Server), which is part of the Azure DevOps suite, but it does not delve into specific functionalities or best practices associated with Azure DevOps.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses usage statistics related to Team Foundation Server (TFS), which is a component of Azure DevOps. However, it lacks a detailed exploration of Azure DevOps functionalities, best practices, or methodologies. While TFS is mentioned, the focus is more on raw statistics rather than insights into Azure DevOps practices or tools, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Transparency and Accountability": {
@@ -298,12 +304,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:45:21",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content provides statistics related to TFS, which is a tool used in Application Lifecycle Management, but it primarily focuses on usage metrics rather than discussing the lifecycle stages or best practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content provides statistics related to TFS usage, which is a tool that can be part of Application Lifecycle Management. However, it lacks explicit discussions on the stages of the application lifecycle, best practices, or governance. The mention of 'ALM' in the tags suggests a connection, but the main content does not delve into the core themes of Application Lifecycle Management, resulting in a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -712,11 +721,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:56:32",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content provides statistics related to TFS, which is a tool used in software development for version control and work item management. While it focuses on usage statistics, the primary topic is relevant to practices within software development.",
+    "final_score": 56.0,
+    "reasoning": "The content provides specific statistics related to Team Foundation Server (TFS), which is a tool used in software development for version control and project management. While it does not explicitly discuss methodologies or best practices, it aligns with the category by detailing aspects of version control and work item tracking, which are integral to the software development lifecycle. However, the lack of in-depth discussion on methodologies or practices limits the overall depth of the content.",
     "level": "Tertiary"
   },
   "Agile Frameworks": {
@@ -1045,11 +1057,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-16T11:43:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:12:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses statistics related to version control usage, including user engagement, check-ins, merges, and other aspects relevant to source control practices, specifically in the context of Team Foundation Server. This fits well with the themes of version control systems and code management.",
+    "final_score": 66.0,
+    "reasoning": "The content provides specific statistics related to version control usage within Team Foundation Server (TFS), including user counts, check-ins, and merge history. While it does not delve deeply into best practices or methodologies, it does focus on version control aspects, which aligns with the category. However, the lack of detailed discussion on strategies or processes limits the depth of the content.",
     "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
@@ -1090,12 +1105,15 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T09:13:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:11:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content provides statistics related to version control usage in TFS, which includes Azure Repos functionalities but primarily focuses on usage data rather than best practices or features.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content provides statistics related to Team Foundation Server (TFS), which is closely associated with Azure Repos. However, it primarily focuses on usage statistics rather than discussing Azure Repos functionalities, best practices, or integration in detail. While it mentions version control and check-ins, it lacks a comprehensive exploration of the core themes outlined for Azure Repos, such as branching strategies, pull requests, or CI/CD integration.",
+    "level": "Quaternary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",

@@ -28,9 +28,10 @@ aliasesArchive:
 - /resources/blog/issue-sharepoint-2013-the-username-is-invalid-the-account-must-be-a-valid-domain-account
 tags:
 - Install and Configuration
-- Practical Techniques and Tooling
 - System Configuration
 - Troubleshooting
+- Practical Techniques and Tooling
+- Windows
 categories: []
 preview: metro-problem-icon-5-5.png
 

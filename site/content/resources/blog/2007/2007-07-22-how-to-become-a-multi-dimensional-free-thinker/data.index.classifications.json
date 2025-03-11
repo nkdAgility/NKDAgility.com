@@ -280,12 +280,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:13:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:04:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses personal experiences and insights related to dyslexia and its impact on thinking styles, which aligns with the Personal category, but it does not focus specifically on Agile, Scrum, or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses personal experiences related to dyslexia and its impact on thinking styles, which aligns with the Personal category. However, it lacks a direct connection to Agile, Scrum, or DevOps methodologies, and the depth of discussion on personal insights is limited.",
+    "level": "Quaternary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -568,21 +571,27 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:22:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content briefly mentions software developers in the context of multi-dimensional thinking and dyslexia, making it a secondary theme, but does not primarily discuss Agile, DevOps, or relevant practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions software developers in the context of multi-dimensional thinking and dyslexia, but it does not delve into Agile, DevOps, or modern engineering practices. The discussion lacks depth and does not focus on the role of software developers within the specified frameworks, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:18:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "Content mentions software developers in the context of multi-dimensional thinking, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content briefly mentions software development in the context of multi-dimensional thinking and dyslexia, but it lacks a focused discussion on software development practices or methodologies. The alignment with core themes is minimal, and the depth of discussion is superficial, primarily highlighting the potential benefits of dyslexia rather than providing insights into software engineering processes.",
+    "level": "Quaternary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",

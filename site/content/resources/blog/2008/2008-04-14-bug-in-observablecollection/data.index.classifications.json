@@ -217,12 +217,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:13:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:12:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific coding issue related to the use of ObservableCollection with generics, which touches on code quality and complexity in terms of limitations and workarounds. However, it primarily focuses on a specific problem rather than a broader discussion of code quality principles or complexity theory.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses a specific coding issue related to the use of `ObservableCollection` with generic types. While it touches on code quality and the challenges of using generics, it lacks a broader discussion on complexity theory or best practices in software development. The focus is more on troubleshooting a specific problem rather than exploring the interplay between code quality and complexity in a comprehensive manner.",
+    "level": "Quaternary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -568,20 +571,26 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:47:15",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical issue related to ObservableCollection and generics in .NET, which is relevant to software development. However, it does not directly address Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses a technical issue related to the use of ObservableCollection in .NET, which is a specific programming problem rather than a broader discussion on Agile, DevOps, or modern engineering practices. While it does touch on software development concepts, it lacks direct references to Agile methodologies, DevOps principles, or collaborative practices among developers. The depth of the discussion is focused on a coding problem rather than the role of software developers in a team or project context.",
+    "level": "Quaternary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T18:38:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:58:50",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a specific problem related to the use of ObservableCollection in software development, focusing on the coding aspect and providing examples of code. It fits well within the Software Development category.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses a specific issue related to the use of ObservableCollection in .NET, which is a software development topic. It provides code examples and explores a limitation in the implementation, aligning with best practices in coding and software design. However, the discussion lacks depth in terms of broader software development methodologies or practices, focusing instead on a specific coding problem.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {
@@ -946,12 +955,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T18:38:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:15:49",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a technical issue related to the implementation of ObservableCollection with generics, exploring both the problem and workarounds, which aligns well with technical craftsmanship and programming practices.",
-    "level": "Secondary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses a technical issue related to the use of ObservableCollection with generics, which touches on software design principles. However, it primarily focuses on a specific problem and workaround rather than broader best practices or methodologies in software craftsmanship. The discussion lacks depth in exploring the implications of the issue on code quality or maintainability, which are key aspects of the Technical Mastery category.",
+    "level": "Quaternary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1099,11 +1111,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T18:38:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:12:41",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content focuses on diagnosing a specific issue with ObservableCollection and presents a workaround, fitting the theme of troubleshooting software problems.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses a specific issue with the ObservableCollection in .NET, detailing the problem encountered and providing a workaround. It directly addresses a technical issue, which aligns with the troubleshooting category. However, while it mentions the problem and a solution, the depth of discussion on systematic problem-solving techniques or tools is limited, which affects the overall confidence score.",
     "level": "Secondary"
   },
   "Entrepreneurship": {
@@ -1234,12 +1249,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:15:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific issue related to a coding implementation using ObservableCollection, which touches on software craftsmanship, but it primarily focuses on troubleshooting and code examples rather than broader practices or continuous improvement in engineering processes.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a technical issue related to the use of ObservableCollection in .NET, which is a specific coding problem rather than a broader discussion on engineering excellence. While it touches on coding practices, it lacks a focus on best practices, quality assurance, or continuous improvement in engineering processes. The depth of discussion is limited to a specific problem and workaround without addressing overarching principles of software craftsmanship.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

@@ -8,7 +8,7 @@ ResourceImportId: 45324
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-12-28
-weight: 545
+weight: 490
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -24,18 +24,19 @@ aliasesArchive:
 - /there-is-no-place-like-production
 - /resources/blog/there-is-no-place-like-production
 tags:
+- Value Delivery
 - Increment
-- Product Delivery
 - Agile Product Management
-- Business Agility
+- Product Delivery
 - Product Validation
 - Release Management
 - Ability to Innovate
 - Agile Product Operating Model
-- Discovery and Learning
 - Lean Product Development
+- Metrics and Learning
 categories:
 - Product Management
+- Social Technologies
 preview: wizard-of-oz-ruby-slippers-2018-billboard-1548-2-2.jpg
 
 ---

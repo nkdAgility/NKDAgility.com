@@ -19,11 +19,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-14T16:29:57",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T14:52:12",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses continuous delivery and its impact on software development practices, touching on deployment challenges and the necessity of solving technical problems to improve release cycles, but primarily focuses on organizational culture and external perceptions rather than purely technical practices.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the shift towards continuous delivery in software development, highlighting the importance of addressing technical challenges to improve delivery frequency and quality. It mentions specific practices related to software craftsmanship, such as minimising production impact and managing technical debt. However, while it touches on Agile practices and the Scrum framework, the primary focus is on organisational culture and delivery cadence rather than deep technical principles or methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -37,11 +40,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T16:29:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:51:32",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses continuous delivery practices in the context of Microsoft Visual Studio and Team Foundation Server, addressing the problems and solutions related to delivering software more frequently and efficiently.",
+    "final_score": 76.0,
+    "reasoning": "The content discusses Continuous Delivery in detail, particularly in the context of Microsoft's approach with Visual Studio and Team Foundation Server. It explicitly mentions the shift to Continuous Delivery, the challenges associated with it, and the benefits of delivering software more frequently. The discussion aligns well with the principles of Continuous Delivery, including the importance of minimising production impact and managing deployment risks. The depth of the content is substantial, providing examples and insights into real-world applications of Continuous Delivery, which supports a high confidence score.",
     "level": "Secondary"
   },
   "Strategic Goals": {
@@ -127,11 +133,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-14T16:29:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:13:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses techniques and strategies for continuous value delivery in software development, emphasizing the need for frequent delivery cycles and addressing operational problems associated with this shift. It highlights the application of Agile principles and mentions specific operational practices relevant to improving efficiency in software delivery.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the shift towards continuous delivery in software development, highlighting the need for frequent updates and addressing operational challenges associated with this practice. It mentions the Scrum Framework and the importance of delivering working software regularly, which aligns with operational efficiency. However, while it touches on relevant topics, the discussion lacks depth in specific operational practices and metrics, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Scrum Team": {
@@ -379,11 +388,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-14T16:29:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:13:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses continuous delivery, deploying software frequently, and addressing engineering challenges associated with modern software development, which aligns with principles of engineering excellence.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of continuous delivery and the need to improve software development practices, which aligns with the principles of engineering excellence. It mentions the Scrum framework and the necessity of delivering working software frequently, indicating a focus on best practices. However, while it touches on relevant topics, the depth of discussion on specific engineering practices and metrics is limited, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Revenue per Employee": {
@@ -757,11 +769,14 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-14T16:29:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:56:30",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses continuous delivery and the challenges of deploying software with minimal impact, which aligns well with deployment strategies. It also mentions specific issues related to deployment frequency and risk management in releases.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the shift towards continuous delivery and the challenges associated with deploying software frequently, which aligns with deployment strategies. However, it primarily focuses on the cultural and organisational aspects of software development rather than specific methodologies or practices of deployment. While it mentions issues like minimal production impact and updating components, it lacks detailed exploration of specific deployment strategies such as Blue-Green Deployments or Canary Releases.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -847,11 +862,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-14T16:29:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:41:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the need for continuous delivery in software development, addressing how organizations, particularly Microsoft, are adapting to Agile methodologies and modern engineering practices, specifically highlighting the role of developers in this transformation.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the shift towards continuous delivery in software development, specifically referencing the Scrum framework and its principles. It highlights the importance of frequent software updates and addresses challenges faced by developers in implementing these practices. The mention of tools like Visual Studio and Team Foundation Server further aligns with the category, as it focuses on how developers can leverage these technologies within Agile and DevOps contexts. However, while the content is relevant, it does not delve deeply into best practices or strategies for collaboration among developers, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Coaching": {
@@ -892,11 +910,14 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T09:09:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:52:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses software delivery practices, including the frequency of updates and the cultural shifts needed in organizations, which relates to product management concepts like product delivery and customer feedback mechanisms. However, it primarily focuses on technical aspects of software deployment rather than direct product management strategies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of continuous delivery in software development, which aligns with product management principles, particularly in Agile and Scrum frameworks. However, it primarily focuses on technical implementation details and the challenges of deployment rather than the strategic aspects of product management. While it touches on customer needs and the necessity for frequent updates, it lacks depth in discussing methodologies or frameworks that guide product managers. Therefore, while there is some relevance, it does not fully meet the criteria for a strong alignment with the Product Management category.",
     "level": "Tertiary"
   },
   "Self Organisation": {
@@ -982,11 +1003,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-14T16:29:58",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T10:31:32",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of delivering software frequently and the challenges of maintaining a continuous delivery model, which relates to throughput. Although it is primarily focused on the general shift in software development practices and specific examples from Microsoft, throughput as a concept appears as a significant aspect of the discussion.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the need for more frequent software delivery and the challenges associated with continuous delivery, which aligns with the concept of throughput. However, while it touches on the importance of delivering value efficiently, it lacks detailed techniques for measuring throughput or specific strategies for optimisation. The primary focus is on cultural shifts and organisational challenges rather than a thorough exploration of throughput metrics or improvement strategies.",
     "level": "Secondary"
   },
   "Test Driven Development": {
@@ -1117,11 +1141,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T17:35:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:51:28",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the principles of continuous delivery and the cultural and technical shifts necessary for more frequent software delivery, which are central themes in DevOps.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the need for continuous delivery and the cultural shifts required for software development, which aligns with DevOps principles. It mentions the importance of frequent updates and addresses deployment challenges, indicating a conceptual alignment with DevOps practices. However, the focus on Scrum and traditional software development practices detracts from a primary focus on DevOps, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -1351,11 +1378,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:49:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:41:10",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the Scrum Framework and its principles related to continuous delivery and value delivery in software development.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of continuous delivery and the Scrum Framework, highlighting the need for frequent software updates and addressing cultural barriers within organisations. While it mentions Scrum and its principles, the focus is more on the challenges of software delivery rather than a deep exploration of Scrum or Agile methodologies. The discussion aligns with the core themes of Social Technologies but lacks comprehensive detail on the frameworks themselves.",
     "level": "Secondary"
   },
   "Leadership": {

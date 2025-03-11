@@ -25,7 +25,16 @@ preview: https://i.ytimg.com/vi/BAwBXYtKj7o/maxresdefault.jpg
 duration: 451
 isShort: false
 tags:
+- Automated Testing
+- Technical Excellence
+- Engineering Practices
 - Software Development
+- Practical Techniques and Tooling
+- Working Software
+- Continuous Integration
+- Test Automation
+- Code and Complexity
+- Continuous Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

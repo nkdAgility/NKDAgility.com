@@ -37,6 +37,7 @@ tags:
 - Scrum Master
 - Scrum Team
 - People and Process
+- Team Performance
 - Agile Project Management
 resourceTypes:
 - video

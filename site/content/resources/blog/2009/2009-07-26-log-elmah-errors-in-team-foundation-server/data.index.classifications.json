@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T02:16:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:43:20",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implementation of a logging system for errors in Team Foundation Server (TFS) using Elmah, detailing practical techniques for creating and managing work items, which aligns with the exploration and application of tools and methodologies in Agile and DevOps practices.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed exploration of implementing a logging mechanism for errors in Team Foundation Server (TFS) using Elmah. It discusses specific methodologies for creating and managing work items, including error logging, attachment handling, and querying work items. The content aligns well with the category as it focuses on practical techniques and tooling, specifically the integration of Elmah with TFS, which enhances Agile and DevOps practices. The depth of discussion is significant, covering various aspects of the implementation process, including code snippets and explanations of the methods used.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T02:16:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:08:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 35,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implementation of logging Elmah errors into Team Foundation Server, including the setup of work items and templates, which aligns with installation and configuration processes.",
+    "final_score": 66.0,
+    "reasoning": "The content provides a detailed guide on how to log errors in Team Foundation Server (TFS) using Elmah, which involves both installation and configuration aspects. It discusses creating work items, attaching error logs, and configuring templates, which aligns well with the category's focus on actionable instructions for setting up and configuring tools. However, while it covers practical implementation, it lacks a structured step-by-step installation guide and does not address troubleshooting or system requirements, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T02:16:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:43:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses integrating error logging with Team Foundation Server (TFS), which aligns with DevOps practices of continuous integration and delivery, as well as automation in deployment processes.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses logging errors in Team Foundation Server (TFS) and the integration of error logging with work items, which aligns with DevOps practices of continuous delivery and monitoring. However, it lacks a broader discussion on DevOps principles, cultural shifts, or automation, which limits its depth and overall alignment with the category.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -208,11 +217,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T02:17:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:06:27",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of a logging system that integrates with Team Foundation Server (TFS), focusing on engineering practices such as error logging, work item management, and the use of templates for work item creation. It demonstrates technical methodologies that enhance software development processes, aligning well with the principles of Technical Excellence.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on implementing a logging mechanism for errors in Team Foundation Server (TFS) using Elmah, which involves technical practices such as error logging, work item management, and integration with TFS. While it does not explicitly mention concepts like TDD or CI/CD, it demonstrates technical excellence through detailed code examples and discussions on modular architecture and error handling. However, the lack of direct references to broader engineering methodologies limits its alignment with the category.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -280,11 +292,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-16T02:17:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:53:38",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of error logging in Team Foundation Server (TFS), which is a part of Azure DevOps, and details the use of work items and templates within that context.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the integration of Elmah error logging with Team Foundation Server (TFS), which is a part of Azure DevOps. It provides detailed explanations of how to create and manage work items in TFS, log errors, and retrieve them, all of which are functionalities directly related to Azure DevOps. The depth of technical detail and the focus on TFS as a tool within the Azure DevOps suite support a high confidence score in this category.",
     "level": "Secondary"
   },
   "Personal": {
@@ -343,11 +358,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T02:17:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:42:49",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the integration of error logging with Team Foundation Server (TFS), which is a tool used in the application lifecycle management process. It covers aspects of managing work items, error logging, and the interaction between application errors and TFS, aligning well with the principles of Application Lifecycle Management.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on logging errors in Team Foundation Server (TFS) and managing work items, which are integral to the application lifecycle management process. It discusses the creation, retrieval, and management of work items, which aligns with the stages of application lifecycle management, particularly in the maintenance phase. The content also touches on best practices for error logging and integration with TFS, which supports application governance. However, while it provides a good level of detail, it lacks broader discussions on metrics, KPIs, and risk management strategies, which are also key aspects of ALM.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -370,11 +388,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T03:05:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:08:27",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of error logging in Team Foundation Server using Elmah, which includes technical aspects of software architecture, logging methodologies, and code examples that reflect principles of software craftsmanship.",
+    "final_score": 74.0,
+    "reasoning": "The content provides a detailed exploration of integrating Elmah error logging with Team Foundation Server (TFS), showcasing best practices in software design and architecture. It discusses methodologies for error handling, logging, and work item management, which align closely with the principles of clean code and software craftsmanship. The depth of the discussion is significant, with extensive code examples and explanations of how to implement the solution effectively, demonstrating a strong grasp of technical concepts and practices relevant to software engineering excellence.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -730,11 +751,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-16T03:05:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:08:32",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses integrating error logging with Team Foundation Server (TFS), which involves software craftsmanship, coding standards, and best practices in managing software errors and work items. This aligns well with the principles of software engineering excellence, particularly regarding technical implementation and adherence to best practices in coding and process improvement.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the implementation of a logging system that integrates with Team Foundation Server (TFS) and Elmah, which touches on aspects of software craftsmanship and coding practices. However, while it mentions error logging and work item management, it lacks a comprehensive focus on broader engineering excellence principles such as coding standards, testing methodologies, or continuous integration practices. The depth of discussion is primarily technical and implementation-focused rather than strategic or process-oriented.",
     "level": "Secondary"
   },
   "Revenue per Employee": {

@@ -55,11 +55,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T20:56:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:21:02",
+    "ai_confidence": 85.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses troubleshooting and configuration steps for Team Foundation Server (TFS), including specific instructions for modifying server settings and resolving proxy errors during project creation.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed guide on troubleshooting a specific error encountered during the installation and configuration of Team Foundation Server (TFS). It explicitly discusses the installation process, including steps to resolve proxy issues and modify server settings, which aligns well with the category's focus on actionable instructions. The depth of discussion is significant, as it includes specific commands and XML configurations necessary for proper setup. Overall, the content is highly relevant to the Install and Configuration category.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -100,11 +103,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T20:57:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:16:59",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses practical steps to resolve a specific error in Team Foundation Server, detailing the use of tools and configurations relevant to Agile and DevOps practices.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed walkthrough of troubleshooting a specific error in Team Foundation Server (TFS), which directly relates to practical techniques for using this tool effectively. It discusses the importance of using Fully Qualified Domain Names (FQDN) and provides step-by-step instructions for resolving the issue, demonstrating a clear application of tooling in a real-world scenario. The content aligns well with the category's focus on practical application and methodologies, although it could benefit from a broader discussion on Agile or DevOps practices to enhance its relevance further.",
     "level": "Secondary"
   },
   "Value Delivery": {
@@ -289,12 +295,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-16T20:57:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T19:02:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 50.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses Team Foundation Server (TFS), which is a component of Azure DevOps, and provides detailed troubleshooting steps related to project creation errors in TFS.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS), which is part of the Azure DevOps suite, and provides a detailed troubleshooting guide for a specific error encountered during project creation. While it directly mentions TFS, it does not explicitly cover broader Azure DevOps functionalities or best practices. The discussion aligns with Azure DevOps concepts, but the focus is primarily on a technical issue rather than a comprehensive exploration of Azure DevOps services. The depth of the discussion is moderate, providing step-by-step instructions, but lacks a broader context of Azure DevOps methodologies.",
+    "level": "Tertiary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -307,12 +316,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:13:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:20:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses troubleshooting and configuration of Team Foundation Server (TFS), which is relevant to DevOps practices, but it primarily focuses on a specific error and its resolution rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific error related to Team Foundation Server (TFS) and provides troubleshooting steps. While it touches on aspects of deployment and configuration, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. The focus is more on technical resolution rather than the integration of people, processes, and tools that characterise DevOps.",
+    "level": "Quaternary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -370,11 +382,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T21:42:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:50:39",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration steps necessary to address a specific error in Team Foundation Server, including how to change server URLs, manage server names, and adjust settings to ensure correct operation. This directly aligns with system configuration practices.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the configuration of Team Foundation Server (TFS) and addresses specific issues related to server name resolution and proxy settings, which are critical aspects of system configuration. It provides detailed steps for troubleshooting and modifying server settings, aligning well with the core themes of system optimisation and configuration management. The depth of discussion is substantial, as it includes specific commands and XML configurations necessary for resolving the issue, demonstrating a strong focus on practical configuration processes.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
@@ -577,11 +592,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T21:42:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:15:45",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses troubleshooting and configurations related to Team Foundation Server (TFS), which is directly connected to software development practices, including project creation and management processes.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses a specific error related to Team Foundation Server (TFS) and provides detailed steps to troubleshoot and resolve the issue. While it does touch on aspects of software development, such as server configuration and project creation, it lacks broader discussions on methodologies or best practices in software development. The focus is more on a technical issue rather than a comprehensive exploration of software development principles.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {

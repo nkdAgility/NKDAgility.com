@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T19:42:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:16:54",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a specific issue related to TFS integration tools, providing practical solutions and workarounds for a migration problem, which aligns with the exploration and application of tooling in Agile and DevOps practices.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed discussion on a specific issue encountered during a migration process using TFS, which directly relates to practical tooling and techniques in a DevOps context. It discusses the error TF14009, the implications of branching in TFS, and offers multiple workarounds, showcasing practical techniques for resolving issues with tooling. The depth of the discussion is significant, as it includes error messages, potential solutions, and a workaround that involves manual XML editing, which aligns well with the category's focus on practical application of tools and methodologies. However, while the content is rich in practical advice, it could benefit from a broader exploration of Agile or DevOps methodologies to enhance its alignment further.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T19:42:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:53:54",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses troubleshooting a specific error encountered during the migration of source code in TFS, which involves installation and configuration aspects of the TFS Integration Platform. It provides actionable insights and workarounds related to the configuration of migration settings, making it relevant to the category.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error encountered during the migration of source code in TFS, which is a technical aspect of installation and configuration. It discusses the error message, potential causes, and provides a workaround that involves modifying XML mappings during the migration process. This aligns well with the category's focus on installation and configuration issues, particularly in the context of DevOps tools. The depth of discussion is substantial, offering detailed steps and considerations for resolving the issue, which enhances its relevance to the category.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -280,11 +286,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T19:43:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:54:01",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a specific issue related to TFS (Team Foundation Server), which is part of the Azure DevOps suite, and provides detailed technical insights into error handling and migration processes within that context.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses a specific error (TF14009) encountered during a migration process involving Team Foundation Server (TFS), which is part of the Azure DevOps suite. It provides detailed technical information about the error, its causes, and potential workarounds, indicating a strong focus on Azure DevOps functionalities. However, while it is relevant to Azure DevOps, the discussion is somewhat narrow, focusing on a specific issue rather than broader practices or methodologies associated with Azure DevOps. This results in a high confidence score, but not the maximum, as it lacks a comprehensive overview of Azure DevOps services or best practices.",
     "level": "Secondary"
   },
   "Personal": {
@@ -370,12 +379,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T21:10:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:33:17",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content provides a detailed technical discussion about dealing with a specific error (TF14009) in Team Foundation Server that relates to source code migration, including a workaround and considerations for technical implementation. This aligns with principles of software craftsmanship and technical problem solving.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to TFS (Team Foundation Server) and provides a detailed error message and potential workarounds. While it does touch on aspects of software engineering, such as migration and version control, it lacks a broader discussion on best practices, principles of clean code, or methodologies that contribute to software craftsmanship. The focus is more on troubleshooting a specific problem rather than on overarching technical mastery principles.",
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -730,12 +742,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:16:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to version control and migration in a software development context, which touches on best practices in software craftsmanship. However, it focuses primarily on troubleshooting a specific error rather than broader topics of engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to TFS migration and error handling, which does not directly address broader themes of engineering excellence such as software craftsmanship, coding standards, or CI/CD practices. While it touches on problem-solving and technical processes, it lacks a comprehensive exploration of best practices or continuous improvement in engineering processes.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -775,11 +790,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T21:10:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:42:49",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses practical troubleshooting strategies for a specific issue encountered in TFS migration, showing adaptability and real-world problem-solving techniques related to Agile practices.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific issue encountered during a migration process in TFS, providing practical solutions and workarounds. It directly addresses problem-solving strategies relevant to real-world scenarios, particularly in the context of Agile and DevOps practices. The author shares insights based on experience, suggesting multiple approaches to navigate the complexity of the migration issue, which aligns well with the core themes of pragmatic thinking. However, while the content is detailed, it primarily focuses on a specific technical problem rather than broader Agile or Scrum principles, which slightly limits its overall alignment.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -1099,12 +1117,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T21:10:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:58:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses an issue related to TFS (Team Foundation Server) operations, which are often integrated into Windows environments, and it mentions Visual Studio, a Windows application. Although it is focused on a specific error and its solution, it is centered around handling source control operations that typically involve Windows-based applications.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses an issue related to Team Foundation Server (TFS) and its integration tools, which are used in conjunction with Windows environments. However, it does not explicitly focus on Windows operating system topics such as installation, configuration, or troubleshooting of Windows itself. While it touches on aspects of TFS that may run on Windows, the primary focus is on TFS functionality and error handling rather than Windows-specific guidance or management. Therefore, the confidence score reflects a moderate alignment with the Windows category, but it is not a primary focus.",
+    "level": "Quaternary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",

@@ -8,7 +8,7 @@ ResourceImportId: 9917
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-23
-weight: 455
+weight: 445
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,18 +23,19 @@ aliasesArchive:
 - /team-foundation-server-2013-is-production-ready
 - /resources/blog/team-foundation-server-2013-is-production-ready
 tags:
-- Products and Books
 - Technical Debt
-- News and Reviews
 - Software Development
 - Agile Project Management
+- Products and Books
+- News and Reviews
 - Application Lifecycle Management
+- Organisational Agility
+- Product Delivery
 - Working Software
 - Agile Frameworks
-- Agile Strategy
-- Organisational Agility
 categories:
 - Engineering Excellence
+- Social Technologies
 
 ---
 Did you know that Team Foundation Server 2013 is production ready?

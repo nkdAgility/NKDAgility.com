@@ -24,7 +24,7 @@ preview: https://i.ytimg.com/vi/wLJAMvwR6qI/maxresdefault.jpg
 duration: 302
 isShort: false
 tags:
-- Hypothesis Driven Development
+- Experimentation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

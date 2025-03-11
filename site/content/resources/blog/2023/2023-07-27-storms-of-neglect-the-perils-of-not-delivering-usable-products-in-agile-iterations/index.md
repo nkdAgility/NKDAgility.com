@@ -8,7 +8,7 @@ ResourceImportId: 49502
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2023-07-27
-weight: 545
+weight: 445
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -24,16 +24,16 @@ aliasesArchive:
 - /storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
 - /resources/blog/storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
 tags:
+- Agile Product Management
 - Product Delivery
+- Working Software
+- Value Delivery
 - Transparency
 - Increment
-- Agile Product Management
+- People and Process
 - Agile Product Operating Model
 - Agile Values and Principles
 - Agile Frameworks
-- Agile Philosophy
-- Agile Planning
-- Agile Project Management
 categories:
 - Scrum
 - Social Technologies

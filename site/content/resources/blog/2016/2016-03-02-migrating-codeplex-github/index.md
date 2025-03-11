@@ -27,12 +27,11 @@ aliasesArchive:
 - /blog/migrating-from-codeplex-to-github
 - /resources/blog/migrating-codeplex-github
 tags:
+- Software Development
 - Install and Configuration
 - Modern Source Control
 - Practical Techniques and Tooling
-- Software Development
-categories:
-- DevOps
+categories: []
 preview: clip_image001-1-1.png
 
 ---

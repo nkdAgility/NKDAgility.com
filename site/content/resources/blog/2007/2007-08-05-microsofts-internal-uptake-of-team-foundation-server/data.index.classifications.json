@@ -172,11 +172,14 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-16T21:11:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:21:32",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the internal adoption of Team Foundation Server at Microsoft, providing insights into its usage and future developments, which aligns with industry news and updates relevant to technology.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the internal adoption of Team Foundation Server (TFS) at Microsoft, which aligns with industry news regarding DevOps tools. It provides specific details about the number of instances and users, indicating a depth of discussion. However, while it mentions the product's updates and future versions, it lacks broader commentary on trends or evaluations that would enhance its relevance to the category.",
     "level": "Secondary"
   },
   "Product Delivery": {
@@ -307,21 +310,27 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:17:27",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the adoption of Team Foundation Server (TFS) at Microsoft, which relates to DevOps practices, particularly in terms of tools that support software development and delivery. However, the primary focus is on TFS usage rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS) and its adoption within Microsoft, which relates to DevOps practices, particularly in terms of tools that support software development and delivery. However, it lacks a direct focus on broader DevOps principles such as CI/CD, automation, or cultural shifts. The discussion is more about the internal use of a specific tool rather than a comprehensive exploration of DevOps as a whole.",
+    "level": "Quaternary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:16:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the adoption of Team Foundation Server (TFS) at Microsoft, which relates to engineering practices and methodologies, but it primarily focuses on the internal use and perception of the product rather than specific technical excellence practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the adoption of Team Foundation Server (TFS) at Microsoft, which touches on aspects of technical excellence such as internal use of tools that enhance software development processes. However, it primarily focuses on the adoption and perception of TFS rather than delving into specific engineering practices or methodologies that enhance agility, such as TDD or CI/CD. The discussion lacks depth in exploring how TFS contributes to technical excellence, making it a secondary topic rather than a primary focus.",
+    "level": "Quaternary"
   },
   "People and Process": {
     "category": "People and Process",
@@ -343,11 +352,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-16T21:12:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:17:30",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Team Foundation Server (TFS), its internal adoption at Microsoft, and its development, which aligns with discussions on tools and software pertinent to Agile methodologies and DevOps practices.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses Team Foundation Server (TFS), a software product relevant to Agile and DevOps practices. It provides insights into its internal adoption at Microsoft, which aligns with the category's focus on tools that facilitate Agile methodologies. The discussion includes specific details about TFS's usage, its impact on development teams, and future updates, demonstrating a depth of discussion. However, it lacks a broader analysis or review of literature related to Agile or DevOps, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Product Management": {
@@ -568,12 +580,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:03:19",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS), which is a tool used by software developers in their development process, particularly in the context of version control and project management. However, it does not delve deeply into Agile or DevOps methodologies or the role of developers in those frameworks, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS) and its adoption within Microsoft, which relates to software development practices. However, it lacks a direct focus on Agile or DevOps methodologies, and the discussion is more about the product's internal use rather than the role of developers in these frameworks. While there are mentions of development teams and tools, the depth of discussion on Agile or DevOps principles is minimal.",
+    "level": "Quaternary"
   },
   "Software Development": {
     "category": "Software Development",
@@ -766,12 +781,15 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:51:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS), which is a tool related to Continuous Integration, but the main focus is on its adoption within Microsoft rather than CI practices or principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS) and its internal adoption at Microsoft, which relates to Continuous Integration practices. However, it primarily focuses on the adoption and usage of TFS rather than the principles and practices of CI itself. While TFS is a tool that supports CI, the discussion lacks depth on CI concepts, best practices, and the role of automated testing, which are crucial for a higher confidence score in this category.",
+    "level": "Quaternary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1234,12 +1252,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:21:28",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the adoption of Team Foundation Server (TFS) internally at Microsoft, which relates to engineering practices and tools that promote software development excellence, but it focuses more on the organizational aspects rather than specific engineering methodologies or craftsmanship principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the adoption of Team Foundation Server (TFS) at Microsoft, which relates to engineering practices and tools that can enhance software development processes. However, it primarily focuses on the internal use and perception of TFS rather than delving into broader principles of software craftsmanship, coding standards, or continuous improvement practices. While there are mentions of internal usage and product development, the discussion lacks depth in exploring how these practices contribute to engineering excellence.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

@@ -24,12 +24,16 @@ preview: https://i.ytimg.com/vi/gEJhbET3nqs/maxresdefault.jpg
 duration: 245
 isShort: false
 tags:
+- Events and Presentations
+- Organisational Change
 - Agile Leadership
+- Pragmatic Thinking
 - Organisational Agility
 - People and Process
+- Team Collaboration
+- Team Performance
 - Agile Transformation
 - Business Agility
-- Organisational Change
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -38,7 +42,6 @@ resourceTypes:
 - video
 categories:
 - Leadership
-- Scrum
 
 ---
 As a professional Scrum trainer and Microsoft MVP, I often find myself reflecting on the transformative power of agile methodologies. Today, I want to share my insights on the Professional Agile Leadership Essentials workshop offered by Scrum.org, which I believe is crucial for anyone looking to enhance their leadership skills in an agile environment.

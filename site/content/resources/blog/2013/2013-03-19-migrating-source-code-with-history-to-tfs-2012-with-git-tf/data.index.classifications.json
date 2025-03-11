@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T19:12:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:09:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical application of Git-Tf for migrating source code with history between Team Foundation Servers, detailing specific commands and installation steps, which aligns well with the category.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed discussion on using Git-Tf for migrating source code between Team Foundation Servers, which directly relates to practical tooling in Agile and DevOps contexts. It explicitly mentions the installation and usage of Git-Tf, along with specific commands and parameters, demonstrating a clear focus on practical techniques. The alignment with the category is strong as it explores a specific tool and its application, while the depth of discussion is substantial, offering insights into the process and considerations for migration. Overall, the content effectively meets the criteria for the category.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T19:12:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:50:00",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration of Git-Tf and its dependencies, along with step-by-step instructions for migrating source code between Team Foundation Servers, which aligns well with the category.",
+    "final_score": 72.0,
+    "reasoning": "The content provides a detailed guide on migrating source code using Git-Tf, which includes installation steps and commands necessary for configuration. It explicitly mentions the installation of Git-Tf and its dependencies, aligning well with the category's focus on installation and configuration processes. The depth of discussion is significant, as it includes specific commands and parameters for cloning repositories, which are crucial for effective implementation. Overall, the content is primarily focused on the technical aspects of installation and configuration, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:49:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the migration of source code between Team Foundation Server and Git, which relates to version control practices in a DevOps context, but it primarily focuses on the technical aspects of migration rather than broader DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating source code between Team Foundation Server and Git, which is related to version control but does not explicitly discuss DevOps principles or practices. While it touches on tools and processes that could be part of a DevOps workflow, it lacks a broader discussion on collaboration, automation, or cultural shifts necessary for DevOps. The depth of technical detail is present, but it does not connect these practices to the overarching goals of DevOps.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -370,12 +379,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T00:03:36",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-10T14:51:12",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content primarily discusses the use of Git-Tf for migrating source code between Team Foundation Servers, detailing technical commands and procedures, suggesting a strong emphasis on technical practices in software engineering.",
-    "level": "Secondary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating source code using Git-Tf and TFS, which aligns with the principles of software craftsmanship. However, it lacks a deeper exploration of best practices, clean code principles, or broader engineering methodologies. While it discusses specific commands and tools, it does not provide extensive detail on improving code quality or maintainability, which are key aspects of the Technical Mastery category.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -577,11 +589,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T00:03:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:30:39",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the process of migrating source code between Team Foundation Servers using Git-Tf, focusing on practical software development techniques.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on the process of migrating source code between Team Foundation Server (TFS) and Git, which is a key aspect of software development practices. It discusses specific tools (Git-Tf) and commands, demonstrating a clear understanding of version control systems and collaborative development. The depth of discussion includes practical examples and commands, aligning well with the core themes of software development methodologies and practices. The content does not merely mention software development but delves into a specific technical process, providing a high level of detail and practical guidance.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -613,11 +628,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-16T00:03:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:40:17",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily focuses on using Git-Tf for migrating source code and preserving history between Team Foundation Server and Git repositories, highlighting version control practices and specific commands related to Git.",
+    "final_score": 67.0,
+    "reasoning": "The content primarily discusses the migration of source code using Git-Tf, which is a tool that integrates Git with Team Foundation Server (TFS). It explicitly mentions Git commands and the process of cloning repositories, which aligns well with modern source control practices. The discussion includes practical examples of using Git for version control, demonstrating a clear focus on version control systems. However, while it provides a good level of detail on the migration process, it lacks a broader discussion on best practices or methodologies in version control, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
@@ -730,12 +748,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:09:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the process of migrating source code using Git-Tf, which relates to software development practices, but it is primarily focused on a specific technical task rather than broader principles of engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating source code between Team Foundation Servers using Git-Tf, which is a specific tool rather than a broader discussion on engineering excellence. While it touches on aspects of software craftsmanship, such as the importance of maintaining history during migration, it lacks a comprehensive exploration of best practices, quality assurance, or continuous improvement in engineering processes. The depth of technical detail is present, but it does not align closely with the core themes of engineering excellence as defined in the category.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1198,12 +1219,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:55:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the migration of source code using Git and TFS, which relates to software development practices. However, it does not primarily focus on Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating source code between Team Foundation Server and Git, which is relevant to software developers. However, it lacks explicit discussions on Agile or DevOps methodologies, and does not delve into best practices or collaborative aspects of software development. While it provides some depth in terms of technical commands and procedures, it does not align closely with the core themes of the category, resulting in a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

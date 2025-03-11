@@ -127,12 +127,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-18T12:23:47",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions installation and configuration of TFS, which likely operates on the Windows platform, but it is not primarily focused on Windows itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-07T14:51:38",
+    "ai_confidence": 92.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 95.0,
+    "ai_depth": 90.0,
+    "non_ai_confidence": 50,
+    "final_score": 88.0,
+    "reasoning": "The content is primarily focused on the installation of TFS 2013 on Windows Server 2012 R2, which directly addresses the Windows operating system. It discusses installation procedures, configuration settings, and troubleshooting aspects specific to Windows Server, aligning well with the key topics outlined in the Windows category. The depth of discussion is substantial, providing detailed steps and considerations throughout the installation process, which further supports a high confidence score.",
+    "level": "Primary"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -289,12 +292,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T12:23:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:35:33",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses installing and configuring TFS, which is related to software development practices, but it is more focused on installation rather than broader software development methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the installation process of TFS (Team Foundation Server), which is a tool used in software development for version control and project management. While it does not delve deeply into methodologies or best practices, it does provide practical steps related to setting up a development environment, which aligns with the Software Development category. The discussion includes technical details about system requirements and configurations, indicating a moderate depth of discussion. However, it lacks broader context on software development practices, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1090,11 +1096,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-18T12:23:47",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content focuses on the installation and configuration of TFS, which aligns with system configuration processes, but lacks depth on methodologies and configuration management.",
+    "calculated_at": "2025-03-10T12:43:04",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content provides a detailed step-by-step guide on installing TFS 2013 on Windows Server 2012 R2, which directly aligns with system configuration practices. It discusses hardware setup, memory requirements, and the installation process, demonstrating best practices for software installation and configuration. The depth of discussion is significant, covering various aspects of the installation and configuration process, including network settings and SQL Server integration. Overall, the content is highly relevant to the category of System Configuration.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -1342,12 +1351,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T12:23:47",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content is primarily focused on the installation process of TFS 2013, providing guidance to those who may find it challenging, which aligns well with the category's focus on installation and configuration.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-10T14:45:52",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 38,
+    "ai_depth": 36,
+    "non_ai_confidence": 30,
+    "final_score": 86.0,
+    "reasoning": "The content provides a detailed, step-by-step guide on installing TFS 2013 on Windows Server 2012 R2, which aligns closely with the category of Install and Configuration. It explicitly discusses installation procedures, system requirements, and configuration steps, demonstrating a strong focus on practical implementation. The depth of discussion is significant, covering various aspects of the installation process, including memory settings, network configuration, and SQL Server integration. Overall, the content is highly relevant and actionable for users looking to install and configure TFS.",
+    "level": "Primary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",

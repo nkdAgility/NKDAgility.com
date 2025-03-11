@@ -9,6 +9,7 @@ weight: 1000
 categories:
 - Product Management
 - Scrum
+- Social Technologies
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast
@@ -16,8 +17,8 @@ slug: product-owners-are-obsolete
 aliases:
 - /resources/dKyRYit_4xO
 tags:
-- People and Process
 - Agile Product Management
+- People and Process
 
 ---
 In this month's episode of Agile Actually, we picked up some whispers on the [#agile](https://www.youtube.com/hashtag/agile) winds about [#productmanagement](https://www.youtube.com/hashtag/productmanagement) being obsolete. The idea that if you have a strong [#productowner](https://www.youtube.com/hashtag/productowner) in [#scrum](https://www.youtube.com/hashtag/scrum), there is no need for a [#productmanager](https://www.youtube.com/hashtag/productmanager) at all.

@@ -28,12 +28,15 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-18T11:18:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:32:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions a leader's resistance to training and their efforts to influence their team, indicating a discussion on leadership dynamics, but it is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a developer's personal experience with Scrum and process improvement rather than on leadership practices. While there are mentions of the importance of understanding processes and delivering value, the discussion lacks explicit references to leadership roles, strategies, or frameworks. The content does not delve deeply into how leadership influences team dynamics or organisational performance, which are key aspects of the leadership category.",
+    "level": "Quaternary"
   },
   "Product Management": {
     "category": "Product Management",
@@ -604,11 +607,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-18T11:35:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:32:48",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses human behavior regarding resistance to training and team dynamics within an organizational context, aligning with themes of collaboration and communication in a process-oriented environment.",
+    "final_score": 76.0,
+    "reasoning": "The content discusses the transformation of a developer's mindset regarding Scrum and the importance of understanding processes in software development. It highlights team dynamics, the necessity of process awareness among all team members, and the impact of these factors on delivering valuable products. While it does not delve deeply into specific methodologies or leadership roles, it aligns well with the core themes of the category, particularly in terms of collaboration and process improvement.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -856,12 +862,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-18T11:35:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:39:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content contains a personal anecdote about training experiences at Healthgrades, which relates to individual reflections but lacks deeper insights or broader themes of Agile, Scrum, or DevOps.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content provides a personal narrative from Dave Fresh, detailing his initial resistance to Scrum and how his perspective changed through a course. This aligns well with the Personal category as it shares individual reflections and insights on the impact of Scrum on his mindset and work processes. The direct mention of personal experiences and the challenges faced in adopting Scrum practices contribute significantly to the confidence score. However, while the content is rich in personal anecdotes, it also includes some technical aspects of Scrum, which slightly detracts from the overall focus on personal insights.",
+    "level": "Secondary"
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
@@ -919,12 +928,15 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-18T11:35:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:33:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content provides anecdotal experiences related to training in an organization without referencing specific Agile methodologies or frameworks, making it a secondary theme in a broader discussion of workplace training.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Scrum principles and practices, detailing a personal experience with Scrum training and its impact on the author's mindset. It explicitly references Scrum and its processes, which directly ties it to Agile methodologies, thus not aligning with the Miscellaneous category. The discussion is focused on specific frameworks and actionable insights related to Scrum, which are strictly excluded from this category.",
+    "level": "Quinary"
   },
   "Scrum Team": {
     "category": "Scrum Team",

@@ -10,12 +10,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T12:11:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T11:38:56",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses practices that enhance team dynamics and communication within the context of Site Reliability Engineering, which is relevant to team collaboration but is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content briefly touches on aspects of team collaboration, such as building trust and transparency, which are relevant to the category. However, it primarily focuses on the practices of Site Reliability Engineering and the responsibilities of engineering teams rather than exploring the dynamics of teamwork or communication in Agile or DevOps contexts. The discussion lacks depth in terms of specific techniques or strategies for enhancing team collaboration.",
+    "level": "Quaternary"
   },
   "MVP": {
     "category": "MVP",
@@ -100,12 +103,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T12:11:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:14:29",
+    "ai_confidence": 35.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions the importance of transparency, which is a key aspect of empirical process control, but it primarily focuses on Site Reliability Engineering practices rather than a comprehensive discussion on empirical process control itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions transparency, which is a key aspect of empirical process control, but it primarily focuses on Site Reliability Engineering practices rather than a thorough discussion of empirical process control principles. The alignment with core themes is limited, and while there is some depth in discussing practices, it does not delve into the theoretical foundations or detailed techniques related to empirical process control.",
+    "level": "Quaternary"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
@@ -373,12 +379,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T12:11:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T12:50:56",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practices related to engineering teams and their responsibilities in running a production site, which aligns with the themes of DevOps and collaboration. However, it primarily focuses on Site Reliability Engineering rather than directly on software developers' roles within Agile and DevOps frameworks.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses practices related to engineering teams and their responsibilities in running a production site, which aligns with the role of software developers. However, it primarily focuses on Site Reliability Engineering (SRE) rather than Agile or DevOps methodologies specifically. While there are mentions of transparency and on-call practices, the discussion lacks depth in Agile principles and does not explicitly address the core themes of the Software Developers category.",
+    "level": "Quaternary"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -718,12 +727,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T12:11:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T09:51:13",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practices related to running a production site and the responsibilities of engineering teams, which aligns with technical excellence. However, it primarily focuses on operational aspects rather than deep technical craftsmanship or software engineering principles.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses practices related to running a production site, which aligns with the principles of software craftsmanship and engineering excellence. However, it primarily focuses on operational aspects rather than deep technical methodologies or best practices in software design and architecture. The mention of transparency and telemetry indicates some alignment with technical mastery, but the depth of discussion on these topics is limited, preventing a higher confidence score.",
+    "level": "Secondary"
   },
   "Transparency": {
     "category": "Transparency",
@@ -1018,12 +1030,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T12:11:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:56:00",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the experiences of the Azure DevOps Services team and their transition to a SaaS solution, indicating a significant focus on Azure DevOps practices, but it also touches on broader SRE concepts.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses the Azure DevOps Services team and their transition to a SaaS solution, which indicates a direct mention of Azure DevOps. However, the focus is more on Site Reliability Engineering (SRE) practices rather than the specific functionalities or methodologies of Azure DevOps. While there is some alignment with the themes of collaboration and operational practices, the depth of discussion on Azure DevOps itself is limited, primarily touching on broader SRE concepts rather than detailed Azure DevOps functionalities.",
+    "level": "Secondary"
   },
   "Products and Books": {
     "category": "Products and Books",
@@ -1072,11 +1087,14 @@
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T12:11:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T17:52:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions transparency as a key aspect in the context of running a production site and building trust with customers, but it primarily focuses on practices related to Site Reliability Engineering rather than being solely about transparency and accountability.",
+    "final_score": 57.0,
+    "reasoning": "The content briefly mentions transparency in the context of building trust with customers and discusses practices related to running a production site. However, it does not delve deeply into the principles of transparency and accountability within Agile teams, nor does it provide substantial detail on how these concepts are implemented or their impact on team dynamics. The focus is more on operational practices rather than the core themes of the category.",
     "level": "Tertiary"
   },
   "Organisational Agility": {
@@ -1156,11 +1174,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T12:11:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T00:19:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the responsibilities of engineering teams and the importance of transparency and trust, which are relevant to team dynamics and collaboration. However, the primary focus is on technical practices and experiences rather than a deep exploration of human behaviour or structured methodologies.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the shift-left movement and its impact on engineering teams, which touches on team dynamics and the need for collaboration in a production environment. However, while it mentions practices like transparency and on-call responsibilities, it lacks a deeper exploration of human behaviour and structured methodologies. The focus is more on technical practices rather than the interplay between people and processes, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Technical Excellence": {

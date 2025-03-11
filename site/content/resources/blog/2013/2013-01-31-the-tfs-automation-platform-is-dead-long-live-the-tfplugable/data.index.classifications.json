@@ -10,20 +10,26 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T19:24:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:12:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the development and implementation of a delivery mechanism for extensions in Team Foundation Server, which aligns with practical techniques and tooling in Agile and DevOps practices.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the development and deployment of extensions for Team Foundation Server (TFS), which directly relates to practical tooling in Agile and DevOps contexts. It provides specific integration points and outlines a plan for creating a delivery mechanism for these extensions, demonstrating a clear focus on practical techniques. The depth of discussion includes detailed steps and considerations for implementing these tools, aligning well with the category's core themes. However, while it is rich in practical application, it lacks broader context on Agile methodologies or metrics, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-15T19:24:49",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T12:50:52",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the development of a solution for Team Foundation Server (TFS) that aims to enhance automation and manage extensions, which aligns with the principles of platform engineering. However, it primarily focuses on TFS and its extensions rather than a broader discussion on internal developer platforms or enhancing developer productivity across various contexts.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the TFS Automation Platform and the need for custom automation within Team Foundation Server, which aligns with the principles of enhancing developer productivity and optimising application management. However, it primarily focuses on TFS and its extensions rather than a broader discussion on Internal Developer Platforms (IDPs) or platform engineering as a discipline. The depth of discussion on platform engineering concepts is limited, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
@@ -73,11 +79,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T19:24:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:51:40",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration of extensions for Team Foundation Server, detailing the processes and challenges involved in deploying and managing these extensions, which aligns well with the category.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the installation and configuration of extensions for Team Foundation Server (TFS), detailing specific integration points and the challenges associated with deploying and managing these extensions. It provides actionable insights into the setup process, including the creation of packages and the use of MyGet for hosting. The depth of discussion on installation procedures and configuration best practices aligns well with the category, although some sections veer into broader project management themes, which slightly detracts from the overall focus.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:51:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automation and deployment processes related to Team Foundation Server, which aligns with DevOps principles, but it primarily focuses on specific tools and extensions rather than broader DevOps practices.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the automation of deployment processes and the integration of extensions for Team Foundation Server (TFS), which aligns with DevOps principles. However, it lacks a broader discussion on cultural shifts, collaboration, or specific DevOps metrics, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -208,12 +220,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T19:25:19",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T18:40:47",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the development and deployment of extensions for Team Foundation Server, which relates to engineering practices and methodologies. However, it primarily focuses on the project and its management rather than deeply exploring technical excellence principles like TDD, CI/CD, or modular architecture.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the development of a solution for deploying extensions in Team Foundation Server (TFS), which aligns with the principles of Continuous Integration and Continuous Delivery (CI/CD) practices. It mentions the need for a streamlined process for managing TFS extensions, which relates to modular architecture and the importance of efficient deployment pipelines. However, while it touches on relevant technical practices, the discussion lacks depth in exploring broader engineering methodologies or principles of technical excellence, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -235,11 +250,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-15T19:25:23",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T10:31:05",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the development and deployment of extensions for Team Foundation Server, which relates to product delivery methodologies and practices. However, it primarily focuses on the specifics of the TFS Automation Platform rather than broader product delivery principles.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the development and deployment of extensions for Team Foundation Server (TFS), which relates to product delivery. However, it primarily focuses on the technical aspects of creating and managing these extensions rather than the broader methodologies and practices of product delivery. While there are mentions of iterative development and feedback, the depth of discussion on product delivery principles is limited.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -280,11 +298,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T19:25:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:56:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the TFS Automation Platform and its integration with Team Foundation Server, which is a key component of Azure DevOps. It focuses on the implementation of extensions and automation within TFS, aligning with Azure DevOps functionalities.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the TFS Automation Platform and its integration with Team Foundation Server (TFS), which is a part of Azure DevOps. It provides a detailed exploration of the challenges and plans for creating a delivery mechanism for TFS extensions, aligning with Azure DevOps functionalities. However, while it mentions TFS and its extensions, it does not explicitly cover broader Azure DevOps services or methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -730,11 +751,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:00",
-    "ai_confidence": 65,
+    "calculated_at": "2025-03-10T12:50:49",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 58.0,
-    "reasoning": "The content discusses automation, deployment practices, and the creation of extensions for Team Foundation Server, which can be tied to engineering excellence principles such as software craftsmanship and improving engineering processes. However, it mostly focuses on the development of a specific tool rather than broad best practices in software engineering.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the development of a solution for Team Foundation Server (TFS) automation, which touches on aspects of software craftsmanship and the need for better deployment practices. However, while it mentions the need for extensions and improvements, it lacks a detailed exploration of best practices, coding standards, or quality assurance principles that are central to the category of Engineering Excellence. The focus is more on the specific project and its challenges rather than a broader discussion on engineering processes or continuous improvement.",
     "level": "Tertiary"
   },
   "Revenue per Employee": {
@@ -1243,11 +1267,14 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T09:09:00",
-    "ai_confidence": 25,
+    "calculated_at": "2025-03-07T15:10:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
-    "reasoning": "The content discusses the TFS Automation Platform and related technical aspects of extensions and deployments in Team Foundation Server, which aligns more with technical implementation and project management rather than strategic product management.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses technical aspects of the TFS Automation Platform and its extensions, with a focus on implementation details rather than strategic product management. While there are mentions of customer needs and feedback, the overall discussion lacks depth in product management methodologies and frameworks, making it only tangentially related to the category.",
     "level": "Quaternary"
   },
   "Self Organisation": {

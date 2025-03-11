@@ -10,11 +10,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-16T10:59:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:48:36",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the features and improvements of the Visual Studio Team System Database Edition, which is a software product relevant to Agile and DevOps practices.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily focuses on the release of a specific software product, 'Data Dude', detailing its features, improvements, and architecture. It discusses the product's capabilities and how it integrates with SQL Server, which aligns well with the category's focus on tools and software that facilitate Agile practices and DevOps integration. The depth of discussion is significant, providing detailed insights into the product's functionalities and extensibility, thus supporting a high confidence score.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -37,11 +40,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T10:59:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:11:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical features and improvements of the Visual Studio Team System Database Edition, including model-based architecture, database schema providers, tool extensibility, and deployment strategies, which align with the principles of technical excellence.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses various technical aspects of the Visual Studio Team System Database Edition, including its architecture, extensibility, and deployment processes. While it touches on relevant topics such as tool extensibility and separation of build and deploy, it lacks a focused discussion on broader engineering practices or methodologies that enhance agility in software development. The primary focus is on the product features rather than on the principles of technical excellence, which diminishes its alignment with the category.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -73,12 +79,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:11:26",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of deployment and build separation, which are relevant to DevOps practices, but the primary focus is on a specific product release rather than a broader discussion of DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses aspects of database development and deployment, which are relevant to DevOps practices, particularly in the context of Continuous Integration and Continuous Delivery. However, it lacks a direct focus on broader DevOps principles, cultural shifts, or collaboration between development and operations teams. The mention of separation of build and deploy is relevant but does not constitute a comprehensive discussion of DevOps as a whole.",
+    "level": "Quaternary"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -118,11 +127,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T11:00:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:08:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the features and improvements of the Visual Studio Team System Database Edition, focusing on practical tooling aspects such as model-based architecture, database schema providers, tool extensibility, and deployment processes.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the features and improvements of the Visual Studio Team System Database Edition, focusing on practical tooling aspects such as database schema providers, tool extensibility, and deployment processes. It provides specific details about how these tools can be used to enhance database development, which aligns well with the category's focus on practical techniques and tooling. However, while it covers relevant topics, it lacks a broader discussion on methodologies or frameworks that support Agile and DevOps practices, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Value Stream Management": {
@@ -145,11 +157,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T11:00:13",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:55:45",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the release of a new product with a focus on its installation and deployment features, including a standalone deployment engine and setup links, which are central to the topic.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the release of a new version of a database tool, highlighting features such as a standalone deployment engine and separation of build and deploy processes. While it touches on installation aspects, such as providing links to download and setup, the primary focus is on the tool's capabilities and architecture rather than detailed installation or configuration instructions. Therefore, it aligns moderately with the category but lacks depth in actionable installation guidance.",
     "level": "Secondary"
   },
   "Organisational Agility": {
@@ -181,11 +196,14 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-16T11:00:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:44:41",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the release of a new version of a software tool, highlighting its features and improvements, which aligns with industry news and updates relevant to technology.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses the release of a specific software tool, 'Data Dude', which aligns with the category of news as it provides an update on a product relevant to technology. However, while it mentions improvements and features, it lacks a broader analysis of trends or industry impact, which would enhance its alignment with the category. The depth of discussion is moderate, focusing on technical details rather than a comprehensive review or commentary on the implications of the release.",
     "level": "Secondary"
   },
   "Business Agility": {
@@ -361,11 +379,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-16T11:43:21",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T12:10:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the release of a software product (Data Dude) and touches on aspects of release management such as build and deployment separation, versioning with Database Schema Providers, and extensibility points. However, the primary focus is on the features of the product rather than a detailed discussion of release management processes.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the release of a new version of a software tool, highlighting improvements and features relevant to release management, such as the separation of build and deploy processes and the introduction of a standalone deployment engine. However, while it touches on aspects of release management, it lacks a comprehensive exploration of the strategies and practices involved, making it more of a product announcement than a focused discussion on release management.",
     "level": "Secondary"
   },
   "Revenue per Employee": {
@@ -631,12 +652,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:48:30",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of a new software product and its architectural features, highlighting improvements in scalability, extensibility, and deployment practices. However, the primary focus is on the product itself rather than on overarching engineering principles or practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the release of a software tool with a focus on its architecture, extensibility, and deployment processes. While it touches on aspects of software craftsmanship, such as the separation of build and deploy, and the extensibility of tools, it lacks a comprehensive discussion on best practices, quality assurance, or continuous improvement in engineering processes. The primary focus is on the product features rather than a broader discourse on engineering excellence.",
+    "level": "Quaternary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",

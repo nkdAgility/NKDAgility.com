@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T20:35:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:21:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses data migration techniques and the implications of different approaches, specifically in the context of Team Foundation Server. It provides practical insights into maintaining data integrity and compliance, which aligns well with the exploration and application of methodologies and tools in Agile and DevOps practices.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses practical challenges and considerations in data migration, particularly in the context of Team Foundation Server (TFS). It provides specific techniques for maintaining data integrity and history during migration, which aligns well with the category's focus on practical techniques and tooling. The mention of various methodologies and the implications of choices made during migration demonstrate a strong alignment with the core themes of the category. The depth of discussion is significant, as it explores the pros and cons of different approaches and provides guidance on best practices, making it a primary focus rather than a secondary mention.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,12 +121,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:56:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses data migration and tractability in the context of software development and application lifecycle management, which are relevant to DevOps practices, but it primarily focuses on migration strategies rather than core DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses data migration and the challenges associated with maintaining traceability and history in software systems, particularly in the context of Team Foundation Server. While it touches on aspects relevant to DevOps, such as the importance of traceability in software development and the implications for application lifecycle management, it lacks a direct focus on core DevOps principles like CI/CD, automation, or cultural shifts. The discussion is more centred on data management and compliance rather than the integration of development and operations practices.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -280,11 +286,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T20:36:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:56:38",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses data migration issues related to Team Foundation Server, which is part of Azure DevOps, and addresses the implications for maintaining history and compliance in the context of Azure DevOps functionalities.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses data migration issues specifically related to Team Foundation Server (TFS), which is part of Azure DevOps. However, it primarily focuses on the challenges and considerations of data migration rather than providing a comprehensive overview of Azure DevOps functionalities or best practices. While it mentions TFS and touches on aspects of traceability and compliance, it lacks a broader discussion on Azure DevOps services or methodologies, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -343,11 +352,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T20:36:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:56:12",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the challenges and considerations involved in data migration within the context of application lifecycle management, including the importance of tractability and compliance with regulations. It addresses the stages of the application lifecycle, particularly focusing on migration and upgrade processes, which are central to ALM.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses data migration in the context of application lifecycle management, particularly focusing on the challenges of maintaining history and compliance during migrations. It touches on the importance of tractability and compliance with regulations like SOX, which aligns with application governance. However, while it mentions aspects of the application lifecycle, such as migration and upgrade processes, it lacks a comprehensive exploration of all lifecycle stages and best practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -370,11 +382,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T20:36:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:44:45",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical challenges and considerations involved in data migration and maintaining tractability in software systems, which aligns with best practices in software engineering and architecture.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the complexities of data migration and the importance of maintaining traceability and compliance in software systems, which aligns with the principles of software craftsmanship and engineering practices. However, while it touches on technical aspects, it lacks a comprehensive exploration of best practices or methodologies in software design and architecture, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -577,11 +592,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T20:37:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:35:01",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses data migration strategies within the context of software development, specifically focusing on the implications for software lifecycle management and compliance requirements.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses data migration in the context of software development, particularly focusing on the implications for software lifecycle management and compliance. It explicitly mentions the challenges of maintaining data integrity and traceability during migrations, which aligns with best practices in software development. The depth of discussion includes specific methodologies and considerations for migration, making it a primary focus of the content.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -730,12 +748,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:21:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses data migration and the importance of traceability in software development, which relates to engineering practices. However, it primarily focuses on specific migration strategies rather than broader engineering excellence principles.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the challenges and considerations involved in data migration, particularly in relation to maintaining traceability and compliance with standards like SOX. While it touches on aspects of software craftsmanship, such as the importance of retaining history and the implications of migration strategies, it does not delve deeply into best practices or continuous improvement in engineering processes. The focus is more on the practicalities of migration rather than a broader discussion of engineering excellence principles.",
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -775,11 +796,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T20:37:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:59:58",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses practical problem-solving strategies related to data migration and the challenges faced in maintaining tractability and history, which aligns with pragmatic thinking in complex environments.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses practical challenges and decision-making processes related to data migration in software systems, particularly in the context of compliance and traceability. It provides real-world examples and considerations that align well with pragmatic thinking, especially in Agile and DevOps environments. The author emphasises the importance of making informed choices based on the specific needs of the organisation, which reflects adaptability and critical thinking. The depth of discussion is substantial, covering various strategies and their implications, thus supporting a high confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {

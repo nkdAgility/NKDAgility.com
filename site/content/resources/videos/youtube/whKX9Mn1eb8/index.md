@@ -27,10 +27,10 @@ duration: 48
 isShort: true
 tags:
 - Software Development
-- Engineering Practices
-- Technical Mastery
-- Value Delivery
 - Working Software
+- Engineering Practices
+- Value Delivery
+- Software Developers
 sitemap:
   filename: sitemap.xml
   priority: 0.6

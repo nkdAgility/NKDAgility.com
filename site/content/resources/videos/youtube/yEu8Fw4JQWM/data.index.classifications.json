@@ -82,12 +82,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T16:42:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses principles related to Kanban and productivity in the context of work in progress, which are relevant to product management methodologies, but it primarily focuses on task management rather than strategic product management.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-07T14:02:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses concepts related to Kanban and Scrum, particularly focusing on the idea of limiting work in progress (WIP) to improve efficiency. However, it lacks a direct focus on product management as a strategic discipline. While it touches on Agile methodologies, it does not delve into the broader strategic alignment of customer needs, business objectives, or technical capabilities that are central to product management. The discussion is more about operational efficiency and context switching rather than the strategic aspects of product management, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -262,11 +265,14 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-11T22:21:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:21:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the Kanban framework, its principles, and the importance of managing work in progress (WIP), making it a clear focus of the discussion.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the principles of Kanban and Scrum, particularly focusing on the concept of limiting work in progress (WIP) to enhance productivity. It aligns well with Agile principles by emphasising the importance of focus and minimising context switching, which are key aspects of Agile methodologies. The depth of discussion includes practical analogies and references to literature on context switching, indicating a solid understanding of Agile frameworks. However, while it mentions Scrum and Kanban, it does not provide a comprehensive exploration of multiple frameworks or a comparative analysis, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Scaling Agility": {
@@ -298,11 +304,14 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-11T22:21:11",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the principles of Kanban, which is a Lean tool, and emphasises the importance of minimising work in progress (WIP) to enhance efficiency and productivity, aligning closely with Lean Thinking principles.",
+    "calculated_at": "2025-03-10T18:17:04",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the concept of limiting work in progress (WIP) and the benefits of focusing on fewer tasks, which aligns with Lean principles of minimising waste and enhancing flow. It mentions Kanban, a Lean tool, and touches on the idea of context switching, which relates to waste identification. However, the discussion is more focused on Agile and Scrum practices rather than a comprehensive exploration of Lean Thinking principles, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Cycle Time": {
@@ -334,29 +343,38 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-11T22:21:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:14:35",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the principles of Kanban and Agile methodologies, focusing on work in progress (WIP) and productivity in software development contexts.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the principles of Kanban and Scrum, focusing on the importance of limiting work in progress (WIP) to enhance productivity. It aligns well with core themes of software development, particularly Agile methodologies and practices. The depth of discussion includes analogies and references to context switching, which are relevant to software engineering processes. Overall, the content is a strong fit for the Software Development category.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T16:42:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:13:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses principles related to work in progress (WIP) and productivity in the context of Agile and Kanban methodologies, which are relevant to engineering practices. However, the primary focus is on project management concepts rather than direct software craftsmanship or engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the concept of limiting work in progress (WIP) and its impact on productivity, which aligns with some principles of engineering excellence, particularly in relation to efficiency and workflow management. However, the primary focus is on project management and Agile methodologies rather than on software craftsmanship or development practices. The discussion lacks depth in terms of specific engineering practices, coding standards, or quality assurance, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-11T22:21:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:37:30",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the concept of Work in Progress (WIP) and its impact on productivity, which directly relates to throughput in Agile and Lean environments. It emphasises the importance of limiting WIP to enhance workflow efficiency and deliver value more effectively.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the concept of limiting work in progress (WIP) and its impact on throughput, emphasising the importance of focusing on fewer tasks to enhance flow and efficiency. It provides a detailed analogy about context switching and the effects of having too many tasks, which aligns well with the core themes of throughput. The discussion is rich in detail, illustrating how smaller tasks can improve the flow of work, thus directly addressing the category's focus. However, while it touches on key aspects of throughput, it could benefit from more explicit metrics or strategies for measuring throughput.",
     "level": "Secondary"
   },
   "Azure Pipelines": {
@@ -1066,11 +1084,14 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-11T22:19:42",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of limiting work in progress (WIP) to enhance flow efficiency, focusing on principles from Kanban and the impact of multitasking on productivity.",
+    "calculated_at": "2025-03-07T14:02:24",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 32,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the concept of Work In Progress (WIP) and its impact on flow efficiency, emphasising the importance of limiting WIP to enhance throughput. It aligns well with the core themes of Flow Efficiency, particularly in relation to Lean and Agile methodologies. The depth of discussion is substantial, providing analogies and references to context switching and its effects on productivity, which are relevant to the optimisation of work throughput. Overall, the content is focused on the principles of Flow Efficiency, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "AI and Automation in Agility": {
@@ -1258,11 +1279,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-11T22:20:12",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the principles of Kanban and the impact of multitasking on productivity, which are central to team dynamics and process improvement in Agile environments.",
+    "calculated_at": "2025-03-10T12:13:45",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 30,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the concept of 'Work in Progress' (WIP) and its impact on productivity, which directly relates to team dynamics and process efficiency. It highlights the importance of focusing on fewer tasks to enhance performance, aligning well with the core themes of the category. The discussion includes references to Scrum practices and the negative effects of context switching, indicating a strong understanding of human factors in process methodologies. However, while the content is rich in examples and analogies, it lacks a structured exploration of leadership or cultural aspects, which slightly limits its depth.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {
@@ -1321,11 +1345,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T07:25:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:21:39",
+    "ai_confidence": 85.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Kanban principles, specifically the importance of limiting work in progress (WIP) to enhance productivity and efficiency, which aligns closely with the themes of Social Technologies.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily discusses Kanban principles, particularly the importance of limiting work in progress (WIP) to enhance efficiency and reduce context switching. It aligns well with the core themes of Social Technologies, such as collaboration and continuous improvement within teams. The depth of discussion is significant, providing detailed analogies and examples related to the Kanban methodology, which reinforces its relevance to the category.",
     "level": "Secondary"
   },
   "Leadership": {

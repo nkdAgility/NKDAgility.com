@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T00:34:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:36:00",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical application of tagging build servers in TFS, which is a specific tooling technique to enhance build management and team collaboration.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed discussion on the practical application of tagging build servers in TFS, which directly relates to tooling in DevOps practices. It explores the complexities of managing build servers, the benefits of using tags, and specific methodologies for implementing these tags effectively. The depth of the discussion includes examples, figures, and a clear explanation of how to set up and manage build agents, aligning well with the core themes of the category. Overall, the content is focused on practical techniques and tooling, making it a strong fit for the classification.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T00:34:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:04:38",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration of build servers in TFS, including tagging agents and managing build definitions, which aligns well with the category.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of build servers in TFS, discussing the importance of tagging build agents and the implications of having multiple build servers. It provides actionable insights on how to manage build agents effectively, which aligns well with the category's focus on installation and configuration processes. The discussion includes specific steps and considerations for setting up the environment, which adds depth to the content. However, while it is detailed, it does not cover troubleshooting or security aspects, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T00:34:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:35:56",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the management of build servers in a continuous integration environment, which aligns with DevOps principles and practices, particularly in relation to automation and streamlining workflows.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the management of build servers and the use of tags in a continuous integration environment, which aligns with DevOps principles. However, while it touches on automation and the need for collaboration among geographically diverse teams, it lacks a broader discussion on cultural shifts, metrics, or tools that are central to DevOps. The focus is primarily on technical implementation rather than the holistic integration of people and processes.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -208,11 +217,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T00:34:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:02:58",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical practices related to managing build servers in TFS, including the use of tags for build agents, which aligns with principles of Continuous Integration and Continuous Delivery (CI/CD) and modular architecture.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the use of build servers and tagging in TFS, which relates to Continuous Integration practices. It provides practical insights into managing build environments, which aligns with the principles of technical excellence. However, while it touches on relevant topics, the discussion lacks depth in exploring broader engineering methodologies or principles, thus limiting its overall alignment with the category.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -280,11 +292,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-16T00:35:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:50:49",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the management of build servers in TFS (Team Foundation Server), which is a component of Azure DevOps, and provides insights into tagging build agents for better CI/CD practices.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the management of build servers within the context of TFS (Team Foundation Server), which is a component of Azure DevOps. It provides detailed insights into the use of tags for build agents, which directly relates to Azure DevOps functionalities. The discussion aligns well with the core themes of Azure DevOps, particularly in CI/CD practices and team collaboration. The depth of the discussion is significant, as it covers practical implementation details and best practices for managing build environments, making it highly relevant to the Azure DevOps category.",
     "level": "Secondary"
   },
   "Personal": {
@@ -730,11 +745,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-16T00:54:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:04:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practices related to build servers and the process of managing them, which aligns with principles of software craftsmanship and development practices.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the management of build servers and the use of tagging to improve the efficiency of build processes, which aligns with best practices in software development. However, while it touches on aspects of engineering excellence, such as maintaining clean build environments and reducing complexity, it lacks a broader discussion on principles of software craftsmanship or quality assurance. The focus is primarily on practical implementation rather than a comprehensive exploration of engineering excellence.",
     "level": "Secondary"
   },
   "Revenue per Employee": {
@@ -874,11 +892,14 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-16T00:54:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:05:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the management of build servers and tagging within a continuous integration context, emphasizing challenges faced in a CI environment with multiple developers and geographically diverse teams.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the use of gated check-ins and the management of build servers, which are relevant to Continuous Integration practices. It highlights the importance of tagging build agents to streamline the build process and reduce issues related to dependencies. However, while it touches on CI principles, the discussion lacks depth in exploring broader CI concepts, best practices, or tools beyond the specific context of build server management.",
     "level": "Secondary"
   },
   "Market Share": {
@@ -1198,11 +1219,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-16T00:54:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:40:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses best practices for managing build servers in a software development environment, which aligns with the role of software developers in utilizing tools and practices that enhance collaboration and productivity.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the management of build servers in a software development context, which is relevant to software developers. It touches on the implications of build server configuration on developer productivity and collaboration, aligning with Agile and DevOps principles. However, the focus is primarily on technical implementation rather than broader Agile or DevOps methodologies, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Coaching": {

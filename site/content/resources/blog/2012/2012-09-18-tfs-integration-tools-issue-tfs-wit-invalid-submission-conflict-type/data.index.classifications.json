@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T17:13:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:15:00",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the configuration and troubleshooting of TFS Integration Tools, which aligns with practical techniques and tooling in Agile and DevOps practices.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed discussion on troubleshooting a specific issue related to TFS Integration Tools, which falls under practical techniques and tooling. It explicitly mentions configuration steps and permissions required for effective use of the tools, aligning well with the category's focus on methodologies and frameworks that enhance Agile and DevOps practices. The depth of discussion includes specific solutions and recommendations, indicating a strong practical application. However, it lacks broader context on Agile or DevOps practices, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-14T17:14:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:53:07",
+    "ai_confidence": 85.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses configuration issues and solutions related to the TFS Integration Tools, including specific steps to resolve a configuration conflict and permissions required for successful operation.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific configuration issue related to the TFS Integration Tools, which aligns well with the category of Install and Configuration. It discusses the configuration process, potential errors, and solutions in detail, providing actionable insights for users. The mention of permissions and recommendations for testing configurations further supports its relevance to installation and configuration practices. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:14:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses TFS Integration Tools, which are relevant to DevOps practices, but the primary focus is on troubleshooting a specific issue rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses TFS Integration Tools and configuration issues, which are related to DevOps practices, particularly in the context of Continuous Integration and deployment. However, it lacks a broader discussion on DevOps principles, cultural shifts, or tools beyond TFS. The focus is primarily on troubleshooting a specific issue rather than on the integration of people, processes, and tools in a DevOps context.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -208,12 +217,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:57:25",
+    "ai_confidence": 35.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses configuration issues and permissions related to TFS Integration Tools, which touches on technical practices but is primarily focused on troubleshooting rather than broader engineering methodologies or principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily addresses a specific technical issue related to TFS Integration Tools, focusing on configuration and permissions. While it does touch on aspects of technical practices, such as the need for proper permissions and configuration management, it lacks a broader discussion on methodologies or principles that enhance agility or quality in software development. The mention of testing configurations against a test server hints at good practices but does not delve deeply into the core themes of Technical Excellence.",
+    "level": "Quaternary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -577,11 +589,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-14T17:15:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:53:10",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the configuration and troubleshooting of TFS Integration Tools, which is relevant to software development practices and methodologies.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses a specific issue related to TFS Integration Tools, which is relevant to software development practices, particularly in the context of version control and configuration management. It provides a solution to a common problem encountered during the setup of these tools, indicating a practical application of software development methodologies. However, while it touches on relevant topics, the depth of discussion is somewhat limited to a specific issue without broader context on software development practices or methodologies.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1045,11 +1060,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-14T17:17:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:42:05",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses issues related to the configuration of TFS Integration Tools, including troubleshooting configuration problems and ensuring proper permissions, which are central to system configuration.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses a specific issue related to the configuration of TFS Integration Tools, including troubleshooting steps and permissions required for successful configuration. It directly addresses configuration problems and solutions, aligning well with the core themes of system configuration. The depth of discussion is substantial, providing detailed steps and considerations for resolving the issue, which enhances its relevance to the category.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1153,11 +1171,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-14T17:17:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:32:26",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the identification and resolution of a specific issue related to TFS Integration Tools, providing insights into configuration problems and permissions required for successful operation.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses a specific issue related to TFS Integration Tools, detailing the problem, potential causes, and solutions. It provides practical steps for diagnosing and resolving the issue, aligning well with the core themes of troubleshooting. The depth of discussion includes specific configurations and permissions required, which enhances its relevance to the category.",
     "level": "Secondary"
   },
   "Experimentation": {

@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T18:34:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:04:20",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical solutions and techniques for resolving a specific issue in SharePoint 2013, including the use of SharePoint Designer and resetting site definitions, which aligns with the exploration and application of tooling.",
+    "final_score": 66.0,
+    "reasoning": "The content provides a detailed discussion on practical solutions for a specific technical issue related to SharePoint, including two main methods for resolving the problem. It explicitly mentions tools like SharePoint Designer and discusses methodologies for restoring site definitions, which aligns well with the category's focus on practical techniques and tooling. The depth of the discussion is significant, as it includes step-by-step instructions and considerations for each solution, demonstrating a clear application of tooling in a real-world scenario.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T18:35:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:47:49",
+    "ai_confidence": 85.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses troubleshooting and solutions related to the installation and configuration of SharePoint 2013, specifically addressing issues that arise after an upgrade from SharePoint 2010. It provides actionable steps for resetting site definitions and editing with SharePoint Designer, which are relevant to the installation and configuration category.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed guide on troubleshooting and resolving a specific issue related to the installation and configuration of SharePoint 2013 after an upgrade from SharePoint 2010. It discusses two main solutions, including step-by-step instructions for resetting to site definitions and using SharePoint Designer to edit pages. The content aligns well with the key topics of installation and configuration, particularly in terms of providing actionable insights and troubleshooting common issues. The depth of discussion is significant, as it covers multiple solutions and their implications, but it could benefit from more explicit mentions of broader configuration best practices.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -370,12 +376,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T19:29:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:49:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical issues related to upgrading SharePoint and provides solutions focusing on software practices and tools used to develop and manage SharePoint environments.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to SharePoint upgrades and provides solutions for resolving errors. While it touches on technical practices, such as using SharePoint Designer and resetting site definitions, it lacks a broader discussion on software craftsmanship, architecture, or engineering principles. The focus is more on troubleshooting rather than on best practices or methodologies that contribute to high-quality software development.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -577,11 +586,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T19:29:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:38:57",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses troubleshooting and solutions related to web part development in SharePoint, which involves software development practices and methodologies. It is focused on resolving assembly issues and editing pages through SharePoint Designer, which aligns with software engineering topics.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses a specific issue related to SharePoint 2013 and custom web parts, which falls under software development practices, particularly in the context of troubleshooting and maintenance. It provides detailed solutions and methodologies for resolving a common problem encountered during software upgrades, demonstrating a clear alignment with software development processes. However, while it touches on relevant topics, such as site definitions and editing with SharePoint Designer, it lacks broader discussions on software development methodologies or best practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1045,11 +1057,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T19:29:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:29:12",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the process of troubleshooting and configuring SharePoint 2013 after an upgrade, focusing on system setups and management through options like resetting site definitions and editing with SharePoint Designer, which aligns well with system configuration principles.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses troubleshooting and solutions related to the configuration of SharePoint after an upgrade, which aligns well with system configuration principles. It provides detailed steps for resetting site definitions and using SharePoint Designer to address specific configuration issues, demonstrating a clear focus on practical configuration management. However, while it does touch on configuration management, it lacks broader discussions on best practices or optimisation strategies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1153,12 +1168,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T19:29:59",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-11T11:54:28",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "The content primarily discusses a specific troubleshooting issue related to SharePoint 2013 after an upgrade from SharePoint 2010, detailing the identification of the problem and providing two clear solutions for resolving it.",
-    "level": "Primary"
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses a specific issue encountered during a SharePoint upgrade, detailing the error message and providing two clear solutions for troubleshooting the problem. It aligns well with the core themes of the category by offering practical methodologies for diagnosing and resolving a technical issue, including step-by-step instructions and considerations for using SharePoint Designer. The depth of discussion is substantial, as it covers both solutions in detail, making it a strong fit for the Troubleshooting category.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",

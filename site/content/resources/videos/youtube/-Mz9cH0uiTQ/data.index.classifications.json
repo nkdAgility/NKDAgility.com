@@ -1,20 +1,26 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T08:31:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:12:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the relationship between agile methodologies and DevOps, but the primary focus is on consulting and client engagement rather than DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 34.0,
+    "reasoning": "The content primarily discusses Agile consulting and client engagement rather than focusing on DevOps principles or practices. While it briefly mentions 'DevOps' in the context of client expectations, it does not delve into DevOps practices, tools, or cultural shifts. The discussion lacks depth in terms of DevOps-specific content, making it a secondary mention rather than a primary focus.",
+    "level": "Quaternary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T08:31:58",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T12:20:00",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses Agile practices and the role of consultants in delivering value, which aligns with the themes of collaboration and continuous improvement. However, it also diverges into broader business challenges and client engagement strategies, making Agile a secondary theme.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses Agile methodologies and the role of consultants in delivering value, which aligns with the core themes of Social Technologies. However, it lacks detailed exploration of specific frameworks like Scrum or Kanban, and the discussion is more focused on client interactions and challenges rather than the methodologies themselves.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -28,20 +34,26 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-18T08:32:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:26:10",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the role of consultants in understanding client needs and the importance of leadership in guiding organisations towards delivering true value, making leadership a significant theme.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the role of consultants in understanding and addressing client needs, which touches on leadership aspects, particularly in guiding organisations towards the right solutions. However, while it mentions leadership issues and the importance of quality in service delivery, the primary focus is more on consulting practices and client interactions rather than on leadership strategies or frameworks. The depth of discussion on leadership is moderate, as it does not delve deeply into specific leadership techniques or models.",
+    "level": "Secondary"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-18T08:32:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:20:42",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding client needs and delivering value, which aligns with product management principles. However, it primarily focuses on consulting and Agile practices rather than the strategic aspects of product management.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the role of consultants in understanding and delivering customer needs, which aligns with product management principles. It touches on the importance of aligning client requests with actual needs, a key aspect of product management. However, the focus is more on consulting practices rather than direct product management strategies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Asynchronous Development": {
@@ -451,12 +463,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-18T10:22:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:12:32",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content pertains to agile methodologies and the role of consultants in improving agile practices, which is a secondary aspect relevant to software developers. However, it primarily focuses on consulting rather than directly on software developers' practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the role of an agile consultant and touches on Agile and DevOps principles, but it primarily focuses on client interactions and consulting strategies rather than the direct role of software developers. While there are mentions of Agile and the need for developers to understand client needs, the discussion lacks depth in exploring best practices or methodologies specifically for software developers. The content is more about consulting and client engagement than about the developers' roles within Agile and DevOps frameworks.",
+    "level": "Quaternary"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
@@ -505,12 +520,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T10:22:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:26:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses working with Scrum Masters and improving Agile practices within organizations, indicating that Scrum is a major theme, but the primary focus is on consulting and client needs.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions working with a Scrum Master and discusses Agile principles, but it primarily focuses on the role of an agile consultant rather than the specific responsibilities and practices of a Scrum Master. The discussion lacks depth in exploring Scrum ceremonies or the nuances of the Scrum Master role, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -577,12 +595,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-18T10:22:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:20:03",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of agile consultants in helping organizations identify their true needs and navigate change, which aligns with the theme of organizational change. However, the focus is more on consulting experiences and agile practices rather than a detailed exploration of change management frameworks or methodologies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the role of agile consultants in understanding and delivering value to clients, which touches on aspects of organisational change, particularly in relation to agility and leadership. However, it primarily focuses on the consultant-client dynamic and does not delve deeply into structured methodologies or frameworks for organisational change. While there are mentions of organisational needs and the importance of quality in service delivery, the discussion lacks a comprehensive exploration of change management principles or specific strategies for implementing organisational change.",
+    "level": "Quaternary"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -640,12 +661,15 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-18T10:22:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:20:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses client needs in an organisational context and touches on leadership issues and employee engagement but primarily focuses on Agile consulting and frameworks, which distracts from core psychological themes.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses client engagement and the role of consultants in understanding organisational needs, which touches on aspects of motivation and leadership. However, it primarily focuses on Agile methodologies and consulting practices rather than core psychological principles. The mention of leadership issues and engagement pipelines indicates some alignment with organisational psychology, but the overall depth and focus on technical practices limit its relevance to the category.",
+    "level": "Quaternary"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -946,11 +970,14 @@
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
-    "calculated_at": "2025-02-18T10:22:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:40:55",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses value delivery in consulting, client engagement, and the dynamics of business growth and quality management, which are relevant to entrepreneurship. However, the primary focus is more on consulting practices rather than entrepreneurship principles.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of understanding client needs and delivering value, which aligns with the entrepreneurial focus on value creation and customer alignment. However, it primarily revolves around consulting practices rather than the broader principles of entrepreneurship. While it touches on aspects of risk management and the challenges of scaling a business, these are not the main focus. The discussion lacks depth in entrepreneurial strategies and does not explicitly mention entrepreneurship as a primary theme.",
     "level": "Tertiary"
   },
   "Estimation": {

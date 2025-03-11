@@ -145,11 +145,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T11:36:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:50:32",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content provides a step-by-step guide on configuring the 'My Calendar' web part in a SharePoint environment, which aligns with installation and configuration processes.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed step-by-step guide on how to enable and configure the 'My Calendar' web part on a My Site, which directly aligns with the category of Install and Configuration. It discusses specific actions required to set up the web part, including entering edit mode, modifying settings, and applying changes. The content is focused on practical instructions, which is a core theme of the category. However, while it is detailed, it does not cover broader aspects such as troubleshooting or system requirements, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Organisational Agility": {
@@ -685,11 +688,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:10:02",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content mainly focuses on configuring web parts within a SharePoint site and the integration with Outlook, which relates to the Windows environment but is not primarily about the Windows operating system itself.",
+    "final_score": 59.0,
+    "reasoning": "The content primarily discusses configuring the 'My Calendar' web part in a SharePoint environment, which is related to Windows in the context of Microsoft products. However, it does not explicitly focus on the Windows operating system itself, nor does it delve into installation, troubleshooting, or other core themes of Windows management. The mention of Outlook and SharePoint indicates a connection to the Windows ecosystem, but the discussion lacks depth and direct relevance to Windows as a standalone operating system.",
     "level": "Tertiary"
   },
   "Product Strategy": {
@@ -1216,12 +1222,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:13:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:56:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content provides a how-to guide for configuring a specific web part in SharePoint, which may imply troubleshooting steps. However, the primary focus is on setup rather than the identification and resolution of issues.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on how to enable a specific feature in SharePoint, which is more of a how-to guide than a troubleshooting discussion. While it does touch on configuration steps that could imply troubleshooting, it lacks explicit identification of issues or methodologies for resolving problems. The discussion does not delve into diagnosing failures or providing solutions for technical issues, which are core to the troubleshooting category.",
+    "level": "Quaternary"
   },
   "Scrum Master": {
     "category": "Scrum Master",
@@ -1315,11 +1324,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T12:25:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:12:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration of a web part in SharePoint to display an Outlook calendar, which aligns with the system configuration theme as it details steps to achieve a specific setup.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on configuring the 'My Calendar' web part in a SharePoint environment, which directly relates to system configuration. It provides step-by-step instructions on how to modify web parts and set up the necessary server address for Outlook integration. The discussion aligns well with the category's themes, particularly in terms of best practices for software configuration and the practicalities of system setup. However, while it offers a decent level of detail, it lacks broader discussions on optimisation strategies or troubleshooting, which slightly limits its depth.",
     "level": "Secondary"
   },
   "Scaling Agility": {

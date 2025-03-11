@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T19:45:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:17:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a practical issue related to managing group membership in TFS after an upgrade, providing specific command-line solutions and troubleshooting steps, which aligns well with the category's focus on practical techniques and tooling.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a practical solution to a specific issue encountered during a TFS upgrade, detailing command-line instructions and troubleshooting steps. It directly addresses the use of tooling (TFS Security) and methodologies for managing permissions, which aligns with the category's focus. However, while it discusses practical techniques, the depth of discussion on broader Agile or DevOps practices is limited, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T19:46:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:54:07",
+    "ai_confidence": 82.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses troubleshooting and configuration steps related to permissions after an upgrade from TFS 2008 to TFS 2012, which aligns with installation and configuration processes.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on troubleshooting and resolving a specific issue related to permissions after an upgrade from TFS 2008 to TFS 2012. It provides detailed steps for checking group memberships and executing command-line instructions to adjust permissions, which aligns well with the category of Install and Configuration. The discussion is technical and offers actionable solutions, demonstrating a strong alignment with the core themes of installation and configuration processes. The depth of the discussion is significant, as it includes specific commands and troubleshooting steps, although it could benefit from a broader context on installation procedures. Overall, the content is highly relevant to the category.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -280,11 +286,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T19:46:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:54:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses an issue related to Team Foundation Server (TFS), which is part of the Azure DevOps suite, and provides a solution for managing group membership permissions after an upgrade.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses an issue related to Team Foundation Server (TFS), which is part of the Azure DevOps suite. It provides a detailed account of a specific problem encountered during an upgrade from TFS 2008 to TFS 2012, including commands to manage permissions. While it does not explicitly mention Azure DevOps, TFS is a core component of it, and the discussion aligns with the functionalities and best practices associated with Azure DevOps. The depth of the discussion is significant, as it includes specific commands and troubleshooting steps, but it lacks broader context on Azure DevOps services or methodologies.",
     "level": "Secondary"
   },
   "Personal": {
@@ -370,12 +379,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T21:23:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:33:23",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical aspects related to permissions management during a software upgrade, including command line instructions and security configurations in TFS, which aligns with software engineering practices.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content primarily discusses a technical issue related to permissions in TFS after an upgrade, which aligns with the category of Technical Mastery. It provides specific commands and solutions to address the problem, demonstrating a level of technical expertise. However, while it touches on aspects of software craftsmanship, such as managing permissions and understanding system architecture, it lacks a broader discussion on best practices or principles of clean code, which limits its depth and overall alignment with the category.",
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -730,12 +742,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:16:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content provides detailed instructions on resolving permission issues in TFS after an upgrade, touching on practices related to user management and permissions which can relate to software engineering practices, but it primarily focuses on a specific technical issue rather than overarching engineering excellence principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to permissions in TFS after an upgrade, which is more focused on troubleshooting than on broader engineering excellence practices. While it touches on aspects of permissions management, it lacks a comprehensive discussion on software craftsmanship, best practices, or continuous improvement in engineering processes.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -775,11 +790,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T21:23:25",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T18:42:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses practical problem-solving strategies for managing permissions in TFS after an upgrade, showcasing real-world application and navigational techniques to address specific technical issues.",
+    "final_score": 65.0,
+    "reasoning": "The content provides a practical solution to a specific issue encountered during a TFS upgrade, demonstrating real-world application of problem-solving techniques. It discusses the need for permissions and the use of command-line tools to resolve access issues, which aligns with pragmatic thinking in a DevOps context. However, while it addresses practical strategies, it lacks broader discussions on Agile or Scrum methodologies, which slightly limits its alignment with the category.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -1099,11 +1117,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T21:23:25",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T11:58:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses issues related to Team Foundation Server (TFS) and permissions which are relevant to Windows environments, particularly in relation to TFS being a Microsoft product. However, it primarily focuses on TFS functionality rather than broader Windows operating system topics.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses an issue related to managing group memberships in Team Foundation Server (TFS) after an upgrade, which is relevant to Windows environments, particularly in the context of Visual Studio and TFS. It provides specific commands and troubleshooting steps that align with the Windows category's focus on configuration and troubleshooting. However, while it is closely related to Windows, it does not explicitly mention the Windows operating system itself, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Deployment Strategies": {

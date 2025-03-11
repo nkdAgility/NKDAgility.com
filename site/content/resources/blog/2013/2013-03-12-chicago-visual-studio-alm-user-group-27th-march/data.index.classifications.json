@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T19:20:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:09:44",
+    "ai_confidence": 75.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses specific features of Visual Studio 2012 related to Agile practices, such as Kanban Columns and Work Item Tags, which are practical tools and techniques for enhancing team performance.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses specific features of Visual Studio 2012 Update 2, such as Kanban Columns and Work Item Tags, which are practical tools relevant to Agile methodologies. It also mentions techniques for managing teams without areas, aligning well with the category's focus on practical application of tools and methodologies. However, while the content is informative, it lacks a deeper exploration of how these tools can be integrated or their impact on team performance, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -145,11 +148,14 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T19:20:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:50:24",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses an upcoming user group event, including details about presentations and demonstrations related to Agile and DevOps tools, making it a clear focus on an event.",
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses an upcoming user group event in Chicago, detailing the speaker lineup and topics to be covered, which aligns closely with the category of Events and Presentations. It provides a clear focus on a specific event, including the date, location, and agenda, demonstrating a strong alignment with the key topics outlined in the category description. The depth of discussion is significant, as it elaborates on the features being presented and the context of the event, indicating a thorough engagement with the subject matter.",
     "level": "Secondary"
   },
   "Flow Efficiency": {
@@ -199,21 +205,27 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:09:41",
+    "ai_confidence": 65.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Kanban Columns as part of a demonstration, indicating that Kanban is a significant theme, but it is not the primary focus of the overall content.",
-    "level": "Tertiary"
+    "final_score": 64.0,
+    "reasoning": "The content discusses Kanban Columns as part of a demonstration at a user group meeting, indicating a direct mention of Kanban. However, the focus is primarily on the features of Visual Studio rather than an in-depth exploration of Kanban principles or practices. While there is some alignment with Kanban concepts, such as customisation of columns and work item tracking, the overall depth of discussion is limited to specific features rather than broader Kanban methodologies.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:30:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses features of Visual Studio related to Kanban and work item tracking, which are relevant to engineering practices, but the primary focus is on the event and speakers rather than a deep exploration of technical excellence.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a user group meeting and the demonstration of specific features in Visual Studio, such as Kanban Columns and Work Item Tags. While these features relate to Agile practices and tools, the discussion lacks a deep exploration of engineering methodologies or principles that enhance technical excellence. The mention of Kanban and work item tracking is relevant but does not constitute a primary focus on technical excellence as defined in the category. Overall, the content provides some relevant information but does not delve into the core themes or provide substantial detail on technical excellence.",
+    "level": "Quaternary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -577,11 +589,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T20:24:29",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T14:51:23",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses features of Visual Studio related to Agile methodologies, specifically Kanban and Work Item Tracking, but is framed more as an event announcement and doesn't focus deeply on software development practices.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses specific features of Visual Studio related to Agile methodologies, such as Kanban Columns and Work Item Tags, which are relevant to software development practices. However, the primary focus is on an event and personal experiences rather than a deep exploration of software development methodologies or practices. The mention of Agile concepts provides some alignment, but the overall depth of discussion is limited to a demonstration context.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -775,12 +790,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:55:52",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical features of Visual Studio 2012 related to Kanban and Work Item Tracking, which could contribute to pragmatic approaches in Agile environments, but the primary focus is on an event announcement rather than an in-depth discussion of Pragmatic Thinking.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content briefly mentions Agile concepts such as Kanban and Work Item Tracking, which are relevant to pragmatic thinking in project management. However, it lacks a deep exploration of practical problem-solving strategies or real-world applications of these concepts. The discussion is more focused on a specific event and features rather than on broader pragmatic approaches.",
+    "level": "Quaternary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1198,11 +1216,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:40:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses features of Visual Studio that are relevant to software development tools and Agile methodologies, but it is primarily focused on an event and demonstration rather than a deep exploration of developer roles or practices.",
+    "final_score": 56.0,
+    "reasoning": "The content mentions Agile concepts like Kanban and Work Item Tracking, which are relevant to software development practices. However, the focus is primarily on a specific event and features of Visual Studio rather than a deep exploration of the role of software developers within Agile or DevOps frameworks. The discussion lacks substantial depth on best practices or methodologies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Coaching": {
@@ -1351,12 +1372,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:48:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:50:20",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Kanban principles and features related to work item tracking in Visual Studio, making it a major but secondary theme within a broader context of an event announcement.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content mentions Kanban Columns and Work Item Tags, which are relevant to the Kanban principles within the Social Technologies category. However, the primary focus is on a specific event and features of Visual Studio rather than a comprehensive discussion of the methodologies themselves. The alignment with core themes is moderate, as it touches on aspects of collaboration and team dynamics but lacks depth in exploring the broader implications of these methodologies.",
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",

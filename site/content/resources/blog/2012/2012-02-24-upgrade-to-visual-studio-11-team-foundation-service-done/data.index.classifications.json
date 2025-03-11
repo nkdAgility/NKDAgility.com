@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T20:58:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:23:05",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the transition to Visual Studio 11 Team Foundation Service, detailing practical steps for source control and work item tracking, which aligns with the exploration and application of tools in Agile and DevOps practices.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the transition to Visual Studio 11 Team Foundation Service, highlighting practical aspects such as cloud migration, source control management, and work item tracking. It provides specific details about the benefits and challenges of using the tool, which aligns well with the category's focus on practical techniques and tooling. However, while it covers practical applications, it lacks a broader exploration of methodologies or frameworks that enhance Agile and DevOps practices, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T20:58:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:57:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the transition to Visual Studio 11 Team Foundation Service, including installation and configuration aspects such as source control bindings and work item management, making it a major theme.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Visual Studio 11 Team Foundation Service, detailing the transition to cloud solutions, source control setup, and work item tracking. It provides actionable insights and steps taken during the installation process, which aligns well with the category. However, while it discusses installation and configuration, it lacks a comprehensive step-by-step guide and detailed troubleshooting advice, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:57:39",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition to a cloud-based version of Team Foundation Server, which relates to source control and work item tracking, but it primarily focuses on the features and user experience rather than the broader principles and practices of DevOps.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the transition to cloud-based services and the use of Team Foundation Server (TFS), which relates to DevOps practices such as source control and automated builds. However, it lacks a comprehensive exploration of DevOps principles, cultural shifts, or metrics, making it more of a practical guide rather than a deep discussion on DevOps as a whole.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -280,21 +289,27 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T20:59:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:57:21",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the transition to Visual Studio 11 Team Foundation Service, which is part of Azure DevOps, and includes details about its features, benefits, and customer experiences related to Azure DevOps functionalities.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the Visual Studio 11 Team Foundation Service, which is a component of Azure DevOps. It provides a detailed overview of the cloud-based version of Team Foundation Server, including its benefits and limitations, which aligns well with Azure DevOps functionalities. The discussion includes practical insights into transitioning to the cloud and managing source control and work items, demonstrating a good depth of knowledge. However, while it is focused on Azure DevOps, it does not cover all key topics such as CI/CD pipelines or Agile project management practices, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-15T20:59:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:45:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the author's personal experience with transitioning a customer to the cloud version of Visual Studio 11 Team Foundation Service, reflecting on the challenges and successes encountered during the process.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content includes personal experiences related to transitioning a customer to the cloud version of Visual Studio Team Foundation Service, which aligns with the Personal category. The author shares insights about the challenges faced and the ease of the transition, providing a subjective interpretation of the process. However, the focus is more on technical aspects and specific features of the software rather than deep personal reflections or broader themes of Agile, Scrum, or DevOps, which slightly lowers the confidence score.",
+    "level": "Tertiary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -343,11 +358,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T20:59:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:35:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the transition to Visual Studio 11 Team Foundation Service, which is closely related to Application Lifecycle Management practices, including source control, work item tracking, and cloud solutions for managing software applications.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the transition to Visual Studio 11 Team Foundation Service, which is a tool relevant to Application Lifecycle Management (ALM). It mentions aspects of cloud-based management and source control, which are part of the ALM process. However, the discussion lacks depth in covering the full lifecycle stages and best practices of ALM, focusing more on specific features and user experiences rather than a comprehensive overview of ALM methodologies or governance.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -577,11 +595,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T10:28:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:00:55",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the transition to Visual Studio Team Foundation Service, including source control and work item tracking, which are key aspects of software development practices.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the transition to Visual Studio 11 Team Foundation Service, touching on aspects of source control, work item tracking, and cloud solutions, which are relevant to software development practices. However, while it mentions these topics, the focus is more on the announcement and personal experiences rather than a deep exploration of methodologies or best practices in software development.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -730,12 +751,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:23:01",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses transitioning to Visual Studio Team Foundation Service and emphasizes aspects such as source control, work item tracking, and project upgrades, which relate to software development practices. However, it primarily focuses on the cloud service features and user experience, making engineering excellence a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the transition to Visual Studio 11 Team Foundation Service and highlights some technical aspects of source control and work item tracking. However, while it touches on aspects of software development practices, such as source control management and the ease of transitioning to cloud solutions, it lacks a focused discussion on engineering excellence principles, best practices, or continuous improvement processes. The primary focus is on the product announcement and user experience rather than a deep exploration of engineering excellence.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

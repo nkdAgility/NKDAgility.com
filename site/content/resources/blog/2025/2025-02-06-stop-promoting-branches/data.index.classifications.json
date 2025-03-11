@@ -73,12 +73,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T09:00:57",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-07T12:35:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "The content primarily discusses software delivery models and branching strategies, which are more technical implementation details rather than strategic aspects of product management.",
-    "level": "Quaternary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses software delivery models and branching strategies, which are more technical implementation details rather than strategic aspects of product management. While it touches on the importance of delivering value and agility, it lacks a focus on customer needs, business objectives, or methodologies specific to product management. The discussion does not align with the core themes of product management, such as stakeholder interests or product vision, and does not provide depth in these areas.",
+    "level": "Quinary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -109,20 +112,26 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T08:53:18",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-11T00:15:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content discusses modern software delivery practices and the need for agility in development processes, which aligns with digital transformation themes. However, it primarily focuses on specific branching strategies rather than a broader strategic adoption of digital technologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses software delivery models and branching strategies, which indirectly relate to digital transformation by emphasising agility and continuous delivery. However, it lacks a direct focus on the strategic adoption of digital technologies for business transformation, making it more about operational practices than a comprehensive discussion on digital transformation.",
+    "level": "Quaternary"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-11T14:29:36",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-07T12:30:10",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 27.0,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses software delivery models and practices that enhance the functionality and quality of software, aligning closely with the principles of working software in Agile methodologies.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily critiques traditional software delivery models and advocates for more effective branching strategies that enhance continuous delivery and reduce complexity. It discusses the importance of delivering value and maintaining software quality through practices like GitHub Flow and Release Flow, which align with the principles of working software. However, while it touches on the characteristics of working software, it does not delve deeply into specific metrics or case studies, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Decision Making": {
@@ -244,12 +253,15 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T08:53:18",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-10T17:47:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 55.0,
-    "reasoning": "The content discusses the flaws of traditional branching models and promotes alternative strategies that enhance delivery speed and reduce complexity, which indirectly relates to innovation in software delivery practices. However, the primary focus is on branching strategies rather than a direct exploration of innovation capabilities or Evidence-Based Management.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the flaws of traditional branching models and advocates for more efficient practices like GitHub Flow and Release Flow, which can enhance delivery speed and reduce complexity. However, it primarily focuses on software delivery processes rather than directly addressing the measurement and improvement of innovation capabilities. While there are elements that touch on innovation in terms of improving workflows, the discussion lacks a strong emphasis on frameworks, metrics, or Evidence-Based Management principles that are central to the Ability to Innovate category.",
+    "level": "Quaternary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -346,11 +358,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-11T14:30:24",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-07T12:35:24",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses the inefficiencies of traditional branch promotion models and advocates for practices that enhance the flow of work, such as GitHub Flow and Release Flow, which directly relate to improving throughput in software delivery.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses the inefficiencies of traditional branch promotion models and advocates for continuous integration and delivery practices that enhance throughput. It highlights how these models can lead to delays and increased complexity, which directly impacts the flow of work. However, while throughput is a significant theme, the content primarily focuses on branching strategies rather than a comprehensive exploration of throughput metrics or measurement techniques.",
     "level": "Secondary"
   },
   "Azure Pipelines": {
@@ -526,12 +541,15 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-11T14:30:58",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-07T12:39:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses the inefficiencies of traditional branch promotion models and their impact on delivery speed, which directly relates to Lead Time. It emphasises the importance of optimising processes to reduce delays in value delivery, aligning well with the key topics of Lead Time.",
-    "level": "Secondary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the inefficiencies of traditional branch promotion models and how they can delay value delivery, which relates to Lead Time. However, it does not provide a focused discussion on Lead Time itself, nor does it delve into measurement techniques or strategies specifically aimed at reducing Lead Time. The primary focus is on branching strategies rather than a comprehensive exploration of Lead Time as a metric.",
+    "level": "Quaternary"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -580,12 +598,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-11T14:31:14",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-07T12:42:12",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content discusses the flaws of traditional branching models and promotes continuous delivery practices, aligning with Agile principles of value delivery and adaptability. It emphasises the need for a strategic shift in development practices to enhance agility, making Agile Strategy a primary theme.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content discusses the flaws of traditional branching models and promotes alternatives like GitHub Flow and Release Flow, which align with Agile principles of continuous delivery and value delivery. However, it primarily focuses on technical practices related to version control rather than a broader Agile strategy context, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -886,11 +907,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-11T14:32:28",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-10T11:34:02",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses software delivery models, specifically critiquing traditional branch promotion strategies and advocating for modern practices like GitHub Flow and Release Flow. It addresses principles of continuous integration and delivery, which are central to technical mastery in software engineering.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a thorough critique of traditional branch promotion models in software development, aligning closely with the principles of clean code, continuous integration, and agile engineering practices. It discusses best practices such as GitHub Flow and Release Flow, emphasising the importance of reducing complexity and improving delivery speed, which are key aspects of technical mastery. The depth of discussion is significant, with detailed explanations of the pitfalls of outdated practices and the benefits of modern approaches, demonstrating a strong focus on software craftsmanship.",
     "level": "Secondary"
   },
   "Release Management": {
@@ -922,12 +946,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T08:53:18",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-11T11:10:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content discusses the flaws of traditional branching models and advocates for continuous delivery practices, which align with Agile principles of delivering value and adaptability. However, it primarily focuses on technical aspects of version control rather than a broader discussion of Agile philosophy.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on technical aspects of branching strategies in software development, specifically critiquing traditional models like branch promotion and advocating for alternatives like GitHub Flow and Release Flow. While it touches on concepts related to agility, such as delivering value and reducing complexity, it lacks a direct discussion of Agile principles or the broader Agile mindset. The emphasis is on practical implementation rather than the philosophical underpinnings of Agile, leading to a lower confidence score in alignment with the Agile Philosophy category.",
+    "level": "Quaternary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -1012,21 +1039,27 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T08:53:18",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-10T13:51:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content discusses the inefficiencies of traditional branching models and advocates for continuous integration and delivery practices, which are relevant to fostering a culture of agility. However, it primarily focuses on technical practices rather than broader organisational agility strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the flaws of traditional branching models and advocates for more agile practices like GitHub Flow and Release Flow. While it touches on themes of agility and continuous delivery, it primarily focuses on team-level practices and specific branching strategies without addressing broader organisational implications or frameworks for scaling agility. Therefore, it does not fully align with the category of Enterprise Agility.",
+    "level": "Quaternary"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T08:53:18",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-11T09:47:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content discusses the inefficiencies of traditional branching models in software development, emphasising the importance of continuous delivery and value delivery, which aligns with Lean principles. However, it primarily focuses on Git workflows rather than Lean methodologies directly.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses software delivery models and the inefficiencies of branch promotion, which indirectly relates to Lean principles of minimising waste and maximising value. However, it primarily focuses on Agile practices and Git workflows rather than explicitly addressing Lean methodologies or tools. While there are mentions of reducing complexity and improving delivery speed, the core themes of Lean, such as value stream mapping and waste reduction techniques, are not thoroughly explored.",
+    "level": "Quaternary"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -1375,12 +1408,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T13:46:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T12:39:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses software delivery models and branching strategies, which relate to Agile practices and continuous delivery, but it primarily focuses on technical aspects rather than the collaborative frameworks of Scrum, Kanban, Lean, or Agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses software delivery models and branching strategies, which indirectly relate to Agile practices and continuous delivery. However, it lacks explicit references to Scrum, Kanban, Lean, or Agile methodologies, and does not focus on team dynamics or collaboration, which are key aspects of Social Technologies.",
+    "level": "Quaternary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

@@ -32,7 +32,6 @@ aliasesArchive:
 - /resources/blog/a-new-day-a-new-week-a-new-team-server
 tags:
 - Install and Configuration
-- System Configuration
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

@@ -8,7 +8,7 @@ ResourceImportId: 315
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-09-12
-weight: 770
+weight: 850
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -26,8 +26,7 @@ tags:
 - Personal
 - Miscellaneous
 - Continuous Learning
-categories:
-- Engineering Excellence
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

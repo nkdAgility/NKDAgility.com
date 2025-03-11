@@ -27,7 +27,10 @@ aliasesArchive:
 - /blog/office-2013-issue--installing-office-2013-breaks-visual-studio-2012
 - /resources/blog/office-2013-issue-installing-office-2013-breaks-visual-studio-2012
 tags:
+- Windows
 - Troubleshooting
+- Install and Configuration
+- Software Development
 categories: []
 preview: metro-problem-icon-4-4.png
 

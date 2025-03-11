@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T18:21:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:00:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical steps and techniques involved in upgrading to Team Foundation Server 2013, including backup strategies, installation processes, and configuration details, which align with the category's focus on practical application of tools.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed walkthrough of upgrading to Team Foundation Server 2013, which includes practical techniques such as taking backups, using virtual machines, and configuring the server. It discusses specific tooling (TFS 2013) and methodologies related to server upgrades, aligning well with the category's focus on practical application. However, while it covers practical aspects, it lacks broader discussions on Agile or DevOps practices, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T18:21:56",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-10T12:47:12",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 84.0,
-    "reasoning": "The content primarily focuses on the installation and upgrade process of Team Foundation Server 2013, providing detailed step-by-step instructions, recommendations for backups, and configuration best practices.",
+    "final_score": 81.0,
+    "reasoning": "The content provides a detailed guide on upgrading to Team Foundation Server 2013, including step-by-step instructions, recommendations for backups, and configuration details. It explicitly discusses installation procedures, system requirements, and troubleshooting aspects, aligning well with the core themes of the category. The depth of discussion is significant, covering various stages of the upgrade process and potential issues, which supports a high confidence score.",
     "level": "Primary"
   },
   "Transparency and Accountability": {
@@ -118,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:47:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses upgrading Team Foundation Server, which is related to DevOps practices, but primarily focuses on installation and configuration rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the upgrade process of Team Foundation Server 2013, which is a tool used in software development and project management. While it touches on aspects of deployment and configuration, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. The mention of backups and server upgrades is relevant but does not delve into the collaborative and continuous delivery aspects central to DevOps.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -262,11 +271,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-15T18:22:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:49:06",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server 2013, providing insights and recommendations related to the software product, which aligns with the category's focus on tools and software pertinent to Agile methodologies and DevOps practices.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on the upgrade process of Team Foundation Server 2013, providing practical insights and recommendations. It discusses the product in detail, including installation steps, backup strategies, and performance expectations. However, while it does mention the product and offers some recommendations, it lacks a broader analysis or review context that would align it more closely with the category's core themes. The depth of discussion is substantial regarding the upgrade process but does not extend to a comprehensive review or analysis of the product's impact on Agile or DevOps practices.",
     "level": "Secondary"
   },
   "Value Delivery": {
@@ -280,11 +292,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T18:22:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:38:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the upgrade process for Team Foundation Server 2013, which is a component of Azure DevOps, detailing installation, configuration, and best practices related to TFS.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the upgrade process for Team Foundation Server (TFS) 2013, which is a component of Azure DevOps. It provides detailed insights into the upgrade steps, considerations, and best practices, aligning well with the functionalities of Azure DevOps. However, it lacks broader discussions on other Azure DevOps services and methodologies, which slightly limits its conceptual alignment.",
     "level": "Secondary"
   },
   "Personal": {
@@ -298,11 +313,14 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-15T18:25:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:28:44",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server 2013, providing insights and recommendations that align with industry updates and evaluations relevant to Agile and DevOps practices.",
+    "final_score": 61.0,
+    "reasoning": "The content primarily focuses on the upgrade process for Team Foundation Server 2013, providing detailed insights and personal experiences related to the upgrade. While it does mention the release of a new version, which aligns with industry news, the overall emphasis is on technical procedures rather than broader industry trends or reviews. The depth of discussion is significant, but it lacks a comprehensive analysis of the implications of the upgrade on Agile or DevOps practices, which diminishes its alignment with the core themes of the category.",
     "level": "Secondary"
   },
   "Systems Thinking": {
@@ -370,12 +388,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T19:05:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:54:02",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the installation and upgrade process for Team Foundation Server 2013, detailing best practices and methodologies involved in maintaining software systems, which falls under the realm of technical mastery in software engineering.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on the practical aspects of upgrading Team Foundation Server 2013, including backup strategies and installation processes. While it touches on some technical practices, such as the importance of backups and system configurations, it lacks a deeper exploration of software craftsmanship principles, clean code practices, or methodologies that contribute to high-quality software development. The discussion is more operational than strategic, which limits its alignment with the 'Technical Mastery' category.",
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -730,12 +751,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:00:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the upgrade process of Team Foundation Server 2013, which involves technical aspects related to software development practices, including backups, configuration, and database upgrades. However, the primary focus is on the upgrade logistics rather than directly promoting continuous improvement or high standards in software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the upgrade process of Team Foundation Server 2013, which includes practical steps and personal experiences. While it touches on aspects of software development, such as the importance of backups and the upgrade process, it lacks a broader discussion on engineering excellence principles, best practices, or continuous improvement in engineering processes. The content does not delve into coding standards, quality assurance, or metrics for assessing engineering performance, which are key topics in the Engineering Excellence category.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

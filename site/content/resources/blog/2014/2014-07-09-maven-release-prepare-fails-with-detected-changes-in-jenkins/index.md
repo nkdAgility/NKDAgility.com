@@ -8,7 +8,7 @@ ResourceImportId: 10579
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-07-09
-weight: 685
+weight: 720
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,19 +23,18 @@ aliasesArchive:
 - /maven-release-prepare-fails-with-detected-changes-in-jenkins
 - /resources/blog/maven-release-prepare-fails-with-detected-changes-in-jenkins
 tags:
+- Practical Techniques and Tooling
 - Windows
 - Modern Source Control
+- Release Management
+- Software Development
+- Technical Mastery
+- Troubleshooting
 - Continuous Integration
 - Install and Configuration
-- Practical Techniques and Tooling
-- Release Management
 - Pragmatic Thinking
-- Software Development
-- System Configuration
-- Technical Mastery
 categories:
 - DevOps
-- Engineering Excellence
 preview: naked-alm-jenkins-logo-9-9.png
 
 ---

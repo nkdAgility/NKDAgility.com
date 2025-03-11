@@ -73,11 +73,14 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-12T15:42:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T11:34:51",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of automation in testing processes, the benefits of reducing human error, and the need for efficient feedback loops in software development. It also touches on specific examples of test automation practices and the impact of automation on software quality, making it a central theme.",
+    "final_score": 76.0,
+    "reasoning": "The content discusses the importance of automation in software development, particularly in reducing human error and improving efficiency. It mentions the need for automated tests and the benefits of closing feedback loops quickly, which aligns with the principles of test automation. However, while it touches on relevant topics, such as the impact of manual testing and the need for fast-running tests, it lacks a structured exploration of specific test automation frameworks or best practices, which limits its depth in the category.",
     "level": "Secondary"
   },
   "Windows": {
@@ -109,11 +112,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T15:42:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:51:57",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical problem-solving strategies related to automation in software development, highlighting real-world applications of DevOps principles to enhance efficiency and reduce errors. It provides examples and case studies that demonstrate the importance of automation in navigating complexity and improving processes, aligning well with the key topics of pragmatic thinking.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the importance of automation in software development, highlighting practical problem-solving strategies to reduce human error. It provides real-world examples, such as the failure of KN Capital Group due to missed steps, and illustrates how automation can streamline processes and enhance efficiency. The depth of discussion includes specific techniques for implementing automation and the impact on project management, aligning well with the core themes of pragmatic thinking. Overall, the content is focused on practical applications within Agile and DevOps contexts, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Employee Engagement": {
@@ -262,12 +268,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T15:42:55",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T17:48:53",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of automation in software development, particularly in testing and deployment processes, which are key aspects of Continuous Delivery. However, it primarily focuses on the challenges of manual processes and the benefits of automation rather than explicitly addressing Continuous Delivery principles or methodologies.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of automation in software development, which is a key aspect of Continuous Delivery. It highlights how automation can reduce human error and improve efficiency, aligning with the principles of CD. However, while it touches on related themes, it does not explicitly focus on Continuous Delivery practices or methodologies, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -298,11 +307,14 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-12T15:43:02",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T00:16:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of automation in software development, particularly in relation to testing and feedback loops, which are key aspects of Continuous Integration. However, it primarily focuses on automation and manual testing issues rather than CI practices specifically.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of automation in software development, which is a key aspect of Continuous Integration (CI). It highlights the need for automated testing to reduce human error and improve efficiency, aligning with CI principles. However, while it touches on CI-related themes, it does not explicitly focus on CI practices, tools, or detailed strategies for implementation, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Lean Principles": {
@@ -334,11 +346,14 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-12T15:43:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T09:47:46",
+    "ai_confidence": 87.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of automation in testing processes, including the benefits of automated tests over manual testing, the impact of automation on feedback loops, and specific examples of automation practices in software development. It aligns well with the principles and methodologies associated with automated testing.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the importance of automation in software development, particularly in the context of testing. It highlights the pitfalls of manual testing and the benefits of automated testing, including faster feedback loops and reduced human error. The author provides specific examples of automation practices, such as the need for unit tests over long-running system tests, which aligns well with the principles of automated testing. The depth of discussion is significant, covering various aspects of automated testing, including its impact on quality and efficiency, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Definition of Ready": {
@@ -388,11 +403,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T15:43:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:11:19",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the importance of automation in software development processes, including testing and deployment, and highlights best practices for improving efficiency and quality in software engineering.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the importance of automation in software development, providing specific examples and insights into how automation can reduce human error and improve efficiency. It aligns well with key topics such as Continuous Integration and Continuous Deployment (CI/CD) practices, as well as best practices in coding and software design. The depth of discussion is significant, with detailed examples and a clear narrative on the impact of automation on the software development lifecycle.",
     "level": "Secondary"
   },
   "Azure Repos": {
@@ -1204,11 +1222,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-12T15:41:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:31:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of automation in software development, highlighting how it enhances efficiency, reduces errors, and ultimately delivers greater value to customers. It aligns well with the principles of iterative development and continuous delivery, making it a strong fit for the Value Delivery category.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of automation in software development, highlighting how it reduces human error and enhances efficiency, which aligns with the principles of iterative development and continuous delivery. It provides examples of how automation can close feedback loops and improve the speed of testing, which directly relates to value delivery. However, while it touches on value delivery concepts, it primarily focuses on technical implementation details rather than broader strategies or methodologies within Agile or DevOps frameworks.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -1231,11 +1252,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T15:41:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T12:43:43",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of automation in software development, providing practical examples and insights into how automation can improve efficiency and reduce errors. It explores specific tools and methodologies related to automation, making it a central theme of the discussion.",
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses the importance of automation in software development, providing practical examples and case studies that illustrate the application of tools like Azure DevOps. It aligns well with the core themes of the category by focusing on methodologies for implementing automation, which enhances team performance and reduces human error. The depth of discussion is significant, as it covers various aspects of automation, including the need for fast feedback loops and the restructuring of testing methodologies. Overall, the content is a strong fit for the category, with a primary focus on practical techniques and tooling.",
     "level": "Secondary"
   },
   "Kanban": {

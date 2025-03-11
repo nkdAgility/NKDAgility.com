@@ -8,7 +8,7 @@ ResourceImportId: 3460
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-06-04
-weight: 860
+weight: 850
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,15 +24,15 @@ aliasesArchive:
 - /resources/blog/what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
 tags:
 - Troubleshooting
-- Install and Configuration
-- Modern Source Control
-- Practical Techniques and Tooling
+- Software Development
 - System Configuration
 - Working Software
-- Application Lifecycle Management
 - Azure Boards
-- Azure DevOps
 - Pragmatic Thinking
+- Release Management
+- Practical Techniques and Tooling
+- Azure DevOps
+- Install and Configuration
 categories:
 - DevOps
 preview: metro-binary-vb-128-link-4-4.png

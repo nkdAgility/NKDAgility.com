@@ -55,11 +55,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T20:58:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:21:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the upgrade and installation process of Team Foundation Server (TFS) 2008, which aligns with the category of Install and Configuration.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS) and mentions the installation handling the upgrade smoothly. This aligns with the category of Install and Configuration as it provides insights into the installation process. However, the discussion lacks detailed step-by-step instructions or best practices, which affects the depth of the content. The mention of SharePoint integration hints at configuration but does not delve into specifics, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -370,12 +373,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T21:16:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:17:02",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the upgrade and installation process of Team Foundation Server (TFS) 2008, which fits directly into system configuration processes. It also hints at further integration and customization related to system setup.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the upgrade process of a development environment, which aligns with system configuration. It mentions the installation of TFS2008 and the need for SharePoint integration, indicating a focus on configuring systems. However, the discussion lacks depth regarding best practices or troubleshooting, and while it mentions installation, it does not delve into broader configuration management or optimisation strategies.",
+    "level": "Tertiary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -568,12 +574,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:02:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses upgrading a development environment and mentions integration with SharePoint, which relates to the work of software developers, but does not primarily focus on Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions upgrading a development environment and creating a project, which relates to software development. However, it lacks explicit discussions on Agile or DevOps methodologies, best practices, or the role of developers in these contexts. The focus is more on technical tasks rather than the broader themes of collaboration, productivity, or modern engineering practices.",
+    "level": "Quaternary"
   },
   "Software Development": {
     "category": "Software Development",
@@ -946,12 +955,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:50:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses upgrading a technical environment and touches on software and service integration, making technical practices a significant but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the upgrade process of a development environment and mentions tools like TFS and Visual Studio. While it touches on technical aspects, it lacks a focus on best practices, principles of clean code, or methodologies that contribute to software craftsmanship. The discussion is more about the installation and integration rather than a deep exploration of technical mastery.",
+    "level": "Quaternary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1081,12 +1093,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:15:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily discusses Team Foundation Server and its integration with SharePoint, it mentions the installation and upgrade process, which are relevant topics to the Windows environment.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the upgrade of Team Foundation Server (TFS) and mentions Visual Studio, which are related to the Windows environment. However, it does not explicitly focus on Windows as an operating system, nor does it delve into installation, configuration, or troubleshooting of Windows itself. The primary focus is on TFS and SharePoint integration, which are secondary topics in relation to Windows. Therefore, while there is some relevance, it does not meet the criteria for a strong alignment with the Windows category.",
+    "level": "Quaternary"
   },
   "Lean Principles": {
     "category": "Lean Principles",

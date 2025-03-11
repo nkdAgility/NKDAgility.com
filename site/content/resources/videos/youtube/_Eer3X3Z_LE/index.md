@@ -27,15 +27,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Backlog
 - Scrum Product Development
+- Product Backlog
+- Product Owner
 resourceTypes:
 - video
 layout: video
 categories:
+- Social Technologies
 - Scrum
 - Product Management
-- Social Technologies
 
 ---
 **What is a product backlog?**

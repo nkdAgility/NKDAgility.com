@@ -27,11 +27,12 @@ aliasesArchive:
 - /how-to-set-and-achieve-effective-sprint-goals
 - /resources/blog/how-to-set-and-achieve-effective-sprint-goals
 tags:
-- Professional Scrum
 - Scrum Product Development
+- Software Development
 - Agile Project Management
 categories:
 - Scrum
+- Social Technologies
 preview: NKDAgility-technically-SetEffectiveSprintGoals-1-1.jpg
 
 ---

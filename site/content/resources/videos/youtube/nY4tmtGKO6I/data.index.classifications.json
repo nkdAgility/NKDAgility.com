@@ -475,12 +475,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T23:35:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:07:10",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a Scrum Master and the importance of team understanding of Scrum, which relates to team collaboration but focuses primarily on the Scrum Master's responsibilities.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content briefly mentions the role of a Scrum Master in teaching Scrum values and principles, which relates to team collaboration. However, it lacks a deeper exploration of techniques for improving team communication or fostering a culture of trust, which are key topics in the category. The focus is more on the responsibilities of the Scrum Master rather than on collaborative dynamics within the team.",
+    "level": "Quaternary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -628,11 +631,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T23:35:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T13:17:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the role of a Scrum Master, focusing on their responsibilities in educating and guiding a new Scrum team on the principles of Scrum.",
+    "final_score": 72.0,
+    "reasoning": "The content explicitly discusses the role of a Scrum Master, focusing on their responsibilities in educating new teams about Scrum principles and values. This aligns well with the core themes of the category, particularly in terms of coaching and mentoring. The depth of discussion is moderate, providing insights into the importance of a Scrum Master's knowledge and accountability, but it could benefit from more detailed exploration of specific techniques or practices.",
     "level": "Secondary"
   },
   "Enterprise Agility": {
@@ -646,11 +652,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T23:35:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:24:34",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily discusses the roles and responsibilities of a Scrum Master, it hints at the importance of literature and resources to support new teams in understanding Scrum, making it a significant but secondary theme.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the role of a Scrum Master and the importance of understanding Scrum principles, which aligns with Agile methodologies. However, it lacks direct references to specific books or products, and the depth of discussion is limited to general insights rather than detailed analysis or reviews.",
     "level": "Tertiary"
   },
   "Sprint Review": {
@@ -1042,12 +1051,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T23:35:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:02:47",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum and the role of the Scrum Master in educating the team, which is relevant to team dynamics and performance, but does not primarily focus on strategies or methodologies aimed at maximizing team effectiveness.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of a Scrum Master in educating a new Scrum team, which aligns with the category's focus on enhancing team dynamics and understanding of Agile principles. However, it lacks detailed exploration of specific strategies or metrics for measuring team performance, which limits its depth and overall alignment with the category.",
+    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -1222,11 +1234,14 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T23:35:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:01:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions empiricism and the importance of understanding Scrum values, which relates to empirical process control, but it is primarily focused on Scrum Master's role and teaching rather than a deep exploration of empirical process control itself.",
+    "final_score": 60.0,
+    "reasoning": "The content mentions 'empiricism' and discusses the Scrum Master's role in teaching Scrum principles, which aligns with the category. However, it lacks detailed exploration of empirical process control practices and their impact on team dynamics, limiting its depth and overall focus on the category.",
     "level": "Tertiary"
   },
   "Decision Theory": {
@@ -1240,11 +1255,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T23:35:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T11:52:58",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a Scrum Master in teaching and facilitating understanding of Scrum principles, which aligns with the pragmatic application of Scrum in practice, although it is not the primary focus.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the role of a Scrum Master in educating a new Scrum team, which aligns with practical problem-solving strategies in Agile contexts. However, it lacks depth in exploring how these insights can be applied in complex environments or how they relate to broader DevOps principles. The focus is primarily on the responsibilities of a Scrum Master rather than on pragmatic approaches to problem-solving.",
     "level": "Tertiary"
   },
   "Azure Pipelines": {

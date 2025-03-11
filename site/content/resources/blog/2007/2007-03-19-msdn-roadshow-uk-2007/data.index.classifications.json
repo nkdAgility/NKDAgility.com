@@ -199,11 +199,14 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:31:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:26:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses an event (MSDN Roadshow) and provides insights on speakers and sessions, making it a major but secondary theme related to industry events.",
+    "final_score": 57.0,
+    "reasoning": "The content provides a personal account of attending the MSDN Roadshow, which includes mentions of speakers and their presentations. While it does touch on an industry event, the focus is primarily on personal impressions rather than a comprehensive review or analysis of the event's significance in the context of Agile or DevOps. The discussion lacks depth in evaluating the implications of the event or its relevance to broader industry trends, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Practical Techniques and Tooling": {
@@ -253,11 +256,14 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T09:31:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:21:42",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the author's experience attending the MSDN Roadshow, highlighting specific speakers and their presentations, which aligns well with the category of events and presentations.",
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses attending the MSDN Roadshow, highlighting specific speakers and their presentations, which aligns well with the category. The mention of the event and the speakers' performances indicates a primary focus on a presentation context. However, while it provides personal insights and experiences, it lacks detailed exploration of broader themes in Agile or DevOps, which slightly lowers the alignment and depth scores.",
     "level": "Secondary"
   },
   "Agile Product Management": {
@@ -325,11 +331,14 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T09:31:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T19:06:44",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses personal experiences and reflections from attending a specific event, which does not align with established Agile, Scrum, DevOps, or Lean frameworks.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses a personal experience attending a roadshow, which does not directly reference Agile, Scrum, DevOps, or Lean methodologies. While it touches on general themes of engagement and learning, it lacks actionable insights or connections to recognised practices. The mention of speakers and their presentations is anecdotal and does not contribute to a deeper understanding of any specific frameworks, aligning it more with the Miscellaneous category.",
     "level": "Secondary"
   },
   "DevOps": {

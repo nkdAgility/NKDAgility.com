@@ -10,11 +10,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:13:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:11:55",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific software product (Power Tools for Team Foundation Server) and mentions involvement in its trial, indicating a focus on a product relevant to Agile and DevOps practices.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses a specific product, the Power Tools for Team Foundation Server, which aligns with the category of Products and Books. However, it lacks a detailed review or analysis of the product's impact on Agile or DevOps practices, resulting in a moderate confidence score. The mention of the MVP involvement and reference to another post indicates some engagement with the topic, but the overall depth of discussion is limited.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -181,12 +184,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-16T11:14:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:49:12",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a new release of Power Tools for Team Foundation Server, which aligns with industry updates relevant to Agile and DevOps practices.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content mentions a new release of Power Tools for Team System, which aligns with industry updates. However, it lacks detailed analysis or reviews of the tools, and the discussion is primarily anecdotal rather than providing substantial insights or evaluations. The references to other posts do not contribute significantly to the depth of discussion on the topic.",
+    "level": "Tertiary"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -298,12 +304,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:10:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions ALM and discusses Power Tools related to Team Foundation Server, indicating a connection to application lifecycle management, but it primarily focuses on the release and personal involvement rather than the broader aspects of ALM.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions ALM through the use of tags and references to Power Tools for Team Foundation Server, but it lacks a detailed discussion on the application lifecycle stages, best practices, or tools. The focus is more on the release of Power Tools rather than a comprehensive exploration of Application Lifecycle Management.",
+    "level": "Quaternary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -361,12 +370,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:13:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:09:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions a new release of Power Tools and the author's involvement in the trial, indicating a discussion around a specific software release, but it does not delve deeply into release management strategies or practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions a new release of Power Tools but lacks detailed discussion on release management strategies, practices, or processes. It does not address key topics such as version control, risk management, or CI/CD practices, which are essential for a strong alignment with the category.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -388,12 +400,15 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T09:13:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:56:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions a new release of Power Tools and discusses involvement in trials, indicating a connection to software releases, but it lacks a broader discussion on the principles or practices of frequent releases.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions a new release of Power Tools but lacks a detailed discussion on the principles of frequent releases, continuous delivery, or related strategies. It does not explore the implications of the release or how it fits into a broader context of frequent updates, making it more of an announcement than a discussion on the category.",
+    "level": "Quaternary"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
@@ -712,12 +727,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:44:58",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Power Tools related to Visual Studio Team System and mentions involvement in the trial, which implies a connection to software development tools and practices. However, it lacks in-depth discussion on methodologies or practices directly related to Software Development.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content mentions a new release of Power Tools for Team System, which relates to software development tools and practices. However, it lacks a detailed discussion on methodologies or best practices, focusing instead on a personal experience with the tools. The alignment with core themes is moderate, as it touches on aspects of version control and team collaboration but does not delve deeply into the software development lifecycle or methodologies.",
+    "level": "Quaternary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",

@@ -23,13 +23,13 @@ preview: https://i.ytimg.com/vi/NgoP5W5y7Gs/maxresdefault.jpg
 duration: 369
 isShort: false
 tags:
-- Practical Techniques and Tooling
-- Software Developers
 - Software Development
-- Azure DevOps
-- Engineering Practices
 - Pragmatic Thinking
 - Technical Mastery
+- Software Developers
+- Practical Techniques and Tooling
+- Azure DevOps
+- Engineering Practices
 - Technical Excellence
 - Operational Practices
 sitemap:

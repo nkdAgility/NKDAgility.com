@@ -253,11 +253,14 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-11T12:10:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses communication and collaboration tools in the context of application development, but it primarily focuses on technical aspects and specific tools rather than the interplay between social and technical systems.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the use of Azure Services Platform and its potential to enhance WPF development, focusing on features like central storage and team communication. However, it primarily centres on technical tools and their functionalities without a significant exploration of the organisational context or the interplay between social and technical systems. While there are brief mentions of team dynamics and collaboration, the overall discussion lacks depth in sociotechnical principles, leading to a moderate confidence score.",
     "level": "Quaternary"
   },
   "Personal": {
@@ -280,12 +283,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:11:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Azure Services and TFS (Team Foundation Server), which are related to Azure DevOps, but the primary focus is on WPF development and user collaboration features rather than Azure DevOps functionalities.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content mentions Azure Services and TFS (Team Foundation Server), which are related to Azure DevOps, but it primarily focuses on WPF development and general collaboration tools rather than specific Azure DevOps functionalities or practices. The discussion lacks depth in terms of Azure DevOps services and does not provide insights into CI/CD, agile project management, or best practices within Azure DevOps.",
+    "level": "Quaternary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -433,12 +439,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:08:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses integrating Azure services into WPF development and suggests improvements related to software configuration and team collaboration, which aligns with technical practices. However, it does not primarily focus on software craftsmanship or engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the potential of Azure Services Platform in relation to WPF development, which touches on technical aspects. However, it primarily focuses on user experience and application features rather than deep technical mastery principles such as software design, architecture, or best practices. The discussion lacks explicit references to clean code, testing, or engineering excellence, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -1162,12 +1171,15 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:55:29",
+    "ai_confidence": 42.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "Content discusses features related to collaboration tools and communication, but primarily focuses on the Azure Services Platform and WPF development.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses potential features for collaboration tools, such as chat and presence information, which aligns with the category. However, it primarily focuses on the Azure Services Platform and WPF development, making collaboration tools a secondary topic rather than the main focus.",
+    "level": "Quaternary"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1243,12 +1255,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:48:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses tools that could facilitate communication and collaboration among team members, which aligns with the theme of Team Collaboration, but it is primarily focused on the technical aspects of Azure Services Platform and WPF development.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses features that could enhance team collaboration, such as chat functionality and presence information, which aligns with the category's focus. However, it primarily centres on technical capabilities of a platform rather than exploring team dynamics or methodologies in Agile, Scrum, or DevOps contexts. The discussion lacks depth in terms of strategies or techniques for improving collaboration, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Strategy": {
     "category": "Strategy",
@@ -1315,12 +1330,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:44:26",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "Content discusses the concept of central storage for configuration and settings across multiple computers, which relates to system configuration. However, the overall focus is more on using Azure Services for application development rather than on the technical aspects of system configuration.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses the potential for central storage of configuration settings and the idea of consistent application configuration across multiple computers, which aligns with system configuration principles. However, the focus is more on conceptual ideas and user experience rather than detailed methodologies or best practices for system configuration. The discussion lacks depth in technical specifics and does not cover other key topics such as optimisation strategies or security considerations.",
+    "level": "Quaternary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",

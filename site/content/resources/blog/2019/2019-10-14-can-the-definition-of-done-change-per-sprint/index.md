@@ -8,7 +8,7 @@ ResourceImportId: 40168
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2019-10-14
-weight: 405
+weight: 415
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,18 +27,10 @@ aliasesArchive:
 - /blog/can-the-definition-of-done-change-per-sprint-
 - /resources/blog/can-the-definition-of-done-change-per-sprint
 tags:
-- Transparency
 - Definition of Done
-- Increment
-- Scrum Product Development
-- Agile Product Management
-- Agile Project Management
-- Scrum Team
-- People and Process
-- Product Delivery
-- Professional Scrum
 categories:
 - Scrum
+- Social Technologies
 preview: 20190906_152025-2-2.gif
 
 ---

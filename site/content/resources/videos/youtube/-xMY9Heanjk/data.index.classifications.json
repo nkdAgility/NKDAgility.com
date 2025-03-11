@@ -82,11 +82,14 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T16:42:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:14:44",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum and the challenges faced by new teams, touching on the importance of understanding foundational principles and feedback loops, which are relevant to product management. However, the primary focus is on Scrum mechanics rather than strategic product management practices.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the challenges of working with new Scrum teams, touching on Agile principles and the importance of understanding empirical processes. While it does mention Scrum and Agile methodologies, the focus is more on the mechanics of Scrum rather than strategic product management. The discussion lacks depth in terms of aligning customer needs and business objectives, which are core to product management. However, it does provide some insights into team dynamics and feedback loops, which are relevant to product management, hence the moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Leadership": {
@@ -343,12 +346,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T16:42:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:22:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges of working with a new Scrum team and highlights the importance of understanding foundational principles of Agile methodologies, which relates to engineering practices. However, the primary focus is on Scrum roles and events rather than directly on engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the challenges of working with new Scrum teams, focusing on misconceptions about Scrum practices rather than engineering excellence. While it touches on the importance of understanding foundational principles and empirical processes, it lacks a direct focus on software craftsmanship, coding standards, or continuous improvement practices that are central to the category of Engineering Excellence. The discussion is more about team dynamics and Agile methodologies than about high standards in software development.",
+    "level": "Quaternary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1093,20 +1099,26 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-12T12:36:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:14:47",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the challenges and misconceptions of working with a new Scrum team, focusing on the importance of understanding Agile principles and empiricism in product management.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the challenges of working with a new Scrum team, highlighting the misconceptions about Scrum practices and the importance of understanding empirical processes. It mentions key Agile concepts such as feedback loops and the need for teams to grasp foundational elements rather than just mechanical practices. However, while it touches on Agile principles, it lacks a structured discussion on product management specifically, which affects the overall depth and alignment with the category.",
     "level": "Secondary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-12T12:36:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:22:06",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of understanding empirical processes, feedback loops, and the need for continuous learning within Scrum teams, which aligns closely with the themes of discovery and learning.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the challenges faced by new Scrum teams, particularly focusing on the importance of understanding empirical processes and feedback loops, which are central to the Discovery and Learning category. It highlights the need for teams to recognise their knowledge gaps and adapt their practices based on user feedback, aligning well with the core themes of continuous learning and innovation. The depth of discussion is significant, as it explores the misconceptions teams have about Scrum and emphasises the importance of foundational understanding over mechanical adherence to processes. Overall, the content is primarily focused on discovery and learning within the context of Scrum, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Systems Thinking": {
@@ -1156,11 +1168,14 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-12T12:36:24",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T14:27:38",
+    "ai_confidence": 72.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of feedback loops and empiricism in Scrum, which are relevant to market adaptability. However, the primary focus is on Scrum roles and practices rather than directly addressing market adaptability strategies.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of understanding empirical processes and feedback loops, which are crucial for market adaptability. It highlights the need for teams to recognise their limitations and adapt their practices accordingly, aligning well with the principles of Agile methodologies. However, while it touches on these themes, it does not provide extensive strategies or case studies specifically focused on market adaptability, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -1210,20 +1225,26 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-17T16:42:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:27:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the principles of empirical process and feedback loops, which are relevant to Kanban, but the primary focus is on Scrum and its practices.",
-    "level": "Tertiary"
+    "final_score": 34.0,
+    "reasoning": "The content primarily discusses Scrum, with only brief mentions of Kanban as part of a broader discussion on Agile methodologies. While it touches on concepts like empiricism and feedback loops, which are relevant to Kanban, the focus remains on Scrum practices and misconceptions. The depth of discussion on Kanban principles is minimal, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-12T12:36:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:22:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of understanding empirical processes and feedback loops in Scrum, which aligns with the principles of iterative development and maximising customer value. It highlights the need for teams to focus on delivering value through understanding foundational elements rather than merely following Scrum mechanics.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the challenges of working with new Scrum teams and highlights the importance of understanding empirical processes and feedback loops, which are crucial for value delivery. It mentions the need for teams to focus on delivering value through understanding customer feedback and iterating on their work. However, while it touches on value delivery principles, it primarily focuses on the struggles of teams rather than providing a structured discussion on value delivery strategies or methodologies.",
     "level": "Secondary"
   },
   "Technical Excellence": {
@@ -1237,11 +1258,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-12T12:36:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:17:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the challenges and misconceptions of working within a Scrum team, emphasising the importance of understanding empirical processes and feedback loops, which are central to organisational agility. It highlights the need for teams to adapt and learn continuously, aligning well with the principles of agility.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the challenges of working with new Scrum teams, highlighting the importance of understanding foundational Agile principles over merely following mechanical processes. It touches on the need for feedback loops and empirical learning, which are key aspects of organisational agility. However, while it aligns well with the core themes of agility, it primarily focuses on Scrum practices rather than broader organisational strategies, which slightly limits its depth in the context of organisational agility.",
     "level": "Secondary"
   },
   "Personal": {
@@ -1255,12 +1279,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-12T12:36:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:42:07",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the challenges and dynamics of working with new Scrum teams, focusing on team members' perceptions, the importance of understanding foundational principles, and the role of feedback loops in improving team performance. It highlights human behaviour and collaboration within the context of Scrum, making it a central theme.",
-    "level": "Secondary"
+    "final_score": 81.0,
+    "reasoning": "The content explicitly discusses the challenges faced by new Scrum teams, focusing on team dynamics, the importance of understanding Scrum principles, and the need for effective communication and feedback loops. It highlights the human factors influencing team performance and the misconceptions that can hinder effective collaboration. The depth of discussion is significant, as it explores the empirical approach to Scrum and the importance of foundational understanding, which aligns well with the category's focus on people and processes.",
+    "level": "Primary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -1318,21 +1345,27 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T08:36:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:22:01",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the challenges and misconceptions of working with a new Scrum team, focusing on Scrum principles, roles, and the importance of understanding empirical processes.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses the challenges of working with a new Scrum team, highlighting key Scrum concepts such as user stories, planning poker, and empirical processes. It aligns well with the core themes of Social Technologies by addressing the importance of understanding foundational elements of Scrum and the need for continuous improvement. The depth of discussion is significant, as it explores the misconceptions teams have about Scrum practices and emphasises the importance of feedback loops and empiricism, which are central to Agile methodologies.",
     "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-18T08:36:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:17:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges of working with new Scrum teams and highlights the importance of understanding foundational elements and empirical processes, which relates to leadership in guiding teams. However, the primary focus is on Scrum mechanics rather than leadership practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the challenges of working with new Scrum teams and highlights the importance of understanding foundational Agile principles, which indirectly relates to leadership in fostering team development and adaptability. However, it primarily focuses on Scrum mechanics rather than explicit leadership strategies or practices, resulting in a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Beta Codex": {
     "category": "Beta Codex",

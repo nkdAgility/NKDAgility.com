@@ -1,30 +1,39 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T08:06:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:05:20",
+    "ai_confidence": 68.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses misconceptions and challenges related to continuous delivery within the context of DevOps, making it a central theme.",
+    "final_score": 66.0,
+    "reasoning": "The content directly mentions DevOps and discusses a common misconception related to continuous delivery, which is a core principle of DevOps. However, while it touches on the topic, it lacks depth in exploring broader DevOps practices, tools, or cultural shifts, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T08:06:45",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T12:15:18",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses continuous delivery and mentions Agile and Scrum, indicating a significant focus on Agile practices, although it primarily addresses DevOps-related issues.",
-    "level": "Secondary"
+    "final_score": 22.0,
+    "reasoning": "The content briefly touches on the concept of continuous delivery, which is a principle related to Agile practices, but it does not explicitly discuss any of the frameworks like Scrum, Kanban, or Lean. The mention of a 'pet peeve' indicates a frustration with the adoption of these methodologies rather than a detailed exploration of their principles or practices. Therefore, while there is a minimal connection to the category, it lacks depth and direct relevance.",
+    "level": "Quaternary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-18T08:06:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:22:50",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous delivery and empowerment of developers, which are relevant to engineering practices, but the primary focus is on addressing misconceptions and pet peeves in DevOps rather than a deep exploration of engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on the concept of continuous delivery, which is a relevant aspect of engineering excellence. However, it lacks a detailed discussion on best practices, coding standards, or other core themes of the category. The focus is more on a personal opinion rather than a structured exploration of engineering practices, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -334,12 +343,15 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-18T10:21:42",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content briefly mentions continuous improvement and implies Lean principles through the encouragement of empowering developers and achieving continuous delivery, but it primarily focuses on Agile and DevOps without strong emphasis on Lean-specific methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-11T11:38:22",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content briefly touches on the concept of continuous delivery, which is related to Lean principles, but it does not explicitly mention Lean methodologies or provide any substantial discussion on Lean concepts. The focus is primarily on DevOps frustrations rather than Lean strategies or waste reduction.",
+    "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -451,12 +463,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-18T10:21:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:05:22",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the role of developers in enabling continuous delivery within the context of DevOps and Agile methodologies, addressing empowerment and misconceptions related to their capabilities.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content briefly touches on the role of developers in the context of DevOps, specifically regarding continuous delivery and empowering developers. However, it lacks detailed discussion on Agile methodologies or specific practices that enhance productivity and collaboration. The mention of developers' power is relevant but does not delve into best practices or tools, resulting in a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
@@ -505,12 +520,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T10:21:42",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses agile and scrum training, hinting at the role of a Scrum Master, but is primarily focused on DevOps topics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-10T14:22:52",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses frustrations related to DevOps and does not mention the Scrum Master role or its responsibilities. There is no alignment with Scrum principles or practices, and the discussion lacks depth regarding any Scrum-related topics.",
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -568,21 +586,27 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-18T10:21:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:17:56",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Continuous Delivery and its importance in DevOps, which aligns with technical practices. However, the overall focus is on debunking myths and empowerment rather than detailed technical methodologies or engineering practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on the concept of continuous delivery, which is a relevant aspect of Technical Excellence. However, it lacks a detailed discussion on engineering practices or methodologies that enhance agility. The focus is more on a personal opinion rather than a structured exploration of technical principles, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-18T10:21:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:15:22",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses resistance to change in the context of DevOps and promotes Agile and Scrum methodologies, which are related to organisational change, but the primary focus is on DevOps practices rather than a comprehensive overview of organisational change strategies.",
-    "level": "Tertiary"
+    "final_score": 14.0,
+    "reasoning": "The content briefly touches on a mindset related to DevOps but does not explicitly discuss organisational change strategies, methodologies, or frameworks. It lacks depth and detail on the principles of Agile transformation or leadership roles in driving change, making it only tangentially related to the category.",
+    "level": "Quinary"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",

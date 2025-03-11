@@ -58,21 +58,27 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T12:02:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:53:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses pair programming and test-driven development (TDD) in the context of improving software architecture, which implies a learning aspect. However, the primary focus is on productivity and code quality rather than explicit methodologies for discovery and learning.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses pair programming and test-driven development (TDD), which can contribute to learning and innovation in software development. However, it primarily focuses on the productivity aspects and architectural benefits rather than explicitly exploring methodologies for fostering a culture of discovery and learning. The mention of productivity and architecture does not directly align with the core themes of the category, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T12:02:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T12:48:29",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses practical techniques such as Test-Driven Development (TDD) and Pair Programming, which are relevant to Agile practices. However, it does not delve deeply into specific tools or methodologies, making it a secondary theme rather than the primary focus.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses practical techniques such as Test-Driven Development (TDD) and Pair Programming, which are relevant to Agile practices. However, it lacks explicit mentions of specific tools or methodologies associated with Agile and DevOps, and the discussion is more focused on the philosophy behind these techniques rather than their practical application in a tooling context. The depth of discussion is moderate, providing insights into the benefits of these practices but not delving into specific frameworks or metrics for implementation.",
+    "level": "Secondary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -205,21 +211,27 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T12:02:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T17:50:22",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the interconnectedness of productivity and architecture in software development, which aligns with Systems Thinking principles, but it primarily focuses on TDD and pair programming.",
+    "final_score": 56.0,
+    "reasoning": "The content briefly touches on the interconnectedness of productivity and architecture in software development, suggesting a systems perspective. However, it lacks explicit discussions on Systems Thinking principles, techniques, or frameworks. The focus is primarily on TDD and pair programming rather than a holistic analysis of organisational dynamics.",
     "level": "Tertiary"
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T12:02:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T11:36:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "Content discusses pair programming and its impact on productivity, which relates to team dynamics and collaboration, but primarily focuses on technical aspects of TDD and software architecture.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses pair programming, which directly relates to team dynamics and collaboration, a key topic in the 'People and Process' category. It highlights the human factors influencing productivity and the benefits of collaboration, aligning well with the core themes. However, the focus is more on technical practices rather than a comprehensive exploration of processes or team interactions, which slightly limits the depth of discussion.",
+    "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -304,21 +316,27 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T12:02:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T00:17:45",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses productivity in the context of pair programming and test-driven development, which relates to flow efficiency but is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on productivity and the benefits of pair programming, which can relate to flow efficiency in terms of reducing future problems. However, it lacks explicit discussions on flow efficiency principles, metrics, or techniques for optimising throughput. The focus is more on software architecture and development practices rather than directly addressing flow efficiency concepts.",
+    "level": "Quaternary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T12:02:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T09:49:19",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses pair programming and its impact on productivity and architecture, which touches on team dynamics and technical practices. However, it primarily focuses on technical aspects without a strong emphasis on the organisational context or broader sociotechnical interactions.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses pair programming and test-driven development (TDD) in the context of software architecture, which touches on technical practices but lacks a strong focus on the sociotechnical interplay. While it hints at productivity and team dynamics, it does not explicitly address organisational culture, communication, or the broader sociotechnical implications of these practices. Therefore, while there is some relevance, it does not meet the primary focus required for a higher confidence score.",
+    "level": "Quaternary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -811,11 +829,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T11:12:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses Test-Driven Development (TDD) and pair programming, which are modern engineering practices relevant to software developers. However, it does not engage deeply with Agile or DevOps principles.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses Test-Driven Development (TDD) and pair programming, which are modern engineering practices relevant to software developers. However, it lacks explicit references to Agile or DevOps methodologies, which are central to the category. The discussion is somewhat detailed but does not fully explore the broader implications of these practices within Agile frameworks or team dynamics.",
     "level": "Secondary"
   },
   "Engineering Practices": {

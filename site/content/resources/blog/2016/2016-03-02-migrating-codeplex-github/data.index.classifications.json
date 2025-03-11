@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T21:04:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:35:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for migrating a repository from Codeplex to GitHub, including specific tools like Git-TF and Chocolatey, as well as detailed steps for implementation.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed account of the practical steps taken to migrate a repository from Codeplex to GitHub, including specific tools like Git-TF and Chocolatey. It discusses methodologies for using these tools effectively, which aligns well with the category's focus on practical techniques and tooling. The depth of discussion is significant, as it covers multiple attempts and provides insights into the challenges faced and solutions found. However, while it is primarily focused on practical application, it does not delve deeply into broader Agile or DevOps methodologies, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-14T21:04:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:34:20",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration processes involved in migrating a repository from Codeplex to GitHub, including step-by-step instructions for using tools like Chocolatey and Git-TF.",
+    "final_score": 72.0,
+    "reasoning": "The content provides a detailed guide on migrating a repository from Codeplex to GitHub, which includes specific installation steps for tools like Chocolatey and Git-TF. It discusses the configuration of these tools and the process of cloning a repository, which aligns well with the category's focus on installation and configuration. The content is rich in actionable instructions and troubleshooting advice, demonstrating a strong alignment with the key topics outlined in the category. However, while the primary focus is on installation and configuration, there are some tangential discussions that slightly detract from the overall focus, preventing a perfect score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:34:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the migration of a repository from Codeplex to GitHub, which involves version control and tools relevant to DevOps practices. However, the primary focus is on the migration process rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating a repository from Codeplex to GitHub, which is more aligned with version control and repository management than with the broader principles of DevOps. While it touches on tools like Git and Git-TF, it lacks a discussion on CI/CD practices, automation, or cultural shifts necessary for DevOps. The depth of discussion is moderate, but it does not sufficiently cover the core themes of DevOps, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -208,12 +217,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:47:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the technical process of migrating a repository from Codeplex to GitHub, including the use of tools like Git-TF and Chocolatey, which relates to engineering practices. However, the primary focus is on the migration experience rather than broader engineering methodologies or principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the practical aspects of migrating a repository from Codeplex to GitHub, detailing specific tools and commands used in the process. While it touches on technical practices, such as using Git-TF and the importance of selecting the correct folder for cloning, it lacks a broader discussion on engineering methodologies or principles that enhance agility in software development. The mention of tools and processes is more operational than strategic, which diminishes its alignment with the core themes of Technical Excellence.",
+    "level": "Quaternary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -577,11 +589,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-14T21:06:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:39:56",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 27.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the process of migrating a code repository from Codeplex to GitHub, detailing specific tools and commands used in the migration, which aligns with software development practices.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses the process of migrating a repository from Codeplex to GitHub, which directly relates to version control systems and collaborative development practices. It provides specific details about using GitHub's import tool and Git-TF, demonstrating a clear understanding of the tools involved in software development. However, while it touches on relevant topics, the depth of discussion on broader software development methodologies or best practices is limited, leading to a high but not perfect confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -613,11 +628,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-14T21:06:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:30:24",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the process of migrating a repository from Codeplex to GitHub, detailing specific tools and techniques related to version control, such as Git-TF and Git commands. It focuses on practical aspects of using modern source control systems, making it a major theme.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on the process of migrating a repository from Codeplex to GitHub, which directly relates to modern source control practices. It discusses specific tools (GitHub Import tool, Git-TF) and techniques for managing version control during the migration, aligning well with the key topics of version control systems and collaboration workflows. The depth of discussion is substantial, providing detailed steps and considerations for the migration process, including handling branches and repository history. However, while it is focused on source control, it does not delve deeply into broader best practices or methodologies, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
@@ -1198,12 +1216,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:21:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the process of migrating a code repository from Codeplex to GitHub, which is relevant to software developers. However, it primarily focuses on the migration process rather than Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the technical process of migrating a repository from Codeplex to GitHub, which is relevant to software developers. However, it lacks a focus on Agile or DevOps methodologies, best practices, or team dynamics, which are central to the category. While it mentions tools and some technical details, it does not delve into the broader implications for developer productivity or collaboration, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

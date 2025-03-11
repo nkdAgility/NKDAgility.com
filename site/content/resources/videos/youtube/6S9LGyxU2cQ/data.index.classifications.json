@@ -1,11 +1,14 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T19:19:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T13:38:41",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Scrum practices, including roles, feedback loops, and retrospectives, which are central to the category of Social Technologies.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses the role of immersive learning in enhancing Scrum practices, including feedback loops, coaching, and retrospectives, which are core elements of the Scrum framework. It explicitly mentions Scrum and Kanban, aligning well with the category's focus on Agile methodologies. The depth of discussion is substantial, covering practical applications and benefits of these frameworks in a team setting.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -19,38 +22,50 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T19:19:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:02:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Agile and Scrum methodologies, which are related to DevOps, but the primary focus is on training and coaching rather than DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Scrum and Agile methodologies, focusing on coaching and feedback loops within a team context. While it briefly mentions DevOps at the end, the main focus is on Scrum practices rather than the integration of development and operations, which is central to DevOps. The discussion lacks depth in DevOps principles, tools, and practices, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T19:19:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:14:13",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of Scrum and Agile methodologies, which are relevant to product management, but the primary focus is on immersive learning and coaching rather than strategic product management topics.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses aspects of Agile and Scrum, particularly in relation to training and coaching, which are relevant to product management. However, it primarily focuses on the training process rather than strategic product management concepts. While there are mentions of feedback loops and retrospectives, the depth of discussion does not fully align with the core themes of product management, such as balancing stakeholder interests or assessing technical feasibility.",
+    "level": "Quaternary"
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T19:19:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:10:00",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses coaching and feedback loops in the context of team performance and Agile practices, which relates to leadership but is primarily focused on training and Scrum processes.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the role of coaching and feedback loops in an Agile context, which touches on leadership aspects. However, it primarily focuses on the mechanics of training and coaching rather than on leadership practices or strategies. While there are mentions of coaching and team effectiveness, the discussion lacks depth in exploring leadership styles, decision-making, or cultural change, which are core themes of the Leadership category.",
+    "level": "Quaternary"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T19:19:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:40:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses immersive learning in the context of Scrum and Agile practices, which are related to business agility. However, the primary focus is on training and coaching rather than broader principles or strategies of business agility.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses immersive learning in the context of Scrum and Agile practices, which are related to business agility. However, it primarily focuses on training and coaching rather than the broader principles and strategies of business agility. While there are mentions of feedback loops and team effectiveness, the depth of discussion on business agility principles is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Complexity Thinking": {
@@ -64,12 +79,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T19:19:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:03:00",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum principles, particularly the role of coaching and feedback loops in the context of Sprints and retrospectives, but it also includes broader Agile concepts and is not solely focused on Scrum.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses elements of Scrum, such as Sprints, retrospectives, and coaching, indicating a focus on Scrum practices. However, it lacks a comprehensive exploration of Scrum principles and roles, which limits its depth. The mention of Scrum is present but not the primary focus, as it also touches on broader Agile concepts and immersive learning experiences.",
+    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -118,11 +136,14 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T19:20:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:14:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the application of Scrum principles, including Sprints, retrospectives, and coaching, which are central to Agile frameworks.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the EPS immersive learning experience in relation to Scrum, highlighting the importance of coaching, feedback loops, and retrospectives, which are core elements of Agile frameworks. It provides a practical application of these concepts over a 10-week period, demonstrating how they can enhance team performance and agility. While it does mention other frameworks like Kanban, the primary focus remains on Scrum principles and practices, thus aligning well with the category.",
     "level": "Secondary"
   },
   "Revenue per Employee": {
@@ -154,12 +175,15 @@
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T19:20:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:10:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile practices, specifically Scrum, and the role of coaching in enhancing team performance, but it does not focus on scaling Agile across multiple teams or at an enterprise level.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses immersive learning and coaching within the context of Scrum, focusing on individual team performance rather than scaling Agile practices across multiple teams or at an enterprise level. While it touches on concepts like feedback loops and retrospectives, it lacks a broader discussion on frameworks for scaling Agile or enterprise-level transformation strategies, which are key topics in the Scaled Agile category.",
+    "level": "Quaternary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -181,12 +205,15 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-17T19:20:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:08:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of coaching and feedback loops in relation to Sprints and mentions Sprint reviews, but it primarily focuses on immersive learning and coaching rather than the Sprint Review process itself.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses elements related to Sprint Reviews, such as feedback loops and retrospectives, but it does not focus specifically on the Sprint Review process itself. While it mentions the importance of feedback and coaching during Sprints, it lacks a detailed exploration of the Sprint Review's purpose, roles, and best practices, which are critical for a high confidence score in this category.",
+    "level": "Quaternary"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -199,11 +226,14 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T19:20:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:31:25",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses strategies for enhancing team performance through immersive learning and coaching within the context of Agile practices, specifically focusing on feedback loops, retrospectives, and continuous improvement.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the impact of immersive learning on team performance, specifically in the context of Scrum and Agile methodologies. It highlights the importance of continuous feedback loops, coaching, and retrospectives, which are key elements of team dynamics and performance enhancement. The mention of Sprints and the role of a coach aligns well with the category's focus on strategies for improving team effectiveness. However, while the content is rich in relevant themes, it could benefit from more explicit metrics or tools for measuring performance, which would enhance its depth further.",
     "level": "Secondary"
   },
   "Collaboration Tools": {

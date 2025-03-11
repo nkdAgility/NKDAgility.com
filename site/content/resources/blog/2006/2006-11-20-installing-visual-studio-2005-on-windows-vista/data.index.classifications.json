@@ -10,11 +10,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T10:14:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:27:49",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the installation process of Visual Studio 2005 on Windows Vista, including issues encountered during installation, which aligns well with the category of Install and Configuration.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the installation of Visual Studio 2005 on Windows Vista, which directly aligns with the category of Install and Configuration. It discusses the installation process and mentions encountering errors, indicating a level of troubleshooting. However, the depth of discussion is somewhat limited, as it does not provide detailed step-by-step instructions or configuration best practices. Overall, while it is relevant, it lacks comprehensive detail to achieve a higher confidence score.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -382,11 +385,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T11:46:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T19:07:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the installation of Visual Studio 2005 on the Windows Vista operating system, addressing specific installation issues encountered, which directly relates to the Windows category.",
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses the installation of Visual Studio 2005 on Windows Vista, which directly aligns with the category's focus on installation procedures for Windows. The mention of errors during installation indicates a level of troubleshooting, further supporting the relevance to the Windows category. However, the discussion lacks depth regarding configuration or performance optimisation, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Azure Repos": {
@@ -463,11 +469,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T11:46:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:22:56",
+    "ai_confidence": 55.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content involves installation and potential configuration issues related to Visual Studio 2005, which are relevant to system configuration but does not explore broader configuration methodologies or best practices.",
+    "final_score": 50.0,
+    "reasoning": "The content discusses the installation of Visual Studio 2005 on Windows Vista, which is a specific aspect of system configuration. However, it lacks detailed exploration of best practices, troubleshooting, or optimisation strategies. The mention of errors during installation indicates some engagement with configuration issues, but the overall depth and breadth of the discussion are limited, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Acceptance Test Driven Development": {
@@ -679,12 +688,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T11:46:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:54:27",
+    "ai_confidence": 55.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses issues encountered during the installation of Visual Studio 2005 on Windows Vista, indicating it addresses troubleshooting related to software installation errors.",
-    "level": "Secondary"
+    "final_score": 50.0,
+    "reasoning": "The content mentions installation errors, which aligns with troubleshooting, but lacks detailed discussion on diagnosing or resolving these issues. The focus is more on the experience rather than systematic problem-solving techniques.",
+    "level": "Tertiary"
   },
   "Scrum Team": {
     "category": "Scrum Team",

@@ -55,11 +55,14 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T11:50:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:51:36",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses a presentation on Application Lifecycle Management (ALM), detailing the author's preparation and experiences related to presenting at events.",
+    "final_score": 63.0,
+    "reasoning": "The content primarily discusses the author's personal experience preparing for a presentation on Application Lifecycle Management (ALM). While it does mention the act of presenting and references events, the focus is more on the author's anxiety and preparation rather than on the event itself or insights related to Agile or DevOps. The discussion lacks depth in terms of sharing knowledge or insights from the presentation, which is crucial for a higher confidence score in this category.",
     "level": "Secondary"
   },
   "Resilience and Change": {
@@ -262,12 +265,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-16T11:51:03",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T13:13:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content shares personal experiences and reflections on preparing for a presentation, including feelings of anxiety and anecdotes about interactions with colleagues, which align with the Personal category.",
-    "level": "Secondary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on the author's personal experience and feelings regarding an upcoming presentation on Application Lifecycle Management (ALM). It includes reflections on their anxiety, preparation challenges, and personal anecdotes about interactions with colleagues at Microsoft. However, while it touches on personal insights, it lacks a deeper exploration of Agile, Scrum, or DevOps methodologies, which diminishes its alignment with the core themes of the Personal category.",
+    "level": "Quaternary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -298,12 +304,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:45:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the author's preparation for a presentation on Application Lifecycle Management, indicating a major but secondary theme related to ALM, while also focusing on personal experiences and challenges rather than the core principles of ALM.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content mentions Application Lifecycle Management (ALM) explicitly, but it primarily focuses on the author's personal experience and anxiety regarding a presentation rather than discussing the methodologies, practices, or tools related to ALM. While there is a brief mention of ALM, the content lacks depth and does not explore key topics such as the stages of the application lifecycle, best practices, or integration with Agile and DevOps principles. Overall, the content does not align well with the core themes of Application Lifecycle Management.",
+    "level": "Quaternary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -316,12 +325,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T09:13:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:10:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses personal experiences and interactions with colleagues in a professional context, touching on aspects of preparation and anxiety related to presentations, which are relevant to team dynamics and communication.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the author's personal experience and anxiety regarding a presentation on Application Lifecycle Management (ALM) and Visual Studio Team System (VSTS). While there are mentions of interactions with colleagues and the importance of preparation for interviews, the discussion lacks a structured exploration of team dynamics, leadership, or process methodologies. The content does not delve into how these experiences relate to broader themes of collaboration or process improvement, which are central to the 'People and Process' category.",
+    "level": "Quaternary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -712,12 +724,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:57:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Application Lifecycle Management (ALM) and its relevance to software development, particularly in the context of a presentation. However, the primary focus is on personal experiences and concerns about presenting rather than on software development methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content mentions Application Lifecycle Management (ALM) and Visual Studio Team System (VSTS), which are relevant to software development practices. However, the focus is more on the author's personal experience and anxiety regarding the presentation rather than a detailed discussion of software development methodologies or practices. The alignment with the core themes of the category is present but not strong, and the depth of discussion is limited to personal anecdotes rather than substantive content on software development techniques.",
+    "level": "Quaternary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",

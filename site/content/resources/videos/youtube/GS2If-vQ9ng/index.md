@@ -26,16 +26,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Project Management
-- Agile Strategy
-- Agile Transformation
 - People and Process
-- Business Agility
 - Miscellaneous
+- Agile Transformation
+- Agile Strategy
 - Organisational Agility
 - Organisational Change
 - Pragmatic Thinking
-- Product Delivery
+- Software Development
 resourceTypes:
 - video
 categories:

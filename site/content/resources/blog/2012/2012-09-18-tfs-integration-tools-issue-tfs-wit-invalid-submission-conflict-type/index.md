@@ -30,12 +30,11 @@ aliasesArchive:
 - /resources/blog/tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
 tags:
 - Install and Configuration
-- Practical Techniques and Tooling
-- System Configuration
-- Software Development
 - Troubleshooting
-categories:
-- DevOps
+- System Configuration
+- Practical Techniques and Tooling
+- Software Development
+categories: []
 preview: metro-problem-icon-2-2.png
 
 ---

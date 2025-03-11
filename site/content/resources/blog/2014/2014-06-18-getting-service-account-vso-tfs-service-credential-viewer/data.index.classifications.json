@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T09:58:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:47:21",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the use of the TFS Service Credential Viewer as a practical tool for obtaining service accounts in Visual Studio Online, including installation prerequisites and troubleshooting steps, which aligns well with the category.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a practical guide on using the TFS Service Credential Viewer to obtain service accounts for Visual Studio Online, which directly relates to tooling in a DevOps context. It discusses specific tools and their application, including prerequisites and troubleshooting steps, aligning well with the category's focus. However, while it mentions practical techniques, the depth of discussion on broader Agile or DevOps methodologies is limited, which slightly reduces the overall confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T09:58:13",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:40:43",
+    "ai_confidence": 82.0,
+    "ai_mentions": 16,
+    "ai_alignment": 32,
+    "ai_depth": 36,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration of the TFS Service Credential Viewer, including prerequisites, installation steps, and troubleshooting, which aligns well with the category.",
+    "final_score": 76.0,
+    "reasoning": "The content provides a detailed guide on obtaining a service account for Visual Studio Online (VSO) using the TFS Service Credential Viewer. It explicitly mentions installation prerequisites, offers step-by-step instructions for launching the application, and includes troubleshooting tips for common issues. The focus on installation and configuration processes aligns well with the category, demonstrating a clear intent to assist users in setting up the necessary tools for effective automation with VSO.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:40:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses obtaining service credentials for Visual Studio Online (VSO) and mentions automation, which are relevant to DevOps practices, but the primary focus is on a specific tool rather than broader DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses obtaining a service account for Visual Studio Online (VSO) and mentions automation through the TFS Service Credential Viewer. While it touches on automation, which is a key aspect of DevOps, the primary focus is on a specific tool and its usage rather than broader DevOps principles or practices. The discussion lacks depth in terms of DevOps culture, CI/CD practices, or metrics, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -271,11 +280,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T10:18:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:44:10",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses obtaining a service account for Visual Studio Online (VSO), which is part of Azure DevOps, and provides detailed instructions on using the TFS Service Credential Viewer, making Azure DevOps a central theme.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses obtaining a service account for Visual Studio Online (VSO), which is a part of Azure DevOps. It provides specific details about using the TFS Service Credential Viewer, which directly relates to Azure DevOps functionalities. The discussion aligns well with the core themes of Azure DevOps, particularly in the context of automation and CI/CD practices. However, while it offers practical insights, it lacks a broader exploration of Azure DevOps services and methodologies, which slightly limits its depth.",
     "level": "Secondary"
   },
   "Business Agility": {
@@ -730,12 +742,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:45:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the use of TFS Service Credential Viewer for automation in Visual Studio Online, touching on aspects of automation and potentially improving engineering processes, but primarily focuses on a specific tool rather than broader principles of engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on obtaining a service account for Visual Studio Online and the use of the TFS Service Credential Viewer. While it touches on automation and some technical aspects, it lacks a direct discussion on engineering excellence principles, best practices, or continuous improvement in software craftsmanship. The mention of unit tests and automated tasks hints at some alignment with engineering practices, but the overall depth and focus are insufficient to classify it strongly under 'Engineering Excellence'.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1045,11 +1060,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T10:22:28",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T10:24:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the setup and troubleshooting of a service account for Visual Studio Online which relates to configuring system access and integration. However, it primarily focuses on the specific software tool and its usage rather than broader system configuration strategies.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the process of obtaining a service account for Visual Studio Online (VSO) using the TFS Service Credential Viewer, which directly relates to system configuration. It includes specific details about prerequisites, installation steps, and troubleshooting, aligning well with the category's focus on configuration management and system setup. However, while it provides practical guidance, the depth of discussion on broader system optimisation strategies or configuration management tools is limited, preventing a higher confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1099,11 +1117,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T10:22:28",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T18:34:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 50,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the TFS Service Credential Viewer and its use within the context of Visual Studio Online (VSO) and Team Foundation Server (TFS), which are related to development on the Windows platform. It includes troubleshooting steps specific to Windows 8, indicating that Windows is a significant but secondary theme present in the overall focus on VSO and TFS.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses the TFS Service Credential Viewer and its use with Visual Studio Online (VSO), which is relevant to Windows users, particularly in the context of Windows 8 troubleshooting. However, while it mentions Windows and provides some troubleshooting steps specific to Windows 8, the focus is more on the TFS tool and its integration rather than a comprehensive discussion of Windows itself. The content does not delve deeply into broader Windows topics such as installation, configuration, or security features, which limits its alignment with the category.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
@@ -1153,11 +1174,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T10:22:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:50:33",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content discusses how to overcome specific issues when using the TFS Service Credential Viewer, including troubleshooting launch issues on Windows 8 and potential exceptions during connection, which align with troubleshooting themes.",
+    "final_score": 75.0,
+    "reasoning": "The content includes a specific section labelled 'Troubleshooting' that provides step-by-step instructions for resolving issues related to the TFS Service Credential Viewer, particularly for Windows 8 users. This direct mention contributes positively to the confidence score. The content aligns with the core themes of troubleshooting by discussing techniques for diagnosing and resolving a specific technical issue, which is the inability to launch the application due to security settings. However, the overall depth of the discussion is somewhat limited, focusing primarily on a single issue without broader troubleshooting strategies or methodologies. Therefore, while it is relevant, it does not provide extensive insights or tools for troubleshooting in a wider context.",
     "level": "Secondary"
   },
   "Experimentation": {

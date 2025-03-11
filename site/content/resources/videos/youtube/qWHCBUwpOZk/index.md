@@ -32,13 +32,13 @@ tags:
 - Flow Efficiency
 - Operational Practices
 - Practical Techniques and Tooling
-- Metrics and Learning
-- People and Process
-- Value Delivery
 - Agile Frameworks
-- Agile Project Management
 - Lean Thinking
+- Agile Project Management
 - Pragmatic Thinking
+- Software Development
+- Throughput
+- Value Delivery
 resourceTypes:
 - video
 categories:

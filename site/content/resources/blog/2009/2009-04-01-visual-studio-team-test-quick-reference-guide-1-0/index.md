@@ -8,7 +8,7 @@ ResourceImportId: 133
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-04-01
-weight: 775
+weight: 720
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,7 +28,6 @@ tags:
 - Products and Books
 - Software Development
 - Troubleshooting
-- Technical Mastery
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Engineering Excellence

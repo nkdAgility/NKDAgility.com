@@ -8,7 +8,7 @@ ResourceImportId: 9716
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-10
-weight: 410
+weight: 445
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,11 +27,11 @@ aliasesArchive:
 - /blog/does-your-company-culture-resemble-survivor-
 - /resources/blog/does-your-company-culture-resemble-survivor
 tags:
+- People and Process
 - Agile Transformation
+- Sociotechnical Systems
 - Agile Leadership
 - Agile Values and Principles
-- People and Process
-- Resilience and Change
 - Software Developers
 - Software Development
 - Team Collaboration

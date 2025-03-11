@@ -24,16 +24,16 @@ preview: https://i.ytimg.com/vi/r9aCEFpUHWU/maxresdefault.jpg
 duration: 466
 isShort: false
 tags:
+- People and Process
+- Software Development
+- Team Performance
+- Agile Project Management
+- Pragmatic Thinking
 - Professional Scrum
 - Scrum Master
 - Scrum Product Development
 - Scrum Team
-- People and Process
-- Software Development
-- Team Performance
-- Agile Frameworks
-- Agile Project Management
-- Pragmatic Thinking
+- Technical Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6

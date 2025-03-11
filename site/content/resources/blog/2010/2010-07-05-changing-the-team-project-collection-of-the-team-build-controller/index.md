@@ -8,7 +8,7 @@ ResourceImportId: 35
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-07-05
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,15 +24,14 @@ aliasesArchive:
 - /resources/blog/changing-the-team-project-collection-of-the-team-build-controller
 tags:
 - Install and Configuration
-- Practical Techniques and Tooling
 - System Configuration
-- Azure DevOps
-- Continuous Integration
 - Operational Practices
 - Software Development
 - Technical Mastery
 - Troubleshooting
-- Application Lifecycle Management
+- Practical Techniques and Tooling
+- Azure DevOps
+- Azure Pipelines
 preview: metro-SSWLogo-128-link-6-6.png
 categories:
 - DevOps

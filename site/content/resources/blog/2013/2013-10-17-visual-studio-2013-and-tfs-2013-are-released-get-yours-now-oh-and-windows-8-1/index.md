@@ -8,7 +8,7 @@ ResourceImportId: 10214
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-10-17
-weight: 775
+weight: 890
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -31,16 +31,15 @@ aliasesArchive:
 - /blog/visual-studio-2013-and-tfs-2013-are-released--get-yours-now--oh-and-windows-8-1&hellip;
 - /resources/blog/visual-studio-2013-and-tfs-2013-are-released-get-yours-now-oh-and-windows-8-1
 tags:
+- System Configuration
+- Software Development
+- Products and Books
 - Windows
 - Install and Configuration
 - Practical Techniques and Tooling
 - News and Reviews
-- Products and Books
-- System Configuration
-- Software Development
 - Application Lifecycle Management
-categories:
-- Engineering Excellence
+categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 
 ---

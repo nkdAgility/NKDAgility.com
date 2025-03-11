@@ -55,12 +55,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:13:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:25:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions the setup and installation complexities of the EventHandler, indicating a secondary theme related to installation and configuration, but it primarily focuses on the development and refactoring process.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content mentions the installation process briefly, specifically in the context of moving to a Windows Service and the complications faced during setup. However, it lacks detailed step-by-step instructions or best practices for installation and configuration, which are crucial for a higher confidence score. The focus is more on the development and refactoring of the EventHandler rather than providing actionable insights on installation or configuration.",
+    "level": "Quaternary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -100,12 +103,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:13:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:05:59",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the development and refactoring of a Team Foundation Server EventHandler, which relates to practical tooling in a DevOps context, but it is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content mentions the development of a Team Foundation Server EventHandler and discusses moving to a more reliable Message Queuing system, which aligns with practical tooling. However, it lacks detailed exploration of methodologies or frameworks, and the discussion is primarily focused on the author's project rather than broader Agile or DevOps practices.",
+    "level": "Quaternary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -217,12 +223,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:13:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:20:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a refactoring process and the transition to a more reliable system architecture, which relates to code quality and complexity. However, the primary focus is on the project announcement and setup rather than an in-depth exploration of code quality principles or complexity theory.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions a refactor and discusses moving to a more reliable system, which touches on aspects of code quality and complexity. However, it lacks a detailed exploration of the principles of software code quality, best practices, or the impact of complexity on software architecture. The focus is more on the project update rather than a deep discussion of the interplay between code and complexity.",
+    "level": "Quaternary"
   },
   "Products and Books": {
     "category": "Products and Books",
@@ -703,12 +712,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T10:22:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:53:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of refactoring and system architecture, which are relevant to software craftsmanship, but it lacks a comprehensive focus on core technical mastery principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses a technical project involving the refactoring of a Team Foundation Server EventHandler and mentions moving to a more reliable architecture with Message Queuing. However, it lacks a detailed exploration of best practices, principles of clean code, or methodologies that contribute to software craftsmanship. The focus is primarily on the project itself rather than on broader technical mastery concepts.",
+    "level": "Quaternary"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
@@ -757,12 +769,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T10:22:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:18:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions refactoring and discusses system changes, which are related to engineering practices, but the primary focus is on the event handler project and its deployment rather than core Agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions refactoring and discusses moving to a more reliable system, which aligns with engineering practices. However, it lacks a detailed exploration of core Agile principles such as clean code, TDD, or CI/CD. The focus is more on project updates rather than a deep dive into engineering methodologies.",
+    "level": "Quaternary"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -1045,12 +1060,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T10:22:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:25:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a software project involving refactoring and moving to more reliable systems, which relates to continuous improvement and technical debt management, but it mainly focuses on project specifics rather than broader engineering practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions refactoring and moving to a more reliable system, which aligns with the principles of software craftsmanship and technical debt management. However, it lacks a detailed discussion on best practices, coding standards, or quality assurance, making it a secondary focus rather than a primary one.",
+    "level": "Quaternary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",

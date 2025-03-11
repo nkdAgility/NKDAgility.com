@@ -256,11 +256,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T09:29:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:25:22",
+    "ai_confidence": 82.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily focuses on the practical configuration and setup of Microsoft Teams for live virtual training, detailing specific tasks and tools required for effective implementation, which aligns well with the category's emphasis on practical techniques and tooling.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed guide on configuring Microsoft Teams for live virtual training, which directly aligns with practical techniques and tooling. It discusses specific tools (Microsoft Teams, Azure AD, Microsoft 365) and methodologies for setting up a virtual training environment, including step-by-step tasks and considerations for guest access and subscriptions. The depth of discussion is high, with practical tasks outlined, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Agile Product Operating Model": {
@@ -355,12 +358,15 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:44:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses setting up Microsoft Teams for live virtual training, which is related to events and presentations. However, it primarily focuses on technical configuration rather than the event or presentation itself.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses configuring Microsoft Teams for live virtual training, which is relevant to events and presentations. It mentions hosting a public event and facilitating training sessions, indicating a connection to the category. However, the primary focus is on technical setup rather than the event itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -571,11 +577,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:26:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses practical setup and configuration strategies for Microsoft Teams specifically aimed at facilitating live virtual training, which aligns with applying real-world problem-solving techniques in an Agile/Scrum context.",
+    "final_score": 56.0,
+    "reasoning": "The content provides practical guidance on configuring Microsoft Teams for virtual training, which aligns with pragmatic thinking by emphasising real-world applications and problem-solving strategies. However, it lacks a strong focus on Agile, Scrum, or DevOps principles, and the discussion is more about technical setup than navigating complexity in project management.",
     "level": "Tertiary"
   },
   "Automated Testing": {
@@ -670,11 +679,14 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-15T08:56:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:34:25",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the configuration of Microsoft Teams, which is a collaboration tool, specifically for facilitating live virtual training, emphasizing features and setups that enhance communication and collaboration within a training environment.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on configuring Microsoft Teams, a collaboration tool, for virtual training, which aligns well with the category. It discusses specific features and configurations that enhance communication and coordination within teams, directly addressing the use of collaboration tools in an Agile context. However, while it provides substantial detail on setup and features, it lacks broader discussions on best practices or comparisons with other tools, which slightly limits its depth.",
     "level": "Secondary"
   },
   "Organisational Change": {
@@ -1021,12 +1033,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:19:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the setup and configuration of Microsoft Teams for virtual training, which indirectly relates to collaboration among team members in a training environment. However, the primary focus is on configuration rather than collaborative techniques or strategies.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on the technical setup and configuration of Microsoft Teams for virtual training rather than discussing team collaboration dynamics. While it mentions facilitating training for others, it lacks in-depth exploration of team communication, shared ownership, or trust-building strategies, which are core themes of the 'Team Collaboration' category.",
+    "level": "Quaternary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -1066,11 +1081,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T08:56:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:27:58",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 38,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the configuration processes and methodologies for setting up Microsoft Teams, including Azure Active Directory and Microsoft 365 subscriptions, which are central to system configuration.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on the configuration of Microsoft Teams for live virtual training, detailing specific tasks such as creating an Azure AD tenant, setting up a Microsoft 365 subscription, enabling guest access, and configuring external identities. It provides a comprehensive guide that aligns well with the core themes of system configuration, including best practices for software installation and configuration, configuration management, and security considerations. The depth of discussion is significant, with detailed steps and explanations, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1363,12 +1381,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:05:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:25:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses configuring Microsoft Teams for virtual training, which relates to collaboration and team dynamics, but it primarily focuses on technical setup rather than the core principles of Scrum, Kanban, Lean, or Agile practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on configuring Microsoft Teams for virtual training, which is a tool rather than a discussion on social technologies or methodologies like Scrum, Kanban, Lean, or Agile. While it briefly mentions Scrum trainers and the context of training, it does not delve into the frameworks or principles of social technologies. The depth of discussion is more about technical setup than about collaboration or continuous improvement methodologies.",
+    "level": "Quaternary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

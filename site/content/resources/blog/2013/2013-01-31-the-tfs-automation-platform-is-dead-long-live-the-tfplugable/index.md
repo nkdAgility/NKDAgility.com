@@ -8,7 +8,7 @@ ResourceImportId: 9229
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-01-31
-weight: 710
+weight: 720
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -31,19 +31,19 @@ aliasesArchive:
 - /blog/the-tfs-automation-platform-is-dead--long-live-the-tfplugable
 - /resources/blog/the-tfs-automation-platform-is-dead-long-live-the-tfplugable
 tags:
-- Install and Configuration
 - Application Lifecycle Management
-- Practical Techniques and Tooling
 - System Configuration
-- Azure DevOps
 - Frequent Releases
+- Install and Configuration
 - Software Development
 - Technical Mastery
-- Platform Engineering
-- Product Delivery
+- Practical Techniques and Tooling
+- Azure DevOps
+- Pragmatic Thinking
+- Product Validation
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 preview: nakedalm-logo-128-link-3-3.png
 
 ---

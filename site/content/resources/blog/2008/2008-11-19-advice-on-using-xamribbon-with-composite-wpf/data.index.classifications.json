@@ -37,11 +37,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:44:47",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implementation of specific WPF controls and the use of Composite WPF guidance, which relates to engineering practices. However, it primarily focuses on practical advice rather than broader methodologies or principles of technical excellence.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on the implementation of specific WPF controls and provides code snippets for integrating XamRibbon and XamDockManager with Composite WPF. While it touches on technical aspects, such as the use of regions and adapters, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. The depth of discussion is limited to practical implementation without exploring concepts like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
     "level": "Tertiary"
   },
   "Decision Theory": {
@@ -118,11 +121,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T11:04:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:48:50",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implementation of specific WPF controls (XamRibbon and XamDockManager) and provides practical advice and code examples for integrating these tools, which aligns with the category's focus on practical techniques and tooling.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the implementation of specific WPF controls (XamRibbon and XamDockManager) and provides code snippets, which aligns with practical techniques and tooling. However, it lacks a broader discussion on methodologies or frameworks that enhance Agile and DevOps practices, limiting its overall alignment with the category.",
     "level": "Secondary"
   },
   "Value Stream Management": {
@@ -145,12 +151,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:10:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the implementation of XamRibbon and XamDockManager controls, which involves configuration aspects, but it primarily focuses on advice and code snippets rather than a comprehensive installation or configuration guide.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content provides some technical details about using XamRibbon and Composite WPF, including code snippets and implementation advice. However, it lacks a clear focus on installation or configuration processes, which are central to the category. While it touches on the use of specific controls, it does not provide step-by-step installation procedures or configuration best practices, leading to a low confidence score in alignment with the category.",
+    "level": "Quaternary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -433,11 +442,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T12:25:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:11:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation details and technical advice related to using XamRibbon and Composite WPF, which aligns with best practices in software design and architecture.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the implementation of specific WPF controls and the integration of Composite WPF, which aligns with technical mastery in software craftsmanship. It discusses practical coding examples and provides insights into using the XamRibbon and XamDockManager controls effectively. However, while it touches on best practices and technical details, it lacks a broader discussion on principles of clean code or software architecture, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Accountability": {
@@ -631,12 +643,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:48:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses integration and implementation of WPF controls, which is relevant to software development practices, but the focus is primarily on specific technology usage rather than general engineering excellence principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the implementation of specific WPF controls and does not explicitly discuss engineering excellence or best practices in software craftsmanship. While it touches on technical aspects of using XamRibbon and Composite WPF, it lacks a broader discussion on quality assurance, coding standards, or continuous improvement processes that are central to the category of Engineering Excellence.",
+    "level": "Quaternary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -685,11 +700,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:55:55",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses using WPF controls with the Windows environment, but it focuses primarily on control implementation rather than broader Windows OS topics.",
+    "final_score": 59.0,
+    "reasoning": "The content discusses the use of WPF controls, specifically XamRibbon and Composite WPF, which are related to Windows application development. However, it does not focus on the Windows operating system itself, such as installation, configuration, or troubleshooting. The mention of Microsoft and WPF indicates a connection to the Windows environment, but the primary focus is on programming and development rather than Windows management or usage. Therefore, while there is some relevance, it does not meet the strict criteria for the Windows category.",
     "level": "Tertiary"
   },
   "Product Strategy": {
@@ -712,11 +730,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T12:25:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:09:07",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses using specific WPF controls (XamRibbon and XamDockManager) in software development, detailing code implementation and integration techniques, which aligns closely with software development practices.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the implementation of specific WPF controls (XamRibbon and XamDockManager) within a software application, which aligns with software development practices. It provides code snippets and practical advice, indicating a focus on coding and software design. However, while it touches on relevant topics, it lacks a broader discussion of methodologies or frameworks, which slightly limits its depth of alignment with the Software Development category.",
     "level": "Secondary"
   },
   "Agile Frameworks": {

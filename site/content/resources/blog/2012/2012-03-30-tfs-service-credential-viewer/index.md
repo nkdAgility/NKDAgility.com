@@ -23,9 +23,9 @@ aliasesArchive:
 - /tfs-service-credential-viewer
 - /resources/blog/tfs-service-credential-viewer
 tags:
+- Install and Configuration
 - Troubleshooting
 - Windows
-- Install and Configuration
 - Practical Techniques and Tooling
 - Products and Books
 categories: []

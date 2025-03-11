@@ -8,7 +8,7 @@ ResourceImportId: 45521
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2021-01-25
-weight: 410
+weight: 400
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -31,8 +31,8 @@ tags:
 - Technical Debt
 categories:
 - Engineering Excellence
-- Social Technologies
 - Product Management
+- Scrum
 preview: All-technical-debt-is-risk-to-the-product-and-to-your-business-2-2.jpg
 
 ---

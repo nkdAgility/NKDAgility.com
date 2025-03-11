@@ -8,7 +8,7 @@ ResourceImportId: 9239
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-02-08
-weight: 770
+weight: 695
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,17 +24,19 @@ aliasesArchive:
 - /resources/blog/improvements-in-visual-studio-alm-from-the-alm-summit
 tags:
 - Application Lifecycle Management
-- Events and Presentations
-- Modern Source Control
 - News and Reviews
 - Practical Techniques and Tooling
+- Modern Source Control
 - Software Development
-- Azure DevOps
 - Operational Practices
-- Technical Excellence
 - Working Software
+- Events and Presentations
+- Azure DevOps
+- Technical Excellence
 categories:
 - Kanban
+- Engineering Excellence
+- Social Technologies
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

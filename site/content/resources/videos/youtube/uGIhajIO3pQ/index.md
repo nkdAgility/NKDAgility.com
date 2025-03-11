@@ -35,6 +35,7 @@ resourceTypes:
 - video
 categories:
 - Social Technologies
+- Scrum
 
 ---
 ## Scotland’s Agile Revolution: What’s on the Horizon 

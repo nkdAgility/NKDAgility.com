@@ -10,12 +10,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:13:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:56:25",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific tool related to branching and merging, which aligns with the category's focus on tools that facilitate Agile practices, but it does not provide a comprehensive review or analysis of the tool.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses a specific tool for comparing branches, which aligns with the category's focus on tools that facilitate Agile practices. However, it lacks detailed analysis or review of the tool, and does not engage with broader Agile or DevOps principles, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -118,11 +121,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T11:30:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:49:45",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a specific tool for comparing branches, which aligns with the exploration and application of tools in Agile and DevOps practices.",
+    "final_score": 62.0,
+    "reasoning": "The content mentions a specific tool for comparing branches, which aligns with the category's focus on practical tooling. However, it lacks a detailed exploration of methodologies or frameworks, and the discussion is relatively brief, limiting its depth and overall alignment with the core themes of the category.",
     "level": "Secondary"
   },
   "Value Stream Management": {
@@ -181,12 +187,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:13:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:11:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a tool related to branching and merging, which is relevant to Agile and DevOps practices, but it primarily focuses on personal experience rather than providing a comprehensive review or industry news.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions a tool related to branching and merging, which could be relevant to DevOps practices. However, it lacks a detailed discussion on industry news or reviews, focusing instead on a personal experience with a specific tool. The mention of the tool does not provide enough context or analysis to align strongly with the category's core themes.",
+    "level": "Quaternary"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -433,12 +442,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:45:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses a tool for comparing branches, which relates to software development practices, but does not delve deeply into principles or methodologies central to technical mastery.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions a tool for comparing branches, which relates to software development practices. However, it lacks a detailed discussion on best practices, principles, or methodologies that contribute to technical mastery. The focus is more on a specific tool rather than a broader exploration of software craftsmanship or engineering excellence.",
+    "level": "Quaternary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -1045,12 +1057,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-16T12:25:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:12:18",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content focuses primarily on branching and merging in version control, which aligns well with key topics in Modern Source Control.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content primarily discusses a tool for comparing branches, which is a relevant aspect of version control. However, it lacks a comprehensive exploration of broader practices or methodologies associated with modern source control. The mention of 'branching and merging' indicates some alignment with the category, but the overall depth and detail are limited, focusing mainly on a specific tool rather than a wider discussion on best practices or strategies.",
+    "level": "Tertiary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -1342,11 +1357,14 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T09:13:17",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-10T15:09:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content mentions branching and merging, which are related to version control but does not focus on Continuous Integration principles or practices. The primary discussion seems to be about a tool for comparing branches, rather than CI as a central theme.",
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions branching and merging, which are relevant to CI practices, but does not explicitly discuss Continuous Integration principles, best practices, or tools. The focus is more on a specific tool for comparing branches rather than on CI as a whole, leading to a low confidence score.",
     "level": "Quaternary"
   },
   "Social Technologies": {

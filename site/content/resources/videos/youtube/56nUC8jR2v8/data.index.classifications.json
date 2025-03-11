@@ -100,11 +100,14 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T11:14:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:25:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily focuses on promoting a specific event (a session in a meetup group) related to Agile, aligning well with the category of Events and Presentations.",
+    "final_score": 71.0,
+    "reasoning": "The content explicitly invites participants to a specific event, detailing the time and platform for joining, which aligns well with the category's focus on events and presentations. It discusses a session that appears to address Agile concepts, thus showing conceptual alignment. The depth of discussion is strong as it provides clear information about the event and encourages participation, but it lacks detailed insights into the content of the session itself.",
     "level": "Secondary"
   },
   "Product Validation": {
@@ -919,12 +922,15 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-18T11:14:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:27:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily promotes an event and discusses a general theme related to agility, but does not focus specifically on Agile, Scrum, DevOps, or Lean frameworks.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions a session on 'agile BS' but does not delve into specific Agile frameworks or practices. It serves more as an announcement for an event rather than a discussion on Agile methodologies, which aligns it with the Miscellaneous category. However, the mention of 'agile' indicates a slight connection to the broader context of business agility.",
+    "level": "Quaternary"
   },
   "Scrum Team": {
     "category": "Scrum Team",

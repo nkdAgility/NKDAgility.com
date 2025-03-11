@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T00:32:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:35:44",
+    "ai_confidence": 72.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for flashing and updating Windows Phone ROMs, including specific tools and methodologies involved in the process.",
+    "final_score": 66.0,
+    "reasoning": "The content provides a detailed guide on flashing Windows Phone 6, discussing specific tools and techniques such as ROMs, SPLs, and the flashing process. It aligns well with the category by focusing on practical applications and methodologies for enhancing device performance, which is a core aspect of tooling. However, it lacks a broader context of Agile or DevOps practices, which slightly diminishes its overall alignment with the category.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T00:32:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:04:29",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 38,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily focuses on the installation and configuration processes for flashing a Windows Phone, providing detailed step-by-step instructions and considerations for users.",
+    "final_score": 80.0,
+    "reasoning": "The content provides a detailed guide on flashing and configuring Windows Mobile 6.5.5 on the HTC HD2, including step-by-step instructions, definitions of key terms, and links to resources. It explicitly discusses installation procedures and configuration best practices, aligning well with the category's focus. The depth of discussion is significant, covering various aspects of the process, including risks and troubleshooting, which enhances its relevance to the Install and Configuration category.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -370,12 +376,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T01:37:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:02:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical procedures related to flashing and updating a Windows Phone, which involves a deep understanding of software and hardware integration, technical terminology, and processes associated with ROMs, making it a clear topic within the 'Technical Mastery' category.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical process of flashing a Windows Phone, detailing specific steps, terms, and tools involved. While it does touch on aspects of software craftsmanship, such as the importance of following instructions and understanding the risks involved, it lacks a broader discussion on best practices, principles of clean code, or methodologies that contribute to high-quality software development. The technical details provided are valuable but do not fully align with the core themes of Technical Mastery.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1045,11 +1054,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T01:37:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:40:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the processes and instructions for flashing and configuring a Windows Phone 6 device, which falls under system configuration as it involves optimizing the operating system and integrating software components.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on the process of flashing and configuring Windows Mobile devices, which directly relates to system configuration. It discusses various aspects such as ROM installation, the risks involved, and specific tools and methods for achieving optimal performance. The depth of discussion is significant, covering multiple steps and considerations in the flashing process, which aligns well with the key topics of system configuration. However, while it is detailed, some parts may stray into personal experiences and opinions, slightly reducing the overall alignment score.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1099,12 +1111,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T01:37:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:50:42",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content focuses primarily on flashing and customizing Windows Mobile 6.5.5, which is a version of the Windows operating system for mobile devices. It discusses installation and updating procedures specifically related to Windows Mobile, making it a central topic.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content primarily focuses on Windows Mobile 6.5.5, discussing its installation, flashing procedures, and troubleshooting related to the operating system. It provides detailed instructions and insights into the risks and processes involved in managing Windows Mobile devices, aligning well with the key topics of the Windows category. The depth of discussion is significant, covering various aspects of ROM management and system updates, which are core themes of the Windows operating system. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
+    "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1153,11 +1168,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T01:37:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:05:35",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on the processes involved in flashing a Windows Phone, which includes steps to troubleshoot potential issues such as bricking and incorrect ROM installations. It provides practical insights on resolving specific technical issues related to software updates and system functionality.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the process of flashing a Windows Phone, which involves troubleshooting potential issues that may arise during the installation of new ROMs. It discusses risks such as bricking the phone and provides specific instructions and terms related to the flashing process. However, while it touches on troubleshooting aspects, it lacks a systematic approach to diagnosing and resolving broader technical issues, which slightly limits its alignment with the category.",
     "level": "Secondary"
   },
   "Experimentation": {

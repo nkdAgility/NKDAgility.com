@@ -1099,12 +1099,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:44:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions the installation of Office 2010 on a Windows 7 laptop, indicating some relevance to the Windows operating system, but the primary discussion revolves around email features and interactions rather than Windows-related topics.",
-    "level": "Tertiary"
+    "final_score": 34.0,
+    "reasoning": "The content mentions Windows 7 in the context of installing Office 2010, which is a direct mention but lacks depth in discussing Windows-specific features or issues. The primary focus is on the email conversation feature rather than Windows itself, leading to a low confidence score despite some alignment with the category.",
+    "level": "Quaternary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",

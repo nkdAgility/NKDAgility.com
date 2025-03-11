@@ -26,12 +26,12 @@ aliasesArchive:
 tags:
 - Test First Development
 - Software Development
-- Engineering Practices
 - Technical Excellence
+- Engineering Practices
 categories:
 - Engineering Excellence
-- Scrum
 - Social Technologies
+- DevOps
 preview: nkdAgility-PSD-Krakow-0-1-1.jpg
 
 ---

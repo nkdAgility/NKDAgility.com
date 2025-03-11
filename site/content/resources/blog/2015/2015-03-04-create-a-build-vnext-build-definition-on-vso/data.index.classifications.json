@@ -10,20 +10,26 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T22:33:07",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-07T14:37:53",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a Build vNext build definition in VSO, detailing specific tasks, options, and methodologies related to Agile and DevOps tooling.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "The content provides a detailed walkthrough on creating a Build vNext definition in VSO, which directly relates to practical tooling in DevOps. It discusses specific tasks, configurations, and options available in the build system, demonstrating a clear application of methodologies and frameworks that enhance Agile and DevOps practices. The depth of discussion includes various build tasks, configuration options, and practical examples, aligning well with the key topics of the category.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-14T22:33:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:36:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a build system (Build vNext) within Team Foundation Server (TFS) and Visual Studio Online (VSO), which aligns with the principles of Platform Engineering by focusing on enhancing developer productivity through automated workflows and self-service capabilities.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on creating a build definition using the vNext build system in TFS and VSO, which aligns with the principles of Platform Engineering by discussing internal developer platforms and automation in the application lifecycle. It provides detailed instructions and insights into the build process, including task configuration and CI triggers, which enhance developer productivity. However, while it touches on relevant topics, it lacks a broader discussion on the overarching principles of Platform Engineering and does not explicitly mention Internal Developer Platforms (IDPs) or their components, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
@@ -73,12 +79,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-14T22:33:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:41:07",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily focuses on the step-by-step process of creating a Build vNext build definition, including installation and configuration details, which aligns well with the category.",
-    "level": "Secondary"
+    "final_score": 81.0,
+    "reasoning": "The content provides a detailed guide on creating a Build vNext build definition, which directly relates to the installation and configuration of a specific tool (TFS 2015). It includes step-by-step instructions, mentions system requirements, and discusses configuration options extensively. The focus is primarily on practical implementation, aligning well with the key topics of the category. The depth of discussion is significant, covering various tasks and options available in the build system, which enhances the overall confidence in its classification.",
+    "level": "Primary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -118,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T22:33:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:37:49",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a Build vNext build definition, which is a key aspect of Continuous Integration (CI) and Continuous Delivery (CD) practices in DevOps. It covers automation, tools, and processes that enhance software delivery, aligning well with DevOps principles.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on creating a Build vNext definition within the context of Microsoft's TFS and VSO, which are tools integral to DevOps practices. It discusses Continuous Integration (CI) as a trigger for builds, highlights automation through build tasks, and mentions the importance of version control with Git. The depth of discussion includes specific configurations and options available in the build system, demonstrating a strong alignment with DevOps principles. Overall, the content is highly relevant to the DevOps category.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -208,11 +220,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-14T22:33:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:31:26",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a Build vNext build definition, which relates to Continuous Integration practices and the modular architecture of the build system. It provides insights into engineering practices that enhance software development processes, making it a major theme.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on creating a Build vNext definition, which is a technical process related to Continuous Integration and Continuous Delivery (CI/CD). It discusses various build tasks, configuration options, and the modular nature of the new build system, aligning with the principles of technical excellence. However, while it touches on CI/CD practices, it lacks a deeper exploration of broader engineering methodologies or principles, resulting in a moderately high confidence score.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -235,11 +250,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-14T22:34:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:22:33",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a build definition in a new build system, which is a crucial aspect of the product delivery process, particularly in the context of continuous integration and deployment.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on creating a build definition in the vNext build system, which is a crucial aspect of the product delivery process. It discusses various tasks, configurations, and options that are directly related to the deployment and continuous integration aspects of software delivery. While it does not explicitly mention agile methodologies or iterative development, it aligns well with the core themes of product delivery, particularly in the context of deployment and build management. The depth of discussion on build tasks and configurations indicates a strong focus on practical application in the product delivery process.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -280,12 +298,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-14T22:34:09",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-11T11:48:18",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a Build vNext build definition within Azure DevOps, detailing specific features, tasks, and options available in the system, which aligns closely with Azure DevOps functionalities.",
-    "level": "Primary"
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed guide on creating a Build vNext definition within Azure DevOps (formerly VSO), discussing specific features, configurations, and tasks available in the build system. It directly mentions Azure DevOps and its functionalities, aligning well with the key topics of CI/CD implementation and best practices. The depth of discussion is substantial, covering various aspects of the build process, including task configurations and integration with Git repositories, which reinforces its relevance to the Azure DevOps category.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -730,11 +751,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-14T22:36:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:36:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a Build vNext build definition, which is closely related to best practices in continuous integration and delivery (CI/CD) processes. It highlights the importance of build automation, task management, and configuration options that enhance software development efficiency, aligning well with the principles of engineering excellence.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on creating a build definition using the vNext build system, which relates to CI/CD practices. It discusses various build tasks and configurations, indicating a level of detail about engineering processes. However, while it touches on aspects of software craftsmanship and automation, it lacks a broader discussion on best practices or principles of engineering excellence, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Revenue per Employee": {

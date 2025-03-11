@@ -118,12 +118,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:54:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to Team Foundation Server (TFS), which is a tool used in DevOps practices, but the primary focus is on troubleshooting a specific error rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific issue related to Team Foundation Server (TFS) and troubleshooting steps, which are more aligned with technical support rather than broader DevOps principles. While it touches on version control, it lacks a comprehensive discussion on DevOps practices, automation, or cultural shifts. The focus is on resolving a technical problem rather than exploring the integration of development and operations or continuous delivery.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -208,11 +211,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:58:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a technical issue related to TFS and includes details about troubleshooting and a bug fix, which aligns with technical practices, but it is primarily focused on a specific problem rather than broader engineering methodologies.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses a specific technical issue related to TFS (Team Foundation Server) and provides a detailed analysis of a bug in the version control subsystem. While it touches on technical aspects and problem-solving, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. The focus is primarily on troubleshooting rather than on principles like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
     "level": "Tertiary"
   },
   "Complexity Thinking": {
@@ -280,12 +286,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T19:45:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:17:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses an issue related to Team Foundation Server (TFS), which is part of the Azure DevOps suite, and provides insights into troubleshooting and technical details relevant to Azure DevOps functionalities.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses an issue related to Team Foundation Server (TFS), which is part of the Azure DevOps suite. However, it focuses more on a specific problem and troubleshooting steps rather than providing a comprehensive overview or best practices related to Azure DevOps as a whole. While it does mention TFS, it lacks broader discussions on Azure DevOps functionalities, methodologies, or integration with other tools, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",
@@ -577,11 +586,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T21:22:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:54:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily deals with an issue related to Team Foundation Server (TFS), discussing troubleshooting steps and a technical bug fix, which are central to software development practices involving version control systems.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses a specific issue related to Team Foundation Server (TFS), which is a tool used in software development for version control and project management. It provides a detailed account of troubleshooting steps and technical details regarding a bug in the version control subsystem. While it does not explicitly cover broader software development methodologies or practices, it aligns with the category through its focus on a software development tool and the resolution of a technical issue within that context. The depth of discussion is moderate, providing insights into the problem and its resolution, but it lacks extensive coverage of software development principles or practices.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -613,11 +625,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-15T21:22:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:54:10",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses an issue with Team Foundation Service (TFS), which relates to version control practices and error handling in a source control system. It describes troubleshooting techniques and specific behaviors of the version control subsystem.",
+    "final_score": 61.0,
+    "reasoning": "The content primarily discusses an issue related to Team Foundation Server (TFS), which is a version control system. It provides specific troubleshooting steps and insights into a bug within the version control subsystem, indicating a focus on practical aspects of source control. However, while it touches on version control practices, it lacks broader discussions on methodologies, strategies, or best practices that are typically associated with modern source control discussions. The depth of the technical details is significant, but the overall focus is more on a specific issue rather than a comprehensive exploration of modern source control principles.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
@@ -730,12 +745,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:17:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical issue related to Team Foundation Server, and while it touches on troubleshooting and software quality issues, it primarily focuses on a specific problem rather than on overarching engineering excellence practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific issue related to TFS Preview and troubleshooting steps, which does not directly address the principles of software craftsmanship or best practices in engineering. While it touches on a technical problem and its resolution, it lacks a broader discussion on engineering excellence, such as coding standards, CI/CD practices, or quality assurance methodologies. The focus is more on a specific bug and its resolution rather than promoting high standards in software development.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1153,12 +1171,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T21:22:04",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-10T18:42:59",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "The content primarily discusses a specific error related to TFS Preview, including diagnostic steps and potential resolutions for the underlying connection issue. It provides insights for troubleshooting and resolution.",
-    "level": "Primary"
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses a specific issue related to TFS Preview, detailing the problem, potential causes, and troubleshooting steps. It provides a systematic approach to diagnosing the issue, including checks like restarting Visual Studio and the machine, and recreating the workspace. The depth of discussion is significant, as it includes technical details about the underlying system and the resolution process, demonstrating a clear alignment with the core themes of troubleshooting. Overall, the content is focused on identifying and resolving a technical issue, justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1198,12 +1219,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:33:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to Team Foundation Server (TFS), which is relevant to software developers, but it primarily focuses on troubleshooting a specific problem rather than exploring broader Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific issue related to Team Foundation Server (TFS) and troubleshooting steps, which is relevant to software developers. However, it lacks a broader discussion on Agile or DevOps methodologies, best practices, or the role of developers in these contexts. While it touches on technical aspects that developers may encounter, it does not delve into the core themes of collaboration, productivity, or modern engineering practices as outlined in the category description.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

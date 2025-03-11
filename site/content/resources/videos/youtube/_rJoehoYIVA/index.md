@@ -29,9 +29,10 @@ sitemap:
   priority: 0.6
 tags:
 - Azure DevOps
-- Software Development
 - Pragmatic Thinking
+- Software Development
 - Practical Techniques and Tooling
+- Install and Configuration
 resourceTypes:
 - video
 layout: video

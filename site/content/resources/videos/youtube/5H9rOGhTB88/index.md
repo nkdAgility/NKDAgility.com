@@ -30,11 +30,11 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Organisational Agility
+- Business Agility
 - Agile Leadership
 - Agile Product Operating Model
 - Agile Values and Principles
-- Business Agility
-- Value Delivery
 - Agile Frameworks
 - Agile Philosophy
 - Agile Project Management

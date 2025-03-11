@@ -265,11 +265,14 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-12T06:35:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T13:03:33",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the Kanban framework, its principles, and its application in workflow management, while also making connections to Scrum. It explores the core practices of Kanban and how they can be implemented to improve efficiency, which aligns well with the category of Agile Frameworks.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on the Kanban framework, discussing its core practices, principles, and the importance of visualising workflows. It provides a detailed exploration of how Kanban operates, including concepts like WIP limits and wait states, which are central to the framework. Additionally, it makes connections to Scrum, indicating a comparative analysis of Agile frameworks. The depth of discussion is significant, as it elaborates on practical applications and challenges in implementing Kanban, aligning well with the category's themes. However, while it mentions Scrum, the primary focus remains on Kanban, which slightly affects the overall alignment score.",
     "level": "Secondary"
   },
   "Scaling Agility": {
@@ -301,11 +304,14 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-12T06:35:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T11:45:53",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implementation of a Kanban strategy, which is a Lean tool aimed at improving workflow efficiency and minimising waste. It covers key Lean principles such as visualising workflows, managing work in progress (WIP), and identifying wait states, all of which align closely with Lean Thinking concepts.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily discusses Kanban, which is a Lean tool, and elaborates on creating a pull-based system to enhance workflow efficiency. It directly mentions key Lean concepts such as WIP limits, wait states, and the importance of visualising workflows, which are integral to Lean Thinking. The depth of discussion is substantial, providing examples and insights into how these principles can be applied in practice. However, while it aligns well with Lean principles, it does not explicitly cover all aspects of Lean Thinking, such as waste identification or continuous improvement in a broader context, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Cycle Time": {
@@ -337,11 +343,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T06:35:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:01:50",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses Kanban as a methodology for workflow efficiency, which is a key topic in software development practices. It also references Scrum, indicating a focus on Agile frameworks and practices.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses Kanban as a methodology within the context of software development, focusing on workflow efficiency, visualisation of processes, and the importance of WIP limits. It aligns closely with key topics in software development, such as Agile frameworks and practices, and provides a detailed exploration of how Kanban can be integrated with Scrum. The depth of discussion is significant, offering practical insights and examples that enhance understanding of the methodology, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -355,11 +364,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T06:35:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T17:57:49",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of a Kanban system, focusing on defining workflows, managing work in progress (WIP), and optimising the flow of work, which are all central to understanding and improving throughput in Agile environments.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the concept of a pull-based system in Kanban, which directly relates to throughput by emphasising the importance of limiting work in progress (WIP) and optimising workflows. It provides examples of how work can get stuck in wait states and the implications of these bottlenecks on overall throughput. However, while it touches on these themes, the primary focus is on Kanban practices rather than a comprehensive exploration of throughput as a standalone metric. The depth of discussion on throughput-related strategies is present but not exhaustive, leading to a high confidence score but not a perfect one.",
     "level": "Secondary"
   },
   "Azure Pipelines": {
@@ -553,11 +565,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T06:36:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T09:56:38",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical problem-solving strategies related to implementing a Kanban system, including real-world applications and techniques for managing workflow efficiency. It also touches on the integration of Scrum principles, demonstrating a clear focus on pragmatic approaches to navigating complexity in project management.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the implementation of a Kanban strategy, focusing on practical problem-solving techniques and real-world applications of workflow management. It highlights the importance of defining workflows, managing work-in-progress limits, and identifying wait states, which are all relevant to Agile and Scrum contexts. However, while it touches on these themes, the primary focus is on Kanban rather than a broader discussion of pragmatic thinking in Agile or Scrum. The depth of discussion is substantial but somewhat limited to Kanban specifics, which affects the overall confidence score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -571,11 +586,14 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T06:36:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:19:31",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the implementation of Kanban as an agile methodology, including its principles, practices, and how it relates to Scrum, which aligns well with agile project management principles.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on Kanban, a key agile framework, discussing its principles, practices, and how it integrates with Scrum. It provides detailed insights into workflow management, WIP limits, and the importance of visualising work processes, which are core aspects of agile project management. The depth of discussion is substantial, covering both theoretical and practical elements of Kanban and its relationship with Scrum, thus aligning well with the category's themes.",
     "level": "Secondary"
   },
   "Continuous Integration": {
@@ -1375,11 +1393,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T13:57:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T13:03:27",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Kanban principles, including workflow visualisation, WIP limits, and the relationship between Kanban and Scrum, which are central to the category of Social Technologies.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses Kanban principles, including defining workflows, managing work in progress (WIP), and visualising processes, which are core aspects of the Social Technologies category. It provides detailed explanations of how to implement a pull-based system and the importance of identifying wait states, demonstrating a strong alignment with the key topics of Kanban and Agile practices. The depth of discussion is significant, as it not only covers the principles but also illustrates them with practical examples and scenarios, enhancing the understanding of the methodology.",
     "level": "Secondary"
   },
   "Internal Developer Platform": {

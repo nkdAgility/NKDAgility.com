@@ -28,15 +28,17 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Product Management
 - Product Owner
+- Agile Product Management
 - Value Delivery
-- Professional Scrum
 - Agile Philosophy
+- Pragmatic Thinking
+- Professional Scrum
 resourceTypes:
 - video
 categories:
 - Product Management
+- Social Technologies
 - Scrum
 
 ---

@@ -8,7 +8,7 @@ ResourceImportId: 8803
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-09-22
-weight: 630
+weight: 665
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,19 +23,19 @@ aliasesArchive:
 - /virtual-labs-in-the-modern-application-lifecycle
 - /resources/blog/virtual-labs-in-the-modern-application-lifecycle
 tags:
+- Practical Techniques and Tooling
 - Application Lifecycle Management
 - Automated Testing
 - Internal Developer Platform
-- Platform Engineering
-- Practical Techniques and Tooling
-- Product Delivery
 - Software Development
 - Operational Practices
 - Software Developers
-- Technical Excellence
+- Technical Mastery
+- Digital Transformation
+- Frequent Releases
 categories:
-- Engineering Excellence
 - DevOps
+- Engineering Excellence
 preview: metro-lab-5-5.png
 
 ---

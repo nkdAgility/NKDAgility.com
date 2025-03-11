@@ -25,23 +25,13 @@ preview: https://i.ytimg.com/vi/Fo49oedF34g/maxresdefault.jpg
 duration: 268
 isShort: false
 tags:
-- Coaching
-- Organisational Agility
 - People and Process
-- Agile Frameworks
-- Agile Project Management
-- Agile Transformation
-- Pragmatic Thinking
-- Product Delivery
-- Software Development
-- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 resourceTypes:
 - video
 categories:
-- Scrum
 - Social Technologies
 
 ---

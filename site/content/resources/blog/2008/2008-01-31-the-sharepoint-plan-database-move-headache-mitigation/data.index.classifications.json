@@ -55,11 +55,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T18:52:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:16:47",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the process of moving SQL Server databases for SharePoint, which involves installation and configuration considerations, including backup and restore procedures.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the process of moving SQL Server databases for SharePoint, which relates to installation and configuration. However, it lacks detailed step-by-step instructions and best practices, focusing more on a personal plan rather than providing clear, actionable guidance. The mention of SQL Server and SharePoint indicates some relevance, but the overall depth and clarity of the installation and configuration process are limited.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -370,11 +373,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T19:36:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:13:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the process of configuring and moving SQL Server databases in relation to SharePoint, including backup and restore strategies, which are relevant to system configuration best practices.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the process of moving SQL Server databases in relation to SharePoint, which is a specific aspect of system configuration. It mentions the need for a local SQL server setup and the use of DNS for server identification, indicating a focus on configuration practices. However, the discussion lacks depth in terms of best practices or troubleshooting strategies, and it primarily revolves around a personal plan rather than a comprehensive exploration of system configuration principles.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
@@ -946,12 +952,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:13:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical challenge related to moving SQL Server databases in the context of SharePoint, touching on some relevant aspects of database management and technical solutions. However, it mainly focuses on the plan for moving databases rather than broader software craftsmanship or engineering practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the technical challenge of moving SQL Server databases for SharePoint, which touches on aspects of software architecture and database management. However, it lacks a comprehensive exploration of best practices, principles of clean code, or methodologies that contribute to high-quality software development. The focus is primarily on a specific technical issue rather than broader engineering excellence.",
+    "level": "Quaternary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1099,11 +1108,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T19:36:00",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T18:59:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses a specific issue with moving SQL Server databases for SharePoint, detailing a plan for the move, which implies troubleshooting considerations. However, the primary focus is on the plan rather than a systematic troubleshooting process.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the challenges of moving SQL Server databases in a SharePoint context, which aligns with troubleshooting issues related to software and system functionality. It mentions the need for a backup and restore process, indicating an understanding of problem resolution. However, the discussion lacks depth in systematic problem-solving techniques and does not provide detailed methodologies or tools for troubleshooting, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Entrepreneurship": {
@@ -1216,12 +1228,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:13:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:47:55",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content provides a practical plan for moving SQL Server databases related to SharePoint, which involves problem-solving and real-world application of techniques to mitigate challenges. However, it is primarily focused on specific technical steps rather than broader discussions of Agile, Scrum, or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses a practical problem related to moving SQL Server databases in a SharePoint context, which aligns with pragmatic thinking. It mentions a specific plan and considerations for mitigating potential issues, demonstrating real-world application. However, the discussion lacks depth in terms of broader Agile or DevOps principles and does not explicitly mention these frameworks, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Release Management": {
     "category": "Release Management",

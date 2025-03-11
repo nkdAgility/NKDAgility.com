@@ -29,6 +29,7 @@ tags:
 - Agile Product Management
 - Product Owner
 - Products and Books
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

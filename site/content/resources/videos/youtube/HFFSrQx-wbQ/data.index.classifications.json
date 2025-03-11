@@ -97,12 +97,15 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T15:56:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:23:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses general concepts related to agility and flexibility but references Agile principles and practices, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses agility in a general sense, mentioning the importance of adaptability and the dangers of rigid processes. However, it does reference Agile concepts and practices, which detracts from its alignment with the Miscellaneous category. The discussion is somewhat anecdotal and lacks depth in exploring broader themes outside established frameworks, but it does not strictly adhere to the exclusion criteria, as it touches on Agile principles.",
+    "level": "Quaternary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -115,12 +118,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T15:56:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T11:55:34",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the importance of adaptability in processes and practices within agile teams, indicating a focus on team dynamics and collaboration, but it is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses the importance of adaptability in processes and tools within agile teams, which aligns with the core themes of team dynamics and the need for continuous improvement. However, it lacks detailed exploration of specific human factors or structured methodologies, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
@@ -133,20 +139,26 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T15:56:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:23:57",
+    "ai_confidence": 68.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agility and the importance of adapting processes and practices, which aligns with Agile principles, but it is not primarily focused on specific frameworks like Scrum or Kanban.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of adaptability within Agile practices, which aligns with the core themes of Social Technologies. It mentions the need for continuous adaptation and criticises rigid adherence to processes, reflecting a conceptual understanding of Agile principles. However, it lacks detailed exploration of specific frameworks like Scrum or Kanban, which affects the depth of discussion.",
+    "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T23:36:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:03:16",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the need for continuous adaptation and flexibility within Agile teams, emphasizing the importance of evolving processes and tools, which aligns with the principles of Continuous Learning.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the need for continuous adaptation and flexibility within Agile teams, which aligns with the principles of Continuous Learning. However, it lacks explicit mentions of growth mindset, knowledge sharing, or feedback loops, which are crucial for a higher confidence score. The depth of discussion is moderate, focusing on the dangers of rigidity in processes rather than providing comprehensive insights into Continuous Learning practices.",
     "level": "Tertiary"
   },
   "Value Stream Management": {
@@ -1087,20 +1099,26 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T23:36:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:04:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agility and flexibility within teams, which relates to principles of organisational change, but primarily focuses on Scrum and agile practices rather than broader organisational change methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on the concept of agility and the need for continuous adaptation, which aligns with the principles of organisational change. However, it primarily focuses on the pitfalls of rigid processes and tools rather than discussing specific strategies or frameworks for organisational change. The mention of 'agility' is relevant but not deeply explored, and the overall discussion lacks the depth and structured approach expected in the category.",
+    "level": "Quaternary"
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T23:36:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:08:47",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agility and its importance, touching on themes relevant to software development practices, but it is not primarily focused on software developers themselves or their role within Agile and DevOps frameworks.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of adaptability in Agile practices, which is relevant to software developers. However, it lacks specific details on best practices, tools, or methodologies that directly relate to the role of developers in Agile and DevOps contexts. The mention of 'agile' and 'DevOps' is present but not deeply explored, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Evidence Based Management": {
@@ -1231,11 +1249,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T23:36:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:26:14",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of adaptability within agile teams, which aligns with pragmatic thinking, but it primarily focuses on the concept of flexibility rather than providing practical problem-solving strategies or specific applications within Agile or Scrum contexts.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of adaptability in Agile practices, which aligns with pragmatic thinking. However, it lacks detailed practical problem-solving strategies and real-world applications, focusing more on a general critique of rigidity in Agile processes. The mention of tools and processes becoming sacrosanct indicates a recognition of the need for flexibility, but the overall depth of discussion on pragmatic approaches is limited.",
     "level": "Tertiary"
   },
   "Azure Pipelines": {

@@ -2,7 +2,7 @@
 title: 'Unlocking the Power of Kanban: Transform Your Workflow with Data-Driven Insights'
 description: Unlock the power of Kanban! Discover how to optimise workflows, enhance delivery speed, and engage stakeholders with data-driven insights.
 date: 2023-08-23T07:00:10Z
-weight: 760
+weight: 705
 ResourceId: RSPw8pZ9NT8
 ResourceType: videos
 ResourceImport: true
@@ -44,6 +44,7 @@ resourceTypes:
 categories:
 - Kanban
 - Social Technologies
+- DevOps
 
 ---
 In my recent Kanban workshop with Procamban.org, titled "APK: Applying Professional Kanban," I had the opportunity to delve deep into the strategic underpinnings of DevOps. Over the course of 16 hours, we explored how Kanban serves as a meta-process that can be applied to any existing workflow, regardless of its nature. Whether your team is using Scrum, a homegrown process, or even something like SSADM, Kanban provides a framework to observe and enhance your current practices.

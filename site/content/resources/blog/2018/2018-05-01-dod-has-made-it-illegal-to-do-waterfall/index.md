@@ -8,7 +8,7 @@ ResourceImportId: 10204
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2018-05-01
-weight: 415
+weight: 425
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,8 +23,8 @@ aliasesArchive:
 - /dod-has-made-it-illegal-to-do-waterfall
 - /resources/blog/dod-has-made-it-illegal-to-do-waterfall
 tags:
+- Agile Product Management
 - Increment
-- People and Process
 - Agile Product Operating Model
 - Agile Project Management
 - Agile Values and Principles
@@ -32,10 +32,10 @@ tags:
 - Empirical Process Control
 - Enterprise Agility
 - Large Scale Agility
-- Resilience and Change
+- Market Adaptability
 categories:
-- Engineering Excellence
 - Social Technologies
+- Engineering Excellence
 - Scrum
 preview: nkdAgility-dod-change-procurement-agile-wide-15-15.jpg
 

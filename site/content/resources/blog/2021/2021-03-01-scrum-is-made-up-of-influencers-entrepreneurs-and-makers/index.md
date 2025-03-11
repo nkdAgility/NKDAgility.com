@@ -32,16 +32,15 @@ aliasesArchive:
 - /blog/scrum-is-made-up-of-influencers--entrepreneurs--and-makers
 - /resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
 tags:
-- Agile Project Management
 - People and Process
-- Agile Frameworks
-- Value Delivery
+- Agile Project Management
 - Product Delivery
+- Value Delivery
 - Agile Leadership
 - Agile Product Management
+- Agile Frameworks
 - Scrum Product Development
 - Technical Leadership
-- Sociotechnical Systems
 categories:
 - Leadership
 - Social Technologies

@@ -23,12 +23,9 @@ aliasesArchive:
 - /workflow
 - /resources/blog/workflow
 tags:
-- Practical Techniques and Tooling
-- Azure DevOps
 - Miscellaneous
-- Operational Practices
 - Software Development
-- Technical Mastery
+- Practical Techniques and Tooling
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T22:59:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:36:35",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the new Release Management tools and their application in setting up reliable release pipelines, focusing on practical tooling within the context of DevOps.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses new Release Management tools and their application in building reliable release pipelines, which directly aligns with the category's focus on practical techniques and tooling. It provides specific examples of tools like Chef, Puppet, Docker, and PowerShell, demonstrating a clear understanding of how these tools can be integrated into DevOps practices. The depth of discussion is substantial, as it not only mentions the tools but also elaborates on their orchestration and integration capabilities, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -118,11 +121,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T22:59:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:36:30",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses DevOps principles and tools related to Release Management, Build and Release processes, and orchestration of software deployment, showing a strong alignment with the DevOps category.",
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses DevOps principles, particularly in relation to Release Management tools and their role in building reliable release pipelines. It highlights the integration of various tools and the flexibility offered to users, which aligns well with the core themes of DevOps. The depth of discussion is significant, providing insights into the tooling and its application in real-world scenarios, thus demonstrating a strong focus on DevOps practices.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -145,11 +151,14 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-14T22:59:48",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T11:47:48",
+    "ai_confidence": 85.0,
+    "ai_mentions": 25.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
     "final_score": 78.0,
-    "reasoning": "The content primarily discusses a specific event where the author presented on DevOps tools, sharing insights from that presentation and detailing the focus of their session.",
+    "reasoning": "The content explicitly mentions attending the Microsoft Future Decoded event and discussing a presentation on Release Management tools, which directly aligns with the category of Events and Presentations. The focus on DevOps and the details about the session indicate a strong connection to the themes of the category. However, while the content provides insights into the tools discussed, it lacks extensive detail on the event itself or broader discussions that typically characterise presentations, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Flow Efficiency": {
@@ -208,11 +217,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-14T22:59:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:30:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses new Release Management tools and their role in building reliable release pipelines, which aligns with Technical Excellence principles such as CI/CD practices and engineering methodologies aimed at enhancing software development and delivery processes.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses new Release Management tools and their role in building reliable release pipelines, which aligns with the principles of Continuous Integration and Continuous Delivery (CI/CD). However, while it touches on technical practices, the focus is more on the tools themselves rather than a deep exploration of engineering methodologies or principles that enhance agility. The discussion lacks detailed insights into how these tools integrate with broader engineering practices or the impact on team collaboration and project success, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -235,11 +247,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-14T22:59:48",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-10T14:40:24",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily focuses on Release Management tools and methodologies for creating reliable release pipelines, which are essential aspects of product delivery. It discusses orchestration, integration, and deployment strategies, making it central to the category.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses new Release Management tools and their role in creating reliable release pipelines, which directly relates to product delivery. It mentions DevOps, orchestration, and integration, aligning well with the methodologies and practices of delivering software products. The depth of discussion on the tools and their applications in deployment adds to the confidence score, although it lacks broader coverage of other product delivery aspects like planning and testing.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -334,20 +349,26 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-14T22:59:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:22:06",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 27.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the release of new DevOps tools by Microsoft, which aligns with industry news and updates relevant to Agile and DevOps practices.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses a recent event (Microsoft Future Decoded) and provides insights into new Release Management tools related to DevOps, which aligns well with the category. It mentions specific tools and their applications, indicating a focus on industry updates. However, while it provides some detail, it lacks a comprehensive review or analysis of the tools, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-14T22:59:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:35:06",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content predominantly discusses new Release Management tools, their integration into DevOps practices, and the orchestration of release pipelines, which are key components of Application Lifecycle Management.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses Release Management tools and their integration within DevOps practices, which aligns with the application lifecycle management theme. However, it primarily focuses on specific tools and their capabilities rather than a comprehensive discussion of the entire application lifecycle stages or governance practices. The mention of deployment and orchestration indicates some relevance, but the depth of discussion on broader ALM principles is limited.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -730,11 +751,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-15T08:56:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:35:01",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses new Release Management tools and their application in creating reliable release pipelines, which aligns with the principles of engineering excellence and continuous integration/delivery practices.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses new Release Management tools and their role in creating reliable release pipelines, which aligns with the principles of engineering excellence. However, while it mentions DevOps and orchestration, it lacks a deeper exploration of best practices, coding standards, or continuous improvement processes. The focus is more on the tools rather than the underlying engineering practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Revenue per Employee": {

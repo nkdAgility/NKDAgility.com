@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T02:13:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:43:04",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implementation of a data access layer using Unity, which involves practical techniques and tooling related to dependency injection and configuration management. It provides specific examples and code snippets that illustrate the application of these techniques.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed exploration of using Unity as a dependency injection and mapping framework, which directly aligns with practical techniques and tooling in software development. It discusses specific implementations, configurations, and best practices for using Unity, demonstrating a clear application of a tool within a practical context. The depth of discussion includes code examples and explanations of design patterns, which enhances its relevance to the category. However, while it is focused on a specific tool, it lacks broader discussions on Agile or DevOps methodologies, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -208,11 +211,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T02:14:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:08:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of a data access layer using Unity, focusing on engineering practices such as dependency injection, modular architecture, and the use of interfaces, which align with the principles of technical excellence.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on implementing a data access layer using Unity, which involves technical practices such as dependency injection and factory patterns. While it does touch on some aspects of modular architecture and configuration management, it lacks a comprehensive discussion on broader engineering methodologies like TDD or CI/CD. The depth of technical detail is moderate, but it does not fully explore the implications of technical excellence in software development processes.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -370,11 +376,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T02:51:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:06:20",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of a data access layer using Unity, focusing on software design, architecture, coding best practices, and maintainability through dependency injection and configuration management, which aligns well with the principles of Technical Mastery.",
+    "final_score": 74.0,
+    "reasoning": "The content provides a detailed exploration of creating a data access layer using Unity, which aligns closely with best practices in software design and architecture. It discusses the use of interfaces, dependency injection, and the Singleton pattern, all of which are key principles of clean code and software craftsmanship. The depth of discussion is significant, covering implementation details, configuration, and the rationale behind design choices, which supports a high confidence score in the 'Technical Mastery' category.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -577,11 +586,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T02:51:20",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T10:42:43",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content focuses primarily on creating a Data Access layer using Unity, discussing dependency injection, interfaces, factory design patterns, and configuration, all of which are central to software development practices.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed discussion on creating a data access layer using Unity, which is a software development practice. It explicitly mentions concepts such as dependency injection, interfaces, and factory patterns, aligning well with software design principles. The depth of the discussion includes code examples and explanations of the implementation, demonstrating a strong focus on software engineering practices.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -730,12 +742,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:23",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-07T15:42:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content discusses creating a Data Access layer using Unity, including aspects of dependency injection and interface design, which align with best practices in software craftsmanship. However, the primary focus is on implementation specifics rather than broader discussions on engineering excellence, such as coding standards or continuous integration practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on implementing a data access layer using Unity, which involves technical details about coding practices and design patterns. However, it lacks explicit discussions on broader engineering excellence principles such as quality assurance, coding standards, or continuous improvement processes. While it touches on some aspects of software craftsmanship, the depth of discussion is more about specific implementation rather than promoting high standards in software development practices.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -775,12 +790,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:09:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:08:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the implementation of a data access layer using Unity, which includes practical coding techniques and a configuration approach. While it does not directly focus on Agile, Scrum, or DevOps, it reflects pragmatic thinking through its application of methods to solve specific programming problems.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on technical implementation details of a data access layer using Unity, which lacks a direct discussion on pragmatic thinking principles. While it touches on practical problem-solving through the use of dependency injection and factory patterns, it does not explicitly address Agile, Scrum, or DevOps frameworks. The discussion is more about coding practices than about navigating complexity or applying experience-based strategies in project management contexts.",
+    "level": "Quaternary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1045,11 +1063,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T02:51:20",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T18:53:32",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content primarily discusses using Unity for dependency injection and configuration management concerning access layers, making configuration a significant theme. However, the focus is more on coding practices and software development rather than direct system configuration methodologies.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the configuration of a Unity container and the setup of a data access layer, which aligns with system configuration principles. However, the focus is more on implementation details and coding practices rather than broader system configuration methodologies. While it touches on configuration management through the use of XML configuration files and assembly visibility, it lacks a comprehensive exploration of best practices or optimisation strategies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {

@@ -100,11 +100,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T18:23:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:15:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the features and functionalities of the TFS Sticky Buddy tool, including its integration with Visual Studio and TFS, which aligns with practical techniques and tooling in Agile and DevOps practices.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the release of a specific tool (TFS Stick Buddy) and its features, which aligns with the category of Practical Techniques and Tooling. It provides some details on how to use the tool, including customisation options and work item queries, which reflects a practical application of tooling. However, the discussion lacks depth in terms of methodologies or frameworks that enhance Agile and DevOps practices, and it does not provide broader insights or best practices for tool selection or integration. Therefore, while it is relevant, it does not fully meet the criteria for a high confidence score.",
     "level": "Secondary"
   },
   "Value Delivery": {
@@ -172,12 +175,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-16T18:23:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:12:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the release of a new version of TFS Stick Buddy, detailing its features and functionalities, which aligns with industry updates and reviews related to technology tools.",
-    "level": "Secondary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the release of a specific software version (TFS Stick Buddy v0.4.0 CTP2) and provides details about its features and functionalities. While it does mention a new release, which aligns with the 'News' aspect, it lacks broader industry context or analysis that would typically be expected in a news or review article. The depth of discussion is more technical and practical, focusing on usage rather than providing insights or evaluations relevant to Agile or DevOps trends.",
+    "level": "Quaternary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
@@ -343,11 +349,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-16T18:24:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:58:44",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the release and features of a software product (TFS Stick Buddy), which aligns with the category's focus on tools and software that facilitate Agile practices and DevOps integration.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on the release and features of the TFS Stick Buddy tool, which is a software product relevant to Agile and DevOps practices. It discusses specific functionalities, user interactions, and potential customisations, aligning well with the category's emphasis on tools that facilitate Agile methodologies. However, while it provides a fair amount of detail about the product, it lacks in-depth analysis or reviews that would enhance understanding of Agile principles, thus slightly lowering the confidence score.",
     "level": "Secondary"
   },
   "Product Management": {
@@ -856,12 +865,15 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-16T19:12:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:12:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the release of version 0.4.0 of TFS Stick Buddy, focusing on the updates and improvements made in this new version, which aligns well with the concept of Frequent Releases.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the release of a specific version of TFS Stick Buddy, mentioning the features and improvements in that release. However, it lacks a broader discussion on the principles of frequent releases, continuous delivery, or the strategies and practices that support such an approach. While it does mention the release itself, it does not delve into the implications of frequent releases or how they fit into a larger agile or DevOps framework.",
+    "level": "Quaternary"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -1081,11 +1093,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T19:12:00",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T10:47:09",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 66.0,
-    "reasoning": "The content discusses a software tool (TFS Sticky Buddy) that integrates with Team Foundation Server (TFS), which is commonly used in Windows environments. While it is closely related to Windows through its usage context, the focus is more on the software functionalities rather than explicit aspects of the Windows operating system itself.",
+    "final_score": 63.0,
+    "reasoning": "The content discusses the TFS Sticky Buddy application, which is related to Windows as it operates within the Windows environment and integrates with Visual Studio and TFS. However, the primary focus is on the application itself rather than on Windows as an operating system. While there are mentions of Windows-related functionalities, the depth of discussion is more about the application features than Windows-specific topics like installation, configuration, or troubleshooting. Therefore, the confidence score reflects a moderate alignment with the Windows category.",
     "level": "Secondary"
   },
   "Lean Principles": {

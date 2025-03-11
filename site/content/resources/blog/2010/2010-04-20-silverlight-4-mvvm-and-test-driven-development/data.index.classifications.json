@@ -145,11 +145,14 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T00:55:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:37:32",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a specific event featuring a talk by Jesse Liberty on Silverlight 4, including details about the agenda, venue, and registration, which aligns well with the category.",
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses an upcoming talk by Jesse Liberty, detailing the event's location, agenda, and speaker background, which aligns closely with the category of Events and Presentations. The focus on a specific presentation, including topics covered and logistical details, demonstrates a strong alignment with the core themes of the category. The depth of information provided about the event and the speaker further supports a high confidence score.",
     "level": "Secondary"
   },
   "Flow Efficiency": {
@@ -208,12 +211,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:06:10",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Test-Driven Development (TDD) and related technical practices, but it is primarily focused on an event and speaker rather than a deep exploration of technical excellence.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content mentions Test-Driven Development (TDD) and discusses MVVM in the context of building test-driven programs, which aligns with the principles of Technical Excellence. However, the overall focus is more on the event details and speaker background rather than an in-depth exploration of TDD or related engineering practices. The discussion lacks substantial detail on how these practices enhance agility or project success, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -370,12 +376,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T10:28:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:05:17",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses MVVM and Test-Driven Development, as well as concepts like refactoring and dependency injection, which are relevant to software craftsmanship and engineering practices.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses technical topics such as MVVM, test-driven development, and refactoring, which align with the principles of software craftsmanship. However, the primary focus is on an event and speaker rather than an in-depth exploration of technical mastery. The details provided are somewhat superficial, lacking extensive discussion on best practices or methodologies.",
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -577,11 +586,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T10:28:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:51:16",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses MVVM and Test-Driven Development, which are key concepts in software development.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses MVVM and Test-Driven Development, which are key practices in software development. However, the primary focus is on an event and the speaker rather than a detailed exploration of software development methodologies or practices. While there are relevant topics mentioned, the overall depth and direct engagement with the category are limited.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -730,12 +742,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:37:28",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Test-Driven Development, MVVM, and refactoring, which are related to software craftsmanship and engineering practices. However, it does not focus primarily on Engineering Excellence and contains significant event-related information.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses MVVM and test-driven development, which are relevant to software craftsmanship and quality assurance. However, it primarily focuses on an event and the speaker rather than providing a detailed exploration of engineering excellence principles or practices. The mention of refactoring and dependency injection aligns with best practices, but the overall depth and direct focus on engineering excellence are limited.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1198,12 +1213,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:40:44",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Test-Driven Development (TDD) and methods relevant to developers, which aligns with the category, but it primarily focuses on a specific talk rather than the broader themes of Agile and DevOps.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses Test-Driven Development (TDD) and the MVVM pattern, which are relevant to software developers. However, it primarily focuses on a specific event and speaker rather than a broader discussion on Agile or DevOps methodologies. While there are mentions of TDD and related practices, the overall context does not deeply engage with the themes of Agile or DevOps, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1342,12 +1360,15 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T10:28:56",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T15:03:30",
+    "ai_confidence": 42.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses building test-driven programs and mentions TDD concepts like Refactoring. However, it is primarily focused on a talk about Silverlight and MVVM, making TDD a significant but secondary theme.",
-    "level": "Secondary"
+    "final_score": 39.0,
+    "reasoning": "The content mentions Test-Driven Development (TDD) in the context of a talk about MVVM and Silverlight, indicating a focus on TDD principles. However, the discussion lacks depth and specific details about TDD practices, such as the Red-Green-Refactor cycle or writing unit tests before code implementation. The primary focus seems to be on the event and speaker rather than a thorough exploration of TDD itself.",
+    "level": "Quaternary"
   },
   "Social Technologies": {
     "category": "Social Technologies",

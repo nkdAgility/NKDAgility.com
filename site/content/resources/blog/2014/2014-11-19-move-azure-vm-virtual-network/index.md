@@ -28,11 +28,10 @@ aliasesArchive:
 - /resources/blog/move-azure-vm-virtual-network
 tags:
 - Install and Configuration
-- Practical Techniques and Tooling
 - System Configuration
+- Practical Techniques and Tooling
 - Troubleshooting
-categories:
-- DevOps
+categories: []
 preview: nakedalm-windows-logo-8-8.png
 
 ---

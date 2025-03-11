@@ -31,13 +31,11 @@ aliasesArchive:
 - /blog/hold-on-lads--i-have-an-idea-
 - /resources/blog/hold-on-lads-i-have-an-idea
 tags:
-- Ability to Innovate
-- Business Agility
-- Organisational Physics
-- People and Process
-- Sociotechnical Systems
 - Digital Transformation
 - Miscellaneous
+- Business Agility
+- Organisational Physics
+- Sociotechnical Systems
 categories: []
 preview: nakedalm-logo-128-link-3-3.png
 

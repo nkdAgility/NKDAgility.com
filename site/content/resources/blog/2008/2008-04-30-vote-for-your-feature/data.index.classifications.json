@@ -352,20 +352,26 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T09:13:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:15:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content focuses on gathering votes for features, which relates to collecting customer feedback and prioritizing product features, a key aspect of product management. However, it lacks depth in discussing strategic alignment or methodologies typically associated with product management.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses gathering votes for features, which relates to prioritising customer feedback, a key aspect of product management. However, it lacks depth in strategic discussions and does not cover broader product management methodologies or frameworks, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T09:13:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:58:32",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content invites user participation in voting for features, which involves gathering user feedback to inform product development, but it lacks depth in discussing methodologies or practices for validating product ideas.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses gathering user votes for features, which aligns with the concept of user feedback and validating product ideas. However, it lacks depth in methodologies or detailed discussions on how this feedback will be integrated into the product development process, thus limiting its overall alignment with the core themes of product validation.",
     "level": "Tertiary"
   },
   "System Configuration": {
@@ -892,12 +898,15 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T09:13:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:46:58",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses gathering votes for features, indicating a focus on prioritization and stakeholder engagement, which are relevant to the Product Owner's responsibilities, but does not provide a comprehensive discussion about the Product Owner role.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses feature voting, which relates to stakeholder engagement and prioritisation strategies, but lacks explicit mention of the Product Owner role. It provides minimal depth on the responsibilities or practices of a Product Owner, focusing instead on a specific feature request process.",
+    "level": "Quaternary"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -910,12 +919,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:13:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:12:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content involves collecting votes for software features, which suggests a participatory process that could enhance team collaboration, but it primarily focuses on feature selection rather than deeper discussions on teamwork dynamics.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions taking votes for features, which implies some level of team input and collaboration. However, it lacks a detailed discussion on techniques for improving communication or fostering a culture of trust, which are key aspects of team collaboration. The focus is primarily on feature voting rather than on enhancing team dynamics or shared ownership within Agile frameworks.",
+    "level": "Quaternary"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
@@ -1036,11 +1048,14 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-16T18:48:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:12:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses taking votes for features, which directly relates to gathering customer feedback for product development. This practice aligns with the concept of feedback loops as it involves integrating customer insights into future versions of the product.",
+    "final_score": 65.0,
+    "reasoning": "The content explicitly discusses gathering customer votes for features, which aligns with the concept of collecting feedback. However, it lacks depth in exploring how this feedback will be integrated into the product development process or how it will influence prioritisation. While it touches on the importance of customer input, it does not delve into the mechanisms of feedback loops or continuous improvement, which are crucial for a higher confidence score.",
     "level": "Secondary"
   },
   "Strategy": {
@@ -1189,12 +1204,15 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-16T18:48:24",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T13:15:24",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses taking votes for features, which relates to gathering customer feedback and prioritizing product features, but it does not extensively explore methodologies or frameworks of product discovery.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content primarily focuses on gathering votes for features, which aligns with the concept of understanding customer needs. However, it lacks depth in discussing methodologies or frameworks for product discovery. The mention of voting indicates an attempt to prioritise features based on user input, but it does not delve into user research techniques or validation processes, which are crucial for a comprehensive discussion on product discovery.",
+    "level": "Tertiary"
   },
   "Scrum Team": {
     "category": "Scrum Team",

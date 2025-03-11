@@ -73,11 +73,14 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-16T20:19:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:19:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 5,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses personal experiences and reflections related to a new job and SharePoint technologies, without direct reference to Agile, Scrum, DevOps, or Lean principles.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses personal experiences and reflections related to a new job and SharePoint technologies without directly referencing Agile, Scrum, DevOps, or Lean principles. While it touches on project management aspects, it does not delve into established methodologies or frameworks, aligning well with the Miscellaneous category. The depth of discussion about personal challenges and tasks indicates a strong focus on the author's experiences rather than actionable insights or recognised practices.",
     "level": "Secondary"
   },
   "Resilience and Change": {
@@ -370,12 +373,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:01:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses maintaining and deploying SharePoint systems, which relates to system configuration, but it also largely focuses on personal experiences and job transition rather than specific configuration methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the author's new job involving the maintenance and deployment of SharePoint systems, which relates to system configuration. However, the focus is more on personal experiences and general observations rather than detailed discussions on configuration practices or methodologies. While there are mentions of integrating and migrating applications, the depth of technical discussion on system configuration principles is limited.",
+    "level": "Quaternary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -577,11 +583,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:14:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a job involving the maintenance and deployment of SharePoint systems, touching on integration and customization aspects relevant to software development. However, the primary focus appears to be personal circumstances and descriptions of tasks rather than structured methodologies or practices of software development.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the author's experiences with SharePoint and Team Foundation Server, which are relevant to software development. However, the focus is more on personal experiences and job transitions rather than on specific software development methodologies or practices. While there are mentions of maintaining and integrating systems, the depth of discussion on software development principles is limited.",
     "level": "Tertiary"
   },
   "Site Reliability Engineering": {
@@ -721,12 +730,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T09:13:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:15:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses maintaining and deploying SharePoint, which involves integrating and updating digital tools in a business context. However, the primary focus is on practical tasks rather than a broader strategic discussion on digital transformation.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the author's new job involving SharePoint and the integration of various applications, which hints at some aspects of digital transformation. However, it lacks explicit discussions on strategic adoption of digital technologies or their impact on business agility and innovation. The focus is more on personal experiences and technical tasks rather than a comprehensive exploration of digital transformation strategies or frameworks.",
+    "level": "Quaternary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -1126,12 +1138,15 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T09:13:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:49:46",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses maintaining a Sharepoint deployment and integrating various applications, indicating some relevance to deployment strategies as a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 24.0,
+    "reasoning": "The content briefly mentions maintaining and deploying SharePoint systems, which relates to deployment but lacks a focused discussion on specific deployment strategies or methodologies. The mention of integrating applications does not delve into the core themes of deployment strategies such as Blue-Green Deployments or Canary Releases, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "Test Automation": {
     "category": "Test Automation",

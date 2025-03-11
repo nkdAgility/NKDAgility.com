@@ -8,7 +8,7 @@ ResourceImportId: 8829
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-09-25
-weight: 410
+weight: 420
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,17 +24,18 @@ aliasesArchive:
 - /resources/blog/testing-in-the-modern-application-lifecycle
 tags:
 - Windows
-- Application Lifecycle Management
 - Product Delivery
+- Application Lifecycle Management
+- Practical Techniques and Tooling
 - Software Development
 - Value Delivery
 - Working Software
 - Engineering Practices
-- Practical Techniques and Tooling
-- Products and Books
 - Team Collaboration
+- Azure DevOps
 categories:
 - Engineering Excellence
+- DevOps
 preview: metro-test-icon-7-7.png
 
 ---

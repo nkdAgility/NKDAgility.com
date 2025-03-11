@@ -8,7 +8,7 @@ ResourceImportId: 4049
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-11-19
-weight: 550
+weight: 630
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,16 +29,17 @@ aliasesArchive:
 tags:
 - Increment
 - Agile Project Management
-- People and Process
 - Scrum Product Development
 - Scrum Master
 - Scrum Team
 - Software Development
-- Agile Planning
-- Agile Product Management
-- Events and Presentations
+- People and Process
+- Professional Scrum
+- Software Developers
+- Team Performance
 categories:
 - Scrum
+- Social Technologies
 preview: nakedalm-experts-professional-scrum-3-3.png
 
 ---

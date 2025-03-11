@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T18:19:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:59:50",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content provides a detailed guide on customising colours in Team Foundation Server 2013 Agile Planning Tools, including specific commands and configurations, which aligns with practical techniques and tooling in Agile practices.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed, step-by-step guide on customising colours in Team Foundation Server 2013 Agile Planning Tools, which directly relates to practical tooling in Agile environments. It discusses specific tools (TFS, WITAdmin) and methodologies (exporting and importing process configurations) that enhance team performance and visual management of work items. The depth of technical detail, including code snippets and configuration instructions, supports a strong alignment with the category's focus on practical techniques and tooling.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T18:19:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:46:49",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content provides a detailed step-by-step guide on how to customise the colours in Team Foundation Server 2013 Agile Planning Tools, including exporting and importing configuration files, which aligns well with installation and configuration processes.",
+    "final_score": 80.0,
+    "reasoning": "The content provides a detailed step-by-step guide on how to customise colours in Team Foundation Server 2013 Agile Planning Tools, which directly relates to the installation and configuration of software. It explicitly discusses the process of exporting and importing the process configuration file, including specific commands and code snippets. The content aligns well with the key topics of the category, such as configuration best practices and troubleshooting common issues. The depth of discussion is substantial, offering clear instructions and examples, which enhances its relevance to the category.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -280,11 +286,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T18:20:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:48:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses customisation of features within Team Foundation Server, which is part of Azure DevOps, and provides specific instructions related to its configuration.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses customisation within Team Foundation Server (TFS), which is a component of Azure DevOps. It provides specific instructions on editing the Process Configuration file, which is relevant to Azure DevOps functionalities. The discussion aligns well with the category's focus on Azure DevOps services, particularly in the context of project management tools. However, while it is detailed and specific, it does not cover broader Azure DevOps practices or methodologies, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -577,11 +586,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T20:03:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:53:50",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content provides a detailed guide on customizing the configuration of Team Foundation Server (TFS) Agile Planning Tools, which is a software development tool, and includes specific scripting aspects and coding that aligns with software development practices.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on customising the colours in Team Foundation Server 2013 Agile Planning Tools, which is a specific aspect of software development related to configuration management. It discusses the process of exporting and importing configuration files, which aligns with version control and collaborative development practices. However, while it touches on Agile tools, the discussion lacks depth in broader software development methodologies or best practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -640,11 +652,14 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-15T20:03:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:28:30",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses customization of work item colors in Team Foundation Server, which is related to Azure Boards functionalities, specifically managing visual distinctions for work items within Agile project management.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses customisation of work item colours in Team Foundation Server (TFS), which is related to Azure Boards. However, it primarily focuses on a specific technical aspect (colour configuration) rather than providing a comprehensive overview or best practices for Azure Boards in Agile project management. While it mentions work item types, it lacks depth in discussing broader functionalities or integration with Agile methodologies.",
     "level": "Secondary"
   },
   "Collaboration Tools": {
@@ -1045,11 +1060,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T20:03:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:38:10",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily focuses on configuring the Process Configuration file in Team Foundation Server 2013 which directly relates to system setup and configuration processes.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on the configuration of Team Foundation Server (TFS) by detailing the process of exporting, editing, and importing the process configuration file. It explicitly discusses the steps involved in customising the colours for work item types, which aligns well with the category of System Configuration. The content provides a clear methodology for achieving a specific configuration goal, demonstrating best practices in configuration management. The depth of discussion is substantial, as it includes code snippets and detailed instructions, which enhances its relevance to the category. Overall, the content is a strong fit for System Configuration, with a high confidence score reflecting its direct focus and detailed exploration of the topic.",
     "level": "Secondary"
   },
   "Product Strategy": {

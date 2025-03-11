@@ -23,11 +23,8 @@ aliasesArchive:
 - /the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
 - /resources/blog/the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
 tags:
-- Install and Configuration
-- Practical Techniques and Tooling
 - Products and Books
-- System Configuration
-- Technical Mastery
+- Practical Techniques and Tooling
 categories: []
 preview: metro-pagelines-11-11.png
 

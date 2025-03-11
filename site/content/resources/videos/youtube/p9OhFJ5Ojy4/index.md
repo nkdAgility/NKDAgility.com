@@ -25,10 +25,7 @@ preview: https://i.ytimg.com/vi/p9OhFJ5Ojy4/hqdefault.jpg
 duration: 2977
 isShort: false
 tags:
-- Agile Philosophy
-- Organisational Agility
-- Change Management
-- Business Agility
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -36,8 +33,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Leadership
 - Social Technologies
+- Leadership
 
 ---
 Oh hi, my name is Martin Hinshelwood, and I’m the owner of Naked Agility. As a professional Scrum trainer with Scrum.org and a Microsoft MVP, I’ve been delivering software for about 20 years and working in organisational change for over a decade. Today, I want to share some insights on the inevitability of change, a topic that resonates deeply with my experiences in various markets, particularly in Ghana and Nigeria.

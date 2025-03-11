@@ -8,7 +8,7 @@ ResourceImportId: 3783
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-09-16
-weight: 775
+weight: 720
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -31,13 +31,9 @@ aliasesArchive:
 - /blog/not-just-happy--but-ecstatic
 - /resources/blog/not-just-happy-but-ecstatic
 tags:
-- Practical Techniques and Tooling
 - Pragmatic Thinking
-- Product Delivery
 - Operational Practices
-- Personal
-- Release Management
-- Technical Mastery
+- Practical Techniques and Tooling
 categories:
 - DevOps
 

@@ -2,7 +2,7 @@
 title: Is Your Project Ecosystem Truly Agile?
 description: Unlock true agility in product management! Discover how to break down silos, embrace automation, and maximise stakeholder value in this insightful video.
 date: 2024-07-31T06:45:01Z
-weight: 550
+weight: 475
 ResourceId: cGOa0rg_L-8
 ResourceType: videos
 ResourceImport: true
@@ -31,16 +31,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Value Delivery
 - Organisational Agility
+- Value Delivery
+- People and Process
+- Market Adaptability
 - Agile Philosophy
 - Business Agility
 - Deployment Frequency
-- Market Adaptability
 - Operational Practices
 - Pragmatic Thinking
 - Product Delivery
-- Software Development
 resourceTypes:
 - video
 categories:

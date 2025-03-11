@@ -109,12 +109,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T12:03:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T09:49:31",
+    "ai_confidence": 42.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses compatibility issues and considerations during the migration from TFS on-prem to Azure DevOps, which relates to system configuration. However, the primary focus is on migration challenges rather than detailed configuration practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the migration from TFS to Azure DevOps, touching on compatibility issues and the need for planning around customisations. While it does mention aspects of system configuration, such as the need for compliance and the functionality of on-prem build agents, the primary focus is on migration challenges rather than detailed system configuration practices. The discussion lacks depth in exploring configuration management tools or optimisation strategies, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -466,12 +469,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T12:03:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T12:48:52",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses migration from TFS to Azure DevOps, touching on compatibility issues and the implications for software development practices, which aligns with the role of software developers in a DevOps context.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the migration from TFS to Azure DevOps, which is relevant to software developers, particularly in the context of DevOps practices. However, it lacks explicit discussions on Agile methodologies or best practices in software development. While it touches on compatibility and operational concerns, it does not delve deeply into the role of developers in enhancing productivity or collaboration, which are key themes of the category.",
+    "level": "Quaternary"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -910,12 +916,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T12:03:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:54:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of migrating to Azure DevOps and the implications of compatibility issues, which touches on technical practices and considerations in software engineering. However, the primary focus is on migration challenges rather than broader principles of software craftsmanship or engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the migration from TFS to Azure DevOps, touching on compatibility issues and the importance of maintaining code integrity and security. However, while it mentions technical aspects, it lacks a deep exploration of software craftsmanship principles, best practices, or methodologies that contribute to high-quality software development. The focus is more on migration challenges rather than on broader technical mastery concepts.",
+    "level": "Quaternary"
   },
   "Release Management": {
     "category": "Release Management",
@@ -955,12 +964,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T12:03:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T17:50:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses migration from TFS to Azure DevOps, touching on compatibility issues and the importance of code management, which are relevant to modern source control practices. However, the primary focus is on migration challenges rather than specific version control methodologies or strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the migration from TFS to Azure DevOps, touching on compatibility issues and the importance of maintaining code integrity. However, it primarily focuses on migration challenges rather than best practices or methodologies related to modern source control. While it mentions aspects of version control, such as the need for secure code management and the role of build agents, these points are not explored in depth or as a primary focus. Therefore, the overall confidence score reflects a moderate relevance to the category.",
+    "level": "Quaternary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1054,12 +1066,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T12:03:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T00:17:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses compatibility issues and considerations during the migration from TFS on-prem to Azure DevOps, which relates to installation and configuration aspects. However, the primary focus is on the implications of migration rather than providing clear, actionable installation or configuration instructions.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the migration process from TFS to Azure DevOps, which involves installation and configuration considerations. It addresses compatibility issues, the need for upgrades, and the implications of customisations during the migration. While it does not provide a step-by-step guide, it offers insights into the configuration challenges and considerations that arise during the transition, aligning well with the core themes of the category. However, the depth of actionable instructions is somewhat limited, preventing a higher score.",
+    "level": "Secondary"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
@@ -1090,11 +1105,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T12:03:37",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-11T11:13:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses migration from TFS to Azure DevOps, touching on compatibility and planning, but it primarily focuses on technical aspects of migration rather than the broader methodologies and practices of product delivery.",
+    "final_score": 38.0,
+    "reasoning": "The content discusses the migration from TFS to Azure DevOps, touching on compatibility issues and the need for planning around customisations. While it mentions aspects of product delivery, such as ensuring code safety and compliance, the primary focus is on migration challenges rather than the broader methodologies and practices of delivering software products. The discussion lacks depth in key areas like Agile methodologies, testing, or deployment strategies, which are central to the Product Delivery category.",
     "level": "Quaternary"
   },
   "Agile Product Management": {
@@ -1240,12 +1258,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T12:03:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T11:36:49",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses compatibility issues and considerations during a migration from TFS to Azure DevOps, touching on aspects of software delivery and system integrity, which are relevant to technical excellence. However, the primary focus is on migration challenges rather than engineering practices or methodologies that enhance agility.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the migration from TFS to Azure DevOps, touching on compatibility issues and the importance of maintaining code integrity and security. However, it lacks a direct focus on engineering practices or methodologies that enhance agility in software development. While it mentions aspects of technical considerations, it does not delve deeply into specific practices like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
+    "level": "Quaternary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",

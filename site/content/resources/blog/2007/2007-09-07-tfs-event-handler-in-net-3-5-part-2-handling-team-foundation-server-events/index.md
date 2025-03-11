@@ -8,7 +8,7 @@ ResourceImportId: 3469
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2007-09-07
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,9 +29,7 @@ aliasesArchive:
 tags:
 - Software Development
 preview: metro-visual-studio-2005-128-link-1-1.png
-categories:
-- DevOps
-- Engineering Excellence
+categories: []
 
 ---
 I have decided to have a little go at creating a Team Foundation Server Event Handler in .NET 3.5 that is resilient and scaleable. I will be using as many of the features of Team Suit as I can, but bear with me as there are a few things that are new to me.

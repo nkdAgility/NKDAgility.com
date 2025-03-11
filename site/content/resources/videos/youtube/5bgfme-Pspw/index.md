@@ -27,12 +27,12 @@ sitemap:
   priority: 0.6
 tags:
 - Miscellaneous
+- People and Process
 - Product Delivery
 resourceTypes:
 - video
 layout: video
 categories:
-- Product Management
 - Leadership
 
 ---

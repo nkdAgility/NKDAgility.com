@@ -27,12 +27,12 @@ tags:
 - Agile Project Management
 - Coaching
 - People and Process
-- Scrum Master
 - Scrum Team
 - Agile Frameworks
 - Agile Product Management
 - Agile Transformation
 - Team Collaboration
+- Scrum Master
 - Software Development
 sitemap:
   filename: sitemap.xml

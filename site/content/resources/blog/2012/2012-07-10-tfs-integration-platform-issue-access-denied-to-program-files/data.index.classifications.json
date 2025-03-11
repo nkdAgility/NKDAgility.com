@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T20:17:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:19:37",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses a specific issue related to TFS Integration Tools, including practical steps to resolve access issues, which aligns with the exploration and application of tooling.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses a specific issue related to TFS Integration Tools, including a workaround for an access denied error. It directly mentions a practical tool (TFS Integration Tools) and provides a solution to a common problem, which aligns with the category's focus on practical techniques and tooling. However, the discussion lacks depth in exploring broader methodologies or frameworks, and while it mentions a specific tool, it does not provide extensive insights into its application or integration within Agile or DevOps practices.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T20:18:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:55:59",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a specific issue related to the installation and configuration of TFS Integration Tools, including troubleshooting access permissions, which aligns with the category's focus on installation and configuration processes.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on a specific issue related to the installation and configuration of TFS Integration Tools, detailing a runtime error and providing a workaround to resolve it. It explicitly mentions the need for permissions and addresses a common configuration issue, aligning well with the core themes of the category. The depth of discussion includes specific steps to resolve the access issue, which enhances its relevance to installation and configuration processes.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:19:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses TFS Integration Tools, which are relevant to DevOps practices, but the primary focus is on a specific error and its resolution rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific issue related to TFS Integration Tools, which is a part of the DevOps ecosystem, but it does not explicitly address broader DevOps principles or practices. While it touches on a technical problem that could arise in a DevOps context, it lacks a comprehensive exploration of DevOps concepts such as CI/CD, automation, or cultural shifts. The focus is primarily on troubleshooting a specific error rather than on the integration of people, processes, and tools in a DevOps framework.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -577,11 +586,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T20:19:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:55:34",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses a runtime error related to TFS Integration Tools, which is relevant to software development practices, particularly in the context of version control and integration processes.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses a specific issue related to the TFS Integration Tools, which is a software development tool. It mentions a runtime error and provides a workaround, indicating a focus on practical problem-solving within the software development context. However, while it touches on aspects of software development, such as error handling and permissions, it lacks a broader discussion of methodologies or best practices, which limits its depth and alignment with the category.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1045,11 +1057,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T20:20:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:44:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a specific access issue related to the configuration of the TFS Integration Tools, including permissions and workarounds, which are central to system configuration.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific issue related to access permissions in the context of the TFS Integration Tools, which is a part of system configuration. It directly addresses a configuration problem (access denied) and provides a workaround that involves modifying permissions, aligning with best practices for system setup. However, while it touches on configuration management, the depth of discussion is somewhat limited, focusing primarily on a single issue rather than broader configuration strategies or methodologies.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1099,11 +1114,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T20:20:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:34:32",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses an issue related to access permissions in the Program Files directory on a Windows operating system, specifically in the context of TFS Integration Tools. It provides a workaround that involves modifying permissions, which is a key aspect of managing the Windows environment.",
+    "final_score": 73.0,
+    "reasoning": "The content discusses a specific issue related to the TFS Integration Tools, which operates within the Windows environment. It mentions an 'Unauthorized Access Exception' when trying to write to a directory in 'C:Program Files', indicating a direct interaction with the Windows file system. However, while it touches on troubleshooting and permissions, it lacks broader discussions on Windows installation, configuration, or updates, which are key themes of the category. The depth of discussion is moderate, focusing on a specific error rather than a comprehensive guide on Windows management.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
@@ -1153,11 +1171,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T20:20:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:59:22",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a specific issue related to access permissions in TFS Integration Tools, providing insights on diagnosing and resolving the problem, which aligns well with troubleshooting methodologies.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses a specific issue related to the TFS Integration Tools, detailing the 'Unauthorized Access Exception' and providing a workaround to resolve the problem. It aligns well with the core themes of troubleshooting by identifying a technical issue, explaining the context, and offering a practical solution. The depth of discussion is substantial, as it not only describes the error but also suggests a method to rectify it, demonstrating a clear understanding of troubleshooting methodologies.",
     "level": "Secondary"
   },
   "Experimentation": {

@@ -82,12 +82,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-18T17:41:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:08:16",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions an Agile Product Operating Model, which relates to product management methodologies, but lacks depth in discussing strategic alignment or specific product management practices.",
-    "level": "Tertiary"
+    "final_score": 24.0,
+    "reasoning": "The content briefly mentions an 'Agile Product Operating Model', which suggests a connection to product management. However, it lacks explicit discussions on key topics such as customer needs, business objectives, or methodologies that guide product managers. The depth of discussion is minimal, providing only a description without elaboration on strategic aspects or frameworks relevant to product management.",
+    "level": "Quaternary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -1081,12 +1084,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T17:41:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:08:18",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions an Agile Product Operating Model, which relates to product delivery methodologies, but lacks depth in discussing the end-to-end process or specific practices involved in delivering software products.",
-    "level": "Tertiary"
+    "final_score": 24.0,
+    "reasoning": "The content title suggests a focus on Agile methodologies, which are relevant to product delivery. However, the description is vague and lacks explicit discussion of product delivery practices, methodologies, or detailed insights. The content does not provide sufficient depth or specific alignment with the key topics outlined in the category, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1333,12 +1339,15 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-18T17:41:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-10T13:28:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses an Agile Product Operating Model, which does not specifically focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
+    "final_score": 11.0,
+    "reasoning": "The content briefly mentions 'Agile' but does not explicitly discuss Scrum principles, roles, events, or artifacts. There is minimal alignment with Scrum's core themes, and the depth of discussion is insufficient to establish a strong connection to the Scrum framework.",
+    "level": "Quinary"
   },
   "Beta Codex": {
     "category": "Beta Codex",

@@ -316,11 +316,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:17:32",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses exception handling in the context of Team Foundation Server, which relates to engineering practices, but it is primarily focused on a specific technical issue rather than broader principles of technical excellence.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses exception handling in the context of Team Foundation Server and Windows Communication Foundation, which relates to technical practices. However, it lacks a broader discussion on engineering methodologies or principles that enhance agility and quality in software development. The focus is primarily on a specific technical issue rather than a comprehensive exploration of technical excellence.",
     "level": "Tertiary"
   },
   "People and Process": {
@@ -568,20 +571,26 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:52:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content focuses on exception handling related to Team Foundation Server, which is relevant to software development practices but does not primarily discuss Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses exception handling in the context of Team Foundation Server (TFS) and Windows Communication Foundation (WCF). While it is relevant to software developers, it does not explicitly address Agile or DevOps methodologies, nor does it explore best practices or collaborative aspects of software development. The focus is more on a specific technical issue rather than the broader themes of the category.",
+    "level": "Quaternary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T08:18:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T19:05:16",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content discusses exception handling in relation to coding practices with Team Foundation Server, providing a specific example of creating a custom exception, which aligns with software development methodologies.",
+    "final_score": 74.0,
+    "reasoning": "The content explicitly discusses exception handling in the context of Team Foundation Server (TFS) and Windows Communication Foundation (WCF), which are relevant to software development practices. It provides a detailed example of creating a custom exception class and handling exceptions, aligning well with best practices in coding and software design. The depth of discussion is significant, as it includes code snippets and specific methodologies for managing exceptions, which are crucial for ensuring software quality and reliability.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {
@@ -946,12 +955,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T08:18:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:24:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical aspects of handling exceptions when working with Team Foundation Server, which relates directly to software craftsmanship and coding practices.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses exception handling in the context of Team Foundation Server and Windows Communication Foundation, which relates to software craftsmanship and engineering practices. However, it primarily focuses on a specific technical issue rather than broader principles of software design or architecture. While it provides a practical example of handling exceptions, it lacks a comprehensive exploration of best practices or methodologies that would elevate it to a higher level of technical mastery.",
+    "level": "Tertiary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1099,11 +1111,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T08:18:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:19:59",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses handling exceptions related to Team Foundation Server, providing insights into diagnosing and resolving specific technical issues encountered during software development, which aligns well with the troubleshooting category.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses handling exceptions related to Team Foundation Server, which aligns with troubleshooting techniques for diagnosing and resolving software issues. It provides a specific example of a custom exception and how to manage it, demonstrating practical application. However, while it touches on troubleshooting, it lacks broader context and depth in discussing systematic problem-solving or integration issues, which slightly limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Entrepreneurship": {
@@ -1234,12 +1249,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:24:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses exception handling in the context of coding practices related to Team Foundation Server, which is relevant to software craftsmanship but is primarily focused on a specific technical issue rather than broader engineering excellence principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses exception handling in the context of Team Foundation Server, which touches on coding practices but lacks a broader focus on engineering excellence principles. While it mentions a specific technical issue and provides a code example, it does not delve into best practices, quality assurance, or continuous improvement, which are central to the category of Engineering Excellence.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

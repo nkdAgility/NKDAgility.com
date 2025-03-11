@@ -23,8 +23,6 @@ aliasesArchive:
 - /tfs-event-handler-revisited
 - /resources/blog/tfs-event-handler-revisited
 tags:
-- Practical Techniques and Tooling
-- Application Lifecycle Management
 - Software Development
 - Troubleshooting
 categories: []

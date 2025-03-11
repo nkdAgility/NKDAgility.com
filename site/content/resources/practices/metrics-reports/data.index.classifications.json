@@ -28,20 +28,26 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-13T15:53:24",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T09:50:47",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses metrics related to software quality and functionality, which are important for assessing working software. However, it primarily focuses on metrics rather than the delivery of functional software itself.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses various metrics that are crucial for assessing the quality and effectiveness of delivered software, which aligns with the core themes of working software. It mentions customer satisfaction and defect trends, which are directly related to the delivery of functional software. However, while it provides a good overview of metrics, it lacks in-depth discussion on how these metrics translate into actionable insights for improving software delivery, thus limiting its depth of discussion.",
     "level": "Secondary"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-13T15:53:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:14:07",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses practical metrics and reports that can be used to monitor team performance and project health, which aligns with pragmatic problem-solving strategies in Agile and Scrum contexts.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses various metrics that can be monitored to assess team and project performance, which aligns with pragmatic thinking in terms of applying practical, experience-based problem-solving techniques. It provides specific metrics relevant to Agile and Scrum contexts, such as Work in Progress (WIP) and Cycle Time, which are essential for navigating complexity in project management. However, while it mentions these concepts, the discussion lacks depth in exploring how these metrics can be used to adapt and improve processes, which slightly limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Market Share": {
@@ -1114,11 +1120,14 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-13T15:52:34",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-07T12:54:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses metrics related to team performance and value flow, which aligns with Value Stream Management principles. However, it also includes general project management metrics, making it a secondary theme rather than the primary focus.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses various metrics related to team performance and product/project focus, which indirectly relates to Value Stream Management through the emphasis on flow and efficiency. However, it primarily centres on general metrics rather than explicitly addressing Value Stream Management principles or techniques. The mention of flow of value to stakeholders aligns with the category, but the overall focus is more on performance metrics than on the strategic approach of Value Stream Management.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -1159,20 +1168,26 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-13T15:52:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T11:38:24",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses metrics that are essential for measuring and maximising customer value, as well as team performance in delivering value. It aligns well with the principles of iterative development and continuous delivery, making it a strong fit for the Value Delivery category.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses various metrics that directly relate to measuring and maximising customer value, such as Customer Satisfaction and Deployment Frequency. It aligns well with the principles of iterative development and the role of cross-functional teams in delivering value. The depth of discussion on metrics indicates a strong focus on value delivery, although it could benefit from more explicit connections to Agile methodologies.",
     "level": "Secondary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-13T15:52:47",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-10T13:55:36",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses various metrics that should be collected and monitored to assess team and organisational performance, aligning closely with the principles of evidence-based decision-making and continuous improvement in Agile and DevOps environments.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses various metrics relevant to both organisational and team levels, aligning closely with the core themes of the 'Metrics and Learning' category. It provides detailed descriptions of specific metrics such as Customer Satisfaction, Employee Satisfaction, Defect Trend, and others, demonstrating a strong focus on evidence-based decision-making and continuous improvement. The depth of discussion is significant, as it not only lists metrics but also explains their importance and implications for team dynamics and organisational efficiency.",
     "level": "Secondary"
   },
   "Organisational Agility": {
@@ -1204,12 +1219,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T12:10:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T11:38:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics relevant to team performance and efficiency, including Mean Time to Repair and Deployment Frequency, which are important in a DevOps context. However, the primary focus is on general team metrics and project management rather than a comprehensive discussion of DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses various metrics that can be monitored to assess team and organisational performance, including Mean Time to Repair and Deployment Frequency, which are relevant to DevOps practices. However, the primary focus is on metrics rather than the principles and practices of DevOps itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1222,11 +1240,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-13T15:53:02",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T17:51:47",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses metrics related to team performance and employee satisfaction, which are relevant to team dynamics and collaboration. However, the primary focus is on metrics rather than the processes or human behaviours that influence them.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses various metrics that are crucial for understanding team performance and organisational efficiency, which aligns well with the category of 'People and Process'. It explicitly mentions team dynamics through metrics like Employee Satisfaction and Work in Progress, indicating a focus on human factors. The depth of discussion on metrics related to team performance and the flow of value to stakeholders shows a strong alignment with the core themes of the category. However, while it touches on the interplay between people and processes, it does not delve deeply into the methodologies or cultural aspects that could enhance the score further.",
     "level": "Secondary"
   },
   "Azure DevOps": {
@@ -1276,11 +1297,14 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-13T15:53:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T00:19:01",
+    "ai_confidence": 82.0,
+    "ai_mentions": 16,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses metrics related to flow efficiency, including Work in Progress (WIP), Cycle Time, and Throughput, which are central to optimising work throughput in a team context.",
+    "final_score": 76.0,
+    "reasoning": "The content discusses various metrics that directly relate to flow efficiency, such as Work in Progress (WIP), Cycle Time, and Throughput. These metrics are essential for understanding and optimising the flow of work within a team, aligning well with the core themes of the category. The depth of discussion is substantial, providing specific metrics and their implications for team performance and delivery speed. However, while the focus is strong, the content also includes broader organisational metrics that, while relevant, slightly detract from a singular focus on flow efficiency.",
     "level": "Secondary"
   },
   "Agile Product Management": {
@@ -1321,12 +1345,15 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-17T12:10:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T12:53:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics relevant to team flow and includes specific Kanban metrics such as Work in Progress (WIP) and Cycle Time, but it also touches on broader project and organisational metrics, making Kanban a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses metrics relevant to team performance, including Work in Progress (WIP) and Cycle Time, which are key concepts in Kanban. However, the primary focus is on metrics in a broader context rather than a dedicated discussion on Kanban principles. While it aligns with some Kanban themes, it lacks depth in exploring Kanban's visualisation and flow management practices.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1375,12 +1402,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T13:51:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:55:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics related to team performance and flow of value, which aligns with Agile and Scrum principles, but it is primarily focused on metrics rather than the frameworks themselves.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses metrics relevant to team performance and project management, which aligns with the themes of Agile practices and continuous improvement. However, it lacks direct references to specific frameworks like Scrum or Kanban, and the depth of discussion on these methodologies is limited. The focus on metrics does touch on aspects of value delivery and team dynamics, but it does not provide a comprehensive exploration of the core principles of Social Technologies.",
+    "level": "Secondary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

@@ -217,12 +217,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:13:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:46:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the complexities involved in developing a system that integrates with SharePoint, touching on debugging, testing, and the challenges of producing features, which aligns with the theme of complexity in software development.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly touches on the complexity of developing features for SharePoint and the challenges of debugging and testing. However, it lacks a detailed exploration of code quality principles, best practices, or complexity theory. The discussion is more focused on project-specific decisions rather than a broader analysis of code and complexity.",
+    "level": "Quaternary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -361,11 +364,14 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T09:13:22",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-10T13:14:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses the development process and testing of the system, but it does not explicitly focus on validating product ideas through user engagement or methodologies related to product validation.",
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on the idea of testing and debugging a system, which could relate to product validation. However, it lacks explicit discussions on user testing, market fit, or customer feedback loops. The focus is more on the technical aspects of development rather than validating product ideas through user engagement.",
     "level": "Quaternary"
   },
   "System Configuration": {
@@ -946,12 +952,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:58:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses aspects of software development related to debugging, testing, and the complexities of developing features for SharePoint, which are relevant to technical practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the decision-making process regarding the architecture of a system, specifically the choice to separate the TOM system from MOSS. While it touches on aspects of software design and the implications for debugging and testing, it lacks a comprehensive exploration of best practices or principles of software craftsmanship. The focus is more on personal reflections rather than a structured discussion on technical mastery.",
+    "level": "Quaternary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1180,12 +1189,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:13:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:12:21",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the development and testing of software within the context of a SharePoint project, hinting at issues related to working software, but does not fully center on the characteristics, delivery, or principles of working software.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the development of a system that will eventually integrate with SharePoint, indicating a focus on software functionality and debugging. However, it lacks explicit references to Agile or Scrum principles, and the discussion is more about planning and initial thoughts rather than delivering high-quality, working software. The depth of discussion is limited, focusing primarily on the author's reflections rather than best practices or customer feedback.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1216,11 +1228,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:13:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:11:50",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical considerations and adaptations in the development of a system, touching on debugging and testing within a complex environment like SharePoint. However, it is primarily focused on a personal reflection rather than broader pragmatic thinking strategies.",
+    "final_score": 60.0,
+    "reasoning": "The content reflects a pragmatic approach by discussing the decision-making process regarding the system's architecture and the implications of debugging and testing in a real-world context. It shows adaptability in the planning phase and acknowledges the complexity of integrating with SharePoint, which aligns with the core themes of pragmatic thinking. However, it lacks explicit references to Agile, Scrum, or DevOps frameworks, which slightly lowers the confidence score.",
     "level": "Tertiary"
   },
   "Release Management": {

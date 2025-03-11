@@ -35,11 +35,11 @@ tags:
 - Scrum Master
 - Continuous Learning
 - Team Collaboration
-- Agile Frameworks
 - Agile Project Management
 - Pragmatic Thinking
 - Software Development
-- Agile Product Management
+- Agile Frameworks
+- Coaching
 resourceTypes:
 - video
 categories:

@@ -8,7 +8,7 @@ ResourceImportId: 39682
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2019-08-16
-weight: 550
+weight: 585
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,15 +28,15 @@ aliasesArchive:
 - /resources/blog/how-do-you-incorporate-a-design-sprint-in-scrum
 tags:
 - Agile Project Management
-- People and Process
 - Professional Scrum
 - Scrum Product Development
-- Scrum Team
-- Events and Presentations
 - Software Development
 - Team Collaboration
 - Team Performance
 - Agile Frameworks
+- Agile Transformation
+- People and Process
+- Pragmatic Thinking
 categories:
 - Scrum
 preview: 1130646316-1-1-1.jpg

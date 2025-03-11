@@ -37,12 +37,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T10:34:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:47:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a technical solution for handling CSS in a .NET environment, which aligns with engineering practices that enhance software development processes.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses a technical solution for handling CSS in a .NET environment, which touches on aspects of Continuous Integration and deployment practices. However, it lacks a broader discussion on engineering methodologies or principles that enhance agility in software development. The focus is primarily on a specific implementation rather than a comprehensive exploration of technical excellence.",
+    "level": "Tertiary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -118,11 +121,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T10:34:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:10:31",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for handling CSS in a .NET environment, including specific coding examples and configurations that enhance web development practices.",
+    "final_score": 61.0,
+    "reasoning": "The content provides a practical solution for handling CSS in a .NET environment, which aligns with the category's focus on practical techniques and tooling. It discusses the implementation of an HttpHandler and configuration in web.config, demonstrating a specific methodology for improving web development processes. However, while it touches on practical application, it lacks broader discussions on Agile or DevOps practices, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Value Stream Management": {
@@ -145,11 +151,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T10:34:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:08:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content provides a step-by-step guide on configuring a .NET application to handle CSS requests, which aligns with installation and configuration processes.",
+    "final_score": 66.0,
+    "reasoning": "The content provides a detailed guide on configuring a .NET application to handle CSS requests, which aligns with the installation and configuration category. It includes specific steps for setting up a wildcard application mapping and adding an HTTP handler in the web.config file, demonstrating a clear focus on configuration best practices. However, while it discusses technical aspects, it lacks broader context on system requirements or troubleshooting, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Organisational Agility": {
@@ -433,12 +442,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T11:10:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:55:04",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on solving a technical problem related to CSS handling in .NET, showcasing software engineering practices and the implementation of a specific HttpHandler, aligning with the principles of software craftsmanship.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses a specific technical solution for handling CSS in a .NET environment, which aligns with best practices in software design and architecture. It provides a detailed explanation of implementing an HttpHandler to manage CSS requests, demonstrating a focus on improving code quality and maintainability. However, while it touches on technical aspects, it lacks broader discussions on principles of clean code or software craftsmanship, which limits its overall alignment with the category.",
+    "level": "Tertiary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -631,12 +643,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:47:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a method for handling CSS and preventing deployment issues, which relates to best practices in software development. While it doesn't explicitly address broader principles of engineering excellence, it involves aspects of software craftsmanship and process improvement related to development practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a technical solution for handling CSS in a .NET environment, which touches on aspects of software craftsmanship and coding practices. However, it lacks a broader discussion on engineering excellence principles, such as quality assurance, best practices, or continuous improvement. The focus is primarily on a specific implementation rather than a comprehensive exploration of engineering excellence.",
+    "level": "Quaternary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -712,11 +727,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T11:10:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:09:38",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 27.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a technical implementation related to handling CSS in web applications, including code examples and methods suitable for software development practices, particularly in the context of .NET development.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses a technical solution for handling CSS in a .NET environment, which aligns with software development practices. It provides a detailed explanation of implementing an HttpHandler for CSS processing, showcasing coding techniques and configuration in a web application context. The mention of CI builds and feature branches indicates an understanding of development workflows, further supporting its relevance to software development. However, while it covers specific coding practices, it lacks broader discussions on methodologies or frameworks, which slightly limits its depth of alignment.",
     "level": "Secondary"
   },
   "Agile Frameworks": {
@@ -1216,12 +1234,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T11:10:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:44:04",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a specific issue related to CSS not working properly in different environments, along with a solution to that issue. It focuses on resolving a technical problem, which aligns well with troubleshooting methodologies.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses a specific issue related to CSS not functioning correctly in different deployment environments, which aligns with troubleshooting. It provides a solution involving .NET configuration and code implementation, demonstrating a practical approach to resolving a technical problem. However, while it addresses a troubleshooting scenario, the focus is more on implementation details rather than a broader discussion of troubleshooting methodologies or techniques, which slightly limits its alignment with the category.",
+    "level": "Tertiary"
   },
   "Scrum Master": {
     "category": "Scrum Master",

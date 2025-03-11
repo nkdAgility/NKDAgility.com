@@ -33,16 +33,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Transparency
-- Cycle Time
 - Metrics and Learning
+- Transparency
 - Empirical Process Control
-- Evidence Based Leadership
 - Evidence Based Management
 - Agile Project Management
-- Decision Making
+- Cycle Time
 - Operational Practices
 - Pragmatic Thinking
+- Software Development
+- Throughput
 resourceTypes:
 - video
 categories:

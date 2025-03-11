@@ -25,25 +25,25 @@ preview: https://i9.ytimg.com/vi/h3J11t10A0g/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 169
 isShort: false
 tags:
+- Software Developers
+- Pragmatic Thinking
 - Technical Leadership
 - Agile Philosophy
 - Agile Project Management
 - Engineering Practices
-- Product Delivery
-- Software Developers
 - Software Development
+- People and Process
+- Product Delivery
 - Complexity Thinking
-- Pragmatic Thinking
-- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Engineering Excellence
-- Scrum
+- Social Technologies
+- Leadership
 
 ---
 In my experience working with various organisations, one of the most prevalent issues I encounter is the struggle with missed deadlines and budget overruns in software projects. It’s a challenge that seems to plague many, and it often feels like you’re holding onto a bag that’s slowly melting away, spilling its contents all over the street. This unpredictability is a fundamental reality of navigating complexity in software development.

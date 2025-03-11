@@ -24,12 +24,9 @@ aliasesArchive:
 - /resources/blog/visual-studio-2008-beta-2-team-explorer
 tags:
 - Install and Configuration
-- Practical Techniques and Tooling
 - Products and Books
+- Practical Techniques and Tooling
 - Application Lifecycle Management
-- Software Development
-- System Configuration
-- Windows
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

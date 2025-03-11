@@ -32,15 +32,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Agile Product Management
-- Agile Project Management
+- People and Process
 - Strategy
+- Agile Project Management
+- Product Delivery
 resourceTypes:
 - video
 categories:
-- Product Management
 - Social Technologies
+- Product Management
 - Scrum
 
 ---

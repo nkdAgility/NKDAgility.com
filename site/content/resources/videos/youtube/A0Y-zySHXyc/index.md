@@ -29,22 +29,22 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Accountability
 - People and Process
+- Accountability
 - Product Owner
 - Scrum Product Development
 - Scrum Team
 - Agile Project Management
-- Professional Scrum
 - Team Collaboration
 - Agile Product Management
-- Personal
+- Transparency and Accountability
+- Professional Scrum
 resourceTypes:
 - video
 categories:
 - Scrum
-- Leadership
 - Product Management
+- Leadership
 
 ---
 ## Bridging the Gap Between Developers and Product Owners 🌉 

@@ -172,12 +172,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:13:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:12:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions an event related to developers, which aligns with industry events, but lacks detailed insights or evaluations relevant to Agile or DevOps.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions an event (Developer Day Scotland) but lacks substantial discussion on Agile or DevOps practices. While it provides a location and encourages attendance, it does not delve into industry news, updates, or reviews that would typically characterise the 'News and Reviews' category. The focus is more on personal experience and event promotion rather than providing insights or evaluations relevant to the core themes.",
+    "level": "Quaternary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
@@ -226,11 +229,14 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T18:12:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:15:07",
+    "ai_confidence": 78.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses an upcoming event, Developer Day Scotland, including details about the location and related activities, which aligns well with the category.",
+    "final_score": 71.0,
+    "reasoning": "The content explicitly mentions 'Developer Day Scotland', which is a specific event, indicating a direct reference to an event. It aligns well with the category as it discusses a gathering focused on developers, which fits the theme of presentations and networking. The depth of discussion includes details about the event location and related activities, enhancing its relevance to the category.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -280,12 +286,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:13:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:58:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content mentions a personal experience related to attending Developer Day Scotland, which aligns with the Personal category, but it primarily focuses on the event details rather than deeper personal reflections or insights.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions a personal connection to Glasgow Caledonian University, which aligns with the Personal category. However, it primarily focuses on promoting an event rather than providing in-depth personal reflections or insights related to Agile, Scrum, or DevOps. The discussion lacks substantial detail and does not explore personal experiences or challenges in these methodologies.",
+    "level": "Quaternary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",

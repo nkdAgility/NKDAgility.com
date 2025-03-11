@@ -8,7 +8,7 @@ ResourceImportId: 4980
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-03-26
-weight: 545
+weight: 580
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -38,9 +38,9 @@ tags:
 - Agile Frameworks
 - Agile Project Management
 - Agile Transformation
-- Discovery and Learning
 - Software Developers
 - Team Collaboration
+- Team Performance
 categories:
 - Scrum
 - Social Technologies

@@ -32,15 +32,6 @@ aliasesArchive:
 - /resources/blog/loosing-the-battle-but-the-war-goes-on
 tags:
 - People and Process
-- Release Management
-- Application Lifecycle Management
-- Modern Source Control
-- Practical Techniques and Tooling
-- Products and Books
-- Software Developers
-- Software Development
-- Collaboration Tools
-- Miscellaneous
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

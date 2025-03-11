@@ -8,7 +8,7 @@ ResourceImportId: 99
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-07-22
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,13 +23,11 @@ aliasesArchive:
 - /list-all-files-changed-under-an-iteration
 - /resources/blog/list-all-files-changed-under-an-iteration
 tags:
+- Software Development
 - Practical Techniques and Tooling
 - Azure DevOps
 - Azure Repos
-- Software Development
-categories:
-- DevOps
-- Engineering Excellence
+categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

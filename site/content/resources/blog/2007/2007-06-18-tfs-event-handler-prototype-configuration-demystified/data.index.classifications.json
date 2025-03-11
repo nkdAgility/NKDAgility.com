@@ -55,11 +55,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T21:51:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:23:25",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content provides detailed instructions on configuring the TFS Event Handler Prototype, including specific configuration options, XML snippets, and explanations of various settings, which aligns well with the category of Install and Configuration.",
+    "final_score": 80.0,
+    "reasoning": "The content provides a detailed guide on configuring the TFS Event Handler prototype, including specific configuration options, code snippets, and explanations of various settings. It directly addresses installation and configuration processes, aligning well with the key topics of the category. The depth of discussion is substantial, covering multiple aspects of the configuration in detail, which supports a high confidence score.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -100,11 +103,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T21:51:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:19:17",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content provides a detailed guide on configuring the TFS Event Handler Prototype, including specific configuration options, code snippets, and explanations of various settings. This aligns well with the exploration and application of tools and methodologies that enhance Agile and DevOps practices.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed guide on configuring the TFS Event Handler Prototype, which directly relates to practical tooling in a DevOps context. It discusses specific configuration options, code snippets, and the setup process, aligning well with the category's focus on practical techniques and tooling. However, while it is rich in technical detail, it lacks broader discussions on methodologies or frameworks that enhance Agile and DevOps practices, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Value Delivery": {
@@ -289,11 +295,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-16T21:52:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T19:04:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration of a TFS Event Handler, which is directly related to Azure DevOps services, specifically Team Foundation Server (TFS). It provides detailed technical information about setting up event handlers and server configurations within the context of Azure DevOps, aligning well with the category's focus.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the configuration of a TFS Event Handler, which is directly related to Azure DevOps (formerly known as Team Foundation Server). It provides detailed technical information about setting up event handlers, configuring service options, and managing team server settings, all of which are relevant to Azure DevOps functionalities. However, while it is focused on TFS, it lacks broader discussions on Azure DevOps services or methodologies, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Value Stream Management": {
@@ -370,11 +379,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T08:18:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:52:00",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 40,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily focuses on configuring the TFS Event Handler prototype, detailing the necessary configuration options, settings, and code examples. It discusses system setup and configuration in depth, which aligns well with the category of System Configuration.",
+    "final_score": 80.0,
+    "reasoning": "The content provides a detailed guide on configuring the TFS Event Handler Prototype, including specific configuration options, XML snippets, and explanations of various parameters. It directly addresses system configuration by discussing installation steps, service options, and event handler setup, which are all critical aspects of configuring a system for optimal performance. The depth of discussion is substantial, covering multiple configuration elements and their implications, thus aligning well with the category's focus on practical system configuration methodologies.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
@@ -577,11 +589,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T08:18:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:16:56",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration and usage of TFS Event Handlers within a software development context, detailing specific configuration options and event types related to Team Foundation Server, which is relevant to software engineering practices.",
+    "final_score": 70.0,
+    "reasoning": "The content provides a detailed guide on configuring a TFS Event Handler, which is a specific aspect of software development related to event-driven programming and integration with Team Foundation Server. It discusses configuration options, service settings, and event handling, which are relevant to software engineering practices. However, while it touches on important software development concepts, it lacks broader discussions on methodologies or best practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {
@@ -1234,11 +1249,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:38",
-    "ai_confidence": 40,
+    "calculated_at": "2025-03-10T13:23:23",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 36.0,
-    "reasoning": "The content provides technical details on configuring a software event handler for TFS, but it primarily focuses on specific implementation steps rather than discussing broader engineering practices, craftsmanship, or quality assurance.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the configuration of a TFS Event Handler, detailing specific settings and code snippets. While it touches on technical aspects of software development, such as service configuration and event handling, it lacks a direct discussion on engineering excellence principles, best practices, or continuous improvement in software craftsmanship. The depth of technical detail is present, but it does not align closely with the core themes of engineering excellence, such as quality assurance or coding standards.",
     "level": "Quaternary"
   },
   "Revenue per Employee": {

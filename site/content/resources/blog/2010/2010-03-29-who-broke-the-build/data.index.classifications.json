@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T01:19:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:39:04",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques related to build management, including the use of specific tools like Visual Studio and TFS, as well as methodologies for maintaining build quality and ownership.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed discussion on the importance of maintaining build integrity within a development environment, specifically using tools like Visual Studio and Team Foundation Server (TFS). It explores practical techniques for managing builds, identifying failures, and enforcing quality standards, which aligns well with the category's focus on practical application of tools and methodologies in Agile and DevOps practices. The depth of discussion is significant, covering various aspects of build management and the implications of broken builds, thus demonstrating a strong alignment with the key topics outlined in the category.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -37,11 +40,14 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T01:19:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:06:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of maintaining build quality in software development, addressing issues related to code quality, testing, and the implications of broken builds, which aligns well with the themes of code quality and complexity.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of maintaining build quality and the implications of broken builds, which directly relates to code quality principles. It addresses the need for standards, testing, and ownership of builds, aligning well with the themes of software development best practices and the management of complexity in codebases. However, while it touches on these topics, it does not delve deeply into complexity theory or its application, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Discovery and Learning": {
@@ -73,11 +79,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T01:19:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:04:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration of the Build Notifications application and the process of managing builds within Visual Studio, which aligns with the category's focus on installation and configuration procedures.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the installation and configuration of the 'Build Notifications' application within Visual Studio 2010, providing specific steps on how to access and configure it. It also touches on the importance of maintaining build quality and the implications of broken builds, which aligns with the category's focus on configuration best practices. However, the primary focus is more on the consequences of broken builds and team dynamics rather than a detailed guide on installation and configuration processes, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,11 +127,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T01:19:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:38:56",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses build processes, the importance of passing builds, and the implications of broken builds, which are central to DevOps practices.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of maintaining a successful build process, which is a key aspect of DevOps practices. It highlights the need for collaboration among developers to ensure builds pass and identifies issues that can lead to build failures. The mention of tools like 'Build Notifications' and the reference to TFS (Team Foundation Server) indicate a focus on automation and continuous integration, aligning well with DevOps principles. However, while the content is relevant, it does not delve deeply into broader DevOps cultural shifts or metrics, which slightly limits its depth.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -208,11 +220,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T01:20:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:51:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of maintaining a passing build, the implications of broken builds, and the practices surrounding build management, which align closely with technical excellence in software development.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of maintaining a passing build, which aligns with principles of Continuous Integration and quality assurance in software development. It mentions the need for developers to write tests and highlights the consequences of broken builds, which touches on technical excellence. However, the discussion lacks depth in exploring methodologies like TDD or CI/CD practices in detail, and it primarily focuses on the operational aspects of build management rather than broader engineering practices.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -280,11 +295,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-16T01:20:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:41:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses build processes and management within the context of Azure DevOps, specifically referencing build notifications and the importance of maintaining build quality, which aligns with Azure DevOps functionalities.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of maintaining builds, troubleshooting build failures, and the use of build notifications, which are all relevant to Azure DevOps. It mentions tools and practices associated with Azure DevOps, such as Team Foundation Server (TFS) and build definitions. However, while it provides practical insights into build management, it lacks a comprehensive overview of Azure DevOps services and methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -343,11 +361,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T01:20:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:06:44",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of maintaining build integrity within the software development lifecycle, addressing issues related to build failures, and the implications for application quality and governance.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of maintaining builds and the implications of broken builds, which relates to the maintenance and governance aspects of Application Lifecycle Management. However, it lacks a comprehensive exploration of the entire application lifecycle and does not delve deeply into methodologies or tools specific to ALM. The focus is primarily on build management rather than the broader scope of application lifecycle management.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -730,11 +751,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-16T01:51:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:06:07",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of successful builds in software development and addresses practices such as maintaining code quality, enforcing standards, and the significance of testing, which aligns closely with the principles of Engineering Excellence.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses the importance of maintaining a passing build, which directly relates to software craftsmanship and quality assurance. It highlights best practices for build management, the significance of testing, and the need for developers to take ownership of their code, aligning well with the principles of engineering excellence. The depth of discussion is substantial, covering various aspects of build failures and their implications on quality, thus providing a comprehensive view on the topic.",
     "level": "Secondary"
   },
   "Revenue per Employee": {
@@ -1351,12 +1375,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:00:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:04:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of maintaining build quality and ownership within a team, which relates to collaboration and team dynamics, but it primarily focuses on technical aspects of build management rather than the frameworks of Scrum, Kanban, Lean, or Agile practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of maintaining build quality and the implications of broken builds, which indirectly relates to team dynamics and collaboration. However, it lacks explicit references to Scrum, Kanban, Lean, or Agile methodologies, and does not delve deeply into the principles of these frameworks. The focus is more on technical aspects of build management rather than on social technologies or collaborative frameworks.",
+    "level": "Quaternary"
   },
   "Leadership": {
     "category": "Leadership",

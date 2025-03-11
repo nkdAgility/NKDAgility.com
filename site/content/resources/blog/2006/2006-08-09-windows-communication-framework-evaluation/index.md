@@ -8,7 +8,7 @@ ResourceImportId: 464
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2006-08-09
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,9 +24,9 @@ aliasesArchive:
 - /resources/blog/windows-communication-framework-evaluation
 tags:
 - Software Development
+- Windows
 preview: metro-binary-vb-128-link-1-1.png
-categories:
-- Engineering Excellence
+categories: []
 
 ---
 I am currently evaluating WCF for my company. Now, ML has some pretty strong polocies on beta software, but they seam to be missing something with WinFX. I can find information on the company intranet on Vista and Office 2007, I can even request them to be installed on my desktop as part of an internal beta program, but nothing on WinFX or WCF!

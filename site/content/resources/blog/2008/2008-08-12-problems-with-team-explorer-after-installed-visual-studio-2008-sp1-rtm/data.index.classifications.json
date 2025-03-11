@@ -145,11 +145,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T12:19:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:13:57",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses issues related to the installation of Visual Studio 2008 SP1 and troubleshooting steps taken to resolve problems with Team Explorer, which aligns with installation and configuration topics.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses an issue encountered after installing Visual Studio 2008 SP1, which directly relates to the installation and configuration category. It mentions troubleshooting steps, such as repairing Team Explorer and reinstalling the service pack, which aligns with the core themes of installation and configuration. However, the depth of discussion is limited to personal experiences and does not provide comprehensive guides or best practices, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Organisational Agility": {
@@ -685,12 +688,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:57:34",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses issues related to the installation of Visual Studio 2008 SP1, which is relevant to Windows as it is a Windows application. However, the primary focus is on Team Explorer and troubleshooting its functionality rather than the Windows operating system itself.",
-    "level": "Tertiary"
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses an issue related to Team Explorer after installing Visual Studio 2008 SP1 RTM, which is directly tied to the Windows operating system environment. It explicitly mentions the installation of a service pack, a key aspect of Windows updates, and addresses troubleshooting steps taken to resolve the issue. The discussion aligns well with the core themes of the Windows category, particularly in terms of troubleshooting and system updates. The depth of the discussion is moderate, providing specific details about the error encountered and the steps attempted to resolve it, but it could benefit from more comprehensive troubleshooting techniques or configuration settings related to Windows itself.",
+    "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1045,12 +1051,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:46:12",
+    "ai_confidence": 45.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a problem related to accessing version control after an installation of Visual Studio 2008 SP1, which makes version control a significant theme. However, it primarily focuses on a specific error and troubleshooting rather than broader source control practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses an issue related to Team Explorer, which is a tool for version control in Visual Studio. While it mentions version control as a key part of the problem, the focus is primarily on troubleshooting a specific error rather than on broader practices or methodologies of modern source control. The discussion lacks depth in terms of best practices or strategies, which limits its alignment with the category.",
+    "level": "Quaternary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -1216,11 +1225,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T18:01:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:11:16",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a specific issue encountered after installing Visual Studio 2008 SP1, detailing troubleshooting steps taken, such as repairing Team Explorer and considering a reinstallation of the service pack. The context is focused on diagnosing and resolving a technical problem, fitting well within the troubleshooting category.",
+    "final_score": 74.0,
+    "reasoning": "The content explicitly discusses a specific technical issue encountered after installing Visual Studio 2008 SP1 RTM, which aligns directly with the troubleshooting category. It details the error message received, attempts made to resolve the issue (such as repairing Team Explorer and reinstalling the service pack), and provides updates on the situation. This demonstrates a clear focus on diagnosing and resolving a technical problem, fulfilling the criteria for direct mentions and depth of discussion. The conceptual alignment is strong as it revolves around identifying and addressing a software issue, making it a relevant and detailed example of troubleshooting.",
     "level": "Secondary"
   },
   "Scrum Master": {
@@ -1315,12 +1327,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:11:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses installation issues related to Visual Studio 2008 SP1 and attempts to resolve configuration problems with Team Explorer, which relates to system configuration practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses an issue related to the installation of Visual Studio 2008 SP1 and the subsequent problems with Team Explorer, which touches on aspects of system configuration. However, the focus is primarily on troubleshooting a specific error rather than a comprehensive exploration of system configuration practices or methodologies. The mention of repairing and reinstalling software indicates some alignment with configuration management, but the depth of discussion is limited to a personal experience rather than best practices or detailed strategies.",
+    "level": "Quaternary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",

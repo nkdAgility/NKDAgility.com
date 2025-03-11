@@ -26,6 +26,7 @@ duration: 53
 isShort: true
 tags:
 - Product Discovery
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

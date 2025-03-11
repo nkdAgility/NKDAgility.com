@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T19:41:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:16:45",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical solutions and techniques for resolving a specific issue related to TFS Integration Tools, including manual mappings and configuration adjustments.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed discussion on a specific issue related to TFS Integration Tools, including practical solutions for managing path length limitations. It explicitly mentions techniques for resolving the error and offers actionable steps, which aligns well with the category's focus on practical techniques and tooling. The depth of the discussion is significant, as it includes multiple solutions and considerations for folder structure, demonstrating a clear application of tooling in a real-world scenario.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T19:41:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:54:00",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses troubleshooting and solutions related to the installation and configuration of the TFS Integration Platform, specifically addressing path length issues and providing actionable steps for configuration adjustments.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed discussion on troubleshooting a specific error related to the TFS Integration Platform, including step-by-step solutions for configuring folder paths to avoid the error. It directly addresses installation and configuration issues, offering actionable insights and recommendations, which aligns well with the category's focus. However, while it is primarily focused on a specific problem, it does not cover broader installation or configuration practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:03",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-10T12:53:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses a specific error related to TFS Integration Tools and provides solutions for managing folder paths, but it does not primarily focus on DevOps principles, practices, or cultural shifts.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific error related to TFS Integration Tools and provides solutions for managing folder paths. While it touches on aspects of configuration and manual intervention, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. The focus is more on a technical issue rather than the integration of people, processes, and tools that characterise DevOps.",
     "level": "Quaternary"
   },
   "Miscellaneous": {
@@ -280,12 +289,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T19:41:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:54:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses an issue related to the TFS Integration Platform, which is part of Azure DevOps, and provides solutions for managing folder paths within TFS, indicating a focus on Azure DevOps functionalities.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses an error related to the TFS Integration Platform, which is part of Azure DevOps. However, it primarily focuses on a specific issue rather than providing a broader discussion on Azure DevOps functionalities or best practices. While it mentions TFS, it lacks depth in exploring Azure DevOps as a whole, thus limiting its alignment with the category.",
+    "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",
@@ -577,11 +589,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T21:09:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:33:20",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues and solutions related to TFS Integration Tools, which is a software development tool, and how to manage file paths within that context. It involves practices relevant to software development processes.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses a specific error encountered in the TFS Integration Platform related to path length limitations, which is a relevant topic in software development. It provides detailed solutions and workarounds, demonstrating a clear understanding of version control systems and collaborative development practices. The discussion aligns well with best practices in software engineering, particularly in managing folder structures and configurations within a development environment. The depth of the discussion is substantial, offering practical steps and considerations for resolving the issue, which enhances its relevance to the Software Development category.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -613,12 +628,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-15T21:09:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:42:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses issues and solutions related to TFS (Team Foundation Server), a version control system, focusing on path length limitations and how to manage folder structures within it, which aligns with modern source control practices.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content discusses a specific error related to TFS (Team Foundation Server) and provides solutions for managing folder paths within the context of source control. While it touches on aspects of version control, such as manual mappings and maintaining branch history, the primary focus is on resolving a specific issue rather than broader best practices or methodologies in modern source control. Therefore, it has some relevance but lacks depth and comprehensive discussion on the category's key topics.",
+    "level": "Tertiary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -730,12 +748,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:16:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an issue related to folder path length in TFS, touching on aspects of managing technical configurations and providing solutions. However, it does not primarily focus on broader themes of engineering excellence such as software craftsmanship or best practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific error related to TFS Integration Tools and provides solutions for managing folder paths. While it touches on aspects of software development, such as manual mappings and configuration adjustments, it lacks a broader discussion on engineering excellence principles, best practices, or continuous improvement. The focus is more on troubleshooting than on promoting high standards in software craftsmanship.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -775,11 +796,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T21:09:13",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T11:58:12",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses practical solutions to overcome specific technical issues in a TFS integration context, emphasizing manual intervention and adjustments based on real-world limitations. However, it lacks a broader discussion on Agile or DevOps principles.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses a specific error related to TFS Integration Tools and provides practical solutions for resolving the issue. While it does touch on problem-solving strategies, it lacks a broader discussion on Agile, Scrum, or DevOps principles. The focus is primarily on a technical issue rather than a comprehensive exploration of pragmatic thinking in project management contexts.",
     "level": "Secondary"
   },
   "Backlog Refinement": {

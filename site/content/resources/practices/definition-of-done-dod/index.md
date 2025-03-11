@@ -39,13 +39,15 @@ card:
   title: Definition of Done (DoD)
 categories:
 - Scrum
+- Social Technologies
 tags:
 - Definition of Done
+- Transparency
 - Increment
+- Working Software
 - Product Delivery
 - Scrum Product Development
 - Software Development
-- Working Software
 - Professional Scrum
 
 ---

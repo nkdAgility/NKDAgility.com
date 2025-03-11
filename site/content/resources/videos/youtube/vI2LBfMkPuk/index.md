@@ -25,6 +25,10 @@ preview: https://i.ytimg.com/vi/vI2LBfMkPuk/maxresdefault.jpg
 duration: 200
 isShort: false
 tags:
+- Pragmatic Thinking
+- Software Developers
+- Team Collaboration
+- Scrum Master
 - Software Development
 sitemap:
   filename: sitemap.xml

@@ -24,19 +24,17 @@ aliasesArchive:
 - /become-the-leader-that-you-were-meant-to-to-be
 - /resources/blog/become-the-leader-that-you-were-meant-to-to-be
 tags:
-- Agile Leadership
 - People and Process
+- Agile Leadership
 - Scrum Master
-- Products and Books
 - Agile Project Management
-- Scrum Team
+- Products and Books
 - Professional Scrum
 - Team Motivation
+- Scrum Team
 - Technical Leadership
 categories:
 - Leadership
-- Social Technologies
-- Scrum
 preview: image-2-2.png
 
 ---

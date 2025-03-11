@@ -55,11 +55,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:49:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the installation process of Visual Studio 2008 and mentions issues encountered during uninstallation and installation, making it a major but secondary theme.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the installation of Visual Studio 2008 and Team Explorer, which aligns with the category of Install and Configuration. However, the discussion is somewhat anecdotal and lacks detailed step-by-step instructions or best practices. While it mentions troubleshooting issues during installation, it does not provide comprehensive guidance or insights into configuration best practices, which limits its depth. Overall, the content is relevant but not sufficiently detailed to warrant a higher confidence score.",
     "level": "Tertiary"
   },
   "Decision Theory": {
@@ -172,12 +175,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:14:24",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses updates related to Visual Studio 2008 and mentions attending a Microsoft event, which aligns with industry news. However, it primarily focuses on personal experiences and issues rather than broader industry trends or reviews.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses updates related to Visual Studio 2008 and mentions attending a Microsoft event, which aligns with industry news. However, it lacks a detailed review or analysis of tools and trends, focusing more on personal experiences and events rather than providing insights or evaluations that would guide practitioners.",
+    "level": "Secondary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
@@ -226,11 +232,14 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T19:48:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:18:32",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses an upcoming Microsoft event in Edinburgh, which aligns with the category of Events and Presentations.",
+    "final_score": 62.0,
+    "reasoning": "The content mentions attending a Microsoft event in Edinburgh, which aligns with the category of Events and Presentations. However, the primary focus is on personal experiences with software installation and issues, with only a brief mention of the event. The discussion lacks depth regarding the event itself, such as insights or knowledge shared, which limits its alignment with the core themes of the category.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -838,11 +847,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 40,
+    "calculated_at": "2025-03-10T19:01:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 38.0,
-    "reasoning": "The content briefly mentions source control in the context of an upgrade process but primarily focuses on Visual Studio and related events. Source control is not the central topic.",
+    "final_score": 31.0,
+    "reasoning": "The content briefly mentions source control in the context of upgrading projects and using branches, which aligns with the category. However, the primary focus is on the installation of Visual Studio 2008 and related events, rather than a detailed discussion of modern source control practices. The mention of source control is not central to the content, leading to a lower confidence score.",
     "level": "Quaternary"
   },
   "Increment": {
@@ -1081,11 +1093,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:14:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily discusses Visual Studio and related tools, it does mention Microsoft products and the process of installation which is relevant to the Windows operating system environment, making Windows a major theme, albeit secondary to the main focus on development tools.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Visual Studio 2008, which is a Microsoft product that runs on Windows, and mentions issues related to installation and updates. However, it primarily focuses on Visual Studio and related development tools rather than the Windows operating system itself. While there are references to Microsoft and some aspects of installation, the discussion lacks depth in terms of Windows-specific topics such as configuration, troubleshooting, or system updates. Therefore, the content aligns with the Windows category but does not fully meet the criteria for a strong focus.",
     "level": "Tertiary"
   },
   "Lean Principles": {

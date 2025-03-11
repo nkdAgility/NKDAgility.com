@@ -34,19 +34,19 @@ sitemap:
 tags:
 - Agile Project Management
 - People and Process
-- Scrum Master
 - Scrum Team
 - Agile Frameworks
 - Agile Leadership
 - Agile Product Management
 - Agile Transformation
 - Professional Scrum
-- Team Performance
+- Scrum Master
+- Agile Philosophy
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Scrum
+- Social Technologies
 
 ---
 **1 critical skill for a Scrum Master and why?**

@@ -82,12 +82,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-13T21:57:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:18:52",
+    "ai_confidence": 92.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 95.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the Definition of Done (DoD) in the context of Scrum, emphasising its role in ensuring the delivery of working software. It outlines characteristics of a DoD, the importance of quality, and the iterative process of refining the DoD to maintain software functionality, which aligns closely with the principles of working software.",
-    "level": "Secondary"
+    "final_score": 85.0,
+    "reasoning": "The content extensively discusses the Definition of Done (DoD) and its critical role in ensuring that increments of software are considered 'working'. It provides detailed insights into how to define and measure quality in software delivery, aligning closely with Agile principles. The emphasis on continuous improvement and the necessity of a clear DoD directly supports the concept of delivering functional, high-quality software that meets user needs.",
+    "level": "Primary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -100,11 +103,14 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-13T21:57:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:44:18",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the Definition of Done (DoD) in the context of Scrum, emphasising the importance of transparency, inspection, and adaptation based on quality metrics and team reflections. It aligns well with the principles of empirical process control by focusing on evidence-based decision-making and continuous improvement.",
+    "final_score": 76.0,
+    "reasoning": "The content extensively discusses the Definition of Done (DoD) within the context of Scrum, emphasising the importance of transparency, inspection, and adaptation. It highlights how the DoD creates a shared understanding of what constitutes 'done' and encourages continuous reflection and improvement, which are core principles of empirical process control. The depth of discussion on how to establish and evolve the DoD, along with the need for regular reflection and adaptation, aligns well with the category's focus. However, while the content is rich in relevant themes, it does not delve deeply into empirical process control as a standalone concept, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "System Configuration": {
@@ -679,12 +685,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:22:39",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Definition of Done (DoD) in the context of Scrum, which is a significant aspect of product management. However, it primarily focuses on technical implementation details and Scrum practices rather than the strategic alignment of customer needs and business objectives.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) within the context of Scrum, which is relevant to product management. It touches on the importance of quality and collaboration among the Scrum team, aligning with product management principles. However, the focus is primarily on technical implementation details and Scrum practices rather than broader strategic product management themes, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -1150,20 +1159,26 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-13T21:56:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:22:42",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 36,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the Definition of Done (DoD) in the context of Scrum, focusing on team collaboration, the roles of developers and product owners, and the importance of quality in the software development process. It highlights the need for team dynamics and communication in defining and adhering to the DoD, making it a central theme.",
+    "final_score": 76.0,
+    "reasoning": "The content extensively discusses the Definition of Done (DoD) within the context of Scrum, highlighting the importance of team collaboration, communication, and the human factors involved in defining quality standards. It addresses how developers and the Scrum team must work together to establish a shared understanding of what 'done' means, which directly aligns with the category's focus on people and processes. The depth of discussion is significant, providing detailed strategies for creating and evolving the DoD, which reflects a strong understanding of team dynamics and process improvement.",
     "level": "Secondary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-13T21:56:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:26:28",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the Definition of Done (DoD) in the context of Scrum, which is a key aspect of product delivery methodologies. It focuses on quality assurance, iterative development, and the importance of a shared understanding of what constitutes 'done' in the delivery process.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the Definition of Done (DoD) within the context of Scrum, which is a key aspect of product delivery. It highlights the importance of quality in software increments, the role of the Scrum team in defining and adhering to the DoD, and the iterative nature of improving the DoD over time. The discussion aligns well with the core themes of product delivery, such as quality assurance, cross-functional team collaboration, and the need for clear metrics (in this case, the DoD) to ensure that the product meets customer needs. The depth of the discussion is significant, providing practical examples and recommendations for implementing a DoD, which further supports its relevance to the category.",
     "level": "Secondary"
   },
   "Organisational Psychology": {
@@ -1177,11 +1192,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-10T12:26:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 30,
-    "final_score": 30.0,
-    "reasoning": "The content primarily discusses the Definition of Done (DoD) within the context of Scrum, focusing on quality and team responsibilities rather than the broader principles and practices of DevOps. While it touches on aspects of quality assurance and continuous delivery, these are framed within a Scrum methodology rather than a DevOps context.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the Definition of Done (DoD) within the Scrum framework, which is more aligned with Agile methodologies than with DevOps principles. While it briefly touches on aspects of quality and continuous delivery, it lacks a comprehensive discussion on DevOps practices, tools, and cultural shifts. The mention of DevOps is minimal and does not serve as a primary focus, leading to a lower confidence score.",
     "level": "Quaternary"
   },
   "Organisational Agility": {
@@ -1231,11 +1249,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-13T21:56:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:32:54",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the Definition of Done (DoD) within the context of Scrum, providing practical techniques for its implementation and the importance of quality in Agile practices. It includes specific methodologies and best practices for creating and evolving a DoD, which aligns well with the category's focus on practical techniques and tooling.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed exploration of the Definition of Done (DoD) within the Scrum framework, discussing practical techniques for defining and implementing quality standards in software development. It explicitly mentions the importance of measurable checklists, automated processes, and workshops for creating a DoD, aligning well with the category's focus on practical techniques and tooling. The depth of discussion is significant, covering various aspects of the DoD and its implications for team performance and delivery outcomes.",
     "level": "Secondary"
   },
   "Agile Product Operating Model": {
@@ -1267,11 +1288,14 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-13T21:56:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:25:01",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the Definition of Done (DoD) within the context of Scrum, which is a key aspect of Agile Product Management. It addresses the role of the Product Owner, the importance of quality in product increments, and the need for continuous improvement, all of which align closely with Agile principles.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the Definition of Done (DoD) within the context of Scrum, highlighting its importance in ensuring quality and transparency in product increments. It directly mentions the roles of Developers and the Product Owner, and it aligns well with Agile principles by focusing on continuous improvement and stakeholder engagement. The depth of discussion is significant, providing detailed examples and strategies for implementing a DoD, which is crucial for Agile Product Management.",
     "level": "Secondary"
   },
   "Business Agility": {
@@ -1366,11 +1390,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:04:42",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-10T14:32:51",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 38,
+    "ai_depth": 36,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "Content primarily discusses the Definition of Done (DoD) within the context of the Scrum framework, detailing its importance for quality assurance and team collaboration in software development.",
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses the Definition of Done (DoD) within the context of the Scrum framework, highlighting its importance in ensuring quality and transparency in software development. It directly references Scrum roles, events, and principles, demonstrating a strong alignment with the core themes of Social Technologies. The depth of discussion is significant, providing detailed guidance on creating and evolving a DoD, which is crucial for continuous improvement and collaboration within teams.",
     "level": "Primary"
   },
   "Internal Developer Platform": {

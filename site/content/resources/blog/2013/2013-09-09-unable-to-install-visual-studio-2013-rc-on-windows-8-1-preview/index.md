@@ -24,8 +24,6 @@ aliasesArchive:
 - /resources/blog/unable-to-install-visual-studio-2013-rc-on-windows-8-1-preview
 tags:
 - Windows
-- Install and Configuration
-- Troubleshooting
 categories: []
 
 ---

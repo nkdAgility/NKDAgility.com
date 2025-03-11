@@ -283,12 +283,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T14:37:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T09:59:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of story points on team dynamics and performance, highlighting dysfunctional behaviours that arise from their use. While it touches on team collaboration issues, the primary focus is on the critique of story points rather than on enhancing team collaboration directly.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the dysfunctions caused by story points within teams, highlighting how they can lead to unhealthy competition and misalignment on value delivery. While it touches on team dynamics and the impact of metrics on collaboration, the primary focus is on critiquing story points rather than exploring broader themes of team collaboration. The discussion lacks depth in terms of strategies for improving communication or fostering trust, which are key aspects of the category.",
+    "level": "Quaternary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -466,12 +469,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T14:37:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:01:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of story points in Agile development, highlighting their impact on team dynamics and productivity. However, it primarily critiques the use of story points rather than focusing on best practices or methodologies that enhance developer collaboration and software delivery.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the concept of story points within Agile methodologies, highlighting their historical context and the dysfunctions they can create in teams. While it touches on Agile practices, the focus is more on critiquing story points rather than exploring the broader role of software developers in Agile or DevOps contexts. The discussion lacks depth in terms of best practices or tools that support Agile and DevOps, which diminishes its alignment with the category.",
+    "level": "Secondary"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -493,11 +499,14 @@
   },
   "Estimation": {
     "category": "Estimation",
-    "calculated_at": "2025-02-12T08:58:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T13:11:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses story points, a key estimation technique in Agile, and critiques their use and impact on team dynamics and value delivery. It addresses both historical context and current implications of estimation practices, making it a central theme.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses story points extensively, highlighting their historical context, issues with absolute and relative estimation, and the dysfunctions that arise from their use. It critiques the reliance on story points and advocates for flow metrics instead, which aligns with the core themes of estimation in Agile. However, while it provides a detailed critique, it does not delve deeply into collaborative estimation techniques or empirical data usage, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Troubleshooting": {
@@ -556,11 +565,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T08:59:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T11:50:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the practical implications and dysfunctions associated with the use of story points in Agile, highlighting real-world challenges and advocating for a shift towards flow metrics. It addresses the importance of focusing on value delivery rather than arbitrary metrics, which aligns well with pragmatic thinking in Agile contexts.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the practical implications of using story points in Agile, highlighting dysfunctions and advocating for flow metrics instead. It aligns well with pragmatic thinking by addressing real-world challenges teams face and suggesting practical solutions. However, while it critiques story points, it does not provide extensive strategies for problem-solving within Agile frameworks, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -574,11 +586,14 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T08:59:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:05:37",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the concept of story points within the context of Agile methodologies, highlighting their historical use, dysfunctions, and the shift towards flow metrics, which aligns with Agile principles.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses story points, a concept within Agile methodologies, and critiques their use in project management. While it touches on Agile principles and the dysfunctions caused by misusing story points, it lacks a broader discussion on Agile frameworks, roles, or practices. The focus is primarily on the negative aspects of story points rather than a comprehensive exploration of Agile Project Management as a whole.",
     "level": "Secondary"
   },
   "Continuous Integration": {
@@ -646,11 +661,14 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T14:37:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:22:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of story points on team dynamics and performance, highlighting dysfunctional behaviours and the focus on metrics over value delivery. However, it primarily critiques the concept of story points rather than providing strategies or practices for enhancing team performance.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the negative impact of story points on team dynamics and performance, highlighting dysfunctional behaviours and the focus on metrics over value delivery. While it touches on team performance issues, it does not provide in-depth strategies or methodologies for enhancing collaboration or productivity, which limits its alignment with the core themes of the category.",
     "level": "Tertiary"
   },
   "AI": {
@@ -1213,12 +1231,15 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-17T14:37:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:11:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the limitations of story points and advocates for flow metrics, which aligns with Kanban principles. However, the primary focus is on story points and their impact on Agile practices rather than a direct discussion of Kanban methodology.",
-    "level": "Tertiary"
+    "final_score": 34.0,
+    "reasoning": "The content primarily discusses story points and their implications within Agile methodologies, particularly critiquing their use and the dysfunctions they create. While it briefly mentions flow metrics, which are relevant to Kanban, the focus is predominantly on the drawbacks of story points rather than on Kanban principles such as visualisation, WIP limits, or continuous improvement. The mention of Daniel Vacanti, a proponent of Kanban, suggests some alignment, but the overall discussion does not centre on Kanban practices or methodologies, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -1360,11 +1381,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T14:38:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T11:50:03",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Agile practices, specifically the concept of story points and their impact on team dynamics and value delivery, aligning closely with the themes of Scrum and Agile methodologies.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the concept of story points within Agile practices, highlighting their historical context and the dysfunctions they can create in teams. While it does mention Agile and touches on the importance of value delivery over arbitrary metrics, the focus is more on critiquing story points rather than a comprehensive exploration of Agile methodologies or frameworks like Scrum or Kanban. The discussion aligns with the category's themes but lacks depth in covering the broader principles of Social Technologies.",
     "level": "Secondary"
   },
   "One Engineering System (1ES)": {

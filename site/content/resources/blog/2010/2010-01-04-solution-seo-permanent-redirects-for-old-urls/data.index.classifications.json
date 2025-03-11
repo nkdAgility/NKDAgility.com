@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T01:41:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:41:01",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for implementing SEO permanent redirects using various tools and methodologies, including code examples and configuration for URL rewriting in IIS and ASP.NET.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed exploration of practical techniques for implementing SEO permanent redirects using various tools and methodologies, including IIS7 URL Rewrite Module and UrlRewritingNet. It discusses specific coding examples, configuration settings, and best practices, aligning well with the category's focus on practical application and tooling in a technical context.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -37,12 +40,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T01:41:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:07:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses code implementation for SEO permanent redirects, including best practices, code quality, and complexity management in the context of URL rewriting and database interactions.",
-    "level": "Secondary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses various coding practices related to URL redirection and the use of SQL for dynamic URL rewriting. While it touches on aspects of code quality and complexity, such as performance considerations and maintainability, the primary focus is on implementation details rather than a broader exploration of code quality principles or complexity theory. The depth of discussion is moderate, with practical examples provided, but it lacks a comprehensive analysis of the interplay between code quality and complexity as defined in the category.",
+    "level": "Quaternary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -73,11 +79,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T01:42:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:05:17",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration of URL rewriting solutions in IIS, including detailed steps and code examples for setting up the UrlRewritingNet component and configuring it in web.config.",
+    "final_score": 80.0,
+    "reasoning": "The content provides a comprehensive guide on implementing SEO permanent redirects using various methods, including IIS7 URL Rewrite Module and custom code. It includes step-by-step instructions, code snippets, and configuration details, which align closely with the 'Install and Configuration' category. The focus is on practical implementation and configuration of tools, making it highly relevant to the category.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -208,11 +217,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T01:42:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:52:33",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical practices related to URL redirection, including the use of SQL for dynamic URL rewriting, which aligns with principles of modular architecture and emergent design. It also touches on performance considerations and best practices in coding, making it relevant to technical excellence.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses technical solutions for implementing SEO permanent redirects, which involves engineering practices related to URL rewriting and database interactions. However, while it touches on technical aspects, it lacks a strong focus on broader engineering methodologies like TDD, CI/CD, or modular architecture, which are central to the 'Technical Excellence' category. The depth of discussion is primarily on specific implementations rather than overarching principles of technical excellence.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -370,11 +382,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T02:22:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:41:55",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses technical solutions for implementing SEO permanent redirects, including code examples, best practices for writing clean code, and techniques for managing URL rewriting in ASP.NET. The focus aligns well with software craftsmanship and engineering practices.",
+    "final_score": 74.0,
+    "reasoning": "The content provides a detailed exploration of implementing SEO permanent redirects using various technical approaches, including code examples and explanations of best practices in software design and architecture. It discusses the importance of clean code, maintainability, and the use of specific tools (like the IIS7 URL Rewrite Module) to enhance technical delivery. The depth of discussion is significant, covering multiple options and their implications, which aligns well with the principles of technical mastery.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -730,12 +745,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:40:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses various coding practices, error handling strategies, and refactoring methodologies within the context of implementing SEO permanent redirects. While the primary focus is on URL management and programming details, it does mention best practices but is not centered solely on engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on implementing SEO permanent redirects and discusses various coding practices and configurations related to URL rewriting. While it touches on some aspects of software craftsmanship, such as code quality and best practices, it lacks a direct and explicit focus on broader engineering excellence principles. The depth of discussion on specific coding techniques is notable, but it does not comprehensively address the key topics outlined in the Engineering Excellence category.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -775,11 +793,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-16T02:22:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:07:24",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical strategies for implementing SEO redirects, focusing on real-world applications of URL rewriting techniques, error handling, and database interactions. It emphasizes adapting technical practices to maintain SEO rankings, aligning well with the themes of adaptability and practical problem-solving in complex environments.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses practical solutions for implementing SEO permanent redirects, which involves real-world applications of problem-solving techniques. It provides specific examples and code snippets that demonstrate how to handle URL rewrites in a pragmatic manner. However, while it touches on practical aspects, it lacks a strong focus on Agile, Scrum, or DevOps frameworks, which diminishes its alignment with the core themes of Pragmatic Thinking.",
     "level": "Secondary"
   },
   "Backlog Refinement": {

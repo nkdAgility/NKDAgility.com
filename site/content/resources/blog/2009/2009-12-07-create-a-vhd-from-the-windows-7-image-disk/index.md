@@ -24,12 +24,6 @@ aliasesArchive:
 - /resources/blog/create-a-vhd-from-the-windows-7-image-disk
 tags:
 - Windows
-- Install and Configuration
-- Practical Techniques and Tooling
-- System Configuration
-- Technical Mastery
-- Troubleshooting
-- Software Development
 preview: metro-SSWLogo-128-link-16-16.png
 categories: []
 

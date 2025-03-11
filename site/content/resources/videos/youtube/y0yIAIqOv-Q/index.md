@@ -31,14 +31,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Project Management
 - People and Process
 - Pragmatic Thinking
-- Software Development
+- Agile Project Management
 - Agile Transformation
+- Software Development
 resourceTypes:
 - video
 categories:
+- Leadership
 - Social Technologies
 
 ---

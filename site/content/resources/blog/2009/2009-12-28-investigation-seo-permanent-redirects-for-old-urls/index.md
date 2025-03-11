@@ -8,7 +8,7 @@ ResourceImportId: 74
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2009-12-28
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,15 +28,13 @@ aliasesArchive:
 - /resources/blog/investigation-seo-permanent-redirects-for-old-urls
 tags:
 - Windows
-- Install and Configuration
-- Practical Techniques and Tooling
-- System Configuration
 - Software Development
-- Technical Mastery
 - Troubleshooting
+- Practical Techniques and Tooling
+- Install and Configuration
 - Pragmatic Thinking
-categories:
-- Engineering Excellence
+- System Configuration
+categories: []
 preview: metro-sharepoint-128-link-4-4.png
 
 ---

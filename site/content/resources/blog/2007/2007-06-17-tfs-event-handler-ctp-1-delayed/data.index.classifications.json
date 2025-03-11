@@ -55,11 +55,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T21:55:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:23:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the development of a TFS Event Handler and mentions the need for installation instructions, indicating a focus on installation and configuration processes.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the development of a TFS Event Handler and mentions the need for installation instructions, which aligns with the category of Install and Configuration. It provides some details about the components being developed and their functionalities, indicating a focus on the technical aspects of installation and configuration. However, the discussion is somewhat informal and lacks comprehensive step-by-step instructions or best practices, which affects the depth of the content. Overall, while it touches on relevant topics, it does not fully meet the criteria for a primary focus on installation and configuration.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -73,11 +76,14 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-16T21:55:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:19:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses personal circumstances and technical details about a TFS Event Handler without directly referencing Agile, Scrum, DevOps, or Lean principles.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses personal circumstances and technical details related to a specific implementation of a TFS Event Handler, which does not directly reference Agile, Scrum, DevOps, or Lean principles. While it touches on development practices, it lacks a clear connection to established methodologies, making it suitable for the Miscellaneous category. The personal anecdotes and reflections on the development process contribute to the depth of discussion, but the overall focus remains on individual experiences rather than recognised frameworks.",
     "level": "Secondary"
   },
   "Resilience and Change": {
@@ -568,20 +574,26 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:17:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses enhancements around the Team Foundation Server and software components relevant to developers, but it doesn't focus primarily on Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the development of a TFS Event Handler and related enhancements, which is relevant to software development. However, it lacks explicit references to Agile or DevOps methodologies, and the focus is more on personal circumstances and specific technical implementations rather than broader discussions on best practices or team dynamics in software development.",
+    "level": "Quaternary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T08:18:40",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T10:52:08",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses enhancements and functionalities related to TFS (Team Foundation Server) Event Handlers, which are technical aspects of software development, particularly in relation to managing and processing software events. However, it also includes personal remarks and contextual details that make it less focused solely on software development, hence a confidence level on the higher side of secondary relevance.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses enhancements to a framework related to Team Foundation Server (TFS) and mentions various components and their functionalities, which aligns with software development practices. However, the primary focus is on personal circumstances and a lack of depth in discussing methodologies or best practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {
@@ -946,12 +958,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T08:18:40",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-10T19:04:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content primarily discusses technical implementations and enhancements related to Team Foundation Server (TFS), including architecture design and service management, but it also includes personal anecdotes and unrelated circumstances, making the technical aspect a major but secondary theme.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses enhancements to a framework related to TFS Event Handlers, which touches on software architecture and development practices. However, it primarily focuses on personal circumstances and project status updates rather than in-depth technical mastery principles. While there are mentions of technical components, the overall discussion lacks a strong focus on best practices, clean code, or methodologies that contribute to high-quality software development.",
+    "level": "Quaternary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1234,12 +1249,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:23:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily discusses the development of enhancements for TFS and event handling, it touches upon aspects of software development that align with engineering processes, such as testing, debugging, and managing subscriptions. However, the focus is more on personal experiences and challenges rather than a clear, comprehensive discussion of engineering excellence best practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses enhancements to a framework and mentions testing and debugging, which are relevant to engineering practices. However, it lacks a direct focus on engineering excellence principles, best practices, or continuous improvement, making it only tangentially related to the category.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

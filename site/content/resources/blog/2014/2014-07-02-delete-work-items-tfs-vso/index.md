@@ -27,13 +27,11 @@ aliasesArchive:
 - /blog/how-to-delete-work-items-from-tfs-or-vso
 - /resources/blog/delete-work-items-tfs-vso
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
-- Azure Boards
-- Azure DevOps
 - Software Development
+- Install and Configuration
 - Troubleshooting
-- Technical Mastery
+- Azure DevOps
 categories: []
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 

@@ -27,13 +27,11 @@ aliasesArchive:
 - /blog/team-server-hmm-
 - /resources/blog/team-server-hmm
 tags:
-- Modern Source Control
-- Application Lifecycle Management
-- Install and Configuration
 - Practical Techniques and Tooling
 - Products and Books
-- Software Development
 - Miscellaneous
+- Modern Source Control
+- Software Development
 - System Configuration
 - Troubleshooting
 - Windows

@@ -29,7 +29,6 @@ aliasesArchive:
 tags:
 - Windows
 - Install and Configuration
-- System Configuration
 categories: []
 preview: metro-binary-vb-128-link-4-4.png
 

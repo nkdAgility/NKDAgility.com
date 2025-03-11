@@ -26,6 +26,9 @@ duration: 592
 isShort: false
 tags:
 - Events and Presentations
+- People and Process
+- News and Reviews
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -33,6 +36,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Social Technologies
 - Scrum
 
 ---

@@ -24,7 +24,6 @@ aliasesArchive:
 - /resources/blog/announcing-visual-studio-11-beta-will-launch-on-february-29th
 tags:
 - Events and Presentations
-- News and Reviews
 categories: []
 
 ---

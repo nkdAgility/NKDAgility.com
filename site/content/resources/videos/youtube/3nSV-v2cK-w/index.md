@@ -25,13 +25,16 @@ preview: https://i.ytimg.com/vi/3nSV-v2cK-w/maxresdefault.jpg
 duration: 255
 isShort: false
 tags:
+- Agile Project Management
 - Team Collaboration
-- Agile Values and Principles
-- People and Process
 - Team Motivation
 - Agile Philosophy
 - Organisational Agility
 - Software Development
+- Agile Values and Principles
+- People and Process
+- Team Performance
+- Business Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -39,7 +42,6 @@ layout: video
 resourceTypes:
 - video
 categories:
-- Product Management
 - Social Technologies
 
 ---

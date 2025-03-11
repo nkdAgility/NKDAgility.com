@@ -10,12 +10,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T21:09:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:23:53",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses troubleshooting and practical solutions related to Team Foundation Server (TFS) and Active Directory integration, which aligns with the exploration and application of tools and methodologies in Agile and DevOps practices.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content discusses a specific technical issue related to Team Foundation Server (TFS) and provides a detailed investigation into the problem, including troubleshooting steps and potential workarounds. While it does mention tools and techniques relevant to TFS and Active Directory, the primary focus is on a specific problem rather than a broader exploration of practical techniques or methodologies. The depth of discussion is limited to the context of the issue at hand, which affects the overall alignment with the category.",
+    "level": "Tertiary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T21:09:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:57:57",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses troubleshooting and configuration issues related to Team Foundation Server (TFS) and Active Directory, including steps for resetting computer accounts, checking permissions, and ensuring proper integration with AD, which aligns with installation and configuration processes.",
+    "final_score": 73.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific sync error related to Team Foundation Server (TFS) and discusses various installation and configuration steps, including resetting computer accounts, checking permissions, and using specific tools like TfsSecurity. It provides detailed insights into the configuration issues faced, which aligns well with the category of Install and Configuration. The depth of discussion is significant, as it covers multiple troubleshooting steps and potential resolutions, although it does not provide a definitive solution, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:23:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to Team Foundation Server (TFS) and Active Directory, which are relevant to DevOps practices, particularly in the context of continuous integration and delivery. However, the primary focus is on troubleshooting specific errors rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to Team Foundation Server (TFS) and Active Directory, which is relevant to DevOps practices. However, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. While it touches on aspects of system integration and troubleshooting, it does not delve into automation, CI/CD, or collaboration between development and operations teams, which are core themes of DevOps. Therefore, the confidence score reflects a moderate alignment with the DevOps category.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -280,12 +289,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T21:10:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:57:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 50.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to Team Foundation Server (TFS), which is part of the Azure DevOps suite, including troubleshooting identity synchronization errors and providing workarounds. It aligns with Azure DevOps functionalities and practices.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses a specific issue related to Team Foundation Server (TFS), which is part of the Azure DevOps suite. It provides detailed insights into troubleshooting a synchronization error, which aligns with Azure DevOps functionalities. However, while it mentions TFS and its integration with Active Directory, it lacks broader discussions on Azure DevOps services or methodologies, thus limiting its overall alignment with the category.",
+    "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",
@@ -370,12 +382,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T22:15:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:36:06",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on a technical issue related to Team Foundation Server (TFS), detailing the troubleshooting steps taken, including understanding Active Directory settings, TFS service accounts, and methods to ensure system stability, which aligns with software craftsmanship and engineering practices.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content provides a detailed investigation into a specific technical issue related to Team Foundation Server (TFS) and Active Directory integration. It discusses troubleshooting steps, error messages, and potential solutions, which align with the principles of software craftsmanship and engineering practices. However, while it touches on technical mastery, the focus is more on problem-solving rather than broader best practices or methodologies in software development.",
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -577,11 +592,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T22:15:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:01:17",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses an issue related to Team Foundation Server (TFS), which is a software development tool. It delves into troubleshooting synchronization problems with Active Directory in the context of a TFS setup, and it outlines methods to resolve these issues, which aligns with software development practices and methodologies.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses a specific issue related to Team Foundation Server (TFS) and Active Directory integration, which falls under the broader umbrella of software development practices, particularly in the context of version control and collaborative development. It provides a detailed account of troubleshooting steps, error messages, and potential resolutions, demonstrating a practical application of software development methodologies. However, while it touches on relevant topics, the focus is more on a specific problem rather than a comprehensive discussion of software development methodologies or best practices.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -775,11 +793,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T22:15:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:45:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content provides a detailed practical investigation of a TFS synchronization error, focusing on real-world troubleshooting strategies and workarounds. It shares personal experiences in a complex environment and emphasizes practical solutions, aligning it closely with the themes of pragmatic thinking.",
+    "final_score": 65.0,
+    "reasoning": "The content provides a detailed account of troubleshooting a specific issue with TFS 2010, showcasing practical problem-solving strategies and real-world applications of technical knowledge. It discusses various approaches taken to resolve the problem, including resetting computer accounts, checking permissions, and creating workarounds. The author reflects on the complexity of the situation and the limitations faced, which aligns well with the themes of adaptability and experience-based decision-making in complex environments. However, while the content is rich in practical insights, it lacks a structured discussion on Agile or Scrum methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {

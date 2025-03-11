@@ -10,12 +10,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T23:18:35",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-07T15:31:45",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 82.0,
-    "reasoning": "The content provides a detailed, step-by-step guide on upgrading Team Foundation Server (TFS) and moving it to a new domain, which aligns closely with practical techniques and tooling in Agile and DevOps practices.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed, step-by-step guide on upgrading Team Foundation Server (TFS) from 2008 to 2010, which directly aligns with practical techniques and tooling in the context of Agile and DevOps practices. It discusses specific tools (TFS, Team Build), methodologies for implementation (upgrade processes), and best practices (e.g., using the Best Practice Analyser). The depth of discussion is significant, covering multiple aspects of the upgrade process, including potential pitfalls and troubleshooting steps, which enhances its relevance to the category.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T23:18:47",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-10T13:01:58",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 38,
+    "ai_depth": 40,
     "non_ai_confidence": 30,
-    "final_score": 84.0,
-    "reasoning": "The content provides a detailed, step-by-step guide on upgrading Team Foundation Server from 2008 to 2010, including installation and configuration procedures, best practices, and troubleshooting tips, which aligns closely with the 'Install and Configuration' category.",
+    "final_score": 86.0,
+    "reasoning": "The content provides a detailed, step-by-step guide on upgrading Team Foundation Server (TFS) from 2008 to 2010, including specific instructions for installation and configuration. It discusses best practices, potential pitfalls, and troubleshooting tips, which align closely with the key topics of the 'Install and Configuration' category. The primary focus is on the technical aspects of installation and configuration, making it highly relevant to the category.",
     "level": "Primary"
   },
   "Transparency and Accountability": {
@@ -118,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T23:18:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:31:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the upgrade and migration processes of Team Foundation Server (TFS), which are integral to DevOps practices, particularly in Continuous Integration and Continuous Delivery contexts.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server (TFS) and migrating it to a new domain. While it does touch on aspects of DevOps, such as the importance of configuration and best practices, it lacks a broader discussion on DevOps principles, cultural shifts, or automation. The content is more of a technical guide than a discussion on DevOps as a holistic practice.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -208,11 +217,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T23:19:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:00:37",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical process of upgrading Team Foundation Server (TFS) and its associated components, which aligns with engineering practices that enhance software development and delivery processes.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server (TFS) and migrating it to a new domain. It provides detailed steps and warnings related to the upgrade process, which aligns with technical excellence in terms of ensuring a reliable and efficient upgrade. However, while it discusses specific technical practices, it lacks broader discussions on methodologies like TDD, CI/CD, or modular architecture, which are key themes of the category. Therefore, while it is relevant, it does not fully encompass the depth and breadth expected for a high confidence score in 'Technical Excellence'.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -280,11 +292,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T23:19:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:48:36",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS), which is a component of Azure DevOps, detailing specific steps and best practices related to TFS functionalities.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS), which is a component of Azure DevOps. It provides detailed steps and considerations for upgrading from TFS 2008 to TFS 2010, including domain migration and configuration. The discussion is focused on specific functionalities and best practices related to TFS, aligning well with the Azure DevOps category. However, it lacks broader context on Azure DevOps services beyond TFS, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -334,11 +349,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T23:27:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:38:34",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the upgrade and migration processes of Team Foundation Server (TFS), which are integral parts of managing the application lifecycle, including deployment and maintenance stages.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the upgrade process of Team Foundation Server (TFS), which is a critical aspect of Application Lifecycle Management (ALM). It discusses stages such as deployment and maintenance, providing detailed steps and best practices for managing the upgrade and migration of TFS. The content aligns well with the core themes of ALM, particularly in terms of governance and compliance during the upgrade process. However, it lacks broader discussions on metrics, KPIs, and risk management strategies, which slightly lowers the depth of discussion.",
     "level": "Secondary"
   },
   "One Engineering System (1ES)": {
@@ -730,11 +748,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:01:55",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the technical steps and best practices involved in upgrading Team Foundation Server, which relates to software craftsmanship and improving engineering processes, but it focuses mostly on specific upgrade procedures rather than a broader discussion of engineering excellence.",
+    "final_score": 60.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server (TFS) and migrating it to a new domain. While it does touch on best practices, such as using the Best Practice Analyser and ensuring proper configurations, the discussion lacks a broader context of engineering excellence principles. The depth of technical detail is significant, but it does not fully engage with the overarching themes of software craftsmanship or continuous improvement in engineering processes.",
     "level": "Tertiary"
   },
   "Revenue per Employee": {
@@ -775,11 +796,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-16T00:18:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:03:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses practical problem-solving strategies for upgrading Team Foundation Server (TFS) within a real-world context, including pitfalls and step-by-step procedures that emphasize application over theory.",
+    "final_score": 65.0,
+    "reasoning": "The content provides a detailed, step-by-step guide on upgrading Team Foundation Server (TFS) and moving it to a new domain, which aligns with pragmatic thinking by focusing on practical problem-solving strategies in a real-world context. It discusses specific actions taken to navigate the complexities of the upgrade process, including warnings and best practices, demonstrating adaptability and critical thinking. However, while it is rich in practical application, it lacks broader discussions on Agile or Scrum principles, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {

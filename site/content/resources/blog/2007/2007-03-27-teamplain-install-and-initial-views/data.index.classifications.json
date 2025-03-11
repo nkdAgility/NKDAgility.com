@@ -10,11 +10,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:22:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:25:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation process of TeamPlain and includes some initial configuration insights, making it a major theme.",
+    "final_score": 67.0,
+    "reasoning": "The content primarily focuses on the installation of TeamPlain, providing a brief account of the installation process and some initial observations. However, while it mentions installation, it lacks detailed step-by-step instructions or comprehensive configuration guidance. The discussion on project name issues and user permissions hints at configuration aspects but does not delve deeply into best practices or troubleshooting. Overall, the content aligns with the category but does not provide sufficient depth or breadth to warrant a higher confidence score.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -208,21 +211,27 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:22:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:21:25",
+    "ai_confidence": 55.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the installation and initial usage of TeamPlain, which relates to tooling, but it primarily focuses on personal experiences rather than a structured exploration of practical techniques or methodologies.",
+    "final_score": 50.0,
+    "reasoning": "The content discusses the installation and initial usage of TeamPlain, which is a tool relevant to Agile and DevOps practices. However, while it mentions practical experiences with the tool, it lacks a detailed exploration of methodologies or frameworks that enhance team performance. The discussion is primarily anecdotal and does not delve deeply into best practices or metrics, which limits its alignment with the category's core themes.",
     "level": "Tertiary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:22:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:06:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation and initial views of TeamPlain, which is related to application lifecycle management, but the primary focus is on user experience and project naming issues rather than the broader aspects of ALM.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions ALM in the tags but does not explicitly discuss the methodologies, practices, or tools related to Application Lifecycle Management. The focus is primarily on the installation and usability of TeamPlain, with limited depth on lifecycle management aspects such as governance, deployment, or maintenance. While there are hints of project management concerns, they do not align closely with the core themes of ALM.",
+    "level": "Quaternary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -316,11 +325,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:23:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:53:40",
+    "ai_confidence": 45.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 35.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the installation and features of TeamPlain, which is a tool relevant to Agile practices, but the focus is more on personal experience rather than a comprehensive review or analysis.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily discusses the installation and initial experience with TeamPlain, a software product. While it mentions specific features and user experiences, it lacks a comprehensive review or analysis of the product in relation to Agile or DevOps principles. The discussion is somewhat relevant but does not delve deeply into how the product enhances Agile methodologies or practices.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -415,12 +427,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T11:46:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:18:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation and initial observations of TeamPlain, which relates to working software, but it primarily focuses on user experience and access control rather than broad discussions on software quality or functionality.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content provides a brief account of installing TeamPlain and mentions some usability issues, but it lacks a detailed discussion on working software principles, quality assurance, or customer feedback. While it touches on user experience, it does not align closely with the core themes of delivering functional software or best practices in Agile and Scrum.",
+    "level": "Quaternary"
   },
   "Lead Time": {
     "category": "Lead Time",

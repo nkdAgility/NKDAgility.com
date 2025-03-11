@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T11:14:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:51:15",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical application of Release Management and automated testing techniques within Visual Studio 2013, detailing specific tools, configurations, and methodologies relevant to Agile and DevOps practices.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed exploration of using Release Management for Visual Studio 2013, specifically focusing on automated testing and deployment processes. It discusses practical techniques for integrating tools like Microsoft Test Manager and Release Management, which directly aligns with the category's focus on methodologies and frameworks that enhance Agile and DevOps practices. The depth of discussion is significant, as it includes specific steps, configurations, and potential issues, demonstrating a thorough understanding of the tooling involved. Overall, the content is highly relevant and provides actionable insights for practitioners.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T11:14:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:42:42",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 32,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the installation and configuration of Release Management for Visual Studio 2013, including specific steps and considerations for setting up automated tests and environments, which aligns well with the category.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed guide on executing tests with Release Management for Visual Studio 2013, focusing on installation and configuration aspects. It discusses specific requirements, such as the need for Microsoft Test Manager (MTM) installation, and outlines steps for configuring components and release templates. The content aligns well with the key topics of the category, including step-by-step procedures and troubleshooting common issues. The depth of discussion is substantial, covering various configurations and potential bugs, which enhances its relevance to the Install and Configuration category.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,11 +124,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T11:14:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:51:13",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 36,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the integration of automated testing and release management within a DevOps context, focusing on tools and processes that enhance the software delivery pipeline.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on the integration of automated testing and release management within a DevOps context, discussing tools like Release Management and Lab Management, which are essential for CI/CD practices. It provides detailed insights into the setup and configuration of these tools, aligning well with DevOps principles. The discussion includes specific processes and challenges related to deployment and testing, indicating a strong alignment with the core themes of DevOps. However, while it is rich in detail, it does not extensively cover cultural shifts or broader DevOps metrics, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -208,11 +217,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T11:14:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:45:35",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the integration of automated testing and release management within Visual Studio 2013, focusing on technical practices that enhance the deployment pipeline and ensure code quality, which aligns well with the principles of Technical Excellence.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the use of Release Management and automated testing within Visual Studio 2013, which aligns with the principles of Continuous Integration and Continuous Delivery (CI/CD). It provides practical insights into configuring environments and executing tests, demonstrating a focus on enhancing the deployment pipeline. However, while it touches on relevant technical practices, the discussion lacks a broader exploration of the underlying principles of Technical Excellence, such as TDD or modular architecture, which limits its depth and overall alignment with the category.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -235,11 +247,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-15T11:14:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:35:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 16,
+    "ai_alignment": 32,
+    "ai_depth": 36,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the integration of testing and release management processes in Visual Studio 2013, which aligns with methodologies and practices involved in delivering usable software products.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on the integration of testing and release management within the context of Visual Studio 2013, which aligns closely with the methodologies and practices of product delivery. It discusses specific tools and processes for executing tests as part of the deployment pipeline, highlighting the importance of effective testing and quality assurance. The depth of discussion is substantial, providing detailed steps and considerations for implementing automated tests in a release management context, which is a critical aspect of delivering usable software products. Overall, the content is highly relevant to the category of Product Delivery.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -280,11 +295,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T11:14:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:26:01",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the use of Release Management in Visual Studio 2013, which is part of the Azure DevOps suite, focusing on automated testing and deployment processes.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the use of Release Management within Visual Studio 2013, which is a component of Azure DevOps. It provides detailed insights into automating tests and deployments, aligning closely with Azure DevOps functionalities. The discussion includes specific tools and processes related to Azure DevOps, such as Microsoft Test Manager and Lab Management, indicating a strong focus on Azure DevOps practices. The depth of technical detail and practical guidance further supports a high confidence score, as it goes beyond mere mention and delves into implementation specifics.",
     "level": "Secondary"
   },
   "Personal": {
@@ -343,11 +361,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T11:15:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:51:37",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the use of Release Management in Visual Studio 2013 for automating deployment and testing, which aligns with the practices and tools involved in managing the application lifecycle.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the use of Release Management in Visual Studio 2013 for automated testing and deployment, which is a component of the application lifecycle. However, it lacks a comprehensive exploration of the entire application lifecycle stages and best practices for governance and compliance. While it touches on deployment and testing, it does not delve deeply into the broader context of Application Lifecycle Management, such as metrics, change management, or risk management strategies.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -730,11 +751,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-15T11:31:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:42:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of testing and release management processes, emphasizing automation and best practices associated with software development, which aligns with principles of engineering excellence.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses automated testing and release management practices, which are relevant to engineering excellence. It mentions specific tools and processes that enhance software delivery, aligning with best practices in CI/CD. However, the focus is more on practical implementation rather than a broader discussion of engineering excellence principles, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Revenue per Employee": {

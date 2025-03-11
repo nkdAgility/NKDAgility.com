@@ -8,7 +8,7 @@ ResourceImportId: 7104
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-09
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,9 +30,7 @@ aliasesArchive:
 - /resources/blog/tfs-integration-tools-issue-tfs-wit-bypass-rule-submission-is-enabled
 tags:
 - Troubleshooting
-categories:
-- DevOps
-- Engineering Excellence
+categories: []
 preview: metro-problem-icon-5-5.png
 
 ---

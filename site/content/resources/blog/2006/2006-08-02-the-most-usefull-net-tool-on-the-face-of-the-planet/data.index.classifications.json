@@ -316,20 +316,26 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T11:12:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:28:14",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions a specific .NET tool, Reflector, which aligns with discussions on tools pertinent to Agile methodologies and DevOps practices, but lacks detailed analysis or review.",
-    "level": "Tertiary"
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions a .NET tool, Reflector, but lacks detailed discussion or analysis related to Agile methodologies or DevOps practices. It does not provide insights, reviews, or comparisons that would align with the core themes of the category.",
+    "level": "Quaternary"
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-17T11:12:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-10T13:28:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on a .NET tool and does not discuss Scrum principles, practices, or frameworks.",
+    "final_score": 4.0,
+    "reasoning": "The content does not mention Scrum or any related concepts. It focuses solely on a .NET tool, which is unrelated to Scrum principles, practices, or frameworks.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {

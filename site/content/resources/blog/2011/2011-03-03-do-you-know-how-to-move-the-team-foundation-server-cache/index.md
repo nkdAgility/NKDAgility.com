@@ -8,7 +8,7 @@ ResourceImportId: 9894
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-03-03
-weight: 865
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,12 +23,11 @@ aliasesArchive:
 - /do-you-know-how-to-move-the-team-foundation-server-cache
 - /resources/blog/do-you-know-how-to-move-the-team-foundation-server-cache
 tags:
-- Windows
 - Install and Configuration
-- Practical Techniques and Tooling
-- Software Development
+- Windows
 - System Configuration
-- Technical Mastery
+- Software Development
+- Practical Techniques and Tooling
 - Troubleshooting
 categories: []
 

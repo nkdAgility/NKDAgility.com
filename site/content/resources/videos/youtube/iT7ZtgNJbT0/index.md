@@ -29,11 +29,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Personal
+- People and Process
 - Agile Project Management
 - Agile Transformation
 - Software Development
+- Software Developers
 resourceTypes:
 - video
 categories:

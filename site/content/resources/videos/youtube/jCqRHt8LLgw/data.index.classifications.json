@@ -1,21 +1,27 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T11:08:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:26:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions DevOps as a topic for discussion, but it is not the primary focus, as it also includes Agility and is centred around a Q&A format.",
-    "level": "Tertiary"
+    "final_score": 34.0,
+    "reasoning": "The content primarily discusses Agile methodologies, particularly Scrum, and the use of story points, team sizes, and emergent architecture. While there are brief mentions of DevOps, such as the reference to 'Naked agility is available for DevOps and agile training and consulting,' the focus remains on Agile practices rather than the integration of development and operations, which is central to DevOps. The discussion lacks depth in DevOps principles, practices, and tools, leading to a low confidence score in alignment with the DevOps category.",
+    "level": "Quaternary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:08:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:28:46",
+    "ai_confidence": 78.0,
+    "ai_mentions": 65.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Agility and references a Professional Scrum Trainer, indicating a focus on Agile practices, but it is primarily an invitation for questions on various topics, making the category a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses various Agile practices, particularly focusing on story points, team sizes, and emergent architecture, which are central to the Social Technologies category. It provides a detailed examination of the limitations of story points and the importance of team dynamics in Agile methodologies. The mention of Scrum roles and the emphasis on adapting to change align well with the core themes of the category. However, the content also includes promotional elements and less structured discussions, which slightly detracts from its overall focus.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -100,11 +106,14 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T12:23:08",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content describes an 'Ask Me Anything' session with a professional trainer, which is an interactive event relevant to Agile and DevOps discussions.",
+    "calculated_at": "2025-03-10T12:28:48",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 20,
+    "final_score": 63.0,
+    "reasoning": "The content includes references to office hours, a professional scrum master class, and a mention of facilitating a class in Atlanta, which indicates a connection to events and presentations. However, the primary focus is on discussing Agile concepts and personal opinions rather than detailing specific events or structured learning experiences. The depth of discussion on events is limited, and while there are mentions of classes and consultations, they are not the main focus of the content.",
     "level": "Secondary"
   },
   "Product Validation": {
@@ -451,12 +460,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-18T12:23:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions DevOps and Agile, suggesting a context relevant to software developers; however, it is primarily an open Q&A format and not focused deeply on the role of developers in these methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-07T14:26:34",
+    "ai_confidence": 67.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses Agile methodologies, specifically story points and team sizes, which are relevant to software developers. It touches on the impact of these practices on team dynamics and productivity, aligning with the core themes of the category. However, the discussion lacks depth in exploring broader Agile and DevOps principles and tools, focusing more on personal opinions and experiences rather than structured best practices or methodologies.",
+    "level": "Secondary"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
@@ -604,12 +616,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-18T12:23:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content involves an Ask Me Anything session with a focus on DevOps and Agility, which suggests a discussion about team dynamics, roles in Scrum, and possibly human factors affecting these methodologies. However, it lacks a clear, detailed exploration of the interplay between people and structured methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-10T14:35:01",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 30,
+    "final_score": 68.0,
+    "reasoning": "The content discusses various aspects of Agile methodologies, including team dynamics, the role of story points, team sizes, and emergent architecture. It highlights the importance of team collaboration and the impact of organisational structure on process efficiency. The speaker shares personal experiences and insights on how to improve team performance and adapt processes, which aligns well with the core themes of the 'People and Process' category. However, while the content is rich in discussion, it occasionally veers into technical territory, which slightly detracts from its primary focus on human factors and methodologies.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -802,12 +817,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T12:23:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content references agility and includes a professional Scrum Trainer, suggesting a connection to agile methodologies, but does not deeply explore Agile Project Management principles or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-10T18:26:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 30,
+    "final_score": 68.0,
+    "reasoning": "The content discusses various aspects of Agile Project Management, including story points, team sizes, and emergent architecture, which are relevant to agile methodologies. However, the discussion lacks a structured exploration of agile principles and frameworks, focusing more on personal opinions and experiences rather than a comprehensive analysis. While it touches on key topics like team dynamics and agile practices, the depth of discussion is somewhat superficial, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",

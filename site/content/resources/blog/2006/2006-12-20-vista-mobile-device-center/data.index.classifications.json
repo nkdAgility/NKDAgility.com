@@ -382,11 +382,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T11:46:46",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T13:27:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 50,
-    "final_score": 68.0,
-    "reasoning": "The content discusses synchronization features related to Windows Mobile and issues encountered after updating to Vista, which indicates that Windows is a major theme, but the primary focus is on mobile device synchronization rather than the Windows operating system itself.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the user's experience with Windows Mobile 5.0 and the transition to Vista, focusing on the syncing capabilities with Media Player and the Mobile Device Center. It directly mentions Windows XP and Vista, which are key aspects of the Windows operating system. The discussion aligns well with the category's themes, particularly regarding troubleshooting and user experience with updates. The depth of the discussion is significant as it details specific features and issues encountered, although it could benefit from more comprehensive coverage of installation or configuration topics.",
     "level": "Secondary"
   },
   "Azure Repos": {
@@ -679,12 +682,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T11:46:46",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T15:22:35",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses an issue with syncing between Windows Vista and a mobile device, identifying a specific problem that the author hopes will be resolved. While it focuses on a personal experience rather than general troubleshooting methodologies, the primary topic involves the identification of a functionality issue and the desire for a solution.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific issue related to syncing a mobile device with Windows Vista, which aligns with troubleshooting. However, it lacks detailed methodologies or techniques for diagnosing or resolving the problem, focusing instead on personal experience and hope for a fix. The mention of the issue is explicit, but the depth of discussion is minimal, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Scrum Team": {
     "category": "Scrum Team",

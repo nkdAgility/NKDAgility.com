@@ -97,12 +97,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T12:27:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T12:57:35",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses user understanding and the need for data evidence to inform development, which relates to adapting to market demands, but it does not primarily focus on Agile, DevOps, or Lean methodologies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content touches on the importance of understanding user needs and the potential pitfalls of reactionary development, which aligns with the concept of adapting to market demands. However, it lacks explicit discussions on Agile methodologies, DevOps practices, or Lean principles, which are crucial for a higher confidence score in the Market Adaptability category. The depth of discussion is moderate, raising valid questions but not providing concrete strategies or methodologies for enhancing market adaptability.",
+    "level": "Quaternary"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -133,12 +136,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T12:27:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T11:42:06",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses user understanding and collaboration with stakeholders, which are relevant to team dynamics and communication, but it does not primarily focus on structured methodologies or processes.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of understanding user needs and the potential pitfalls of reactionary development, which touches on team dynamics and stakeholder collaboration. However, it lacks explicit references to structured methodologies like Agile or Scrum, and while it hints at collaboration, it does not delve deeply into the processes or human factors involved. Therefore, while it aligns conceptually with the category, the depth and direct mentions are limited.",
+    "level": "Secondary"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -151,12 +157,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T12:27:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:58:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses user understanding and collaboration with stakeholders, which are relevant to value delivery, but it does not primarily focus on strategies or methodologies for delivering value within Agile or DevOps frameworks.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of understanding user needs and the potential pitfalls of reactionary development, which aligns with the core themes of value delivery. However, it lacks explicit mentions of Agile methodologies or structured strategies for delivering value, resulting in a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -259,39 +268,51 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T12:28:18",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-10T17:55:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses user understanding and collaboration with stakeholders, which are relevant to product delivery, but it does not focus on the methodologies or practices involved in the end-to-end process of delivering software products.",
+    "final_score": 29.0,
+    "reasoning": "The content touches on user understanding and stakeholder collaboration, which are relevant to product delivery. However, it lacks explicit discussions on methodologies, practices, or detailed processes involved in delivering software products. The focus is more on user insights rather than the end-to-end delivery process.",
     "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T12:28:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T00:22:25",
+    "ai_confidence": 67.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses user understanding and collaboration in software development, which are relevant to the broader context of business agility but do not directly reference Agile, Scrum, DevOps, or Lean principles.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses general user understanding and collaboration issues in software development without referencing specific Agile, Scrum, DevOps, or Lean frameworks. While it raises valid questions about user needs and stakeholder collaboration, it lacks actionable insights or direct connections to established methodologies, aligning it with the Miscellaneous category. However, the depth of discussion is moderate, focusing on user insights rather than established practices.",
     "level": "Tertiary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T12:28:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T09:53:44",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses user understanding and collaboration with stakeholders, which are relevant to organisational agility, but the primary focus is on user insights rather than agility practices or frameworks.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content touches on user understanding and the need for collaboration with stakeholders, which are relevant to organisational agility. However, it lacks explicit discussions on agile methodologies, leadership roles, or structured strategies for enhancing adaptability. The focus is more on user insights rather than the broader organisational practices that enable agility.",
+    "level": "Quaternary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T12:28:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:16:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding user needs and collaboration with stakeholders, which relates to transparency in communication and accountability in addressing user requirements. However, it does not primarily focus on transparency and accountability as central themes.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content touches on user understanding and stakeholder collaboration, which are related to transparency and accountability. However, it lacks explicit discussions on the principles of openness, responsibility, and clear communication within Agile teams. The focus is more on user insights and development practices rather than a thorough exploration of transparency and accountability, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",

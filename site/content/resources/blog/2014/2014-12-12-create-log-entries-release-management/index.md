@@ -8,7 +8,7 @@ ResourceImportId: 10975
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-12-12
-weight: 775
+weight: 720
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,15 +28,15 @@ aliasesArchive:
 - /resources/blog/create-log-entries-release-management
 tags:
 - Windows
-- Application Lifecycle Management
 - Release Management
-- Practical Techniques and Tooling
 - System Configuration
-- Azure DevOps
 - Azure Pipelines
 - Pragmatic Thinking
+- Troubleshooting
+- Practical Techniques and Tooling
 - Software Development
-- Technical Excellence
+- Azure DevOps
+- Application Lifecycle Management
 categories:
 - DevOps
 - Engineering Excellence

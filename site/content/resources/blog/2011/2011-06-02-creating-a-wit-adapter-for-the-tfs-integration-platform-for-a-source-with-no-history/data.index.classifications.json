@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T23:01:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:30:45",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implementation of a TFS Integration Platform Adapter, detailing practical coding techniques, configuration, and troubleshooting related to Agile and DevOps tooling.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed exploration of creating a TFS Integration Platform Adapter, discussing specific coding techniques, configuration settings, and troubleshooting steps. It aligns well with the category by focusing on practical tooling and methodologies for integrating systems, particularly in the context of Agile and DevOps practices. The depth of discussion on code snippets, configuration files, and error handling demonstrates a strong application of practical techniques, making it a primary focus of the content.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -37,11 +40,14 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T23:02:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:01:30",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the development of a TFS Integration Platform Adapter, focusing on code quality, complexity in handling data migrations, and the challenges faced in ensuring proper functionality and maintainability of the code. It includes detailed code snippets and addresses issues related to code complexity, such as managing data mappings and handling exceptions, which are central themes in the context of software development and complexity.",
+    "final_score": 67.0,
+    "reasoning": "The content provides a detailed discussion on the complexities involved in creating a TFS Integration Platform Adapter, including code snippets and configuration details. It addresses issues related to code quality, such as handling exceptions and managing data formats, which are central to the interplay between code and complexity. The depth of the discussion on debugging and refactoring practices further aligns with the category's focus on best practices in software development.",
     "level": "Secondary"
   },
   "Discovery and Learning": {
@@ -73,11 +79,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T23:02:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:00:22",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a TFS Integration Platform Adapter, including detailed XML configuration, code snippets for setting up migration processes, and troubleshooting installation issues. It provides actionable insights into the installation and configuration of the adapter, which aligns well with the category.",
+    "final_score": 72.0,
+    "reasoning": "The content provides detailed instructions and code snippets for creating a TFS Integration Platform Adapter, which directly relates to the installation and configuration of software tools. It discusses specific configuration settings, troubleshooting issues, and integration practices, aligning well with the key topics of the category. The depth of discussion is substantial, covering various aspects of the setup process, including XML configuration, code implementation, and error handling.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -118,12 +127,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:01:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the development of a TFS Integration Platform Adapter, which involves aspects of continuous integration and delivery, but it is heavily focused on specific implementation details rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the development of a TFS Integration Platform Adapter, which is related to DevOps practices, particularly in the context of Continuous Integration and Continuous Delivery. However, it lacks a comprehensive exploration of DevOps principles, cultural shifts, or metrics for success, focusing instead on technical implementation details and specific coding challenges.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -208,11 +220,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T23:03:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:48:20",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the development and debugging of a TFS Integration Platform Adapter, focusing on technical practices such as handling data migration, error management, and code refactoring to improve functionality. It aligns with the principles of Continuous Integration and Continuous Delivery (CI/CD) and modular architecture, which are key aspects of technical excellence.",
+    "final_score": 70.0,
+    "reasoning": "The content provides a detailed exploration of creating a TFS Integration Platform Adapter, focusing on technical aspects such as code implementation, error handling, and migration strategies. It discusses specific engineering practices like handling work item revisions, managing change groups, and addressing conflicts, which align closely with the principles of Technical Excellence. The depth of discussion on technical challenges and solutions indicates a strong focus on enhancing software development practices.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -280,11 +295,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T23:03:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:38:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a TFS Integration Platform Adapter, which is directly related to Azure DevOps functionalities, particularly in the context of work item tracking and migration processes.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the creation of a TFS Integration Platform Adapter, which is directly related to Azure DevOps functionalities. It includes specific references to work item tracking, migration processes, and error handling within the context of TFS, which is part of Azure DevOps. The depth of technical detail provided about the implementation and troubleshooting of the adapter indicates a strong alignment with Azure DevOps practices, particularly in relation to CI/CD and work item management. However, the focus on specific implementation details may detract slightly from broader discussions on Azure DevOps as a whole.",
     "level": "Secondary"
   },
   "Personal": {
@@ -343,12 +361,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T23:03:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:03:22",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the development and integration of a TFS Integration Platform Adapter, which is closely related to managing the lifecycle of software applications, particularly in the context of migration and updates of work items. It addresses aspects of application lifecycle management such as change management, integration of tools, and the handling of work item states, which are central to ALM practices.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content primarily discusses the development and integration of a TFS Integration Platform Adapter, which relates to the application lifecycle management process, particularly in the context of migration and updates of work items. It touches on aspects of deployment and maintenance, but lacks comprehensive coverage of all lifecycle stages and best practices, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -730,12 +751,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-15T23:41:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:30:37",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical aspects of creating a TFS Integration Adapter, focusing on coding practices, debugging, and best practices for software development processes related to integration and migration. It aligns well with the principles of software craftsmanship and technical debt management.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content discusses the development of a TFS Integration Platform Adapter, focusing on coding practices, debugging, and the management of technical debt through iterative improvements. It includes specific coding examples and addresses issues related to software craftsmanship, such as error handling and versioning, which align with the principles of engineering excellence. However, the primary focus is on implementation details rather than broader engineering practices, which slightly lowers the confidence score.",
+    "level": "Tertiary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

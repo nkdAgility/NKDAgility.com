@@ -23,8 +23,6 @@ aliasesArchive:
 - /linked-in-vsts-group
 - /resources/blog/linked-in-vsts-group
 tags:
-- Azure DevOps
-- Software Developers
 - Software Development
 categories: []
 preview: metro-visual-studio-2005-128-link-2-2.png

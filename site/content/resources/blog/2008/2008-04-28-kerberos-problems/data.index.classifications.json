@@ -370,12 +370,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:58:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses troubleshooting Kerberos problems, which relates to system configuration issues but is mainly focused on a specific authentication problem rather than the broader processes of system configuration.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Kerberos double hop problems, which relates to system configuration issues, particularly in the context of authentication and network setup. However, it lacks a detailed exploration of configuration processes or methodologies, focusing instead on personal experiences and external resources. The mention of troubleshooting hints at alignment with the category, but the overall depth and focus on practical configuration strategies are minimal.",
+    "level": "Quaternary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -1081,12 +1084,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:12:25",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "Content discusses Kerberos problems in a Windows context, related to authentication and troubleshooting, which is relevant but not the sole focus.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses Kerberos problems, which are directly related to Windows authentication mechanisms. It includes links to resources that provide insights into troubleshooting Kerberos issues, aligning with the category's focus on troubleshooting common issues within the Windows environment. However, the discussion is somewhat limited in depth, primarily mentioning the problems without extensive elaboration on solutions or broader Windows management topics. Overall, while the content is relevant, it does not fully explore the wider aspects of the Windows operating system.",
+    "level": "Secondary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1099,11 +1105,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T19:02:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:15:27",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses issues related to Kerberos authentication, specifically double hop problems, and indicates an intention to troubleshoot these issues with useful resources identified for resolution.",
+    "final_score": 63.0,
+    "reasoning": "The content explicitly mentions 'Kerberos problems' and discusses troubleshooting related to Kerberos double hop issues, which aligns with the category's focus on identifying and resolving technical issues. However, the depth of discussion is limited as it primarily shares personal experiences and links to external resources without providing detailed methodologies or insights into the troubleshooting process itself.",
     "level": "Secondary"
   },
   "Entrepreneurship": {

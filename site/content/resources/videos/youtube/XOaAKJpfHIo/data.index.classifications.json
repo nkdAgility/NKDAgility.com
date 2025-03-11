@@ -82,11 +82,14 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:13:32",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of DevOps in the context of Agile methodologies, which is relevant to product management. However, the primary focus is on DevOps and Agile practices rather than strategic product management discussions.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the relationship between DevOps and Agile, highlighting their importance in delivering value to customers. While it touches on aspects relevant to product management, such as customer feedback and the delivery of usable products, it primarily focuses on technical implementation and practices rather than the strategic alignment of product management. The discussion lacks depth in terms of methodologies and frameworks specific to product management, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Leadership": {
@@ -127,11 +130,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-11T22:50:07",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T10:16:37",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the importance of DevOps in the continuous delivery of value to customers, which aligns with the principles of working software. However, the primary focus is on the relationship between DevOps and Agile rather than solely on working software itself.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of DevOps in the context of delivering working software to customers, highlighting the overlap between Agile and DevOps practices. It explicitly mentions the need for continuous delivery of usable working value and the significance of customer feedback, which aligns well with the core themes of the 'Working Software' category. The depth of discussion is substantial, as it explores the relationship between Agile and DevOps and their roles in software delivery, although it could benefit from more specific examples or metrics related to working software.",
     "level": "Secondary"
   },
   "Decision Making": {
@@ -226,11 +232,14 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-11T22:50:27",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of DevOps and Agile in delivering value to customers, which is a significant aspect of customer retention. However, it primarily focuses on the methodologies rather than specific strategies for retaining customers, making it a major but secondary theme.",
+    "calculated_at": "2025-03-11T11:41:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of DevOps in delivering value to customers, which aligns with customer retention strategies. It highlights the need for continuous delivery and feedback loops, both of which are crucial for maintaining user engagement. However, while it touches on relevant themes, it lacks specific techniques or metrics for measuring customer satisfaction and engagement, which slightly lowers the depth of discussion.",
     "level": "Secondary"
   },
   "Value Stream Mapping": {
@@ -343,12 +352,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T16:42:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:20:53",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of DevOps in the context of continuous delivery and its relationship with Agile practices, which are relevant to engineering excellence. However, the primary focus is on Agile and team dynamics rather than specific engineering practices or standards.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of DevOps in the context of continuous delivery and its relationship with Agile practices, which aligns with the principles of software craftsmanship and quality assurance. It highlights the need for teams to focus on DevOps practices to deliver value continuously, reflecting a commitment to high standards in software development. However, while it touches on relevant themes, the primary focus is on the relationship between DevOps and Agile rather than a comprehensive exploration of engineering excellence itself, leading to a moderately high confidence score.",
+    "level": "Secondary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1156,11 +1168,14 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-11T22:49:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:13:34",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of DevOps and Agile methodologies in delivering value to customers, which aligns with strategies for enhancing market adaptability through responsiveness to feedback and continuous delivery.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the relationship between DevOps and Agile methodologies, emphasising their importance in delivering value to customers and adapting to feedback. It highlights the need for continuous delivery and feedback loops, which are crucial for market adaptability. However, while it touches on these themes, it does not provide extensive detail on specific strategies or case studies related to market adaptability, leading to a high but not perfect confidence score.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -1222,11 +1237,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-11T22:49:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:20:55",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of DevOps in the continuous delivery of value to customers, highlighting the integration of Agile and DevOps practices to enhance customer satisfaction and business agility.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses the importance of DevOps in the continuous delivery of value to customers, which directly aligns with the principles of iterative development and incremental delivery. It highlights the need for teams to focus on lean delivery and obtaining customer feedback, which are key aspects of value delivery. The discussion provides a good depth of insight into how DevOps and Agile practices intertwine to enhance value delivery, making it a primary focus of the content.",
     "level": "Secondary"
   },
   "Technical Excellence": {
@@ -1240,11 +1258,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-11T22:49:25",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the integration of DevOps and Agile methodologies, focusing on continuous delivery and the importance of feedback loops, which are relevant to organisational agility. However, the primary focus is on DevOps rather than a broader exploration of organisational agility principles.",
+    "calculated_at": "2025-03-10T14:26:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the relationship between DevOps and Agile, highlighting their shared principles and the importance of delivering value to customers. It aligns well with the themes of organisational agility, particularly in terms of responsiveness to customer feedback and continuous improvement. However, while it touches on agility, it primarily focuses on DevOps practices, which may detract from its classification as a primary discussion on organisational agility.",
     "level": "Secondary"
   },
   "Personal": {
@@ -1258,11 +1279,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-11T22:49:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:21:09",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the interplay between DevOps and Agile methodologies, focusing on team collaboration, feedback loops, and the importance of human factors in delivering value to customers.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the interplay between DevOps and Agile, emphasising the importance of team collaboration and the human element in delivering value to customers. It highlights how these methodologies are intertwined and the necessity of focusing on people working together to achieve effective processes. The depth of discussion on how teams can improve their delivery and feedback loops aligns well with the category, although it does lean slightly towards technical aspects of DevOps.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {
@@ -1321,11 +1345,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T08:34:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:26:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the integration of DevOps and Agile methodologies, focusing on collaboration, continuous delivery, and value delivery to customers, which aligns closely with the principles of Social Technologies.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the relationship between DevOps and Agile, highlighting their shared principles and practices, which aligns with the core themes of Social Technologies. It mentions collaboration and continuous delivery, but lacks detailed exploration of specific frameworks like Scrum or Kanban, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Leadership": {

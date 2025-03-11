@@ -31,19 +31,19 @@ tags:
 - People and Process
 - Agile Product Operating Model
 - Team Motivation
+- Strategic Goals
 - Employee Engagement
 - Organisational Culture
+- Organisational Psychology
 - Product Strategy
-- Strategic Goals
 - Agile Strategy
 - Organisational Physics
-- Organisational Psychology
 resourceTypes:
 - video
 categories:
+- Product Management
 - Leadership
 - Social Technologies
-- Product Management
 
 ---
 **The Power of Purpose: How 'Start with Why' Drives Agile Success** 

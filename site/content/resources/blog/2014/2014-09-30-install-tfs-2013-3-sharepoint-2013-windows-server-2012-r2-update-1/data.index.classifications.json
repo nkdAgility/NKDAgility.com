@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T09:03:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T14:44:37",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the installation and configuration process of TFS 2013.3 with SharePoint, detailing practical steps, tools, and methodologies involved in the setup, which aligns well with the category focus.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed walkthrough of the installation and configuration process for TFS 2013.3 with SharePoint on Windows Server 2012 R2. It discusses practical techniques for setting up the environment, including the importance of using a clean server, the implications of pre-installed software, and specific configuration options. The author shares insights on best practices, such as the need for proper SQL configuration and the use of advanced installation options. This aligns well with the category's focus on practical techniques and tooling, demonstrating a clear application of methodologies and frameworks that enhance DevOps practices.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T09:04:00",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-10T12:39:23",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 30,
-    "final_score": 84.0,
-    "reasoning": "The content provides a detailed walkthrough of the installation and configuration process for TFS 2013.3 with SharePoint 2013 on Windows Server 2012 R2, including specific steps, troubleshooting advice, and configuration best practices.",
+    "final_score": 86.0,
+    "reasoning": "The content provides a detailed walkthrough of the installation and configuration process for TFS 2013.3 with SharePoint on Windows Server 2012 R2. It explicitly discusses installation steps, configuration options, and troubleshooting issues encountered during the setup. The author shares practical insights and recommendations, aligning closely with the key topics of the category. The depth of discussion is significant, covering various aspects of the installation process, including system requirements, configuration best practices, and integration considerations, which further supports a high confidence score.",
     "level": "Primary"
   },
   "Transparency and Accountability": {
@@ -118,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:39:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation and configuration of TFS, which is relevant to DevOps practices, but primarily focuses on technical installation details rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS and SharePoint, which are tools used in software development and operations. However, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. While it touches on aspects of deployment and configuration, it does not delve into continuous integration, continuous delivery, or the collaborative nature of DevOps, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -280,12 +289,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T09:04:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:43:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 55.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the installation and configuration of TFS (Team Foundation Server), which is a key component of Azure DevOps, detailing specific steps and considerations relevant to Azure DevOps functionalities.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses the installation and configuration of TFS (Team Foundation Server), which is part of the Azure DevOps suite. It provides detailed insights into the installation process, configuration challenges, and best practices related to TFS. However, it lacks broader discussions on Azure DevOps services, CI/CD pipelines, or agile project management practices, which are key topics in the Azure DevOps category. The focus is more on technical installation rather than the overarching methodologies or integrations associated with Azure DevOps.",
+    "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",
@@ -370,12 +382,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T19:08:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:24:24",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical details and considerations involved in installing and configuring TFS 2013.3 and SharePoint 2013, including best practices, configuration challenges, and technical recommendations, which align well with the principles of software craftsmanship and engineering practices.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2013.3 with SharePoint, which involves technical details and practices relevant to software engineering. It discusses best practices for installation, configuration issues, and the importance of following documentation, which aligns with the principles of technical mastery. However, while it touches on aspects of software craftsmanship, such as the need for proper setup and configuration, it lacks a broader discussion on methodologies or principles that contribute to high-quality software development. Therefore, while it is relevant, it does not fully encapsulate the depth and breadth expected in the 'Technical Mastery' category.",
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -730,11 +745,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 40,
+    "calculated_at": "2025-03-07T14:44:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 36.0,
-    "reasoning": "The content primarily discusses the installation and configuration of TFS and related software, which includes some technical aspects of software deployment. However, it lacks a strong focus on high standards in software craftsmanship and best practices in software development. It does not significantly address principles of quality assurance or continuous improvement processes typically associated with engineering excellence.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS and SharePoint, which is more operational than strategic in terms of engineering excellence. While it touches on some best practices, such as the importance of following installation specifications and the use of readiness checks, it lacks a broader discussion on software craftsmanship, quality assurance, or continuous improvement processes. The depth of technical detail is present, but it does not sufficiently align with the core themes of engineering excellence.",
     "level": "Quaternary"
   },
   "Revenue per Employee": {
@@ -775,11 +793,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T19:08:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:33:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical installation and configuration strategies for TFS and SharePoint in a real-world setting, providing experience-based insights and problem-solving techniques relevant to complex environments.",
+    "final_score": 65.0,
+    "reasoning": "The content provides a detailed walkthrough of a practical installation process for TFS and SharePoint, highlighting real-world challenges and solutions encountered during the setup. It discusses the importance of adhering to specifications, the implications of using outdated software, and the necessity of proper configurations, which aligns well with pragmatic thinking. The author shares personal experiences and practical advice, demonstrating adaptability and problem-solving in a complex environment, which is central to the category. However, while the content is rich in practical insights, it lacks a broader discussion on Agile or Scrum methodologies, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -1099,11 +1120,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T19:08:15",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-11T11:49:52",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 50,
-    "final_score": 86.0,
-    "reasoning": "The content primarily discusses the installation and configuration of TFS on Windows Server 2012 R2, including specific procedures relevant to Windows, which aligns closely with the key topics of the Windows category.",
+    "final_score": 83.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2013.3 on Windows Server 2012 R2, which is a direct discussion of the Windows operating system. It includes detailed steps and considerations for installation, patch management, and configuration settings specific to Windows. The content also addresses troubleshooting issues related to Windows Server and SQL installations, aligning well with the key topics of the Windows category. The depth of discussion is substantial, providing insights into the installation process and potential pitfalls, which further supports a high confidence score.",
     "level": "Primary"
   },
   "Deployment Strategies": {

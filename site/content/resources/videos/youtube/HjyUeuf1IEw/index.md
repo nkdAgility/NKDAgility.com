@@ -26,9 +26,9 @@ duration: 1331
 isShort: false
 tags:
 - Events and Presentations
+- Software Development
 - People and Process
 - Software Developers
-- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -36,6 +36,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Social Technologies
 - Scrum
 
 ---

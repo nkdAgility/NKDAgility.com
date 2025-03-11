@@ -8,7 +8,7 @@ ResourceImportId: 3641
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-06-12
-weight: 550
+weight: 450
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,18 +23,17 @@ aliasesArchive:
 - /constructing-a-framework-for-the-tfs-automation-platform
 - /resources/blog/constructing-a-framework-for-the-tfs-automation-platform
 tags:
-- Install and Configuration
+- Software Development
+- Platform Engineering
 - Internal Developer Platform
 - Practical Techniques and Tooling
-- Platform Engineering
-- Software Development
-- Technical Excellence
 - Technical Mastery
+- Install and Configuration
+- Technical Excellence
 - Pragmatic Thinking
 - Software Developers
 - System Configuration
 categories:
-- DevOps
 - Engineering Excellence
 
 ---

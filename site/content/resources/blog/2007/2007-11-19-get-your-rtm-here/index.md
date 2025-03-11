@@ -28,8 +28,6 @@ aliasesArchive:
 - /resources/blog/get-your-rtm-here
 tags:
 - News and Reviews
-- Software Development
-- Release Management
 categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 

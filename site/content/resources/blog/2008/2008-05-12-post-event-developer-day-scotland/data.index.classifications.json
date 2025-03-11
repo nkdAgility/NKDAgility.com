@@ -172,11 +172,14 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-16T18:11:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T13:15:05",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a recent event, Developer Day Scotland, including speaker presentations and insights related to Agile and DevOps practices, making it relevant to the category.",
+    "final_score": 61.0,
+    "reasoning": "The content primarily discusses a specific event, Developer Day Scotland, and provides insights into the presentations and speakers, which aligns with the category of industry events and updates. However, while it mentions relevant topics like Continuous Integration and Test Driven Development, the focus is more on personal experiences rather than a comprehensive review or analysis of the event's impact on Agile or DevOps practices. The depth of discussion on the event and its speakers is substantial, but it lacks broader industry context or trends, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Product Delivery": {
@@ -226,11 +229,14 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T18:11:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T15:12:07",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses a specific event, Developer Day Scotland, including details about the speakers and their presentations, which aligns well with the category.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses a specific event, Developer Day Scotland, and highlights various presentations and speakers, which aligns directly with the category of Events and Presentations. The author provides detailed insights into the sessions attended, showcasing the knowledge shared by the speakers, which reflects a strong alignment with the core themes of the category. The depth of discussion is significant, as it includes personal reflections on the impact of the presentations, indicating a thorough engagement with the event. Overall, the content is highly relevant and focused on the category.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -280,12 +286,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-16T18:11:31",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T18:58:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 66.0,
-    "reasoning": "The content shares personal reflections on a developer event, including insights gained from various presentations, which aligns with the Personal category. However, it primarily focuses on the event and speakers rather than deep personal experiences or challenges related to Agile, Scrum, or DevOps.",
-    "level": "Secondary"
+    "final_score": 59.0,
+    "reasoning": "The content reflects personal experiences and insights gained from attending a developer event, which aligns with the Personal category. However, the focus is more on the event and speakers rather than deep personal reflections or challenges faced in Agile or Scrum contexts. The mention of personal takeaways is present but lacks depth and detail, resulting in a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -307,20 +316,26 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:13:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:12:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Continuous Integration, which is a key aspect of DevOps, but the primary focus is on the event and speakers rather than a detailed discussion of DevOps principles.",
+    "final_score": 56.0,
+    "reasoning": "The content briefly mentions Continuous Integration, which is a key aspect of DevOps, but the overall focus is on a personal reflection of a developer event rather than a detailed discussion of DevOps principles or practices. The content lacks depth in exploring the cultural shifts, tools, or metrics associated with DevOps, and primarily highlights individual presentations without connecting them to broader DevOps themes.",
     "level": "Tertiary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T18:11:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:46:49",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses presentations on Continuous Integration and Test-Driven Development, which are key topics under Technical Excellence.",
+    "final_score": 65.0,
+    "reasoning": "The content mentions key technical topics such as Continuous Integration and Test-Driven Development, which are relevant to the category of Technical Excellence. However, the focus is more on the event and speakers rather than a deep exploration of these practices. The discussion lacks detailed analysis or methodologies that would typically characterise a thorough examination of technical excellence.",
     "level": "Secondary"
   },
   "People and Process": {
@@ -424,11 +439,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-16T18:31:53",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-11T12:12:31",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses Continuous Integration and Test Driven Development, which are key topics under Engineering Practices, although the primary focus is on an event rather than a deep discussion of these topics.",
+    "final_score": 61.0,
+    "reasoning": "The content mentions key topics such as Continuous Integration and Test-Driven Development, which are relevant to Engineering Practices. However, the primary focus is on the event and speakers rather than a detailed discussion of engineering methodologies. The mentions are brief and lack depth, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Self Organisation": {
@@ -1234,12 +1252,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:15:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Continuous Integration and Test Driven Development, which are relevant to the principles of engineering excellence, but the overall focus is on the event experience rather than on engineering practices per se.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses various presentations related to software development practices, including Continuous Integration and Test Driven Development, which are relevant to engineering excellence. However, the focus is more on the event and speakers rather than a deep exploration of engineering principles or practices. The mentions of specific topics are brief and lack detailed analysis, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

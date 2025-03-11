@@ -8,7 +8,7 @@ ResourceImportId: 7255
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-20
-weight: 775
+weight: 855
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,17 +29,14 @@ aliasesArchive:
 - /blog/tfs-integration-tools---issue--tf205022--the-following-path-contains-more-than-the-allowed-259-characters
 - /resources/blog/tfs-integration-tools-issue-tf205022-the-following-path-contains-more-than-the-allowed-259-characters
 tags:
-- Install and Configuration
-- Modern Source Control
-- Practical Techniques and Tooling
-- Azure DevOps
 - Software Development
 - System Configuration
 - Troubleshooting
 - Windows
+- Install and Configuration
+- Practical Techniques and Tooling
 - Pragmatic Thinking
-categories:
-- Engineering Excellence
+categories: []
 preview: metro-problem-icon-4-4.png
 
 ---

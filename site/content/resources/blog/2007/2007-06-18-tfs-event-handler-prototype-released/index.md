@@ -31,11 +31,7 @@ tags:
 - News and Reviews
 - Practical Techniques and Tooling
 - Working Software
-- Frequent Releases
-- Release Management
 - Software Development
-- System Configuration
-- Technical Mastery
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

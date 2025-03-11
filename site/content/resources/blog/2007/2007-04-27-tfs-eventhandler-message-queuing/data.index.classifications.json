@@ -82,12 +82,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:25:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses re-engineering an EventHandler infrastructure, which relates to engineering practices, but it primarily focuses on implementation details rather than broader technical excellence principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the re-engineering of an EventHandler infrastructure for Team Foundation Server, which touches on technical aspects of software development. However, it lacks explicit references to key topics such as TDD, CI/CD, or modular architecture. The discussion is somewhat technical but does not delve deeply into methodologies or practices that enhance agility or technical excellence, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -208,12 +211,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:13:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T15:20:51",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the implementation of an EventHandler infrastructure for Team Foundation Server, which relates to practical tooling in a DevOps context, but it is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the implementation of an EventHandler infrastructure for Team Foundation Server, which relates to tooling in a DevOps context. However, it lacks explicit references to Agile methodologies or broader tooling practices, focusing instead on a specific technical implementation. The discussion is somewhat detailed but does not provide a comprehensive exploration of practical techniques or methodologies, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -451,12 +457,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T16:38:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:18:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the re-engineering of EventHandler infrastructure for Team Foundation Server, which relates to the setup and management of system components, but the primary focus appears to be on software architecture rather than direct system configuration processes.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the re-engineering of an EventHandler infrastructure for Team Foundation Server, which touches on aspects of system configuration, such as handling events and managing assemblies. However, it lacks a detailed exploration of best practices, optimisation strategies, or configuration management tools. The primary focus is on the implementation of a specific solution rather than a broader discussion on system configuration principles.",
+    "level": "Quaternary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -703,12 +712,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T16:38:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:53:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses a technical implementation involving Team Foundation Server, re-engineering of event handling systems, and considerations of software performance and architecture, which are central to software craftsmanship.",
-    "level": "Secondary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the re-engineering of an EventHandler infrastructure for Team Foundation Server, which touches on software architecture and design principles. However, it lacks explicit mentions of best practices or methodologies related to software craftsmanship. The discussion is somewhat technical but does not delve deeply into the principles of clean code, testing, or maintainability, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
@@ -928,12 +940,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T16:38:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:06:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical implementation within Team Foundation Server, which is relevant to software developers, but does not primarily focus on Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the development of an EventHandler infrastructure for Team Foundation Server, which is relevant to software development. However, it lacks explicit references to Agile or DevOps methodologies, and the discussion is primarily technical without addressing broader themes such as collaboration, productivity, or best practices in software development. The depth of technical detail is present, but it does not sufficiently connect to the core themes of the category.",
+    "level": "Quaternary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1045,12 +1060,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T16:38:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T13:25:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses re-engineering an EventHandler infrastructure and details implementation considerations, suggesting a focus on engineering practices, but lacks a clear, primary emphasis on broader engineering excellence themes such as craftsmanship or quality assurance.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the re-engineering of an EventHandler infrastructure for Team Foundation Server, which touches on software development practices. However, it lacks explicit mentions of engineering excellence principles, best practices, or quality assurance. The focus is more on implementation details rather than a broader discussion of engineering excellence, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",

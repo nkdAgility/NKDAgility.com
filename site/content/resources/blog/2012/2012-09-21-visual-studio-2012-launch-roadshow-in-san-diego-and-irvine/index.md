@@ -8,7 +8,7 @@ ResourceImportId: 8834
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-09-21
-weight: 770
+weight: 715
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -31,7 +31,6 @@ tags:
 - News and Reviews
 categories:
 - Engineering Excellence
-- Social Technologies
 preview: metro-event-icon-3-3.png
 
 ---

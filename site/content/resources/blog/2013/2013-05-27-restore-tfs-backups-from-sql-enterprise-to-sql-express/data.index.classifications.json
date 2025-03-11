@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T18:38:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:04:37",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for restoring TFS backups from SQL Enterprise to SQL Express, including specific SQL commands and troubleshooting steps, which aligns well with the category.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed discussion on restoring TFS backups from SQL Enterprise to SQL Express, including specific SQL commands and troubleshooting steps. It directly addresses practical techniques for managing SQL Server editions and their features, which aligns with the category's focus on tooling and methodologies. However, while it discusses practical techniques, it lacks broader context on Agile or DevOps practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T18:38:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T12:48:03",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the process of restoring TFS backups from SQL Enterprise to SQL Express, including specific SQL commands and troubleshooting steps related to installation and configuration issues.",
+    "final_score": 80.0,
+    "reasoning": "The content provides a detailed guide on restoring TFS backups from SQL Enterprise to SQL Express, which directly relates to installation and configuration processes. It discusses specific errors encountered during the restoration process, offers step-by-step instructions to resolve these issues, and includes SQL commands necessary for configuration adjustments. The focus is on practical, actionable insights that align well with the key topics of the category, such as troubleshooting installation issues and configuration best practices. The depth of discussion is significant, covering both the problem and the solution comprehensively.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -370,12 +376,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T19:37:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:39:06",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical aspects of restoring TFS backups on different SQL Server editions, detailing SQL commands, error messages, and troubleshooting steps, which aligns with key topics of software craftsmanship and engineering practices.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content primarily discusses the technical aspects of restoring TFS backups from SQL Enterprise to SQL Express, focusing on specific SQL Server features and commands. While it provides practical solutions and SQL commands, it lacks a broader discussion on software craftsmanship principles or best practices in software design and architecture. The depth of technical detail is moderate, but it does not fully align with the core themes of Technical Mastery, such as clean code principles or agile engineering practices.",
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -577,11 +586,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T19:37:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:54:37",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to restoring TFS backups in SQL Server, which involves software development practices, particularly around database management in context of TFS and SQL Server. It also covers altering database configuration and features relevant to development tools.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the technical aspects of restoring TFS backups from SQL Server Enterprise to SQL Express, which is a specific software development task. It includes detailed instructions, SQL commands, and explanations of the limitations of different SQL Server editions, aligning well with software development practices. The depth of discussion is significant, providing practical solutions and insights into database management within the context of software development.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -730,12 +742,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:04:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical details regarding database management, specifically addressing issues with SQL Server editions and features. While this is relevant to engineering practice, the primary focus is not on broader engineering excellence principles but rather on a specific technical issue, hence it is a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses technical issues related to restoring TFS backups and SQL Server editions, which does not directly address the principles of software craftsmanship or best practices in coding standards. While it touches on aspects of technical debt and the implications of using enterprise features, it lacks a broader discussion on engineering excellence or continuous improvement in software development practices.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -775,11 +790,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T19:37:27",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T14:49:47",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses practical problem-solving strategies for restoring TFS backups in SQL Server, focusing on real-world applications and navigating complex issues with database features in a specific context. This reflects pragmatic thinking in dealing with practical software management challenges.",
+    "final_score": 65.0,
+    "reasoning": "The content provides practical solutions for restoring TFS backups from SQL Enterprise to SQL Express, addressing real-world issues encountered during the process. It discusses specific commands and SQL statements to resolve errors, demonstrating a pragmatic approach to problem-solving. However, while it touches on practical strategies, it lacks a broader discussion on Agile, Scrum, or DevOps frameworks, which limits its alignment with the core themes of the category.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -1045,11 +1063,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T19:37:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:29:22",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily focuses on the configuration aspects and troubleshooting of restoring TFS backups from SQL Server Enterprise to SQL Express, detailing the steps for modifying system configurations to ensure compatibility and successful restoration.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses the technical aspects of restoring TFS backups from SQL Server Enterprise to SQL Express, focusing on configuration issues related to database features and compression. It provides detailed instructions on how to identify and remove enterprise features that are incompatible with SQL Express, which aligns well with the key topics of system configuration. The depth of discussion is significant, as it includes SQL commands and troubleshooting steps, demonstrating a thorough understanding of the configuration process. Overall, the content is highly relevant to the category of System Configuration.",
     "level": "Secondary"
   },
   "Product Strategy": {

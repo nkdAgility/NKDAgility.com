@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T16:34:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T15:13:52",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical steps and techniques for integrating SharePoint 2013 with Team Foundation Server 2012, including installation, configuration, and best practices, which aligns well with the category.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed guide on integrating SharePoint 2013 with Team Foundation Server 2012, which directly relates to practical techniques and tooling in a DevOps context. It discusses specific steps, tools, and configurations necessary for successful integration, aligning well with the key topics of the category. The depth of discussion is substantial, covering installation, configuration, and troubleshooting, which enhances its relevance to the category.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -73,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-14T16:34:14",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-10T12:52:04",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 40,
     "non_ai_confidence": 30,
-    "final_score": 84.0,
-    "reasoning": "The content primarily focuses on the installation and configuration of SharePoint 2013 with Team Foundation Server 2012, providing detailed step-by-step instructions and best practices.",
+    "final_score": 86.0,
+    "reasoning": "The content provides a comprehensive guide on installing and configuring SharePoint 2013 with Team Foundation Server 2012. It includes detailed step-by-step instructions, troubleshooting tips, and best practices for installation and configuration, which aligns closely with the key topics of the 'Install and Configuration' category. The primary focus is on the technical aspects of the installation process, making it highly relevant to the category.",
     "level": "Primary"
   },
   "Transparency and Accountability": {
@@ -118,12 +124,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T15:13:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of SharePoint 2013 with Team Foundation Server 2012, which relates to DevOps practices, particularly in the context of collaboration between development and operations tools. However, the primary focus is on installation and configuration rather than broader DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the integration of SharePoint 2013 with Team Foundation Server 2012, which is more aligned with software installation and configuration rather than the broader principles of DevOps. While it touches on aspects of collaboration between tools (TFS and SharePoint), it lacks a comprehensive discussion on DevOps practices such as CI/CD, automation, or cultural shifts. The depth of discussion is limited to technical steps without exploring the implications or benefits of these integrations in a DevOps context.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -208,12 +217,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:56:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily focuses on the integration of SharePoint 2013 with Team Foundation Server 2012, detailing installation and configuration processes. While it touches on technical practices, it does not delve deeply into methodologies that enhance agility or engineering excellence, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the integration of SharePoint 2013 with Team Foundation Server 2012, detailing installation and configuration steps. While it touches on technical aspects, such as installation processes and configuration wizards, it lacks a direct discussion on engineering practices or methodologies that enhance agility in software development. The mention of Scrum dashboards is too brief and does not delve into the principles of Technical Excellence, such as TDD or CI/CD. Overall, the content is more operational than strategic, leading to a low confidence score in alignment with the category.",
+    "level": "Quaternary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -577,11 +589,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-14T16:35:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T14:52:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the integration of SharePoint 2013 with Team Foundation Server 2012, which involves software installation, configuration, and best practices relevant to software development methodologies and tools.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on the integration of SharePoint 2013 with Team Foundation Server 2012, which is a relevant topic within software development. It discusses installation steps, configuration processes, and best practices for setting up these tools, aligning well with software engineering practices. The mention of Scrum dashboards and process templates indicates a connection to Agile methodologies, further reinforcing its relevance to the Software Development category. However, while the content is detailed, it lacks a broader discussion on software development methodologies or principles, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1045,11 +1060,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-14T16:37:37",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-10T18:41:35",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses the installation and configuration processes for integrating SharePoint 2013 with Team Foundation Server 2012, detailing best practices, configuration steps, and troubleshooting, which aligns closely with the System Configuration category.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on the configuration of SharePoint 2013 with Team Foundation Server 2012, detailing installation steps, prerequisites, and configuration wizards. It discusses best practices for installation, the importance of updates, and specific configuration steps, which align closely with the key topics of system configuration. The depth of discussion is substantial, providing detailed instructions and considerations for successful integration, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1198,12 +1216,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:31:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the integration of SharePoint 2013 with Team Foundation Server 2012, which is relevant to software developers, particularly in the context of Agile methodologies and project management tools. However, the primary focus is on installation and configuration rather than on broader Agile or DevOps practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the integration of SharePoint 2013 with Team Foundation Server 2012, which is relevant to software developers but does not explicitly discuss Agile or DevOps methodologies. While it touches on some aspects of software development practices, such as configuration and installation processes, it lacks a direct focus on the role of developers within Agile or DevOps frameworks. The depth of discussion is moderate, providing detailed steps for integration, but it does not explore best practices or collaborative strategies that are central to the Software Developers category.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1351,12 +1372,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:49:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:52:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of SharePoint 2013 with Team Foundation Server 2012, which includes references to Agile methodologies and Scrum dashboards, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical integration of SharePoint 2013 with Team Foundation Server 2012, with only brief mentions of Agile practices and Scrum dashboards. While it touches on some aspects of team collaboration through the use of Scrum templates, the overall emphasis is on installation and configuration rather than on the core principles of social technologies like Scrum, Kanban, Lean, or Agile methodologies.",
+    "level": "Quaternary"
   },
   "Leadership": {
     "category": "Leadership",

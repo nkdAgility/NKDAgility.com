@@ -5,7 +5,7 @@ ResourceId: -wdSJlbQQbK
 ResourceImport: true
 ResourceType: newsletters
 date: 2023-12-05
-weight: 545
+weight: 580
 preview: naked-agility-technically-agile-1280×720-December2023.jpg
 author: MrHinsh
 resourceTypes: newsletter
@@ -20,17 +20,18 @@ aliasesArchive:
 categories:
 - Scrum
 - Social Technologies
+- Product Management
 tags:
+- People and Process
 - Continuous Learning
 - Discovery and Learning
-- People and Process
 - Professional Scrum
 - Agile Transformation
 - Events and Presentations
 - Products and Books
 - Pragmatic Thinking
-- Agile Project Management
 - Value Delivery
+- Agile Project Management
 
 ---
 We have already had great success with our immersive learning classes, with the 8-week Professional Scrum Product Owner gaining high acclaim not only from the students but also from their managers and leaders:

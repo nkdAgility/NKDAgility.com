@@ -31,6 +31,15 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Product Management
+- Organisational Agility
+- Product Delivery
+- Business Agility
+- Discovery and Learning
+- Market Adaptability
+- Value Delivery
+- Agile Product Operating Model
+- Agile Project Management
+- Agile Values and Principles
 resourceTypes:
 - video
 categories:

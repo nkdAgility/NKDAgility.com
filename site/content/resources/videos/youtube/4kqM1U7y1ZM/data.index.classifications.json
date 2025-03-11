@@ -1,57 +1,75 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T21:27:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-07T13:44:52",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses strategies for transforming a Scrum team, focusing on Scrum roles, continuous delivery, and the importance of collaboration and value delivery within the Agile framework.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the Scrum framework, including the roles of the Product Owner and the importance of continuous delivery and feedback loops. It aligns well with the core themes of Social Technologies, particularly in terms of value delivery and collaboration within teams. The depth of discussion is significant, covering strategies for empowering teams and adapting to organisational constraints, which are central to Agile practices.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T21:28:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:07:17",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses continuous delivery and engineering practices within the context of Scrum, making it a major but secondary theme rather than the primary focus.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the transformation of a Scrum team towards continuous delivery, which aligns with engineering practices. However, the primary focus is on Scrum roles and organisational dynamics rather than on engineering excellence principles, coding standards, or quality assurance. While it touches on continuous delivery, it lacks depth in discussing best practices or metrics related to engineering performance.",
     "level": "Tertiary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T21:28:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:17:10",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses continuous delivery and the integration of engineering practices with business value, which are relevant to DevOps, but the primary focus is on Scrum and Agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses the transition of a Scrum team towards continuous delivery, which aligns with DevOps principles. It mentions the importance of continuous delivery and the integration of feedback loops, which are key aspects of DevOps. However, the primary focus is on Scrum practices and team dynamics rather than a comprehensive exploration of DevOps as a whole. The mention of DevOps is brief and secondary, but the overall themes and depth of discussion support a strong alignment with the category.",
+    "level": "Secondary"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T21:28:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:12:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Scrum in product delivery and the importance of aligning business value with engineering practices, making product management a significant theme, though not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the transformation of a Scrum team and the importance of aligning product delivery with business value, which relates to product management. However, it primarily focuses on Scrum practices and team dynamics rather than broader product management strategies. The mention of the Product Owner's role and the need for understanding business value indicates some alignment with product management, but the depth of discussion is more centred on Agile methodologies than on strategic product management frameworks.",
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T21:28:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:10:47",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the role of leadership in supporting Scrum teams and fostering an environment for continuous delivery, making leadership a significant theme, though not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the role of leadership in fostering an environment conducive to Agile practices, particularly in the context of transforming a Scrum team. It highlights the importance of receptive leadership and organisational support, which aligns with the core themes of leadership in Agile. The depth of discussion includes strategies for empowering teams and the significance of leadership in enabling continuous delivery and value understanding. However, while leadership is a significant focus, the content also delves into technical aspects of Scrum and delivery processes, which slightly detracts from its primary leadership focus.",
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T21:28:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T13:46:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the transformation of a Scrum team and the importance of organisational support and leadership in achieving continuous delivery, which are relevant to business agility, but the primary focus is on Scrum practices.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the transformation of a Scrum team and the importance of organisational support and leadership in achieving continuous delivery. While it touches on aspects of business agility, such as adapting to organisational constraints and fostering a culture of continuous improvement, it primarily focuses on Scrum practices rather than the broader principles of business agility. The discussion lacks depth in exploring the strategic implications of business agility and does not provide case studies or metrics, which are key topics in the category.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -64,12 +82,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T21:28:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:07:20",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses strategies for transforming a Scrum team and touches on Scrum principles, roles, and practices, but it also includes broader Agile concepts and personal opinions, making Scrum a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses strategies for transforming a Scrum team and touches on key Scrum concepts such as continuous delivery, the role of the Product Owner, and the importance of feedback loops. However, it lacks a structured exploration of Scrum roles and events as outlined in the Scrum Guide, which limits its depth and direct alignment with the Professional Scrum category.",
+    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -82,12 +103,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T21:28:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T14:17:13",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of continuous delivery and feedback loops, which are relevant to Evidence-Based Management, but the primary focus is on Scrum team dynamics and strategies rather than empirical evidence or data-driven decision-making.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the transformation of a Scrum team and touches on concepts like continuous delivery and organisational support. However, it lacks explicit references to Evidence-Based Management principles, empirical data, or metrics. While there are elements of alignment with EBM, such as the importance of understanding value and feedback loops, the discussion is more focused on Scrum practices rather than a thorough exploration of EBM itself.",
+    "level": "Quaternary"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
@@ -109,20 +133,26 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-17T21:28:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:12:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of validating business value and closing the feedback loop, which aligns with hypothesis-driven development principles, but the primary focus is on Scrum and team empowerment.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum and continuous delivery without a clear focus on hypothesis formulation or experimentation. While it touches on the importance of feedback and learning, it lacks detailed exploration of hypothesis-driven development principles, such as formulating hypotheses or conducting experiments to validate them.",
+    "level": "Quaternary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T21:28:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:10:52",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses strategies for transforming a Scrum team, focusing on Agile principles, continuous delivery, and the role of the Product Owner, which aligns closely with the Agile Frameworks category.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the Scrum framework, discussing strategies for transforming a Scrum team within a 90-day period. It explicitly mentions Scrum roles, events, and the importance of continuous delivery, which aligns well with the principles of Agile frameworks. The discussion includes insights into organisational support, team dynamics, and the role of the Product Owner, demonstrating a solid understanding of Agile principles. However, while the content is rich in detail regarding Scrum, it does not extensively cover other Agile frameworks or provide a comparative analysis, which slightly limits its depth in the broader Agile context.",
     "level": "Secondary"
   },
   "Revenue per Employee": {
@@ -199,11 +229,14 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T21:28:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:33:51",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses strategies for transforming a Scrum team, focusing on continuous delivery, team dynamics, and the role of leadership in supporting team performance within an Agile framework.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses strategies for transforming a Scrum team within 90 days, focusing on continuous delivery and the importance of organisational support. It highlights the role of leadership and the need for a champion within the organisation, which aligns well with the category's emphasis on enhancing team dynamics and collaboration. The discussion on feedback loops and understanding business value also reflects key themes of team performance. However, while the content is rich in relevant concepts, it lacks specific metrics or tools for measuring performance, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Collaboration Tools": {

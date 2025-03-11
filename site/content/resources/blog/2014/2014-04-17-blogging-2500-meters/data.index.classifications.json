@@ -289,12 +289,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T12:41:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes personal reflections on the author's experiences while blogging from a mountain, discussing challenges with technology and writing tools, which aligns with the Personal category, but it lacks a strong connection to Agile, Scrum, or DevOps themes.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content provides a personal account of the author's experiences while skiing and blogging from a mountain, which aligns with the Personal category. However, it primarily focuses on the technical aspects of blogging and the tools used, rather than reflecting on Agile, Scrum, or DevOps methodologies. The personal anecdotes are present but lack depth in relation to the specified themes, resulting in a lower confidence score.",
+    "level": "Quaternary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1099,12 +1102,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-07T14:49:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions Windows applications like OneNote and Word, and discusses their use in the context of blogging, but the primary focus is on the blogging experience and not exclusively on Windows.",
-    "level": "Tertiary"
+    "final_score": 34.0,
+    "reasoning": "The content briefly mentions Windows-related software, specifically OneNote and Word, but does not focus on the Windows operating system itself. The discussion revolves around blogging and personal experiences rather than installation, configuration, or troubleshooting of Windows. While there are references to Windows applications, they are secondary to the main narrative, which is about the author's experience while skiing and blogging. Therefore, the confidence score reflects a low alignment with the Windows category.",
+    "level": "Quaternary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",

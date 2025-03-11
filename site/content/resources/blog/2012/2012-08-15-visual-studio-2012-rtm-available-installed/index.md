@@ -8,7 +8,7 @@ ResourceImportId: 7149
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-08-15
-weight: 685
+weight: 695
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,12 +28,12 @@ aliasesArchive:
 - /resources/blog/visual-studio-2012-rtm-available-installed
 tags:
 - Install and Configuration
+- Software Development
+- Products and Books
 - News and Reviews
 - Practical Techniques and Tooling
-- Products and Books
-- Software Development
-- System Configuration
 - Release Management
+- System Configuration
 - Technical Mastery
 - Troubleshooting
 categories:

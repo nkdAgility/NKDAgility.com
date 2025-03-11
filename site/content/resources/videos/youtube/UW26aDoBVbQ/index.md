@@ -26,8 +26,9 @@ duration: 31
 isShort: true
 tags:
 - Lean Product Development
-- Product Delivery
 - Product Owner
+- People and Process
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

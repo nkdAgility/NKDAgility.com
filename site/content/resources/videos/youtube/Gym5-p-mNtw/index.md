@@ -26,15 +26,6 @@ duration: 525
 isShort: false
 tags:
 - Metrics and Learning
-- Operational Practices
-- Pragmatic Thinking
-- Organisational Agility
-- Agile Product Management
-- Agile Product Operating Model
-- Business Agility
-- Market Adaptability
-- People and Process
-- Ability to Innovate
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -42,8 +33,8 @@ resourceTypes:
 - video
 categories:
 - Engineering Excellence
-- Social Technologies
 - Product Management
+- DevOps
 
 ---
 Most organisations are blissfully unaware of the sheer amount of waste lurking within their systems. It’s staggering to think about the money they’re haemorrhaging simply because they lack a focus on engineering excellence. In the context of agile and business agility, we need to embrace a continuous mindset—continuous integration, continuous delivery, continuous feedback, and continuous testing. This dynamic nature of operations allows us to identify problems sooner, which means they’re smaller and easier to address. By doing so, we not only eliminate waste but also gather valuable data and telemetry that help us understand our processes better. This understanding is crucial for pinpointing problem areas and taking action before costs spiral out of control.
