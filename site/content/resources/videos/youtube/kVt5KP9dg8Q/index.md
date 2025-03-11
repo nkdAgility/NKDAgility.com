@@ -35,10 +35,10 @@ tags:
 - Agile Philosophy
 - Agile Strategy
 - Operational Practices
-- Software Developers
 - Pragmatic Thinking
 - Working Software
 - Product Delivery
+- Software Developers
 - Organisational Agility
 resourceTypes:
 - video

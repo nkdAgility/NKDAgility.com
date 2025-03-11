@@ -36,10 +36,10 @@ tags:
 - Market Adaptability
 - Resilience and Change
 - Enterprise Agility
+- Sociotechnical Systems
 - Organisational Culture
 - Strategic Goals
 - Agile Strategy
-- Operational Practices
 resourceTypes:
 - video
 categories:

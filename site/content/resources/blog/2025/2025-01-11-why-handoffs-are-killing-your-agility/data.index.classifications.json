@@ -337,11 +337,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-11T14:46:10",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T13:05:32",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses the negative impact of handoffs on Agile practices and emphasizes the importance of modern engineering practices such as Continuous Delivery, Test-Driven Development, and cross-functional teams, which are central to enhancing collaboration and efficiency in software development.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily discusses the negative impact of handoffs on Agile practices and highlights the importance of cross-functional teams, automation, and continuous delivery, which are core engineering practices. It provides detailed insights into how to eliminate handoffs and improve collaboration, aligning well with the principles of Agile development. However, while it touches on relevant practices, the focus on handoffs as an anti-pattern somewhat diverts from a direct discussion of clean code, TDD, and CI/CD, leading to a slightly lower confidence score.",
     "level": "Secondary"
   },
   "Portfolio Management": {

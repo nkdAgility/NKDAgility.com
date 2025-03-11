@@ -37,10 +37,10 @@ tags:
 - Strategy
 - Transparency
 - Agile Frameworks
-- Agile Project Management
 - Agile Transformation
 - Lean Thinking
 - Operational Practices
+- Software Development
 resourceTypes:
 - video
 categories:

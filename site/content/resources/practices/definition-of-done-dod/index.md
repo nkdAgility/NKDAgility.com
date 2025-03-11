@@ -41,8 +41,8 @@ categories:
 - Scrum
 - Social Technologies
 tags:
-- Definition of Done
 - Transparency
+- Definition of Done
 - Increment
 - Working Software
 - Product Delivery

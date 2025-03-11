@@ -25,8 +25,8 @@ isShort: true
 tags:
 - Events and Presentations
 - People and Process
-- Professional Scrum
 - Scrum Master
+- Professional Scrum
 - Continuous Learning
 - Agile Frameworks
 - Agile Project Management

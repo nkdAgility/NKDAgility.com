@@ -430,11 +430,14 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-12T15:09:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T13:05:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the use of feature flags in the context of continuous delivery, focusing on how customer feedback is gathered through telemetry and direct communication when features are turned off. It highlights the importance of engaging with customers to understand their needs and improve product functionality, which aligns well with the principles of customer feedback loops.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the use of feature flags in software development, which indirectly relates to customer feedback loops by highlighting how telemetry and user feedback are used to assess feature performance and user satisfaction. However, the primary focus is on the technical implementation of feature flags rather than a structured exploration of customer feedback integration practices. While there are mentions of gathering feedback and engaging with users, the depth of discussion on systematic feedback loops is limited.",
     "level": "Secondary"
   },
   "Agile Strategy": {

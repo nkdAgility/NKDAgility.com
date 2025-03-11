@@ -26,6 +26,7 @@ duration: 496
 isShort: false
 tags:
 - Business Agility
+- Pragmatic Thinking
 - Value Delivery
 - Organisational Agility
 - Agile Product Operating Model
@@ -34,7 +35,6 @@ tags:
 - Agile Values and Principles
 - Change Management
 - Enterprise Agility
-- Agile Frameworks
 sitemap:
   filename: sitemap.xml
   priority: 0.6

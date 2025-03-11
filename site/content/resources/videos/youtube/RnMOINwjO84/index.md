@@ -30,10 +30,10 @@ tags:
 - Discovery and Learning
 - Enterprise Agility
 - Market Adaptability
+- Organisational Physics
 - Decision Making
 - People and Process
 - Resilience and Change
-- Decision Theory
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -37,7 +37,7 @@ tags:
 - Lean Principles
 - Operational Practices
 - Pragmatic Thinking
-- Throughput
+- Practical Techniques and Tooling
 
 ---
 ## Duration

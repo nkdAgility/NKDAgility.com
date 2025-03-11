@@ -31,9 +31,9 @@ tags:
 - Pragmatic Thinking
 - Sensemaking
 - Resilience and Change
+- Coaching
 - Miscellaneous
 - Organisational Agility
-- Organisational Physics
 sitemap:
   filename: sitemap.xml
   priority: 0.6

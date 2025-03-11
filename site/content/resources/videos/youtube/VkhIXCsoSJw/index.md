@@ -25,6 +25,7 @@ preview: https://i.ytimg.com/vi/VkhIXCsoSJw/maxresdefault.jpg
 duration: 529
 isShort: false
 tags:
+- Deployment Frequency
 - Practical Techniques and Tooling
 - Product Delivery
 - Technical Excellence
@@ -34,7 +35,6 @@ tags:
 - Pragmatic Thinking
 - Automated Testing
 - Cycle Time
-- Flow Efficiency
 resourceTypes:
 - video
 sitemap:

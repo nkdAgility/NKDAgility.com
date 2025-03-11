@@ -30,7 +30,6 @@ categories:
 - Product Management
 tags:
 - Agile Project Management
-- Agile Planning
 - Working Agreements
 - Transparency
 - Agile Product Management
@@ -39,6 +38,7 @@ tags:
 - People and Process
 - Product Delivery
 - Agile Frameworks
+- Agile Planning
 
 ---
 ## Customer Working Agreement

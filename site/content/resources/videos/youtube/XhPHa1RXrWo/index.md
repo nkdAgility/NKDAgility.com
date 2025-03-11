@@ -33,8 +33,8 @@ tags:
 - Software Development
 - Pragmatic Thinking
 - Agile Philosophy
-- Agile Transformation
 - Agile Values and Principles
+- Agile Transformation
 - Complexity Thinking
 - Sociotechnical Systems
 - Agile Frameworks

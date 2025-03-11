@@ -27,6 +27,7 @@ duration: 40
 isShort: true
 tags:
 - People and Process
+- Ability to Innovate
 - Organisational Culture
 - Technical Mastery
 sitemap:

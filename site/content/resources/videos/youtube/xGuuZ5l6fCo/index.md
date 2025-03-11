@@ -31,6 +31,7 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Product Management
+- People and Process
 - Organisational Agility
 - Product Delivery
 - Business Agility
@@ -39,7 +40,6 @@ tags:
 - Value Delivery
 - Agile Product Operating Model
 - Agile Project Management
-- Agile Values and Principles
 resourceTypes:
 - video
 categories:

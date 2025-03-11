@@ -26,6 +26,7 @@ duration: 53
 isShort: true
 tags:
 - Product Discovery
+- Discovery and Learning
 - People and Process
 sitemap:
   filename: sitemap.xml

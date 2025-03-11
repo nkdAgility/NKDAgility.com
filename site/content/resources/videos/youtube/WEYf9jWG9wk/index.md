@@ -32,11 +32,11 @@ tags:
 - Value Delivery
 - Continuous Learning
 - Experimentation
+- Lean Startup
 - Pragmatic Thinking
 - Lean Product Development
 - Product Discovery
 - Product Validation
-- Business Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

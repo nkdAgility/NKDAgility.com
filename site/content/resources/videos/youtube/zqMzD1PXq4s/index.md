@@ -25,6 +25,7 @@ preview: https://i9.ytimg.com/vi/zqMzD1PXq4s/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 413
 isShort: false
 tags:
+- Technical Debt
 - Technical Mastery
 - Operational Practices
 - Pragmatic Thinking
@@ -32,7 +33,6 @@ tags:
 - Software Development
 - Technical Leadership
 - Engineering Practices
-- Technical Debt
 - People and Process
 - Code and Complexity
 sitemap:

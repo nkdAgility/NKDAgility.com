@@ -27,13 +27,13 @@ isShort: false
 tags:
 - Product Delivery
 - Working Software
+- Software Development
 - Pragmatic Thinking
 - Technical Excellence
 - Continuous Delivery
 - Deployment Frequency
 - Deployment Strategies
 - Software Developers
-- Software Development
 - Azure DevOps
 sitemap:
   filename: sitemap.xml

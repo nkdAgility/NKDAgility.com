@@ -40,13 +40,13 @@ categories:
 - Scrum
 tags:
 - Scrum Product Development
+- Scrum Team
 - Agile Planning
 - Agile Project Management
 - Software Development
 - People and Process
 - Agile Product Management
 - Product Delivery
-- Scrum Team
 - Professional Scrum
 - Agile Frameworks
 

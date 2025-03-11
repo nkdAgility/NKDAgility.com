@@ -29,10 +29,10 @@ tags:
 - Team Motivation
 - Agile Leadership
 - Organisational Psychology
+- Self Organisation
 - Agile Values and Principles
 - Agile Philosophy
 - Organisational Culture
-- Self Organisation
 - Team Collaboration
 sitemap:
   filename: sitemap.xml

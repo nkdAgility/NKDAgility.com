@@ -31,8 +31,8 @@ tags:
 - Pragmatic Thinking
 - Professional Scrum
 - Scrum Master
-- Scrum Product Development
 - Scrum Team
+- Scrum Product Development
 - Technical Leadership
 sitemap:
   filename: sitemap.xml

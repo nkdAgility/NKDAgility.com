@@ -29,12 +29,12 @@ tags:
 - Forecasting
 - Software Development
 - Metrics and Learning
+- Agile Project Management
 - Cycle Time
 - Scrum Team
 - Throughput
 - Scrum Product Development
 - Agile Frameworks
-- Agile Project Management
 - Transparency
 
 ---

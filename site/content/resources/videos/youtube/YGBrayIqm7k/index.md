@@ -33,12 +33,12 @@ tags:
 - Value Delivery
 - People and Process
 - Product Delivery
-- Ability to Innovate
 - Strategy
 - Agile Product Operating Model
 - Agile Project Management
 - Agile Strategy
 - Strategic Goals
+- Metrics and Learning
 resourceTypes:
 - video
 categories:

@@ -29,10 +29,10 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Organisational Culture
 - Change Management
 - Continuous Learning
 - Organisational Change
-- Organisational Culture
 - Sociotechnical Systems
 - Technical Leadership
 - Pragmatic Thinking

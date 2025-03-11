@@ -32,9 +32,9 @@ tags:
 - Practical Techniques and Tooling
 - Working Software
 - Continuous Integration
+- Pragmatic Thinking
 - Test Automation
 - Code and Complexity
-- Continuous Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
