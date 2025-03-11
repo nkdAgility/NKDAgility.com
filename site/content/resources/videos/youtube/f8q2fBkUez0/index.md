@@ -27,6 +27,7 @@ isShort: false
 tags:
 - People and Process
 - Organisational Change
+- Organisational Culture
 sitemap:
   filename: sitemap.xml
   priority: 0.6

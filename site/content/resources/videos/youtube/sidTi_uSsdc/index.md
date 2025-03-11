@@ -29,6 +29,7 @@ tags:
 - Agile Transformation
 - Team Motivation
 - Agile Philosophy
+- Agile Leadership
 resourceTypes:
 - video
 categories: []

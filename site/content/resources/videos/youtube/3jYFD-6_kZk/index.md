@@ -30,13 +30,14 @@ sitemap:
 tags:
 - Azure DevOps
 - Practical Techniques and Tooling
-- Pragmatic Thinking
 - Software Development
 - Troubleshooting
+- Pragmatic Thinking
 - Install and Configuration
 - System Configuration
 - Technical Mastery
 - Software Developers
+- Modern Source Control
 resourceTypes:
 - video
 layout: video

@@ -31,20 +31,20 @@ sitemap:
 tags:
 - People and Process
 - Accountability
-- Product Owner
 - Scrum Product Development
 - Scrum Team
 - Agile Project Management
-- Team Collaboration
-- Agile Product Management
 - Transparency and Accountability
+- Agile Product Management
+- Product Owner
 - Professional Scrum
+- Personal
 resourceTypes:
 - video
 categories:
 - Scrum
 - Product Management
-- Leadership
+- Social Technologies
 
 ---
 ## Bridging the Gap Between Developers and Product Owners 🌉 

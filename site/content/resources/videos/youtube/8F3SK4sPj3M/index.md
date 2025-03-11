@@ -29,6 +29,9 @@ sitemap:
   priority: 0.6
 tags:
 - Product Owner
+- Agile Product Management
+- Products and Books
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

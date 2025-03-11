@@ -34,6 +34,7 @@ tags:
 - People and Process
 - Sociotechnical Systems
 - Organisational Physics
+- Systems Thinking
 resourceTypes:
 - video
 categories: []

@@ -31,11 +31,10 @@ aliasesArchive:
 categories:
 - Engineering Excellence
 tags:
-- Practical Techniques and Tooling
 - Software Development
+- Practical Techniques and Tooling
 - Modern Source Control
 - Application Lifecycle Management
-- Operational Practices
 - Events and Presentations
 - Technical Excellence
 - Technical Mastery

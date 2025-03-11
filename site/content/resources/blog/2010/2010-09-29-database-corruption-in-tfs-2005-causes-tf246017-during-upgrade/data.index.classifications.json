@@ -592,11 +592,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T01:08:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:08:53",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses a technical issue encountered during an upgrade of Team Foundation Server (TFS), detailing the error TF246017 and the relevant SQL commands to diagnose and resolve database corruption, which relates directly to software development practices and processes.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses a specific issue encountered during a software upgrade process involving Team Foundation Server (TFS), which is relevant to software development practices. It provides a detailed account of an error message, troubleshooting steps, and a solution involving SQL commands. While it does not explicitly mention broader software development methodologies or practices, it aligns with the category through its focus on a technical problem and resolution within the software development lifecycle. The depth of discussion is moderate, primarily centred on a specific technical issue rather than a comprehensive exploration of software development principles.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -964,12 +967,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:10:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an upgrade process related to Team Foundation Server, which involves software release management, particularly the resolution of issues encountered during a software upgrade. However, the focus is more on technical troubleshooting rather than comprehensive release management strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific upgrade process for TFS, which is related to release management. However, it primarily focuses on troubleshooting a database error rather than broader release management strategies or practices. While it touches on aspects of the upgrade process, it lacks a comprehensive discussion on planning, scheduling, or coordination typically associated with release management.",
+    "level": "Quaternary"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -1174,12 +1180,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T01:08:52",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-11T16:59:23",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "The content primarily discusses encountering a specific error during a TFS database upgrade, detailing the process of diagnosing the issue related to a corrupted database and providing a solution using SQL commands. This aligns well with troubleshooting in a technical context.",
-    "level": "Primary"
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed account of a specific technical issue encountered during a software upgrade, including error messages and troubleshooting steps taken to resolve the problem. It explicitly discusses the identification of the issue (database corruption) and the resolution method (using the 'dbcc checkdb' command), which aligns closely with the core themes of the Troubleshooting category. The depth of discussion is significant, as it includes specific error codes, logs, and the process of diagnosing and fixing the issue, demonstrating a thorough understanding of troubleshooting methodologies.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",

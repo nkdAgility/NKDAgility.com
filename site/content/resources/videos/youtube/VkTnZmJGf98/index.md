@@ -30,8 +30,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Evidence Based Management
 - Evidence Based Leadership
+- Evidence Based Management
 resourceTypes:
 - video
 categories:

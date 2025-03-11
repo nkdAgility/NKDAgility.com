@@ -385,11 +385,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T10:22:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:45:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical details and best practices involved in migrating source control from Perforce to Git, including repository management, the benefits of using Git, and specific strategies for improving code quality and build processes. It strongly emphasizes technical methodologies relevant to software engineering excellence.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating from Perforce to Git, discussing specific steps and considerations involved in the migration. While it touches on some best practices, such as repository size management and the importance of CI builds, the overall discussion is more about the migration process rather than a deep exploration of software craftsmanship principles or methodologies. The technical aspects are present, but they are not the primary focus, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -493,11 +496,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T10:22:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:55:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the operational practices involved in migrating source control systems, particularly emphasizing techniques related to enhancing operational efficiency and process optimization in software development using Git and VSO.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the technical aspects of migrating from Perforce to Git, which includes some operational considerations such as repository management and build processes. However, while it touches on aspects of operational practices, such as the importance of repository size and CI builds, the focus is more on the migration process itself rather than a comprehensive exploration of operational efficiency techniques or strategies within Agile, DevOps, or Lean frameworks.",
     "level": "Secondary"
   },
   "Scrum Team": {
@@ -1222,11 +1228,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-15T10:22:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:56:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the process and considerations for migrating source control from Perforce to Git, which relates to modern software development practices, including version control and CI/CD principles in the context of software development teams.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the technical aspects of migrating from Perforce to Git, which is relevant to software developers. It touches on version control practices and mentions tools like Git and VSO, aligning with modern engineering practices. However, while it provides some insights into the migration process, it lacks a deeper exploration of Agile or DevOps methodologies, which are central to the category. The focus is more on technical execution rather than the broader implications for developer roles or team dynamics.",
     "level": "Secondary"
   },
   "Coaching": {

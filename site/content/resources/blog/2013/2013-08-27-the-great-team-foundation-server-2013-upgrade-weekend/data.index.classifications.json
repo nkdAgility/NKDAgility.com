@@ -244,12 +244,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:58:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the upgrade process for Team Foundation Server 2013, which relates to product delivery, but it primarily focuses on the event and support rather than the methodologies or practices of delivering software products.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses an event aimed at facilitating the upgrade to Team Foundation Server 2013, which relates to product delivery in terms of support and resources for installation and configuration. However, it lacks a detailed exploration of methodologies, practices, or metrics associated with product delivery, making it more of an announcement than a comprehensive discussion on the topic.",
+    "level": "Quaternary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -967,12 +970,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:59:48",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an event focused on upgrading to TFS 2013, which involves aspects of version control and release processes, but the primary focus is on the event itself rather than comprehensive release management strategies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses an event focused on upgrading to Team Foundation Server 2013, which relates to release management in terms of supporting software upgrades and installations. However, it lacks a detailed exploration of release management strategies, practices, or metrics, making it more of an announcement than a comprehensive discussion on the topic.",
+    "level": "Quaternary"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -1066,12 +1072,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:48:01",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses an event related to upgrading Team Foundation Server 2013, with mentions of installation and configuration support. However, the overall focus is more on the event organization rather than the detailed processes of system configuration.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the Team Foundation Server 2013 Upgrade Weekend, which includes assistance with installation and configuration. This aligns with the category of System Configuration as it directly addresses the processes involved in setting up and upgrading software. However, while it mentions configuration and installation, the depth of technical detail regarding best practices or optimisation strategies is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",

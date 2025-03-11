@@ -35,6 +35,8 @@ tags:
 - Scrum Product Development
 - Value Delivery
 - Agile Project Management
+- Customer Feedback Loops
+- Scrum Team
 - Product Strategy
 resourceTypes:
 - video

@@ -38,9 +38,9 @@ tags:
 - Beta Codex
 - Organisational Change
 - Organisational Culture
-- Organisational Physics
 - Pragmatic Thinking
-- Sociotechnical Systems
+- Transparency and Accountability
+- Organisational Agility
 resourceTypes:
 - video
 categories:

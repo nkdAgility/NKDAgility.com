@@ -23,15 +23,15 @@ aliasesArchive:
 - /working-within-a-single-team-project-with-team-foundation-server-2012
 - /resources/blog/working-within-a-single-team-project-with-team-foundation-server-2012
 tags:
-- Software Developers
 - Software Development
 - Team Collaboration
-- Pragmatic Thinking
 - Practical Techniques and Tooling
 - Working Software
 - People and Process
 - Application Lifecycle Management
+- Software Developers
 - Operational Practices
+- Pragmatic Thinking
 - Agile Planning
 categories:
 - Social Technologies

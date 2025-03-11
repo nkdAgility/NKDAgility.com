@@ -30,7 +30,6 @@ preview: NKDAgility-technically-PragamtismCrushesDogma-1-1.jpg
 tags:
 - Agile Project Management
 - Scrum Product Development
-- People and Process
 - Empirical Process Control
 - Professional Scrum
 - Software Development

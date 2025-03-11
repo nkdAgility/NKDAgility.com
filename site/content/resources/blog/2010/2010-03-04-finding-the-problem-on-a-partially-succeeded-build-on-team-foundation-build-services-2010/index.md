@@ -23,15 +23,15 @@ aliasesArchive:
 - /finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
 - /resources/blog/finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
 tags:
-- Troubleshooting
-- Scrum Product Development
-- Software Developers
 - Software Development
+- Troubleshooting
 - Pragmatic Thinking
+- Software Developers
 - Product Backlog
 - Technical Mastery
 - Practical Techniques and Tooling
 - Agile Project Management
+- Scrum Product Development
 - Application Lifecycle Management
 preview: metro-visual-studio-2010-128-link-8-8.png
 categories:

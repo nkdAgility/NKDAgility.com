@@ -28,6 +28,7 @@ sitemap:
 tags:
 - Miscellaneous
 - People and Process
+- Agile Leadership
 - Product Delivery
 resourceTypes:
 - video

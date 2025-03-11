@@ -29,13 +29,13 @@ aliasesArchive:
 tags:
 - Throughput
 - Practical Techniques and Tooling
+- Operational Practices
 - Agile Project Management
 - Agile Frameworks
-- News and Reviews
-- Operational Practices
 - Software Developers
 - Software Development
 - Pragmatic Thinking
+- Products and Books
 - Events and Presentations
 categories:
 - Social Technologies

@@ -28,13 +28,13 @@ aliasesArchive:
 - /blog/if-your-backlog-is-not-refined-then-you-are-doing-it-wrong
 - /resources/blog/backlog-not-refined-wrong
 tags:
-- Scrum Product Development
 - Backlog Refinement
+- Scrum Product Development
 - Product Backlog
 - Professional Scrum
 - Software Development
-- Agile Project Management
 - Definition of Ready
+- Agile Project Management
 categories:
 - Scrum
 - Social Technologies

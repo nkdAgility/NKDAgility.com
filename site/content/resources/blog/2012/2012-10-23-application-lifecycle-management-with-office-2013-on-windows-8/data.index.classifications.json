@@ -244,12 +244,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:02:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of Application Lifecycle Management (ALM) and mentions tools like PowerPoint and Excel in the context of product delivery, but the primary focus is on the features and improvements of Office 2013 rather than a comprehensive discussion on product delivery methodologies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses aspects of Application Lifecycle Management (ALM) and mentions tools like PowerPoint and Excel as part of the ALM process. However, it primarily focuses on the features and user experience of Office 2013 rather than the methodologies and practices of product delivery. While there are mentions of ALM, the depth of discussion on product delivery principles is limited, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -964,12 +967,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:03:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Application Lifecycle Management (ALM) and mentions tools that can be used in the context of software releases, but it primarily focuses on the features of Office 2013 rather than on release management strategies or practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses Application Lifecycle Management (ALM) and mentions tools like PowerPoint and Excel as part of the ALM process. However, it lacks a direct focus on release management strategies, scheduling, or risk management. While it touches on aspects of software delivery, it does not provide in-depth discussion on release processes, making it only tangentially related to the category.",
+    "level": "Quaternary"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -1063,12 +1069,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:52:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 15,
+    "ai_depth": 5,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation experience of Office 2013, which relates to system configuration, but it primarily focuses on application lifecycle management and user experience rather than detailed system configuration practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the installation experience of Office 2013, which touches on aspects of system configuration, such as uninstalling previous versions and the ease of installation. However, the primary focus is on the features and benefits of Office 2013 as an application lifecycle management (ALM) tool rather than on the technicalities of system configuration. While there are mentions of installation and some related processes, the depth of discussion on configuration management and optimisation strategies is minimal, leading to a low confidence score in alignment with the System Configuration category.",
+    "level": "Quaternary"
   },
   "Product Strategy": {
     "category": "Product Strategy",

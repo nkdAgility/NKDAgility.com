@@ -28,6 +28,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Organisational Agility
+- Agile Product Management
 - People and Process
 - Pragmatic Thinking
 - Scrum Master

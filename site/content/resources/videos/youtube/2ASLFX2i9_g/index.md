@@ -30,16 +30,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Project Management
+- Pragmatic Thinking
 - Software Development
 - Agile Product Management
+- Team Performance
 - Software Developers
 - Agile Planning
-- Agile Project Management
 - Scrum Product Development
-- Team Performance
-- Operational Practices
 - People and Process
-- Pragmatic Thinking
+- Operational Practices
 resourceTypes:
 - video
 layout: video

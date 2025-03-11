@@ -1231,12 +1231,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T19:25:55",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T15:01:27",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses configuring Team Foundation Server (TFS) to support team fields, which involves technical practices related to project management in software development and touches on aspects of testing and deployment. However, the primary focus is not directly on the core principles of Technical Excellence as outlined, but rather on specific configurations and features of TFS.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses the use of a team field in TFS, which relates to team configuration and project management rather than core engineering practices. While it touches on aspects of configuration and deployment, it lacks a strong focus on methodologies like TDD, CI/CD, or modular architecture that are central to technical excellence. The depth of discussion is primarily operational and lacks detailed exploration of technical principles.",
+    "level": "Tertiary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1303,11 +1306,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T19:25:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T18:03:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses how to configure Team Foundation Server (TFS) to work without areas by using a team field, which directly relates to Azure DevOps functionalities and best practices.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the use of Team Foundation Server (TFS), which is a component of Azure DevOps, focusing on configuring team fields and customising work item types. It provides detailed steps and technical insights into implementing these features, aligning well with Azure DevOps functionalities. The depth of discussion is significant, covering practical implementation and best practices, although it could benefit from a more explicit connection to broader Azure DevOps services.",
     "level": "Secondary"
   },
   "Personal": {
@@ -1366,12 +1372,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T19:25:55",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-11T16:51:27",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content primarily discusses configurations and practices related to Team Foundation Server (TFS) in the context of managing teams and work items, which is closely related to aspects of application lifecycle management. However, it does not deeply explore the full lifecycle stages or methodologies typically associated with ALM.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses the use of Team Foundation Server (TFS) in managing team fields and configurations, which relates to aspects of application lifecycle management. However, it primarily focuses on specific configurations and practices rather than the broader stages and methodologies of ALM. While it touches on governance and team management, it lacks depth in discussing the entire application lifecycle, making it a secondary focus rather than a primary one.",
+    "level": "Tertiary"
   },
   "Social Technologies": {
     "category": "Social Technologies",

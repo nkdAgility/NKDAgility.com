@@ -76,12 +76,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:55:51",
+    "ai_confidence": 68.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses TFS migrations, which involves installation and configuration aspects, but it primarily focuses on migration scenarios rather than detailed installation or configuration procedures.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses TFS migrations, which involves installation and configuration aspects, particularly in the context of moving from on-premise to Visual Studio Online. It mentions various scenarios related to migration, which aligns with the category's focus on installation and configuration processes. However, the depth of actionable instructions is limited, and while it touches on relevant topics, it does not provide detailed step-by-step guidance or troubleshooting advice, which affects the overall confidence score.",
+    "level": "Secondary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -625,11 +628,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-11T16:43:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses TFS migrations and scenarios related to moving to Visual Studio Online, but it does not primarily focus on version control practices or methodologies.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses TFS migrations, which is related to source control, but it primarily focuses on migration scenarios rather than best practices or methodologies of modern source control. While it mentions various source control systems like TFS, Git, and SVN, the discussion lacks depth in terms of version control strategies, collaboration workflows, or integration with DevOps practices. Therefore, it does not fully align with the core themes of the category.",
     "level": "Quaternary"
   },
   "Empirical Process Control": {
@@ -1060,12 +1066,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:53:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses TFS migrations, which involves aspects of system configuration, but the primary focus is on migration scenarios rather than detailed configuration practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses TFS migrations, which involves aspects of system configuration, particularly in the context of moving from on-premise to Visual Studio Online. However, the focus is more on migration scenarios and tools rather than the detailed processes and methodologies of system configuration itself. While there are mentions of scenarios that could relate to configuration, the depth of discussion on best practices, optimisation strategies, or troubleshooting is minimal, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Product Strategy": {
     "category": "Product Strategy",

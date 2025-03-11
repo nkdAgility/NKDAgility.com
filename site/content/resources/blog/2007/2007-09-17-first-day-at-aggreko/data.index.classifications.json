@@ -286,12 +286,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:13:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:18:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content shares a personal experience about starting a new job and reflects on the efficiency of the company, which aligns with the Personal category, but it primarily focuses on job-related tasks rather than deeper personal insights or reflections.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content provides a personal reflection on the author's first day at a new job, which aligns with the Personal category. However, it lacks a strong connection to Agile, Scrum, or DevOps themes, focusing more on the author's experience with company efficiency and specific tasks rather than broader insights or challenges related to Agile methodologies.",
+    "level": "Quaternary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -376,12 +379,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:07:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses setting up SharePoint and mentions system setup (farm setup) and configuration tasks, which are related to the category, but the primary focus is on personal experience rather than detailed technical aspects.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions the setup of a SharePoint farm and the need for a plan, which relates to system configuration. However, the primary focus is on personal experiences and observations rather than a detailed discussion of configuration practices or methodologies. The mention of a 'wicked farm setup' suggests some level of configuration, but it lacks depth and does not explore best practices or troubleshooting, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",

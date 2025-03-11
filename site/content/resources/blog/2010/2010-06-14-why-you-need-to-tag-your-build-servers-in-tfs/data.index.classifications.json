@@ -793,11 +793,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-16T00:54:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:00:13",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses practical problem-solving strategies related to build servers and tags in a technical environment, which aligns with pragmatic thinking within Agile and DevOps contexts.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses practical strategies for managing build servers in a TFS environment, which aligns well with pragmatic thinking in Agile and DevOps contexts. It addresses real-world challenges such as managing complexity and ensuring build reliability, demonstrating a clear application of experience-based problem-solving techniques. The depth of discussion on tagging build agents and the implications for team collaboration further supports its relevance to the category.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -1066,11 +1069,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T00:54:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T18:11:16",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration and management of build servers in a software development environment, focusing on tagging build agents to optimize the build process and maintain system performance. This aligns well with the principles of system configuration as it addresses setup, integration, optimization, and management of system components.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the configuration of build servers in TFS, including the use of tags for managing build agents and ensuring that the correct software components are installed. It provides specific examples of configuration practices, such as maintaining clean build servers and using tagging for better management. The depth of discussion is substantial, covering various aspects of system configuration, including the challenges of geographically diverse teams and the importance of matching build agents with the necessary software. Overall, the content aligns well with the key topics of system configuration, demonstrating a strong focus on practical configuration strategies.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1174,11 +1180,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T00:54:27",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T15:09:50",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the use of tags for build servers to prevent issues related to builds failing due to missing dependencies. It explains strategies for managing build agents and addresses the resolution of build failures, making troubleshooting a significant theme.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the complexities and potential issues related to managing build servers in TFS, including the need for tagging to avoid build failures. While it touches on troubleshooting aspects, such as changing the tag comparison operator to resolve build issues, the primary focus is on the setup and management of build servers rather than a systematic approach to diagnosing and resolving technical problems. Therefore, while there are relevant troubleshooting elements, they are not the main emphasis of the content.",
     "level": "Secondary"
   },
   "Experimentation": {

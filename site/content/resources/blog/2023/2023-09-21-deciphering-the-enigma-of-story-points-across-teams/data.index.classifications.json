@@ -343,11 +343,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-11T18:12:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:33:56",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the use of Story Points within Agile frameworks, particularly Scrum, and their implications on team performance and value delivery, which are central themes in software development practices.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the use of Story Points within Agile frameworks, particularly Scrum, which is a core aspect of software development methodologies. It provides a detailed examination of how Story Points can be used effectively, while also critiquing their limitations. The discussion aligns well with key topics in software development, such as Agile practices and evidence-based management. The depth of the analysis, including metrics like throughput and value, further supports its relevance to the category.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -364,11 +367,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-11T18:12:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:23:36",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses throughput as a key metric for measuring team performance and optimising workflows, while also addressing its relationship with value delivery.",
+    "final_score": 79.0,
+    "reasoning": "The content explicitly mentions throughput and discusses its significance in measuring work items delivered over time. It aligns with the core themes of the category by addressing the importance of throughput in optimising team performance and value delivery. However, while it provides a good overview, the depth of discussion on techniques for measuring throughput and strategies for improvement could be more comprehensive.",
     "level": "Secondary"
   },
   "Azure Pipelines": {
@@ -499,11 +505,14 @@
   },
   "Estimation": {
     "category": "Estimation",
-    "calculated_at": "2025-02-11T18:13:08",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T17:36:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses Story Points and their role in Agile estimation practices, particularly in relation to Planning Poker and team discussions. However, it also focuses significantly on throughput and value delivery, making estimation a major but secondary theme.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses Story Points as a method of estimation within Agile frameworks, particularly in relation to Scrum. It highlights the subjective nature of Story Points and their role in team discussions, which aligns with the core themes of estimation. The depth of discussion includes techniques like Planning Poker and the importance of empirical data in understanding team performance. However, it also critiques the use of Story Points for broad comparisons, which slightly detracts from a purely estimation-focused narrative.",
     "level": "Secondary"
   },
   "Troubleshooting": {

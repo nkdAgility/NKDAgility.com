@@ -30,8 +30,8 @@ aliasesArchive:
 tags:
 - Agile Product Management
 categories:
-- Scrum
 - Social Technologies
+- Scrum
 preview: nkdagility-professional-scrum-is-for-everyone-1-2-2.jpg
 
 ---

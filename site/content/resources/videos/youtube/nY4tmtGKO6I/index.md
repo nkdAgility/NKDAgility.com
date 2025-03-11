@@ -2,7 +2,7 @@
 title: "Mastering Scrum: Essential Insights for New Teams from a Scrum Master's Journey"
 description: Unlock your Scrum team's potential! Discover essential principles, values, and strategies for effective learning and collaboration in this insightful guide.
 date: 2023-11-28T11:00:49Z
-weight: 775
+weight: 650
 ResourceId: nY4tmtGKO6I
 ResourceType: videos
 ResourceImport: true
@@ -28,10 +28,12 @@ isShort: true
 tags:
 - Scrum Team
 - Professional Scrum
+- Scrum Master
 - Agile Frameworks
 - Agile Project Management
-- Scrum Master
 - Software Development
+- Technical Leadership
+- Agile Product Management
 - People and Process
 - Team Performance
 sitemap:

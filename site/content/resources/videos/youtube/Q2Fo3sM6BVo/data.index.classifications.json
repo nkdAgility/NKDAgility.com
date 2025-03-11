@@ -541,11 +541,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-18T11:22:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:47:32",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content focuses on the Scrum framework, which is related to agile methodologies, it does not deeply engage with the principles of technical leadership itself. It serves as an overview rather than a discussion that primarily delves into the nuances of coaching, mentoring, or influencing team dynamics.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on the Scrum framework, detailing its values, roles, artifacts, and events. While it touches on aspects of team dynamics and collaboration, it lacks a direct emphasis on technical leadership principles such as mentoring, coaching, or aligning technical decisions with business objectives. The discussion is more about the Scrum process itself rather than the role of a technical leader in guiding teams through these practices.",
     "level": "Tertiary"
   },
   "Modern Source Control": {
@@ -910,12 +913,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T11:22:17",
-    "ai_confidence": 60,
-    "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "Content primarily discusses the Scrum framework, which is relevant to Agile practices, but focuses more on the framework's structure than on product management aspects.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-11T16:37:15",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content provides a comprehensive overview of Scrum, which is a key Agile framework, and discusses the role of the Product Owner in maximising product value. It aligns well with Agile Product Management principles, particularly in terms of stakeholder engagement, prioritising product backlogs, and incorporating feedback through Scrum events. The depth of discussion on Scrum roles, values, and events indicates a strong focus on Agile methodologies, justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -1009,12 +1015,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T11:22:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the Scrum framework, which is relevant to product delivery methodologies, but does not focus specifically on the end-to-end process of delivering software products.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-11T17:49:49",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on the Scrum framework, which is a key methodology in product delivery. It discusses Scrum values, roles, artifacts, and events, all of which are integral to the planning, development, and iterative processes of delivering software products. The depth of discussion on these components indicates a strong alignment with product delivery principles, although it does not explicitly cover deployment or release management strategies. Overall, the content is relevant and detailed, justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",

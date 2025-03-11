@@ -24,14 +24,14 @@ aliasesArchive:
 - /resources/blog/luddites-have-no-place-in-the-modern-organisation
 tags:
 - People and Process
+- Organisational Change
 - Organisational Agility
 - Agile Leadership
 - Organisational Culture
 - Business Agility
-- Organisational Change
-- Change Management
 - Resilience and Change
 - Enterprise Agility
+- Change Management
 - Market Adaptability
 categories:
 - Leadership

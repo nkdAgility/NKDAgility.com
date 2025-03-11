@@ -24,16 +24,16 @@ preview: https://i.ytimg.com/vi/cFVvgI3Girg/maxresdefault.jpg
 duration: 159
 isShort: false
 tags:
+- People and Process
+- Agile Project Management
 - Agile Leadership
 - Organisational Culture
-- People and Process
 - Organisational Agility
+- Accountability
 - Agile Product Management
-- Agile Project Management
 - Organisational Physics
 - Sociotechnical Systems
 - Technical Leadership
-- Personal
 sitemap:
   filename: sitemap.xml
   priority: 0.6

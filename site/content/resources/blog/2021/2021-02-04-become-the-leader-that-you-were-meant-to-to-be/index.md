@@ -8,7 +8,7 @@ ResourceImportId: 45806
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2021-02-04
-weight: 680
+weight: 670
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -25,13 +25,13 @@ aliasesArchive:
 - /resources/blog/become-the-leader-that-you-were-meant-to-to-be
 tags:
 - People and Process
-- Agile Leadership
 - Scrum Master
+- Agile Leadership
+- Scrum Team
 - Agile Project Management
 - Products and Books
 - Professional Scrum
 - Team Motivation
-- Scrum Team
 - Technical Leadership
 categories:
 - Leadership

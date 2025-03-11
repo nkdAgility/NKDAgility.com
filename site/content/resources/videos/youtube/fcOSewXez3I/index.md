@@ -25,6 +25,7 @@ preview: https://i.ytimg.com/vi/fcOSewXez3I/maxresdefault.jpg
 duration: 263
 isShort: false
 tags:
+- Personal
 - Digital Transformation
 sitemap:
   filename: sitemap.xml

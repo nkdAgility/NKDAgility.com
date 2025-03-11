@@ -280,12 +280,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T12:35:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T13:12:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of limiting work in progress in Kanban, which is a significant aspect of product delivery methodologies, but it primarily focuses on Kanban rather than the broader scope of product delivery.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of limiting work in progress (WIP) within the context of Kanban, which is a methodology relevant to product delivery. It explicitly mentions the impact of WIP on delivering high-quality, usable products, aligning with the core themes of product delivery. However, while it touches on the significance of maintaining flow and focus, it lacks a broader discussion on other aspects of product delivery such as testing, deployment, or cross-functional teams, which limits its depth. Overall, the content is relevant but not comprehensive enough to score higher.",
+    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -298,12 +301,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T12:35:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:22:49",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses limiting work in progress as a key element of Kanban, which relates to organisational agility by promoting focus and flow in work processes. However, it primarily centres on Kanban practices rather than broader organisational agility strategies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on the concept of limiting work in progress (WIP) within the Kanban framework, which is a specific practice rather than a broader discussion on organisational agility. While it touches on themes of workflow efficiency and team productivity, it lacks a comprehensive exploration of organisational agility principles, such as leadership roles, cultural shifts, or cross-functional team dynamics. The discussion is more about a tactical approach to Kanban rather than a strategic view on enhancing organisational adaptability.",
+    "level": "Quaternary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -535,11 +541,14 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-17T13:55:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:11:40",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of limiting work in process in Kanban, which is a Lean tool, and emphasizes maintaining flow and delivering value, central themes in Lean Thinking.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on the concept of limiting work in progress (WIP) within the context of Kanban, which is a Lean tool. It discusses the importance of WIP limits in enhancing workflow efficiency, identifying bottlenecks, and delivering value, all of which align closely with Lean Thinking principles. The depth of discussion is substantial, providing practical steps and personal experiences that illustrate the application of Lean concepts. However, while it is heavily aligned with Lean principles, it does not explicitly mention all key topics of Lean Thinking, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Troubleshooting": {
@@ -931,11 +940,14 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T13:55:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:24:39",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily focuses on the Kanban framework, discussing the importance of limiting work in progress as an essential principle of successful Kanban implementation.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the Kanban framework, discussing the importance of limiting work in progress (WIP) as a core principle of Kanban. It provides a detailed exploration of WIP, its implications for workflow efficiency, and practical steps for implementation, aligning well with the key topics of Agile frameworks. The depth of discussion is substantial, with personal experiences and actionable advice, reinforcing its relevance to the category.",
     "level": "Secondary"
   },
   "Team Performance": {

@@ -238,12 +238,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:09:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:03:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses testing methodologies and practical solutions related to Visual Studio Team Test, which is a significant aspect of product delivery, but it primarily focuses on testing rather than the broader scope of product delivery processes.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on testing methodologies and tools related to Visual Studio Team Test, which is a component of the product delivery process. However, it does not explicitly discuss broader product delivery methodologies or practices such as Agile, deployment strategies, or cross-functional team roles. While it touches on practical solutions and real-world applications, the emphasis is more on testing rather than the end-to-end product delivery process, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -550,11 +553,14 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-17T09:09:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:14:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 50.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a reference guide related to Visual Studio Team Test, which involves automated testing but is not exclusively focused on the principles and practices of automated testing itself.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses a reference guide related to Visual Studio Team Test, which is relevant to automated testing. However, it primarily focuses on practical solutions and workarounds rather than exploring the principles and methodologies of automated testing in depth. While it mentions testing and provides some insights into the tools, it lacks a comprehensive discussion on the broader themes of automated testing, such as types of tests or best practices.",
     "level": "Tertiary"
   },
   "Team Performance": {
@@ -1219,11 +1225,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:26",
-    "ai_confidence": 25,
+    "calculated_at": "2025-03-11T15:12:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
-    "reasoning": "The content discusses a testing guide related to Visual Studio Team Test, which is relevant to testing practices, but it does not primarily focus on software development methodologies like Agile or DevOps, nor does it discuss the role of software developers in those contexts.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a reference guide for testing within the context of Visual Studio Team Test, which is relevant to software development. However, it lacks explicit discussions on Agile or DevOps methodologies, and does not delve into best practices or the role of developers in these frameworks. While it touches on practical solutions for testing, it does not provide a comprehensive exploration of the themes outlined in the category description.",
     "level": "Quaternary"
   },
   "Coaching": {

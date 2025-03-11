@@ -26,6 +26,8 @@ preview: https://i.ytimg.com/vi/QpK99s9uheM/maxresdefault.jpg
 duration: 48
 isShort: true
 tags:
+- Agile Planning
+- Enterprise Agility
 - People and Process
 sitemap:
   filename: sitemap.xml

@@ -625,11 +625,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:57:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to migrating from Subversion to TFS, which involves aspects of source control practices, but the primary focus is on specific errors and troubleshooting rather than broader best practices or methodologies in modern source control.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the migration from Subversion (SVN) to Team Foundation Server (TFS), which relates to version control systems. It mentions specific tools and issues encountered during the migration process, indicating a focus on practical aspects of source control. However, while it touches on the challenges of using these systems, it lacks a broader discussion on methodologies, best practices, or strategies that are central to the 'Modern Source Control' category. The depth of discussion is moderate, primarily focused on troubleshooting rather than comprehensive strategies or practices.",
     "level": "Tertiary"
   },
   "Empirical Process Control": {
@@ -1060,11 +1063,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:07:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the migration process between SVN and TFS, which involves configuration of tools and addressing SSL certificate issues, both of which are aspects of system configuration, but it does not delve deeply into the broader methodologies or best practices of system configuration itself.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses issues related to migrating from Subversion to TFS, specifically focusing on SSL certificate validation problems that affect system configuration. It provides practical insights into troubleshooting these configuration issues, which aligns with the category's focus. However, while it touches on configuration management, it lacks a broader discussion on best practices or optimisation strategies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Product Strategy": {

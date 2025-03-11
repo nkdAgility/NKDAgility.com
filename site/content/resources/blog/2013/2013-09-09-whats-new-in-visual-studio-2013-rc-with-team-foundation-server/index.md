@@ -29,8 +29,6 @@ aliasesArchive:
 tags:
 - Software Development
 - News and Reviews
-- Modern Source Control
-- Agile Planning Tools
 - Practical Techniques and Tooling
 - Azure DevOps
 - Collaboration Tools

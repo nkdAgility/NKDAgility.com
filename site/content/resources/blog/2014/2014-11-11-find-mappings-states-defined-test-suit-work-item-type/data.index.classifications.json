@@ -592,11 +592,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T08:56:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:56:18",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to software testing and configuration within a specific version of TFS, focusing on customization, work item types, and process templates relevant to software development practices.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses a specific issue related to the configuration of work item types in TFS (Team Foundation Server), which is a tool used in software development for project management and version control. It provides detailed solutions to a problem that arises from customisation in the software development process, specifically addressing the importance of case sensitivity in state names. This aligns well with best practices in coding and software design, as well as version control systems. The depth of discussion is significant, offering two concrete solutions and a conclusion that ties back to software development practices, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -877,12 +880,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-15T08:56:55",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T16:44:24",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content addresses a specific issue related to software configuration in a testing context, including solutions to resolve it. While it does not directly discuss high-level concepts of working software, it does tie into ensuring software functionality and quality, which is a key theme.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content discusses a specific error related to work item types in TFS and provides solutions for fixing configuration issues. While it touches on aspects of software functionality and quality, it does not explicitly focus on broader themes of working software delivery or customer value. The discussion is somewhat technical and practical, which aligns with the category, but lacks depth in terms of Agile principles or iterative development practices.",
+    "level": "Tertiary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1066,11 +1072,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T08:56:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:54:37",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses issues related to configuration in TFS, specifically regarding work item types and case sensitivity in state mappings, which falls within system configuration practices.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily discusses a specific configuration issue related to the Test Suit work item type in TFS after an upgrade. It provides detailed insights into the problem, including the importance of case sensitivity in state names and offers two solutions for fixing the configuration. This aligns well with the category of System Configuration, as it addresses best practices for configuration management and troubleshooting common configuration issues. The depth of discussion is substantial, providing both context and actionable solutions, which further supports a high confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {

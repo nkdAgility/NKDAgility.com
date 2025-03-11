@@ -964,12 +964,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T21:42:54",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T17:08:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content focuses on a specific technical issue relating to Team Foundation Server (TFS) setup and configuration, providing detailed steps to resolve a technical error. This falls within the technical domain and touches on software craftsmanship, but it primarily addresses a troubleshooting scenario rather than broader principles of software engineering excellence.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error related to Team Foundation Server (TFS) and provides detailed steps for resolving the issue. While it does touch on technical aspects, such as server configuration and XML file modification, it lacks a broader discussion on software craftsmanship, design principles, or best practices in software engineering. The content is more about problem-solving than demonstrating technical mastery in software development methodologies.",
+    "level": "Quaternary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1099,11 +1102,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T21:42:54",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T15:18:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 30,
-    "final_score": 66.0,
-    "reasoning": "The content primarily discusses an error related to Team Foundation Server (TFS), which operates in a Windows environment and involves configuration and settings relevant to Windows SharePoint Services (WSS). While Windows is not the sole focus, it is a significant aspect of the troubleshooting process described.",
+    "final_score": 68.0,
+    "reasoning": "The content primarily discusses an error related to Team Foundation Server (TFS), which operates within the Windows environment. It provides detailed troubleshooting steps and configuration advice, aligning well with the core themes of installation, configuration, and troubleshooting specific to Windows. The mention of Windows SharePoint Services (WSS) further reinforces its relevance to the Windows category. However, while the content is focused on Windows-related issues, it does not delve deeply into broader Windows operating system features or security practices, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Lean Principles": {

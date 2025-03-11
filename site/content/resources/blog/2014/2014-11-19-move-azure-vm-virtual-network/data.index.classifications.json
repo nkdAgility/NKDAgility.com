@@ -382,12 +382,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:56:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the technical process of moving an Azure VM to a virtual network, which relates to software engineering practices, but it primarily focuses on specific implementation steps rather than broader principles of software craftsmanship or architecture.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on the practical steps for moving an Azure VM to a virtual network, which is a technical task. However, it lacks a broader discussion on software craftsmanship principles, best practices, or methodologies that contribute to high-quality software development. While it does touch on technical aspects, it does not delve deeply into the principles of clean code, architecture, or engineering practices that are central to the 'Technical Mastery' category.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1117,21 +1120,27 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:44:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the configuration of a virtual machine in Azure, which is related to Windows environments, but the primary focus is on Azure rather than Windows OS itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses moving a virtual machine within Azure, which is a cloud service and not directly related to the Windows operating system itself. While there are mentions of configuring a domain controller and virtual machines, the focus is on Azure's infrastructure rather than Windows-specific installation, configuration, or troubleshooting. The content lacks depth in discussing Windows OS features or functionalities, leading to a low confidence score in alignment with the Windows category.",
+    "level": "Quaternary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:54:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the process of moving a virtual machine within Azure, which relates to deployment practices, but it primarily focuses on configuration rather than broader deployment strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the process of moving a virtual machine within Azure, which is more about configuration and setup rather than deployment strategies. While it touches on aspects of infrastructure management, it lacks a direct discussion of deployment methodologies such as Blue-Green Deployments or Canary Releases. The content does not provide actionable insights into deployment strategies, thus resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",

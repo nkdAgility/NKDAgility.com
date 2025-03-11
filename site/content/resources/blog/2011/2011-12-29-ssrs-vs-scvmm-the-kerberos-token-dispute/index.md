@@ -27,12 +27,12 @@ aliasesArchive:
 - /blog/ssrs-vs-scvmm---the-kerberos-token-dispute
 - /resources/blog/ssrs-vs-scvmm-the-kerberos-token-dispute
 tags:
-- Install and Configuration
 - System Configuration
-- Windows
-- Software Development
+- Install and Configuration
 - Troubleshooting
+- Windows
 - Pragmatic Thinking
+- Software Development
 - Technical Mastery
 categories: []
 

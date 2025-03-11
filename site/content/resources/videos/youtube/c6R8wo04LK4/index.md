@@ -28,6 +28,8 @@ sitemap:
 tags:
 - People and Process
 - Agile Frameworks
+- Agile Planning
+- Organisational Culture
 - Agile Project Management
 resourceTypes:
 - video

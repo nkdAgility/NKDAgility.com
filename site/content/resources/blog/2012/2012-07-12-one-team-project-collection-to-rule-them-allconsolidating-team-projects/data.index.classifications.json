@@ -598,11 +598,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T21:56:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:54:17",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the processes and methodologies involved in migrating and consolidating Team Projects within Team Foundation Server (TFS), which is a software development tool. It details technical procedures related to software project management, the use of specific tools, and practices that are central to software development and lifecycle management.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the migration and consolidation of Team Projects within Team Foundation Server (TFS), which is a critical aspect of software development practices. It covers specific methodologies related to process template consolidation, integration tools, and the challenges faced during the migration process. The detailed exploration of TFS Integration Platform, including troubleshooting and configuration, aligns well with best practices in software development, particularly in the context of version control and collaborative development. The depth of discussion on these topics indicates a strong focus on software engineering outcomes.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1069,11 +1072,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T21:56:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T18:05:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content focuses primarily on the configuration processes involved in migrating and consolidating Team Projects within Team Foundation Server, detailing the specific steps, tools (like the TFS Integration Platform), error handling, and configuration settings necessary for this system setup.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on the configuration and migration processes within Team Foundation Server (TFS), detailing specific steps for setting up the TFS Integration Platform, managing Team Project Collections, and addressing common configuration issues. It discusses best practices for system setup, configuration management, and troubleshooting, aligning well with the core themes of system configuration. The depth of discussion is substantial, providing detailed instructions and examples, which further supports a high confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1177,12 +1183,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T21:56:09",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T15:04:16",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 50,
-    "final_score": 82.0,
-    "reasoning": "The content primarily discusses issues encountered during the migration process within Team Foundation Server (TFS), including specific problems related to the TFS Integration Platform, presenting solutions and workarounds for those issues. It addresses errors, provides guidance on resolving technical challenges, and emphasizes the troubleshooting aspect important for migration processes, aligning well with the category's focus.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on troubleshooting issues encountered during the migration and consolidation of Team Projects in TFS, detailing specific errors and their resolutions. It provides practical insights into diagnosing and resolving technical problems, aligning well with the core themes of the Troubleshooting category. The depth of discussion is substantial, with multiple examples of issues and solutions, indicating a strong focus on troubleshooting methodologies.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",

@@ -793,11 +793,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-16T00:48:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T18:10:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content provides practical strategies for dealing with a specific issue in a build process within a DevOps context, emphasizing real-world problem-solving and adaptability in project management.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses practical problem-solving strategies related to managing stuck builds in Team Foundation Build, which aligns with the pragmatic thinking category. It provides real-world examples and solutions, demonstrating adaptability and critical thinking in a complex environment. However, while it touches on relevant themes, the depth of discussion is somewhat limited, focusing primarily on specific troubleshooting steps rather than broader Agile or DevOps principles.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -1174,12 +1177,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T00:48:26",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-11T15:09:03",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "The content primarily discusses diagnosing and resolving issues related to a 'stuck build' in Team Foundation Build, providing detailed steps to debug and fix the problem, which aligns closely with troubleshooting practices.",
-    "level": "Primary"
+    "final_score": 78.0,
+    "reasoning": "The content focuses primarily on diagnosing and resolving issues related to stuck builds in Team Foundation Build. It provides specific examples of problems encountered, such as builds that do not complete and the steps to troubleshoot these issues, including restarting the build service and monitoring build queues. The discussion is detailed and practical, aligning well with the core themes of troubleshooting, such as techniques for diagnosing software bugs and strategies for resolving integration issues.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1240,12 +1246,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-16T00:48:26",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T16:59:32",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses troubleshooting a 'stuck build' in a continuous integration context, which aligns with CI/CD practices. It elaborates on build management, debugging, and ensuring timely completion of builds, making it a significant but secondary theme related to engineering practices.",
-    "level": "Secondary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses issues related to build processes in Team Foundation Build, which touches on aspects of Continuous Integration (CI) and automation. However, it primarily focuses on troubleshooting specific build problems rather than broader engineering practices like clean code, TDD, or refactoring. While there are mentions of build management and the importance of timely builds, the depth of discussion does not fully align with the core themes of Agile engineering practices, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Technical Debt": {
     "category": "Technical Debt",

@@ -2,7 +2,7 @@
 title: 'Unlocking the Power of Sprint Planning: Transform Your Agile Approach for Success'
 description: Unlock the true potential of Sprint planning! Discover how structured workshops can transform your Agile approach and empower your team for success.
 date: 2023-06-29T07:00:19Z
-weight: 685
+weight: 650
 ResourceId: xJsuDbsFzlw
 ResourceType: videos
 ResourceImport: true
@@ -25,16 +25,7 @@ preview: https://i.ytimg.com/vi/xJsuDbsFzlw/maxresdefault.jpg
 duration: 198
 isShort: false
 tags:
-- Agile Project Management
-- Coaching
 - Agile Planning Tools
-- People and Process
-- Agile Planning
-- Agile Product Management
-- Agile Transformation
-- Events and Presentations
-- Pragmatic Thinking
-- Scrum Master
 sitemap:
   filename: sitemap.xml
   priority: 0.6

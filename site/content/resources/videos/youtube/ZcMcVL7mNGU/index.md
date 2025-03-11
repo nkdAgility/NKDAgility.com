@@ -26,14 +26,14 @@ isShort: false
 tags:
 - People and Process
 - Agile Product Management
+- Product Delivery
 - Value Delivery
+- Pragmatic Thinking
 - Agile Product Operating Model
 - Software Development
 - Hypothesis Driven Development
-- Product Delivery
 - Product Strategy
-- Agile Philosophy
-- Agile Strategy
+- Products and Books
 sitemap:
   filename: sitemap.xml
   priority: 0.6

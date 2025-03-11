@@ -244,12 +244,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:11:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation process of TFS SP1, which includes elements of planning, testing, and deployment, but it primarily focuses on the installation steps rather than broader product delivery methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2008 Team Foundation Server SP1, which is more about technical implementation than the broader methodologies and practices of product delivery. While it includes elements of planning and testing, these are not discussed in the context of product delivery frameworks or strategies. The mention of a test plan and back-out plan indicates some alignment with product delivery practices, but the overall focus is on installation specifics rather than the end-to-end delivery process.",
+    "level": "Quaternary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -787,12 +790,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:13:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the practical steps taken to install Visual Studio 2008 Team Foundation Server SP1, with a focus on real-world problem-solving and planning. While it does not primarily center on Agile, Scrum, or DevOps frameworks, it does highlight experience-based decision-making in a complex environment.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the practical steps taken to install Visual Studio 2008 Team Foundation Server SP1, which reflects a pragmatic approach to problem-solving in a real-world context. However, while it touches on practical strategies and acknowledges challenges, it lacks a deeper exploration of Agile, Scrum, or DevOps principles, which are central to the category of Pragmatic Thinking. The focus is more on installation procedures rather than broader project management or team collaboration strategies.",
+    "level": "Quaternary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -958,12 +964,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:02:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses installation and testing processes related to a specific software release (TFS SP1), indicating a focus on release planning and associated procedures, although it is more about the installation than a comprehensive release management strategy.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the installation of TFS SP1 and includes a structured release plan, test plan, and back out plan, which are relevant to release management. However, it lacks a broader discussion on release strategies, coordination, or risk management, limiting its depth and alignment with the category.",
+    "level": "Secondary"
   },
   "Product Owner": {
     "category": "Product Owner",

@@ -2,7 +2,7 @@
 title: What Should a Product Owner Do with an Incompetent Team?
 description: "Struggling with a team that underperforms? Discover how to identify true incompetence vs. lack of knowledge in this insightful video! \U0001F4BC\U0001F680 #LeadershipSkills"
 date: 2023-10-26T14:30:26Z
-weight: 715
+weight: 660
 ResourceId: rNqYGyB6PtY
 ResourceType: videos
 ResourceImport: true
@@ -31,8 +31,10 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Personal
 - Pragmatic Thinking
+- Personal
+- Scrum Team
+- Agile Leadership
 resourceTypes:
 - video
 categories:

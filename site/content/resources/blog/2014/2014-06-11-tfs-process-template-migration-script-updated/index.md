@@ -23,16 +23,16 @@ aliasesArchive:
 - /tfs-process-template-migration-script-updated
 - /resources/blog/tfs-process-template-migration-script-updated
 tags:
+- Software Development
 - Install and Configuration
 - Practical Techniques and Tooling
 - Azure DevOps
 - System Configuration
-- Operational Practices
-- Software Development
 - Technical Mastery
 - Troubleshooting
 - Pragmatic Thinking
 - Application Lifecycle Management
+- Operational Practices
 categories:
 - Scrum
 preview: nakedalm-experts-visual-studio-alm-1-1.png

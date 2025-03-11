@@ -35,12 +35,12 @@ tags:
 - Pragmatic Thinking
 - Product Owner
 - Agile Product Management
+- Agile Strategy
 - Decision Making
 - Decision Theory
 - People and Process
-- Market Adaptability
 - Organisational Agility
-- Scrum Product Development
+- Market Adaptability
 resourceTypes:
 - video
 categories:

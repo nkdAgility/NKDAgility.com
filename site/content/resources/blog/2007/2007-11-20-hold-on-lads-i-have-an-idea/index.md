@@ -33,8 +33,6 @@ aliasesArchive:
 tags:
 - Digital Transformation
 - Miscellaneous
-- Business Agility
-- Organisational Physics
 - Sociotechnical Systems
 categories: []
 preview: nakedalm-logo-128-link-3-3.png

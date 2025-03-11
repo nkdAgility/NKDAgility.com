@@ -181,12 +181,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:13:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:20:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the potential of a hosted Visual Studio Team System for small companies, which relates to product delivery methodologies and practices, but it is primarily focused on the service itself rather than the end-to-end process of delivering software products.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the potential of a hosted Visual Studio Team System for small companies, which touches on aspects of product delivery, such as customer needs and project management. However, it lacks a direct focus on methodologies, practices, or detailed discussions about the end-to-end process of delivering software products. The conversation is more about the service offering rather than the principles of product delivery, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -379,12 +382,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:10:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of hosted Visual Studio Team System related to server management and configuration, though it primarily focuses on project management and development tools.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the potential of a hosted Visual Studio Team System, which touches on aspects of system configuration, such as server management and user authentication. However, the primary focus is on the service's appeal to small companies and the general concept of hosted solutions rather than detailed technical discussions on system configuration practices. The mentions of server setup and authentication are relevant but not explored in depth, leading to a low confidence score in alignment with the category.",
+    "level": "Quaternary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",

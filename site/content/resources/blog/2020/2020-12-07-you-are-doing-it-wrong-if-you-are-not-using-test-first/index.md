@@ -25,8 +25,9 @@ aliasesArchive:
 - /resources/blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
 tags:
 - Test First Development
-- Software Development
 - Technical Excellence
+- Software Development
+- Test Driven Development
 - Engineering Practices
 categories:
 - Engineering Excellence

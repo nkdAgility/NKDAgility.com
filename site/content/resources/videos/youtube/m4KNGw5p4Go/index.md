@@ -30,15 +30,15 @@ sitemap:
   priority: 0.6
 tags:
 - Discovery and Learning
+- Lean Product Development
 - Experimentation
 - Product Discovery
 - Pragmatic Thinking
 - Product Validation
-- Continuous Learning
 - People and Process
+- Continuous Learning
+- Ability to Innovate
 - Agile Product Management
-- Hypothesis Driven Development
-- Organisational Agility
 resourceTypes:
 - video
 categories:

@@ -40,12 +40,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:09:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:02:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the implementation of a data access layer using Unity, touching on aspects of code quality and design patterns, but primarily focuses on specific coding practices rather than a broader exploration of code complexity.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on implementing a data access layer using Unity, which involves some aspects of code quality and design patterns. However, it lacks a thorough exploration of complexity theory or its implications on software architecture. While there are mentions of maintainability and design principles, the discussion does not deeply engage with the interplay between code quality and complexity, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -76,12 +79,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:09:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:12:00",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the configuration of the Unity container and the setup of a data access layer, which are relevant to installation and configuration processes. However, the primary focus is on implementation details rather than a step-by-step guide or broader installation procedures.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content provides a detailed guide on creating a data access layer using Unity, which includes specific steps for configuring the Unity container and managing dependencies. It discusses the setup of configuration files and the use of assembly attributes, which are relevant to installation and configuration processes. However, while it does touch on these topics, the primary focus is more on implementation details rather than a structured guide for installation or configuration, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -487,12 +493,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:09:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:13:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses implementing a Data Access layer using dependency injection and Unity, which involves some operational practices related to software architecture and managing data access efficiently. However, it does not primarily focus on operational efficiency within Agile, DevOps, or Lean frameworks, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the technical implementation of a data access layer using Unity, which does not directly address operational practices aimed at enhancing efficiency or delivery within Agile, DevOps, or Lean frameworks. While there are elements of design patterns and configuration management, these do not align with the core themes of operational efficiency or continuous improvement strategies outlined in the category definition.",
+    "level": "Quinary"
   },
   "Scrum Team": {
     "category": "Scrum Team",

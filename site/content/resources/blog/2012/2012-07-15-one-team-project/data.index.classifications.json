@@ -493,11 +493,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T21:31:13",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T16:54:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the use of Team Projects in Team Foundation Server and how to effectively manage multiple teams and projects, which relates to operational practices in Agile project management. However, the primary focus is on specific configuration and management within the software rather than broader operational efficiency strategies.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the use of Team Foundation Server and Agile Planning tools, which are relevant to operational practices in Agile environments. It touches on the configuration of Team Projects and the implications for workflow management, but lacks detailed exploration of specific operational efficiency techniques or metrics. The focus is more on the setup and use of tools rather than on broader operational strategies or continuous improvement practices.",
     "level": "Secondary"
   },
   "Scrum Team": {
@@ -592,11 +595,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T21:31:13",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:04:10",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Agile methodologies, Team Foundation Server implementation, and best practices for managing team projects in a software development environment.",
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses the use of Team Foundation Server (TFS) in the context of Agile methodologies, specifically focusing on the management of team projects and backlogs. It aligns well with key topics in software development, such as Agile practices, project management, and the software development lifecycle. The depth of discussion includes practical examples and recommendations for structuring projects, which enhances its relevance to the category.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -658,12 +664,15 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-15T21:31:13",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-11T18:05:35",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the use of Azure Boards within Team Foundation Server (TFS) and touches on Agile Planning tools. The primary focus is on managing complex team projects and backlogs, which aligns closely with Azure Boards functionalities, thus making this a major but secondary theme.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the use of Team Foundation Server (TFS) and Agile Planning tools, which are closely related to Azure Boards. It touches on concepts like backlogs, work item queries, and team configurations, aligning with Agile project management practices. However, it lacks a focused discussion on Azure Boards specifically, and the depth of exploration into its functionalities is moderate rather than comprehensive.",
+    "level": "Tertiary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",

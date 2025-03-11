@@ -28,16 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Agile Project Management
 - Agile Transformation
 - Change Management
-- People and Process
 - Software Development
 - Agile Frameworks
 - Agile Philosophy
 - Agile Strategy
-- Organisational Agility
 - Organisational Change
+- Team Collaboration
 resourceTypes:
 - video
 categories:

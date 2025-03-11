@@ -27,16 +27,16 @@ aliasesArchive:
 - /blog/one-team-project-to-rule-them-all
 - /resources/blog/one-team-project
 tags:
+- Software Development
 - Agile Planning Tools
 - Software Developers
-- Software Development
 - Agile Project Management
 - Practical Techniques and Tooling
 - Pragmatic Thinking
-- Azure Boards
 - Agile Planning
 - People and Process
 - Product Delivery
+- Azure DevOps
 categories:
 - Social Technologies
 - Scrum

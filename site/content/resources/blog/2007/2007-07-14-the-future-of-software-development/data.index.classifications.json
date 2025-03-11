@@ -1063,12 +1063,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T08:18:27",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-11T15:19:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses approaches for improving software development efficiency, including the use of software factories and web services, which directly align with strategic discussions in Agile and DevOps contexts. While the focus isn't strictly on Agile or Scrum frameworks, it does touch upon optimizing delivery processes and enhancing team performance, making it a significant theme.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses the future of software development with a focus on optimising delivery processes through the concept of software factories and web services. It aligns with strategic themes such as the need for rapid adaptation to market demands and the importance of team roles in delivering effective solutions. However, while it touches on strategic concepts, it lacks a deeper exploration of Agile, Scrum, or DevOps frameworks, which limits its overall alignment with the Strategy category.",
+    "level": "Tertiary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -1303,12 +1306,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T08:18:27",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T17:09:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the concept of software factories and their role in shortening development lifecycles, which aligns with the operational efficiency theme. However, it also includes broader reflections on traditional methodologies, which dilutes the focus on operational practices.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses the concept of software factories and their role in improving development efficiency, which aligns with operational practices. However, it lacks specific techniques or metrics for measuring operational efficiency, and the discussion is more focused on the future of software development rather than practical applications within Agile, DevOps, or Lean frameworks.",
+    "level": "Tertiary"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -1375,12 +1381,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:29:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:19:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the roles and dynamics of development teams, which aligns with themes of collaboration and team dynamics, but it primarily focuses on software factories and web services rather than specific methodologies like Scrum, Kanban, Lean, or Agile.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses software development methodologies and teams but does not explicitly mention Scrum, Kanban, Lean, or Agile practices. While it touches on concepts like team roles and collaboration, it lacks a direct focus on the frameworks outlined in the Social Technologies category. The discussion is more about software factories and development teams rather than the adaptive frameworks that enhance collaboration and continuous improvement.",
+    "level": "Quaternary"
   },
   "Leadership": {
     "category": "Leadership",

@@ -25,6 +25,8 @@ preview: https://i.ytimg.com/vi/NKQr8oGO8lg/maxresdefault.jpg
 duration: 153
 isShort: false
 tags:
+- Continuous Learning
+- Coaching
 - Discovery and Learning
 - People and Process
 - Value Delivery

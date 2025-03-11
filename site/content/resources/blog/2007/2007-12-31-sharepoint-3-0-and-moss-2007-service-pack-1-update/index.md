@@ -23,8 +23,8 @@ aliasesArchive:
 - /sharepoint-3-0-and-moss-2007-service-pack-1-update
 - /resources/blog/sharepoint-3-0-and-moss-2007-service-pack-1-update
 tags:
-- Install and Configuration
 - Troubleshooting
+- Install and Configuration
 - System Configuration
 - Windows
 - Practical Techniques and Tooling

@@ -29,6 +29,8 @@ tags:
 - Metrics and Learning
 - Decision Making
 - Experimentation
+- Agile Project Management
+- People and Process
 - Evidence Based Management
 - Pragmatic Thinking
 - Hypothesis Driven Development

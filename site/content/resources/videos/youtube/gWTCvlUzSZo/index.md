@@ -25,8 +25,11 @@ preview: https://i.ytimg.com/vi/gWTCvlUzSZo/maxresdefault.jpg
 duration: 45
 isShort: true
 tags:
+- Team Collaboration
+- Remote Working
 - People and Process
 - Scrum Master
+- Employee Engagement
 sitemap:
   filename: sitemap.xml
   priority: 0.6

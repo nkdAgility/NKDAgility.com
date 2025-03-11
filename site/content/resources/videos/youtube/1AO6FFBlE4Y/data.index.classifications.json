@@ -496,12 +496,15 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:20:01",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of poor quality code on productivity and the ability to deliver features, which relates to the principles of frequent releases. However, the primary focus is on quality and technical debt rather than the specific practices and strategies of frequent releases.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of high-quality code and its impact on productivity and customer satisfaction, which indirectly relates to frequent releases. However, it does not explicitly focus on the principles of frequent releases, continuous delivery, or deployment strategies. The mention of Azure DevOps improving their release efficiency hints at the benefits of frequent releases, but the overall discussion is more centred on code quality and technical debt rather than the release process itself.",
+    "level": "Quaternary"
   },
   "Estimation": {
     "category": "Estimation",
@@ -772,11 +775,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-12T12:13:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T13:07:28",
+    "ai_confidence": 87.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the impact of poor quality code on operational efficiency, productivity, and brand reputation, while also highlighting strategies for improving engineering practices and reducing technical debt. It aligns well with the key topics of operational practices, particularly in the context of Agile and DevOps methodologies.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the implications of poor quality code on operational efficiency, highlighting the costs associated with maintaining multiple product versions and the cognitive load on engineers. It aligns well with operational practices by addressing process optimisation, continuous improvement, and the importance of integrating quality into the development process. The depth of discussion is significant, providing detailed examples and metrics related to productivity and delivery speed, which are core to the category.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
@@ -835,12 +841,15 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:06:37",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of poor quality code on productivity and brand reputation, touching on aspects of technical leadership such as managing technical debt and fostering engineering excellence. However, it primarily focuses on the consequences of poor practices rather than providing a clear framework or strategies for technical leadership.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the implications of poor-quality code and the importance of technical debt management, which aligns with technical leadership principles. However, it primarily focuses on the costs associated with code quality rather than providing in-depth strategies for leading teams or fostering agile practices. While it touches on relevant topics, such as productivity and engineering excellence, it lacks a strong emphasis on the role of leadership in guiding teams through these challenges.",
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -925,11 +934,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-12T12:13:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:17:35",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the impacts of poor quality code on productivity, brand reputation, and technical debt management, while also highlighting the importance of engineering practices and architectural improvements. It aligns well with the principles of software craftsmanship and the pursuit of excellence in software development.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the implications of poor-quality code and the importance of improving code quality, which aligns closely with the principles of software craftsmanship. It addresses technical debt management, refactoring, and the integration of engineering excellence practices, demonstrating a strong focus on methodologies that enhance software quality. The depth of discussion is significant, providing actionable strategies for improvement, which further supports a high confidence score.",
     "level": "Secondary"
   },
   "Release Management": {

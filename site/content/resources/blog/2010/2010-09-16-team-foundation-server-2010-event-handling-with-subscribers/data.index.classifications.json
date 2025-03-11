@@ -595,11 +595,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T00:46:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T18:10:36",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the handling of events in Team Foundation Server 2010, focusing on creating event subscribers and implementing interfaces, which are relevant to software development practices.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed exploration of event handling in Team Foundation Server (TFS) 2010, focusing on the implementation of the ISubscriber interface and the process of creating event subscribers. It discusses specific coding practices, the structure of event handling, and the implications of using TFS for software development. The primary focus is on software engineering practices, particularly in the context of version control and event-driven programming, which aligns well with the Software Development category.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -796,12 +799,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-16T00:46:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:59:26",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the practical implementation of event handling within Team Foundation Server (TFS) 2010, highlighting real-world applications and problem-solving strategies. It emphasizes the use of interfaces and methods to navigate complexities in software development processes, aligning well with pragmatic thinking principles in agile contexts.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses practical implementation of event handling in Team Foundation Server 2010, showcasing real-world applications of software development principles. It provides a detailed explanation of how to create event subscribers, which aligns with pragmatic problem-solving in a complex environment. However, while it touches on practical aspects, it lacks a broader discussion on Agile or Scrum methodologies, which limits its alignment with the category.",
+    "level": "Tertiary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1066,11 +1072,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T00:46:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:08:56",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses how to configure event handling for Team Foundation Server (TFS) 2010, which is a system configuration topic involving the setup and customization of system components to optimize performance and reliability.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the configuration of event handlers within Team Foundation Server (TFS) 2010, detailing how to set up and implement the ISubscriber interface for event processing. It provides specific instructions on where to place assemblies and how to handle events, which aligns well with the key topics of system configuration. The depth of discussion is substantial, covering practical implementation details and considerations for system performance and reliability. However, while the focus is strong, some sections veer into general programming practices, which slightly detracts from the overall alignment with the category.",
     "level": "Secondary"
   },
   "Product Strategy": {

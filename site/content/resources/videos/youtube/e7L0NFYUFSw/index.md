@@ -28,6 +28,7 @@ tags:
 - Agile Project Management
 - Agile Frameworks
 - Software Development
+- Professional Scrum
 - Software Developers
 - People and Process
 - Agile Planning

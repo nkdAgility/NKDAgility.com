@@ -30,9 +30,7 @@ tags:
 - Practical Techniques and Tooling
 - Products and Books
 - Miscellaneous
-- Modern Source Control
 - Software Development
-- System Configuration
 - Troubleshooting
 - Windows
 preview: metro-visual-studio-2005-128-link-1-1.png

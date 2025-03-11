@@ -32,8 +32,8 @@ sitemap:
 tags:
 - Agile Frameworks
 - Agile Project Management
-- Lean Thinking
 - Operational Practices
+- Lean Thinking
 - Lean Principles
 - Software Development
 - Flow Efficiency

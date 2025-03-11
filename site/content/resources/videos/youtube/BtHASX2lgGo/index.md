@@ -29,11 +29,11 @@ tags:
 - Agile Frameworks
 - Agile Philosophy
 - Agile Transformation
-- Product Delivery
 - Scrum Product Development
 - Software Developers
 - Agile Product Management
 - Empirical Process Control
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -625,11 +625,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-15T21:10:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:53:21",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses a specific issue related to merging in TFS (Team Foundation Server), which is a version control system, and likely addresses problem-solving and best practices in the context of source control and branching strategies.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily discusses a specific issue related to merging in TFS (Team Foundation Server), which is a version control system. It provides detailed information about the error TF14009, including the context of the problem, potential solutions, and workarounds. The discussion aligns well with key topics in modern source control, such as conflict resolution and merging techniques. The depth of the discussion is significant, as it explores the implications of the error and offers multiple strategies for addressing it. Overall, the content is focused on version control practices, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
@@ -1063,11 +1066,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T21:10:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:03:17",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses a specific issue related to merging source code in Team Foundation Server (TFS), involving system configuration settings and troubleshooting migration paths. It addresses configurations that may impact system functionality, which aligns with system configuration principles.",
+    "final_score": 67.0,
+    "reasoning": "The content primarily discusses a specific issue related to the migration of source code within Team Foundation Server (TFS), which involves system configuration aspects such as error handling, branch management, and migration strategies. It provides detailed insights into troubleshooting a specific error (TF14009) and offers practical workarounds, which align well with the category's focus on configuration management and optimisation strategies. However, while the content is rich in detail regarding a specific configuration issue, it does not broadly cover the overarching principles or best practices of system configuration, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1300,11 +1306,14 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-15T21:10:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T18:04:59",
+    "ai_confidence": 75.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses specific issues related to merging and migrating source code within Team Foundation Server (TFS), which is closely linked to Azure Repos functionality. It addresses error TF14009 and branching strategies, relevant to source control management.",
+    "final_score": 68.0,
+    "reasoning": "The content primarily discusses an issue related to merging in TFS (Team Foundation Server), which is closely related to Azure Repos as it involves source control management. The mention of specific error messages and migration strategies indicates a focus on version control practices. However, while it touches on relevant topics like branching and merging, it lacks a broader discussion on Azure Repos functionalities and best practices, which slightly limits its depth and alignment with the category.",
     "level": "Secondary"
   },
   "Forecasting": {

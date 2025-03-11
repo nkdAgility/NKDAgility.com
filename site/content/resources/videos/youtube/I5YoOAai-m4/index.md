@@ -29,6 +29,7 @@ sitemap:
 tags:
 - Coaching
 - People and Process
+- Agile Project Management
 - Technical Leadership
 - Agile Frameworks
 resourceTypes:

@@ -29,10 +29,19 @@ aliasesArchive:
 - /resources/blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business
 tags:
 - Technical Debt
+- Pragmatic Thinking
+- Technical Mastery
+- Product Delivery
+- Software Development
+- Code and Complexity
+- People and Process
+- Transparency and Accountability
+- Software Developers
+- Value Delivery
 categories:
 - Engineering Excellence
-- Product Management
 - Scrum
+- Product Management
 preview: All-technical-debt-is-risk-to-the-product-and-to-your-business-2-2.jpg
 
 ---

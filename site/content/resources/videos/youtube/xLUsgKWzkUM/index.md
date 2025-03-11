@@ -25,15 +25,7 @@ preview: https://i.ytimg.com/vi/xLUsgKWzkUM/maxresdefault.jpg
 duration: 36
 isShort: true
 tags:
-- Accountability
 - Product Owner
-- Agile Product Management
-- Scrum Product Development
-- Agile Project Management
-- Product Backlog
-- Value Delivery
-- People and Process
-- Professional Scrum
 sitemap:
   filename: sitemap.xml
   priority: 0.6

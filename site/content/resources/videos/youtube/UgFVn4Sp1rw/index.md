@@ -30,9 +30,9 @@ tags:
 - Value Delivery
 - Pragmatic Thinking
 - Ability to Innovate
+- Strategy
 - Decision Making
 - Scrum Product Development
-- Strategy
 - Agile Product Operating Model
 - Agile Project Management
 sitemap:

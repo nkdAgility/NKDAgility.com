@@ -568,11 +568,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T09:16:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T13:07:10",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical problem-solving strategies related to automated testing within a DevOps context, emphasising real-world applications and the importance of efficiency and adaptability in software engineering.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses practical problem-solving strategies related to automated testing within a DevOps context, highlighting the importance of reducing human error and improving efficiency. It aligns well with the core themes of Pragmatic Thinking by providing real-world applications of testing strategies, emphasising adaptability in testing approaches, and illustrating the impact of automation on software quality. The depth of discussion is substantial, covering various aspects of test automation and its implications for project management and delivery, thus supporting a high confidence score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -595,12 +598,15 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-12T09:16:49",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of automated testing within the context of software development, which is a key aspect of Continuous Integration. It highlights the need for fast-running tests, the impact of test automation on code quality, and the integration of testing into the development workflow, aligning closely with CI principles.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-11T14:17:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses technical debt management rather than Continuous Integration. While it briefly mentions the transition to a continuous delivery model, it does not delve into CI principles, practices, or tools. The focus is on the implications of technical debt and its management, which is not aligned with the core themes of Continuous Integration.",
+    "level": "Quinary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
@@ -613,12 +619,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T09:16:52",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of automated testing and its role in ensuring a production-ready state of the codebase, which aligns closely with Continuous Delivery principles. It emphasizes automation, fast feedback, and reducing manual intervention, all of which are key aspects of Continuous Delivery.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-11T16:06:18",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 40.0,
+    "reasoning": "The content discusses technical debt management and its impact on software delivery, mentioning Continuous Delivery in the context of the Azure DevOps team's transition from a waterfall model to a three-week cycle. However, the primary focus is on technical debt rather than Continuous Delivery principles and practices. While there are relevant connections to CD, such as the importance of feedback loops and the ability to deliver features, the depth of discussion on Continuous Delivery itself is limited, making it a secondary theme rather than the main focus.",
+    "level": "Quaternary"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -748,12 +757,15 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-12T09:17:16",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance and benefits of automated testing, its role in improving software quality, and strategies for implementing effective test automation. It covers various aspects such as the need for fast-running tests, the impact of test infrastructure, and the integration of automated testing within development workflows, aligning well with the key topics of the Test Automation category.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-11T17:19:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses technical debt management and its implications on software quality and delivery, without a direct focus on test automation principles, frameworks, or practices. While it touches on Agile and continuous delivery, it does not delve into the specifics of automating testing processes or tools associated with test automation.",
+    "level": "Quinary"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",

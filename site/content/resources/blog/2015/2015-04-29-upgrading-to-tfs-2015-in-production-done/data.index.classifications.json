@@ -970,11 +970,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-14T22:15:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:53:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the upgrade process of TFS 2015 in a production environment, which involves planning, scheduling, and controlling the software release. It includes details about backup strategies, configuration checks, and the importance of verifying prerequisites, all of which are central to effective release management.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the upgrade process of TFS 2015 in a production environment, which aligns with release management practices. It includes details about backup strategies, configuration checks, and the importance of verifying prerequisites before proceeding with the upgrade. However, while it touches on aspects of release management, such as planning and risk management, it lacks a broader discussion on release strategies or metrics for success, which limits its depth in the category.",
     "level": "Secondary"
   },
   "Product Owner": {
@@ -1069,11 +1072,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-14T22:16:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:42:59",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 32,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the upgrade process of TFS 2015, including installation, configuration, and best practices for system setup, which aligns closely with system configuration topics.",
+    "final_score": 80.0,
+    "reasoning": "The content primarily focuses on the upgrade process of TFS 2015, detailing specific steps, considerations, and configurations necessary for a successful installation. It discusses best practices for backups, database settings, and system requirements, which align closely with the core themes of system configuration. The depth of discussion is substantial, covering various technical aspects such as permissions, IIS configuration, and the importance of verifying settings before proceeding with the upgrade. Overall, the content is highly relevant to the category of System Configuration.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1177,11 +1183,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-14T22:16:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:55:07",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the upgrade process of TFS 2015, including potential issues and resolutions related to permissions, database settings, and configuration checks, which are central to troubleshooting during the upgrade.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the upgrade process for TFS 2015, including preparations, potential issues, and necessary configurations. While it does touch on troubleshooting aspects, such as ensuring backups and permissions, the primary focus is on the upgrade procedure rather than a systematic approach to diagnosing and resolving technical issues. The content provides some insights into troubleshooting but lacks depth in methodologies and tools specifically aimed at problem-solving.",
     "level": "Secondary"
   },
   "Experimentation": {

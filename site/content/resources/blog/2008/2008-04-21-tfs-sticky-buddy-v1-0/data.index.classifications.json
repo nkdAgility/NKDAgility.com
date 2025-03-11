@@ -379,12 +379,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:15:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses setting up the TFS Sticky Buddy application, including requirements and initial configuration steps, making system configuration a significant but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the TFS Sticky Buddy application, detailing its features and usage rather than discussing system configuration processes or methodologies. While it mentions the need to set up a Team Foundation Server, this is a brief mention and does not delve into the best practices or strategies for system configuration. The overall discussion lacks depth in terms of configuration management or optimisation strategies, leading to a low confidence score in alignment with the System Configuration category.",
+    "level": "Quaternary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -850,12 +853,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:13:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:05:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content primarily describes a tool related to Team Foundation Server (TFS), which is a version control system, but focuses more on the application's features and usage rather than specific modern source control practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the TFS Sticky Buddy application, which is a tool for interacting with Team Foundation Server (TFS). While it mentions TFS and work items, the focus is more on the application features and usage rather than on modern source control practices, methodologies, or strategies. The discussion lacks depth in version control concepts and does not cover key topics such as branching strategies, code review processes, or best practices for commit messages.",
+    "level": "Quaternary"
   },
   "Increment": {
     "category": "Increment",

@@ -29,8 +29,8 @@ aliasesArchive:
 tags:
 - Software Development
 - Install and Configuration
-- Modern Source Control
 - Practical Techniques and Tooling
+- Modern Source Control
 categories: []
 preview: clip_image001-1-1.png
 

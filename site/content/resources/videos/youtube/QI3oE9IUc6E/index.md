@@ -36,8 +36,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Scrum
 - Social Technologies
+- Scrum
 
 ---
 ## The APS Advantage: Exploring Professional Scrum Mastery

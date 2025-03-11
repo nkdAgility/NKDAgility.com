@@ -27,16 +27,16 @@ aliasesArchive:
 - /blog/migrating-source-from-perforce-to-git-on-vso
 - /resources/blog/migrating-source-perforce-git-vso
 tags:
-- Install and Configuration
-- Modern Source Control
 - Software Development
-- Azure DevOps
+- Modern Source Control
+- Install and Configuration
 - Practical Techniques and Tooling
+- Azure DevOps
 - Azure Repos
 - Continuous Integration
-- Software Developers
-- Operational Practices
 - Pragmatic Thinking
+- Technical Excellence
+- Technical Mastery
 categories:
 - DevOps
 - Engineering Excellence

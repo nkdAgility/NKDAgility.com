@@ -30,6 +30,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Project Management
+- Software Development
+- Agile Values and Principles
 - Discovery and Learning
 - Continuous Learning
 resourceTypes:

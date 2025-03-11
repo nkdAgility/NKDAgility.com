@@ -32,9 +32,10 @@ preview: nakedalm-logo-128-link-1-1.png
 tags:
 - Events and Presentations
 - Software Development
+- Software Developers
 - Technical Excellence
-- Engineering Practices
 - News and Reviews
+- Engineering Practices
 
 ---
 What a fantastic day... Thanks to [Colin Mackay](http://blog.colinmackay.net/) for the fantastic job he did organising this event and I hope that there will be more events like this in Glasgow in the future...

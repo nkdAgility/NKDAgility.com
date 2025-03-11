@@ -61,12 +61,15 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-18T12:22:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:49:43",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content includes mention of training for Product Owners, but the overall focus is more on the training organization and updates rather than in-depth discussion of the Product Owner's role or responsibilities.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content briefly mentions Product Owners in the context of training classes but lacks a detailed discussion on their specific responsibilities, techniques, or challenges. While there is some alignment with the category through the mention of training for Product Owners, the overall focus is more on general training updates and community engagement rather than a deep exploration of the Product Owner role.",
+    "level": "Quaternary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
@@ -907,11 +910,14 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T12:22:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:37:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions upcoming training for Scrum, which relates to Agile Product Management, but it primarily focuses on announcements and trainer engagement rather than in-depth discussions of Agile principles or product management practices.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on training and community updates related to Scrum, with some mention of Product Owners and Scrum Teams. However, it lacks in-depth discussions on Agile Product Management principles, prioritisation techniques, or stakeholder engagement strategies, which are crucial for a higher confidence score.",
     "level": "Tertiary"
   },
   "Behaviour Driven Development": {
@@ -943,12 +949,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T12:22:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:47:26",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses training for Scrum Teams as well as specific courses to improve team members' skills, which aligns with the category as a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses training classes specifically aimed at improving the skills of Scrum Teams, Scrum Masters, and Product Owners, which aligns with the roles and responsibilities within a Scrum Team. However, the overall focus is more on the training offerings and community updates rather than an in-depth exploration of team dynamics or collaboration techniques. Therefore, while it mentions relevant topics, it does not provide a comprehensive discussion on the Scrum Team category.",
+    "level": "Secondary"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",

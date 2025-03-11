@@ -325,12 +325,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:12:04",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Visual Studio ALM and discusses a launch event related to Visual Studio 2010, which includes topics relevant to application lifecycle management, but the primary focus is on the event itself rather than a comprehensive discussion of ALM methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content mentions ALM (Application Lifecycle Management) in the context of a launch event for Visual Studio 2010, which indicates a connection to the category. However, the primary focus of the content is on the event details and speakers rather than a thorough discussion of ALM principles or practices. While there is some alignment with the category through the mention of collaboration features and the role of a Technical Specialist, the depth of discussion on the lifecycle management aspects is limited. Therefore, the confidence score reflects a moderate relevance to the category.",
+    "level": "Quaternary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -661,12 +664,15 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:10:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions collaboration features relating to Visual Studio in the context of a launch event, which is relevant but not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content mentions collaboration features in Visual Studio 2010, which aligns with the category. However, it primarily focuses on an event announcement rather than a detailed discussion of collaboration tools or their impact on Agile teams. The depth of discussion is limited to the event agenda and speakers, lacking comprehensive insights into collaboration practices.",
+    "level": "Quaternary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -1114,11 +1120,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:01:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content includes a session on Windows development within the context of the Visual Studio 2010 launch event, but is primarily focused on the event and Visual Studio itself.",
+    "final_score": 43.0,
+    "reasoning": "The content mentions Windows in the context of a Visual Studio 2010 launch event, which is related to development on the Windows platform. However, the primary focus is on the event itself and Visual Studio rather than on Windows as an operating system. While there is some alignment with the category through the mention of Windows development, the depth of discussion regarding Windows-specific topics such as installation, configuration, or troubleshooting is minimal.",
     "level": "Tertiary"
   },
   "Deployment Strategies": {

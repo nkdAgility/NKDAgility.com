@@ -31,8 +31,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Metrics and Learning
+- Agile Frameworks
+- Lean Thinking
 - Practical Techniques and Tooling
+- Metrics and Learning
 - Operational Practices
 - Continuous Learning
 resourceTypes:

@@ -379,12 +379,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T22:50:43",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T16:57:21",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content primarily discusses the complexities and methods of upgrading process templates in Team Foundation Server, which touches on software engineering practices and considerations for code quality and maintainability. However, the focus on specific project management tasks and the implications of those changes suggests that it's more of a secondary theme rather than a primary discussion on software craftsmanship.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content discusses the technical complexities and methodologies involved in upgrading process templates in Team Foundation Server (TFS). It provides detailed options for implementation, weighing pros and cons, which aligns with best practices in software engineering. However, while it touches on technical aspects, it lacks a broader discussion on principles of clean code, testing, or architectural design, which are central to the 'Technical Mastery' category.",
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -487,12 +490,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T22:50:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T18:08:32",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses techniques for upgrading process templates in Team Foundation Server (TFS), which involves operational practices related to workflow management and process optimization. It provides multiple strategies for implementing changes, assessing pros and cons, and emphasizes maintaining operational efficiency in the context of work item management, aligning well with the category's focus.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses various methods for upgrading process templates in Team Foundation Server, which relates to operational practices in terms of process optimisation and workflow management. However, while it provides practical advice and pros/cons for each method, it lacks a broader discussion on continuous improvement or metrics for operational efficiency, which limits its alignment with the category.",
+    "level": "Tertiary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -1063,12 +1069,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T22:50:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:07:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses best practices and methodologies for upgrading a Process Template in Team Foundation Server, including configuration strategies and considerations for maintaining system performance and historical data. It explicitly deals with the technical aspects of system configuration, making it relevant to the category.",
-    "level": "Secondary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses upgrading a process template in Team Foundation Server, which involves aspects of system configuration, such as managing templates and workflows. However, the primary focus is on the challenges and methods of upgrading rather than a comprehensive exploration of system configuration principles or best practices. While it touches on configuration management, it lacks depth in discussing broader system optimisation strategies or security considerations, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Product Strategy": {
     "category": "Product Strategy",

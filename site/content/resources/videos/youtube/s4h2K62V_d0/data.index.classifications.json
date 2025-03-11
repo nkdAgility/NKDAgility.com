@@ -478,21 +478,27 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-12T02:13:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T13:07:19",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses modern software engineering practices, including the concept of 'shift left', Test-Driven Development (TDD), and the integration of quality assurance within Agile methodologies. It focuses on how these practices enhance the role of software developers in building, supporting, and maintaining software, aligning well with the category's emphasis on Agile and DevOps frameworks.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses modern software engineering practices, particularly focusing on the concept of 'shift left' in quality assurance, which is a critical aspect of Agile and DevOps methodologies. It highlights the importance of developers being involved in testing and support, aligning well with the role of software developers in Agile contexts. The discussion includes specific practices like Test-Driven Development (TDD) and pair programming, which are integral to modern engineering practices. The depth of the content is significant, providing detailed insights into how these practices enhance productivity and quality in software delivery, thus strongly aligning with the category's focus.",
     "level": "Secondary"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T02:13:17",
-    "ai_confidence": 80,
-    "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the importance of integrating testing early in the development process, specifically mentioning test-driven development (TDD) and its benefits for architecture and code quality. It aligns well with the principles of Test First Development, although it also touches on broader Agile practices.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-11T14:17:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses code reviews and their role in quality assurance but does not explicitly mention Test First Development or its principles. While it touches on the importance of automated checks and quality processes, it lacks a direct focus on writing tests before code, which is central to Test First Development. The discussion is more about code review practices rather than the TDD methodology itself.",
+    "level": "Quaternary"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -568,11 +574,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T02:13:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:06:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical problem-solving strategies in software engineering, particularly focusing on the 'shift left' approach in quality assurance, which aligns with Agile and DevOps principles. It emphasises real-world applications, team collaboration, and the importance of integrating various skills within engineering teams to enhance efficiency and product quality.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses code reviews and their role in quality assurance, which aligns with practical problem-solving strategies in Agile contexts. It mentions the importance of automated checks and the shift-left approach, indicating a pragmatic application of DevOps principles. However, while it touches on relevant themes, the discussion lacks depth in exploring broader Agile or Scrum frameworks and does not provide extensive real-world case studies or evidence-based practices.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -766,11 +775,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-12T02:14:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:19:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses techniques and strategies for enhancing operational efficiency in software engineering, particularly through the concept of 'shift left' in quality assurance, which aligns with Agile and DevOps principles. It covers practical applications such as test-driven development, pair programming, and the importance of integrating various expertise within engineering teams to improve overall performance and reduce technical debt.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses code reviews and their role in improving code quality and reducing defects, which aligns with operational practices in Agile and DevOps. However, while it touches on automation and the importance of validated checks, it lacks a comprehensive exploration of broader operational efficiency techniques or metrics. The focus is primarily on code quality rather than a wider operational strategy, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Evidence Based Management": {

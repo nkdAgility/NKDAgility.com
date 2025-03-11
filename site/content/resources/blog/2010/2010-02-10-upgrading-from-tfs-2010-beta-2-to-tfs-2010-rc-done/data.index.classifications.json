@@ -592,11 +592,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T02:02:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T18:12:48",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the upgrading process of Team Foundation Server, which is directly related to software development practices and tool management.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on the upgrade process of Team Foundation Server (TFS), which is a critical aspect of software development practices. It discusses specific steps involved in upgrading software, which aligns with the Software Development Life Cycle (SDLC) methodologies. The mention of best practices, such as not taking snapshots of running servers, adds to its relevance. However, while it provides a good level of detail, it lacks broader discussions on methodologies or frameworks, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1069,11 +1072,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T02:02:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:11:11",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the steps and considerations involved in upgrading the Team Foundation Server (TFS), which relates directly to system configuration. It outlines best practices, installation, uninstallation, and configuration methods pertinent to achieving optimal performance in that context.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily focuses on the upgrade process of TFS 2010, detailing specific steps for configuration and installation. It discusses best practices for system setup, such as the importance of not taking snapshots of running servers and the need to uninstall previous versions before installation. The depth of discussion is significant, as it provides a step-by-step guide, which aligns well with the core themes of system configuration. However, while the content is rich in practical advice, it does not delve deeply into broader configuration management tools or strategies, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1132,12 +1138,15 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-16T02:02:58",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T17:01:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses the upgrade process of Visual Studio Team Foundation Server and some operational steps that resemble deployment activities, reflecting a significant focus on deployment practices and methodologies. However, it also includes general installation and configuration advice which detracts from a stronger classification as primarily about deployment strategies.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the upgrade process of TFS 2010, which includes some deployment-related steps. However, it lacks a comprehensive exploration of deployment strategies such as Blue-Green Deployments or Canary Releases. The focus is more on the specific upgrade steps rather than broader methodologies or risk management associated with deployments.",
+    "level": "Quaternary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",

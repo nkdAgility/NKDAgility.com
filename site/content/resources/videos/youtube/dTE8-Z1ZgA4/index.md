@@ -25,7 +25,10 @@ preview: https://i.ytimg.com/vi/dTE8-Z1ZgA4/maxresdefault.jpg
 duration: 49
 isShort: true
 tags:
+- Discovery and Learning
+- Coaching
 - People and Process
+- Sensemaking
 - Personal
 sitemap:
   filename: sitemap.xml

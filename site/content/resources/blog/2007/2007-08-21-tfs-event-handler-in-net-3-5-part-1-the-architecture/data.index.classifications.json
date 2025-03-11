@@ -388,11 +388,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T21:42:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:18:30",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the architecture, setup, and configuration of a system using Team Foundation Server and Visual Studio, including creating various diagrams (Application, Logical Datacenter, Deployment) that define system components and their interactions, alongside the configuration of web services.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on the architecture and configuration of a Team Foundation Server Event Handler in .NET 3.5. It discusses various diagrams used for system architecture, including Application, Logical Datacenter, Deployment, and System diagrams, which are essential for system configuration. The author details the configuration of web services and endpoints, emphasising the importance of setting up these components correctly to ensure optimal performance. While the content does touch on software development practices, the depth of discussion regarding system configuration and the explicit mentions of configuration processes justify a high confidence score.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
@@ -964,11 +967,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T21:42:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:08:04",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses software architecture and design practices related to creating a Team Foundation Server Event Handler in .NET, including the use of various architectural diagrams and best practices in defining system architecture.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the architectural design and implementation of a TFS Event Handler in .NET 3.5, which aligns well with the principles of software craftsmanship and architecture. It discusses best practices in creating distributed system diagrams, logical datacenter diagrams, and deployment diagrams, showcasing a clear understanding of software design methodologies. The depth of discussion is substantial, providing detailed insights into the architectural components and their configurations, which supports the category of Technical Mastery. However, while it does touch on technical excellence, it lacks a broader discussion on clean code principles or testing methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Remote Working": {

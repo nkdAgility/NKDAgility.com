@@ -385,12 +385,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T23:39:08",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T16:53:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses the installation and upgrade process of Visual Studio and TFS, detailing features and potential issues. Although it touches on topics related to software engineering practices like continuous integration and agile processes, the focus is more on the installation and operational aspects rather than a comprehensive examination of software craftsmanship principles.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses the installation and upgrade process of Visual Studio 2012 and Team Foundation Server, which is more focused on practical implementation rather than the principles of software craftsmanship or engineering excellence. While it touches on some relevant features like continuous integration and agile planning, these are mentioned in a superficial manner without in-depth exploration of best practices or methodologies. Therefore, it does not fully align with the core themes of Technical Mastery.",
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -592,11 +595,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T23:39:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:03:30",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the installation and upgrades of Visual Studio and Team Foundation Server, which are central tools in the software development lifecycle, emphasizing elements like continuous integration, agile planning, and code reviews.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses the installation and upgrade process of Visual Studio 2012 and Team Foundation Server (TFS), which are directly related to software development practices. It mentions key features such as continuous integration, agile planning, and code reviews, aligning well with the core themes of the Software Development category. The depth of discussion includes specific experiences and issues encountered during installation, providing valuable insights for developers. However, while the content is relevant, it focuses more on practical installation rather than broader methodologies or frameworks, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -964,12 +970,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-15T23:39:08",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T18:05:11",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses upgrading and installing Visual Studio 2012 Team Foundation Server, which involves aspects of release management such as version control, risk management related to upgrades, and the importance of planning for effective software delivery. However, the focus is not solely on release management processes, as it also covers features and installation experiences.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content discusses the installation and upgrade process of Visual Studio 2012 and Team Foundation Server, which relates to release management. However, it primarily focuses on the technical aspects of installation rather than the broader strategies and practices of release management. While there are mentions of upgrades and features that could impact release processes, the depth of discussion on planning, scheduling, and controlling software releases is minimal.",
+    "level": "Tertiary"
   },
   "Product Owner": {
     "category": "Product Owner",

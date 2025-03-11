@@ -595,21 +595,27 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T00:54:29",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T18:11:19",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 78.0,
-    "reasoning": "The content provides detailed guidance on organizing files and version control for software development projects in Team Foundation Server, which aligns closely with best practices in software development methodologies and version control systems.",
+    "final_score": 80.0,
+    "reasoning": "The content provides a detailed discussion on structuring files and version control in a software development context, specifically within Team Foundation Server (TFS). It covers best practices for maintaining a solution, including naming conventions, branching strategies, and the importance of a well-organised folder structure. The references to Scrum and automated builds further align the content with key software development methodologies and practices, demonstrating a strong focus on the software development lifecycle.",
     "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T00:54:29",
-    "ai_confidence": 79,
+    "calculated_at": "2025-03-11T15:09:53",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 72.0,
-    "reasoning": "The content includes discussions about Scrum roles, branching strategies in Scrum, and mentions how multiple Scrum teams work on a single product, making agile principles a significant theme.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content briefly mentions Scrum and discusses branching strategies, which are relevant to Agile Project Management. However, the primary focus is on file structure and version control rather than on agile principles or methodologies. The depth of discussion on agile concepts is minimal, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
@@ -1240,11 +1246,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-16T00:54:29",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T17:00:17",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses version control structures, folder layouts, and automated builds, which relate to software engineering practices, but it primarily focuses on project setup and structuring rather than core Agile principles.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses best practices for structuring projects and version control, which aligns with engineering practices. It mentions aspects of automation in builds and the importance of maintaining a clean project structure, which are relevant to Agile methodologies. However, the focus is more on project management and version control rather than core engineering practices like TDD or CI/CD, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Technical Debt": {

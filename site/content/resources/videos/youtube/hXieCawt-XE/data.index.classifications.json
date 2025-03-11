@@ -706,11 +706,14 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-12T06:36:55",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of a pull-based system, which aligns with Lean principles of waste reduction and workflow efficiency. It covers key concepts such as WIP limits, wait states, and the importance of visualising workflow, all of which are central to Lean thinking.",
+    "calculated_at": "2025-03-11T14:24:36",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses Kanban, which is rooted in Lean principles, particularly focusing on waste reduction and continuous improvement. It highlights key concepts such as WIP limits, flow management, and the importance of visualising workflows, all of which align closely with Lean thinking. The depth of discussion on how to implement Kanban effectively and the emphasis on improving processes further supports its strong alignment with Lean Principles.",
     "level": "Secondary"
   },
   "Agile Transformation": {
@@ -769,12 +772,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-12T06:37:05",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T16:13:41",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses the implementation of a Kanban system, focusing on workflow management, process optimisation, and the importance of visualising and actively managing workflows. It aligns well with the key topics of operational efficiency and continuous improvement within Agile and Lean frameworks.",
-    "level": "Secondary"
+    "final_score": 84.0,
+    "reasoning": "The content extensively discusses Kanban as a method for improving workflow efficiency, which is a core aspect of operational practices. It provides detailed insights into defining workflows, managing bottlenecks, and the importance of WIP limits, all of which are directly related to enhancing operational efficiency. The depth of discussion on continuous improvement and practical strategies for implementation further solidifies its alignment with the category.",
+    "level": "Primary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -913,12 +919,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T13:13:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:26:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the application of Kanban within a Scrum framework, touching on roles and dynamics relevant to Scrum teams, but primarily focuses on Kanban principles.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on Kanban, a methodology distinct from Scrum, with only a brief mention of its application within Scrum teams. While it touches on team dynamics and workflow management, it lacks a detailed exploration of Scrum roles, collaboration techniques, or specific Scrum practices, which are essential for a higher confidence score in the 'Scrum Team' category.",
+    "level": "Quaternary"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",

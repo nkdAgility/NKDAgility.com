@@ -181,11 +181,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:13:25",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-11T15:16:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses the release of a software version and mentions some aspects of usability and configuration, but it primarily focuses on the specifics of the TFS Event Handler rather than the broader methodologies and practices of product delivery.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the release of a new version of a TFS Event Handler, mentioning aspects like manual configuration and UI issues. However, it lacks a strong focus on methodologies or practices related to product delivery, such as Agile methodologies, testing, or deployment strategies. While there are mentions of future plans for improvements, the overall discussion is more about the product itself rather than the delivery process.",
     "level": "Quaternary"
   },
   "Beta Codex": {
@@ -373,12 +376,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:06:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the release of a TFS Event Handler and touches on manual configuration and user interface issues, which relates to system setup, but is primarily focused on the specifics of the software release rather than broader configuration principles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the release of a TFS Event Handler and mentions manual configuration requirements, which aligns with system configuration. However, the focus is more on the release and user experience rather than detailed configuration practices or methodologies. The discussion lacks depth in exploring best practices or troubleshooting common configuration issues, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",

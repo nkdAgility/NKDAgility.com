@@ -24,6 +24,14 @@ aliasesArchive:
 - /resources/blog/what-to-do-after-a-servicing-fails-on-tfs-2010
 tags:
 - Troubleshooting
+- Windows
+- Software Development
+- System Configuration
+- Install and Configuration
+- Pragmatic Thinking
+- Practical Techniques and Tooling
+- Azure DevOps
+- Technical Mastery
 categories: []
 
 ---

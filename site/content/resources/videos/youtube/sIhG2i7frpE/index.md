@@ -26,14 +26,14 @@ duration: 50
 isShort: true
 tags:
 - Metrics and Learning
+- Practical Techniques and Tooling
 - Operational Practices
+- Lean
 - Pragmatic Thinking
 - Transparency
 - Continuous Learning
 - Discovery and Learning
-- Practical Techniques and Tooling
 - Lean Principles
-- Flow Efficiency
 - People and Process
 sitemap:
   filename: sitemap.xml

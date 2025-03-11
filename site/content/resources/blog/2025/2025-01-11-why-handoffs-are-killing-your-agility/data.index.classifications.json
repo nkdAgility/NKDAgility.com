@@ -337,11 +337,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-11T14:46:10",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T13:05:32",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses the negative impact of handoffs on Agile practices and emphasizes the importance of modern engineering practices such as Continuous Delivery, Test-Driven Development, and cross-functional teams, which are central to enhancing collaboration and efficiency in software development.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily discusses the negative impact of handoffs on Agile practices and highlights the importance of cross-functional teams, automation, and continuous delivery, which are core engineering practices. It provides detailed insights into how to eliminate handoffs and improve collaboration, aligning well with the principles of Agile development. However, while it touches on relevant practices, the focus on handoffs as an anti-pattern somewhat diverts from a direct discussion of clean code, TDD, and CI/CD, leading to a slightly lower confidence score.",
     "level": "Secondary"
   },
   "Portfolio Management": {
@@ -376,11 +379,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-11T14:46:17",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T14:15:51",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses the negative impact of handoffs on cycle time and overall efficiency, which directly relates to throughput. It provides insights into how eliminating handoffs can improve the flow of work and enhance delivery timelines, making throughput a central theme.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses the negative impact of handoffs on cycle time and overall efficiency, which directly relates to throughput. It provides a detailed analysis of how handoffs introduce delays and inefficiencies, thereby affecting the flow of work. The mention of limiting work in progress (WIP) and strategies for optimising workflows further aligns with throughput optimisation. However, while the content is rich in discussing the implications of handoffs, it does not explicitly define throughput or provide extensive metrics for measuring it, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Azure Pipelines": {
@@ -610,20 +616,26 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-11T14:47:07",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T16:04:37",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses the negative impact of handoffs on agility and outlines strategies for eliminating them, which aligns with Agile principles and organisational adaptability. It emphasises the importance of cross-functional teams and continuous value delivery, making Agile strategy a central theme.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the negative impact of handoffs on agility and promotes strategies for eliminating them, which aligns with Agile principles. It emphasises the importance of cross-functional teams and continuous delivery, reflecting key topics in Agile strategy. However, while it touches on strategic aspects, the primary focus is on operational practices rather than a comprehensive Agile strategy discussion.",
     "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T14:47:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:18:19",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses the elimination of handoffs and the adoption of Continuous Delivery practices as a solution to improve agility and efficiency in software development, making Continuous Delivery a primary theme.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the elimination of handoffs and the importance of automation, which are key aspects of Continuous Delivery. It explicitly mentions Continuous Delivery practices and how they relate to improving delivery efficiency and quality. The depth of discussion on strategies to enhance agility through automation and cross-functional teams aligns well with Continuous Delivery principles, although the primary focus is on handoffs rather than CD itself.",
     "level": "Secondary"
   },
   "Cross Functional Teams": {

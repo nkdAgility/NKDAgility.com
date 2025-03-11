@@ -28,10 +28,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Project Management
+- Accountability
 - Product Owner
 - Agile Product Management
 - Scrum Team
-- Agile Project Management
+- Transparency and Accountability
 - Personal
 - People and Process
 - Sprint Review

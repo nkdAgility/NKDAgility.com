@@ -27,9 +27,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Product Development
 - Agile Project Management
+- Scrum Product Development
+- Agile Planning
 - Professional Scrum
+- Agile Transformation
 resourceTypes:
 - video
 layout: video

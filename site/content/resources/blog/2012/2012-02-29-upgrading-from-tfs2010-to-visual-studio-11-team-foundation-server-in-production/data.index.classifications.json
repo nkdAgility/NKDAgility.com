@@ -595,11 +595,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T21:39:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:55:23",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content focuses primarily on the upgrade process of Team Foundation Server (TFS), which is an integral part of software development practices, particularly in project management and version control. The detailed steps align with software engineering methodologies.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed guide on upgrading from TFS 2010 to Visual Studio 2012 Team Foundation Server, which is a specific software development task. It discusses the prerequisites, installation steps, and configuration processes, aligning well with software development practices. The focus on practical steps and technical details indicates a strong alignment with the Software Development category, particularly in the context of version control and collaborative development. The depth of discussion is substantial, covering various aspects of the upgrade process, which enhances the overall confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -874,12 +877,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-15T21:39:56",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T15:05:23",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses the upgrading and installation process of Visual Studio Team Foundation Server (TFS), which relates to the operational aspect of software. While it touches on themes of software functionality and user requirements, it is focused on the technical aspects of installation and upgrade rather than a comprehensive exploration of working software principles.",
-    "level": "Secondary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on the technical steps involved in upgrading Team Foundation Server, which is a tool for managing software development. While it does touch on aspects of working software, such as ensuring the environment is ready for the upgrade and the importance of updates, it lacks a strong emphasis on delivering functional software that meets user needs or business objectives. The discussion is more procedural and technical rather than centred on the principles of Agile or Scrum, which diminishes its alignment with the 'Working Software' category.",
+    "level": "Quaternary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1066,12 +1072,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T21:39:57",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-11T18:06:43",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "The content provides a detailed step-by-step guide on upgrading and configuring Team Foundation Server, which directly relates to system configuration processes and best practices.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "The content primarily focuses on the process of upgrading and configuring Team Foundation Server (TFS), which directly aligns with system configuration practices. It discusses specific steps for installation, uninstallation, and configuration, including prerequisites and troubleshooting, which are all key aspects of system configuration. The depth of detail provided in the upgrade process, including the use of wizards and service accounts, further supports its relevance to the category. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",

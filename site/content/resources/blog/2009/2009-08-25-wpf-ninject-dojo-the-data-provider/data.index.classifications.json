@@ -40,12 +40,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:09:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:02:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses dependency injection and the implementation of a custom DataSourceProvider in WPF, which relates to code quality and maintainability. However, the primary focus is on specific coding practices rather than a broader exploration of complexity theory or its impact on software architecture.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the implementation of a custom data provider using Ninject in a WPF application, which touches on aspects of code quality and dependency injection. However, it lacks a broader discussion on complexity theory or its implications on software architecture and design. While there are mentions of maintainability and modular design through dependency injection, the depth of discussion does not fully explore the interplay between code quality and complexity as outlined in the category definition.",
+    "level": "Quaternary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -874,12 +877,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:11:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses implementing a custom data provider in WPF using dependency injection techniques, which relates to software functionality and quality. While it primarily focuses on technical implementation, there are elements concerning working software principles in terms of functionality and design patterns used in software development.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the implementation of a custom data provider using Ninject in a WPF application, which relates to the development of functional software. However, it lacks a direct focus on the broader principles of working software, such as customer feedback, iterative development, or quality assurance practices. The discussion is more technical and specific to a coding solution rather than addressing the delivery of high-quality software that meets user needs.",
+    "level": "Quaternary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1117,12 +1123,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:13:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses WPF and dependency injection within the context of creating a WPF application, indicating a significant focus on Windows software development while also discussing related technologies.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses WPF (Windows Presentation Foundation) and its integration with dependency injection using Ninject, which is directly related to the Windows operating system environment. There are numerous direct mentions of Windows, WPF, and Visual Studio, indicating a strong focus on Windows development. The content provides a detailed explanation of implementing a custom DataSourceProvider in a WPF application, showcasing a depth of discussion that aligns well with the category's key topics, particularly in configuration and troubleshooting. However, it does not cover broader aspects like installation or system updates, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",

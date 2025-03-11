@@ -286,12 +286,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:54:43",
+    "ai_confidence": 45.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses connecting Eclipse to TFS, which is part of the Azure DevOps suite, but the primary focus is on installation and setup rather than Azure DevOps functionalities or best practices.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content primarily discusses the installation of Eclipse and its connection to TFS (Team Foundation Server), which is part of the Azure DevOps suite. However, it lacks a comprehensive exploration of Azure DevOps functionalities, best practices, or methodologies. While TFS is mentioned, the focus is more on the setup process rather than on Azure DevOps as a whole, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Personal": {
     "category": "Personal",
@@ -376,12 +379,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-11T18:06:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content primarily focuses on installing Eclipse and connecting it to TFS, which is technical in nature but does not delve deeply into software craftsmanship principles or engineering practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation process of Eclipse and its integration with TFS, which is more of a procedural guide than a discussion on technical mastery. While it touches on tools relevant to software development, it lacks in-depth exploration of best practices, principles of clean code, or methodologies that contribute to high-quality software development. The discussion is largely practical and lacks the theoretical depth expected in the Technical Mastery category.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1216,12 +1222,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:04:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the installation process of Eclipse and its integration with TFS, which is relevant to software development. However, it lacks a strong focus on Agile or DevOps practices, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the installation process of Eclipse and connecting it to TFS, which is more of a technical how-to guide rather than a discussion on the role of software developers within Agile or DevOps frameworks. While it mentions tools relevant to developers, it lacks a deeper exploration of methodologies, best practices, or the impact of these tools on productivity and collaboration. Therefore, it only partially aligns with the category's core themes.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

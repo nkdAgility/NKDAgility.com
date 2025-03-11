@@ -301,12 +301,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:14:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to Team Explorer, which is a tool used in the context of Application Lifecycle Management, but the primary focus is on troubleshooting rather than a comprehensive discussion of ALM practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions issues related to Team Explorer, which is a tool used in the context of Application Lifecycle Management (ALM). However, the primary focus is on troubleshooting a specific error rather than discussing the broader aspects of ALM such as lifecycle stages, governance, or best practices. The mention of ALM is minimal and does not delve into the core themes of the category, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -718,12 +721,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:05:10",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content is primarily about a specific issue encountered with Team Explorer, a tool related to version control in software development, but does not extensively cover broader software development methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific issue related to Team Explorer in Visual Studio 2008, which is directly tied to version control, a key aspect of software development. The mention of troubleshooting steps and references to service packs indicates a focus on resolving a software development tool issue. However, while it touches on relevant topics, the depth of discussion is primarily anecdotal and lacks broader methodological insights into software development practices.",
+    "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",

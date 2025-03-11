@@ -184,12 +184,15 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:21:07",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of closing feedback loops in the context of DevOps practices, highlighting challenges and the need for timely adaptation based on customer feedback. However, the primary focus is on DevOps rather than a dedicated exploration of customer feedback mechanisms.",
-    "level": "Tertiary"
+    "final_score": 76.0,
+    "reasoning": "The content discusses the importance of closing feedback loops within the context of DevOps, highlighting how timely feedback can enhance product quality and adaptability. It explicitly mentions techniques for gathering feedback and acting on it, aligning well with the core themes of customer feedback loops. The depth of discussion is substantial, providing insights into the challenges and strategies for integrating feedback into the development process, although it is framed within a broader DevOps context rather than focusing solely on customer feedback mechanisms.",
+    "level": "Secondary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -490,11 +493,14 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:23:13",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges related to adopting DevOps practices, which includes aspects of release frequency and the need for rapid deployment and feedback. However, the primary focus is on the challenges of risk management and feedback loops rather than on frequent releases as a central theme.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the challenges and principles of adopting DevOps practices, which inherently relate to frequent releases. It touches on continuous delivery, feedback loops, and rapid iteration, aligning with the core themes of the category. However, it does not explicitly focus on frequent releases as a primary topic, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Estimation": {
@@ -736,12 +742,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T13:10:46",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses challenges related to adopting DevOps practices, which includes elements of organisational change, such as adapting to new methodologies and understanding risk profiles. However, the primary focus is on technical aspects of DevOps rather than a comprehensive exploration of organisational change strategies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses challenges related to adopting DevOps practices, which touches on aspects of organisational change, particularly in terms of adapting to new methodologies and risk management. However, it primarily focuses on technical challenges and practices rather than the broader strategies and frameworks of organisational change. While there are mentions of adapting to change and improving processes, the depth of discussion does not sufficiently align with the core themes of organisational change, such as leadership roles or specific change management frameworks.",
+    "level": "Quaternary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -829,11 +838,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T12:18:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:10:02",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges in adopting DevOps practices, which relates to technical leadership in guiding teams through changes in processes and risk management. However, it primarily focuses on the challenges rather than providing clear strategies or principles of technical leadership.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the challenges of adopting DevOps practices, which is relevant to technical leadership, particularly in the context of managing risk and feedback loops. However, it lacks direct mentions of technical leadership principles and does not delve deeply into mentoring, coaching, or team dynamics, which are core aspects of the category. The focus is more on the DevOps process rather than on the leadership role in guiding teams through these challenges.",
     "level": "Tertiary"
   },
   "Product Discovery": {

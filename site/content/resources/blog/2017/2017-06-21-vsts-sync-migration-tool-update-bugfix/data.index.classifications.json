@@ -244,11 +244,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-11T17:54:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content primarily discusses updates and features of a specific migration tool, with limited focus on methodologies or practices related to product delivery.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses updates and features of the VSTS Sync Migration Tool, which is a specific software tool rather than a broader discussion on product delivery methodologies or practices. While it mentions aspects like community contributions and bug fixes, it lacks a focus on the end-to-end process of delivering software products, such as planning, testing, or deployment strategies. Therefore, it only partially aligns with the core themes of product delivery.",
     "level": "Quaternary"
   },
   "Beta Codex": {
@@ -697,11 +700,14 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:41:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses updates and new features of the VSTS Sync Migration Tool, indicating a focus on software delivery and improvements, but it primarily centres on specific tool functionalities rather than broader principles of frequent releases.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses updates and bug fixes for the VSTS Sync Migration Tool, indicating a focus on delivering software improvements. However, it lacks a detailed exploration of the principles of frequent releases, such as continuous delivery or deployment strategies. While it mentions user notifications for new versions, it does not delve into broader practices or metrics associated with frequent releases, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Customer Satisfaction": {
@@ -1219,12 +1225,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:52:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a tool relevant to software developers, particularly in the context of migrating work items and integrating with DevOps practices, but it primarily focuses on the tool's features rather than broader Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses updates and features of the VSTS Sync Migration Tool, which is a technical tool relevant to software developers. However, it lacks a direct focus on Agile or DevOps methodologies, and while it mentions DevOps in the context of automated pipelines, it does not explore the broader implications or practices associated with Agile or DevOps. The discussion is more about tool functionality than the role of developers within these frameworks, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

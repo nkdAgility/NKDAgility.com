@@ -29,7 +29,9 @@ sitemap:
   priority: 0.6
 tags:
 - Software Developers
+- People and Process
 - Software Development
+- Agile Project Management
 - Product Delivery
 - Value Delivery
 resourceTypes:

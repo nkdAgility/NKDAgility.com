@@ -694,12 +694,15 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T09:09:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:05:17",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses application deployment and the use of technologies that support the build and deployment process, which are relevant to frequent releases, but it is primarily focused on the capabilities of Visual Studio and mobile application development without deeply exploring frequent release strategies or practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the capabilities of a development tool that allows for deployment across multiple platforms, which indirectly relates to frequent releases by enabling quicker delivery of applications. However, it lacks explicit discussion on the principles of frequent releases, continuous delivery, or deployment strategies. The focus is more on the tool's features rather than the release process itself.",
+    "level": "Quaternary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -1123,11 +1126,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T21:30:57",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-11T15:03:48",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 50,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the deployment of applications built in Visual Studio across multiple platforms, including Windows. Although other platforms are mentioned, Windows is a significant aspect of the discussion, especially in the context of the Visual Studio environment and its capabilities.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the deployment of applications using Visual Studio, specifically mentioning Windows and Windows Phone multiple times. It aligns with the Windows category by focusing on the use of Windows as a platform for application development and deployment. However, it also covers other operating systems like iOS and Android, which slightly detracts from its primary focus on Windows. The depth of discussion regarding Windows features and integration with Visual Studio is substantial, contributing to a higher confidence score.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
@@ -1222,11 +1228,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:53:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses application development using Visual Studio and the deployment of apps across multiple platforms, which is relevant to software developers. However, it is primarily focused on the specifics of a tool's capabilities rather than the roles and methodologies of developers within Agile or DevOps frameworks.",
+    "final_score": 58.0,
+    "reasoning": "The content primarily discusses a specific technology and its deployment capabilities across multiple platforms, which is relevant to software developers. However, it lacks a direct focus on Agile or DevOps methodologies, and does not delve into best practices or collaborative strategies that are central to the category. While it mentions tools like Visual Studio and Team Foundation Server, the discussion is more about the technology itself rather than the role of developers within Agile or DevOps frameworks.",
     "level": "Tertiary"
   },
   "Coaching": {

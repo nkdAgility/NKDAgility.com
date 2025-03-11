@@ -27,10 +27,12 @@ duration: 183
 isShort: false
 tags:
 - Agile Product Management
-- Product Owner
+- People and Process
 - Scrum Product Development
+- Product Owner
 - Entrepreneurship
 - Agile Project Management
+- Scrum Team
 - Professional Scrum
 sitemap:
   filename: sitemap.xml

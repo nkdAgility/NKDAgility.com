@@ -292,12 +292,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:09:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:03:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes personal experiences and reflections on a specific technical issue faced during a migration process, but it primarily focuses on technical details rather than broader personal insights or anecdotes related to Agile, Scrum, or DevOps.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a technical issue related to TFS Integration Tools and conflict resolution, with minimal personal reflection or insights. While there are some personal anecdotes about the author's experience with the conflict resolution process, the overall discussion is heavily technical and lacks a deeper exploration of personal experiences or insights related to Agile, Scrum, or DevOps methodologies.",
+    "level": "Quaternary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -886,12 +889,15 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T09:09:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:04:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses conflict resolution related to a check-in process using TFS Integration Tools, which touches on topics relevant to Continuous Integration, such as managing code merges and resolving conflicts. However, it is primarily focused on a personal experience with mismanagement of a specific tool rather than a broader discussion on CI principles or best practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses conflict resolution in TFS Integration Tools, which is tangentially related to Continuous Integration through the mention of check-ins and migration. However, it lacks a direct focus on CI principles, best practices, or tools that support CI. The discussion is more about personal experiences and troubleshooting rather than exploring CI as a practice or its impact on collaboration and productivity.",
+    "level": "Quaternary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -1057,12 +1063,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:09:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:53:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses issues related to configuration within the context of TFS Integration Tools, including conflict resolution and migration setup, indicating that system configuration is a major theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a personal experience with conflict resolution in TFS Integration Tools, which is more about troubleshooting and personal anecdotes than systematic configuration practices. While there are mentions of configuration issues and the need to resolve conflicts, the focus is not on best practices or methodologies for system configuration. The discussion lacks depth in terms of systematic approaches to configuration management or optimisation strategies, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Product Strategy": {
     "category": "Product Strategy",

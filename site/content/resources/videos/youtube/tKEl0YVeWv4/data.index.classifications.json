@@ -349,11 +349,14 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-12T15:14:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T13:05:23",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of automation in software development, specifically highlighting automated testing and deployment as critical components for ensuring reliability and efficiency. It provides examples and scenarios that illustrate the consequences of not implementing automated testing, making it a central theme of the discussion.",
+    "final_score": 76.0,
+    "reasoning": "The content extensively discusses the importance of automation in software development, particularly focusing on automated testing and deployment. It highlights how automation can prevent issues that arise from manual processes, using specific examples like Knight Capital Group and CloudStrike to illustrate the consequences of inadequate automated testing. The discussion aligns well with key topics in the category, such as the role of automated testing in Agile and DevOps, the impact of automation on software quality, and the need for continuous integration practices. The depth of the discussion is significant, providing detailed examples and insights into how automation can enhance reliability and efficiency in software delivery.",
     "level": "Secondary"
   },
   "Definition of Ready": {
@@ -385,11 +388,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-12T15:14:26",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses automation in software development, focusing on its role in enhancing productivity and reliability, which aligns with Agile and DevOps principles. It highlights best practices such as automated testing and deployment, and references tools like Azure DevOps, making it relevant to the role of software developers within these frameworks.",
+    "calculated_at": "2025-03-11T14:15:41",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses automation in software development, which is relevant to the role of software developers, particularly in the context of DevOps practices. It highlights the importance of automated deployments and the impact of automation on development processes, aligning with the themes of productivity and quality in software delivery. However, while it touches on Agile principles indirectly, it lacks a direct focus on Agile methodologies or specific developer roles, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Scaled Agile": {
@@ -403,12 +409,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T15:14:30",
-    "ai_confidence": 90,
-    "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "Content primarily discusses automation in software development, including automated deployments, testing, and the importance of automation in ensuring reliability and speed in product development. It also references practices related to CI/CD and quality assurance, making it central to the Software Development category.",
-    "level": "Primary"
+    "calculated_at": "2025-03-11T16:04:27",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the importance of automation in software development, highlighting automated deployments, consistency, and the consequences of neglecting automation. It aligns well with key topics such as CI/CD practices and the need for quality assurance in the development process. The depth of discussion is significant, providing real-world examples and practical insights, which reinforces its primary focus on software development.",
+    "level": "Secondary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -466,11 +475,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-12T15:14:40",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T17:18:10",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses the role of automation in enhancing operational efficiency, particularly in the context of deployment and testing processes. It provides practical examples and strategies for implementing automation to improve reliability and speed in product development, aligning closely with the key topics of operational practices.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the role of automation in enhancing operational efficiency within software development, aligning closely with the core themes of operational practices. It discusses specific techniques such as automated deployments and the importance of consistency, which are key to optimising processes. The depth of discussion is substantial, providing real-world examples and cautionary tales that illustrate the consequences of neglecting automation. Overall, the content is highly relevant to the category.",
     "level": "Secondary"
   },
   "Decision Making": {

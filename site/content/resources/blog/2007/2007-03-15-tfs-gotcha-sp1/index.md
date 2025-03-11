@@ -33,6 +33,7 @@ tags:
 - System Configuration
 - Troubleshooting
 - Practical Techniques and Tooling
+- Windows
 
 ---
 If you are out there and you have installed SP1 for Team Foundation Server you probably went through as much pain as I did...

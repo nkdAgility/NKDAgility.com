@@ -28,7 +28,6 @@ aliasesArchive:
 - /resources/blog/upgrading-from-tfs2010-to-visual-studio-11-team-foundation-server-in-production
 tags:
 - Install and Configuration
-- System Configuration
 categories: []
 
 ---

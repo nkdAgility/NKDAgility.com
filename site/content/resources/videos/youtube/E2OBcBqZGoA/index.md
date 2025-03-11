@@ -31,10 +31,10 @@ tags:
 - Organisational Agility
 - Organisational Change
 - Business Agility
+- Enterprise Agility
 - Agile Leadership
 - Agile Philosophy
 - Agile Strategy
-- Enterprise Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -241,11 +241,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T13:09:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T13:13:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the importance of delivering working software iteratively and gathering customer feedback, which aligns with agile principles and organisational agility.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of delivering working software iteratively and gathering customer feedback, which aligns with the principles of agility. However, it primarily focuses on the practice of delivering software rather than broader organisational strategies or cultural shifts. While it mentions customer interaction and feedback loops, it lacks depth in discussing leadership roles, organisational structure, or continuous improvement strategies.",
     "level": "Secondary"
   },
   "AI and Automation in Agility": {
@@ -286,12 +289,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T13:09:27",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivering working software iteratively and gathering feedback, which aligns with the principles of business agility. However, it primarily focuses on agile practices rather than a broader discussion on business agility as a central theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-11T14:23:30",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of delivering working software iteratively, which aligns with the principles of business agility, particularly in terms of responding to customer feedback and validating assumptions. However, it primarily focuses on Agile practices rather than a broader exploration of business agility principles, strategies, or leadership roles, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
@@ -304,21 +310,27 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T13:09:32",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the importance of delivering working software iteratively and gathering feedback, which aligns closely with key topics in product delivery methodologies.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-11T16:12:29",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
+    "non_ai_confidence": 20,
+    "final_score": 85.0,
+    "reasoning": "The content extensively discusses the importance of delivering working software in Agile methodologies, focusing on iterative development, feedback loops, and practical steps for effective product delivery. It aligns closely with the core themes of the category, providing detailed insights and actionable advice, thus demonstrating a strong primary focus on product delivery.",
+    "level": "Primary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T13:09:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:25:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile principles and the importance of delivering working software to gather feedback, which aligns with the broader themes of responsiveness and adaptability. However, it primarily focuses on team-level practices rather than organisational agility.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on team-level agile practices, specifically the importance of delivering working software every iteration. While it touches on concepts like feedback loops and stakeholder involvement, it lacks a broader organisational context and does not discuss frameworks, structures, or leadership roles that support enterprise agility. Therefore, it does not align well with the category's primary focus.",
+    "level": "Quaternary"
   },
   "Products and Books": {
     "category": "Products and Books",

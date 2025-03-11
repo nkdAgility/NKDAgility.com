@@ -29,14 +29,14 @@ aliasesArchive:
 tags:
 - Software Development
 - Events and Presentations
-- Application Lifecycle Management
 - Working Software
-- Azure DevOps
-- Practical Techniques and Tooling
 - Value Delivery
+- Practical Techniques and Tooling
+- Application Lifecycle Management
 - Product Delivery
 - Pragmatic Thinking
-- Strategy
+- People and Process
+- Products and Books
 categories:
 - Engineering Excellence
 - Social Technologies

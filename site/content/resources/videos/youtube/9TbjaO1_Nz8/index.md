@@ -32,6 +32,7 @@ tags:
 - Product Discovery
 - Product Strategy
 - Value Delivery
+- Agile Product Operating Model
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -41,7 +42,7 @@ resourceTypes:
 categories:
 - Product Management
 - Scrum
-- Leadership
+- Social Technologies
 
 ---
 As an entrepreneur, I often find myself reflecting on the pivotal role that product management plays in the success of a startup. Having navigated the tumultuous waters of entrepreneurship, I can confidently say that understanding value is not just a nice-to-have; it’s essential. This is why I wholeheartedly recommend the Professional Scrum Product Owner (PSPO) course, particularly for those of us who are at the helm of small organisations.

@@ -79,11 +79,14 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T12:22:56",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T16:39:48",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 78.0,
-    "reasoning": "The content extensively discusses the role of metrics, telemetry, data collection, and continuous improvement methodologies used by the Azure DevOps team. It emphasizes the importance of data-driven decision-making, transparency, understanding performance metrics, and how these elements contribute to a resilient live site culture within Agile and DevOps practices.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of telemetry data collection and its role in monitoring system performance, which aligns with the core themes of metrics and learning. It also highlights the significance of incident response and continuous improvement, showcasing a structured approach to learning from past mistakes. However, while metrics are mentioned, the overall focus leans more towards site reliability engineering practices rather than a deep exploration of metrics and learning principles. The discussion is substantial but not exhaustive, leading to a high confidence score without reaching the maximum.",
     "level": "Secondary"
   },
   "Professional Scrum": {
@@ -109,21 +112,27 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T12:22:56",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "While the content discusses Scrum implementation within the Azure DevOps team and touches on topics such as sprints, product ownership, and transparency, the primary focus is on site reliability engineering and operational practices rather than on the iterative development and product enhancement typical of Scrum product development.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-11T14:50:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on site reliability engineering and Azure DevOps practices, with minimal direct references to Scrum principles or product development within a Scrum framework. While it touches on agile methodologies, it does not delve into specific Scrum roles, events, or the management of a Product Backlog, which are essential for a higher confidence score in the Scrum Product Development category.",
+    "level": "Quinary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T12:22:56",
-    "ai_confidence": 100,
+    "calculated_at": "2025-03-11T17:52:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 91.0,
-    "reasoning": "The content is a direct presentation discussion that focuses on site reliability engineering within the context of Agile and DevOps practices at a live speaking event. It includes elements such as a speaker addressing the audience, sharing insights, and discussing key practices relevant to the Agile and DevOps community.",
-    "level": "Primary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses insights from the Azure DevOps team and their practices, which could be relevant to events or presentations. However, it lacks direct references to specific events, talks, or structured learning experiences. The focus is more on sharing personal experiences and insights rather than discussing formal presentations or events, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Product Validation": {
     "category": "Product Validation",

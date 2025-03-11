@@ -997,11 +997,14 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-14T22:20:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:53:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to setting up and troubleshooting the vNext build system in Team Foundation Server, which is directly related to Azure Pipelines and CI/CD practices.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses a specific error encountered while using the vNext build system in Team Foundation Server (TFS), which is closely related to Azure Pipelines. It provides a detailed account of troubleshooting steps and considerations for setting up a build agent, which aligns with the configuration and management of build pipelines. The mention of PowerShell versions and their impact on the build process indicates a deeper understanding of the technical aspects involved. However, while the content is relevant, it does not cover broader CI/CD practices or deployment strategies, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -1069,11 +1072,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-14T22:20:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:43:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the configuration of Team Foundation Server's vNext build system, including troubleshooting configuration issues related to PowerShell versions and enabling features on Windows Server. It focuses on practical aspects of system setup and configuration.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses the configuration of Team Foundation Server's vNext build system, including specific errors encountered during setup and the necessary steps to resolve them. It directly addresses system configuration issues, such as enabling PowerShell versions and troubleshooting build errors, which aligns well with the key topics of the category. The depth of discussion is substantial, providing detailed insights into the configuration process and common pitfalls, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1123,12 +1129,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-14T22:20:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:55:10",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses an error encountered while using Team Foundation Server on Windows Server Technical Preview, including installation and configuration aspects related to PowerShell versions specific to Windows.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content primarily discusses a specific error encountered while using Team Foundation Server on Windows Server Technical Preview, which directly relates to the Windows operating system. It provides detailed insights into troubleshooting the error, including the need to enable specific PowerShell versions and the implications of blocked zip files on the build process. The discussion is rich in detail, covering installation and configuration aspects, as well as troubleshooting techniques, which aligns well with the key topics outlined for the Windows category.",
+    "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",

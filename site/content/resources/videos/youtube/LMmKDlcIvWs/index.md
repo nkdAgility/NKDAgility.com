@@ -28,16 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Operational Practices
+- Lean Principles
 - Strategy
 - Metrics and Learning
-- Operational Practices
-- Flow Efficiency
 - Practical Techniques and Tooling
+- Continuous Learning
+- Flow Efficiency
 - Agile Frameworks
-- Lean Principles
+- Software Development
 - Lean
-- Lean Thinking
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

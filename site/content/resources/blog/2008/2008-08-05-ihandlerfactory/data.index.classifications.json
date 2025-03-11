@@ -121,12 +121,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:05:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the implementation of a specific HTTP handler in ASP.NET, which relates to practical techniques in web development, but it does not primarily focus on Agile or DevOps methodologies or tooling.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses a specific implementation of a URL redirect handler in ASP.NET, which is a practical technique related to web development. However, it lacks a broader discussion on Agile or DevOps methodologies, tools, or frameworks. While it provides some technical detail, it does not align closely with the key topics outlined for the category, such as Agile practices or DevOps tooling. The focus is more on a coding solution rather than the exploration of methodologies or tools that enhance team performance or collaboration.",
+    "level": "Quaternary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -910,11 +913,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 40,
+    "calculated_at": "2025-03-11T15:15:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 36.0,
-    "reasoning": "The content includes a technical implementation of URL redirection through a handler, which relates to software functionality, but the primary focus is on technical details and examples rather than broader discussions on working software practices, delivery, or Agile methodologies.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the implementation of a URL redirection handler in ASP.NET, which is a technical detail rather than a broader discussion on working software. While it touches on aspects of functionality and operational software, it lacks a direct focus on delivering high-quality software that meets user needs or business objectives. The discussion is more about code implementation than the principles of working software in Agile or Scrum frameworks.",
     "level": "Quaternary"
   },
   "Test Automation": {

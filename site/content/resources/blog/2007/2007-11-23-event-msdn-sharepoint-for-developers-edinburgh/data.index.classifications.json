@@ -286,12 +286,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:17:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes personal reflections on attending an event and insights gained from presentations, but the primary focus is on technical details and content from the event rather than personal experiences or challenges related to Agile, Scrum, or DevOps.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a technical event related to SharePoint and does not focus on personal experiences or reflections related to Agile, Scrum, or DevOps. While there are some personal insights about the speakers and the content of the presentations, these do not align closely with the core themes of the Personal category, which requires deeper personal anecdotes or reflections on Agile methodologies.",
+    "level": "Quaternary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -568,12 +571,15 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:07:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses SharePoint, which is a collaboration tool, and mentions its features and uses in a team environment, but the primary focus seems to be on specific presentations and personal experiences rather than a comprehensive discussion on collaboration tools.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses SharePoint and its features, which are relevant to collaboration tools. However, it primarily focuses on a specific event and personal experiences rather than providing a comprehensive overview or best practices related to collaboration tools in Agile environments. The discussion lacks depth in terms of Agile methodologies and does not explore the impact of such tools on team performance.",
+    "level": "Quaternary"
   },
   "Software Developers": {
     "category": "Software Developers",

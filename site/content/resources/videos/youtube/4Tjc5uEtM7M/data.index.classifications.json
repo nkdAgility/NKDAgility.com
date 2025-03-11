@@ -109,11 +109,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T12:03:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T13:07:31",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the complexities and considerations involved in migrating Azure DevOps, which includes aspects of system configuration, such as understanding commands and ensuring compliance. However, the primary focus is on the lack of expertise and the need for external help, making system configuration a secondary theme.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the complexities and considerations involved in migrating Azure DevOps, which touches on system configuration aspects such as understanding commands, managing data consistency, and the need for expertise in configuration management. However, the primary focus is on migration processes rather than the broader principles of system configuration, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Digital Transformation": {
@@ -517,12 +520,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T12:03:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:20:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Azure DevOps, which is a Microsoft product, and touches on aspects related to Microsoft's database migration and patch management. However, the primary focus is on migration processes and expertise rather than Windows operating system specifics.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Azure DevOps migration, which is not a direct focus on the Windows operating system. While it mentions Microsoft databases and tools, it does not delve into Windows-specific installation, configuration, or troubleshooting. The references to Microsoft are too general and do not align closely with the core themes of the Windows category.",
+    "level": "Quaternary"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -1078,12 +1084,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T12:03:24",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-11T16:06:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 20,
-    "final_score": 29.0,
-    "reasoning": "The content discusses the complexities involved in migrating to Azure DevOps and the need for expertise in handling those complexities. However, the primary focus is on migration processes and the challenges associated with them rather than a direct exploration of code quality or complexity theory.",
-    "level": "Quaternary"
+    "final_score": 58.0,
+    "reasoning": "The content discusses the complexities involved in migrating to Azure DevOps, particularly focusing on database migration and the challenges that arise during the process. It touches on the need for expertise and the intricacies of managing migrations, which aligns with the themes of complexity in software development. However, while it mentions aspects of code quality and complexity, it does not delve deeply into principles of software code quality or best practices in coding, which limits its overall depth in the category.",
+    "level": "Tertiary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -1105,12 +1114,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T12:03:24",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-11T14:17:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses the complexities and expertise required for migrating to Azure DevOps, which touches on aspects of product delivery but primarily focuses on migration challenges rather than the broader methodologies and practices of delivering software products.",
-    "level": "Quaternary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses the migration to Azure DevOps, which is a critical aspect of product delivery, particularly in the context of planning and executing software transitions. It touches on the complexities involved in database migration, the need for expertise, and the importance of careful planning and execution, aligning with key themes of product delivery. However, while it provides valuable insights, the focus is more on migration specifics rather than broader product delivery methodologies, which slightly limits its depth in the context of the category.",
+    "level": "Tertiary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",

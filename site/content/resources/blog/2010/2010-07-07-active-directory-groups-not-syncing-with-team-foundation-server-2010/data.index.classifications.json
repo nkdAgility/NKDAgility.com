@@ -493,12 +493,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-16T00:54:22",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T16:59:55",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses troubleshooting and optimizing Team Foundation Server (TFS) synchronization issues, which relates to improving operational efficiency in the context of managing team workflows and access rights. This aligns with operational practices, but the focus is on a specific technical issue rather than broader operational strategies.",
-    "level": "Secondary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses a specific technical issue related to Active Directory and Team Foundation Server, focusing on troubleshooting and resolving a syncing problem. While it touches on operational practices, such as streamlining security and managing user permissions, the primary focus is on a specific technical problem rather than broader operational efficiency strategies. The depth of discussion is moderate, providing some insights into troubleshooting steps but lacking comprehensive strategies or methodologies that enhance operational efficiency in an organisational context.",
+    "level": "Quaternary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -592,11 +595,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T00:54:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T18:10:58",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content discusses troubleshooting issues with Team Foundation Server (TFS) related to software development processes, and provides a solution involving coding and configuration, making it a primary topic of software development.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed discussion on troubleshooting a specific issue related to Team Foundation Server (TFS) and Active Directory integration, which is a critical aspect of software development practices. It includes direct references to SQL queries, error logs, and code snippets, demonstrating a deep engagement with software engineering processes. The focus on resolving a technical problem aligns well with the core themes of software development methodologies and practices.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1066,11 +1072,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T00:54:22",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T15:09:31",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses troubleshooting and configuring system settings related to Team Foundation Server (TFS) and Active Directory integration. It provides insights on checking event logs, SQL queries for job definitions, and configuration adjustments required to resolve synchronization issues. This focus on fixing configuration problems and optimizing system integration aligns well with the System Configuration category.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses a specific issue related to the configuration of Team Foundation Server (TFS) and Active Directory integration. It provides detailed steps for troubleshooting and resolving a configuration problem, including SQL queries, event log analysis, and service management. The focus on system setup, configuration management, and troubleshooting aligns well with the key topics of the 'System Configuration' category. The depth of discussion is significant, as it includes technical details and practical solutions, demonstrating a strong alignment with the category's purpose.",
     "level": "Secondary"
   },
   "Product Strategy": {

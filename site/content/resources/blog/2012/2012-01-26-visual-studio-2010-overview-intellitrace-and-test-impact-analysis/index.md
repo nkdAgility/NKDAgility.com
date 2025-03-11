@@ -29,9 +29,9 @@ aliasesArchive:
 - /blog/visual-studio-2010-overview---intellitrace-and-test-impact-analysis
 - /resources/blog/visual-studio-2010-overview-intellitrace-and-test-impact-analysis
 tags:
-- Software Development
-- Troubleshooting
 - Practical Techniques and Tooling
+- Troubleshooting
+- Software Development
 - Technical Excellence
 - Automated Testing
 - Events and Presentations

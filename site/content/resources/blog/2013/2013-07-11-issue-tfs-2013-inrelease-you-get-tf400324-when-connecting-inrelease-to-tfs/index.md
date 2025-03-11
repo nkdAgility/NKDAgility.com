@@ -27,11 +27,11 @@ aliasesArchive:
 - /blog/issue-[-tfs-2013-]-you-get-tf400324-when-connecting-inrelease-to-tfs
 - /resources/blog/issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs
 tags:
-- Install and Configuration
+- Software Development
 - Troubleshooting
+- Install and Configuration
 - Practical Techniques and Tooling
 - System Configuration
-- Software Development
 - Azure DevOps
 - Pragmatic Thinking
 categories:

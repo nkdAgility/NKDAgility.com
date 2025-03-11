@@ -388,12 +388,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T11:31:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:58:35",
+    "ai_confidence": 42.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the installation and configuration of Release Management Server for TFS 2013, which relates to software craftsmanship and engineering practices, particularly in the context of application lifecycle management and DevOps practices.",
-    "level": "Secondary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on the installation process of the Release Management Server for TFS 2013, which is a technical task. However, while it provides some insights into the configuration and installation details, it lacks a broader discussion on best practices, principles of clean code, or methodologies that contribute to software craftsmanship. The mention of configuration challenges hints at an understanding of technical debt but does not delve deeply into the principles of technical mastery. Overall, the content is more instructional than analytical, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -967,11 +970,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-15T11:31:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:56:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration of the Release Management Server for Team Foundation Server 2013, which is directly relevant to release management practices.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of the Release Management Server for TFS 2013, which is a specific aspect of Release Management. It discusses the tool's integration with Visual Studio and provides detailed steps for installation and configuration, aligning well with the core themes of Release Management. However, while it covers practical aspects, it lacks a broader discussion on strategies, risk management, or metrics related to release processes, which slightly lowers the depth of discussion.",
     "level": "Secondary"
   },
   "Product Owner": {
@@ -1123,11 +1129,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T11:31:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:46:40",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the installation and configuration of Release Management Server for Team Foundation Server 2013, which is relevant to managing software within the Windows environment.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of the Release Management Server for Team Foundation Server 2013, which is a tool that operates within the Windows environment. It discusses installation procedures, configuration settings, and some troubleshooting aspects, aligning well with the key topics of the Windows category. The content provides a detailed walkthrough of the installation process, including specific commands and configuration steps, indicating a strong depth of discussion. However, it does not explicitly mention broader Windows operating system features or issues, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Deployment Strategies": {

@@ -292,11 +292,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-15T21:43:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:06:20",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses Continuous Delivery and its importance in delivering value to customers, aligning with Agile principles and practices that enhance customer satisfaction.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the principles of Scrum and Continuous Delivery, emphasising the importance of delivering value to customers through iterative processes and regular deployments. It aligns well with the core themes of value delivery, particularly in relation to continuous integration and delivery practices. The depth of discussion on achieving Continuous Delivery and minimising technical debt further supports its relevance to the category.",
     "level": "Secondary"
   },
   "Azure DevOps": {
@@ -826,11 +829,14 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T10:28:38",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T16:56:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 30,
-    "final_score": 66.0,
-    "reasoning": "The content primarily discusses interpretations of Scrum principles and encourages adoption of continuous delivery within a Scrum framework, making Scrum a major theme but not the only focus.",
+    "final_score": 68.0,
+    "reasoning": "The content discusses Scrum principles and the importance of the Definition of Done, but it primarily focuses on Continuous Delivery rather than Scrum product development processes. While it touches on Scrum roles and practices, the emphasis on Continuous Delivery and technical debt detracts from a primary focus on Scrum methodologies.",
     "level": "Secondary"
   },
   "Scaled Agile": {
@@ -1006,11 +1012,14 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-16T10:28:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T18:07:38",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the concept of deployment frequency within the context of Agile and Scrum practices, emphasizing the benefits of more frequent deployments and the transition toward Continuous Deployment.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the importance of deployment frequency within the context of Scrum and Continuous Delivery. It explicitly mentions deploying to production every Sprint and encourages more frequent deployments, aligning well with the core themes of the category. The depth of discussion includes strategies for achieving Continuous Delivery and the necessary practices to support higher deployment frequency, such as automated testing and build processes. Overall, the content is focused on optimising deployment intervals, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Change Management": {

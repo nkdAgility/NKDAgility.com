@@ -24,15 +24,15 @@ aliasesArchive:
 - /resources/blog/continuous-value-delivery-with-modern-business-applications
 tags:
 - Continuous Delivery
-- Value Delivery
 - Working Software
+- Release Management
+- Pragmatic Thinking
+- Value Delivery
 - Business Agility
 - Deployment Frequency
 - News and Reviews
 - Product Delivery
 - Software Development
-- Technical Excellence
-- Agile Project Management
 categories:
 - DevOps
 - Engineering Excellence

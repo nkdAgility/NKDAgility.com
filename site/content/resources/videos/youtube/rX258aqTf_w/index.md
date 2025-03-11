@@ -33,9 +33,9 @@ tags:
 - Agile Strategy
 - Agile Transformation
 - Technical Leadership
+- Agile Leadership
 - Pragmatic Thinking
 - Software Development
-- Agile Leadership
 - Organisational Agility
 - Organisational Change
 resourceTypes:

@@ -27,14 +27,14 @@ isShort: false
 tags:
 - Automated Testing
 - Technical Excellence
-- Engineering Practices
 - Software Development
+- Engineering Practices
 - Practical Techniques and Tooling
 - Working Software
-- Continuous Integration
-- Test Automation
+- Pragmatic Thinking
 - Code and Complexity
-- Continuous Delivery
+- Technical Mastery
+- Operational Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6

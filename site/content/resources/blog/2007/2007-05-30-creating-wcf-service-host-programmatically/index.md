@@ -23,12 +23,7 @@ aliasesArchive:
 - /creating-wcf-service-host-programmatically
 - /resources/blog/creating-wcf-service-host-programmatically
 tags:
-- Software Development
 - Windows
-- Install and Configuration
-- Technical Mastery
-- System Configuration
-- Technical Excellence
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

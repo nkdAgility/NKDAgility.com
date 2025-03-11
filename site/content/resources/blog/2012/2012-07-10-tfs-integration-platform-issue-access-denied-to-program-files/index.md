@@ -29,8 +29,8 @@ aliasesArchive:
 tags:
 - Troubleshooting
 - Windows
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
 - Software Development
 - System Configuration
 categories: []

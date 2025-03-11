@@ -10,12 +10,15 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:09:57",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to the speed and responsiveness of Team Foundation Server, which can be linked to flow efficiency by identifying bottlenecks in server performance. However, the primary focus is on troubleshooting server speed rather than optimising work throughput.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses issues related to the speed of Team Foundation Server and suggests checking network performance and server specifications to identify bottlenecks. While it touches on the concept of bottlenecks, it does not explicitly focus on flow efficiency principles or provide in-depth analysis or metrics related to flow efficiency. The discussion is more about troubleshooting specific performance issues rather than optimising throughput across a value stream.",
+    "level": "Quaternary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -379,12 +382,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:20:33",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses performance issues related to Team Foundation Server, including server specifications and network checks, which are relevant to system configuration but are not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses issues related to the performance of Team Foundation Server, which touches on aspects of system configuration such as server specifications and network performance. However, it lacks a comprehensive exploration of configuration methodologies or best practices, focusing instead on troubleshooting specific speed issues. While it does mention checking server specs and network conditions, it does not delve deeply into configuration management or optimisation strategies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",

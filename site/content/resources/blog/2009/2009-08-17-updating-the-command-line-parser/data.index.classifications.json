@@ -40,12 +40,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:09:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:13:29",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the implementation of a Command Line Parser, which involves aspects of code quality and design. However, it primarily focuses on the specific implementation details rather than a broader discussion on code quality principles or complexity theory.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses the implementation of a Command Line Parser, which involves coding practices and architectural decisions. It touches on principles of code quality, such as readability and maintainability, through the use of structured classes and methods. However, while it does mention some aspects of complexity in terms of handling multiple commands and parameters, it lacks a deeper exploration of complexity theory or its implications on software development processes. The discussion is more focused on practical coding rather than theoretical insights, which limits its alignment with the core themes of the category.",
+    "level": "Secondary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -874,11 +877,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:02:35",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the development and usage of a command line parser, which relates to functional software development, but it is primarily focused on implementation details and doesn't deeply address working software principles like user feedback or delivery value.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on the technical implementation of a command line parser in VB.NET, detailing its structure and functionality. While it discusses aspects of software development, such as command handling and error management, it lacks a direct emphasis on delivering functional software that meets user needs or business objectives. The discussion does not engage with Agile or Scrum principles, nor does it provide insights into software quality or customer feedback, which are key themes of the 'Working Software' category.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
@@ -1063,12 +1069,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:09:22",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-11T15:11:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content discusses updating a command line parser and configuring command line applications, which relates to software installation and configuration, but it primarily focuses on command line implementation rather than broader system configuration topics.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the implementation of a command line parser in VB.NET, which is more focused on software development rather than system configuration. While there are elements related to command execution and handling parameters, the discussion lacks depth in terms of system setup, optimisation, or configuration management. The content does not explicitly address best practices or methodologies for configuring systems, which are central to the 'System Configuration' category.",
+    "level": "Quaternary"
   },
   "Product Strategy": {
     "category": "Product Strategy",

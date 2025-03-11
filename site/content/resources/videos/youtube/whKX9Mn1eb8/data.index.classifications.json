@@ -268,12 +268,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T12:01:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of quality in software delivery and introduces the concept of 'shift left', which is relevant to Continuous Delivery practices. However, it primarily focuses on quality engineering rather than Continuous Delivery itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-11T17:19:37",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the 'shift left' approach, which is related to quality assurance and early testing in the software development lifecycle. While it touches on aspects that can contribute to Continuous Delivery, such as early involvement of QA and continuous feedback, it does not explicitly focus on Continuous Delivery principles or practices. The discussion lacks depth in terms of Continuous Delivery methodologies, deployment strategies, and the relationship with DevOps, which are crucial for a higher confidence score in this category.",
+    "level": "Quaternary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -343,12 +346,15 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-17T12:01:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of 'shift left' in quality assurance, which is related to automated testing practices, but it primarily focuses on the broader theme of quality engineering rather than specifically on automated testing methodologies or tools.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-11T16:06:09",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the shift-left approach, which is closely related to automated testing, particularly in the context of integrating QA early in the development cycle. However, while it mentions the importance of automation, it does not delve deeply into specific automated testing practices, tools, or methodologies. The focus is more on the overall quality assurance process rather than automated testing specifically, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
@@ -658,12 +664,15 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T12:01:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T13:07:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivering high-quality products regularly, which aligns with the principles of frequent releases, but it primarily focuses on quality engineering and the shift left concept.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of delivering high-quality software regularly, which aligns with the principles of frequent releases. However, it primarily focuses on the 'shift left' concept in quality assurance rather than on the broader practices of continuous delivery or deployment. While it touches on the idea of regular cadence, it lacks detailed exploration of release processes, metrics, or specific strategies for frequent releases.",
+    "level": "Quaternary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -1318,12 +1327,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T12:01:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:17:12",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of quality engineering and the shift left concept, which are relevant to product delivery, but it does not primarily focus on the end-to-end process of delivering software products.",
-    "level": "Tertiary"
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the shift-left approach in quality assurance, which is a critical aspect of product delivery. It directly addresses methodologies for integrating quality early in the development process, emphasising collaboration, continuous feedback, and the benefits of improved quality and faster delivery. The depth of discussion includes practical recommendations for implementation, aligning well with the core themes of product delivery. Overall, the content is highly relevant and provides substantial insights into enhancing product delivery through quality assurance practices.",
+    "level": "Secondary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",

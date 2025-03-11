@@ -295,21 +295,27 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T21:24:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:38:21",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the roles and experience of a Scrum Master and an Agile Coach, which are relevant to Agile Project Management, but it does not delve deeply into agile methodologies or principles.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on the roles of Scrum Masters and Agile Coaches, which are central to Agile Project Management. It discusses the depth of knowledge and experience required for these roles, aligning well with the principles of Agile methodologies. However, while it touches on important aspects of Agile practices, it lacks detailed exploration of frameworks like Scrum and Kanban, and does not delve deeply into metrics or stakeholder engagement, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-17T21:24:49",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Lean principles in the context of Agile practices, indicating that Lean is a significant theme, but the primary focus is on the comparison between Scrum Masters and Agile Coaches.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-11T16:27:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the roles of Scrum Masters and Agile Coaches, with a focus on Agile practices rather than Lean Thinking principles. While it briefly mentions 'lean Agile' in the context of the Agile Coach's experience, it does not delve into Lean principles such as waste minimisation, value stream mapping, or continuous improvement. The discussion lacks depth in Lean concepts, leading to a low confidence score for alignment with Lean Thinking.",
+    "level": "Quaternary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -349,12 +355,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T21:24:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:40:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of an Agile coach in organisations and touches on the implementation of Agile practices, which aligns with the theme of enterprise agility, but it primarily focuses on the comparison between Scrum Masters and Agile Coaches rather than broader organisational agility.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the roles of Scrum Masters and Agile Coaches, which are more aligned with team-level practices rather than the broader organisational context of Enterprise Agility. While it touches on the importance of guiding organisations and embedding Agile practices, it lacks a comprehensive discussion on organisational structures, frameworks, or strategies that support enterprise-level agility. Therefore, the confidence score reflects a low alignment with the core themes of Enterprise Agility.",
+    "level": "Quaternary"
   },
   "Kanban": {
     "category": "Kanban",

@@ -29,14 +29,14 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
+- News and Reviews
 - Azure DevOps
 - Release Management
 - System Configuration
 - Agile Planning Tools
-- Application Lifecycle Management
-- News and Reviews
 - Frequent Releases
 - Modern Source Control
+- Software Development
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-7-7.png

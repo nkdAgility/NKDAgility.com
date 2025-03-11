@@ -169,12 +169,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:09:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the TFS Event Handler and its implications for team communication and process efficiency, particularly in a Scrum environment, indicating a secondary theme related to people and process.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on technical aspects of the TFS Event Handler and its functionalities, with minimal direct mention of human factors or team processes. While there is a brief reference to the Scrum environment, it does not delve into team dynamics or collaboration, which are central to the 'People and Process' category. The discussion lacks depth regarding how these processes impact human behaviour or team productivity.",
+    "level": "Quaternary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -244,12 +247,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:59:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the TFS Event Handler and its integration with Team Foundation Server, which relates to aspects of product delivery, such as notifications and event handling. However, the primary focus is on technical implementation rather than the broader methodologies and practices of product delivery.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the TFS Event Handler and its functionalities, which are related to software development and integration. However, it lacks a direct focus on the methodologies and practices of product delivery as defined in the category. While it touches on aspects of event handling that could relate to deployment and notifications, it does not delve into the broader themes of planning, iterative development, or quality assurance that are central to product delivery. The mention of Scrum is too brief and does not provide substantial insight into product delivery practices.",
+    "level": "Quaternary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1066,12 +1072,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:10:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the reworking and configuration of TFS Event Handlers, which pertains to system configuration processes. However, the primary focus appears to be on event handling in TFS rather than a broad exploration of system configuration methods and best practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the development and functionality of event handlers for Team Foundation Server (TFS), which is more aligned with software development practices than system configuration. While there are mentions of integration and efficiency improvements, the focus is not on configuring systems or optimising performance, but rather on building specific features within TFS. The discussion lacks depth in terms of configuration management tools or strategies, leading to a low confidence score in the context of system configuration.",
+    "level": "Quaternary"
   },
   "Product Strategy": {
     "category": "Product Strategy",

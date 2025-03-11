@@ -27,16 +27,16 @@ aliasesArchive:
 - /blog/are-technical-skills-required-to-be-a-scrum-master-
 - /resources/blog/are-technical-skills-required-to-be-a-scrum-master
 tags:
+- Scrum Team
 - People and Process
 - Coaching
 - Scrum Product Development
 - Professional Scrum
 - Scrum Master
-- Scrum Team
 - Software Development
 - Team Performance
-- Technical Mastery
 - Technical Leadership
+- Events and Presentations
 categories:
 - Scrum
 - Social Technologies

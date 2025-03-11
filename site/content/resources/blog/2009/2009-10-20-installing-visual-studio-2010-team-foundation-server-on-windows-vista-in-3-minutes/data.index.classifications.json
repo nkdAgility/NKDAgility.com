@@ -352,12 +352,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:09:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:13:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation of Team Foundation Server (TFS), which is a tool related to Application Lifecycle Management, but the primary focus is on the installation process rather than the broader aspects of ALM.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation process of Team Foundation Server (TFS) 2010, which is a tool that can be part of Application Lifecycle Management. However, it lacks a comprehensive discussion on the broader aspects of ALM, such as lifecycle stages, governance, or best practices. While it mentions TFS and includes tags related to ALM, the content does not delve into the methodologies or practices that define Application Lifecycle Management, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -379,12 +382,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:02:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation of Team Foundation Server, which is relevant to technical practices, but it primarily focuses on installation procedures rather than broader themes of software craftsmanship and engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2010 Team Foundation Server, which is a technical task but lacks a broader discussion on software craftsmanship, architecture, or engineering practices. While it provides some details about the installation and configuration, it does not delve into best practices, principles of clean code, or methodologies that contribute to high-quality software development. Therefore, it only partially aligns with the category of Technical Mastery.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -622,12 +628,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:09:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:11:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the installation process of Team Foundation Server (TFS), which is a version control tool. While it touches on a specific application of source control, it does not delve into methodologies, best practices, or strategies relevant to modern source control.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation process of Team Foundation Server (TFS) 2010, which is a version control system. However, it lacks a detailed discussion on best practices, methodologies, or strategies related to modern source control. While TFS is mentioned, the content does not delve into topics such as branching strategies, code review processes, or collaboration workflows, which are essential for a higher confidence score in this category.",
+    "level": "Quaternary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",

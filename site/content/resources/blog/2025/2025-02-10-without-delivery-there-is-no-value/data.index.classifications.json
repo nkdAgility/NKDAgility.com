@@ -325,11 +325,14 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-11T14:11:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T13:04:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of delivery in realising value, which aligns with Lean principles of minimising waste and enhancing efficiency. It emphasises frequent releases and feedback loops, which are central to Lean Thinking and continuous improvement.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of delivery in realising value, which aligns with Lean principles of minimising waste and enhancing efficiency. It mentions concepts like feedback loops and the cost of delayed delivery, which resonate with Lean's focus on continuous improvement and value creation. However, while it touches on Lean-related themes, the primary focus is on Agile methodologies and delivery rather than Lean Thinking itself, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Cycle Time": {
@@ -343,11 +346,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-11T14:11:23",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T14:15:10",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses the importance of frequent delivery in Agile development, emphasising principles such as validation of assumptions, feedback loops, and the costs associated with delayed delivery, which align closely with Agile engineering practices.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on the importance of delivery in Agile practices, discussing how frequent releases validate assumptions and create value. It aligns well with key topics such as Continuous Integration and Continuous Delivery (CI/CD) and the principles of Agile, emphasising the need for feedback loops and adaptation. However, while it touches on Agile methodologies, it does not delve deeply into specific engineering practices like TDD or clean code, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Portfolio Management": {
@@ -400,11 +406,14 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-11T14:11:37",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T16:03:58",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses the importance of delivery in Agile methodologies, emphasising the Agile principles of frequent releases, customer feedback, and the validation of assumptions, which are central to Agile values.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the importance of delivery in Agile methodologies, emphasising how frequent releases validate assumptions and realise value. It aligns closely with Agile principles such as customer collaboration, responding to change, and the significance of self-organising teams. The depth of discussion is high, providing detailed examples and metrics that illustrate the impact of Agile values on project success and team dynamics.",
     "level": "Secondary"
   },
   "Automated Testing": {
@@ -427,11 +436,14 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-11T14:11:43",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T17:17:38",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses the importance of delivery in realising product value, which aligns closely with the responsibilities of a Product Owner in managing backlog and stakeholder engagement. It highlights the need for frequent releases and feedback loops, which are central to the Product Owner's role in Agile and Scrum.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of delivery and frequent releases in Agile and Scrum, which indirectly relates to the Product Owner's role in maximising product value. However, it lacks direct mentions of the Product Owner's responsibilities, techniques for backlog management, or stakeholder engagement, which are crucial for a higher confidence score. The focus is more on general Agile principles and the consequences of delayed delivery rather than the specific duties and strategies of a Product Owner.",
     "level": "Secondary"
   },
   "Change Management": {

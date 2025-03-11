@@ -184,11 +184,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:13:40",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-11T15:20:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses remote access and its implications for team collaboration, but it does not focus on the methodologies or practices involved in the end-to-end process of delivering usable software products.",
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on remote access and its implications for team collaboration, which is tangentially related to product delivery. However, it lacks explicit discussions on methodologies, practices, or detailed processes involved in delivering software products. The focus is more on remote access technology rather than the end-to-end product delivery process.",
     "level": "Quaternary"
   },
   "Beta Codex": {
@@ -967,12 +970,15 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-17T09:13:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:10:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content discusses remote access for Team System and the advantages of working with disparate teams, it does not specifically address Agile practices, strategies, or tools related to remote working in an Agile context.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions remote access and the benefits of working with disparate teams, which aligns with the concept of remote working. However, it lacks a direct focus on Agile practices, tools, or strategies specific to remote Agile teams. The discussion is more about technical aspects of remote access rather than the collaborative and cultural elements of remote working in an Agile context.",
+    "level": "Quaternary"
   },
   "Scaling Kanban": {
     "category": "Scaling Kanban",

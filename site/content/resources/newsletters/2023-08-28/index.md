@@ -23,14 +23,12 @@ categories:
 tags:
 - Agile Product Management
 - Discovery and Learning
-- Scrum Team
 - Continuous Learning
 - News and Reviews
 - Product Owner
 - Products and Books
-- Customer Retention
-- Customer Satisfaction
 - Software Developers
+- Software Development
 
 ---
 Greetings,

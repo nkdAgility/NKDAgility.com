@@ -25,18 +25,18 @@ aliasesArchive:
 - /resources/blog/storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
 tags:
 - Agile Product Management
-- Product Delivery
 - Working Software
-- Value Delivery
+- Product Delivery
 - Transparency
-- Increment
+- Software Development
+- Value Delivery
 - People and Process
+- Increment
 - Agile Product Operating Model
 - Agile Values and Principles
-- Agile Frameworks
 categories:
-- Scrum
 - Social Technologies
+- Scrum
 - Product Management
 preview: image-1.jpg
 

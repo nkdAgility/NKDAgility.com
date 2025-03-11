@@ -25,16 +25,16 @@ preview: https://i.ytimg.com/vi/VkhIXCsoSJw/maxresdefault.jpg
 duration: 529
 isShort: false
 tags:
+- Test Automation
 - Practical Techniques and Tooling
-- Product Delivery
 - Technical Excellence
+- Product Delivery
+- Deployment Frequency
+- Pragmatic Thinking
 - Continuous Delivery
 - Azure DevOps
 - Operational Practices
-- Pragmatic Thinking
-- Automated Testing
-- Cycle Time
-- Flow Efficiency
+- Market Adaptability
 resourceTypes:
 - video
 sitemap:

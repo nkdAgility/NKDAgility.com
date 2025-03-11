@@ -27,8 +27,8 @@ duration: 154
 isShort: false
 tags:
 - Discovery and Learning
-- Continuous Learning
 - People and Process
+- Continuous Learning
 - Coaching
 - Pragmatic Thinking
 sitemap:

@@ -277,20 +277,26 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T14:28:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:27:10",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile practices and the limitations of traditional planning methods, which are relevant to business agility, but the primary focus is on Scrum roles and events rather than broader business agility principles.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses agile practices, particularly in the context of Sprint planning and the limitations of burndown charts. While it touches on themes of adaptability and minimising upfront planning, which are relevant to business agility, the primary focus is on Scrum methodologies rather than a broader exploration of business agility principles. The discussion lacks depth in addressing leadership roles, organisational structures, or case studies, which are key aspects of business agility.",
+    "level": "Secondary"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T14:28:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:16:28",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Sprint planning and critiques the use of burndown charts, which relates to Agile practices. However, it primarily focuses on philosophical arguments rather than practical techniques or specific tooling.",
+    "final_score": 57.0,
+    "reasoning": "The content critiques the use of burndown charts in Agile practices and suggests a more flexible approach to Sprint planning. While it discusses practical techniques for planning, it lacks direct references to specific tools or methodologies that enhance Agile practices. The focus is more on philosophical perspectives rather than concrete tooling or frameworks, which diminishes its alignment with the category.",
     "level": "Tertiary"
   },
   "Events and Presentations": {
@@ -304,11 +310,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T14:28:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:29:07",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses agile methodologies, specifically the limitations of burndown charts in Sprint planning, and advocates for a more flexible, iterative approach to product delivery.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses Sprint planning within the context of Agile methodologies, which is a key aspect of product delivery. It critiques the use of burndown charts and advocates for a more flexible approach to planning, aligning well with the iterative development and feedback loops central to product delivery. The depth of discussion on planning strategies and the emphasis on adapting to change further supports its relevance to the category. However, while it touches on important themes, it does not comprehensively cover all aspects of product delivery, such as deployment or cross-functional team roles, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Enterprise Agility": {

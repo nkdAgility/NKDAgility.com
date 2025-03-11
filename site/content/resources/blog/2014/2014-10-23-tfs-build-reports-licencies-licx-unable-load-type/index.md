@@ -29,11 +29,11 @@ aliasesArchive:
 tags:
 - Software Development
 - Pragmatic Thinking
-- Continuous Integration
 - Install and Configuration
-- System Configuration
 - Troubleshooting
 - Practical Techniques and Tooling
+- System Configuration
+- Continuous Integration
 - Operational Practices
 - Release Management
 - Technical Excellence

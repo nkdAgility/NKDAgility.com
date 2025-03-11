@@ -385,11 +385,14 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-14T18:42:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:51:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the importance of the Definition of Done in relation to maintaining transparency and achieving a Done Increment, while also addressing how it relates to Scrum practices and Continuous Delivery.",
+    "final_score": 68.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) in relation to maintaining transparency and achieving a Done Increment, which aligns with the core themes of the category. However, the primary focus is on the concept of workflow across Sprint boundaries and Continuous Delivery, with the DoD being mentioned as a supporting element rather than the main topic. The depth of discussion on the DoD itself is limited, as it is primarily referenced in the context of other practices and Scrum events.",
     "level": "Secondary"
   },
   "Technical Mastery": {
@@ -412,11 +415,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T18:42:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:41:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses Continuous Delivery principles within the context of Scrum, highlighting the importance of maintaining a production-ready state and the practices that support CD, such as automation and feature flags.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses Continuous Delivery (CD) in the context of Scrum, highlighting its importance for maintaining a production-ready state and ensuring that teams can deliver working software. It mentions practices that support CD, such as automation, feature flags, and test-driven development, which align well with the principles of Continuous Delivery. However, the primary focus is on Scrum practices, which slightly detracts from the overall emphasis on CD, leading to a high but not perfect confidence score.",
     "level": "Secondary"
   },
   "Strategic Goals": {
@@ -475,11 +481,14 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-14T18:43:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:53:34",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Scrum practices, including Sprint Planning and the management of work across Sprint boundaries, which are central to Agile Planning methodologies.",
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses Scrum practices, particularly the flow of work across Sprint boundaries, which is a nuanced aspect of Agile Planning. It directly references key Agile concepts such as the Sprint Goal, Definition of Done, and the importance of transparency and empirical process control. The depth of discussion includes practical techniques and considerations for teams, aligning well with Agile Planning principles. However, while it is focused on Agile methodologies, it does not delve deeply into broader Agile Planning strategies or tools beyond Scrum, which slightly limits its overall alignment.",
     "level": "Secondary"
   },
   "Value Stream Mapping": {

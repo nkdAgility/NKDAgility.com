@@ -685,12 +685,15 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:59:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content touches on a specific software update (TFS 2012.3) that addresses a bug, indicating a secondary theme of frequent releases to resolve issues, although it primarily focuses on a specific error and its resolution.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions a software update (2012.3) that resolves a bug, which aligns with the concept of frequent releases. However, the primary focus is on a specific error and its resolution rather than a broader discussion on release practices, automation, or continuous delivery principles. The depth of discussion on frequent releases is minimal, primarily highlighting a single update without exploring related strategies or metrics.",
+    "level": "Quaternary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -958,11 +961,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:01:11",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific issue related to Team Foundation Server (TFS) and its version, which implies a release management context regarding updates and bug fixes. However, it primarily focuses on troubleshooting and does not delve deeply into broader release management concepts.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses a specific issue related to Team Foundation Server (TFS) and mentions a bug fix in a newer version (2012.3), which aligns with the concept of release management. However, the primary focus is on troubleshooting an error rather than a comprehensive discussion on release management practices, strategies, or processes. The mention of the Go-Live licence indicates some awareness of release readiness, but the overall depth and direct discussion of release management concepts are limited.",
     "level": "Tertiary"
   },
   "Product Owner": {
@@ -1057,11 +1063,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:49:34",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific issue related to Team Foundation Server configuration and permissions during environment migration, making it a significant but secondary theme within a broader context of bug reporting and solutions.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses a specific issue related to the configuration of Team Foundation Server (TFS) and how moving it between environments can lead to access errors. It mentions the need for proper permissions and highlights a bug that affects system functionality, which aligns with the category's focus on system configuration. However, while it touches on configuration issues, the depth of discussion is limited to a specific problem and its solution, lacking broader insights into configuration best practices or methodologies.",
     "level": "Tertiary"
   },
   "Product Strategy": {

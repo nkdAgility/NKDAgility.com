@@ -2,7 +2,7 @@
 title: 'Transforming Chaos into Clarity: How Optimising Systems Fuels Engineering Excellence'
 description: Transform chaos into clarity! Discover how optimising systems and tackling technical debt can boost productivity and innovation in your organisation.
 date: 2024-12-16T06:00:00Z
-weight: 230
+weight: 240
 ResourceId: zqMzD1PXq4s
 ResourceType: videos
 ResourceImport: true
@@ -25,16 +25,16 @@ preview: https://i9.ytimg.com/vi/zqMzD1PXq4s/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 413
 isShort: false
 tags:
+- Technical Debt
 - Technical Mastery
 - Operational Practices
 - Pragmatic Thinking
 - Technical Excellence
 - Software Development
 - Technical Leadership
-- Engineering Practices
-- Technical Debt
 - People and Process
 - Code and Complexity
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -32,8 +32,11 @@ sitemap:
 tags:
 - Agile Project Management
 - Definition of Done
+- Agile Product Management
 - Software Development
+- People and Process
 - Pragmatic Thinking
+- Scrum Team
 - Agile Frameworks
 - Professional Scrum
 - Software Developers

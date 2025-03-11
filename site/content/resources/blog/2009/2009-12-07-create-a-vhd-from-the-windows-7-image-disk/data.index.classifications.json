@@ -295,12 +295,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:02:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 5,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes personal anecdotes about the author's experience setting up a new laptop and working from home, but the primary focus is on technical instructions for creating a VHD from a Windows image, which is not aligned with the Personal category.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on technical instructions for creating a VHD from a Windows image, with minimal personal reflection or insights related to Agile, Scrum, or DevOps. While there are brief mentions of the author's personal situation (waiting for a laptop, using a family member's device), these do not provide substantial personal anecdotes or insights relevant to the category. The technical nature of the content overshadows any personal context, leading to a low confidence score for alignment with the 'Personal' category.",
+    "level": "Quinary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -586,12 +589,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T02:23:00",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T15:11:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content primarily discusses the steps to convert a Windows image file to a VHD, which relates to software deployment practices, but it lacks in-depth discussion of methodologies or frameworks typically associated with software development. It is focused on a specific technical process rather than broader Software Development themes.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on a practical guide for converting a Windows Image file to a Virtual Hard Disk (VHD), which is a technical task related to software deployment. While it does touch on aspects of software development, such as the use of tools and processes for installation, it lacks a broader discussion on methodologies or best practices in software development. The depth of discussion is limited to specific steps without delving into underlying principles or frameworks, resulting in a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -1123,12 +1129,15 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:13:04",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses creating a virtual hard drive (VHD) and deploying an image, which relates to deployment strategies, but it does not focus exclusively on broader methodologies and practices of deployment in software development.",
-    "level": "Tertiary"
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on creating a VHD from a Windows image, which is more about installation and setup rather than deployment strategies. While it mentions 'deploying' an image, it lacks a comprehensive discussion on methodologies or practices related to deployment strategies such as Blue-Green Deployments or Canary Releases. The content does not provide actionable insights into deployment strategies, making it only tangentially related to the category.",
+    "level": "Quaternary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",

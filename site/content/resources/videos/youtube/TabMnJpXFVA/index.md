@@ -2,7 +2,7 @@
 title: 'Transforming Training: How Immersive Learning and DevOps Drive Real Value in Organisations'
 description: Discover how immersive training and agile methodologies can transform learning experiences. Join me in prioritising value over revenue for impactful results!
 date: 2023-03-16T07:00:16Z
-weight: 775
+weight: 790
 ResourceId: TabMnJpXFVA
 ResourceType: videos
 ResourceImport: true
@@ -26,8 +26,8 @@ preview: https://i.ytimg.com/vi/TabMnJpXFVA/maxresdefault.jpg
 duration: 287
 isShort: false
 tags:
-- People and Process
 - Pragmatic Thinking
+- People and Process
 - Agile Frameworks
 - Agile Project Management
 - Agile Transformation

@@ -28,9 +28,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Values and Principles
 - Agile Philosophy
 - Pragmatic Thinking
+- Agile Values and Principles
 - People and Process
 resourceTypes:
 - video

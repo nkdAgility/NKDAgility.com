@@ -24,15 +24,15 @@ aliasesArchive:
 - /resources/blog/scrum-for-team-foundation-server-2010
 tags:
 - Events and Presentations
-- Scrum Product Development
 - Software Development
 - Agile Planning Tools
-- Agile Project Management
-- Agile Frameworks
-- Agile Planning
 - Software Developers
+- Agile Frameworks
+- Agile Project Management
 - Practical Techniques and Tooling
+- Scrum Product Development
 - Application Lifecycle Management
+- Product Delivery
 categories:
 - Social Technologies
 - Scrum

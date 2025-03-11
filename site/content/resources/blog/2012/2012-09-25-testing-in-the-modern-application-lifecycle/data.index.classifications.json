@@ -292,20 +292,26 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-14T16:57:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:02:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the integration of testing practices within Agile methodologies, focusing on iterative development, collaboration among cross-functional teams, and the importance of delivering quality software that meets customer expectations.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of integrating testing within Agile frameworks and highlights the need for iterative quality assurance processes. It mentions the role of cross-functional teams and the necessity of continuous feedback loops, which align with value delivery principles. However, the focus is more on technical implementation and specific tools rather than a comprehensive exploration of value delivery strategies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-14T16:57:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:52:23",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses Microsoft Test Manager, which is a tool within the Azure DevOps suite, and its integration with testing processes, making it central to the topic.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses Microsoft Test Manager, which is a tool within the Azure DevOps suite, and elaborates on its functionalities, integration points, and benefits for testing in the context of agile development. While it does not cover all Azure DevOps services, it focuses significantly on testing practices and tools that align with Azure DevOps principles, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -364,11 +370,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-14T16:57:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T18:04:10",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the complexities of manual testing within the context of the application lifecycle, including integration with tools like Microsoft Test Manager, which supports the management of testing processes throughout the application lifecycle.",
+    "final_score": 73.0,
+    "reasoning": "The content discusses testing within the context of the application lifecycle, particularly focusing on manual testing complexities and integration with tools like Microsoft Test Manager. It aligns with ALM by addressing stages such as development and deployment, and mentions the need for collaboration across teams, which is a key aspect of modern ALM practices. However, while it touches on relevant topics, the depth of discussion on broader ALM methodologies and practices is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Daily Scrum": {

@@ -38,8 +38,8 @@ tags:
 - Agile Frameworks
 - Scaling Agility
 - Agile Project Management
-- Agile Strategy
 - Enterprise Agility
+- Agile Strategy
 - Software Development
 resourceTypes:
 - video

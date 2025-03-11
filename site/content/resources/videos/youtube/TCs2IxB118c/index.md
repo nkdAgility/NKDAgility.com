@@ -29,7 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Team Motivation
+- Team Performance
+- Employee Engagement
+- Coaching
+- Mentoring
+- Organisational Psychology
+- Discovery and Learning
+- Personal
+- Organisational Culture
 resourceTypes:
 - video
 categories:

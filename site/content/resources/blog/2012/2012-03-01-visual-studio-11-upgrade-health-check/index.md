@@ -26,12 +26,9 @@ tags:
 - Products and Books
 - Install and Configuration
 - News and Reviews
-- People and Process
 - Practical Techniques and Tooling
 - Agile Frameworks
-- Product Delivery
 - Software Development
-- System Configuration
 - Troubleshooting
 categories:
 - Social Technologies

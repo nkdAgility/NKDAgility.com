@@ -8,7 +8,7 @@ ResourceImportId: 3823
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-09-30
-weight: 685
+weight: 720
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,14 +29,14 @@ aliasesArchive:
 tags:
 - Agile Project Management
 - Software Development
-- Scrum Master
 - Organisational Change
-- Agile Frameworks
-- People and Process
-- Pragmatic Thinking
 - Professional Scrum
+- People and Process
+- Scrum Master
+- Agile Frameworks
 - Events and Presentations
 - Agile Transformation
+- Pragmatic Thinking
 categories:
 - Scrum
 - Social Technologies

@@ -29,14 +29,14 @@ aliasesArchive:
 tags:
 - Scrum Team
 - Agile Project Management
-- People and Process
 - Professional Scrum
-- Scrum Master
+- People and Process
 - Software Development
-- Pragmatic Thinking
-- Scrum Product Development
+- Scrum Master
 - Team Collaboration
 - Agile Frameworks
+- Pragmatic Thinking
+- Scrum Product Development
 categories:
 - Scrum
 preview: PSX_20190823_113052-1-1.jpg

@@ -29,14 +29,14 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 - Automated Testing
-- Modern Source Control
 - Azure Pipelines
 - Continuous Integration
 - Engineering Practices
 - Operational Practices
 - Software Development
-- Technical Mastery
+- Modern Source Control
 - Technical Excellence
+- Product Delivery
 preview: metro-visual-studio-2010-128-link-6-6.png
 categories:
 - DevOps

@@ -499,21 +499,27 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-16T01:39:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:00:51",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses branching strategies for Scrum teams, which directly relates to process optimization, workflow management, and best practices within Agile methodologies.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed discussion on branching strategies specifically tailored for Scrum teams, which directly relates to operational practices within Agile methodologies. It discusses the importance of maintaining a stable codebase, the process of merging branches, and the implications of branching on development workflows. The content also addresses common mistakes and anti-patterns in branching, which are crucial for optimising operational efficiency. Overall, the content aligns well with the key topics of operational practices, particularly in the context of Agile and Scrum, and offers practical insights and strategies for improving workflow management.",
     "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T01:39:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:10:20",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses a branching strategy specifically designed for Scrum Teams, which implies a focus on team collaboration and workflow within the Scrum framework, primarily touching on roles such as the Scrum Team's dynamics during development.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content discusses branching strategies specifically for Scrum teams, indicating a focus on team dynamics and practices. However, it lacks in-depth exploration of roles, collaboration techniques, and communication strategies, which are key aspects of a Scrum Team. The mention of Scrum is present but not the primary focus, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -526,11 +532,14 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-16T01:39:26",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T18:11:49",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 50,
-    "final_score": 68.0,
-    "reasoning": "The content discusses branching strategies specifically in the context of Scrum development, which is related to optimizing delivery processes and enhancing team performance. However, it is heavily focused on technical implementation rather than a broad strategic discussion.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses a branching strategy for Scrum teams, which is a strategic approach to managing code development within Agile frameworks. It includes direct mentions of Scrum practices, the importance of strategic alignment in branching, and the implications of branching decisions on team performance and delivery processes. The depth of discussion is significant, covering various aspects of branching, integration, and the consequences of different strategies, thus aligning well with the core themes of the Strategy category.",
     "level": "Secondary"
   },
   "Product Validation": {

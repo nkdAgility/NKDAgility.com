@@ -1069,11 +1069,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T21:09:13",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:03:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses troubleshooting a specific configuration error related to TFS Integration Tools, including steps to manually adjust workspace configurations to resolve path length issues, which aligns well with system configuration principles.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses a specific error related to path length in the TFS Integration Platform, which directly pertains to system configuration. It provides detailed solutions for configuring folder mappings to resolve the issue, aligning well with best practices for system optimisation and configuration management. The depth of discussion is substantial, offering practical steps and considerations for users facing similar issues, thus reinforcing its relevance to the category.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1123,11 +1126,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T21:09:13",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:53:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses troubleshooting an issue related to the TFS Integration Platform, which is used with Microsoft technologies, including Windows. It provides steps for resolving errors that likely occur within a Windows environment, focusing on configuration settings and system paths.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses an error related to the TFS Integration Platform, which operates within the Windows environment. It provides specific troubleshooting steps and solutions for managing folder paths in TFS, directly aligning with the Windows category's focus on troubleshooting and configuration. The mention of Windows paths and the TFS Integration Tools indicates a strong relevance to Windows, although it does not cover broader aspects of the operating system itself. The depth of discussion is substantial, detailing specific solutions and configurations, which further supports a high confidence score.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
@@ -1177,11 +1183,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T21:09:13",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T18:05:02",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a specific error encountered during TFS integration related to path length, details diagnostic steps, and offers solutions for resolving the issue, which aligns with troubleshooting methodologies.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses a specific error (TF205022) related to path length in TFS Integration Tools, providing detailed steps for diagnosing and resolving the issue. It aligns well with the core themes of troubleshooting by outlining techniques for identifying the problem, suggesting manual interventions, and offering solutions to mitigate the issue. The depth of discussion is substantial, as it includes specific actions to take and considerations for folder structure, which are critical for effective troubleshooting.",
     "level": "Secondary"
   },
   "Experimentation": {

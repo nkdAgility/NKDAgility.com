@@ -32,12 +32,12 @@ tags:
 - People and Process
 - Agile Philosophy
 - Agile Strategy
-- Business Agility
 - Organisational Agility
 - Pragmatic Thinking
+- Business Agility
 - Agile Values and Principles
-- Market Adaptability
 - Resilience and Change
+- Market Adaptability
 - Agile Transformation
 resourceTypes:
 - video

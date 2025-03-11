@@ -29,8 +29,8 @@ aliasesArchive:
 tags:
 - Agile Frameworks
 categories:
-- Scrum
 - Social Technologies
+- Scrum
 preview: clip_image006_thumb-3-3.jpg
 
 ---

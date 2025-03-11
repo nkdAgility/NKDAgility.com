@@ -31,6 +31,7 @@ tags:
 - Install and Configuration
 - Software Development
 - Practical Techniques and Tooling
+- Windows
 - System Configuration
 categories: []
 preview: puzzle-issue-problem-128-link-1-1.png

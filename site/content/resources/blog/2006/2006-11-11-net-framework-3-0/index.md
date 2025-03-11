@@ -27,7 +27,13 @@ aliasesArchive:
 - /blog/-net-framework-3-0
 - /resources/blog/net-framework-3-0
 tags:
+- Products and Books
+- Practical Techniques and Tooling
+- Working Software
 - Technical Mastery
+- Engineering Practices
+- Software Developers
+- Software Development
 preview: metro-binary-vb-128-link-1-1.png
 categories: []
 

@@ -595,11 +595,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T10:29:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:03:21",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses various software development topics, such as refactoring, dynamic languages with .NET, design patterns, and architectural practices, indicating a strong focus on software development methods and principles.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses various aspects of software development, including refactoring, design patterns (specifically MVVM), and architectural considerations. It provides detailed insights into sessions from a developer event, showcasing methodologies and practices relevant to the software development lifecycle. The mention of specific techniques and the emphasis on the importance of architectural integrity and refactoring practices align closely with the core themes of the Software Development category.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1237,20 +1240,26 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-16T10:29:33",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-11T18:14:05",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content primarily discusses topics related to refactoring, the importance of managing code debt, and methodologies in software development, which align with engineering practices. However, it also includes personal anecdotes and coverage of various sessions, making engineering practices a secondary theme.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses refactoring in detail, highlighting its importance in managing code debt and maintaining software quality, which aligns well with the principles of clean code and refactoring. It also touches on architectural practices and the need for strong architectural oversight, which relates to maintaining high-quality engineering practices. However, while these discussions are relevant, they are somewhat overshadowed by the broader event context and other topics, leading to a slightly lower confidence score.",
     "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-16T10:29:33",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T15:12:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the concept of code debt and includes some discussion on refactoring and architectural degradation, which are related to technical debt, but the primary focus is on event summaries and other unrelated topics.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the concept of 'code debt' in the context of refactoring, highlighting the need to manage and pay back this debt to maintain software quality. It aligns well with the core themes of technical debt, particularly in terms of its impact on maintainability and the importance of addressing it. The depth of discussion is moderate, providing insights into the necessity of refactoring iterations to manage technical debt effectively. However, while technical debt is a significant focus, the content also covers various other topics and sessions from the event, which slightly dilutes its primary focus.",
     "level": "Secondary"
   },
   "Sprint Review": {

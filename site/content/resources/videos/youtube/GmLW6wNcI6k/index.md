@@ -36,11 +36,11 @@ tags:
 - Business Agility
 - Discovery and Learning
 - People and Process
+- Empirical Process Control
 - Market Adaptability
 - Organisational Agility
 - Personal
 - Agile Philosophy
-- Empirical Process Control
 resourceTypes:
 - video
 categories:

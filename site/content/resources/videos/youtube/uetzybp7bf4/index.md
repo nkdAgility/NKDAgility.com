@@ -32,9 +32,9 @@ tags:
 - Change Management
 - Continuous Learning
 - Organisational Culture
-- Pragmatic Thinking
-- Team Collaboration
 - Team Motivation
+- Team Performance
+- Agile Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6

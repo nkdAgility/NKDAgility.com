@@ -30,11 +30,8 @@ tags:
 - Software Development
 - Install and Configuration
 - Practical Techniques and Tooling
-- Operational Practices
-- System Configuration
 - Pragmatic Thinking
 - Troubleshooting
-- Technical Mastery
 categories: []
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 

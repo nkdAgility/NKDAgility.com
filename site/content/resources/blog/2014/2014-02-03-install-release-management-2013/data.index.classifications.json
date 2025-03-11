@@ -202,11 +202,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:56:40",
+    "ai_confidence": 55.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 50.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Release Management, which is a component of the product delivery process, but it primarily focuses on installation and configuration rather than broader methodologies or practices in product delivery.",
+    "final_score": 50.0,
+    "reasoning": "The content discusses Release Management 2013, which is relevant to the deployment phase of product delivery. However, it primarily focuses on installation and configuration rather than broader methodologies or practices involved in product delivery. While it touches on aspects of release management, it lacks depth in discussing the integration of planning, testing, and iterative development, which are core themes of the category.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -328,12 +331,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:58:32",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Release Management, which is a component of Application Lifecycle Management, but it primarily focuses on installation and configuration rather than the broader lifecycle management practices.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily discusses the installation and configuration of Release Management 2013, which is a tool relevant to the application lifecycle. However, it lacks a comprehensive discussion on the broader aspects of Application Lifecycle Management, such as methodologies, governance, or metrics. While it mentions tools related to release management, it does not delve into the lifecycle stages or best practices, resulting in a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -1120,12 +1126,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:46:37",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation and configuration of Release Management 2013, which is relevant to Windows as it pertains to Visual Studio and deployment tools associated with Windows. However, the primary focus is on Release Management rather than the Windows operating system itself.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the installation and configuration of Release Management 2013, which is related to the Windows environment, particularly in conjunction with Visual Studio 2013. However, it primarily focuses on Release Management rather than the Windows operating system itself. While there are mentions of installation and configuration, they are specific to the Release Management tool rather than broader Windows OS topics. The depth of discussion is moderate, but it lacks comprehensive coverage of Windows-specific themes such as troubleshooting or system updates.",
+    "level": "Quaternary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",

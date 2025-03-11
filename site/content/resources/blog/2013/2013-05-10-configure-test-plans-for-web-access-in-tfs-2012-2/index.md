@@ -26,9 +26,9 @@ tags:
 - Install and Configuration
 - Practical Techniques and Tooling
 - Azure DevOps
-- System Configuration
 - Software Development
 - Troubleshooting
+- System Configuration
 categories: []
 
 ---

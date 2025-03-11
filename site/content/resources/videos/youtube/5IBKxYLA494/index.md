@@ -24,12 +24,12 @@ preview: https://i.ytimg.com/vi/5IBKxYLA494/maxresdefault.jpg
 duration: 2504
 isShort: false
 tags:
-- Agile Project Management
 - Practical Techniques and Tooling
+- Agile Project Management
 - Scrum Product Development
 - Software Development
-- Agile Product Management
 - People and Process
+- Agile Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -481,11 +481,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-12T05:59:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T13:07:05",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses Continuous Integration (CI) and Continuous Delivery (CD) practices, which are central to the role of software developers in Agile and DevOps contexts. It explores best practices, the importance of mainline branching, and the implications of CI/CD on software quality and deployment strategies, aligning well with the key topics outlined for this category.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses CI/CD pipelines, continuous integration, and continuous delivery, which are core practices in modern software development. It provides detailed insights into how these practices should be implemented and the implications for software quality and team dynamics. The focus on developer practices and the importance of mainline branching aligns well with the category's emphasis on Agile and DevOps methodologies. The depth of discussion is significant, covering both theoretical aspects and practical examples, which enhances its relevance to software developers.",
     "level": "Secondary"
   },
   "Test First Development": {
@@ -499,12 +502,15 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-12T05:59:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:17:14",
+    "ai_confidence": 55.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the principles of Continuous Integration and Continuous Delivery, emphasising the importance of frequent releases to production and the integration of user feedback. It also touches on strategies for minimising risk during releases and the role of CI/CD pipelines, aligning well with the key topics of the Frequent Releases category.",
-    "level": "Secondary"
+    "final_score": 50.0,
+    "reasoning": "The content discusses the importance of a culture of quality and engineering excellence, which indirectly relates to frequent releases through the mention of CI/CD pipelines. However, it does not explicitly focus on frequent releases or the principles of Continuous Delivery and Deployment, making it a secondary topic rather than a primary focus.",
+    "level": "Tertiary"
   },
   "Estimation": {
     "category": "Estimation",
@@ -571,21 +577,27 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T05:59:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:06:12",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical applications of CI/CD principles within Agile and DevOps frameworks, emphasising real-world problem-solving strategies and the importance of continuous integration and delivery in enhancing product quality.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of building a culture of quality within organisations, emphasising practical applications of Agile principles and the need for technical excellence. It provides real-world examples, such as the Boeing and Volkswagen cases, to illustrate the consequences of neglecting quality. However, while it touches on Agile frameworks and their role as tools, the discussion lacks a deeper exploration of specific pragmatic problem-solving strategies or techniques within Agile, Scrum, or DevOps contexts.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-12T05:59:29",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses continuous integration and continuous delivery (CI/CD) practices, which are directly related to optimising deployment frequency. It emphasises the importance of mainline branching, the role of CI/CD in production, and strategies for increasing release frequency, making it a central theme.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-11T17:19:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of a culture of quality and engineering excellence, which indirectly relates to deployment frequency through the mention of CI/CD pipelines and optimising processes for better software delivery. However, the primary focus is on cultural aspects rather than specific strategies or metrics for deployment frequency, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",

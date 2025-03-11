@@ -313,11 +313,14 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-12T12:56:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T13:12:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the evolution of product management in the context of Agile, with a strong focus on the impact of cycle time on delivery speed and customer feedback. It contrasts long release cycles with shorter, more efficient cycles, highlighting the importance of reducing cycle time to enhance productivity and responsiveness to customer needs.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the concept of Cycle Time in the context of Agile product management, particularly contrasting long release cycles with shorter ones. It highlights the importance of reducing Cycle Time to improve customer feedback loops and team efficiency. The discussion includes specific examples of how the Azure DevOps team transitioned from a two-year cycle to a three-week cycle, which directly relates to the measurement and implications of Cycle Time. However, while Cycle Time is a significant focus, the content also delves into broader product management practices, which slightly dilutes its primary focus on Cycle Time.",
     "level": "Secondary"
   },
   "Engineering Practices": {
@@ -379,11 +382,14 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-12T12:56:30",
-    "ai_confidence": 80,
-    "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the evolution of product management in the context of Agile methodologies, focusing on the importance of shorter delivery cycles, customer feedback, and the need for continuous improvement, which aligns closely with Agile values and principles.",
+    "calculated_at": "2025-03-11T14:22:54",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content discusses the evolution of product management in the context of Agile methodologies, highlighting key Agile principles such as shorter cycles, customer feedback, and continuous delivery. It explicitly mentions the shift from traditional practices to Agile, aligning well with the core themes of Agile values and principles. The depth of discussion is substantial, covering various aspects of Agile product management, though it does not delve deeply into the Agile Manifesto or its specific values.",
     "level": "Secondary"
   },
   "Automated Testing": {
@@ -487,11 +493,14 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-12T12:56:55",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the shift from long release cycles to frequent releases in Agile product management, highlighting the benefits of shorter delivery cycles and the impact on customer feedback and product value.",
+    "calculated_at": "2025-03-11T16:11:46",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content discusses the transition from long release cycles to shorter, more frequent delivery cycles in Agile product management. It highlights the benefits of faster feedback loops and continuous delivery, which are central to the concept of Frequent Releases. However, while it touches on these themes, the primary focus is on the broader evolution of product management rather than solely on frequent releases, leading to a high but not perfect confidence score.",
     "level": "Secondary"
   },
   "Estimation": {
@@ -541,11 +550,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-12T12:57:05",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the evolution of product management in the context of Agile practices, with a strong focus on the impact of lead time on delivery cycles and customer feedback. It highlights the importance of reducing lead time through shorter delivery cycles and the implications of long lead times on customer satisfaction and business agility.",
+    "calculated_at": "2025-03-11T17:24:44",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the shift from long release cycles to shorter cycles in Agile product management, which implicitly relates to Lead Time. However, it does not explicitly define or focus on Lead Time as a metric. The discussion on faster feedback loops and frequent delivery of value aligns with the concept of Lead Time, but the depth of analysis on measuring or optimising Lead Time is limited.",
     "level": "Secondary"
   },
   "Scaled Agile": {

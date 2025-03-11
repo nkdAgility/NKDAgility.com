@@ -30,6 +30,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Frameworks
+- Flow Efficiency
 - Transparency
 - Operational Practices
 - Practical Techniques and Tooling

@@ -346,12 +346,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:13:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:03:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses test-driven development (TDD) and its impact on software development processes, which relates to product delivery, but it primarily focuses on TDD rather than the broader methodologies and practices of delivering software products.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses test-driven development (TDD) and its benefits, such as reducing complexity and improving adaptability, which are relevant to product delivery. However, it primarily focuses on TDD as a practice rather than the broader methodologies and processes involved in delivering software products. While it touches on aspects that could relate to product delivery, it lacks a comprehensive exploration of the end-to-end delivery process, making it a secondary focus rather than a primary discussion.",
+    "level": "Quaternary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -964,11 +967,14 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-17T09:13:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:14:21",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses test-driven development (TDD), which is a form of automated testing, making it a major theme. However, it does not focus extensively on broader automated testing principles or practices, hence the confidence is moderate.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses test-driven development (TDD), which is a form of automated testing, but it does not delve deeply into the principles, practices, or methodologies of automated testing as a whole. While TDD is mentioned, the focus is more on its impact on development speed and productivity rather than on automated testing frameworks, tools, or best practices. Therefore, while there is some relevance, it does not meet the criteria for a primary focus on automated testing.",
     "level": "Tertiary"
   },
   "Trend Analysis": {
@@ -1291,11 +1297,14 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T11:56:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:13:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the benefits and impact of test-driven development (TDD) on software development speed and productivity.",
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses test-driven development (TDD) and its benefits, such as reducing complexity and improving adaptability. It aligns well with the core themes of TDD, particularly in terms of enhancing productivity and addressing design flaws. The depth of discussion is substantial, as it elaborates on how TDD supports flow in software development. However, it does not delve into specific practices or tools associated with TDD, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Scaling Scrum": {

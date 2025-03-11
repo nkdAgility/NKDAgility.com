@@ -32,6 +32,7 @@ tags:
 - Pragmatic Thinking
 - Team Collaboration
 - Agile Strategy
+- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

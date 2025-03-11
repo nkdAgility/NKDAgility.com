@@ -29,18 +29,20 @@ sitemap:
   priority: 0.6
 tags:
 - Metrics and Learning
-- Forecasting
 - Operational Practices
+- Forecasting
 - Practical Techniques and Tooling
+- Product Delivery
 - Value Delivery
 - Pragmatic Thinking
-- Decision Making
+- People and Process
 - Estimation
+- Decision Making
 resourceTypes:
 - video
 categories:
-- Kanban
 - Social Technologies
+- Kanban
 
 ---
 ### Enhancing Team Predictability with Kanban: The "Applying Metrics for Predictability" Course

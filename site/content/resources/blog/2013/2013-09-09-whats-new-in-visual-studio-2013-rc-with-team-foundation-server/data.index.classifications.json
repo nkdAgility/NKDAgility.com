@@ -631,12 +631,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-15T17:51:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:57:39",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses features and enhancements in Visual Studio 2013 and TFS 2013, with a strong focus on source control capabilities, code management, and collaborative workflows, making Modern Source Control a central theme.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content discusses various features and enhancements of Visual Studio 2013 and Team Foundation Server (TFS) 2013, which are directly related to modern source control practices. It mentions source control features, integration with Git, and tools for collaboration and project management. However, the focus is more on the specific features of the software rather than broader best practices or methodologies in version control, which slightly lowers the confidence score.",
+    "level": "Tertiary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -889,12 +892,15 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-15T17:51:33",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T16:47:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 66.0,
-    "reasoning": "The content discusses features of Visual Studio 2013 and TFS 2013 that relate to Agile Planning Tools, including enhancements for backlog management and the Task Board feature. However, it also includes significant portions on general Visual Studio functions and tools that are not solely focused on Agile planning.",
-    "level": "Secondary"
+    "final_score": 59.0,
+    "reasoning": "The content discusses features of Visual Studio 2013 and TFS 2013, including Agile Planning Tools like the Task Board and Agile Portfolio Management. However, the primary focus is on the overall enhancements of Visual Studio and TFS rather than a deep exploration of Agile Planning Tools specifically. While there are relevant mentions, they are not the central theme of the content.",
+    "level": "Tertiary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -1222,11 +1228,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:59:27",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses new features in Visual Studio 2013 and TFS 2013, which are relevant to software developers, particularly in the context of Agile practices like team collaboration and project management. However, the primary focus is on the tool rather than specific roles or methodologies used by software developers.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily discusses features of Visual Studio 2013 and TFS 2013, which are tools used by software developers. However, while it touches on aspects relevant to Agile and DevOps, such as Team Rooms and Agile Portfolio Management, the focus is more on tool enhancements rather than the role of developers within Agile and DevOps frameworks. The discussion lacks depth in exploring best practices or methodologies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Coaching": {

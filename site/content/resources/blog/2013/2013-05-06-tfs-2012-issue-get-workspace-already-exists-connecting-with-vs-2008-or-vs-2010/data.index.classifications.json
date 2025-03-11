@@ -286,12 +286,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:50:10",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an issue related to Team Foundation Server (TFS), which is part of the Azure DevOps suite, but primarily focuses on Visual Studio connectivity rather than Azure DevOps functionalities.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses an issue related to connecting Visual Studio versions to Team Foundation Server (TFS) 2012, which is part of the Azure DevOps suite. However, it primarily focuses on a specific error and workaround rather than providing a broader discussion on Azure DevOps functionalities or best practices. While it mentions TFS, it does not delve into the core themes of Azure DevOps, such as CI/CD pipelines or agile project management, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Personal": {
     "category": "Personal",
@@ -1114,12 +1117,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:01:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an issue related to connecting older Visual Studio versions with Team Foundation Server 2012, which operates in a Windows environment, indicating that Windows is a major theme but not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses an issue related to Visual Studio and Team Foundation Server (TFS) in the context of Windows operating systems. While it does not explicitly mention Windows in every instance, the problem and solution revolve around the interaction of Visual Studio versions with TFS, which is relevant to Windows users. The discussion aligns with the category's focus on troubleshooting and configuration within the Windows environment, but it lacks depth in covering broader Windows topics such as installation or system updates.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1216,12 +1222,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:00:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content relates to software development tools (Visual Studio and TFS) and discusses an issue relevant to developers, but it does not primarily focus on Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to Visual Studio and Team Foundation Server, which is relevant to software developers. However, it does not engage with Agile or DevOps methodologies, nor does it explore broader themes such as collaboration or best practices in software development. The discussion is focused on a workaround for a technical problem rather than the role of developers within Agile or DevOps frameworks.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

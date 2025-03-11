@@ -23,8 +23,8 @@ preview: https://i.ytimg.com/vi/_bjNHN4PI9s/maxresdefault.jpg
 duration: 1496
 isShort: false
 tags:
-- Install and Configuration
 - Collaboration Tools
+- Install and Configuration
 - Events and Presentations
 - Practical Techniques and Tooling
 - Remote Working

@@ -505,11 +505,14 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T08:56:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:52:17",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the Scrum template and its appropriateness for Scrum Teams, highlighting roles and practices related to Scrum while also touching on the challenges of other templates in an Agile context.",
+    "final_score": 67.0,
+    "reasoning": "The content primarily discusses the Scrum template in detail, highlighting its advantages for Scrum teams over other templates. It addresses the roles and practices associated with Scrum, such as backlog management and team dynamics, which are central to the effectiveness of a Scrum Team. However, while it mentions Scrum, the focus is more on the template selection rather than the collaborative dynamics or specific roles within a Scrum Team, leading to a slightly lower alignment score.",
     "level": "Secondary"
   },
   "Agile Philosophy": {
@@ -541,11 +544,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-15T08:56:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:54:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses choices between Agile, Scrum, and CMMI templates in the context of implementing Agile methodologies within teams, focusing on reducing friction and aligning process templates with Agile principles.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on the selection of process templates for Agile teams, specifically contrasting the Scrum template with Agile and CMMI templates. It discusses the implications of these choices on Agile implementation, which aligns well with Agile transformation principles. The author provides detailed insights into the friction caused by different templates and advocates for the Scrum template as a more suitable choice for Agile teams, demonstrating a clear understanding of Agile methodologies. However, while it discusses Agile transformation, it does not delve deeply into broader change management strategies or leadership roles, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Mentoring": {
@@ -658,11 +664,14 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-15T08:56:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:41:59",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the selection of process templates within Azure Boards, specifically evaluating Agile, CMMI, and Scrum templates in the context of Agile project management. It emphasizes customization and the impact of these templates on team performance and collaboration.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses the selection of process templates within Azure Boards, specifically contrasting the Agile and Scrum templates. It provides a detailed analysis of the implications of choosing different templates, which aligns well with the functionalities of Azure Boards in managing Agile projects. The depth of discussion on the templates and their impact on Agile practices indicates a strong focus on Azure Boards, although it does not delve deeply into all aspects of Azure Boards' features or best practices.",
     "level": "Secondary"
   },
   "Collaboration Tools": {

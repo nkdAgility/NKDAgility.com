@@ -25,14 +25,14 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 - Azure DevOps
-- Software Development
-- Azure Pipelines
-- Install and Configuration
-- Operational Practices
 - Pragmatic Thinking
-- System Configuration
+- Software Development
+- Install and Configuration
+- Azure Pipelines
+- Operational Practices
 - Technical Mastery
 - Continuous Integration
+- Technical Excellence
 preview: metro-SSWLogo-128-link-10-10.png
 categories:
 - DevOps

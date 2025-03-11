@@ -592,11 +592,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T00:46:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:08:45",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the creation and management of work items in TFS, which relates to software development practices and workflows.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed discussion on using the TFS API to manage work item IDs, which is a specific software development practice. It covers practical coding examples, methodologies for creating and deleting work items, and addresses potential issues, aligning well with the core themes of software development. The depth of technical detail and the focus on a specific software engineering problem further support a high confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1066,11 +1069,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T00:46:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:59:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a specific configuration requirement in TFS (Team Foundation Server) related to setting work item IDs, detailing methods and API usage for achieving this in a supported manner. It also emphasizes troubleshooting and practical coding approaches which align with system configuration practices.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the configuration of TFS (Team Foundation Server) work items, specifically how to set the starting ID for new work items. It provides a detailed explanation of the process, including code snippets and methods for achieving the desired configuration. The discussion aligns well with the core themes of system configuration, such as best practices for software installation and configuration, and troubleshooting common configuration issues. However, while it is focused on a specific configuration task, it lacks broader discussions on optimisation strategies or security considerations, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1120,11 +1126,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T00:46:24",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T18:10:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 68.0,
-    "reasoning": "The content discusses using TFS (Team Foundation Server) and its API for managing work items, which is part of the Microsoft ecosystem that operates on Windows. While it is centered around TFS and work item management, the discussion implies use in a Windows environment, particularly mentioning Windows 7. The theme of TFS contributes significantly to the content, but it's not solely about Windows OS itself.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily discusses the use of TFS (Team Foundation Server) 2010, which is a Microsoft product that operates within the Windows environment. It provides detailed instructions on how to manipulate work item IDs using the TFS API, which is relevant to Windows users. The content includes code snippets and explanations that are specific to Windows and TFS, demonstrating a strong alignment with the category's focus on installation, configuration, and troubleshooting within the Windows operating system. The depth of discussion is significant, as it covers practical implementation and potential issues, making it a primary focus rather than a brief mention.",
     "level": "Secondary"
   },
   "Deployment Strategies": {

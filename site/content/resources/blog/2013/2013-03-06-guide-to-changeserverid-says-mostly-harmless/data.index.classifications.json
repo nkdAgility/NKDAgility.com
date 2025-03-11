@@ -592,11 +592,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T01:37:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:01:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the ChangeServerId command within the context of Team Foundation Server (TFS), focusing on its importance in managing GUIDs during server operations, which is a process central to software development practices and issues.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the ChangeServerId command in the context of managing Team Foundation Server (TFS) environments, which is a specific aspect of software development related to version control and server management. It provides practical insights into handling GUIDs and server configurations, aligning with best practices in software deployment and maintenance. However, while it touches on relevant topics, the discussion lacks broader context on methodologies or frameworks, which slightly limits its depth and alignment with the category.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1174,12 +1177,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T01:37:03",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-11T16:51:07",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "The content primarily discusses troubleshooting issues related to GUIDs and the ChangeServerId command in TFS, providing specific solutions and insights into problem resolution.",
-    "level": "Primary"
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed discussion on troubleshooting issues related to the ChangeServerId command in TFS, including specific problems that arise from GUID conflicts and the necessary commands to resolve them. It explicitly mentions the troubleshooting process and offers practical solutions, aligning well with the core themes of the category. The depth of discussion is significant, as it includes specific error messages and resolutions, demonstrating a thorough understanding of the troubleshooting process.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1219,11 +1225,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 40,
+    "calculated_at": "2025-03-11T18:02:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 36.0,
-    "reasoning": "The content discusses Technical Foundation Server (TFS) operations and the ChangeServerId command, which may be relevant to software developers but does not focus on Agile, DevOps, or modern engineering practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific technical process related to TFS (Team Foundation Server) and the ChangeServerId command, which is relevant to software developers. However, it lacks a broader discussion on Agile or DevOps methodologies, focusing instead on a specific technical issue without addressing the collaborative or productivity aspects of software development. While it mentions the role of developers in managing TFS environments, it does not explore the key themes outlined in the category description.",
     "level": "Quaternary"
   },
   "Coaching": {

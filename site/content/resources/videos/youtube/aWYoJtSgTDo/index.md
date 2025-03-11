@@ -25,7 +25,9 @@ preview: https://i.ytimg.com/vi/aWYoJtSgTDo/maxresdefault.jpg
 duration: 204
 isShort: false
 tags:
+- Pragmatic Thinking
 - Personal
+- Continuous Learning
 - People and Process
 sitemap:
   filename: sitemap.xml

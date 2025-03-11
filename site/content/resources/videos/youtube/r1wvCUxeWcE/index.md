@@ -25,12 +25,12 @@ preview: https://i.ytimg.com/vi/r1wvCUxeWcE/maxresdefault.jpg
 duration: 57
 isShort: true
 tags:
-- Operational Practices
 - Practical Techniques and Tooling
 - Software Development
-- Pragmatic Thinking
 - Agile Frameworks
+- Operational Practices
 - Lean Thinking
+- Pragmatic Thinking
 - Agile Project Management
 - Flow Efficiency
 - Lean Principles

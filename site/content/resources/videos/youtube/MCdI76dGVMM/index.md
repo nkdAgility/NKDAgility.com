@@ -35,6 +35,7 @@ tags:
 - People and Process
 - Professional Scrum
 - Scrum Master
+- Discovery and Learning
 resourceTypes:
 - video
 categories:

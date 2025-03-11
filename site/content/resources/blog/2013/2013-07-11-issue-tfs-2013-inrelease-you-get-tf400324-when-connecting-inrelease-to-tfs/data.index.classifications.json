@@ -592,11 +592,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T18:50:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:58:37",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses troubleshooting a specific issue related to Team Foundation Server (TFS) and its integration with InRelease, which are tools relevant to software development practices. It provides solutions utilizing PowerShell and highlights aspects of server connection management within a software development context.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed discussion on troubleshooting a specific issue related to Team Foundation Server (TFS) and InRelease, which are tools used in software development. It explicitly mentions solutions involving PowerShell scripts and highlights best practices for connecting to TFS, aligning well with the core themes of software development methodologies and practices. The depth of the discussion is significant, as it includes multiple solutions and warnings about potential pitfalls, demonstrating a thorough understanding of the software development lifecycle and version control systems.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1177,11 +1180,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T18:50:56",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T16:48:43",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses specific errors related to Team Foundation Server (TFS) and provides multiple solutions for resolving the issue, which aligns with troubleshooting techniques. It addresses the identification of the issue (TF400324) and offers clear methodologies for resolution, including a PowerShell script for problem-solving.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses troubleshooting a specific error (TF400324) related to Team Foundation Server 2013, providing detailed solutions and insights into the problem. It includes direct mentions of solutions, updates, and a PowerShell script to resolve the issue, demonstrating a strong alignment with the core themes of troubleshooting. The depth of discussion is high, as it not only identifies the problem but also offers multiple solutions and warnings about potential pitfalls, making it a comprehensive resource for diagnosing and resolving the issue.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -1222,12 +1228,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:00:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses troubleshooting issues and solutions related to Team Foundation Server (TFS), which is relevant to software developers working in environments that use Agile and DevOps methodologies, but it primarily focuses on a specific technical problem and its resolutions rather than broader Agile or DevOps practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to Team Foundation Server (TFS) and provides solutions, including a PowerShell script. While it touches on aspects relevant to software development, such as connecting to TFS and managing collections, it lacks a broader discussion on Agile or DevOps methodologies. The focus is more on troubleshooting and technical implementation rather than the role of software developers within Agile frameworks or DevOps practices.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

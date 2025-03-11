@@ -586,11 +586,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T00:41:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:08:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the process of moving the Team Foundation Server cache, which is directly related to software development practices involving version control and system configuration.",
+    "final_score": 65.0,
+    "reasoning": "The content provides a practical guide on moving the Team Foundation Server (TFS) cache, which relates to version control systems and collaborative development. It discusses specific steps and configurations, indicating a focus on software engineering practices. However, while it touches on relevant topics, it lacks broader discussions on methodologies or best practices, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -622,12 +625,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:09:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses moving the Team Foundation Server (TFS) cache, which is related to version control but does not focus on best practices, methodologies, or strategies for modern source control. It touches on a technical aspect of TFS without broader discussions on source control practices.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses moving the Team Foundation Server (TFS) cache, which is related to source control, but it primarily focuses on a specific operational task rather than broader best practices or methodologies in modern source control. While it mentions TFS, it lacks a comprehensive discussion on version control strategies, collaboration workflows, or code management principles, which are central to the category. The depth of discussion is limited to procedural steps without exploring the implications or best practices associated with source control.",
+    "level": "Quaternary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -1219,11 +1225,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 40,
+    "calculated_at": "2025-03-11T16:58:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 36.0,
-    "reasoning": "The content discusses moving the Team Foundation Server (TFS) cache, which is a technical procedure related to software development environments but does not focus on the role of software developers, Agile, or DevOps practices.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a technical task related to moving the Team Foundation Server (TFS) cache, which is a specific operational detail rather than a broader discussion on the role of software developers within Agile or DevOps frameworks. While it does touch on aspects of software development, such as configuration and performance improvement, it lacks direct mentions of Agile methodologies, DevOps principles, or collaborative practices. The depth of the discussion is moderate, providing step-by-step instructions, but it does not engage with the key themes outlined for the category.",
     "level": "Quaternary"
   },
   "Coaching": {

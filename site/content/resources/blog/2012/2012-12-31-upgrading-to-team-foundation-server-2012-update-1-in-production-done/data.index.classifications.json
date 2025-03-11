@@ -388,11 +388,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-14T17:35:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:01:23",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical process of upgrading Team Foundation Server, detailing best practices, installation steps, and considerations for maintaining software quality during the upgrade. It aligns well with topics such as software engineering best practices and the importance of maintaining a robust software environment.",
+    "final_score": 65.0,
+    "reasoning": "The content provides a detailed guide on upgrading Team Foundation Server, which involves technical practices and methodologies relevant to software craftsmanship. It discusses best practices for installation, configuration, and maintenance, aligning well with the principles of clean code and software engineering excellence. However, while it touches on technical aspects, it lacks a broader discussion on software architecture or principles of clean code, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -496,11 +499,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-14T17:35:29",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T16:51:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content outlines practical steps and best practices for upgrading to Team Foundation Server 2012 Update 1, which includes discussions on process optimization and operational efficiency in software management, although it does primarily focus on the upgrade steps rather than broader operational strategies.",
+    "final_score": 65.0,
+    "reasoning": "The content provides a detailed guide on upgrading Team Foundation Server, which includes practical steps and considerations that align with operational practices in a DevOps context. It discusses process optimisation, such as freeing up disk space and backing up data, which are essential for efficient operations. The depth of the discussion is significant, covering various aspects of the upgrade process, including prerequisites, configuration, and troubleshooting, which enhances operational efficiency. However, while it is focused on a specific upgrade task, it does not broadly address multiple operational practices or strategies, which slightly limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Scrum Team": {
@@ -1072,11 +1078,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-14T17:35:30",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T18:03:10",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses the processes and steps involved in upgrading Team Foundation Server, which includes system configuration and setup considerations for optimal performance and reliability. It illustrates best practices, prerequisites, and detailed procedures related to the configuration of software and hardware systems.",
+    "final_score": 80.0,
+    "reasoning": "The content primarily focuses on the process of upgrading Team Foundation Server, which involves detailed discussions on installation, configuration, and prerequisites necessary for a successful upgrade. It explicitly mentions best practices for software installation and configuration, hardware considerations, and troubleshooting common issues, aligning well with the core themes of system configuration. The depth of discussion is substantial, providing a checklist and step-by-step guidance, which enhances its relevance to the category.",
     "level": "Secondary"
   },
   "Product Strategy": {

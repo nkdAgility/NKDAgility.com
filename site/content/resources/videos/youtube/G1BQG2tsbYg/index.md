@@ -35,10 +35,10 @@ tags:
 - Organisational Agility
 - Agile Strategy
 - Strategy
-- Agile Values and Principles
 - Enterprise Agility
+- Agile Values and Principles
+- Organisational Physics
 - Agile Frameworks
-- Agile Planning
 resourceTypes:
 - video
 categories:

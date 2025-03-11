@@ -301,11 +301,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T11:06:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:56:28",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the use of Team Foundation Server (TFS), which is part of Azure DevOps, focusing on work item tracking, team collaboration, and project management within the context of TFS. It addresses specific functionalities and best practices related to Azure DevOps services.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses Team Foundation Server (TFS), which is a component of Azure DevOps, focusing on its functionalities, challenges, and solutions for cross-team collaboration. It provides detailed insights into the use of TFS for project management, work item tracking, and team organisation, aligning well with the core themes of Azure DevOps. The depth of discussion is significant, covering specific issues and proposed solutions, which enhances its relevance to the Azure DevOps category.",
     "level": "Secondary"
   },
   "Personal": {
@@ -364,11 +367,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T11:07:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:46:23",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the management of work items and team collaboration within Team Foundation Server (TFS), which is integral to the application lifecycle management process. It addresses issues related to project organisation, team dynamics, and the implementation of solutions that enhance the governance and efficiency of software development, aligning well with the principles of ALM.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the use of Team Foundation Server (TFS) for managing work items across multiple teams and projects, which aligns with aspects of Application Lifecycle Management. It touches on issues related to project management, team collaboration, and the need for effective governance in software development. However, while it mentions some relevant practices and tools, it lacks a comprehensive exploration of the entire application lifecycle stages and best practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -571,11 +577,14 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T11:12:10",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T17:58:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses challenges and solutions related to team collaboration using Team Foundation Server (TFS), which pertains to the performance and coordination of multiple teams working under a common framework. While the main focus is on TFS functionality, there are significant implications for team dynamics and performance, making it relevant to the category.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the challenges and solutions related to team collaboration and project management within the context of Team Foundation Server (TFS). It explicitly mentions issues faced by multiple teams working on different projects, which aligns with the category's focus on enhancing team dynamics and collaboration. The depth of discussion includes specific strategies for improving team performance, such as creating a single Team Project and implementing a Team Field, which directly relates to the methodologies aimed at maximising effectiveness in agile teams. However, while the content is relevant, it does not delve deeply into agile ceremonies or leadership roles, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Increment": {

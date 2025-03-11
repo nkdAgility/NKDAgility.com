@@ -1,12 +1,15 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:17:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions ALM and discusses aspects related to software deployment and project upgrades, but it primarily focuses on personal experiences with Visual Studio 2008 and related events.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions ALM in the tags but does not explicitly discuss Application Lifecycle Management principles or practices. The focus is primarily on personal experiences with Visual Studio 2008 and related installations, which does not align with the core themes of managing the application lifecycle. There is minimal depth in discussing any relevant methodologies or tools associated with ALM.",
+    "level": "Quaternary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -586,11 +589,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:07:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the installation and upgrade process of Visual Studio 2008 and mentions relevant topics like source control and attending a Microsoft event focused on SharePoint development, indicating a connection to software development practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the installation and upgrade process of Visual Studio 2008, which is relevant to software development. However, it primarily focuses on personal experiences and opinions rather than detailed methodologies or practices. While it mentions source control and project upgrades, it lacks depth in discussing software development principles or frameworks, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Site Reliability Engineering": {

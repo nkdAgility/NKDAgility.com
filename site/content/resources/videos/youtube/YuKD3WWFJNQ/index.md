@@ -34,7 +34,7 @@ sitemap:
 tags:
 - People and Process
 - Agile Product Management
-- Decision Making
+- Agile Leadership
 - Product Owner
 - Sprint Review
 - Agile Frameworks

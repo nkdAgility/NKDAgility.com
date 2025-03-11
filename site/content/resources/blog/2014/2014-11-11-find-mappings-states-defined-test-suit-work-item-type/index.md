@@ -34,7 +34,6 @@ tags:
 - Practical Techniques and Tooling
 - Azure DevOps
 - Pragmatic Thinking
-- Working Software
 - Technical Excellence
 categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png

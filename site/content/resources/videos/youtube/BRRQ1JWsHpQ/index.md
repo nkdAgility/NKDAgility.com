@@ -27,9 +27,10 @@ duration: 418
 isShort: false
 tags:
 - Team Collaboration
-- Pragmatic Thinking
 - People and Process
+- Pragmatic Thinking
 - Software Developers
+- Agile Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

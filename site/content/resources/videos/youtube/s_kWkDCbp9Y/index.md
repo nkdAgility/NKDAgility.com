@@ -2,7 +2,7 @@
 title: 'The Key to Being an Effective Agile Coach: Understanding the Team’s Context'
 description: 'Discover the fifth essential achievement for aspiring #AgileCoaches with Martin Hinshelwood. Elevate your skills and empower teams to thrive!'
 date: 2023-11-17T11:00:55Z
-weight: 775
+weight: 700
 ResourceId: s_kWkDCbp9Y
 ResourceType: videos
 ResourceImport: true
@@ -30,7 +30,9 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Agile Leadership
 - Coaching
+- Organisational Agility
 - Pragmatic Thinking
 - Agile Project Management
 resourceTypes:

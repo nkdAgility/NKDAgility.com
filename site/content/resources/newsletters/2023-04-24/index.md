@@ -24,10 +24,10 @@ tags:
 - People and Process
 - Events and Presentations
 - Continuous Learning
+- Software Development
 - Agile Frameworks
 - Agile Project Management
 - Agile Transformation
-- Software Development
 - Coaching
 
 ---

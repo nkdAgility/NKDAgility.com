@@ -32,12 +32,12 @@ tags:
 - Increment
 - Product Delivery
 - Scrum Product Development
-- Scrum Team
 - Software Development
 - Agile Frameworks
 - Agile Project Management
 - Professional Scrum
 - Scrum Master
+- Scrum Team
 categories:
 - Scrum
 - Social Technologies

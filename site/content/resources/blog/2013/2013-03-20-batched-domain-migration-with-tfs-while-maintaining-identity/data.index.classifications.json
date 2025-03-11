@@ -496,12 +496,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T20:13:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:50:49",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 55.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses a practical application of managing user identities during a domain migration in the context of Team Foundation Server, which aligns with operational practices focused on improving efficiency and performance in organizational settings.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses a specific operational practice related to domain migration using TFS, which aligns with the category's focus on enhancing operational efficiency. It provides detailed steps and considerations for managing user identities during the migration process, reflecting practical application. However, while it touches on operational practices, it does not delve deeply into broader methodologies like Agile or DevOps, which slightly limits its alignment.",
+    "level": "Tertiary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -595,11 +598,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T20:13:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T18:02:36",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a technical process related to migrating users in Team Foundation Server (TFS) within the context of software development practices.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the technical process of migrating users between domains using Team Foundation Server (TFS), which is a software development tool. It provides detailed steps and considerations for managing identities during this migration, aligning well with software development practices. However, while it touches on relevant topics like version control and identity management, it lacks broader discussions on methodologies or frameworks typically associated with software development, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1066,11 +1072,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T20:13:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:00:41",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the process of batched domain migration with Team Foundation Server (TFS), focusing on configuring users and identities during the migration process. It describes specific steps and considerations related to system setup and configuration, especially in regard to managing identities and avoiding duplicate accounts, which aligns well with the theme of system configuration.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating users between domains while maintaining identity integrity within Team Foundation Server (TFS). It discusses best practices for managing user identities, the importance of avoiding duplicate identities, and the steps required for a successful migration, which aligns well with system configuration principles. The depth of discussion is substantial, providing detailed workflows and considerations for system setup and management, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {

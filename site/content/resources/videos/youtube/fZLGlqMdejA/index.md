@@ -31,13 +31,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Flow Efficiency
 - Value Delivery
+- Flow Efficiency
+- People and Process
 - Agile Product Management
+- Organisational Agility
 - Agile Product Operating Model
 - Agile Values and Principles
-- Organisational Agility
-- People and Process
 - Agile Frameworks
 - Agile Philosophy
 - Agile Project Management

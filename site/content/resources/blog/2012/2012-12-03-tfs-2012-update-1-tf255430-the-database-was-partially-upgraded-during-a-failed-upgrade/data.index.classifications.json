@@ -802,11 +802,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T19:25:58",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-11T18:03:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content provides practical steps and real-world problem-solving strategies for resolving issues encountered during the upgrade of Team Foundation Server, illustrating pragmatic approaches in a complex technical environment.",
+    "final_score": 65.0,
+    "reasoning": "The content provides a detailed account of troubleshooting a specific error encountered during a Team Foundation Server upgrade, which aligns with pragmatic thinking by focusing on practical problem-solving strategies. It discusses real-world applications of TFS upgrade processes, including steps to mitigate future issues, which reflects adaptability and critical thinking in a complex environment. However, while it does mention relevant concepts, the primary focus is on a specific technical issue rather than broader Agile or DevOps principles, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -973,11 +976,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-15T19:25:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:51:37",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to the upgrade of Team Foundation Server, which falls under the scope of Release Management. It outlines the steps to ensure a smooth upgrade process, such as analyzing the server health, backing up data, and updating components, which are critical practices in release management.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses issues related to upgrading Team Foundation Server, which is a part of the release management process. It mentions specific errors encountered during the upgrade, which aligns with the risk management aspect of release processes. However, the focus is primarily on troubleshooting rather than on broader release management strategies, making it a secondary discussion rather than a primary focus.",
     "level": "Secondary"
   },
   "Product Owner": {
@@ -1072,11 +1078,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T19:25:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:01:36",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses issues encountered during the upgrade process of Team Foundation Server, including configuration database errors and connectivity problems with SQL Server, which directly relate to system configuration best practices and methodologies.",
+    "final_score": 80.0,
+    "reasoning": "The content primarily discusses issues related to the upgrade and configuration of Team Foundation Server (TFS), including specific error messages and troubleshooting steps. It directly addresses configuration management by detailing the errors encountered during the upgrade process and the necessary steps to resolve them. The depth of discussion includes specific error codes, log examination, and a structured approach to restoring and upgrading the system, which aligns well with the key topics of system configuration. Overall, the content is focused on practical aspects of configuring and maintaining a system, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {

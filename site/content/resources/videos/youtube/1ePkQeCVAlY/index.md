@@ -29,14 +29,14 @@ sitemap:
 tags:
 - Flow Efficiency
 - People and Process
-- Value Stream Management
 - Lean Principles
 - Lean Thinking
 - Operational Practices
-- Organisational Physics
 - Pragmatic Thinking
-- Complexity Thinking
 - Lean
+- Complexity Thinking
+- Systems Thinking
+- Value Delivery
 resourceTypes:
 - video
 layout: video

@@ -30,7 +30,6 @@ categories:
 - Product Management
 tags:
 - Agile Project Management
-- Agile Planning
 - Working Agreements
 - Transparency
 - Agile Product Management
@@ -38,6 +37,7 @@ tags:
 - Transparency and Accountability
 - People and Process
 - Product Delivery
+- Agile Planning
 - Agile Frameworks
 
 ---

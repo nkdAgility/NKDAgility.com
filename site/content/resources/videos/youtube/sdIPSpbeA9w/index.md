@@ -27,12 +27,12 @@ isShort: false
 tags:
 - Automated Testing
 - Software Development
+- Operational Practices
 - Test Automation
 - Practical Techniques and Tooling
 - Pragmatic Thinking
 - Technical Excellence
 - Engineering Practices
-- Operational Practices
 - Technical Mastery
 - Azure DevOps
 sitemap:

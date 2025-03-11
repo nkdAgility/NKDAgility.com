@@ -8,7 +8,7 @@ ResourceImportId: 12146
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2017-11-28
-weight: 480
+weight: 515
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -39,8 +39,8 @@ tags:
 - News and Reviews
 - People and Process
 - Software Development
-- Personal
 - Software Developers
+- Personal
 
 ---
 This year has been relatively busy for conferences. Which is unusual since I usually forget until after the call for papers and wonder what's going on. Well, this time I got some submissions in on time. It does, however, baffle me which papers are selected. I always submit around 6 papers for workshops and talks, and always the one I would least like to present is picked.

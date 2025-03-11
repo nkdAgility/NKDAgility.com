@@ -526,12 +526,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T23:35:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:32:25",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses Azure DevOps migration tools and processes, which are relevant to managing the application lifecycle, particularly in deployment and maintenance stages. However, the focus is heavily on migration specifics rather than wider lifecycle management practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on the migration process within Azure DevOps, which is a specific aspect of application lifecycle management. While it does touch on tools and processes relevant to migration, it lacks a broader discussion on the entire application lifecycle, such as governance, compliance, or risk management. The depth of discussion is limited to practical steps for migration rather than a comprehensive exploration of ALM principles.",
+    "level": "Quaternary"
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -598,12 +601,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T23:35:36",
-    "ai_confidence": 95,
+    "calculated_at": "2025-03-11T16:19:43",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 86.0,
-    "reasoning": "The content is primarily focused on the practical application of Azure DevOps migration tools, providing detailed step-by-step instructions and methodologies for performing migrations, which aligns directly with the category of Practical Techniques and Tooling.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed, step-by-step guide on using Azure DevOps migration tools, which directly aligns with the category's focus on practical techniques and tooling. It discusses specific tools, installation methods, and configuration steps, demonstrating a clear application of methodologies relevant to Agile and DevOps practices. The depth of discussion is substantial, covering various aspects of the migration process, including common issues and solutions, which enhances its relevance to the category.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -709,12 +715,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T23:35:36",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content includes discussions about Azure DevOps and migration tools, which relate to source control practices, particularly in terms of managing work items and their links to Git repos. However, it focuses more on the migration process than on best practices or methodologies specific to source control.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-11T14:30:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the migration process within Azure DevOps, which is a tool related to source control. However, it does not delve deeply into version control practices, branching strategies, or collaboration workflows. While it mentions the use of Git and discusses some aspects of project management within Azure DevOps, the main emphasis is on migration rather than modern source control methodologies. Therefore, the confidence score reflects a low alignment with the core themes of the category.",
+    "level": "Quaternary"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",

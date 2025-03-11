@@ -31,6 +31,7 @@ tags:
 - Increment
 - Working Software
 - Definition of Done
+- Agile Project Management
 - Scrum Product Development
 - Software Development
 categories:

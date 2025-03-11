@@ -148,12 +148,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:13:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:14:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions uploading installation files and references a ClickOnce application, indicating some focus on installation, but the primary discussion revolves around development and features rather than detailed installation or configuration processes.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content mentions the release of installation files and describes the application as a ClickOnce application, which implies some level of installation process. However, it lacks detailed step-by-step instructions or configuration best practices, and the primary focus is on development updates rather than installation and configuration guidance.",
+    "level": "Quaternary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -394,12 +397,15 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T09:13:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:13:58",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions updating and releasing under a versioning scheme (v2.0 CTP) and indicates that users will always have the latest version, which aligns with the idea of frequent releases. However, it primarily focuses on the development and features rather than continuous delivery practices or broader strategies related to frequent releases.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content mentions the release of a new version (v2.0 CTP) and discusses the use of ClickOnce for automatic updates, which aligns with the principles of frequent releases. However, the focus is more on the development process and specific features rather than a comprehensive discussion on continuous delivery or deployment practices. The depth of discussion on strategies or metrics for frequent releases is limited.",
+    "level": "Quaternary"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
@@ -913,12 +919,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:13:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:04:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the development of a software application and mentions modular implementation, but it primarily focuses on the development process rather than the characteristics or delivery of working software.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the development of a specific software application and mentions the implementation of modular design principles, which aligns with the concept of working software. However, it lacks explicit discussions on customer feedback, quality assurance, or iterative development practices, which are crucial for a higher confidence score in this category.",
+    "level": "Quaternary"
   },
   "Test Automation": {
     "category": "Test Automation",

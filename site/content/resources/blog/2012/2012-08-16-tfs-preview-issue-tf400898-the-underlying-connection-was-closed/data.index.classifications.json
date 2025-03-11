@@ -241,11 +241,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:09:04",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-11T15:03:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "The content discusses a specific issue related to TFS (Team Foundation Server) and its impact on file management, but it primarily focuses on troubleshooting and technical details rather than the broader methodologies and practices of product delivery.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses a specific issue related to TFS (Team Foundation Server) and troubleshooting steps rather than focusing on broader product delivery methodologies or practices. While it touches on aspects of product delivery, such as bug identification and escalation to the product team, it lacks a comprehensive exploration of the key topics outlined in the category. The discussion is more technical and problem-solving oriented, which does not align closely with the core themes of product delivery.",
     "level": "Quaternary"
   },
   "Beta Codex": {
@@ -874,12 +877,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:05:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses an issue related to Team Foundation Server (TFS) specifically in the context of software development and implies the importance of addressing bugs in working software while detailing troubleshooting steps, but primarily focuses on a specific technical problem rather than the broader concept of delivering working software.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses a specific issue related to TFS Preview and troubleshooting steps rather than focusing on the delivery of functional software or best practices in software development. While it touches on a software problem and its resolution, it lacks a broader discussion on working software principles, customer value, or iterative development, which are key themes in the 'Working Software' category.",
+    "level": "Quaternary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1063,12 +1069,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:09:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:53:33",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses troubleshooting issues related to TFS (Team Foundation Server) and the underlying connection problems, which suggests a secondary theme of system configuration in terms of verifying and correcting system setups that could lead to connectivity issues.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses a specific issue related to Team Foundation Server (TFS) and provides troubleshooting steps, which aligns with system configuration. However, it primarily focuses on a specific error and its resolution rather than broader system configuration practices or methodologies. While there are mentions of checks and potential fixes, the depth of discussion on configuration management tools or optimisation strategies is limited, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Product Strategy": {
     "category": "Product Strategy",

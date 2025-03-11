@@ -30,16 +30,16 @@ categories:
 - DevOps
 preview: 2020-06-17_13-06-30-1-1.jpg
 tags:
-- Business Agility
 - Deployment Frequency
 - Events and Presentations
 - Frequent Releases
-- Market Adaptability
+- Product Delivery
 - Enterprise Agility
 - Organisational Agility
 - Pragmatic Thinking
-- Product Delivery
 - Software Development
+- Value Delivery
+- Market Adaptability
 
 ---
 As more and more organisations move towards a higher degree of agility, they inevitably also move towards DevOps practices like Continuous Delivery to facilitate shortening the feedback loops.

@@ -364,11 +364,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-14T23:39:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:54:08",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the setup and management of a release management environment using Visual Studio ALM, detailing the tools and processes involved in the application lifecycle, including deployment and analytics.",
+    "final_score": 76.0,
+    "reasoning": "The content discusses the creation of a standard environment for release management using Visual Studio ALM, which directly relates to the application lifecycle. It mentions tools like Visual Studio Online and Application Insights, aligning with the tools and frameworks aspect of ALM. However, while it touches on deployment and configuration, it lacks a comprehensive exploration of the entire application lifecycle stages and best practices, resulting in a moderately high confidence score.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -391,11 +394,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-14T23:39:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:44:03",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the setup and configuration of a release management environment in Azure, focusing on technical practices, tools, and methodologies relevant to software craftsmanship and engineering excellence.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on setting up a release management environment in Azure, which touches on technical aspects of software deployment and infrastructure management. However, while it discusses tools and practices related to Azure and Visual Studio, it lacks a deeper exploration of software craftsmanship principles, clean code practices, or methodologies that contribute to high-quality software development. The discussion is more practical and implementation-focused rather than theoretical or principle-based, which diminishes its alignment with the 'Technical Mastery' category.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -409,11 +415,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T23:39:46",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T17:55:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses setting up a standard environment for release management, which aligns with Continuous Delivery principles. It mentions automated deployment and the use of tools that facilitate the deployment process, indicating a focus on practices related to Continuous Delivery. However, the primary focus is on the setup and configuration of environments rather than a comprehensive discussion of Continuous Delivery methodologies.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses setting up a standard environment for release management in Azure, which relates to Continuous Delivery practices. It mentions automated deployment and the use of tools like Visual Studio Online and Application Insights, indicating some alignment with CD principles. However, the focus is more on the setup process and specific tools rather than a comprehensive discussion of Continuous Delivery methodologies or strategies. The depth of discussion on CD concepts is limited, as it primarily describes the environment configuration rather than exploring the broader implications or practices of Continuous Delivery.",
     "level": "Secondary"
   },
   "Strategic Goals": {

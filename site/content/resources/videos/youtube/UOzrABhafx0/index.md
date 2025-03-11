@@ -29,12 +29,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Project Management
+- Scrum Product Development
 - Product Backlog
+- Product Owner
 - Agile Product Management
 - Software Development
-- Agile Project Management
-- Product Owner
-- Scrum Product Development
 - Agile Planning
 - Agile Planning Tools
 - Products and Books

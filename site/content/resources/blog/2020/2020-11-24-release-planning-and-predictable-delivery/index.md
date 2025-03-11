@@ -24,6 +24,7 @@ aliasesArchive:
 - /resources/blog/release-planning-and-predictable-delivery
 tags:
 - Software Development
+- Agile Product Management
 categories:
 - Scrum
 preview: nkdAgility-habits-16x9-1280-2-2.jpg

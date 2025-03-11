@@ -433,12 +433,15 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-17T11:58:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:18:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of closing feedback loops in the context of automation and testing, highlighting how quicker feedback can enhance product quality and customer satisfaction. However, the primary focus is on automation rather than customer feedback mechanisms, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses automation in software development and the importance of reducing human error, but it does not focus on customer feedback loops. While there is a brief mention of feedback in the context of automation, it is not a primary focus. The discussion lacks depth on how customer feedback is integrated into the development process, which is essential for the category.",
+    "level": "Quaternary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
@@ -469,11 +472,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-12T15:43:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T13:05:51",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 27.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the role of automation in improving operational efficiency, particularly in software development and testing processes. It provides practical examples and strategies for optimising workflows, reducing human error, and enhancing feedback loops, which aligns well with the key topics of the Operational Practices category.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the importance of automation in software development to reduce human error, which aligns with operational efficiency. It provides specific examples and insights into how automation can streamline processes and improve quality, reflecting key topics in operational practices. However, while it touches on relevant themes, the depth of discussion on broader operational practices and methodologies like Agile or DevOps is somewhat limited, leading to a high but not perfect confidence score.",
     "level": "Secondary"
   },
   "Decision Making": {
@@ -730,11 +736,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-12T15:44:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:16:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of automation in software development, focusing on best practices for improving code quality, reducing human error, and enhancing testing processes. It highlights the role of automation in closing feedback loops and improving efficiency, which aligns closely with the principles of technical mastery.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of automation in software development, which aligns with the principles of improving code quality and maintainability. It provides specific examples of human error in testing and deployment, illustrating the need for automation to enhance technical delivery. The depth of discussion includes anecdotes and a clear philosophy on automation, contributing to a strong alignment with the category. However, while it touches on technical practices, it does not delve deeply into broader software craftsmanship principles or methodologies, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -994,11 +1003,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-12T15:45:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:04:55",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of automation in software development, which aligns with key topics in Engineering Practices, particularly automation and its role in enhancing efficiency and reducing human error. It also touches on the significance of fast feedback loops and the impact of manual processes on quality, which are central to Agile methodologies.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on the importance of automation in software development, which aligns closely with the core themes of Engineering Practices, particularly in relation to automation and reducing human error. It discusses the impact of manual processes and the necessity of automated testing, which are key aspects of CI/CD and clean code principles. However, while it provides substantial detail on the topic, it occasionally veers into personal anecdotes and opinions, which slightly detracts from its strict alignment with the category.",
     "level": "Secondary"
   },
   "Agile Frameworks": {

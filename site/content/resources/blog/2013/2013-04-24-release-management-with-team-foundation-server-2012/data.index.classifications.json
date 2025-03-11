@@ -301,11 +301,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T18:55:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:00:09",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses release management strategies and tools within Team Foundation Server 2012, which is part of the Azure DevOps suite. It focuses on deployment processes, automation, and best practices relevant to Azure DevOps functionalities.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses release management within Team Foundation Server (TFS) 2012, which is a predecessor to Azure DevOps. While it does not explicitly mention Azure DevOps, it aligns closely with its functionalities, particularly in CI/CD practices and deployment strategies. The depth of discussion on automation, build processes, and deployment management indicates a strong relevance to Azure DevOps principles, despite the lack of direct references to Azure DevOps itself.",
     "level": "Secondary"
   },
   "Personal": {
@@ -364,11 +367,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T18:55:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:50:17",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses release management within the context of Team Foundation Server 2012, detailing methodologies, practices, and tools that are integral to managing the application lifecycle, particularly focusing on deployment and quality assurance.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily focuses on release management within the context of Team Foundation Server 2012, discussing various aspects of the application lifecycle such as deployment, automation, and the importance of quality output. It aligns well with the core themes of Application Lifecycle Management, particularly in terms of deployment strategies and the integration of tools like NuGet and Octopus. The depth of discussion is substantial, covering multiple facets of release management and its impact on the overall application lifecycle, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -409,11 +415,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T21:30:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T18:02:00",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses release management strategies in the context of software deployment using Team Foundation Server, emphasizing automation, build processes, and maintaining quality output, aligning closely with Continuous Delivery principles.",
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses release management in the context of Team Foundation Server 2012, highlighting automation, deployment processes, and the importance of maintaining a production-ready state. It aligns well with Continuous Delivery principles, particularly in its emphasis on creating potentially shippable output and automating deployment to reduce risks. The depth of discussion on tools like NuGet and Octopus further supports its relevance to Continuous Delivery practices.",
     "level": "Secondary"
   },
   "Strategic Goals": {

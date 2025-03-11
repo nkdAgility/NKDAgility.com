@@ -25,9 +25,10 @@ preview: https://i.ytimg.com/vi/V44iUwv0Jcg/maxresdefault.jpg
 duration: 56
 isShort: true
 tags:
+- Discovery and Learning
 - Lean Thinking
 - Operational Practices
-- Discovery and Learning
+- Organisational Agility
 - People and Process
 - Metrics and Learning
 sitemap:

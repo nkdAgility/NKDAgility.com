@@ -382,12 +382,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T11:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:10:59",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses installation and troubleshooting steps specifically related to the installation of Service Pack 1 for Team Foundation Server (TFS), which operates within the Windows environment but focuses more on TFS itself rather than the broader aspects of Windows.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the installation and troubleshooting of Service Pack 1 (SP1) for Team Foundation Server (TFS), which operates on the Windows environment. However, while it mentions installation procedures, it lacks a broader discussion on Windows itself, such as configuration settings or system updates. The focus is primarily on TFS rather than the Windows operating system, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -463,11 +466,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T11:08:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:21:38",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content focuses primarily on the installation and configuration of Team Foundation Server (TFS) SP1, detailing the steps involved in setting up the data and application tiers, which aligns closely with system configuration practices.",
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses the installation and configuration steps for Team Foundation Server (TFS) SP1, which directly aligns with the category of System Configuration. It provides a clear, step-by-step guide on how to set up the software, addressing both the installation of different tiers and troubleshooting methods. The depth of discussion is significant as it outlines specific actions to take in case of issues, demonstrating a practical approach to system configuration. Overall, the content is focused on the technical aspects of configuring a system, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Acceptance Test Driven Development": {

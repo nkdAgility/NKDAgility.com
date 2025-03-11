@@ -24,7 +24,6 @@ aliasesArchive:
 - /resources/blog/connect-a-test-controller-to-team-foundation-service
 tags:
 - Install and Configuration
-- Technical Mastery
 - Practical Techniques and Tooling
 - System Configuration
 - Software Development

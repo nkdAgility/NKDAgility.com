@@ -145,11 +145,14 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-12T16:06:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T13:06:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the process of innovation through the lens of Minimum Viable Products (MVPs) and the importance of running experiments to gauge value and market fit. It emphasises the need for a structured approach to innovation, including risk assessment and hypothesis-driven practices, aligning well with the principles of Evidence-Based Management.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the process of funding innovative products and the importance of experimentation, which aligns well with the Ability to Innovate category. It highlights the need for empirical data in decision-making and the concept of running small experiments to gauge potential success, reflecting Evidence-Based Management principles. However, while it touches on innovation, it does not delve deeply into frameworks or metrics for measuring innovation capabilities, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Strategy": {
@@ -316,12 +319,15 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-12T16:06:53",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T14:16:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses concepts related to value maximisation and iterative learning through the lens of Minimum Viable Products (MVPs) and hypothesis-driven engineering practices, which align with Lean principles. However, it primarily focuses on entrepreneurship and product development rather than explicitly detailing Lean principles or practices.",
-    "level": "Secondary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses iterative processes and experimentation, which align with Lean principles, but it primarily focuses on funding and entrepreneurial mindset rather than waste reduction or value maximisation. While there are mentions of running small experiments and validating ideas, the core discussion revolves around funding strategies and risk management, which are not central to Lean principles.",
+    "level": "Quaternary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -469,12 +475,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-12T16:07:32",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the decision-making process involved in funding and developing new products, emphasising the importance of risk assessment, return on investment, and evidence-based methodologies such as running small experiments and hypothesis-driven practices.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-11T16:05:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses decision-making in the context of funding products and managing risks, which aligns with the category's focus on structured, evidence-based methodologies. It mentions concepts like validating ideas, running experiments, and using data to inform decisions, which are relevant to evidence-based management. However, the primary focus is on entrepreneurial mindset and funding strategies rather than a deep exploration of decision-making frameworks or cognitive biases, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Working Software": {
     "category": "Working Software",
@@ -523,11 +532,14 @@
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-02-12T16:07:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:18:54",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the concept of Minimum Viable Products (MVPs), the importance of running small experiments, and the iterative process of testing and validating business ideas, which aligns closely with Lean Startup principles.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses several key Lean Startup principles, such as running small experiments, validating ideas, and the importance of iteration and learning from user feedback. It explicitly mentions the concept of MVP and hypothesis-driven engineering, which aligns well with Lean principles. However, the primary focus is on funding and the entrepreneurial mindset rather than a deep dive into Lean Startup methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Asynchronous Development": {

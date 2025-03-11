@@ -2,7 +2,7 @@
 title: 'Hiring an Agile Coach: What You Need to Know'
 description: 'Discover 5 key factors to consider before hiring an #AgileCoach in Part 3 of our series with Martin Hinshelwood. #Agile #Scrum #ProjectManagement'
 date: 2023-11-22T11:00:46Z
-weight: 775
+weight: 605
 ResourceId: sxXzOFn7iZI
 ResourceType: videos
 ResourceImport: true
@@ -30,8 +30,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Leadership
+- Technical Leadership
 - Coaching
 - People and Process
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

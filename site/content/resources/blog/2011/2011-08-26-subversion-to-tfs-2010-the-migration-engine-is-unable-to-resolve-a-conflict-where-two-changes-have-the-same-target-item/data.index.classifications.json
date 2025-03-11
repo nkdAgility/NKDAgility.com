@@ -40,12 +40,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:08:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the complexities and challenges of migrating code from Subversion to TFS, particularly focusing on conflicts arising from case sensitivity. While it touches on issues related to code quality and migration processes, it primarily revolves around specific migration challenges rather than a broader exploration of code quality principles or complexity theory.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses the complexities involved in migrating a Subversion repository to Team Foundation Server, particularly focusing on conflicts arising from case sensitivity. While it touches on issues related to code quality and the challenges of managing changes in a migration context, it lacks a deeper exploration of complexity theory or best practices in software development. The primary focus is on practical migration issues rather than a theoretical discussion of code complexity or quality principles.",
+    "level": "Quaternary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -583,11 +586,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T02:06:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:07:07",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses migration issues between version control systems (Subversion and TFS) and includes specific techniques for resolving conflicts encountered during the migration process. These topics are central to software development practices, particularly around version control systems and collaborative development.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the challenges and solutions related to migrating a Subversion repository to Team Foundation Server, which is a specific software development task. It explicitly mentions issues like case sensitivity and conflict resolution, which are relevant to version control practices in software development. The depth of discussion includes detailed steps and considerations for resolving migration conflicts, aligning well with best practices in coding and collaborative development. Overall, the content is focused on a software development process, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1219,12 +1225,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:57:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses a specific challenge related to the migration of version control systems, which involves software development practices. However, it does not deeply engage with Agile or DevOps methodologies, making its relevance to the category only a major theme rather than the primary focus.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the technical challenges and solutions related to migrating from Subversion to Team Foundation Server, focusing on conflict resolution during the migration process. While it touches on aspects relevant to software developers, such as handling conflicts and using migration tools, it lacks a direct connection to Agile or DevOps methodologies. The discussion is more about specific technical issues rather than broader practices or principles that enhance productivity or collaboration in software development.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

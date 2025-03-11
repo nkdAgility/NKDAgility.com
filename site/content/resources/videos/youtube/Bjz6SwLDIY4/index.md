@@ -32,13 +32,13 @@ tags:
 - Business Agility
 - Organisational Agility
 - Resilience and Change
+- Pragmatic Thinking
 - Organisational Change
+- People and Process
 - Agile Philosophy
 - Beta Codex
-- People and Process
 - Enterprise Agility
 - Market Adaptability
-- Change Management
 resourceTypes:
 - video
 categories:

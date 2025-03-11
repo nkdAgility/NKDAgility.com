@@ -301,11 +301,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-14T18:59:13",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:51:47",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Visual Studio Team Services (VSTS), which is a part of Azure DevOps, and elaborates on its functionalities, best practices, and integration with modern software development processes.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses Visual Studio Team Services (VSTS), which is a key component of Azure DevOps, and provides insights into its functionalities and best practices for software development. It aligns well with the core themes of Azure DevOps, particularly in relation to CI/CD practices and team collaboration. However, while it mentions Azure DevOps tools, the focus is somewhat broader, touching on general DevOps principles and practices, which slightly detracts from a higher confidence score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -364,11 +367,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-14T18:59:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:41:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the importance of source control and automated release pipelines within the context of managing the application lifecycle, aligning well with key topics of Application Lifecycle Management.",
+    "final_score": 68.0,
+    "reasoning": "The content discusses aspects of the application lifecycle, particularly in relation to source control and DevOps practices. It mentions the importance of managing the entire application lifecycle and highlights tools like VSTS that support these processes. However, while it touches on relevant topics, the focus is more on source control and DevOps rather than a comprehensive exploration of Application Lifecycle Management as defined in the category. The depth of discussion on lifecycle stages and governance practices is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -391,11 +397,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-14T18:59:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:53:47",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses best practices in software development, including source control, automated release pipelines, and the importance of engineering excellence, which aligns closely with the principles of Technical Mastery.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the importance of source control, automated release pipelines, and best practices for modern software development, which are all core aspects of technical mastery. It provides detailed recommendations and insights into methodologies that enhance software quality and engineering excellence, aligning well with the category's focus. The depth of discussion on practices like test-first development and continuous delivery further supports a high confidence score.",
     "level": "Secondary"
   },
   "Product Discovery": {

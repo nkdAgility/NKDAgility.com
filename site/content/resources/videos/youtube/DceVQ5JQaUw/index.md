@@ -26,7 +26,9 @@ duration: 130
 isShort: false
 tags:
 - People and Process
+- Agile Leadership
 - Pragmatic Thinking
+- Agile Product Management
 - Organisational Change
 sitemap:
   filename: sitemap.xml

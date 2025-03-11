@@ -24,7 +24,6 @@ preview: https://i.ytimg.com/vi/5bgcpPqcGlw/maxresdefault.jpg
 duration: 3386
 isShort: false
 tags:
-- Events and Presentations
 - Operational Practices
 - Software Development
 - Pragmatic Thinking

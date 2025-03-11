@@ -26,7 +26,9 @@ duration: 5071
 isShort: false
 tags:
 - People and Process
+- Agile Transformation
 - Agile Project Management
+- Agile Frameworks
 sitemap:
   filename: sitemap.xml
   priority: 0.6

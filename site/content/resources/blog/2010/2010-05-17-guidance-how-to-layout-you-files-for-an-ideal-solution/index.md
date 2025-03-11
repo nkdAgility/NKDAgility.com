@@ -30,13 +30,13 @@ tags:
 - Software Development
 - Modern Source Control
 - Release Management
-- Agile Project Management
 - Pragmatic Thinking
 - Technical Mastery
 - Practical Techniques and Tooling
 - Software Developers
 - Application Lifecycle Management
 - Product Delivery
+- Engineering Practices
 categories:
 - Scrum
 - Social Technologies

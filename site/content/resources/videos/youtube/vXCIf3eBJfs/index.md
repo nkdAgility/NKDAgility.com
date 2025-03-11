@@ -30,16 +30,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Pragmatic Thinking
-- Agile Project Management
-- Coaching
-- People and Process
 - Agile Frameworks
-- Agile Transformation
-- Decision Making
 - Organisational Agility
 - Practical Techniques and Tooling
-- Software Development
 resourceTypes:
 - video
 categories:

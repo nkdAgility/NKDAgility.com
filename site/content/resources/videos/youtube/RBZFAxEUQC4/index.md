@@ -31,10 +31,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Organisational Agility
 - People and Process
 - Organisational Change
 - Agile Strategy
 - Pragmatic Thinking
+- Agile Product Management
 resourceTypes:
 - video
 categories:

@@ -253,12 +253,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T22:00:12",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile methodologies and their application in improving product delivery, but it primarily focuses on consulting practices rather than the end-to-end product delivery process.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-11T14:39:18",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses Agile Consulting, which is closely related to product delivery methodologies. It mentions diverse options for successful product delivery and the importance of feedback loops, aligning with key themes of the category. However, the focus is more on consulting and organisational change rather than the specific practices of product delivery, which slightly reduces the depth of discussion.",
+    "level": "Secondary"
   },
   "AI": {
     "category": "AI",
@@ -271,20 +274,26 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T22:00:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:28:45",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile Consulting and its role in helping organisations improve their processes and delivery, which aligns with themes of digital transformation. However, it primarily focuses on Agile methodologies rather than the broader strategic adoption of digital technologies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Agile Consulting, which is related to digital transformation through its focus on improving organisational processes and fostering a culture of continuous learning. However, it lacks explicit mentions of digital technologies and their strategic adoption, which are central to the Digital Transformation category. The discussion is more about methodologies and mindsets rather than the integration of digital tools for business transformation.",
     "level": "Tertiary"
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T22:00:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:41:24",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses Agile Consulting, focusing on the importance of human interaction, team dynamics, and the role of leadership in fostering effective processes within organisations. It highlights strategies for improving communication and collaboration, which are central themes in the 'People and Process' category.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the role of Agile Consulting in enhancing team dynamics and collaboration, which aligns closely with the core themes of the 'People and Process' category. It highlights the importance of engaging with individuals at various organisational levels, fostering communication, and empowering teams to implement change. The depth of discussion on workshops, feedback loops, and the need for continuous learning further supports its relevance to the category. Overall, the content is primarily focused on the interplay between human behaviour and structured methodologies, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Test Driven Development": {

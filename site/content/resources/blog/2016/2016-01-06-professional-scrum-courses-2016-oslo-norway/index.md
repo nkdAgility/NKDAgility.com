@@ -8,7 +8,7 @@ ResourceImportId: 11426
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2016-01-06
-weight: 490
+weight: 525
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -34,10 +34,10 @@ tags:
 - Events and Presentations
 - Software Development
 - Professional Scrum
+- Software Developers
 - Practical Techniques and Tooling
 - Scrum Master
 - Agile Project Management
-- Software Developers
 categories:
 - Social Technologies
 - Scrum

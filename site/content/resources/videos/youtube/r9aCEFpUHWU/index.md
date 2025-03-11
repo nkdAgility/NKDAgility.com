@@ -2,7 +2,7 @@
 title: 'The Crucial Role of Competence: How Knowledgeable Scrum Masters Drive Team Success'
 description: Unlock the true potential of your Scrum Master! Discover how deep knowledge and competence can transform teams and drive impactful product delivery.
 date: 2024-10-21T05:32:11Z
-weight: 310
+weight: 320
 ResourceId: r9aCEFpUHWU
 ResourceType: videos
 ResourceImport: true
@@ -24,16 +24,7 @@ preview: https://i.ytimg.com/vi/r9aCEFpUHWU/maxresdefault.jpg
 duration: 466
 isShort: false
 tags:
-- People and Process
-- Software Development
-- Team Performance
-- Agile Project Management
-- Pragmatic Thinking
-- Professional Scrum
 - Scrum Master
-- Scrum Product Development
-- Scrum Team
-- Technical Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6

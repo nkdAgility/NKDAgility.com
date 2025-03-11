@@ -28,8 +28,8 @@ aliasesArchive:
 - /resources/blog/create-a-build-vnext-build-definition-on-vso
 tags:
 - Software Development
-- Azure Pipelines
 - Install and Configuration
+- Azure Pipelines
 categories:
 - DevOps
 - Engineering Excellence

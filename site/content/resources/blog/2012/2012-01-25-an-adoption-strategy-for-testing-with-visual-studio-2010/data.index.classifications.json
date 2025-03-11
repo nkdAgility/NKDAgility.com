@@ -499,12 +499,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:56:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses agile practices and mentions Scrum in the context of team collaboration and training, but it primarily focuses on testing tools and methodologies rather than the dynamics of a Scrum Team.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content briefly mentions Scrum in the context of agile practices and training but does not focus on the dynamics, roles, or collaboration within a Scrum Team. The discussion is more centred on tools and training rather than the specific interactions and responsibilities of Scrum roles.",
+    "level": "Quaternary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -1090,12 +1093,15 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:07:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content touches on agile practices and mentions the role of training in adopting such practices, indicating a focus on improving team dynamics and collaboration, which aligns with Agile Leadership as a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on tools and technical practices related to Visual Studio and testing, with only brief mentions of Agile practices. While it touches on the importance of team collaboration and mentions Scrum, it lacks a substantial discussion on leadership roles or strategies within an Agile context, which are critical for the Agile Leadership category.",
+    "level": "Quaternary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -1336,11 +1342,14 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T22:41:44",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T15:06:10",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses tools and practices that facilitate collaboration between developers and testers, emphasizes the importance of teamwork and the adoption of agile practices, which aligns with team dynamics in Agile environments.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the challenges developers and testers face in collaborating, highlighting tools like Microsoft Test Manager that can help bridge these gaps. It mentions the importance of agile practices and training to enhance teamwork, which aligns with the category's focus on improving team dynamics. However, the primary focus is on tools and training rather than in-depth discussions of team collaboration techniques or culture, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Product Management": {

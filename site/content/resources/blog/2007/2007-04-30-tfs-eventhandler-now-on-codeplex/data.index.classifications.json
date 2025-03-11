@@ -379,12 +379,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T10:22:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:10:21",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses a project related to Team Foundation Server and mentions moving to a Windows Service, which relates to Windows operating systems. However, it primarily focuses on the event handler and development aspects rather than in-depth Windows OS topics.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the development of a Team Foundation Server EventHandler, which is related to Windows as it mentions moving to a Windows Service. However, the primary focus is on the development process and the use of CodePlex rather than a comprehensive discussion of Windows itself. While there are direct mentions of Windows and some alignment with installation and configuration aspects, the depth of discussion is more about the project than the Windows operating system as a whole.",
+    "level": "Secondary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -460,12 +463,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T10:22:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:21:03",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition to a more reliable message queuing system and the move to a Windows Service, which relates to system setup, but it primarily focuses on software development and project updates.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the transition of a system to a more reliable Message Queuing setup and mentions the complexities of installation and configuration. However, it lacks a detailed exploration of best practices or methodologies for system configuration, focusing instead on personal experiences and project updates. The primary focus is not on system configuration principles, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",

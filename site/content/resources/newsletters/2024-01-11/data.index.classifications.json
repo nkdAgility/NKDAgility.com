@@ -307,12 +307,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T14:20:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:26:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 10,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily promotes Scrum training courses, which are related to Agile methodologies and product delivery practices, but it does not delve deeply into the methodologies or practices themselves.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily promotes Scrum training courses, which are related to Agile methodologies and product delivery. However, it lacks a detailed discussion on the end-to-end process of delivering software products, focusing instead on training offers. While it mentions Agile skills and Scrum roles, it does not delve into the methodologies or practices of product delivery itself, resulting in a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -325,11 +328,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T14:20:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:16:16",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Scrum training courses, which are products related to Agile methodologies, and promotes their benefits, making it a central theme.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on promoting Scrum training courses, which are products related to Agile methodologies. It explicitly mentions various training options and their benefits, aligning well with the category's core themes. The depth of discussion includes specific course details and promotional offers, providing substantial information relevant to potential learners. However, it lacks a broader analysis or review of the methodologies themselves, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Value Stream Management": {
@@ -361,12 +367,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T14:20:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:28:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content promotes Scrum training courses, which can contribute to learning and development in Agile methodologies, but the primary focus is on marketing the training rather than exploring discovery and learning processes.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on promoting Scrum training courses, which is more aligned with project management and training rather than the core themes of discovery and learning. While it mentions the opportunity to enhance Agile skills, it lacks a detailed discussion on methodologies that foster innovation or continuous learning. The emphasis is on the promotional aspect of the training rather than exploring the processes of learning or discovery.",
+    "level": "Quaternary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",

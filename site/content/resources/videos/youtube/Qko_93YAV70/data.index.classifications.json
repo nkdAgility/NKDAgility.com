@@ -280,12 +280,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T12:26:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T13:11:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Caman in relation to Scrum, which are both methodologies relevant to product delivery, but the primary focus is on Caman rather than the end-to-end process of delivering software products.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Scrum, which is related to product delivery methodologies, but primarily focuses on Caman as a separate strategy. While it touches on concepts of process optimisation and value flow, it lacks a detailed discussion on the core themes of product delivery, such as planning, testing, or deployment. The overall emphasis is more on Caman rather than the end-to-end process of delivering software products.",
+    "level": "Quaternary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -298,30 +301,39 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T12:26:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:21:41",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Caman as a strategy for process optimisation, which aligns with the principles of organisational agility, but it primarily focuses on comparing Caman and Scrum rather than exploring broader agile methodologies or cultural shifts.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses Caman as a tool for process optimisation and transparency, which aligns with the principles of organisational agility. However, it primarily focuses on Caman's relationship with Scrum rather than directly addressing broader organisational agility strategies. The depth of discussion on how Caman can enhance workflows and foster transparency contributes positively, but the lack of explicit mention of agile methodologies and cultural shifts limits its overall alignment with the category.",
     "level": "Tertiary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T12:26:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:10:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of Caman in increasing transparency within systems, which aligns with the category, but the primary focus is on comparing Caman and Scrum rather than on transparency and accountability as central themes.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the concept of transparency in relation to Caman and its role in optimising processes. While it mentions transparency as a key aspect of Caman, the primary focus is on comparing Caman with Scrum and its application in various contexts. The discussion lacks depth in terms of accountability and does not explore the broader implications of transparency and accountability within Agile teams. Therefore, while there are relevant mentions, the overall alignment and depth of discussion do not fully meet the criteria for a strong classification in this category.",
+    "level": "Secondary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T12:26:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:23:43",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of Caman as a tool for gaining insights and optimising processes, which aligns with the theme of discovery and learning. However, the primary focus is on comparing Caman and Scrum rather than exploring methodologies for fostering innovation or continuous learning.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of Caman in optimising processes and enhancing understanding, which aligns with the themes of discovery and learning. It mentions transparency, insights, and iterative processes, all of which are key aspects of the category. However, the primary focus is on Caman as a tool rather than a broader exploration of discovery and learning methodologies, which slightly limits its depth in this context.",
+    "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",

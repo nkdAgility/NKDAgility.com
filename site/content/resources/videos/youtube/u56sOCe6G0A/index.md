@@ -33,14 +33,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Flow Efficiency
 - Practical Techniques and Tooling
-- Agile Frameworks
+- Flow Efficiency
 - Operational Practices
+- Agile Frameworks
 - Software Development
-- Pragmatic Thinking
-- Throughput
 - Agile Project Management
+- Throughput
+- Pragmatic Thinking
 - Lean Thinking
 - Value Delivery
 resourceTypes:

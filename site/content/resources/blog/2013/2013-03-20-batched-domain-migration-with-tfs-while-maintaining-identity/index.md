@@ -23,9 +23,8 @@ aliasesArchive:
 - /batched-domain-migration-with-tfs-while-maintaining-identity
 - /resources/blog/batched-domain-migration-with-tfs-while-maintaining-identity
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
-- Operational Practices
+- Install and Configuration
 - Software Development
 - System Configuration
 - Troubleshooting

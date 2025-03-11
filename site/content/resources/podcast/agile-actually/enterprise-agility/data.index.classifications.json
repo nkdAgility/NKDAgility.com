@@ -307,21 +307,27 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T14:11:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:26:23",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile methodologies and the role of Agile coaching, which are relevant to product delivery, but the primary focus is on the importance of language and transparency in Agile contexts.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content briefly touches on Agile methodologies and the importance of language in the Agile context, which relates to product delivery. However, it lacks a detailed discussion on the end-to-end process of delivering software products, focusing instead on the hosts' credentials and their roles in Agile coaching and consulting. The primary focus is not on product delivery itself, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T14:11:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:15:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of language and transparency in the agile context, which relates to fostering a culture of agility. However, it primarily focuses on the hosts' backgrounds and their roles rather than providing a comprehensive discussion on enterprise agility.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content briefly mentions agile principles and the importance of language in the agile context, but it lacks a direct focus on enterprise agility as defined. While it touches on coaching and consulting, it does not delve into organisational structures, frameworks, or strategies that support enterprise agility. The discussion is more centred on individual roles and insights rather than the broader implications for organisational performance and culture.",
+    "level": "Quaternary"
   },
   "Products and Books": {
     "category": "Products and Books",
@@ -823,12 +829,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T15:05:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:28:16",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and introduces discussions on DevOps, which are relevant to software development, but the focus is primarily on podcast hosts and their backgrounds rather than directly on software developers' roles in Agile or DevOps practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses Agile principles and the importance of language in the Agile context, which is relevant to software developers. However, it primarily focuses on the hosts' roles and their consulting services rather than providing in-depth insights into the practices or methodologies that directly impact software developers. The mention of DevOps and Agile coaching indicates some relevance, but the lack of detailed discussion on best practices or developer-specific strategies limits the overall confidence score.",
+    "level": "Quaternary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",

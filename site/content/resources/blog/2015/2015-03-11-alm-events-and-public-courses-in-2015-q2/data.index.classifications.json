@@ -169,12 +169,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:43:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses upcoming training courses related to Agile and Scrum, indicating a focus on team dynamics and collaboration, but it primarily centres on scheduling and logistics rather than in-depth discussions on people and processes.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on scheduling and promoting various training courses related to ALM and Scrum, with limited discussion on the human factors or processes involved in these methodologies. While it mentions Scrum and DevOps, it does not delve into team dynamics, leadership, or communication strategies, which are essential aspects of the 'People and Process' category. The content lacks depth in exploring how these courses might influence team collaboration or process improvement.",
+    "level": "Quaternary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -295,12 +298,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:55:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes personal anecdotes about the author's living situation and experiences related to scheduling training courses, which aligns with the Personal category, but the primary focus is on the events and courses rather than personal reflections or insights.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content includes personal anecdotes about the author's move and living situation, which provides some personal context. However, the primary focus is on announcing upcoming training courses and events rather than deep reflections or insights related to Agile, Scrum, or DevOps. While there are mentions of Scrum and DevOps courses, they are not explored in a personal or reflective manner, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -685,12 +691,15 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:53:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses upcoming training courses related to DevOps and ALM, which may imply a focus on continuous delivery practices, but the primary focus is on scheduling events rather than the principles of frequent releases.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses upcoming training events and courses rather than focusing on the principles of frequent software releases. While there is a mention of a course related to continuous delivery, the overall emphasis is on scheduling and logistics of training rather than the practices and strategies associated with frequent releases in software development.",
+    "level": "Quaternary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",

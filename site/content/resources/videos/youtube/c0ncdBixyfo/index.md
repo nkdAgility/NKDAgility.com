@@ -29,15 +29,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Employee Engagement
 - Organisational Culture
-- Agile Leadership
-- Organisational Change
+- Employee Engagement
 - Personal
 - Sociotechnical Systems
+- Organisational Change
 - Change Management
-- Team Collaboration
 - Team Motivation
+- Team Performance
+- Agile Leadership
 resourceTypes:
 - video
 categories:

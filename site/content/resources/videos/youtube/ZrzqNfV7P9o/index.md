@@ -34,6 +34,7 @@ tags:
 - People and Process
 - Team Collaboration
 - Pragmatic Thinking
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

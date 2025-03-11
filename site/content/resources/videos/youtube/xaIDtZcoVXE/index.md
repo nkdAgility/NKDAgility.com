@@ -30,16 +30,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Decision Making
-- Evidence Based Management
-- Metrics and Learning
-- Value Delivery
-- Value Stream Management
-- Ability to Innovate
-- Evidence Based Leadership
-- Flow Efficiency
-- Operational Practices
-- Pragmatic Thinking
+- Agile Product Management
 resourceTypes:
 - video
 categories:

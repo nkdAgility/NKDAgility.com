@@ -241,12 +241,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:12:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific issue encountered during the deployment of a new site, which relates to the delivery of a software product. However, the focus is primarily on troubleshooting a technical problem rather than broader product delivery methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily addresses a technical issue related to email delivery in a specific software environment, focusing on troubleshooting and configuration rather than the broader methodologies and practices of product delivery. While it touches on aspects of deployment and configuration, it lacks a comprehensive discussion on product delivery principles such as Agile methodologies, iterative development, or cross-functional team roles.",
+    "level": "Quaternary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1060,11 +1063,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T02:22:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:11:15",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses resolving an SMTP configuration issue within IIS, detailing specific steps and settings to ensure proper emailing functionality, which is clearly related to system configuration.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on troubleshooting and configuring the IIS SMTP service, which directly relates to system configuration. It discusses specific steps to resolve a configuration issue, including enabling logging and modifying settings in the IIS Manager. The detailed instructions provided demonstrate a clear understanding of the configuration process, aligning well with the key topics of best practices and troubleshooting in system configuration. The depth of discussion is substantial, as it includes both the problem and the solution, along with specific actions taken to resolve the issue. Overall, the content is highly relevant to the category.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1171,12 +1177,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T02:22:51",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-11T17:01:49",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "The content primarily discusses diagnosing and resolving a specific issue related to sending emails through IIS SMTP, providing detailed steps to fix the problem, making troubleshooting the central theme.",
-    "level": "Primary"
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses a specific issue related to the IIS SMTP service, detailing the problem of emails being rejected due to a lack of a fully qualified hostname. It provides a clear step-by-step troubleshooting process to resolve the issue, which aligns well with the core themes of the Troubleshooting category. The depth of discussion is significant, as it includes logs, error messages, and specific actions taken to rectify the problem, demonstrating a thorough approach to diagnosing and solving a technical issue.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",

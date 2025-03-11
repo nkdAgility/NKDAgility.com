@@ -29,9 +29,9 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Release Management
 - Software Development
 - System Configuration
+- Release Management
 - Azure DevOps
 - Application Lifecycle Management
 - Troubleshooting

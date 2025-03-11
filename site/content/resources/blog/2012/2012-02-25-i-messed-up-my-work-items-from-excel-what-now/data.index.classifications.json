@@ -295,12 +295,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:55:29",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes personal experiences and reflections on challenges faced while using Excel for work item management, but it primarily focuses on technical solutions rather than personal insights.",
-    "level": "Tertiary"
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on technical issues related to TFS and Excel, with minimal personal reflection or anecdotal insights. While there are mentions of a customer's experience and the author's personal practices, the overall discussion lacks depth in personal insights or reflections on Agile methodologies.",
+    "level": "Quaternary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1060,12 +1063,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:06:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses issues related to configuration and management of work items in TFS, which closely relates to system configuration practices in handling data and system interactions. However, it primarily focuses on troubleshooting and specific scenarios rather than broader system configuration methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses issues related to work item management in TFS and Excel, focusing on how to revert changes and manage data integrity. While it touches on aspects of system configuration, such as querying and data management, it lacks a direct focus on broader system configuration principles or best practices. The discussion is more about troubleshooting and specific user scenarios rather than the methodologies of configuring systems for optimal performance and reliability.",
+    "level": "Quaternary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1216,12 +1222,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:05:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the resolution of an issue related to work items in TFS, which involves aspects of software development management processes relevant to developers working in Agile contexts, but it does not primarily focus on methodologies like Agile or DevOps.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses issues related to work item management in TFS, which is relevant to software developers. However, it primarily focuses on a specific problem with Excel and TFS rather than broader Agile or DevOps practices. While it touches on aspects of version control and data management, it lacks a comprehensive exploration of Agile methodologies or DevOps principles, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

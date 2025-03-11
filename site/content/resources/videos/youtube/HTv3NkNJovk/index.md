@@ -28,16 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Organisational Agility
 - Agile Leadership
+- Business Agility
 - Agile Values and Principles
 - People and Process
-- Business Agility
 - Empirical Process Control
 - Evidence Based Leadership
 - Metrics and Learning
 - Ability to Innovate
 - Agile Frameworks
-- Agile Philosophy
 resourceTypes:
 - video
 categories:

@@ -586,11 +586,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T19:12:00",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T17:06:01",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "Content primarily discusses a software release (TFS Sticky Buddy) and features related to its development. While it does touch on aspects relevant to software project management and customization, it lacks a deeper focus on methodology or practices central to software development.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the release of a software tool (TFS Stick Buddy) and its features, which relates to software development. However, it primarily focuses on the tool's functionality rather than broader software development methodologies or practices. While it mentions aspects of work item management and customisation, it lacks in-depth discussion on software development principles or methodologies, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {
@@ -1195,12 +1198,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-16T19:12:00",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T15:16:00",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily focuses on the release and features of a specific software (TFS Sticky Buddy), describing its functionalities and how it assists in working with queries on work items in a team project environment, which implies a significant emphasis on its operational quality and user needs.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the release of a software tool (TFS Sticky Buddy) and its features, which aligns with the concept of working software. It mentions user customisation and functionality, indicating a focus on meeting user needs. However, it lacks in-depth discussion on best practices or metrics for assessing software quality, which limits its alignment with the core themes of the category.",
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",

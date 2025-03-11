@@ -10,12 +10,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:04:30",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific issue related to the use of VSSConverter.exe in the context of Team Foundation Server, which aligns with practical tooling. However, it primarily focuses on a specific error rather than a broader exploration of techniques or methodologies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses a specific issue related to the VSSConverter tool and provides a workaround for a common error encountered during its use. While it mentions a practical tool (VSSConverter.exe) and offers a solution, the discussion lacks depth in exploring broader Agile or DevOps methodologies or frameworks. The focus is primarily on troubleshooting rather than on the application of techniques or tooling in a wider context, which limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1297,12 +1300,15 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:54:31",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to Team Foundation Server (TFS) and the mapping of users, which involves aspects of Azure Repos, but it primarily focuses on troubleshooting a specific error rather than broader topics of Azure Repos' functionality or practices.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses issues related to Team Foundation Server (TFS) and user mapping during a VSS to TFS import, which is relevant to Azure Repos as TFS is part of the Azure DevOps suite. However, the focus is primarily on a specific error and workaround rather than a broader discussion of Azure Repos functionalities, best practices, or integration. The mention of user permissions aligns with security management in Azure Repos, but the overall depth and breadth of the discussion do not fully encompass the key topics outlined for the category.",
+    "level": "Quaternary"
   },
   "Forecasting": {
     "category": "Forecasting",

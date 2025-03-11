@@ -5,7 +5,7 @@ ResourceId: hz-iCoxHxxa
 ResourceImport: true
 ResourceType: newsletters
 date: 2024-02-13
-weight: 775
+weight: 700
 preview: naked-agility-technically-agile-1280×720-24Q1-Feb24.jpg
 author: MrHinsh
 resourceTypes: newsletter
@@ -27,11 +27,12 @@ tags:
 - Events and Presentations
 - Software Development
 - Agile Product Management
-- People and Process
 - Products and Books
+- People and Process
 - Agile Transformation
 - Practical Techniques and Tooling
 - Pragmatic Thinking
+- Agile Leadership
 
 ---
 The new year is now fully underway, and the immersive 8-week PSPO, PSM, and PAL are all running... we have a full house! next up is the set of complimentary Skills classes from Scrum.org as well as the new Agile Kata class and we have them all.

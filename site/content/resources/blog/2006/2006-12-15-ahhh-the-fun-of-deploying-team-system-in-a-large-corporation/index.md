@@ -34,8 +34,8 @@ preview: nakedalm-logo-128-link-1-1.png
 categories: []
 tags:
 - System Configuration
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
 - Software Development
 - Troubleshooting
 

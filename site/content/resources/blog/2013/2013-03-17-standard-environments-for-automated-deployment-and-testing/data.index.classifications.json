@@ -364,11 +364,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T19:18:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:00:55",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the implementation of standard environments for automated deployment and testing, which is a key aspect of managing the application lifecycle. It covers deployment processes, the use of tools like Team Foundation Server and Nuget, and the importance of consistent deployment mechanisms, aligning well with the principles of Application Lifecycle Management.",
+    "final_score": 77.0,
+    "reasoning": "The content discusses the concept of Standard Environments in the context of Visual Studio Team Foundation Server, which is relevant to Application Lifecycle Management (ALM). It explicitly mentions ALM and covers aspects of deployment and testing environments, which are critical stages in the application lifecycle. However, while it touches on deployment and testing, it lacks a comprehensive exploration of all lifecycle stages and best practices, leading to a high but not perfect confidence score.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -562,11 +565,14 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-15T20:17:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T18:02:43",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the setup and deployment of automated testing environments using Visual Studio Team Foundation Server, with a focus on how automated tests can be executed in conjunction with deployment processes, making automated testing the central theme.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily focuses on the implementation of automated testing within standard environments in Visual Studio Team Foundation Server. It discusses the setup of environments for automated deployment and testing, which aligns well with the principles of automated testing. There are direct mentions of automated tests, deployment pipelines, and the integration of testing within the development process. However, while the content provides a good level of detail, it could benefit from a deeper exploration of specific automated testing methodologies and best practices.",
     "level": "Secondary"
   },
   "Team Performance": {
@@ -697,11 +703,14 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-15T20:17:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:50:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses concepts integral to setting up an automated deployment pipeline and standard environments, which are essential for continuous delivery and frequent releases. The focus on automation, deployment processes, and maintaining standardized environments highlights a commitment to achieving incremental software delivery.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses automated deployment and testing environments, which are essential for facilitating frequent releases. It touches on concepts like continuous delivery and the importance of standardisation in deployment processes. However, while it mentions automation and deployment pipelines, it lacks a comprehensive exploration of the principles of frequent releases, such as user feedback integration and metrics for measuring release impact. The focus is more on the technical setup rather than the broader implications of frequent releases.",
     "level": "Secondary"
   },
   "Customer Satisfaction": {

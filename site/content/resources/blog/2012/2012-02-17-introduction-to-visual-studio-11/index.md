@@ -23,6 +23,7 @@ aliasesArchive:
 - /introduction-to-visual-studio-11
 - /resources/blog/introduction-to-visual-studio-11
 tags:
+- Practical Techniques and Tooling
 - News and Reviews
 categories: []
 preview: nakedalm-experts-visual-studio-alm-2-2.png

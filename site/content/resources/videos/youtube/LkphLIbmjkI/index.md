@@ -31,19 +31,19 @@ tags:
 - Software Development
 - People and Process
 - Software Developers
-- Agile Project Management
 - Technical Leadership
-- Pragmatic Thinking
 - Agile Frameworks
+- Agile Project Management
 - Mentoring
 - Practical Techniques and Tooling
+- Agile Transformation
 - Team Collaboration
 resourceTypes:
 - video
 categories:
 - Social Technologies
 - DevOps
-- Engineering Excellence
+- Scrum
 
 ---
 ## Limits of Professional Coaching

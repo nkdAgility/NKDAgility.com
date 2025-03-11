@@ -27,19 +27,19 @@ aliasesArchive:
 - /blog/are-you-doing-scrum--really-
 - /resources/blog/are-you-doing-scrum-really
 tags:
-- Increment
+- Software Development
 - Agile Project Management
 - Scrum Product Development
 - Scrum Master
-- Scrum Team
-- Software Development
 - People and Process
 - Professional Scrum
 - Software Developers
 - Team Performance
+- Agile Frameworks
+- Agile Transformation
 categories:
-- Scrum
 - Social Technologies
+- Scrum
 preview: nakedalm-experts-professional-scrum-3-3.png
 
 ---

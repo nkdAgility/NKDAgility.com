@@ -28,20 +28,26 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-12T15:17:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T13:05:26",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses strategies for increasing deployment frequency through automation and CI/CD practices, highlighting the importance of reducing cycle time and improving feedback loops in the context of Agile and DevOps methodologies.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the importance of automation in improving deployment frequency, particularly through the Azure DevOps team's transition from infrequent to more frequent releases. It highlights strategies such as reducing cycle time, enhancing testing infrastructure, and automating processes, which are all directly related to optimising deployment intervals. The depth of discussion includes specific examples and metrics that illustrate the impact of these changes on deployment frequency and team confidence, aligning well with the core themes of the category.",
     "level": "Secondary"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T15:17:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:15:44",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 35,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of automation in reducing cycle time and improving the efficiency of work processes, which directly relates to throughput in Agile and DevOps contexts. It highlights techniques for measuring and optimising throughput, such as reducing testing times and improving deployment processes, making it a central theme.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses automation in the context of development processes, which indirectly relates to throughput by addressing cycle time and the efficiency of work completion. It highlights the importance of reducing cycle time and improving feedback loops, which are key aspects of throughput. However, while it touches on these themes, the primary focus is on automation rather than a direct exploration of throughput as a standalone concept. The depth of discussion on throughput-related metrics is present but not exhaustive, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Scrum Values": {
@@ -73,11 +79,14 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-12T15:17:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:04:30",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of automating testing processes, the transition from manual to automated testing, and the impact of test automation on development cycles and product quality. It provides specific examples related to test automation practices and frameworks, making it a central theme.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses automated testing as a crucial aspect of the development process, highlighting its importance in reducing cycle times and improving feedback loops. It aligns well with the principles of test automation, particularly in the context of CI/CD and the transformation of testing strategies. The depth of discussion is substantial, detailing specific practices and outcomes related to automation, although it does not delve deeply into specific frameworks or tools. Overall, the content is primarily focused on test automation, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Windows": {
@@ -109,11 +118,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T15:18:04",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T17:18:13",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses practical problem-solving strategies in the context of Agile and DevOps, focusing on automation, reducing cycle times, and improving testing infrastructure. It provides real-world examples and insights into how teams can adapt and enhance their processes, aligning closely with the principles of pragmatic thinking.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses practical applications of automation in development processes, aligning well with pragmatic thinking principles. It highlights real-world examples, such as the Azure DevOps team's transformation, and addresses practical problem-solving strategies, particularly in the context of Agile and DevOps. The depth of discussion on automation, technical debt, and empowering developers showcases a strong focus on experience-based problem-solving, making it a primary focus rather than a secondary mention.",
     "level": "Secondary"
   },
   "Employee Engagement": {

@@ -25,16 +25,16 @@ preview: https://i9.ytimg.com/vi/h3J11t10A0g/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 169
 isShort: false
 tags:
+- Software Development
 - Software Developers
 - Pragmatic Thinking
 - Technical Leadership
 - Agile Philosophy
 - Agile Project Management
 - Engineering Practices
-- Software Development
-- People and Process
+- Agile Transformation
 - Product Delivery
-- Complexity Thinking
+- Agile Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

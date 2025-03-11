@@ -30,17 +30,17 @@ aliasesArchive:
 tags:
 - Agile Product Management
 - Professional Scrum
+- Software Development
+- Agile Frameworks
 - Scrum Product Development
-- People and Process
 - Practical Techniques and Tooling
 - Product Delivery
+- People and Process
 - Agile Project Management
 - Backlog Refinement
-- Scrum Team
-- Team Collaboration
 categories:
-- Scrum
 - Social Technologies
+- Scrum
 preview: NKDAgility-technically-SprintRefignementBallance-6-6.jpg
 
 ---

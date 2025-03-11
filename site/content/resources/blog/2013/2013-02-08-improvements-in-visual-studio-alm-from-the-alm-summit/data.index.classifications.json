@@ -502,11 +502,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T20:35:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T18:03:01",
+    "ai_confidence": 72.0,
+    "ai_mentions": 65.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content discusses new features in Visual Studio ALM that enhance operational efficiency and integrates methodologies such as Kanban, emphasizing techniques that support process optimization and workflow management.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses various improvements in Visual Studio ALM that enhance operational practices, particularly through the implementation of Kanban systems, quality enablement improvements, and the introduction of tagging for work items. These elements align well with the core themes of operational efficiency and delivery within Agile and DevOps frameworks. The depth of discussion is substantial, providing specific examples of features that streamline processes and improve overall performance. However, while the content is focused on practical applications, it does not delve deeply into metrics or continuous improvement strategies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Scrum Team": {
@@ -601,11 +604,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T20:35:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:51:10",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses improvements in Visual Studio ALM, covering features related to version control (Git), test management, and Agile practices (Kanban), which are all central themes in software development.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily discusses improvements in Visual Studio ALM, focusing on features that enhance software development practices such as version control with Git, test management, and Kanban methodologies. It explicitly mentions tools and practices relevant to the Software Development Life Cycle, including Continuous Integration and Continuous Deployment, as well as Agile practices. The depth of discussion is substantial, providing detailed insights into specific features and their implications for software development processes.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -883,11 +889,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-15T20:35:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:01:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses improvements in Visual Studio ALM that enhance software quality and bug tracking, which is central to the delivery of functional and high-quality software. It emphasizes features related to test management and version control that align with ensuring working software.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses improvements in Visual Studio ALM, highlighting features that enhance software development processes, such as DVCS, test management, and Kanban swim lanes. While it touches on aspects of working software, such as quality enablement and iterative development, the primary focus is on tool features rather than the delivery of functional software that meets user needs. The discussion lacks depth in terms of customer feedback integration and specific metrics for assessing software quality.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {

@@ -24,8 +24,8 @@ aliasesArchive:
 - /resources/blog/move-your-active-directory-domain-to-another-server
 tags:
 - Windows
-- Install and Configuration
 - System Configuration
+- Install and Configuration
 - Troubleshooting
 categories: []
 preview: metro-server-instances_thumb-2-2.png

@@ -24,7 +24,6 @@ aliasesArchive:
 - /resources/blog/access-to-team-foundation-server
 tags:
 - Miscellaneous
-- Application Lifecycle Management
 categories: []
 
 ---

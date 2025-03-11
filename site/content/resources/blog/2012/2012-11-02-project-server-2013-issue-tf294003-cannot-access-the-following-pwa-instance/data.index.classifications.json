@@ -217,12 +217,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:01:55",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical issue related to Team Foundation Server and Project Server integration, providing a solution that involves changing service account permissions. However, it primarily focuses on troubleshooting rather than broader engineering practices or methodologies that enhance agility in software development.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily addresses a specific technical issue related to Team Foundation Server and Project Server integration, focusing on troubleshooting and permissions. While it does touch on technical practices, such as service account management, it lacks a broader discussion on engineering methodologies or principles that enhance agility and quality in software development. The mention of permissions and service accounts is relevant but does not delve into the core themes of Technical Excellence, such as TDD, CI/CD, or modular architecture.",
+    "level": "Quaternary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -289,12 +292,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:51:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Server, which is part of the Azure DevOps suite, but primarily focuses on a specific error and its resolution rather than broader Azure DevOps functionalities or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses an issue related to Team Foundation Server (TFS) and Project Server integration, which are components of the Azure DevOps ecosystem. However, it does not explicitly mention Azure DevOps or its services, focusing instead on a specific error and its resolution. While there is some conceptual alignment with Azure DevOps functionalities, the depth of discussion is limited to a specific problem rather than a broader exploration of Azure DevOps practices or methodologies.",
+    "level": "Quaternary"
   },
   "Personal": {
     "category": "Personal",
@@ -379,12 +385,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:03:37",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical issue related to Team Foundation Server and Project Server integration, providing a solution that involves understanding service accounts and permissions, which aligns with technical practices. However, it primarily focuses on troubleshooting rather than broader software craftsmanship principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily addresses a specific technical issue related to Team Foundation Server and Project Server integration, which is relevant to software engineering practices. However, it lacks a broader discussion on best practices, principles, or methodologies that contribute to technical mastery. While it does provide a solution to a technical problem, the depth of discussion is limited to troubleshooting and does not explore the underlying principles of software craftsmanship or architecture.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",

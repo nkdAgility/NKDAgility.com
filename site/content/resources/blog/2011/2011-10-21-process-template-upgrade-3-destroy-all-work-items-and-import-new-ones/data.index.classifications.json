@@ -499,11 +499,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T22:41:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:06:39",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical steps for upgrading a process template in a team project, which includes techniques for managing queries, reports, and work item types. These activities align with process optimization and practical application in an Agile or Lean context.",
+    "final_score": 70.0,
+    "reasoning": "The content provides a detailed guide on upgrading a process template in a Team Foundation Server (TFS) environment, which directly relates to operational practices in Agile and DevOps contexts. It discusses specific steps for managing work items, queries, and reports, which are essential for optimising workflows and improving operational efficiency. The mention of command line tools and the importance of maintaining data integrity during the upgrade process further aligns with the category's focus on practical applications and continuous improvement. However, while the content is rich in detail, it could benefit from a more explicit connection to broader operational strategies or metrics, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Scrum Team": {
@@ -661,11 +664,14 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-15T22:41:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T18:07:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily details the process of upgrading process templates in the context of Azure Boards, including managing work item types and fixing queries and reports, which aligns with the functionalities discussed in Azure Boards.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the process of upgrading a process template in Azure DevOps, which includes managing work items and queries. While it touches on relevant aspects of Azure Boards, such as work item types and the importance of maintaining queries, it lacks a comprehensive exploration of Azure Boards' functionalities and best practices. The focus is more on the technical steps of upgrading rather than a broader discussion on Agile project management or team collaboration.",
     "level": "Secondary"
   },
   "Collaboration Tools": {
@@ -1177,11 +1183,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T22:41:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:56:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses steps for upgrading a process template while detailing potential issues and warnings, such as the loss of work items and the need to archive queries and reports. It provides methodologies for problem resolution in a technical context, particularly relating to the management of work items in a Team Project.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the process of upgrading a process template in TFS, which involves identifying and resolving potential issues related to data loss and system configuration. It discusses specific steps to take to avoid losing work items and how to manage queries and reports, which aligns well with troubleshooting methodologies. The depth of discussion is substantial, providing detailed commands and warnings, indicating a strong focus on practical problem-solving in a technical context.",
     "level": "Secondary"
   },
   "Experimentation": {

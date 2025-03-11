@@ -26,8 +26,8 @@ tags:
 - Software Development
 - Pragmatic Thinking
 - Application Lifecycle Management
-- Decision Making
 - Practical Techniques and Tooling
+- Decision Making
 - Technical Mastery
 - Azure DevOps
 categories:

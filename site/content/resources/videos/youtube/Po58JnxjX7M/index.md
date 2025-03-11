@@ -29,7 +29,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Leadership
 - People and Process
+- Agile Product Management
 - Pragmatic Thinking
 - Agile Project Management
 resourceTypes:

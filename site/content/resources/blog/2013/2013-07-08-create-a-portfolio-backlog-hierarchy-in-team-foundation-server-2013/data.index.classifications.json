@@ -472,11 +472,14 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-15T19:58:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:48:56",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the creation and management of a Portfolio Backlog hierarchy in Team Foundation Server 2013, which is relevant to Agile Planning practices, particularly in terms of customizing work item types and aligning project goals with Agile methodologies.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses creating a Portfolio Backlog hierarchy in Team Foundation Server, which relates to Agile Planning through the use of backlogs and work item types. However, it primarily focuses on technical implementation details rather than broader Agile Planning principles or methodologies. While it mentions backlogs and categorisation, it lacks depth in discussing Agile principles, techniques for aligning teams, or iterative planning strategies.",
     "level": "Secondary"
   },
   "Value Stream Mapping": {
@@ -598,20 +601,26 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T19:58:42",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-11T18:00:29",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "Content provides a detailed guide on creating a Portfolio Backlog hierarchy in Team Foundation Server 2013, discussing methodologies and specific configurations which pertain directly to software development practices.",
-    "level": "Primary"
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed guide on creating a Portfolio Backlog hierarchy in Team Foundation Server 2013, which directly relates to software development practices, particularly in Agile methodologies. It discusses specific steps, configurations, and coding examples that align with best practices in software engineering, such as custom work item types and process configurations. The depth of the discussion is significant, covering multiple aspects of the software development lifecycle, including version control and project management tools, thus justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T19:58:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:58:46",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses creating and managing a Portfolio Backlog in Team Foundation Server, which is central to agile project management practices.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses creating a Portfolio Backlog hierarchy in Team Foundation Server, which relates to agile project management practices, particularly in backlog management and customisation of work item types. However, it lacks a comprehensive exploration of agile principles, frameworks, or roles, focusing more on technical implementation rather than the broader agile methodologies.",
     "level": "Secondary"
   },
   "Agile Values and Principles": {

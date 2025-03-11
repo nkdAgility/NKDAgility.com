@@ -25,14 +25,14 @@ isShort: true
 tags:
 - Events and Presentations
 - People and Process
-- Professional Scrum
 - Scrum Master
-- Continuous Learning
 - Agile Frameworks
 - Agile Project Management
 - Agile Transformation
 - Coaching
 - Pragmatic Thinking
+- Software Development
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.4

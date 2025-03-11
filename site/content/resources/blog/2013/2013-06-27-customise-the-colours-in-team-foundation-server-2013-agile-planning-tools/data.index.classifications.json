@@ -451,12 +451,15 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:49:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "Content discusses customisation of work item colours related to Product Backlog Items, making it a relevant but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content briefly mentions 'Product Backlog Items' in the context of customising colours in Team Foundation Server, but it does not focus on the Product Backlog's definition, purpose, or management strategies. The discussion is primarily technical and centred around configuration rather than backlog management, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -1117,11 +1120,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:00:39",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses customizing colors in Team Foundation Server 2013, which involves Windows-related tools and scripts (WitAdmin and TFS) but focuses more on TFS and its functionalities than on the Windows operating system itself.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses customisation of Team Foundation Server (TFS), which is a Microsoft product that operates within the Windows environment. It includes specific commands and configurations relevant to Windows, such as the use of the 'witadmin.exe' tool and paths typical of Windows file systems. However, the primary focus is on TFS customisation rather than broader Windows operating system topics like installation, troubleshooting, or updates. While it does mention Windows-related tools and configurations, it does not delve deeply into the Windows OS itself, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Deployment Strategies": {
@@ -1216,12 +1222,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:58:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses customization of Agile Planning Tools in Microsoft's Team Foundation Server, which is relevant to software development practices and configurations used by software developers in an Agile context.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on customising colours in Team Foundation Server (TFS) Agile Planning Tools, which is a technical task related to software development. However, it lacks direct discussions on Agile methodologies, DevOps principles, or broader software development practices. While it touches on a specific tool used in Agile environments, it does not explore the role of software developers or the impact of Agile practices on productivity or collaboration, leading to a low confidence score in alignment with the category.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

@@ -592,11 +592,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T00:57:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:59:07",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses issues related to the upgrade and management of a Team Foundation Server (TFS) 2010 deployment, including specific hotfixes, commands for recovery, and the implications of schema versions, which are all relevant to software development practices and methodologies.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses a specific issue encountered during a software upgrade process involving Team Foundation Server (TFS) 2010. It provides detailed insights into the challenges faced, the commands used, and the implications of those commands on the software's functionality. While it does not explicitly mention broader software development methodologies or practices, it aligns well with the category through its focus on troubleshooting and problem-solving within a software development context. The depth of discussion is moderate, as it covers a real-world scenario but lacks extensive exploration of software development principles or frameworks.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1066,11 +1069,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T00:57:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:08:40",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses technical issues related to configuring and managing a Team Foundation Server (TFS) upgrade, including handling hotfixes, schema versions, and recovery commands which are central to system configuration challenges.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses the challenges and processes involved in configuring and upgrading a Team Foundation Server (TFS) environment, which directly aligns with system configuration. It details specific hotfixes, troubleshooting steps, and commands used to recover and reattach databases, demonstrating a strong focus on practical configuration issues. The depth of discussion includes specific commands and their implications, as well as the consequences of misconfiguration, which adds to the overall relevance to the category.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1177,12 +1183,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T00:57:51",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-11T18:10:06",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "The content focuses on diagnosing and resolving specific problems encountered during the upgrade of TFS 2010, detailing troubleshooting steps, issues faced, and solutions applied, making troubleshooting the central theme.",
-    "level": "Primary"
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed account of troubleshooting issues encountered during a TFS 2010 upgrade, including specific problems, attempted solutions, and expert advice. It discusses techniques for diagnosing and resolving technical issues, aligning well with the core themes of the Troubleshooting category. The depth of discussion is significant, as it covers multiple aspects of the problem and the resolution process, making it a primary focus of the content.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",

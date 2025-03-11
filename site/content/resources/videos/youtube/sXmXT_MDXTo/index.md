@@ -31,14 +31,14 @@ sitemap:
 tags:
 - Software Development
 - Pragmatic Thinking
-- Deployment Frequency
 - Deployment Strategies
-- Operational Practices
+- Value Delivery
+- Software Developers
 - People and Process
 - Product Delivery
-- Software Developers
+- Operational Practices
 - Technical Mastery
-- Value Delivery
+- Practical Techniques and Tooling
 resourceTypes:
 - video
 categories:

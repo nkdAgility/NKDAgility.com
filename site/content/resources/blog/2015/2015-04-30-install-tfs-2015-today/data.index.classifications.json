@@ -244,11 +244,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-11T16:42:55",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2015, which is more about software setup than the methodologies and practices involved in delivering usable software products. While it touches on aspects of product delivery, such as upgrading and configuring a server, it does not delve into the broader themes of planning, testing, or deployment strategies.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2015, which is more about software setup than the methodologies and practices of product delivery. While it touches on aspects of deployment and configuration, it lacks a comprehensive discussion on product delivery principles such as Agile methodologies, iterative development, or cross-functional team roles. The depth of discussion is limited to technical steps rather than strategic insights into delivering software products effectively.",
     "level": "Quaternary"
   },
   "Beta Codex": {
@@ -964,11 +967,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-11T17:55:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2015, with some mention of upgrading from previous versions. However, it lacks a central discussion on release management strategies, practices, or processes.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2015, which is more about setup than the strategic aspects of release management. While it touches on upgrading and some operational considerations, it lacks a comprehensive discussion on release planning, scheduling, or coordination with stakeholders, which are key elements of release management. Therefore, it only partially aligns with the category.",
     "level": "Quaternary"
   },
   "Product Owner": {
@@ -1222,12 +1228,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:53:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the installation and configuration of TFS 2015, which is relevant to software developers, but it does not focus on Agile or DevOps methodologies. It touches on tools used by developers but lacks a central theme related to the role of developers in Agile or DevOps contexts.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2015, which is a tool relevant to software developers. However, it lacks a direct discussion on Agile or DevOps methodologies, which are central to the category. While it mentions some operational aspects that could relate to developer practices, it does not delve into best practices, team dynamics, or collaboration strategies that are essential to the Software Developers category. Therefore, while there are mentions of relevant tools, the overall alignment and depth of discussion do not strongly support the category.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

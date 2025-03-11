@@ -26,6 +26,7 @@ duration: 268
 isShort: false
 tags:
 - People and Process
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.4

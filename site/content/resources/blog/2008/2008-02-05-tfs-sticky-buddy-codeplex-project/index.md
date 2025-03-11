@@ -23,10 +23,10 @@ aliasesArchive:
 - /tfs-sticky-buddy-codeplex-project
 - /resources/blog/tfs-sticky-buddy-codeplex-project
 tags:
-- Software Development
-- Transparency
 - Practical Techniques and Tooling
+- Software Development
 - Collaboration Tools
+- Transparency
 - Application Lifecycle Management
 - Team Collaboration
 categories:

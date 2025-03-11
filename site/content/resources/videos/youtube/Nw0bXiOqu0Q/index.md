@@ -28,16 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Business Agility
 - Organisational Agility
+- Value Delivery
+- Market Adaptability
 - Agile Project Management
 - Empirical Process Control
-- Market Adaptability
 - People and Process
 - Agile Values and Principles
-- Business Agility
 - Change Management
 - Continuous Learning
-- Hypothesis Driven Development
 resourceTypes:
 - video
 categories:

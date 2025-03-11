@@ -322,11 +322,14 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-12T13:53:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T13:09:41",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses Cycle Time as one of the mandatory flow measures in the context of Kanban, highlighting its definition, importance, and relationship with other metrics. While the primary focus is on Kanban practices, Cycle Time is a significant theme throughout the document.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses Cycle Time explicitly as one of the mandatory flow measures in a Kanban system, detailing its definition and importance. It aligns well with the core themes of the category by explaining how Cycle Time relates to workflow efficiency and the overall Kanban practices. However, while it provides a good level of detail, the primary focus is on Kanban as a whole rather than exclusively on Cycle Time, which slightly lowers the depth of discussion specific to Cycle Time.",
     "level": "Secondary"
   },
   "Engineering Practices": {
@@ -349,11 +352,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T13:53:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:19:54",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses Kanban as a methodology for optimising workflows in software development, detailing its practices, principles, and relevance to value delivery in software projects.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a comprehensive overview of Kanban, a methodology closely related to software development practices. It discusses key concepts such as workflow visualization, work item management, and continuous improvement, all of which are integral to software development methodologies. The depth of discussion on Kanban practices and their application in various contexts, including software, further solidifies its relevance to the Software Development category.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -370,12 +376,15 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T13:53:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:08:57",
+    "ai_confidence": 85.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses Kanban practices, which include a significant focus on optimizing flow and measuring throughput as a key metric in the Kanban system. It elaborates on the definition of throughput, its measurement, and its importance in the context of workflow management.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content explicitly discusses throughput as a key metric within the context of Kanban, detailing its definition and significance. It aligns well with the core themes of the category by focusing on the measurement of work items completed over time and the importance of optimising workflows. The depth of discussion is substantial, covering various aspects of throughput, including its relationship with other metrics and the practices that can enhance it.",
+    "level": "Primary"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -586,11 +595,14 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T13:54:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:22:09",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses Kanban, which is a key agile framework, detailing its practices, principles, and application in project management.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a comprehensive overview of Kanban, a key framework within Agile Project Management. It discusses Kanban practices, principles, and metrics, aligning well with the core themes of agile methodologies. The depth of discussion on workflow management, continuous improvement, and value delivery indicates a strong focus on agile principles, although it does not explicitly mention the Agile Manifesto or other agile frameworks like Scrum. Overall, the content is highly relevant to Agile Project Management.",
     "level": "Secondary"
   },
   "Continuous Integration": {

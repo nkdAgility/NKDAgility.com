@@ -28,6 +28,7 @@ aliasesArchive:
 - /resources/blog/sharepoint-3-0-tfs-sub-site-creation-error
 tags:
 - Troubleshooting
+- Windows
 - Install and Configuration
 - Software Development
 preview: metro-visual-studio-2005-128-link-1-1.png

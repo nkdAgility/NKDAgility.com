@@ -871,12 +871,15 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T09:13:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:06:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the release of CTP 2 and mentions previous releases, indicating a focus on software delivery but lacks a deep exploration into the principles or practices of frequent releases.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the release of CTP 2 of the TFS Event Handler, indicating a focus on software delivery. However, it lacks a detailed exploration of continuous delivery principles, automation techniques, or strategies for user feedback integration. While it mentions the release process and acknowledges the need for updates and bug fixes, it does not provide in-depth insights into the broader practices of frequent releases or the role of DevOps, which limits its alignment with the category.",
+    "level": "Quaternary"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -1051,12 +1054,15 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-17T09:13:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:16:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions the desire for feedback on the application and reflects on the lack of received feedback from users, indicating a secondary theme related to feedback loops.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content briefly mentions the need for feedback on the application, indicating an awareness of customer feedback loops. However, it lacks a detailed exploration of mechanisms for collecting or integrating feedback into the product development process, which is essential for a higher confidence score. The discussion is primarily focused on the release of a software version rather than the practices surrounding customer feedback.",
+    "level": "Quaternary"
   },
   "Strategy": {
     "category": "Strategy",

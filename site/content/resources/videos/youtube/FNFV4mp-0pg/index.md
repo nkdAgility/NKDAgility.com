@@ -26,6 +26,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Team Performance
+- Professional Scrum
+- Software Development
 - Agile Leadership
 - Agile Project Management
 - Scrum Team
@@ -33,9 +36,6 @@ tags:
 - Agile Frameworks
 - Agile Transformation
 - People and Process
-- Professional Scrum
-- Team Motivation
-- Team Performance
 resourceTypes:
 - video
 categories:

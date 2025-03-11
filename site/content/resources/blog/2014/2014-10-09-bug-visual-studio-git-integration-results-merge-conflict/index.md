@@ -29,8 +29,8 @@ aliasesArchive:
 tags:
 - Troubleshooting
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
 preview: naked-alm-git-2-2.png
 
 ---

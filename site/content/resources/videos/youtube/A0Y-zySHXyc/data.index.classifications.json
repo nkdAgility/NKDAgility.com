@@ -184,12 +184,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-12T09:54:33",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T14:33:10",
+    "ai_confidence": 42.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the barriers to accepting a Product Owner's authority, highlighting issues of respect, accountability, and leadership dynamics within the team. While it primarily focuses on the challenges faced by developers in relation to the Product Owner, it touches on cultural aspects that influence team dynamics and collaboration, making it a significant but secondary theme.",
-    "level": "Secondary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the relationship dynamics between developers and Product Owners, focusing on accountability and trust, which are cultural elements influencing team collaboration. However, it primarily centres on interpersonal relationships and decision-making rather than a broader examination of organisational culture as a whole. While it touches on aspects of culture, such as open communication and support for authority, it lacks a comprehensive exploration of how these elements impact agility and transformation within the organisation.",
+    "level": "Quaternary"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -292,11 +295,14 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-12T09:54:50",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the dynamics of respect and authority within Agile teams, specifically focusing on the role of the Product Owner and the impact of team interactions on collaboration and decision-making.",
+    "calculated_at": "2025-03-11T16:22:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the dynamics between developers and Product Owners, focusing on accountability, trust, and communication, which are essential for effective team collaboration. It provides detailed insights into barriers that affect collaboration and offers strategies to improve the relationship, aligning well with the core themes of the category. However, while it touches on collaboration, it primarily centres on the challenges faced by individuals rather than broader team dynamics, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Customer Satisfaction": {
@@ -409,11 +415,14 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-12T09:55:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:35:25",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the challenges faced by Product Owners in gaining respect and authority within their teams, which aligns closely with the responsibilities and stakeholder engagement aspects of the Product Owner role.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on the relationship between developers and Product Owners, discussing the challenges faced by Product Owners in maintaining authority and accountability. It explicitly mentions the Product Owner's role and the impact of stakeholder behaviour on their effectiveness. However, while it addresses key aspects of the Product Owner's responsibilities, it does not delve deeply into specific techniques for backlog management or prioritisation strategies, which slightly limits the depth of discussion. Overall, the content aligns well with the category, but it could benefit from a more comprehensive exploration of the Product Owner's practices.",
     "level": "Secondary"
   },
   "Change Management": {

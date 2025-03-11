@@ -496,11 +496,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T10:42:28",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T17:57:38",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses a process for migrating TFS process templates, which involves several operational practices such as process optimization, customization, and workflow management. The step-by-step guide reflects practical applications relevant to operational efficiency within Agile methodologies.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific operational practice related to migrating TFS process templates, which aligns with the category's focus on enhancing operational efficiency. It provides a step-by-step guide that includes practical techniques for process optimisation and workflow management. However, while it touches on relevant topics, the depth of discussion on broader operational strategies and metrics is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Scrum Team": {
@@ -595,11 +598,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T10:42:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:45:36",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the migration of TFS process templates, which involves methodologies and practices related to the software development lifecycle, specifically within the context of Agile practices and customization of development tools.",
+    "final_score": 80.0,
+    "reasoning": "The content provides a detailed guide on migrating TFS process templates, which is a specific software development practice. It discusses methodologies related to Agile and Scrum, outlines steps for implementation, and includes code snippets that demonstrate practical application. The focus on process templates, customisation, and the use of tools like witadmin aligns closely with software development practices, particularly in the context of version control and project management.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1069,11 +1075,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T10:42:28",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T14:55:53",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses the process of migrating and configuring TFS process templates, covering key topics such as configuration management, customization, and methodology for setting up system templates, which align closely with system configuration principles.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on the process of migrating TFS process templates, which involves detailed steps for configuring and managing system settings. It discusses best practices for template selection, customisation, and data migration, aligning well with system configuration principles. The depth of technical detail, including specific commands and scripts, supports a strong alignment with the category, although some sections could be seen as tangentially related to broader software development practices.",
     "level": "Secondary"
   },
   "Product Strategy": {

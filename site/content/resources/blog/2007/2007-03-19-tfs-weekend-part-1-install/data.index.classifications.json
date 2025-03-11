@@ -385,12 +385,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T11:46:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:10:56",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation of TFS (Team Foundation Server), which is related to the Windows operating environment, and mentions issues such as permissions and server management within that context.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the installation of TFS (Team Foundation Server), which is a Microsoft product that typically runs on Windows servers. However, the focus is primarily on the personal experience of the author rather than detailed guidance on Windows installation or configuration. While there are mentions of permissions and server ownership, the discussion lacks depth in terms of Windows-specific troubleshooting or performance optimisation. Overall, the content aligns with the Windows category but does not provide comprehensive insights or detailed procedures, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -466,12 +469,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T11:46:34",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T15:21:35",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the installation process of TFS, which relates to system configuration. However, it mainly focuses on personal experiences and challenges rather than best practices or methodologies, making it a secondary theme.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses the installation of TFS, which is a specific aspect of system configuration. However, it lacks detailed exploration of best practices or methodologies for configuration management. The mention of permission issues and external SSL hints at configuration challenges but does not delve deeply into troubleshooting or optimisation strategies. Overall, while the topic is relevant, the depth and breadth of discussion are limited.",
+    "level": "Tertiary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",

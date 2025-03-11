@@ -349,12 +349,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T20:48:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:37:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum in the context of team training and organisational context, indicating a secondary theme of agility but primarily focuses on team-level practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Scrum practices and the benefits of an APS course, which are team-level discussions rather than organisational agility. While it briefly touches on integrating Scrum within an organisational context, it lacks a comprehensive exploration of enterprise agility principles such as scaling frameworks, organisational structures, or leadership roles. Therefore, it does not align well with the core themes of Enterprise Agility.",
+    "level": "Quaternary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -367,11 +370,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T20:48:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:27:01",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding Scrum and its implementation within teams, which relates to technical leadership in guiding teams through agile methodologies. However, it primarily focuses on training rather than broader leadership principles.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on promoting an APS course for mastering Scrum practices, which is related to agile methodologies. However, it lacks a direct discussion on technical leadership principles, mentoring, or team dynamics. While it touches on the importance of understanding Scrum, it does not delve deeply into how technical leadership can influence these areas or provide strategies for fostering collaboration and continuous improvement.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
@@ -385,12 +391,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T20:48:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:39:45",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the importance of understanding Scrum and training teams, which relates to the Scrum Master role but is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of APS courses in mastering Scrum practices, which is relevant to the role of a Scrum Master. It mentions the need for teams to understand Scrum and provides insights into training and alignment, which are key responsibilities of a Scrum Master. However, it lacks detailed exploration of specific Scrum Master techniques or practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",

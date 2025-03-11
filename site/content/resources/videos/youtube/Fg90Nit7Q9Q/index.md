@@ -2,7 +2,7 @@
 title: Can you align DevOps and Software Engineering Teams Through Scrum?
 description: Discover how Scrum can bridge the gap between DevOps and Software Engineering teams for better collaboration and delivery in this insightful short video!
 date: 2023-06-16T14:30:05Z
-weight: 470
+weight: 395
 ResourceId: Fg90Nit7Q9Q
 ResourceType: videos
 ResourceImport: true
@@ -26,16 +26,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Project Management
 - Software Developers
 - Software Development
 - Working Software
-- Agile Project Management
 - Pragmatic Thinking
-- People and Process
 - Product Delivery
+- People and Process
 - Agile Frameworks
 - Value Delivery
-- Professional Scrum
+- Transparency and Accountability
 resourceTypes:
 - video
 categories:

@@ -26,12 +26,9 @@ tags:
 - Software Development
 - Practical Techniques and Tooling
 - Application Lifecycle Management
-- Operational Practices
 - Install and Configuration
 - Modern Source Control
 - Azure DevOps
-- System Configuration
-- Software Developers
 categories: []
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 

@@ -33,6 +33,7 @@ tags:
 - Product Owner
 - Value Delivery
 - Agile Project Management
+- Agile Transformation
 - People and Process
 resourceTypes:
 - video

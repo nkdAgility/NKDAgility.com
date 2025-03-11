@@ -30,15 +30,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Value Delivery
-- Agile Product Management
-- Customer Feedback Loops
-- Agile Values and Principles
-- Working Software
-- Agile Philosophy
-- Agile Project Management
-- Agile Transformation
-- Discovery and Learning
 - Product Delivery
 resourceTypes:
 - video

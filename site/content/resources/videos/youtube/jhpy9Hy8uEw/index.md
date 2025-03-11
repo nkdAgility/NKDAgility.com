@@ -36,6 +36,7 @@ tags:
 - Agile Project Management
 - Software Developers
 - Continuous Learning
+- Agile Product Management
 resourceTypes:
 - video
 categories:

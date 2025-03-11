@@ -598,11 +598,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T21:25:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:06:01",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses IntelliTrace and Test Impact Analysis, which are relevant to software testing and debugging practices within the software development lifecycle.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses IntelliTrace and Test Impact Analysis, which are tools relevant to software development practices, particularly in debugging and regression testing. It aligns with the themes of automated testing and Agile methodologies, but lacks extensive detail on broader software development methodologies or practices. The focus is primarily on specific tools rather than a comprehensive discussion of software development processes.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1177,11 +1180,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T21:26:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:56:05",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses techniques for diagnosing and resolving bugs using IntelliTrace and Test Impact Analysis, which are directly related to troubleshooting in software development.",
+    "final_score": 70.0,
+    "reasoning": "The content explicitly discusses tools like IntelliTrace and Test Impact Analysis that are designed to help diagnose and resolve bugs, which aligns well with the troubleshooting category. It provides specific goals related to eliminating bugs and prioritising regression testing, indicating a focus on problem-solving. However, while the content is detailed, it primarily serves as an overview rather than an in-depth troubleshooting guide, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -1222,11 +1228,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:07:19",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses tools and practices relevant to software developers, particularly in the context of Agile environments, but it primarily focuses on specific features of Visual Studio rather than broader Agile or DevOps methodologies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses IntelliTrace and Test Impact Analysis, which are tools relevant to software developers, particularly in Agile environments. It mentions the need for faster bug resolution and prioritisation in regression testing, aligning with Agile principles. However, the discussion lacks depth on broader Agile and DevOps methodologies and does not explicitly explore the role of developers in these contexts, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Coaching": {

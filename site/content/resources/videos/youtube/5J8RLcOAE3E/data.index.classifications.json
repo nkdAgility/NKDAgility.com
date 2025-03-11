@@ -463,11 +463,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-12T14:59:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T13:05:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practices and philosophies that enhance continuous delivery and operational efficiency within complex systems, aligning well with the principles of Agile and DevOps methodologies.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the inadequacy of 'best practices' in complex environments and promotes the idea of 'adequate practices' tailored to specific situations. It aligns with operational practices by exploring audience-based deployment strategies and the importance of continuous delivery, which are relevant to enhancing operational efficiency. However, the focus on philosophical discussions rather than concrete operational techniques and metrics limits the depth of practical application, resulting in a moderately high confidence score.",
     "level": "Secondary"
   },
   "Decision Making": {
@@ -481,11 +484,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-12T14:59:56",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses practices and philosophies related to continuous delivery and quality in software development, which are central to the concept of working software. It addresses the importance of delivering functional software that meets user needs and the iterative processes involved in achieving this.",
+    "calculated_at": "2025-03-11T14:15:31",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 36,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content discusses continuous delivery and practices that enhance software quality, which aligns well with the principles of working software. It explicitly mentions audience-based delivery and testing in production, both of which are crucial for delivering functional software. The depth of discussion on adapting practices to complex environments and the emphasis on continuous improvement further solidify its relevance to the category.",
     "level": "Secondary"
   },
   "Sprint Review": {
@@ -652,11 +658,14 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-12T15:00:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:04:17",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practices and philosophies that enable continuous delivery and audience-based deployment strategies, which are central to the concept of frequent releases. It elaborates on the importance of delivering updates quickly and efficiently while maintaining quality, aligning well with the principles of frequent releases.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses continuous delivery and practices that enhance the release process, such as audience-based delivery and testing in production, which are directly related to frequent releases. It provides a detailed exploration of these concepts, aligning well with the principles of continuous delivery and the need for incremental improvements. However, it does not explicitly focus on the frequency of releases as a primary theme, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Agile Philosophy": {
@@ -724,11 +733,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-12T15:01:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:18:01",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practices and philosophies related to continuous delivery, quality assurance, and software architecture, which are central to technical mastery in software development.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses various practices related to continuous delivery, which aligns with the principles of software craftsmanship and engineering excellence. It explicitly mentions the inadequacy of 'best practices' in complex environments and instead focuses on tailored practices, which is a key aspect of technical mastery. The depth of discussion on audience-based delivery, testing in production, and the philosophy of continuous improvement demonstrates a strong understanding of technical principles. However, while it touches on important topics, it does not delve deeply into specific methodologies or tools, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Transparency": {

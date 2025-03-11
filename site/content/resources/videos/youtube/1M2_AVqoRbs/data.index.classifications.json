@@ -10,12 +10,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T12:02:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:06:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivering value and the implications of technical debt, which relates to strategic approaches in Agile environments, but it is not primarily focused on strategy itself.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the management of technical debt within Agile frameworks, highlighting its impact on team performance and delivery processes. It aligns with strategic themes by emphasising the importance of prioritising high-quality product delivery and fostering a culture of innovation. The depth of discussion includes specific strategies for managing technical debt, which contributes to a higher confidence score. However, while it touches on Agile principles, the primary focus is on technical debt rather than broader strategic alignment, which slightly lowers the overall confidence.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -790,11 +793,14 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T12:02:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T13:07:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivering a high-quality, usable product on a regular cadence, which aligns with the principles of frequent releases, but it primarily focuses on the concept of technical debt and its implications for innovation and value delivery.",
+    "final_score": 56.0,
+    "reasoning": "The content briefly mentions the importance of having a high-quality, usable product delivered on a regular cadence, which aligns with the principles of frequent releases. However, it lacks explicit discussions on continuous delivery, deployment techniques, or detailed strategies for incremental improvements. The focus is more on the concept of technical debt rather than the specific practices and metrics associated with frequent releases.",
     "level": "Tertiary"
   },
   "Test Driven Development": {
@@ -1078,12 +1084,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T12:02:07",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of delivering a high-quality, usable product regularly, which aligns with product delivery principles, but it primarily focuses on the concept of technical debt and its implications rather than the methodologies and practices of product delivery itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-11T14:17:23",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the impact of technical debt on product delivery, highlighting how it affects maintenance costs, delivery speed, and team morale. It aligns well with the core themes of product delivery by emphasising the importance of delivering a high-quality product and incorporating strategies for managing technical debt within the development process. The depth of discussion on strategies and the cultural mindset needed for effective product delivery further supports a strong alignment with the category.",
+    "level": "Secondary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -1192,12 +1201,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T12:02:07",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivering a high-quality product regularly, which aligns with the principles of agility and responsiveness, but it primarily focuses on technical debt rather than organisational agility as a central theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-11T17:19:48",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 65.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of maintaining a high-quality product and how it enhances organisational agility, which aligns well with the core themes of the category. It mentions strategies for managing technical debt that contribute to agility, such as incorporating refactoring into sprints and fostering open communication. However, while it touches on agility, the primary focus is on technical debt rather than a comprehensive exploration of organisational agility principles and practices.",
+    "level": "Secondary"
   },
   "Lean": {
     "category": "Lean",

@@ -277,11 +277,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-14T22:59:48",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T14:52:54",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content primarily discusses new Release Management tools related to DevOps and their applications, which aligns with the discussion on tools that facilitate DevOps practices.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses new Release Management tools from Microsoft, focusing on their capabilities and integration with DevOps practices. There are direct mentions of the tools and their functionalities, which aligns with the category's focus on software products. However, while the discussion is detailed regarding the tools, it lacks a broader analysis or review aspect typical of the 'Products and Books' category, such as comparisons or recommendations. Therefore, while the content is relevant, it does not fully meet the depth and conceptual alignment expected for a higher confidence score.",
     "level": "Secondary"
   },
   "Value Delivery": {
@@ -295,11 +298,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-14T22:59:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:42:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses the new Release Management tools in the context of Azure DevOps (formerly VSTS), focusing on building release pipelines, integration, and orchestration, making Azure DevOps a clear primary topic.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses Azure DevOps tools, specifically focusing on Release Management and the capabilities of VSTS (Visual Studio Team Services). It provides insights into building release pipelines and the flexibility of integrating various tools, which aligns well with Azure DevOps functionalities. However, while it mentions Azure and DevOps concepts, it does not delve deeply into specific methodologies or best practices, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -1222,11 +1228,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-15T08:56:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:54:52",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses DevOps practices, specifically focusing on Release Management tools and their integration for software deployment, which aligns with the role of software developers in an Agile and DevOps context.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses DevOps and Release Management tools, which are directly relevant to software developers. It highlights the importance of building reliable release pipelines and the flexibility of using various tools, aligning well with modern engineering practices. The depth of discussion on orchestration and integration of tools indicates a strong understanding of the developer's role in these processes, although it lacks explicit mention of Agile methodologies or team dynamics.",
     "level": "Secondary"
   },
   "Coaching": {

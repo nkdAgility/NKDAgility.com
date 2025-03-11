@@ -23,12 +23,12 @@ aliasesArchive:
 - /creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
 - /resources/blog/creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
 tags:
-- Install and Configuration
-- Practical Techniques and Tooling
-- Software Development
 - System Configuration
-- Windows
 - Troubleshooting
+- Practical Techniques and Tooling
+- Install and Configuration
+- Windows
+- Software Development
 - Pragmatic Thinking
 categories: []
 

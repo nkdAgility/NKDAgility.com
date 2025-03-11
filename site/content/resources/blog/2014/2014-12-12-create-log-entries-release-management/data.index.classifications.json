@@ -799,11 +799,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-14T23:32:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:53:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses practical problem-solving strategies related to creating log entries in Release Management, highlighting real-world applications and challenges faced during the process, which aligns with the principles of Pragmatic Thinking.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses practical problem-solving techniques related to creating log entries in Release Management, which aligns with the category's focus on real-world applications of DevOps principles. It provides specific examples of issues encountered and solutions implemented, demonstrating adaptability and critical thinking in a complex environment. However, while it touches on relevant themes, the primary focus is more on personal experiences and technical details rather than a broader discussion of pragmatic thinking strategies in Agile or Scrum contexts.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -970,11 +973,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-14T23:33:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:43:57",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the challenges and solutions related to creating log entries in the context of Release Management, specifically focusing on deployment scripts and logging outputs, which are central to the release process.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses specific challenges and solutions related to creating log entries in the context of Release Management, which aligns with the category's focus. However, while it touches on relevant practices, such as logging during deployment, it lacks a broader discussion on release strategies, scheduling, or coordination with stakeholders, which limits its depth and overall alignment with the core themes of Release Management.",
     "level": "Secondary"
   },
   "Product Owner": {
@@ -997,11 +1003,14 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-14T23:33:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:55:54",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 35,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the creation of log entries in Release Management, which is a component of Azure Pipelines, and includes specific examples and issues related to deployment scripts and logging within the context of Azure DevOps.",
+    "final_score": 68.0,
+    "reasoning": "The content discusses creating log entries in Release Management, which is a component of Azure Pipelines. It provides specific examples of scripting within the context of deployment and logging, indicating a focus on the practical aspects of managing a release pipeline. While it does not cover all aspects of Azure Pipelines, it aligns well with the category's themes of configuration and management of release processes, thus justifying a moderate to high confidence score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {

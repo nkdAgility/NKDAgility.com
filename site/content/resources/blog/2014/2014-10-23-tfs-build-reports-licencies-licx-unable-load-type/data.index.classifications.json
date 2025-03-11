@@ -898,11 +898,14 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-15T00:10:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:54:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses challenges and solutions related to setting up a Continuous Integration build server, including issues with dependencies and configuration, which are central to CI practices.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses issues related to setting up a build server and the challenges faced during the build process, which are relevant to Continuous Integration. However, while it mentions the need for a CI build and touches on the importance of resolving build errors, it lacks a comprehensive exploration of CI principles, best practices, or tools. The focus is more on specific technical problems rather than a broader discussion of CI concepts, which limits its depth and alignment with the category.",
     "level": "Secondary"
   },
   "Market Share": {
@@ -970,11 +973,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-15T00:10:49",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T16:44:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses issues related to configuring a build server and resolving build errors, which are relevant to release management practices. However, it primarily focuses on specific technical challenges rather than broader release management strategies.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses issues related to configuring a build server and resolving errors during the build process, which are relevant to release management. However, it primarily focuses on specific technical challenges rather than broader strategies or practices of release management. While it touches on CI practices and the importance of a successful build, it lacks a comprehensive exploration of release planning, scheduling, or coordination among stakeholders, which are key aspects of the category.",
     "level": "Secondary"
   },
   "Product Owner": {
@@ -1069,11 +1075,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T00:11:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:56:23",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration of a build server, installation of necessary components, and troubleshooting related to system setup, which aligns well with the category of System Configuration.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the challenges and processes involved in configuring a build server for a software project, which aligns closely with the category of System Configuration. It explicitly mentions the configuration of a build server, installation of necessary components, and troubleshooting issues related to system setup. The depth of discussion includes specific errors encountered during the build process and the need for proper version management, which are critical aspects of system configuration. Overall, the content is focused on practicalities of configuring systems, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {

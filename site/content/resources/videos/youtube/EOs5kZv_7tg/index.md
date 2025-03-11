@@ -2,7 +2,7 @@
 title: Why is Johanna a great teacher for the Professional Agile Leadership - Essentials course?
 description: Discover why Joanna Plaskonka is the ideal guide for the Professional Agile Leadership Essentials course, empowering leaders to embrace agile transformation!
 date: 2023-07-26T04:03:17Z
-weight: 770
+weight: 785
 ResourceId: EOs5kZv_7tg
 ResourceType: videos
 ResourceImport: true
@@ -31,6 +31,7 @@ sitemap:
 tags:
 - People and Process
 - Agile Leadership
+- Organisational Agility
 - Agile Strategy
 resourceTypes:
 - video

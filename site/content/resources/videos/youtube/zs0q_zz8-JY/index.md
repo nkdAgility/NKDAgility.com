@@ -25,12 +25,14 @@ preview: https://i.ytimg.com/vi/zs0q_zz8-JY/maxresdefault.jpg
 duration: 46
 isShort: true
 tags:
-- People and Process
 - Scrum Master
+- People and Process
 - Agile Project Management
 - Scrum Team
 - Agile Leadership
+- Agile Product Management
 - Technical Leadership
+- Organisational Agility
 - Team Collaboration
 sitemap:
   filename: sitemap.xml

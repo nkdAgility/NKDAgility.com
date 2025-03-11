@@ -496,12 +496,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-16T10:29:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:01:43",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the troubleshooting and configuration of Team Foundation Build Server to effectively build a Silverlight application, which aligns with operational practices in managing and optimizing build processes and workflows.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses specific technical issues related to building a Silverlight application using Team Foundation Build Services, which touches on operational practices in a DevOps context. However, it primarily focuses on troubleshooting and technical fixes rather than broader operational strategies or methodologies. While there are mentions of build processes and configurations, the depth of discussion on optimising operational efficiency is limited.",
+    "level": "Tertiary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -595,11 +598,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T10:29:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:11:08",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses issues and solutions related to building a Silverlight application on Team Foundation Build Services, including specific software development processes and practices.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed account of troubleshooting issues related to building a Silverlight application using Team Foundation Build Services 2010. It discusses specific problems encountered during the build process, solutions implemented, and the necessary configurations for successful builds. This aligns closely with software development practices, particularly in the context of CI/CD and version control systems. The depth of discussion on build configurations and troubleshooting reflects a strong focus on software engineering methodologies.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1069,11 +1075,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T10:29:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T18:12:44",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses issues related to configuring a build server for the Silverlight application in Team Foundation Build Services, detailing the installation of SDKs and environment settings, which aligns well with system configuration practices.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the configuration issues encountered while setting up a build server for a Silverlight application using Team Foundation Build Services 2010. It explicitly mentions the need to install specific SDKs and adjust settings to resolve build failures, which aligns well with the category of System Configuration. The depth of discussion includes troubleshooting steps and solutions, indicating a strong focus on practical configuration challenges. However, while the content is relevant, it also touches on project management aspects, which slightly detracts from its alignment with the strict definition of System Configuration.",
     "level": "Secondary"
   },
   "Product Strategy": {

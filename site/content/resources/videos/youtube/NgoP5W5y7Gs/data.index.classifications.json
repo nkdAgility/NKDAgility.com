@@ -280,12 +280,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T12:01:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T13:06:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of team involvement in security practices and the need for shared ownership of security responsibilities among team members, which aligns with the theme of collaboration. However, the primary focus is on security practices rather than team dynamics or collaboration techniques.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of security in software development and mentions the role of team members in addressing security issues. However, it primarily focuses on security practices and tools rather than explicitly exploring team collaboration dynamics or techniques. While there are references to team involvement and shared responsibility, the discussion lacks depth in terms of collaboration strategies and does not align closely with the core themes of the Team Collaboration category.",
+    "level": "Quaternary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -832,12 +835,15 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T12:01:06",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of integrating security practices into the development process and the role of teams in addressing security concerns, which aligns with mentoring and coaching development teams. However, the primary focus is on security practices rather than technical leadership principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-11T14:17:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the concept of 'shifting left' in software development, which touches on aspects of technical leadership, such as empowering teams and integrating quality practices. However, it primarily focuses on technical practices rather than the broader themes of guiding teams or fostering collaboration in an agile context. While there are mentions of team dynamics and accountability, the depth of discussion on technical leadership principles is limited.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1108,12 +1114,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T12:01:06",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of integrating security into the software development process, which relates to product delivery methodologies. However, the primary focus is on security practices rather than the broader scope of product delivery.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-11T17:19:29",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content extensively discusses the 'shift left' principle, which is closely related to product delivery methodologies, particularly in integrating quality assurance early in the development process. It highlights the importance of team accountability, iterative practices like Test-Driven Development (TDD), and continuous feedback loops, all of which are key aspects of effective product delivery. The depth of discussion on tools and techniques further supports its relevance to the category, making it a primary focus rather than a secondary mention.",
+    "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1291,12 +1300,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T12:01:06",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of team involvement in security practices and the need for collaboration among team members to build security into the software development process. However, the primary focus is on technical aspects of security rather than the interplay of human behaviour and structured methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-11T16:06:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 29,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the 'shift left' principle in software development, focusing on how it transforms team dynamics and responsibilities. It highlights the importance of empowering teams, integrating diverse expertise, and fostering a culture of accountability and collaboration. The depth of discussion on team roles and the impact of these practices on organisational efficiency aligns well with the 'People and Process' category, although it also touches on technical practices, which slightly detracts from the primary focus.",
+    "level": "Secondary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",

@@ -961,12 +961,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T08:18:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:09:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content provides in-depth technical guidance on configuring TFS Event Handler, discussing configurations, options, and technical details relevant to software design and engineering practices.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content provides a detailed technical guide on configuring a TFS Event Handler, which includes specific configuration options, code snippets, and explanations of various parameters. While it does not explicitly discuss broader principles of software craftsmanship or best practices, it aligns with the technical mastery category through its focus on software configuration and engineering practices. The depth of discussion is moderate, as it covers several aspects of the configuration process but lacks a broader context on software design principles or methodologies.",
+    "level": "Tertiary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1096,11 +1099,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T08:18:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:19:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily focuses on the configuration of a software system that operates within the Windows environment, specifically addressing TFS (Team Foundation Server) settings and Windows Communication Foundation. It thoroughly discusses specific configurations that hinge on Windows systems, suggesting a strong relevance to Windows.",
+    "final_score": 68.0,
+    "reasoning": "The content discusses configuration options for a TFS Event Handler prototype, which is relevant to Windows as it involves Windows Communication Foundation and TFS, both of which operate within the Windows environment. However, the primary focus is on specific configurations and code snippets rather than broader Windows installation, troubleshooting, or updates. While there are direct mentions of Windows-related components, the depth of discussion is more technical and specific to TFS rather than encompassing a wide range of Windows topics.",
     "level": "Secondary"
   },
   "Lean Principles": {

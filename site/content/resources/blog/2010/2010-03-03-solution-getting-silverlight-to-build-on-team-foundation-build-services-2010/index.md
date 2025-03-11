@@ -28,12 +28,11 @@ aliasesArchive:
 - /resources/blog/solution-getting-silverlight-to-build-on-team-foundation-build-services-2010
 tags:
 - Install and Configuration
+- Software Development
 - Troubleshooting
 - Practical Techniques and Tooling
-- Software Development
-- System Configuration
 - Continuous Integration
-- Operational Practices
+- System Configuration
 - Pragmatic Thinking
 - Technical Excellence
 categories:

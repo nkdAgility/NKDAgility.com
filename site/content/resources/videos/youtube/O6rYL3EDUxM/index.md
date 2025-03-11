@@ -30,16 +30,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Working Software
 - People and Process
 - Product Delivery
 - Increment
-- Agile Leadership
 - Agile Product Operating Model
 - Agile Values and Principles
-- Working Software
 - Agile Frameworks
 - Agile Philosophy
 - Agile Planning
+- Agile Project Management
 resourceTypes:
 - video
 categories:

@@ -8,7 +8,7 @@ ResourceImportId: 17
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2011-01-14
-weight: 485
+weight: 410
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -30,6 +30,7 @@ tags:
 - Software Development
 - Application Lifecycle Management
 - People and Process
+- Technical Leadership
 - Software Developers
 categories:
 - Social Technologies

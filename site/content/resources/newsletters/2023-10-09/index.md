@@ -5,7 +5,7 @@ ResourceId: 2G_gVI5phMC
 ResourceImport: true
 ResourceType: newsletters
 date: 2023-10-09
-weight: 775
+weight: 810
 preview: NKDAgility-technically-DOD-Not-AC-3-2.jpg
 author: MrHinsh
 resourceTypes: newsletter
@@ -21,16 +21,7 @@ aliasesArchive:
 categories:
 - Scrum
 tags:
-- Professional Scrum
-- Agile Frameworks
 - Agile Product Management
-- Agile Project Management
-- Product Backlog
-- Scrum Product Development
-- Agile Planning
-- Agile Planning Tools
-- Product Owner
-- Product Delivery
 
 ---
 Dive deep into the world of **Scrum's Product Backlog Management** with our meticulously crafted course. Master the nuances of understanding your product's core, engaging with stakeholders, and making data-driven decisions. Elevate your Scrum journey with insights from seasoned Professional Scrum Trainers. 🚀

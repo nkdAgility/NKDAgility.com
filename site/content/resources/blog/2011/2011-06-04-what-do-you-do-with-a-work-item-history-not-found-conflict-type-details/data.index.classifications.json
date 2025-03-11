@@ -661,12 +661,15 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-15T23:10:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:07:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to work item migration, conflicts, and status updates within the context of Azure Boards (formerly known as TFS) work item tracking. It provides detailed information about processing changes and managing revisions of work items which aligns with the functionalities of Azure Boards.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses issues related to work item migration in TFS (Team Foundation Server), which is closely related to Azure Boards. However, it primarily focuses on migration conflicts and technical details rather than exploring the functionalities and best practices of Azure Boards in managing Agile projects. While it mentions work items, it lacks a comprehensive discussion on the broader themes of Azure Boards, such as team collaboration, sprint planning, or customisation of workflows.",
+    "level": "Quaternary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -799,11 +802,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T23:10:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T18:09:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content addresses a specific issue encountered during the migration of work items between systems, along with practical insights into how to handle and resolve conflicts that arise during this process. It discusses the need for consecutive revision numbers in TFS and the configuration of a high water mark to facilitate this, which points towards applying practical problem-solving strategies relevant to Agile and DevOps environments.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses practical issues encountered during a migration process in TFS, highlighting specific problems and solutions related to work item revisions and conflict resolution. It provides a real-world scenario that aligns with Agile and DevOps principles, demonstrating pragmatic problem-solving. However, while it touches on practical applications, it lacks a deeper exploration of strategies or frameworks that could enhance collaboration or efficiency, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -880,12 +886,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-15T23:10:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:57:58",
+    "ai_confidence": 45.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses migration and handling of work items in a software project management context, which relates directly to the concept of working software in terms of managing and tracking software changes and ensuring software quality.",
-    "level": "Secondary"
+    "final_score": 42.0,
+    "reasoning": "The content primarily discusses a technical issue related to work item migration in TFS, which is a specific aspect of software functionality. While it touches on the operational aspects of software (e.g., handling conflicts and revisions), it lacks a broader discussion on the characteristics of working software, best practices for ensuring software quality, or customer feedback integration. The focus is more on troubleshooting than on delivering high-quality, functional software that meets user needs.",
+    "level": "Tertiary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",

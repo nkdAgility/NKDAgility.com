@@ -496,11 +496,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-16T00:44:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:08:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the application of tools and methodologies (Team Foundation Server and Visual Studio ALM) to enhance operational efficiency in managing software development processes, which aligns with operational practices in Agile and DevOps.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the operational practices of using Team Foundation Server (TFS) and Visual Studio 2010 for Application Lifecycle Management (ALM), focusing on traceability, compliance, and the relationships between various work items. It provides practical insights into how these tools can enhance operational efficiency and support Agile methodologies. The depth of discussion on how to manage tasks, requirements, and changesets indicates a strong alignment with operational practices, although it could benefit from more explicit strategies for continuous improvement and metrics for measuring efficiency.",
     "level": "Secondary"
   },
   "Scrum Team": {
@@ -799,11 +802,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-16T00:44:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T18:09:52",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical applications of Team Foundation Server (TFS) and Visual Studio 2010 in relation to compliance and traceability in an Agile context, focusing on real-world problem-solving in software development and project management.",
+    "final_score": 70.0,
+    "reasoning": "The content extensively discusses the practical applications of Team Foundation Server (TFS) and Visual Studio 2010 in managing compliance and traceability within Agile frameworks. It provides detailed insights into how various components like Requirements, Tasks, Changesets, and Builds interact to facilitate effective project management and compliance, demonstrating a strong alignment with pragmatic thinking. The depth of discussion is significant, covering real-world applications and strategies for navigating complexity in software development, which supports a high confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -898,12 +904,15 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-16T00:44:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:58:49",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses how Team Foundation Server (TFS) and Visual Studio support the integration of code changes and the build process, central themes of Continuous Integration (CI). It provides insights into Builds, Changesets, and automated testing, which are integral to CI practices.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS) and its role in Application Lifecycle Management (ALM), including aspects of traceability and builds. While it touches on builds, which are a component of Continuous Integration, the primary focus is on compliance and traceability rather than the principles and practices of CI itself. The discussion lacks depth in CI-specific practices and tools, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Market Share": {
     "category": "Market Share",

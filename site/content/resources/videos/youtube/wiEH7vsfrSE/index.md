@@ -33,10 +33,10 @@ tags:
 - Business Agility
 - Organisational Agility
 - People and Process
-- Market Adaptability
 - Resilience and Change
+- Market Adaptability
 - Enterprise Agility
-- Organisational Culture
+- Sociotechnical Systems
 - Strategic Goals
 - Agile Strategy
 - Operational Practices

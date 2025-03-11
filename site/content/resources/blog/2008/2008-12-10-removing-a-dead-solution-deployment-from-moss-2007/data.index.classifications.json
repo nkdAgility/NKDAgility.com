@@ -349,11 +349,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:13:14",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-11T15:13:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses a specific issue related to deployment in SharePoint, but it does not cover broader methodologies or practices of product delivery.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific issue related to deployment in SharePoint, which is a part of the product delivery process. However, it lacks a broader discussion on methodologies, best practices, or strategies that are essential to the category of Product Delivery. The focus is primarily on a technical solution rather than the overarching principles of delivering software products effectively.",
     "level": "Quaternary"
   },
   "Organisational Physics": {
@@ -694,12 +697,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:14",
-    "ai_confidence": 40,
+    "calculated_at": "2025-03-11T18:14:25",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 30,
-    "final_score": 39.0,
-    "reasoning": "While the content mentions the Windows environment indirectly through IIS and SharePoint, it primarily focuses on SharePoint operations and deployment rather than discussing Windows OS itself.",
-    "level": "Quaternary"
+    "final_score": 59.0,
+    "reasoning": "The content discusses a specific issue related to Microsoft Office SharePoint Server 2007, which operates on Windows Server. While it does not explicitly focus on Windows as an operating system, it is closely tied to the Windows environment through its reliance on IIS and the Windows Server infrastructure. The discussion includes troubleshooting steps and configuration settings relevant to managing a deployment issue, which aligns with the core themes of the Windows category. However, the content primarily centres on SharePoint rather than Windows itself, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1210,12 +1216,15 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T09:13:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:03:45",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the removal of a failed deployment in SharePoint, which relates to deployment strategies, but primarily focuses on troubleshooting rather than broader deployment methodologies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses a specific issue related to the deployment process in MOSS 2007, focusing on how to remove a failed deployment. While it touches on deployment-related actions, it lacks a broader discussion of deployment strategies or methodologies. The mention of 'deployment' is present, but the content primarily addresses a troubleshooting scenario rather than strategic deployment practices.",
+    "level": "Quaternary"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",

@@ -29,14 +29,14 @@ aliasesArchive:
 tags:
 - People and Process
 - Events and Presentations
-- Organisational Culture
-- Scrum Team
 - Agile Frameworks
 - Agile Project Management
 - Software Development
 - Team Collaboration
 - Team Motivation
 - Team Performance
+- Scrum Team
+- Pragmatic Thinking
 categories:
 - Scrum
 - Social Technologies

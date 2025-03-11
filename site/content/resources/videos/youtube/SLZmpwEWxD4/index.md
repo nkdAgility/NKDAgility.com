@@ -31,13 +31,13 @@ sitemap:
   priority: 0.6
 tags:
 - Practical Techniques and Tooling
-- Software Development
+- Agile Project Management
 - Operational Practices
+- Software Development
 - Strategy
 - Agile Frameworks
-- Agile Project Management
-- People and Process
 - Pragmatic Thinking
+- People and Process
 - Team Collaboration
 - Transparency
 resourceTypes:

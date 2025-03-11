@@ -340,21 +340,27 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T13:10:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T13:13:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses transparency and continuous improvement, which are related to learning and discovery, but the primary focus is on the Kanban tool rather than the broader processes of innovation and learning.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content briefly mentions the concept of continuous improvement, which aligns with the category's focus on learning and adaptation. However, it primarily discusses Kanban as a tool for transparency rather than delving into methodologies that foster innovation or experimentation. The discussion lacks depth in exploring how Kanban contributes to a culture of learning or the processes of discovery, resulting in a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T13:10:53",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Kanban as a tool for transparency and continuous improvement, which relates to flow efficiency, but it does not primarily focus on optimising throughput or eliminating bottlenecks.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-11T14:23:33",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses Kanban as a tool for visualising workflows and improving flow efficiency. It directly mentions key concepts such as cycle time, throughput, and work-in-progress (WIP) limits, which are crucial for optimising throughput. The depth of discussion includes practical tips and real-world examples that illustrate the impact of Kanban on identifying and eliminating bottlenecks, aligning well with the principles of Flow Efficiency. Overall, the content is highly relevant and focused on the optimisation of work throughput.",
+    "level": "Secondary"
   },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",
@@ -535,11 +541,14 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-17T13:56:24",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-11T16:12:32",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses Kanban as a tool that enhances transparency and promotes continuous improvement, which aligns with Lean Thinking principles. However, it does not deeply explore Lean concepts or principles, making Lean a secondary theme.",
+    "final_score": 70.0,
+    "reasoning": "The content extensively discusses Kanban, a key Lean tool, focusing on its role in visualising workflows and enabling continuous improvement. It aligns well with Lean principles, particularly in terms of waste reduction and efficiency enhancement. However, while it touches on Lean concepts, it primarily centres on Kanban within an Agile context, which slightly dilutes its direct focus on Lean Thinking as a standalone category.",
     "level": "Secondary"
   },
   "Troubleshooting": {
@@ -931,12 +940,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T13:56:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Kanban in relation to process transparency and continuous improvement, which are relevant to Agile frameworks, but it primarily focuses on the tool aspect of Kanban rather than a comprehensive exploration of Agile frameworks as a whole.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-11T17:25:27",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content provides a comprehensive exploration of Kanban, an Agile framework, discussing its principles, features, and practical applications. It aligns well with the core themes of the category by focusing on how Kanban enhances transparency and continuous improvement within Agile teams. The depth of discussion is significant, offering detailed insights into implementation and metrics, which supports the category's aim of fostering a culture of continuous improvement.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",

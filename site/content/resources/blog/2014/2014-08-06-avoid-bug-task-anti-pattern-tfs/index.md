@@ -30,14 +30,14 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 - Azure DevOps
+- Pragmatic Thinking
 - Product Owner
 - Software Development
 - Test First Development
+- People and Process
 - Agile Planning
 - Agile Project Management
 - Agile Transformation
-- Azure Boards
-- People and Process
 categories:
 - DevOps
 - Engineering Excellence

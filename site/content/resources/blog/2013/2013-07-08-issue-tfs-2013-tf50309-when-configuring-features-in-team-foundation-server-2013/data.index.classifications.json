@@ -172,12 +172,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:00:32",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses permissions and roles within Team Foundation Server, which relates to team dynamics and collaboration, but it primarily focuses on technical configurations rather than a broader discussion on human factors or process methodologies.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses permissions and roles within Team Foundation Server, which touches on the human factors involved in process management. However, it primarily focuses on technical aspects of configuration rather than the broader themes of team dynamics, collaboration, or leadership. While there are mentions of user roles and permissions, the depth of discussion on how these roles impact team processes is limited.",
+    "level": "Quaternary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -589,11 +592,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T19:53:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:58:48",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration of features in Team Foundation Server, which is closely related to software development practices, version control, and project management methodologies used in software engineering.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses configuring features in Team Foundation Server (TFS), which is a tool used in software development for project management and version control. It provides specific solutions related to permissions and roles within TFS, which aligns with best practices in collaborative development and project management methodologies. However, while it touches on relevant topics, the discussion lacks depth in broader software development methodologies and principles, focusing instead on a specific issue and its solutions.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1219,12 +1225,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:48:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily discusses a specific technical issue related to permissions in Team Foundation Server, it addresses a concern that software developers may encounter in their role. However, it does not directly engage with Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific issue related to permissions in Team Foundation Server (TFS), which is relevant to software developers working with Agile methodologies. However, it primarily focuses on a technical problem rather than exploring broader themes of Agile or DevOps practices. While it mentions the role of Project Administrators, it lacks a comprehensive discussion on best practices, collaboration, or modern engineering practices, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

@@ -38,8 +38,8 @@ tags:
 - Portfolio Management
 - Scaling Agility
 - Scaling Kanban
-- Large Scale Agility
-- Operational Practices
+- Value Delivery
+- Product Delivery
 resourceTypes:
 - video
 categories:

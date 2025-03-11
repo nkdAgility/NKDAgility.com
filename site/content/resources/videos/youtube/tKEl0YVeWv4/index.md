@@ -27,6 +27,15 @@ duration: 477
 isShort: false
 tags:
 - Software Development
+- Practical Techniques and Tooling
+- Operational Practices
+- Technical Excellence
+- Automated Testing
+- Deployment Frequency
+- Pragmatic Thinking
+- Product Delivery
+- Continuous Delivery
+- Deployment Strategies
 resourceTypes:
 - video
 sitemap:

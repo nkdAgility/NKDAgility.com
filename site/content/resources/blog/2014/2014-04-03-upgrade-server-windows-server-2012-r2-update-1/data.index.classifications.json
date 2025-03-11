@@ -10,12 +10,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:46:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the practical steps for updating Windows Server and related systems, which aligns with the application of tooling in a technical context, but it does not focus on Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the practical steps for updating Windows Server 2012 R2, detailing the update process and specific updates required. While it does provide a practical technique related to server management, it lacks a broader discussion on Agile or DevOps methodologies, tools, or frameworks. The mention of updates and installation procedures aligns somewhat with the category, but it does not delve into Agile or DevOps practices, which are central to the classification. Therefore, the confidence score reflects a moderate relevance to the category.",
+    "level": "Quaternary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -340,12 +343,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:58:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses updates related to Windows Server 2012 R2, which is relevant to technology news, but primarily focuses on the update process rather than broader industry trends or reviews.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the technical process of updating Windows Server and does not provide industry news or reviews related to Agile, DevOps, or technology trends. While it mentions the release of an update, it lacks broader context or analysis that would align it with the 'News and Reviews' category. The discussion is more of a technical guide rather than an evaluation or commentary on industry developments.",
+    "level": "Quaternary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -685,12 +691,15 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:56:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the recent release of updates for Windows Server 2012 R2 and the process of installing these updates, indicating an interest in frequent updates, but it primarily focuses on the specific updates and installation process rather than the broader principles of frequent releases.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the installation of updates for Windows Server 2012 R2, which implies a focus on software updates. However, it lacks a broader discussion on the principles of frequent releases, continuous delivery, or the impact of these updates on user satisfaction. The mention of updates is more procedural than strategic, and there is no exploration of metrics, best practices, or the role of DevOps in facilitating frequent releases.",
+    "level": "Quaternary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",

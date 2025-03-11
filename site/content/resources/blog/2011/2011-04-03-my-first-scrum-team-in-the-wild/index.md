@@ -24,11 +24,12 @@ aliasesArchive:
 - /resources/blog/my-first-scrum-team-in-the-wild
 tags:
 - Agile Project Management
+- Estimation
 - Agile Planning
 - Agile Frameworks
 - Software Development
-- Agile Product Management
 - People and Process
+- Agile Product Management
 categories:
 - Scrum
 - Social Technologies

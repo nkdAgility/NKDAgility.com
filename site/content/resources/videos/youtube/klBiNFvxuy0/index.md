@@ -28,16 +28,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Agile Frameworks
 - Agile Project Management
-- Professional Scrum
-- Agile Transformation
-- Scrum Master
-- Discovery and Learning
-- Empirical Process Control
-- Software Development
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

@@ -2,7 +2,7 @@
 title: What is DevOps and how is it different to Agile?
 description: Discover the key differences between DevOps and Agile in this insightful video with Martin Hinshelwood. Elevate your software delivery today!
 date: 2023-02-23T07:00:00Z
-weight: 770
+weight: 715
 ResourceId: 00V7BJJtMT0
 ResourceType: videos
 ResourceImport: true
@@ -30,6 +30,7 @@ tags:
 - Software Developers
 - Software Development
 - People and Process
+- Organisational Agility
 - Pragmatic Thinking
 resourceTypes:
 - video

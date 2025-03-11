@@ -385,11 +385,14 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-12T02:48:01",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T14:27:28",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the importance of delivering usable working products and managing risk in Agile, which aligns with Agile principles. However, it primarily focuses on specific practices related to Sprints rather than a broader discussion of Agile values.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily discusses Agile principles, particularly the importance of delivering usable products every sprint and the risks associated with special sprints. It aligns well with Agile values such as continuous improvement, customer-centricity, and the need for teams to be self-organising and responsive to change. The depth of discussion is significant, providing examples and practical steps to avoid pitfalls in Agile practices, which reinforces the core themes of the category.",
     "level": "Secondary"
   },
   "Automated Testing": {
@@ -475,11 +478,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-12T02:48:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:16:48",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses Agile practices, specifically the implications of special Sprints on software delivery and risk management, which are central to the role of software developers in Agile methodologies.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses Agile principles and practices, particularly focusing on the role of software developers in delivering usable products through iterative sprints. It critiques the concept of special sprints, emphasising the importance of continuous delivery and risk management, which are core themes in Agile methodologies. The depth of discussion is significant, providing practical steps for developers to avoid pitfalls and improve their workflow, thus aligning well with the category's focus on enhancing developer productivity and collaboration.",
     "level": "Secondary"
   },
   "Test First Development": {
@@ -520,12 +526,15 @@
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-12T02:48:25",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of delivering usable working products in Agile, particularly in the context of Sprints, and critiques the concept of special Sprints that may hinder the delivery of increments. While it primarily focuses on the risks associated with special Sprints, the theme of delivering value through increments is a significant aspect of the discussion.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-11T17:29:25",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 30,
+    "final_score": 81.0,
+    "reasoning": "The content extensively discusses the importance of delivering usable, working products at the end of each sprint, which aligns closely with the Increment concept in Agile. It critiques the practice of special sprints, emphasising the need for continuous delivery and the risks associated with delaying work. The discussion on the Azure DevOps team's experience further illustrates the significance of maintaining a focus on delivering increments of value. However, while the content is rich in examples and practical advice, it does not delve deeply into specific techniques for measuring value or the relationship between the Increment and other Scrum artifacts, which slightly lowers the depth score.",
+    "level": "Primary"
   },
   "Windows": {
     "category": "Windows",

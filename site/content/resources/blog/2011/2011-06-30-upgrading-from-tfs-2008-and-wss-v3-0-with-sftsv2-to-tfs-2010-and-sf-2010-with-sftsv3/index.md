@@ -25,7 +25,6 @@ aliasesArchive:
 tags:
 - System Configuration
 - Install and Configuration
-- Software Development
 - Troubleshooting
 categories:
 - Scrum

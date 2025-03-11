@@ -433,11 +433,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:13:38",
-    "ai_confidence": 40,
+    "calculated_at": "2025-03-11T17:09:24",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 36.0,
-    "reasoning": "The content primarily focuses on technical implementation details of event handlers in Team Foundation Server, which does not align closely with the core principles of Agile engineering practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on creating an event handler using Team Foundation Server, which is more aligned with specific implementation details rather than overarching engineering practices. While it does touch on aspects of clean code and automation through the use of event handlers, it lacks a comprehensive discussion on Agile methodologies, TDD, CI/CD, or other core themes of engineering practices. The depth of discussion is limited to technical implementation without broader context or principles of software engineering, resulting in a low confidence score for alignment with the category.",
     "level": "Quaternary"
   },
   "Self Organisation": {
@@ -577,12 +580,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:19:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses creating an event handler related to Team Foundation Server, which pertains to software development practices. However, it does not explicitly mention or explore Agile or DevOps methodologies, making it more of a technical implementation rather than directly aligned with the primary topics of the category.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on creating an event handler using Team Foundation Server, which is a technical topic relevant to software development. However, it lacks explicit discussions on Agile or DevOps methodologies, which are central to the category. While it touches on aspects of software development, such as event handling and TFS, it does not delve into best practices, team dynamics, or collaboration strategies that are crucial for the Software Developers category. Therefore, the confidence score reflects a moderate relevance to the category, but not a strong alignment with its core themes.",
+    "level": "Quaternary"
   },
   "Software Development": {
     "category": "Software Development",

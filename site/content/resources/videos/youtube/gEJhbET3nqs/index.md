@@ -2,7 +2,7 @@
 title: "Unlocking Agile Leadership: Transform Your Skills with Scrum.org's Essentials Workshop"
 description: Unlock your leadership potential with the Professional Agile Leadership Essentials workshop. Enhance your skills, foster collaboration, and drive agile success today!
 date: 2020-07-07T20:10:33Z
-weight: 770
+weight: 625
 ResourceId: gEJhbET3nqs
 ResourceType: videos
 ResourceImport: true
@@ -24,16 +24,16 @@ preview: https://i.ytimg.com/vi/gEJhbET3nqs/maxresdefault.jpg
 duration: 245
 isShort: false
 tags:
-- Events and Presentations
-- Organisational Change
 - Agile Leadership
+- Events and Presentations
+- Technical Leadership
+- Organisational Change
 - Pragmatic Thinking
 - Organisational Agility
 - People and Process
 - Team Collaboration
 - Team Performance
-- Agile Transformation
-- Business Agility
+- Agile Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

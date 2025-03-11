@@ -5,7 +5,7 @@ ResourceId: Y8ySIcajwoP
 ResourceImport: true
 ResourceType: newsletters
 date: 2023-03-01
-weight: 775
+weight: 855
 preview: naked-agility-technically-agile-1280×720-March2023.jpg
 author: MrHinsh
 resourceTypes: newsletter
@@ -22,8 +22,8 @@ categories:
 - Scrum
 - Social Technologies
 tags:
-- Discovery and Learning
 - Pragmatic Thinking
+- Discovery and Learning
 - Professional Scrum
 - Continuous Learning
 - Events and Presentations

@@ -34,7 +34,7 @@ tags:
 - Pragmatic Thinking
 - Software Development
 - Agile Product Management
-- Personal
+- Flow Efficiency
 sitemap:
   filename: sitemap.xml
   priority: 0.6

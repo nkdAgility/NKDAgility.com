@@ -25,9 +25,12 @@ preview: https://i.ytimg.com/vi/FZeT8O5Ucwg/maxresdefault.jpg
 duration: 2106
 isShort: false
 tags:
+- Agile Product Management
 - People and Process
-- Pragmatic Thinking
 - Software Developers
+- Pragmatic Thinking
+- Agile Leadership
+- Customer Feedback Loops
 - Organisational Change
 sitemap:
   filename: sitemap.xml

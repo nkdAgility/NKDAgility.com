@@ -1114,11 +1114,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T01:39:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:01:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses creating and executing unit tests for web services using MSTest, emphasizing the process of test development and the necessary attributes for setting up the tests, which aligns closely with the principles of Test First Development.",
+    "final_score": 68.0,
+    "reasoning": "The content discusses the process of creating unit tests and integration tests using MSTest, which aligns with the principles of Test First Development. It provides detailed examples of how to set up tests before running code, including the use of attributes and configurations necessary for testing web services. However, while it covers practical aspects of testing, it does not explicitly discuss the broader principles of Test-Driven Development (TDD) or its benefits in the context of Agile methodologies, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Windows": {
@@ -1177,11 +1180,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T01:39:42",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T18:12:40",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses troubleshooting issues related to unit testing web services and the configuration required for successful builds on a Team Foundation Server. It provides detailed methods and troubleshooting steps for diagnosing and resolving specific technical problems encountered in a web service testing context.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on troubleshooting issues related to testing web services using MSTest in a Team Foundation Build environment. It discusses specific problems encountered during automated builds, such as the need for the web server to be spun up for tests to pass, and provides detailed solutions, including code snippets and explanations of attributes required for successful testing. The content aligns well with the core themes of troubleshooting, particularly in diagnosing and resolving integration issues in a DevOps context. However, while it provides practical solutions, the depth of discussion on systematic problem-solving techniques could be enhanced.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -1222,11 +1228,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-16T01:39:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:11:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the process of testing web services using MSTest in the context of Team Foundation Build Services, which relates to best practices in test-driven development (TDD) and illustrates integration within an Agile and DevOps framework.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on testing web services using MSTest within the context of Team Foundation Build Services. While it discusses technical aspects relevant to software developers, such as unit testing and integration testing, it lacks a direct focus on Agile or DevOps methodologies. The mention of build servers and testing practices aligns somewhat with the category, but the depth of discussion does not sufficiently cover the broader themes of Agile or DevOps practices, which diminishes its relevance to the category.",
     "level": "Secondary"
   },
   "Coaching": {

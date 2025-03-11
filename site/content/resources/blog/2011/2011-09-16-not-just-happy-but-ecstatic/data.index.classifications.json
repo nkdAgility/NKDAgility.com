@@ -493,11 +493,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T22:42:03",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T15:06:57",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses practical solutions to operational challenges, specifically around deployment processes and efficiency in managing multiple branches of code and databases, which aligns with the focus on operational practices in Agile and DevOps contexts.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses practical improvements in deployment processes and tools, specifically mentioning a build process and QA practices, which align with operational efficiency. However, it lacks a structured focus on broader operational practices and methodologies like Agile or DevOps, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Scrum Team": {
@@ -691,12 +694,15 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:08:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the deployment of solutions and the transition to a build process that enables easier management of application versions, aligning with themes of continuous delivery and release practices, though it primarily focuses on a specific project rather than frequent releases as a central theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific engagement involving deployment processes and tools, but it lacks a direct focus on frequent releases as a primary topic. While it touches on aspects of deployment and build processes, it does not delve into continuous delivery or the principles of frequent releases in detail. The mention of a build process and the challenges faced by the company hints at the importance of release frequency, but it does not provide a comprehensive exploration of the category's key topics.",
+    "level": "Quaternary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -1222,12 +1228,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:57:00",
+    "ai_confidence": 45.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical engagement involving deployment practices and tools related to software development, which connects to the category, but the focus is more on the author's personal experiences as a consultant rather than on developers' roles within Agile or DevOps frameworks.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses a specific engagement with a client involving deployment processes and tools, which relates to software development. However, it lacks a direct focus on Agile or DevOps methodologies, and the discussion is more anecdotal than analytical. While there are mentions of tools and practices, the depth of discussion on Agile principles or developer roles is limited.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

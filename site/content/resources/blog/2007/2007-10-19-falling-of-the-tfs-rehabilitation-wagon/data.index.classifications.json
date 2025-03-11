@@ -187,12 +187,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:07:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the deployment of TFS and its role in project management, which relates to product delivery, but the primary focus is on the installation and customization of TFS rather than the broader methodologies and practices of delivering software products.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the installation and deployment of TFS (Team Foundation Server) for project management, which relates to product delivery. However, it lacks a detailed exploration of methodologies, practices, or frameworks that are central to the category. The focus is more on personal experiences and specific technical implementations rather than a comprehensive discussion on product delivery principles.",
+    "level": "Quaternary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -286,12 +289,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:17:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes personal experiences and reflections on the challenges faced while implementing TFS, but it primarily focuses on technical aspects of the deployment rather than personal insights.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the technical aspects of deploying TFS and does not focus on personal experiences or reflections related to Agile methodologies. While there are some personal anecdotes, they are overshadowed by technical details and project management discussions, leading to a low confidence score in the 'Personal' category.",
+    "level": "Quaternary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",

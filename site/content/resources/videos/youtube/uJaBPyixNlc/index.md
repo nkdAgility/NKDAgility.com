@@ -39,6 +39,8 @@ tags:
 - Agile Project Management
 - Agile Frameworks
 - Mentoring
+- Scrum Team
+- Agile Leadership
 resourceTypes:
 - video
 categories:

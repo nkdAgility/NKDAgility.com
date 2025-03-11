@@ -847,11 +847,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-16T12:25:54",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T17:04:33",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses challenges and solutions for automating builds, deployments, and testing related to Business Intelligence solutions, which can relate to practices like Continuous Integration and automation. However, it primarily focuses on the specific issues faced in Business Intelligence rather than broader Agile engineering practices.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses automation and testing in the context of Business Intelligence solutions, which aligns with key topics in Engineering Practices. It explicitly mentions challenges related to automating deployments and testing SSIS and SSAS packages, indicating a focus on automation and testing methodologies. However, while it touches on relevant themes, the depth of discussion on established practices like TDD or CI/CD is limited, preventing a higher confidence score.",
     "level": "Secondary"
   },
   "Sprint Review": {
@@ -1240,11 +1243,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T12:25:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:14:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses problems related to automating builds and testing of Business Intelligence solutions, particularly focusing on how to troubleshoot deployment and performance issues of various packages. The specific questions raised about automation and testing indicate a strong alignment with troubleshooting methodologies.",
+    "final_score": 70.0,
+    "reasoning": "The content explicitly discusses various problems encountered while automating builds and deployments of Business Intelligence solutions, which aligns with troubleshooting. It raises specific issues related to SSIS and SSAS packages, indicating a focus on diagnosing and resolving technical problems. However, while it mentions these issues, the depth of discussion on methodologies or systematic approaches to troubleshooting is limited, which affects the overall confidence score.",
     "level": "Secondary"
   },
   "Scrum Master": {
@@ -1339,11 +1345,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T12:25:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T18:14:49",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to automating the configuration and deployment of Business Intelligence (BI) solutions, which include specific methods for deploying and testing SQL Server Integration Services (SSIS) packages and SQL Server Analysis Services (SSAS) cubes. This aligns with the theme of system configuration, focusing on practical aspects of software setup and integration.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses challenges related to automating the deployment and testing of Business Intelligence (BI) solutions, which directly relates to system configuration. It mentions specific issues with SQL BI packages and the need for automation in deployment and testing, aligning with the core themes of system optimisation and configuration management. However, while it touches on relevant topics, the depth of discussion is somewhat limited to specific problems without providing comprehensive solutions or best practices, which affects the overall confidence score.",
     "level": "Secondary"
   },
   "Scaling Agility": {

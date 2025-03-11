@@ -28,12 +28,12 @@ aliasesArchive:
 - /resources/blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released
 tags:
 - Products and Books
-- Software Development
-- Technical Mastery
 - News and Reviews
+- Software Development
 - Practical Techniques and Tooling
 - Release Management
 - Technical Excellence
+- Technical Mastery
 - Deployment Strategies
 - Install and Configuration
 categories:

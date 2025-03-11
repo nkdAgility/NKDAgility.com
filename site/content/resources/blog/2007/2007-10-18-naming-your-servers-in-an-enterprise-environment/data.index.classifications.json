@@ -280,12 +280,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:17:54",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes personal experiences and reflections on server naming conventions in an enterprise environment, but the primary focus is on technical aspects rather than personal insights.",
-    "level": "Tertiary"
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses server naming conventions in an enterprise environment, which is a technical topic rather than a personal reflection or experience related to Agile, Scrum, or DevOps. While the author shares personal experiences from their time at Merrill Lynch, the focus remains on technical details and naming strategies rather than personal insights or challenges faced in Agile practices.",
+    "level": "Quaternary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -583,12 +586,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:07:33",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses server naming conventions in the context of managing servers for software applications, with some relevance to the development environment, but it is more about server management than software development methodologies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses server naming conventions in an enterprise environment, which touches on aspects of software deployment and management. However, it lacks a direct focus on software development methodologies or practices. While it provides some insight into the challenges of managing server names in a large-scale environment, it does not delve into coding practices, SDLC methodologies, or other core themes of software development. The discussion is more about operational management rather than software engineering processes.",
+    "level": "Quaternary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",

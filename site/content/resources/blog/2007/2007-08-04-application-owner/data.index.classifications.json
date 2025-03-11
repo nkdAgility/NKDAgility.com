@@ -289,12 +289,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:08:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content includes personal reflections on the role of an Application Owner and the challenges faced in managing production applications, which aligns with the Personal category. However, it primarily focuses on job responsibilities and technical aspects rather than deeper personal insights or experiences.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content provides a personal perspective on the role of an Application Owner, discussing the management aspects of the job and personal experiences with SOX audits. However, it primarily focuses on technical responsibilities and management tasks rather than personal reflections or insights related to Agile, Scrum, or DevOps methodologies. The mention of personal opinions and experiences is present but not deeply explored, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -481,11 +484,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 40,
+    "calculated_at": "2025-03-11T15:19:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 36.0,
-    "reasoning": "The content discusses roles and responsibilities related to application management, but it primarily focuses on task management and individual duties rather than on accountability as a team principle or culture. It does not emphasize ownership or the distinction between accountability and blame in Agile teams.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the responsibilities of an Application Owner, which touches on aspects of accountability, particularly in terms of ownership of applications and managing relationships. However, it lacks a clear focus on the distinction between accountability and blame, and does not delve into team dynamics or strategies for fostering a culture of accountability. The discussion is more about individual responsibilities rather than collective team principles, which diminishes its alignment with the core themes of the Accountability category.",
     "level": "Quaternary"
   },
   "Mentoring": {

@@ -625,12 +625,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:55:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the TFS Field Annotator, which relates to tracking changes in TFS work items, a form of source control, but the primary focus is on using a specific tool rather than broader source control practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses a tool related to TFS (Team Foundation Server) that allows users to track changes to work items, which is a form of version control. However, the focus is primarily on the tool's functionality rather than broader best practices or methodologies in modern source control. While it mentions aspects of tracking changes, it lacks depth in discussing version control strategies, branching, or collaboration workflows, which are key themes in the category.",
+    "level": "Quaternary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -868,12 +871,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:06:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific software tool (TFS Field Annotator) intended for managing and updating TFS Work Items, which aligns with software functionality and user utility. However, the primary focus is on the tool itself rather than broader concepts of working software.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily describes a tool (TFS Field Annotator) that aids in tracking changes to TFS Work Items, which is a functional aspect of software. However, it lacks a direct discussion on the broader themes of working software, such as customer feedback, iterative development, or quality assurance practices. While it does mention operational functionality, it does not delve into how this tool aligns with user requirements or business objectives, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1057,12 +1063,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:04:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 15,
+    "ai_depth": 7,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses prerequisites for running a specific application (TFS Field Annotator) and includes troubleshooting steps for configuration issues, making system configuration a significant theme but not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the TFS Field Annotator tool, focusing on its features and installation prerequisites. While it mentions troubleshooting steps, which could relate to system configuration, the overall emphasis is on the tool's functionality rather than the broader principles of system configuration. The discussion lacks depth in terms of configuration management or optimisation strategies, leading to a low confidence score in alignment with the category.",
+    "level": "Quaternary"
   },
   "Product Strategy": {
     "category": "Product Strategy",

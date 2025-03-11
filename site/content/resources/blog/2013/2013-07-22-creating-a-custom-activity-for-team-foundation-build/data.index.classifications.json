@@ -385,12 +385,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T18:46:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:58:26",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content provides a detailed guide on creating custom activities for Team Foundation Build, demonstrating best practices in software design and technical implementation relevant to engineering excellence.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content provides a practical guide on creating a custom activity for Team Foundation Build, which aligns with technical mastery in software craftsmanship. It discusses specific coding practices, such as creating class libraries and managing build activities, which are relevant to software engineering. However, while it touches on best practices and technical details, it lacks a broader discussion on principles of clean code or software architecture, which limits its depth and alignment with the category.",
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -493,12 +496,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T18:46:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:48:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, which is directly related to operational practices within a DevOps context. It discusses practical steps for enhancing build processes, which aligns with the category's focus on operational efficiency and delivery.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on creating custom activities for Team Foundation Build, which is a technical implementation rather than a discussion on operational practices. While it touches on aspects of workflow management and customisation, it lacks a broader discussion on operational efficiency, process optimisation, or continuous improvement strategies that are central to the category of Operational Practices.",
+    "level": "Quaternary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -592,11 +598,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T18:46:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T18:00:09",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses creating custom activities for Team Foundation Build, which directly relates to software development processes and practices.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed guide on creating a custom activity for Team Foundation Build, which is a specific aspect of software development. It discusses practical steps, coding practices, and the integration of custom activities into workflows, aligning well with the core themes of software development methodologies and practices. The depth of discussion is significant, covering various technical aspects and considerations, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {

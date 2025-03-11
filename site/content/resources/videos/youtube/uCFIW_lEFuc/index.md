@@ -27,13 +27,13 @@ preview: https://i.ytimg.com/vi/uCFIW_lEFuc/maxresdefault.jpg
 duration: 498
 isShort: false
 tags:
+- Agile Project Management
 - People and Process
 - Agile Philosophy
 - Agile Planning
 - Agile Values and Principles
 - Increment
 - Agile Product Management
-- Agile Project Management
 - Empirical Process Control
 - Working Software
 - Agile Frameworks

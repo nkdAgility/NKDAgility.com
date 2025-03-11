@@ -28,13 +28,13 @@ sitemap:
 tags:
 - Cycle Time
 - Flow Efficiency
-- Throughput
 - Operational Practices
-- Pragmatic Thinking
 - People and Process
 - Metrics and Learning
 - Agile Frameworks
+- Pragmatic Thinking
 - Organisational Physics
+- Throughput
 - Lean
 resourceTypes:
 - video

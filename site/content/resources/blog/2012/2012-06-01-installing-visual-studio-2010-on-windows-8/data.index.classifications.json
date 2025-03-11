@@ -379,12 +379,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:06:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation of Visual Studio 2010 on Windows 8, touching upon technical aspects related to software environment setup and VM usage, which aligns with technical practices. However, it lacks a deeper exploration of software craftsmanship principles or methodologies, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the practical aspects of installing Visual Studio 2010 on Windows 8, which is more of a procedural guide than a discussion on technical mastery. While it touches on some relevant topics like the use of VMs and the importance of clean installations, it lacks a deeper exploration of software craftsmanship principles, best practices, or methodologies that contribute to high-quality software development. The discussion is more about personal experience and setup rather than a comprehensive analysis of technical excellence.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -868,12 +871,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:54:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content primarily focuses on installing Visual Studio 2010 on Windows 8, which is related to software functionality and setup, but does not deeply engage with the broader topics of software delivery or customer feedback.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the installation of Visual Studio 2010 on Windows 8, which is more focused on technical setup rather than the delivery of functional software that meets user needs. While it touches on aspects of software functionality and user experience, it lacks a comprehensive discussion on working software principles, Agile methodologies, or customer feedback integration.",
+    "level": "Quaternary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1216,12 +1222,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:04:41",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses installing Visual Studio 2010 on Windows 8, which is relevant to software developers, but it primarily focuses on the installation process rather than on Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 24.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2010 on Windows 8, which is a technical task relevant to software developers. However, it lacks direct discussions on Agile methodologies, DevOps principles, or modern engineering practices. While it mentions the use of Visual Studio in a development context, it does not explore the broader implications of these tools on productivity, collaboration, or team dynamics, which are key themes of the category. Therefore, the confidence score reflects a low alignment with the specified category.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

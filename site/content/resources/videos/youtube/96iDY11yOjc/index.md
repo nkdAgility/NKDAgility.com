@@ -29,16 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Continuous Learning
 - Discovery and Learning
 - People and Process
-- Continuous Learning
-- Pragmatic Thinking
 - Software Developers
 - Coaching
 - Employee Engagement
+- Pragmatic Thinking
 - Personal
-- Mentoring
 - Software Development
+- Mentoring
 resourceTypes:
 - video
 categories:

@@ -26,9 +26,9 @@ tags:
 - Install and Configuration
 - System Configuration
 - Windows
-- Software Development
 - Troubleshooting
 - Practical Techniques and Tooling
+- Software Development
 categories: []
 preview: metro-visual-studio-2005-128-link-4-4.png
 

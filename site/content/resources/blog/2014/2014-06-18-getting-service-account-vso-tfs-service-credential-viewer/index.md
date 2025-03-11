@@ -30,9 +30,9 @@ tags:
 - Install and Configuration
 - Troubleshooting
 - Windows
-- Software Development
 - Azure DevOps
 - Practical Techniques and Tooling
+- Software Development
 - System Configuration
 categories:
 - DevOps

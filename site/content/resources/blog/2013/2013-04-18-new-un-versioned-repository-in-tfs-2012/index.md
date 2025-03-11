@@ -25,8 +25,8 @@ aliasesArchive:
 tags:
 - Software Development
 - Modern Source Control
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
 - Troubleshooting
 categories:
 - DevOps

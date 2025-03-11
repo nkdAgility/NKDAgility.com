@@ -29,6 +29,7 @@ aliasesArchive:
 tags:
 - Software Development
 - Practical Techniques and Tooling
+- Install and Configuration
 categories: []
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 

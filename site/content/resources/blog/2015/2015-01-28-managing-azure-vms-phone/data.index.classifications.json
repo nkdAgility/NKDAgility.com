@@ -76,12 +76,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:55:28",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses managing Azure VMs, including the use of PowerShell scripts for setup and the Mobile Azure Manager app for controlling VMs, which relates to installation and configuration processes. However, the primary focus is on the app's features and personal experiences rather than detailed installation or configuration instructions.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses managing Azure VMs, which relates to installation and configuration, particularly in the context of using the Mobile Azure Manager app. It provides insights into managing virtual machines, including starting and stopping them, which aligns with configuration practices. However, the depth of technical installation procedures is limited, focusing more on the app's features rather than detailed installation steps or configuration best practices.",
+    "level": "Secondary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -877,12 +880,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:43:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of a mobile application for managing Azure virtual machines, which relates to the functionality and operational aspects of software. However, the primary focus is on the application itself rather than broader principles of working software.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the use of a mobile application for managing Azure virtual machines, which is a practical tool for operational software management. However, it lacks a direct focus on the broader principles of working software, such as Agile methodologies or customer feedback integration. While it mentions the functionality of the app and its benefits, it does not delve deeply into software quality or iterative development practices, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1066,11 +1072,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:53:33",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses managing Azure virtual machines, which involves aspects of system configuration, such as setting up and shutting down VMs and using PowerShell scripts. However, the primary focus is on using a mobile application for management rather than detailed configuration practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses managing Azure virtual machines, which relates to system configuration, particularly in terms of setting up and optimising cloud services. It mentions the use of PowerShell scripts for VM management, which aligns with configuration management practices. However, the focus is more on the use of a mobile application for management rather than in-depth configuration strategies or best practices, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Product Strategy": {

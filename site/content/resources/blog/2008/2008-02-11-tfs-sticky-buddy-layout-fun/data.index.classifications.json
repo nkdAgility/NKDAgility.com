@@ -334,12 +334,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:13:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:06:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the author's learning experience while working with Windows Forms and WPF, highlighting the challenges faced and the insights gained, which aligns with the theme of continuous learning.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on the author's personal experience with layout challenges in Windows Forms and WPF, which does not explicitly discuss discovery or learning methodologies. While there are mentions of learning curves and experimentation with different UI frameworks, these are secondary to the main narrative about technical difficulties. The content lacks a structured exploration of the processes that foster innovation or continuous learning, which is essential for a higher confidence score in this category.",
+    "level": "Quaternary"
   },
   "Products and Books": {
     "category": "Products and Books",
@@ -1192,12 +1195,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:13:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:16:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the development and layout issues of a working software application, specifically focusing on user interface challenges and experiences with Windows Forms and WPF, but it lacks a broader discussion on best practices or customer feedback.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the author's experience with developing a Windows Forms application and transitioning to WPF, but it primarily focuses on layout challenges and personal frustrations rather than on delivering functional, high-quality software that meets user needs. While there are mentions of working software and a proof of concept, the discussion lacks depth in terms of best practices, customer feedback, or iterative development, which are key aspects of the 'Working Software' category.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",

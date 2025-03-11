@@ -27,8 +27,8 @@ aliasesArchive:
 - /blog/move-an-azure-storage-blob-to-another-store
 - /resources/blog/move-azure-storage-blob-another-store
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
 - Software Development
 - System Configuration
 - Pragmatic Thinking

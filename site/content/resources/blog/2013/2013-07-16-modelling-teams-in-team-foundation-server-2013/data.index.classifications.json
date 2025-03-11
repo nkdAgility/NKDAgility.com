@@ -493,12 +493,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T22:06:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:58:31",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses practical strategies for structuring teams and managing workflows in Team Foundation Server, which aligns with optimizing operational practices within Agile methodologies.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses the modelling of teams and the use of Team Foundation Server (TFS) to manage projects and workflows, which aligns with operational practices. However, it lacks a strong focus on specific techniques for process optimisation or continuous improvement, and the discussion is more descriptive than analytical, limiting its depth.",
+    "level": "Tertiary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -1069,12 +1072,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T22:06:45",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T18:00:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the configuration and setup of Teams, Areas, and Source Control in Team Foundation Server, which relates to system configuration. However, it also includes aspects of project management and team organization, making system configuration a secondary theme.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content discusses various aspects of configuring Team Foundation Server (TFS), including project and team structures, source control permissions, and automation of configuration tasks. While it does touch on system configuration, the primary focus is on team modelling and project management within TFS, which may not fully align with the core themes of system configuration. The depth of discussion on configuration is moderate, but it lacks a comprehensive exploration of best practices or optimisation strategies, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1222,12 +1228,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-15T22:06:45",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T16:48:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the use of Team Foundation Server (TFS) in the context of managing teams and projects, which relates to the role of software developers in Agile settings. However, the emphasis is more on TFS setup and management rather than a direct exploration of Agile and DevOps principles.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS) and its role in managing teams and projects, which is relevant to software developers. However, it lacks a direct focus on Agile or DevOps methodologies, and while it touches on team structures and project management, it does not delve deeply into best practices or principles that enhance developer productivity or collaboration. The discussion is more about TFS functionalities than about the role of developers within Agile or DevOps frameworks.",
+    "level": "Tertiary"
   },
   "Coaching": {
     "category": "Coaching",

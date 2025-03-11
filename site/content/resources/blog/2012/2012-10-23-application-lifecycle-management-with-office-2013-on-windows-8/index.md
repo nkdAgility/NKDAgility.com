@@ -26,8 +26,8 @@ tags:
 - Windows
 - Products and Books
 - Application Lifecycle Management
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
 categories: []
 preview: metro-office-128-link-5-5.png
 

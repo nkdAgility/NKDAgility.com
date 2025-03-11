@@ -28,9 +28,9 @@ aliasesArchive:
 - /resources/blog/does-test-driven-development-speed-up-development
 tags:
 - Software Development
+- Test Driven Development
 - Engineering Practices
 - Technical Excellence
-- Test Driven Development
 - Software Developers
 - Test First Development
 - Technical Mastery

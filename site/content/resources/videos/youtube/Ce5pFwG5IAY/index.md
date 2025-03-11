@@ -28,13 +28,14 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum Master
+- Agile Transformation
 - People and Process
 - Team Performance
 resourceTypes:
 - video
 categories:
-- Scrum
 - Social Technologies
+- Scrum
 
 ---
 **Scrum Masters: Unlocking the Power of Liberating Structures 🚀** 
