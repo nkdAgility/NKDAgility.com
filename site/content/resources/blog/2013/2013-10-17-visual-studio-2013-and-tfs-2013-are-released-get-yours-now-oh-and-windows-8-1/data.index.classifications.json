@@ -592,11 +592,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T17:49:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:47:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses Visual Studio 2013 and Team Foundation Server 2013, which are tools directly related to software development practices and methodologies, including ALM (Application Lifecycle Management). It provides details on the features and improvements of these tools, making it relevant to the Software Development category.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, which are tools relevant to software development. However, while it mentions these tools and their features, it lacks a deeper exploration of methodologies or practices that guide the software development lifecycle. The focus is more on the announcement and personal experiences rather than on structured software development practices, which limits its alignment with the category.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1063,12 +1066,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T17:49:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:57:22",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses various aspects related to the installation and configuration of Visual Studio 2013 and Team Foundation Server 2013, highlighting best practices and specific techniques for configuration management, which are central to the topic.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content discusses the release of Visual Studio 2013 and Team Foundation Server 2013, with a focus on installation and configuration aspects. It mentions specific configuration issues and provides links to resources that cover installation and configuration in detail. However, the primary focus is on the announcement and features rather than an in-depth exploration of system configuration methodologies or best practices, which slightly lowers the confidence score.",
+    "level": "Tertiary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1219,12 +1225,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:59:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Visual Studio 2013 and Team Foundation Server 2013, tools relevant to software development and DevOps, but it does not focus explicitly on the roles or practices of software developers within Agile or DevOps frameworks.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the release of Visual Studio 2013 and Team Foundation Server 2013, focusing on their features and installation processes. While it mentions tools relevant to software development, it lacks a direct discussion on Agile or DevOps methodologies, which are central to the category. The depth of discussion on the tools is significant, but it does not explore how these tools enhance developer productivity or collaboration within Agile frameworks.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

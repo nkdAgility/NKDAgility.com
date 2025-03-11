@@ -280,12 +280,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:13:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:05:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content includes personal experiences and reflections on challenges faced during a project involving SharePoint, but the primary focus is on technical details and project management rather than personal insights or anecdotes.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content provides a personal account of challenges faced during a project involving SharePoint, which aligns with the Personal category. However, the focus is more on technical issues and project management rather than personal reflections or insights related to Agile or Scrum methodologies. The mention of personal experiences is present, but the depth of discussion on personal insights is limited.",
+    "level": "Quaternary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -568,12 +571,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:15:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the experiences of a .NET developer in working with SharePoint and the challenges faced in a project, indicating a secondary theme related to software development.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific project involving SharePoint and the challenges faced by the developer, which relates to the role of software developers. However, it lacks explicit references to Agile or DevOps methodologies, and the discussion is primarily focused on a single project rather than broader practices or principles that enhance productivity and collaboration in software development.",
+    "level": "Quaternary"
   },
   "Software Development": {
     "category": "Software Development",

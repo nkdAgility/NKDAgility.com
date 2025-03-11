@@ -499,12 +499,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T23:37:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:07:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of a TFS Integration Platform Adapter, detailing the process involved in managing change actions, handling workflows, and optimizing data migration processes, which directly aligns with the practices aimed at enhancing operational efficiency within Agile and DevOps frameworks.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the development of a Test Track Pro Adapter for the TFS Integration Platform, detailing the technical implementation and debugging processes. While it touches on aspects of operational practices, such as updating workflows and managing change groups, it lacks a direct focus on broader operational efficiency strategies or methodologies like Agile, DevOps, or Lean. The discussion is more technical and specific to a particular implementation rather than providing general insights or best practices for operational efficiency.",
+    "level": "Quaternary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -880,11 +883,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-15T23:37:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T18:08:58",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content mainly focuses on the development and functioning of a working software adapter for TFS Integration, discussing its operational aspects and improvements, which align well with the characteristics of 'Working Software'.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the development of a working adapter for the TFS Integration Platform, detailing the process of debugging and refining the software to ensure it functions correctly. It includes specific examples of code changes and bug fixes, which align with the characteristics of working software. However, while it touches on aspects of software quality and functionality, it lacks a broader discussion on best practices or customer feedback integration, which limits its depth in the context of the 'Working Software' category.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
@@ -1069,11 +1075,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T23:37:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:57:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration and setup of a TFS Integration Platform Adapter, detailing steps and code related to configuring services, managing change actions, and handling data migrations, which aligns well with system configuration practices.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the development and configuration of a Test Track Pro Adapter for the TFS Integration Platform, which involves detailed technical aspects of system configuration. It includes specific references to configuration services, change groups, and the management of migration data sources, aligning well with the core themes of system configuration. The depth of discussion is substantial, providing insights into the processes and methodologies used in configuring the adapter, although it does not cover all key topics listed in the category definition.",
     "level": "Secondary"
   },
   "Product Strategy": {

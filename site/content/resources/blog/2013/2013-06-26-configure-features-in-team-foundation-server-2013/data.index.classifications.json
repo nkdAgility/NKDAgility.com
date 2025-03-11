@@ -241,12 +241,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:59:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 15,
+    "ai_depth": 5,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses configuring features in Team Foundation Server 2013, which relates to the planning and setup aspects of product delivery, but it primarily focuses on specific software configuration rather than broader product delivery methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses configuring features in Team Foundation Server 2013, which relates to the deployment and setup of software products. However, it lacks a comprehensive exploration of methodologies, practices, or strategies that are central to product delivery. While it mentions some aspects of feature configuration, it does not delve into broader themes such as Agile methodologies, iterative development, or quality assurance, which are crucial for a strong alignment with the Product Delivery category.",
+    "level": "Quaternary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -787,11 +790,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:00:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical steps to configure features in Team Foundation Server 2013, which relates to real-world applications within an Agile context. However, it primarily focuses on the configuration details rather than broader pragmatic strategies or problem-solving in Agile or Scrum frameworks.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses practical steps for configuring features in Team Foundation Server 2013, which aligns with pragmatic problem-solving in a real-world context. However, it lacks a deeper exploration of Agile or Scrum principles and does not provide substantial evidence-based management practices or case studies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Backlog Refinement": {
@@ -868,12 +874,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 49,
+    "calculated_at": "2025-03-11T16:49:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 44.0,
-    "reasoning": "The content discusses features and configuration in Team Foundation Server, but focuses primarily on the setup process rather than on the delivery of functional software or working software principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses configuring features in Team Foundation Server 2013, which relates to the operational aspects of software. However, it lacks a strong focus on the delivery of functional software that meets customer needs, as it primarily details configuration processes rather than the broader implications of working software in Agile or Scrum contexts.",
+    "level": "Quaternary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",

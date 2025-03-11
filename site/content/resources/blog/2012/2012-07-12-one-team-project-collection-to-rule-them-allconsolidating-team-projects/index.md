@@ -29,7 +29,16 @@ aliasesArchive:
 - /blog/one-team-project-collection-to-rule-them-all---consolidating-team-projects
 - /resources/blog/one-team-project-collection-to-rule-them-allconsolidating-team-projects
 tags:
+- Install and Configuration
+- Practical Techniques and Tooling
 - Troubleshooting
+- Software Development
+- Modern Source Control
+- Pragmatic Thinking
+- System Configuration
+- Operational Practices
+- Application Lifecycle Management
+- Azure DevOps
 categories:
 - Scrum
 - Social Technologies

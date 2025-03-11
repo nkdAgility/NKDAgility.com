@@ -217,12 +217,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:11:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily focuses on the integration of SharePoint 2010 with Team Foundation Server 2010, detailing installation and configuration processes. While it touches on technical practices, it does not delve deeply into broader engineering methodologies or principles that enhance agility in software development.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the integration of SharePoint 2010 with Team Foundation Server 2010, detailing installation and configuration steps. While it touches on technical aspects, such as the installation of extensions and configuration settings, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. The content does not explicitly mention key topics like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence. Therefore, while there are technical elements present, they do not align closely enough with the core themes of the category.",
+    "level": "Quaternary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -667,11 +670,14 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-11T17:00:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content provides detailed instructions on integrating SharePoint 2010 with Team Foundation Server 2010, which is related to collaboration tools. However, the main focus appears to be on technical setup and configuration rather than a broader discussion of collaboration tools in Agile environments.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the integration of SharePoint 2010 with Team Foundation Server 2010, which relates to collaboration tools. However, it primarily focuses on technical setup and configuration rather than on enhancing communication and coordination within Agile teams. While it mentions features that could support collaboration, it lacks a broader discussion on best practices or the impact of such tools on team dynamics.",
     "level": "Tertiary"
   },
   "Organisational Change": {
@@ -1063,11 +1069,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T00:54:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:09:59",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily focuses on the technical steps involved in configuring SharePoint 2010 and Team Foundation Server 2010 to integrate them properly, detailing installation, configuration settings, and best practices. It discusses specific system configuration required for optimal performance and reliability of these two systems.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on the integration and configuration of SharePoint 2010 with Team Foundation Server 2010, detailing specific installation steps, configuration settings, and troubleshooting tips. It discusses best practices for software installation and configuration, as well as the necessary steps to ensure both systems work together effectively. The depth of discussion is substantial, providing detailed instructions and considerations for system setup, which aligns well with the core themes of system configuration.",
     "level": "Secondary"
   },
   "Product Strategy": {

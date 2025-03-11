@@ -35,7 +35,9 @@ tags:
 - Evidence Based Leadership
 - Evidence Based Management
 - Value Delivery
+- Organisational Agility
 - Decision Making
+- Agile Product Management
 resourceTypes:
 - video
 categories:

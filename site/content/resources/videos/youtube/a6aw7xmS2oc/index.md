@@ -25,7 +25,6 @@ duration: 330
 isShort: false
 tags:
 - Ability to Innovate
-- People and Process
 - Product Owner
 - Agile Product Management
 - Agile Product Operating Model
@@ -34,6 +33,7 @@ tags:
 - Metrics and Learning
 - Scrum Product Development
 - Value Delivery
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

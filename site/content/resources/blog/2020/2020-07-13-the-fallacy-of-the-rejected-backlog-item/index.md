@@ -27,6 +27,7 @@ tags:
 - Software Development
 - Agile Project Management
 - Professional Scrum
+- Empirical Process Control
 categories:
 - Scrum
 - Social Technologies

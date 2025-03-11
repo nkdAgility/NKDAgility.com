@@ -31,15 +31,15 @@ sitemap:
   priority: 0.6
 tags:
 - Professional Scrum
+- Software Development
+- Empirical Process Control
 - Scrum Product Development
 - Daily Scrum
-- Empirical Process Control
 - People and Process
 - Transparency
 - Agile Frameworks
 - Scrum Team
 - Scrum Master
-- Software Developers
 resourceTypes:
 - video
 layout: video

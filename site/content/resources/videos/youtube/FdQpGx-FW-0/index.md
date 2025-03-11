@@ -37,10 +37,10 @@ tags:
 - Organisational Agility
 - Agile Values and Principles
 - Agile Frameworks
-- Agile Leadership
 - Agile Project Management
 - Agile Philosophy
 - Agile Strategy
+- Agile Transformation
 resourceTypes:
 - video
 categories:

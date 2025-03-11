@@ -364,12 +364,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:13:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:04:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses build errors and updates related to project solutions, which ties into release processes but primarily focuses on troubleshooting rather than Release Management as its central theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a build error related to MS Build and mentions solutions for different versions of Visual Studio, which could be tangentially related to release management. However, it lacks a direct focus on release management strategies, practices, or processes. The discussion is primarily technical and does not delve into planning, scheduling, or controlling software releases, which are core themes of the category.",
+    "level": "Quaternary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -490,12 +493,15 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T09:13:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:15:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses MS Build and a Team Build error, which is related to build processes. Although it pertains to building solutions and issues encountered, it does not specifically mention Azure Pipelines or its CI/CD practices, making Azure Pipelines a major theme but not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a build error related to MS Build and Team Build, which are components of the Azure DevOps ecosystem. However, it lacks a direct focus on Azure Pipelines specifically, as it primarily addresses issues with Visual Studio solutions and MSBuild configurations. While there are mentions of build processes, the discussion does not delve into CI/CD practices, YAML configurations, or deployment strategies that are central to Azure Pipelines. Therefore, the content is relevant but not sufficiently aligned with the core themes of Azure Pipelines.",
+    "level": "Quaternary"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -1330,12 +1336,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:14:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses issues related to building solutions in Visual Studio, including configuration problems, but primarily centers around troubleshooting and error messages rather than broader system configuration practices.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses a build error related to MS Build and mentions the configuration of solutions in Visual Studio, which touches on system configuration aspects. However, the primary focus is on troubleshooting a specific error rather than a comprehensive exploration of system configuration practices. The discussion lacks depth in best practices or methodologies for system configuration, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",

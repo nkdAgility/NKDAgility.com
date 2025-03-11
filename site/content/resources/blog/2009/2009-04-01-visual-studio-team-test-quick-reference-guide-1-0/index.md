@@ -24,8 +24,8 @@ aliasesArchive:
 - /resources/blog/visual-studio-team-test-quick-reference-guide-1-0
 tags:
 - Practical Techniques and Tooling
-- Pragmatic Thinking
 - Products and Books
+- Pragmatic Thinking
 - Software Development
 - Troubleshooting
 preview: nakedalm-logo-128-link-1-1.png

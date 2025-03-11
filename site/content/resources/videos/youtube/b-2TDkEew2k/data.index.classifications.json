@@ -304,12 +304,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T14:55:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:28:53",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and the concept of minimising effort, which are relevant to product delivery, but it does not focus on the end-to-end process or specific methodologies in detail.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses agile methodologies and the principle of 'just enough' in the context of backlog management, team composition, and planning, which are all relevant to product delivery. It aligns well with the core themes of iterative development and prioritising features. However, while it provides practical insights, it lacks a comprehensive exploration of deployment and testing strategies, which slightly limits its depth.",
+    "level": "Secondary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -340,12 +343,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T14:55:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:18:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile principles and efficiency, which are relevant to the Agile Product Operating Model, but it primarily focuses on the concept of 'just enough' rather than a comprehensive exploration of the model itself.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses agile principles and practices, particularly the 'just enough' philosophy, which aligns with the Agile Product Operating Model's focus on value delivery and efficiency. However, it lacks direct references to product-centric development and does not delve deeply into the specific elements of the Agile Product Operating Model, such as cross-functional teams or metrics for product success.",
+    "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
@@ -367,12 +373,15 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T14:56:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:31:01",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the principle of 'just enough and no more,' which relates to minimising effort and maximising work not done, aligning with flow efficiency concepts. However, it primarily focuses on Agile principles rather than directly addressing flow efficiency as a central theme.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the 'just enough and no more' philosophy, which aligns with the principles of flow efficiency by emphasising the importance of minimising unnecessary work and focusing on value delivery. However, while it touches on backlog management and prioritising value, it lacks detailed techniques for identifying and eliminating bottlenecks or specific metrics for measuring flow efficiency. The discussion is relevant but not exhaustive, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",

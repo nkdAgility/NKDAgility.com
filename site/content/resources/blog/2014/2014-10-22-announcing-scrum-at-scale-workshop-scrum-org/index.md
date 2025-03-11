@@ -32,11 +32,11 @@ tags:
 - Agile Project Management
 - Change Management
 - Large Scale Agility
-- Metrics and Learning
 - Organisational Agility
 - Organisational Change
 - Organisational Culture
 - Scaling Agility
+- Scaling Scrum
 categories:
 - Scrum
 - Social Technologies

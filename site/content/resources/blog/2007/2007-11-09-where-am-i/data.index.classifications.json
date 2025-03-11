@@ -1195,12 +1195,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:17:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses a software project implementation using LINQ and .NET, which aligns with working software concepts, but does not focus on broader discussions of working software principles, practices, or value delivery.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the development of a specific application (Locator project) that aims to provide a functional solution for tracking user locations within a company. However, it lacks a direct focus on the principles of working software as defined in Agile and Scrum frameworks. While it touches on aspects of software functionality and user needs, it does not delve into best practices for ensuring software quality or iterative development processes. The discussion is more technical and project-specific rather than addressing broader themes of working software delivery.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1231,11 +1234,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-11T17:07:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses a specific project implementation involving LINQ and its practical application in a software context. However, it primarily focuses on the technical details and does not emphasize broader pragmatic thinking strategies relevant to Agile, Scrum, or DevOps frameworks.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses a practical application of LINQ in a specific project, which aligns with pragmatic thinking. However, it lacks a broader discussion on Agile, Scrum, or DevOps principles, and does not delve deeply into problem-solving strategies or real-world applications of these frameworks. The focus is more on technical implementation rather than the strategic application of pragmatic thinking in complex environments.",
     "level": "Quaternary"
   },
   "Release Management": {

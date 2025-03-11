@@ -292,12 +292,15 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T11:58:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:18:43",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of technical leadership on organisational effectiveness and productivity, which aligns with Agile Leadership principles. However, the primary focus is on technical practices and challenges rather than leadership roles or strategies within an Agile context.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of optimising systems and technical leadership, which indirectly relates to Agile Leadership principles. However, it primarily focuses on technical aspects and system optimisation rather than explicitly addressing leadership roles or practices within an Agile context. While there are mentions of empowering teams and fostering a culture of excellence, the discussion lacks depth in Agile-specific leadership strategies and does not directly engage with the core themes of Agile Leadership.",
+    "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -967,11 +970,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-12T14:34:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:16:16",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the impact of poor technical leadership on productivity and engineering excellence, highlighting the importance of managing technical debt and optimising systems to enhance team performance.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of technical leadership in optimising systems and managing technical debt, which aligns well with the principles of guiding teams and fostering a culture of continuous improvement. It provides specific examples of how technical leadership can enhance productivity and innovation, particularly through the Azure DevOps team's transformation. However, while it touches on relevant themes, it lacks a more structured discussion on agile methodologies and servant leadership principles, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Troubleshooting": {
@@ -994,11 +1000,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-12T14:34:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:05:01",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the impact of poor technical leadership on engineering practices, including the importance of addressing technical debt, optimising systems, and improving testing processes, which aligns closely with the principles of Agile development.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of optimising systems and addressing technical debt, which aligns with engineering practices. It mentions the impact of testing and the shift to unit tests, reflecting principles of clean code and automation. However, the primary focus is on the broader theme of chaos management rather than specific Agile methodologies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Agile Frameworks": {

@@ -1060,11 +1060,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T21:30:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:58:13",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily focuses on the integration process of SharePoint 2013 with Team Foundation Server 2013, outlining installation, configuration steps, and considerations which are central to configuring systems.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on the integration and configuration of SharePoint 2013 with Team Foundation Server 2013, detailing specific installation steps, configuration settings, and troubleshooting tips. It discusses best practices for software installation and configuration, as well as the importance of system optimisation and maintenance. The depth of discussion is significant, providing detailed instructions and considerations for system administrators, which aligns well with the core themes of system configuration.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1171,11 +1174,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T21:30:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:48:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content predominantly discusses troubleshooting integration issues between SharePoint 2013 and Team Foundation Server 2013, providing specific solutions to potential installation and configuration problems that may arise.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the integration process between SharePoint 2013 and Team Foundation Server 2013, with some troubleshooting aspects mentioned, such as addressing installation issues and configuration errors. However, the main emphasis is on the integration steps rather than a systematic approach to diagnosing and resolving technical issues, which is the core of the Troubleshooting category.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -1216,12 +1222,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:59:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of SharePoint with Team Foundation Server, which is relevant to software developers, particularly in the context of Agile and DevOps practices. However, the focus is primarily on SharePoint setup rather than directly on Agile methodologies or software development practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on integrating SharePoint with Team Foundation Server, which is a technical topic relevant to software development. However, it lacks a direct discussion on Agile methodologies, DevOps principles, or modern engineering practices. While it touches on aspects of software development, such as configuration and integration, it does not delve into best practices or the role of developers in Agile or DevOps contexts, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

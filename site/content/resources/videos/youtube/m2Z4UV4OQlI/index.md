@@ -30,16 +30,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Transparency
 - Evidence Based Leadership
 - Metrics and Learning
-- Organisational Agility
-- Ability to Innovate
-- Empirical Process Control
-- Evidence Based Management
-- Pragmatic Thinking
-- Agile Strategy
 resourceTypes:
 - video
 categories:

@@ -36,13 +36,14 @@ categories:
 - Product Management
 tags:
 - Evidence Based Management
-- Ability to Innovate
 - Value Delivery
+- Ability to Innovate
 - Decision Making
 - Evidence Based Leadership
 - Experimentation
 - Metrics and Learning
 - Agile Product Management
+- People and Process
 
 ---
 # The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty

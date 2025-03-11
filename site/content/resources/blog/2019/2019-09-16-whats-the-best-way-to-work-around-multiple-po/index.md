@@ -29,12 +29,12 @@ aliasesArchive:
 tags:
 - Agile Product Management
 - People and Process
-- Product Backlog
 - Product Owner
 - Professional Scrum
 - Scrum Product Development
-- Scrum Team
 - Agile Project Management
+- Scrum Team
+- Product Backlog
 - Accountability
 - Agile Frameworks
 categories:

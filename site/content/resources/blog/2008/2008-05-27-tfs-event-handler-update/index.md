@@ -24,8 +24,6 @@ aliasesArchive:
 - /resources/blog/tfs-event-handler-update
 tags:
 - Working Software
-- Practical Techniques and Tooling
-- Application Lifecycle Management
 - Software Development
 - Troubleshooting
 categories: []

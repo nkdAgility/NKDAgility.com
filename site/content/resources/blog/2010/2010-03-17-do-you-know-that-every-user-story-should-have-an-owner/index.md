@@ -27,19 +27,19 @@ aliasesArchive:
 - /blog/do-you-know-that-every-user-story-should-have-an-owner-
 - /resources/blog/do-you-know-that-every-user-story-should-have-an-owner
 tags:
-- Scrum Product Development
-- Scrum Team
 - Software Development
-- Agile Project Management
 - People and Process
+- Agile Project Management
+- Scrum Product Development
 - Agile Product Management
 - Accountability
 - Pragmatic Thinking
+- Scrum Team
 - Team Collaboration
 - Team Performance
 categories:
-- Scrum
 - Social Technologies
+- Scrum
 preview: metro-SSWLogo-128-link-4-4.png
 
 ---

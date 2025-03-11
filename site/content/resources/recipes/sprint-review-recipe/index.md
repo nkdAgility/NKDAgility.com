@@ -42,6 +42,7 @@ categories:
 - Scrum
 - Social Technologies
 tags:
+- Increment
 - Scrum Product Development
 - Sprint Review
 - Agile Project Management

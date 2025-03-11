@@ -313,12 +313,15 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-12T03:02:30",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses improving workflow and the impact of approval delays on the flow of work, which relates to Cycle Time. However, it primarily focuses on Kanban practices and specific team experiences rather than a comprehensive discussion on Cycle Time itself.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-11T14:24:48",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses improving workflow in a Kanban strategy, which indirectly relates to Cycle Time by addressing blockages and waiting times that affect the overall efficiency of the workflow. However, it does not explicitly mention Cycle Time as a metric or provide detailed strategies specifically aimed at measuring or reducing Cycle Time. The focus is more on general workflow improvement rather than a direct analysis of Cycle Time itself.",
+    "level": "Tertiary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -340,11 +343,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T03:02:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:13:56",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses improving workflow within a Kanban framework, which is a key aspect of Agile methodologies in software development.",
+    "final_score": 78.0,
+    "reasoning": "The content focuses on improving workflows within a Kanban strategy, which is a key aspect of Agile methodologies in software development. It discusses specific practices related to workflow management, such as identifying blockages and reducing waiting times, which align well with the principles of continuous improvement in software development. The depth of discussion includes practical examples and actionable steps, demonstrating a strong understanding of the topic. Overall, the content is primarily focused on software development practices, particularly within the Agile framework.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -358,11 +364,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T03:02:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:26:35",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses improving workflow to maximise the flow of value through the system, which directly relates to throughput. It provides examples of how to identify and address blockages in the workflow, emphasising the importance of optimising the flow of work items and measuring the cost of delays, aligning well with the key topics of throughput.",
+    "final_score": 70.0,
+    "reasoning": "The content focuses on improving workflow within a Kanban strategy, which directly relates to throughput by discussing the identification and elimination of blockages and delays that hinder the flow of work. It provides a real-life example illustrating how addressing these issues can enhance efficiency, aligning well with the core themes of throughput. However, while it discusses relevant concepts, it does not explicitly mention throughput as a term, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Azure Pipelines": {

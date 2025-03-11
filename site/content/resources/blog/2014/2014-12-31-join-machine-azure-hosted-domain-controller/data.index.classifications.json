@@ -586,11 +586,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:43:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content is primarily focused on configuring a machine to join an Azure-hosted domain, which involves aspects of software deployment and configuration management typical in software development environments. However, it does not delve deeply into methodologies or practices typical of software development, making it a secondary theme.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses the process of joining a machine to an Azure-hosted domain controller, which involves aspects of software development such as configuration management and cloud infrastructure. While it does not delve deeply into software engineering methodologies or best practices, it aligns with the conceptual framework of software development by addressing practical steps in a cloud environment. The depth of discussion is moderate, focusing on specific actions rather than broader software development principles.",
     "level": "Tertiary"
   },
   "Agile Project Management": {
@@ -1027,12 +1030,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:53:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses joining a machine to an Azure-hosted domain controller, which relates to digital technologies and cloud integration but primarily focuses on technical steps rather than a broader strategy for digital transformation.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on technical steps for joining a machine to an Azure-hosted domain controller, which is a specific operational task rather than a strategic discussion on digital transformation. While it mentions Azure and domain management, it lacks a broader context of how these actions contribute to business agility or innovation. The discussion is more about implementation details than strategic insights, resulting in a low confidence score for alignment with the Digital Transformation category.",
+    "level": "Quaternary"
   },
   "MVP": {
     "category": "MVP",

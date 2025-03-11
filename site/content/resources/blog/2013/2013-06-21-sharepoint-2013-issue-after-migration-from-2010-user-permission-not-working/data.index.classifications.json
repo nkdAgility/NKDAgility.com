@@ -589,11 +589,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T19:27:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:59:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses a technical issue related to SharePoint migration and includes a solution involving PowerShell scripting, which is relevant to software development practices, specifically in software maintenance and configuration management.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses a specific issue related to SharePoint migration, focusing on authentication mechanisms and providing a PowerShell script as a solution. It directly addresses a technical problem within the software development context, particularly in the realm of system upgrades and user management. The mention of PowerShell scripting and the detailed steps for resolving the issue indicate a strong alignment with software development practices. However, while it is rich in technical detail, it lacks broader discussions on methodologies or frameworks, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -790,11 +793,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:49:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content involves practical problem-solving around SharePoint 2013 migration issues, including real-world application of PowerShell for user account updates, but the main topic is technical troubleshooting rather than Agile or Scrum principles.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a practical problem related to SharePoint migration, detailing a real-world issue and providing a solution through a PowerShell script. It demonstrates pragmatic thinking by addressing a specific challenge and offering a straightforward, experience-based solution. However, while it aligns with the themes of practical problem-solving and real-world application, it does not explicitly mention Agile, Scrum, or DevOps frameworks, which slightly lowers the confidence score.",
     "level": "Tertiary"
   },
   "Backlog Refinement": {
@@ -1117,12 +1123,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:01:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily discusses SharePoint 2013 and its migration issues, it mentions using PowerShell scripts, which are typically executed within a Windows environment. However, the main focus is on SharePoint, making Windows a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses issues related to SharePoint 2013 and its migration from SharePoint 2010, focusing on authentication mechanisms and user permissions. While it touches on PowerShell scripting, which is often used in Windows environments, the main focus is on SharePoint rather than the Windows operating system itself. The content does not explicitly mention Windows installation, configuration, or troubleshooting, which are key aspects of the category. Therefore, the confidence score reflects a low alignment with the Windows category.",
+    "level": "Quaternary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",

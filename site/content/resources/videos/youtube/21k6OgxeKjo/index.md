@@ -24,6 +24,9 @@ preview: https://i.ytimg.com/vi/21k6OgxeKjo/maxresdefault.jpg
 duration: 38
 isShort: true
 tags:
+- Product Owner
+- Agile Leadership
+- Scrum Team
 - People and Process
 sitemap:
   filename: sitemap.xml

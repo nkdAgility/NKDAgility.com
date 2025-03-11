@@ -604,12 +604,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T01:51:41",
-    "ai_confidence": 67,
+    "calculated_at": "2025-03-11T18:12:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 63.0,
-    "reasoning": "The content discusses managing projects in Team Foundation Server (TFS) with particular emphasis on using areas and iterations, which aligns with agile practices, but the focus is primarily on the setup of projects rather than deep discussions on agile methodologies or principles.",
-    "level": "Secondary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses project management in the context of Team Foundation Server (TFS) and mentions Agile principles, but it primarily focuses on the technical aspects of managing projects within TFS rather than exploring Agile methodologies in depth. While there are references to Agile practices, such as using areas and iterations, the discussion lacks a comprehensive exploration of Agile frameworks, roles, or principles, which diminishes its alignment with the category.",
+    "level": "Quaternary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
@@ -799,11 +802,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-16T01:51:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:01:30",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical strategies for project management using TFS in a way that aligns with Agile methodologies, illustrating examples, pros, and cons of using Areas over multiple Team Projects, which showcases pragmatic thinking in real-world applications.",
+    "final_score": 74.0,
+    "reasoning": "The content provides a detailed discussion on the practical application of Team Foundation Server (TFS) project management strategies, particularly in relation to using Areas instead of multiple Team Projects. It directly addresses real-world scenarios faced by companies, emphasising adaptability and practical problem-solving in project management. The author shares personal experiences and community feedback, which aligns well with the core themes of Pragmatic Thinking. The depth of discussion is significant, covering pros and cons, implications, and potential tools for implementation, demonstrating a strong focus on practical application rather than theoretical concepts.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -1069,11 +1075,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T01:51:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:10:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the configuration of Team Projects and Areas in Team Foundation Server, focusing on best practices, implications of configuration choices, and recommendations for system setup that align with the principles of system configuration.",
+    "final_score": 67.0,
+    "reasoning": "The content primarily discusses the configuration of Team Foundation Server (TFS) projects, focusing on the use of Areas and Iterations for project management. It provides detailed insights into the implications of using a single Team Project per client, which aligns with best practices for system configuration. The depth of discussion includes pros and cons, configuration requirements, and the impact on project management, indicating a strong focus on system configuration principles. However, while it is relevant, it does not cover all aspects of system configuration comprehensively, leading to a slightly lower confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {

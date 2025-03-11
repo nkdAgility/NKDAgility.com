@@ -217,12 +217,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:51:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily focuses on the technical setup and configuration of Windows Server 2012 Core, detailing command-line operations and server management practices. While it touches on technical practices, it does not delve deeply into methodologies or principles that enhance agility or engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on practical steps for setting up and managing Windows Server 2012 Core, which includes command-line operations and configurations. While it touches on technical aspects, such as remote management and firewall settings, it lacks a deeper exploration of engineering practices or methodologies that enhance agility in software development. The discussion does not explicitly mention concepts like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence. Therefore, while there are relevant technical details, they do not align closely enough with the core themes of the category.",
+    "level": "Quaternary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -271,11 +274,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:02:49",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses the setup and configuration of Windows Server 2012 Core, which is a software product. However, it lacks a focus on reviews, analyses, or discussions that align with Agile methodologies or DevOps practices, making the category a secondary theme.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on providing a guide for setting up Windows Server 2012 Core, which is a software product. While it does not explicitly review or analyse the product in the context of Agile or DevOps methodologies, it does discuss practical applications and configurations that could be relevant to users in those fields. However, the depth of discussion is more technical and instructional rather than evaluative or comparative, which limits its alignment with the category's core themes.",
     "level": "Tertiary"
   },
   "Value Delivery": {
@@ -787,12 +793,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-11T15:01:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content outlines practical, experience-based instructions for setting up and managing Windows Server 2012 Core. It discusses real-world applications of command line techniques and troubleshooting steps, aligning with pragmatic problem-solving in complex environments. However, it primarily focuses on server configuration rather than Agile, Scrum, or DevOps contexts, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content provides practical guidance on setting up and managing Windows Server 2012 Core, which aligns with pragmatic thinking in terms of real-world applications and problem-solving strategies. However, it lacks a strong focus on Agile, Scrum, or DevOps frameworks, and the discussion is primarily technical rather than strategic, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",

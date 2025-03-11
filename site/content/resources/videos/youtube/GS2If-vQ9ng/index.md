@@ -26,13 +26,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Miscellaneous
-- Agile Transformation
-- Agile Strategy
-- Organisational Agility
-- Organisational Change
-- Pragmatic Thinking
 - Software Development
 resourceTypes:
 - video

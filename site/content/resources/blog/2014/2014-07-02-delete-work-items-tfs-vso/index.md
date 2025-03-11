@@ -28,8 +28,8 @@ aliasesArchive:
 - /resources/blog/delete-work-items-tfs-vso
 tags:
 - Practical Techniques and Tooling
-- Software Development
 - Install and Configuration
+- Software Development
 - Troubleshooting
 - Azure DevOps
 categories: []

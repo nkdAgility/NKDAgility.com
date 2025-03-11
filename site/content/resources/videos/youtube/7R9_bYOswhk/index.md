@@ -35,8 +35,9 @@ tags:
 - Agile Project Management
 - Technical Leadership
 - Mentoring
-- Scrum Team
 - Agile Frameworks
+- Scrum Team
+- Agile Product Management
 resourceTypes:
 - video
 layout: video

@@ -859,12 +859,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:51:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses upgrading Team Foundation Server, which is relevant to software developers, but it primarily focuses on installation and configuration rather than Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server, which is relevant to software developers. However, it lacks explicit discussions on Agile or DevOps methodologies, best practices, or team dynamics. While it touches on the installation and configuration process, it does not delve into how these practices enhance productivity or collaboration, which are key themes of the category.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1252,12 +1255,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:09:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:03:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content relates to upgrading Team Foundation Server, which is part of the software delivery process, but it primarily focuses on installation and configuration details rather than broader product delivery methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server, which is more about installation and configuration rather than the broader methodologies and practices of product delivery. While it touches on aspects of deployment, it lacks a comprehensive discussion on planning, testing, or iterative development, which are key themes in the Product Delivery category.",
+    "level": "Quaternary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1279,12 +1285,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-14T16:29:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:01:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the installation and upgrade process of Team Foundation Server 2012 Update 1, which is a specific software product relevant to Agile and DevOps practices.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server 2012, which is a software product. While it discusses the installation and upgrade process, it lacks in-depth analysis or reviews that would typically align with the 'Products and Books' category. The mention of the product is direct, but the discussion does not explore broader implications or methodologies related to Agile or DevOps, resulting in a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",

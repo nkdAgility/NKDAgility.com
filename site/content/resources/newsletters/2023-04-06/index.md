@@ -21,8 +21,8 @@ categories:
 - Scrum
 - Social Technologies
 tags:
-- Agile Product Management
 - Pragmatic Thinking
+- Agile Product Management
 - Professional Scrum
 - Scrum Product Development
 - Agile Frameworks

@@ -27,6 +27,7 @@ tags:
 - Azure DevOps
 - Software Development
 - Pragmatic Thinking
+- Practical Techniques and Tooling
 - Install and Configuration
 sitemap:
   filename: sitemap.xml

@@ -358,12 +358,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:13:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:14:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a hosted TFS service and its features, which relates to product delivery in terms of providing a software solution. However, the primary focus is on the service offering rather than the methodologies or practices of product delivery.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a hosted TFS service and its features, which relates to product delivery in terms of providing a software solution. However, it lacks a focused discussion on methodologies, practices, or strategies that are central to the product delivery category. The mention of features and pricing does not delve into the core themes of planning, testing, or deployment, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -1066,12 +1069,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:13:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:14:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses TFS (Team Foundation Server), which is a version control system, and provides information about its hosting, features, and pricing. However, it primarily focuses on the service itself rather than best practices or methodologies of source control.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS) and its hosting, which relates to version control systems. However, it primarily focuses on the service offering and pricing rather than best practices or methodologies in modern source control. The discussion lacks depth in terms of version control strategies, branching, or collaboration workflows, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -1336,12 +1342,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:04:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily discusses the hosted TFS service from Phase2, it includes several relevant aspects regarding server deployment, configuration options, and service offerings that align with system configuration topics. However, the main focus appears to be on the service itself rather than detailed configuration methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a hosted TFS service and includes some details about server setup and backup offerings, which are relevant to system configuration. However, the primary focus is on the service review rather than in-depth exploration of configuration methodologies or best practices. The discussion lacks sufficient detail on configuration management tools, optimisation strategies, or troubleshooting, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",

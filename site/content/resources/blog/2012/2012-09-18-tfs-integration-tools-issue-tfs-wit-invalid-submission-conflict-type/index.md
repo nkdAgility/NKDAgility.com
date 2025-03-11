@@ -29,8 +29,8 @@ aliasesArchive:
 - /blog/tfs-integration-tools---issue--tfs-wit-invalid-submission-conflict-type
 - /resources/blog/tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
 tags:
-- Install and Configuration
 - Troubleshooting
+- Install and Configuration
 - System Configuration
 - Practical Techniques and Tooling
 - Software Development

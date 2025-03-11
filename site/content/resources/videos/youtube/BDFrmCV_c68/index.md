@@ -31,8 +31,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Product Management
 - Pragmatic Thinking
+- Agile Product Management
+- Software Developers
 - Metrics and Learning
 - Value Delivery
 - Hypothesis Driven Development

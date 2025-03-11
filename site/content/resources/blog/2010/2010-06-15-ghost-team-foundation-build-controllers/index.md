@@ -30,6 +30,8 @@ tags:
 - Troubleshooting
 - Software Development
 - Practical Techniques and Tooling
+- Install and Configuration
+- System Configuration
 - Azure DevOps
 preview: metro-visual-studio-2010-128-link-4-4.png
 categories:

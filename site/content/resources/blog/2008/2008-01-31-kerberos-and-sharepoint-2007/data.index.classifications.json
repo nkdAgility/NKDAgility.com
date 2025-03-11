@@ -103,11 +103,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:13:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:16:20",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses specific technical tasks related to Kerberos authentication in SharePoint, which involves practical techniques for configuring authentication in a production environment. However, it does not primarily focus on Agile or DevOps methodologies or tools.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses specific technical tasks related to Kerberos authentication in SharePoint, which aligns with practical techniques for implementing security in a DevOps context. However, it lacks broader discussions on Agile or DevOps methodologies and does not mention any specific Agile or DevOps tools, limiting its relevance to the category.",
     "level": "Tertiary"
   },
   "Value Delivery": {
@@ -586,11 +589,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:06:20",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses Kerberos authentication in the context of SharePoint, focusing on tasks necessary for setting up a production environment. While related to software development, it primarily revolves around server configuration and domain management rather than software development methodologies or practices.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the implementation of Kerberos authentication in a SharePoint environment, which is relevant to software development practices, particularly in the context of configuring software systems and managing security protocols. It provides specific technical details and commands related to setting up Service Principal Names (SPNs) and running applications under specific accounts, which aligns with best practices in software deployment and configuration management. However, the focus is more on system administration and configuration rather than broader software development methodologies or practices, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Site Reliability Engineering": {

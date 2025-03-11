@@ -319,11 +319,14 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-12T13:57:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:19:28",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses Cycle Time in the context of Kanban and Scrum, detailing its definition, importance, and relationship with other metrics. It also explores methods for measuring and managing Cycle Time, making it a central theme.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses Cycle Time as a key metric within the context of Kanban and Scrum, detailing its definition, importance, and relationship with other metrics. It provides substantial depth on how Cycle Time can be measured and improved, aligning closely with the core themes of the category. The discussion includes practical applications and strategies for managing Cycle Time effectively, indicating a strong focus on the topic.",
     "level": "Secondary"
   },
   "Engineering Practices": {
@@ -346,12 +349,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T13:57:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:08:34",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 40,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the integration of Kanban practices within the Scrum framework, focusing on methodologies and techniques that enhance software development processes. It covers key topics such as flow optimization, metrics, and the roles of Scrum events, which are central to software development practices.",
-    "level": "Secondary"
+    "final_score": 84.0,
+    "reasoning": "The content extensively discusses the integration of Kanban practices within the Scrum framework, which is a core aspect of software development methodologies. It provides detailed insights into flow metrics, work item management, and the empirical process control theory that underpins both Kanban and Scrum. The guide not only mentions key concepts but also elaborates on their application in real-world scenarios, demonstrating a strong alignment with software development practices. The depth of discussion is significant, covering various aspects of the development lifecycle and best practices, thus justifying a high confidence score.",
+    "level": "Primary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -367,12 +373,15 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T13:58:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:21:37",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the concept of throughput within the context of Kanban and Scrum, including metrics such as cycle time, work in progress, and the relationship between these metrics and team performance. It focuses on optimising flow and improving throughput, making it a central theme.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses throughput in the context of Kanban and Scrum, including definitions, metrics, and practices that directly relate to measuring and optimising work completion rates. It provides detailed insights into how throughput is affected by work in progress (WIP), cycle time, and the overall flow of work, aligning closely with the key topics outlined for the category. The depth of discussion on metrics and practices for improving throughput further supports a high confidence score.",
+    "level": "Primary"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",

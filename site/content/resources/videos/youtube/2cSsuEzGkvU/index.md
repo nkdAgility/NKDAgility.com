@@ -28,6 +28,8 @@ tags:
 - Agile Values and Principles
 - Team Collaboration
 - Team Motivation
+- Discovery and Learning
+- Business Agility
 - Personal
 - Coaching
 - Team Performance

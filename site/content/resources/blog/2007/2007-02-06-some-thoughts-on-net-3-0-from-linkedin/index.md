@@ -29,6 +29,7 @@ aliasesArchive:
 tags:
 - Software Development
 - Technical Mastery
+- Windows
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

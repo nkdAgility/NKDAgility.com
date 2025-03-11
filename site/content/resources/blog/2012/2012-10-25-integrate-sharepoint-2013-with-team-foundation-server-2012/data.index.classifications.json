@@ -247,12 +247,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:52:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the integration of SharePoint 2013 with Team Foundation Server 2012, which relates to the deployment and configuration aspects of product delivery, but it primarily focuses on installation and setup rather than broader product delivery methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the technical steps for integrating SharePoint 2013 with Team Foundation Server 2012, which is more about installation and configuration rather than the methodologies and practices of product delivery. While it touches on aspects of deployment and configuration, it lacks a comprehensive discussion on product delivery principles such as Agile methodologies, iterative development, or quality assurance practices. Therefore, it only partially aligns with the category.",
+    "level": "Quaternary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -499,12 +502,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:02:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the integration of SharePoint with Team Foundation Server, including references to Scrum dashboards and templates, indicating a secondary theme related to Scrum practices.",
-    "level": "Tertiary"
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on the technical integration of SharePoint 2013 with Team Foundation Server 2012, with only a brief mention of Scrum in the context of enabling Scrum dashboards. There is minimal discussion on Scrum Team dynamics, roles, or collaboration techniques, which are central to the 'Scrum Team' category.",
+    "level": "Quinary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -1015,12 +1021,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:03:46",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the integration of SharePoint with Team Foundation Server, which can facilitate team collaboration, but the primary focus is on technical installation and configuration rather than on enhancing team dynamics or communication.",
-    "level": "Tertiary"
+    "final_score": 24.0,
+    "reasoning": "The content primarily focuses on the technical integration of SharePoint 2013 with Team Foundation Server 2012, with minimal emphasis on team collaboration dynamics. While it mentions creating a Team Project Portal, it lacks detailed discussions on improving team communication, shared ownership, or fostering a culture of trust, which are key themes in the Team Collaboration category.",
+    "level": "Quaternary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",

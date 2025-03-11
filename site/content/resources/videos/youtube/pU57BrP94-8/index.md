@@ -28,13 +28,13 @@ sitemap:
   priority: 0.6
 tags:
 - Discovery and Learning
-- People and Process
 - Continuous Learning
+- People and Process
+- Pragmatic Thinking
 - Coaching
 - Team Collaboration
 - Metrics and Learning
 - Mentoring
-- Pragmatic Thinking
 - Empirical Process Control
 resourceTypes:
 - video

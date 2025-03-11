@@ -496,12 +496,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T21:31:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T18:05:28",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the practical application and configuration of a custom adapter in the TFS Integration Platform for data migration, which aligns well with operational practices intended to enhance efficiency in data management processes.",
-    "level": "Secondary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating data from FogBugz to TFS, detailing the setup of a development environment and the use of a custom adapter. While it touches on operational practices such as data mapping and configuration, it lacks a broader discussion on strategies for enhancing operational efficiency or continuous improvement within Agile or DevOps frameworks. The practical application is present, but the depth and focus on operational practices are limited.",
+    "level": "Quaternary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -880,12 +883,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-15T21:31:09",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-11T16:54:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content provides detailed information about a technical process related to migrating data and configuring adapters within the TFS Integration Platform, which aligns with working software practices. It discusses development setup, software configurations, and practical coding examples that relate to delivering functional software. However, the primary focus on the migration process makes it somewhat peripheral to the core theme of working software implementation.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating data between software systems, specifically from FogBugz to TFS 2012. While it discusses the setup and configuration of a custom adapter, it lacks a direct emphasis on the characteristics of working software as defined in Agile and Scrum frameworks. The discussion is more about implementation details rather than the delivery of functional software that meets user needs. Therefore, while there are some relevant elements, the overall focus is not strongly aligned with the core themes of working software.",
+    "level": "Tertiary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1069,11 +1075,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T21:31:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:04:00",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the setup and configuration of a development environment and custom adapters for the TFS Integration Platform, focusing on the processes involved in configuring system components and handling data migration configurations.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on the technical aspects of configuring a custom adapter for the TFS Integration Platform, which aligns well with system configuration practices. It discusses setting up a development environment, installing necessary software, and configuring project settings, all of which are key elements of system configuration. The depth of discussion includes specific steps and code snippets for configuration, indicating a thorough exploration of the topic. However, there are some mentions of broader software development practices that slightly detract from the primary focus on system configuration.",
     "level": "Secondary"
   },
   "Product Strategy": {

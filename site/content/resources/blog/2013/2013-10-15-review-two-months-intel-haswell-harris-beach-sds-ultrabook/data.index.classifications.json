@@ -292,12 +292,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:57:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 2,
+    "ai_alignment": 5,
+    "ai_depth": 5,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content includes personal experiences and reflections on using the Intel Haswell Harris Beach SDS Ultrabook, discussing challenges faced and insights gained during its use, which aligns with the Personal category. However, the primary focus is on the technical aspects of the laptop rather than personal anecdotes related to Agile or similar methodologies.",
-    "level": "Tertiary"
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on a technical review of a laptop, discussing its performance and personal usage experiences. While there are brief mentions of personal experiences, such as the author's reflections on battery life and usage scenarios, these do not delve deeply into the themes of Agile, Scrum, or DevOps. The content lacks substantial personal insights or anecdotes related to the specified methodologies, leading to a low confidence score in the 'Personal' category.",
+    "level": "Quinary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -583,12 +586,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:47:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the author's experience working with Visual Studio 2013 on a specific laptop, which is related to software development. However, the main focus is more on hardware and personal experiences rather than formal software development practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on a personal review of a laptop and its performance with Windows 8.1 and Visual Studio. While it mentions development tools like Visual Studio, the discussion is more about hardware performance and personal experiences rather than software development methodologies or practices. The alignment with the core themes of software development is minimal, and the depth of discussion on relevant topics is limited.",
+    "level": "Quaternary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -1165,11 +1171,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:59:14",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues and problems related to Windows 8.1 drivers on a specific laptop model, as well as some solutions that were implemented to resolve those issues. However, the primary focus of the content is more on the review of the laptop's performance rather than a systematic troubleshooting methodology.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses issues encountered with Windows 8.1 and drivers for the Intel Haswell laptop, which aligns with troubleshooting themes. It mentions specific problems and their resolutions, such as power and screen issues, and the impact of driver updates. However, the overall focus is more on the user experience and performance rather than a systematic approach to troubleshooting, which limits the depth of discussion. Therefore, while it does touch on troubleshooting, it is not the primary focus.",
     "level": "Tertiary"
   },
   "Experimentation": {

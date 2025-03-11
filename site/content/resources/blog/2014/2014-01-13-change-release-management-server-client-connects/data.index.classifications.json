@@ -244,12 +244,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:46:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of release management and configuration, which are related to the deployment phase of product delivery, but it primarily focuses on a specific technical workaround rather than broader methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of changing the Release Management Server connection for a client application. While it touches on deployment-related tasks, it lacks a broader discussion on methodologies, practices, or strategies that are central to product delivery. The mention of a utility for configuration changes is relevant but does not delve into the comprehensive processes or best practices associated with product delivery, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1120,12 +1123,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-11T17:58:46",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content primarily discusses changing the connection for a Release Management Client, which may run on a Windows system, and involves procedures related to configuration files in a Windows environment. However, it mainly focuses on specific software rather than broader Windows OS topics.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the configuration and management of the Release Management Client, which is a tool used within the Windows environment. It provides detailed instructions on changing server connections, troubleshooting error messages, and mentions specific file paths and utilities related to Windows. The focus on configuration settings and troubleshooting aligns well with the core themes of the Windows category, although it does not cover broader aspects like installation or updates. The depth of discussion is substantial, providing practical steps and insights, which supports a higher confidence score.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1174,11 +1180,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T11:31:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:57:00",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the troubleshooting process for a specific issue related to changing the Release Management Server connection within a client application, including error messages, configuration adjustments, and workarounds.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses a specific issue related to connecting to a Release Management Server and provides a workaround for when the server is unavailable. It mentions error messages and the need to manually change configuration files, which aligns with troubleshooting practices. However, while it addresses a technical issue, the depth of discussion on systematic problem-solving techniques and broader troubleshooting strategies is limited.",
     "level": "Secondary"
   },
   "Experimentation": {

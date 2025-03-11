@@ -28,6 +28,7 @@ sitemap:
   priority: 0.6
 tags:
 - Complexity Thinking
+- Sensemaking
 resourceTypes:
 - video
 categories:

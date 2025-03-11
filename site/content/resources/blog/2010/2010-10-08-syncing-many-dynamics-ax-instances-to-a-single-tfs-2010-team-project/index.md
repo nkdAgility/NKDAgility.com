@@ -25,8 +25,8 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Modern Source Control
 - System Configuration
+- Modern Source Control
 - Pragmatic Thinking
 - Software Development
 - Technical Mastery

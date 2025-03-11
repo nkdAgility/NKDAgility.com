@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:11:01",
+    "ai_confidence": 65.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses troubleshooting a specific tool (TfsConfig) and the practical steps taken to resolve permission issues, which aligns with the exploration of tooling. However, it is primarily focused on a personal experience rather than a broader discussion of techniques or methodologies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses troubleshooting a specific permission issue with TFS 2010, which involves practical techniques for using the TfsConfig tool and understanding user permissions. It provides a detailed account of the steps taken to diagnose the problem, aligning with the category's focus on practical application of tooling. However, it lacks broader discussions on methodologies or frameworks that enhance Agile and DevOps practices, which slightly lowers the confidence score.",
     "level": "Tertiary"
   },
   "Platform Engineering": {
@@ -373,12 +376,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:01:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses a technical issue related to permissions in TFS, which is relevant to software administration and engineering practices, but the primary focus is on the troubleshooting process rather than broader principles of software craftsmanship or engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific permission issue in TFS, which is more about operational challenges than the principles of software craftsmanship or engineering excellence. While it does touch on aspects of permissions and administrative roles, it lacks a broader discussion on best practices, methodologies, or principles that define technical mastery. The depth of discussion is limited to a personal experience without delving into the underlying technical principles or practices that would elevate it to a discussion of technical mastery.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -580,11 +586,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:12:35",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses troubleshooting a TFS administration issue, which is relevant to software development practices, particularly in managing Team Foundation Server (TFS) for software projects.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses a specific issue related to TFS (Team Foundation Server) administration, which is a tool used in software development for version control and project management. While it does not delve deeply into broader software development methodologies or practices, it does touch on aspects of permissions and administrative roles that are relevant to the software development lifecycle. The discussion is somewhat anecdotal and lacks a structured exploration of best practices or methodologies, but it does provide practical insights into troubleshooting within a software development context.",
     "level": "Tertiary"
   },
   "Agile Project Management": {

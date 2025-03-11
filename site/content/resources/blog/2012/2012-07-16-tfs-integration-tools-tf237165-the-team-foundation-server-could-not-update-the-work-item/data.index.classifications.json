@@ -289,11 +289,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:54:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific error related to Team Foundation Server (TFS), which is part of Azure DevOps, but primarily focuses on a configuration issue rather than broader Azure DevOps functionalities or practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific error related to Team Foundation Server (TFS), which is part of the Azure DevOps suite. However, it primarily focuses on a technical issue and workaround rather than providing a broader discussion on Azure DevOps functionalities or best practices. While TFS is mentioned, the content lacks depth in exploring Azure DevOps as a whole, and the discussion is more technical than thematic.",
     "level": "Tertiary"
   },
   "Personal": {
@@ -652,12 +655,15 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-17T09:09:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:05:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a work item update issue within a context that relates to Azure Boards, since TFS (Team Foundation Server) is closely associated with Azure DevOps. However, the primary focus is more on integration tools and configuration errors rather than directly on Azure Boards functionalities or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific error related to updating work items in Team Foundation Server (TFS), which is related to Azure Boards. However, it does not provide a comprehensive overview of Azure Boards' functionalities or best practices. The focus is primarily on a technical issue rather than the broader context of Agile project management or the features of Azure Boards.",
+    "level": "Quaternary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -787,11 +793,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:09:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:04:07",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a practical problem-solving scenario encountered while working with TFS Integration Tools, which relates to real-world applications and decision-making in a technical context, but it does not predominantly focus on Agile or DevOps frameworks.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific technical issue related to Team Foundation Server (TFS) and provides a practical solution to a configuration error. While it does not explicitly mention Agile, Scrum, or DevOps, it demonstrates pragmatic problem-solving by detailing a real-world scenario and the steps taken to resolve it. The focus on a practical workaround aligns with the core themes of pragmatic thinking, although the discussion lacks depth in broader Agile or Scrum contexts.",
     "level": "Tertiary"
   },
   "Backlog Refinement": {

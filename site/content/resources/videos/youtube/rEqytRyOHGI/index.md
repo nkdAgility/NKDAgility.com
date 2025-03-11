@@ -29,16 +29,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Software Development
-- Product Delivery
-- Working Software
-- Agile Project Management
-- Agile Philosophy
-- Agile Planning
-- Agile Strategy
-- Agile Transformation
-- Scrum Product Development
-- Agile Product Management
+- Increment
 resourceTypes:
 - video
 categories:

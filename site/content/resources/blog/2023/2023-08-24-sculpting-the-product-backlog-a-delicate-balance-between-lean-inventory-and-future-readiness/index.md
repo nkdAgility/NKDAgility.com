@@ -30,12 +30,12 @@ aliasesArchive:
 tags:
 - Product Backlog
 - Agile Product Management
-- Transparency
-- Lean
-- Lean Product Development
-- Product Delivery
 - Products and Books
+- Transparency
+- Product Delivery
+- Lean
 - Scrum Product Development
+- Lean Product Development
 - Agile Product Operating Model
 - Backlog Refinement
 categories:

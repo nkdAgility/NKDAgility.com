@@ -29,10 +29,9 @@ tags:
 - Practical Techniques and Tooling
 - Technical Mastery
 - Install and Configuration
-- Technical Excellence
 - Pragmatic Thinking
 - Software Developers
-- System Configuration
+- Technical Excellence
 categories:
 - Engineering Excellence
 

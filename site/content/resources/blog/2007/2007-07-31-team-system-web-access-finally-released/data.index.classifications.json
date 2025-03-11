@@ -187,11 +187,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:13:35",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-11T15:19:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses the release of a software product and some issues related to its functionality, but it primarily focuses on personal experiences and specific problems rather than the methodologies and practices of product delivery.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the release of a software product and some personal experiences with its features and issues. However, it lacks a structured discussion on methodologies, practices, or strategies related to product delivery. While it mentions some challenges faced during deployment, it does not delve into broader themes such as Agile methodologies, testing, or deployment strategies, which are central to the category of Product Delivery.",
     "level": "Quaternary"
   },
   "Beta Codex": {
@@ -385,12 +388,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:08:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the installation and configuration of Team System Web Access, as well as some issues encountered in the configuration process. However, it also includes discussions about general usability and user experience, which makes system configuration a secondary but significant theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the installation of Team System Web Access and mentions some configuration issues encountered, such as the long project name problem and email notifications for work items. However, the focus is more on user experience and specific issues rather than a comprehensive exploration of system configuration principles or best practices. The discussion lacks depth in terms of configuration management tools or optimisation strategies, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",

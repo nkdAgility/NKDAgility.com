@@ -283,12 +283,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:07:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content includes personal reflections on a job specification and advice for employers and job seekers, but the primary focus is on the absurdity of the job requirements rather than personal experiences with Agile or related methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content includes personal reflections on a job specification and offers advice based on individual experiences. However, it primarily focuses on technical skills and job requirements rather than deeper personal insights related to Agile, Scrum, or DevOps methodologies. The personal anecdotes are present but not the main focus, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -328,12 +331,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:18:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses job requirements and advice for employers and job seekers, touching on the human factors in hiring and team dynamics, but it primarily focuses on technical skills and job specifications.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses job requirements and the unrealistic expectations placed on candidates, which touches on the human factors in hiring processes. However, it lacks a deeper exploration of team dynamics, collaboration, or structured methodologies. The advice given is practical but does not delve into the broader implications for team processes or organisational culture.",
+    "level": "Quaternary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",

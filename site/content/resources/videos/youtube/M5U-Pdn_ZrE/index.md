@@ -26,6 +26,7 @@ duration: 39
 isShort: true
 tags:
 - Product Owner
+- Scrum Team
 - People and Process
 sitemap:
   filename: sitemap.xml

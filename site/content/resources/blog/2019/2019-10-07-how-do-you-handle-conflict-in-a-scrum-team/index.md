@@ -29,14 +29,14 @@ aliasesArchive:
 tags:
 - People and Process
 - Scrum Team
+- Team Performance
+- Agile Project Management
+- Software Development
 - Events and Presentations
 - Coaching
 - Professional Scrum
 - Scrum Master
 - Scrum Product Development
-- Agile Frameworks
-- Agile Project Management
-- Software Development
 categories:
 - Scrum
 preview: 1061204442-1-1.jpg

@@ -25,13 +25,9 @@ preview: https://i.ytimg.com/vi/tPkqqaIbCtY/maxresdefault.jpg
 duration: 48
 isShort: true
 tags:
-- Miscellaneous
-- People and Process
-- Customer Retention
-- Product Discovery
-- Product Strategy
-- Customer Feedback Loops
 - Customer Satisfaction
+- Product Discovery
+- Customer Feedback Loops
 sitemap:
   filename: sitemap.xml
   priority: 0.6

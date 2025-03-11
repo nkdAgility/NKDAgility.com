@@ -30,10 +30,10 @@ aliasesArchive:
 - /resources/blog/issue-tfs-2013-tf50309-when-configuring-features-in-team-foundation-server-2013
 tags:
 - Install and Configuration
-- System Configuration
 - Troubleshooting
-- Software Development
+- System Configuration
 - Practical Techniques and Tooling
+- Software Development
 - Pragmatic Thinking
 categories: []
 preview: puzzle-issue-problem-128-link-5-5.png

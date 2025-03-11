@@ -133,12 +133,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:54:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical process involving Azure storage and PowerShell scripting, which relates to engineering practices. However, it primarily focuses on a specific task rather than broader principles of technical excellence.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a specific technical task involving Azure storage and PowerShell scripting. While it does provide some technical details, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. The mention of PowerShell and the process of moving blobs aligns somewhat with technical excellence, but it does not delve into principles like TDD, CI/CD, or modular architecture, which are central to the category. Therefore, the confidence score reflects a low alignment with the core themes of Technical Excellence.",
+    "level": "Quaternary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
@@ -313,12 +316,15 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:44:43",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions teaching a course related to project management, which aligns with the category, but the primary focus is on technical details of moving Azure storage blobs.",
-    "level": "Tertiary"
+    "final_score": 24.0,
+    "reasoning": "The content briefly mentions teaching a course in Cheltenham, which relates to an event, but it primarily focuses on technical details about moving Azure storage blobs. The discussion lacks depth on events or presentations, and the main theme revolves around technical implementation rather than sharing insights or experiences from a formal event.",
+    "level": "Quaternary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -487,12 +493,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:56:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the practical steps involved in moving Azure storage blobs, touching upon operational practices related to using PowerShell for efficient management of storage resources, though it is more focused on a specific task rather than broader operational efficiency strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a specific technical task related to moving Azure storage blobs, which does not directly address operational practices aimed at enhancing efficiency or delivery within Agile, DevOps, or Lean frameworks. While it does mention the use of PowerShell for managing Azure resources, it lacks a broader discussion on process optimisation, continuous improvement, or best practices that are central to the category of Operational Practices. The content is more of a technical guide rather than a strategic discussion on operational efficiency.",
+    "level": "Quaternary"
   },
   "Scrum Team": {
     "category": "Scrum Team",

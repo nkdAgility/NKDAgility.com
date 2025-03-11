@@ -2,7 +2,7 @@
 title: 'Redefining the Scrum Master: From Boss to Empowering Facilitator'
 description: Discover the true essence of a Scrum Master! Learn how to empower your team, foster collaboration, and ditch the micromanagement mindset for success.
 date: 2023-04-28T07:00:08Z
-weight: 770
+weight: 630
 ResourceId: DNCDdWjYis8
 ResourceType: videos
 ResourceImport: true
@@ -35,15 +35,16 @@ categories:
 - Scrum
 - Social Technologies
 tags:
-- People and Process
-- Scrum Master
-- Agile Project Management
 - Scrum Team
+- Agile Leadership
+- Scrum Master
+- People and Process
+- Technical Leadership
+- Agile Project Management
 - Team Performance
 - Team Collaboration
 - Professional Scrum
 - Software Development
-- Pragmatic Thinking
 
 ---
 As I reflect on my journey in the world of Scrum, one of the most glaring issues I've encountered is the misconception surrounding the role of a Scrum Master. It’s a topic that often stirs up passionate discussions, and for good reason. The worst trait I see in unskilled Scrum Masters is their misguided belief that they are the boss of everyone. This notion is not just incorrect; it’s detrimental to the very essence of what it means to be a Scrum Master.

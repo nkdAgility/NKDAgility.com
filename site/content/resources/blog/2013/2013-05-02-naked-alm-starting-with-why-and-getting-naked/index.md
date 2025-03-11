@@ -27,16 +27,16 @@ aliasesArchive:
 - /blog/naked-alm--starting-with-why-and-getting-naked
 - /resources/blog/naked-alm-starting-with-why-and-getting-naked
 tags:
-- Application Lifecycle Management
 - Working Software
 - Agile Philosophy
 - Agile Strategy
 - Agile Transformation
 - Customer Feedback Loops
+- People and Process
 - Deployment Frequency
 - Frequent Releases
 - Organisational Agility
-- People and Process
+- Personal
 categories:
 - Leadership
 preview: nakedalm-logo-128-link-1-1.png

@@ -32,8 +32,10 @@ tags:
 - People and Process
 - Discovery and Learning
 - Continuous Learning
+- Employee Engagement
 - Organisational Culture
 - Organisational Psychology
+- Organisational Agility
 resourceTypes:
 - video
 categories:

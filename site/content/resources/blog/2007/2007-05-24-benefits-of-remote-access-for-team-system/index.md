@@ -27,7 +27,6 @@ categories: []
 tags:
 - Miscellaneous
 - Practical Techniques and Tooling
-- Remote Working
 - Application Lifecycle Management
 - Azure Boards
 - Collaboration Tools

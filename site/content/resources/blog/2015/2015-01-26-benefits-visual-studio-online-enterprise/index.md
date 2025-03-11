@@ -30,13 +30,13 @@ tags:
 - Azure DevOps
 - Practical Techniques and Tooling
 - Products and Books
-- Application Lifecycle Management
-- Release Management
 - Software Development
-- Organisational Agility
+- Release Management
+- Application Lifecycle Management
 - Business Agility
-- Digital Transformation
 - Enterprise Agility
+- Digital Transformation
+- Frequent Releases
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-6-6.png

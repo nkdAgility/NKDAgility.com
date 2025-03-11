@@ -2,7 +2,7 @@
 title: Reasons to do a PSM II Course in 60 seconds
 description: 'Discover why elevating your skills with a PSM II course is essential for scrum masters in just 60 seconds! Join Martin Hinshelwood for insights. #PSMII #Agile'
 date: 2023-07-12T14:00:30Z
-weight: 775
+weight: 700
 ResourceId: TcnVsQbE8xc
 ResourceType: videos
 ResourceImport: true
@@ -29,9 +29,9 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum Master
-- Agile Project Management
 - Software Development
 - People and Process
+- Agile Project Management
 - Professional Scrum
 - Agile Frameworks
 - Scrum Team

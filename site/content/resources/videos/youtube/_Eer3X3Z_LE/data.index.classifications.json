@@ -235,12 +235,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T07:25:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:43:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content provides a description of a product backlog, which is relevant to planning and prioritizing product features in the context of product delivery, but it does not delve into broader methodologies or practices of product delivery.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on the concept of a product backlog, which is a crucial element in Agile methodologies and product delivery. It discusses the importance of prioritising tasks and maintaining a clear understanding among team members, aligning well with the core themes of product delivery. However, while it provides valuable insights, the depth of discussion is somewhat limited to the backlog itself, lacking broader coverage of the entire product delivery process.",
+    "level": "Secondary"
   },
   "AI": {
     "category": "AI",
@@ -595,12 +598,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T07:25:25",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of a product backlog, which is relevant to Scrum Teams and their dynamics, particularly in relation to the role of the Product Owner. While the focus is not solely on team interactions, it touches on team understanding and stakeholder involvement, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-11T14:41:24",
+    "ai_confidence": 42.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 40.0,
+    "reasoning": "The content discusses the product backlog, which is a key artefact in Scrum, but it does not delve deeply into the roles, collaboration, or dynamics of a Scrum Team. While it mentions the importance of understanding among team members and stakeholders, it lacks a comprehensive exploration of team interactions or practices that contribute to a high-performing Scrum Team.",
+    "level": "Quaternary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -940,12 +946,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T07:25:25",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the concept of a product backlog, which is a relevant topic in Agile Product Management, but it does not delve into related Agile methodologies or practices extensively.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-11T16:30:52",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on the concept of a product backlog within the context of Agile and Scrum methodologies. It discusses the importance of prioritising tasks, collaboration, and understanding among stakeholders, which aligns well with Agile Product Management principles. However, while it provides a good overview, it lacks deeper exploration of techniques for backlog prioritisation or metrics for product decisions, which slightly limits its depth.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",

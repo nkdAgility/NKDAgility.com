@@ -25,7 +25,6 @@ duration: 2020
 isShort: false
 tags:
 - Install and Configuration
-- Practical Techniques and Tooling
 - Azure DevOps
 sitemap:
   filename: sitemap.xml

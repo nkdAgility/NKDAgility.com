@@ -32,8 +32,8 @@ tags:
 - Practical Techniques and Tooling
 - Azure DevOps
 - System Configuration
-- Pragmatic Thinking
 - Application Lifecycle Management
+- Pragmatic Thinking
 - Azure Boards
 categories:
 - Kanban

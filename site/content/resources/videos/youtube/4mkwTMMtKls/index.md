@@ -31,9 +31,12 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Organisational Agility
 - Personal
 - Pragmatic Thinking
 - Agile Philosophy
+- Agile Product Management
+- Agile Leadership
 resourceTypes:
 - video
 layout: video

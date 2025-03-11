@@ -28,8 +28,8 @@ aliasesArchive:
 - /resources/blog/live-virtual-classrooms-and-the-new-normal
 tags:
 - Remote Working
-- People and Process
 - Resilience and Change
+- People and Process
 - Pragmatic Thinking
 - Sociotechnical Systems
 - Personal

@@ -382,20 +382,26 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T18:25:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:34:11",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses tools and techniques that Scrum Masters can use to enhance meetings and events, which aligns closely with the responsibilities of a Scrum Master.",
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the role of Scrum Masters and their use of liberating structures to enhance team dynamics and meeting effectiveness. It provides detailed strategies for Scrum Masters to implement these tools, aligning closely with the responsibilities and practices expected of a Scrum Master. The depth of discussion on how to utilise these structures in meetings further supports a high confidence score.",
     "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T18:26:01",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of liberating structures in meetings and events, which relates to planning and facilitating Agile practices, but it does not primarily focus on Agile Planning as a central theme.",
+    "calculated_at": "2025-03-11T16:23:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses Scrum Masters and the use of liberating structures to enhance team dynamics and meeting effectiveness, which aligns with Agile principles. However, it primarily focuses on tools and techniques rather than the broader aspects of Agile Planning, such as iterative planning or measuring progress. The discussion lacks depth in Agile Planning concepts, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Values and Principles": {
@@ -490,12 +496,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T18:26:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses tools used by Scrum Masters, which relates to Agile practices, but it does not primarily focus on Agile transformation strategies or methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-11T17:36:38",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and the use of liberating structures within Scrum meetings, which aligns with Agile transformation principles. It discusses enhancing team dynamics and engagement, which are key aspects of Agile practices. However, while it touches on Agile concepts, it does not delve deeply into broader Agile transformation strategies or methodologies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",

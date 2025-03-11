@@ -28,18 +28,19 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Planning
-- Agile Product Management
 - Agile Project Management
 - People and Process
+- Agile Planning
+- Agile Product Management
 - Scrum Product Development
-- Agile Frameworks
+- Scrum Master
 - Professional Scrum
+- Agile Frameworks
 resourceTypes:
 - video
 categories:
-- Scrum
 - Social Technologies
+- Scrum
 
 ---
 ## Is Your Sprint Goal Hitting the Mark?

@@ -27,12 +27,11 @@ aliasesArchive:
 - /blog/branch-policies-for-tfvc
 - /resources/blog/branch-policies-tfvc
 tags:
+- Software Development
 - Modern Source Control
 - Practical Techniques and Tooling
 - Azure Repos
 - Azure DevOps
-- Software Development
-- Technical Excellence
 - Pragmatic Thinking
 - Technical Mastery
 categories:

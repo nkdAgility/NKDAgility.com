@@ -2,7 +2,7 @@
 title: 'Transforming Management into Agile Leadership: The Power of Virtual Training'
 description: Discover the transformative power of agile leadership in virtual training. Learn how to foster self-organisation and deliver value in your teams today!
 date: 2020-04-25T02:29:57Z
-weight: 770
+weight: 670
 ResourceId: p3D5RjM5grA
 ResourceType: videos
 ResourceImport: true
@@ -25,9 +25,12 @@ preview: https://i.ytimg.com/vi/p3D5RjM5grA/maxresdefault.jpg
 duration: 2961
 isShort: false
 tags:
+- People and Process
+- Agile Leadership
 - Events and Presentations
 - Team Collaboration
 - Pragmatic Thinking
+- Technical Leadership
 - Team Performance
 sitemap:
   filename: sitemap.xml

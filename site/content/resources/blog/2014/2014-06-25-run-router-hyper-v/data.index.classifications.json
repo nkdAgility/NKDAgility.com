@@ -133,12 +133,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:45:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical practices related to running a router on Hyper-V, including the creation of VHDs and VMs, which aligns with engineering methodologies. However, the primary focus is on personal experiences and troubleshooting rather than broader engineering principles or methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a practical implementation of running a router on Hyper-V, which is more of a technical how-to rather than a discussion on engineering practices that enhance agility or technical excellence. While it does touch on aspects of virtualisation and network configuration, it lacks a broader discussion on methodologies like TDD, CI/CD, or modular architecture that are central to the category of Technical Excellence. The depth of technical detail is present, but it does not align closely with the core themes of the category.",
+    "level": "Quaternary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
@@ -586,12 +589,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:57:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses virtualization and configuring a virtual router using Hyper-V, which relates to software development practices in terms of environment setup and networking principles, but it does not provide an in-depth exploration of software development methodologies or coding practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses setting up a router in a virtual machine environment using Hyper-V, which is more focused on networking and virtualisation rather than core software development practices. While it touches on technical aspects related to software (like creating a VHD and configuring a VM), it lacks a strong emphasis on software development methodologies, coding best practices, or lifecycle management, which are central to the Software Development category.",
+    "level": "Quaternary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -1171,11 +1177,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T10:18:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:55:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses troubleshooting issues related to running a router on Hyper-V, including problems with network connections, DHCP settings, and ways to configure a VM to act as a router. It provides insights into diagnosing and resolving connectivity issues in technical settings, which aligns well with the troubleshooting category.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the challenges faced when trying to run a router on Hyper-V, including specific issues with network restrictions and the need for troubleshooting techniques to resolve connectivity problems. It provides a detailed account of the steps taken to set up a virtual router and highlights potential pitfalls, such as binding preferences that may lead to loss of connectivity. However, while troubleshooting is a significant aspect of the content, it is not the primary focus, as much of the text is dedicated to the setup process and personal experiences rather than systematic problem-solving methodologies.",
     "level": "Secondary"
   },
   "Experimentation": {

@@ -25,16 +25,8 @@ preview: https://i.ytimg.com/vi/2-AyrLPg-8Y/maxresdefault.jpg
 duration: 17
 isShort: true
 tags:
-- People and Process
-- Agile Project Management
-- Ability to Innovate
-- Agile Frameworks
 - Agile Leadership
-- Agile Strategy
-- Agile Transformation
-- Continuous Learning
-- Decision Making
-- Empirical Process Control
+- Enterprise Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

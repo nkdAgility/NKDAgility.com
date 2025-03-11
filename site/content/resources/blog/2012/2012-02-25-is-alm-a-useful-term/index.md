@@ -27,8 +27,8 @@ aliasesArchive:
 - /blog/is-alm-a-useful-term-
 - /resources/blog/is-alm-a-useful-term
 tags:
-- Software Developers
 - Software Development
+- Software Developers
 - Application Lifecycle Management
 - Product Delivery
 - Agile Strategy

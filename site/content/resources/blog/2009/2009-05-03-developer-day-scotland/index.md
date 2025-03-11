@@ -23,9 +23,9 @@ aliasesArchive:
 - /developer-day-scotland
 - /resources/blog/developer-day-scotland
 tags:
+- Software Development
 - Events and Presentations
 - Technical Mastery
-- Software Development
 - Code and Complexity
 - News and Reviews
 - Technical Excellence

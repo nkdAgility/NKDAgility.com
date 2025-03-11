@@ -25,9 +25,10 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - System Configuration
-- Troubleshooting
 - Windows
+- Troubleshooting
 - Practical Techniques and Tooling
+- Release Management
 - Software Development
 preview: metro-visual-studio-2005-128-link-10-10.png
 categories: []

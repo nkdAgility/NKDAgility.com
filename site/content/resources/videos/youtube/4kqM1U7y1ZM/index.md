@@ -25,14 +25,14 @@ preview: https://i.ytimg.com/vi/4kqM1U7y1ZM/maxresdefault.jpg
 duration: 239
 isShort: false
 tags:
-- Continuous Delivery
+- People and Process
 - Product Delivery
+- Continuous Delivery
 - Scrum Product Development
 - Scrum Team
 - Value Delivery
 - Agile Product Management
 - Organisational Agility
-- People and Process
 - Scrum Master
 - Self Organisation
 sitemap:

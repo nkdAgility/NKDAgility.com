@@ -565,20 +565,26 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T22:40:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:39:57",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the value of learning and connecting class material to real-world experiences, indicating a personal perspective on the training process, but it primarily focuses on the structure of the PSPO classes rather than personal anecdotes or reflections.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses personal reflections on the learning paths for Product Owner training, which aligns with the Personal category. It shares insights on the benefits and challenges of both the 2-day and 8-week courses, providing a subjective interpretation of how these formats can impact learning. However, while it touches on personal experiences, it lacks deeper anecdotes or specific challenges faced, which limits the depth of personal insight.",
     "level": "Tertiary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T22:40:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:29:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a training class format for product owners, which implies a structured learning experience, but it primarily focuses on the value of the class rather than specific events or presentations.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses two different training approaches for Product Owners, which could relate to events or presentations in an educational context. However, it primarily focuses on the comparison of training formats rather than specific events or presentations. While it mentions Agile and Scrum courses, it does not provide details about actual events, speakers, or structured learning experiences that align with the category's core themes.",
     "level": "Tertiary"
   },
   "Working Agreements": {
@@ -601,12 +607,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T22:40:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the role of the Product Owner and the learning process associated with it, making it a major but secondary theme in the context of Scrum Team dynamics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-11T17:41:59",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on the training paths for the Product Owner role, which is a part of the Scrum Team. However, it lacks a detailed exploration of team dynamics, collaboration, or the broader aspects of Scrum Team effectiveness. While it mentions the Product Owner's responsibilities, it does not delve into how these roles interact within a Scrum Team or the importance of team collaboration and communication strategies.",
+    "level": "Quaternary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",

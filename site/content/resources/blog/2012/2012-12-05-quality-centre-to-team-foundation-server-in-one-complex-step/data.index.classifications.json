@@ -1258,12 +1258,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:09:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:03:18",
+    "ai_confidence": 42.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses tools and processes for migrating data from Quality Centre to Team Foundation Server, which relates to product delivery in a broader context, particularly concerning deployment and integration of software tools. However, the primary focus is more on specific product capabilities rather than on methodologies and practices of product delivery itself.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses various tools for migrating and synchronising data between Quality Centre and Team Foundation Server, which relates to the deployment phase of product delivery. However, it lacks a broader discussion on methodologies, practices, or strategies that encompass the entire product delivery process. While it mentions migration and synchronisation, it does not delve deeply into how these processes fit into the overall product delivery framework, thus limiting its alignment with the core themes of the category.",
+    "level": "Quaternary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1360,20 +1363,26 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-14T15:38:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:01:32",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses various tools for migrating from Quality Centre to Team Foundation Server, providing detailed comparisons, insights, and evaluations of these products, which aligns well with the News and Reviews category.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on reviewing various tools for migrating from Quality Centre to Team Foundation Server, which aligns with the category of 'News and Reviews' as it provides insights into specific tools and their functionalities. However, while it discusses the tools in detail, it lacks broader industry news or trends, which slightly lowers the confidence score. The depth of discussion is substantial, but it is more of a technical evaluation rather than a comprehensive review of industry developments.",
     "level": "Secondary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-14T15:38:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:51:31",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses migration and synchronization tools for Quality Centre and Team Foundation Server, which are key aspects of Application Lifecycle Management, specifically within the context of ALM tools. It details migration processes, compares various tools, and addresses managing application data throughout the lifecycle, aligning well with ALM principles.",
+    "final_score": 77.0,
+    "reasoning": "The content primarily focuses on tools and methodologies for migrating from Quality Centre to Team Foundation Server, which is a specific aspect of Application Lifecycle Management. It discusses various tools, their capabilities, and the implications of migration versus synchronisation, aligning well with the core themes of ALM. The depth of discussion is substantial, providing detailed insights into the tools and their functionalities, which enhances the overall relevance to the category.",
     "level": "Secondary"
   },
   "Social Technologies": {

@@ -2,7 +2,7 @@
 title: 'Agile is Not New: A Journey Back to the Basics'
 description: "Explore Agile's rich history and its evolution in this insightful video by Martin Hinshelwood, revealing how to reclaim its true value in modern business. \U0001F30D\U0001F4A1"
 date: 2024-10-10T15:48:56Z
-weight: 485
+weight: 410
 ResourceId: XhPHa1RXrWo
 ResourceType: videos
 ResourceImport: true
@@ -30,15 +30,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Agile Philosophy
 - Software Development
 - Pragmatic Thinking
-- Agile Philosophy
 - Agile Values and Principles
+- Agile Leadership
 - Agile Transformation
 - Complexity Thinking
 - Sociotechnical Systems
 - Agile Frameworks
-- Agile Strategy
 resourceTypes:
 - video
 categories:

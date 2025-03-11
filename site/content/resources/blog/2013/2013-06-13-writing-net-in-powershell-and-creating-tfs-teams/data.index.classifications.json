@@ -76,11 +76,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:49:43",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses creating a Team in TFS using PowerShell, which involves installation and configuration aspects, but it primarily focuses on coding techniques rather than a structured installation or configuration guide.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses using PowerShell to create and configure teams in TFS, which aligns with installation and configuration processes. However, it lacks a structured guide or clear step-by-step instructions, focusing more on personal experiences and code snippets without comprehensive troubleshooting or best practices.",
     "level": "Tertiary"
   },
   "Transparency and Accountability": {
@@ -790,12 +793,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:01:27",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses practical problem-solving strategies for using PowerShell to interact with TFS, demonstrating real-world applications of coding to address specific challenges. However, the primary focus is on coding syntax and examples rather than broader principles of Agile or Scrum.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses practical problem-solving techniques in PowerShell for creating TFS Teams, which aligns with the category of Pragmatic Thinking. It provides real-world applications of coding practices and addresses challenges faced when using PowerShell, demonstrating adaptability and critical thinking. However, while it touches on relevant themes, the primary focus is more on coding specifics rather than broader Agile or Scrum principles, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1060,12 +1066,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:59:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses scripting in PowerShell to interact with Team Foundation Server (TFS), which involves configuration-related tasks such as creating teams and managing projects. While the primary focus is on programming rather than strict system configuration, it includes technical aspects relevant to configuring systems and utilizing software APIs. Thus, it is a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on using PowerShell to interact with TFS (Team Foundation Server) and create teams programmatically. While it touches on aspects of configuration, such as referencing assemblies and using specific commands, it lacks a comprehensive discussion on broader system configuration principles or best practices. The mention of PowerShell and TFS is relevant but does not delve deeply into configuration management or optimisation strategies, which are key themes of the category. Therefore, the confidence score reflects a moderate alignment with the category, primarily due to the technical nature of the content but insufficient depth in system configuration topics.",
+    "level": "Quaternary"
   },
   "Product Strategy": {
     "category": "Product Strategy",

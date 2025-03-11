@@ -29,8 +29,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Product Management
+- Product Owner
 - Organisational Agility
 - Resilience and Change
+- Agile Leadership
 - Pragmatic Thinking
 - Sensemaking
 - Organisational Change

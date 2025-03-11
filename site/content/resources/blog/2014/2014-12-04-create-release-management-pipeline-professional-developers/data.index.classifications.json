@@ -301,12 +301,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-14T23:43:53",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-11T14:54:14",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a Release Management pipeline using Azure DevOps services, including detailed steps for setting up CI/CD processes, integrating with Azure environments, and managing deployments, which aligns closely with the Azure DevOps category.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "The content provides a detailed walkthrough of creating a Release Management pipeline using Azure DevOps, specifically referencing Team Foundation Server (TFS) and Visual Studio Online (VSO). It discusses various aspects of Azure DevOps, including CI/CD processes, environment configurations, and deployment strategies, which align closely with the key topics of the Azure DevOps category. The depth of discussion is substantial, covering practical implementation steps and best practices, thus demonstrating a strong focus on Azure DevOps functionalities.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -364,11 +367,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-14T23:44:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:44:07",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the creation of a Release Management pipeline, which is a key aspect of Application Lifecycle Management. It covers stages such as deployment, integration with tools like Team Foundation Server, and the use of automated processes, aligning well with ALM principles.",
+    "final_score": 76.0,
+    "reasoning": "The content provides a detailed walkthrough of creating a Release Management pipeline, which is a crucial aspect of Application Lifecycle Management (ALM). It discusses stages of the application lifecycle, such as deployment and maintenance, and integrates tools like Team Foundation Server and Azure, aligning well with ALM principles. The depth of discussion is significant, covering various configurations and best practices for managing releases, which enhances its relevance to the category.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -391,11 +397,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-14T23:44:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:56:03",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the creation of a Release Management pipeline, focusing on technical practices, automation, and deployment strategies, which align with the principles of software craftsmanship and engineering excellence.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on creating a Release Management pipeline, which is a technical process that aligns well with the principles of software craftsmanship and engineering practices. It discusses best practices for continuous integration and deployment, the importance of automated builds, and the configuration of environments, all of which are key aspects of technical mastery. The depth of discussion is substantial, providing detailed steps and considerations for setting up the pipeline, although it occasionally veers into personal anecdotes and less technical commentary. Overall, the content is highly relevant to the category.",
     "level": "Secondary"
   },
   "Product Discovery": {

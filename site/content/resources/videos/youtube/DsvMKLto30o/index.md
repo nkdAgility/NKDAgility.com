@@ -32,8 +32,8 @@ tags:
 - Product Delivery
 - Frequent Releases
 - Operational Practices
-- Code and Complexity
 - People and Process
+- Code and Complexity
 - Azure DevOps
 - Resilience and Change
 sitemap:

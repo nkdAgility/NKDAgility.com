@@ -286,12 +286,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:13:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:20:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 15,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content includes personal reflections on the author's situation regarding their wife's impending childbirth and the impact on their work, but the primary focus is on technical details related to TFS and event handling.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content includes personal reflections about the author's situation, such as the impending birth of their child and the impact on their work. However, the primary focus is on technical details regarding TFS and event handling, which detracts from the personal insights related to Agile or Scrum methodologies. While there are personal elements, they are not deeply explored or connected to broader themes of Agile, making the overall alignment with the 'Personal' category limited.",
+    "level": "Quaternary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -376,11 +379,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:09:27",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content involves descriptions of implementation details and configuration aspects of TFS event handlers, which relates to system configuration, but the primary focus is on the project delays and personal circumstances.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the development of a TFS Event Handler and related frameworks, which implies some aspects of system configuration, particularly in terms of installation and management of services. However, the primary focus is on the development process and personal circumstances rather than a structured exploration of system configuration methodologies. While there are mentions of configuration and installation, they are not the main focus, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Ability to Innovate": {

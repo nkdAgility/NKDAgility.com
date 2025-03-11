@@ -2,7 +2,7 @@
 title: 'Quotes: "I estimate that 75% of those organisations using Scrum will not succeed in getting the benefits that they hope for from it." - Ken Schwaber'
 description: "Discover why 75% of organisations struggle with Scrum success, as Martin Hinshelwood unpacks Ken Schwaber's insights in this engaging short video! #Scrum #Agile"
 date: 2023-10-06T07:00:16Z
-weight: 775
+weight: 720
 ResourceId: dT1_zHfzto0
 ResourceType: videos
 ResourceImport: true
@@ -38,8 +38,9 @@ tags:
 - Scaling Agility
 - Sociotechnical Systems
 - People and Process
+- Agile Product Management
 - Organisational Change
-- Agile Strategy
+- Agile Leadership
 resourceTypes:
 - video
 categories:

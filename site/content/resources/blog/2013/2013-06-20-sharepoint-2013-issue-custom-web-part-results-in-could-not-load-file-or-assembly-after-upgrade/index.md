@@ -29,8 +29,8 @@ aliasesArchive:
 - /blog/sharepoint-2013-issue---custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
 - /resources/blog/sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
 tags:
-- Install and Configuration
 - Troubleshooting
+- Install and Configuration
 - System Configuration
 - Software Development
 - Practical Techniques and Tooling

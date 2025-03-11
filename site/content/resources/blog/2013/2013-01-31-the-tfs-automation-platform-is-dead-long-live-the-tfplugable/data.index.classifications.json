@@ -364,11 +364,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T19:25:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:01:17",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the management and deployment of extensions for Team Foundation Server (TFS), which is a key aspect of Application Lifecycle Management. It addresses the challenges and plans for improving the deployment process, aligning with ALM principles.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the TFS Automation Platform and its evolution, which relates to Application Lifecycle Management (ALM) through the lens of deployment and management of extensions. However, while it touches on aspects of ALM, such as deployment and the need for better management of TFS extensions, it lacks a comprehensive exploration of the entire application lifecycle or best practices in ALM. The focus is more on specific tools and features rather than a holistic view of ALM methodologies and practices.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -697,12 +700,15 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-15T20:40:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T18:03:04",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the delivery mechanism for managing and deploying extensions for Team Foundation Server, emphasizing the iterative addition of functionality based on user feedback, which aligns with principles of Frequent Releases and Continuous Delivery.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the development of a delivery mechanism for extensions in Team Foundation Server, highlighting an iterative approach to adding functionality based on user feedback. While it mentions the plan to release features incrementally, the primary focus is on the technical aspects of extension management rather than the broader principles of frequent releases. The discussion lacks explicit references to continuous delivery or deployment practices, which diminishes its alignment with the category.",
+    "level": "Tertiary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -799,11 +805,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T20:40:19",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T16:51:17",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses practical implementations for the TFS Automation Platform, highlighting real-world applications, problem-solving strategies, and an iterative approach to development based on user feedback, fitting within the context of Agile practices.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the challenges and solutions related to the TFS Automation Platform, focusing on practical problem-solving strategies for deploying and managing extensions in a real-world context. It highlights the need for a user-friendly mechanism to manage TFS extensions, which aligns with pragmatic thinking in Agile and DevOps environments. However, while it touches on practical applications, the depth of discussion on specific Agile or Scrum methodologies is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {

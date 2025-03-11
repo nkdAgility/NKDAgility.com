@@ -24,15 +24,15 @@ aliasesArchive:
 - /resources/blog/maven-release-prepare-fails-with-detected-changes-in-jenkins
 tags:
 - Practical Techniques and Tooling
+- Troubleshooting
 - Windows
 - Modern Source Control
-- Release Management
 - Software Development
 - Technical Mastery
-- Troubleshooting
 - Continuous Integration
 - Install and Configuration
 - Pragmatic Thinking
+- System Configuration
 categories:
 - DevOps
 preview: naked-alm-jenkins-logo-9-9.png

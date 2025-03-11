@@ -25,14 +25,14 @@ aliasesArchive:
 tags:
 - People and Process
 - Software Developers
+- Pragmatic Thinking
 - Agile Frameworks
 - Agile Project Management
 - Engineering Practices
 - Professional Scrum
 - Scrum Master
-- Scrum Product Development
-- Scrum Team
 - Software Development
+- Technical Debt
 categories:
 - Social Technologies
 - Engineering Excellence

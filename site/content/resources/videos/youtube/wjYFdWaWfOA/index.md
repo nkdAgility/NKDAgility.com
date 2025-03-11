@@ -2,7 +2,7 @@
 title: 'Unlocking Team Potential: The Essential Role of a Scrum Master in Agile Success'
 description: Unlock your team's potential with a Scrum Master! Discover how their expertise in Agile, DevOps, and organisational change drives effectiveness and value.
 date: 2023-05-22T14:00:41Z
-weight: 775
+weight: 645
 ResourceId: wjYFdWaWfOA
 ResourceType: videos
 ResourceImport: true
@@ -26,16 +26,16 @@ preview: https://i.ytimg.com/vi/wjYFdWaWfOA/maxresdefault.jpg
 duration: 299
 isShort: false
 tags:
+- Scrum Team
 - Scrum Master
 - Team Performance
 - Agile Product Management
 - Agile Project Management
-- Scrum Team
 - Agile Frameworks
 - People and Process
 - Software Development
-- Pragmatic Thinking
-- Software Developers
+- Technical Leadership
+- Agile Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6

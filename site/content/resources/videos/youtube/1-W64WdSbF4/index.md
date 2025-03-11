@@ -35,12 +35,12 @@ tags:
 - Scrum Product Development
 - Sprint Review
 - Increment
-- Agile Product Management
 - Events and Presentations
 - Product Delivery
-- People and Process
+- Agile Product Management
 - Agile Project Management
 - Product Owner
+- Scrum Master
 resourceTypes:
 - video
 layout: video

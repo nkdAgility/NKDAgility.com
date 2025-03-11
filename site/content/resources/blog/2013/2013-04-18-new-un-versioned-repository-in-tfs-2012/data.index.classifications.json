@@ -244,11 +244,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-11T18:02:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "The content discusses the introduction of an un-versioned repository in TFS 2012, focusing on build drops and version control management. While it touches on aspects of product delivery, such as storage and management of build outputs, it primarily revolves around technical implementation details rather than broader methodologies or practices in product delivery.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses the introduction of an un-versioned repository in TFS 2012, which relates to the deployment and management of build outputs. However, it lacks a direct focus on broader product delivery methodologies, such as Agile practices or iterative development. While it touches on aspects of deployment and version control, it does not provide in-depth insights into the overall product delivery process or best practices, leading to a low confidence score.",
     "level": "Quaternary"
   },
   "Beta Codex": {
@@ -589,11 +592,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T20:02:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:00:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation and implications of an un-versioned repository in TFS 2012, which is directly related to version control systems and practices in the software development lifecycle.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the introduction of an un-versioned repository in TFS 2012, which relates to version control systems, a key topic in software development. It provides a detailed explanation of the benefits and implications of using this feature, aligning with best practices in coding and software design. However, while it touches on relevant themes, the focus is primarily on a specific tool rather than broader software development methodologies or practices.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1222,12 +1228,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:50:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical aspects of using TFS 2012, specifically the management of build drops and version control, which are relevant to software development practices. However, it does not directly address Agile or DevOps methodologies, making it a secondary theme rather than a primary focus.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the introduction of an un-versioned repository in TFS 2012, which is relevant to software developers, particularly in the context of version control. However, it lacks a direct focus on Agile or DevOps methodologies, and while it touches on version control practices, it does not delve into best practices or collaborative aspects that are central to the Software Developers category. The discussion is primarily technical and operational rather than strategic or methodological.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

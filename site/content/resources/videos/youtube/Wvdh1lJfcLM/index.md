@@ -35,6 +35,7 @@ tags:
 - Software Development
 - Products and Books
 - Pragmatic Thinking
+- Product Delivery
 resourceTypes:
 - video
 categories:

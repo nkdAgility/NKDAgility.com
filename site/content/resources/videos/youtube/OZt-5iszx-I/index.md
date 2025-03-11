@@ -31,16 +31,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Business Agility
 - Value Delivery
 - Customer Feedback Loops
 - Discovery and Learning
 - Product Delivery
 - Product Owner
 - Product Validation
+- Practical Techniques and Tooling
 - Agile Philosophy
 - Agile Planning
-- Agile Project Management
-- Business Agility
 resourceTypes:
 - video
 categories:

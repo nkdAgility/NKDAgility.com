@@ -31,16 +31,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Value Delivery
-- Pragmatic Thinking
-- Flow Efficiency
-- Strategy
-- Transparency
 - Agile Frameworks
-- Agile Transformation
+- Strategy
 - Lean Thinking
-- Operational Practices
-- Software Development
 resourceTypes:
 - video
 categories:

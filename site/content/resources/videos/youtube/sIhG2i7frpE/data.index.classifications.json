@@ -235,12 +235,15 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T12:23:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:21:25",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous improvement and the use of metrics and visual tools, which are relevant to Lean principles, but it does not focus primarily on Lean methodologies.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses continuous improvement, metrics, and visual tools, which are central to Lean methodologies. It explicitly mentions the importance of regular reviews and fostering a culture of transparency, aligning well with Lean principles. However, while it touches on Lean concepts, it does not delve deeply into specific Lean tools or methodologies like 5S or JIT, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -253,11 +256,14 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T12:23:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:10:20",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous improvement and the use of metrics and visual tools, which are relevant to business agility, but the primary focus is on workflow improvement rather than a comprehensive exploration of business agility principles.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses continuous improvement and the use of metrics and visual tools, which are relevant to business agility. However, it primarily focuses on the implementation of specific tools and practices rather than the broader principles of business agility. While it touches on themes of transparency and adaptability, it lacks a direct discussion on leadership roles or organisational structures, which are key aspects of business agility.",
     "level": "Tertiary"
   },
   "Personal": {
@@ -280,11 +286,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T12:23:32",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T17:23:31",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the use of metrics and visual tools to improve workflows, which aligns with practical techniques for enhancing Agile and DevOps practices. However, it does not delve deeply into specific tools or methodologies, making it a secondary theme.",
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses the use of metrics and visual tools, which are practical techniques that enhance workflow and team performance. It aligns well with the core themes of the category by providing insights into how these tools can be implemented for continuous improvement. The depth of discussion is significant, covering specific strategies for identifying key metrics, using visual tools, and fostering a culture of transparency, all of which are essential for effective Agile and DevOps practices.",
     "level": "Secondary"
   },
   "Product Delivery": {

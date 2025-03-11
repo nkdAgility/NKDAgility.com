@@ -625,11 +625,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:54:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to code review processes within a specific version control system (TFS) and mentions related error handling and best practices, making it a major but secondary theme.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses a specific issue related to code review processes within the TFS Integration Tools, which aligns with the category of Modern Source Control. It explicitly mentions code review checks and provides a workaround for an error encountered during this process. However, while it touches on relevant topics, the discussion lacks depth in broader version control strategies and methodologies, which limits its overall alignment with the category.",
     "level": "Tertiary"
   },
   "Empirical Process Control": {
@@ -871,12 +874,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:05:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an error that occurs during the code review process in a software integration tool, which relates to the working functionality of the software. However, the primary focus is on troubleshooting specific implementation issues rather than the broader concepts of working software.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses an error related to the TFS Integration Platform during a code review process, which is a part of software development. However, it does not explicitly focus on the characteristics of working software or its delivery. While it touches on aspects of functionality and error handling, it lacks a comprehensive discussion on best practices, customer feedback, or iterative development, which are key themes of the 'Working Software' category.",
+    "level": "Quaternary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1063,12 +1069,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:04:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses an issue encountered during the configuration and integration of TFS tools, which involves error handling in system check-ins. However, it primarily focuses on a specific error rather than outlining broader system configuration principles or practices.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses an error related to the TFS Integration Platform and its checks during the code review process. While it touches on aspects of system configuration, such as checks and error handling, it primarily focuses on a specific issue rather than broader configuration practices or methodologies. The mention of 'Auto Resolve' as a workaround indicates some depth in troubleshooting, but the overall discussion lacks comprehensive coverage of system configuration principles, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Product Strategy": {
     "category": "Product Strategy",

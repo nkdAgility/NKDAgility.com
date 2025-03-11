@@ -27,8 +27,8 @@ tags:
 - Products and Books
 - Software Development
 - Events and Presentations
-- People and Process
 - Software Developers
+- People and Process
 - Team Collaboration
 categories:
 - Social Technologies

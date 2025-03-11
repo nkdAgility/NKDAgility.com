@@ -166,12 +166,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:05:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions helping teams understand processes related to upgrading to Visual Studio 11 and Team Foundation Server, indicating a focus on team dynamics and support, but it primarily discusses technical aspects of the upgrade rather than a deep exploration of people and process.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions Scrum in the context of a health check but primarily focuses on technical aspects of upgrading to Visual Studio 11 and Team Foundation Server. While there is a nod to team support, the discussion lacks depth on team dynamics, collaboration, or human factors, which are central to the 'People and Process' category.",
+    "level": "Quaternary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -238,12 +241,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:55:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses upgrading to Visual Studio 11 and Team Foundation Server, which relates to product delivery practices, but it primarily focuses on health checks and support rather than the end-to-end process of delivering software products.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions upgrading to Visual Studio 11 and Team Foundation Server, which relates to product delivery in terms of deployment and readiness for production. However, it lacks a detailed discussion on methodologies, practices, or the end-to-end process of delivering software products. The focus is more on a specific service offering rather than a comprehensive exploration of product delivery principles.",
+    "level": "Quaternary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1063,12 +1069,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:06:37",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses upgrading to Visual Studio 11 and TFS 11, which involves system configuration elements, but it primarily focuses on Scrum health checks and general support rather than delving deeply into configuration methodologies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses upgrading to Visual Studio 11 and Team Foundation Server, which relates to system configuration. However, it primarily focuses on the health check and support for teams rather than detailed configuration practices or methodologies. The mention of upgrading servers and enabling features indicates some alignment with system configuration, but the depth of technical discussion is limited, focusing more on service offerings than on the configuration processes themselves.",
+    "level": "Quaternary"
   },
   "Product Strategy": {
     "category": "Product Strategy",

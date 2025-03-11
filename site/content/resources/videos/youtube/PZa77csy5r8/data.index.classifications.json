@@ -655,12 +655,15 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T12:00:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:05:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition of a team to a more frequent release cycle and the impact of technical debt on their ability to deliver features. While the primary focus is on technical debt management, the mention of moving to continuous delivery and the increase in feature releases indicates that frequent releases are a significant theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the transition of the Azure DevOps team to a continuous delivery model, which is relevant to frequent releases. However, the primary focus is on technical debt rather than the principles and practices of frequent releases. While it touches on aspects like feedback loops and quality, it does not delve deeply into the core themes of frequent releases, such as automation, metrics, or best practices for minimising risk during releases.",
+    "level": "Quaternary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -1003,11 +1006,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-12T17:16:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:16:55",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical debt management, which is closely related to clean code and refactoring practices. It highlights the importance of addressing technical debt to improve software quality and delivery efficiency, aligning well with Agile engineering principles.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses technical debt extensively, which is closely related to clean code and refactoring, both of which are key topics in engineering practices. It provides a detailed exploration of the types of technical debt, its implications, and strategies for managing it, aligning well with the principles of Agile development. However, while it touches on important engineering practices, it does not explicitly mention concepts like TDD or CI/CD, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Agile Frameworks": {
@@ -1180,12 +1186,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T12:00:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the impact of technical debt on team performance and the importance of managing it within a team context, highlighting the interplay between human decisions and process improvements. However, the primary focus remains on technical debt itself rather than the broader themes of people and process.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-11T17:19:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the interplay between technical debt and team dynamics, particularly in the context of the Azure DevOps team's transition to Agile methodologies. It highlights the importance of team collaboration, feedback loops, and a culture of quality, which are all relevant to the 'People and Process' category. However, the primary focus remains on technical debt rather than the human factors or processes themselves, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",

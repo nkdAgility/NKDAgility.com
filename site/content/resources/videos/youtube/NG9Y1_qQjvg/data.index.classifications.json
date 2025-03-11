@@ -1003,12 +1003,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T12:23:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:56:48",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation and configuration of a release management suite, which is related to the deployment phase of product delivery, but it is primarily focused on a specific tool rather than the broader methodologies and practices involved in product delivery.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the practical steps involved in setting up release management tools, which is a crucial aspect of product delivery. It discusses installation and configuration processes, which align with deployment strategies. However, while it touches on relevant topics, it lacks a broader discussion on methodologies, iterative development, or team collaboration, which are key themes in product delivery. The depth of discussion is practical but does not delve into strategic considerations or best practices, limiting its overall alignment with the category.",
+    "level": "Secondary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -1102,11 +1105,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-18T12:23:42",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the installation and configuration processes of a release management suite, which directly pertains to system configuration.",
+    "calculated_at": "2025-03-11T16:46:47",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of release management tools, which aligns closely with the category of System Configuration. It discusses specific steps taken to set up the server, client, and deployment agent, providing detailed instructions and considerations for configuration. The mention of permissions and service accounts also highlights the importance of security in system setup. Overall, the content is rich in practical details and directly addresses the processes involved in configuring a system, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -1354,12 +1360,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T12:23:42",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily focuses on the installation and configuration of Visual Studio 2013 Release Management, providing clear and actionable insights into the setup process.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-11T17:58:42",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
+    "non_ai_confidence": 30,
+    "final_score": 86.0,
+    "reasoning": "The content provides a detailed, step-by-step guide on installing and configuring release management tools, including the server, client, and deployment agent. It explicitly discusses installation procedures, configuration settings, and troubleshooting permissions, aligning closely with the key topics of the 'Install and Configuration' category. The depth of discussion is substantial, covering multiple components and their configurations, which supports a high confidence score.",
+    "level": "Primary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",

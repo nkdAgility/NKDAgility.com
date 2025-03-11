@@ -595,11 +595,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T03:05:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T18:14:08",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a specific software development practice related to continuous integration, particularly on how to configure builds in TFS 2008 to fail if tests fail, which is directly relevant to software quality assurance practices.",
+    "final_score": 74.0,
+    "reasoning": "The content explicitly discusses a specific configuration in TFS2008 related to build processes and test failures, which aligns with best practices in Continuous Integration (CI) within the Software Development category. The mention of build failure due to test failures is a relevant topic in software development methodologies. However, the discussion lacks broader context or depth regarding CI/CD practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1177,11 +1180,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T03:05:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:12:46",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content provides a specific solution related to configuring build properties in TFS 2008 to handle test failures, which is directly related to troubleshooting build processes in software development.",
+    "final_score": 65.0,
+    "reasoning": "The content provides a specific solution for a technical issue related to build failures in TFS2008, which aligns with troubleshooting practices. However, it lacks broader discussion on diagnosing or resolving issues beyond this specific case, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -1240,11 +1246,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-16T03:05:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:03:24",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content clearly discusses a technical implementation related to Continuous Integration practices, specifically about making builds fail if tests fail, which aligns well with the principles of high-quality software engineering.",
+    "final_score": 61.0,
+    "reasoning": "The content explicitly discusses a technical implementation related to Continuous Integration practices, specifically how to configure build failures based on test results in TFS2008. This aligns with the core themes of CI/CD and automation within Agile engineering practices. However, the discussion is quite brief and lacks depth, focusing mainly on a specific configuration without broader context or principles of clean code, TDD, or refactoring. Therefore, while it is relevant, it does not provide a comprehensive exploration of the category.",
     "level": "Secondary"
   },
   "Technical Debt": {

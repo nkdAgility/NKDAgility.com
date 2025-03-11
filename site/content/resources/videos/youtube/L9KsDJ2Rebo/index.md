@@ -25,10 +25,10 @@ preview: https://i.ytimg.com/vi/L9KsDJ2Rebo/maxresdefault.jpg
 duration: 84
 isShort: false
 tags:
+- Discovery and Learning
 - Continuous Learning
 - Pragmatic Thinking
 - People and Process
-- Discovery and Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -247,12 +247,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T07:25:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:41:45",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content primarily discusses discipline and motivation in the context of Agile transformation, which relates to Agile methodologies, but it is not focused directly on product delivery practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the concepts of discipline and motivation in the context of Agile and Scrum, which are relevant to product delivery. However, it primarily focuses on the philosophical debate rather than practical methodologies or practices directly related to the end-to-end process of delivering software products. While it touches on Agile principles, it lacks detailed discussions on planning, testing, deployment, or metrics that are crucial for product delivery.",
+    "level": "Quaternary"
   },
   "AI": {
     "category": "AI",
@@ -604,11 +607,14 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T07:25:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:31:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "While the content discusses the importance of discipline and motivation in Agile and Scrum contexts, it primarily focuses on those concepts rather than specific roles, team dynamics, or practices within a Scrum Team.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the concepts of discipline and motivation in the context of Agile and Scrum, but it does not focus specifically on the dynamics, roles, or collaboration within a Scrum Team. While it mentions Scrum principles and the importance of discipline in adhering to Scrum practices, it lacks detailed exploration of team roles, collaboration techniques, or specific Scrum events. Therefore, while there is some relevance, the primary focus is not on the Scrum Team itself.",
     "level": "Tertiary"
   },
   "Scaling Agility": {
@@ -1234,12 +1240,15 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-18T07:25:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:43:50",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of motivation and discipline in the context of Agile transformation, which relates to leadership in fostering team dynamics and commitment. However, it doesn't focus explicitly on leadership roles or practices enough to classify it as a primary topic.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the interplay between discipline and motivation in the context of Agile transformation, which touches on leadership aspects indirectly. However, it lacks explicit references to Agile leadership roles or practices, focusing more on the concepts of motivation and discipline rather than the leadership strategies or cultural aspects that are central to Agile Leadership.",
+    "level": "Secondary"
   },
   "Team Motivation": {
     "category": "Team Motivation",

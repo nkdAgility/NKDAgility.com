@@ -499,12 +499,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-16T00:14:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:07:50",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the implementation and configuration of automations for the TFS Automation Platform, with details on how to optimize the process, integrate functionalities, and manage workflows effectively within a TFS environment. This aligns well with the category's focus on operational efficiency and strategies.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the integration and automation processes within the TFS Automation Platform, which aligns with operational practices aimed at improving efficiency and delivery. It provides specific details on installation, configuration, and action types, demonstrating a practical application of methodologies that streamline processes. However, while it touches on operational efficiency, it lacks a broader discussion on metrics or continuous improvement strategies, which slightly lowers the confidence score.",
+    "level": "Tertiary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -598,11 +601,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T00:14:53",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T16:58:05",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses details and implementation strategies related to the TFS Automation Platform, which falls within software development practices, particularly focusing on automation, installation, configuration, and integration of systems in a software development context.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed discussion on the TFS Automation Platform, focusing on installation, configuration, and processing of automations, which are key aspects of software development practices. It explicitly mentions integration with TFS elements, user actions, and event handling, aligning well with software development methodologies and practices. The depth of discussion is significant, covering various technical details and considerations for implementation, which supports a high confidence score in the Software Development category.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1069,11 +1075,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T00:14:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T18:09:11",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration of the TFS Automation Platform, detailing processes involved in managing automations, configuration settings, and system integration aspects, which aligns closely with system configuration topics.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the installation and configuration processes for the TFS Automation Platform, detailing specific steps and considerations for setting up the system. It includes direct mentions of installation locations, configuration settings, and the roles of various components in the system architecture. The depth of discussion is significant, covering both the practical steps and the underlying principles of system configuration, which aligns well with the category's focus. However, while the content is primarily focused on configuration, it also touches on broader topics like user actions and event handling, which slightly detracts from its strict alignment with the category.",
     "level": "Secondary"
   },
   "Product Strategy": {

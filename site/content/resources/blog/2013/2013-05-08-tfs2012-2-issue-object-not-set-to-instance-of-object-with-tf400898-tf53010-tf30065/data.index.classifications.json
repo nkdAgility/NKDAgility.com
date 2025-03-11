@@ -589,11 +589,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T19:45:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:59:59",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses issues related to Team Foundation Server (TFS) and its integration with various software development processes, focusing on known bugs and solutions, which are relevant to the software development lifecycle.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily discusses a specific issue related to Team Foundation Server (TFS) and its integration with Visual Studio, which is a software development tool. It provides detailed information about error messages, potential causes, and solutions, indicating a focus on troubleshooting within the software development lifecycle. However, while it touches on aspects of software development, such as bug fixes and updates, it lacks broader discussions on methodologies or best practices, which limits its alignment with the category.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1177,12 +1180,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T19:45:49",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-11T16:50:07",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "The content primarily discusses specific errors encountered in Team Foundation Server, the investigation of those errors, and recommendations for resolution, clearly aligning it with troubleshooting methodologies.",
-    "level": "Primary"
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses a specific issue encountered in Team Foundation Server 2012.2, detailing the errors, their implications, and the steps taken to identify and resolve them. It provides insights into diagnosing the problem, including error codes and their meanings, as well as a recommended solution involving an upgrade to a fixed version. The depth of discussion is substantial, covering various aspects of the troubleshooting process, including investigation methods and known bugs, which aligns well with the core themes of the Troubleshooting category.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1222,12 +1228,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:01:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses an issue with Team Foundation Server (TFS) and how it relates to software development practices, particularly mentioning bugs and fixes that may affect development workflows. However, the discussion is technical and not focused specifically on Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses a specific error encountered in Team Foundation Server (TFS) and provides a solution related to a known bug. While it touches on aspects of software development, such as bug fixing and version updates, it lacks a direct focus on Agile or DevOps methodologies. The discussion does not explore best practices, team dynamics, or tools that enhance collaboration and productivity in software development, which are key themes of the category. Therefore, the confidence score reflects a low alignment with the category despite some relevance to software development.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

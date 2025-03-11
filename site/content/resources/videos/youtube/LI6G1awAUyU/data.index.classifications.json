@@ -88,11 +88,14 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T10:22:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges related to Agile consulting and mentions Agile frameworks like Scrum, but the primary focus is on DevOps in consultation contexts rather than a direct exploration of Agile frameworks themselves.",
+    "calculated_at": "2025-03-11T16:33:00",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses challenges in DevOps and mentions agile principles, but it primarily focuses on DevOps practices rather than a detailed exploration of Agile frameworks. While there are references to agile concepts, they are not the main focus, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Scrum Product Development": {
@@ -544,20 +547,26 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T10:22:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges in DevOps and Agile environments, highlighting the importance of improving customer experience and leveraging high-performing teams, which are related to value delivery principles. However, the primary focus is more on the challenges of consulting rather than a direct emphasis on value delivery strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-11T17:45:30",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the challenges of delivering value quickly in a DevOps context, emphasising the importance of feedback loops and automation, which are key aspects of value delivery. It aligns well with the principles of iterative development and the need for continuous improvement. However, while it touches on relevant topics, it does not delve deeply into specific methodologies or frameworks, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-18T10:22:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:43:23",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges related to DevOps and agile consulting, which touches upon technical leadership but primarily focuses on the role of agile coaches in those environments.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses challenges in DevOps and agile delivery, touching on the importance of feedback loops and mindset shifts, which align with technical leadership principles. However, it primarily focuses on personal experiences and general advice rather than providing in-depth strategies or frameworks for leading teams. The discussion lacks explicit references to servant leadership, mentoring, or agile ceremonies, which are crucial for a higher confidence score.",
     "level": "Tertiary"
   },
   "Modern Source Control": {

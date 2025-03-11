@@ -32,15 +32,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Agile Project Management
+- Pragmatic Thinking
 - Software Development
 - Agile Frameworks
 - Scrum Master
 - Agile Philosophy
-- Agile Project Management
 - Agile Transformation
-- Pragmatic Thinking
-- Software Developers
 - Empirical Process Control
+- Agile Product Management
 resourceTypes:
 - video
 categories:

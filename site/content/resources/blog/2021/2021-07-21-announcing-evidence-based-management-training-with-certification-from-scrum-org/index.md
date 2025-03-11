@@ -31,14 +31,14 @@ aliasesArchive:
 tags:
 - Evidence Based Leadership
 - Evidence Based Management
+- Decision Making
 - Ability to Innovate
-- Agile Leadership
 - Agile Project Management
 - Agile Frameworks
 - Agile Strategy
 - Strategic Goals
-- Decision Making
-- Empirical Process Control
+- Agile Leadership
+- Events and Presentations
 categories:
 - Leadership
 - Social Technologies

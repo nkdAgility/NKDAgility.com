@@ -25,10 +25,10 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Software Development
-- Troubleshooting
 - Practical Techniques and Tooling
 - System Configuration
 - Pragmatic Thinking
+- Troubleshooting
 - Modern Source Control
 categories:
 - DevOps

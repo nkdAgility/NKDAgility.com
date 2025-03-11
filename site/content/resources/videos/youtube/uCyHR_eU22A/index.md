@@ -28,16 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Software Development
+- Agile Frameworks
 - Agile Product Management
 - Product Owner
 - Scrum Product Development
 - Scrum Master
 - Scrum Team
 - Software Developers
-- Agile Frameworks
 - Agile Planning
 - Agile Project Management
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

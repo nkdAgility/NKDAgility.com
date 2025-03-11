@@ -29,13 +29,11 @@ aliasesArchive:
 tags:
 - Troubleshooting
 - Software Development
-- Technical Mastery
 - Practical Techniques and Tooling
 - Pragmatic Thinking
 - Install and Configuration
 - System Configuration
 - Release Management
-- Operational Practices
 categories:
 - DevOps
 preview: naked-alm-jenkins-logo-2-2.png

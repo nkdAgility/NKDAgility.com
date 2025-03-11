@@ -592,11 +592,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T10:42:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:56:04",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses configuring Jenkins to work with TFS for building software, which involves practices and processes relevant to software development methodologies and CI/CD practices.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed discussion on configuring Jenkins to work with TFS, which is a relevant topic within the Software Development category. It explicitly mentions tools and practices related to Continuous Integration (CI) and version control, aligning well with the core themes of software engineering. The depth of the discussion is significant, covering installation, configuration, and the implications of using TFS with Jenkins, thus demonstrating a strong focus on software development practices.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -628,11 +631,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-15T10:42:41",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T17:57:50",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses moving source code to TFS (Team Foundation Server) and integrating it with Jenkins for build management, which relates to modern source control practices. However, it primarily focuses on the transition process and specific configurations rather than broader principles of source control methodologies.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the process of configuring Jenkins to work with TFS, which is a version control system. It includes direct mentions of source code management, the use of plugins for integration, and the implications of moving source code to TFS. The discussion aligns well with modern source control practices, particularly in the context of continuous integration and deployment. However, while it provides a good level of detail, it lacks a broader exploration of best practices or methodologies beyond the specific task at hand, which slightly limits its depth.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
@@ -1069,11 +1075,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T10:42:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:45:52",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the configuration of Jenkins to interact with TFS 2013, including plugin installation and build configuration, making it central to system configuration topics.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on the configuration of Jenkins to work with TFS 2013, detailing the installation of plugins, setting up source code management, and the steps required to ensure a smooth transition. It discusses specific configuration steps, best practices for integrating systems, and the implications of using TFS for builds, which aligns well with the core themes of system configuration. The depth of discussion is substantial, providing detailed instructions and considerations, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {

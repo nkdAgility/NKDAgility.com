@@ -29,8 +29,8 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
-- System Configuration
 - Software Development
+- System Configuration
 - Technical Mastery
 - Continuous Integration
 - Modern Source Control

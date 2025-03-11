@@ -30,13 +30,13 @@ tags:
 - Forecasting
 - Transparency
 - People and Process
-- Scrum Product Development
 - Agile Planning
 - Agile Values and Principles
-- Scrum Team
 - Software Development
+- Scrum Product Development
 - Agile Frameworks
 - Agile Philosophy
+- Agile Project Management
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-5-5.png

@@ -28,11 +28,11 @@ aliasesArchive:
 - /resources/blog/subversion-to-tfs-2010-the-migration-engine-is-unable-to-resolve-a-conflict-where-two-changes-have-the-same-target-item
 tags:
 - Troubleshooting
-- Install and Configuration
 - Software Development
+- Install and Configuration
 - Practical Techniques and Tooling
-- Modern Source Control
 - Pragmatic Thinking
+- Modern Source Control
 preview: image-1.png
 categories: []
 

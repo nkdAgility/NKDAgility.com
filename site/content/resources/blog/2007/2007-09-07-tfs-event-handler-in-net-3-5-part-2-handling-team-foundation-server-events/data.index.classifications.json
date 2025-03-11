@@ -388,12 +388,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T21:53:38",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-11T15:18:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "The content discusses the configuration and management of a Team Foundation Server event handler in .NET 3.5, detailing the setup of services and endpoints, which aligns with configuration processes. However, it also covers aspects of event handling that are more about software development practices.",
-    "level": "Secondary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on creating a Team Foundation Server Event Handler, which involves some aspects of system configuration, such as defining service contracts and configuring endpoints. However, it lacks a comprehensive discussion on broader system configuration practices, best practices, or optimisation strategies. The technical details provided are more about implementation than configuration management, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -964,11 +967,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T21:53:38",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T17:07:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content deeply discusses the technical implementation of a Team Foundation Server Event Handler in .NET, showcasing practices and principles related to software architecture, design, and quality through the implementation of service contracts and event handling techniques.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on implementing a TFS Event Handler in .NET 3.5, which involves technical details about service contracts, event handling, and configuration. While it does touch on aspects of software craftsmanship, such as code structure and service design, it lacks a broader discussion on best practices or principles of clean code. The depth of technical detail is significant, but the focus is more on implementation rather than overarching engineering practices, which slightly limits its alignment with the 'Technical Mastery' category.",
     "level": "Secondary"
   },
   "Remote Working": {

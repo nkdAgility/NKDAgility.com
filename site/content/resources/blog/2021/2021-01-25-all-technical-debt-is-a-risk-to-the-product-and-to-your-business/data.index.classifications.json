@@ -472,11 +472,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-11T20:50:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:48:23",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implications of technical debt on software development, the importance of quality in product delivery, and the transition to Agile methodologies, specifically mentioning Scrum and the impact on developer productivity and team dynamics.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses technical debt and its implications for software development, which is relevant to the role of software developers. It mentions the transition to Agile practices, specifically Scrum, and highlights the importance of quality and feedback in software delivery. However, the primary focus is on the business implications of technical debt rather than on the methodologies or practices that enhance developer productivity and collaboration. While there are relevant points, the overall discussion leans more towards business management and risk rather than a deep exploration of Agile or DevOps practices.",
     "level": "Secondary"
   },
   "Test First Development": {
@@ -562,11 +565,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-11T20:50:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:38:10",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the implications of technical debt in software development, emphasising practical problem-solving strategies and real-world applications within Agile and Scrum frameworks. It provides a case study from Microsoft that illustrates the transition to shorter feedback loops and the importance of understanding technical debt as a business risk, aligning well with the themes of adaptability and evidence-based management practices.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses the implications of technical debt in software development, emphasising the need for practical problem-solving strategies and real-world applications of Agile principles, particularly through the example of Microsoft's transition to Scrum. It highlights the importance of understanding technical debt as a risk to business and product quality, aligning well with the core themes of pragmatic thinking. The depth of discussion is substantial, providing specific examples and insights into the challenges and solutions faced in managing technical debt, thus demonstrating a strong alignment with the category.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -715,12 +721,15 @@
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-11T20:51:01",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-11T17:50:40",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "The content primarily discusses the risks associated with technical debt, its impact on product quality and business, and strategies for managing and addressing it. It provides examples and insights into the consequences of neglecting technical debt, making it a central theme throughout the piece.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the concept of technical debt, its risks, and its implications for businesses. It provides a clear definition and examples of how technical debt accumulates and affects product delivery. The author highlights the importance of understanding and managing technical debt, making it a primary focus of the discussion. The depth of the analysis, including case studies and the impact on team velocity, further supports a high confidence score.",
+    "level": "Secondary"
   },
   "Scrum Values": {
     "category": "Scrum Values",

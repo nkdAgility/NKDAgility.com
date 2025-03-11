@@ -29,15 +29,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Software Development
 - Agile Project Management
 - Scrum Product Development
-- Product Owner
 - Scrum Team
-- Software Development
-- Team Collaboration
 - Team Performance
 - Agile Product Management
 - Sociotechnical Systems
+- Product Owner
+- Team Collaboration
 resourceTypes:
 - video
 categories:

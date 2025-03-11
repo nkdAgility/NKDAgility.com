@@ -32,19 +32,19 @@ tags:
 - People and Process
 - Entrepreneurship
 - Decision Theory
-- Product Owner
 - Agile Project Management
-- Team Collaboration
-- Decision Making
-- Pragmatic Thinking
 - Products and Books
+- Decision Making
 - Sensemaking
+- Agile Product Management
+- Agile Leadership
+- Complexity Thinking
 resourceTypes:
 - video
 categories:
 - Product Management
 - Leadership
-- Scrum
+- Social Technologies
 
 ---
 ## Understanding the Dynamics of Consensus 🤔 

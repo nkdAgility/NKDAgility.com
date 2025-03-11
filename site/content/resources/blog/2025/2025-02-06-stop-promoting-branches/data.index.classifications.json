@@ -379,12 +379,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 45,
+    "calculated_at": "2025-03-11T16:04:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 42.0,
-    "reasoning": "The content primarily discusses branching strategies and their impact on software delivery, with only a brief mention of agility. It does not focus on Agile values or principles as a central theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily critiques traditional branching models and promotes alternatives like GitHub Flow and Release Flow, focusing on efficiency and delivery speed. While it touches on concepts related to agility, such as reducing complexity and improving delivery, it does not explicitly discuss Agile values or principles, nor does it reference the Agile Manifesto or its core values. The discussion is more about specific practices rather than the underlying Agile philosophy.",
+    "level": "Quaternary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -1081,11 +1084,14 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T08:53:18",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T14:15:18",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 80.0,
-    "reasoning": "The content primarily discusses the complexities and inefficiencies of traditional branch promotion models in software development, advocating for simpler, more effective branching strategies like GitHub Flow and Release Flow. It addresses the impact of these models on code quality, delivery speed, and organisational dysfunction, aligning well with the themes of code quality and complexity management.",
+    "final_score": 77.0,
+    "reasoning": "The content primarily discusses the flaws of traditional branch promotion models in software development, highlighting how they introduce unnecessary complexity and hinder agility. It directly addresses the impact of these models on code quality and delivery processes, aligning well with the core themes of the category. The depth of discussion is substantial, providing detailed alternatives like GitHub Flow and Release Flow, and explaining their benefits in reducing complexity. However, while it touches on complexity, it does not delve deeply into complexity theory or its broader implications, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Flow Efficiency": {
@@ -1165,12 +1171,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 92,
+    "calculated_at": "2025-03-11T17:17:49",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 84.0,
-    "reasoning": "Content primarily discusses the flaws of traditional branch promotion models and advocates for practical alternatives like GitHub Flow and Release Flow, focusing on their implementation and benefits in Agile and DevOps practices.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content provides a thorough critique of traditional branch promotion models in software development, specifically discussing GitHub Flow and Release Flow as practical alternatives. It directly addresses the application of these methodologies, aligning well with the category's focus on practical techniques and tooling. The depth of discussion is significant, covering the implications of various branching strategies and their impact on team performance and delivery outcomes.",
+    "level": "Secondary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",

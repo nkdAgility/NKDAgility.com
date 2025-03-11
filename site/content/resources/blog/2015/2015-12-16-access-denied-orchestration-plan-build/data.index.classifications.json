@@ -598,11 +598,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-14T21:53:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:52:51",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to setting up a build agent in TFS, including permissions and configuration, which are central to software development practices.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed account of troubleshooting a build agent setup within a software development context, specifically focusing on permissions related to Team Foundation Server (TFS). It discusses the implications of user permissions on the build process, which aligns closely with best practices in CI/CD and version control systems. The depth of the discussion is significant, as it includes specific error messages, troubleshooting steps, and configuration details, demonstrating a strong understanding of the software development lifecycle and practices.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -634,11 +637,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-14T21:53:14",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T16:42:38",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses issues related to build agents and permissions in TFS, which are relevant to version control practices and continuous integration. However, the primary focus is on troubleshooting specific errors rather than broader methodologies or strategies in modern source control.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses issues related to setting up a build agent in TFS, focusing on permissions and configuration for build definitions. It directly mentions the build system and orchestration plans, which are relevant to modern source control practices. However, while it touches on aspects of version control and build processes, it lacks a broader discussion on methodologies or best practices in version control systems. The depth of the discussion is moderate, providing specific troubleshooting steps but not delving into overarching strategies or principles of modern source control.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
@@ -799,11 +805,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-14T21:53:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:54:49",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical problem-solving strategies related to build permissions in a TFS environment, demonstrating real-world application of DevOps principles and navigating complexity in project management.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses a real-world problem encountered while setting up a Build Agent, detailing the steps taken to diagnose and resolve permission issues within a TFS build system. It demonstrates practical problem-solving strategies and the application of experience-based knowledge in a complex environment, aligning well with the core themes of Pragmatic Thinking. The depth of discussion includes specific actions taken to address the issue, showcasing adaptability and critical thinking. However, while it is focused on a practical issue, it does not explicitly mention Agile, Scrum, or DevOps frameworks, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {

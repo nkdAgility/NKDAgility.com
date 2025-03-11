@@ -29,10 +29,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Decision Making
-- Evidence Based Leadership
 - Evidence Based Management
+- Evidence Based Leadership
 - Metrics and Learning
+- Decision Making
 - Agile Product Management
 - People and Process
 resourceTypes:

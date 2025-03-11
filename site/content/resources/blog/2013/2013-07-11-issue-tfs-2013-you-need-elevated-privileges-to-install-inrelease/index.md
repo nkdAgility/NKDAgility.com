@@ -27,8 +27,8 @@ aliasesArchive:
 - /blog/issue-[-tfs-2013-]-you-need-elevated-privileges-to-install-inrelease
 - /resources/blog/issue-tfs-2013-you-need-elevated-privileges-to-install-inrelease
 tags:
-- Install and Configuration
 - Troubleshooting
+- Install and Configuration
 - Windows
 - Practical Techniques and Tooling
 - System Configuration

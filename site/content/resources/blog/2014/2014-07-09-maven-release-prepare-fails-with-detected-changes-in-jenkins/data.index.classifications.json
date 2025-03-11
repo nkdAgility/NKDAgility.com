@@ -625,11 +625,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-15T17:51:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:57:20",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses issues related to source control integration (TFS) and best practices for managing ignored files (.tfignore) in a version control context, especially regarding a migration from SVN to TFS. The focus on source control practices and specific file management aligns well with modern source control topics.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses issues related to version control during a migration from SVN to TFS, specifically focusing on the use of .tfignore files to manage ignored files in TFS, which aligns with best practices in source control. It provides detailed insights into the challenges faced during the integration of Jenkins with TFS, including conflict resolution and the management of local workspaces. The depth of discussion on practical solutions and the specific context of source control practices contributes to a high confidence score, although it does not cover broader methodologies or strategies extensively.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
@@ -967,11 +970,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-15T17:51:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:45:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses issues related to the Maven release process, integration with Jenkins, and managing files in a source control system (TFS), which are central to release management practices.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses issues related to a Maven release process and the integration of Jenkins with TFS, which are relevant to release management. It mentions the need to manage files that interfere with the release process and introduces the concept of a .tfignore file to control what gets included in the release. However, while it touches on release management practices, the discussion lacks a broader context of release planning, scheduling, or coordination with stakeholders, which are key aspects of the category. Therefore, while it is relevant, it does not fully meet the criteria for a primary focus on release management.",
     "level": "Secondary"
   },
   "Product Owner": {
@@ -1177,11 +1183,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T17:51:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:55:37",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses specific problems encountered with Maven release prepares failing during Jenkins integration with TFS and provides a systematic approach to diagnose and solve these integration issues, which aligns with troubleshooting practices.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific issue related to Maven release preparation failing due to detected changes in Jenkins. It discusses the identification of the problem, the analysis of logs, and the implementation of a solution by creating a .tfignore file to ignore certain files. The detailed explanation of the troubleshooting process, including the steps taken to resolve the issue and the challenges faced, aligns well with the core themes of the Troubleshooting category. The content provides practical insights and methodologies for diagnosing and resolving technical issues, demonstrating a high level of depth and relevance.",
     "level": "Secondary"
   },
   "Experimentation": {

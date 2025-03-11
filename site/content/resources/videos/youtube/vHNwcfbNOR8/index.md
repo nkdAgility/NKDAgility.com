@@ -2,7 +2,7 @@
 title: What is your feeling on creating Agile apprenticeships?
 description: Explore the potential of agile apprenticeships with Martin Hinshelwood as he discusses their importance in empowering the next generation in product development.
 date: 2023-03-17T07:00:21Z
-weight: 685
+weight: 700
 ResourceId: vHNwcfbNOR8
 ResourceType: videos
 ResourceImport: true
@@ -33,11 +33,11 @@ tags:
 - Continuous Learning
 - People and Process
 - Personal
-- Discovery and Learning
-- Team Collaboration
-- Agile Philosophy
 - Agile Transformation
+- Team Collaboration
+- Discovery and Learning
 - Team Motivation
+- Agile Philosophy
 resourceTypes:
 - video
 categories:

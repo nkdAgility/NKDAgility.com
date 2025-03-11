@@ -217,11 +217,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:56:56",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical issues related to TFS and WITADMIN, touching on software compatibility and the importance of using updated versions, which aligns with technical practices but is not the primary focus.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to TFS and WITADMIN, which is a narrow aspect of software engineering. While it touches on the importance of using updated software versions for compatibility, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. The focus is more on troubleshooting rather than on principles like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
     "level": "Tertiary"
   },
   "Complexity Thinking": {
@@ -625,12 +628,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:45:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses migration from TFS to Visual Studio Online and mentions aspects of tool compatibility related to version control systems, specifically TFS, suggesting a secondary theme related to source control practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses issues related to TFS (Team Foundation Server) and the use of WITADMIN, which are relevant to source control practices. However, the focus is primarily on troubleshooting and migration rather than best practices or methodologies in modern source control. While it mentions version control tools and compatibility, it lacks depth in discussing broader strategies or collaborative workflows, which are key themes in the category.",
+    "level": "Quaternary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -1222,12 +1228,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:55:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a technical issue related to TFS and the use of WITADMIN which is relevant to software development, but does not primarily focus on Agile or DevOps practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses a specific technical issue related to TFS and WITADMIN, which is relevant to software development. However, it lacks a direct focus on Agile or DevOps methodologies, and the discussion is primarily about troubleshooting and version compatibility rather than best practices or collaborative frameworks. While it touches on tools used in software development, it does not delve into the broader themes of Agile or DevOps, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

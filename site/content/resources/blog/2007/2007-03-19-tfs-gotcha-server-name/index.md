@@ -31,8 +31,8 @@ categories: []
 tags:
 - Install and Configuration
 - Windows
-- Software Development
 - System Configuration
+- Software Development
 - Troubleshooting
 - Practical Techniques and Tooling
 

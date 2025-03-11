@@ -496,11 +496,14 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T13:12:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:13:10",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Azure DevOps and its transition to a more frequent release model, highlighting the importance of agile practices and the impact on delivery schedules. However, the primary focus is on common mistakes and user behaviours rather than on the principles or strategies of frequent releases.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Azure DevOps and its transition to a more agile release cycle, highlighting the importance of continuous delivery and the challenges faced. However, while it touches on the concept of frequent releases, it primarily focuses on common pitfalls and best practices rather than providing a detailed exploration of frequent release strategies or metrics. The discussion lacks depth in terms of specific techniques or tools for automating the release process, which diminishes its alignment with the category.",
     "level": "Tertiary"
   },
   "Estimation": {
@@ -1117,12 +1120,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T13:12:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Azure DevOps, which is built for agile teams, and touches on the importance of product delivery and backlog management, but it primarily focuses on specific issues within the tool rather than broader Agile Product Management principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-11T14:24:10",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 30,
+    "final_score": 68.0,
+    "reasoning": "The content discusses Azure DevOps in the context of Agile practices, highlighting the importance of adhering to agile principles and addressing common pitfalls that can hinder effective product management. While it does mention Agile methodologies and their application, the primary focus is on the tool itself rather than a comprehensive exploration of Agile Product Management concepts. The depth of discussion on Agile principles is moderate, but it lacks extensive detail on key topics such as the role of the Product Owner or stakeholder engagement.",
+    "level": "Secondary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -1288,12 +1294,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T13:12:41",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-11T17:26:00",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "The content primarily discusses technical issues related to Azure DevOps and its features, with only brief mentions of Agile practices and team dynamics. The focus is on tool usage rather than the interplay between human behaviour and structured methodologies.",
-    "level": "Quaternary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the challenges and common pitfalls faced by teams using Azure DevOps, highlighting the importance of adhering to agile principles and the impact of human behaviour on process effectiveness. While it does mention team dynamics and the need for clarity in collaboration, the primary focus remains on technical issues and tool usage rather than a deep exploration of people and process interactions.",
+    "level": "Secondary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",

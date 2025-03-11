@@ -334,12 +334,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:08:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the internal adoption of Team Foundation Server at Microsoft, touching on team dynamics and the hesitations of a manager regarding the product's use, which indicates a secondary theme related to people and process.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the internal adoption of Team Foundation Server (TFS) at Microsoft, touching on team dynamics and the hesitations of a manager regarding the product. However, while it mentions the human element of team adoption, it primarily focuses on the product itself and its usage statistics rather than a deeper exploration of processes or methodologies. The discussion lacks substantial depth on how people interact with processes or the impact of leadership and culture on these dynamics.",
+    "level": "Quaternary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -874,11 +877,14 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:18:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the frequent releases and updates of Microsoft Team Foundation Server, highlighting internal usage and the quick follow-up versions, which shows an emphasis on release frequency but is not the primary topic.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the internal adoption of Team Foundation Server (TFS) at Microsoft and mentions the release of Service Pack 1 and upcoming versions. However, it lacks a detailed exploration of the principles of frequent releases, continuous delivery, or the impact of these releases on user satisfaction. While it touches on the topic of software updates, it does not provide a comprehensive discussion on the strategies, metrics, or best practices associated with frequent releases.",
     "level": "Tertiary"
   },
   "Team Performance": {

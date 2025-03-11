@@ -34,6 +34,7 @@ sitemap:
   priority: 0.6
 tags:
 - Pragmatic Thinking
+- Agile Transformation
 - Agile Project Management
 - People and Process
 resourceTypes:

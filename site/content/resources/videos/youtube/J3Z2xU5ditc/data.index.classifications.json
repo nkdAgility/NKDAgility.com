@@ -280,12 +280,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-11T16:21:02",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 82.0,
-    "reasoning": "Content primarily focuses on planning within the Scrum framework, discussing its significance, the roles of different ceremonies, and how Agile principles inform planning strategies.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses Scrum and its planning events, aligning closely with Agile principles. It provides detailed insights into the importance of planning within the Scrum framework, addressing common misconceptions and emphasising effective strategies for both small and large teams. The depth of discussion on planning techniques and their relevance to Agile methodologies supports a high confidence score.",
+    "level": "Secondary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -592,11 +595,14 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content discusses planning and communication within the context of Scrum, it primarily focuses on debunking myths about Agile and does not delve deeply into specific Scrum team dynamics or roles.",
+    "calculated_at": "2025-03-11T14:31:32",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses Scrum events related to planning, such as Sprint Planning and Daily Scrum, which are relevant to Scrum Team dynamics. However, the primary focus is on the concept of planning in Agile rather than the roles, collaboration, or team dynamics that define a Scrum Team. While it touches on some aspects of team communication and alignment, it lacks depth in exploring the specific roles and interactions within a Scrum Team.",
     "level": "Tertiary"
   },
   "Scaling Agility": {
@@ -952,12 +958,15 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of planning and coordination within Agile and Scrum frameworks, highlighting the interconnectedness of various teams and components in an organizational setting, which aligns with Systems Thinking principles but is primarily focused on Agile methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-11T17:33:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Agile and Scrum methodologies, discussing the importance of planning within these frameworks. While it touches on themes of coordination and strategic planning, it does not explicitly address Systems Thinking principles or techniques. The discussion lacks depth in exploring interconnectedness or holistic analysis, which are core to Systems Thinking. Therefore, the confidence score reflects a low alignment with the category.",
+    "level": "Quaternary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",

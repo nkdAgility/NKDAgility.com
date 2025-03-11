@@ -340,11 +340,14 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T09:18:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:21:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a workaround for a technical issue related to project naming in TeamPlain, which does not directly reference Agile, Scrum, DevOps, or Lean principles.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses a workaround for a technical issue related to project naming in a software tool, which does not directly reference Agile, Scrum, DevOps, or Lean methodologies. While it provides a specific coding solution, it lacks a broader context or actionable insights related to recognised Agile practices. The discussion is anecdotal and focuses on personal experience rather than established frameworks, aligning it with the Miscellaneous category.",
     "level": "Secondary"
   },
   "DevOps": {
@@ -466,12 +469,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T16:38:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:10:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes a workaround for a configuration issue related to project names in a system setup, which aligns with system configuration problems but is primarily focused on a specific coding solution rather than broader configuration practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a workaround for a specific issue related to project naming in a system, which touches on configuration aspects. However, it lacks a comprehensive exploration of system configuration principles, best practices, or detailed methodologies. The focus is more on a tactical solution rather than a broader discussion on system configuration, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",

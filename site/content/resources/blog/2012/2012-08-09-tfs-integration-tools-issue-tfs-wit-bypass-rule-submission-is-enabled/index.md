@@ -29,7 +29,12 @@ aliasesArchive:
 - /blog/tfs-integration-tools---issue--tfs-wit-bypass-rule-submission-is-enabled
 - /resources/blog/tfs-integration-tools-issue-tfs-wit-bypass-rule-submission-is-enabled
 tags:
+- Install and Configuration
 - Troubleshooting
+- Practical Techniques and Tooling
+- Software Development
+- System Configuration
+- Windows
 categories: []
 preview: metro-problem-icon-5-5.png
 

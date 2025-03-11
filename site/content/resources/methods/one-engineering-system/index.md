@@ -6,7 +6,7 @@ ResourceImport: false
 ResourceType: methods
 shorttitle: 1ES
 date: 2024-09-17
-weight: 420
+weight: 365
 creator: Martin Hinshelwood
 draft: false
 resourceTypes: method

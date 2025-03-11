@@ -27,10 +27,9 @@ tags:
 - System Configuration
 - Operational Practices
 - Software Development
-- Technical Mastery
-- Troubleshooting
 - Practical Techniques and Tooling
 - Azure DevOps
+- Troubleshooting
 - Azure Pipelines
 preview: metro-SSWLogo-128-link-6-6.png
 categories:

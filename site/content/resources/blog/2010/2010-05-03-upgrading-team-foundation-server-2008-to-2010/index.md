@@ -26,13 +26,13 @@ tags:
 - Install and Configuration
 - Practical Techniques and Tooling
 - System Configuration
-- Release Management
 - Software Development
+- Release Management
 - Troubleshooting
 - Windows
 - Application Lifecycle Management
+- Modern Source Control
 - Azure DevOps
-- Technical Mastery
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories:
 - Scrum

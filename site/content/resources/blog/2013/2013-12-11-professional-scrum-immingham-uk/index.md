@@ -36,10 +36,10 @@ tags:
 - Scrum Product Development
 - Cross Functional Teams
 - Professional Scrum
-- Scrum Team
 - Software Development
 - Team Collaboration
 - Team Performance
+- Scrum Team
 - Agile Frameworks
 categories:
 - Scrum

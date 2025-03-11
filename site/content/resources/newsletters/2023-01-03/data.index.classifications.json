@@ -61,12 +61,15 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-18T12:34:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:49:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions training for Product Owners, but the primary focus is on agility and the Scrum framework, without delving deeply into the specific responsibilities or practices of the Product Owner role.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions Product Owners in the context of training classes, but does not delve into their specific responsibilities, techniques, or challenges. The primary focus is on agility and Scrum as a whole, rather than the Product Owner role specifically.",
+    "level": "Quaternary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
@@ -907,11 +910,14 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T12:34:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:37:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 50.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile principles but primarily focuses on contrasting traditional and empirical approaches. It features Scrum as a framework, which is relevant, but the emphasis on organizational agility over specific product management practices dilutes the focus on Agile Product Management.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the importance of agility and contrasts traditional and empirical approaches, which aligns with Agile principles. It mentions Scrum and provides an overview of its framework, indicating a focus on Agile methodologies. However, the depth of discussion on specific Agile product management practices, such as the role of the Product Owner or backlog prioritisation, is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Behaviour Driven Development": {
@@ -943,11 +949,14 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T12:34:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:47:24",
+    "ai_confidence": 47.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content contains a mention of Scrum roles and training for Scrum Teams, indicating it's a major but secondary theme. However, the primary focus is on agility concepts and broader training offerings.",
+    "final_score": 44.0,
+    "reasoning": "The content briefly mentions Scrum roles and offers training for Scrum Teams, indicating some relevance to the category. However, the primary focus is on agility in general and empirical approaches rather than a deep exploration of Scrum Team dynamics, roles, or collaboration techniques.",
     "level": "Tertiary"
   },
   "Trend Analysis": {

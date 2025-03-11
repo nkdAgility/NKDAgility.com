@@ -28,13 +28,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Master
-- People and Process
-- Daily Scrum
 - Scrum Team
-- Software Developers
 - Agile Transformation
-- Software Development
 resourceTypes:
 - video
 categories:

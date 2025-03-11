@@ -25,8 +25,8 @@ aliasesArchive:
 - /blog/stop-hiding-behind-complexity-and-start-delivering-continuously
 tags:
 - Continuous Delivery
-- Product Delivery
 - Software Development
+- Product Delivery
 - Metrics and Learning
 categories:
 - DevOps

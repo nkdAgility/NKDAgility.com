@@ -466,12 +466,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T10:22:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:10:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses deploying event handlers and the related configuration aspects within Team Foundation Server, making system configuration a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses deploying event handlers for Team Foundation Server, which touches on aspects of system configuration, particularly in terms of setting up and managing event handlers. However, the primary focus is on coding and implementation rather than the broader principles of system configuration. The discussion lacks depth in configuration management practices and does not provide substantial detail on optimisation or troubleshooting, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -943,12 +946,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T10:22:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:21:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses implementations related to event handlers in Team Foundation Server, which is relevant to software developers but is primarily focused on a specific technical implementation rather than broader practices like Agile or DevOps.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the implementation of event handlers in Team Foundation Server, which is relevant to software development. However, it lacks explicit references to Agile or DevOps methodologies, and the discussion is primarily technical without exploring broader themes such as collaboration, productivity, or best practices in software development. The focus is more on a specific coding task rather than the role of developers within Agile or DevOps frameworks.",
+    "level": "Quaternary"
   },
   "Lean Principles": {
     "category": "Lean Principles",

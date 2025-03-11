@@ -238,11 +238,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-11T15:08:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "The content primarily discusses the installation process of a software service pack, which is related to deployment but lacks a broader focus on methodologies or practices of product delivery.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the installation process of a specific software update (Service Pack 1 for Team Foundation Server) rather than discussing broader methodologies or practices related to product delivery. While it touches on aspects of deployment and troubleshooting, it lacks a comprehensive exploration of product delivery principles such as Agile methodologies, iterative development, or cross-functional team roles. The discussion is more technical and procedural, which does not align closely with the core themes of product delivery.",
     "level": "Quaternary"
   },
   "Beta Codex": {
@@ -865,12 +868,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:09:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily focuses on the installation process of Team Foundation Server and discusses specific errors encountered, which relates to maintaining working software. However, the primary focus is more on installation rather than the delivery or functional aspects of working software.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the installation process of a software service pack, which is a technical task rather than a discussion on working software itself. While it touches on aspects of functionality and operational software, it lacks a focus on user requirements, quality assurance, or iterative development principles that are central to the 'Working Software' category. The discussion is more about troubleshooting and installation rather than delivering high-quality, functional software that meets customer needs.",
+    "level": "Quaternary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -955,12 +961,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:58:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mainly focuses on the installation of Service Pack 1 for Team Foundation Server, which is a component of release management. However, it does not thoroughly discuss broader Release Management topics such as strategy, planning, risk management, or process control, making it a significant but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the installation of a service pack for Team Foundation Server, which is related to software releases. However, it primarily focuses on the installation process and personal experiences rather than the broader strategies and practices of release management. While it touches on aspects like version control and the importance of successful installations, it lacks a comprehensive discussion on release planning, risk management, or coordination among stakeholders, which are key themes in release management.",
+    "level": "Quaternary"
   },
   "Product Owner": {
     "category": "Product Owner",

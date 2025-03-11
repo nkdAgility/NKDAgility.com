@@ -403,12 +403,15 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-12T08:19:53",
-    "ai_confidence": 70,
-    "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the importance of automated testing in the context of performance engineering and continuous delivery, highlighting the need for fast, sleek automated testing to ensure software functions as expected. However, the primary focus is on performance engineering and testing in production rather than solely on automated testing principles and methodologies.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-11T14:17:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of quality and mentions testing in production, which relates to automated testing. However, it lacks explicit focus on automated testing principles, methodologies, or specific tools. The discussion is more about engineering excellence and shifting left rather than a deep dive into automated testing practices.",
+    "level": "Quaternary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -457,12 +460,15 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-12T08:20:04",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses methodologies for testing product features with real users, including user feedback mechanisms and performance testing in production. While it primarily focuses on performance engineering and continuous delivery, it also touches on validating product ideas through user engagement, making it a significant but secondary theme.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-11T16:06:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses engineering excellence and quality in product development, but it does not explicitly focus on validating product ideas through user engagement or feedback. While it touches on concepts like user experience and quality, it lacks a direct emphasis on methodologies for product validation, such as user testing or customer feedback loops.",
+    "level": "Quaternary"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -484,11 +490,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-12T08:20:08",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses performance engineering, testing in production, and modern software engineering practices, which are relevant to the role of software developers within Agile and DevOps frameworks.",
+    "calculated_at": "2025-03-11T17:19:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses modern engineering practices, including continuous integration and delivery, which are relevant to software developers. It also touches on the importance of building a culture of quality and technical leadership within teams, aligning well with Agile and DevOps principles. However, while it mentions these concepts, it does not delve deeply into specific Agile methodologies or the role of developers in these contexts, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Test First Development": {

@@ -1,12 +1,15 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T09:09:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:51:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Visual Studio Scrum Process Template and its implications for Scrum roles and work item types, indicating a secondary theme related to Agile Product Management.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a technical issue related to Project Server and Team Foundation Server, with a brief mention of the Scrum Process Template. However, it primarily focuses on resolving a specific error rather than engaging with Agile Product Management principles or practices. The alignment with Agile concepts is minimal, and the depth of discussion does not provide substantial insights into product management strategies or methodologies.",
+    "level": "Quaternary"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
@@ -169,12 +172,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T09:09:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:03:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the integration of Project Server with Team Foundation Server and mentions the Scrum Process Template, indicating a connection to Scrum methodologies. However, the primary focus is on technical issues and solutions rather than the human factors or team dynamics involved in the process.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses a technical issue related to Project Server and Team Foundation Server, focusing on specific error messages and field mappings. While it briefly touches on the Scrum Process Template, the discussion lacks depth regarding team dynamics, collaboration, or human factors in processes. The mention of Scrum is secondary and does not explore the interplay between people and processes, leading to a low confidence score in this category.",
+    "level": "Quaternary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -493,11 +499,14 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T09:09:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:01:47",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the Visual Studio Scrum Process Template and its implications for Scrum teams, making Scrum a major but secondary theme.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly mentions Scrum in the context of the Visual Studio Scrum Process Template and discusses the implications of certain fields not being required for Scrum. However, the primary focus is on a technical issue related to Project Server and Team Foundation Server, rather than on the dynamics, roles, or collaboration within a Scrum Team. While there is some alignment with Scrum concepts, the depth of discussion is limited and does not explore the core themes of team dynamics or collaboration.",
     "level": "Tertiary"
   },
   "Agile Philosophy": {

@@ -595,11 +595,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T01:39:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T18:12:31",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses troubleshooting build failures in a software development environment, specifically focusing on coding practices, error handling, and methods to track and manage bugs using Team Foundation Server, which are central to software development practices.",
+    "final_score": 80.0,
+    "reasoning": "The content provides a detailed discussion on troubleshooting a build failure in Team Foundation Build Services, which is a key aspect of the software development lifecycle. It explicitly mentions practices such as code reviews, defensive programming, and backlog management, all of which align closely with software development methodologies. The depth of the discussion is significant, as it includes specific code examples and practical solutions to common issues faced during development, demonstrating a strong alignment with the core themes of software development.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -796,11 +799,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-16T01:39:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:10:57",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical problem-solving strategies related to debugging a failed build in a real-world development environment, incorporating concepts from Agile and Scrum such as handling bugs and managing sprints.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses practical problem-solving strategies in the context of a failing build in Team Foundation Build Services, which aligns with the category of Pragmatic Thinking. It provides specific examples of issues encountered, such as hardcoded paths and the importance of code reviews, demonstrating real-world applications of Agile principles. The depth of discussion includes actionable solutions and considerations for improving the development process, which further supports its relevance to pragmatic approaches. However, while it touches on Agile and Scrum practices, the primary focus is more on troubleshooting rather than a broader discussion of Agile methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -823,11 +829,14 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T01:39:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:01:33",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses addressing a failing build in the context of Scrum, emphasizing the importance of integrating issues into the backlog and sprint planning, which are key aspects of Scrum product development practices.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the process of handling a failing build in a Scrum context, including creating a bug for the backlog and associating it with a sprint. It mentions Scrum practices such as backlog management and team collaboration, which align well with Scrum principles. However, the primary focus is more on technical troubleshooting rather than a comprehensive discussion of Scrum methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Scaled Agile": {

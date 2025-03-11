@@ -33,10 +33,11 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Project Management
-- Continuous Learning
 - People and Process
 - Team Collaboration
+- Continuous Learning
 - Discovery and Learning
+- Software Development
 resourceTypes:
 - video
 categories:

@@ -349,12 +349,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:09:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:12:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific issue related to Visual Studio and TFS, which are tools used in the application lifecycle, but the primary focus is on a technical workaround rather than a comprehensive discussion of ALM methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific technical issue related to connecting to TFS using HTTPS, which is tangentially related to Application Lifecycle Management through the mention of TFS (Team Foundation Server). However, it lacks a direct focus on the broader aspects of ALM, such as lifecycle stages, governance, or best practices. The discussion is primarily technical and does not delve into the management or strategic elements of application lifecycles.",
+    "level": "Quaternary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -586,12 +589,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:09:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:03:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content primarily discusses a technical workaround related to Visual Studio and TFS, which while technical, serves more as a specific solution rather than a broad discussion on software development methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific technical issue related to connecting to Team Foundation Server (TFS) using Visual Studio, which is relevant to software development practices. It mentions registry modifications and configuration settings, indicating a focus on practical solutions within the software development lifecycle. However, the discussion lacks broader context on methodologies or best practices, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",

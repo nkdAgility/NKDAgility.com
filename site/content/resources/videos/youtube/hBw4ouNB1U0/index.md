@@ -29,6 +29,7 @@ tags:
 - Operational Practices
 - People and Process
 - Transparency
+- Lean
 - Continuous Learning
 - Discovery and Learning
 - Practical Techniques and Tooling

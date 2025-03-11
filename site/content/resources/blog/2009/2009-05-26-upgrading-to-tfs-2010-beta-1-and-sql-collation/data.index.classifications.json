@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:09:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:03:00",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific technical issue related to upgrading TFS and SQL collation, which is relevant to practical tooling, but it is primarily focused on a specific problem rather than a broader exploration of techniques or methodologies.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses a specific technical issue encountered during the upgrade of TFS, which relates to tooling. However, it primarily focuses on a problem rather than exploring practical techniques or methodologies for implementing Agile or DevOps practices. While it mentions TFS and SQL Server, it lacks a broader discussion on best practices or frameworks that enhance team performance or collaboration.",
     "level": "Tertiary"
   },
   "Platform Engineering": {
@@ -286,12 +289,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:13:53",
+    "ai_confidence": 42.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to upgrading Team Foundation Server (TFS), which is part of the Azure DevOps suite, but the primary focus is on a specific technical problem rather than broader Azure DevOps functionalities or practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses issues related to Team Foundation Server (TFS), which is part of the Azure DevOps suite. However, it primarily focuses on a specific technical problem regarding SQL collation during an upgrade, lacking broader discussions on Azure DevOps functionalities or best practices. While TFS is mentioned, the content does not explore the core themes of Azure DevOps in depth, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Personal": {
     "category": "Personal",
@@ -784,12 +790,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:09:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:12:17",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific real-world problem encountered during a TFS upgrade, including practical troubleshooting steps and a proposed solution, which align with pragmatic thinking.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses a practical problem encountered during the upgrade of TFS, highlighting a specific error related to SQL collation. While it does not explicitly mention Agile, Scrum, or DevOps frameworks, it demonstrates pragmatic thinking through the real-world application of problem-solving techniques. The author suggests a practical solution to the issue, which aligns with the core themes of adaptability and experience-based decision-making. However, the discussion lacks depth in exploring broader implications or strategies within Agile or DevOps contexts.",
+    "level": "Quaternary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",

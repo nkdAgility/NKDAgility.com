@@ -76,12 +76,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:14:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the implementation of dependency injection in an ASP.NET application, which involves configuration steps. However, it primarily focuses on the coding aspect rather than providing a comprehensive guide on installation or configuration processes.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the implementation of dependency injection in an ASP.NET application, which relates to configuration aspects. However, it lacks a structured installation guide or detailed troubleshooting steps, making it more of a practical example rather than a comprehensive guide on installation and configuration.",
+    "level": "Quaternary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -874,11 +877,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:03:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses dependency injection and aspects of ASP.NET and WPF, which are related to working software but does not primarily focus on delivering functional software or the Agile principles directly.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the implementation of dependency injection in ASP.NET, which is a technical aspect of software development. While it does not explicitly mention 'working software', it aligns with the concept by detailing how to enhance functionality and maintain quality through dependency injection. The depth of discussion is moderate, providing code examples and practical applications, but it lacks a broader context on delivering high-quality software or customer feedback mechanisms.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
@@ -1063,12 +1069,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:12:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses configuration settings for dependency injection in ASP.NET, which pertains to system configuration, but primarily focuses on coding practices rather than broader system configuration topics.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the implementation of dependency injection in an ASP.NET application, which touches on configuration aspects, particularly in the context of setting up the UnityHttpModule and modifying the web.config file. However, the primary focus is on software development practices rather than a comprehensive exploration of system configuration methodologies. While there are mentions of configuration, they are not the main focus, and the depth of discussion on broader system configuration principles is limited.",
+    "level": "Quaternary"
   },
   "Product Strategy": {
     "category": "Product Strategy",

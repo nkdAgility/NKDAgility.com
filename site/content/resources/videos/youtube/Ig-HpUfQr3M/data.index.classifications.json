@@ -19,11 +19,14 @@
   },
   "MVP": {
     "category": "MVP",
-    "calculated_at": "2025-02-12T16:00:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:18:51",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses hypothesis-driven engineering practices, the importance of testing ideas quickly, and learning from experiments, which aligns closely with the principles of MVP development. It also provides a case study of Microsoft's approach to product development, highlighting the iterative process and the need for rapid validation of ideas, which are central themes in MVP discussions.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses hypothesis-driven engineering, which aligns closely with MVP principles, particularly in terms of testing ideas with minimal resources and iterating based on user feedback. It provides a real-world example from Azure DevOps that illustrates the importance of validating assumptions before committing significant resources, which is a core aspect of MVP development. However, while the MVP concept is central to the discussion, it is not explicitly labelled as such, leading to a slightly lower confidence score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -1324,20 +1327,26 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-12T16:00:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:16:25",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of hypothesis-driven engineering practices in product development, including planning, testing, and decision-making processes that directly relate to product delivery methodologies.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses hypothesis-driven engineering, which aligns with product delivery methodologies by emphasising iterative development, experimentation, and customer feedback. It provides a detailed example from Azure DevOps, illustrating the importance of cross-functional collaboration and learning from failures, which are key aspects of effective product delivery. However, while it touches on relevant themes, it does not delve deeply into specific practices like Agile methodologies or CI/CD, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-12T16:00:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:05:13",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses hypothesis-driven engineering practices, experimentation, and learning from both successes and failures in product development, which aligns closely with the themes of discovery and learning.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses hypothesis-driven engineering, which is a key methodology for fostering innovation and experimentation in product development. It highlights the importance of running small experiments, measuring progress, and learning from failures, all of which align closely with the core themes of the 'Discovery and Learning' category. The depth of discussion is significant, providing a real-world example that illustrates the learning process from both successes and failures, thus reinforcing the value of continuous learning and adaptation in product development.",
     "level": "Secondary"
   },
   "Complexity Thinking": {

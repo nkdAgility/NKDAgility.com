@@ -397,12 +397,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T11:09:01",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-11T15:21:44",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 50,
-    "final_score": 59.0,
-    "reasoning": "The content discusses .NET 3.0 in connection with Windows Vista and its deployment in a large organization. While .NET 3.0 is not exclusively about Windows, the context of its integration with the Windows operating system and the mention of Vista indicates a significant connection to the Windows environment.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses .NET 3.0 and its integration with Windows technologies, particularly in the context of Windows Vista and Office 2007. While it mentions Windows and its features, the primary focus is on .NET and its functionalities rather than a comprehensive discussion on Windows itself. The content does not delve deeply into installation, configuration, or troubleshooting of the Windows operating system, which are key aspects of the category. Therefore, while there is some relevance, it does not meet the criteria for a strong alignment with the Windows category.",
+    "level": "Secondary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -955,12 +958,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T11:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:11:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the use of .NET 3.0 and its integration in new applications, touching on the role of developers and IT management in upgrading and utilizing new technologies within a business context.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses .NET 3.0 and its implications for software development, touching on aspects relevant to developers, such as integration with existing systems and the impact of new technologies. However, it lacks a direct focus on Agile or DevOps methodologies, which are central to the category. The discussion is more about technology adoption rather than the role of developers within Agile or DevOps frameworks.",
+    "level": "Quaternary"
   },
   "Lean Principles": {
     "category": "Lean Principles",

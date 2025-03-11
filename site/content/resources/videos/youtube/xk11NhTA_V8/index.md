@@ -2,7 +2,7 @@
 title: 'Navigating the Agile Apocalypse: How to Combat Judgment and Foster Team Growth'
 description: Discover how judgment in Agile can hinder team dynamics and innovation. Learn strategies to foster a supportive culture and enhance collaboration.
 date: 2023-11-01T11:30:27Z
-weight: 775
+weight: 700
 ResourceId: xk11NhTA_V8
 ResourceType: videos
 ResourceImport: true
@@ -25,7 +25,9 @@ preview: https://i.ytimg.com/vi/xk11NhTA_V8/maxresdefault.jpg
 duration: 72
 isShort: false
 tags:
+- Agile Leadership
 - People and Process
+- Agile Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

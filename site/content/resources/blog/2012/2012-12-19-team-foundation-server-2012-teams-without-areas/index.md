@@ -31,12 +31,10 @@ tags:
 - Practical Techniques and Tooling
 - Install and Configuration
 - Azure DevOps
-- Application Lifecycle Management
 - Azure Boards
 - System Configuration
-- Operational Practices
 - Pragmatic Thinking
-- Technical Excellence
+- Operational Practices
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-16-16.png

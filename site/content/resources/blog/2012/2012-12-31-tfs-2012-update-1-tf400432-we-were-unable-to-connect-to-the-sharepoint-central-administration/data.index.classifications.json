@@ -430,12 +430,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:09:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:01:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content provides practical troubleshooting steps for resolving a specific error in Team Foundation Server related to SharePoint integration, which aligns with pragmatic problem-solving in a software development context.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific error encountered during a TFS upgrade and provides practical solutions to resolve it. While it does touch on problem-solving in a technical context, it lacks a broader discussion on Agile, Scrum, or DevOps principles. The focus is primarily on troubleshooting rather than on pragmatic thinking strategies or frameworks, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -757,11 +760,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:51:20",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses troubleshooting and configuration issues related to Team Foundation Server, which operates within the Windows environment, though it primarily focuses on TFS and SharePoint integration rather than Windows itself.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses an error related to Team Foundation Server (TFS) and its interaction with SharePoint, which is relevant to Windows environments. While it does not explicitly mention Windows, TFS is a Microsoft product that operates within the Windows ecosystem. The content provides a detailed troubleshooting guide for a specific error, aligning with the category's focus on configuration and troubleshooting. However, the lack of direct references to Windows and a broader context limits the overall confidence score.",
     "level": "Tertiary"
   },
   "Deployment Strategies": {
@@ -1360,12 +1366,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:09:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:03:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content addresses issues related to upgrading Team Foundation Server, which is part of the application lifecycle, but it primarily focuses on a specific error and troubleshooting steps rather than broader ALM methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses a specific error encountered during an upgrade of Team Foundation Server and provides troubleshooting steps. While it touches on aspects of application management, such as configuration and connectivity issues, it does not explicitly address the broader themes of Application Lifecycle Management, such as governance, methodologies, or lifecycle stages. The focus is more on a technical issue rather than a comprehensive discussion of ALM principles.",
+    "level": "Quaternary"
   },
   "Social Technologies": {
     "category": "Social Technologies",

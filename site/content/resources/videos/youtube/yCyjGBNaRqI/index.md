@@ -25,15 +25,15 @@ duration: 174
 isShort: false
 tags:
 - People and Process
+- Organisational Culture
 - Employee Engagement
 - Team Motivation
+- Team Collaboration
 - Agile Leadership
 - Organisational Psychology
 - Self Organisation
-- Agile Values and Principles
 - Agile Philosophy
-- Organisational Culture
-- Team Collaboration
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

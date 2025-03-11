@@ -25,16 +25,16 @@ preview: https://i.ytimg.com/vi/DSIXtHZTirA/maxresdefault.jpg
 duration: 704
 isShort: false
 tags:
-- Product Delivery
 - Working Software
+- Product Delivery
 - Software Development
 - Pragmatic Thinking
 - Technical Excellence
 - Continuous Delivery
 - Deployment Frequency
 - Deployment Strategies
-- Software Developers
 - Azure DevOps
+- Frequent Releases
 sitemap:
   filename: sitemap.xml
   priority: 0.6

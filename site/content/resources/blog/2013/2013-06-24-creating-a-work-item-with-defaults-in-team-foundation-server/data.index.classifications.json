@@ -1,12 +1,15 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:59:21",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses creating a Product Backlog Item in Team Foundation Server, which relates to Agile practices, but primarily focuses on technical implementation rather than Agile principles or product management strategies.",
-    "level": "Tertiary"
+    "final_score": 24.0,
+    "reasoning": "The content briefly mentions creating a Product Backlog Item (PBI) in Team Foundation Server, which is related to Agile practices. However, it lacks a comprehensive discussion on Agile Product Management principles, such as the role of the Product Owner, backlog prioritisation, or stakeholder engagement. The focus is primarily on technical implementation rather than strategic alignment or customer value maximisation.",
+    "level": "Quaternary"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
@@ -241,12 +244,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:01:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses creating a Work Item in Team Foundation Server, which relates to product backlog management, a component of product delivery. However, it primarily focuses on technical implementation rather than broader product delivery methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses creating a Work Item in Team Foundation Server, which is related to product delivery in terms of managing backlog items. However, it lacks a comprehensive discussion on methodologies, practices, or strategies that are central to the product delivery category. The focus is more on technical implementation rather than the broader aspects of delivering software products effectively.",
+    "level": "Quaternary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -970,12 +976,15 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:49:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses creating Product Backlog Items (PBIs) in Team Foundation Server, which relates to the responsibilities of a Product Owner, but primarily focuses on technical implementation details rather than the broader role or responsibilities of a Product Owner.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on creating a Work Item in Team Foundation Server, which is a technical implementation detail rather than a discussion on the responsibilities or practices of a Product Owner. While it mentions 'Product Backlog Item', it does not delve into the Product Owner's role, backlog management techniques, or stakeholder engagement, which are central to the category.",
+    "level": "Quinary"
   },
   "Cycle Time": {
     "category": "Cycle Time",

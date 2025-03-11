@@ -289,12 +289,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:01:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses TFS Integration Tools, which are part of the Azure DevOps suite, but the primary focus is on a specific issue related to source control migration rather than broader Azure DevOps functionalities or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific issue related to the TFS Integration Platform, which is part of the Azure DevOps suite. However, it primarily focuses on a technical problem without providing a broader context or insights into Azure DevOps functionalities or best practices. The mention of TFS indicates a connection to Azure DevOps, but the discussion lacks depth and does not cover key topics such as CI/CD, agile practices, or integration with other tools.",
+    "level": "Quaternary"
   },
   "Personal": {
     "category": "Personal",
@@ -625,12 +628,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:50:00",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses a specific issue related to source control migration using TFS Integration Tools, which is relevant to version control practices, but it is primarily focused on a technical problem rather than broader methodologies or strategies.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses a specific issue related to the TFS Integration Platform, which is a version control system. However, it primarily focuses on a particular error encountered during migration rather than broader best practices or methodologies in modern source control. While it touches on aspects of source control, such as path mapping and conflict resolution, it lacks a comprehensive exploration of the core themes outlined in the category, such as branching strategies or collaboration workflows.",
+    "level": "Quaternary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -1060,11 +1066,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:59:53",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific issue related to the configuration of TFS Integration Tools and provides workarounds for managing local paths, which is relevant to system configuration. However, the primary focus is on a specific error rather than broader configuration practices.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses a specific issue related to the TFS Integration Platform and its configuration, particularly around path mapping during a source control migration. While it touches on a technical problem that can arise during system configuration, the focus is primarily on a specific error and its workaround rather than broader system configuration principles or best practices. Therefore, while there is some relevance, it does not deeply engage with the core themes of system configuration, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Product Strategy": {

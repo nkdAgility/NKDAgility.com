@@ -634,11 +634,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-14T21:02:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:52:31",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 38,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses synchronisation between VSTS and GitHub, detailing version control practices, automated builds, and continuous integration, which are central to modern source control methodologies.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily discusses synchronisation between VSTS and GitHub, which directly relates to modern source control practices. It covers specific techniques for managing code across different version control systems, including automated builds, continuous integration, and branch management. The depth of discussion is substantial, providing detailed instructions and considerations for effective code management, which aligns well with the core themes of the category.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
@@ -799,11 +802,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-14T21:02:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:42:21",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical problem-solving strategies for synchronising code between VSTS and GitHub, highlighting real-world applications of DevOps principles and Agile practices.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses practical strategies for synchronising code between VSTS and GitHub, which aligns with pragmatic problem-solving in a DevOps context. It provides specific examples and configuration options, demonstrating real-world applications of DevOps principles. However, while it touches on Agile practices, the focus is primarily on technical implementation rather than broader Agile or Scrum methodologies.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -898,11 +904,14 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-14T21:03:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:54:32",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the setup and configuration of Continuous Integration between VSTS and GitHub, detailing automated builds and synchronisation processes, which are central to CI practices.",
+    "final_score": 80.0,
+    "reasoning": "The content primarily focuses on the integration of code changes between VSTS and GitHub, which is a core aspect of Continuous Integration (CI). It discusses automated builds triggered by changes in the repositories, which aligns well with CI principles. The depth of discussion includes specific commands and configurations for setting up CI, demonstrating a strong understanding of the topic. While there are mentions of DevOps and open-source practices, the main focus remains on CI processes, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Market Share": {

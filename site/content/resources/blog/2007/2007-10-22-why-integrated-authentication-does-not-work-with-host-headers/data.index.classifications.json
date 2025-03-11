@@ -376,12 +376,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:17:38",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an issue related to configuring Integrated Authentication with host headers in IIS, which is relevant to system configuration. However, it is primarily anecdotal and does not focus extensively on system configuration principles or methodologies.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific issue related to Integrated Authentication and host headers in the context of configuring Team Foundation Server (TFS) on IIS. It directly addresses a configuration problem (error 401.1) and provides a solution linked to system settings (loopback check security feature). The discussion aligns with the category's focus on troubleshooting configuration issues and the implications of system setup. However, while it provides a practical example, the depth of technical detail on broader configuration strategies is limited, preventing a higher score.",
+    "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -583,11 +586,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:07:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an authentication issue related to Team Foundation Server (TFS) and IIS, which is relevant to software development practices but is primarily focused on troubleshooting rather than providing guidance or methodologies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific technical issue related to Integrated Authentication in Team Foundation Server (TFS) and IIS, which is relevant to software development practices. However, the focus is primarily on troubleshooting a specific problem rather than broader software development methodologies or practices. While it does touch on a technical aspect of software deployment and server configuration, it lacks depth in discussing software development life cycles, methodologies, or best practices, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Site Reliability Engineering": {

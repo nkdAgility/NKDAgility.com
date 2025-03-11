@@ -27,7 +27,6 @@ duration: 286
 isShort: false
 tags:
 - Agile Product Management
-- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

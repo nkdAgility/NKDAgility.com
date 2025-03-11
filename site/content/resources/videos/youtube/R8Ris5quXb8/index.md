@@ -25,13 +25,15 @@ preview: https://i.ytimg.com/vi/R8Ris5quXb8/maxresdefault.jpg
 duration: 18
 isShort: true
 tags:
+- Product Delivery
 - Product Backlog
 - Agile Planning
 - Agile Planning Tools
 - Agile Project Management
-- Product Delivery
 - Product Owner
+- Agile Product Operating Model
 - Agile Product Management
+- Products and Books
 - Value Delivery
 sitemap:
   filename: sitemap.xml

@@ -23,8 +23,8 @@ categories:
 - Scrum
 tags:
 - Agile Project Management
-- Products and Books
 - Events and Presentations
+- Products and Books
 
 ---
 **Kickstart 2024 with Our Unmissable Scrum Training Offer: Buy 1, Get 1 FREE!**

@@ -26,12 +26,12 @@ tags:
 - Events and Presentations
 - Agile Frameworks
 - Agile Project Management
-- Professional Scrum
 - Software Development
-- Agile Transformation
 - People and Process
-- Pragmatic Thinking
+- Professional Scrum
+- Agile Transformation
 - Software Developers
+- Pragmatic Thinking
 categories:
 - Scrum
 - Social Technologies

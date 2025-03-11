@@ -25,7 +25,6 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration
-- Operational Practices
 - Software Development
 - Troubleshooting
 - System Configuration

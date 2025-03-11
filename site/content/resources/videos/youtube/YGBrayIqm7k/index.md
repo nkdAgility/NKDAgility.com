@@ -29,16 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Product Management
 - Value Delivery
-- People and Process
+- Agile Product Management
 - Product Delivery
+- People and Process
 - Strategy
 - Agile Product Operating Model
-- Agile Project Management
 - Agile Strategy
 - Strategic Goals
 - Metrics and Learning
+- Product Strategy
 resourceTypes:
 - video
 categories:

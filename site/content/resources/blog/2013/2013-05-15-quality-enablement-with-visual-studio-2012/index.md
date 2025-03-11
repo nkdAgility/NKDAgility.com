@@ -25,8 +25,8 @@ aliasesArchive:
 tags:
 - Software Development
 - Working Software
-- Application Lifecycle Management
 - Engineering Practices
+- Application Lifecycle Management
 categories:
 - Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-18-18.png

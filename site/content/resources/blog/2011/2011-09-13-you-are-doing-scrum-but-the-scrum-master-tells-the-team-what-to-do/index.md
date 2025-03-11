@@ -8,7 +8,7 @@ ResourceImportId: 3778
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-09-13
-weight: 355
+weight: 345
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,9 +28,18 @@ aliasesArchive:
 - /resources/blog/you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do
 tags:
 - Scrum Team
+- Software Developers
+- People and Process
+- Agile Project Management
+- Agile Product Management
+- Accountability
+- Scrum Product Development
+- Technical Leadership
+- Agile Leadership
+- Scrum Master
 categories:
-- Scrum
 - Social Technologies
+- Scrum
 preview: nakedalm-experts-professional-scrum-1-1.png
 
 ---

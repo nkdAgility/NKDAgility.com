@@ -23,16 +23,16 @@ aliasesArchive:
 - /the-new-normal-of-the-modern-application-lifecycle
 - /resources/blog/the-new-normal-of-the-modern-application-lifecycle
 tags:
-- Application Lifecycle Management
 - Events and Presentations
+- Application Lifecycle Management
 - Software Developers
 - Software Development
-- News and Reviews
-- Organisational Agility
 - People and Process
+- News and Reviews
+- Resilience and Change
 - Business Agility
 - Digital Transformation
-- Resilience and Change
+- Organisational Agility
 categories:
 - DevOps
 preview: metro-new-normal-icon-28-28.png

@@ -133,11 +133,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-12T00:14:23",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T14:37:56",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses the Sprint Review workshop, which is a key event in Scrum that focuses on engaging stakeholders and gathering feedback to ensure the development of functional software that meets user needs. While it does touch on the importance of building the right product, the emphasis is more on the workshop process rather than the delivery of working software itself.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the Sprint Review workshop, which is a key event in Agile methodologies that directly relates to the delivery of working software. It highlights the importance of stakeholder engagement, market alignment, and continuous improvement, all of which are essential for ensuring that software meets user needs. However, while it touches on these aspects, the focus is more on the workshop itself rather than on the broader implications for working software delivery, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Decision Making": {
@@ -187,12 +190,15 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-12T00:14:34",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T16:27:27",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the Sprint Review Workshop, which involves engaging stakeholders to gather feedback on the product. While it primarily focuses on the workshop's structure and purpose, it highlights the importance of collecting and acting on customer feedback, making it a significant theme.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content discusses the Sprint Review workshop, which involves stakeholder engagement and feedback, but it primarily focuses on the workshop's structure and benefits rather than explicitly detailing mechanisms for integrating customer feedback into product development. While there are mentions of stakeholder input and market alignment, the depth of discussion on feedback loops is limited, making it a secondary topic rather than a primary focus.",
+    "level": "Tertiary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -268,11 +274,14 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-12T00:14:48",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the Sprint Review workshop, which is a key event in the Scrum framework, and explores its purpose, techniques, and stakeholder engagement.",
+    "calculated_at": "2025-03-11T17:40:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content focuses primarily on the Sprint Review, a key event within the Scrum framework, discussing its importance, phases, and benefits in detail. It aligns well with Agile principles, particularly in stakeholder engagement and continuous improvement. However, while it provides substantial insights into the Sprint Review, it does not explore other Agile frameworks or a comparative analysis, which slightly limits its depth in the broader Agile context.",
     "level": "Secondary"
   },
   "Scaling Agility": {

@@ -1006,12 +1006,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T11:35:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:57:10",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical steps for configuring release management in TFS, which is related to product delivery, but it primarily focuses on technical setup rather than broader product delivery methodologies.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on configuring release management within TFS, which is a crucial aspect of the product delivery process. It discusses practical steps for setting up connections and troubleshooting, aligning well with the methodologies and practices involved in delivering software products. However, while it provides useful insights, the depth of discussion on broader product delivery concepts such as Agile methodologies or cross-functional teams is limited, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -1105,11 +1108,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-18T11:35:48",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily focuses on configuring release management with a specific Team Foundation Server, detailing steps, settings, and troubleshooting related to system configuration.",
+    "calculated_at": "2025-03-11T16:47:02",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content primarily focuses on the configuration of TFS for release management, detailing specific steps and troubleshooting tips. It explicitly discusses the process of setting up connections, verifying credentials, and addressing common issues, which aligns well with the core themes of system configuration. The depth of discussion is substantial, providing practical insights and recommendations, although it could benefit from a broader exploration of configuration management tools and strategies.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -1123,11 +1129,14 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-18T11:35:48",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-11T17:58:54",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "Content discusses release management with a focus on Team Foundation Server (TFS), but does not directly reference Azure Pipelines or its specific features and practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses configuring release management for Team Foundation Server (TFS), which is related to Azure DevOps but does not specifically address Azure Pipelines. While it touches on aspects of release management, it lacks a direct focus on Azure Pipelines, CI/CD practices, or the use of YAML for pipeline definitions. The discussion is more about TFS connections and troubleshooting rather than the automation of software development processes that Azure Pipelines encompasses.",
     "level": "Quaternary"
   },
   "Hypothesis Driven Development": {

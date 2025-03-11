@@ -28,13 +28,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Agile Project Management
 - Agile Values and Principles
 - Increment
 - Agile Product Operating Model
 - Decision Making
 - Empirical Process Control
-- People and Process
 - Agile Frameworks
 - Agile Philosophy
 - Agile Strategy

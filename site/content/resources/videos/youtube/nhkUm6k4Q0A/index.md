@@ -2,7 +2,7 @@
 title: 'How to Be an Effective Agile Coach: Agnosticism in Practice'
 description: 'Discover the second essential achievement for aspiring #AgileCoaches with Martin Hinshelwood. Elevate your skills and empower teams to thrive!'
 date: 2023-11-14T11:00:50Z
-weight: 775
+weight: 650
 ResourceId: nhkUm6k4Q0A
 ResourceType: videos
 ResourceImport: true
@@ -30,7 +30,9 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Agile Leadership
 - Coaching
+- Technical Leadership
 - Pragmatic Thinking
 resourceTypes:
 - video

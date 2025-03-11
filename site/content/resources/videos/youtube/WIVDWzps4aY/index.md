@@ -29,6 +29,9 @@ tags:
 - Agile Product Management
 - Product Owner
 - Products and Books
+- Agile Transformation
+- Product Backlog
+- Personal
 - People and Process
 sitemap:
   filename: sitemap.xml

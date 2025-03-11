@@ -29,14 +29,14 @@ sitemap:
 tags:
 - People and Process
 - Agile Product Management
-- Product Delivery
+- Software Development
 - Professional Scrum
+- Team Collaboration
+- Agile Frameworks
+- Product Delivery
+- Transparency
 - Scrum Product Development
 - Scrum Team
-- Sprint Review
-- Transparency
-- Agile Planning
-- Product Owner
 resourceTypes:
 - video
 categories:

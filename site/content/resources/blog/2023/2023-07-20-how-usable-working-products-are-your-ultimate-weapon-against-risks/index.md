@@ -25,6 +25,7 @@ aliasesArchive:
 - /resources/blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
 tags:
 - Agile Product Management
+- Working Software
 - Product Delivery
 - Value Delivery
 - Increment
@@ -33,7 +34,6 @@ tags:
 - Agile Strategy
 - Customer Feedback Loops
 - Engineering Practices
-- Software Developers
 categories:
 - Social Technologies
 - Engineering Excellence

@@ -45,11 +45,11 @@ tags:
 - Product Delivery
 - Professional Scrum
 - Scrum Product Development
+- Transparency
+- Agile Frameworks
 - Large Scale Agility
 - Scrum Team
 - Scaling Agility
-- Software Development
-- Agile Frameworks
 
 ---
 The Definitive Guide to Scaling Scrum with Nexus

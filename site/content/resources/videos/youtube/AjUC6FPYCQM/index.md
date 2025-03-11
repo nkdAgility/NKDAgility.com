@@ -2,7 +2,7 @@
 title: 'Unlocking the True Potential of Scrum: Why Professionalism Matters in Agile Teams'
 description: Unlock the true potential of Scrum! Discover how professionalism can transform your team's approach and deliver real value. Join the journey to excellence today!
 date: 2023-04-20T07:00:06Z
-weight: 775
+weight: 720
 ResourceId: AjUC6FPYCQM
 ResourceType: videos
 ResourceImport: true
@@ -27,6 +27,7 @@ duration: 369
 isShort: false
 tags:
 - Professional Scrum
+- Agile Product Management
 - People and Process
 - Software Development
 - Agile Frameworks
@@ -34,8 +35,7 @@ tags:
 - Agile Transformation
 - Software Developers
 - Pragmatic Thinking
-- Team Collaboration
-- Scrum Master
+- Scrum Team
 sitemap:
   filename: sitemap.xml
   priority: 0.6

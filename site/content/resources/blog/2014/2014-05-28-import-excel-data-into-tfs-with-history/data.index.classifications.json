@@ -628,12 +628,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:45:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses importing data into TFS, a version control system, and mentions history management as part of that process. However, it primarily focuses on the use of Excel and VBA rather than broader source control methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses importing data into TFS (Team Foundation Server), which is a version control system, and touches on aspects of data management and history tracking. However, it primarily focuses on the technical process of using Excel and VBA rather than broader best practices or methodologies in modern source control. While it mentions TFS and the concept of history, it lacks depth in discussing version control strategies, collaboration workflows, or integration with DevOps practices, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -874,12 +877,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-11T17:57:43",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "The content discusses importing data into TFS, which is a software tool, but focuses primarily on the technical steps involved rather than on functional software delivery, quality, or customer feedback.",
-    "level": "Quaternary"
+    "final_score": 42.0,
+    "reasoning": "The content discusses a practical method for importing data into TFS, which relates to the operational aspect of software delivery. However, it lacks a strong focus on the characteristics of working software or best practices for ensuring software quality. While it touches on the importance of data integrity and operational efficiency, it does not delve deeply into how this aligns with user requirements or business objectives, which are key themes of the 'Working Software' category.",
+    "level": "Tertiary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1063,12 +1069,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:55:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the process of importing data into TFS, which involves configuration steps related to mapping and preparing data fields. However, the primary focus on Excel functions and manipulation indicates it's more about data handling rather than direct system configuration.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the process of importing data into TFS using Excel, which touches on aspects of system configuration, such as data mapping and integration. However, it lacks a comprehensive focus on broader system configuration principles, best practices, or optimisation strategies. The discussion is more about a specific task rather than a thorough exploration of system configuration methodologies.",
+    "level": "Quaternary"
   },
   "Product Strategy": {
     "category": "Product Strategy",

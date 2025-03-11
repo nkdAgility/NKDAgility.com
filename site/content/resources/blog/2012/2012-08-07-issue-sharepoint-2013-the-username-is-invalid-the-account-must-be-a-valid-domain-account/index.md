@@ -31,6 +31,7 @@ tags:
 - System Configuration
 - Troubleshooting
 - Practical Techniques and Tooling
+- Software Development
 - Windows
 categories: []
 preview: metro-problem-icon-5-5.png

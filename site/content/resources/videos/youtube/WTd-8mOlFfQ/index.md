@@ -2,7 +2,7 @@
 title: 'Part 2: Common Mistakes that Scrum Masters Make'
 description: "Discover common pitfalls for newbie Scrum Masters in part 2 of Martin Hinshelwood's 60-second insights. Elevate your agile journey with Naked Agility! #scrum #agile"
 date: 2023-07-07T14:00:33Z
-weight: 775
+weight: 810
 ResourceId: WTd-8mOlFfQ
 ResourceType: videos
 ResourceImport: true
@@ -39,6 +39,7 @@ tags:
 - People and Process
 - Team Performance
 - Agile Project Management
+- Agile Transformation
 resourceTypes:
 - video
 categories:

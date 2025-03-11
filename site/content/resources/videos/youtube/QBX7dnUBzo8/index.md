@@ -32,14 +32,14 @@ sitemap:
 tags:
 - People and Process
 - Organisational Agility
+- Organisational Physics
 - Enterprise Agility
+- Sociotechnical Systems
 - Systems Thinking
 - Agile Frameworks
 - Agile Leadership
 - Agile Philosophy
 - Agile Strategy
-- Agile Transformation
-- Change Management
 resourceTypes:
 - video
 categories:

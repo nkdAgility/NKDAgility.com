@@ -31,14 +31,14 @@ aliasesArchive:
 tags:
 - Coaching
 - Mentoring
-- Agile Planning
-- Agile Project Management
+- Application Lifecycle Management
 - Agile Frameworks
 - Agile Leadership
 - Agile Strategy
-- Agile Transformation
-- Application Lifecycle Management
 - Operational Practices
+- Agile Planning
+- Agile Project Management
+- Agile Transformation
 categories:
 - Social Technologies
 - Scrum

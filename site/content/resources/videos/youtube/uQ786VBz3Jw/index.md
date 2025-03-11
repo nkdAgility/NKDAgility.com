@@ -2,7 +2,7 @@
 title: 'Mastering Sprint Planning: Key Principles for Agile Success'
 description: Master Sprint planning with top tips on understanding your product backlog and establishing clear goals. Boost team collaboration and achieve success!
 date: 2023-05-26T14:00:37Z
-weight: 775
+weight: 700
 ResourceId: uQ786VBz3Jw
 ResourceType: videos
 ResourceImport: true
@@ -26,6 +26,7 @@ duration: 246
 isShort: false
 tags:
 - People and Process
+- Agile Planning Tools
 - Agile Project Management
 - Product Delivery
 - Professional Scrum
@@ -33,7 +34,6 @@ tags:
 - Agile Frameworks
 - Team Performance
 - Agile Planning
-- Agile Planning Tools
 - Agile Product Management
 sitemap:
   filename: sitemap.xml

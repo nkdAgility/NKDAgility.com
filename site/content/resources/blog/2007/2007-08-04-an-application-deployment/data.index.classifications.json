@@ -187,12 +187,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:08:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges related to application deployment and documentation, which are relevant to product delivery, but the primary focus is on the difficulties faced rather than a structured discussion on methodologies or practices of product delivery.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses challenges related to application deployment and documentation, which are relevant to product delivery. However, it lacks a structured approach to methodologies or best practices, focusing instead on personal experiences and frustrations. While it touches on deployment issues, it does not provide a comprehensive discussion on the core themes of product delivery, such as planning, testing, or iterative development.",
+    "level": "Quaternary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -286,12 +289,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:19:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content shares personal experiences and frustrations related to the challenges of application deployment and documentation, which aligns with the Personal category, but it primarily focuses on technical issues rather than broader reflections on Agile or Scrum methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content provides a personal anecdote about the challenges faced during an application deployment, which aligns with the Personal category. However, it primarily focuses on technical issues and frustrations rather than deeper reflections on Agile, Scrum, or DevOps methodologies. The mention of documentation and the impact of tired developers hints at personal experiences but lacks a broader insight into Agile practices or team dynamics.",
+    "level": "Quaternary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",

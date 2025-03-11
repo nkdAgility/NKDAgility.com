@@ -526,11 +526,14 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-17T13:55:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:23:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the use of a Kanban board to visualize workflows and enhance efficiency, which aligns closely with Lean principles, particularly the focus on flow and continuous improvement.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the use of Kanban boards, which is a Lean tool for visualising workflows. It discusses the importance of understanding workflow, identifying bottlenecks, and enhancing team collaboration, all of which align with Lean principles. The mention of single piece flow and continuous improvement further strengthens its connection to Lean Thinking. However, while it covers relevant topics, it does not delve deeply into all aspects of Lean principles, such as waste identification or value stream mapping, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Troubleshooting": {
@@ -925,12 +928,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T13:55:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:12:09",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content focuses on Kanban, discussing its practical application and how to visualize workflows, making it a major theme but not the sole focus.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the Kanban framework, discussing its implementation and practical aspects in detail. It directly mentions Kanban multiple times and explores its principles, such as visualising workflows and enhancing team collaboration. The discussion aligns well with the core themes of Agile frameworks, particularly in terms of continuous improvement and adapting processes. However, while it provides substantial depth on Kanban, it does not cover a broader range of Agile frameworks, which slightly limits its overall alignment with the category.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -1348,11 +1354,14 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-17T13:55:55",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-11T17:25:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses visualizing workflows in the context of Kanban, which is related but not primarily focused on Value Stream Mapping. It does not sufficiently address the principles or specific techniques of Value Stream Mapping.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Kanban boards and visualising workflows, which are related to Lean principles but do not explicitly discuss Value Stream Mapping. While it touches on concepts like workflow visualisation and identifying bottlenecks, it lacks a direct mention of VSM and does not delve into the specific steps or techniques associated with creating a Value Stream Map. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Quaternary"
   },
   "Increment": {

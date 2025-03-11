@@ -29,11 +29,11 @@ aliasesArchive:
 tags:
 - Events and Presentations
 - Large Scale Agility
+- Agile Transformation
 - Professional Scrum
 - Scaling Agility
 - Scaling Scrum
 - Agile Frameworks
-- Organisational Agility
 - Scaled Agile
 - Scrum Product Development
 - Software Developers

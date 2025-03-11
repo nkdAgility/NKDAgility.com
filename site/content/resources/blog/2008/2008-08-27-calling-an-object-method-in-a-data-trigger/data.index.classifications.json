@@ -37,12 +37,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:15:13",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical implementation in WPF involving data triggers and extension methods, which relates to engineering practices. However, it primarily focuses on a specific coding issue rather than broader engineering methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on a specific technical implementation in WPF, discussing how to call a method on an object instance and the challenges faced with extension methods. While it touches on technical practices, it lacks a broader discussion on engineering methodologies or principles that enhance agility in software development. The mention of a specific technical issue does not align closely with the core themes of Technical Excellence, which emphasises practices like TDD, CI/CD, and modular architecture. Therefore, while there is some relevance, the overall focus is too narrow and lacks depth in the context of the category.",
+    "level": "Quaternary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -118,11 +121,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:14:46",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific technical implementation in WPF involving data triggers and extension methods, which relates to practical techniques in software development. However, it primarily focuses on a coding issue rather than a broader exploration of Agile or DevOps tooling.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily discusses a technical implementation in WPF involving data triggers and extension methods, which relates to practical techniques in software development. However, it lacks a broader discussion on Agile or DevOps methodologies, tools, or frameworks, and does not provide insights into team performance or collaboration. The focus is more on a specific coding problem rather than the application of Agile or DevOps practices.",
     "level": "Tertiary"
   },
   "Value Stream Management": {
@@ -172,12 +178,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:05:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses a specific coding issue related to calling an object method in WPF, which touches on code quality and complexity in the context of software development. However, it does not deeply explore broader themes of complexity theory or best practices in coding, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on a specific coding issue related to calling an object method in WPF, which does not directly address the broader themes of code quality or complexity management. While it discusses a technical problem and provides code snippets, it lacks a comprehensive exploration of principles or best practices in software development that would align with the 'Code and Complexity' category. The discussion is more about implementation details rather than the interplay between code quality and complexity.",
+    "level": "Quaternary"
   },
   "News and Reviews": {
     "category": "News and Reviews",

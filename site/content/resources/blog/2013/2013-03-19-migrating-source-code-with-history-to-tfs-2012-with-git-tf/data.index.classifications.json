@@ -217,12 +217,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:02:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the technical process of migrating source code using Git-Tf, which relates to engineering practices, but it primarily focuses on the migration process rather than broader technical excellence principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating source code using Git-Tf and TFS, which is a specific engineering practice. However, it lacks a broader discussion on methodologies or principles that enhance agility or technical excellence in software development. While it does mention some technical details and commands, it does not delve deeply into concepts like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
+    "level": "Quaternary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -796,11 +799,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:50:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical problem-solving strategies for migrating source code within a specific toolset, touching on experience and real-world applications. However, it does not primarily focus on Agile, Scrum, or DevOps frameworks.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses practical problem-solving techniques for migrating source code between Team Foundation Servers using Git-Tf, which aligns with the category's focus on real-world applications of DevOps principles. It provides specific commands and steps, demonstrating a pragmatic approach to a complex task. However, while it touches on practical strategies, it lacks a broader discussion on Agile or Scrum contexts, which slightly lowers the alignment and depth scores.",
     "level": "Tertiary"
   },
   "Backlog Refinement": {
@@ -1066,12 +1072,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:00:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation of Git-Tf and the configuration of source control systems, which relates to system configuration. However, the primary focus is on migrating source code rather than detailed system configuration practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the process of migrating source code between Team Foundation Servers using Git-Tf, which involves some aspects of system configuration, such as installation and setup of tools. However, the primary focus is on the migration process itself rather than a comprehensive exploration of system configuration principles or best practices. While there are mentions of installation and command-line usage, the depth of discussion on configuration management and optimisation strategies is limited, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Product Strategy": {
     "category": "Product Strategy",

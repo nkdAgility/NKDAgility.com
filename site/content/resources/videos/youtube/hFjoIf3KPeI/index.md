@@ -32,15 +32,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Agile Leadership
+- Employee Engagement
 - Team Motivation
+- Agile Frameworks
 - Scrum Master
 - Scrum Product Development
 - Scrum Team
-- Agile Frameworks
 - Agile Project Management
 - Team Collaboration
-- Team Performance
-- Agile Product Management
 resourceTypes:
 - video
 categories:

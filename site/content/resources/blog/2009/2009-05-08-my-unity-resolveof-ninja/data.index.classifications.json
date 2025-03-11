@@ -40,12 +40,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:13:59",
+    "ai_confidence": 42.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the implementation of a Unity Application Block and the creation of a custom object in Visual Studio, which relates to code quality and design practices. However, it primarily focuses on specific coding examples rather than a broader discussion on complexity theory or its impact on software development processes.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content primarily discusses the implementation of a Unity container in a software application, which relates to code quality and design patterns. However, while it touches on aspects of code structure and modular design, it lacks a deeper exploration of complexity theory or its implications on software architecture. The discussion is more focused on practical coding examples rather than theoretical insights, resulting in a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -871,12 +874,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:03:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses implementation details of integrating a software framework (Unity Application Block) and exemplifies coding practices, which relates to working software, but the focus on practical application and outcomes is less pronounced.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on technical implementation details of integrating the Unity Application Block in a software project. While it discusses aspects of software development, it lacks a direct focus on the delivery of functional, high-quality software that meets customer needs. The discussion is more about coding practices and specific implementations rather than the broader principles of working software in Agile or Scrum contexts.",
+    "level": "Quaternary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1060,11 +1066,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 40,
+    "calculated_at": "2025-03-11T15:12:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 36.0,
-    "reasoning": "The content primarily discusses using the Unity Application Block and dependency injection in a programming context, which may include configuration aspects, but it is mostly focused on software development practices and examples rather than explicit system configuration. The topic does touch on configuration in terms of setting up the Unity container, but it does not delve deeper into system configuration methodologies or best practices.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the integration of the Unity Application Block and the creation of a singleton instance of a UnityContainer, which relates to system configuration. However, the focus is primarily on coding practices and examples rather than on broader system configuration methodologies or best practices. While there are mentions of configuration (e.g., initialising from a config file), the depth of discussion on system configuration principles is limited, leading to a moderate confidence score.",
     "level": "Quaternary"
   },
   "Product Strategy": {

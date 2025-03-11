@@ -30,15 +30,15 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Product Management
+- Product Owner
 - Value Delivery
 - Product Strategy
-- Product Owner
 - Product Validation
 - Agile Product Operating Model
 - Product Discovery
-- Agile Strategy
 - People and Process
-- Pragmatic Thinking
+- Product Delivery
+- Agile Strategy
 resourceTypes:
 - video
 categories:

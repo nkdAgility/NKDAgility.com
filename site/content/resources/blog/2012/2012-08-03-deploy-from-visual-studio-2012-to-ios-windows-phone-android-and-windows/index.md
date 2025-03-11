@@ -32,10 +32,10 @@ aliasesArchive:
 - /resources/blog/deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows
 tags:
 - Software Development
-- Windows
 - Working Software
 - Application Lifecycle Management
 - Practical Techniques and Tooling
+- Windows
 - Product Delivery
 categories:
 - DevOps

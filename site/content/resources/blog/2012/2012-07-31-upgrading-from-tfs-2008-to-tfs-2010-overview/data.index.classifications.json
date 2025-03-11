@@ -244,12 +244,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:09:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:53:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the upgrade process of TFS, which is related to product delivery, but it primarily focuses on technical aspects of the upgrade rather than broader methodologies or practices in delivering software products.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the technical aspects of upgrading Team Foundation Server (TFS) from one version to another, focusing on the upgrade process and configuration. While it touches on aspects of product delivery, such as the importance of configuration for usability, it lacks a broader discussion on methodologies, practices, or strategies that encompass the end-to-end product delivery process. The depth of discussion is more technical and specific to TFS upgrades rather than the overarching themes of product delivery.",
+    "level": "Quaternary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -964,12 +967,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:09:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:05:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the upgrade process of TFS (Team Foundation Server), which involves aspects of managing software versions and configurations. It highlights challenges and strategies in upgrading software, which aligns with themes of release management but is not solely focused on the broader strategies and practices of release management.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the upgrade process from TFS 2008 to TFS 2010, which touches on aspects of release management, such as version control and the challenges of upgrading software. However, it lacks a comprehensive focus on broader release management strategies, such as planning, scheduling, and risk management. The discussion is primarily technical and centred on specific upgrade experiences rather than the overall release management process.",
+    "level": "Quaternary"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -1222,12 +1228,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:03:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the upgrade process of TFS, which is relevant to software developers using Agile and DevOps practices, but the primary focus is on the technical aspects of the migration rather than exploring methodologies or best practices in Agile or DevOps.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server (TFS) from 2008 to 2010, which is relevant to software developers. However, it lacks a direct discussion on Agile or DevOps methodologies, which are central to the category. While it touches on the importance of process templates and configurations, it does not delve into best practices or collaborative aspects that enhance productivity or team dynamics, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

@@ -30,10 +30,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Discovery and Learning
 - Continuous Learning
+- Discovery and Learning
 - People and Process
+- Team Motivation
 - Miscellaneous
+- Agile Philosophy
 resourceTypes:
 - video
 categories: []

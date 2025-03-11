@@ -28,10 +28,8 @@ aliasesArchive:
 - /resources/blog/scrum-with-dev11-creating-a-scrum-team-identity
 tags:
 - News and Reviews
-- Scrum Team
-- Practical Techniques and Tooling
-- Agile Frameworks
 - Software Development
+- Practical Techniques and Tooling
 categories:
 - Social Technologies
 - Scrum

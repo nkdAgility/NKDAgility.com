@@ -490,12 +490,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T10:42:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:56:00",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses operational practices related to Jenkins and the masking of passwords during builds, which relates to enhancing operational efficiency and security in development processes.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific technical solution for masking passwords in Jenkins, which relates to operational practices in terms of security and efficiency in build processes. However, it lacks broader discussions on operational efficiency, methodologies, or strategies that enhance overall performance. The focus is primarily on a specific issue rather than a comprehensive exploration of operational practices.",
+    "level": "Tertiary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -589,11 +592,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T10:42:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:45:48",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 27.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a specific issue related to Jenkins and the handling of passwords in software builds, which is relevant to software development practices and the use of CI/CD tools.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses a specific issue related to Jenkins, a tool commonly used in software development for continuous integration and deployment. It provides a detailed account of how to mask passwords in Jenkins logs, which aligns with best practices in coding and security within the software development lifecycle. The mention of plugins and configuration settings indicates a practical application of software development methodologies. However, while it is focused on a specific technical solution, it lacks broader discussions on methodologies or frameworks, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1177,11 +1183,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T10:42:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:57:46",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses identifying and resolving an issue related to password visibility in Jenkins builds, providing steps taken to diagnose and implement a solution.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on identifying and resolving a specific issue related to password visibility in Jenkins logs, which aligns well with troubleshooting. It discusses the problem, the initial confusion, and the steps taken to find a solution, including exploring documentation and configuration settings. The mention of a critical blocker due to security concerns further emphasises the troubleshooting aspect. However, while it provides a detailed account of the troubleshooting process, it lacks broader strategies or methodologies that could enhance its depth of discussion.",
     "level": "Secondary"
   },
   "Experimentation": {

@@ -27,6 +27,7 @@ aliasesArchive:
 - /blog/who-broke-the-build-
 - /resources/blog/who-broke-the-build
 tags:
+- Software Development
 - Windows
 - Modern Source Control
 - Software Developers
@@ -36,7 +37,6 @@ tags:
 - Continuous Delivery
 - Continuous Integration
 - Engineering Practices
-- Operational Practices
 preview: metro-visual-studio-2010-128-link-10-10.png
 categories:
 - Engineering Excellence

@@ -364,11 +364,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-14T23:35:22",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T14:54:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses aspects of the application lifecycle, particularly around deployment and release management, but primarily focuses on a demonstration of TFS and VSO rather than a comprehensive exploration of ALM methodologies or practices.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses aspects of TFS and VSO, which are tools related to application lifecycle management, but it primarily focuses on a specific demo and personal experiences rather than a comprehensive discussion of ALM methodologies or practices. While there are mentions of release management and deployment processes, the overall depth and focus on the lifecycle stages are limited.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -409,12 +412,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T23:35:39",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T16:44:00",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses aspects of release management and automated deployment, which are relevant to Continuous Delivery. However, the primary focus is on TFS and VSO features rather than the core principles and practices of Continuous Delivery.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses aspects of deployment and release management, which are relevant to Continuous Delivery. However, the primary focus is on TFS and VSO, with only brief mentions of Continuous Delivery principles. While there are some relevant details about automated deployment and release pipelines, the overall discussion is more centred on specific tools and experiences rather than a comprehensive exploration of Continuous Delivery methodologies.",
+    "level": "Tertiary"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -598,11 +604,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-14T23:36:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:55:57",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the use of Team Foundation Server (TFS) and Visual Studio Online (VSO) in the context of software development practices, including Agile workflows, bug tracking, and release management, which are central to software engineering methodologies.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses the use of Team Foundation Server (TFS) and Visual Studio Online (VSO) in the context of software development practices, including Agile methodologies and release management. It provides detailed insights into workflows, bug tracking, and deployment processes, which are core aspects of software development. The depth of discussion is significant, covering specific scenarios and challenges faced during the demo, thus aligning well with the key topics of the Software Development category.",
     "level": "Secondary"
   },
   "Agile Project Management": {

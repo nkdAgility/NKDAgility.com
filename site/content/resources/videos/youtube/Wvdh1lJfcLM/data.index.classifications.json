@@ -109,11 +109,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T12:30:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:11:10",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses migration services and tools related to transitioning from TFS to Azure DevOps, which involves aspects of system configuration, such as validating environments and managing configurations during the migration process. However, the primary focus is on migration services rather than system configuration itself.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the migration process from TFS to Azure DevOps, which involves significant system configuration considerations, such as handling custom configurations, validation tools, and ensuring proper account alignment. While it does touch on configuration aspects, the primary focus is on the migration strategy rather than the technicalities of system configuration itself. Therefore, while there are relevant mentions and some depth, the overall emphasis leans more towards migration strategy than pure system configuration.",
     "level": "Tertiary"
   },
   "Digital Transformation": {
@@ -262,12 +265,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T12:30:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content briefly mentions transitioning from Scrum to Agile, indicating a secondary theme related to Agile frameworks, but primarily focuses on migration services and tools.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-11T17:24:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the migration process from TFS to Azure DevOps, discussing tools and strategies rather than Agile frameworks themselves. While it briefly mentions transitioning from Scrum to Agile, this is not the main focus. The discussion lacks depth on Agile principles or frameworks, making it only tangentially related to the category.",
+    "level": "Quaternary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -1102,12 +1108,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T12:30:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:22:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses migration services related to Azure DevOps, which touches on aspects of product delivery, particularly in the context of transitioning software environments. However, the primary focus is on migration tools and services rather than the broader methodologies and practices of product delivery.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the migration process from TFS to Azure DevOps, which is a critical aspect of product delivery. It discusses methodologies, tools, and best practices for ensuring a smooth transition, aligning well with the core themes of product delivery. However, while it touches on important elements like validation and testing, the depth of discussion on broader product delivery concepts such as Agile methodologies or cross-functional teams is limited, which slightly reduces the overall confidence score.",
+    "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",

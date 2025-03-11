@@ -28,15 +28,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Estimation
+- Agile Project Management
+- Software Development
 - Scrum Product Development
 - Scrum Team
-- Software Development
 - Scrum Master
 - Agile Planning
-- Agile Project Management
-- Pragmatic Thinking
 - Agile Frameworks
+- Pragmatic Thinking
+- Estimation
 - Agile Product Management
 resourceTypes:
 - video

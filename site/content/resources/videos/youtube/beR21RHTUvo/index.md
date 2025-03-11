@@ -30,11 +30,13 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Estimation
+- Agile Product Management
 - Software Development
+- Estimation
 - Agile Project Management
-- Pragmatic Thinking
 - Software Developers
+- Pragmatic Thinking
+- Product Delivery
 resourceTypes:
 - video
 categories:

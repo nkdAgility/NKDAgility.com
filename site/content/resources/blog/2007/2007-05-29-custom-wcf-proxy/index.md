@@ -24,6 +24,7 @@ aliasesArchive:
 - /resources/blog/custom-wcf-proxy
 tags:
 - Software Development
+- Practical Techniques and Tooling
 preview: metro-merilllynch-128-link-1-1.png
 categories:
 - Engineering Excellence

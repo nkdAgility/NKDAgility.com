@@ -24,15 +24,15 @@ aliasesArchive:
 - /resources/blog/a-working-test-track-pro-adapter-for-the-tfs-integration-platform
 tags:
 - Practical Techniques and Tooling
-- Working Software
-- Operational Practices
 - Software Developers
 - Software Development
-- System Configuration
 - Troubleshooting
+- Working Software
 - Install and Configuration
 - Technical Mastery
 - Pragmatic Thinking
+- Increment
+- Azure DevOps
 categories:
 - Engineering Excellence
 

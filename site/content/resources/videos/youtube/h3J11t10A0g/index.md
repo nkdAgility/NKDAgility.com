@@ -32,9 +32,9 @@ tags:
 - Agile Philosophy
 - Agile Project Management
 - Engineering Practices
-- People and Process
+- Agile Transformation
 - Product Delivery
-- Complexity Thinking
+- Agile Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

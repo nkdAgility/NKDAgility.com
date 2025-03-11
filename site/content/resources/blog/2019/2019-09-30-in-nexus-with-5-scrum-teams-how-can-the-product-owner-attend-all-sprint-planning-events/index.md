@@ -31,13 +31,13 @@ aliasesArchive:
 - /blog/in-nexus-with-5-scrum-teams--how-can-the-product-owner-attend-all-sprint-planning-events-
 - /resources/blog/in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events
 tags:
+- Scrum Team
 - Agile Product Management
 - Agile Project Management
 - Scrum Product Development
 - Product Owner
 - Professional Scrum
 - Scaling Scrum
-- Scrum Team
 - Large Scale Agility
 - Scaling Agility
 - Software Development

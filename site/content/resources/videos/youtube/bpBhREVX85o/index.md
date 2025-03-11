@@ -30,7 +30,6 @@ sitemap:
 tags:
 - People and Process
 - Pragmatic Thinking
-- Agile Strategy
 resourceTypes:
 - video
 categories:

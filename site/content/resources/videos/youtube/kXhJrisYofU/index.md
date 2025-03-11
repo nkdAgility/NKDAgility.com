@@ -29,12 +29,12 @@ tags:
 - Pragmatic Thinking
 - Value Delivery
 - Organisational Agility
+- Market Adaptability
 - Agile Product Operating Model
 - Agile Project Management
-- Market Adaptability
+- Enterprise Agility
 - Agile Values and Principles
 - Change Management
-- Enterprise Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

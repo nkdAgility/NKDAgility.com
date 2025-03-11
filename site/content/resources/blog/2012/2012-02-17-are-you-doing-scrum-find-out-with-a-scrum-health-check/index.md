@@ -29,6 +29,7 @@ aliasesArchive:
 tags:
 - Agile Project Management
 - Software Development
+- People and Process
 - Agile Frameworks
 categories:
 - Scrum

@@ -2,7 +2,7 @@
 title: How can companies derive greater benefits from training by investing in a private training course?
 description: 'Discover how private training courses can enhance team effectiveness and drive success in your organisation. Unlock the power of tailored #Scrum training!'
 date: 2023-05-05T07:00:01Z
-weight: 625
+weight: 710
 ResourceId: a2sXBMPHl2Y
 ResourceType: videos
 ResourceImport: true

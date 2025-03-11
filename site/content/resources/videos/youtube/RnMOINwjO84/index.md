@@ -24,16 +24,16 @@ preview: https://i.ytimg.com/vi/RnMOINwjO84/maxresdefault.jpg
 duration: 971
 isShort: false
 tags:
-- Business Agility
 - Complexity Thinking
+- Business Agility
 - Organisational Agility
-- Discovery and Learning
 - Enterprise Agility
 - Market Adaptability
+- Discovery and Learning
 - Organisational Physics
-- Decision Making
 - People and Process
 - Resilience and Change
+- Decision Theory
 sitemap:
   filename: sitemap.xml
   priority: 0.6

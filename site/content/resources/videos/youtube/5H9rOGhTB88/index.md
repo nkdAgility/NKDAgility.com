@@ -29,16 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Leadership
 - People and Process
 - Organisational Agility
+- Self Organisation
 - Business Agility
-- Agile Leadership
 - Agile Product Operating Model
 - Agile Values and Principles
 - Agile Frameworks
 - Agile Philosophy
 - Agile Project Management
-- Agile Strategy
 resourceTypes:
 - video
 layout: video

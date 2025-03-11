@@ -27,13 +27,13 @@ tags:
 - Value Delivery
 - Practical Techniques and Tooling
 - Product Delivery
+- Agile Product Management
 - Technical Excellence
 - People and Process
-- Increment
 - Organisational Agility
+- Increment
 - Test First Development
 - Business Agility
-- Cycle Time
 categories:
 - Scrum
 preview: staggered-iterations-for-delivery1-2-2.png

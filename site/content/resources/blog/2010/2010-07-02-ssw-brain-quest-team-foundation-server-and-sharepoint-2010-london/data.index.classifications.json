@@ -364,11 +364,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T00:30:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:09:37",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the use of Team Foundation Server (TFS) and Visual Studio in managing software development processes, including project management, requirements gathering, and testing, which are key aspects of Application Lifecycle Management.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses tools like Team Foundation Server (TFS) and Visual Studio 2010, which are relevant to application lifecycle management. It touches on project management, requirements gathering, and the lifecycle of work items, indicating a focus on managing software applications. However, the discussion is more centred on training and specific features of the tools rather than a comprehensive exploration of ALM methodologies or practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -880,11 +883,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-16T01:27:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T18:11:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses tools and methodologies related to software development, including Team Foundation Server and Visual Studio, emphasizing their roles in delivering functional software. It aligns with the themes of user requirements, project management, and software quality, making working software a central topic.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on a training course that aims to enhance developers' understanding of tools like Team Foundation Server and SharePoint, which are essential for delivering working software. It discusses practical aspects such as requirements gathering, project management, and testing, which are directly related to the characteristics of working software. The depth of discussion on how these tools can improve software development processes contributes to a strong alignment with the category, although it does not delve deeply into customer feedback or iterative development practices.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
@@ -1222,11 +1228,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-16T01:27:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:00:01",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses training sessions focused on software development tools (Visual Studio, TFS) and methodologies relevant to software developers, including their implications for project management and team productivity.",
+    "final_score": 67.0,
+    "reasoning": "The content primarily focuses on a training course for software developers, specifically covering tools like Team Foundation Server and SharePoint, which are relevant to Agile and DevOps practices. It discusses project management, requirements gathering, and the software development lifecycle, aligning well with the core themes of the category. However, while it provides substantial detail on the tools and their applications, it lacks a deeper exploration of Agile methodologies or DevOps principles, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Coaching": {

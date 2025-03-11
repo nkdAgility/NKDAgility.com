@@ -268,12 +268,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:10:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses various software products and tools, such as Visual Studio 2010, Silverlight 4, and ASP.NET MVC 2, which are relevant to Agile and DevOps practices. However, the primary focus is on event coverage and personal experiences rather than in-depth reviews or analyses of these products.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the features and updates of various software products, such as Visual Studio 2010, Silverlight 4, and ASP.NET MVC 2. While it provides some insights into these tools, it lacks a focused review or analysis that aligns with the core themes of the 'Products and Books' category. The discussion is more about personal experiences and technical features rather than a structured evaluation of how these products enhance Agile or DevOps practices.",
+    "level": "Quaternary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -352,12 +355,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:12:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Visual Studio 2010 enhancements, which include features relevant to application development and lifecycle management, but it primarily focuses on new tools and technologies rather than the overall management of the application lifecycle.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scott Guthrie's talks about new features in Visual Studio, Silverlight, ASP.NET MVC, and Windows Phone 7, without discussing the application lifecycle stages, governance, or management practices. While there are mentions of Visual Studio ALM enhancements, they are not the main focus, leading to a low confidence score.",
+    "level": "Quinary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -1114,12 +1120,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:01:10",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses several Windows-related technologies and platforms, including Windows Phone 7 and mentions of Visual Studio in relation to Windows applications, but the primary focus is on development tools and frameworks rather than direct management or use of the Windows operating system itself.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses various Microsoft technologies, including Windows Phone 7 and Visual Studio, which are related to the Windows ecosystem. However, the primary focus is on development tools and frameworks rather than direct Windows operating system topics like installation, configuration, or troubleshooting. While there are mentions of Windows Phone and some integration with Windows features, the depth of discussion on Windows-specific topics is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",

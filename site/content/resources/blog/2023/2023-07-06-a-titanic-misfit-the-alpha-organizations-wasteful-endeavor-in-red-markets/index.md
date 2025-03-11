@@ -30,12 +30,13 @@ aliasesArchive:
 tags:
 - Beta Codex
 - Lean Thinking
-- Business Agility
+- People and Process
+- Organisational Agility
 - Complexity Thinking
 - Enterprise Agility
-- Lean
-- Organisational Agility
 - Organisational Physics
+- Business Agility
+- Lean
 - Organisational Change
 categories: []
 preview: image-1.jpg

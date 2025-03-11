@@ -26,8 +26,6 @@ duration: 369
 isShort: false
 tags:
 - Evidence Based Leadership
-- Evidence Based Management
-- Decision Making
 sitemap:
   filename: sitemap.xml
   priority: 0.6

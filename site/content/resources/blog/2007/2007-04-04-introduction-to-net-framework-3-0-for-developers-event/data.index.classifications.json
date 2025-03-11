@@ -379,12 +379,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:52:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:21:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses aspects related to .NET Framework and Windows Workflow Foundation, which are connected to the Windows environment, although the primary focus is on .NET development rather than Windows itself.",
-    "level": "Tertiary"
+    "final_score": 34.0,
+    "reasoning": "The content primarily discusses a .NET Framework event and its features, with only brief mentions of Windows-related technologies like Windows Workflow Foundation and Windows Communication Foundation. While there is some conceptual alignment with Windows as it relates to .NET development, the focus is not on the Windows operating system itself, but rather on the .NET framework and its components. The depth of discussion on Windows is limited, as it does not cover installation, configuration, or troubleshooting of the Windows OS, which are key topics in the Windows category.",
+    "level": "Quaternary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -715,12 +718,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:52:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:10:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical event focused on .NET Framework and mentions concepts like CardSpace and Windows Workflow Foundation, which are relevant to software development and technical practices, but it primarily reflects personal experiences and opinions rather than deep technical mastery principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily recounts an event attended by the author, focusing on the insights gained from a session about .NET Framework 3.0. While it touches on specific technical topics like CardSpace and Windows Workflow Foundation, the discussion lacks depth in software craftsmanship principles and best practices. The mention of technical concepts is present but not the primary focus, leading to a lower confidence score in alignment with the 'Technical Mastery' category.",
+    "level": "Quaternary"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",

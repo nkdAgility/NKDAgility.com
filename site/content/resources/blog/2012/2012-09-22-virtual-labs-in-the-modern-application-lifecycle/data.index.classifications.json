@@ -364,11 +364,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-14T17:06:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:02:28",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the role of virtual labs in the application lifecycle, addressing challenges and solutions related to development, deployment, and testing, which are key aspects of Application Lifecycle Management.",
+    "final_score": 77.0,
+    "reasoning": "The content extensively discusses the role of virtual labs in the application lifecycle, particularly in relation to development, deployment, and testing. It highlights the challenges faced by development and operations teams in managing modern applications and how virtual labs can alleviate these issues. The integration of tools like Visual Studio Team Foundation Server and Hyper-V is also covered, demonstrating a clear connection to application lifecycle management practices. Overall, the content aligns well with the core themes of the category, providing a detailed exploration of how virtual labs fit into the broader context of ALM.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -391,11 +394,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-14T17:06:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:52:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the complexities of modern application development, the role of virtual labs, and the integration of automation and testing practices, which are central to software craftsmanship and engineering excellence.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the complexities of modern application development and the role of virtual labs in addressing these challenges. It explicitly mentions best practices in software development, such as automation, integration, and the importance of testing, which align well with the principles of technical mastery. The depth of discussion on specific problems faced by engineering and operations teams, along with proposed solutions, indicates a strong focus on improving software quality and maintainability. However, while it touches on technical practices, it does not delve deeply into methodologies or principles of clean code, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -409,11 +415,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T17:06:34",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T18:04:12",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the challenges and solutions related to modern application development, including the need for continuous delivery and automation in testing and deployment processes. However, it primarily focuses on virtual labs and their integration with development tools, making Continuous Delivery a major but secondary theme.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the challenges and solutions related to modern application development, particularly focusing on the role of virtual labs in facilitating Continuous Delivery. It mentions the need for rapid deployment and the integration of development and operations teams, which aligns with Continuous Delivery principles. However, while it touches on automation and deployment processes, it lacks a detailed exploration of Continuous Delivery methodologies and practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Strategic Goals": {

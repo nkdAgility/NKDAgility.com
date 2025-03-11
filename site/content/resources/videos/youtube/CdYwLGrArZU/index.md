@@ -32,10 +32,12 @@ tags:
 - Agile Product Management
 - Product Owner
 - People and Process
-- Professional Scrum
 - Agile Project Management
+- Accountability
+- Professional Scrum
 - Personal
 - Pragmatic Thinking
+- Transparency and Accountability
 resourceTypes:
 - video
 categories:

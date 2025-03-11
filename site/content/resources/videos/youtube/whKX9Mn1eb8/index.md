@@ -26,8 +26,10 @@ preview: https://i.ytimg.com/vi/whKX9Mn1eb8/maxresdefault.jpg
 duration: 48
 isShort: true
 tags:
+- Product Delivery
 - Software Development
 - Working Software
+- Automated Testing
 - Engineering Practices
 - Value Delivery
 - Software Developers

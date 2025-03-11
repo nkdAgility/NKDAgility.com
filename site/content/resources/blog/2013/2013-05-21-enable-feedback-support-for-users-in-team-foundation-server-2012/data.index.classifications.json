@@ -241,12 +241,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:49:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses enabling feedback support in Team Foundation Server, which relates to the product delivery process by addressing user feedback mechanisms. However, it primarily focuses on configuration details rather than broader product delivery methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on enabling feedback support in Team Foundation Server 2012, which is a specific technical implementation rather than a broader discussion on product delivery methodologies or practices. While it touches on aspects of configuration and permissions that could relate to product delivery, it lacks a comprehensive exploration of key topics such as Agile methodologies, iterative development, or deployment strategies. The depth of discussion is moderate, providing detailed steps for configuration, but it does not align closely with the core themes of product delivery as defined in the category.",
+    "level": "Quaternary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -481,12 +484,15 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:59:46",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses enabling feedback support in Team Foundation Server, which relates to customer feedback mechanisms, but primarily focuses on configuration rather than broader feedback loop practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses enabling feedback support in Team Foundation Server 2012, which directly relates to customer feedback mechanisms. It provides specific steps for configuring email settings and permissions to facilitate feedback collection. However, while it mentions feedback, it lacks a broader discussion on integrating this feedback into product development processes or methodologies, which limits its depth and conceptual alignment with the category.",
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
@@ -1015,12 +1021,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:01:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses enabling feedback support in Team Foundation Server, which relates to team collaboration tools and practices, but primarily focuses on technical configuration rather than broader themes of teamwork dynamics or communication.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on enabling feedback support in Team Foundation Server 2012, which is more about technical configuration than team collaboration. While it mentions aspects of user permissions and email settings that could facilitate communication, it lacks a direct discussion on team dynamics, shared ownership, or collaboration strategies. The alignment with the core themes of the category is minimal, and the depth of discussion does not explore the broader implications of teamwork or Agile methodologies.",
+    "level": "Quaternary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",

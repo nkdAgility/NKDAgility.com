@@ -30,12 +30,12 @@ sitemap:
 tags:
 - People and Process
 - Agile Leadership
-- Business Agility
-- Organisational Agility
-- Organisational Culture
 - Agile Transformation
+- Business Agility
 - Organisational Change
 - Pragmatic Thinking
+- Organisational Culture
+- Organisational Agility
 - Change Management
 resourceTypes:
 - video

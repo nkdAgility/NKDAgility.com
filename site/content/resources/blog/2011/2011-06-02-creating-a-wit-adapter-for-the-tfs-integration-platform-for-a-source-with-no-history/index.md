@@ -24,6 +24,15 @@ aliasesArchive:
 - /resources/blog/creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history
 tags:
 - Software Development
+- Troubleshooting
+- Practical Techniques and Tooling
+- Technical Mastery
+- System Configuration
+- Install and Configuration
+- Pragmatic Thinking
+- Working Software
+- Technical Excellence
+- Code and Complexity
 preview: metro-visual-studio-2005-128-link-4-4.png
 categories:
 - Engineering Excellence

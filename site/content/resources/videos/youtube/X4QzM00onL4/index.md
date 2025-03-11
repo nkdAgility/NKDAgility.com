@@ -2,7 +2,7 @@
 title: 'Taming the Chaos: How to Align Your Agile Team for Success'
 description: Combat chaos in Agile teams with clear goals and alignment. Discover strategies to enhance collaboration and efficiency for successful outcomes.
 date: 2023-11-03T05:11:45Z
-weight: 775
+weight: 670
 ResourceId: X4QzM00onL4
 ResourceType: videos
 ResourceImport: true
@@ -26,8 +26,11 @@ preview: https://i.ytimg.com/vi/X4QzM00onL4/maxresdefault.jpg
 duration: 66
 isShort: false
 tags:
+- Agile Leadership
 - Strategy
+- Agile Product Management
 - People and Process
+- Technical Leadership
 - Team Collaboration
 sitemap:
   filename: sitemap.xml

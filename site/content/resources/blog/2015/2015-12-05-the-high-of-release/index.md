@@ -26,13 +26,13 @@ tags:
 - Practical Techniques and Tooling
 - Events and Presentations
 - News and Reviews
-- Azure DevOps
 - Azure Pipelines
 - Release Management
-- Software Developers
 - Software Development
+- Azure DevOps
 - Frequent Releases
 - Operational Practices
+- Technical Mastery
 categories:
 - DevOps
 - Engineering Excellence

@@ -28,9 +28,9 @@ aliasesArchive:
 - /resources/blog/investigation-seo-permanent-redirects-for-old-urls
 tags:
 - Windows
+- Practical Techniques and Tooling
 - Software Development
 - Troubleshooting
-- Practical Techniques and Tooling
 - Install and Configuration
 - Pragmatic Thinking
 - System Configuration

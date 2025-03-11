@@ -31,6 +31,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Flow Efficiency
 - Organisational Agility
 - Value Delivery
 - People and Process
@@ -40,7 +41,6 @@ tags:
 - Deployment Frequency
 - Operational Practices
 - Pragmatic Thinking
-- Product Delivery
 resourceTypes:
 - video
 categories:

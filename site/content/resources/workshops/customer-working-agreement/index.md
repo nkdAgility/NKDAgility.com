@@ -37,8 +37,8 @@ tags:
 - Transparency and Accountability
 - People and Process
 - Product Delivery
-- Agile Frameworks
 - Agile Planning
+- Agile Frameworks
 
 ---
 ## Customer Working Agreement

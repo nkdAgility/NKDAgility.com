@@ -33,8 +33,10 @@ tags:
 - Continuous Learning
 - Discovery and Learning
 - Change Management
+- Business Agility
 - Resilience and Change
 - People and Process
+- Enterprise Agility
 - Organisational Agility
 - Organisational Change
 resourceTypes:

@@ -35,11 +35,11 @@ categories:
 - Leadership
 tags:
 - Metrics and Learning
+- Organisational Physics
 - Operational Practices
-- Transparency
-- People and Process
-- Value Delivery
 - Value Stream Management
+- Value Delivery
+- People and Process
 - Agile Strategy
 - Pragmatic Thinking
 - Systems Thinking

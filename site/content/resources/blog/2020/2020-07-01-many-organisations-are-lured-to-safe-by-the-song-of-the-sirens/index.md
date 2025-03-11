@@ -26,13 +26,13 @@ tags:
 - Agile Transformation
 - Scaled Agile
 - Agile Frameworks
-- Agile Philosophy
-- Agile Strategy
 - Large Scale Agility
-- Organisational Change
 - Business Agility
 - Organisational Culture
 - Organisational Agility
+- Agile Philosophy
+- Organisational Change
+- People and Process
 categories:
 - Social Technologies
 preview: Siren-mermaids-25084952-1378-1045-6-5.jpg

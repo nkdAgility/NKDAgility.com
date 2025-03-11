@@ -26,13 +26,7 @@ preview: https://i.ytimg.com/vi/IXmOAB5e44w/maxresdefault.jpg
 duration: 147
 isShort: false
 tags:
-- People and Process
-- Miscellaneous
-- Team Collaboration
 - Continuous Learning
-- Employee Engagement
-- Software Development
-- Team Motivation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

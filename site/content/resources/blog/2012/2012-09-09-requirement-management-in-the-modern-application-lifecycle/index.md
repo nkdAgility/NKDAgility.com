@@ -31,12 +31,12 @@ tags:
 - Practical Techniques and Tooling
 - Products and Books
 - Agile Planning Tools
+- Software Development
+- Azure DevOps
 - Agile Project Management
 - Agile Planning
-- Software Development
-- Pragmatic Thinking
-- Azure DevOps
 - Product Delivery
+- Pragmatic Thinking
 categories:
 - Product Management
 preview: metro-requirements-icon-14-14.png

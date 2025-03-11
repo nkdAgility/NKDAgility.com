@@ -34,14 +34,14 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Working Agreements
+- Operational Practices
+- Team Performance
 - Team Collaboration
 - Pragmatic Thinking
-- Team Performance
-- Working Agreements
 - Strategy
 - Team Motivation
 - Agile Project Management
-- Self Organisation
 - Sociotechnical Systems
 resourceTypes:
 - video

@@ -33,7 +33,7 @@ tags:
 - Pragmatic Thinking
 - Azure Boards
 - Troubleshooting
-- Product Backlog
+- Agile Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -32,13 +32,13 @@ aliasesArchive:
 - /resources/blog/combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop
 tags:
 - Software Development
-- Agile Project Management
-- Agile Frameworks
 - People and Process
-- Practical Techniques and Tooling
 - Team Collaboration
+- Agile Project Management
+- Practical Techniques and Tooling
 - Pragmatic Thinking
 - Scrum Product Development
+- Agile Frameworks
 - Team Performance
 categories:
 - Social Technologies

@@ -8,8 +8,8 @@ date: 2023-04-27
 weight: 1000
 categories:
 - Product Management
-- Scrum
 - Social Technologies
+- Scrum
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast

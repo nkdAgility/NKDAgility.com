@@ -2,7 +2,7 @@
 title: 'Mastering Scrum: Effective Planning and Prioritisation for Agile Success'
 description: Master Scrum planning with insights on aligning goals, assessing value, and maintaining a lean backlog. Discover strategies for effective prioritisation today!
 date: 2023-03-24T07:00:30Z
-weight: 775
+weight: 700
 ResourceId: sPmUuSy7G3I
 ResourceType: videos
 ResourceImport: true
@@ -26,16 +26,16 @@ preview: https://i.ytimg.com/vi/sPmUuSy7G3I/maxresdefault.jpg
 duration: 312
 isShort: false
 tags:
+- Agile Product Management
 - People and Process
 - Pragmatic Thinking
-- Scrum Team
 - Agile Project Management
 - Scrum Product Development
 - Team Performance
 - Agile Frameworks
 - Agile Planning
-- Agile Product Management
 - Product Delivery
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

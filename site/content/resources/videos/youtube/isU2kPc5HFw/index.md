@@ -30,11 +30,13 @@ sitemap:
   priority: 0.6
 tags:
 - Azure DevOps
+- Software Development
 - Practical Techniques and Tooling
 - Software Developers
-- Software Development
 - Pragmatic Thinking
 - Personal
+- Products and Books
+- Discovery and Learning
 resourceTypes:
 - video
 categories:

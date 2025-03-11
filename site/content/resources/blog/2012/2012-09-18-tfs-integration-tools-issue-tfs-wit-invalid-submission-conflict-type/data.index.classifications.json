@@ -292,12 +292,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:04:18",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses TFS Integration Tools, which are part of the Azure DevOps suite, but primarily focuses on a specific issue rather than broader Azure DevOps functionalities or practices.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses TFS Integration Tools, which are part of the Azure DevOps suite, but it primarily focuses on a specific issue related to configuration and permissions rather than providing a broader overview or best practices associated with Azure DevOps. While there are direct mentions of TFS, the discussion lacks depth in terms of Azure DevOps functionalities and methodologies.",
+    "level": "Quaternary"
   },
   "Personal": {
     "category": "Personal",
@@ -628,12 +631,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:02:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 15,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses TFS Integration Tools and configuration issues related to version control, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses TFS Integration Tools and issues related to configuration and permissions, which are tangentially related to source control practices. However, it lacks a direct focus on version control methodologies, branching strategies, or collaboration workflows, which are core themes of the category. The discussion is primarily about troubleshooting a specific issue rather than exploring broader best practices or strategies in modern source control.",
+    "level": "Quaternary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -790,11 +796,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:52:34",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical problem-solving strategies related to TFS Integration Tools configuration issues, which aligns with pragmatic thinking in a technical context.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific issue related to TFS Integration Tools and provides practical solutions for configuration problems. While it does touch on problem-solving strategies, it lacks a broader discussion on Agile, Scrum, or DevOps principles. The focus is primarily on technical troubleshooting rather than the application of pragmatic thinking in complex environments.",
     "level": "Tertiary"
   },
   "Backlog Refinement": {

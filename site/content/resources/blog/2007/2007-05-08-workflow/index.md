@@ -25,7 +25,6 @@ aliasesArchive:
 tags:
 - Miscellaneous
 - Software Development
-- Practical Techniques and Tooling
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

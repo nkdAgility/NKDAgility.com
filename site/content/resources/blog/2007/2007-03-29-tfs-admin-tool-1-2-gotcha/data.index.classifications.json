@@ -538,11 +538,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:52:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:21:25",
+    "ai_confidence": 55.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses a technical issue related to permissions in a specific software tool (TFS), which is part of the software development management process, but it is primarily focused on a specific problem rather than broader development practices.",
+    "final_score": 50.0,
+    "reasoning": "The content discusses a specific issue related to user permissions in the TFS Admin Tool, which is relevant to software development practices, particularly in the context of project management and user roles. However, the discussion is quite limited in scope and lacks depth regarding broader software development methodologies or practices. While it touches on a practical aspect of software administration, it does not delve into the SDLC or best practices in coding or design, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Test First Development": {
@@ -682,11 +685,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:52:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:10:48",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content discusses a specific issue with user permissions in TFS Admin Tool, providing insights into diagnosing and resolving a technical problem.",
+    "final_score": 68.0,
+    "reasoning": "The content discusses a specific issue encountered with the TFS Admin Tool, highlighting a problem with user permissions that affects report visibility. This aligns with troubleshooting as it identifies a technical issue and suggests a solution. However, the discussion is brief and lacks depth in exploring broader troubleshooting techniques or methodologies, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Scrum Team": {

@@ -30,9 +30,9 @@ tags:
 - Events and Presentations
 - Windows
 - Practical Techniques and Tooling
+- Software Development
 - Product Owner
 - Release Management
-- Software Development
 - Troubleshooting
 - Azure DevOps
 - News and Reviews

@@ -34,8 +34,8 @@ tags:
 - Engineering Practices
 - People and Process
 - Scrum Product Development
-- Scrum Team
 - Value Delivery
+- Working Software
 categories:
 - Scrum
 - Social Technologies

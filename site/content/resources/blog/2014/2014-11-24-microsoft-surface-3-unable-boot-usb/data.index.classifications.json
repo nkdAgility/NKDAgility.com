@@ -151,12 +151,15 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:56:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content includes a mention of attending the MVP Summit and a session with the product team, indicating a connection to an event, but the primary focus is on troubleshooting a technical issue rather than the event itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions attending the MVP Summit and a session with the product team, which indicates a connection to an event. However, the primary focus is on troubleshooting a technical issue with the Microsoft Surface 3, rather than discussing the event itself or sharing insights from it. The depth of discussion about the event is minimal, and the overall content is more about personal experiences and technical problems than formal presentations or structured learning experiences.",
+    "level": "Quaternary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -214,12 +217,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:44:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses troubleshooting a technical issue related to booting a Microsoft Surface device from a USB, which touches on aspects of technical practices and problem-solving. However, it primarily focuses on a personal experience rather than broader engineering methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a personal experience with troubleshooting a specific technical issue related to the Microsoft Surface 3, which includes some technical details about booting from USB. However, it lacks a broader discussion on engineering practices or methodologies that enhance software development processes. While it does touch on problem-solving and technical troubleshooting, it does not delve into concepts like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
+    "level": "Quaternary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -295,12 +301,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:54:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes personal experiences and anecdotes related to the author's challenges with their Microsoft Surface 3, but the primary focus is on technical troubleshooting rather than personal reflections on Agile, Scrum, or DevOps.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a technical issue regarding the Microsoft Surface 3 and does not delve into personal reflections or insights related to Agile, Scrum, or DevOps methodologies. While there are some personal anecdotes about the author's experiences with the device and travel, these do not align with the core themes of the Personal category, which requires deeper reflections on Agile practices or methodologies.",
+    "level": "Quaternary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",

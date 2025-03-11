@@ -799,11 +799,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T20:42:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:04:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical problem-solving strategies related to unit testing and authentication issues in a cloud environment, which aligns with pragmatic thinking in Agile and DevOps contexts.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses practical problem-solving strategies related to unit testing and authentication issues in a cloud environment, which aligns with the core themes of pragmatic thinking. It provides real-world applications of TDD and addresses specific challenges faced in Agile and DevOps contexts. The depth of discussion is substantial, detailing the implementation of interfaces and mock classes to solve authentication problems, demonstrating a clear application of experience-based problem-solving techniques.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -862,11 +865,14 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-15T20:43:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:54:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses unit testing and the challenges associated with automating tests against the Team Foundation Server API, including the use of Test Driven Development (TDD) and the implementation of mock objects for testing purposes.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on unit testing within the context of the Team Foundation Server (TFS) API, discussing challenges and solutions related to authentication in automated tests. It explicitly mentions unit tests and integration tests, aligning with the principles of test automation. The depth of discussion is significant, as it provides detailed examples of code and the rationale behind the design choices made for test automation. However, while it touches on test automation, it does not comprehensively cover broader topics such as frameworks, CI/CD, or best practices, which slightly lowers the overall alignment score.",
     "level": "Secondary"
   },
   "Entrepreneurship": {
@@ -1114,11 +1120,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T20:43:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T18:06:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the author's experiences and challenges with Unit Testing in the context of Test Driven Development (TDD), including the importance of writing tests first and the implementation of mock objects for testing purposes.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses Test Driven Development (TDD) and mentions the importance of writing tests before code, which aligns with the principles of Test First Development. However, the primary focus is on specific implementation challenges related to unit testing against the Team Foundation Server API, rather than a comprehensive exploration of TDD principles or practices. The depth of discussion on TDD is limited, primarily addressing personal experiences and challenges rather than broader concepts or benefits associated with Test First Development.",
     "level": "Secondary"
   },
   "Windows": {

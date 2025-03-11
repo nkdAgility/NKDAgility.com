@@ -30,16 +30,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Project Management
+- Pragmatic Thinking
 - People and Process
 - Software Development
-- Agile Philosophy
 - Agile Strategy
+- Agile Philosophy
 - Operational Practices
-- Pragmatic Thinking
 - Working Software
-- Product Delivery
 - Software Developers
-- Organisational Agility
+- Product Delivery
 resourceTypes:
 - video
 categories:

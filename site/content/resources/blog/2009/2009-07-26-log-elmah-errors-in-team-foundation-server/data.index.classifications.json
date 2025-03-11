@@ -499,11 +499,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-16T03:05:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:12:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a method for logging errors in Team Foundation Server using a structured approach, which directly relates to operational efficiency and practices within the context of software project management and error handling. It includes practical implementation and suggests a solution to streamline the management of errors through Work Items, demonstrating a clear application of operational practices.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the implementation of a logging system that integrates with Team Foundation Server (TFS) to manage error logs as work items. While it touches on aspects of operational practices, such as creating and managing work items, the focus is more on the technical implementation rather than on broader operational efficiency strategies or methodologies like Agile, DevOps, or Lean. The content lacks a strong emphasis on process optimisation or continuous improvement, which are key themes in the 'Operational Practices' category.",
     "level": "Secondary"
   },
   "Scrum Team": {
@@ -799,11 +802,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-16T03:05:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T18:13:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical strategies for logging errors in Team Foundation Server using Elmah, including creating and managing work items. It provides concrete coding examples and practical approaches to solve real-world issues related to error logging, which aligns with practical problem-solving in an Agile context.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses practical implementations of logging errors in Team Foundation Server (TFS) using Elmah, which aligns with pragmatic problem-solving in a real-world context. It provides specific coding examples and methods for integrating error logging with TFS, demonstrating adaptability and practical application of concepts. However, while it touches on Agile principles through the use of work items, the primary focus is more on technical implementation rather than broader Agile or Scrum strategies.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -880,11 +886,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-16T03:05:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:02:47",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses methods and practices related to logging errors in Team Foundation Server, demonstrating integration with software development processes, and highlights concepts of work items which relate directly to delivering functional software.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the implementation of logging errors in Team Foundation Server (TFS) using Elmah, which relates to the delivery of functional software. It provides a practical example of how to create and manage work items in TFS, aligning with the concept of working software. However, while it touches on aspects of software functionality and error management, it lacks a comprehensive exploration of best practices or metrics for assessing software quality, which limits its depth in the context of the 'Working Software' category.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {

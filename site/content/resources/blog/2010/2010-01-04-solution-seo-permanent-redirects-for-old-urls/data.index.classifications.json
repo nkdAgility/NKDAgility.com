@@ -592,12 +592,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T02:22:53",
-    "ai_confidence": 95,
+    "calculated_at": "2025-03-11T15:11:18",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 86.0,
-    "reasoning": "The content primarily discusses techniques and practices for implementing SEO permanent redirects in a software context, specifically involving ASP.NET and SQL database integration, which are relevant to software development practices.",
-    "level": "Primary"
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed discussion on implementing SEO permanent redirects in a web application, which involves software development practices such as coding, configuration management, and database interaction. It covers various coding examples, best practices, and considerations for URL rewriting, which are all relevant to software development methodologies and practices.",
+    "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -1066,12 +1069,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-11T18:12:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content discusses URL redirection techniques and configurations, particularly focusing on rewriting URLs in an IIS context, which aligns with system configuration practices. However, the primary focus is on specific coding and implementation details rather than a broad discussion on configuration strategies.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the configuration of URL redirection in a web application, which aligns with system configuration principles. It provides detailed examples of how to set up and manage URL rewriting rules using IIS and custom code, addressing best practices and potential pitfalls. The depth of discussion is significant, covering various methods and configurations, but it does not focus on broader system configuration topics like hardware setup or security considerations, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1174,11 +1180,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T02:22:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:01:52",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses techniques for resolving SEO-related issues through URL redirection, including practical examples and code snippets relevant to troubleshooting deprecated URLs and issues that may arise in redirect implementation.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses various methods for implementing SEO permanent redirects, which involves identifying and resolving potential issues with URL mappings. It provides code examples and highlights the importance of maintaining Google rankings, which aligns with troubleshooting practices. However, the primary focus is on implementation rather than systematic problem-solving or diagnosing issues, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Experimentation": {

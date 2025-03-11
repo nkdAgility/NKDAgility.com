@@ -31,16 +31,16 @@ aliasesArchive:
 - /blog/professional-scrum-foundations-coming-to-glasgow--scotland-in-november-2013
 - /resources/blog/professional-scrum-foundations-coming-to-glasgow-scotland-in-november-2013
 tags:
-- Agile Project Management
-- Scrum Product Development
 - Software Development
-- Agile Frameworks
-- People and Process
+- Agile Project Management
 - Professional Scrum
+- People and Process
 - Software Developers
-- Events and Presentations
+- Agile Frameworks
 - Products and Books
+- Events and Presentations
 - Organisational Change
+- Agile Transformation
 categories:
 - Scrum
 preview: PSF_Badges-2-2.png

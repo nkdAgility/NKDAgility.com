@@ -23,8 +23,8 @@ aliasesArchive:
 - /new-event-handlers
 - /resources/blog/new-event-handlers
 tags:
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
 - Software Development
 - System Configuration
 categories: []

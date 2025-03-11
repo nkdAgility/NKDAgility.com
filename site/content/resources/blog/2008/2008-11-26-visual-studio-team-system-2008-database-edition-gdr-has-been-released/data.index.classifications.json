@@ -454,11 +454,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T11:43:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:13:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses new features and architectural improvements of a database tool, focusing on technical aspects like extensibility, separation of build and deploy, and model-based architecture, which are pertinent to software craftsmanship and engineering practices.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the release of a new database tool with a focus on its architecture, extensibility, and deployment processes, which aligns well with the principles of software craftsmanship and engineering practices. It provides detailed insights into the model-based architecture, database schema providers, and tool extensibility, demonstrating a strong understanding of technical concepts. However, while it touches on important technical aspects, it lacks a broader discussion on best practices or methodologies that would further solidify its alignment with the 'Technical Mastery' category.",
     "level": "Secondary"
   },
   "Accountability": {
@@ -736,11 +739,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T11:43:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:04:06",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses aspects related to database development and deployment within the context of Visual Studio Team System, including model-based architecture, database schema providers, extensibility, and deployment mechanisms, all of which are relevant to software development practices.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the release of a database development tool, highlighting its architecture, extensibility, and deployment features. While it mentions aspects relevant to software development, such as model-based architecture and tool extensibility, the focus is more on the product announcement rather than in-depth discussions of software development methodologies or practices. The content does not explicitly engage with broader software development concepts, which limits its alignment and depth.",
     "level": "Secondary"
   },
   "Agile Frameworks": {
@@ -1222,11 +1228,14 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-16T11:43:22",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T18:14:37",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the separation of build and deploy processes, and the inclusion of a standalone deployment engine, which are relevant to deployment strategies. However, it primarily focuses on the features and architecture of the Visual Studio Team System and does not elaborate extensively on deployment methodologies themselves.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the separation of build and deploy processes, which is relevant to deployment strategies. It also mentions a standalone deployment engine, indicating a focus on deployment methodologies. However, the overall emphasis is more on the features and capabilities of the product rather than a detailed exploration of deployment strategies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Scrum Product Development": {

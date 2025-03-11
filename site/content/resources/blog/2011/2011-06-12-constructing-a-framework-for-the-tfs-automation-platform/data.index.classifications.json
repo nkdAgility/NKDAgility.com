@@ -799,11 +799,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T22:26:00",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T15:07:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses practical strategies for developing a framework for the TFS Automation Platform, focusing on real-world applications and the developer experience. However, it primarily centres on technical implementation rather than broader Agile or Scrum principles.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the construction of a framework for the TFS Automation Platform, focusing on practical implementation strategies and the developer experience. It highlights the importance of adaptability in the development process and the need for a structured approach to building automations. However, while it touches on pragmatic aspects, it lacks a deeper exploration of Agile or Scrum methodologies and does not provide specific case studies or evidence-based practices, which limits its alignment with the core themes of Pragmatic Thinking.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -1069,12 +1072,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T22:26:42",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T16:57:43",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the setup and configuration of the TFS Automation Platform, including installation processes and the management of plugins, which aligns with system configuration practices. However, it also includes broader development guidance and architectural considerations, making system configuration a major but secondary theme.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses the construction of a framework for the TFS Automation Platform, which includes aspects of system configuration such as installation, deployment, and configuration of plugins. It mentions the need for a unified installer and the handling of configuration tasks, which aligns with the core themes of system configuration. However, the focus is more on the development process and architectural guidance rather than a deep dive into configuration management practices, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1222,11 +1228,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-15T22:27:10",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T18:08:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the development of a framework for the TFS Automation Platform, focusing on architectural guidance and developer experience, which aligns with the role of software developers. However, it lacks a strong emphasis on Agile or DevOps methodologies.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the development of a framework for the TFS Automation Platform, which is relevant to software developers. It mentions the role of developers in building automations and highlights the importance of a structured approach to development. However, while it touches on aspects of collaboration and tooling, it lacks a deeper exploration of Agile or DevOps methodologies, which are central to the category. The discussion is primarily focused on technical implementation rather than broader Agile or DevOps principles.",
     "level": "Secondary"
   },
   "Coaching": {

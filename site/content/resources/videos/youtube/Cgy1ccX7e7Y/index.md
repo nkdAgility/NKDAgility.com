@@ -28,12 +28,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Organisational Agility
 - People and Process
+- Organisational Agility
 - Organisational Change
 - Agile Project Management
-- Agile Leadership
 - Business Agility
+- Agile Leadership
 - Agile Frameworks
 - Agile Philosophy
 - Agile Strategy
@@ -41,8 +41,8 @@ tags:
 resourceTypes:
 - video
 categories:
-- Leadership
 - Social Technologies
+- Leadership
 
 ---
 What would be an example of a great agile consulting outcome for a client?

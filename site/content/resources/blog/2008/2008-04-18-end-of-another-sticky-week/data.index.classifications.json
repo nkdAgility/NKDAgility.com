@@ -427,12 +427,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:13:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:05:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses software project updates and improvements for a specific tool, which includes a reference to building and customizing code. However, it lacks a focused discussion on key engineering principles like clean code, TDD, or CI/CD, making the category a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions the TFS Sticky Buddy project and its features, but it lacks a direct focus on core engineering practices such as clean code, TDD, or CI/CD. While it touches on aspects of software development, it does not delve into the principles or methodologies that underpin Agile development, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -865,11 +868,14 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T09:13:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:15:53",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an upcoming release and improvements in the TFS Sticky Buddy project, indicating a focus on software updates, but it is primarily oriented toward detailing specific features rather than broader strategies or principles related to frequent releases.",
+    "final_score": 56.0,
+    "reasoning": "The content briefly mentions an upcoming release and discusses improvements in the TFS Sticky Buddy project, indicating a focus on software updates. However, it lacks detailed discussion on the principles of frequent releases, automation, or strategies for incremental improvements, which are key aspects of the category. The overall emphasis is more on specific features rather than a broader discussion on release frequency or methodologies.",
     "level": "Tertiary"
   },
   "Team Performance": {

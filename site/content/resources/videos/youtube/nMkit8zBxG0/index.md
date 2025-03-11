@@ -28,10 +28,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Product Development
 - Software Development
+- Scrum Product Development
 - Agile Planning
-- Agile Project Management
 resourceTypes:
 - video
 categories:

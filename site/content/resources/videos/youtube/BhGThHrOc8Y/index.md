@@ -2,7 +2,7 @@
 title: "DevOps Demystified: Why It's More Than Just Tools and How to Embrace Its True Value"
 description: Discover the true essence of DevOps beyond tools. Learn how to leverage its principles for enhanced collaboration and product quality in software development.
 date: 2023-06-07T07:00:02Z
-weight: 490
+weight: 525
 ResourceId: BhGThHrOc8Y
 ResourceType: videos
 ResourceImport: true
@@ -29,6 +29,7 @@ tags:
 - Software Developers
 - Software Development
 - People and Process
+- Agile Values and Principles
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml

@@ -793,11 +793,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:09:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:04:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content addresses practical problem-solving techniques related to TFS check-in failures, which aligns with pragmatic thinking in a software development context, but it primarily focuses on a specific issue and does not broadly discuss Agile or Scrum principles.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific technical issue related to TFS check-in failures and provides practical steps for resolving conflicts. While it does touch on problem-solving in a real-world context, it lacks a broader discussion on Agile, Scrum, or DevOps principles. The focus is primarily on a single technical challenge rather than a comprehensive exploration of pragmatic thinking strategies.",
     "level": "Tertiary"
   },
   "Backlog Refinement": {
@@ -1063,12 +1066,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:09:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:53:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses TFS check-in failures and the process of resolving conflicts during version control, which relates to system configuration practices, particularly in the context of configuration management in Team Foundation Server. However, it primarily focuses on specific issues rather than broader system configuration principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific issue related to TFS check-in failures and conflict resolution, which is somewhat relevant to system configuration. However, it lacks a broader discussion on best practices, methodologies, or strategies for system configuration. The focus is more on troubleshooting a specific problem rather than exploring the principles of system setup and configuration. Therefore, while there are mentions of configuration issues, the overall depth and alignment with the category are limited.",
+    "level": "Quaternary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1219,11 +1225,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:03",
-    "ai_confidence": 40,
+    "calculated_at": "2025-03-11T15:03:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 36.0,
-    "reasoning": "The content discusses a specific technical issue related to TFS (Team Foundation Server) and conflict resolution during check-ins, which is somewhat relevant to software developers. However, it does not directly address Agile or DevOps practices, making the connection to the specified category weak.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to TFS check-in failures, which is a narrow aspect of software development. While it touches on the role of developers in resolving conflicts, it lacks broader discussions on Agile methodologies, DevOps principles, or modern engineering practices. The focus is more on troubleshooting a specific problem rather than exploring the role of software developers within Agile or DevOps frameworks.",
     "level": "Quaternary"
   },
   "Coaching": {

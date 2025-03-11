@@ -40,11 +40,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T15:22:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:15:47",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the benefits of frequent deployments and how they relate to reducing technical debt, which directly ties into the concept of throughput by emphasising the importance of delivering smaller work items efficiently and optimising the flow of work.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the impact of deployment frequency on code quality and team performance, which aligns with throughput concepts. It mentions reducing batch size and increasing deployment frequency, both of which are strategies for improving throughput. However, while it touches on related themes, it does not explicitly focus on throughput as a primary topic, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Scrum Values": {
@@ -58,11 +61,14 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-12T15:22:55",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the benefits of frequent deployments, which aligns with Lean principles of minimising waste and maximising learning. It emphasises breaking down work into smaller, valuable chunks, the importance of customer feedback, and continuous improvement, all of which are central to Lean Product Development.",
+    "calculated_at": "2025-03-11T16:04:33",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of frequent deployments, which aligns with Lean principles of minimising waste and maximising learning through iterative development. It highlights the benefits of smaller, manageable changes and the role of user feedback, both of which are core themes in Lean Product Development. However, while it touches on Lean concepts, it primarily focuses on deployment practices rather than a comprehensive exploration of Lean methodologies, which slightly limits its depth in the category.",
     "level": "Secondary"
   },
   "Test Driven Development": {
@@ -103,11 +109,14 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-12T15:23:02",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the benefits of frequent deployments, which aligns with the principles of empirical process control by emphasising decision-making based on observed evidence, such as customer feedback and telemetry. It highlights the importance of adaptation and continuous improvement in the context of Agile practices.",
+    "calculated_at": "2025-03-11T17:18:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of frequent deployments, which aligns with the principles of empirical process control by emphasising decision-making based on observed evidence (user feedback) rather than assumptions. It highlights the benefits of smaller, manageable changes and iterative development, which are core themes of empirical process control. However, while it touches on these concepts, it does not delve deeply into the theoretical foundations or specific Agile frameworks, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Pragmatic Thinking": {

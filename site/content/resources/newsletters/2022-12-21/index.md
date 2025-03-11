@@ -26,6 +26,7 @@ tags:
 - News and Reviews
 - Events and Presentations
 - Agile Project Management
+- Scrum Team
 - Scrum Master
 
 ---

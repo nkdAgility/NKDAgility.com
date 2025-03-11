@@ -28,14 +28,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Project Management
 - People and Process
 - Product Delivery
 resourceTypes:
 - video
 categories:
 - Product Management
-- Scrum
 - Social Technologies
+- Scrum
 
 ---
 ## Step Up Your Game with the PSPO-A Course

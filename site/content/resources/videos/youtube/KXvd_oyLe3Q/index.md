@@ -29,16 +29,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Discovery and Learning
-- Pragmatic Thinking
-- Practical Techniques and Tooling
-- Continuous Learning
-- Metrics and Learning
 - People and Process
-- Value Delivery
-- Ability to Innovate
-- Change Management
-- Engineering Practices
 resourceTypes:
 - video
 categories:

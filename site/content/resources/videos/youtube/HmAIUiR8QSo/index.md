@@ -31,6 +31,7 @@ tags:
 - Technical Mastery
 - Sociotechnical Systems
 - Pragmatic Thinking
+- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -27,7 +27,14 @@ aliasesArchive:
 - /blog/solution---seo-permanent-redirects-for-old-url’s-
 - /resources/blog/solution-seo-permanent-redirects-for-old-urls
 tags:
+- Install and Configuration
+- Practical Techniques and Tooling
 - Software Development
+- Pragmatic Thinking
+- Troubleshooting
+- Technical Mastery
+- Technical Excellence
+- System Configuration
 categories: []
 preview: metro-sharepoint-128-link-1-1.png
 

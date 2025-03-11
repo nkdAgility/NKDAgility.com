@@ -169,12 +169,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:10:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the organisation of projects and processes in Team Foundation Server, which touches on aspects of team dynamics and methodologies, but primarily focuses on technical setup rather than the human factors involved.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily discusses the technical setup and structure of Team Foundation Server 2010, focusing on areas, iterations, source code, work item queries, and builds. While there are some implications for team dynamics and process efficiency, the discussion lacks a strong emphasis on human behaviour, collaboration, or leadership, which are central to the 'People and Process' category. The content is more technical than process-oriented, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -694,12 +697,15 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:59:10",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses iterations and release schedules, which are relevant to frequent releases, but it is more focused on structuring projects and source code management than on the principles and practices of frequent releases.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses iterations and periodic releases, which are relevant to the concept of frequent releases. However, it primarily focuses on project organisation and structure within Team Foundation Server rather than the principles of continuous delivery or deployment. While there are mentions of release schedules and the importance of maintaining a structured approach, the depth of discussion on frequent releases is limited, and it lacks a comprehensive exploration of the associated best practices or metrics.",
+    "level": "Quaternary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -1222,12 +1228,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:08:43",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses project organization and practical considerations for using Team Foundation Server 2010, which relates to software development practices. However, it does not explicitly focus on Agile or DevOps methodologies in a central way.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the use of Team Foundation Server (TFS) in managing projects, which is relevant to software developers. It touches on areas, iterations, source code management, work item queries, and builds, all of which are important for developers in an Agile context. However, the discussion lacks depth in Agile and DevOps methodologies and does not explicitly mention best practices or principles of these frameworks, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",

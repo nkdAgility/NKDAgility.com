@@ -241,11 +241,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-11T15:07:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "The content discusses hosting and server-side components related to the Tfs Automation Platform, but it primarily focuses on technical considerations rather than the methodologies and practices of product delivery.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses the hosting and configuration of the TFS Automation Platform, touching on aspects of server-side components and user functionality. However, it lacks a direct focus on product delivery methodologies, such as Agile practices or deployment strategies. While there are mentions of user needs and potential features, the discussion is more about technical implementation rather than the end-to-end process of delivering a software product effectively.",
     "level": "Quaternary"
   },
   "Beta Codex": {
@@ -874,12 +877,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:09:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses features and functionality related to the TFS Automation Platform, including server-side components and user requirements, indicating a focus on working software, but the main discussion revolves around hosting and development logistics rather than the primary delivery of functional software.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the hosting of the TFS Automation Platform and the implications of server-side components on functionality. While it touches on aspects of software functionality and user requirements, it lacks a direct focus on delivering high-quality, operational software that meets customer needs. The discussion is more about technical considerations and potential issues rather than best practices or iterative development principles associated with working software.",
+    "level": "Quaternary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -964,12 +970,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:58:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of hosting and components related to TFS, which indirectly touches on release functionality and configurations. However, the primary focus is not directly on release management strategies or practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the hosting and functionality of the TFS Automation Platform, touching on aspects like server-side components and client installations. However, it lacks a focused discussion on release management strategies, scheduling, or risk management. While there are mentions of features and potential impacts on releases, the primary focus is on technical implementation rather than the overarching release management processes.",
+    "level": "Quaternary"
   },
   "Product Owner": {
     "category": "Product Owner",

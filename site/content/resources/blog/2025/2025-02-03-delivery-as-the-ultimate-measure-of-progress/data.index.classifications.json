@@ -94,12 +94,15 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:17:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivery in Scrum and its implications for team performance, which relates to Agile leadership principles. However, it primarily focuses on technical practices and delivery metrics rather than leadership roles or strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Scrum practices and the importance of delivery in software development, with limited direct discussion on Agile leadership roles or strategies. While it touches on aspects of team empowerment and the need for a cultural shift towards delivery, it lacks a comprehensive exploration of leadership techniques or the impact of leadership styles on team dynamics, which are crucial for the Agile Leadership category.",
+    "level": "Quaternary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -184,11 +187,14 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:04:07",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of delivery in Scrum and its implications for user feedback, but the primary focus is on delivery processes rather than the mechanisms of collecting and utilising customer feedback.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of delivery in Scrum and how it relates to user feedback, but it primarily focuses on the delivery process rather than the mechanisms of collecting and integrating customer feedback into product development. While it mentions the need for feedback and user impact, it does not delve deeply into specific feedback loop practices or techniques, which limits its alignment with the category.",
     "level": "Tertiary"
   },
   "Azure Repos": {
@@ -901,12 +907,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 92,
+    "calculated_at": "2025-03-11T14:15:21",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 85.0,
-    "reasoning": "Content heavily discusses the roles and responsibilities of Scrum Teams, particularly focusing on the importance of delivery and the implications for team performance and effectiveness.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses the role of Scrum Teams in the context of delivery, emphasising the importance of delivering increments to users and the implications of not doing so. It aligns well with the core themes of Scrum, such as team dynamics, the Definition of Done, and the need for effective collaboration to ensure delivery. The depth of discussion is substantial, providing actionable insights and techniques for Scrum Teams to improve their delivery processes.",
+    "level": "Secondary"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",

@@ -301,12 +301,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T20:27:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:04:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the features and benefits of Team Foundation Server (TFS), which is part of the Azure DevOps suite, and focuses on its implementation and advantages in a production environment.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content primarily discusses Team Foundation Server (TFS), which is a component of Azure DevOps, and provides insights into its features and capabilities. It mentions the upgrade from TFS 2010 to TFS 2012 and discusses aspects of Agile methodologies in relation to TFS. However, while it touches on relevant topics, it lacks a comprehensive exploration of Azure DevOps as a whole, focusing more on TFS specifically. The depth of discussion is moderate, providing some detail on features and benefits but not extensively covering the broader Azure DevOps ecosystem.",
+    "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",
@@ -364,11 +367,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T20:27:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:54:40",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the features and benefits of Visual Studio ALM and TFS, focusing on the application lifecycle stages, process improvement, and the integration of Agile principles, which are central to Application Lifecycle Management.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the upgrade and presentation of TFS (Team Foundation Server) and its capabilities, which are relevant to Application Lifecycle Management (ALM). It mentions aspects of ALM such as process improvement, continuous value delivery, and the interconnectedness of features within TFS that support the application lifecycle. However, while it touches on these themes, the focus is more on the specific tools and their features rather than a comprehensive discussion of the entire application lifecycle or best practices in ALM. Therefore, while there is a significant alignment with the category, the depth and breadth of the discussion are somewhat limited.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -526,12 +532,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-15T21:31:28",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-11T18:06:00",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the strategic presentation of capabilities of TFS 2012 and its alignment with Agile methodologies, making 'Agile' and 'process improvement' significant themes in the overall discussion.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the strategic presentation of TFS 2012 and its capabilities, which aligns with the strategic alignment of Agile tools. It mentions Agile as a better approach and touches on process improvement, indicating a focus on optimising delivery. However, the discussion is more about the technical aspects of TFS rather than a comprehensive strategy formulation or execution, which limits its depth in the Strategy category.",
+    "level": "Tertiary"
   },
   "Product Validation": {
     "category": "Product Validation",

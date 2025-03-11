@@ -33,9 +33,10 @@ tags:
 - Agile Philosophy
 - Agile Values and Principles
 - Agile Project Management
-- Agile Strategy
-- Agile Transformation
 - Software Developers
+- Agile Transformation
+- Agile Strategy
+- Agile Product Management
 - Agile Frameworks
 categories:
 - Social Technologies

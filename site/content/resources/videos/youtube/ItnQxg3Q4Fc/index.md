@@ -31,16 +31,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Leadership
+- Organisational Agility
 - People and Process
+- Agile Leadership
 - Business Agility
-- Agile Philosophy
 - Enterprise Agility
+- Agile Philosophy
 - Agile Project Management
 - Agile Strategy
 - Agile Transformation
 - Change Management
-- Organisational Change
 resourceTypes:
 - video
 categories:

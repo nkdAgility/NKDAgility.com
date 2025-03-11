@@ -24,7 +24,6 @@ aliasesArchive:
 - /resources/blog/ad-update-o-matic
 tags:
 - Software Development
-- Working Software
 categories: []
 preview: metro-sharepoint-128-link-1-1.png
 

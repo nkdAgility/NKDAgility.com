@@ -23,10 +23,10 @@ aliasesArchive:
 - /rangers-shipped-visual-studio-2010-database-guide
 - /resources/blog/rangers-shipped-visual-studio-2010-database-guide
 tags:
+- Software Development
 - Practical Techniques and Tooling
 - Products and Books
 - Install and Configuration
-- Software Development
 - Application Lifecycle Management
 - Modern Source Control
 - Technical Mastery

@@ -24,6 +24,11 @@ aliasesArchive:
 - /resources/blog/guide-to-changeserverid-says-mostly-harmless
 tags:
 - Troubleshooting
+- Install and Configuration
+- System Configuration
+- Software Development
+- Practical Techniques and Tooling
+- Pragmatic Thinking
 categories: []
 
 ---

@@ -364,11 +364,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T18:16:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:58:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the complexities involved in managing the lifecycle of a Team Foundation Server migration, including stages such as upgrade, backup, and validation, which are central to Application Lifecycle Management.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the complexities involved in a Team Foundation Server migration, which is a critical aspect of application lifecycle management. It covers stages such as development, deployment, and maintenance, while also touching on best practices for managing backups and configurations. The depth of discussion is significant, with detailed steps and scripts provided for various processes, indicating a strong alignment with ALM principles. However, it lacks a broader discussion on governance, compliance, and metrics, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -499,11 +502,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T20:01:17",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T18:00:35",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses operational practices related to the migration process for Team Foundation Server, including techniques for hardware moves, data management, and optimization strategies in a complex IT environment.",
+    "final_score": 74.0,
+    "reasoning": "The content provides a detailed account of a complex Team Foundation Server migration, discussing various operational practices such as backup strategies, hardware moves, and the importance of process optimisation. It explicitly mentions techniques for improving operational efficiency, such as using virtual SQL Server instances for flexibility and scripting to automate user account creation. The depth of discussion is significant, with practical steps outlined for each phase of the migration process, aligning well with the core themes of operational practices in Agile and DevOps contexts.",
     "level": "Secondary"
   },
   "Scrum Team": {
@@ -634,11 +640,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-15T20:01:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:49:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the challenges and processes associated with upgrading and managing Team Foundation Server (TFS) for source control, including backup strategies, hardware moves, and maintaining user continuity. It revolves around version control practices within a specific modern source control system.",
+    "final_score": 67.0,
+    "reasoning": "The content primarily discusses the complexities involved in migrating Team Foundation Server (TFS), which is a version control system. It includes detailed steps on upgrading TFS, managing backups, and ensuring data integrity during the migration process. The discussion aligns well with modern source control practices, particularly in the context of version control systems and collaboration workflows. However, while it touches on relevant topics, the focus on TFS migration and hardware issues slightly detracts from a broader discussion of best practices in source control.",
     "level": "Secondary"
   },
   "Empirical Process Control": {

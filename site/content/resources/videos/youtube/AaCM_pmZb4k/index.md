@@ -35,8 +35,9 @@ tags:
 - Sociotechnical Systems
 - Organisational Culture
 - Organisational Physics
-- Enterprise Agility
 - Organisational Change
+- Enterprise Agility
+- Agile Leadership
 - Market Adaptability
 resourceTypes:
 - video

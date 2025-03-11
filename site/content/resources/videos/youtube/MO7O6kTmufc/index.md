@@ -25,11 +25,12 @@ preview: https://i.ytimg.com/vi/MO7O6kTmufc/maxresdefault.jpg
 duration: 36
 isShort: true
 tags:
-- Evidence Based Management
-- Metrics and Learning
-- Decision Making
 - Evidence Based Leadership
+- Metrics and Learning
+- Evidence Based Management
+- Decision Making
 - Pragmatic Thinking
+- Products and Books
 - Value Delivery
 - Agile Product Management
 sitemap:

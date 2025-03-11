@@ -139,12 +139,15 @@
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-13T09:53:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:18:57",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the Sprint Review process, which is directly related to inspecting the increment created during the Sprint and adapting the Product Backlog based on feedback, thus aligning well with the Increment category.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content explicitly discusses the Sprint Review, which is a key event in Scrum focused on inspecting the increment produced during the Sprint. It details the purpose of the Sprint Review, the role of the Product Owner in presenting the increment, and the importance of gathering feedback to adapt the Product Backlog. The discussion aligns well with the core themes of the Increment category, particularly in terms of delivering value to stakeholders and ensuring the quality of the increment. The depth of discussion is substantial, covering various facilitation options and steps involved in the Sprint Review process, which further supports the focus on increments.",
+    "level": "Primary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -166,11 +169,14 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-13T09:53:06",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T16:08:01",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses the Sprint Review process within the Scrum framework, which is a key Agile event that influences planning and backlog management. While it touches on aspects of Agile planning, such as updating the Product Backlog and discussing release projections, the focus is more on the event itself rather than on specific Agile planning tools or methodologies.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the Sprint Review process within the Scrum framework, which is a key Agile practice. It discusses the importance of updating the Product Backlog and planning for the next Sprint, aligning well with Agile Planning Tools. However, while it touches on backlog management and forecasting, it lacks a broader discussion on various Agile planning tools and methodologies, which limits its depth in the category.",
     "level": "Secondary"
   },
   "Portfolio Management": {
@@ -184,11 +190,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-13T09:53:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:21:09",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the Sprint Review, a key Scrum ceremony, and includes facilitation techniques relevant to the Scrum Master role.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on the Sprint Review, a key Scrum ceremony, and discusses facilitation techniques that a Scrum Master might employ. However, while it mentions the role of the Scrum Master in facilitating the event, it does not delve deeply into the broader responsibilities or coaching aspects of the Scrum Master role. The discussion is somewhat limited to the event itself, which affects the depth of the content regarding the overall Scrum Master responsibilities.",
     "level": "Secondary"
   },
   "Team Performance": {

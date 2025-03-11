@@ -24,10 +24,10 @@ aliasesArchive:
 - /resources/blog/visual-studio-alm-mvp-of-the-year-2011
 tags:
 - Continuous Learning
-- Team Collaboration
-- Personal
-- Pragmatic Thinking
 - People and Process
+- Team Collaboration
+- Pragmatic Thinking
+- Personal
 - Discovery and Learning
 - News and Reviews
 - Practical Techniques and Tooling

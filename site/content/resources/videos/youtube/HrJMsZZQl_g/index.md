@@ -30,14 +30,14 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Continuous Learning
-- Team Collaboration
-- Team Performance
 - Agile Frameworks
+- Software Development
+- Continuous Learning
+- Team Performance
 - Discovery and Learning
 - Pragmatic Thinking
+- Team Collaboration
 - Empirical Process Control
-- Customer Feedback Loops
 - Metrics and Learning
 resourceTypes:
 - video

@@ -30,21 +30,21 @@ sitemap:
 tags:
 - People and Process
 - Organisational Culture
-- Change Management
+- Pragmatic Thinking
+- Sociotechnical Systems
 - Continuous Learning
 - Organisational Change
-- Sociotechnical Systems
 - Technical Leadership
-- Pragmatic Thinking
 - Team Performance
+- Discovery and Learning
 - Agile Leadership
 resourceTypes:
 - video
 layout: video
 categories:
 - Leadership
-- Scrum
 - Social Technologies
+- Scrum
 
 ---
 In today’s rapidly evolving landscape, focusing solely on _Agile_ as a label can be limiting. Instead, the goal should be to increase our organization’s **capability**, **maximize value**, and **enhance effectiveness**. It's not about the moniker; it’s about achieving outcomes that matter. 🏆

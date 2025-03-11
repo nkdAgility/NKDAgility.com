@@ -376,12 +376,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:06:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily revolves around troubleshooting and configuring TFS with Active Directory, which relates to technical practices, but does not dive into broader principles of software craftsmanship or engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily addresses a specific technical issue related to TFS and Active Directory, providing a workaround for a common problem. While it does touch on technical aspects, such as user authentication and domain settings, it lacks a broader discussion on software craftsmanship, best practices, or methodologies that contribute to high-quality software development. The focus is more on troubleshooting than on principles of technical mastery.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -583,12 +586,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:56:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an issue related to TFS (Team Foundation Server), which is a software development tool, but it predominantly focuses on user authentication and configuration rather than core software development methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific issue related to TFS (Team Foundation Server) and Active Directory, which are tools used in software development environments. However, the focus is primarily on troubleshooting a user authentication problem rather than broader software development methodologies or practices. While it touches on aspects of version control and user management, it lacks depth in discussing software development processes or best practices, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",

@@ -1069,11 +1069,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T19:00:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:00:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses troubleshooting and configuring build definitions in Team Foundation Server, which involves system setup and configuration practices.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses a specific error encountered during the build process in Team Foundation Server (TFS), which is directly related to system configuration. It provides a detailed analysis of the error, including the exception stack trace and the necessary steps to resolve the issue by configuring the build controller to reference custom assemblies. This aligns well with the category's focus on configuration management and troubleshooting common configuration issues. The depth of discussion is substantial, as it includes specific instructions for navigating the TFS interface to manage build controllers, which is a practical aspect of system configuration. However, while the content is focused on a configuration issue, it does not cover broader best practices or optimisation strategies, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1123,11 +1126,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T19:00:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:50:24",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses an error related to Team Foundation Server, which is a Microsoft product that operates within the Windows environment. It provides troubleshooting steps and solutions relevant to Windows users managing builds in TFS.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses an error related to Team Foundation Server (TFS), which is a Microsoft product that operates within the Windows environment. While it does not explicitly mention Windows installation or configuration, it addresses a specific issue that users may encounter when using TFS on Windows. The discussion includes troubleshooting steps and references to settings within the TFS interface, which aligns with the category's focus on troubleshooting and configuration. However, the depth of discussion is limited to a specific error and does not cover broader Windows topics, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
@@ -1177,11 +1183,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T19:01:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T18:02:07",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a specific error encountered during a build process in Team Foundation Server, detailing the error message, its causes, and providing a solution for resolving the issue, which aligns well with troubleshooting methodologies.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses a specific error message related to Team Foundation Server (TF215097) and provides a detailed analysis of the error, including exception messages and stack traces. It identifies the root cause of the issue, which is the failure to load a particular type from a custom assembly, and offers a practical solution for resolving the problem by adjusting the version control path for custom assemblies. This aligns well with the troubleshooting category as it focuses on diagnosing and resolving a technical issue, providing both insights and methodologies for effective problem-solving.",
     "level": "Secondary"
   },
   "Experimentation": {

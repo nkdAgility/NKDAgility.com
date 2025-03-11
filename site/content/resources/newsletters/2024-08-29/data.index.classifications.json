@@ -406,12 +406,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T12:16:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:22:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses team collaboration and the importance of customer-centric development, which are relevant to Scrum Team dynamics, but it primarily focuses on a workshop rather than in-depth Scrum Team roles or practices.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily promotes a workshop focused on product discovery and validation, which is related to Agile practices but does not specifically delve into the dynamics, roles, or collaboration within a Scrum Team. While it mentions team collaboration, it lacks detailed discussion on Scrum roles or team dynamics, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -679,11 +682,14 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-13T15:59:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:20:40",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses a workshop focused on product validation and discovery skills, emphasising methodologies for understanding customer needs and validating product ideas through user engagement.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly promotes a workshop focused on product validation and discovery, directly addressing methodologies for validating product ideas through user engagement. It discusses customer-centric development, validation techniques, and discovery processes, which align closely with the core themes of the category. The depth of discussion is substantial, providing actionable insights and strategies for participants, indicating a strong focus on practical application in product testing.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
@@ -697,11 +703,14 @@
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-02-13T16:00:06",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T16:09:42",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses validation techniques and hypothesis testing as part of a workshop, indicating a focus on experimentation within product development. However, it primarily promotes the workshop rather than deeply exploring experimentation as a central theme.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses a workshop focused on product validation and discovery, which includes elements of hypothesis testing and iterative feedback loops. However, it primarily promotes the workshop rather than deeply exploring experimentation as a core theme. While there are mentions of validation techniques, the overall depth and focus on systematic experimentation within Agile workflows are limited.",
     "level": "Secondary"
   },
   "Software Developers": {

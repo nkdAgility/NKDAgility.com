@@ -256,12 +256,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-15T11:10:28",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-11T14:56:37",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "The content primarily discusses the methodologies and practices involved in building a release pipeline, continuous delivery, and the integration of development and operations, which are central to effective product delivery.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the concept of a release pipeline, which is a critical aspect of product delivery. It covers methodologies such as continuous release and the integration of development and operations, aligning well with the core themes of product delivery. The depth of discussion is significant, providing detailed insights into the processes, metrics, and feedback mechanisms involved in delivering software products effectively.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -292,20 +295,26 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-15T11:10:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:46:32",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the implementation of a release pipeline and continuous delivery practices, which are central to delivering value in Agile and DevOps frameworks. It highlights the importance of feedback, quality, and operational metrics in enhancing customer satisfaction and business agility.",
+    "final_score": 76.0,
+    "reasoning": "The content discusses the importance of a release pipeline and continuous delivery, which are key aspects of value delivery in Agile and DevOps. It explicitly mentions concepts like continuous release, feedback loops, and the need for operational data to enhance product quality, aligning well with the principles of iterative development and customer value maximisation. The depth of discussion is substantial, covering various metrics and processes that contribute to effective value delivery, although it does lean towards technical implementation details at times.",
     "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T11:10:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:58:30",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implementation of a release pipeline using Visual Studio ALM, which is closely related to Azure DevOps functionalities, particularly in the context of continuous integration and delivery.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the implementation of a release pipeline using Visual Studio 2013, which is part of the Azure DevOps ecosystem. It provides a detailed overview of the release management process, continuous delivery, and the importance of feedback loops in development and operations. While it does not explicitly mention Azure DevOps frequently, it aligns well with the core themes of CI/CD and agile project management practices associated with Azure DevOps. The depth of discussion on release pipelines and the integration of development and operations further supports its relevance to the category.",
     "level": "Secondary"
   },
   "Personal": {

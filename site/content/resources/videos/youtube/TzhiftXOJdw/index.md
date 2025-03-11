@@ -31,8 +31,8 @@ sitemap:
 tags:
 - Organisational Agility
 - People and Process
-- Business Agility
 - Market Adaptability
+- Business Agility
 - Sociotechnical Systems
 - Agile Philosophy
 - Agile Strategy

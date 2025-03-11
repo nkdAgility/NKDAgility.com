@@ -25,14 +25,14 @@ aliasesArchive:
 tags:
 - Technical Debt
 - Software Development
-- Agile Project Management
 - Products and Books
+- Working Software
+- Agile Project Management
 - News and Reviews
 - Application Lifecycle Management
+- Pragmatic Thinking
 - Organisational Agility
 - Product Delivery
-- Working Software
-- Agile Frameworks
 categories:
 - Engineering Excellence
 - Social Technologies

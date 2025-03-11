@@ -25,15 +25,15 @@ duration: 271
 isShort: false
 tags:
 - People and Process
+- Pragmatic Thinking
 - Change Management
 - Organisational Change
-- Decision Making
-- Pragmatic Thinking
 - Sensemaking
 - Resilience and Change
 - Coaching
-- Miscellaneous
 - Organisational Agility
+- Sociotechnical Systems
+- Miscellaneous
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -41,8 +41,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Leadership
 - Social Technologies
+- Leadership
 
 ---
 In my journey through the world of Agile and DevOps, I've often encountered a common misconception: the belief that an external party can swoop in and provide a one-size-fits-all solution to an organisation's challenges. This notion is not only misguided but also detrimental to the very essence of what it means to be agile. 

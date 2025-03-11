@@ -30,11 +30,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Leadership
 - People and Process
 - Organisational Agility
-- Business Agility
 - Market Adaptability
-- Agile Leadership
+- Business Agility
 - Agile Philosophy
 - Agile Project Management
 - Agile Strategy

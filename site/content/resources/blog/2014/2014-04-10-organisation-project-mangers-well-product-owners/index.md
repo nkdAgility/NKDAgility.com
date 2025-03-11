@@ -28,19 +28,19 @@ aliasesArchive:
 - /resources/blog/organisation-project-mangers-well-product-owners
 tags:
 - People and Process
-- Agile Product Operating Model
 - Agile Project Management
 - Product Owner
-- Agile Philosophy
 - Agile Product Management
+- Agile Philosophy
 - Agile Strategy
 - Agile Transformation
+- Team Collaboration
+- Organisational Culture
 - Organisational Agility
-- Scrum Team
 categories:
 - Product Management
-- Scrum
 - Social Technologies
+- Scrum
 preview: nakedalm-experts-professional-scrum-5-5.png
 
 ---

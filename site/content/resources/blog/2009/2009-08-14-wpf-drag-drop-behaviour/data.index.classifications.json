@@ -40,12 +40,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:09:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:02:38",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the implementation of drag and drop functionality within the MVVM pattern, touching on principles of code quality and maintainability. However, the primary focus is on specific coding techniques rather than a broader exploration of complexity theory or its impact on software architecture.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content primarily discusses the implementation of drag and drop functionality within the MVVM pattern in WPF, which touches on code quality and design principles. However, it lacks a thorough exploration of complexity theory or its implications on software architecture. While it mentions encapsulation and modular design, the focus is more on practical coding examples rather than a deep analysis of code complexity or best practices in software development.",
+    "level": "Quaternary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -874,11 +877,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:11:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses implementing drag and drop functionality in WPF using the MVVM pattern, which aligns with software development practices. However, it primarily focuses on technical implementation details rather than broader discussions of working software principles.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the implementation of drag and drop functionality within a WPF application, which is a practical aspect of working software. It touches on the MVVM pattern, encapsulation of logic, and provides code examples that demonstrate how to achieve specific functionality. However, while it does provide some insights into software quality and functionality, it lacks a broader discussion on best practices, customer feedback, or iterative development, which are key themes in the 'Working Software' category.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
@@ -1117,11 +1123,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:13:33",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content primarily discusses drag and drop behavior in WPF, which is a technology related to the Windows operating system, though it focuses more on programming concepts rather than specific Windows OS management, installation, or troubleshooting.",
+    "final_score": 59.0,
+    "reasoning": "The content primarily discusses WPF (Windows Presentation Foundation) and drag-and-drop functionality within a Windows application context, which aligns with the Windows operating system. However, it lacks explicit mentions of Windows installation, configuration, or troubleshooting, focusing instead on a specific programming pattern (MVVM) and implementation details. While it does touch on Windows-related development, the depth of discussion is more technical and specific to WPF rather than broader Windows management or usage, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Deployment Strategies": {

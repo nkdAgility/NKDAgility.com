@@ -25,9 +25,8 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 - Products and Books
-- Software Development
 - Windows
-- Working Software
+- Software Development
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

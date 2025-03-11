@@ -31,8 +31,8 @@ aliasesArchive:
 - /blog/not-just-happy--but-ecstatic
 - /resources/blog/not-just-happy-but-ecstatic
 tags:
-- Pragmatic Thinking
 - Operational Practices
+- Pragmatic Thinking
 - Practical Techniques and Tooling
 categories:
 - DevOps

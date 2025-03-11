@@ -382,12 +382,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:04:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses changing service accounts and passwords for Team Foundation Server and related services, which involves technical procedures relevant to software engineering practices. However, it focuses more on operational tasks rather than broader principles of software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on managing service accounts for Team Foundation Server (TFS) and provides step-by-step instructions for changing these accounts. While it touches on technical aspects related to TFS, it lacks a broader discussion on software craftsmanship, architecture, or engineering practices. The mention of service accounts and their management is relevant but does not delve into best practices or principles of clean code, testing, or DevOps, which are central to the 'Technical Mastery' category.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -790,11 +793,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:09:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:02:44",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content provides practical instructions and considerations for managing service accounts within a Team Foundation Server (TFS) context, which relates tangentially to real-world applications in Agile environments, but largely focuses on operational tasks rather than broader pragmatic thinking strategies.",
+    "final_score": 56.0,
+    "reasoning": "The content provides practical steps for managing service accounts in Team Foundation Server (TFS), which aligns with pragmatic problem-solving in a real-world context. However, it lacks a broader discussion on Agile, Scrum, or DevOps principles, and does not delve deeply into the complexities of project management or decision-making processes. The focus is primarily on specific technical tasks rather than a comprehensive exploration of pragmatic thinking.",
     "level": "Tertiary"
   },
   "Backlog Refinement": {
@@ -1117,12 +1123,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:52:44",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses management and configuration of Team Foundation Server (TFS), which operates in a Windows environment, but it includes broader topics not strictly related to Windows itself.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the management of service accounts related to Team Foundation Server (TFS), which operates within the Windows environment. It explicitly mentions the use of the TFS Administration Console, which is a Windows-based tool, and provides detailed steps for changing service accounts and passwords for various services, including SQL Server and SharePoint, all of which are integral to Windows server management. The content aligns well with the category's focus on configuration and troubleshooting within the Windows operating system, demonstrating a strong understanding of the Windows environment. However, it does not delve into broader Windows topics such as installation or performance optimisation, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",

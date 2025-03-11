@@ -27,15 +27,15 @@ aliasesArchive:
 - /blog/tfs-2010-work-item-seed--tfs-work-item-system-id-at-a-predefined-number
 - /resources/blog/tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
 tags:
-- Practical Techniques and Tooling
-- System Configuration
+- Windows
 - Software Development
+- Practical Techniques and Tooling
 - Troubleshooting
 - Install and Configuration
 - Azure DevOps
-- Windows
-- Pragmatic Thinking
+- System Configuration
 - Technical Mastery
+- Pragmatic Thinking
 categories: []
 preview: metro-binary-vb-128-link-5-5.png
 

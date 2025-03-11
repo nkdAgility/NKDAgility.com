@@ -27,6 +27,8 @@ aliasesArchive:
 - /blog/do-you-know-about-the-visual-studio-alm-rangers-guidance-
 - /resources/blog/do-you-know-about-the-visual-studio-alm-rangers-guidance
 tags:
+- Software Development
+- Practical Techniques and Tooling
 - Products and Books
 - Application Lifecycle Management
 - News and Reviews

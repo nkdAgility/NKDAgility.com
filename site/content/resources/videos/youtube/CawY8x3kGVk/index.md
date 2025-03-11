@@ -33,13 +33,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Scrum Team
-- Software Development
 - Agile Project Management
 - Software Developers
-- Technical Leadership
+- People and Process
 - Pragmatic Thinking
+- Software Development
+- Scrum Team
+- Technical Leadership
 - Agile Frameworks
 - Self Organisation
 - Agile Product Management

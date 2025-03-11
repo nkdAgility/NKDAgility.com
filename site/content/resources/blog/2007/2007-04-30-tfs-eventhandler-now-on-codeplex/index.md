@@ -28,6 +28,7 @@ aliasesArchive:
 - /resources/blog/tfs-eventhandler-now-on-codeplex
 tags:
 - Software Development
+- Windows
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

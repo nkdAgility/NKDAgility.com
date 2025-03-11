@@ -27,13 +27,13 @@ tags:
 - Metrics and Learning
 - Value Delivery
 - Throughput
+- Software Development
 - Flow Efficiency
 - Agile Project Management
 - Agile Product Management
 - Team Performance
-- Operational Practices
 - Practical Techniques and Tooling
-- Pragmatic Thinking
+- Operational Practices
 categories:
 - Product Management
 - Social Technologies

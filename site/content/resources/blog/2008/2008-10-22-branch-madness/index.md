@@ -28,15 +28,14 @@ aliasesArchive:
 - /resources/blog/branch-madness
 tags:
 - Software Development
-- Azure Repos
 - Operational Practices
-- Pragmatic Thinking
-- Troubleshooting
 - Practical Techniques and Tooling
+- Troubleshooting
 - Install and Configuration
 - Modern Source Control
 - Application Lifecycle Management
 - Miscellaneous
+- Pragmatic Thinking
 preview: nakedalm-logo-128-link-2-1.png
 categories:
 - DevOps

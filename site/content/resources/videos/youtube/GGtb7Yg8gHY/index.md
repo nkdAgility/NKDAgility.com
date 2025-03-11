@@ -2,7 +2,7 @@
 title: 'Navigating Team Conflict: From Healthy Disagreement to Agile Harmony'
 description: Discover how to identify and de-escalate team conflict in Agile. Learn strategies to transform disagreements into opportunities for collaboration and innovation.
 date: 2023-11-07T11:30:07Z
-weight: 775
+weight: 650
 ResourceId: GGtb7Yg8gHY
 ResourceType: videos
 ResourceImport: true
@@ -25,8 +25,11 @@ preview: https://i.ytimg.com/vi/GGtb7Yg8gHY/maxresdefault.jpg
 duration: 42
 isShort: true
 tags:
+- Scrum Team
 - Agile Project Management
 - Team Performance
+- Agile Leadership
+- Technical Leadership
 - People and Process
 - Scrum Master
 - Team Collaboration
@@ -37,8 +40,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Scrum
 - Social Technologies
+- Scrum
 
 ---
 In my journey through the world of Agile, I've often encountered various signs that indicate a team is veering off course. One of the most alarming of these signs is what I like to call "war"—a manifestation of team conflict that can derail even the most promising projects. 

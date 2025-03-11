@@ -43,8 +43,8 @@ tags:
 - Decision Making
 - Experimentation
 - Value Delivery
-- Ability to Innovate
 - Metrics and Learning
+- Ability to Innovate
 - Empirical Process Control
 - Hypothesis Driven Development
 - Strategic Goals

@@ -100,12 +100,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:09:54",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a practical technique for creating custom proxies in WCF, which aligns with the exploration of tooling in software development.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses a specific practical technique for creating custom proxies in WCF, which aligns with the category's focus on tooling. However, it lacks broader discussions on Agile or DevOps methodologies, limiting its overall alignment and depth.",
+    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -373,12 +376,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:20:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses creating custom proxies for Windows Communication Foundation (WCF) services, which involves aspects of system configuration related to service contracts and data contracts within .NET. However, the primary focus appears to be on solving a specific programming issue rather than broad configuration methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses creating custom proxies for Windows Communication Foundation (WCF) services, which touches on aspects of system configuration, particularly in the context of software setup. However, it primarily focuses on a specific implementation detail rather than broader system configuration practices. The mention of converting object types and the specific code example indicates some depth, but the overall discussion lacks a comprehensive exploration of system configuration principles, best practices, or optimisation strategies.",
+    "level": "Quaternary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",

@@ -30,10 +30,10 @@ tags:
 - Agile Philosophy
 - Agile Project Management
 - Agile Transformation
-- Software Developers
 - Team Performance
 - Agile Product Management
 - Agile Values and Principles
+- Software Developers
 categories:
 - Social Technologies
 - Scrum

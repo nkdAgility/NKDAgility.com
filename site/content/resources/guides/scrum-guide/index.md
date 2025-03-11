@@ -64,11 +64,11 @@ categories:
 tags:
 - Scrum Product Development
 - Agile Project Management
-- Scrum Team
 - Transparency
+- Scrum Team
 - Professional Scrum
-- Agile Product Management
 - Software Development
+- Agile Product Management
 - Agile Frameworks
 - People and Process
 

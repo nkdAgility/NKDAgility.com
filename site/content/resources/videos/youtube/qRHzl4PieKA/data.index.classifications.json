@@ -172,11 +172,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T12:36:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:22:57",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the importance of empowering teams to adapt requirements based on user feedback, which is central to maximising customer value and aligns with Agile principles.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the importance of engaging product development teams, updating backlogs based on user feedback, and the necessity of adapting requirements to maximise customer value. It aligns closely with the core themes of value delivery, particularly in Agile methodologies, and provides detailed insights and practical advice on how to implement these strategies effectively.",
     "level": "Secondary"
   },
   "Azure DevOps": {
@@ -208,21 +211,27 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T12:36:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:11:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of engaging with team members and adapting requirements based on feedback, which aligns with Systems Thinking principles of interconnectedness and holistic analysis, but it primarily focuses on Agile practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses agile methodologies and the importance of team engagement in adapting to user feedback, which touches on interconnectedness and dynamic decision-making. However, it primarily focuses on agile practices rather than explicitly exploring Systems Thinking principles or techniques. While there are elements of holistic analysis and feedback loops, the depth of discussion on Systems Thinking concepts is limited, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T12:36:54",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of adapting requirements based on user feedback, which is relevant to the application lifecycle, particularly in the development and maintenance stages. However, it primarily focuses on Agile principles rather than a comprehensive view of Application Lifecycle Management.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-11T17:24:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses Agile principles and the importance of adapting requirements based on user feedback, which aligns with some aspects of Application Lifecycle Management, particularly in the context of backlog management and change management. However, it primarily focuses on Agile methodologies and team dynamics rather than a comprehensive view of the entire application lifecycle, which limits its depth and direct relevance to ALM.",
+    "level": "Quaternary"
   },
   "Lean": {
     "category": "Lean",

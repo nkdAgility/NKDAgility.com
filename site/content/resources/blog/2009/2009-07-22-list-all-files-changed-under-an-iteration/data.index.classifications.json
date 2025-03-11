@@ -628,11 +628,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:09:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:02:53",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes a discussion about querying changesets in TFS, which relates to version control, but the primary focus is on a specific implementation detail rather than broader practices or strategies in modern source control.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses a specific task related to version control by querying changesets in TFS, which aligns with the category. However, it lacks a broader discussion on best practices or methodologies in modern source control, focusing instead on a specific implementation. The mention of 'Version Control' in the tags indicates relevance, but the overall depth and conceptual alignment with the category's core themes are moderate.",
     "level": "Tertiary"
   },
   "Empirical Process Control": {
@@ -874,12 +877,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:13:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an aspect of software development by detailing how to obtain a list of changed files during an iteration, which relates to the functionality and operational aspects of software in a version control context, but it does not focus primarily on the delivery or quality of working software.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a technical implementation of querying and listing files changed in a specific iteration using TFS. While it does touch on aspects of software functionality, it lacks a direct discussion on working software principles, such as customer feedback, quality assurance, or iterative development. The mention of creating a command line utility hints at a desire for better software practices, but the overall focus remains on a specific coding task rather than broader themes of delivering functional software.",
+    "level": "Quaternary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -964,12 +970,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:09:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:12:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses version control and changesets, which are elements of release management, but it primarily focuses on a specific API call and handling of file changes rather than a broader release management strategy.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on querying work items and changesets from TFS, which is more aligned with version control and data retrieval rather than the broader strategies and practices of release management. While it touches on aspects of version control, it lacks a direct discussion on release planning, scheduling, or coordination between teams, which are key elements of release management. The depth of discussion is limited to a specific technical implementation without addressing the overall release process.",
+    "level": "Quaternary"
   },
   "Product Owner": {
     "category": "Product Owner",

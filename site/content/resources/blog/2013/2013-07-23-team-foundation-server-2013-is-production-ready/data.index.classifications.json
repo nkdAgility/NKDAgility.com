@@ -799,11 +799,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T18:44:46",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T18:00:06",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the practical experiences and challenges faced by the TFS team in adopting Agile practices, particularly the importance of transparency and quality in a short release cycle, which aligns with pragmatic thinking in a real-world Agile context.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the practical experiences of deploying Team Foundation Server 2013 and the challenges faced during its development, particularly in relation to Agile practices. It highlights the importance of transparency and quality in Agile processes, which aligns with pragmatic thinking. However, while it touches on relevant themes, the discussion lacks depth in practical problem-solving strategies and does not provide extensive evidence-based management practices or case studies, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -880,11 +883,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-15T18:44:46",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T16:48:28",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses Team Foundation Server 2013 in the context of its readiness for production and its move towards agile practices, focusing on the importance of continuous delivery and dealing with technical debt. Although the primary discussion revolves around the software product itself, it indirectly touches on themes relevant to working software in Agile frameworks.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the transition of Team Foundation Server (TFS) to a more agile approach, highlighting the importance of delivering working software and addressing past issues with quality and technical debt. It mentions the concept of 'undone work' and the need for teams to build quality into their processes, which aligns with the core themes of working software. However, while it touches on these topics, the discussion lacks depth in terms of specific best practices or metrics for assessing software quality, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
@@ -1249,11 +1255,14 @@
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-15T18:44:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:58:23",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses the concept of technical debt explicitly, particularly in relation to the Team Foundation Server, and highlights how the team has managed and addressed technical debt from previous versions.",
+    "final_score": 76.0,
+    "reasoning": "The content discusses the concept of technical debt explicitly, particularly in relation to the struggles faced by the TFS team due to accumulated technical debt from previous versions. It highlights the impact of this debt on their ability to deliver quality software and the importance of addressing it to improve future releases. However, while technical debt is a significant part of the discussion, the overall focus is more on the transition to Agile practices and the challenges faced during that process, which slightly dilutes the primary focus on technical debt itself.",
     "level": "Secondary"
   },
   "Sprint Review": {

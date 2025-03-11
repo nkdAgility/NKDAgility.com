@@ -2,7 +2,7 @@
 title: 'The Truth About Newbie vs Professional Scrum Masters: Bridging the Experience Gap'
 description: Discover the true essence of being a Scrum Master. Learn how accountability and value creation define your role, regardless of experience level.
 date: 2023-03-31T07:00:03Z
-weight: 775
+weight: 720
 ResourceId: 2k1726k9zvg
 ResourceType: videos
 ResourceImport: true
@@ -24,13 +24,13 @@ preview: https://i.ytimg.com/vi/2k1726k9zvg/maxresdefault.jpg
 duration: 283
 isShort: false
 tags:
+- Software Development
+- Professional Scrum
 - Scrum Master
 - Agile Project Management
 - People and Process
-- Professional Scrum
 - Scrum Team
 - Agile Frameworks
-- Software Development
 - Accountability
 - Team Performance
 sitemap:

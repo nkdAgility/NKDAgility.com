@@ -30,13 +30,13 @@ tags:
 - Software Developers
 - Product Delivery
 - Scrum Product Development
-- Scrum Team
+- Pragmatic Thinking
 - Software Development
 - Agile Planning
 - Agile Project Management
 - Professional Scrum
 - Team Performance
-- Agile Frameworks
+- Practical Techniques and Tooling
 categories:
 - Scrum
 preview: nakedalm-logo-128-link-1-1.png

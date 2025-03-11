@@ -31,20 +31,20 @@ aliasesArchive:
 - /blog/alm-consulting-in-scotland--uk--scandinavia-&amp;-europe
 - /resources/blog/alm-consulting-scotland-uk-scandinavia-europe
 tags:
+- Software Development
 - Application Lifecycle Management
 - Coaching
 - Practical Techniques and Tooling
-- Software Development
 - Operational Practices
 - Pragmatic Thinking
 - Product Delivery
-- Agile Project Management
 - People and Process
 - Software Developers
+- Deployment Strategies
 categories:
 - Engineering Excellence
-- DevOps
 - Social Technologies
+- DevOps
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

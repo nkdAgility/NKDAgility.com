@@ -970,11 +970,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-15T17:51:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:47:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the process of upgrading Team Foundation Server (TFS) versions, which is directly related to release management practices. It emphasizes trial upgrades, prerequisites, and the steps involved in a production move, aligning with release management strategies.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the process of upgrading from TFS 2013 Preview to TFS 2013 RC, which is a specific instance of release management. It discusses trial upgrades, prerequisites, and the upgrade process in detail, aligning with key topics such as version control and release scheduling. However, it lacks broader discussions on release management strategies or risk management, which limits its overall depth and conceptual alignment.",
     "level": "Secondary"
   },
   "Product Owner": {
@@ -1069,11 +1072,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T17:51:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:57:43",
+    "ai_confidence": 82.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 29,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses processes and methodologies involved in upgrading Team Foundation Server, which includes software installation, configuration requirements, and best practices for ensuring a successful upgrade. It focuses on practical aspects relevant to system configuration.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily focuses on the process of upgrading Team Foundation Server (TFS) from a preview version to a release candidate, which involves detailed discussions on system configuration aspects such as prerequisites, installation steps, and configuration management. It explicitly mentions best practices for trial upgrades, hardware requirements, and the importance of backups, aligning well with the core themes of system configuration. The depth of discussion is substantial, providing specific instructions and considerations for a successful upgrade, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1123,11 +1129,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T17:51:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:59:31",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS) 2013, which includes specific references to supported Windows Server versions, installation procedures, and system requirements. The central theme relates to managing and upgrading a software application that operates within a Windows environment.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS) 2013, which is closely tied to the Windows operating system, specifically mentioning Windows Server versions and their compatibility. There are numerous direct mentions of Windows Server 2008 R2 and Windows Server 2012, which are crucial for the installation and upgrade process. The content aligns well with the category's core themes, particularly in installation procedures and system updates. However, while it provides substantial detail on the upgrade process, it does not delve deeply into broader Windows configuration or troubleshooting topics, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Deployment Strategies": {

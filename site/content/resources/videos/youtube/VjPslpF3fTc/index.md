@@ -32,6 +32,7 @@ tags:
 - Discovery and Learning
 - Continuous Learning
 - Miscellaneous
+- Personal
 - People and Process
 resourceTypes:
 - video

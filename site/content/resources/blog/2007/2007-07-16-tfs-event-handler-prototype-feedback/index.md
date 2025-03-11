@@ -27,7 +27,6 @@ tags:
 - Install and Configuration
 - Product Validation
 - Practical Techniques and Tooling
-- Customer Satisfaction
 - Software Development
 - Troubleshooting
 - System Configuration

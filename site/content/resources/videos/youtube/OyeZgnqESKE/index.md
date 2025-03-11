@@ -31,6 +31,8 @@ sitemap:
   priority: 0.6
 tags:
 - Discovery and Learning
+- Team Motivation
+- Coaching
 - Continuous Learning
 - People and Process
 - Personal

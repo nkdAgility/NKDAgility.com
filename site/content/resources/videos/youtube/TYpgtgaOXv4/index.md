@@ -29,16 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scrum Product Development
+- Agile Planning
 - Agile Planning Tools
 - Agile Product Management
 - Agile Project Management
 - Product Backlog
-- Product Delivery
 - Product Owner
-- Software Development
+- Product Delivery
 - Transparency
-- Value Delivery
-- Agile Planning
+- Software Development
 resourceTypes:
 - video
 categories:

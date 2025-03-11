@@ -29,6 +29,7 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 - Products and Books
+- Install and Configuration
 categories: []
 preview: nakedalm-windows-logo-7-7.png
 

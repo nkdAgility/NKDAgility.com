@@ -28,13 +28,11 @@ aliasesArchive:
 - /resources/blog/visual-studio-2012-rtm-available-installed
 tags:
 - Install and Configuration
-- Software Development
 - Products and Books
+- Software Development
 - News and Reviews
 - Practical Techniques and Tooling
-- Release Management
 - System Configuration
-- Technical Mastery
 - Troubleshooting
 categories:
 - Engineering Excellence

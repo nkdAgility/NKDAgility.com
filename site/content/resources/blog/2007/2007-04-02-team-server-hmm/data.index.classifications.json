@@ -466,12 +466,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T10:22:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:21:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses integrating Team Server with SQL Server Management Studio, which relates to configuring systems and software integration, but the primary focus is on the integration aspect rather than detailed system configuration practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions integration between Team Server and SQL Server Management Studio, which relates to system configuration. However, it lacks a detailed exploration of configuration processes, best practices, or optimisation strategies. The focus is more on software compatibility rather than the methodologies of configuring systems, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -898,12 +901,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T10:22:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:10:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses integrating Team Foundation Server (TFS) with SQL Server Management Studio, which is relevant to source control practices, but it is not the primary focus of the content.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content briefly mentions Team Foundation Server (TFS) in the context of integration with SQL Server Management Studio, which relates to source control. However, the primary focus is on integration rather than best practices or methodologies of modern source control. The discussion lacks depth and does not cover key topics such as branching strategies, code review processes, or collaboration workflows, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Self Organisation": {
     "category": "Self Organisation",

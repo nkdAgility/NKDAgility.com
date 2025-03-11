@@ -30,6 +30,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Discovery and Learning
+- Organisational Agility
+- Product Delivery
 - Lean Principles
 - Operational Practices
 - Metrics and Learning

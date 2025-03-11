@@ -490,11 +490,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-11T16:51:48",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content primarily discusses a specific technical issue related to Project Server 2013 and Team Foundation Server, focusing on troubleshooting and permissions management rather than operational efficiency or practices.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to Project Server 2013 and Team Foundation Server, focusing on troubleshooting and permissions management. While it touches on operational aspects, such as switching permission modes, it lacks a broader discussion on operational practices, methodologies, or strategies aimed at enhancing efficiency within Agile, DevOps, or Lean frameworks. The content does not provide detailed insights into process optimisation or continuous improvement, which are key themes of the category.",
     "level": "Quaternary"
   },
   "Scrum Team": {
@@ -589,11 +592,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:03:34",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific issue related to Project Server and Team Foundation Server, which involves software configuration and permissions management. While it touches on software development tools and practices, the primary focus is on troubleshooting rather than broader software development methodologies or practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific issue related to Project Server 2013 and Team Foundation Server, which are tools used in software development. It provides a detailed account of troubleshooting a specific error and offers a solution involving permission management, which aligns with software development practices. However, the focus is more on resolving a specific technical issue rather than broader software development methodologies or best practices, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Project Management": {
@@ -1117,12 +1123,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:01:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses an issue related to Project Server 2013, which operates within the Windows environment, but the focus is more on Project Server and Team Foundation Server rather than Windows itself.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses an issue related to Project Server 2013 and Team Foundation Server, which are applications that run on Windows. However, it does not focus on the Windows operating system itself, such as installation, configuration, or troubleshooting of Windows. While there are mentions of Windows in the context of URLs and PowerShell commands, the main discussion revolves around specific software functionalities rather than the Windows environment as a whole. Therefore, the confidence score reflects a moderate alignment with the Windows category, but it does not meet the criteria for a primary focus.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",

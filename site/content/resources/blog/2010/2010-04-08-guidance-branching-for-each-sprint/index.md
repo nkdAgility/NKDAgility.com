@@ -33,16 +33,16 @@ categories:
 - Social Technologies
 - Engineering Excellence
 tags:
+- Modern Source Control
 - Software Developers
 - Practical Techniques and Tooling
-- Scrum Product Development
 - Software Development
-- Modern Source Control
+- Scrum Product Development
 - Professional Scrum
 - Agile Frameworks
-- Agile Project Management
 - Operational Practices
-- Pragmatic Thinking
+- Agile Project Management
+- Technical Excellence
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

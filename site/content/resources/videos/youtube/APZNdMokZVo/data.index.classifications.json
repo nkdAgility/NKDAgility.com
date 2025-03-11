@@ -538,12 +538,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T23:35:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:32:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the concept of 'definition of done' within Scrum, which indirectly relates to decision-making in Agile by emphasizing the importance of clarity and transparency in product development. However, the main focus is on Scrum practices rather than structured decision-making methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) in Agile, which indirectly relates to decision-making by emphasising quality and risk mitigation. However, it primarily focuses on Agile practices rather than structured decision-making methodologies. While it mentions transparency and risk assessment, it lacks a detailed exploration of evidence-based decision-making principles or frameworks, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -592,11 +595,14 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T23:35:47",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T14:30:39",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content primarily discusses the importance of the definition of done in Scrum, which relates to team dynamics and communication, making it a major theme despite not covering all Scrum team roles or collaboration techniques.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) within the context of Scrum, highlighting its importance for team effectiveness and quality delivery. While it touches on team dynamics and communication, it primarily focuses on the DoD rather than the broader aspects of Scrum Team roles and collaboration. The discussion is relevant but lacks depth in exploring team interactions and dynamics, which are central to the Scrum Team category.",
     "level": "Secondary"
   },
   "Practical Techniques and Tooling": {
@@ -742,11 +748,14 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-17T23:35:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:20:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 50.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the definition of done and its importance in Scrum, emphasizing commitment to quality and transparency aspects, which align with Scrum Values, but is primarily focused on Scrum practices rather than the values themselves.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) and its importance in Scrum, which relates to the value of Openness through transparency in communication and processes. It also touches on Commitment by emphasising the team's dedication to quality. However, the primary focus is on the DoD rather than the Scrum Values themselves, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Automated Testing": {

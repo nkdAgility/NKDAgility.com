@@ -193,12 +193,15 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T12:03:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:06:46",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses migration from TFS to Azure DevOps, touching on compatibility and functionality, which relates to Azure Repos but is primarily focused on migration issues rather than Azure Repos functionalities or best practices.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily discusses the migration from TFS to Azure DevOps, which is related to Azure Repos but does not focus specifically on its functionalities or best practices. While it touches on aspects of code safety and customisations, it lacks a detailed exploration of Azure Repos features such as branching strategies, pull requests, or CI/CD integration.",
+    "level": "Quaternary"
   },
   "Transparency": {
     "category": "Transparency",
@@ -1162,12 +1165,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T12:03:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:17:44",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses migration from TFS to Azure DevOps, touching on compatibility issues and considerations for customisations, which are relevant to practical tooling and techniques in a DevOps context. However, the primary focus is on the migration process rather than a broader exploration of tools or methodologies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the practical aspects of migrating from TFS to Azure DevOps, including compatibility concerns, customisations, and planning for change. It provides insights into specific challenges and considerations during the migration process, which aligns with the category's focus on practical techniques and tooling. However, while it touches on relevant tools and methodologies, the depth of discussion on specific Agile or DevOps practices is limited, leading to a moderately high confidence score.",
+    "level": "Secondary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -1327,11 +1333,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T12:03:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:20:12",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of migration and compatibility related to DevOps and TFS, which are relevant to the application lifecycle, particularly in the context of deployment and maintenance. However, the primary focus is on migration issues rather than a comprehensive discussion of the application lifecycle management principles.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the migration from TFS to Azure DevOps, which is relevant to the application lifecycle, particularly in the deployment and maintenance stages. It addresses compatibility issues, customisations, and the importance of planning for changes, aligning well with the core themes of Application Lifecycle Management. However, it lacks a comprehensive exploration of governance, compliance, and metrics, which limits its depth. Overall, while it is focused on a specific aspect of ALM, it does not cover the full lifecycle or best practices extensively.",
     "level": "Tertiary"
   },
   "Value Stream Management": {

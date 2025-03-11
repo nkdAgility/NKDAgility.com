@@ -31,14 +31,14 @@ sitemap:
 tags:
 - Software Development
 - People and Process
-- Agile Project Management
 - Scrum Team
 - Agile Philosophy
 - Agile Transformation
-- Pragmatic Thinking
 - Scrum Master
 - Scrum Product Development
 - Team Performance
+- Agile Product Management
+- Value Delivery
 resourceTypes:
 - video
 categories:

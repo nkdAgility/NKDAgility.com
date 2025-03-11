@@ -25,11 +25,13 @@ preview: https://i.ytimg.com/vi/KhP_e26OSKs/maxresdefault.jpg
 duration: 57
 isShort: true
 tags:
+- Agile Product Management
 - Product Owner
 - Agile Project Management
 - People and Process
-- Personal
+- Organisational Agility
 - Value Delivery
+- Personal
 sitemap:
   filename: sitemap.xml
   priority: 0.6

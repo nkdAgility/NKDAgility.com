@@ -499,11 +499,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T11:31:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:58:39",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the practical application of Release Management for enhancing deployment and testing processes in a software development environment, aligning well with operational practices within DevOps methodologies.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses practical techniques for automating release management and testing processes, which aligns well with operational efficiency in DevOps. It provides specific details on using Release Management for Visual Studio 2013, including configuration steps and troubleshooting tips, demonstrating a clear focus on improving operational practices. The depth of discussion is substantial, covering various aspects of the deployment process and the integration of automated tests, which supports the category's emphasis on practical application. However, while it is primarily focused on operational practices, some parts may be seen as more technical than strategic, slightly affecting the overall confidence score.",
     "level": "Secondary"
   },
   "Scrum Team": {
@@ -598,11 +601,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T11:31:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:46:44",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses using Release Management for Visual Studio 2013 in the context of automated testing and deployment, which are key topics in software development practices. It elaborates on techniques and procedures for integrating testing and deployment processes in a software development lifecycle.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed discussion on executing tests within the context of Release Management for Visual Studio 2013, which is a specific software development practice. It explicitly mentions automated testing, deployment processes, and the integration of tools like Microsoft Test Manager and Lab Management, aligning closely with key topics in software development methodologies and practices. The depth of the discussion is significant, covering various aspects of the deployment pipeline and the configuration of components, which indicates a strong focus on software engineering outcomes.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -697,11 +703,14 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-15T11:31:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:56:45",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the use of Release Management for executing automated tests in a continuous deployment context, emphasizing tools and processes that align with frequent release strategies.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses automated release management and testing processes, which are relevant to frequent releases. However, it primarily focuses on specific tools and configurations rather than broader principles of continuous delivery or deployment. While it mentions aspects of release management, it lacks a comprehensive exploration of strategies, metrics, or best practices associated with frequent releases.",
     "level": "Secondary"
   },
   "Customer Satisfaction": {

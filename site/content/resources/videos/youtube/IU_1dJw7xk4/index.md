@@ -32,14 +32,14 @@ sitemap:
 tags:
 - Agile Frameworks
 - Metrics and Learning
-- Cycle Time
+- Software Development
 - People and Process
 - Operational Practices
 - Pragmatic Thinking
-- Software Development
-- Throughput
-- Flow Efficiency
 - Practical Techniques and Tooling
+- Flow Efficiency
+- Strategy
+- Agile Project Management
 resourceTypes:
 - video
 categories:

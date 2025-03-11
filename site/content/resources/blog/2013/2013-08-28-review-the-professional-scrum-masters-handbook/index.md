@@ -27,12 +27,13 @@ aliasesArchive:
 - /blog/review--the-professional-scrum-masters-handbook
 - /resources/blog/review-the-professional-scrum-masters-handbook
 tags:
-- News and Reviews
 - Products and Books
+- News and Reviews
 - Agile Project Management
 - Software Development
-- Scrum Master
 - Agile Frameworks
+- Scrum Master
+- Scrum Team
 - People and Process
 - Pragmatic Thinking
 categories:

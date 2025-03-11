@@ -8,7 +8,7 @@ ResourceImportId: 45946
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2021-03-01
-weight: 675
+weight: 690
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -34,12 +34,11 @@ aliasesArchive:
 tags:
 - People and Process
 - Agile Project Management
-- Product Delivery
 - Value Delivery
-- Agile Leadership
+- Product Delivery
 - Agile Product Management
+- Agile Leadership
 - Agile Frameworks
-- Scrum Product Development
 - Technical Leadership
 categories:
 - Leadership

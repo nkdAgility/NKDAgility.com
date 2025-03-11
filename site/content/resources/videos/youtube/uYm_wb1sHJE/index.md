@@ -35,11 +35,11 @@ tags:
 - Sprint Review
 - Agile Project Management
 - Scrum Product Development
-- Agile Frameworks
 - Agile Product Management
 - Pragmatic Thinking
 - Scrum Master
 - Software Development
+- Agile Frameworks
 - People and Process
 resourceTypes:
 - video

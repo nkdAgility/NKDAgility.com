@@ -346,11 +346,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-11T21:59:14",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the application of Kanban within software development teams, focusing on its role in enhancing transparency and predictability in Agile processes.",
+    "calculated_at": "2025-03-11T14:24:56",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses Kanban as a strategy for optimising workflow, particularly in the context of Scrum teams, which aligns with software development practices. It provides insights into how Kanban can enhance predictability and transparency in software delivery. However, while it touches on software teams, the discussion is broader and includes applications in various industries, which slightly dilutes its focus on software development specifically.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -364,12 +367,15 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-11T21:59:19",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T16:14:06",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of managing the flow of work and the use of Kanban metrics to improve predictability and transparency, which are related to throughput. However, it primarily focuses on the author's journey and recommendations rather than a detailed exploration of throughput as a central theme.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses Kanban as a strategy for optimising workflow and enhancing predictability, which aligns with the concept of throughput. It mentions metrics that help improve predictability and transparency, which are relevant to measuring throughput. However, the primary focus is on Kanban rather than throughput itself, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -562,11 +568,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-11T21:59:47",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the practical application of Kanban as a strategy to enhance transparency and manage workflow within Agile and Scrum contexts, demonstrating real-world problem-solving techniques.",
+    "calculated_at": "2025-03-11T17:26:45",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the practical application of Kanban as a strategy to enhance workflow and predictability, particularly in Scrum contexts. It addresses real-world challenges faced by Scrum teams and offers insights into how Kanban can improve transparency and decision-making. However, while it aligns with pragmatic thinking, the focus is more on Kanban itself rather than a broader discussion of pragmatic approaches in Agile or Scrum, which slightly limits its depth and alignment with the category.",
     "level": "Secondary"
   },
   "Deployment Frequency": {

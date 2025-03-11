@@ -30,8 +30,8 @@ aliasesArchive:
 - /resources/blog/tfs-integration-tools-issue-unable-to-resolve-conflict-as-access-to-the-path-is-denied
 tags:
 - Troubleshooting
-- Install and Configuration
 - Practical Techniques and Tooling
+- Install and Configuration
 - System Configuration
 - Software Development
 categories: []

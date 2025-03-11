@@ -26,8 +26,9 @@ duration: 37
 isShort: true
 tags:
 - Pragmatic Thinking
-- Throughput
 - Flow Efficiency
+- Throughput
+- Product Delivery
 - Metrics and Learning
 - Evidence Based Management
 sitemap:

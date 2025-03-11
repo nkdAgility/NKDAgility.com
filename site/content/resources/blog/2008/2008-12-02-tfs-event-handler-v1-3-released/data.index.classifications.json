@@ -910,11 +910,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:03:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an updated software tool (TFS Event Handler) and its functionalities, which relate to delivering operational software that addresses user requirements, but the primary focus is on the specific software tool rather than the broader concepts of working software in Agile and Scrum.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the release of a software tool (TFS Event Handler) that enhances functionality in Team Foundation Server, which aligns with the concept of delivering working software. However, it lacks a detailed exploration of best practices, customer feedback, or iterative development, which are key themes in the 'Working Software' category. The focus is primarily on the features and updates of the tool rather than on broader principles of software quality and delivery.",
     "level": "Tertiary"
   },
   "Test Automation": {
@@ -1180,12 +1183,15 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:14:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a tool (TFS Event Handler) that helps with user notifications and collaboration within Team Foundation Server, making it relevant to collaboration tools as a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the TFS Event Handler, which is a tool that facilitates notifications for changes in Team Foundation Server. While it relates to collaboration by improving communication about work item changes, it does not explicitly focus on broader collaboration tools or their integration with Agile methodologies. The discussion is somewhat relevant but lacks depth and does not cover key topics such as best practices or comparisons with other tools.",
+    "level": "Quaternary"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1333,12 +1339,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:13:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the deployment and configuration of the TFS Event Handler, which is related to system configuration for Team Foundation Server. However, it primarily centers around the functionality and specific features of the tool rather than general practices or principles of system configuration.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the release of a software tool (TFS Event Handler) and its features, which includes some aspects of configuration, such as setting up alerts and managing work item assignments. However, it lacks a comprehensive exploration of system configuration principles, best practices, or optimisation strategies. The focus is more on the functionality of the tool rather than the methodologies of system configuration, leading to a low confidence score in this category.",
+    "level": "Quaternary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",

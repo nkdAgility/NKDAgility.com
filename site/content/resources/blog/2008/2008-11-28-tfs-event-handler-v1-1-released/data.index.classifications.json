@@ -907,11 +907,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:14:34",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific software tool (TFS Event Handler) and its functionality for notifying users of changes to work items in Team Foundation Server, which relates to the delivery of functional software and addresses user needs, but lacks a broader focus on best practices or theories of working software.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the release of a specific software tool (TFS Event Handler) and its functionalities, which aligns with the concept of working software. However, it lacks a detailed exploration of how this software meets user needs or business objectives, and it does not delve into best practices or metrics for assessing software quality. The primary focus is on the tool's features rather than broader discussions on working software principles.",
     "level": "Tertiary"
   },
   "Test Automation": {
@@ -1060,12 +1063,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:03:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an improvement related to Team Foundation Server (TFS), which is a version control system. However, the focus is more on the features of the event handler related to notifications and work items rather than on source control practices themselves.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the TFS Event Handler and its functionalities related to notifications for work items in Team Foundation Server. While it mentions TFS, which is a version control system, the focus is more on the event handling and notification aspects rather than on modern source control practices such as branching strategies, code reviews, or collaboration workflows. The discussion lacks depth in terms of version control methodologies and best practices, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -1333,12 +1339,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:13:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the deployment of a system service and the configuration of alerts in Team Foundation Server, which are relevant to system configuration practices, but the primary focus is on the event handler itself rather than the detailed processes of configuration.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the release of a tool related to Team Foundation Server (TFS) and its functionalities, which includes notifying users of changes to work items. While it touches on deployment as a system service, it lacks a comprehensive exploration of system configuration principles, best practices, or optimisation strategies. The focus is more on the tool's features rather than the methodologies of configuring systems, leading to a low confidence score in alignment with the 'System Configuration' category.",
+    "level": "Quaternary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",

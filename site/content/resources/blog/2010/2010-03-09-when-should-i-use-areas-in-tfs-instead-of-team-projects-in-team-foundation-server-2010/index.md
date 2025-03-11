@@ -27,12 +27,11 @@ tags:
 - Practical Techniques and Tooling
 - Software Development
 - Operational Practices
-- System Configuration
 - Pragmatic Thinking
 - Modern Source Control
+- System Configuration
 - Azure DevOps
 - Agile Frameworks
-- Agile Project Management
 preview: metro-visual-studio-2010-128-link-8-8.png
 categories:
 - Engineering Excellence

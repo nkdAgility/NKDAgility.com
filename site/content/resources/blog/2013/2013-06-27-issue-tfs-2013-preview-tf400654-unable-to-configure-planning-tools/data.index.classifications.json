@@ -244,12 +244,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:58:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses issues related to configuring planning tools in Team Foundation Server, which is relevant to the planning phase of product delivery, but it primarily focuses on a specific error and its resolution rather than broader product delivery methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses a specific error related to configuring planning tools in Team Foundation Server, which touches on aspects of product delivery, particularly in the context of process templates and team configurations. However, it lacks a broader discussion on methodologies, practices, or strategies that are central to product delivery. The focus is more on troubleshooting a specific issue rather than on the end-to-end process of delivering software products. Therefore, while there are mentions of planning tools and process templates, the overall alignment and depth of discussion do not strongly support the category.",
+    "level": "Quaternary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -454,12 +457,15 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:49:08",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "Content discusses configuring process templates related to Product Backlog items in TFS, indicating it has a major but secondary theme concerning backlog management.",
-    "level": "Tertiary"
+    "final_score": 24.0,
+    "reasoning": "The content briefly mentions the term 'Product Backlog Item' in the context of updating a process template, but it does not focus on the Product Backlog's definition, purpose, or management strategies. The discussion primarily revolves around a specific error in TFS and does not delve into backlog refinement, prioritisation, or the roles of the Product Owner, which are key aspects of the Product Backlog category.",
+    "level": "Quaternary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -871,11 +877,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:00:42",
+    "ai_confidence": 55.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to configuring planning tools in Team Foundation Server, which is relevant to the effective delivery and customization of working software, though it is primarily focused on specific error handling rather than broader topics of working software.",
+    "final_score": 50.0,
+    "reasoning": "The content discusses a specific error related to configuring planning tools in Team Foundation Server, which is a software development tool. While it touches on aspects of software functionality and configuration, it lacks a broader discussion on working software principles, such as customer feedback or iterative development. The focus is more on troubleshooting rather than delivering high-quality, functional software that meets user needs.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {

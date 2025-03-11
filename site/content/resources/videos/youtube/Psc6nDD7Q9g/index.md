@@ -30,16 +30,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Practical Techniques and Tooling
+- Lean
 - Transparency
 - Transparency and Accountability
-- Practical Techniques and Tooling
 - Software Development
+- Metrics and Learning
+- People and Process
 - Agile Frameworks
 - Agile Project Management
-- Metrics and Learning
 - Operational Practices
-- People and Process
-- Flow Efficiency
 resourceTypes:
 - video
 categories:

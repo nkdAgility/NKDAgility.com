@@ -35,10 +35,11 @@ tags:
 - Scrum Master
 - Agile Project Management
 - Pragmatic Thinking
+- Continuous Learning
 - Agile Frameworks
 - Personal
-- Continuous Learning
 - Professional Scrum
+- Scrum Team
 resourceTypes:
 - video
 categories:

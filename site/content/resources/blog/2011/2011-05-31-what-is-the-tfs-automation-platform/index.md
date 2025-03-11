@@ -23,13 +23,13 @@ aliasesArchive:
 - /what-is-the-tfs-automation-platform
 - /resources/blog/what-is-the-tfs-automation-platform
 tags:
-- System Configuration
-- Internal Developer Platform
 - Software Development
-- Operational Practices
+- Internal Developer Platform
 - Practical Techniques and Tooling
 - Install and Configuration
+- System Configuration
 - Platform Engineering
+- Operational Practices
 - Technical Excellence
 - Technical Mastery
 preview: metro-visual-studio-2010-128-link-2-2.png

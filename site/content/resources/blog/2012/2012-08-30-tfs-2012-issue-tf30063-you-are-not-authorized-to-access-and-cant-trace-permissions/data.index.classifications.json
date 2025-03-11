@@ -10,11 +10,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:52:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses troubleshooting permissions in TFS and SharePoint, which relates to practical techniques for managing access and integration between tools, but it is primarily focused on a specific issue rather than a broader exploration of methodologies or frameworks.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses a specific issue related to permissions in TFS and SharePoint, which touches on practical tooling aspects. However, it lacks a broader exploration of methodologies or frameworks that enhance Agile or DevOps practices. The focus is primarily on troubleshooting a specific error rather than on the application of techniques or tools in a wider context.",
     "level": "Tertiary"
   },
   "Platform Engineering": {
@@ -622,12 +625,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:02:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses permission issues related to Team Foundation Server (TFS) which is a source control system, making source control a significant theme, but it primarily focuses on troubleshooting access issues rather than broader source control practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses permissions and access issues related to Team Foundation Server (TFS), which is a version control system. However, the focus is primarily on troubleshooting a specific error rather than on broader best practices or methodologies in modern source control. While it mentions TFS and permissions, it lacks depth in discussing version control strategies, branching, or collaboration workflows, which are key themes in the category.",
+    "level": "Quaternary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -1114,12 +1120,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:04:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses an issue related to permissions in Team Foundation Server (TFS) and SharePoint, which are associated with Microsoft technologies. However, it does not focus specifically on the Windows operating system itself, making Windows a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses a specific issue related to permissions in Team Foundation Server (TFS) and its integration with SharePoint, both of which are Microsoft products that operate within the Windows ecosystem. The mention of TFS 2012 and SharePoint 2010 indicates a focus on Windows-related software. However, while it touches on permission management, which is a relevant aspect of Windows, the discussion is more centred on troubleshooting a specific error rather than broader Windows installation, configuration, or optimisation topics. The depth of the discussion is moderate, providing insights into permission issues but lacking comprehensive coverage of Windows system management as a whole.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",

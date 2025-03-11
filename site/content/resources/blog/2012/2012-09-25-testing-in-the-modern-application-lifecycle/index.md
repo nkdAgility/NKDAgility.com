@@ -25,14 +25,14 @@ aliasesArchive:
 tags:
 - Windows
 - Product Delivery
-- Application Lifecycle Management
 - Practical Techniques and Tooling
 - Software Development
-- Value Delivery
 - Working Software
+- Application Lifecycle Management
 - Engineering Practices
 - Team Collaboration
-- Azure DevOps
+- Operational Practices
+- Pragmatic Thinking
 categories:
 - Engineering Excellence
 - DevOps

@@ -28,6 +28,8 @@ isShort: false
 tags:
 - People and Process
 - Pragmatic Thinking
+- Agile Leadership
+- Agile Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

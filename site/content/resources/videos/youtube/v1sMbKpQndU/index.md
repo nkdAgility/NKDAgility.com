@@ -32,16 +32,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Coaching
-- Scrum Master
-- Scrum Team
-- Team Performance
 - Agile Project Management
-- Mentoring
-- Software Development
-- Professional Scrum
-- Team Collaboration
 resourceTypes:
 - video
 categories:

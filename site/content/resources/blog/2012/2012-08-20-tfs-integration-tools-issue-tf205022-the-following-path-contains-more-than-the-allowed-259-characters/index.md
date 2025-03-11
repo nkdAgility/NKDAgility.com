@@ -29,12 +29,12 @@ aliasesArchive:
 - /blog/tfs-integration-tools---issue--tf205022--the-following-path-contains-more-than-the-allowed-259-characters
 - /resources/blog/tfs-integration-tools-issue-tf205022-the-following-path-contains-more-than-the-allowed-259-characters
 tags:
-- Software Development
-- System Configuration
 - Troubleshooting
-- Windows
-- Install and Configuration
+- Software Development
 - Practical Techniques and Tooling
+- Install and Configuration
+- System Configuration
+- Windows
 - Pragmatic Thinking
 categories: []
 preview: metro-problem-icon-4-4.png

@@ -247,12 +247,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:44:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses configuring a domain controller in Azure, which relates to deployment and infrastructure setup, but it primarily focuses on technical implementation rather than broader product delivery methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on configuring a domain controller in Azure, which is more about technical implementation than the broader methodologies and practices of product delivery. While it touches on aspects of deployment and infrastructure setup, it lacks a comprehensive discussion on product delivery principles such as Agile methodologies, iterative development, or cross-functional team roles. The depth of discussion is limited to specific technical steps without connecting them to the overall product delivery process.",
+    "level": "Quaternary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -967,12 +970,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:56:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses configuring a domain controller in Azure for AAD integrated Release Management, indicating a focus on the setup and management aspects of software releases, but it primarily revolves around technical implementation rather than broader release management strategies.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses configuring a domain controller in Azure for AAD integrated Release Management, which is a specific aspect of release management. However, it primarily focuses on the technical steps of setting up infrastructure rather than the broader strategies and practices of release management. While it mentions release management, it does not delve deeply into the planning, scheduling, or coordination aspects that are central to the category.",
+    "level": "Quaternary"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -1123,12 +1129,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-14T23:58:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:54:25",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the configuration of a Domain Controller in Azure using Windows Server, detailing installation procedures, configuration settings, and management of Active Directory, which are all central to the Windows operating system.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content primarily focuses on configuring a Domain Controller (DC) in Azure using Windows Server, which is a direct discussion of the Windows operating system. It includes detailed steps for installation, configuration, and management of Active Directory, aligning closely with the key topics of the Windows category. The depth of discussion is significant, providing practical guidance and insights into the Windows environment, particularly in a cloud context. The content does not stray into non-Windows topics, maintaining a strong focus on Windows functionalities.",
+    "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",

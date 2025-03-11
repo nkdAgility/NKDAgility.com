@@ -27,6 +27,7 @@ aliasesArchive:
 - /blog/configuring-a-dc-in-azure-for-aad-integrated-release-management
 - /resources/blog/configuring-dc-azure-aad-integrated-release-management
 tags:
+- Windows
 - Install and Configuration
 categories:
 - DevOps

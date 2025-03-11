@@ -26,6 +26,7 @@ duration: 408
 isShort: false
 tags:
 - People and Process
+- Agile Project Management
 - Agile Philosophy
 - Agile Strategy
 - Decision Making
@@ -34,7 +35,6 @@ tags:
 - Enterprise Agility
 - Flow Efficiency
 - Operational Practices
-- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

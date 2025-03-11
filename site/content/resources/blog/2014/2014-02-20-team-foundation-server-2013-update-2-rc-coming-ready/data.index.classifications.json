@@ -250,12 +250,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:56:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses features and improvements related to TFS 2013 Update 2 RC, which may impact product delivery processes, but it primarily focuses on the upgrade event and specific features rather than the broader methodologies and practices of product delivery.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses an upcoming update for Team Foundation Server (TFS) and highlights new features that may enhance product delivery processes, such as release management tags and performance improvements. However, it lacks a direct focus on methodologies or practices related to the end-to-end delivery of software products. While it touches on relevant features, it does not delve into the broader context of product delivery, making it a secondary mention rather than a primary focus.",
+    "level": "Quaternary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -277,12 +280,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:46:28",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the upcoming features of TFS 2013 Update 2 RC, which relates to a software product relevant to Agile practices, but it primarily focuses on the upgrade event rather than a detailed analysis or review of the product itself.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses the upcoming features of TFS 2013 Update 2 RC, which aligns with the category of tools and software relevant to Agile practices. However, it lacks in-depth analysis or reviews of the product, focusing instead on announcements and features without a broader discussion on Agile methodologies or their implications. The mention of specific features provides some relevance, but the overall depth and conceptual alignment with the category are limited.",
+    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -295,12 +301,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:58:24",
+    "ai_confidence": 68.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses features and updates related to Team Foundation Server (TFS), which is part of the Azure DevOps suite, but the primary focus is on the upgrade event rather than Azure DevOps functionalities or practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS), which is a predecessor to Azure DevOps, and mentions specific features and updates relevant to TFS 2013 Update 2 RC. While it does not explicitly mention Azure DevOps, TFS is part of the Azure DevOps suite, and the features discussed align with the functionalities of Azure DevOps. However, the focus is primarily on TFS rather than Azure DevOps as a whole, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",

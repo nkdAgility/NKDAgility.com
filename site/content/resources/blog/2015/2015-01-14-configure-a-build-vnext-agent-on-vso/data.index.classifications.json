@@ -499,12 +499,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-14T23:19:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:53:45",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration and management of a Build vNext Agent, which relates to operational practices in DevOps, particularly in optimising build processes and enhancing workflow management.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content primarily focuses on configuring a Build vNext Agent, which is a practical application related to operational practices in a DevOps context. It discusses the setup process, the benefits of the new build system, and the implications for workflow management. However, while it touches on operational efficiency, it lacks a broader discussion on metrics, continuous improvement strategies, or process optimisation techniques, which are key topics in the Operational Practices category.",
+    "level": "Tertiary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -598,12 +601,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-14T23:19:46",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-11T16:43:40",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "The content primarily discusses the configuration of a Build vNext Agent within the context of Visual Studio Online (VSO) and Team Foundation Server (TFS), which are integral to the software development lifecycle and CI/CD practices.",
-    "level": "Primary"
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed guide on configuring a Build vNext Agent, which is directly related to software development practices, particularly in the context of Continuous Integration and Continuous Deployment (CI/CD). It discusses the setup process, prerequisites, and the new features of the build system, aligning well with the core themes of software development methodologies and practices. The depth of discussion is substantial, covering technical steps and considerations, which further supports a high confidence score.",
+    "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -634,11 +640,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-14T23:19:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:55:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 31,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the configuration of a Build vNext Agent within the context of Visual Studio Online (VSO) and Team Foundation Server (TFS), which are modern source control and build systems. It covers aspects of build management, agent configuration, and the new build system's features, aligning well with modern source control practices.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on configuring a Build vNext Agent within the context of Visual Studio Online (VSO) and Team Foundation Server (TFS), which are modern source control systems. It discusses the new build system, its architecture, and the process of setting up build agents, which aligns well with the principles of version control and continuous integration. The depth of discussion includes specific steps and considerations for configuration, indicating a strong focus on modern source control practices. However, while it is detailed, it does not extensively cover broader topics like branching strategies or code review processes, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Empirical Process Control": {

@@ -241,11 +241,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-11T16:49:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "The content primarily focuses on the technical aspects of migrating and consolidating SharePoint environments, which does not directly address the methodologies and practices involved in delivering usable software products to customers.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating and consolidating SharePoint environments, which is more aligned with implementation details rather than the broader methodologies and practices of product delivery. While it does touch on aspects of deployment and environment setup, it lacks a comprehensive discussion on planning, iterative development, or cross-functional team collaboration, which are key themes in product delivery. The depth of technical detail is significant, but it does not contribute to a holistic understanding of delivering software products effectively.",
     "level": "Quaternary"
   },
   "Beta Codex": {
@@ -586,11 +589,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T19:17:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:59:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical aspects of software development related to migrating and upgrading SharePoint and Team Foundation Server, which are significant software engineering tasks. It details methodologies, installation steps, and best practices relevant to software development processes.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the technical aspects of migrating and consolidating SharePoint environments, which is a specific software development task. It includes detailed steps for installation, configuration, and troubleshooting, aligning well with software development practices. However, while it touches on relevant topics like server setup and PowerShell scripting, it lacks broader discussions on methodologies or frameworks that guide the software development lifecycle, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -868,11 +874,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T18:01:00",
+    "ai_confidence": 45.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the process of upgrading and consolidating SharePoint, which relates to working software within the context of software delivery and quality but is more focused on technical procedures rather than overarching themes of working software delivery principles.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating and consolidating SharePoint environments, which is a specific software task. However, it lacks a direct discussion on the broader implications of working software, such as user requirements or iterative development. While it does touch on ensuring functionality through trials and post-migration steps, it does not delve deeply into best practices or customer feedback mechanisms, which are crucial for the 'Working Software' category.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {

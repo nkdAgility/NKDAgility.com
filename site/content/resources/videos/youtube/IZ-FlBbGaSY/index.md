@@ -26,11 +26,11 @@ duration: 451
 isShort: false
 tags:
 - Product Delivery
-- Engineering Practices
 - Technical Excellence
+- Engineering Practices
+- Software Development
 - Continuous Delivery
 - Continuous Integration
-- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

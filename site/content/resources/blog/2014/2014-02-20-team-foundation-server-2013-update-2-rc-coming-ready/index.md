@@ -35,6 +35,8 @@ tags:
 - Practical Techniques and Tooling
 - Software Development
 - Install and Configuration
+- Products and Books
+- Azure DevOps
 categories: []
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 

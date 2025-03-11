@@ -730,11 +730,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T18:01:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:13:29",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses techniques for retrieving user identities from Team Foundation Server, including relevant coding practices and methodologies associated with software development and configuration management.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed discussion on retrieving identities from Team Foundation Server (TFS), which is a specific software development tool. It includes code snippets, explanations of methods, and references to relevant documentation, demonstrating a strong alignment with software development practices. The focus on TFS and its integration into the development process, along with the technical depth of the discussion, supports a high confidence score in the Software Development category.",
     "level": "Secondary"
   },
   "Agile Frameworks": {
@@ -1237,11 +1240,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T18:01:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T18:14:30",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses techniques for retrieving identities from Team Foundation Server, indicating problem-solving and troubleshooting related to accessing user and group information in a technical context.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses a specific technical challenge related to retrieving identities from Team Foundation Server, which aligns with troubleshooting. It provides a detailed explanation of the process, including code snippets and potential pitfalls, indicating a focus on diagnosing and resolving a technical issue. However, while it does mention troubleshooting aspects, it lacks a broader discussion on methodologies or tools typically associated with systematic problem-solving, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Scrum Master": {
@@ -1336,12 +1342,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T18:01:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:03:54",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration of Team Foundation Server (TFS), including setting up group assignments in work items and modifying field definitions. It involves specific technical details about system configuration processes and management of identities within TFS, which are central to the overall topic.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content primarily discusses the configuration of Team Foundation Server (TFS) and the process of retrieving user identities based on display names, which aligns with system configuration practices. It includes specific code examples and methodologies for setting up and modifying work item definitions, which are relevant to system configuration. However, while it touches on configuration aspects, it lacks a broader discussion on best practices or optimisation strategies, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",

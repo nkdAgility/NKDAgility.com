@@ -27,16 +27,16 @@ aliasesArchive:
 - /blog/adventures-in-scrum--lesson-2---for-the-record
 - /resources/blog/adventures-in-scrum-lesson-2-for-the-record
 tags:
+- Agile Project Management
 - People and Process
-- Scrum Product Development
 - Scrum Team
-- Professional Scrum
+- Scrum Product Development
 - Scrum Master
 - Software Developers
 - Software Development
 - Team Collaboration
 - Agile Frameworks
-- Agile Project Management
+- Agile Transformation
 categories:
 - Scrum
 preview: metro-SSWLogo-128-link-1-1.png

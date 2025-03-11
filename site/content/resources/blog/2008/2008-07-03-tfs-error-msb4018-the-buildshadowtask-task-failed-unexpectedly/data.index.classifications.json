@@ -961,12 +961,15 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:05:24",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific issue encountered when running unit tests as part of a Unit Test project in the context of MSBuild, suggesting that automated testing is a secondary theme as it relates to the problem being addressed.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses a specific error related to MSBuild in the context of a Unit Test project, which indicates a focus on automated testing. However, it primarily addresses a technical issue rather than exploring broader principles or methodologies of automated testing. The mention of Unit Tests aligns with the category, but the depth of discussion is limited to troubleshooting rather than best practices or frameworks.",
+    "level": "Quaternary"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -1333,12 +1336,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T15:15:21",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an error related to MSBuild, which is part of the configuration process for building software. However, the primary focus is on a specific error and solution rather than a broad examination of system configuration principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses a specific error related to MSBuild and the configuration of a Unit Test project, which touches on system configuration issues. However, it primarily focuses on a specific error message and troubleshooting steps rather than broader system configuration practices or methodologies. While it does mention the concept of an Accessor and its role in the build process, the overall discussion lacks depth in terms of best practices or strategies for system optimisation and configuration management.",
+    "level": "Quaternary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",

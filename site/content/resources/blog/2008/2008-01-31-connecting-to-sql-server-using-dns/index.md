@@ -24,8 +24,8 @@ aliasesArchive:
 - /resources/blog/connecting-to-sql-server-using-dns
 tags:
 - Install and Configuration
-- System Configuration
 - Troubleshooting
+- System Configuration
 - Windows
 categories: []
 preview: nakedalm-logo-128-link-6-6.png

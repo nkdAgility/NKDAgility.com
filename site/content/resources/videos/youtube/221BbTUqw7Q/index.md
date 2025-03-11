@@ -32,15 +32,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Project Management
 - Software Development
 - People and Process
-- Agile Project Management
+- Scrum Product Development
 - Professional Scrum
 - Agile Frameworks
 - Pragmatic Thinking
 - Empirical Process Control
 - Agile Product Management
-- Scrum Product Development
 - Scrum Team
 resourceTypes:
 - video

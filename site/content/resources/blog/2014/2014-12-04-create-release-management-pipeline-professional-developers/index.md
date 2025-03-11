@@ -27,7 +27,6 @@ aliasesArchive:
 - /blog/create-a-release-management-pipeline-for-professional-developers
 - /resources/blog/create-release-management-pipeline-professional-developers
 tags:
-- Azure DevOps
 - Azure Pipelines
 - Release Management
 - Software Development

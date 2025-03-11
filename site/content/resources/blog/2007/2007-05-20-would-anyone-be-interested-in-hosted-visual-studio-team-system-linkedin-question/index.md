@@ -34,9 +34,9 @@ tags:
 - News and Reviews
 - Practical Techniques and Tooling
 - Software Development
-- System Configuration
 - Application Lifecycle Management
 - Collaboration Tools
+- Internal Developer Platform
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

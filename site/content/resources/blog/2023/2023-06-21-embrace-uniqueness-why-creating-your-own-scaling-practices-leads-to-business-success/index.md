@@ -30,14 +30,14 @@ aliasesArchive:
 tags:
 - Organisational Agility
 - Agile Strategy
-- Organisational Culture
 - Business Agility
 - Pragmatic Thinking
-- Strategy
-- Enterprise Agility
 - People and Process
-- Discovery and Learning
+- Enterprise Agility
+- Organisational Culture
 - Market Adaptability
+- Discovery and Learning
+- Resilience and Change
 categories:
 - Leadership
 preview: naked-agility-technically-agile-Blog-EmbraceUniqueness-1-1-1.jpg

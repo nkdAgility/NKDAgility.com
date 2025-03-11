@@ -25,6 +25,9 @@ preview: https://i.ytimg.com/vi/WpsGLkTXalE/maxresdefault.jpg
 duration: 50
 isShort: true
 tags:
+- Agile Leadership
+- Accountability
+- Agile Product Management
 - People and Process
 - Psychological Safety
 - Transparency and Accountability

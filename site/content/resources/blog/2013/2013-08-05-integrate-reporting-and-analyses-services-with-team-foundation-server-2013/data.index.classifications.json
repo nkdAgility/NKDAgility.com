@@ -793,12 +793,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:59:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the practical steps involved in integrating reporting and analysis services into Team Foundation Server 2013, which relates to real-world applications of DevOps principles. However, it lacks a strong focus on broader pragmatic thinking strategies within Agile or Scrum contexts.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content provides practical steps for integrating reporting and analysis services with Team Foundation Server 2013, which aligns with pragmatic problem-solving in a technical context. However, it lacks a broader discussion on Agile, Scrum, or DevOps principles, and does not delve deeply into the complexities or adaptability required in project management. The focus is primarily on installation and configuration procedures rather than on strategic decision-making or real-world applications of Agile methodologies.",
+    "level": "Quaternary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -874,12 +877,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:48:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of reporting services with Team Foundation Server, which relates to the implementation and functioning of software. However, the focus is primarily on installation and configuration rather than on delivering functional software or best practices related to working software.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical steps for integrating reporting and analysis services with Team Foundation Server 2013. While it discusses operational aspects of software installation and configuration, it lacks a direct emphasis on the characteristics of working software, customer value delivery, or best practices for ensuring software quality. The discussion is more about implementation details rather than the broader implications of working software in an Agile context.",
+    "level": "Quaternary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1174,11 +1180,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T19:33:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:58:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content focuses primarily on integrating reporting services with Team Foundation Server and includes steps to resolve potential issues that may arise during the installation and configuration process. It provides practical methodologies for diagnosing and fixing issues related to SQL Server and TFS, which aligns well with the troubleshooting category.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the integration of reporting and analysis services with Team Foundation Server 2013, detailing installation and configuration steps. While it does touch on potential issues (e.g., not being able to select certain options during installation), the main emphasis is on procedural guidance rather than diagnosing and resolving technical problems. The troubleshooting aspect is present but not the primary focus, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Experimentation": {

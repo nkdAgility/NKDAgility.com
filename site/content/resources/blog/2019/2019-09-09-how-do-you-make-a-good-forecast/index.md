@@ -29,14 +29,14 @@ aliasesArchive:
 tags:
 - Events and Presentations
 - People and Process
+- Metrics and Learning
 - Throughput
 - Agile Product Operating Model
 - Agile Project Management
-- Metrics and Learning
-- Product Delivery
 - Professional Scrum
 - Scrum Product Development
 - Agile Frameworks
+- Agile Planning
 categories:
 - Scrum
 - Social Technologies

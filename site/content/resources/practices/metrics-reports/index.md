@@ -33,12 +33,12 @@ tags:
 - Transparency
 - Flow Efficiency
 - Product Delivery
-- Throughput
 - Value Delivery
+- Team Performance
 - Evidence Based Leadership
+- Throughput
 - Agile Product Operating Model
 - Cycle Time
-- Operational Practices
 
 ---
 In order to understand how your team is doing we need to have metrics that we can monitor across all of [Company]. There are two focuses of this work, first is the Product/Project/Organisation focus and second is the Team focus.

@@ -448,11 +448,14 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-13T15:50:13",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:19:48",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses principles, values, and practices related to Agile development, including user interaction, feedback mechanisms, and iterative processes, which are central to Agile Planning.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses Agile principles and values, highlighting the importance of user interaction, continuous feedback, and iterative development, which are core to Agile Planning. It also critiques non-agile practices and provides questions for assessing Agile implementation, indicating a focus on planning and execution within Agile frameworks. However, the primary emphasis is on identifying Agile practices rather than detailing planning methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Product Management": {
@@ -469,11 +472,14 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-13T15:50:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:08:51",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the principles and values of Agile development, including the Agile values and how they relate to effective software development practices. It addresses the importance of customer collaboration, continuous feedback, and adaptability, which are central to Agile philosophy.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses Agile values and principles in detail, aligning well with the Agile Philosophy category. It explicitly mentions key Agile values and contrasts them with common pitfalls in Agile adoption, demonstrating a clear understanding of the philosophy. However, it also includes technical discussions about tools and practices, which slightly detracts from its focus on the broader Agile mindset.",
     "level": "Secondary"
   },
   "Forecasting": {
@@ -712,11 +718,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-13T15:51:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:22:00",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Agile principles, values, and tools relevant to software development, focusing on how to identify genuine Agile practices and the role of developers in implementing these methodologies.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses Agile principles, values, and tools relevant to software development, focusing on how to identify genuine Agile practices versus superficial implementations. It provides detailed insights into the role of developers in Agile environments, including the importance of user feedback, collaboration, and the use of specific tools like Git and CI/CD services. The depth of discussion on Agile methodologies and their impact on software delivery aligns closely with the category's focus, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Azure Boards": {

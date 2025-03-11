@@ -961,11 +961,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T08:19:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:09:48",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical implementation details regarding WCF service host creation, including service behaviors, endpoint configuration, and security settings, which align closely with best practices in software craftsmanship and engineering.",
+    "final_score": 74.0,
+    "reasoning": "The content provides a detailed technical guide on creating a WCF Service Host programmatically, which aligns with the principles of software craftsmanship and engineering practices. It discusses specific coding techniques, best practices for service configuration, and security considerations, which are relevant to the category. However, while it touches on important technical aspects, it lacks broader discussions on methodologies or principles that would enhance its alignment with the category of Technical Mastery.",
     "level": "Secondary"
   },
   "Remote Working": {
@@ -1096,12 +1099,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T08:19:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T15:20:22",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content discusses creating a WCF service host, specifically mentioning Windows platform issues such as DNS host entries and security configurations related to Windows authentication, making it a primary focus alongside the technical implementation.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content primarily discusses creating a Windows Communication Foundation (WCF) service, which is directly related to the Windows operating system. It includes specific references to Windows-related issues, such as handling errors when IIS is installed and using Windows authentication. The depth of the discussion is significant, providing detailed code examples and explanations of various components involved in setting up the service. Overall, the content aligns well with the key topics of the Windows category, particularly in terms of configuration and troubleshooting within a Windows environment.",
+    "level": "Primary"
   },
   "Lean Principles": {
     "category": "Lean Principles",

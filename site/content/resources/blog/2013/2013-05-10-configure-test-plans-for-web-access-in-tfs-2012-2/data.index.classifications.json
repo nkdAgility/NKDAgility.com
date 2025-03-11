@@ -592,11 +592,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T19:44:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:50:03",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses configuring Test Plans within TFS (Team Foundation Server), a tool related to software development and project management. It addresses specific practices and technical details in a software engineering context, focusing on test planning methodology and team configurations that are significant in the software development lifecycle.",
+    "final_score": 74.0,
+    "reasoning": "The content provides a detailed discussion on configuring Test Plans in TFS 2012.2, which is directly related to software development practices, particularly in the context of Test-Driven Development (TDD) and Agile methodologies. It discusses specific configurations, workarounds, and implications for team structures, demonstrating a strong alignment with software development processes. The depth of the discussion is significant, covering various aspects of test plan management and configuration intricacies, which are essential for effective software engineering outcomes.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1066,11 +1069,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T19:44:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:59:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses configuring Test Plans in TFS 2012.2, focusing on specific configuration settings and the management of area paths and team fields, which relates directly to system configuration practices.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on configuring Test Plans in TFS 2012.2, which directly relates to system configuration. It discusses specific configuration steps, the importance of matching area paths, and workarounds for configuration issues, demonstrating a clear alignment with the category's core themes. The depth of discussion is substantial, providing detailed insights into configuration management and troubleshooting, which are key aspects of system configuration. However, while the content is rich in practical advice, it occasionally veers into broader discussions about team structures and product hierarchies, which slightly detracts from its primary focus on system configuration.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1174,11 +1180,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T19:44:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T18:01:47",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration of Test Plans in TFS 2012.2, identifying issues related to visibility of Test Plans based on area paths and team fields, and providing workarounds and solutions, which aligns well with troubleshooting methodologies.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on troubleshooting issues related to configuring Test Plans in TFS 2012.2, providing specific workarounds and solutions for common problems encountered. It discusses the need for exact matches in configurations and offers detailed steps to resolve visibility issues of Test Plans, which aligns well with the troubleshooting category. The depth of discussion is substantial, with multiple examples and potential pitfalls highlighted, indicating a strong focus on problem identification and resolution.",
     "level": "Secondary"
   },
   "Experimentation": {

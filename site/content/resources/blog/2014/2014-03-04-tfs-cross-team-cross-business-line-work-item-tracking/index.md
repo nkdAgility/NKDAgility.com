@@ -29,9 +29,9 @@ aliasesArchive:
 tags:
 - Software Development
 categories:
+- Social Technologies
 - DevOps
 - Engineering Excellence
-- Social Technologies
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 
 ---

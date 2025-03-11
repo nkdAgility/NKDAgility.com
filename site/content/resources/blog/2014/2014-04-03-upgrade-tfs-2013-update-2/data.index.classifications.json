@@ -355,20 +355,26 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-15T11:03:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:56:22",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the features and updates of Team Foundation Server 2013 Update 2, providing insights and evaluations that are relevant to practitioners in the Agile and DevOps fields.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on the release and features of Team Foundation Server 2013 Update 2, providing detailed insights into its new functionalities, which aligns well with the category of News and Reviews. It discusses recent developments in the software, evaluates its features, and offers practical implications for users, thus fulfilling the criteria for industry news and reviews. The depth of discussion is substantial, covering various aspects of the update, but it does include some personal opinions, which slightly detracts from its objectivity.",
     "level": "Secondary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T11:03:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:46:16",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the features and improvements of Team Foundation Server 2013 Update 2, which are directly related to application lifecycle management, including backlog management, test management, release management, and version management. It also touches on the upgrade process, which is a critical aspect of managing the application lifecycle.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses various features of Team Foundation Server (TFS) 2013 Update 2, including backlog management, test management, release management, and version management. While it touches on aspects relevant to Application Lifecycle Management, such as release management and the upgrade process, it primarily focuses on specific features and improvements rather than a comprehensive discussion of the application lifecycle stages or best practices. The mention of ALM is limited and not the primary focus, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -799,11 +805,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T11:12:07",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T17:58:10",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content provides practical insights and details about the installation and features of TFS 2013 Update 2, including specific improvements that address real-world problems and customer needs. However, it primarily focuses on the update process rather than broader pragmatic strategies in Agile or Scrum contexts.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses practical aspects of upgrading to TFS 2013 Update 2, including specific features and their real-world applications. It highlights problem-solving strategies related to installation and upgrade processes, which aligns with pragmatic thinking. However, the focus is more on the features and technical details rather than a broader discussion of Agile, Scrum, or DevOps principles, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {

@@ -27,11 +27,11 @@ aliasesArchive:
 - /blog/tfs-event-handler-in--net-3-5-part-1---the-architecture
 - /resources/blog/tfs-event-handler-in-net-3-5-part-1-the-architecture
 tags:
-- System Configuration
 - Software Development
+- System Configuration
 - Technical Mastery
-- Application Lifecycle Management
 - Practical Techniques and Tooling
+- Application Lifecycle Management
 - Technical Excellence
 - Code and Complexity
 preview: nakedalm-logo-128-link-1-1.png

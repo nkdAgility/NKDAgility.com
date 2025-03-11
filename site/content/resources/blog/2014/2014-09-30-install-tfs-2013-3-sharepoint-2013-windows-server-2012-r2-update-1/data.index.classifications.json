@@ -493,12 +493,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T19:08:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T16:45:00",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the installation and configuration process of TFS and SharePoint, providing practical insights and techniques for enhancing operational efficiency in IT environments. It focuses on process optimization related to setup and configuration, which aligns it closely with operational practices.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content provides a detailed walkthrough of the installation and configuration process for TFS 2013.3, which includes practical advice on optimising the setup for operational efficiency. It discusses the importance of having a clean server environment, the implications of using outdated software, and the need for proper configuration of SQL and Reporting Services, all of which align with operational practices. However, while it touches on operational efficiency, the primary focus is on installation steps rather than broader operational strategies or methodologies, which slightly lowers the confidence score.",
+    "level": "Tertiary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -592,11 +595,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T19:08:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:56:49",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 36,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the installation and configuration of Team Foundation Server (TFS) 2013.3, which is relevant to software development practices, especially in the context of project management, version control, and deployment in a software development lifecycle.",
+    "final_score": 74.0,
+    "reasoning": "The content provides a detailed walkthrough of installing and configuring Team Foundation Server (TFS) 2013.3, which is directly related to software development practices. It discusses the installation process, configuration issues, and best practices for setting up a development environment, aligning well with the Software Development category. The author shares insights on the importance of following documentation and the implications of pre-installing software, which reflects an understanding of software engineering methodologies. The depth of discussion is significant, covering various aspects of the installation process, including SQL configuration and reporting services, which are crucial for a successful software development lifecycle.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1066,11 +1072,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T19:08:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T14:55:11",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the installation and configuration processes for TFS and SharePoint, addressing specific tasks, troubleshooting, and optimization strategies related to system configuration.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed walkthrough of the installation and configuration process for TFS 2013.3 and SharePoint 2013 on Windows Server 2012 R2. It discusses best practices for software installation, hardware setup, and configuration management, aligning closely with the core themes of system configuration. The depth of discussion is significant, covering various aspects such as pre-installation considerations, configuration options, and troubleshooting common issues encountered during the setup. The content is primarily focused on system configuration, with minimal deviation into unrelated topics.",
     "level": "Secondary"
   },
   "Product Strategy": {

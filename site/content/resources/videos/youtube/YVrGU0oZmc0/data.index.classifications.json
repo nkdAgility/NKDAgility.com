@@ -469,11 +469,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-12T15:09:55",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses the use of feature flags as a technique to enhance continuous delivery, which aligns closely with operational practices aimed at improving delivery speed and quality within Agile and DevOps frameworks. It provides practical examples and insights into how feature flags can optimise processes and facilitate feedback loops, making it a central theme of the discussion.",
+    "calculated_at": "2025-03-11T14:15:38",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
+    "non_ai_confidence": 0,
+    "final_score": 74.0,
+    "reasoning": "The content discusses the use of feature flags as a technique to enhance continuous delivery, which aligns with operational practices in Agile and DevOps. It provides a detailed example from Azure DevOps, illustrating the practical application of this strategy. However, while it touches on operational efficiency, the focus is more on the concept of feature flags rather than a broader range of operational practices, leading to a high but not perfect confidence score.",
     "level": "Secondary"
   },
   "Decision Making": {
@@ -487,11 +490,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-12T15:09:59",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implementation of feature flags as a practice for continuous delivery, which directly relates to the delivery of functional software that meets user needs. It emphasises the importance of gathering customer feedback and monitoring software performance, aligning well with the principles of working software.",
+    "calculated_at": "2025-03-11T16:04:23",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the concept of continuous delivery and the use of feature flags, which are directly related to the delivery of functional software. It highlights the importance of incremental delivery, user feedback, and real-world examples, particularly with Azure DevOps, demonstrating a strong alignment with the core themes of working software. The depth of discussion is significant, providing detailed insights into the processes and benefits of using feature flags, thus reinforcing the focus on delivering high-quality software that meets user needs.",
     "level": "Secondary"
   },
   "Sprint Review": {
@@ -550,11 +556,14 @@
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-02-12T15:10:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:18:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the use of feature flags as a systematic approach to testing new features in production, which aligns with hypothesis-driven experimentation in Agile workflows. It details how telemetry is used to validate assumptions about feature performance and user feedback, making experimentation a central theme.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the use of feature flags as a method for incremental delivery and gathering user feedback, which aligns with the core themes of experimentation in Agile workflows. It explicitly mentions the importance of feedback and the iterative process of testing features, which are key aspects of hypothesis-driven approaches. However, while it touches on experimentation, it does not delve deeply into specific experimental techniques or methodologies, which slightly limits the depth of discussion.",
     "level": "Secondary"
   },
   "Revenue per Employee": {

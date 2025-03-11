@@ -598,11 +598,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T01:18:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T17:00:28",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical aspects of upgrading Team Foundation Server, which is directly related to software development practices, including version control and project management methodologies.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed guide on upgrading Team Foundation Server (TFS) from 2008 to 2010, which is a specific software development process. It discusses various aspects of the upgrade process, including database backups, restoring databases, and verifying installations, all of which are integral to software development practices. The content aligns well with the Software Development category as it focuses on a specific methodology related to version control and project management within software engineering. The depth of discussion is substantial, covering technical steps and considerations, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -634,11 +637,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-16T01:18:10",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T15:10:03",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server 2008 to 2010, touching on best practices for maintaining version control and database management during the transition. However, it also includes a significant amount of context and discussion regarding server administration and unrelated topics, which detracts from its primary focus on modern source control practices.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on the upgrade process of Team Foundation Server (TFS) from 2008 to 2010, which is a modern source control system. It discusses specific practices related to version control, such as backing up databases, restoring them, and ensuring the integrity of project history during the upgrade. The content also touches on the implications of using different process templates and the challenges of migrating work items, which are relevant to version control practices. However, while it provides substantial detail on the upgrade process, it lacks broader discussions on methodologies or strategies for version control systems, which slightly limits its alignment with the category.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
@@ -1069,11 +1075,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T01:18:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T18:11:28",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 40,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the processes involved in upgrading Team Foundation Server which includes configuration steps, database management, and system setup considerations, all of which align with the System Configuration category.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server (TFS) from 2008 to 2010, which directly relates to system configuration. It discusses best practices for installation, database backup and restoration, and the importance of verifying the installation, all of which are key topics under system configuration. The depth of discussion is substantial, providing detailed steps and considerations for the upgrade process, thus aligning well with the category's core themes.",
     "level": "Secondary"
   },
   "Product Strategy": {

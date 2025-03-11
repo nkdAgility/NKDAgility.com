@@ -31,10 +31,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Flow Efficiency
 - Agile Frameworks
-- Agile Project Management
+- Flow Efficiency
 - Lean Thinking
+- Agile Project Management
 - Operational Practices
 - Software Development
 - Throughput

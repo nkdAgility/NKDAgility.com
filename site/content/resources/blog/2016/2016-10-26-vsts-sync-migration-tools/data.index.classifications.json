@@ -244,12 +244,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T16:42:14",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses tools for migrating work items and data between TFS and VSTS, which relates to the product delivery process, but it primarily focuses on the migration tools rather than the broader methodologies and practices of product delivery.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses tools for migrating data between TFS and VSTS, which relates to the deployment aspect of product delivery. However, it lacks a comprehensive focus on methodologies, practices, or the end-to-end process of delivering software products. While it touches on some relevant topics, such as work item tracking and test plans, it does not delve deeply into the broader themes of product delivery, such as Agile methodologies or CI/CD practices.",
+    "level": "Quaternary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -691,12 +694,15 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T14:52:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the development and release of migration tools for VSTS, indicating a focus on delivering software updates, but it primarily centres on the migration process rather than the principles of frequent releases.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses tools for migrating data between TFS and VSTS, with some mention of automated builds and releases. However, it lacks a primary focus on the principles of frequent releases, continuous delivery, or deployment strategies. The discussion is more about migration tools and processes rather than the broader context of frequent software updates and user feedback integration.",
+    "level": "Quaternary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -967,12 +973,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T17:54:23",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses tools related to migration and release processes, but the primary focus is on the migration of work items and data rather than on broader release management strategies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses tools for migrating data between TFS and VSTS, which relates to release management in terms of managing software releases and data integrity. However, it lacks a direct focus on release management strategies, scheduling, or coordination between teams, which are core themes of the category. The discussion is more about the technical aspects of migration rather than the broader release management practices.",
+    "level": "Quaternary"
   },
   "Product Owner": {
     "category": "Product Owner",
