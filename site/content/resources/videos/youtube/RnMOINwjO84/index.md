@@ -26,6 +26,7 @@ isShort: false
 tags:
 - Business Agility
 - Complexity Thinking
+- Organisational Agility
 - Discovery and Learning
 - Enterprise Agility
 - Market Adaptability
@@ -33,7 +34,6 @@ tags:
 - Resilience and Change
 - Decision Theory
 - People and Process
-- Ability to Innovate
 sitemap:
   filename: sitemap.xml
   priority: 0.6

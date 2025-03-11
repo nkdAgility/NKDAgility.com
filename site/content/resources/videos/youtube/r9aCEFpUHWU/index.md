@@ -26,13 +26,13 @@ isShort: false
 tags:
 - People and Process
 - Software Development
+- Pragmatic Thinking
 - Professional Scrum
 - Scrum Master
 - Scrum Product Development
 - Scrum Team
 - Team Performance
 - Agile Project Management
-- Pragmatic Thinking
 - Technical Leadership
 sitemap:
   filename: sitemap.xml

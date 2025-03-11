@@ -35,10 +35,10 @@ tags:
 - Agile Strategy
 - Agile Transformation
 - Agile Values and Principles
-- Software Developers
 - Pragmatic Thinking
 - Complexity Thinking
 - Sociotechnical Systems
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

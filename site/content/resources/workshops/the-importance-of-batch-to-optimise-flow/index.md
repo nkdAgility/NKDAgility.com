@@ -32,12 +32,12 @@ tags:
 - People and Process
 - Scrum Product Development
 - Team Performance
-- Agile Frameworks
 - Agile Project Management
 - Lean Principles
 - Lean Thinking
 - Operational Practices
 - Pragmatic Thinking
+- Software Development
 
 ---
 ## Duration

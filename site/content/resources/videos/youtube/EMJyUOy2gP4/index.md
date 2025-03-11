@@ -33,12 +33,12 @@ tags:
 - People and Process
 - Evidence Based Leadership
 - Agile Product Management
+- Decision Making
 - Product Delivery
 - Scrum Master
 - Scrum Product Development
 - Scrum Team
 - Value Delivery
-- Ability to Innovate
 resourceTypes:
 - video
 categories:

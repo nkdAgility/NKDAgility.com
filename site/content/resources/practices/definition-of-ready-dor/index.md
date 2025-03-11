@@ -26,6 +26,7 @@ card:
 categories:
 - Scrum
 tags:
+- Agile Project Management
 - Software Development
 - Definition of Ready
 - Agile Product Management
@@ -34,7 +35,6 @@ tags:
 - Scrum Product Development
 - Scrum Team
 - Agile Frameworks
-- Agile Project Management
 - Professional Scrum
 
 ---

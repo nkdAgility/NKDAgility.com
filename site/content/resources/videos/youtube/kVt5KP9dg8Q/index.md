@@ -37,9 +37,9 @@ tags:
 - Software Developers
 - Software Development
 - Pragmatic Thinking
+- Working Software
 - Product Delivery
 - Organisational Agility
-- Business Agility
 resourceTypes:
 - video
 categories:

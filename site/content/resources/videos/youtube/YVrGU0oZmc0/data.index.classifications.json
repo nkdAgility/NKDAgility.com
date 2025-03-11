@@ -268,12 +268,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T15:09:06",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-11T00:15:38",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "The content primarily discusses the use of feature flags as a key practice in Continuous Delivery, detailing how they enable safe and gradual deployment of new features while gathering telemetry and user feedback. It aligns closely with the principles and practices of Continuous Delivery, making it a central topic.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the practice of using feature flags as a key strategy in Continuous Delivery, detailing how they facilitate safe and gradual deployment of new features. It aligns well with the principles of Continuous Delivery by emphasising automation, telemetry, and user feedback, which are crucial for maintaining a production-ready state. The depth of discussion is significant, providing real-world examples and insights into the Azure DevOps team's approach, thus demonstrating a strong understanding of Continuous Delivery methodologies.",
+    "level": "Secondary"
   },
   "Working Agreements": {
     "category": "Working Agreements",

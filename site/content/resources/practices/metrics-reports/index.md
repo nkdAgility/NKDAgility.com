@@ -31,10 +31,10 @@ categories:
 tags:
 - Metrics and Learning
 - Transparency
+- Flow Efficiency
 - Product Delivery
 - Throughput
 - Value Delivery
-- Flow Efficiency
 - Agile Product Operating Model
 - Cycle Time
 - Operational Practices

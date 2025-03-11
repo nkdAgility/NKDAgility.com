@@ -32,9 +32,9 @@ sitemap:
 tags:
 - Software Development
 - Market Adaptability
+- Software Developers
 - Operational Practices
 - People and Process
-- Software Developers
 - Pragmatic Thinking
 - Product Delivery
 - Resilience and Change

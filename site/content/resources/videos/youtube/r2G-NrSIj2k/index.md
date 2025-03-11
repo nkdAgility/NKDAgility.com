@@ -25,9 +25,9 @@ isShort: false
 tags:
 - Software Development
 - Code and Complexity
-- Modern Source Control
 - Practical Techniques and Tooling
 - Engineering Practices
+- Modern Source Control
 - Technical Excellence
 - Technical Mastery
 - Operational Practices

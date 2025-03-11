@@ -27,9 +27,9 @@ isShort: false
 tags:
 - Pragmatic Thinking
 - Technical Excellence
+- Software Development
 - Technical Leadership
 - Engineering Practices
-- Software Development
 - Technical Debt
 - Technical Mastery
 - Operational Practices

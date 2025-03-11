@@ -190,11 +190,14 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-12T08:19:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T00:17:16",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of integrating customer feedback into the product development process, particularly through performance engineering and audience-based feature rollouts. It highlights methods for collecting feedback, such as soliciting user input during private previews and analysing telemetry data, which aligns closely with the key topics of customer feedback loops.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of integrating customer feedback into the product development process, particularly through the use of feature flags and telemetry to gather insights from users. It highlights the iterative nature of development and the need for real user feedback to improve product performance and user experience. While it does not explicitly label these practices as 'customer feedback loops,' the core themes of collecting, analysing, and acting on customer feedback are prevalent throughout the discussion. The depth of the examples provided, particularly the case study of Azure DevOps, further supports the alignment with the category.",
     "level": "Secondary"
   },
   "Azure Repos": {

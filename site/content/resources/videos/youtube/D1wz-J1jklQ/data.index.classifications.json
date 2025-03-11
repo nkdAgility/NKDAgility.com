@@ -1297,12 +1297,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-12T15:22:35",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T00:15:49",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses frequent deployments and their impact on technical debt, which relates to the maintenance and delivery stages of the application lifecycle. However, it primarily focuses on deployment practices rather than a comprehensive view of the entire application lifecycle.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of frequent deployments and how they can reduce technical debt, which aligns with the maintenance and deployment stages of the application lifecycle. However, it lacks explicit mentions of broader ALM practices, governance, or tools, which limits its overall alignment with the category. The depth of discussion on deployment practices is significant, but it does not cover the entire lifecycle or other key topics outlined in the category definition.",
+    "level": "Tertiary"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",

@@ -27,12 +27,12 @@ tags:
 - Customer Retention
 - Customer Satisfaction
 - Discovery and Learning
-- Empirical Process Control
 - Frequent Releases
 - Lean Product Development
 - Lean Startup
 - Market Adaptability
 - Organisational Agility
+- Product Discovery
 
 ---
 Update the work based on user feedback on timelines shorter than one month

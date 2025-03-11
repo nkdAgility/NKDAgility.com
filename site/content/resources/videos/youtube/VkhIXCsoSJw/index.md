@@ -25,9 +25,9 @@ preview: https://i.ytimg.com/vi/VkhIXCsoSJw/maxresdefault.jpg
 duration: 529
 isShort: false
 tags:
+- Practical Techniques and Tooling
 - Technical Excellence
 - Continuous Delivery
-- Practical Techniques and Tooling
 - Azure DevOps
 - Operational Practices
 - Pragmatic Thinking

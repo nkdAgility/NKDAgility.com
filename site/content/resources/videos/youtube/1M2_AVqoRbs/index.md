@@ -26,6 +26,7 @@ isShort: true
 tags:
 - Technical Debt
 - Value Delivery
+- Technical Mastery
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml

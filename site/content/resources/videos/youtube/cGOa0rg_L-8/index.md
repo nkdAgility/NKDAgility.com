@@ -33,6 +33,7 @@ sitemap:
 tags:
 - Value Delivery
 - Organisational Agility
+- People and Process
 - Market Adaptability
 - Agile Philosophy
 - Business Agility
@@ -40,7 +41,6 @@ tags:
 - Operational Practices
 - Pragmatic Thinking
 - Product Delivery
-- Software Development
 resourceTypes:
 - video
 categories:

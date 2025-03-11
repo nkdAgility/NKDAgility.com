@@ -32,9 +32,9 @@ categories:
 tags:
 - Practical Techniques and Tooling
 - One Engineering System (1ES)
+- Operational Practices
 - Strategy
 - Software Development
-- Operational Practices
 - Team Collaboration
 - Azure DevOps
 - Software Developers

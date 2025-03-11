@@ -1063,12 +1063,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T12:03:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T00:17:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses compatibility issues and considerations during the migration from TFS on-prem to Azure DevOps, which relates to installation and configuration aspects. However, the primary focus is on the implications of migration rather than providing clear, actionable installation or configuration instructions.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the migration process from TFS to Azure DevOps, which involves installation and configuration considerations. It addresses compatibility issues, the need for upgrades, and the implications of customisations during the migration. While it does not provide a step-by-step guide, it offers insights into the configuration challenges and considerations that arise during the transition, aligning well with the core themes of the category. However, the depth of actionable instructions is somewhat limited, preventing a higher score.",
+    "level": "Secondary"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",

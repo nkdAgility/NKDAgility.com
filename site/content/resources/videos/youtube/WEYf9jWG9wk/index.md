@@ -30,8 +30,8 @@ tags:
 - Discovery and Learning
 - Hypothesis Driven Development
 - Continuous Learning
-- Experimentation
 - Value Delivery
+- Experimentation
 - Pragmatic Thinking
 - Lean Product Development
 - Product Discovery

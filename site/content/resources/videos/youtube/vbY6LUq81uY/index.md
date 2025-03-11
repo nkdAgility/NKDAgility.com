@@ -25,16 +25,7 @@ preview: https://i9.ytimg.com/vi/vbY6LUq81uY/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 437
 isShort: false
 tags:
-- Entrepreneurship
-- Discovery and Learning
 - MVP
-- Ability to Innovate
-- Lean Product Development
-- Lean Startup
-- Pragmatic Thinking
-- Product Discovery
-- Product Strategy
-- Product Validation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

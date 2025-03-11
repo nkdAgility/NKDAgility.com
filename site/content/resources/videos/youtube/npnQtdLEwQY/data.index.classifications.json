@@ -997,11 +997,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-12T15:40:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T00:16:06",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses technical debt, its implications on software quality, and the importance of continuous refactoring and architectural decisions, which are central to engineering practices in Agile development.",
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses technical debt, its implications on quality, and the importance of maintaining high standards in software development. It aligns well with the principles of clean code and continuous integration, as it highlights the need for refactoring and architectural decisions to manage technical debt effectively. The depth of discussion is significant, providing examples and insights into how technical debt can impact development cycles and product quality, which are core themes of engineering practices. However, while it touches on related concepts, it does not explicitly mention all key topics such as TDD or CI/CD, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Agile Frameworks": {
